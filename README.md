@@ -2,6 +2,8 @@
 
 This project scrapes Regional Transportation District (RTD) board meeting data from their IQM2 portal at https://rtd.iqm2.com/Citizens/Calendar.aspx and organizes it into a structured directory format.
 
+📋 **[View Meeting Index](meetings/index.md)** - Browse all meetings organized by committee and year.
+
 ## Directory Structure
 
 Each meeting is stored in its own directory under `meetings/MEETING_ID/` with the following structure:
