@@ -65,9 +65,10 @@ def group_meetings_by_type_and_year(
         grouped[meeting_type][year].append(meeting)
 
     # Sort each group by date (descending - newest first within each year)
+    # Use meeting ID as tiebreaker for stable sort when dates/times are identical
     for meeting_type in grouped:
         for year in grouped[meeting_type]:
-            grouped[meeting_type][year].sort(key=lambda m: m.date, reverse=True)
+            grouped[meeting_type][year].sort(key=lambda m: (m.date, m.id), reverse=True)
 
     return grouped
 
