@@ -1,0 +1,97 @@
+## I. Executive Committee Agenda
+
+Chair Sisk called the meeting to order at 12:01 p.m.  In attendance were:
+
+Executive Committee members:              Chair Sisk, 1st Vice-Chair Tobiassen (via phone), 2nd Vice-Chair Menten, Secretary Walker and Treasurer Hoy
+
+Other Board members present:                            Director Bagley
+
+Others Present:              General Manager Washington, Paula Perdue
+
+## I. Call to Order
+
+Chair Sisk called the meeting to order at 12:01 p.m.  In attendance were:
+
+Executive Committee members:                            Chair Sisk, 1st Vice-Chair Tobiassen (via                                                                                                   phone), 2nd Vice-Chair Menten, Secretary                                                                                                   Walker and Treasurer Hoy
+
+Other Board members present:                            Director Bagley
+
+Others Present:                                                        General Manager Washington, Paula                                                                                                   Perdue
+
+## II. February Board Meeting Agenda Review
+
+Chair Sisk reviewed the agenda and expressed that all of the items had passed committee.  They were not anticipating many problems at the regular Board meeting:
+
+Motion:              Director Hoy made the motion to approve the February Board meeting agenda.
+
+Director Walker seconded the motion.
+
+Discussion:              Director Bagley provided an update on the General Manager Oversight Committee.  The committee met in an orientation session to bring the four new members of the committee (Directors Hoy, Menten, Francone and Walker) up to speed on the historical background for this committee.  Information was shared including the Board policies and responsibilities of the committee.  The next date for this committee will be following the joint strategic planning advance and after the General Manager has ferreted his tactical goals-targeted early May.  Director Anderson will be the Vice-Chair of this committee.
+
+Chair Sisk indicated the discussion around the 16 St Mall had less to do with the IGA but other concerns expressed on paving improvements and costs. General Manager Washington noted the staff is planning a study session in March to discuss the general history of the 16 St Mall and to help clarify the issues.  Director Folska shared that she is clear on the action item for the IGA but has other concerns to be clarified.  She stated that while the $10M grant is to repave the 2 or 3 street block, her question has to do with the more long term plans and if we should hold off with this $10M investment until we better understood the long term outcome.  General Manager Washington responded the money has to be spent on what the grant was intended for.  He expressed that some of the issues raised in the discussion with Brad Buchanan was premature as Brad’s vision has not yet been sold to the Mayor and the City Council.  It may be awhile before any of this comes to fruition.  Director Folska asked if this will be wasted if we decide to rip out the transit and replace with concrete.  General Manager Washington indicated he did not see the City getting the $67M to do this and at best, there may be some incremental changes.  Director Bagley reminded the committee that this is a collaborative effort between the City, DDP, Historic Preservation and others.  These ideas have been vetted for over the past five years.  No decisions have yet been made.  Director Walker added that Brad would still need to get this past the Landmark committee so this will be money well spent as the pavers will still need to be replaced.
+
+Chair Sisk noted that on the recommended action for the May service change, Director Lubow had expressed some comments.  He added she may be providing more comments at the Board session.  Director Menten added she is also looking at one of the proposed route changes on the express bus at Federal Station but that she is working with staff to get more information.  Director Hoy noted that sometimes we get comments from 1 or 2 people out of a constituency base of 2.8M and we need to look at the greater good.  Director Menten stated she definitely understands this principle as she is all about efficiency and fiscal responsibility but wanted to give the issues raised proper consideration.
+
+Vote on the
+
+Motion:              The motion passed with all the Executive Committee in favor.
+
+Chair Sisk declared the motion PASSED.
+
+#### A. Indemnification, Waiver of Governmental Immunity and Purchase of Insurance for the BNSF Railway Company on the North Metro Rail Line
+
+It is recommended by the FasTracks Monitoring Committee that the Board of Directors pass the attached Resolution agreeing to waive the defense of sovereign immunity to the extent it may under Colorado law and to purchase insurance for the purpose of indemnifying the BNSF Railway company (BNSF) for claims arising out of RTD’s ownership and use of the property to be acquired from BNSF for the NMRL, including but not  limited to environmental liability, claims both regulatory and in tort; claims arising out of the use of automobiles, worker protection claims including those for railroad worker’s arising under the Federal Employee’s Liability Act (FELA); and, the Board intends that the limits shown in the Resolution shall be the limits to which immunity is waived pursuant to C.R.S. 24-10-114.
+
+#### B. Approve Contract Amendment to Supply 64 - 40' Transit Buses
+
+It is recommended by the Operations and Customer Service Committee that the RTD Board of Directors authorize the General Manager, or his designee, to exercise an option and amend contract 13-FH-053 with Gillig LLC. in an amount not to exceed $27,500,000 for the purchase of 64 additional 40’ transit buses and associated spare components.
+
+#### C. Approve Contract Amendment to Supply 18 - 60’ Articulated Buses
+
+It is recommended by the Operations and Customer Service Committee that the RTD Board of Directors authorize the General Manager, or his designee, to exercise an option and amend contract 13-FK-001 in an amount not to exceed $12,300,000 with New Flyer of America Inc. for the purchase of 18 additional 60’ articulated buses and associated spare components.
+
+#### D. 16th Street Mall Intersection Improvements, Funding Intergovernmental Agreement with the City and County of Denver
+
+It is recommended by the Planning and Development Committee that the RTD Board of Directors authorizes the General Manager, or designee, to execute an Intergovernmental Agreement (IGA) between the City and County of Denver (CCD) and the Regional Transportation District. The purpose of the IGA is to set forth the rights, duties and obligations of CCD and RTD to construct intersection improvements within the CCD Right-of-Way in conjunction with the 16th Street Mall Reconstruction Project. The intersection improvements will be funded by CCD, and the construction managed by RTD. CCD will pay any and all invoices submitted to RTD by the contractor directly associated with the intersection improvements on or before the due date of said invoices.
+
+#### E. Board Report May 2015 Service Change
+
+It is recommended by the Operations and Customer Services Committee that the Board of Directors approve the May 2015 Service Change package as revised and summarized in Attachment A and, further, to authorize the General Manager or his designee to execute contract amendments as necessary for private operators whose service is impacted by these changes
+
+##### a. Attach A May 2015 Service Changes
+
+##### b. Attach B May 2015 Public Input
+
+##### c. Attach C Rt 4 Map Rt  and Rt D Equity Analysis_Updated
+
+##### d. Attach D Service Equity Analysis - May 2015 Service Changes (Final version+maps)
+
+## III. Other Matters
+
+- Director Tobiassen inquired about the status of the video.  General Manager Washington responded they are preparing a white paper which he hopes will be available to the Board this afternoon.  Director Bagley indicated this was also one of his questions.  Director Menten inquired if the white paper would include looking at her suggestion to get interns to operate the video as a way to hold down costs.  General Manager Washington indicated he was not sure.
+
+- Director Bagley commented about the upcoming Legislative Conference in Washington, D.C. He expressed concern that the House would not be in session. He expressed interest on five levels:
+
+o        What is the schedule?
+
+o        Who do the Board plan to see?
+
+o        What are the ASKS?
+
+o        If there are visits outside of the Colorado delegation, what would be the purpose and the Board member should only share the approved RTD position and not pull this out of the air.
+
+Director Hoy added this should be a unified effort and this is key.  All of our ASKS should be in concert and coordinated with other entities who may be traveling to Washington.
+
+Director Menten asked for a specific example of problems we may have had in the past.  No one was prepared to give specifics.  Director Hoy did share a positive example where for the past couple of years, we have been unified in our ASK for the full amount from the FFGA.  In 2015, it appears we will get the full ASK including the catchup from earlier.  The ASK is the Message.
+
+Chair Sisk commented that for the last couple of years, we have been unified in our ASK.  Although the House will not be in session, we have met with staffers in the past and this has also been effective.  He cited one staffer who is now running for City Council.  He also stated he thinks it could be beneficial to speak to other groups such as someone from the Means and Ways Committee who are not part of the Colorado delegation.  We need to remember that financing goes before some of these committees.  We may need to be more broad based.  The key is being consistent in what we ask.
+
+Director Folska agreed with Director Bagley’s comments and expressed they were excellent. She indicated that she and Tina Francone as Chair/Vice-Chair of the Government Relations Committee are working with staff to come up with a list of people.  This list will be sent to the Board members for their comments on who they may want to visit.
+
+General Manager Washington commented that we do need to be consistent and unified in our ASKs.  This message is Key.  We have heard that from former Secretary Slater and from current Secretary Foxx.  We also need to remember we will be competing with a lot of other people or delegations when we go to Washington.  We seem to be changing our philosophy and scheduling meetings late in the game.  One year the Chair provided input and now the government relations are providing input and we are talking about a Board member sign up list.  Patton Boggs is struggling right now to meet these changes.  They have anticipated from early fall what are the key projects and where we might want to focus and have tried to schedule accordingly.  We need consistency in our process and message.
+
+- Director Bagley commented he found the PEST (political, economic, Sociocultural, and technological) workshop useful and beneficial.  He thanked Paula and her staff for putting this together.
+
+## IV. Adjourn
+
+The meeting adjourned at 12:50 p.m.

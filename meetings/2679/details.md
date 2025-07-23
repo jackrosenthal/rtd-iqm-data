@@ -1,0 +1,209 @@
+## I. Planning/Capital Programs & FasTracks Committee
+
+Chaired by Judy Lubow
+
+### A. Call to Order
+
+Committee Chair Lubow called the meeting to order at 5:40 p.m.
+
+#### 1. Roll Call
+
+Director Folska and Menten participated via phone. Director Williams arrived late. Directors Anderson, Deadwyler, Francone, and Solano were absent.
+
+Staff Present:         Bruce Abel, Rolf Asphaug, Lacy Bell, Steve Bodie, Nicole Carey, Lou Cripps, Nate Currey, Kevin Diviness, Sherry Ellebracht, David Genova, Bob Grado, Anne Hillyer, Robin McIntosh, John McKay, Heather McKillop, Barbara McManus, Mike Meader, Allen Miller, Ed Neuberg, Tai-Shrae Parish, Scott Reed, Zamy Silva, Bill Sirois, Yong Song, Henry Stopplecamp, Mark Tieman, Jyotsna Vishwakarma, Brian Welch
+
+Others Present:        Jenifer Brandeberry, Mike Dino, Doug Gragg, William Gross, Emily Snyder, Paolo Solorzano, Megan Wagner
+
+#### 1. Approval of 2018 Contract Amendment to Kumar and Associates, Inc. for the Construction Materials Testing and Inspection Services Contract
+
+It is recommended by the Planning/Capital Programs & FasTracks Committee that the RTD Board of Directors authorize the General Manager to approve the 2018 Contract Amendment for Kumar and Associates and increase the contract Not-to-Exceed amount by $1,000,000.  This will result in a new Not-to-Exceed contract amount of $6,000,000 for Construction Materials Testing and Inspection Services.
+
+It is further recommended that the Contract end date be extended from December 31, 2018 until December 31, 2019 to complete work on the North Metro and SERE projects. Funds for the amendment are contained in the 2018 Recommended Budget for the specific projects for which Kumar’s services are utilized.
+
+Motion:               Director Tisdale made the motion to move this item to the full Board at the November 28, 2017 Board Meeting.
+
+Director Archuleta seconded the motion.
+
+Discussion:              Henry Stopplecamp, Assistant General Manager of Capital Programs, introduced Kevin Diviness, Director of Quality Assurance to provide the background on the contract amendment. The Construction Materials Testing and Inspection Services Contract with Kumar and Associates (Kumar) was for an initial term of five years and five months, with five option years, with initial contract not to exceed price of five million dollars. Kumar and Associates is a locally-based Disadvantaged Business Enterprise (DBE) firm that provides specialized testing and inspections for unique applications such as 1) Acceptance Testing of construction materials such as concrete and soils for RTD’s smaller projects, 2) Verification Testing for large projects whereby the contractor has been tasked with Acceptance Testing, and 3) audits of contractor testing procedures, personnel, and equipment. Mr. Diviness explained that the request was for an additional amount of $1 million and for an extension of the final option of the contract for until the FasTracks projects are completed in 2019.
+
+Mr. Stopplecamp added that this was a work order contract and that the additional $1 million was not a lump sum contract which could be used as needed, and any money left over would stay within the FasTracks budget.
+
+Director Mihalik asked whether Kumar was an exclusive provider for these services, or whether it was one of several other agencies.
+
+Mr. Diviness explained that there were several agencies that provided these services, however, Kumar committed to work exclusively for RTD and not to accept work from any of RTD contractors to avoid a conflict of interest.
+
+Director Mihalik asked if Kumar was exclusive to RTD and if RTD was exclusive to Kumar.
+
+Mr. Diviness stated that Kumar does work throughout the state.
+
+Committee Chair Lubow declared the motion PASSED unanimously.
+
+#### 1. Regional Bus Rapid Transit (RTD) Feasibility Study (Verbal/No Backup)
+
+Brian Welch, Senior Manager of Planning Technical Services, stated that next month a recommendation from staff would be presented to award a contract for services to provide the Regional Bus Rapid Transit (BRT) Feasibility Study. He explained that the study was funded primarily by federal Surface Transportation Program (STP) Metro funds and a local match from RTD which would be a comprehensive study included in the 2016 RTD Strategic Budget Plan (SBP) as well as the Denver Regional Council of Governments (DRCOG) 2016-2021 Transportation Improvement Program (TIP), and was intended to complement the FasTracks program to provide mobility benefits at a significantly lower cost.  He added that the study would be without limitation as to where BRT may be developed, except for three routes; Colfax, State Highway (SH) 119, and the 16th Street Mall that are already a part of separate studies. He said that the study had a schedule of 18 months with exhaustive criteria in order to determine the next corridors to have BRT developed.
+
+Committee Chair Lubow asked about the approach in determining how to select the routes.
+
+Mr. Welch explained the scope of work had been developed to look at a comprehensive initial screening using previously acquired data that would provide a windowing process in order to ensure that there was sufficient budget to provide enough analysis to result in tangible prioritized investment decisions that could be made as a result of the study. This would allow for narrowing the selection by using a tiering process of the areas that meet the specific criteria.
+
+Director Sisk asked if the agency had funding available to engage in BRT projects following the feasibility study.
+
+Mr. Welch stated that the criteria for qualifying for a BRT project would be that any corridor would be chosen based on the ability to qualify for New Starts Federal Transportation Administration (FTA) funding, and also have stakeholder match.
+
+Director Broom ask how the project would be financed.
+
+Mr. Welch clarified that these projects would be candidates for matching funds and would not be part of the base FasTracks system.
+
+Chair Hoy asked if a consultant had been determined, and asked about the cost and the length of time for the study.
+
+Mr. Welch explained that the consultant selection process would be completed in November, and that the proposal would include a recommended consultant based on the competitive procurement process used by RTD, as well as the budget amount that had been set at a not to exceed amount of $1.25 million.
+
+Chair Hoy asked if DRCOG, Colorado Department of Transportation (CDOT) and RTD would all share in the cost of the study.
+
+Mr. Welch explained that there was $1 million of federal CMAC/STP Metro funds that represents DRCOG funds, with no direct funding from CDOT, and RTD was providing a match to the federal funding. He stated that the agencies would have an important technical role as well as involvement in the selection process, because an important piece in BRT success was local jurisdiction support.
+
+Director Folska asked why a consultant was needed to perform the work for this study.
+
+Mr. Welch explained that the complexity and scale of the scope required an expertise in BRT with public agencies, and that RTD staff determined that experience was best found in the consultant community.
+
+Director Folska asked for clarification on the budget and the match that RTD was providing.
+
+Mr. Welch clarified that the total budget amount was 1.25 million dollars; that $1 million was provided by federal funds and RTD’s match was 25% for a total of $250, 000.
+
+#### 2. Mobility Choice Blueprint (Verbal/No Backup)
+
+Mr. Welch provided a brief update stating that RTD has selected a consulting team as a result of the rigorous process that followed the CDOT procurement procedures. He said this team would be led by HDR with Rick Pilgrim as the Project Manager. He stated that a notice to proceed would be issued in December with a 12 month schedule due to budget constraints.  Mr. Welch explained that there would be bi-monthly updates to the Board, with the first one in January 2018, and that the project had two phases’. The first to identify a 2030 future for the Denver Metro region, and the second to develop the blueprint for what the major jurisdictions within the Denver region would do to address this envisioned future. He concluded that the project would have an extensive communication and outreach program to provide an open opportunity for involvement.
+
+#### 3. East Colfax Transit Improvements
+
+Lacy Bell, Manager of Corridor Planning, said she was currently the planning project manager for the 15L Route Improvement project as well as the primary liaison for the City and County of Denver’s (CCD) Colfax BRT Project.  Ms. Bell provided the following key points on the 15L Route Improvement project that is one of two separate projects part of the East Colfax Transit Improvements:
+
+o        15L Route Improvements Overview
+
+§         The project is a RTD grant funded project to improve 15L stops and operations
+
+- Total project budget of$11 million
+
+- FTA Ladders of Opportunity Grant of$5 million
+
+§         East Colfax bus routes 15/15L serve as many passengers per day (over 20K) as some rail corridors
+
+§         There have not been improvements to the route in 30 years
+
+§         The project area is from Broadway at Civic Center Station to Potomac at the R Line Stop
+
+§         The stops have as many boardings per day as A line or the Littleton Mineral Station and are without shelters
+
+§         The threshold for providing a shelter is 40 boardings per day and the stops along this route have hundreds of boardings per day
+
+§         The scope includes:
+
+- 37 total stop locations
+
+- 12 bus bulbs / curb extensions
+
+- 8 queue bypass lanes
+
+§         Received environmental clearance from FTA
+
+§         Began implementation of Transit Signal Priority (TSP)
+
+§         Developed enhanced bus shelter design
+
+- Incorporated feedback from an onboard passenger survey
+
+- Each stop will include a shelter with transparent weather protection, security cameras, lighting, and passenger information
+
+- Look for opportunities to add additional benches
+
+- Electronic passenger information will be implemented at a minimum of 6 locations as a pilot project
+
+§         Current Tasks:
+
+- Work through CDOT and Denver/Aurora design review and approval processes
+
+- Stakeholder updates
+
+- Mid 2018: Issue RFP for contractor
+
+- End of 2019: Construction complete
+
+Emily Snyder, Urban Mobility Manager for Denver Public Works Transportation and Mobility, provided an update on the Colfax Corridor Connection project which is a City and County of Denver (CCD) project that dovetails the RTD 15L project. Ms. Snyder stated that CCD shifted their focus to moving more people in the CCD corridors. She explained that Colfax Avenue had the highest ridership of all RTD routes with over 22,000 boardings and about 40,000 vehicles per day. By implementing a center lane BRT, she stated mobility through the corridor could be increased by 20% and change the distribution to more people riding the bus. Ms. Snyder detailed the process of implementing the project, stating the following:
+
+- 2010: Denver completed the Colfax Streetcar Feasibility Study
+
+- 2011: Denver initiated a $3 million Alternatives Analysis (AA) / environmental documentation study
+
+- 2012-2015: Planning, outreach, and initial analysis of side-running BRT
+
+- 2016-2017: Further analysis of public preferred alternative of center-running BRT
+
+o        Center-running public outreach and Task force meeting
+
+- Fall 2017
+
+o        Begin design and environmental work
+
+o        Federal Funding process
+
+o        Possible funding from the $55 million bond
+
+Ms. Snyder presented some technical detail between the side-running BRT or the public preferred alternative of the center-running BRT stating that the center-running BRT option allowed for 24-hour operation, stops spaced at about every 3rd of a mile, excusive travel lanes in the middle, the improvement of crossings, a middle median for pedestrian safety and mobility, open sidewalk space, and lastly reduced conflicts between buses and vehicles. Ms. Snyder concluded that this update was to explain why the CCD was pursuing a center-running BRT because it provides a safe street, reliability for transit operations, and the ability to move more people through a constrained area.
+
+Director Broom asked whether traffic signal preemption technology was the same technology that fire trucks used and how the technology was coordinated.
+
+Ms. Snyder explained the Transit Signal Priority (TSP) was not the same technology as emergency vehicles.  She stated that when a bus approaches a signal, if there was not a higher priority (pedestrian or emergency vehicle) present, the signal could be extended or changed early for the bus.
+
+Director Tisdale stated that real-time display was a tremendous value and would be beneficial to the agencies riders.  He then asked Ms. Snyder to explain parking comparisons between side-running or center-running BRT.
+
+Ms. Bell explained that both would retain parking, as studies showed that parking was more important than an extra lane, and the center-running option does eliminate the right turning parking conflict, which was beneficial.
+
+Ms. Snyder stated that due to the varying widths along the corridor parking would be maintained.
+
+Ms. Bell commented that the shelters along the corridor were all the same design and that, as funding became available, they would be converted to real-time electronic displays.
+
+Director Sisk agreed with Director Tisdale on the benefits of having real-time displays installed along the corridor. He commented that vending machine locations should be considered during installation.
+
+Director Walker stated that the center-running BRT would be beneficial to the corridor and that he appreciated the agencies partnering on a projects like this.
+
+Director Folska stated that real-time information was expected, should be on the front end of the project, funded by advertising, and both audible and visual. She asked for the length of the BRT route.
+
+Ms. Bell explained that the 15L Route improvements total length was about 10 miles and that the CCD BRT would be focused in its jurisdiction and would span about 5 miles.
+
+Director Folska asked what the expected travel time savings would be when the two projects were complete.
+
+Ms. Bell explained that the 2035 model determined that it would result in about a 15-minute travel time saving.
+
+Director Folska asked if this was a comparison from current travel times.
+
+Ms. Bell explained that the 2035 model presented alternatives and showed a 15-minute travel time savings from the current alternative.
+
+Committee Chair Lubow asked how the CCD center-running BRT alternative impacted RTD bus bulbs and the queue jump lanes.
+
+Ms. Bell explained that queue jump lanes would not be a capital investment for restriping, and that the 12 locations for the bus bulbs have been determined by working with CCD, and would remain to become added sidewalk space.
+
+Committee Chair Lubow asked who would be operating the buses.
+
+Ms. Bell stated that the intent was for RTD to perform operations and maintenance on the buses, but a future agreement would have to be completed.
+
+Ms. Snyder explained that the current cost estimates had full funding for design within the 2017-2018 capital improvement budget.  She added that CCD hoped to secure additional bond funding and federal funding for construction, and that cost estimates include fleet buy up to support operation of the corridor, but noted that CCD currently assumed that operation would remain with RTD.
+
+##### a. East Colfax Transit Improvements Board Update Nov 2017 Draft
+
+### D. Other Matters
+
+Mr. Stopplecamp provided an update on the Longmont First and Main Station stating that the City of Longmont has requested to enter into a Memorandum of Understanding and a future Intergovernmental Agreement regarding the station, which was currently a park-n-ride as part of the Eagle Project.
+
+Director Sisk stated that this was positive news.
+
+Chair Hoy asked how the $17 million budget would be used to change the scope of the current project.
+
+Mr. Stopplecamp explained that RTD will provide the amount set aside for the original project, that the new scope must include RTD requirements, and Longmont would need to provide the additional funding to any modifications to the scope.
+
+Chair Hoy stated that it was not unlike what the agency has done in the past with other cities.
+
+Committee Chair Lubow thanked Mr. Stopplecamp for moving forward on this project for the City of Longmont.
+
+### F. Adjourn
+
+Committee Chair Lubow adjourned the meeting at 6:41 p.m.

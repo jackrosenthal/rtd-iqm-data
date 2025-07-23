@@ -1,0 +1,79 @@
+## I. FasTracks Monitoring Committee
+
+Chaired by Larry Hoy
+
+### A. Call to Order
+
+Committee Chair Hoy called the meeting to order at 5:50 p.m.
+
+Directors Bagley, Deadwyler, James and Lasater were absent.
+
+Staff Present:               Bruce Abel, Shirley Bennett, Rick Clarke, Heather Copp, Joey Davidson, Kevin Diviness, John Elias, Terry Emmons, Ken Fleck, David Genova, Doug Gragg, Cory Granrud, Bob Grado, Erin Klaas, Marla Lien, Adrian Mabry, Doug MacLeod, Barbara McManus, Vivian Morales, Elizabeth Noreen, Tom Papadinoff, Paula Perdue, Chris Quinn, Scott Reed, Pranaya Shrestha, Henry Stopplecamp, Greg Straight, Stan Szabelak, John Tarbert, Bill Van Meter, Jyotsna Vishwakarma, Michael Washington,
+
+Others Present:               Jenifer Brandeberry, Marion Combs, Mike Dino, Aaron Epstein, Nadia Garas, Eugene Howard, Roger Sherman, Joe Triplett, Megan Wagner
+
+### B. Recommended Actions
+
+No recommended actions were presented.
+
+#### 1. Northeast Area Transit Evaluation (NATE) II
+
+Chris Quinn, Planning Project Manager, reviewed the Northeast Area Transit Evaluation (NATE) II Update presentation included in the FasTracks Monitoring Committee agenda packet for September 1, 2015.  The presentation included a background on the original NATE study, the purpose of the NATE II, list of participants, study status, modeling results, capital cost estimates, alignments pros and cons, and next steps.
+
+Director Anderson wondered if the projected ridership within the modeling results included existing or just new riders.  Chris Quinn replied that the analysis does not identify new riders versus existing.  There is the expectation that some riders may come from the R rail line; however the expectation is that there will not be many because they serve different markets.
+
+Director Solano said he was glad the study was happening in Commerce City and thanked staff for being involved.
+
+Director Lubow mentioned she was very glad that the study was being done because this area has been underserved.  She asked for clarification as it was her understanding that the NATE was approved for a certain amount of money to evaluate transit options that could be done after FasTracks was completed.  Chris Quinn replied that the original FasTracks allocated $7.5 million for the preservation of Right of Way (ROW) in that area.  He added that the number has been adjusted due to inflation.  Bill Van Meter, Assistant General Manager for Planning, stated that the amount has been adjusted to around $9 million.  He added that no RTD funds have been committed or expended on purchasing any ROW and that the amount has not been budgeted, just as the Central extension and the Southwest extension, finishing North Metro, etc.  Bill Van Meter added that a lot of the impetus of the NATE is to work with the jurisdictions to set aside ROWs for when the opportunity to build arises.  Director Lubow summed up her understanding of the NATE as not placed in the 5 year plan since there is no funding but it is something that could happen and it has been authorized by FasTracks.  Bill Van Meter said that was correct.
+
+Director Francone asked if the original NATE, authorized as part of FasTracks was paid for with FasTracks funding.  Chris Quinn replied that NATE and ROW preservation were authorized under the original FasTracks.
+
+Chair Sisk thanked staff for working on the NATE as he considers it very important.  He wondered how NATE dovetails with the possible Highway 7 Bus Rapid Transit (BRT) study.  Chris Quinn noted that on slide 7 of the presentation the purple line shows Highway 7 BRT to Boulder and 120th Ave intersecting with the trunk line from Brighton to Quebec Street.  He pointed out that his team is working with the Highway 7 BRT group to create a ridership model with those east – west connections.  He added that the intent was to not only connect Brighton to Denver but also to the rest of the FasTracks system.  The Highway 7 BRT group is creating a Request for Proposal (RFP) with the Transportation Improvement Program (TIP) funding received last fall.  RTD will start our own needs analysis for Highway 119 BRT next year.  Beyond Highway 119, which is included in the Denver Regional Council of Governments (DRCOG) Regional Transportation Plan, staff does not have prioritization of other corridors.  Chris Quinn added that all other corridors would need an environmental study before moving forward.
+
+Director Solano wondered what the plan was for Highway 2.  He asked if there are plans to widen the road.  Chris Quinn noted that the trunk line goes through Highway 2 from Sable until it splits at Quebec.  He added that one of the issues staff has been working with Commerce City on is to determine how to integrate the widening of Highway 2 with RTD’s plans.  Chris Quinn pointed out that the road has a limitation due to the railroad tracks.
+
+Director Folska shared that the region has noticed more congestion on the roads as people tend to drive more instead of taking transit when gas prices are low.  She believes in the short term there will be continued congestion; however, in the long term, when the system is fully built, the widening of the road will be seen as a benefit to the region.  She encouraged reaching out to other colleagues throughout the region that would benefit from the congestion mitigation.
+
+##### a. Board Update NATE final
+
+#### 2. Eagle P3 Project Update
+
+Greg Straight, Engineering Project Manager, reviewed the Eagle P3 Project Update as included in the FasTracks Monitoring Committee agenda packet for September 1, 2015.  The presentation covered:
+
+- Design, construction and systems status
+
+- Commuter rail vehicles
+
+- East rail line update
+
+- East rail line open house
+
+- Gold/NW rail lines update
+
+- Westminster Station parking garage
+
+- Safety Outreach programs.
+
+He noted that Tara Bettale replaced Kevin Flynn as the Public Information (PI) Manager for the Eagle P3 Project.  He introduced Nadia Garas as the new PI Manager from Denver Transit Partners (DTP).
+
+Director Anderson said that the project and the update look good.  She shared that construction crews are stringing the wire through the Gold rail line in Arvada and she hopes to see some trains through the area soon.  She thanked staff for fixing the breach in Olde Town Arvada.  She added that she has been in some discussions regarding a possible low level planting between the parking lot and the fence.  Greg Straight noted he does not know what the specific plan but he knows this circumstance triggered another review for hazard analysis on that location.  He added that he is not sure what the final configuration is but can get back to her with the details.
+
+Director Anderson noted that the Arvada Harvest Festival will happen from September 11 to the 13.  She said this would be a great opportunity for education and outreach, though it might be too soon to plan.  Greg Straight said he would look into it.
+
+Director Folska asked staff to explain the grade crossings in detail so the Directors could have an image of what it looks like and how it works.  Greg Straight explained that current crossings have gates in the lane of traffic travel which would not necessary preclude someone from driving around or a pedestrian from walking around the gate.  The new intersections have a quad gate system: all sides will activate in order to deter motorists from driving around gates.  Since the Federal Transit Administration (FTA) allows for municipalities to apply for quiet zones, trains will not be sounding horns unless there is danger.  Sidewalks will also have swing gates that would point pedestrians towards the area of incoming trains in order to create more awareness.  He added that additional signage will be activated if a train, commuter or freight, is coming in from a blind spot.  Director Folska wondered if this conversation was included in the safety trainings.  She also asked if there is video or animation of these intersections as they do not seem to be very familiar practices.  Greg Straight replied that yes, these items are discussed during education and outreach.  He added that there are no videos or animation of these crossings.  He noted that staff is working with Operation Lifesaver to prepare project specific materials as part of the outreach.
+
+Director Folska pointed out the power of peer to peer communication.  She suggested staff reach out to young people’s groups, such as the Boys and Girls Scouts, in order to have youth teach youth about train safety.
+
+Chair Sisk recognized Aaron Epstein, DTP’s CEO and Executive Project Director, as a member of the audience.  He thanked DTP for being great partners in the Eagle P3 Project.  Chair Sisk asked Greg Straight when DTP will provide RTD with the exact opening date for the new lines, which according to the agreement should be a 6 months’ Notice of Operations.  Greg Straight replied that the 6 months’ Notice of Operations is required if operations were not to start on the target dates.  He added that he is very confident with the progress made and echoed Chair Sisk’s comments regarding Aaron Epstein and DTP.  Chair Sisk asked him to remind him of the opening dates.  Greg Straight said that the contract date for the East/A rail line is April 22, 2016, the contract date for the Northwest/B rail line is July 26, 2016, and the contract date for the Gold/G rail line is October 27th.  Chair Sisk reiterated that this public private partnership has been great to work with and that RTD should be pleased with the many people who have worked to make this project happen.
+
+##### a. 2015.09.01.RTD Board UpdateFINAL
+
+### D. Other Matters
+
+Committee Chair Hoy shared that for the past 5 years as a Director, but more specifically, for the past couple of years as the Chair of the FasTracks Monitoring Committee, he has worked closely with Rick Clarke, Assistant General Manager for Capital Programs.  Committee Chair Hoy pointed out that this was Rick Clarke’s last meeting.  He said that it has been his honor and pleasure to work with him as he has learned a lot from him.  Even though he hates to see Rick Clarke go, Committee Chair Hoy wished him the best of luck and success.  He thanked Rick Clarke for all his work.  Rick Clarke appreciated Committee Chair Hoy’s words and said that they meant a lot to him.  He noted that he has enjoyed working with the different Boards over the years.  Rick Clarke added that there have been difficulties and challenges but they have all been worked out.
+
+Director Archuleta shared that he attended the Rail Rodeo at the invitation of Terry Emmons, Assistant General Manager for Rail Operations.  Director Archuleta shared how impressed he was with the event.  He noted that he was able to try out the train simulator, used by the train operators for training purposes, which was really amazing.  He encouraged the Directors to attend next year’s Rail Rodeo.
+
+### F. Adjourn
+
+Committee Chair Hoy adjourned the meeting at 6:32 p.m.

@@ -1,0 +1,1292 @@
+2023-11-06
+Audit Committee Meeting
+BOBBY DISHELL: The Monday, November 6 Audit Committee meeting will now come to order. We are
+convened as of 11:00 AM. I would respectfully ask everyone attending this meeting to mute yourself
+unless you are recognized to speak.
+Thank you all for joining us this morning. Please note that committee meetings of the RD Board of
+Directors will be held remotely via Zoom and will be audio and video recorded. The meeting recordings,
+along with the unofficial minutes of the meeting, will be posted as soon as practicable on the Board's
+website. Visit rtd-denver.com. And a live stream of this meeting is also available via RTD's YouTube
+page.
+Directors and members of staff, for the sake of the record, if you would like to be acknowledged during
+today's proceedings, I would ask you to please raise your virtual hand and wait for me to call you before
+proceeding to speak. Directors and staff participating by phone can also raise their virtual hands to
+indicate that they would like to speak by pressing star 9. To toggle your mute setting on the phone, press
+star 6.
+I would now like to call the roll for committee members. Peggy Catlin.
+PEGGY CATLIN: Here.
+BOBBY DISHELL: Erik Davidson.
+ERIK DAVIDSON: Here.
+BOBBY DISHELL: I am here. Jim Brendel. John Olenberger.
+JOHN OLLENBERGER: Here.
+BOBBY DISHELL: Jim Brendel. For the record, I see that we also have Directors Ruscha, Chair
+Guissinger, Sloan, Guzman. I miss anyone? I don't think so. Great.
+I'd like to open public comment to anyone who would like to address the committee regarding any topic
+listed in the published meeting agenda for the current and immediately preceding month. If you wish to
+speak and have not already done so, please either raise your virtual hand or press star 9 on your phone.
+During this time, the committee will not offer any direct comments or responses. However, if you would
+like to be contacted regarding your public comment, please email the RTD Board Office at
+rtd.boardoffice@rtd-denver.com.
+Jack. Yes, you have your hand raised.
+JACK KROLL: I just would like the record to reflect that Jim Brendel was in attendance. He was just here
+as a member on the other side of the meeting. And so we've since ported him over and he should be
+here. If not, we'll get-- I don't see him here yet. But we'll get him in and squared away as soon as
+possible.
+
+We did not receive any public comment in advance and I do not see any indication that we have anyone
+from the public here to speak at this moment.
+BOBBY DISHELL: Perfect. Thanks, Jack. And yes, let's have the record reflect that he was here, just in
+the other meeting. So with no participants in the queue, we will close public comment at this time.
+There is one recommended action on the agenda this morning. That item is for the 2024 Internal Audit
+Committee Function Charter, for the Board of Directors to approve the 2024 Internal Audit Function
+Charter. Do we have a motion?
+ERIK DAVIDSON: So moved, Davidson.
+BOBBY DISHELL: Director Davidson is the movant. Do we have a second?
+PEGGY CATLIN: Second.
+BOBBY DISHELL: Director Catlin as the second. I'd like to ask Doug MacLeod, Chief Financial Officer, to
+present the item.
+DOUG MACLEOD: Thank you, Mr. Chair. This is Doug MacLeod, Chief Financial Officer. Good morning,
+everybody.
+This item is required by the Audit function charter. This is the internal audit function charter. We just have
+a few small items of correction to make on those. Most of those are grammatical and we do have one
+addition to this.
+I would like to introduce Matt Marino from RubinBrown. He's our Chief Audit Executive here at RTD. And
+Dave Haronik, who's also joined us from RubinBrown, is an Audit Manager. Matt, would you like to
+discuss this item?
+MATT MARINO: Yeah. So thank you, Doug. As Doug previously mentioned, we did have a few edits, and
+then we had one additional edit that we would like to propose. And it would be to add a clarification of
+adding the GM/CEO to the executive leadership paragraph on page 6. It's packet page 10 of the packet
+that was sent out earlier. But other than that, it's really just little grammatical corrections and really nothing
+that came to our attention that needed immediate update, other than these small grammatical corrections
+throughout the document. Any questions?
+BOBBY DISHELL: Great. Thanks, Matt. Any discussion on this item? Seeing none-ERIK DAVIDSON: Chair, Director Ruscha has her hand up.
+BOBBY DISHELL: Ah, Director Ruscha, go ahead.
+JOYANN RUSCHA: Thank you, Mr. Chair. Just briefly, do other transit agencies or similar government
+agencies have-- well, I know that there are-- let me rephrase. In preparing, in drafting our charter
+document and looking at these potential revisions, did we do any kind of comparative analysis to other
+government agencies and what their charters look like?
+BOBBY DISHELL: Matt, go ahead.
+
+MATT MARINO: Yes, I can address that. We looked at other transit agencies and other agencies of
+similar size. And we tried to pull from not only those agencies but also the professional standards to make
+sure that we put together the most comprehensive policy document that we could.
+JOYANN RUSCHA: Mr. Chair, if I may ask?
+BOBBY DISHELL: Please.
+JOYANN RUSCHA: Thank you. So just for my understanding, is there another transit agency that would
+be on that list just for our comparison? I understand it won't look the exact same.
+MATT MARINO: A lot of what was developed came as a result of the APTA peer review. And so we really
+took our cues from the APTA peer review that we, as a district, elected to participate in about, almost two
+years ago, at this point, I believe.
+BOBBY DISHELL: And I can, I mean, I was involved in the process. I know Director Davidson and
+Director Catlin were also involved. Director Davidson, I don't know if you still have that Excel sheet that
+sort of showed the various Board obligations against the internal audit standards somewhere. If not, I can
+look for it. But happy, Director Ruscha, to chat. Or don't know if Director Davidson or Catlin, I'm sure,
+would volunteer as well to talk more about how we came to the charter itself.
+Director Davidson? The initial version that's now being amended.
+ERIK DAVIDSON: Yeah. Thank you, Chair. Certainly happy to answer any questions. I know the work
+product that you're referring to and I'll review whether that's available to share out with other Directors. So
+thank you. I'll look for that after this meeting.
+BOBBY DISHELL: Yeah. Great. Director Ruscha, anything further?
+JOYANN RUSCHA: No. Thank you. That answers my question. And I just think for new Directors this
+year, that might be helpful in advance of the Board meeting.
+BOBBY DISHELL: Yeah, absolutely. Yeah, that would probably be a helpful onboarding item for new
+Directors, Jack. Maybe we can connect on how to make sure that gets programmatically implemented on
+a go forward.
+Are there any other questions on this matter? Are there any no votes on this action? With five ayes and
+zero nos and zero abstentions, the motion passes.
+There is one discussion item on the agenda this morning. That item is for the internal audit update. I'd like
+to ask Doug MacLeod, Chief Financial Officer, to present this item.
+DOUG MACLEOD: Thank you, Mr. Chair. Yes. And I would like to turn the discussion over to Matt
+Marino, Chief Audit Executive. There have been some internal audits that have been completed. We're
+very happy that we're making progress in this realm and we're following the internal audit plan. And Matt
+will have a lot more detail. So Matt, please go ahead.
+MATT MARINO: Is everybody seeing the agenda packet? OK. So I'm starting on page 21 of 84, which will
+be our Internal Audit Update. So the first couple of slides are kind of a high level summary of where we're
+at. And then we're going to walk through the audit results from here on forth.
+
+So as a reminder, we did develop our audit plan comprehensively with reviews of management, as well
+as interviews of Directors. And we put together an audit plan and proposed it to the Audit Committee as
+well as the full Board of Directors, did get that approved. We're well on the process of executing many of
+the audits. So I'm going to walk through some of those results and kind go through this slide a little bit.
+So current accomplishments. We have completed three audits and there are two more that are completed
+but that have not been yet issued. We'll issue those here shortly and talk about those in our next meeting.
+If you go to the right there, you kind of see the overall results and whether we were on track, a little bit
+behind, and so on.
+So the ITGC, internal controls over IT, general controls over IT, was a little delayed. It was our first audit
+out of the gate. Some just learning curve on organizationally on how we want to work through that. But we
+did get it issued.
+The procurement audit had some slight delays. And then the employee training we really hit our stride
+and are pretty much on time. And then the remaining district fleet revenue vehicles review and district
+non-revenue vehicles review are also on track. And then safety review is on track for starting in early '24.
+Already kind of talked about the challenges a little bit.
+We do issue this weekly to make sure we keep management up-to-date on where we're at in the process,
+to make sure that everybody has adequate lead time as far as when audits might be kicking off, where we
+might be in the process and so that everybody can provide their feedback. One thing that we did work
+through throughout the process is as recommendations were made with regard to different audits, there
+was a special emphasis from management to make sure that we not only provided corrective action plans
+but those plans had achievable targets so that it's highly likely that those corrective action plans would be
+implemented and achieved by the target dates that were communicated in the document.
+So that was something that took a little bit more time to work through, to make sure that we could hit
+those targets, but I think it was a good process to make sure that we say where we're going-- we do what
+we say we're going to do with regard to those corrective action plans. Any questions on the update there?
+I'm going to jump into a little more detail, but I wanted to talk about the process at a 10,000-foot level and
+we'll jump down a little bit each time. Not seeing any hands up.
+BOBBY DISHELL: I have one thought.
+MATT MARINO: Go ahead, Director Dishell.
+BOBBY DISHELL: Yeah. You noted the corrective action plans being there and making sure they're
+implemented. What is the plan to make sure that the corrective action plan taken actually addressed the
+underlying issue that it was intended to?
+MATT MARINO: Yes. So included in our audit plan was some unallocated time to follow up on any
+recommendations that were issued as part of prior audits. So we will follow up on different
+recommendations after the target date has elapsed to make sure that those have, number one, been
+implemented, number two, that it did alleviate the matter that was highlighted as the observation. So the
+internal audit function will follow up on those.
+BOBBY DISHELL: Great. So if an action is intended to be completed by March 31, 2024, when can the
+Board or this committee expect an update to see if that was successful?
+
+MATT MARINO: We'll work with management to schedule as soon as we can. But we would like to close
+them out so that we can report back as soon as possible. They'll also be a focus, which I'll get to in a little
+bit later, there's different severities or magnitudes of the recommendations. So obviously, items that have
+higher magnitude or higher severity will need to be followed up on more rapidly. And the items that are
+what I would say best practice, we will follow up on those but they would not be with the same urgency.
+BOBBY DISHELL: So just to avoid that sort of squishier language, because I think audit is pretty critical in
+that audit doesn't report to management, it reports to this committee. And of course, we and management
+step hand in hand. So from a management standpoint, is it reasonable to assume that three months,
+generally speaking, three months after is an appropriate time by which we would get an update, this
+committee would get an update on whether a corrective action plan was successfully implemented?
+DEBRA A. JOHNSON: Mr. Chair, if I may?
+BOBBY DISHELL: Yeah.
+DEBRA A. JOHNSON: So what you were hearing from the CAE, it's been intentional that we have been
+working in lockstep. Hence, we were adhering to the internal chartered audit-- sorry, internal audit charter,
+recognizing that there's a myriad of things that we have to do. And so as we focus collectively as a
+management team, considering that we're getting back to basics, all of these things are critically
+important to us. Hence, we had a briefing last week in which the CAE was available and we went through
+that. Hence, we signed off on that prior to coming here. So we are prepared to ensure that we adhere to
+the timelines as outlined in the documents of which you are viewing today.
+BOBBY DISHELL: Yeah. That's-- sorry, I'll be more specific, right. I'm not questioning, right, hey, March
+31, the date, March 31 is the date it's delivered. I want to know-- we said the corrective action plan to
+address this issue was going to be completed by March 31. Did that corrective action plan actually
+address the issue? Did the plan that we implemented to correct the deficiency, was that successful?
+And I sort of heard from the Chief Audit Executive, it's a little bit of a softer timeline on when we're going
+to get that report back. But that seems to be a pretty critical function is that if we're implementing a
+corrective action plan that it gets implemented but that it actually worked.
+DEBRA A. JOHNSON: Right. So if I may, really quickly, Mr. Marino. So when we're talking about, as we
+go forward looking at our laser-like focus on learning and development, there's a myriad of different things
+that have to take place. When I came into this organization, there was a decision made to do away with
+learning and training. We're rebuilding that team. So contingent upon a lot of different external factors
+right now, we have a stellar leader in Charlene Polege and Melissa, our manager, who was moving this
+forward. But there's a lot of different elements.
+So in turn, what I was trying to communicate to all of you is that, yes, we have a laser-like focus on this.
+We're going to do whatever we can in our power to ensure this comes to fruition. But hence, we will
+ensure that we're working with the CAE to deliver back, if, in fact, there are some issues that are beyond
+our control, i.e., we can't get a consultant that can provide us with the subject matter expertise and
+leveraging trainings. Those things basically are geared toward the readiness and availability of those
+SMEs in that arena.
+So that's what I mean. And that's why the answer may appear to be squishy. But we're committed. But
+there's external, there's interdependencies upon which we have to depend.
+
+BOBBY DISHELL: Yeah.
+MATT MARINO: And may I ask a clarifying question?
+BOBBY DISHELL: Yeah.
+MATT MARINO: Would it be an expectation-- I'm just asking a theoretical-- if there is a critical or a high
+level observation, do you have an expectation that we would at least report back to you within the threemonth period, even if it's not done, just if it's scheduled to be audited, when it will be audited, or if we've
+audited it, is that kind of what you're asking us to commit to? Just to clarify.
+BOBBY DISHELL: Yeah. That would be great. Just to say, hey, yeah, we saw it, they did it. It's in
+progress. We've communicated with management. Management said if we started a new training
+program on day one, it might not be appropriate to know whether-- we need a year to know whether or
+not this new program we put in place worked.
+MATT MARINO: I think we could at least commit to at least giving you a status update within three
+months after the planned completion date for the corrective action plan, if that's what you're asking. That
+is well within reasonable expectations.
+BOBBY DISHELL: That'd be great. Yes, Mr. Olenberger. I think you're on mute. No. We can't hear-- or at
+least I can't hear you.
+JOHN OLENBERGER: Sorry about that. The old mute key. Question for internal audit regarding
+management responses. When it comes to-- do you guys review those management responses to make
+sure that they have at least addressed the recommended action? I understand once the action has been
+completed, you do the follow up audit and say, did it achieve what we were hoping to achieve? But do
+you guys review it in the first place, so if you recommend A, B, and C, and the management response
+only addresses A but doesn't say anything about B and C, do you guys review for that and work with
+management to develop something that at least addresses the recommendation, whether or not
+management agrees with the recommendation?
+And Matt, I think, are you on mute?
+DAVE HARONIK: I was going to jump in. I can address that one we do work with management.
+Sometimes we even offer advice as to what maybe a good plan of action could be. There are times where
+management can just accept the risk and say, we don't want to do anything about it, which is
+management's right to do. We would just report out on those facts. But we do try to work with them and
+make sure that everything is in the best light possible going forward and the achievable plan and timeline
+from there.
+JOHN OLENBERGER: OK. And if management does disagree with a recommendation for internal audit,
+will that be explicit in your report, basically saying, management disagrees with this portion of the
+recommendation?
+DAVE HARONIK: Yes. Luckily we haven't had to come upon that as of yet, but that is definitely
+management's right and we would call that out. Sometimes you'll see in some reports that there'll be an
+audit team response to a management action plan. But we try not to do that. We will work with that team
+prior to that report being issued.
+
+JOHN OLENBERGER: Great. Thank you.
+MATT MARINO: Sorry about that. I'm unmuted now. So sorry about that.
+BOBBY DISHELL: No worries. Any further discussion on the 10,000-foot? Great. Please proceed.
+MATT MARINO: I think I saw a hand just go up, Director Dishell.
+BOBBY DISHELL: It sure did. Director Ruscha.
+JOYANN RUSCHA: Thank you, Mr. Chair. And again, I am not on this committee and I'm a new Board
+member. So I apologize if this has been addressed previously.
+There was a mention of measuring our success and our progress. And this might-- well, I'll just ask, in
+these audit recommendations, do we have a function by which we are measuring that success? So it's
+one thing to say that we will perform a corrective action. But in just looking at, again, the very high level
+report given to us, that's still very high level, how does the committee, the Board, or management know
+that the implementation is meeting a certain standard, I guess you could say, depending on the subject?
+BOBBY DISHELL: Mr. Marino.
+MATT MARINO: Yes. I just want to ask one clarifying question. Are you asking with regard to best
+practices, strategic plans, all of the above? I just want to clarify. Because there's many ways to look at
+optimal operation of the entity.
+JOYANN RUSCHA: I guess I can just-- I'll just withdraw my question. And I'll be forthright. I was
+surprised-- and again, I'm new. I'm surprised that we get a summary sheet of an audit report without much
+additional information provided. So without knowing details of an audit, I think it would be difficult for the
+Committee or the Board to understand if any corrective action plan is sufficient or, once completed, if-- I'll
+just leave it at that.
+MATT MARINO: Oh, I understand what you're saying now. I apologize. So the entire reports are attached
+to the agenda packet at the back. We just had the summaries up front here in the slide deck. So the three
+reports in their entirety are in the back of the packet.
+BOBBY DISHELL: And the other thing I'll just note, Director Ruscha, is that earlier when we were going
+back and forth on that follow-on audit, I think is aligned with what you were asking, which is making sure
+that the corrective action plan is implemented and that it's addressing what it was intended to address
+was sort of that language we were using. But happy to engage further.
+Are there any other questions or discussion matters?
+JOYANN RUSCHA: But I'm sorry. I just want to clarify. I did read the entire agenda packet. I mistakenly
+thought there was additional information. And it sounds like there was not. This is the full report. So I
+apologize. I thought there was additional information that we just didn't have.
+BOBBY DISHELL: Mr. Marino, please proceed.
+MATT MARINO: Yes, thank you. And I do want to clarify that it's been of utmost importance to not only us
+as the audit team, the Audit Committee, as well as management, that we are fully transparent and
+
+providing all of the documentation to not only the Audit Committee but the Board of Directors, because we
+understand that that was the expectation from the Board of Directors when we went through this process
+last year. So I want to clarify that as well.
+BOBBY DISHELL: Director Catlin.
+PEGGY CATLIN: Thank you, Mr. Chair. I wanted to say that in the five years I've been on the Board, I
+was very, very pleased with those the three audits and the progress that has been made compared to
+what we had experienced in previous years. So I was very impressed with the professionalism and the
+organization of the audits themselves and look forward to seeing more audits, and actually look forward to
+seeing, as you suggested, Director Dishell, some of the follow-up.
+So I wanted to say thank you. This is such huge progress from where the agency was before. And I just
+wanted to make sure, for the record, that I stated that.
+BOBBY DISHELL: Thank you, Director Catlin, and absolutely agree. Mr. Marino, please proceed.
+MATT MARINO: Thank you. So just to review the Audit Plan at a high level, here's the remaining Audit
+Plan. So if you can see, we do have follow-up on corrective action plans due built in quarterly. So we will
+do that quarterly, to the extent that any corrective action plans need to have been implemented. So we'll
+build that in on a quarterly basis going forward, now that we have reports issued.
+And then the green ones are the done ones. The blue ones are done but not issued. And the yellow ones
+are in planning. And then the various blue or the reddish/pink are the future planned audits. So we'll
+continue with the Audit Plan, unless for some reason something needs to be moved either from a
+management availability or we have a change in risk. But at this time, this is the Audit Plan that was
+approved several months back.
+So I'm going to talk through the Oracle IT General Controls Executive Summary. I'm going to talk about
+the Procurement Report Executive Summary, as well as the Employee Training Executive Summary. I'll
+talk a little bit about the report rating definitions and the internal observation priority, just because it's
+important to understand that.
+So I'm to jump ahead on the slides a little bit and go first on the three rating definitions that we have
+issued. We have satisfactory, needs improvement, and unsatisfactory. So I'll walk through each one of
+those. Satisfactory, just like it sounds. It's things in scope were generally in compliance and applicable
+policies and procedures were followed. Needs improvement. The areas in scope were generally in
+compliance but there are certain deficiencies that were noted throughout the process. And then
+unsatisfactory. The in-scope areas of the project had substantial noncompliance in the areas. So that is
+important to understand before we go through the results of the Audit.
+And then when we make report observations, we have different priorities that we assign to those
+observations. So we have High Priority, meaning it needs to be done, basically, if you look there at the
+last line of that box, urgency of action, corrective action plan is required within three months or other time
+period deemed reasonable by both management and internal audit. So it's something that requires more
+immediate attention.
+Moderate Priority, or just like it sounds, it's less in severity than High. And then Low Priority, or process
+improvement, are your best practice sort of recommendation, things that we would like to see improved
+
+but it's not absolutely critical, but it's still observations that we made. So I just wanted to frame that before
+I go through the audit results at a high level.
+So if we go to the first audit, the Oracle IT General Controls Audit. So just like it sounds, you're looking at
+the IT General Controls that are applied to Oracle. So that audit did receive an Unsatisfactory rating.
+There were five observations that we've elevated to the High observation rating, and then six at
+Moderate. So when you look at the combination of five High and six Moderate, that's why it was assigned
+the Unsatisfactory rating.
+There are elements that we won't talk in detail, just due to the security nature of some of the IT General
+Controls with regard to Oracle. We will discuss that later in the meeting during Executive Session. But I
+did want to go over that at a high level and make sure that we point out that we've worked with IT
+management, cybersecurity management, and all of management to understand how the different
+elements of the observations will be handled. And we will be following up on those. Any questions with
+regard to that one
+BOBBY DISHELL: Director Davidson.
+ERIK DAVIDSON: Yeah. Thank you, Chair. I just was wondering. If you want us to hold questions about
+specific audits and results and discussions until the end, after we get through all of these, or if we wanted
+to discuss both of these as we [INAUDIBLE] slides.
+BOBBY DISHELL: You're coming in a little under watery, but I believe I heard your question of, do we
+want to hold questions or do it as we go?
+MATT MARINO: With regard to the ITGC, it might make sense to hold the questions with regard to that
+one, just due to the nature of it. But the others, I would entertain questions right after I present it, if you'd
+like to go through details on that.
+BOBBY DISHELL: Director Ruscha.
+DOUG MACLEOD: No more hands.
+BOBBY DISHELL: All right. Mr. Marino, please proceed.
+MATT MARINO: OK. I'll proceed. So the next audit that we did is we did a, it was a scope down review of
+the procurement process of the District. But it was a review of the procurement.
+Oh, yes.
+JOYANN RUSCHA: Yeah.
+MATT MARINO: Sorry about that.
+JOYANN RUSCHA: The request was, would you mind making your presentation fill your screen so that
+we could see it?
+MATT MARINO: I can do that.
+
+JOYANN RUSCHA: Thank you. I also have closed captioning. Well, it's Zoom talk-to-text. So that does
+help a little bit. Yes, that way I don't have to flip screens. Thank you.
+MATT MARINO: Thank you for asking. Sorry about that.
+OK. So the next one is the Contracts and Procurement. So this was the second on the list of the Audit
+Plan. So we were really just looking at the contracting and procurement procedures of the District overall.
+We did have six observations with regard to this audit. And they were all in the Low rating or Process
+Improvement rating. And the overall audit did receive a Satisfactory rating. We did perform the work
+basically July through August. And we were provided with the corrective action plans from management.
+And we have reviewed those and worked together with management to make sure that those were all
+reasonable.
+And then the next one is the Employee Training Program Internal Audit Executive Summary. And we had
+one High risk rating, nine Moderate, and one Low. So this did receive the Needs Improvement rating
+overall.
+I do want to point out that management was very cooperative throughout the process. And as GM Debra
+did point out that this process is a building area for the District and is kind of working on building that. So
+while there was some thought on, would this audit provide any value? We did find it highly collaborative to
+help highlight areas where there could be improvements in the areas and make it to build the training
+program with regard to the District to where it would like to be, even though this is a snapshot in time.
+Went through that. So here's the detailed audit. So the Contracts and Procurement is first. Does anybody
+want to ask any detailed questions on the Contracts and Procurement Audit?
+BOBBY DISHELL: I have one, which is an observation one. Why do we exclude leases, IGAs, and other
+matters, especially recognizing that partnerships is such a core part of our strategic plan? Why are those
+removed from audit?
+MATT MARINO: Some of the leases and some of the other contracts will be audited as part of other
+audits. So one like the Denver Transit Partners contract is slated for an audit, and some of the other
+audits would bleed into other areas. But we did work with management to scope the area that we thought
+was appropriate and achievable within the time period achieved.
+Dave, did you have any other further commentary, other than that?
+DAVE HARONIK: I would just add that we tried to focus on contracts that went through the full
+procurement process to make sure that it was fair and equitable. And those are the ones that ended up
+being sampled. So there could be a lease or something out there that was something more of a repetitive
+nature or there's already a long-term contract that's out of our, I guess, audit period that did not get
+sampled.
+BOBBY DISHELL: Great. And this may just be a language one. But in the target date, it notes that we're
+only going to be populating new contracts for goods and services. Does that mean that new leases and
+other new matters, IGAs, things of that nature will not be included in the repository?
+MATT MARINO: I would need to clarify that before I can give you a full answer on that.
+
+BOBBY DISHELL: Great. If we can get clarity on that, as well as-- I know it says it'll occur in stages-- but
+if we could get clarity on what those stages are and how we plan to make sure that those get
+implemented, just so that from the audit standpoint, and from the Audit Committee standpoint, we can
+continue to track that, that'd be great. Right? Because otherwise we have no way to know when that
+target is going to be hit, other than the repository existing by the end of the year.
+MATT MARINO: Yes. And I believe I see a hand up from Leah Riley.
+BOBBY DISHELL: Yes, Ms. Riley.
+LEAH RILEY: My apologies. I did not mean to raise my hand.
+BOBBY DISHELL: No worries. Now I have two of you with two hands raised. But no, none of them are,
+not there. Mr. Olenberger.
+JOHN OLENBERGER: I'll unmute my microphone this time. Tends to work better that way.
+I was wondering, in addition to reviewing the adequacy of the management actions, do you also review
+the reasonableness of the management action completion dates? And one thing that, just some verbiage
+that caught my mind on the management action was on issue number, observation number two on packet
+page 35. Small issue about saying, we're going to post these things in the newspaper. And that's a little
+dated.
+So management is saying that we're going to take a look at whether or not we can make that change by
+the end of the year, but that making the change of just removing, we're going to post this in newspapers,
+in quotes here, "would take much longer." So I look at stuff like that and I say, why does something like
+that take so long? And I realize the RTD is a complex organization. But I'm learning too. I'm relatively new
+to the committee here.
+And so I just want to make sure that RTD's management is being nimble about some of these responses
+too. And so I don't know if that's a question or comment for Internal Audit or management, or probably
+both.
+DEBRA A. JOHNSON: If I may. Mr. Chair?
+BOBBY DISHELL: Go ahead.
+DEBRA A. JOHNSON: Yes. Thank you very kindly. Debra Johnson, General Manager and CEO.
+So recognizing the question/comment that was received, we are trying to be as flexible and agile as we
+can. As indicated in the comments by Audit Committee Olenberger, recognizing we are a subdivision of
+the state of Colorado, we wanted to ensure, relative to getting this packet done, that we had appropriate
+time to work with General Counsel to assess what might be optional or feasible as we go forward,
+recognizing that we do use an online procurement system of which we have individuals or entities
+registered so it will be fair and open competition.
+We also didn't want to cut off our nose to spite our faces, recognizing that there could be some small
+businesses, disadvantaged business enterprises, women business enterprises, minority-owned
+enterprises, or things of the like, that may need to look at publications in a standard periodical. Hence, we
+
+are going to assess that and be able to double back in the appropriate time frame, as qualified, once we
+can get a legal rendering relative to our status as being a subdivision of the state of Colorado.
+General Counsel, do you have anything further you'd like to add?
+MELANIE SNYDER: No, I don't think so. Thank you, GM and CEO Johnson.
+DEBRA A. JOHNSON: Thank you.
+BOBBY DISHELL: Great. Thank you. And Mr. Marino, this may be in your plan. But just for the sake of
+the record, so other Board members, to the extent they aren't able to attend today, can come back to it,
+would you mind just quickly walking through just the observation and the corrective plan?
+MATT MARINO: Do you want me to do it for each audit?
+BOBBY DISHELL: Yeah, for each audit. That'd be great.
+MATT MARINO: I can do that. Yep. Yep.
+So the first one this, and we're still on the Contracts and Procurement. So the first recommendation is
+consider identifying adding tag key to identify the contract types. So corrective action plan, as we talked
+about, the District is in the process of creating a cloud-based repository for this. And so that is a big
+process. Because as you alluded to, the District does have just a few contracts and agreements that gets
+entered into in any given year. But they are going to work on getting that, make sure that happens. And
+we'll create the proper tags so that we can through the different types of contracts, whether it be an IGA,
+a goods, a service, and so on, so that we can pull the appropriate contracts when follow-up audits or
+other regulators come in to review our contracts.
+BOBBY DISHELL: Thank you. Any questions on observation one? Great.
+MATT MARINO: Number two, we talked about a little bit, but recommendation was to consider removing
+the requirements for newspaper advertisements. As has already been mentioned, we're making sure that
+we cover our bases with regard to Colorado laws, as well as federal procurement law, to make sure that
+we have advertised in all the different areas that we need to. So management is looking at the options
+and is looking to complete that by the end of this calendar year.
+BOBBY DISHELL: Great. Any further questions on observation two? Thank you.
+MATT MARINO: The recommendation with regard to observation three is continue working with
+Information Technology to implement DocuSign or another similar alternative to manual procedures or
+signatures. This has become much more common in the post-pandemic era of the electronic signature.
+And so management is going to work with that. And that will be target date by June 30, 2024, on the
+different options, whether it be DocuSign or some sort of other commercially available solution.
+BOBBY DISHELL: Great. Just for clarification, so by June 30 we should know whether we're going to go
+out to bid or not for that type of solution. And then from there, it would be another however many days
+procurement takes to procure digital signatures, should that research yield that that is the choice. That
+make sense?
+
+MATT MARINO: Yeah. And I'm not, I guess depending on the cost of it, whether it would even require
+procurement too. It may not. And they may be done sooner than that. I guess it would depend on how
+substantial and whether it's folded in with other elements of contract management, if that makes sense.
+BOBBY DISHELL: Perfect. If we could just be apprised of the progress, that'd be great.
+MATT MARINO: Absolutely. So the recommendation with regard to observation four, continuing working
+with Human Resources on establishing a Procurement 101 module for the Workday Learning
+Management System so that our personnel can refer and learn about the procurement process. So that
+is, Contracting and Procurement is working with HR to work on developing this training that will be
+available to RTD staff. And that would be looking to implement that by June 30 of 2024 within the
+Workday Learning Management System.
+BOBBY DISHELL: Great. And this is a request I think probably beneficial for the full Board. But at least for
+me, it would be great if RTD Board members would also be able to enroll in that training. I think my
+experience has been there's a lot of questions on procurement at Board meetings and perhaps could be a
+useful training tool for new and existing Board members as well.
+MATT MARINO: Thank you. Observation five, consider updating the procurement standards manual to be
+simpler and reference other procurement procedures and processes. Contracting procurement will
+undertake the proposed revisions to simplify and streamline the procurement standards manual. This is
+obviously going to take involvement from not only Legal, Finance, and other departments to make sure
+we're covering all of our different compliance and other laws and regulations. But estimated target date of
+May of '25 with regard to that, just due to the substantial nature of it.
+BOBBY DISHELL: All right. Any questions? No.
+MATT MARINO: OK, observation six, consider utilizing OpenGov to create solicitations. OpenGov is one
+of the options out there to do solicitations. So management contracting and procurement is currently
+implementing a solicitation and contract bill solution to replace that current manual process. Launch of the
+build process for templates, whether it be RFP, RFQ, or so on, is slated for December 31, 2023.
+BOBBY DISHELL: Great.
+MATT MARINO: And that is it for this audit.
+BOBBY DISHELL: One quick question is, that's a lot for one person, Ms. Steele, to take on and to also
+have one of the first three audits. Is that department appropriately staffed? Is there a line item in the
+budget in order to make sure that those positions get filled so that these can be implemented
+appropriately?
+DEBRA A. JOHNSON: If I may, Mr. Chair?
+BOBBY DISHELL: Yes, please.
+DEBRA A. JOHNSON: So recognizing we are in the process of budget development for 2024, when
+working with the team, the CFO specifically, when we talked about various elements, we wanted to
+ensure that we categorized them. Was this safety-related? Was there a regulatory compliance issue? Or
+was there an obstacle in which one could perform their regular job? With that as the backdrop, yes, there
+
+are additional positions that are being allocated for this division in the course of the 2024 budget, upon
+which the Finance Committee and subsequently the full Board will consider.
+BOBBY DISHELL: Perfect. Thank you.
+DEBRA A. JOHNSON: You're welcome.
+BOBBY DISHELL: Further questions on Contract and Procurement Audit? All right, seeing none, let's hop
+over to training.
+MATT MARINO: This is the Employee Training Program review. So we'll go through. We already talked
+about the overall results.
+Observation one, recommendations, consider implementing a formal agency-wide training and
+development framework that applies goals, objectives, strategies. Management should also consider
+reviewing agency-wide training and development policy and procedures on an annual basis to ensure that
+the different knowledge and skills are being updated on a regular basis. And then management should
+also consider developing an annual training plan that outlines the training, development, and initiatives
+based on addressing the employees' gaps and performance deficiencies identified to ensure the agency's
+training plan aligns with the strategic goals and objectives for the year.
+So the Corrective Action Plan. The development of the learning division will develop a employee training
+and learning development framework and procedures that govern the agency-wide and make sure that
+we're pushing towards the strategic initiatives for the District. This is a June 30, 2024 target.
+As CEO/GM Johnson alluded to earlier, this is a major initiative for the District and is currently being
+undertaken by-- I see I have a question from Director Davidson, and then I think Director Catlin after that.
+BOBBY DISHELL: Proceed.
+ERIK DAVIDSON: Yeah, thank you, Mr. Chair. First of all, is my audio coming in OK?
+BOBBY DISHELL: Yeah.
+ERIK DAVIDSON: OK, my apologies about before. So I think, I'm mindful of the fact that we conducted
+this audit early in the tenure of our new Chief People Officer, Charlene Polege. I think my question is
+largely for staff but also curious what dialogue occurred between RubinBrown and staff on the Corrective
+Action Plan.
+Several of these observations share a common theme of not having centralized oversight. So it seems to
+me that a holistic approach, there's just probably a lot coming together. And as I understand from prior
+meetings of other committees, as Ms. Johnson has shared with us, we have some new plans coming
+together around our processes and procedures within the Human Resources function.
+So I'm just curious, did we look at how these Corrective Action Plans and focus on observation one here
+fit within any new plans that are being still currently defined by our Chief People Officer, Charlene Polege,
+and Ms. Johnson? So long winded way of saying, I know that we have a lot of moving parts right now.
+This audit was early in the tenure of some changes to Human Resources. I'm curious what dialogues
+occurred and to what extent we have not just had one, two, three, four Corrective Action Plans, but how
+
+those fit into the comprehensive plan that may already be underway for any changes to our Human
+Resources function and processes.
+BOBBY DISHELL: Ms. Johnson, please proceed.
+DEBRA A. JOHNSON: Yes. Thank you. And then I will yield the floor to our CPO Polege.
+So recognizing the comments that you provided, Director Davidson, thank you very kindly for doing so.
+Because you hit the nail right on the head. So this audit was undertaken, but recognizing that we
+collectively as a leadership team already recognized where we had challenges and opportunities. More
+specifically, as we look holistically trying to ensure that we can retain our people power here at this
+organization, it's intentional.
+Several weeks back, Melissa McDowell, Dr. McDowell, who serves as the Learning and Development
+Division Manager, presented to the leadership team a framework relative to centralized functions and
+things of the like. And those were taken under advisement as we prepare going forward into 2024 what
+type of resources do we need. And I'm proud to say, just last week, under the leadership of Dr. McDowell
+and CPO Polege, that we commenced with our supervisor and managerial training last week that will be
+continuing on into this week and several additional weeks.
+So I would like to say that, yes, we have taken this under advisement. There had been dialogue more
+specifically. But I would like to yield the floor to the appropriate SMEs in this arena so they could better
+address their engagement relative to the questions in which you posed.
+So CP Polege, I'll yield the floor to you. Thank you.
+CHARLENE POLEGE: Great. Thank you, GM Johnson.
+So Charlene, Chief People Officer. I concur fully with what GM Johnson has said. And you are correct,
+Director Davidson, many of these recommendations that you see are all-- it's not to say that the training is
+not occurring. What is clear is that it's not centralized. It's very disparate. And we have a definite need for
+improvement.
+A perfect example would be we have 400 safety training courses available, 400. What we need to make
+sure, are they the right courses? Who needs to take them? When do they need to take them? Do they
+need to recertify? And we need to get that all in one location under one umbrella.
+So Melissa McDowell has crafted, so this work in particular here is already underway, as GM Johnson
+indicated. And really putting forward the appropriate resources and you'll see what the timelines that we
+are taking this audit very seriously. We welcomed the audit, frankly, because it helps to structure the
+movement that we need to make forward. So creating that One RTD approach to learning and
+development, that will reach further than just required training but also into ongoing growth and
+development of employees, which will help them have a long, fulfilling career at RTD.
+BOBBY DISHELL: Director Davidson, does that address-- were there follow-on questions?
+ERIK DAVIDSON: Thank you, Chair, and for GM/CEO Johnson and CPO Polege's answers. That does
+answer my question, and very helpful to hear how that was considered. I think just one small follow-up. I
+noticed-- and Chair, you had asked about this in the prior audit-- Dr. McDowell's name appears a number
+
+of times. Sounds like it'll be very busy. And June 30, 2024 is a big date for a lot of deliverables that are in
+here.
+Again, I know I'm skipping a little bit ahead. Apologies. But it does appear here on observation one. Is that
+fair to say that because some of these corrective actions, like the corrective action in observation one, fit
+into a broader, more holistic plan that is coming forward at June 30, is that why that date repeats?
+And I guess I'll ask a second part of that question, which is, are we sufficiently staffed and have the
+resources that we need to accomplish such a plan?
+CHARLENE POLEGE: May I, Chair?
+BOBBY DISHELL: Please.
+CHARLENE POLEGE: So yes, that is why that date comes together is because that is the date that we
+are targeting towards with respect to the overall plan. And of course, we will prioritize the implementation
+of certain areas of that plan sooner than others, so i.e., around safety. I think that goes without saying.
+With respect to resourcing, yes, we have in our 2024 budget there is additional resourcing requested and
+included in that budget for training and development specifically related to the outcome of this audit and
+then the broader plans.
+ERIK DAVIDSON: Thank you, CPO Polege. And thank you, Chair.
+BOBBY DISHELL: Thank you. Director Catlin.
+PEGGY CATLIN: Thank you, Mr. Chair. Director Davidson actually posed the questions that had come to
+my mind. When I read this audit, it seemed rather daunting and really large, the effort. And I, too, was
+concerned about available resources. But it sounds like it's well in hand.
+Ms. Polege, I wanted to thank you for your comment about, we welcome this audit because it helps us
+figure out how to move forward. And you had a vision for this and you wanted to move forward and this
+just kind of supports that vision and gives you some structure. And my mind has always been audit
+should be used as a tool for improving the agency. And the fact that you embraced this audit and
+welcomed the suggestions just is just wonderful to hear. So thank you.
+BOBBY DISHELL: Thank you. Any other questions on training observation one? All right, let's proceed.
+MATT MARINO: Observation two, recommendation, management should consider establishing a more
+central oversight of the agency-wide employee training and development programs to ensure that
+employee training and development plans are aligned with the overall strategic goals and initiatives.
+So this kind of alludes to the somewhat decentralized nature of many of the functions of the District. And
+so the management corrective action plan will review the organizational structure and then create the new
+position of the Development and Training Division. And that division would have oversight responsibilities
+for agency-wide employee training programs. And so target date for that is February 29, 2024.
+BOBBY DISHELL: Thank you. Any questions on observation two? No. Thank you. Please proceed.
+
+MATT MARINO: Recommendation with regard to observation three, management should consider
+implementing a formal review and approval of the learning content in the system for alignment with the
+RTD strategic plans. Management should also consider establishing standards for learning content of the
+agency's employee training program to ensure the training materials are accurate and relevant.
+So obviously, training is not useful if it's not accurate and relevant. And so management's corrective
+action plan is the Development and Learning Division will develop procedures for the Workday Learning
+Management trainings, including security administration, access, standards of learning, content alignment
+with your strategic plan, as well as review and approval process and content revision. So this is just really
+making sure that what's in the system is relevant and the most up-to-date information. Target date for that
+being completed is February 29, 2024 as well.
+BOBBY DISHELL: Great. And was there a risk item? I noted that for 661 courses had contact personnel
+who are no longer RTD employees. Is there financial or legal risk associated with those items, or was that
+not analyzed as a part of this? If you don't have the right contact person, and you engage in a service and
+someone says, hey, you didn't pay, or hey, you didn't engage, or hey, we're auto renewing your contract,
+was that a risk here?
+MATT MARINO: We did not look at that as part of the audit process, this specific audit.
+BOBBY DISHELL: OK. So there is, I guess the note is it would be great to understand what the role of
+those contact personnel are to make sure that there's no issue there with other risks that may exist of
+having a contact person who is no longer with the agency.
+Saw Ms. Polege first. But Ms. Johnson, I'll leave that up to the two of you to-DEBRA A. JOHNSON: Right. I just want to provide some context. Because we do utilize Workday as our
+human resource management system. I don't believe it will come to any surprise to any of RTD Board
+members that are convened on this virtual platform that there are opportunities with Workday holistically.
+And so when we look at data, it's just that somebody has not gone in and shored up that data specifically.
+So there could be individuals that have separated from the organization, recognizing that this was a
+system that was put in prior to me and Ms. Polege, but also in the midst of the height of COVID. And so
+with that as the backdrop, I will yield the floor to Ms. Polege, as I wanted to provide that context because
+that preceded her. Thank you.
+BOBBY DISHELL: Thank you. Ms. Polege.
+CHARLENE POLEGE: Thank you, Chair. Thanks, GM Johnson. I just want to affirm, those 661 courses,
+really what would happen, because it's our internal Workday, I can create a course, load it into Workday,
+and I put myself as the contact. I'm no longer here. What will happen is there will be a bounce back.
+They'll just get a bounce back email which sends them down a path of trying to find out who in Workday
+should they be talking to if they had questions.
+So these are not external regulated courses. They're things that we've created internally. And so that's
+why we want to put the control in at the centralized location, so that these items get updated
+appropriately. And also, to ask the larger picture, is that the right training to even go into Workday in the
+first place? So it's a great question, Chair. But there is, from our perspective, there is no legal risk. It's
+more of a internal customer service risk.
+
+BOBBY DISHELL: Perfect. Thank you. That's very helpful. Any other questions on observation three? All
+right. Observation-- Ms. Polege, I see your hand is still up. No worries.
+Observation four.
+MATT MARINO: Observation four, management should consider establishing a process for analyzing an
+employee's developmental needs in order to design and develop the agency's employee training for jobspecific, general business, and soft skills. Management should also consider implementing a policy
+requiring employees to take refresher courses in areas such as safety, substance abuse, cybersecurity
+awareness, and stay up-to-date with the changes. So this is really getting at tailoring the training, making
+sure skills stay current but also making sure that it also helps improve any individual employee's
+development in order so that they can maintain with the District for many, many years because they're
+furthering their career with the District.
+The Development and Learning Division will develop the training assessment plan and measure
+employee knowledge and competencies, including pre- and post assessments with regard to individual
+trainings. And then they'll also develop and make sure that required refresher courses are outlined,
+whether there's upskilling required and any reskilling. And so target date, this kind of aligns with the
+overall target date of June 30, 2024 as well.
+BOBBY DISHELL: Great. Questions on observation four? Please proceed.
+MATT MARINO: Observation five, recommendation, management should implement the corrective action
+plans to improve supervisory practices with training that includes how to provide effective performance
+feedback, recognize operators' achievements, and communicate in a productive and constructive
+manner. The Development and Learning Division has developed the agency-wide manager and
+supervisory training, which will start, pretty much a couple days ago, at this point, and it will continue
+through June 30, 2024. This training will address that specific area and obviously kind of aligns with that
+June 30, 2024 target date as well.
+And I believe I have a hand up.
+BOBBY DISHELL: Yeah, Director Davidson.
+ERIK DAVIDSON: Yeah. Thank you, Chair. So this one struck me as a borderline High, because it deals
+with our workforce challenges. And given that it was an unremediated prior observed item, albeit by the
+Colorado Office of State Auditor, not internally, but I just was curious how the Corrective Action Plans
+have changed. So it mentioned that we had a Corrective Action Plan. That Corrective Action Plan was
+paused due to the COVID pandemic.
+I'd be willing to bet that these Corrective Action Plans that are now picked back up are new and different,
+based on this plan that starts on October 30. Just curious to hear a few additional comments from
+management, if they're able to comment on what exactly was planned, what was paused, and how things
+have changed with the new Corrective Action Plan.
+BOBBY DISHELL: Ms. Johnson, please proceed.
+DEBRA A. JOHNSON: Yes. Thank you very kindly.
+
+So in reference to the comment about it being paused, due to the fact that when you look at training of
+this magnitude, especially when we're trying to ensure that we are providing necessary, I would say,
+interactive-type engagements, due to the fact that we were in the midst of COVID in 2021, we could not
+have people assembled in the same room for various spacing reasons.
+So this audit, being the Colorado Office of the State Audit, dated December, 2020, basically that was
+provided to us in December of 2020, as you are aware. And we provided responses back in the first
+quarter of 2021. So then there was an additional uptick as related to COVID and so we could not have
+those individuals. And so that's how it was paused.
+Recently, we put out a solicitation some time ago where we did a bench contract relative to having
+subject matter experts relative to professional services and we were able to go through that process and
+reconvene. That's what I will share. And I believe CPO Polege is best to describe the elements as relates
+to where we're going forward and what we're doing. So Ms. Polege, the floor is yours.
+CHARLENE POLEGE: Thank you, GM Johnson. I would say with respect to going forward, I think it's
+important, certainly was important for us and under Dr. McDowell's leadership, working with the external
+third party, we actually went out to the leadership to say, where do we see gaps? What do we want?
+What does that supervisor and manager training need to look like?
+And so we've created a total of 24 hours of core training, 6 different modules. And then we will be adding
+on to it. Previously mentioned procurement and contracting training, that will also be added on. So it was
+really designed in-house. I can't speak to what was paused, as GM Johnson noted. But I can speak to the
+purposeful intent of ensuring that we have modules on growing leadership, getting the most out of your
+team, being an effective RTD supervisor and manager-- there's two separate modules on that-- a module
+on employee ownership, as well as putting it into action and moving forward.
+And I would just say that there has been a real purpose in a pre-assessment in all of these modules and a
+post assessment, after the training, plus also built in time for application of knowledge. So not just, we're
+coming to a training module, we're getting together, isn't that great. It's how did you apply it when you
+returned back into the work environment.
+And then also, supervisors and managers are developing an individual development plan. So based on
+what I've learned through these six modules, what do I need to take away and really focus on? Because
+all of us leaders, we show up differently and we bring our different skill set. And so real purpose. I keep
+using that word purpose, but it was purposeful and thoughtful related not just to the 2020
+recommendations in that audit but what does RTD need today.
+ERIK DAVIDSON: Thank you for the comments. And thank you, Chair.
+BOBBY DISHELL: Great. Director Ruscha.
+JOYANN RUSCHA: Thank you, Mr. Chair. In the top section under Internal Audit Observation, in the
+bullets, bullet number three, it references the CBA. And I just wanted to make sure I understood. I don't
+think this is what the report is trying to say, but I'm reading, I guess, are we suggesting that the CBA is an
+issue identified or are we simply stating that we are following the CBA?
+And if it is the latter, I guess I would just offer we might want to take that bullet and put it elsewhere in the
+report and not list it as an issue.
+
+BOBBY DISHELL: Ms. Johnson.
+DEBRA A. JOHNSON: Yes. Thank you very kindly. So to offer up some context, recognizing as part of
+the state audit that was conducted, I believe, in 2019, that third bullet to which Director Ruscha is
+referencing, it was stating, more or less-- and the audit is readily available as well, so one can interpret
+this for themselves-- but having engaged specifically with the auditors personally, recognizing that there
+was a need to provide supervisory training, because oftentimes people stood behind the collective
+bargaining agreement and rushed to discipline, as opposed to coaching and motivating and providing
+clear cut direction on what somebody could have done, as opposed to issuing a record of contact or more
+or less documenting something that an operator did not do.
+So this is based upon the supervisors. Because what we have seen in this organization is that oftentimes
+people were promoted just because they were in a position for a period of time. Anybody that has been in
+different supervisor or managerial positions can recognize, you can be in the same position for 20 years
+but have one year of experience 20 times over, as opposed to actually having 20 years of progressive
+supervisor or managerial experience.
+So this basically was geared toward, how does a supervisor better engage with a frontline employee?
+And I'll give you an example. Does it make sense prior to somebody going out being the face of our
+organization, engaging with a frontline customer and sharing with them that they were being called up on
+disciplinary charges? And so there's a matter in which one can do that so you're not jeopardizing their
+psychological safety prior to them going out on the road and having a higher level of care as it relates to
+delivering service that requires safety aspects of which can be, I could say, diminished relative to having
+something else top of mind when one is considering their job performance.
+JOYANN RUSCHA: If I may, Mr. Chair?
+BOBBY DISHELL: I see Ms. Polege has her hand up. I just want to make sure, if it's responsive to your
+question, that you get the full download from staff first.
+JOYANN RUSCHA: Sure.
+CHARLENE POLEGE: Thank you, Chair. I just want to add as well, as GM Johnson pointed out, that's
+the actual bullet from the audit. The key point in that bullet-- so hence, why we didn't change it-- but the
+key point is that currently feedback generally is only provided in that process. Like that's the formal
+mechanism that we have for feedback.
+So that is something that is restricted in the collective agreement. Represented staff do not have a annual
+performance assessment process, where one might get a feedback that's not just corrective in nature but
+also. So what we're trying to do is how one gives the feedback but also help supervisors and managers
+learn how to create other opportunities to provide feedback, not just as it's prescribed in the CBA currently
+and in the employee handbook, absent having provisions where we are able to provide annual
+performance assessments.
+So just wanted to say, the wording is exactly as it came from the audit, but it really is just highlighting that
+there's a void of if the only feedback that's being provided is just through that process, let's work on
+creating an alternate environment and certainly enhancing the tone in which it is supportive and corrective
+in nature, as opposed to disciplinary, even though that's what the process is identified in the collective
+agreement.
+
+BOBBY DISHELL: Thank you. Director Ruscha.
+JOYANN RUSCHA: Thank you. So I just want to say, I appreciate GM/CEO Ms. Johnson's context or
+contextualization of that statement. So that exact statement does not appear in the auditor's report,
+although it's reflected. So there is more context there.
+And so I would just offer feedback, for whatever it's worth. We might want to consider how that's worded.
+Because it sounds like the CBA itself is the issue. The CBA itself, from the auditor's report. I didn't
+interpret it to be an issue. I'm don't think RTD is saying it's the issue. And a CBA would not touch on soft
+skill that we're identifying here.
+So that's why I flagged it, because again, the bullets are prefaced by what the issues are. And so that's
+why I just wanted to ask that clarifying question. But I do appreciate, again, the context provided and the
+steps that we're taking to address them.
+BOBBY DISHELL: Thank you. Anything further on observation five? One thing I'll note, and to the extent it
+is allowable under the CBA, a number of the notes were about operator report outs, as opposed to
+manager report outs. And in the corrective action plan we note that we're providing additional manager
+and supervisor training throughout 2024.
+Will we also be surveying or otherwise getting feedback from our represented employees, regardless of
+which union they're in, to make sure that the training is working? Because it's one thing to ask a bunch of
+managers that have been in this position in private practice. The managers all say, training is going great.
+We got new train the trainer training. It is going awesome. And then you ask the frontline employees and
+they say, what are you talking about? No, it's not.
+So if you guys could just speak to how we're managing that side of it, that'd be great.
+DEBRA A. JOHNSON: So if I can start. Specifically, when we do our employee ownership survey, there's
+questions asked of all employees. And we intentionally do it during the service change, so we can have
+operators readily available, since they are bidding on their pieces of work, engage in said survey so we
+can garner their perceptions, attitudes, and opinions relative to their work environment and how they're
+being treated.
+And so more specific to this point, we did drill down into data relative to what it is. We do have employee
+ownership task force, of which there are operators that are participating as well. So this enables us to
+garner a better understanding of how might we go about leveraging supervisorial responsibilities.
+Because considering that we have a plethora of frontline individuals, be they operators, maintenance of
+way, track inspectors-- so I want to be clear that we're not just speaking only to operators-- that we garner
+a better opportunity to understand what it is that they're doing holistically.
+So that's just the baseline that I just wanted to share for context. I do see CPO Polege's hand up and Dr.
+McDowell's hand up as well. So think it'd be advantageous for you all to hear from them, as they are
+really engaging in the evolution of the supervisorial managerial training.
+BOBBY DISHELL: All right. Whoever wants to go first.
+CHARLENE POLEGE: Actually, Chair, if I can defer to Dr. McDowell, she can speak to the evaluation
+process, because it's a key part of the framework that she's bringing forward at RTD so that we really can
+assess the value and return on investment, frankly, of our training. So I defer to you, Melissa.
+
+BOBBY DISHELL: Dr. McDowell.
+MELISSA MCDOWELL: Thank you, Chair. Melissa McDowell, Manager, Development and Training.
+So to the question about will we be assessing operators, the answer is yes. One of the things that myself
+and my team have focused on with this training is ensuring that we're doing pre- and post assessments
+and collecting data. There's no need in us doing the training, especially training that is this extensive, that
+is essentially running for about eight months through June, the end of June next year.
+So what we'll be doing is as we're going through the training, we're doing assessments of the managers
+and supervisors to kind of see where they are before the training, whether or not they are, in fact,
+implementing what they've learned. We've purposely structured the training in a way so that there's about
+a month in between each module so that they do have time to go in and implement that. And so we will
+be sending out also pre- and post assessments for the operators as well so that we can see if we have a
+correlation between the trainer and things improving with providing feedback.
+BOBBY DISHELL: Great. Thank you. Director Ruscha, I see your hand is still up, or newly up. Thank you.
+Anything further on observation five? And thank you, Dr. McDowell and Ms. Polege and Ms. Johnson, for
+the thoroughness of the response. Mr. Marino, observation six.
+MATT MARINO: Yes. Observation six, management should consider implementing procedures for
+internal assessment of safety training programs administered by the different RTD divisions to ensure
+safety trainings are integrated and aligned with the overall safety strategic plans. Development of a
+comprehensive safety training that includes safety measures in safety sensitive areas to ensure
+compliance with federal and state safety regulations, and requiring safety training during the new hire
+orientation process to ensure that new hires are knowledgeable about RTD's safety requirements prior to
+starting their jobs.
+Management corrective action is Development and Learning Division, engaging with the relevant agency
+subject matter experts, will develop a framework whereby the safety and compliance training part of this is
+carried out. Also aligns with the June 30, 2024 timing that we've talked about a few times.
+BOBBY DISHELL: Director Davidson.
+ERIK DAVIDSON: Yeah. Thank you, Chair. Thank you, Mr. Marino.
+This, I know, was noted as a High priority. And it seems to fall in both Urgent and Important. And so I was
+curious as to whether we could get some clarity around, the management corrective action plan states
+that, will develop a learning and development framework that includes a safety and compliance training. I
+recognize that the recommendations include actually creating those training courses.
+It strikes me that there are other things in the entire audit and corrective action plan that may be critical
+path. For example, observation three's corrective plan, which is due in February '24, may be critical path
+here. But given how important, high priority this one was in not enforcing our guidelines in the PTASP, or
+the Public Transportation Agency Safety Plan, I'm wondering if we could just get a little bit more detail
+around the definition of what will be completed on June 30, 2024 with respect to the framework and what
+then might fall out from there.
+
+And I know Ms. Polege highlighted before that there will be prioritization of what gets implemented once
+we have things in place. So just want to hear more about where this is prioritized, what's done by June,
+and what follows thereafter.
+BOBBY DISHELL: Ms. Polege.
+CHARLENE POLEGE: Thank you, Chair. So first off, I want to highlight that, correct, this is High priority
+and it is urgent. In fact, during the audit, when reviewing with the auditor, both myself and Dr. McDowell
+were highly supportive of this being a high priority.
+I want to clarify a couple things. What's key here is it's the training, safety training does occur. It's not
+centralized and it happens very disparate. And from our perspective, if we can't document, if we don't see
+a document that the training occurred, we took the high water mark that then therefore the training isn't
+occurring, even though we know that it is. Because this is so critical. We need to be able to not only say,
+yes, we delivered the training. Who attended the training? What was covered in the training? When do
+they need to recertify or what have you? So we really took a very high water mark here, for obvious
+reasons.
+So that training is occurring. It is disparate. We don't have solid records on that training, meaning in one
+central place. And also, in certain instances it's not required. It's not listed as, Charlene Polege must take.
+And then more importantly, the follow-up. Because if we don't have appropriate documents, it's difficult
+then to follow up and say, has Charlene concluded her required training?
+So the connection, and I'm going to defer here as well to Dr. McDowell, because she is leading this in
+collaboration, as it says here, with Dan McCain. I'll defer to her. But what we really need to create is a
+safety learning plan that by position identifies who needs to participate in what training, by what time, and
+also, cleaning out, as you saw that pre-work, I think was observation three, of all of the courses to make
+sure we're even delivering the right training.
+So I just wanted to give that high level context. Because I appreciate, it is high priority and it's urgent. And
+I would not want the committee to step away with the impression that no training is occurring. Because
+that's not the case. But we need to, as an agency, be able to tell you exactly what occurred, who
+attended, and what was learned. And today, we just can't do that.
+So if I may, Chair, I'd like to ask Dr. McDowell just to step in and just add just a little bit of context there to
+that question.
+BOBBY DISHELL: Dr. McDowell, please proceed.
+MELISSA MCDOWELL: Thank you, Chair. Yeah. So just to follow up on what CPO Polege shared, we
+do, in fact, have safety training. So we have these modules that were already mentioned that the safety
+and environmental team purchased. It's, again, 400 to 500 modules. The problem is is at the time they
+were purchased, they were just kind of loaded into Workday. There was sort of no organization.
+So we have that training. My team has also just collaborated with Safety to create a biohazard training
+that was just launched last week. So we have a lot of trainings in place. And there are some mandatory
+trainings that take place. But again, because we have all of these disparate departments that are
+delivering training. Some of them are recording them. Some of them are not. We really just need that
+general oversight to pull everything together.
+
+And so one of the plans that I have for this is, let's take the training that we do have, for example, those
+modules in Workday. There's something called a campaign, a training campaign in Workday, where we
+will then say, OK, what are the top safety concerns that we need all new hires to own? So we need to sit
+down, go through those trainings, collaborate with our safety and environmental team, and say, OK, these
+are the 5, 10, 15 courses, however many that we think are most important that every new hire needs to
+know.
+So that when they are onboarded, they take our in-person training, and then within a few days they get a
+message in Workday that says, hi, you've been assigned to take these safety trainings. Please complete
+all of these training courses by, within 30 days. All of that still needs to be clarified.
+So this is more about identifying what we have, filling the gaps and developing training for the pieces that
+are missing, and then creating that framework, which is a holistic framework for learning and
+development, that includes a section for safety so that we can make sure that everyone at the agency is
+receiving the appropriate, not only receiving the appropriate safety training but also refresher trainings as
+well.
+BOBBY DISHELL: Thank you. Ms. Johnson.
+DEBRA A. JOHNSON: Yes. Thank you. I just needed to qualify-- and CPO Polege and Dr. McDowell did
+a great job, but as it relates, when we talk about the cause, the Public Transportation Agency Safety Plan,
+I want to be clear that everybody has an understanding that we are adhering to statutory requirements.
+This gets back to the previous observation whereby a question was posed relative to all these different
+modules in Workday. Because what was happening before, be it good, bad, or indifferent, these modules
+were loaded into Workday. But as you heard from members of the team, it's done in a disparate fashion.
+So I just wanted to ensure that everybody has an understanding that our PTASP that we have, we are
+adhering to it, for all intents and purposes. As it relates to the training, we're talking about somebody
+being hired in their first day of training-- or sorry, their first day of employment, not having the training
+outlined. So it's not as if we're putting somebody on a piece of equipment or sending someone out without
+doing that. Because recognizing, when we look at operators and things of the like or rail operators, we're
+talking about 8 or 10 weeks of training they must have before they're actually in revenue service.
+So I wanted to ensure that I did not leave any ambiguity there as it relates to what we're doing and that
+you understood where we are. And moreover, we do have a Joint Labor and Safety Management
+Committee that was a recent adjustment, about two years ago, with the bipartisan infrastructure law that
+came to fruition as well, and that we do have trainings that are taking place during the Joint Labor
+Management Safety Committee as well.
+So thank you very much. That's my responsibility as designated by the FTA as the accountable executive.
+So I wanted to ensure that you understood that.
+BOBBY DISHELL: Thank you. Director Ruscha.
+JOYANN RUSCHA: So I have a question that sort of touches on what GM/CEO Ms. Johnson just said. So
+before this came before the committee, this report, so to what extent was the Joint Labor Management
+Safety Committee apprised of this audit and the recommended CAP? And yeah, I guess I'll just stop
+there.
+
+DEBRA A. JOHNSON: So thank you very kindly for the question. I do not personally sit on the Joint Labor
+Management Safety Committee, but I do meet with our Chief Safety Officer on a recurring basis. I do
+know that there have been discussions relative to this training, quite naturally, and issues that spawned
+relative to the need for comprehensive documentation and consistent documentation has been shared.
+I would say that we could get back to the committee and apprise you accordingly as to what meeting that
+was conveyed. But I do not have that information at the ready to address in this forum.
+JOYANN RUSCHA: If I may, Mr. Chair?
+BOBBY DISHELL: Yeah, please.
+JOYANN RUSCHA: Thank you. Thank you for that. And just for context, and I'm not part of this
+committee, but later if I were to vote on something like this, I would just feel more comfortable if those
+steps were taken. Because I'm not sure, but I would think that it would be part of our PTASP, that that
+would be required because we're talking about developing a framework. And so I don't know if that, in
+terms of stakeholder engagement, if that's something that we also need to do. So that's why I asked the
+question.
+And then I had a second question, if I may. Somewhat related, and if this is not appropriate for this
+committee, that's fine, I'm happy to have it addressed offline. But I was just wondering if this audit or this
+finding was part of our regularly planned audit on training and onboarding or if this was just part of our
+internal safety review that we are required to do?
+BOBBY DISHELL: Yeah. Why don't we have Ms. Johnson take the first question? I'll take a stab at the
+second and then defer to our Chief Audit Executive.
+DEBRA A. JOHNSON: Thank you very kindly. So I do want to qualify, as it relates to the Joint Labor
+Management Safety Committee, that we work in tandem, that committee is advisory in nature,
+recognizing that we do have subject matter experts in the field of safety and environmental compliance.
+So as we talk about what it is, we want to ensure that we're working with our union partners as specified
+in the bipartisan infrastructure law. But this is not something that we have to get their approvals on.
+And I don't say that in the sense that I don't value the partnership, but there's been quite a bit of confusion
+nationally as it relates to the forming of the committee. And there has been some misunderstandings
+relative to what it is. So we do have an established charter as it relates to what we will be doing relative to
+the Joint Labor Management Safety Committee. And as we talk about training and things of the like, of
+course we're working in partnership, because our labor partners are a critical component to this
+organization. And I'd be remiss to state that 2/3 of our workforce are represented employees.
+So I just wanted to qualify that this is not something that is within the purview of that entity but rest with
+the accountable executive and the Chief Safety Officer. Thank you very much.
+BOBBY DISHELL: Thank you. And Mr. Marino, would you mind flipping back up to the slide that showed
+the rest of the internal audit plan?
+MATT MARINO: Yes, I can do that.
+BOBBY DISHELL: --talk through our process. Because for the Internal Audit Committee, this committee in
+its current form, I think probably agreed upon that this is a substantial improvement from the Audit
+
+Committee as it previously existed. And so just, what we did-- and please keep me honest here-- is we
+worked to find a Chief Audit Executive and elected, after discussing with management, to have that be an
+outsourced function.
+After performing sort of a, it wasn't a SWOT analysis, but a risk analysis.
+MATT MARINO: Risk assessment.
+BOBBY DISHELL: Risk assessment. Thank you. We looked and said, OK, these are the high risk items.
+And as a committee and working in tandem with the Chief Audit Executive, these are the items that we
+believe should be done in this first internal audit plan.
+And then you can see somewhere on here was the 2025 internal audit plan. Or maybe it was a different
+one. But basically, Director Ruscha, it's not as though there is a recurring, we audit this every x years. It's
+that we work with-- and Mr. Marino, keep me honest here-- we work with our Chief Audit Executive under
+our charter-- oh, there it is, 2025 Internal Audit Planning-- to decide, hey, here's where the agency is,
+these are the items as a committee and as an audit executive that we believe should be audited as part of
+internal audit over the next year, or over the next two years. And we go through, as designed, that
+iterative process.
+So it may be that Human Resources or something with employees is something that's there every single
+time. But my understanding, and the committee's understanding is, I believe, that every year we're looking
+at a new internal audit plan and every year we're deciding what is most important, what should be
+emphasized, what should be pushed back. And we went through that iterative process last year, year and
+a half ago.
+So I'll defer the rest to the Chief Audit Executive.
+MATT MARINO: Thank you, Director Dishell. You were accurate in that this was a collaborative process.
+And I just want to clarify, highly collaborative, not only from me as the Chief Audit Executive and the
+committee members, but we also solicited feedback from several members of management, as well as
+several Directors on the Board of Directors. So there was a lot of people that weighed in on this so that
+we make sure that we understood the full risk picture of what was going on at the District at that time
+point in time.
+So this is the plan. If for some reason things were to change in the future where we would need to move
+something up because it becomes of more importance or higher priority, we would do that in concert with
+working with the Audit Committee. But it was a very comprehensive review of the likelihood of things
+occur, what would be the magnitude if it did occur, and what would be the ramifications to the
+organization if the items were to not be adequate.
+And I believe part of your question was, was this specific audit focused on safety? It was more on the
+high level employee training. Because safety is such a large part of training at the District, safety did rise
+as one of the recommendations. But it was not scoped as a training around safety. It was training
+comprehensively.
+BOBBY DISHELL: Ms. Johnson.
+DEBRA A. JOHNSON: Yes. Thank you. Mr. Marino just made me think of something that I did not share.
+Recognizing the high level of safety awareness and understanding in which an entity has to be well
+
+versed in as it relates to delivering transit services, our safety practices, as you may be aware, are highly
+regulated. We have recurring audits by the Federal Railroad Administration. We have audits done by the
+Federal Transit Administration in which they use a third party. And then more specifically, as it relates to
+light rail, rail safety transit oversight, that has been relegated to the state of Colorado and more
+specifically to the Colorado Public Utilities Commission.
+So I wanted to ensure that you all have an understanding that our safety practices are constantly being
+evaluated as we move forward. So thank you very much, Mr. Chair, for the opportunity to impart that.
+BOBBY DISHELL: Great. Thank you, Director Ruscha.
+JOYANN RUSCHA: Thank you, Mr. Chair. Yeah. So I appreciate the responses. But I think our GM/CEO
+touched on what I was getting at. And I should have just maybe made my question more clear. But this is,
+I think, something I could follow up with offline, or it's a learning process maybe for all of us is just, maybe
+it's a general question.
+We have audits that are required. And so what happens when there is an observation or a risk
+observation made as part of another process, planned or, that might cross over into this committee's
+work. And so I guess my question was, was there an identified risk as a result of our internal safety review
+that we're required to do annually and is that how it came into this?
+But I guess that it's probably irrelevant. The important part is that we caught it and that we're taking steps
+to correct it. So I appreciate it. And I will not take up any more of the committee's time with my questions.
+Thank you.
+BOBBY DISHELL: Thank you. Mr. Marino, I think we were on five, six, or seven.
+MATT MARINO: We were. Yeah. Let's see. Make sure I'm in the right one. I am. So let's see, Moderate.
+There we go. We're on seven. So are we good with six?
+BOBBY DISHELL: Yep.
+MATT MARINO: OK, perfect. Observation seven is a moderate priority. The recommendation,
+management should consider establishing a monitoring process to ensure that employees complete the
+required trainings, which we touched on a little bit, that their trainings are occurring but a centralized place
+whereby it is monitored agency-wide is not necessarily there. Documenting the enrollment and
+completion of the training courses and maintain training records to meet regulatory requirements as well
+as internal management of quality review. Implement standards for the training records documentation to
+include trainee's name, enrollment date, all the relevant data that you would want to know if somebody
+took a training.
+Management corrective action plan, Development and Learning Division will develop the procedure for
+documenting and retaining all of these records to make sure that it is available for, whether it be an
+annual audit based on internal audit or the many other regulatory agencies that review happenings at
+RTD, that that would be organized and available to be provided to those agencies, with a planned target
+completion date of June 30, 2024.
+BOBBY DISHELL: Thank you. Any questions on observation seven? Great. Observation eight.
+
+MATT MARINO: Observation eight is a Low or process improvement recommendation. Recommendation
+is that management should consider developing a cross training strategy to train employees on multiple
+skills outside of their usual job responsibilities to increase their ability to work in different roles or functions
+within the organization and thereby ensure minimum disruption of RTD's operation if there was a vacancy
+in the future. Management should also consider developing a succession planning strategy to ensure that
+RTD's long-term growth can be achieved.
+The corrective action plan is the Human Resources will assess the need for developing training
+succession plan for employees. Succession planning protocols will be embedded in the overall learning
+and development framework that was already talked about in observation one. And then the Development
+and Learning Division will develop a cross training plan for employees. Target date of December 31,
+2024.
+BOBBY DISHELL: Any questions, comments on observation eight? Great. Observation nine.
+MATT MARINO: Observation nine. Recommendation, management should consider establishing a policy
+requiring all training materials, enrollment and completion dates are tracked in the Workday Learning
+Management System to ensure the accurate, reliable, and consistency of the training data. As we've
+already alluded to, we have this system. The management Corrective Action Plan is the Development
+and Learning Division will develop the procedures whereby all that stuff will be tracked within Workday
+and develop a framework whereby providing the training happens agency-wide and that all that
+information is housed within the Workday Management System.
+And that's, as it kind of alluded to, there's many different parts or critical paths that need to occur and a lot
+of things have to all line up. But we're still pushing towards that June 30, 2024 date to get all of these
+recommendations implemented into the enhancement of the learning management at RTD.
+BOBBY DISHELL: Great. Any comments on observation nine?
+And I'll also note for the record that we've been joined by Director Tisdale. Welcome. Observation 10.
+MATT MARINO: Observation 10 is a Moderate priority. The recommendation, management should
+consider implementing a policy requiring the annual review and revision of training materials, update to
+ensure that employees are trained with the latest training curriculum. The system would aid in this.
+So management corrective action plan, the Development and Learning Division will develop the Workday
+procedure whereby this annual review of the content would occur to make sure that what's in the Learning
+Management System is the latest and greatest and most accurate for that specific subject matter. That
+has a target date of December 31, 2024 .
+BOBBY DISHELL: Great. Questions or comments on observation 10? Is there an 11? I think that's the
+last one.
+MATT MARINO: Last one. Moderate priority. The recommendation, management should consider
+establishing metrics for measuring and evaluating, assessing the effectiveness of training by utilizing
+methods such as employee feedback, pre- and post assessment surveys, key performance indicators to
+determine that the training was effective for any given employee.
+The corrective action plan prepared by management, your Development and Learning Division will
+develop the training metrics and key performance indicators aligned with the strategic plan and
+
+competencies that might align with any one employee's requirements. And so this is part of that overall
+plan to make sure the training is organized, the records are kept, but also that it's measured that the
+training is effective and has been understood by any given employee. And that's a planned date of
+December 31, 2024.
+BOBBY DISHELL: Great. Questions or comments on observation 11? Mr. Marino, any further
+presentation items?
+MATT MARINO: I think observation 12, we did skip. We have one more. Low priority, process
+improvement. Recommendation, management should consider implementing a policy requiring trainers to
+take continuing education on a periodic basis to qualify to train employees. So obviously, your trainers
+should be subject matter experts. And one way to maintain your subject matter expert is to continue
+taking training.
+The corrective action plan is your division will develop a learning and development framework for all RTD
+trainers to ensure that their quality and consistency is also at the highest standard. And that will begin
+with the train-the-trainer sessions that have occurred in October, October 2, 2023 and will run through-basically, this is completed at this point. And so target completion date of June 30, 2024, but that's really
+the first step on this. And I believe I saw a hand go up.
+BOBBY DISHELL: Yeah. Ms. Polege, please.
+CHARLENE POLEGE: Chair, if I may, I just wanted to, for the record, just make a point that as we see
+there are actually 12 observations. Packet page 47 should actually say one High, nine Moderate, and two
+Low.
+BOBBY DISHELL: Yeah. Mr. Kroll, can we have that corrected? Or someone from Board Office? He's not
+on anymore.
+MATT MARINO: I'll work with Board Office to make sure whatever-JACK KROLL: I gave a big ol' thumbs up.
+BOBBY DISHELL: Thank you. Sorry. I did not have you on my screen. Mr. Davidson.
+ERIK DAVIDSON: Yeah. Thank you, Chair. I'll keep it short. I just wanted-- I'd be remiss not to thank-- we
+had a lot of discussions on this particular audit. It's obviously a critically important one. I think Director
+Catlin well captured it that this is a tool.
+But thank you to General Manager and CEO Johnson, Chief People Officer Charlene Polege, and Dr.
+McDowell for very detailed discussion. I especially appreciate how clear it was around the not having
+centralized data. And I appreciate the bar being set very high for measuring our compliance and data. So
+thank you very much for that discussion. And Mr. Chair, thank you for leading us through that.
+It's really exciting to have some good internal audit function moving forward. This is a great tool. And
+Chair, thank you for leading us through it. Thanks. That's all.
+BOBBY DISHELL: Of course. Thank you. Mr. Marino, anything further? You're on mute, but it looks like
+you're--
+
+MATT MARINO: No. Sorry about that. Yes, that is it with regard to those audits. And we'll discuss the
+Oracle ITGC Audit in Executive Session in more detail. But I can go through the non-redacted portions, if
+you would like.
+BOBBY DISHELL: Ms. Snyder?
+MELANIE SNYDER: Yes. Thank you, Mr. Chair. Yes, I just did want to note for the record that there were
+11 observations in the IT General Controls Audit. So to the extent you want the RubinBrown team to go
+through those, we should go through the ones that have not been designated as confidential. We should
+do that here in open session.
+BOBBY DISHELL: Thanks. Let's go ahead and do that. I appreciate that, because that is not where I was
+going to go.
+MELANIE SNYDER: You're welcome.
+MATT MARINO: OK. So the first observation is a moderate priority. The risk is failure to review and
+update information technology policies or procedures could result in-- let's say, I'm sorry about that.
+Observation, I need to start off there. The review of current information technology policy and procedures
+noted the following.
+The computer system and electronic data access control policy for granting access to RTD's systems and
+electronic data was issued on July 13 of 2018 and it has not been updated to reflect current practice. The
+electronic data protection policy for preventing RTD information from being disclosed to corrupted or lost
+because of actions of unauthorized persons was also implemented at that date and has not been
+reviewed to reflect RTD's current data processing activities. And the information technology risk
+management for identifying and managing critical technology risks was also issued on that same date
+and was not reviewed and updated.
+Additional policies and procedures for the following activities had not been provided to internal audit.
+System interfaces, change management, job scheduling, IT incident reporting. So the corrective action
+plan prepared by management, the computer system and electronic data, access control, and electronic
+data protection policies will be updated. The standards for system interfaces, change management, job
+scheduling, and IT incident reporting will be created and/or updated, and staff will collaborate with internal
+audit to create a system interface for policy and procedures. So target date of July 30, 2024.
+BOBBY DISHELL: Great. Questions or comments on observation one? Seeing none, next, please.
+MATT MARINO: So observation two, we'll skip over. Observation three, moderate policy, internal
+observation, the review of randomly selected sample of 13 users noted the ServiceNow tickets did not
+specify the description of the Oracle responsibilities that the new user needed access in order to perform
+their assigned job duties. The description noted that the ServiceNow tickets stated that Oracle access
+and additional Oracle access without detailing actual Oracle responsibilities, where as Oracle generated a
+report, detailed the user access to the Oracle responsibilities assigned to the new users.
+The craft action plan, staff will create a more detailed responsibilities request list for which the
+ServiceNow system will have. The business justification will be required on the ServiceNow ticket and
+justify additional responsibilities that might be required for those person to perform their duties.
+BOBBY DISHELL: Any questions or comments on observation three? Great. Next, please.
+
+MATT MARINO: Obser four, we'll discuss later. Observation five, moderate priority. Internal observation is
+that we request supporting documentation evidencing the changing of transferred employees' access to
+Oracle upon transfer. The requested supporting documentation was not provided to determine whether
+the access of the selected sample of the 25 individuals that were transferred were changed to their
+respective current job responsibilities. It was noted that there was a population of 533 transferred
+employees during the test period.
+The corrective action plan, IT staff will work with Human Resources to develop a policy detailing how and
+when the RTD employees should be transferred. IT will work with human resources to establish an
+automated process in which both Workday and ServiceNow that will establish an end-to-end termination
+process. Additionally, IT will establish recurring tasks within ServiceNow to monitor and track quarterly
+user account review process for supervisor and managers to make sure that your users have the access
+that they need and do not have any more access than is required for their responsibilities.
+BOBBY DISHELL: Thank you. Any questions or comments on observation five? Next, please.
+MATT MARINO: Observation six is a High priority. It was noted that the Oracle database is maintained
+using the default system accounts. The corrective action plan, the use of individual OS accounts provides
+a level of tracking as to who is logged in and issuing access commands. The use of individual accounts
+and disabling the route credentials into the OS became effective July 31, 2024. Target date-- or 2023.
+Sorry, I misspoke, 2023.
+BOBBY DISHELL: Next. Thank you.
+MATT MARINO: Yep. High priority, observation seven. It was noted that the Linux operating system
+supporting the Oracle database is maintained using the default system accounts. Use of the route
+credential has been disabled and the individual accounts is now in use as of July 24, 2023. So target
+date, that's already elapsed. And we will report back later.
+Observation eight, moderate priority. The designated Oracle leads are required to review user access to
+the Oracle responsibilities associated with their function areas on a quarterly basis. Each Oracle lead is
+required to document the completion of user access reviews on the respective ERP access confirmation
+document and upload it to the hub. We examined the user access reviews completed in Q4 of '22 and Q1
+of 2023, and we noted the following.
+The Q4 ERP access indicated evidence of user access reviews for information technology and inventory
+was not available for those two areas. Q1 of 2023 was not available for Accounting, Payroll, and
+Inventory responsibilities. And there was no evidence that change requests were completed for the
+selected eight user access changes identified by the Oracle function lead in Q4 of 2022 and Q1 of 2023
+user access reviews.
+Corrective action plan. IT staff will work with Human Resources staff to develop a policy detailing how and
+when RTD managers and supervisors review access of current and former employees. IT will establish a
+recurring task within ServiceNow to monitor and track the quarterly user account reviews.
+BOBBY DISHELL: Questions or comments on observation eight?
+MATT MARINO: Observation 10, moderate priority. Supporting documentation, including job scheduling
+history to identify job failures, evidence of scheduled job failure and investigation resolution and access to
+edit job schedules, is restricted to authorized personnel were not available. IT staff will work with
+
+governance and risk compliance module within the ServiceNow to assign a task on a recurring basis. So
+that evidence can be captured and retained with regard to this. Target date of March 31, 2024.
+Observation-- sorry. Any questions on observation 10?
+BOBBY DISHELL: No. And I just want to take a quick pause. I know there's at least two committee
+members who have hard stops at 1:00 and 1:15, respectively. This stuff is pretty important. Are there
+other committee members who, or members of staff, key employees, who have a 1:00, a 1:15, or a 1:30,
+just to make sure that we are actually-- should we go into Executive Session, that that is actually what
+makes sense and we can achieve the business at hand.
+Yes, Ms. Johnson.
+DEBRA A. JOHNSON: I have another obligation at 1:30, just for your edification.
+BOBBY DISHELL: Thank you. Chair David-- or Mr. Davidson.
+ERIK DAVIDSON: Yeah. Thank you, Chair. Yeah. I know we're not there yet in discussing Executive
+Session, but just since you raised that, I do think this is a really critical item. Unfortunately, I do have a
+hard stop at 1:00 PM. I'm not sure. I'll defer to you as to how we might schedule to proceed. But I do
+think, given the findings and the need to go into Executive Session to observe those that are redacted, it
+may make sense to schedule a new date.
+BOBBY DISHELL: Chair Guissinger.
+LYNN GUISSINGER: I'm not on the committee so I shouldn't work around. I could always listen to it later.
+But this is, I think this is very important information. I'm very impressed with the work that's been done.
+And I also have a hard stop at 1:00.
+BOBBY DISHELL: OK. Given our GM/CEO's key employee on this, and others, are not going to be
+available, I don't know, General Counsel, if I have to take a vote on tabling until a date certain or what the
+exact procedure would be. But it feels as though it's pretty critical to have this conversation. It's pretty
+critical to have everyone focused on it and not needing to be at their next meeting.
+And so I would entertain a motion from the floor, unless I'm allowed to make it myself, to table the balance
+of this discussion until a date certain after the RTD full Board meeting on November 21, 2023. Isn't that?
+No, it's not on the 21st?
+DEBRA A. JOHNSON: It's November 28.
+BOBBY DISHELL: November 28, 2023. I would enter-- am I allowed to, General Counsel, is that fine for
+me to make as Chair, to place that there?
+MELANIE SNYDER: I think so, yes, Mr. Chair. I just wanted to clarify, is your direction to staff that you're
+looking for them to find a date that is after the Board meeting?
+BOBBY DISHELL: No. Just chronologically, just add it as an agenda item at the end of the Board
+meeting, because we know everyone's there.
+MELANIE SNYDER: I see. So you would add it as a special. OK, yes, that makes sense.
+
+BOBBY DISHELL: But I want to make sure the committee members can do that and that we are able to
+do this. Director Catlin.
+PEGGY CATLIN: Thanks, Mr. Chair. I don't know if we need to really look at it earlier than the Board
+meeting? That would be my preference. But I know scheduling is a problem. So I'll defer to staff on that.
+BOBBY DISHELL: Mr. Olenberger, I saw you had your hand.
+JOHN OLENBERGER: Yeah. Sorry, when you were saying the Board meeting, I didn't realize that the
+intent was to have it after the Board meeting, because the committee members aren't necessarily-- we
+have two of us that are not on the Board and are not necessarily scheduled to be that. Was that the
+November 28?
+BOBBY DISHELL: Yes. That would be the 28th. And I would-- It's a dangerous game to guess when we'd
+be wrapped up with that meeting.
+JOHN OLENBERGER: I guess the other, a follow-up question would be, would there be a way to have
+this, if we were to do it on the 28th, I am actually available on the 28th, but if we were to do it on the 28th,
+would there be a means to do it at a specified time, as opposed to a whenever the regular Board meeting
+is wrapped up?
+DEBRA A. JOHNSON: Mr. Chair, if I may.
+BOBBY DISHELL: Yes, please.
+DEBRA A. JOHNSON: Thank you so much, Director Olenberger. As it related to the question posed, I
+was going to suggest that this could be the order, the first order of business after the Board convenes in
+public session, and then move into Executive Session so it could be addressed at the front end of the
+meeting. That would be my suggestion relative to getting everyone assembled. But I'll leave that to you all
+to entertain. Thank you.
+BOBBY DISHELL: Thank you. Mr. Kroll.
+JACK KROLL: Yeah. Thank you, Chair Dishell. I think the challenge with a conversation like this and with
+the meeting on the 28th is, that's a big meeting for you all to approve the budget and setting aside the
+appropriate time to do everything that's coming forward. We would be happy, as an alternative, to poll
+Board members and committee members to find another date.
+Obviously, the 28th would work just fine. But if you want to give the time and space to have the
+conversations that need to have happen for that meeting that are already on the agenda, just point out at
+this point, it's a pretty full agenda.
+BOBBY DISHELL: Full agenda? OK. In that case, and I know we're coming up on that 1:00, we figured it
+out before. I'm confident that this group can figure out a time that the five committee members, the
+relevant staff, and a, ideally a good portion of the Board would be available sometime before the end of
+2024 and ideally before the holidays start. Is that just sort of a head nod? I know, that's not parliamentary
+procedure and Robert's Rules, but-LYNN GUISSINGER: And I assume you mean 2023, before the end of this--
+
+BOBBY DISHELL: Yes, I do mean before 2023. Thank you. In that case, I'm going to move to table the
+remainder of this discussion, as well as the Executive Session, until a date certain to be established by
+the RTD Board Office after polling the relevant staff, committee members to establish such date.
+ERIK DAVIDSON: Second. Director Davidson.
+BOBBY DISHELL: Any opposed? General Counsel, did we do that one right? Good to go. Great.
+Thank you, everyone. I apologize to my fellow Board members for not running the meeting in a more
+efficient manner to get to that Executive Session items. I hope you found the rest of the discussion helpful
+and important, as audit really is, as is mentioned throughout the day today, a huge tool for us to help
+manage the agency and take care of our business.
+Are there any other matters to discuss? Director Davidson.
+ERIK DAVIDSON: Just wanted to say, Chair, no apologies necessary. Thank you for running the meeting.
+And thank you to everybody for, that's just a byproduct of how much there was to discuss here. So thank
+you
+BOBBY DISHELL: Thank you. Committee member Olenberger.
+JOHN OLENBERGER: I just had a request for the Chief Audit Executive and Internal Audit. If it would be
+possible during the next meeting and when these audits are presented going forward, if, to paraphrase
+what the recommendation and management response was, rather than reading it verbatim. Just gets a
+little verbose. And I realize you might not have been prepared to do that during this meeting.
+But that would be a request of mine, if none of the other Audit Committee members object to that, to
+summarize, paraphrase what the issue are, rather than reading the report verbatim.
+BOBBY DISHELL: That works for me. I think having it visually is there and then the paraphrase, that
+should work.
+JOHN OLENBERGER: And it's important to have that in the report. But I think it would be better to hear it,
+kind of as we're having a conversation type, rather than a read the report.
+BOBBY DISHELL: Absolutely. Director Catlin.
+PEGGY CATLIN: Thank you. I agree with Director Davidson, no apology necessary. I think this
+discussion was very rich and very just, I just so appreciate the depth that we went to discuss these items.
+Thank you all. As I said, much progress has been made over the last several years on this front. Thank
+you.
+BOBBY DISHELL: Yeah. A big thank you to everyone. Are there any other matters to discuss?
+At this time, the next Audit Committee meeting is to be determined at a time before the end of the
+calendar year 2023. The meeting following that is scheduled for Thursday, February 15, 2024.
+This meeting is adjourned as of 1:00 PM. Thanks, everyone.
+LYNN GUISSINGER: Thank you.
+
+JOHN OLENBERGER: Thank you.
+
+

@@ -1,0 +1,1372 @@
+1660 Blake Street
+Denver, CO 80202-1399
+303-299-2306
+
+Regional Transportation District
+
+Board of Directors
+Chair – Vince Buzek, District J
+First Vice Chair – Lynn Guissinger, District O
+Second Vice Chair – Peggy Catlin, District N
+Secretary – Marjorie Sloan, District M
+Treasurer – Troy Whitmore, District K
+Julien Bouquet, District G
+Bob Broom, District F
+Shelley Cook, District L
+Erik Davidson, District I
+Bobby Dishell, District D
+
+Shontel M. Lewis, District B
+Angie Rivera-Malpiede, District C
+Paul Rosenthal, District E
+Doug Tisdale, District H
+Kate Williams, District A
+
+STUDY SESSION
+Tuesday, June 7, 2022
+REMOTE MEETING
+5:30 PM
+To join the meeting: Register Here
+(connect using either Chrome or Firefox web browser)
+Or to listen by phone: 720-928-9299
+Webinar ID: 811 9026 9296#
+Webinar Passcode: 1660#
+
+I.
+
+Call to Order
+
+II.
+
+Lo/No Bus Emission Discussion
+
+III.
+
+Other Matters
+
+IV.
+
+Adjourn
+
+The following communication assistance is available for public meetings:
+• Language Interpreters
+• Sign-language Interpreters
+• Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 business hours in advance of a
+RTD meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+2.1
+
+BOARD OF DIRECTORS DISCUSSION ITEM
+Low/No Emissions Bus Study Session
+
+Committee Meeting Date:
+June 7, 2022
+
+STAFF REPRESENTATIVE
+Frederick Worthen, Assistant General Manager, Bus Operations
+PRESENTATION LENGTH
+50 minutes
+BACKGROUND
+Over the past decade, public transit providers throughout the United States have adopted policies
+incorporating low-emission and/or zero-emission fleet technologies (low/no emissions technology) with a
+goal of promoting environmental sustainability through daily transit service delivery. RTD has operated a
+sub-fleet of 36 battery electric buses (BEBs) along the 16th Street Mall since 2018. RTD is in the
+process of acquiring 17 additional BEBs that are anticipated to integrated into the existing fleet in 2023.
+The Board of Directors has expressed an interest in participating in a study session to garner an
+understanding of low/no emissions technology in the public transportation realm; the performance of the
+agency’s existing sub-fleet; and, how these technologies support the agency’s strategic priority of
+Community Value, which is, “RTD strives to be a strong community partner, providing value to
+customers as well as the broader Denver metro region while sustaining planet Earth.”
+DISCUSSION
+The study session will cover:
+• Low/no emission fleet technologies
+• Environmental impacts
+• Existing fleet performance
+• Lessons learned
+• Current fleet/infrastructure implementation status
+FINANCIAL IMPACT
+There is no immediate-term financial impact.
+ATTACHMENTS:
+•
+
+Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed
+
+(PPTX)
+
+Prepared by:
+Fred Worthen, Assistant General Manager of Bus Operations
+Approved by:
+
+Packet Pg. 2
+
+2.1
+
+Authorized by:
+
+Packet Pg. 3
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+We Make Lives Better
+Through Connections.
+
+Low/No Emission Transit
+Fleet Technologies
+June 2, 2022
+
+Packet Pg. 4
+
+Overview
+
+§ Low/No Emission Technologies
+§ Environmental Impacts
+§ Existing Fleet Performance
+• Lessons Learned
+• Fleet/Infrastructure Implementation Status
+
+§ Next Steps
+
+June 2, 2022
+
+2
+
+Packet Pg. 5
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Low/No Emission
+Technologies
+
+June 2, 2022
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Packet Pg. 6
+
+Low/No Emissions Technologies
+§ Clean diesel
+§ Diesel/electric hybrid
+§ Compressed natural gas
+§ Battery electric
+§ On-route/demand fast charging (short range)
+• Depot slow charging (longer range)
+§ Hydrogen/fuel cell
+
+June 2, 2022
+
+4
+
+Packet Pg. 7
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Low/No Emissions Technologies
+
+Clean Diesel
+
+Hybrid Diesel
+
+Compressed Natural Gas
+
+$485,483
+
+$690,000
+
+$565,000
+
+120 gal
+
+120 gal
+
+25,000 scf
+
+Fuel Economy (MPDGe)3
+
+4.8
+
+5.3
+
+4.8
+
+Max Range (mi)4
+
+576
+
+636
+
+400
+
+10 minutes
+
+10 minutes
+
+10 minutes
+
+Standard on-site fueling equipment
+
+Standard on-site fueling equipment
+
+Specialized Fueling Equipment at Base
+
+Cost per Vehicle1
+Battery/Tank
+
+2
+
+Fuel/ Recharge Time
+Fueling/Charging
+Infrastructure
+1
+
+APTA-2020-Vehicle-Database, purchases between 2018-2020 (Hybrid Diesel and CNG). Clean Diesel based upon 2022 RTD contract purchase
+
+2
+
+Bus manufacturers' websites, Altoona Test Reports
+
+3
+
+Average of three different drive cycles during Altoona testing (LTI Bus Research and Testing Center
+
+4
+
+Maximum range and refueling/recharging times will vary based upon technology specifications and duty cycle.
+
+** With a cyclical route short enough to be run with the bus battery capacity, the batteries can be charged for each cycle.
+
+June 2, 2022
+
+5
+
+Packet Pg. 8
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Primary Types of Electric Buses
+
+Cost per Vehicle
+Battery/Tank
+
+Long Range Battery
+
+On-Route Charging
+
+Hydrogen Fuel Cell
+
+$1,030,769
+
+$900,000
+
+$1,200,000
+
+220 - 660 kWh
+
+160 - 660 kWh
+
+82.5 lb
+
+20
+
+20
+
+6.1
+
+270 Miles
+
+Unlimited**
+
+260 Miles
+
+3-5 Hours from 20%-100%
+
+3-6 minutes for Every 60 minutes of Service
+
+10 Minutes
+
+Specialized Charging Equipment at Base
+
+Specialized Charging Equipment On-Route and at Base
+
+Specialized Fueling Equipment at Base
+
+1
+
+2
+
+Fuel Economy (MPDGe)3
+Max Range4
+Fuel/ Recharge Time
+Fueling/Charging
+Infrastructure
+1
+
+APTA-2020-Vehicle-Database, purchases between 2018-2020 (On-Route Charging & Hydrogen Fuel Cell). Long Range Battery based upon 2022 RTD contract purchase
+
+2
+
+Bus manufacturers' websites, Altoona Test Reports
+
+3
+
+Average of three different drive cycles during Altoona testing (LTI Bus Research and Testing Center
+
+4 Maximum range and refueling/recharging times will vary based upon technology specifications and duty cycle.
+
+June 2, 2022
+
+6
+
+Packet Pg. 9
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Types of Electric Bus Chargers
+
+Plug In
+
+Conductive
+
+AC
+
+DC
+
+Top-Down Pantograph
+
+Cost Charger/Bus1
+
+$12,000/incl
+
+$60,000 - $100,000
+
+$300,000/$15,000
+
+Output Power 2
+
+80 - 120 kW
+
+30 - 180 kW
+480 VAC
+
+150 - 600 kW
+
+50 - 600 kW
+
+400- 2000 VAC
+
+750 VDC
+
+Input
+
+2
+
+480 VAC
+
+Bottom-Up Pantograph
+
+Inductive (Wireless)
+$200,000/$50,000
+50 - 300 kW
+480 VAC
+
+Pros3
+
+- Minimal infrastructure & installation reqmts
+- Lower cost per charger
+- Can take advantage of off-peak electricity rates
+- More flexibility for route selection and future route changes
+
+- Buses can use smaller, lighter battery packs
+- Full charge in 5 - 20 min
+- Can support 24 hour bus operation
+
+- Buses can remain in service
+- Decreased infrastructure footprint
+- Doesn't interfere with road clearance or road
+maintenance
+- No manual connection or moving parts
+- Can be used by different size vehicles
+
+Cons3
+
+- Buses out of service to charge
+- All energy must be contained in battery packs
+- Manual plugging in of chargers
+- Can require significant space
+- Can require lots of power in the facility.
+
+- Higher cost of infrastructure
+- Slightly less efficient than conductive methods
+- Peak demand charges can adversely affect operational costs (90% vs 95%)
+- Land use and/or rights must be obtained at deployment sites - Higher cost of infrastructure
+- May have road clearance issues
+- Peak demand charges can adversely affect
+- Constrains future route changes
+operational costs
+- Land use and/or rights must be obtained at
+deployment sites
+- Constrains future route changes
+
+1 Bus Manufacturers
+2 Charger Manufactures' Websites
+3 TCRP SYNTHESIS 130 Battery Electric Buses - State of the Practice
+
+June 2, 2022
+
+7
+
+Packet Pg. 10
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Environmental Impacts
+
+June 2, 2022
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Packet Pg. 11
+
+Environmental Impacts
+“When looking at the deployment [environmental] benefits, consider “well-to-
+
+wheel emissions.” While ZEBs [Zero Emission Buses] have no harmful tailpipe
+emissions, there will most likely be upstream greenhouse gas emissions from
+electricity generation for charging BEBs [Battery Electric Buses], production,
+and delivery for fueling.”
+
+- The National Academies of Science, Engineering and Medicine
+Guidebook for Deploying Zero Emission Transit Buses[2020}
+
+June 2, 2022
+
+9
+
+Packet Pg. 12
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+EPA.GOV
+
+SOURCE:
+https://www.epa.gov/ghgemi
+ssions/sources-greenhousegas-emissions
+
+June 2, 2022
+
+10
+
+Packet Pg. 13
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Xcel Colorado Electricity Generations
+
+§Natural gas – 29%
+§Coal – 32%
+§Wind – 33%
+§Solar – 5%
+§Other renewables – 1%
+Source (2021): https://co.my.xcelenergy.com/s/energy-portfolio/power-generation
+June 2, 2022
+
+11
+
+Packet Pg. 14
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Diesel Emission Regulatory Changes
+
+June 2, 2022
+12
+
+Packet Pg. 15
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Emissions Reductions – BEB vs. Clean Diesel Bus
+EPA data, based on 40,000 mi/yr.
+
+NOx (lb)
+
+PM2.5 (lb)
+
+CO2 (tons)
+
+Fuel Used
+
+40’ Clean Diesel (per vehicle)
+
+51
+
+3
+
+85
+
+7,604 gal
+
+Free MallRide (per vehicle)
+
+86
+
+3
+
+78
+
+138,400 kWh
+
+Mall Bus Savings
+
+-35
+
+0
+
+7
+
+n/a
+
+Automobile Emissions (22.3 mpg)
+
+5
+
+n/a
+
+19
+
+n/a
+
+Sources: Argonne National Laboratory Heavy Duty Vehicle Emissions Calculator, Xcel Energy, US Energy Information Administration,
+National Institute of Environmental Research, US EPA
+June 2, 2022
+
+13
+
+Packet Pg. 16
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+June 2, 2022
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Packet Pg. 17
+
+Existing Fleet
+Performance
+
+June 2, 2022
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Packet Pg. 18
+
+16th Street Mall BEB Fleet
+
+June 2, 2022
+16
+
+Packet Pg. 19
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+16th Street Mall Operations
+§ Service known as “Free MallRide”
+§ 1.4 miles (16th Street between Union Station, Civic Center Station)
+§ Stops at every intersection
+§ Currently 4.5-minute headway
+§ Average weekday ridership: 8,763 (20% of pre-pandemic ridership)
+§ Each bus accumulates approximately 872 miles per month
+
+June 2, 2022
+
+17
+
+Packet Pg. 20
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+16th Street Mall BEBs
+§ 36 buses custom-built
+§ Length: 45’
+§ Completely low floor
+§ Right-hand drive
+§ Three doors, one operator door
+§ Operator compartment separated from customer compartment,
+including separate HVAC
+
+§ Capacity without mobility devices: 107 (18 seated + 88 standees + operator)
+§ Noise generator due to operation in pedestrian zone
+June 2, 2022
+
+18
+
+Packet Pg. 21
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+16th Street Mall BEBs (cont’d)
+§ Batteries: 2 battery packs = 292/330 kWh
+§ Buses equipped with Health Alert Monitoring System (HAMS)
+• Reports Battery data every 3 minutes via cellular network
+
+§ 30 chargers separate transformer/service
+• Buses assigned to charging positions
+• Monitored remotely
+
+§ Charging Time from 20% to 100%: approximately 3.5 hours
+
+June 2, 2022
+
+19
+
+Packet Pg. 22
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Average Miles Per Gallon Equivalency
+14.00
+
+11.95
+
+12.00
+
+10.00
+
+Miles
+
+8.00
+
+6.00
+
+5.26
+
+4.00
+
+2.00
+
+0.00
+
+Gallons
+
+40’ Clean Diesel
+June 2, 2022
+
+16th Street Mall Fleet
+
+Jan 1, 2021 – Dec 31, 2021
+
+20
+
+Packet Pg. 23
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Average Fuel Cost Per Mile
+Fuel Cost/Mile
+$0.80
+$0.73
+$0.69
+
+$0.70
+
+$0.60
+$0.54
+
+$0.53
+$0.50
+
+$0.46
+
+Cost
+
+$0.44
+
+$0.41
+$0.38
+
+$0.40
+
+$0.30
+
+$0.20
+
+$0.10
+
+$2018
+
+2019
+
+40’ Clean Diesel
+
+June 2, 2022
+
+Miles
+
+2020
+
+2021
+
+Electric Mall Bus
+
+21
+
+Packet Pg. 24
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Miles Between Chargeable Road Calls
+
+Jan 1, 2021 – Dec 31, 2021
+
+Total
+Vehicles
+
+Miles
+Traveled
+
+Miles Between
+Chargeable Road
+Calls
+
+40’ Transit (Diesel)
+
+281
+
+9,965,689
+
+43,142
+
+40’ Mall (Electric)
+
+36
+
+261,692
+
+1,567
+
+60' Artic (Diesel)
+
+116
+
+2,655,674
+
+30,178
+
+45’ Intercity (Diesel)
+
+174
+
+3,603,555
+
+34,650
+
+Subfleet
+
+June 2, 2022
+
+22
+
+Packet Pg. 25
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Range Maintenance Costs Per Mile
+
+Max Range and Maintenance Costs per Mile 2021
+
+Approximate Max
+Range (Miles/MGE)
+
+Maintenance Cost per
+Mile
+
+2015 40’ Transit
+
+616
+
+$0.54
+
+2016 Mall Fleet (BEB)
+
+92
+
+$1.80
+
+Subfleet
+
+June 2, 2022
+
+23
+
+Packet Pg. 26
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+BEB Monthly Range Variations
+Calculated Electric Mall Bus Range
+120
+
+110
+
+Miles
+
+100
+
+90
+New Batteries
+Old Batteries
+80
+
+70
+
+60
+Jan-21
+
+June 2, 2022
+
+Feb-21
+
+Apr-21
+
+Jun-21
+
+Jul-21
+
+Sep-21
+
+Oct-21
+
+Dec-21
+
+24
+
+Packet Pg. 27
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Existing BEB Fleet –
+Lessons Learned
+
+June 2, 2022
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Packet Pg. 28
+
+Lessons Learned
+§ Choose technology wisely
+§ Understand capital requirements
+§ Provide staff training/equipment to properly develop the workforce, ensure
+success
+
+§ Understand operational environments
+§ Understand life cycle/operational costs
+
+June 2, 2022
+
+26
+
+Packet Pg. 29
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Lessons Learned (cont’d)
+§ Test, develop operational plans
+
+•
+•
+•
+•
+•
+•
+•
+
+June 2, 2022
+
+27
+
+Packet Pg. 30
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Assess Technology
+§ Environmental impacts
+§ Choose appropriate technology for operating environment
+• Fast charge vs. slow charge
+• Evaluate, plan for infrastructure impacts
+• Carefully plan facility space requirements, usage
+
+June 2, 2022
+
+28
+
+Packet Pg. 31
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Assess Technology (cont’d)
+§ Research manufacturer carefully during procurement cycle
+• Mature processes that are followed
+• Financial strength
+• Fleet support capability
+• Failure to meet contract specifications ramifications
+
+June 2, 2022
+
+29
+
+Packet Pg. 32
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Assess Technology (further cont’d)
+§ Carefully select, plan charging system/infrastructure
+• Energy resiliency
+• Smart charging technology
+• Ensure charging equipment meets all relevant certifications
+• Ensure interoperability for future bus purchases
+• Bus parking/cable management systems
+• Adequate barriers to protect chargers, cables
+• Facilities upgrades, future growth
+
+June 2, 2022
+
+30
+
+Packet Pg. 33
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Understand Capital Requirements
+
+§ Vehicle costs
+§ Charging infrastructure
+§ Facility infrastructure
+§
+
+June 2, 2022
+
+31
+
+Packet Pg. 34
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Workforce Development/Training
+§ Frontline support training requires driving habits/operational awareness shifts
+§ Vehicle maintenance
+§ Facilities maintenance
+§ Procurement
+§ Yard management, fleet assignments
+§ IT strategies
+§ First responder training
+
+June 2, 2022
+
+32
+
+Packet Pg. 35
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Operational Impacts
+§ Understand range limitations/variations, battery degradation issues
+§ Examine fleet mix
+§ Understand contractor operations impacts
+§ Understand spare ratio impacts
+§ Public education required
+§ Plan for daily operational impacts
+A complete operational impacts study is needed to assess resource
+and financial impacts and fully understand sustainability
+June 2, 2022
+
+33
+
+Packet Pg. 36
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+New Battery, Maximum Performance
+
+June 2, 2022
+
+Source: Center for Transportation and Environment (CTE)
+
+34
+
+Packet Pg. 37
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Battery, 20% Degradation
+
+June 2, 2022
+
+Source: Center for Transportation and Environment (CTE)
+
+35
+
+Packet Pg. 38
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Performance – Daily Operations
+
+June 2, 2022
+
+Source: Center for Transportation and Environment (CTE)
+
+36
+
+Packet Pg. 39
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Understand Life Cycle/Operational Costs
+§ Chosen technology must be sustainable (operationally and financially)
+§ No long-range costs available for life cycle costs analysis
+§ Understand indirect costs
+§ Understand your energy cost per unit
+
+June 2, 2022
+
+37
+
+Packet Pg. 40
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Test/Develop Operational Plans
+§ Requires new business models, testing in operating environment
+§ Develop phased complications
+§ Identify learning goals for future purchases
+
+June 2, 2022
+
+38
+
+Packet Pg. 41
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Current Fleet/Infrastructure
+Implementation Status
+
+June 2, 2022
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Packet Pg. 42
+
+Planning
+§ Identify stakeholders for multiple phases
+§ Modeling:
+• Work-range, load, and degradation
+• Route/run selection
+• Staff resource impacts
+• Spare ratio impacts
+• Charging strategies, electrical costs
+• Life cycle costs
+
+June 2, 2022
+
+40
+
+Packet Pg. 43
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Planning (cont’d)
+§ Choosing bus, charging infrastructure purchases
+• Evaluate Platte/East Metro parking, maintenance repair, infrastructure capacity
+• Determine single vs. separate procurement strategy
+• Consider battery lease vs. purchase
+• Consider alternative heating/cooling solutions to reduce auxiliary load requirements
+• Determine in-house vs contracted installation/upgrade work
+
+§ Determine IT systems, infrastructure needs
+
+June 2, 2022
+
+41
+
+Packet Pg. 44
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Planning (further cont’d)
+§ Xcel discussions
+• Electricity rate structure
+• Power needs
+• Infrastructure funding possibilities
+• Infrastructure upgrade schedules/lead time
+§ Project infrastructure upgrade lead time
+§ Develop pilot project testing parameters (consider mixed 40’ diesel/BEB fleet)
+§ Develop master project timeline
+§ Develop project/performance metrics
+June 2, 2022
+
+42
+
+Packet Pg. 45
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Procurement
+§ Develop specifications, select vendor(s), award modeling work, infrastructure evaluation,
+related services contracts
+
+§ Bus procurement
+• Develop bus technical specifications, operational requirements solicitation
+• Select vendor, award contract following Board consideration/approval
+• Oversee bus build quality control inspections at manufacturing plant
+• Accept delivery, prepare vehicles for revenue service
+• Test vehicle, charging equipment to ensure functionality
+June 2, 2022
+
+43
+
+Packet Pg. 46
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Procurement (cont’d)
+§ Charging infrastructure procurement
+• Develop system infrastructure technical specifications, operational requirements solicitation
+• Select vendor, award contract
+• Schedule/install infrastructure to include inspections, work oversight
+• Test equipment to ensure functionality, scope of work requirements met
+
+June 2, 2022
+
+44
+
+Packet Pg. 47
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Procurement (further cont’d)
+§ Infrastructure upgrades
+• Develop technical specifications, operational requirements solicitation
+• Select vendor(s), award contract(s) following Board consideration/approval
+• Oversee infrastructure upgrades, coordinate internal/external work
+• Inspections, certifications
+
+§ Coordinate grid upgrades, connectivity to selected base through Xcel
+§ Select, implement bus managing, charging, dispatching, monitoring technology
+
+June 2, 2022
+
+45
+
+Packet Pg. 48
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Implementation/Testing
+§ Develop/test operational plans
+• Fleet, yard management, charging plans
+• Resiliency plans
+• Emergency operations
+• PMI, CCO program modifications
+• Blocking, runcut modifications
+
+June 2, 2022
+
+46
+
+Packet Pg. 49
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Implementation/Testing (cont’d)
+§ Develop training plans, materials:
+• Maintenance, Facilities, Operators, First Responders, Dispatchers, Supervisors
+
+§ Implement pilot project based on test plan
+§ Compare modeling work to actual experience-use outcomes to improve future
+modeling, forecasting work
+
+§ Determine reporting metrics, mechanisms, frequency
+
+June 2, 2022
+
+47
+
+Packet Pg. 50
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Fleet Electrification – Current Efforts
+
+§ 17 40’ BEBs bus purchasing
+• $1,037,000 per bus
+
+§ Contingent supply chain
+• Anticipated delivery Q1 2023
+
+§ Stored at East Metro
+§ Deploy on fixed routes
+
+June 2, 2022
+
+48
+
+Packet Pg. 51
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Current Efforts (cont’d)
+§ Q3 2022: Charging equipment/infrastructure installation
+§ Q3 2022: Facility infrastructure upgrades
+§ Q1 2023: Charging equipment infrastructure completion, commissioning planned
+to align with bus delivery
+
+June 2, 2022
+
+49
+
+Packet Pg. 52
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Next Steps
+
+June 2, 2022
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Packet Pg. 53
+
+Next Steps: Long-Range Fleet Planning Efforts
+§ Study large-scale fleet electrification feasibility, “Reimagine
+RTD” plan in process
+
+§ BEBs piloted to validate modeling assumptions 2023-2024
+§ Continuous technology evaluation ongoing
+
+June 2, 2022
+
+51
+
+Packet Pg. 54
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+We Make Lives Better
+Through Connections.
+
+rtd-denver.com
+
+Attachment: Low-No Fleet Technology Presentation Board Workshop 5-27-2022_FINALCompressed (4654
+
+2.1.a
+
+Packet Pg. 55
+
+

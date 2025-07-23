@@ -1,0 +1,87 @@
+### A. Call to Order
+
+Committee Chair Deadwyler called the meeting to order at 5:31 p.m.
+
+Directors Folska, Lasater and Lubow were absent.
+
+Staff Present:              Bruce Abel, Rolf Asphaug, Larry Buter, Gina Callahan, Jessie Carter, Carolyn Conover, Heather Copp, Nate Currey, Heather Deckard, Martell Dyles, Phil Eberl, Terry Emmons, David Genova, Adrina Gibson, Doug Gragg, Erin Klaas, Russ Larson, Marla Lien, Doug MacLeod, Barbara McManus, Doug Monroe, Brenden Morgan, Mike Nabhan, Paula Perdue, Jennifer Ross-Amato, Zamy Silva, Henry Stopplecamp, Mindy Swaney, John Tarbert, Monika Treipl-Harnke, Bill Van Meter
+
+Others Present:              Gary Forbes, Sherman Hamilton, Wendy Londa, Dan McKeehan, Brenda Mosby, Tom Peters, Susan Spry, Larry Tenenholz, Leslie Thompson, Joe Triplett, Gary Van Dorn, Greg Yates
+
+### B. Recommended Actions
+
+There were no recommended actions.
+
+#### 1. Civil Rights Committee- 2015 Annual Report
+
+Zamy Silva, Senior Manager of Civil Rights, indicated that she would be highlighting the accomplishments for 2015 as well as the goals of the Civil Rights Department for 2016.  She reminded the Board that Civil Rights produces an annual report that will be sent to the Board in the next several days.  She reviewed a Power Point presentation with the Board that is available in the February 9, 2016 Civil Rights Committee Agenda Packet.
+
+Zamy Silva provided the following summary of the 2015 highlights:
+
+- WIN program received grant funding from the FTA for the Innovative Workforce Development Program
+
+- WIN increased its total placements for 2015 by 30% over previous years’ average placement rate
+
+- ADA finalized over 50 plan and design reviews for ADA compliance
+
+- ADA established and implemented ADA/FTA compliance measures such as Title II Grievance procedure, Reasonable Modification Policy, etc.
+
+- To date, $941,450,122 has been committed to DBEs/SEBs on FasTracks projects
+
+- Currently, $71,546,616 is committed to DBEs/SBEs on active Base Systems contracts
+
+- Hosted National Transit Institute for the DBE Program Training Certification
+
+- Equal Employment Opportunity (EEO) Program Plan submitted to the FTA and has been selected as the model program for other agencies to reference
+
+- EEO implemented new electronic complaint filing software for the District
+
+Zamy Silva outlined the goals for the Civil Rights Department in 2016 as follows:
+
+- Create and implement Standard Operating Procedures
+
+- Small Business Office (SBO) will collaborate with the City and County of Denver and CDOT to increase SBE participation in RTD projects
+
+- Complete the Triennial DBE Goal Methodology for the Small Business Office
+
+- Revise the DBE Program Plan and associated documents
+
+- Assist with planning and sponsoring the 2016 National ADA Symposium in Denver
+
+- Work with customer care to coordinate and implement a formal ADA complaint process
+
+- Collaborate with HR to outreach to minority and women organizations on job opportunities
+
+- Complete and submit all EEO reports on-time
+
+- Execute an Intergovernmental Agreement and Memorandum of Understanding with Colorado Community College and the Urban League of Metro Denver for further support in the community with the award of the FTA grant for WIN
+
+- Report to the FTA on the WIN Innovative Workforce Development team
+
+Director Francone remembers there being an Internal Audit conducted last year on the WIN program.  She wondered if a copy of that had been provided to the Board.  Interim General Manager Genova explained that he was not sure where that was in the audit process, but he would follow up with staff.  He said he would make sure the Board had a copy if it was complete.
+
+Director Francone wondered if there were any plans to outreach to other communities, not just the City and County of Denver.  Zamy Silva stated that for the WIN program, Martell Dyles, WIN Program Manager, would be doing outreach to various communities, not just the City and County of Denver and Urban Metro League of Denver.  She shared that the City and County of Denver and CDOT are charged with certifying all DBEs, so collaboration with these two entities is critical to reach more DBEs within the Metro region.
+
+Director Menten asked for a list of all positions at RTD that do not require 100% use of physical abilities such as walking, hearing, etc.  Interim General Manager Genova explained that he would have to work with HR to provide that information as it would be necessary to manually review every job description.  Marla Lien, General Counsel, pointed out that at the request for Director Folska, HR has been reviewing RTD’s job descriptions every time a job is posted to see if some of the requirements that were previously considered boilerplate, like being able to lift 25 lbs., are really necessary.
+
+Director Sisk indicated he was sorry to see in the newspaper that former RTD Senior Manager of Civil Rights Kenn Hardin had been found guilty of three counts of bribery.   He asked for further information as he feels this casts RTD in a bad light even though he was not doing anything in his official capacity at RTD.  Marla Lien stated that at no point was there any implication that RTD had acted improperly in the way we conducted business.  She stressed there was no evidence he effectuated any decisions nor were there any awards of contracts made because he received a bribe.  While Kenn Hardin was charged criminally, there was neither investigation of RTD nor any allegation of any inappropriate activity on the part of RTD.
+
+Director Sisk stated that he was not suggesting RTD did anything wrong; however, there are people that jump to certain conclusions because Kenn Hardin was an employee of RTD.  He hopes the RTD Board and staff are reminded how their own personal actions can be perceived.
+
+Committee Chair Deadwyler inquired if the application process for the WIN program was the same for people with disabilities.  Interim General Manager Genova stated that the application process is the same for anyone applying to RTD, including the WIN program.  Zamy Silva shared that staff has meet with the ADA community to talk about the WIN program and how it can be made more accessible.   She said that information had been created in braille and large print but it had not yet been distributed.  She stated that the WIN program plans to develop more outreach efforts but have not implemented anything at this time.
+
+Committee Chair Deadwyler wondered why the goal for 2016 for the EEO department to collaborate with HR to outreach to minority and women organizations about job opportunities did not also include ADA organizations.  Zamy Silva explained that RTD is required to do workforce utilization analysis looking at various job categories, as defined by the federal government, to determine if we are deficient in hiring women and minorities.  The FTA does not require RTD to determine if we are deficient in hiring people from the ADA community because RTD cannot force people to report if they have a disability.  She said that RTD is deficient in several areas which is why EEO will be working with HR to address the deficiencies.  She noted that outside of that requirement, it is the goal of Civil Rights to do more outreach with our ADA community as well.
+
+Committee Chair Deadwyler expressed that she is available to work with Civil Rights in any capacity they feel she can be of service to hopefully recruit more of our ADA community.
+
+Director Solano suggested establishing an emphasis on ethics.  He thinks that sometimes people forget their focus on the common good.  Marla Lien explained that as part of RTD’s required training, all employees are required to take an ethics class.  Employees must also receive and sign the Code of Ethics.
+
+##### a. RTD Board Meeting Presentation 2-16
+
+### D. Other Matters
+
+There were no other matters.
+
+### F. Adjourn
+
+Committee Chair Deadwyler adjourned the meeting at 5:54 p.m.

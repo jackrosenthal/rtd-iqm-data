@@ -1,0 +1,249 @@
+## I. Financial Administration and Audit Committee
+
+Chaired by Tom Tobiassen
+
+### A. Call to Order
+
+Committee Chair Tobiassen called the meeting to order at 5:52 p.m.
+
+Director Lubow was absent.  Director Lasater left early.
+
+Staff Present:          Bruce Abel, Jessie Carter, Susan Cohen, Carolyn Conover, Heather Copp, Martell Dyles, Terry Emmons, David Genova, Adrina Gibson, Doug Gragg, Kim Heldman, Tina Jaquez, Jessica Keegan, Erin Klaas, Adrian Mabry, Doug MacLeod, Naté Malone, Tony McCaulay, Barbara McManus, Judy McMurphy, Vivian Morales, Ed Neuberg, Paula Perdue, Scott Reed, Jannette Scarpino, Zamy Silva, Henry Stopplecamp, Monika Treipl-Hamke, Bill Van Meter, Jyotsna Vishwakarma
+
+Others Present:        Mayra Gonzáles, Sherman Hamilton, Eugene Howard, Brian Lewandowski, Randall Lovegrove, Robert McNown, Peter Mills, Scott Ramming, Pedro Ramos, Karen Strum, Joe Triplett, Carolina Van Horn, Gary Van Dorn, Daniela Villareal, Dace West,  Bob Wilson, Richard Wobbekind
+
+### B. Recommended Actions
+
+There were no Recommended Actions.
+
+#### 1. Sales and Use Tax Forecast Update
+
+Heather Copp, Chief Financial Officer, reminded the Board that the Sales and Use Tax forecasting done by the University of Colorado Leeds School of Business (CU Leeds) is used in the Strategic Budget Plan (SBP), Annual Program Evaluation (APE) and the Annual Budget.  She introduced Robert McNown, Richard Wobbekind and Brian Lewandowski from CU Leeds.
+
+Robert McNown said it was a pleasure to be presenting to the Board this evening.  CU Leeds has appreciated the opportunity to work with RTD.  He reviewed a Power Point Presentation with the Board that is available in the October 20, 2015 Financial Administration and Audit Committee Agenda Packet.
+
+Robert McNown stressed that there is a lot of uncertainty involved in forecasting. He shared that the short-term and medium-term forecasts are affected by employment, personal income, and retail sales and taxable sales; the long-term forecasts focus on changes in population and age distribution which affect savings, labor supply, productivity, output, and household expenditures.  He noted that the rate of job growth and personal income increase in Colorado has outpaced the National average.
+
+Robert McNown stressed that there is always forecast uncertainty, which requires CU Leeds to make frequent revisions as new information becomes available.  He pointed to a graph of Moody’s Gross Domestic Product Expectations from March of 2013 through September of 2015 to illustrate how much just one component of their forecasts could change in a relatively short period of time.  He commented that another factor creating uncertainty in the forecasts was the addition of retail marijuana sales despite being a small portion of RTD’s total revenue.  He believes it is something the model will adjust to gradually.  He explained that the main factors that would impact the 2015-2016 revenues would be:
+
+- Improved Colorado employment, sales and personal income expectations
+
+- Change in taxable goods for RTD (tax parity with State of Colorado)
+
+- Additional of marijuana retail sales
+
+- Decreasing oil prices
+
+Robert McNown stated that the forecasts were strong for 2015 and 2016 at a change of 6.23% and 7.99% increase over the previous year.  He said that Sales and Use Tax will continue to increase over the long-term but the rate of increase will begin to slow.  He reiterated that the integrity of the forecasts is very important to CU Leeds.  This is insured through:
+
+- Quarterly forecast updates to reflect the most current economic data
+
+- Sales and Use Tax forecasts may be too high or too low, reflecting uncertainty in the economy
+
+- Theoretically sound economic relations are used to generate forecasts, modeled with state-of-the-art methods of modern econometric time series analysis
+
+- Forecasts do not incorporate “add factors” or other subjective adjustments of model forecasts
+
+- CU Leeds is independent from RTD with no political or financial stake in the forecast numbers
+
+Director Menten wondered what LBCI stood for as there was reference to this acronym associated with wavering optimism related to the Colorado economy on one of the slides.  Richard Wobbekind explained that CU Leeds produces a business confidence index on a quarterly basis.  Approximately 400 Colorado firms are surveyed about how they feel about the conditions and economy overall.  He said it is a standard confidence index where over 50 is expansionary and below 50 is contractionary.  He noted that the index is still above 50 but over the last two quarters there has been a decline in the index.  He stated that there are clearly concerns about the national economy as this has fallen below 50.
+
+Director Menten asked who is polled as part of the index.  She wonders if it covers small, medium and large businesses and if it is random.  Brian Lewandowski explained that there is an established panel with a mix of small and large businesses as well as a mix of all industries in the State.
+
+Director Solano asked for a laymen’s definition for the statement that read: “forecasts are generated from theoretically sound economic relations, modeled with state-of-the-art methods of modern econometric time series analysis”.  Robert McNown explained that CU Leeds builds individual equations based upon widely accepted macroeconomic theories.  Those equations are estimated with appropriate statistical methods and the validity of the estimates are checked to determine if they meet various statistical criteria.   He said that the methodology used by CU Leeds pays a lot of attention to the dynamic relationship between variables and takes into account leads and lags.  He stated that CU Leeds tries to incorporate the gradual adjustment of variables into the model.
+
+Chair Sisk wondered if CU Leeds had any idea what would happen to the forecasts if internet sales were taxed.  Brian Lewandowski shared that they did a study on this for the City of Boulder about five years ago.  He said that if the tax base is broadened obviously more sales tax would be collected and it would level the playing field for local retailers; however, he noted there are so many taxing bases in the Denver Metro area that it would be nearly impossible to implement.
+
+Director Bagley believes that if a trend line was drawn from around 2005 the line would come back to about where the tax is today.  He said it is important to note that underneath that line there would be a great deal of white space, which is essentially sales tax that was lost.  Richard Wobbekind stated it was correct that in any recession a great deal of output is lost that can never be recovered.
+
+Director Bagley commented that when evaluating sales and use tax by quarter, it always seems to be at its lowest for a year during quarter one.  He believes this is because people have expended a great deal coming into the Christmas season so the first quarter is a low expenditure month.  Robert McNown stated that was correct that forecasts do fluctuate quarter to quarter but it is a predictable fluctuation.  Richard Wobbekind shared that recently there has been a very strong weather effect in the first quarter that is puzzling economists all over.  It has dampened retail sales, home, sales, etc. and then very strong second quarters followed.  He said that forecasters have yet to come up with a good way to include the effect in their forecasting.
+
+Director Bagley thanked CU Leeds for their presentation. He thinks it is always good to have them keep RTD on track.
+
+Director Folska agreed that it is wonderful to have CU Leeds present.  Director Folska asked if they could provide her with the retail and medical marijuana sales tax for 2015 thus far.  Robert McNown said that to date RTD has had sales tax revenue totaling about $2.4 million for retail marijuana and $1.7 million for medical marijuana.  He believes it would be safe to project a total figure at around $6 million for the year.  Director Folska expressed that this number is so important to her because RTD is looking for a way to fund a low income pass.  She thinks this could be a nice piece of that conversation as these are new sales tax revenues.  She said it would just matter how the Agency chose to allocate and use those resources.
+
+Director Menten asked if there had been any analysis done on how the entities that have banned marijuana sales have affected potential revenues for the State or RTD.  Heather Copp stated that she could get additional information from the Department of Revenue but even without those bans Denver and the surrounding Metro area would still be the largest sales tax generators for marijuana.
+
+Director Menten wondered if the Hemp industry has begun to gain any strength.  Heather Copp believes there will continue to be an increase in the Hemp industry; however, Hemp is regulated by the Department of Agriculture so it will not generate the same kinds of sales tax as marijuana.
+
+Committee Chair Tobiassen noted there have been two bubbles in the economy since 2000 according to the State Taxable Retail Sales in the District graph.  In looking at the graph for 2015 he wonders if perhaps there is not a bubble happening right now.  Richard Wobbekind said the one thing that could indicate a bubble right now is housing prices; however, he does not think housing prices are bubbly but that they might be a constraint to growth.  He stated that he does not believe there is a bubble right now.
+
+Director James said his perception is that many of the risk factors to the economy come from offshore, like the uncertainty surrounding the Chinese economy.  He wondered if CU Leeds could address those.  Robert McNown stated that things like the Chinese economy are not factors in the forecasts but that is why CU Leeds also prepares upper and lower bounds for the forecast to reflect those unpredictable changes.
+
+##### a. RTD_Sales_and_Use_Tax_Forecast_102015
+
+#### 2. 2016 Budget Update
+
+Heather Copp stated this was the third presentation on the 2016 Requested Budget.  She reminded the Board that the September forecast from CU Leeds has been incorporated into the Requested Budget.
+
+Jannette Scarpino, Senior Manager of Budget and Financial Analysis, reviewed a Power Point Presentation with the Board that is available in the October 20, 2015 Financial Administration and Audit Committee Agenda Packet.  She said the major budget assumptions for 2016 are:
+
+- Sales and use tax increase based on revised CU Leeds September forecast
+
+- Diesel fuel cost at $2.23 per gallon vs $2.95 in 2015
+
+- Unrestricted year-end fund balance for Base System projected at $5.2 million  which is in line with the Strategic Budget Plan (SBP)
+
+She stated that the budget challenges are:
+
+- Grant revenue may be volatile due to budget challenges at national level
+
+- Funding challenges for remaining FasTracks projects build-out
+
+- Cost allocation from Base System to FasTracks for costs of operating lines
+
+- Service payment to Denver Transit Operators for first time in 2016 totaling $57 million
+
+- Pension and Health and Welfare plan contributions totaling $2.5 million necessary in 2016
+
+The presentation also included information on sources of funding and uses for both the Base System and FasTracks as well as on a combined basis.  The next step will be presentation of the 2016 Recommended Budget to the Financial Administration and Audit Committee on November 10 with request for Board Adoption on November 17.
+
+Director Folska asked for the Communication Department’s budget for 2016.  Jannette Scarpino said for Base System the Communication’s Requested Budget was about $14 million or about 3% of the Base System budget.  For FasTracks it was about $5.6 million or 2.6% of the FasTracks Requested Budget.
+
+Director Folska asked for the expected cost of electricity for 2016 given all the new line openings.  Interim General Manager Genova stated that cost cuts across several departments so staff would have to get it for her.
+
+Director Folska noted that there are new tax revenues from medical and retail marijuana that will total about $6 million.  She encouraged the Directors to consider using this funding for a low income fare program.
+
+Director James pointed out that change in diesel fuel price is very noticeable.  He wondered if staff could provide a comparison between the total cost per year from when diesel peaked in 2013 to 2016’s lock.  Heather Copp noted that from 2015 to 2016 the decreased price per gallon for diesel would result in a savings of about $6 million.  Jannette Scarpino said she would prepare a comparison from 2013 to 2016.
+
+Director Anderson commented that she believes good public policy when it comes to budgets is to not earmark funds.  She stated that RTD is opening five new lines in 2016 so the Board needs to be very careful about taking funding and applying it to something on a whim.
+
+Director Menten asked for the dollar value of the capital carry forward.  Jannette Scarpino reminded the Board that this had not yet been estimated for 2016; however, as an example for 2014 on the Base System side the capital carry forward was $170 million and on the FasTracks side it was $817 million.
+
+Committee Chair Tobiassen thanked staff for the hard work they do on the budget.  He noted that many, many Requested Budget items have been whittled down and pushed off to future years so it is not like there is a great deal of extra money.
+
+##### a. 2016 Requested Budget - Update
+
+##### b. 2016 Requested Budget - FAAC102015
+
+#### 3. Fiscal Sustainability Task Force Recommendations Update
+
+Heather Copp reminded the Board that this is the quarterly update to keep the appraised of them status of the Fiscal Sustainability Task Force recommendations from November, 2010.  She outlined the completed recommendations as followed:
+
+- Remove the volatility from sales and use tax projections through contracting with the University of Colorado Leeds School of Business
+
+- Service optimization through an 8% net reduction in service in 2012
+
+- Adopting fund balance policies of three months operating expenses for Base System and two months operating expenses for FasTracks
+
+- Establish sales and use tax parity with the State effective January, 2014
+
+- Comprehensive energy audit
+
+Heather Copp said that the following recommendations were ongoing:
+
+- Sales and use tax compliance reviews
+
+- Naming rights
+
+- Partnerships and privatization
+
+She explained that the low priority recommendations continue to remain a low priority and staff has not been actively pursuing them.
+
+Director Francone noted that in the report under sales and use tax compliance reviews it noted that Revenue Recovery Group had issued assessments totaling $600K versus costs of $520K.  She wondered if that meant RTD had collected $600K.  Heather Copp stated that she would explain this further during the FasTracks Internal Savings Account update as there is a huge difference between assessments and collections.
+
+Director Solano commented that revenues from marijuana sales tax at $6 million and the recently approved naming rights at $5 million is very close to the $11 million needed annually for a low income pass program.  Jannette Scarpino explained that the naming rights did not provide a yearly revenue figure of $5 million; RTD will receive approximately $1 million per year for five years.  Scott Reed noted that the advertising policy recently changed which was likely to result in a decrease in that revenue.
+
+#### 4. FasTracks Internal Savings Account (FISA) Update
+
+Heather Copp reminded the Board that in 2012 staff presented an initiative to identify opportunities to provide additional funding for FasTracks projects with a goal of $300 million by 2017, which was called the FasTracks Internal Savings Account (FISA).  The goals for the use of the FISA funds were: (1) completion of US 36 Bus Rapid Transit Project, (2) Construction of North Metro to at least 72nd Avenue and (3) Any remaining funds above the $300 million goal could leverage potential grants or private sector contributions for FasTracks partially-funded projects at the Board’s Discretion.  She explained that some of the figures initially presented have changed significantly since then and wanted to walk the Board through the reasoning.
+
+Heather Copp reviewed the following FISA items with the Board with their status:
+
+- Evaluate FasTracks Funding for Base System Operations
+
+Initially when FasTracks was approved, a provision was made whereby FasTracks would provide funding each year to the Base System for additional bus service necessary for feeder service to new rail corridors.  This was initially programed at 1% per year between 2006 and 2020 and 1.5% between 2021 and 2025.  Staff recommended that this funding be limited to the growth in the Consumer Price Index, which staff believed would generate $24 million through 2017.
+
+Heather Copp stated that to-date there has been $7.8 million contributed to the FISA and staff feels confident that the remainder will be realized through 2017 to bring the total to $24 million.
+
+- Reduce FasTracks Minimum Unrestricted Fund Balance
+
+As FasTracks projects were completed, it was assumed that the need to maintain $150 million of unrestricted fund balances to address unforeseen construction expenditures would diminish.  By 2017 it was assumed that $72 million of this fund balance could be available for the FISA.
+
+Heather Copp explained that these funds did become available; however, instead of that money coming through the FISA it was used to offset other costs and overruns in the FasTracks Program.   She said there will be no additional funds to add to the FISA from the unrestricted fund balances through 2017.
+
+- Reduce FasTracks Operation and Maintenance Fund Balance from 3 to 2 Months
+
+The RTD Fiscal Policy set a target for the Base System unrestricted reserves of 3 months operating expenses.  The Fiscal Policy was modified for FasTracks operations to set a reserve of 2 months of operating expenses with the 3rd month being set aside for the FISA.
+
+Heather Copp stated this had been done and staff expected to have approximately $11.5 million in the FISA from this action.  She explained that it would not grow beyond that as after all the line openings through 2017 the FasTracks operations unrestricted reserves will go back to 3 months’ worth of expenses.
+
+- Defer Southwest Corridor Union Pacific Railroad Relocation
+
+The FasTracks Financial Plan included a 2014 expenditure of $9 million to relocate a portion of the Union Pacific Railroad for construction of the Southwest Corridor extension.  It was suggested this be delayed until the Southwest Corridor extension was fully funded and the funds allocated for the relocation of $9 million be put in the FISA.
+
+Heather Copp noted this had been deferred and that the $9 million was available in the FISA.
+
+- Achieve Cost Underruns on FasTracks Projects
+
+It was assumed that as FasTracks corridors were completed, up to $15 million could be saved through cost savings.
+
+Heather Copp explained that these cost savings were reprogrammed back into FasTracks to address additional project elements for the North Metro Line through 125th Avenue that were approved through the Annual Program Evaluation (APE) in 2015.  There would be no additional funds for the FISA from this item through 2017.
+
+- Sales/Lease Opportunities for all RTD Properties
+
+As part of the FISA a goals was set to identify properties to sell or lease that could generate $20 million by 2017.
+
+Heather Copp stated that to-date $5.6 million has been realized for the FISA.  She said that the sales of Civic Center air rights generated $8.1 million.  Of the $8.1 million, $2.5 million was used for the Northwest Area Mobility Study.  She noted that staff will continue to look at sales and lease opportunities but at this time she does not have an estimate on what will be realized by 2017.  She pointed out that a lot of RTD properties, especially on the FasTracks side, have used federal funds which does impact the sale/lease of the properties and how the funds might be allocated.
+
+- Request Increase in Local Participation Above Current 2.5%
+
+As part of the FISA the goal was established to pursue participation above the required 2.5% local match.
+
+Heather Copp said that this had happened for the Southeast Rail Extension and these funds are designated in the FISA for construction of that extension.  She stated at this time the amount realized from this item is still unknown.
+
+- Sales Tax Audit/Parity
+
+As a result of the Fiscal Sustainability Task Force recommendations in 2011, it was assumed that RTD could enhance sales and use tax revenues through a combination of self-collection, which was eventually revised to be supplemental tax audits, and establishing parity with the State.  The goal for these two items for the FISA was $127 million.
+
+Heather Copp noted that RTD was able to establish parity with the State beginning in January, 2014.  She shared that staff believes the parity has generated some additional revenue; however, the ability to determine how much additional revenue generated is virtually impossible.  She stated that even the Department of Revenue cannot tell RTD because the tax forms do not include that level of detail.  She said that the sales and use tax is already accounted for in the Strategic Budget Plan so no funds will go to the FISA from this item.
+
+Heather Copp stated that related to RTD’s external audits, her recommendation is that RTD no longer continue contracting for these services.  She pointed out that to date the efforts of RTD’s external audit company, Revenue Recovery Group (RRG), had resulted in assessments of approximately $650K and costs of $500K.  She explained that an assessment if very different than a collection.  In an assessment, RRG has reviewed a company and determined that they owe additional taxes other than what they company reported.  This assessment is submitted to the Department of Revenue for review.  If the Department of Revenue agrees they will send a bill to the customer but it is possible the Department of Revenue might not agree with the assessment.  Once the customer receives the bill the customer has several options.  Unless the customer pays the bill outright, which they usually do not do, there are several options that can reduce the amount paid to RTD and take quite some time to resolve.  Heather Copp believes that RTD will end up paying more to RRG than is ever actually collected.  She does not think there will be any funds available to the FISA from this recommendation.
+
+Heather Copp stated that in summary, it is estimated that by 2017 the FISA recommendations will result in funds of $86.7 million.  She said that after accounting for approved items for the US 36 BRT, North Metro Rail Line and Southeast Rail Extension the remaining balance will be $34.3 million.  She explained that funds were programmed in the APE for debt service and operations for already funded FasTracks Projects.
+
+Director Menten said she cannot tell staff how absolutely pleased she is that they are recommending RTD not continue the contract with RRG.  She does not believe there are business owners intentionally evading taxes.  If there are additional funds they owe it is through little mistakes because the taxing is so complicated.
+
+Director Menten inquired if the ballot language from the 2004 approval of FasTracks included the 1% contribution to the Base System.  She was concerned that moving to the CPI might be going against what the voters voted for.  She also wondered if our paratransit service might suffer the most by decreasing the funding.  Marla Lien, General Counsel, stated that the ballot language did not specify that 1% of FasTracks funding would go to the Base System.  She said that as far as paratransit service, the Federal ADA requirement says that RTD must provide paratransit service a certain distance from our fixed-route service at certain times.  The change in FasTracks funding will in no way impact how RTD provides paratransit service.
+
+Director Folska believes that as it relates to the sale and lease of RTD properties it is very important that the Board have an inventory of all RTD’s real property.  Heather Copp said she thought that would be provided as one of the outcomes from the Transit Oriented Development (TOD) assessment.  Director Folska stated that the Board had been in talks with the TOD department about this long before that assessment began.   She commented that the Board has been asking for that inventory for over two years and it is time to make it a priority.  Chair Sisk commented that the property inventory was sent earlier in the day but while the Board was participating in the General Manager Executive Search Committee so not everyone had the chance to see it.
+
+Director Bagley asked staff to put the information into a one-page table so it was easy to look at in a comprehensive manner.  He said he would get with staff offline to discuss this.
+
+Director Hoy thanked staff for all their work.  He shared with the Board that he has had several meetings with staff related to the FISA.  He noted that the uses of the FISA funds had been outlined by Heather Copp.  He asked if he was to presume that the uses outlined were the only uses for the FISA funds.  He stated that the use of FISA funds to pay down debt service really surprised him.  He said that his impression was that FISA funds would always be used to get tracks on the ground, build BRTs, etc.  Heather Copp stated those were the only uses identified at this time.  She said the discussion of using FISA funds for debt service and operations could be addressed when the APE was brought to the Board in 2016.  She expressed that she was not sure it was clear to the Board that debt service and operations was one of the funding sources use to balance the APE.
+
+Director Hoy noted that there were FISA funds used for certain FasTracks projects that bypassed the FISA.  He suggested that in the future if it is supposed to run through the FISA that is what happens.  He believes this will make it a clearer process to the Board.  Heather Copp stated that staff would definitely do that in the future.
+
+Chair Sisk thinks that the FISA really needs to be scrutinized.  He said that what he understands this evening is that the FISA will no longer be used for building additional projects as was promised but for financing completed projects.  He shared that he does not think this is what the Board intended.  Chair Sisk stated that the other issue is to really understand where the $300 million estimate came from.  He feels this is a very significant deviation and something that deserves an explanation.
+
+Director James pointed out that the Fiscal Sustainability Task Force was something that was developed when the economy was terrible.  He said that some of the items that were recommended in retrospect were worthwhile while others were not; however, the scrutiny that resulted from that Task Force was a really good thing for RTD to find the money hiding under the couch cushions.  Heather Copp agreed that the Task Force really brought the discussions of finding additional revenue to the forefront.  She believes there was a genuine intent to find every dollar available.  She stated that the sales tax audits were an endeavor that was worthwhile but RTD has since learned there were not many holes in the State’s process; however, we would never have known had we not investigated the opportunity.
+
+Director Anderson believes that the idea of auditing only makes sense if RTD had home rule.  She said that is the piece that was missing as part of the recommendation.  Heather Copp stated she would agree with that, especially now that RTD has parity with the State.
+
+Committee Chair Tobiassen shared that at his Telephone Town Hall someone made the comment that there is a billion dollar surplus that RTD will generate over the next few years.  He said he was stunned by this comment.  He believes that the FISA is where this person thought the surplus was coming from.  He believes it is very important that RTD set the expectations that this is not the case nor are FISA funds being earmarked for someone’s pet project.  He thanked Heather for the clarification and reality of the FISA.
+
+##### a. Board Memo - FISA Table
+
+#### 5. August 2015 Monthly Financial Status Report
+
+Doug MacLeod, Controller, pointed out that the August Monthly Financial Status Report was included in the October 20, 2015 Financial Administration and Audit Committee Agenda Packet.  He noted that there is a continuing trend where the revenues are still under budget; however, in July we were $6 million under budget while as of August it was $3 million so there is some improvement.  He said that expenses are easier to adjust than revenue.  He stated that as of August, expenses were further under budget than revenue.
+
+There were no questions from the Board.
+
+##### a. 083115 RTD MFS Final
+
+#### 6. Smart Media Technology (SMT) and Day Pass Printer Status
+
+Heather Copp stated that the Smart Media Technology Report was included in the October 20, 2015 Financial Administration and Audit Committee Agenda Packet.  She pointed out that there is a new line item for rider experience as a result of the phase I pilot program.  She said there were some concerns as a result of the pilot that staff was continuing to explore as part of phase II.
+
+Director Francone inquired as to the color of the day pass printers.  Kim Heldman, Senior Manager of Information Technology, said she believes they are green but will confirm.
+
+Director Bagley asked, given there are only 70 days left in the year, if Interim General Manager Genova felt confident the Smart Cards would work on January 1, 2016.  Interim General Manager Genova stated that technically the pilots had been going very well.  He said he remained highly confident that RTD would hit the January 1, 2016 stored value roll out of the Smart Cards.
+
+### D. Other Matters
+
+There were no Other Matters.
+
+### F. Adjourn
+
+Committee Chair Tobiassen adjourned the meeting at 7:55 p.m.

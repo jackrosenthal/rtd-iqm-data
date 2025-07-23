@@ -1,0 +1,9535 @@
+Regional Transportation District
+
+1600 Blake Street
+Denver, CO 80202-1399
+303-299-2306
+
+Board of Directors
+Chair – Tom Tobiassen, District F
+First Vice Chair – Larry Hoy, District J
+Second Vice Chair – Barbara Deadwyler, District B
+Secretary – Paul Daniel Solano, District K
+Treasurer – Tina Francone, District N
+Lorraine Anderson, District L
+Ernest Archuleta, District C
+Kent Bagley, District H
+Dr. Claudia Folska, District E
+Bill James, District A
+
+Gary Lasater, District G
+Judy Lubow, District I
+Natalie Menten, District M
+Chuck Sisk, District O
+Jeff Walker, District D
+
+AGENDA
+Operations & Customer Service Committee
+Tuesday, June 14, 2016
+Rooms R, T, & D
+5:30 PM
+Conference Dial-in # 303-299-2663
+Conference ID: 15120
+
+Operations and Customer Service Committee
+Chaired by Lorraine Anderson
+
+A. Call to Order
+B. Recommended Actions
+
+• Extension of Aconex Contract to 2020
+C. Updates
+
+• Revised RTD Transit Service Policies & Standards
+• 16th Street Mall Summer Activities 2016
+• University of Colorado A-Line Ridership Update
+• Mobility Choice
+• Recent FTA Guidance Regarding ADA Accessibility and Bus Stop/Shelters
+• Hiring Update
+
+ Lost Service Hours Update (no back-up)
+
+• Contracted Fixed-Route Quarterly Report – 1st Quarter 2016
+• Access-a-Ride/Cab 1st Quarter Report 2016
+• Special Services 1st Qtr Report
+• 2016 1st Quarter Complaint Analysis
+• 1st Quarter 2016 Security Statistics & Fare Inspection Summary
+D. Other Matters
+E. Next Meeting Date - July 12, 2016
+F. Adjourn
+
+The following communication assistance is available for public meetings:
+ Language Interpreters
+ Sign-language Interpreters
+ Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 business hours in advance of a
+RTD meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+1.B.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: June 8, 2016
+
+From:
+
+Henry Stopplecamp, Acting Assistant General
+Manager, Capital Programs
+
+GM
+
+Date:
+
+June 8, 2016
+
+Board Meeting Date: June 28, 2016
+
+Subject:
+
+Extension of Aconex Contract to 2020
+
+RECOMMENDED ACTION
+It is recommended by the Operations & Customer Services Committee that the RTD Board of Directors
+authorize the General Manager, or designee, to execute all documents necessary to award a three-year
+contract in the amount of $695,400, with three one-year options at $167,000 each in the total amount
+not too exceed $1,196,400 to Aconex for Construction and Operational Management Software as a
+Service. Funding for this contract was included in the 2015 Annual Program Evaluation, and will be
+appropriated in future year budgets.
+BACKGROUND
+RTD’s current Aconex contract will be ending May of 2017; however, RTD will still have many ongoing
+construction projects such as Eagle, I-225, SERE, North Metro as well as smaller engineering projects,
+that will still be active past that date. These projects will need a document control system to capture
+construction and process project closeout documentation. Also, as projects complete, Capital Programs
+is required to turn over necessary operational data to Base side departments such as Commuter Rail and
+Facilities Maintenance. Because these Base side departments did not have a repository to receive and
+store turn over and operational documentation, an Aconex Change Order was issued in 2016 to provide
+the Aconex platform to the Base side to satisfy that business requirement. Because of these ongoing
+document control needs, RTD would like to extend the Aconex contract to 2020. In addition, Aconex
+recognizes the benefit of having RTD as a client and has made an extension offer price that is good until
+June 30, 2016. This price is close to our original contract amount and still offers RTD more usability for
+the Base side departments.
+DISCUSSION
+Due to the number of current and future projects, the large amount of data and number of system users,
+it is recommended that RTD extend the contract years to obtain a consistent document repository rather
+than go out to bid on a different system. This is also the recommendation of the RTD’s Enterprise
+Content Management consultant, the iQ Business Group, who is currently working with RTD to improve
+our information management practices and will recommend an enterprise content management approach
+later this year. Other factors include, with five of the major FasTracks projects opening this year,
+Capital Programs would be hard pressed to provide the necessary resources to conduct a procurement
+for another system of this type and migrate the data from over thirty-two (32) projects to another
+system. Also, because many of the projects, including the new University of Colorado A-Line Commuter
+Rail, have the use of Aconex set in to their contracts and/or agreements, RTD would have to work with
+contractor teams on conversion to another system and provide training. By staying with the Aconex
+system RTD will be able to:
+ Maintain system and process continuity to its project teams and stakeholders
+ Provide a system to receive track performance reports and invoice processing for the Commuter
+Rail division
+
+Packet Pg. 3
+
+1.B.1
+
+ Provide the Facilities Maintenance department a repository with which they are already familiar in
+order to turn over closeout data for the FasTracks projects to Facilities Maintenance
+ Avoid any contractual disputes with stakeholders
+ Avoid migration costs and training
+FINANCIAL IMPACT
+The total amount of the contract extension is $695,400, with three one-year options at $167,000 each
+not to exceed the total amount of $1,196,400 Funding for this contract was included in the 2015
+Annual Program Evaluation, and will be appropriated in future year budgets.
+SBE PARTICIPATION
+The RTD Small Business Opportunity Office established a 0% SBE participation goal for this project.
+ALTERNATIVES
+1. It is recommended by the Operations & Customer Services Committee that the RTD Board of
+Directors authorize the General Manager, or designee, to execute all documents necessary to award
+a three-year contract in the amount of $695,400, with three one-year options at $167,000 each in
+the total amount not too exceed $1,196,400 to Aconex for Construction and Operational
+Management Software as a Service. Funding for this contract was included in the 2015 Annual
+Program Evaluation, and will be appropriated in future year budgets.
+2. Do not accept the Recommended Action. Instead, use RTD in-house staff and consultants to
+develop a solution using RTD’s Legacy document control software and re-train users. This is not
+recommended because the Legacy system does not have the necessary functionality to provide the
+level of service needed to support RTD projects and departments both inside and outside our firewall.
+3. Do not accept the Recommended Action. Do not extend the contract and go back out to look for a
+new system. This, also, is not recommended, because of the impact to the FasTracks and
+Operations Departments and the level of effort it would require to conduct another Request For
+Proposal (RFP). This is not recommended because Aconex presented the proposal that best meets
+the evaluation criteria set forward in the RFP.
+
+Prepared by:
+Lisa Dorrance, Manager, FasTracks Document Control
+Approved by:
+
+Packet Pg. 4
+
+1.C.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, Interim General Manager and
+CEO
+
+Date: June 9, 2016
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+June 8, 2016
+
+Board Meeting Date:
+
+Subject:
+
+Revised RTD
+Standards
+
+Transit
+
+Service
+
+Policies
+
+&
+
+Information
+
+Discussion
+RTD has had service standards in place for many years to provide a rational, equitable and sustainable
+approach to developing and evaluating all its services for the benefit of the District’s constituents as a
+whole. The last revision was adopted in 2002 and in 2008 RTD commissioned our Service Development
+consultant to provide a thorough review of our standards in relation to transit industry peers.
+Recommendations have been incorporated into the revised standards for: the service classification
+system; new service warrants; service design and performance standards; demand-responsive transit;
+and standards for transit-dependent riders. Since 2002 many changes have occurred in our industry as
+well as to RTD needs. The acquisition of automatic vehicle location and passenger counting has
+provided a profusion of valuable data for improved analytics and reporting, such as better measurements
+for on-time performance and crowding. Our Geographic Information System is used to illustrate service
+classification and the effects of service changes on Access-a-Ride customers. Consideration of FTA
+regulations for Tile VI and Environmental Justice are now expressly incorporated into the Standards. To
+address the diverse needs of the RTD constituencies, RTD has developed guidelines regarding shuttles
+and circulators as well as a cost sharing policy.
+These and other revisions developed since 2002 were vetted with extensive involvement of RTD Service
+Development, Engineering and Planning Technical Services staff. In 2015 RTD invited review and
+comment from our stakeholders and held several meetings with all those representatives who were
+interested (about a dozen). As a result a number of revisions were incorporated into the document,
+although some that require much more extensive analysis were postponed for future consideration.
+Attachment A provides highlights of the revisions.
+ATTACHMENTS:
+
+
+Attachment A Transit Service Policies & Standards
+
+
+
+Atch B - Service Standards - Proposed Revisions 2016
+
+
+
+Atch C - Service Standards 2016 Power Point
+
+(DOCX)
+(DOCX)
+
+(PPTX)
+
+Prepared by:
+Jeff Becker, Senior Manager, Service Development
+Approved by:
+
+Packet Pg. 5
+
+1.C.1
+
+Packet Pg. 6
+
+1.C.1.a
+
+The following follows the Table of Contents of the document.
+1. Introduction
+Due to the implementation of FasTracks and resulting service restructuring, the routes
+in the Express, Regional and SkyRide service classes are reassigned into either the
+Regional class or the Local CBD class based on the length of the non-stop portion of
+the route. Also the Urban classification is now specifically defined as having 35% or
+more of route length within a ¼ mile buffer with population+employment density of
+12 per acre or greater; and Suburban class with 34% or less.
+2.3.1 Minimum Service Frequency
+Rail and Enhanced Bus (BRT) minimums were added to the table of minimum
+frequencies.
+2.3.3 Maximum Load (Crowding) Standard
+From the latest customer and industry research, RTD now defines the amount of
+crowding on a route as the percent of total trips during a defined time period that
+exceed the comfort passenger level of 4.3—5.3 square feet per standee (level-ofservice D and E).
+2.4.2 Access-A-Ride
+A new section was added summarizing US DOT requirements for ADA complementary
+paratransit for individuals who cannot readily access the RTD bus and rail system.
+2.5 Reliability
+A new section was added defining on-time for fixed-route service as not more than 1
+minute early to not more than 5 minutes late.
+3.3 Roadway Design Goal
+This now references the Engineering staff’s Bus Transit Facilities document, Transit
+Access section.
+4. Shelters
+A new section was added defining the minimum warrant for the placement of a shelter
+as 40 boardings per day at a stop.
+5.2.1 Minimum Service Levels
+Call-n-Ride is included as an appropriate service for areas with 3 - 12
+population+employment per acre.
+5.2.2 Maximum Target Service levels
+This section was deleted as not needed.
+5.2.2 Access-A-Ride - ADA Required Service Area Coverage
+A new section was added summarizing the FTA requirements for ADA complementary
+paratransit services.
+6. Transit Access
+A new section was added referencing the Engineering staff’s Bus Transit Facilities
+document, Transit Access section.
+7.2 Standards for Events
+The paragraph that “RTD may also provide service at events with lower attendance
+projections if the promoter is willing to subsidize such service” is deleted. This is
+charter service and not permitted by FTA.
+8. Shuttles & Circulators
+
+Packet Pg. 7
+
+Attachment: Attachment A Transit Service Policies & Standards (2747 : Revised RTD Transit Service Policies & Standards)
+
+Attachment A
+Highlights of Revisions to the Transit Service Policies & Standards
+
+A new section was added that provides guidelines and requirements to stakeholders in
+local communities who would like to develop such services. It addresses such
+characteristics as population density, major activity centers, transit friendly
+environment, minimum service levels and fares.
+10. Title VI Compliance
+A new section was added that RTD follows FTA Circular 4072.1B “Title VI
+Requirements and Guidelines for Federal Transit Administration Recipients,” Chapter
+4.4.
+12. Service Change Process
+A new section was added describing the typical runboard process for analyzing,
+proposing and implementing service changes.
+13. Cost Sharing Policy
+A new section was added detailing this policy that facilitates partnerships with RTD to
+demonstrate new or expanded services using funds obtained from grants and
+voluntarily pledged by private employers, businesses or local governments. The
+guidance outlines financial feasibility, vehicle availability, local government and
+community support and performance requirements.
+
+Packet Pg. 8
+
+Attachment: Attachment A Transit Service Policies & Standards (2747 : Revised RTD Transit Service Policies & Standards)
+
+1.C.1.a
+
+Atch B – Service Standards – 2016
+
+1.C.1.b
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+Transit Service Policies & Standards
+Proposed Revisions
+March, 2016
+
+Regional Transportation District
+
+Packet Pg. 9
+
+Service Development Policies & Standards
+
+Table of Contents
+1. Introduction ..................................................................................................... 1
+1.1 Overview .................................................................................................. 1
+1.2 Application of Service Standards .................................................................. 1
+1.3 Updating of Service Standards ..................................................................... 2
+2. Performance Standards ..................................................................................... 2
+2.1 Derivation and Use of Standards ................................................................... 2
+2.2 Ridership and Economic Measures ................................................................ 3
+2.2.1 Performance Objective ........................................................................................ 4
+
+2.3
+
+Fixed Route Service Design and Evaluation Standards ...................................... 4
+
+2.3.1 Minimum Service Frequency ................................................................................. 4
+2.3.2 Minimum Ridership Performance ........................................................................... 5
+2.3.2.1 Performance Standards ................................................................................. 5
+2.3.2.2 Specific Trips Ridership Standards .................................................................. 5
+2.3.3 Maximum Load (Crowding) Standard ..................................................................... 6
+2.3.4 Demand Based Service Frequency ......................................................................... 7
+2.3.5 Vehicle Assignment Targets ................................................................................. 8
+2.3.6 Design and Evaluation of Portions of Routes ........................................................... 8
+2.3.6.1 Midline Segments and Midline Deviations ........................................................ 8
+2.3.6.2 Branches and End Segments .......................................................................... 9
+
+2.4
+
+Demand Response Service Design and Evaluation Standards ............................. 9
+
+2.4.1
+2.4.2
+2.4.3
+2.4.4
+
+3.
+
+Call-n-Ride ......................................................................................................... 9
+Access-A-Ride .................................................................................................. 10
+Vanpooling ...................................................................................................... 10
+SeniorRide and Senior Shopper ........................................................................... 10
+
+2.5 Reliability ................................................................................................ 11
+Geometric Design Standards ............................................................................ 11
+3.1 Directness of Route .................................................................................. 11
+3.2 Stop Spacing Standards ............................................................................ 11
+3.2.1 Minimum ......................................................................................................... 11
+3.2.2 Maximum ........................................................................................................ 11
+
+3.3 Roadway Design Goal ............................................................................... 12
+4. Shelters ........................................................................................................ 12
+5. Area Coverage Standards ................................................................................ 12
+5.1 Purpose and Application ............................................................................ 12
+5.2 Coverage Levels Outside the Denver CBD .................................................... 12
+5.2.1 Minimum Service Levels .................................................................................... 13
+5.2.2 Access-A-Ride - ADA Required Service Area Coverage........................................... 13
+
+6.
+7.
+
+Transit Access ............................................................................................... 14
+Service Guidelines for Special Events and Special Services ................................... 14
+7.1 Derivation of Standards ............................................................................. 14
+7.2 Standards for Events................................................................................. 15
+8. Shuttles & Circulators ..................................................................................... 15
+8.1 Characteristics ......................................................................................... 15
+8.2 Guidelines for Success .............................................................................. 15
+9. System-Wide Cost Recovery Standard ............................................................... 16
+10. Title VI Compliance ........................................................................................ 17
+11. Standard for Service for Transit Dependent Persons and ...................................... 17
+
+Packet Pg. 10
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+1.C.1.b
+
+Service Development Policies & Standards
+
+To Social Service Destinations ............................................................................... 17
+11.1 Purpose of the Standard ............................................................................ 18
+11.2 Determination of Transit Dependency .......................................................... 18
+11.3 Application of Transit Dependency Standard ................................................ 18
+12. Service Change Process .................................................................................. 18
+13. Cost Sharing Policy ........................................................................................ 19
+13.1 Background ............................................................................................. 19
+13.2 Guidance................................................................................................. 19
+13.2.1
+13.2.2
+13.2.3
+13.2.4
+
+Financial Feasibility ........................................................................................ 20
+Vehicle Availability ........................................................................................ 20
+Local and Community Support ........................................................................ 20
+Performance ................................................................................................. 21
+
+List of Figures
+Figure 1 Effectiveness - Productivity Chart ................................................................. 4
+List of Tables
+Table 1 Minimum Service Frequency ......................................................................... 5
+Table 2 Specific Trips Ridership Standards ................................................................. 6
+Table 3 Demand Based Service Frequency ................................................................. 8
+
+Packet Pg. 11
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+1.C.1.b
+
+Service Development Policies & Standards
+
+1.C.1.b
+
+1.1 Overview
+RTD continually receives requests for changes to existing service and for new service in
+growing areas of the District. Additionally, RTD may be operating some services that are
+not attracting enough riders to justify their cost. In order to be consistent in the
+evaluation of service proposals, and to ensure that the service being provided represents
+the most cost-effective use of the District's resources, a set of service standards is
+maintained by RTD.
+The specific standards, targets or minimum/maximum values for the standards, and a
+procedure for applying these standards, are presented in this document. Since service
+standards are intended to optimize usage of the District's resources, they are updated
+periodically to reflect changes in the District goals and resources. The procedure for
+updating the standards is described in Section 1.3.
+
+1.2 Application of Service Standards
+There are two primary applications for the ongoing use of the service standards. These
+are the use of standards to evaluate existing services, and use of standards to evaluate
+proposals for new service.
+The application of standards to existing routes is a flexible process. The purpose of the
+standards is to help identify routes which are most in need of service changes, such as
+restructuring to eliminate lower productivity segments or branches, adjusting service
+frequency to better reflect the demand for service, or providing additional promotion of
+less patronized routes where appropriate. Routes, which do not meet standards, are not
+automatically designated for elimination. Elimination of routes is only intended as a last
+resort, when it has been determined that no cost-effective actions are available to improve
+the productivity of the route.
+The standards for evaluation of existing routes are not intended to preclude changes to
+routes that meet these minimum standards. In many cases, it may be possible to improve
+the productivity of routes that meet the minimum standards by making changes to
+headways or trip times. Since the overall mission of RTD is “To meet our constituents’
+present and future public transit needs by offering safe, clean, reliable, courteous,
+accessible and cost-effective service throughout the District,” these standards should not
+be used to prevent changes to improve the efficiency of existing routes, as long as the
+changes meet the route design standards.
+The availability of financial resources, represented by the annual budget, is the bottom line
+for these standards. Service expansion may occur when additional funds are available and
+contraction may occur otherwise. In any case, selection of which services to provide or
+curtail is based on these performance standards and no service is considered guaranteed
+
+Revised June 9, 2016
+
+1
+
+Packet Pg. 12
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+1. Introduction
+
+Service Development Policies & Standards
+
+1.C.1.b
+
+The evaluation of new service proposals will take place as proposals are received or needs
+identified. The most recent values of the standards for existing routes will be used to
+evaluate the proposed new services. Decisions regarding implementation of new routes
+will be made through the service planning process. New routes and services will be
+expected to meet all applicable design standards described in Sections 2, 3 and 55, but
+will not be expected to meet the productivity standards described in Section 2.3.2.1 until
+they have been in operation for at least six months. Demonstration, experimental, and
+cost sharing services are also handled in this manner.
+
+1.3 Updating of Service Standards
+The service standards are intended to support the goals and objectives of the District.
+Since these objectives and the resources available to attain them can be expected to
+change over time, the standards will be revised periodically to reflect those changes.
+The service standards will be reviewed on a bi-annual basis. At that time, experience
+with the service standards over the previous time period, as well as changes in the
+District's goals and objectives, will be used to determine whether any standards should be
+added or revised.
+The numerical values of productivity standards will be updated each year, using ridership,
+revenue and cost figures for the most recent twelve-month period for which data are
+available. The rankings are based only on those routes that existed for the entire year.
+Routes which were eliminated during the year will not be included because they cannot be
+identified as candidates for revisions. Routes that were introduced during the year will not
+be included in determining the new standards since they are not required to meet the
+productivity standards until they have been in operation for at least six months. However,
+these routes will be evaluated separately, using the service standards contained in this
+document.
+The updating procedure will compare the values of the productivity standards with those
+in effect for the previous year. Operating cost data for the previous year will be revised to
+account for system-wide increases or decreases in operating cost.
+
+2. Performance Standards
+2.1
+
+Derivation and Use of Standards
+
+The productivity standards are used to identify routes and services for appropriate
+marketing and possible revision or elimination. Separate standards are identified for each
+class of service. Routes are evaluated on ridership (either boardings per in-service hour or
+per trip, depending on the class of service) and on the economic measure of subsidy per
+passenger. These standards are based on the performance of the least productive 10
+percent of the routes in each service class for either the ridership or economic measure, or
+
+Revised June 9, 2016
+
+2
+
+Packet Pg. 13
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+or beyond review. The RTD Board of Directors, with input from RTD staff and the public,
+is responsible for making decisions on service recommendations.
+
+Service Development Policies & Standards
+
+on the least productive 25 percent of routes in both measures. The basis for the
+standards will be reviewed in conjunction with the cost recovery standards in Section 99,
+and may be revised if necessary.
+New services should meet the applicable standards for their class of service after six
+months of operation. All new services will be reviewed after six months of operation and
+routes that have not shown adequate progress toward meeting the standards will be
+targeted for cost-effective actions to increase productivity or for elimination.
+For the purpose of applying the standards, Local and Limited routes will be divided into
+three groups based on area-type land-use designations: CBD routes (routes which serve
+the Denver Central Business District), Urban routes, and Suburban routes. These
+groupings of Local and Limited routes will enable the comparison of routes with similar
+service characteristics. Express, Regional and sky Ride routes will be evaluated as
+separate classes due to their different service characteristics. For the purposes of
+evaluating productivity, Light Rail will be measured against the standards established for
+CBD Local routes, except where otherwise noted.
+To meet the RTD mission to provide cost-effective service throughout the District, RTD
+has developed different types or classes of service that serve specific markets and,
+therefore, have different performance expectations. Due to their different service
+characteristics Express, Regional and SkyRide were treated as separate classes. However,
+due to the deployment of rail, BRT and resulting service restructuring, these classes are
+reconfigured. The routes in these three are reassigned into a new, consolidated Regional
+class or the Local CBD class. Regional class includes routes providing high-speed service
+on limited access highways from suburban and outlying communities to downtown
+Denver, Denver International Airport and other metro, major employment centers, and
+provided at distances of approximately 6 miles or more. Local services have three subclassifications: CBD—any route serving downtown Denver; Urban—35% or more of route
+length within a ¼ mile buffer has population+employment density of 12 per acre or
+greater; and Suburban—34% or less. Call-n-Ride and Access-a-Ride are separate classes.
+Enhanced bus and BRT routes may warrant future consideration regarding their operation
+with: dedicated right-of-way; partially dedicated ROW; limited or express mode; priority
+over other traffic; and various speeds appropriate to context. [Please see attachment A
+Service Classes for details on how these revisions affect current routes.]
+The standards for evaluating portions of routes are intended for use in identifying needed
+service improvements, for making modifications to specific portions of existing routes, or
+for identifying low productivity segments of routes.
+These standards could be used in situations such as isolating low productivity portions of
+otherwise productive routes or measuring options for bringing unproductive routes into
+compliance with the overall service standards. These standards may also be used to
+evaluate proposals for new route extensions or deviations on existing routes.
+
+2.2 Ridership and Economic Measures
+
+Revised June 9, 2016
+
+3
+
+Packet Pg. 14
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+1.C.1.b
+
+Service Development Policies & Standards
+
+The RTD’s approach is to develop a family of transit services suited to a variety of travel
+markets. All services are designed to match the level of service with demand, thus
+improving performance and sustainability. This results in multiple domains of acceptable
+performance for the various classes of service. Standards are best set by first determining
+measures of performance and objectives. The core objective is to maximize overall
+ridership, to the extent allowed by the available resources.
+2.2.1 Performance Objective
+Service allocation is driven by the RTD adopted mission statement: “To meet our
+constituents’ present and future public transit needs by offering safe, clean, reliable,
+courteous, accessible cost-effective service throughout the District.”
+Performance Measures
+ Passengers/hour (productivity)
+ Passengers/trip (Regional class
+productivity)
+ Subsidy/passenger (cost
+effectiveness)
+The subsidy per passenger measure
+combines fare revenue and total cost
+impacts to produce a measure that
+comprehensively reflects the District’s
+allocation of resources. The effectivenessproductivity chart, Error! Reference source
+not
+found.,
+presents
+economic Figure 1 Effectiveness - Productivity Chart
+effectiveness on the vertical axis, and
+productivity, or boardings per hour, on the horizontal axis. The chart offers a convenient
+comparative analysis of all classes of services, illustrating both absolute and relative
+performance. When standards and guidelines are applied, judgments can be made.
+
+2.3 Fixed Route Service Design and Evaluation Standards
+2.3.1 Minimum Service Frequency
+New routes shall provide the minimum frequencies specified below. Existing services that
+cannot meet these minimum standards while adhering to the minimum passengers per
+hour or trip standards defined in Section 2.3.2 shall be identified as candidates for service
+changes or appropriate marketing promotion within available resources. These service
+changes may include providing service with longer headways if no other viable alternative
+exists. Elimination of the route may be considered if service changes and/or promotional
+efforts do not improve productivity.
+These are “policy” service levels and represent a compromise between economic
+efficiency and the functionality of the system. To be sustained at these levels, a route
+must meet the minimum ridership performance standards discussed in Section 2.3.2.1 and
+annual calculated standards. Routes providing frequencies higher than the policy minimum
+must be justified by ridership demand as outlined in Section 2.3.4.
+
+Revised June 9, 2016
+
+4
+
+Packet Pg. 15
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+1.C.1.b
+
+Service Development Policies & Standards
+
+The following table indicates the minimum frequency standard for types of service and
+time of day by corridor (multiple routes sharing a segment).
+Service Type
+Local – Peak period
+Local – Off peak below
+25% boardings per hour
+Local – Off peak above
+25% boardings per hour
+Local
+Express & Regional to CBD
+Rail & Enhanced Bus (BRT)
+Rail & Enhanced Bus (BRT)
+Rail & Enhanced Bus (BRT)
+Rail & Enhanced Bus (BRT)
+SkyRide
+
+Span of Service
+Mon–Fri 6:00am to 9:00am
+and 3:00pm to 6:00pm
+Weekday midday (9:00am –
+3:00pm)
+Weekday midday
+
+Minimum Frequency
+30 minutes
+60 minutes
+30 minutes
+
+Evenings and weekends
+60 minutes
+3 peak trips, Mon – Fri. Trips should target 7:00, 7:30,
+8:00 AM shift work start times and 4:00, 4:30, 5:00 PM
+shift end times.
+Weekday 6:00am – 6:00pm
+15 minutes
+Weekday evenings 6:00pm –
+11:00pm and Saturday
+30 minutes
+Night after 11:00pm
+60 minutes
+Sunday and holidays
+60 minutes
+3:00am to 1:00am daily
+60 minutes
+
+Table 1 Minimum Service Frequency
+
+2.3.2 Minimum Ridership Performance
+This standard applies to routes operating at the minimum service frequency target. For
+Local and Limited routes, the standard is passengers per hour based upon the bottom 10%
+and 25% of routes in the respective class. For Express, Regional, and SkyRide routes, the
+standard is passengers per trip.
+These standards are derived from system averages by class of service. All routes must
+meet their applicable minimum standards. Those that do not meet these standards will
+need to be modified or marketed in some way in order to bring them up to the minimum
+standards. Those that are not brought up to the minimum standards are subject to
+cancellation. Routes that meet their applicable minimum ridership standards justify a
+service level at the minimum service frequencies outlined in Section 2.3.1. Higher
+frequencies must be justified by ridership as outlined in Section 2.3.4.
+2.3.2.1
+
+Performance Standards
+
+These measures and the effectiveness-productivity for all routes and services and the class
+10% and 25% standards are calculated annually and are provided separately at
+http://www.rtd-denver.com/ServiceDevelopment.shtml, under Service Development
+Documents—Performance Reports.
+2.3.2.2 Specific Trips Ridership Standards
+
+Revised June 9, 2016
+
+5
+
+Packet Pg. 16
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+1.C.1.b
+
+Service Development Policies & Standards
+
+The standard for evaluating specific trips on a route varies by time of day as shown in the
+following table. For reference see the last column of Attachment C Regional Bus Service
+Performance. Trips must have boardings of at least the specified percentage of the
+minimum boardings standard for the time period of the trip, as defined in Table 2
+
+
+
+
+
+2.3.3
+
+For Local or Limited routes, the
+Percentage
+minimum boardings per trip is derived
+Time
+of
+Day
+for
+of Average
+by multiplying the boardings per mile
+Service Class
+Ridership
+standard by the length (number of
+Standard
+miles) of the trip.
+5:00 am - 6:00 am
+75%
+On Express and Regional routes with
+more than three trips and which provide
+6:00 am - 7:38:00
+100%
+only peak period service, the first and
+pm
+last trips must have minimum boardings
+7:38:00 pm - 11:00
+75%
+of one-half the service standardaverage
+pm
+for the class of service if the overall
+11:00 pm - 5:00 am
+50%
+route meets the minimum boarding
+First or Last Trip
+50%
+standard. If boardings on the first or
+Table 2 Specific Trips Ridership Standards
+last trips are between 50 percent and
+100 percent of the service standard,
+these trips may be candidates for elimination, if there is alternative local service
+available.For other routes Table 2 applies.
+On rail, the first trip of the operating day in each direction, operated as the “Sweep
+Train” and pull-outs, is exempted from the minimum ridership standards.
+Maximum Load (Crowding) Standard
+
+For Local and Limited routes in the peak, the maximum load standard is 125% of a seated
+load at the maximum load point. For Local and Limited routes outside of the peak, and for
+Express, Regional, and SkyRide routes at all times, the maximum load is the seated
+capacity of the vehicle.
+Service frequencies shall be adjusted so that the following maximum load standards are
+met at least 60 percent of the time:
+
+
+Local and Limited Service:
+Peak periods – 125 percent of seated load on RTD's present bus fleet. The
+maximum time that an individual passenger should be expected to stand on a given
+trip is 15 minutes.
+Off-peak periods - seated load
+
+
+
+Express, Regional, and SkyRide Service:
+Seated load at all times.
+
+
+
+Light Rail vehicles:
+Peak periods – 125 passengers per vehicle
+Off-peak periods – seated load
+
+Revised June 9, 2016
+
+6
+
+Packet Pg. 17
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+1.C.1.b
+
+Service Development Policies & Standards
+
+Special events – 165 passengers per vehicle
+From the Transit Capacity and Quality of Service Manual: “From the passenger
+perspective, the passenger load on a transit vehicle affects the comfort of the on-board
+vehicle portion of a transit trip-both in terms of being able to find a seat and in overall
+crowding levels within the vehicle. From a transit operator's perspective, a poor quality of
+service may indicate the need to increase service frequency or vehicle size to reduce
+crowding and increase passenger comfort.”
+RTD defines crowding as a seated load plus the standing passenger space, as calculated
+for each vehicle by subtracting the area occupied by seats and other objects from the
+gross interior floor area. The amount of crowding on a route is defined as the percent of
+total trips during a defined time period that exceed a comfort passenger level of 4.3—5.3
+square feet per standee, generally having these characteristics (See page 5-24 of the
+Transit Capacity and Quality of Service Manual, 3rd Edition,
+http://onlinepubs.trb.org/onlinepubs/tcrp/tcrp_rpt_165ch-05.pdf):
+ Standing load without body contact
+ Standees have similar amount of personal space as seated passengers
+ Reasonably easy circulation within vehicle
+The maximum number of standees can be computed for each vehicle by determining its
+standing passenger square footage and dividing by 4.3—5.3. For any service class during
+any defined period (e.g., AM early, AM peak, midday), when 10% or more of the
+directional trips exceed the computed maximum standees at the maximum load point,
+further investigation of potential remedies, such as changing the bus assignment or
+frequency of service, is warranted. For special events heavier loads are expected and
+acceptable, but when 10% or more of trips during the take-away have 4 or less square
+feet per standing passenger, further investigation of potential remedies is warranted. See
+Attachment D Crowding Report Examples for reference. The Percent of Total Trips chart
+(lower right) with level-of-service D or E would indicate crowding.
+2.3.4 Demand Based Service Frequency
+Service frequency in the RTD network is based on clock-pattern schedules. This pattern
+provides consistent and easy to understand schedules for our customers, and makes
+possible the provision of timed transfer connection hubs, whereby multiple routes are
+scheduled to meet at one location to facilitate connections. In general, routes are
+scheduled to operate in even increments of 30 minutes, or every 60, 30, 15, 10, 7.5, or 5
+minutes. However, other frequencies may be provided depending upon passenger
+demand, or operational and scheduling needs.
+For routes meeting the above frequency, ridership, and load standards, frequency better
+than every 30 minutes may be provided when and where justified by ridership. This
+standard applies equally to all service categories. In order to be sustainable, higher
+frequency service must meet the following criteria:
+
+
+Incremental frequency necessary to maintain the appropriate load standard during any
+30 minute time period.
+
+Revised June 9, 2016
+
+7
+
+Packet Pg. 18
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+1.C.1.b
+
+Service Development Policies & Standards
+
+
+
+
+Appropriate vehicle assignment as outlined in Section 2.3.5
+When a service exceeds the maximum load standard, higher frequency may be justified
+during that time period and/or route segment.
+If a service with better than the minimum frequency has passenger loads that can be
+accommodated with a lower frequency without violating the load standard, then
+frequency may be reduced.
+As a general guideline, a typical productivity by service frequency, for a whole route or
+a segment or time period is provided in Table 3 Demand Based Service Frequency
+Boardings Per Hour
+Frequency
+Route
+Segment-Period
+60 - 30 minutes Minimum for Class
+15 minutes
+25 - 39
+35+
+10 minutes
+40+
+45+
+Table 3 Demand Based Service Frequency
+
+2.3.5 Vehicle Assignment Targets
+Equipment shall be assigned to specific routes and trips according to the following
+guidelines. These guidelines may be modified if operational and scheduling needs require.
+
+
+
+
+
+Small 27’-30’ Bus: Appropriate for lower volume Local routes where ridership does
+not require a standard bus, or for routes where specific operating concerns preclude
+use of standard buses and for Call-n-Ride.
+Standard 40’ Transit Bus: The standard equipment for Local and Express Regional
+services. May also be used on Regional and SkyRide trips in the Express fare category.
+Articulated 60’ Bus: Appropriate for higher volume Limited and Express Regional
+services. May also be used on Regional and SkyRide trips in the Express fare category.
+Intercity Coach: Appropriate for Regional and SkyRide services.
+
+2.3.6 Design and Evaluation of Portions of Routes
+The standards for evaluating portions of routes cover two areas in which minor
+modifications may be made to routes without changing the overall structure of the route:
+ midline segments or midline deviations
+ branches or end segments
+The governing standards for overall route productivity were presented earlier. Since trips
+provided during marginally productive hours of the day or trips over marginal segments
+often increase the attractiveness of the overall service, an otherwise productive route may
+be able to support some less productive trips or portions of the route. However, if a route
+cannot meet the overall service standards for its class of service, there may not be
+productive segments to enhance the unproductive segments. Therefore, specific
+segments, branches, or trips which meet the standards for portions of routes may still be
+modified in order to raise the productivity of the entire route, if the overall route does not
+meet the service standards for its class of service.
+2.3.6.1 Midline Segments and Midline Deviations
+
+Revised June 9, 2016
+
+8
+
+Packet Pg. 19
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+
+
+
+1.C.1.b
+
+Service Development Policies & Standards
+
+
+
+
+A midline segment or deviation of a Local or Limited route should generate enough
+boardings per hour of service provided to meet the standard for its class of service
+(CBD, Urban and Suburban). Boardings in both directions will be counted.
+If a route is changed, the change shall not cause a reduction in the overall boardings
+per hour for the route.
+If a route is changed, the change shall not cause the route to violate any route design
+standards as defined in Section 2.3, or the overall productivity standards as defined in
+Section 2.
+
+2.3.6.2 Branches and End Segments
+
+
+
+
+
+
+
+
+
+A branch or end segment of a Local or Limited route should generate enough boardings
+to meet the ridership standard for its class of service (CBD, Urban and Suburban).
+Boardings generated along the branch are defined as all passengers boarding the bus
+along the branch or end portion of the route, and all outbound passengers alighting
+along this section.
+Local collector portions of Express and Regional routes which meet the following
+maximum travel time standard, shall meet the ridership productivity standard for the
+entire route. This maximum travel time is equal to 15 minutes or 50 percent of line
+haul travel time, whichever is less.
+For shorter segments, the minimum ridership standard is reduced by the ratio of actual
+travel time to the maximum allowable travel time. Thus, if the actual travel time along
+the collector is half of the maximum allowed, it must average half the number of
+boardings per trip specified in the minimum ridership productivity standard.
+A new extension to a route that does not meet the minimum ridership productivity
+standard must attract sufficient ridership for the entire route to meet the minimum
+ridership standard for its service class.
+A route extension will not be initiated if it violates any of the route design standards
+found in Section 2.3, or causes the route as a whole to fall below the minimum riders
+per unit of service or standards found earlier in Section 2.3.2.
+
+2.4 Demand Response Service Design and Evaluation Standards
+RTD continues to develop a family of transit services suited to a variety of travel markets.
+The goal of this approach is to match the type and level of service to the demand in a
+given service area, thus improving performance and sustainability. As such, a variety of
+non-fixed route services are provided by the RTD including the following.
+2.4.1 Call-n-Ride
+Rather than operating on a fixed route and schedule, demand responsive Call-n-Ride
+service is characterized as a shared ride within a defined geographic service area and the
+need for the passenger to arrange for pick-up in advance or be at a designated checkpoint
+at prescheduled times. A Call-n-Ride service area averages about 7 square miles or
+between about 2 to 30 square miles depending on its number of vehicles and service
+configuration—predominantly station feeder or community-based service. Call-n-Ride often
+provides first/last mile access to the broader RTD network of services through timed
+
+Revised June 9, 2016
+
+9
+
+Packet Pg. 20
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+
+
+1.C.1.b
+
+Service Development Policies & Standards
+
+connections at transfer centers and Park-n-Rides. Population plus employment is
+predominantly 3 to 12 persons per acre. Call-n-Ride service is evaluated based on
+passenger boardings per revenue hour and subsidy per passenger boarding.
+2.4.2 Access-A-Ride
+Access-a-Ride provides ADA complementary paratransit in the District to individuals who
+cannot readily access the bus and rail system. As per US DOT requirements the
+passenger’s trip origin and destination must be within ¾ mile of RTD’s non-commuter bus
+route system, during the same days and hours of their operation and within the District
+boundaries, and curb-to-curb service must be provided. However, RTD provides door-todoor service as a reasonable accommodation. Trips must be booked at least one day and
+up to 3 days in advance; however, RTD also offers subscriptions.
+All applicants must qualify for certification under the guidelines established by the
+Americans with Disabilities Act of 1990, complete a functional evaluation in person,
+provide a physician’s statements to verify disability and must meet one of the following
+criteria:
+ Be unable to get to and from a bus stop or on and off a lift-equipped bus by yourself
+ Have a cognitive disability that prohibits your understanding of how to complete bus
+trips
+2.4.3 Vanpooling
+Vanpooling is a public transportation option in which commuters, whose residences are
+geographically clustered, ride together to and from their work sites in a van that is driven
+by one of the vanpool participants. Typically vanpools make one roundtrip per day and
+carry from 5 to 14 riders. Vanpooling offers greater opportunities for increased capacity
+compared to carpooling and offers a cost-effective alternative to conventional transit in
+areas of low employment density and longer commute distances. RTD contracts for this
+service with DRCOG to subsidize the portion of the commute trip within the District.
+Vanpool service is evaluated based on subsidy per passenger boarding.
+2.4.4 SeniorRide and Senior Shopper
+SeniorRide Special Events transports groups to a variety of cultural, educational and
+entertainment events. The Schedule of events is published 3 times a year to the public.
+Service is available on a first come first served basis. A minimum of 10 passengers per
+trip is required. Scheduled events that do not generate reservations of at least 2 groups of
+10 may not be rescheduled for the next 12 months.
+SeniorShopper buses have established routes that provide trips to major grocery stores.
+Service is available Monday through Friday. A minimum of 10 passengers per trip is
+required.
+RTD provides services to enhance the welfare of certain groups of persons such as the
+current services offered for shopping and recreational trips for elderly persons or persons
+with disabilities. Since SeniorRide and Senior Shopper service are point to point services,
+
+Revised June 9, 2016
+
+10
+
+Packet Pg. 21
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+1.C.1.b
+
+Service Development Policies & Standards
+
+1.C.1.b
+
+2.5 Reliability
+On-time for fixed-route service is defined as not more than 1 minute early to not more than
+5 minutes late. RTD sets annual objectives for on-time performance by class of service
+and which are reported in the Quarterly Performance Report. [Improved methods for
+monitoring, identifying the causes and remedying unreliable service are currently in
+development.]
+
+3. Geometric Design Standards
+3.1 Directness of Route
+Routes shall be designed to be as direct as possible and to provide maximum accessibility
+to transit.
+ Deviations from a direct path from end-to-end of the route shall account for no more
+than one-quarter of the end-to-end travel time of the route.
+
+
+For a specific deviation, the total additional travel time for all through passengers
+should not exceed three minutes for each rider boarding or alighting along the
+deviation.
+In mathematical terms, this means that the quantity
+Pt * VTT < 3 minutes
+Pd
+where: Pt = through passengers
+VTT = additional vehicle one-way travel time
+Pd = passengers served by deviation
+
+3.2 Stop Spacing Standards
+Bus routes shall adhere to the following stop spacing standards. Placement also
+considers: the balance between pedestrian access and route travel time; ADA
+requirements; adjacent land uses; streetscape conditions and property ownership.
+3.2.1 Minimum
+
+
+
+Local and Express Regional collection, residential areas - 600'
+(8 stops/mile) Commercial areas - 500' (10 stops/mile)
+Limited service, limited-stop zone - 2500' (2 stops/mile)
+
+3.2.2 Maximum
+
+
+Local service, residential and commercial areas – 1,250’ (4 stops/mile)
+
+Revised June 9, 2016
+
+11
+
+Packet Pg. 22
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+these services are evaluated based on passenger boardings per trip. Refer to Appendix A
+for current standards.
+
+Service Development Policies & Standards
+
+Limited service, residential and commercial areas – 1,250’ (4 stops/mile)
+Limited service, limited stop zone – 8,000’ (1 stop/1.5 miles)
+
+3.3 Roadway Design Goal
+New bus routes should not be operated along streets that do not meet minimum
+standards:, such as for bus turning radius, pavement strength/loading, lane width,
+roadway grade, shoulder width on rural roads (for pedestrian waiting and safety) and
+overhead clearance. Refer to the RTD Bus Infrastructure Design Criteria Section 1 –
+Transit Access for specific details [currently in development].
+ Turning radius - 35' minimum
+ Street surface must be asphalt or concrete
+ For deep-strength asphalt: 7" for existing street; 11" for new street
+ For concrete pavement : 8.5" design thickness; 8" existing thickness
+ Lane width - 10' minimum
+ No speed bumps
+ Bridges - rated for H-20S loading (all legal weights)
+ Shoulder width on rural roads - 6' minimum
+ Overhead clearance - 12' minimum (16' 6" for structures on new roads)
+
+4. Shelters
+The minimum warrant for the placement of a shelter is 40 boardings per day at the stop.
+Stops with the highest average of daily boardings will take top priority for shelter
+placement. [Revised standards are currently in development and will reference the RTD
+Bus Infrastructure Design Criteria.]
+
+5. Area Coverage Standards
+5.1 Purpose and Application
+The purpose of these standards is to define a reasonable level of service to all areas of the
+District and to help RTD maintain this service level. Since the RTD service area includes
+many different types of development, and population densities and land use vary widely
+across the District, it would not be reasonable to expect all areas to support the same level
+of service. Moreover, different types of service may best meet the needs of different
+areas, and RTD's resources can be used in a more productive fashion if service can be
+tailored to the needs of particular areas. Area coverage standards provide guidelines for
+tailoring service to the needs of communities and help ensure that all areas receive a level
+of service that is commensurate with their needs.
+Levels of service for specific areas also depend on the productivity of existing services. If
+existing or proposed services cannot meet the productivity standards outlined in Section 2,
+RTD may choose not to provide the minimum level of service. Financial constraints may
+also limit RTD's ability to meet the area coverage (or any other) standards.
+
+5.2 Coverage Levels Outside the Denver CBD
+
+Revised June 9, 2016
+
+12
+
+Packet Pg. 23
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+
+
+
+1.C.1.b
+
+Service Development Policies & Standards
+
+The area coverage standards for areas outside the Denver Central Business District (CBD)
+are based on a combined density measure. This measure adds population and employment
+to determine potential demand for transportation to and from a particular area.
+[Attachment B shows the density classifications overlaid with RTD services for the entire
+District.]
+The area coverage standards presented below deal with minimum and maximum route
+spacing. Actual route spacing and service frequency will depend on demand and
+productivity of existing service in the area.
+For use in this document, arterial roadways are defined as follows:
+ Traffic flow controlled by traffic signals as opposed to stop signs
+ Carry longer distance traffic flow
+ Speed limit 30 mph or faster
+ Road width two plus lanes in each direction
+5.2.1 Minimum Service Levels
+Areas with 3-12 residents and employees per acre
+ Peak period Park-n-Ride service if either the travel time to the Denver CBD by Express
+bus or rail, or a bus/rail timed connection, exceeds 20 minutes.
+ Call-n-Ride service.
+Areas with 12 or more residents and employees per acre:
+ Local service on major arterials with pedestrian access within 1/4 mile.
+ Peak period, Limited, Express, or Regional service from Park-n-Rides if either the travel
+time to the Denver CBD by Express bus, or a bus/rail timed connection, exceeds 20
+minutes.
+5.2.2 Maximum Target Service Levels
+Areas with 3-12 residents and employees per acre:
+ Local service along major arterials with pedestrian access within 1/4 mile.
+ Peak period, Limited, Express, or Regional service from park-n- Rides if travel time to
+the Denver CBD by Express bus exceeds 20 minutes.
+Areas with 12 or more residents and employees per acre:
+ Local service with ½ mile route spacing.
+ Limited, Express, or Regional service if travel time to the Denver CBD by Express bus
+exceeds 20 minutes.
+5.2.2 Access-A-Ride - ADA Required Service Area Coverage
+Within the District:
+49 CFR 37.131 - Service criteria for complementary paratransit.
+“(1) Bus.
+(i) The entity shall provide complementary paratransit service to origins and
+destinations within corridors with a width of three-fourths of a mile on each side of
+
+Revised June 9, 2016
+
+13
+
+Packet Pg. 24
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+1.C.1.b
+
+Service Development Policies & Standards
+
+each fixed route. The corridor shall include an area with a three-fourths of a mile
+radius at the ends of each fixed route.
+(ii) Within the core service area, the entity also shall provide service to small areas
+not inside any of the corridors but which are surrounded by corridors.
+(iii) Outside the core service area, the entity may designate corridors with widths
+from three-fourths of a mile up to one and one half miles on each side of a fixed
+route, based on local circumstances.
+(iv) For purposes of this paragraph, the core service area is that area in which
+corridors with a width of three-fourths of a mile on each side of each fixed route
+merge together such that, with few and small exceptions, all origins and
+destinations within the area would be served.
+“(2) Rail.
+(i) For rail systems, the service area shall consist of a circle with a radius of 3/4 of
+a mile around each station.
+(ii) At end stations and other stations in outlying areas, the entity may designate
+circles with radii of up to 11/2 miles as part of its service area, based on local
+circumstances.
+“(3) Jurisdictional boundaries. Notwithstanding any other provision of this
+paragraph, an entity is not required to provide paratransit service in an area outside
+the boundaries of the jurisdiction(s) in which it operates, if the entity does not have
+legal authority to operate in that area. The entity shall take all practicable steps to
+provide paratransit service to any part of its service area.”
+“Requirements for complementary paratransit do not apply to commuter bus …
+fixed route bus service, characterized by service predominantly in one direction
+during peak periods, limited stops, use of multi-ride tickets, and routes of extended
+length, usually between the central business district and outlying suburbs.”
+[§37.121]
+
+6. Transit Access
+RTD has guidelines for access to its facilities for pedestrians, bus riders, bicyclists,
+passenger loading, and parking. The RTD Bus Infrastructure Design Criteria, included here
+by reference, is intended to be used by RTD in conjunction with local jurisdictions in
+planning transit access (including projects under construction) [separately under
+development].
+
+7. Service Guidelines for Special Events and Special Services
+7.1 Derivation of Standards
+The following guidelines for provision of bus and/or train service to special events are
+based on prior RTD Board actions and on the public convenience and necessity to:
+
+Revised June 9, 2016
+
+14
+
+Packet Pg. 25
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+1.C.1.b
+
+Service Development Policies & Standards
+
+
+
+
+Protect neighborhoods from the impact of events which are so large as to overwhelm
+the surrounding supply of parking, and
+Serve customers by offering adequate service for events which are predictably large
+enough to overload the normally available transit service, and
+Protect taxpayers by only serving those events that have a predictable level of transit
+demand great enough to justify the operation of special routes.
+
+7.2
+
+Standards for Events
+
+RTD, within the limits of its budget, will operate special service:
+
+
+
+
+For events at Invesco Field at Mile High stadium with projected attendance of over
+55,000, for which the crowd is expected to all be present at one time.
+For events at Coors Field with projected attendance of over 40,000, for which the
+crowd is expected to all be present at one time.
+At other venues where the ratio of projected attendance to available on-site parking is
+6:1 and for which the crowd is expected to all be present at one time.
+
+This service will not be provided when substantial numbers of the event patrons can be
+expected to arrive in privately operated or non-profit owned buses or regularly scheduled
+RTD service.
+RTD will provide Express Shuttle service to Invesco Field and Coors Field from selected
+Park-n-Rides for events described in this section. The General Manager must specifically
+authorize Park-n-Ride service for other events.
+RTD may also provide service at events with lower attendance projections if the promoter
+is willing to subsidize such service. The RTD Board adopted a specific subsidy formula in
+September 1987: “the prorated share of RTD’s incremental cost of service, plus a 10%
+administrative service fee, the share to be based on the percentage shortfall in ridership
+between the minimum ridership of 1650 passengers going to the event and the actual
+number of passengers carried, based on RTD traffic checks.”
+
+8. Shuttles & Circulators
+8.1 Characteristics
+Shuttle and circulator routes are not defined as a separate class of service, but are
+typically proposed to serve specific, local, community-focused needs. Shuttle and
+circulator routes are generally defined by the following characteristics: short routes,
+usually less than 5 miles long; operate on local streets and arterials; connect major activity
+centers; and serve short passenger trip lengths within a single community. Fares must be
+set according to RTD Fare Policy.
+
+8.2 Guidelines for Success
+
+Revised June 9, 2016
+
+15
+
+Packet Pg. 26
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+
+
+1.C.1.b
+
+Service Development Policies & Standards
+
+1.C.1.b
+
+
+
+A sustained average population density of at least 10 people per acre along the length
+of the route is a minimum requirement; a critical mass of potential riders is needed to
+succeed.
+
+
+
+Connects community residences with major activity centers such as colleges, high
+schools, middle schools, shopping districts (but not auto-centric malls), medical
+centers, and downtowns that appeal to all market segments (youth, families, seniors)
+and can serve a variety of trip purposes.
+
+
+
+Transit friendly environment: pedestrian friendly, walkable streets are a minimum;
+mixed land uses; areas of clustered shopping or employment; public spaces; and
+bicycle parking/paths.
+
+
+
+To attract spontaneous walk up use, the headway needs to be15 minutes or less for a
+service span for the intended markets, typically 6:00 – 18:00 or longer.
+
+
+
+Offers bi-directional service.
+
+
+
+Does not substantially duplicate a service of comparable utility.
+
+9. System-Wide Cost Recovery Standard
+The state required system-wide minimum cost recovery ratio is 30 percent. This ratio is
+calculated by the following formula:
+
+[Farebox Revenues + Advertising Revenues + Lease Revenues + FTA Operating
+Assistance + Other Non-Sales Tax Revenues ] / [Category I Costs +Category II Costs +
+Local share of depreciation on RTD assets] [Category Costs applied according to RTD Cost
+Model Memo, June 15, 2010, as updated (See summary below)]
+Cost Model Summary
+With the exception of Private Carrier costs, all costs are allocated to routes by one of
+three methods: hours, miles or vehicles. The RTD Bus Cost Model has five cost categories:
+Variable/Direct, Variable/Indirect, Private Carrier, Retained Costs and Depreciation. Private
+Carrier costs are allocated to routes by the number of hours the contractor operates the
+route, multiplied by the average hourly rate billed for that particular contract, plus the
+average hourly cost for fuel.
+The annual budget and six-year Strategic Budget Plan are evaluated using this cost
+recovery standard.
+
+Revised June 9, 2016
+
+16
+
+Packet Pg. 27
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+Several factors are critical to shuttle and circulator success. As a guideline to make
+informed decisions, the following characteristics must be present and considered.
+
+Service Development Policies & Standards
+
+If the standard is not met, several courses of action may be taken. The RTD Board has
+adopted a policy of evaluating the fare structure as part of the annual budget process;
+fares may be changed at that time to provide additional revenue. RTD may also choose to
+market its services more aggressively to attract more customers and their fares, or RTD
+may look for revenue from other sources. The productivity standards in Sections 2 and 3
+may be used to reduce the costs of providing service while disrupting service to as few
+passengers as possible.
+
+10. Title VI & Environmental Justice Compliance
+RTD follows FTA Circular 4072.1B “Title VI Requirements and Guidelines for Federal
+Transit Administration Recipients,” Chapter 4.4.
+Title VI Protected Classes are race, color and national origin.
+Environmental Justice Protected Classes are as follows:
+1. Minority Populations:
+ American Indian and Alaska Native, which refers to people having origins in any of
+the original peoples of North and South America (including Central America), and
+who maintain tribal affiliation or community attachment.
+ Asian, which refers to people having origins in any of the original peoples of the Far
+East, Southeast Asia, or the Indian subcontinent, including, for example, Cambodia,
+China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and
+Vietnam.
+ Black or African American, which refers to people having origins in any of the Black
+racial groups of Africa.
+ Hispanic or Latino, which includes persons of Cuban, Mexican, Puerto Rican, South
+or Central American, or other Spanish culture or origin, regardless of race.
+ Native Hawaiian or Other Pacific Islander, which refers to people having origins in
+any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
+2. Low-Income Populations (150% of Federal Poverty Guidelines)
+
+10.11. Standard for Service for Transit Dependent Persons and
+To Social Service Destinations
+For purposes of these service standards, transit dependent riders are defined as riders who
+either live in a household which does not own a car or who have a physical or mental
+disability that prevents the transit patron from driving a car. Social Service destinations
+are those destinations that are provided as a public service that may not have consistently
+sufficient ridership to otherwise warrant the establishment or continuation of a route or
+route segment. Examples of social service destinations would include county court
+facilities, hospitals, schools, or public institutions which have been situated or constructed
+in isolated locations prior to the establishment of RTD or following review and comment by
+RTD of the proposed development plans of such institution or agency, by the appropriate
+jurisdiction.
+
+Revised June 9, 2016
+
+17
+
+Packet Pg. 28
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+1.C.1.b
+
+Service Development Policies & Standards
+
+Purpose of the Standard
+
+This standard is intended to provide for consideration of transit dependency in service
+decisions. This standard does not guarantee a minimum level of service to all transitdependent riders. However, it will ensure that transit-dependent riders and/or the need to
+have access to social service destinations are identified and considered when decisions are
+made to reduce service levels in an area.
+
+10.211.2
+
+Determination of Transit Dependency
+
+Whenever RTD plans changes to an existing route where there is no alternative service
+available to meet the area coverage standards in Section 5 such as a change in routing or
+span of service, transit-dependent riders will be identified through on-board surveys. This
+survey will ask questions about riders' travel habits and demographics, and it will attempt
+to identify transit-dependent riders and their destinations.
+
+10.311.3
+
+Application of Transit Dependency Standard
+
+The applicable minimum productivity standards for a route will be reduced by one-half the
+percentage of ridership that is defined as transit dependent. Thus, if 60 percent of the
+riders on a route are transit dependent, the route must achieve 70 percent [100 percent
+minus (60 percent divided by 2)] of the applicable productivity standards (ridership and
+economic) in order not to be considered a poor performer.
+Applicable ridership standards for fixed route services may be found in Section 2.3, and
+for non-fixed route services, in Section 2.4.
+If the on-board survey reveals that the route does not serve the destinations desired by
+transit-dependent riders, RTD may restructure the route to improve service and increase
+ridership. This could include changing the routing or schedule to serve passenger needs.
+RTD wishes to provide transit dependent riders with service that fits their needs and to
+provide service to social service destinations when there is even a modicum of recognized
+demand.
+Another consideration to be given in whether or not to eliminate a route with some transit
+dependent passengers is the impact on required Access-A-Ride services. The Americans
+with Disabilities Act (ADA) requires that eligible persons with disabilities be provided with
+paratransit service if they have trip origins and destinations within a defined service area
+three-fourths of a mile from a non-commuter fixed route. If accessible fixed route service
+is considered for removal from a portion of the defined paratransit service area, an
+estimate of the demand for substitute Access-A-Ride service for persons with disabilities
+who require lift-equipped buses must be completed and a cost-benefit analysis performed
+for the alternatives (leaving fixed route versus providing Access-A-Ride service).
+
+12. Service Change Process
+
+Revised June 9, 2016
+
+18
+
+Packet Pg. 29
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+10.111.1
+
+1.C.1.b
+
+Service Development Policies & Standards
+
+The following is a description of the steps necessary in developing and implementing
+service changes, which are typically conducted each year in January, May and
+September—also called runboards—as required by Board policy and the Collective
+Bargaining Agreement.
+Proposals are derived from a variety of inputs continuously throughout the year including:
+periodic customer, household and employer surveys; stakeholder meetings; service
+performance evaluation; and changing demographics and land uses. They are compiled for
+each runboard and evaluated based on a number of factors, including RTD annual budget,
+RTD Service Standards, effects on the transit network and on transit dependent markets
+(Title VI), cost-effective services throughout the District and responsiveness to changes in
+the communities within RTD. A Board paper is compiled and presented to the Board,
+stakeholders and public for consideration.
+Staff then discusses the proposals with members of the Board, stakeholders and senior
+staff and coordinates with other staff including Marketing, Operations, Facilities and
+Finance. Modifications are made as warranted and then the proposals enter the pubic
+engagement process: formally scheduled public hearings; informal presentations upon
+request; repository for customer input—service.changes@rtd-denver; responses to General
+Manager and Board Member requests. Upon completion of public engagement, all
+previous input is compiled and evaluated and revisions to the proposals are made as
+warranted. A final Board report is prepared with a summary and details of proposed
+changes and a summary of public hearings and other public input for approval of the
+Board.
+The approved changes then go into a comprehensive production process which includes:
+schedule creation; bus and operator requirements and assignments; compliance with
+privatization policy; runcutting and compliance with the Collective Bargaining Agreement;
+marketing promotions and public relations; bus stop and on-street changes; printed and
+electronic public information, including maps and timetables; and validation and
+distribution of all data within the Transit Information Exchange System (TIES).
+
+13. Cost Sharing Policy
+13.1 Background
+On June 21, 1994, the RTD Board of Directors passed a resolution, Transit Service CostSharing Policy, to provide guidance to RTD staff in responding to the increasing number of
+requests for new service. This policy authorized the General Manager to pursue cost
+sharing as a method of providing transit service using RTD revenues and other funds
+voluntarily pledged by private employers, businesses or local governments; this has
+resulted in a number of RTD partnerships in demonstrating new services. The following
+incorporates this experience and provides guidance on the application and limitations of
+cost-sharing arrangements.
+
+13.2 Guidance
+
+Revised June 9, 2016
+
+19
+
+Packet Pg. 30
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+1.C.1.b
+
+Service Development Policies & Standards
+
+1.C.1.b
+
+Financial feasibility depends not only on the availability of funds, but also on consideration
+of fares, cost/revenue allocation and equity.
+
+
+
+
+
+
+
+
+Net operating cost (subsidy) needs to be defined so that all partners are treated
+equitably. Net cost is the total operating cost less farebox revenue and other operating
+revenues and any grant revenues secured on behalf of the proposed service. The
+application of grant revenues prior to the net cost sharing allows all partners to
+participate in the benefits of grant funding.
+Cost-sharing projects need to adopt the RTD fare structure for similar services for
+reasons of equity. Furthermore, this places all projects on the same revenue basis for
+calculating net operating cost. Project sponsors may propose a fare that does not
+follow the RTD fare structure. For these projects the partner is required to fund the full
+difference in revenue between the comparable RTD fare and the project fare, based on
+actual ridership. The adoption of any non-conforming (economically or technically) fare
+is always subject to Board approval.
+Costs associated with vehicles are addressed project by project. Vehicles can be
+purchased outright by project sponsors with grant funds or provided from the RTD
+inventory. Should new vehicles be required, grants should fund their acquisition and
+the local share split equally by the cost-sharing partners. If no grant funds are used,
+RTD will limit its share to 10%, half of the usual local share when grant funds are
+used. If the RTD operates the service and agrees to provide the vehicles from its
+inventory, capital costs need not be included as part of the project cost unless special
+accommodations are required.
+Cost-sharing projects are new or expanded transit services and RTD’s share must be
+budgeted out of allocations for new services for the entire District. Thus any partner
+with expectations for RTD financial or operational participation must first obtain
+commitment from RTD before applying for project grants. In addition, each project will
+be subject to the appropriate RTD and DRCOG planning processes, especially as
+regards estimates of costs, ridership, revenue and other benefits.
+
+13.2.2 Vehicle Availability
+RTD may have, with some minor modifications, vehicles readily available to provide the
+proposed service. In some cases projects require a specialty or significantly modified
+vehicle that must be acquired, subject to RTD approval for fleet maintenance compatibility.
+Financing these vehicles is addressed above. Sometimes the availability of operators has
+been more critical.
+13.2.3 Local and Community Support
+Local and community entities (e.g., government, employers, businesses and associations)
+generally initiate cost-sharing transit projects concomitant with other plans and
+developments in the community. Thus the proposed transit project is designed to address
+a specific development or perceived need. To advance their project for implementation, an
+entity such as a city, will offer to share in the net costs of providing the service. RTD
+
+Revised June 9, 2016
+
+20
+
+Packet Pg. 31
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+13.2.1 Financial Feasibility
+
+Service Development Policies & Standards
+
+1.C.1.b
+
+
+
+
+
+
+Projects generally have substantial institutional support; however they are subject to
+the same public scrutiny, for example public hearings, as any other proposed service
+change. Implementation of any cost-sharing project will continue to be subject to
+RTD’s public review process.
+RTD generally provides 50% of the local share of the net operating and/or capital cost
+of a project. This cost-sharing ratio may be adjusted in consideration of the District
+budget and policies.
+Cost-sharing arrangements for each project are of limited duration for which agreed
+upon performance milestones must be reached (see below). The purpose of the test
+period is to assess the sustainability of the service and decide RTD’s and its partners
+continuing participation. The test period is typically set at one, two or three years, as
+appropriate to the project. Performance milestones must be set and evaluated and a
+recommendation regarding continuation made for each year of the project.
+
+13.2.4 Performance
+Cost-sharing services will have clearly defined evaluative criteria agreed upon within the
+cost-sharing agreement and prior to implementation.
+
+
+
+
+
+
+
+
+At a minimum these criteria will include average daily ridership and RTD Service
+Standards within the appropriate class of service for passenger boardings per hour and
+subsidy per boarding. Additional criteria may also address issues related to project
+objectives, such as new riders. State mandated cost recovery may also be considered.
+Expectations of performance will be laid out in the form of milestones, such as a range
+or minimum attainment at the end of each year.
+During the first year performance will be assessed to determine if expectations have
+been met and if continuation of the service is warranted. Often an experimental
+service will need to be changed to improve performance. As warranted the same
+assessment will be made in each succeeding year during the test period. This
+assessment and recommendation regarding continuation will be reported to the RTD
+Board each year of the test period.
+If the cost-share service meets expectations and RTD Service Standards during the test
+period, RTD will consider extending the period of its participation and increasing its
+share of net cost; however, RTD is under no obligation to continuing any service
+beyond the cost-share agreement, even if it meets Service Standards. If the cost-share
+service does not perform up to expectations, RTD funding participation in such project
+will be reduced or discontinued. These decisions are subject to the customary financial
+and Board review.
+Should RTD decide to discontinue or reduce its funding of the project service, a
+sponsoring partner may choose to continue its funding by entering into a cost-sharing
+agreement with RTD. This agreement will specify the service to be provided and its
+cost, will be annually reviewed for potential renewal and will be subject to all RTD
+Service Standards, budgeting and public processes.
+
+Revised June 9, 2016
+
+21
+
+Packet Pg. 32
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+needs to be responsive to these requests, but keep them in the context of the needs of
+the entire District.
+
+Service Development Policies & Standards
+
+1.C.1.b
+
+Urban & Suburban Service Classes
+The following table is a GIS analysis of population+employment density per acre. The
+classifications are taken from the Service Coverage section of these Service Standards. It
+shows the percentage of route coverage (within ¼ mile buffer) for each classification for
+all Urban and Suburban routes operating in 2013 and a heavy line demarking the 35% line
+in the >12/acre column. Green highlight shows those Suburban routes that move into the
+Urban category and pink highlight shows those Urban routes that move into the Suburban
+category with this classification system.
+
+Revised June 9, 2016
+
+22
+
+Packet Pg. 33
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+Attachment A Service Classes
+
+Service Development Policies & Standards
+
+1.C.1.b
+
+Revised June 9, 2016
+
+23
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+The following map illustrates the application of the density classification for Urban and
+Suburban routes.
+
+Packet Pg. 34
+
+Service Development Policies & Standards
+
+1.C.1.b
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+The following two charts depict the Urban and Suburban effectiveness-productivity
+performance charts with the revised classifications.
+
+Revised June 9, 2016
+
+24
+
+Packet Pg. 35
+
+Service Development Policies & Standards
+
+1.C.1.b
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+The following map depicts the revised Urban routes.
+
+T
+
+Revised June 9, 2016
+
+25
+
+Packet Pg. 36
+
+Service Development Policies & Standards
+
+1.C.1.b
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+The following map depicts the revised Suburban routes.
+
+Revised June 9, 2016
+
+26
+
+Packet Pg. 37
+
+Service Development Policies & Standards
+
+Regional Service Class
+The following Express routes will be moved to the Local CBD class: 31X, 40X, 55X, 72X,
+80X, 87X and 100X. The chart below shows the performance for the remaining Express
+routes (labeled) that will be included along with all the current Regional and SkyRide routes
+in this consolidated class. It should be noted that some Express and SkyRide routes will
+be discontinued and some Regional routes will be consolidated into the new Flatiron Flyer
+routes in 2016.
+
+Revised June 9, 2016
+
+27
+
+Packet Pg. 38
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+1.C.1.b
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+Service Development Policies & Standards
+
+Revised June 9, 2016
+
+28
+
+1.C.1.b
+
+Attachment B Service Coverage
+
+Packet Pg. 39
+
+Service Development Policies & Standards
+
+1.C.1.b
+
+Proposed Regional Bus Services Performance 2012
+Standards
+Fare
+Operating
+Total
+In-Service
+Net
+Subsidy per Boardings O-W Bus Boardings
+Route
+Class
+Revenue
+Costs
+Boardings
+Hours
+Subsidy
+Boarding
+per Hour
+Trips
+per Trip
+120X
+Express
+$1,789,164
+$2,953,831
+730,041
+12,520
+$1,164,667
+$1.60
+58.3
+33,343
+21.9
+86X
+Express
+$751,324
+$1,244,803
+302,439
+3,316
+$493,479
+$1.63
+91.2
+7,905
+38.3
+122X
+Express
+$1,247,268
+$2,142,957
+461,039
+5,698
+$895,689
+$1.94
+80.9
+11,058
+41.7
+145X
+Express
+$30,018
+$134,407
+14,508
+720
+$104,389
+$7.20
+20.2
+1,464
+9.9
+116X
+Express
+$176,069
+$851,677
+67,983
+3,186
+$675,607
+$9.94
+21.3
+3,045
+22.3
+47X
+Express
+$149,402
+$780,905
+59,457
+2,712
+$631,503
+$10.62
+21.9
+2,456
+24.2
+B/BV
+Regional
+$6,414,673
+$10,817,925
+1,769,616
+54,652
+$4,403,251
+$2.49
+32.4
+57,874
+30.6
+BOLT
+Regional
+$2,146,681
+$3,891,052
+476,791
+21,513
+$1,744,371
+$3.66
+22.2
+23,207
+20.5
+HX
+Regional
+$537,968
+$1,211,900
+142,780
+4,399
+$673,932
+$4.72
+32.5
+4,255
+33.6
+S
+Regional
+$281,310
+$611,317
+62,924
+2,292
+$330,007
+$5.24
+27.5
+1,813
+34.7
+N
+Regional
+$431,050
+$1,200,009
+135,102
+6,405
+$768,959
+$5.69
+21.1
+8,732
+15.5
+Y
+Regional
+$92,820
+$267,016
+26,398
+1,613
+$174,196
+$6.60
+16.4
+3,060
+8.6
+L
+Regional
+$1,368,738
+$4,086,452
+299,373
+17,701
+$2,717,714
+$9.08
+16.9
+12,779
+23.4
+P
+Regional
+$406,481
+$1,494,279
+119,753
+3,558
+$1,087,798
+$9.08
+33.7
+3,570
+33.5
+CV
+Regional
+$580,353
+$1,845,872
+135,833
+5,908
+$1,265,518
+$9.32
+23.0
+5,114
+26.6
+GS
+Regional
+$369,837
+$1,509,481
+117,115
+7,094
+$1,139,644
+$9.73
+16.5
+5,610
+20.9
+DM
+Regional
+$255,173
+$1,079,129
+83,016
+4,569
+$823,955
+$9.93
+18.2
+3,032
+27.4
+EV
+Regional
+$606,910
+$1,887,812
+123,277
+6,017
+$1,280,902
+$10.39
+20.5
+4,873
+25.3
+J
+Regional
+$248,013
+$857,254
+54,268
+3,361
+$609,241
+$11.23
+16.1
+2,550
+21.3
+R
+Regional
+$274,592
+$1,506,740
+90,419
+5,163
+$1,232,148
+$13.63
+17.5
+4,335
+20.9
+T
+Regional
+$114,424
+$682,408
+40,408
+2,809
+$567,983
+$14.06
+14.4
+1,530
+26.4
+AT
+skyRide
+$2,276,965
+$4,078,735
+578,007
+17,509
+$1,801,770
+$3.12
+33.0
+23,132
+25.0
+AB
+skyRide
+$2,199,099
+$3,360,737
+350,883
+17,633
+$1,161,638
+$3.31
+19.9
+13,797
+25.4
+AS
+skyRide
+$2,630,993
+$4,301,139
+499,496
+19,343
+$1,670,146
+$3.34
+25.8
+39,163
+12.8
+AF
+skyRide
+$2,375,306
+$4,870,481
+506,006
+25,619
+$2,495,175
+$4.93
+19.8
+18,968
+26.7
+AA
+skyRide
+$815,558
+$2,207,279
+194,817
+10,496
+$1,391,721
+$7.14
+18.6
+14,163
+13.8
+Subtotal
+skyRide
+$28,570,190
+$59,875,595
+7,441,749
+265,807 $31,305,405
+$4.21
+28.0
+310,828
+23.9
+Standard Deviation
+$3.72
+19.2
+8.2
+Min/Max at 10% or better: Average ± 1.28 * Std Dev
+$8.97
+3.4
+13.5
+Min/Max at 25% or better: Average ± .67 * Std Dev
+$6.70
+15.1
+18.5
+
+Revised June 9, 2016
+
+29
+
+Packet Pg. 40
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+Attachment C Regional Bus Service Performance
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+Service Development Policies & Standards
+
+Revised June 9, 2016
+
+30
+
+1.C.1.b
+
+Attachment D Crowding Report Examples
+
+Packet Pg. 41
+
+Attachment: Atch B - Service Standards - Proposed Revisions 2016 (2747 : Revised RTD Transit Service Policies & Standards)
+
+Service Development Policies & Standards
+
+Revised June 9, 2016
+
+31
+
+1.C.1.b
+
+Attachment D continued
+
+Packet Pg. 42
+
+Attachment: Atch C - Service Standards 2016 Power Point [Revision 1] (2747 : Revised RTD Transit
+
+1.C.1.c
+
+RTD Service Policies & Standards
+
+Proposed Revisions
+
+Operations and Customer Services Committee
+June 14, 2016
+
+Packet Pg. 43
+
+Service standards provide a rational, equitable and sustainable
+approach to developing and evaluating all RTD services for the
+benefit of the District’s constituents as a whole
+• Last revisions in 2002 and in 2008
+• 2009 thorough review including transit industry peers
+• Since 2002 many changes have occurred
+o The acquisition of AVL and APC for improved analytics and
+reporting, on-time performance, GIS, etc.
+o FTA regulations for ADA, Title VI, Environmental Justice
+o RTD guidelines for shuttles and circulators, cost sharing
+o Deployment of FasTracks corridors and service
+restructuring
+Packet Pg. 44
+
+Attachment: Atch C - Service Standards 2016 Power Point [Revision 1] (2747 : Revised RTD Transit
+
+1.C.1.c
+
+Attachment: Atch C - Service Standards 2016 Power Point [Revision 1] (2747 : Revised RTD Transit
+
+1.C.1.c
+
+Highlights
+• Express, Regional, SkyRide service classes reassigned into
+either the Regional or Local CBD class
+• Urban and suburban classifications defined as % of route
+with specified population + employment density
+o Urban – 35% of route > 12 per acre
+o Suburban – 34% of route < 12 per acre
+• Minimum Service Frequency – added Rail and Enhanced
+Bus (BRT)
+
+Packet Pg. 45
+
+Attachment: Atch C - Service Standards 2016 Power Point [Revision 1] (2747 : Revised RTD Transit
+
+1.C.1.c
+
+Highlights (cont.)
+Service Type
+Local – Peak period
+Local – Off peak below
+25% boardings per hour
+Local – Off peak above
+25% boardings per hour
+Local
+Regional to CBD
+Rail & Enhanced Bus (BRT)
+Rail & Enhanced Bus (BRT)
+Rail & Enhanced Bus (BRT)
+Rail & Enhanced Bus (BRT)
+SkyRide
+
+5:00 am - 6:00 am
+
+Percentage
+of Average
+Ridership
+75%
+
+6:00 am - 8:00 pm
+
+100%
+
+8:00 pm - 11:00 pm
+
+75%
+
+11:00 pm - 5:00 am
+
+50%
+
+First or Last Trip
+
+50%
+
+Time of Day for
+Service Class
+
+Span of Service
+Mon–Fri 6:00am to 9:00am
+and 3:00pm to 6:00pm
+Weekday midday (9:00am –
+3:00pm)
+Weekday midday
+
+Minimum Frequency
+30 minutes
+60 minutes
+30 minutes
+
+Evenings and weekends
+60 minutes
+3 peak trips, Mon – Fri. Trips should target 7:00, 7:30,
+8:00 AM shift work start times and 4:00, 4:30, 5:00 PM
+shift end times.
+Weekday 6:00am – 6:00pm
+15 minutes
+Weekday evenings 6:00pm –
+11:00pm and Saturday
+30 minutes
+Night after 11:00pm
+60 minutes
+Sunday and holidays
+60 minutes
+3:00am to 1:00am daily
+60 minutes
+
+Boardings Per Hour
+Frequency
+Route
+Segment-Period
+60 - 30 minutes Minimum for Class
+15 minutes
+25 - 39
+35+
+10 minutes
+40+
+45+
+
+Packet Pg. 46
+
+Attachment: Atch C - Service Standards 2016 Power Point [Revision 1] (2747 : Revised RTD Transit
+
+1.C.1.c
+
+Highlights (cont.)
+• Maximum Load (Crowding) Standard – defined by research
+as comfortable passenger space
+o For any service class during any defined period (e.g.,
+AM early, AM peak, midday), when 10% or more of the
+directional trips exceed 4.3—5.3 square feet per
+standee at the maximum load point
+• Access-A-Ride ADA complementary paratransit
+requirements described
+• Reliability - 1 minute early < on-time < 5 minutes late
+• Shelters - minimum 40 boardings per day at a stop
+• Minimum Service Levels - Call-n-Ride included
+
+Packet Pg. 47
+
+Attachment: Atch C - Service Standards 2016 Power Point [Revision 1] (2747 : Revised RTD Transit
+
+1.C.1.c
+
+Highlights (cont.)
+• Transit Access - references Engineering Bus Transit Facilities
+document
+• Standards for Events – promoter subsidized service deleted;
+charter not permitted
+• Shuttles & Circulators - new section provides guidelines and
+requirements to stakeholders in local communities
+• Title VI Compliance – reference FTA Circular 4072.1B “Title VI
+Requirements and Guidelines for Federal Transit
+Administration Recipients,” Chapter 4.4.
+• Service Change Process – new section describes process
+• Cost Sharing Policy - new section outlines financial feasibility,
+vehicle availability, local government and community support
+and performance requirements
+Packet Pg. 48
+
+1.C.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: June 9, 2016
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+June 7, 2016
+
+Board Meeting Date: June 14, 2016
+
+Subject:
+
+16th Street Mall Summer Activities 2016
+
+Attached is the description of Summer activities for the 16th Street Mall.
+ATTACHMENTS:
+
+
+16th Street Mall Summer in the City Activities 2016 (PDF)
+
+Prepared by:
+Bruce Abel, Assistant General Manager
+Approved by:
+
+Packet Pg. 49
+
+1.C.2.a
+
+,../tAY 28/29
+,
+
+- - ·- - --
+
+-
+
+- - - - 19THST-- - - · --
+
+--------
+
+-----~::--- -·-----
+
+--- ------,
+
+18TH ST
+
+DENVER
+
+UNION STAJION
+
+17THST
+
+0
+
+CMCCENIEll
+STATION
+
+lSTH ST
+
+1300
+
+1200
+
+1100
+
+::'~RAM-G ../j ~ ;'i~ (]«; ~ ~
+
+"'"'""" CAf£SEA11NG+MUSIC
+
+- -
+
+-~
+!j:
+
+~
+
+m
+
+cz:
+
+w
+
+~
+
+1000
+
+<
+
+~
+
+~,~ ::_::-~""'~·~ ------~~
+
+900
+
+r
+BOO
+
+700
+
+600
+
+500
+
+!_.
+~
+
+400 ... 300 ... 200
+
+~ ~,_wo.
+
+<
+
+...,
+
+Cl:
+
+:c
+
+"'
+
+o
+
+--
+
+i ____:
+
+----u
+
+,_a:
+
+:::z:
+
+Z
+
+a::
+
+'-'
+
+E
+
+o~"
+~
+
+~ ---d- ------~_J
+
+Shuttle Location
+
+16th Street
+
+{oad Closures
+
+Arapahoe, Cutis, Champa, Welton
+
+Downtown Events
+
+Denver Day of Rock
+Rockies Game (day)
+
+Denver Day of Rock
+Rockies Game (day)
+
+Weekend Objective
+
+To understand the impacts of road closures and special events to the
+~
+downtown transportation network as well as the potential for transverse streets to positively impact 16th Street.
+'S
+This helps
+to
+answer
+A.
+Amount
+of
+Activation;
+E
+Transverse
+Network
+~
+........
+
+.£
+
+i--~~~~~~~~~~~~-+-~~
+
+~~~~~~~~~-,.~~~~~~~~~~~~--t".E
+
+NA
+
+a
+
+NA
+
+!!:!
+
+Ill
+
+..!{J
+
+~
+
+~
+
+i--~~~~~~~~~~~~--~~~~~~~~--~~~~~~~~..._~~~~~~~---4~
+
+Observational Studies
+
+gi
+
+......~~~~~~~---.i. ~
+
+1--~~~~~~~~~~~~--~~~~~~~~...-~~~~~~~~
+
+PSPL Standard
+~
+PSPL Targeted
+TBD
+TBD
+"'
+1--~~~---~~~~~~~~-'-~~~~~~~~.._~~~~~~~~........~~~~~~~~~
+1
+
+i--~~~~~~~~~~~~-+-~~~~~~~~--~~~~~~~~+-~~~~~~~---4~
+
+Cl
+
+Intercept Surveys
+
+......~~~~~~~~ec
+TBD
+E
+
+1--~---"--~~--~~~~~~--~~~~~~~~...-~~~~~~~~
+
+RTD/CCD Joint Survey
+
+TBD
+
+1--~~~~~~~~~~~~...-~~~~~~~~-t--~~~~~~~~..-~~~~~~~---1~
+
+1--~C_P_o_1o_o_P_E_n_g_ag_e_m_e_n_t~~~~--~~~~~~~~.......~~~~~~~~..__~~~~~~~--1~
+Transportation Data
+o.
+
+t--~~~~~~~~~~--..--~~~~~~~~~~~~~~~~~~~~~~--i~
+
+1--~T_ra_n_slt_R_id_e_r_sh_ip'--~~~~~--t--C_ol_le_ct_e_d_c_o_nt_in_u_o_us_1y_t_h_ro~u-g_ho_u_t_th_e_s_u_m_m_e_r~~......-~~~~~~~~-1~
+Traffic Data (LOS)
+TBD
+TBD
+TBD
+C
+
+~~~~~~~~~~~~-t-~~~~~~~~--~~~~~~~~-'-~~~~~~~---t,.._
+
+..1usiness Impact
+
+Sales Tax collected contlnuouslythroughoutthe summer
+
+.....
+
+Social Media Analysis
+
+Collected continuously throughout the summer
+
+~
+
+1--~~~~~~~~~~~~-f-~~~~~~~~~~~~~~~~~~~~~~~~~---.i'°
+i--~~~~~~~~~~~~-+-~~~~~~~~~~~~~~~~~~~~~~~~~~o
+
+Urban Design Analysis
+
+Studied continuously throughout the summer
+Packet Pg. 50
+
+Attachment: 16th Street Mall Summer in the City Activities 2016 (2818 : 16th Street Mall Summer Activities 2016)
+
+.
+•
+
+.
+
+1.C.2.a
+
+JUNE 4/5
+
+-
+
+~STATION
+
+18ltt ST
+
+171li ST
+
+0
+
+-....... . . . . . . . . . . . . .~--·\fi&UiT
+
+/
+/
+
+900
+
+800
+
+700
+
+600
+
+500
+
+400
+
+..
+_,
+
+i
+
+•••• •••• CAfl SEATl«i +MUSIC
+
+•
+
+,.. ,
+
+w
+
+..."'
+
+OTllER INltlMNTlONS
+
+'
+
+'··· PSPI.~
+
+Shuttle Location
+
+16th Street
+
+Road Closures
+
+14th, Larimer, Bannock, Broadway, Colfax, Cheyenne
+
+Chalk Art Festival
+Chalk Art Festival
+Peoples Fair
+Peoples Fair
+Wynkoop Farmers Market
+1--------------------------+--------------------------.
+. . . ----------------------------1~g'
+To understand the impacts of nearby special events to 16th Street.
+Weekend Objective
+.,,
+This helps to answer A. Amount of Activation; F. Character Areas;
+-5
+G. Function of Street Layout
+S
+Downtwon Events
+
+1--------------------------+-----------------.
+. . . ------.......----------------------------1~~
+~
+
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiii~iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii .,,~
+
+Ja
+
+.,_
+________________________
+.....___________________________________________________---'!~
+Measurement
+Tool
+·iii
+
+Observational Studies
+
+-c
+
+t--------------------------...,.-----------------"T"'""----------------,-------------------1g'
+~~~
+~
+t--------------------------+-----------------+-----------------+-------------------1,
+~
+......______
+. . ;. . ________________.....___________________________________
+.._TBD
+____
+PSPL Targeted
+TBD
+' :::s
+~----------t
+'
+
+~
+
+~l_n_te_r_ce~p_t_S_u_r_ve~y_s_______________________________,----------------.......---------------~i
+RTD/CCD Joint Survey
+
+TBD
+
+TBD
+
+E
+
+~-------------------------+-----------------+------------------+-------------------1E
+
+CPD/DDP Engagement
+
+!!!
+
+..._~~~~~~~~--''--~~~~~_._~~~~~~--~~~~~----4~
+
+Transportation Data
+
+a.
+
+1--------------------------...,.-------------------------------------------------------1
+Transit Ridership
+Collected continuously throughout the summer
+t
+1--------------'-------------+------------------......-----------------"T"'""------------------1c(
+Traffic Data (LOS)
+TBD
+TBD
+TBD
+a:
+Business Impact
+
+Sales Tax collected continuously throughout the summer
+
+Social Media Analysis
+
+Collected continuously throughout the summer
+
+Urban Design Analysis
+
+Studied continuously throughout the summer
+
+\0
+
+.....
+
+Lil
+
+0
+
+Packet Pg. 51
+
+Attachment: 16th Street Mall Summer in the City Activities 2016 (2818 : 16th Street Mall Summer Activities 2016)
+
+19ltt ST
+
+Junell/12
+r - · ·- - -
+
+- ---
+
+---
+
+·~------- · --------- - --- - -------~
+
+~ST
+DENYEJI
+
+UNON STATlOH
+
+-·-----,
+I'
+,4f
+
+l
+l
+
+~
+
+17THST
+
+ISTH ST
+
+1300
+
+1200
+
+... 1100 t;; 1000 ... 900 t;; 800 ~ 700 ~ 600 ... 500
+"'uw
+z
+
+I!!
+:c
+
+...
+
+<
+<
+"'<
+
+"'"'
+>=
+
+"':::>
+u
+
+if
+u
+
+...
+:::;
+<
+u
+
+"'
+
+~
+~
+
+400
+
+200 ~
+
+300
+
+......
+
+......
+8"'
+
+~
+
+~
+
+~
+
+v
+
+..."'
+
+..
+~
+
+0
+
+z
+
+<
+
+~
+~
+
+u
+
+Wynkoop
+Jowntwon Events
+
+Rockies Game (Day}
+Wynkoop Farmers Market (9a-2p}
+Civic Center Movie (Night}
+.......
+
+1--~~~~~~~~~~~~--+~~~~~~~~
+
+Weekend Objective
+
+Rockies Game (Day}
+
+"--"--~~__..~~~~~~~~~~~~~--1~
+
+To understand the functions of 16th Street on a standard day.
+This helps to answer A. Amount of Activation; D. Shuttle Re-Routing
+G. Function of Street Layout
+
+-£
+.S
+
+NA
+
+~
+
+gi
+ta
+
+1--~~~~~~~~~~~~--+~~~~~~~~~--~~~--..~~~~~~~~~~~~~--it
+
+iiiiiiiiiiiiiiiiiiiiii!iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii ~
+ta
+~
+
+!
+
+Measurement Tool
+
+t-~~~~~~~~~~~~--.~~~~~~~~~--~~~~~~~~--~~~~~~~~-1
+, ~
+
+Observational Studies
+
+oi
+
+--~~~~~~~~~~~~---..~~~~~~~~~..--~~~~~~~~--~~~~~~~~-c
+
+PSPL Standard
+X
+X
+">PSPL Targeted
+TBD
+TBD
+:::1
+1o-~~~~~~~~~~~~--~~~~~~~~~--~~~~~~~~--~~~~~~~~--1~
+1--~~~~~~~~~~~~-+~~~~~~~~~t-~~~~~~~~-t-~~~~~~~~-1 ~
+
+~
+
+Intercept Surveys
+
+to-~~--~~---~~~~~~---.~~~~~~~~~.....-~~~~~~~~~~~~~~~~~--1c
+
+RTD/CCD Joint Survey
+CPD/DDP Engagement
+
+TBD
+
+TBD
+
+E
+
+1--~~~~~~~~~~~~--+~~~~~~~~~+-~~~~~~~~-+-~~~~~~~~--1e
+
+.......
+
+1--~~~~~~~~~~~~
+
+........
+
+~~~~~~~~~......_~~~~~~~~
+
+~
+
+~~~~~~~~--1~
+
+5.
+
+Transportation Data
+
+t-~~~~~~~~~~~~---r~~~~~~~~~~~~~~~~~~~~~~~~~~~-1.=..:
+
+1--~]_ra_n_s_lt_R_id_e_~_h_ip~~~~~~--+-C_o_lle_c_te_d_c_o_n_ti_n_uo_u_s_ly_t_hr_o~u~gh_o_u_t_th_e_s_u_m_m_e_r~~---.,...._~~~~~~~---1u..
+
+Traffic Data (LOS)
+
+TBD
+TBD
+TBD
+Sales Tax collected continuously throughout the summer
+
+~
+,.....
+
+~--~~~~~~~~~~~~+-~~~~~~~~---~~~~~~~~---~~~~~~~~--10
+
+1siness Impact
+Social Media Analysis
+Urban Design Analysis
+
+Collected continuously throughout the summer
+Studied continuously throughout the summer
+
+~
+11'1
+
+0
+
+Packet Pg. 52
+
+Attachment: 16th Street Mall Summer in the City Activities 2016 (2818 : 16th Street Mall Summer Activities 2016)
+
+1.C.2.a
+
+1.C.2.a
+
+June 18/19
+
+18'!11 ST
+
+OOMA
+
+17'!11 ST
+
+UllON STATION
+
+-
+
+15'!11 ST
+
+SHUTlUROUTI:
+
+t---t llCW>QDSURES
+
+...
+
+"'
+•• •••••• CAFE SEAJWG +MUSIC
+
+'
+
+cmalNIBMNllONS
+,-.,
+' · _, PSPl.L...-
+
+Shuttle Location
+
+16th Street
+
+Road Closures
+
+14th, Bannock, Broadway, Colfax, Cheyenne
+Pride Fest
+ComicCon
+Wynkoop Farmers Market
+
+Downtwon Events
+
+.......
+
+Pride Fest
+ComicCon
+
+~~~~~~~~~~~~--~---~---~~~~~~~~~--~~~~~~~~~~~~~--~
+
+Weekend Objective
+
+.....
+
+.......
+
+~~~~~~~~~~~~
+
+To understand the impacts of nearby special events to 16th Street.
+This helps to answer B. Placemaking Heart; F. Character Areas;
+G. Function of Street Layout
+
+"'
+· -5
+S
+
+~
+
+E
+
+......
+
+~~~~~~~~~----~~~
+
+g'
+
+~~~~~~~~~~~~~-~
+
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii;i!iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii ~
+
+"'
+
+.!a
+
+Measurement Tool
+
+·;u
+
+t--~~~~~~~~~~~~......~~~~~~~~~.r....-~~~~~~~~.......~~~~~~~~-1~
+
+!
+
+Observational Studies
+
+t--~~~~~~~~~~~~....,.~~~~~~~~~~~~~~~~~~"'T'"'~~~~~~~~-1c
+
+PSPL Standard
+
+X
+
+X
+
+">.
+
+TBD
+
+TBD
+
+:;,
+
+t--~~~~~~~~~~~~--+~~~~~~~~~+-~~~~~~~~-+-~~~~~~~~-1~
+
+..... PSPL Targeted
+
+~~~~~~~~~~~~--~~~~~~~~~--~~~~~~~~--~~~~~~~~-~
+
+~
+
+Intercept Surveys
+
+t--~~--~~---~~~~~~....,.~~~~~~~~~~~~~~~~~~....-~~~~~~~~-1g'
+
+RTD/CCD Joint Survey
+
+TBD
+
+TBD
+
+E
+
+t--~~~~~~~~~~~~--+~~~~~~~~~+-~~~~~~~~-+-~~~~~~~~-1e
+
+CPD/DDP Engagement
+
+TBD
+
+TBD
+
+t!!
+
+t--~~~~~~~~--~~~~~~--~~~~~---.~~~~~-----1~
+
+~
+
+Transportation Data
+
+t--~~~~~~~~~~~~....,.~~~~~~~~~~~~~~~~~~~~~~~~~~~-1~
+
+Transit Ridership
+
+Collected continuously throughout the summer
+
+Traffic Data (LOS)
+
+TBD
+
+~
+
+t--~~~~~---~~~~~~--+~~~~~~~---~~~~~~~~~~--~~~~~~~~-1<(
+
+TBD
+
+Business Impact
+
+Sales Tax collected continuously throughout the summer
+
+Social Media Analysis
+
+Collected continuously throughout the summer
+
+Urban Design Analysis
+
+Studied continuously throughout the summer
+
+TBD
+
+a:
+
+Packet Pg. 53
+
+Attachment: 16th Street Mall Summer in the City Activities 2016 (2818 : 16th Street Mall Summer Activities 2016)
+
+19™ST
+
+----·-1
+
+JUNE 25/26
+
+----------·- 111--.-- ----··--·-·------ -·---- ----. , 19TttST
+
+18Ttt ST
+
+'~
+
+I-
+
+~
+
+I
+I
+
+17THST
+
+0
+1Sltt ST
+
+EVEHTS
+MITS PROGRAMMING
+........ CAFESEAJWG+MUSK
+•
+
+Tr: :1
+
+~
+
+SI;
+
+~
+w
+
+-~-~~,__,,
+
+~1
+
+~
+
+:;;
+w
+
+u
+
+z
+
+w
+
+Si>ftJie L~.
+
+OMlllNTBMNTIONS
+
+PSl'l. l.JICJlllons
+
+_ _ _ _ _ ...l... _ . - · -
+
+-
+
+15th/17th Street
+
+NA
+Rockies Game (day)
+Wynkoop Farmers Market
+
+Rockies Game (day)
+
+To understand how the street can accommodate active programming
+when the shuttle is re-routed.
+~
+I'll
+This helps to answer A. Amount of Activation; B. Placemaking Heart; i5
+D. Shuttle Re-Routing; G. Function of Street Layout
+S
+1--~~~~~~~~~~~~-+-~~~~~~~--~~~~---~~~~---~~~~~~~---tt
+Weekend Objective
+
+QI
+
+"E
+
+iiiiiiiiiiiiiiiiiiiiiiiiiiiii.iiiiiiiiiiiiiiiijijiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii ~
+Ill
+
+..!!:!
+
+-~
+
+1--~~~~~~~~~~~~--~~~~~~~~--~~~~~~~~--~~~~~~~--t~
+
+Observational Studies
+
+en
+
+i--~~~~~~~~~~~~....-~~~~~~~~--~~~~~~~~..--~~~~~~~--1c
+
+1--~P_SP_L_S_ta_n_d_a_rd~~~~~~~-t-~~~~~~~~T-X~~~~~~~~T-X~~~~~~~--11
+PSPL Targeted
+
+TBD
+
+TBD
+
+:i
+
+1--~~~...;;;...~~~~~~~~-'-~~~~~~~~--~~~~~~~~--~~~~~~~--1~
+
+~
+
+Intercept Surveys
+
+i--~~--~~--~~~~~~....-~~~~~~~~...-~~~~~~~~..-~~~~~~~--c
+
+RTD/CCD Joint Survey
+CPD/DDP Engagement
+
+TBD
+TBD
+
+TBD
+TBD
+
+i--~~~~~~~~~~~~-+-~~~~~~~~+-~~~~~~~~+-~~~~~~~--1
+.
+
+E
+E
+~
+
+1--~~~~~~~~~~--~~~~~~~_._~~~~~~~..__~~~~~~--1e
+
+Transportation Data
+
+a.
+
+1--~~~~~~~~~~~~"T"'""~~~~~~~~~~~~~~~~~~~~~~~~~--1 .=.=
+
+1--~T_ra_n_sl_t_Ri_de_r_sh_i_
+p~~~~~~-+-c_o_lle_ct_e_d_c_
+o_nt_in_u_o_u_sly
+_t_h_ro~u~g_h_ou_t_t_he_s_u_m_m_e_r~~..,.~~~~~~~~-1~
+
+Traffic Data (LOS)
+
+TBD
+TBD
+TBD
+.......
+Sales Tax collected continuously throughout the summer
+
+~--~~~~~~~~~~~--ti--~~~~~~~
+
+Jsiness Impact
+
+a:
+,.....
+
+~~~~~~~~--~~~~~~~~-t c.
+
+~~~~~~~~~~~~-1-~~~~~~~~~~~~~~~~~~~~~~~~~---t
+
+Social Media Analysis
+
+Collected continuously throughout the summer
+
+.....
+
+~
+
+1--~~~~~~~~~~~~-+-~~~~~~~~~~~~~~~~~~~~~~~~~---1..,;
+
+Urban Design Analysis
+
+Studied continuously throughout the summer
+
+o
+Packet Pg. 54
+
+Attachment: 16th Street Mall Summer in the City Activities 2016 (2818 : 16th Street Mall Summer Activities 2016)
+
+1.C.2.a
+
+1.C.2.a
+
+July 2/3
+
+18Ttt ST
+
+DENYER
+UNONSTATION
+
+17Ttt ST
+
+0
+
+-..~-------1~
+-
+
+SHUTTLE ROUTE
+
+!---I ROAD CLOSURES
+....
+
+....
+
+....
+
+MITS PROGRAMMING
+
+"'
+
+:::
+
+:::
+
+~
+
+"'
+
+•••••••• CAFE SEA11NG +MUSIC
+
+It!:::
+
+•
+
+·-··
+
+'
+
+15Ttt ST
+
+EVENTS
+
+OTIEl INTERVENTIONS
+
+L _, l'SPl. l.oaotlons
+FocuMd PSPI.
+
+1300
+
+1200
+
+1100
+
+1000
+
+900
+
+-~~
+~~
+
+S"EEJi B
+LllD.
+
+15th/17th Street
+
+Shuttle Location
+Road Closures
+
+NA
+
+Bannock, Cherokee, 14th
+
+Downtwon Events
+
+Wynkoop Farmers Market
+
+Independence Eve Fireworks
+
+To understand how the local community can engage with 16th Street
+cu
+with simple invitations.
+This helps to answer A. Amount of Activation; B. Placemaklng Heart; ~
+F. Character Areas; G. Function of Street Layout
+ti
+t---------------------------1----------------------------ro------'----------------------1g
+._
+.......
+__._~
+Cafe Culture
+Backyard BBQ
+ti
+Weekend Objective
+
+___________________________________________________ ________________________
+
+.0
+
+:I
+
+"'~
+
+Measurement Tool
+"'
+..!!!
+1---------------------------'-----------------........----------------...._______________---f,~
+Observational Studies
+QI
+1--------------------------....-----------------...-----------------...------------------f~
+PSPL Standard
+gi
+--------------------------+-----------------+------------------------------------1·~
+..,_
+__P_SP_L_t_a_~_e_te_d______________..__________________...._TB_D_ _ _ _ _ _ __._T_B_D__________-1~
+Intercept Surveys
+~
+RTD/CCD Joint Survey
+TBD
+TBD
+gi
+1----C-P-D/_D_D_P_E_n-ga_g_e_m_e_n_t_______..__ _ _ _ _ _ _ _+-TB-D-----------+T-B-D-------------1E
+1---------------------------...-----------------...---------------....---------------1. ~
+
+i--------------------------.
+. . . ---------------""-----------------.._----------------1E
+~T_r_an_s_p_o_rt_a_t_io_n_D_a_t_a____________________________________________________________--ii
+Transit Ridership
+
+Collected continuously throughout the summer
+
+c.
+
+t----------------------------t------------------""T""""----------------....-------------------1.:.:
+Traffic Data (LOS)
+TBD
+TBD
+TBD
+u..
+
+1--------------------------+------------------'---------------.._----------1<(
+Business Impact
+Sales Tax collected continuously throughout the summer
+. a:
+Social Media Analysis
+
+Collected continuously throughout the summer
+
+t--------------------------1-----------------------------------------------------1v
+._
+____________________________________________________________________________
+Urban
+Design Analysis
+Studied continuously throughout the summer
+....
+
+__.~
+
+Packet Pg. 55
+
+Attachment: 16th Street Mall Summer in the City Activities 2016 (2818 : 16th Street Mall Summer Activities 2016)
+
+----------
+
+1.C.2.a
+
+---.-----
+
+ly9/10
+
+- - --- - - ··- --
+
+----·- ----------- - - -
+
+18TH ST
+
+DEIMR
+UNON STAllOH
+
+17TH5T
+
+0
+1STH ST
+
+EVENTS
+MITSPROG~G
+
+•••• •• •• CAFE SEA11NG +MUSIC
+•
+
+T[~ :l
+
+OTHEl! NTBMNTIONS
+
+PSI'!. Locations
+
+Shuttle Location
+
+15th/17th Street
+
+Road Closures
+owntown Events
+
+NA
+
+Glenarm
+
+Wynkoop Farmers Market
+Rockies Game (night+ fireworks)
+
+Rockies Game (day)
+Skyline Park Corn hole Tournament
+
+To understand how activations on transverse streets & Skyline Park can
+impact 16th Street.
+~
+This helps to answer A. Amount of Activation; B. Placemaking Heart; ;
+~
+C. Location of Heart; D. Shuttle Re-Routing; E. Transverse Network;
+v
+
+Weekend Objective
+
+t---------------t---------------r------------------1£
+t---------------t---------------.----------------t:cProgramming Theme
+
+Cafe Culture
+
+~
+
+Big Wonderful Block 600
+
+~
+
+Organized Sports
+
+Programming Notes
+
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii ~
+.....Measurement
+____________
+. . . . ________..._________...________ ~
+Tool
+
+~
+
+---f~
+
+Cl
+
+Observational Studies
+
+c
+
+~
+
+PSPL Standard
+X
+X
+X
+t---------------t----------1-----------1-------------1~
+PSPL Targeted
+TBD
+TBD
+all
+
+________..._________
+
+1-----~--------......._
+
+.,___
+,____.;. . . ______
+RTD/CCD Joint Survey
+Intercept Surveys
+
+.._~---------fCI
+
+c
+
+-.---------...--~---~---...------------fe
+
+TBD
+TBD
+E
+.,__------------+---------+---------+----------I~
+CPD/DDP Engagement
+TBD
+TBD
+gi
+1--~~~~~~~~~~-------~~~~~~---'---~~~~~~~...._~~~~~~---t~
+
+Transportation Data
+
+··
+
+--~~~~~~~~~~--.--~~~~~~~~~~~~~~~~~~~~~~--t
+
+<:
+1-----------------t-----------...------ ---r----------1a::
+_____;,. ._______-+-________..._________
+. ._________
+Transit Ridership
+
+Collected continuously throughout the summer
+
+Traffic Data (LOS)
+
+TBD
+
+Jsiness Impact
+
+TBD
+
+Sales Tax collected continuously throughout the summer
+
+TBD
+
+0
+
+---f~
+
+"'":
+
+...--------------+------------------------------1~
+Social Media Analysis
+Collected continuously throughout the summer
+i.n
+
+1---------------t------------------------------10
+Urban Design Analysis
+Studied continuously throughout the summer
+
+Packet Pg. 56
+
+Attachment: 16th Street Mall Summer in the City Activities 2016 (2818 : 16th Street Mall Summer Activities 2016)
+
+. , 19TH5T
+
+1.C.2.a
+
+July 16/17
+
+18THST
+
+D£/MR
+
+UNON STATION
+
+17Tli ST
+
+0
+.....,.__________
+
+...,..,~
+
+1STHST
+
+15th/17th Street
+
+Shuttle Location
+Road Closures
+
+Glen arm
+
+NA
+
+Wynkoop Farmers Market
+Moonlight Classic
+To understand how programming and evening events can impact
+Weekend Objective
+16th Street.
+QI
+This helps to answer A. Amount of Activation; C. Location of Heart;
+~
+z;
+__________________________....,..___________________________________________________---ig
+D. Shuttle Re-Routing; E. Transverse Network;
+v
+Downtown Events
+
+__________________________
+....,..
+___________________________________________________
+--:Ci'
+Programming Theme
+Cafe
+Culture
+Cafe Culture
+~
+
+________________________ __________________________________________________
+Big Wonderful Block 600
+: :J
+
+.._
+Programming Notes
+
+__.~
+
+......_
+
+~
+
+"'
+
+.!a
+
+1--------------------------...___________________________________________________
+
+~
+
+Observational Studies
+
+gi
+
+---4~
+
+PSPL Standard
+
+X
+
+X
+
+l
+
+1---------------------------+-----------------+------------------t-------------------f:::J
+1----P-SP_L_l_a_rg_e_te_d______________......_________________...._TB_D______________......_T_B_D______________
+~
+
+-t~
+
+Intercept Surveys
+
+gi
+
+i---------------------------...-----------------~----------------...---------------~
+eE
+RTD/CCD Joint Survey
+TBD
+TBD
+
+1---------------------------+-----------------+------------------t-----------------t~
+CPD/DDP Engagement
+TBD
+TBD
+~
+
+----------------------------------------------------------------------------~
+
+Transportation Data
+··
+___________________________
+....,..
+________________
+..,.....
+________________
+...-________________
+a:
+Transit Ridership
+Collected continuously throughout the summer
+<
+
+1--~~~~~~~~~---.~~~~~~~~~~~~~~~~~~~~~--it
+
+Traffic Data (LOS)
+
+TBD
+
+TBD
+
+Business Impact
+
+Sales Tax collected continuously throughout the summer
+
+Social Media Analysis
+
+Collected continuously throughout the summer
+
+TBD
+
+,....
+in
+
+1--------------------------+-------------------------------------------------------10
+Urban Design Analysis
+Studied continuously throughout the summer
+Packet Pg. 57
+
+Attachment: 16th Street Mall Summer in the City Activities 2016 (2818 : 16th Street Mall Summer Activities 2016)
+
+19THST
+
+1.C.2.a
+
+,uly 23/24
+•
+
+·- - 19ni5T
+
+18ni5T
+
+I
+
+DENVER
+UNION STATION
+
+17TH ST
+
+0
+i
+
+1300
+
+1200
+
+/1I
+
+1100
+
+Shuttle Location
+
+15th/17th Street
+
+Road Closures
+
+N/A
+
+Curtis
+
+1owntown Events
+
+Wynkoop Farmers Market
+Rockies Game (night)
+
+Rockies Game (day)
+
+Weekend Objective
+
+To understand how different placemaking interventions and activated
+transverse streets impact 16th Street.
+This helps to answer A. Amount of Activation; B. Placemaking Heart;
+C. Location of Heart; D. Shuttle Re-Routing; E. Transverse Network;
+
+ai
+
+~
+
+~
+
+v
+
+i---------------------------+---------------------------------------------------------4£
+Programming Theme
+Prototyping Festival
+~
+i---------------------------+-------------------------------------------------------4:5'
+Programming Notes
+Big Wonderful Block 600
+:;,
+"'
+
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii;!iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii .!O~
+PSPL Standard
+
+X
+
+X
+
+X
+
+'l
+l
+
+PSPL Targeted
+
+TBD
+
+TBD
+
+TBD
+
+all
+
+~M__e_a_s_u_re_m__e_n_t_Ti_o_o_l______________________________...._________________....__________________
+Observational Studies
+
+gi
+
+i----------------------------+------------------+------------------+------------------4~
+~---------------------------------------------------------------'------------------
+
+1nt ercept Surveys
+
+gi
+
+i------.:.-----~-------------.....------------------,....-----------------....------------------ie
+
+RTD/CCD Joint Survey
+TBD
+TBD
+E
+1---------------------------+------------------+---------~~-----+---~-------------1~
+CPD/DDP Engagement
+
+TBD
+
+TBD
+
+c:n
+
+i------------------------------------------------------------------------------------4E
+Transportation Data
+i:.:
+1---------------------------.....-------------------------------------------------------tu.
+Transit Ridership
+Collected continuously throughout
+the summer
+1-----------------------------+--------------...._
+__,. . . .__________________________________
+-la:
+
+Q,
+
+<(
+
+Traffic Data (LOS)
+TBD
+TBD
+TBD
+Cl
+---------------------------------------------------------------------------------~
+... usiness Impact
+Sales Tax collected continuously throughout the summer
+,...
+
+~---------------------------------------------------------------------------------~
+Social Media Analysis
+Collected continuouslythroughoutthe summer
+
+LI'.)
+
+i---------------------------+-------------------------------------------------------40
+Urban Design Analysis
+Studied continuously throughout the summer
+Packet Pg. 58
+
+Attachment: 16th Street Mall Summer in the City Activities 2016 (2818 : 16th Street Mall Summer Activities 2016)
+
+r - - - - - -- - - --
+
+1
+
+1.C.2.a
+
+July 30/31
+
+18THST
+
+DENVER
+U,_.STAllON
+
+17THST
+
+0
+
+16th Street
+
+Shuttle Location
+
+NA
+
+Curtis
+
+Road Closures
+
+Wynkoop Farmers Market
+ArtStir
+To understand how different placemaking interventions and transWeekend Objective
+verse street activations interact with the Mall Shuttles on 16th Street.
+111
+This helps to answer A. Amount of Activation; B. Placemaking Heart;
+C. Location of Heart; D. Shuttle Re-Routing; E. Transverse Network;
+v
+1---------------------------+----------------;,.._----------------=;;._----------------...;._--1£
+Prototyping Festival + Shuttle
+'5l
+Programming Theme
+Downtown Events
+
+J
+1i'
+:::J
+
+"'~
+IV
+
+.la
+__________.__________________..__________________..________________-1~
+
+~O--b-se_r_v_a-ti_o_n-al_S_t_u_d-ie_s
+
+1---------------------------,------------------r-----------------""T""------------------l~
+PSPL Standard
+X
+X
+X
+g1
+
+1---------------------------11------------------+------------------+-------------------11
+>.
+PSPL Targeted
+TBD
+•~
+1-------....;;.
+__________________....._
+________________..._TBD
+________________ TBD
+....L.________________--l:::J
+
+Intercept Surveys
+
+"'
+
+~----.._----~--------------.------------------....------------------------------------1~
+RTD/CCO Joint Survey
+TBD
+TBD
+g1
+
+i--------------------------+-----------------+-----------------+------------------i·e
+CPD/DDP Engagement
+TBD
+TBD
+E
+~----------------------------------------------------------------'------------------!~
+
+~T_r_an_s_p_o_rt_a_ti_o_n_D_a_ta__________-r---------------------------------------------------1~
+~--T_ra_n_s_it_R_id_e_rs_h~ip____________--t_c_o_lle_ct_e_d_c_o_n_ti_n_uo_u_s~ly_t_hr_o~u-gh_o_u_t_th_e_s_u_m_m_e_r______,,...,_----------------1~
+Traffic Data (LOS)
+
+TBD
+
+TBD
+
+TBD
+
+LL
+
+1----------------------------11------------------.1-----------------....L.-----------------1~
+Business Impact
+Sales Tax collected continuously throughout the summer
+Social Media Analysis
+
+Collected continuously throughout the summer
+
+Urban Design Analysis
+
+Studied continuously throughout the summer
+
+Packet Pg. 59
+
+Attachment: 16th Street Mall Summer in the City Activities 2016 (2818 : 16th Street Mall Summer Activities 2016)
+
+19THST
+
+1.C.2.a
+
+\UQUSt 6/7
+
+r-- --- - ---- --~;;-- -
+
+-- ---- --· -- ----------------·--- -,
+
+18THST
+
+D£IMR
+UNOH STAJIOll
+
+17TH ST
+
+Shuttle Location
+
+16th Street
+
+Road Closures
+
+NA
+
+NA
+
+owntwon Events
+
+Wynkoop Farmers Market (9a-2p)
+Rockies Game (night)
+Civic Center Movie
+
+Rockies Game (day)
+
+To understand the functions of 16th Street on a standard day.
+~
+This helps to answer A. Amount of Activation; D. Shuttle Re-Routing; ;
+.z:.
+G.
+Street
+Layout
+v
+t--~~~~~~~~~~~~-t--~~~~--~~~~~~~~~~~~~~~~~~~~--tS
+Weekend Objective
+
+Prototyping Festival + Shuttle
+
+Programming Theme
+
+ti
+
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiif
+
+~
+
+I'll
+
+~
+
+i--~~~~~~~~~~~~---~~~~~~~~--~~~~~~~~--~~~~~~~--t~
+
+,~
+
+Observational Studies
+
+i--~~~~~~~~~~~~--~~~~~~~~...-~~~~~~~~--~~~~~~~--~
+
+PSPL Standard
+
+X
+
+X
+
+X
+
+c
+
+t--~P-S-PL_To_a-~-e-te-d~~~~~~~-t--T-BD~~~~~~~_,.-T_BD~~~~~~~-t--TB-D~~~~~~~-ti
+.......
+1--~~~~~~~~~~~~
+
+~~~~~~~~..._~~~~~~~~.._~~~~~~~--t~
+
+Intercept Surveys
+
+TBD
+
+TBD
+
+"'
+g1
+
+TBD
+
+TBD
+
+E
+
+i--~~---~~--~~~~~~--~~~~~~~~...-~~~~~~~~--~~~~~~~-- ~
+
+RTD/CCD Joint Survey
+
+i--~~~~~~~~~~~~+-~~~~~~~~-+-~~~~~~~~.f-~~~~~~~--te
+
+CPD/DDP Engagement
+
+.......~~~~~~~~..._~~~~~~~~.._~~~~~~~--t~
+
+1--~~~~~~~~~~~~
+
+Transportation Data
+
+gi
+
+t--~~~~~~~~~~---r-~~~~~~~~~~~~~~~~~~~~~~---t~
+
+Transit Ridership
+
+Collected continuously throughout the summer
+
+Traffic Data (LOS)
+
+TBD
+
+~
+
+1--~~~~~--~~~~~~+-~~~~~~--~........~~~~~~~~...-~~~~~~~--tt
+
+TBD
+
+TBD
+
+<'.
+
+i--~~~~~~~~~~~~--~~~~~~~~---~~~~~~~~..._~~~~~~~---ia::
+
+usiness Impact
+
+Sales Tax collected continuously throughout the summer
+
+o
+
+~~~~~~~~~~~~+-~~~~~~~~~~~~~~~~~~~~~~~~~___.~
+
+Jcial Media Analysis
+
+Collected continuously throughout the summer
+
+....
+
+Urban Design Analysis
+
+Studied continuously throughout the summer
+
+vi
+
+1--~~~~~~~~~~~~-1-~~~~~~~~~~~~~~~~~~~~~~~~~--t~
+
+....
+
+.._~~~~~~~~~~~~--~~~~~~~~~~~~~~~~~~~~~~~~~--'O
+
+Packet Pg. 60
+
+Attachment: 16th Street Mall Summer in the City Activities 2016 (2818 : 16th Street Mall Summer Activities 2016)
+
+..
+
+,.
+
+1.C.2.a
+
+August 13/14
+
+IBTHST
+
+1Tlli ST
+
+ISTHST
+
+:;;
+
+:;;
+
+:;;
+
+_,.
+-~
+
+~
+
+.."'
+
+.J~
+
+~
+
+w
+
+~
+
+,_
+
+,_
+
+"'
+
+v
+
+.."'
+z
+
+,_
+
+...
+
+..
+
+~
+~
+<
+
+....
+
+:;;
+
+"'"';::
+a:
+
+~
+
+::>
+
+v
+
+~
+
+""
+
+SPl!E// 8 LIll)
+
+..._,
+
+l::c
+
+...z
+i:!!
+
+_,
+0.
+,_
+
+...~,_
+"'
+
+300 ...200
+0.
+,_
+
+«
+
+~
+
+v
+
+E
+0.
+
+.....
+
+0
+
+z
+
+...~
+d
+
+16th Street
+
+Shuttle Location
+Road Closures
+
+NA
+
+NA
+
+Downtwon Events
+
+Wynkoop Farmers Market
+
+Weekend Objective
+
+To understand the functions of 16th Street on a standard day.
+This helps to answer A. Amount of Activation; 0. Shuttle Re-Routing;
+G. Street Layout
+
+QI
+
+1---------------------------+---------------------------------------------------------1~
+,__
+________________________
+__,,______________________________________________________
+_.u
+Programming
+Theme
+N/A
+..2!
+£
+
+~
+
+1--------------------------___,,__________________...__________________._________________
+
+:ii'
+
+Observational Studies
+
+~
+
+::I
+
+-I~
+
+1----------------------------r--------------------------------------------------------1.ia
+PSPL Standard
+X
+X
+ni
+1-----------------------------t-------------------t-------------------+------------------1~
+PSPL Targeted
+TBD
+1--------------------------_.
+__________________
+.__TBD_________________._TBD
+________________ -c
+
+-I~
+
+~l_n_te_r_c_ep_t_S_u_r_v_e_y_s____________....---------------------------------------------------~ ~
+RTD/CCD Joint Survey
+
+TBD
+
+TBD
+
+:::s
+
+1----------------------------+------------------t-------------------+------------------1~
+
+CPD/DDP Engagement
+t-------------------------_.
+__________________.__TBD_________________._TBD
+________________ ca
+
+--f~
+
+E
+
+Transportation Data
+
+i----------------------------r-------------------------------------------------------1e
+Transit Ridership
+Collected continuously throughout the summer
+i-------------------------------------1t------------------------r--------------------------r-----------------------1~
+Traffic
+Data
+(LOS)
+TBD
+TBD
+TBD
+1----------------------------+------------------.._
+__________________________________
+Business Impact
+Sales Tax collected continuously throughout the summer
+.=-:
+1----------------------------+--------------------------------------------------------iu..
+Social Media Analysis
+Collected continuously throughout the summer
+;:2
+~
+~
+
+-I~
+
+Urban Design Analysis
+
+Studied continuously throughout the summer
+
+..._
+.....
+..,.;
+0
+
+Packet Pg. 61
+
+Attachment: 16th Street Mall Summer in the City Activities 2016 (2818 : 16th Street Mall Summer Activities 2016)
+
+19THST
+
+1.C.2.a
+
+ugust 20/21
+--- --- -- ~0TliST----------
+
+-------··--1
+I
+
+18TliST
+
+~
+
+1TTH ST
+
+DENVER
+UllON STAJION
+
+- ·· - - · - - ---
+
+"
+
+~
+
+0
+
+i
+
+I'
+'~
+
+CMCCENIBI
+
+STATION
+
+.....,.._____---t~--\6811~------...----..,.11'""'"--........--.........~-------1~--------...~
+-
+
+15™ST
+
+SHUTTUllOUTE
+
+1----t ROAD ClDSURES
+EVENTS
+MITS PROGRAMMING
+
+•• •• ••n CAFE 5EAJN'i t- MUSK
+•
+
+300
+
+~
+
+...~
+
+~
+~~
+
+~
+
+1
+w
+
+~
+
+OTHERINIBMNTIDNS
+
+200
+
+...
+
+u
+
+....
+
+~
+
+a ~
+Q
+
+~
+
+u
+
+' Cl PSPI. l.oullons
+
+Shuttle Location
+
+r7
+
+n
+
+...~
+
+16th Street
+
+Road Closures
+
+NA
+
+NA
+
+)owntwon Events
+
+Wynkoop Farmers Market
+Rockies Game (night)
+
+Rockies Game (day)
+
+Weekend Objective
+
+To perform strategic analysis as needed
+This helps to answer A. Amount of Activation; C. Location of Heart;
+D. Shuttle Re-Routing; G. Street Layout
+
+ai
+
+i'
+
+1--~~~~~~~~~~~~-+~~~~~~~~-=-~~~~--"~~~~~~~~~~~~~~~
+
+g
+
+N/A
+
+Programming Theme
+
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii!iiiiiiiiiiiiiiiiiiiiiiiiiiiii!
+;,
+
+"'
+~
+
+Measurement Tool
+
+1--~~~~~~~~~~~~__.~~~~~~~~~.._~~~~~~~~-'-~~~~~~~~-4~
+
+Observational Studies
+
+.Ja
+
+1--~~~~~~~~~~~~---.~~~~~~~~~T"'"""~~~~~~~~-r-~~~~~~~~-4~
+
+PSPL Standard
+
+-c
+
+t--~~~~~~~~~~~~-+~~~~~~~~~+-~~~~~~~~--~~~~~~~~-4~
+
+PSPL Targeted
+
+TBD
+
+TBD
+
+TBD
+
+~
+
+Intercept Surveys
+
+i;..
+
+1--~~.;._~~...;....~~~~~~---.~~~~~~~~~T"'"""~~~~--~~~-.-~~-~~~~~~-1' ~
+
+RTD/CCD Joint Survey
+
+TBD
+
+~
+
+TBD
+
+i--~~~~~~~~~~~~-+~~~~~~~~~+-~~~~~~~~-+-~--~~~~--~-4c:~
+
+CPD/DDP Engagement
+
+TBD
+
+TBD
+
+i--~~~~~~~~~~~~--~~--~~~~~~..__~~--~~~~~.......~~~~~~~~--tE
+
+Transportation Data
+
+E
+
+1--~~~~~~~~~~~~--..~~~~~~~~~~~~~~~~~~~~~~~~~~~--t~
+
+Transit Ridership
+
+Collected continuously throughout the summer
+
+Traffic Data (LOS)
+
+TBD
+
+gi
+
+1--~~~~---'-~~~~~-+-~~~~~___;,~......-"~~~~~~~"T"'""""~~~~~~---t~
+
+TBD
+
+TBD
+
+·•
+
+i--~~~~~~~~~~~1--~~~~~~~--~~~~~~~......_~~~~~~--t
+
+Business Impact
+
+Sales Tax collected continuously throughout the summer
+
+ocial Media Analysis
+
+Collected continuously throughout the summer
+
+Jrban Design Analysis
+
+Studied continuously throughout the summer
+
+<t::
+
+1--~~~~~~~~~~~~--1~~~~~~~~~~~~~~~~~~~~~~~~~~~--tO::
+
+0
+
+~~~~~~~~~~~~--t~~~~~~~~~~~~~~~~~~~~~~~~~~~--t~
+
+......
+
+.._~~~~~~~~~~~~__.~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+'6
+~
+
+~
+
+Packet Pg. 62
+
+Attachment: 16th Street Mall Summer in the City Activities 2016 (2818 : 16th Street Mall Summer Activities 2016)
+
+..
+
+,·
+
+1.C.2.a
+
+1Blli ST
+
+Shuttle Location
+
+16th Street
+
+Road Closures
+
+NA
+
+NA
+
+Downtwon Events
+
+Wynkoop Farmers Market
+Rockies Game (night)
+
+Rockies Game (day)
+
+Weekend Objective
+
+To perform strategic analysis as needed
+This helps to answer A. Amount of Activation; B. Placemaking Heart
+
+e11
+
+~p---------.--T-h--------------+----------------------------N-/A--------------------"--------4~
+
+rogrammmg
+
+eme
+
+~
+
+,__----------------------------------------------------------------------------------'vs
+
+~
+
+Measurement Tool
+
+________________...._________________
+
+~--------------------------------------------._
+
+'.§'
+
+--4~
+
+Observational Studies
+
+!!!
+
+"'
+
+~---------------------------.------------------..------------------.-------------------4~
+
+PSPL Standard
+·~---------------------------t------------------t-------------------+-------------------4
+~
+PSPL Targeted
+TBD
+TBD
+TBD
+-c
+
+________________...._________________
+
+~--------------------------------------------._
+
+--4~
+
+Intercept Surveys
+.5
+~-----------------------------.------------------..------------------.-------------------1~
+RTD/CCD Joint Survey
+TBD
+TBD
+~
+~-------------------------+------------------+------------------+-------------------!~
+CPD/DDP Engagement
+TBD
+TBD
+all
+1--~~~~~~~~~___.~~~~~~~...__~~~~~~-'-~~~~~~--1~
+
+Transportation Data
+
+-
+
+t---------------------------r-------------------------------------------------------1E
+Transit Ridership
+Collected continuously throughout the summer
+~
+
+t--~~~~---~~~~~+-~~~~~...;.__,-..;......~~~~~~-..-~~~~~~--1~
+
+Traffic Data (LOS)
+
+TBD
+
+TBD
+
+TBD
+
+~
+
+~--------------------------t--------------------------------------'------------------4~
+Business Impact
+Sales Tax collected continuouslythroughoutthe summer
+
+t
+
+~S-o-c-ia_l_M
+__
+e_d-ia_A
+__
+n_a_ly-s-is----------+-C-o-lle_ct_e_d_c_o_n-tl-nu_o_u_s-ly-t-hro--ug_h_o_u_t-th_e_s_u_m_m_e_r------------------------1~
+
+Urban Design Analysis
+
+Studied continuously throughout the summer
+
+-....
+~
+0
+
+Packet Pg. 63
+
+Attachment: 16th Street Mall Summer in the City Activities 2016 (2818 : 16th Street Mall Summer Activities 2016)
+
+August 27/28
+
+.
+~
+
+1.C.2.a
+
+;eptember 3/4
+
+18THST
+
+DEIMR
+UNION STAllOll
+
+@
+17™ST
+
+0
+l &"W.leT
+
+z
+
+~
+
+lSTHST
+
+Shuttle Location
+
+16th Street
+
+Road Closures
+
+14th, Bannock, Broadway, Lincoln, Colfax, Cheyenne, Cleveland
+
+')owntwon Events
+
+Wynkoop Farmers Market
+Rockies Game (night)
+Taste of Colorado
+
+Rockies Game (day)
+Taste of Colorado
+
+Weekend Objective
+
+Packet Pg. 64
+
+Attachment: 16th Street Mall Summer in the City Activities 2016 (2818 : 16th Street Mall Summer Activities 2016)
+
+19TH ST
+
+1.C.3
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: June 9, 2016
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+June 9, 2016
+
+Board Meeting Date: June 14, 2016
+
+Subject:
+
+University of Colorado A-Line Ridership Update
+
+Please find the following summary of daily boarding’s for the University of Colorado A-Line sixth week of
+revenue operations.
+ATTACHMENTS:
+
+
+University of Colorado A Line Ridership Update
+
+(DOCX)
+
+Prepared by:
+Bruce Abel, Assistant General Manager
+Approved by:
+
+Packet Pg. 65
+
+Please find the following summary of daily boarding’s for the
+sixth week of revenue
+operations. Ridership overall was better than previous weeks and we set a new record for average weekday ridership.
+
+Saturday, May 28: 14,700
+Sunday, May 29: 13,900
+Monday, May 30: 15,700
+Tuesday, May 31: 17,200
+Wednesday, June 1: 17,000
+Thursday, June 2: 18,500
+Friday, June 3: 22,500
+Saturday, June 4: 13,400
+Sunday, June 5: 14,600
+
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+Total
+Weekly Weekday
+Average
+Overall Weekday
+Average
+
+First Week
+15,400
+14,300
+16,300
+16,400
+
+Second Week
+16,400
+15,800
+17,200
+18,100
+
+Third Week
+16,700
+15,900
+17,300
+17,800
+
+Fourth Week
+16,000
+15,700
+16,600
+17,600
+
+Fifth Week
+15,600
+14,700
+16,200
+16,600
+
+Sixth Week
+15,700
+17,200
+17,000
+18,500
+
+16,900
+12,000
+11,900
+103,200
+
+17,000
+12,500
+14,400
+111,400
+
+20,500
+14,800
+14,900
+117,900
+
+17,600
+10,100
+10,900
+104,500
+
+17,800
+14,700
+13,900
+109,500
+
+22,500
+13,400
+14,600
+118,900
+
+15,860
+
+16,900
+
+17,640
+
+16,700
+
+16,180
+
+18,180
+
+15,860
+
+16,380
+
+16,800
+
+16,775
+
+16,656
+
+16,910
+
+Packet Pg. 66
+
+Attachment: University of Colorado A Line Ridership Update (2824 : University of Colorado A-Line
+
+1.C.3.a
+
+1.C.4
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: June 9, 2016
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+June 8, 2016
+
+Board Meeting Date: June 14, 2016
+
+Subject:
+
+Mobility Choice
+
+Attached is the documentation for the Mobility Choice Blueprint Initiative for the Metro Denver area.
+ATTACHMENTS:
+
+
+Mobility Choice Blueprint Initiative
+
+(PDF)
+
+
+
+Mobility Choice Blueprint PowerPoint
+
+(PPTX)
+
+Prepared by:
+Bruce Abel, Assistant General Manager
+Approved by:
+
+Packet Pg. 67
+
+MOBILITY CHOICE
+
+BLUEPRINT INITIATIVE
+for the Metro Denver Area
+
+How we move is changing. In the post-war history of mobility in our region, personal cars have
+been central to nearly every trip. Getting a driver’s license was a major rite of passage for most
+Americans, and owning a car was part of living the American dream. Accordingly, our
+transportation planning processes were built around that expectation, with a focus on
+maximizing and increasing the amount of cars our roads can hold.
+But technology is changing these values. Today, Americans spend on average 17 percent of their
+household budgets on transportation, largely toward owning and maintaining a car. Driving is
+an unproductive commitment of personal time. Meanwhile, connected cars are already being
+produced, driverless cars are coming faster than anticipated and the sharing economy is
+growing. With that, transportation planning must change.
+We are proposing a mobility planning effort that takes into account the types of changes we are
+experiencing due to advancing technology and shifting values. By uniting the public and private
+sectors we can better plan for the mobility needs of our future workforce. If we don’t act now,
+our growth and congestion could work against us when it comes to attracting tomorrow’s
+employers.
+The Denver Metro Chamber of Commerce, the Colorado Department of Transportation, the
+Regional Transportation District and the Denver Regional Council of Governments are ready to
+embrace a new approach to planning for connected mobility in the metro Denver area.
+OUR PURPOSE
+Maximize existing investments in our transportation system by leveraging technology
+to plan for our future workforce and employer mobility needs and thereby increase
+economic opportunities and quality of life.
+
+1.C.4.a
+
+1.C.4.a
+
+THE DENVER METRO CHAMBER WILL CREATE A NONPROFIT THAT WILL:
+
+LEADERSHIP
+Don Hunt – Executive Director
+Board of Directors (11 members) – The board is anticipated to be made up of seven private
+sector company representatives of large metro Denver employers and four former local
+government officials. Board recruitment will target the following sectors:
+• Finance
+• Health
+• Higher education
+• Manufacturing, energy and agriculture
+• Media, telecom and technology
+• Professional services
+• Real estate development and resorts
+SOURCES OF FUNDING
+
+TWO-YEAR BUDGET
+SOURCES
+Denver Metro Chamber of Commerce
+GFF Challenge Grant
+Other Philanthropic
+TOTAL
+
+YEAR ONE
+$125,000
+$75,000
+$50,000
+$250,000
+
+YEAR TWO
+$125,000
+$75,000
+$50,000
+$250,000
+
+TOTAL
+$250,000
+$150,000
+$100,000
+$500,000
+
+Attachment: Mobility Choice Blueprint Initiative (2822 : Mobility Choice)
+
+• Create a vision for the future of mobility in metro Denver, including key strategies to attain the
+goal of increased vehicle occupancy.
+• Identify options for connected mobility and choice, such as transit, personal vehicles, for-profit
+mobility services, car sharing, ridesharing, bicycling and walking. This strategic direction will move the
+region from dominance of personal vehicles to Mobility as a Service (MaaS).
+• Develop strategies to implement more cost-effective solutions for first and last mile access to
+existing transit. Identifying actions to protect and leverage the investment in the region’s rail transit
+system will be a top priority.
+• Achieve better roadway reliability by using new technology to support active traffic management,
+including express toll lanes, signal coordination, ramp metering, variable speed limits and lane control.
+• Estimate the cost and sources of funding for various projects and programs.
+• Hand off implementation of the strategies to existing or new agencies.
+
+Attachment: Mobility Choice Blueprint PowerPoint (2822 : Mobility Choice)
+
+1.C.4.b
+
+Mobility Choice
+Blueprint
+M AX I M I Z E E X I S T I N G I N V E S T M E N T S I N O U R T R AN S P O R TAT I O N S Y S T E M
+B Y L E V E R AG I N G T E C H N O L O G Y TO P L AN F O R O U R F U T U R E W O R K F O R C E
+AN D E M P L O Y E R M O B I L I T Y N E E D S AN D I N C R E AS E E C O N O M I C
+O P P O R T U N I T I E S AN D Q U AL I T Y O F L I F E .
+
+Packet Pg. 70
+
+Attachment: Mobility Choice Blueprint PowerPoint (2822 : Mobility Choice)
+
+1.C.4.b
+
+Mobility Choice:Why?
+In 2016, the RTD will open
+•US36 Flatiron Flyer
+•University of Colorado A Line
+•Westminster B Line
+•Arvada-Wheat Ridge G Line
+•Aurora R Line.
+What is metro Denver’s post2016 mobility strategy?
+
+Packet Pg. 71
+
+Attachment: Mobility Choice Blueprint PowerPoint (2822 : Mobility Choice)
+
+1.C.4.b
+
+Mobility Choice:Why?
+More than ever before, mobility will
+be the critical element in keeping
+metro Denver economically healthy.
+How do we bring large employers
+into the transportation planning
+process?
+How can DRCOG, RTD and CDOT
+align for maximum effectiveness?
+
+Packet Pg. 72
+
+Attachment: Mobility Choice Blueprint PowerPoint (2822 : Mobility Choice)
+
+1.C.4.b
+
+Mobility Choice:Why?
+Technology is rapidly changing urban
+mobility. Connected, shared, and
+automated mobility are changing the
+ways we travel.
+How do we invest in mobility choices
+• to avoid stranded investments and
+• leverage new technology to create
+continued economic health and
+quality of life?
+
+Packet Pg. 73
+
+Technology Is Changing How We Travel
+GM, Lyft to Test Self-Driving Electric Taxis in 2017
+Ford CEO: We'll Bring Driverless Cars to the Masses
+In a sweeping speech on Tuesday, Ford CEO Mark Fields
+promised -- among other things -- that the first self-driving
+Ford would be an affordable, mass-market product.
+Report: Uber, Lyft Poised to Win on Driverless Cars
+Autonomous vehicles will likely boost the ride-sharing and
+electric-car industries, a new study predicts.
+Elon Musk Says Tesla Vehicles Will Drive Themselves
+in Two Years
+Could Lyft And Uber Put Public Transit Out Of Business?
+Why Aren’t Urban Planners Ready for Driverless
+Cars?
+
+Packet Pg. 74
+
+Attachment: Mobility Choice Blueprint PowerPoint (2822 : Mobility Choice)
+
+1.C.4.b
+
+How Are We Getting Ready For This
+Change?
+Attachment: Mobility Choice Blueprint PowerPoint (2822 : Mobility Choice)
+
+1.C.4.b
+
+Packet Pg. 75
+
+1.C.4.b
+
+Attachment: Mobility Choice Blueprint PowerPoint (2822 : Mobility Choice)
+
+The Denver Metro Chamber Will
+Create A Nonprofit That Will:
+Create a vision for the future of mobility in metro Denver, including key strategies to attain
+the goal of increased vehicle occupancy.
+Identify options for connected mobility and choice, such as transit, personal vehicles, forprofit mobility services, car sharing, ridesharing, bicycling and walking. This strategic
+direction will move the region from dominance of person vehicles to Mobility as a Service
+(MaaS).
+Develop strategies to implement more cost-effective solutions for first and last mile access
+to existing transit. Identifying actions to protect and leverage the investment in the region’s
+rail transit system will be a top priority.
+Achieve better roadway reliability by using new technology to support active traffic
+management, including express toll lanes, signal coordination, ramp metering, variable
+speed limits and lane control.
+Identify specific projects and programs, and estimate costs and funding sources.
+Hand off implementation of the strategies to existing or new organizations.
+
+Packet Pg. 76
+
+Attachment: Mobility Choice Blueprint PowerPoint (2822 : Mobility Choice)
+
+1.C.4.b
+
+Mobility Choice Leadership
+Don Hunt- Convening Executive Director
+Board of Directors (13 members) –
+Private Sector
+§Finance
+§Health
+§Manufacturing, energy, and agriculture
+§Media, telecom and technology
+§Professional/ knowledge services
+§Real estate development and resorts
+
+Public Sector
+§DRCOG
+§RTD
+§CDOT
+§2 former local elected officials
+
+Packet Pg. 77
+
+Attachment: Mobility Choice Blueprint PowerPoint (2822 : Mobility Choice)
+
+1.C.4.b
+
+Mobility Choice Process
+18 month operational budget funded by Chamber companies
+and the Gates Family Foundation
+Mobility Choice Blueprint process funded in partnership with
+DRCOG, RTD, and CDOT:
+• Blueprint technical content developed by agency staff and
+consultant team
+• Extensive public engagement effort
+• Mobility Choice Board leadership
+Potential metro Denver ballot measure in 2018
+
+Packet Pg. 78
+
+Attachment: Mobility Choice Blueprint PowerPoint (2822 : Mobility Choice)
+
+1.C.4.b
+
+What’s Next?
+Receive Information Statements from industry May 11
+Complete discussions with DRCOG, RTD, CDOT and Mobility Choice to
+agree to a process for funding and developing the Blueprint.
+Complete 18-month funding and board formation for the Mobility Choice
+organization.
+Complete the four-way Blueprint agreement and select the strategic
+planning team.
+Initiate preparation of the Blueprint in Fall 2016, with completion by the
+end of 2017
+
+Packet Pg. 79
+
+Attachment: Mobility Choice Blueprint PowerPoint (2822 : Mobility Choice)
+
+1.C.4.b
+
+A Closing Thought……
+"It is not our task
+to predict the
+future, but to be
+well prepared for
+it."
+Pericles, 5th Century B.C.,
+Athens
+
+Packet Pg. 80
+
+1.C.5
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: June 7, 2016
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+June 7, 2016
+
+Board Meeting Date: June 14, 2016
+
+Subject:
+
+Recent FTA Guidance Regarding
+Accessibility and Bus Stop/Shelters
+
+ADA
+
+ATTACHMENTS:
+
+
+RTD Circular Board Presentation 2016
+
+(PPTX)
+
+Prepared by:
+Bruce Abel, Assistant General Manager
+Approved by:
+
+Packet Pg. 81
+
+Attachment: RTD Circular Board Presentation 2016 (2817 : Recent FTA Guidance Regarding ADA
+
+1.C.5.a
+
+Recent FTA Guidance Regarding ADA Accessibility and Bus Stop/Shelters
+Operations and Customer Services Committee
+June 14, 2016
+
+1
+Packet Pg. 82
+
+Attachment: RTD Circular Board Presentation 2016 (2817 : Recent FTA Guidance Regarding ADA
+
+1.C.5.a
+
+PURPOSE of the FTA ADA Circular
+•
+
+FTA issues guidance, often in the form of circulars, to provide grantees
+with direction on program specific issues and statutory requirements.
+
+•
+
+The ADA Circular is to provide guidance to FTA grantees, that is,
+
+entities that receive funding through the agency, concerning the
+requirements of the DOT ADA regulations.
+•
+
+Effective November 4, 2015
+
+•
+
+One-stop shopping for guidance on accessibility standards,
+Information, and tools to help transit agencies avoid
+deficiencies.
+
+FTA’s goal is to help public transit providers meet their obligations under
+the ADA by outlining and explaining the vast body of requirements in an
+easy-to-use, consolidated format.
+
+Packet Pg. 83
+
+Attachment: RTD Circular Board Presentation 2016 (2817 : Recent FTA Guidance Regarding ADA
+
+1.C.5.a
+
+What the Circular Provides
+• The circular provides guidance to recipients and sub
+recipients of Federal Transit Administration (FTA)
+financial assistance necessary to carry out provisions of
+the Americans with Disabilities Act (ADA) of 1990,
+Section 504 of the Rehabilitation Act of 1973, as
+amended, and the U.S. Department of Transportation’s
+implementing regulations at 49 CFR Parts 27, 37, 38,
+and 39.
+• Reader friendly, plain English explanation and
+interpretation of the DOT/ADA requirements.
+
+Packet Pg. 84
+
+Circular Guidance on Section 810 of
+DOT/ADA Standards
+• Applies to construction, alteration, or relocation of bus stops and
+shelters.
+• New, altered, or relocated bus stops must have a firm, stable
+surface and must provide a clear length of 96 inches measured
+perpendicular to the curb or vehicle roadway edge, and a clear
+width of 60 inches measured parallel to the vehicle roadway.
+• Bus stops must also connect via an accessible route to streets,
+sidewalks, or pedestrian paths.
+• Sidewalks and other features of pedestrian rights-of-way are often
+outside a transit agency’s jurisdiction, an accessible pathway to a
+bus stop is nevertheless an essential element of overall accessible
+fixed route service.
+
+•
+
+Packet Pg. 85
+
+Attachment: RTD Circular Board Presentation 2016 (2817 : Recent FTA Guidance Regarding ADA
+
+1.C.5.a
+
+1.C.6
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: June 9, 2016
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+June 7, 2016
+
+Board Meeting Date: June 14, 2016
+
+Subject:
+
+Hiring Update
+
+ATTACHMENTS:
+
+
+Hiring Update (PDF)
+
+Prepared by:
+Bruce Abel, Assistant General Manager
+Approved by:
+
+Packet Pg. 86
+
+1/12/2015
+1/26/2015
+2/9/2015
+2/23/2015
+3/9/2015
+3/23/2015
+4/6/2015
+4/20/2015
+5/4/2015
+5/18/2015
+6/1/2015
+6/15/2015
+6/29/2015
+7/13/2015
+7/27/2015
+8/10/2015
+8/24/2015
+9/8/2015
+9/21/2015
+10/5/2015
+10/19/2015
+11/2/2015
+
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+
+5
+8
+9
+3
+10
+3
+11
+9
+11
+8
+11
+13
+18
+17
+8
+13
+13
+11
+12
+5
+13
+15
+
+6
+8
+9
+3
+10
+3
+10
+9
+10
+7
+12
+11
+12
+14
+5
+9
+11
+10
+11
+5
+10
+15
+
+4FT-1PT8FT-OPT
+8FT-1PT
+1FT-1PT
+6FT-2PT
+2FT - 2PT
+5FT-1PT
+7FT- 3PT
+4FT-4PT
+2FT-3PT
+4FT-1PT
+3FT-4PT
+7FT-1PT
+4FT-4PT
+4FT-2PT
+4FT-2PT
+8FT-3PT
+8FT- 2PT
+3FT-4PT
+2FT-3PT
+4FT-1PT
+7FT-3PT
+
+2/22/2015
+3/8/2015
+3/22/2015
+4/5/2015
+4/19/2015
+5/3/2015
+5/17/2015
+5/31/2015
+6/14/2015
+6/28/2015
+7/12/2015
+7/26/2015
+8/9/2015
+8/23/2015
+9/6/2015
+9/20/2015
+10/4/2015
+10/20/2015
+11/3/2015
+11/8/2015
+11/22/2015
+12/6/2015
+
+Attachment: Hiring Update (2820 : Hiring Update)
+
+1.C.6.a
+
+5
+8
+8
+2
+8
+4
+6
+12
+9
+5
+5
+7
+8
+9
+7
+6
+11
+12
+8
+5
+8
+12
+
+Packet Pg. 87
+
+1.C.6.a
+
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+
+21
+13
+19
+11
+
+15
+13
+14
+8
+
+11FT-OPT
+9FT-OPT
+6FT-1PT
+11FT-5PT
+
+12/20/2015
+1/3/2016
+1/17/2016
+1/31/2016
+
+ACTUAL#
+#EXPECTED ON
+START DATE
+
+TYPE
+
+/ACTUAL
+
+GRADUATED
+
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+FT/PT
+
+24
+18
+23
+2624
+16
+11I15
+14/ 13
+11I16
+16/ 11
+18/ 10
+
+INCLUDING
+
+--
+
+-
+
+19
+17
+24
+23
+22
+16
+16
+13
+15
+13
+10
+
+16
+
+CONVERSION
+
+SERVICE &
+
+WEEK
+
+RECYCLES &
+ACCELERATIONS
+
+RECYCLES
+
+1/11/2016
+1/25/2016
+2/8/2016
+2/22/2016
+3/7/2016
+3/21/2016
+4/4/2016
+4/18/2016
+5/2/2016
+5/16/2016
+5/31/2016
+
+9
+9
+
+#ENTERING
+
+FIRST DAY
+
+ORIENT. DAY VS CLASSROOM
+
+14
+
+13FT-2PT
+7FT-2 PT
+16FT-3PT
+16FT-3PT
+18FT-2PT
+9FT-5PT
+11FT-2PT
+9FT-2PT
+lOFT-2 PT
+
+2/14/2016
+2/28/2016
+3/13/2016
+3/27/2016
+4/10/2016
+4/24/2016
+5/8/2016
+5/22/2016
+6/5/2016
+6/19/2016
+7/3/2016
+
+Attachment: Hiring Update (2820 : Hiring Update)
+
+11/16/2015
+11/30/2015
+12/14/2015
+12/28/2015
+
+15
+11
+19
+19
+20
+14
+13
+11
+12
+
+Packet Pg. 88
+
+1.C.8
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: June 7, 2016
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+June 7, 2016
+
+Board Meeting Date: June 14, 2016
+
+Subject:
+
+Contracted Fixed-Route Quarterly Report – 1st
+Quarter 2016
+
+Information
+
+The following is a discussion of the performance measures for the first quarter of 2016 for the fixedroute services provided by private contractors:
+
+
+PREVENTABLE VEHICLE ACCIDENTS PER 100,000 MILES
+The contractors, as a group, met the target of ≤ 2.0 Preventable Vehicle Accidents per 100,000
+miles in the 1st quarter. First Transit Denver did not meet the goal as they experienced an
+increase in preventable vehicle accidents as a result of 1st quarter snow storms. First Transit and
+Transdev continue to utilize bus operator monitoring technology and post-accident investigations
+for retraining of operators. The contractors continue to emphasize safety with all employees at
+monthly safety meetings, through periodic campaigns, and with daily reminders at their facilities.
+
+
+
+PASSENGER ACCIDENT RATIO PER 100,000 MILES
+The contractors, as a group, met the target of ≤ 0.18 Passenger Accidents per 100,000 miles in
+the 1st quarter. First Transit Longmont did not meet the goal; however, only one of the First
+Transit Longmont passenger accidents that occurred in the 1st quarter was classified as nonpreventable. First Transit and Transdev continue to raise awareness of passenger safety to
+reduce the number of passenger accidents per 100,000 miles.
+
+
+
+ON-TIME PREVENTIVE MAINTENANCE INSPECTIONS
+The contractors, individually and as a group, met the target of 98% of Preventive Maintenance
+Inspections completed as scheduled in the 1st quarter. RTD and the contractor organizations
+place a high emphasis on completing preventive maintenance inspections as required, and as
+such, the local operations are diligent about completing these inspections on time.
+
+
+
+ON-TIME PERFORMANCE
+First Transit Denver, and First Transit Longmont met the target of 88% Local On-Time Service
+with 88.7% and 89.5% on-time performance respectively in the 1st quarter. First Transit
+Commerce City and Transdev continue to make progress with 85.5% and 87.3% on-time
+performance. RTD and the private contractors continue to campaign routes and operators with
+low on time performance with a strong focus on first time point departures. On a monthly basis
+contractors review the OTP report and meet with operators of low performing routes to discuss
+factors that are impacting their ability to reach 88% on time performance. Running time issues
+are forwarded to RTD Service Planning and Scheduling for review.
+The contractors will continue to address on-time performance issues with operators, but always
+tie safety to the discussion. It’s better to be a few minutes late than to have an accident.
+
+Packet Pg. 89
+
+1.C.8
+
+
+
+MILES BETWEEN LOST SERVICE ROAD CALLS
+The contractors, individually and as a group, exceeded the target of 28,000 Miles Between Lost
+Service Maintenance Road Calls in the 1st quarter. The contractors continue to improve in this
+area by completing preventive maintenance inspections on time, working off defects in a timely
+manner, monitoring repeat issues, providing additional training for mechanics, and taking a proactive approach to maintaining the buses in their fleets.
+
+
+
+OPERATOR COMPLAINTS PER BOARDING
+First Transit Longmont met the target of .0004 Complaints per Boarding with .0003 complaints
+per boarding in the 1st quarter. First Transit Commerce City, First Transit Denver, and Transdev
+did not meet the goal and all achieved .0005, .0005 and .0008 complaints per boarding in the
+1st quarter. TransDev in particular suffered from considerable amounts of lost service during the
+first quarter, generating a number of customer complaints. The contractors continue to
+investigate and address customer complaints with operators. The contractors utilize onboard
+video surveillance as a coaching tool to assist operators in improving customer interactions. In
+addition, the steps noted above regarding on-time performance should help address some
+customer complaints. The contractors also continue to address complaint trends with all
+operators at monthly safety meetings.
+
+ATTACHMENTS:
+
+
+Quarterly Performance Stats 2016
+
+(XLSX)
+
+
+
+CS Monitoring Summary Report 2016
+
+(DOCX)
+
+Prepared by:
+Greg Smith, Manager, Competitive Services
+Carolyn Conover, Senior Manager, Contracted Services
+Approved by:
+
+Packet Pg. 90
+
+1.C.8.a
+
+2016
+
+PREVENTABLE VEHICLE ACCIDENTS PER 100,000 MILES
+First Transit Commerce City
+Transdev
+First Transit Denver
+First Transit Longmont
+Total all Contractors
+Total RTD
+
+2016 GOAL
+•2.0
+•2.0
+•2.0
+•2.0
+•2.0
+•2.0
+
+1ST
+QUARTER
+1.8
+0.9
+2.0
+1.4
+1.6
+0.93
+
+2ND
+QUARTER
+
+3RD
+QUARTER
+
+4TH
+QUARTER
+
+PASSENGER ACCIDENT RATIO PER 100,000 MILES
+First Transit Commerce City
+Transdev
+First Transit Denver
+First Transit Longmont
+Total all Contractors
+Total RTD
+
+2016 GOAL
+•0.18
+•0.18
+•0.18
+•0.18
+•0.18
+•0.18
+
+1ST
+QUARTER
+0.16
+0.08
+0.08
+0.28
+0.13
+0.08
+
+2ND
+QUARTER
+
+3RD
+QUARTER
+
+4TH
+QUARTER
+
+ON-TIME PREVENTIVE MAINTENANCE INSPECTIONS
+First Transit Commerce City
+Transdev
+First Transit Denver
+First Transit Longmont
+Total all Contractors
+Total RTD
+
+2016 GOAL
+98%
+98%
+98%
+98%
+98%
+98%
+
+1ST
+QUARTER
+100%
+100%
+100%
+100%
+100%
+99.7%
+
+2ND
+QUARTER
+
+3RD
+QUARTER
+
+4TH
+QUARTER
+
+ON-TIME PERFORMANCE
+First Transit Commerce City
+Transdev
+First Transit Denver
+First Transit Longmont
+Total all Contractors
+Total RTD
+
+2016 GOAL
+88.0%
+88.0%
+88.0%
+88.0%
+88.0%
+88.0%
+
+1ST
+QUARTER
+85.5%
+87.3%
+88.7%
+89.5%
+87.8%
+84.1%
+
+2ND
+QUARTER
+
+3RD
+QUARTER
+
+4TH
+QUARTER
+
+MILES BETWEEN LOST SERVICE ROAD CALLS
+First Transit Commerce City
+Transdev
+First Transit Denver
+First Transit Longmont
+Total all Contractors
+Total RTD
+
+2016 GOAL
+28,000
+28,000
+28,000
+28,000
+28,000
+28,000
+
+1ST
+QUARTER
+59,530
+35,181
+47,053
+65,189
+47,407
+65,269
+
+2ND
+QUARTER
+
+3RD
+QUARTER
+
+4TH
+QUARTER
+
+OPERATOR COMPLAINTS PER BOARDING
+First Transit Commerce City
+Transdev
+First Transit Denver
+First Transit Longmont
+Total all Contractors
+Total RTD
+
+2016 GOAL
+0.0004
+0.0004
+0.0004
+0.0004
+0.0004
+0.0004
+
+1ST
+QUARTER
+0.0005
+0.0008
+0.0005
+0.0003
+0.0005
+0.0003
+
+2ND
+QUARTER
+
+3RD
+QUARTER
+
+4TH
+QUARTER
+
+Packet Pg. 91
+
+Attachment: Quarterly Performance Stats 2016 (2816 : Contracted Fixed-Route Quarterly Report ? 1st Quarter 2016)
+
+PRIVATE CONTRACTOR PERFORMANCE MEASURES
+
+1.C.8.b
+
+1st Quarter 2016
+
+Monitoring Activity
+
+Quantity Reviewed
+
+Compliance
+
+Accident/Incident Report within 72 hours
+
+265
+
+93%
+
+Bus Interior Inspections
+
+216
+
+100%
+
+Classroom Training
+
+N/A
+
+N/A
+
+Customer Complaint Video Review1
+
+84
+
+80%
+
+Customer Complaint Response
+
+2767
+
+91%
+
+DOT Hours Review
+
+N/A
+
+N/A
+
+New Hire File Review
+
+80
+
+100%
+
+Instructor Evaluations
+
+N/A
+
+N/A
+
+Training File Review2
+
+55
+
+36%
+
+Annual File Review
+
+N/A
+
+N/A
+
+Pullout Inspections
+
+4
+
+100%
+
+Safety Meetings
+
+12
+
+100%
+
+Site Check
+
+36
+
+100%
+
+Undercover Ridechecks
+
+37
+
+95%
+
+1
+
+st
+
+April compliance has improved to 92%. 1 quarter out of compliance observations included: Details from video
+did not match response provided to customer.
+2
+st
+April compliance has improved to 76%. 1 quarter out of compliance observations included: Deficiency
+identified in recording ADA training hours. Competitive Services staff worked with contractors to create and
+implement an ADA training lapel sheet to properly identify and record all ADA required training hours.
+
+Packet Pg. 92
+
+Attachment: CS Monitoring Summary Report 2016 (2816 : Contracted Fixed-Route Quarterly Report ? 1st Quarter 2016)
+
+COMPETITIVE SERVICES MONITORING SUMMARY REPORT
+
+1.C.9
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: June 7, 2016
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+June 7, 2016
+
+Board Meeting Date: June 14, 2016
+
+Subject:
+
+Access-a-Ride/Cab 1st Quarter Report 2016
+
+Ridership
+Access-a-Ride ridership increased by 1% through the 1st quarter of 2016 compared to the same period of
+2015. Productivity increased from 1.19 to 1.26 passengers per hour. During the same period, Accessa-Cab ridership decreased by 10%. Combined Access-a-Ride and Access-a-Cab ridership decreased by
+2% compared to 2015. Total boardings decreased from 225,206 total boardings thru Q1 of 2015 to
+221,261 total boardings thru Q1 of 2016.
+Revenue Hours
+Revenue hours of service provided on Access-a-Ride decreased by 5% during the 1st quarter of 2016
+as compared to the same period of 2015. Access-a-Ride is approximately 8% under budgeted revenue
+hours through the first quarter of 2016.
+On-Time Performance
+Carrier on-time performance through the 1st quarter of 2016 was 94.64% a slight decrease as compared
+to the same period of 2015 (94.89).
+Passenger on-time performance through the 1st quarter of 2016 was 83.1% a slight increase as
+compared to the same period in 2015 (83.04).
+On time performance continues to be challenging as a result of operator shortages and the continuing
+trend of traffic, construction, and other delays. Our private contractors continue to address the operator
+shortage challenge by continuing to utilize radio and billboards as a means of attracting potential
+operators. In addition, our dedicated vehicle service providers have instituted salary increases and
+bonuses in order to attract additional operators.
+Customer Complaints
+Complaints increased through the 1st quarter of 2016 as compared to the same period in 2015. Staff
+continues to work with our carriers and passengers to improve overall customer satisfaction.
+ATTACHMENTS:
+
+
+2016 AaC 1st Qtr Complaints
+
+
+
+Q1 2016 OTP by Time Categories
+
+
+
+2016 AaR 1st Qtr Complaints
+
+
+
+AAR Monitoring Summary Report 2016
+
+
+
+1st Qrt Board Stats
+
+(XLSX)
+(DOCX)
+
+(XLSX)
+(DOCX)
+
+(XLS)
+
+Prepared by:
+Larry Buter, Manager
+Approved by:
+
+Packet Pg. 93
+
+1.C.9
+
+Packet Pg. 94
+
+1.C.9.a
+
+Access-a-Cab
+Complaint Breakdown
+
+Total Complaints for the Month
+
+Metro
+
+Yellow
+
+Union
+
+Totals
+
+5
+
+16
+
+7
+
+28
+
+3
+
+3
+
+1
+
+7
+
+3
+
+4
+
+0
+
+7
+
+0
+
+3
+
+3
+
+6
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2
+
+1
+
+0
+
+3
+
+0
+
+0
+
+0
+
+0
+
+13
+
+27
+
+11
+
+51
+
+Attachment: 2016 AaC 1st Qtr Complaints (2815 : Access-a-Ride/Cab 1st Quarter Report 2016)
+
+2016 1st Qtr Access-a-Cab
+Complaints
+
+No Show
+
+Trip Error
+
+Improper Behavior
+
+Fare Dispute
+Failure to Secure-Wheelchair
+accessible vans
+Misc. - Lost & Found-Driver
+Commendation.
+Call Center Error
+
+Improper Procedure
+
+Policy Concern
+
+Total Complaints for the Month
+
+Packet Pg. 95
+
+1,131
+
+1,963
+
+Attachment: Q1 2016 OTP by Time Categories (2815 : Access-a-Ride/Cab 1st Quarter Report 2016)
+
+1.C.9.b
+
+January 2016 OTP
+192
+
+Passengers - Count
+
+7,160
+
+January 2016 - On Time Performance
+Passenger Count & Percentage
+On time
+0 to 15 minutes late
+16 to 30 minutes late
+31 to 60 minutes late
+61+ minutes late
+
+48,276
+7,160
+1,963
+1,131
+307
+58,837
+
+82.05%
+12.17%
+3.34%
+1.92%
+0.52%
+
+On time
+0 - 15 min late
+16 - 30 min late
+
+94.22%
+
+31 - 60 min late
+
+48,276
+
+1.92%
+3.34%
+
+61+ min late
+
+January 2016 OTP
+0.52%
+
+Passengers - Percentage
+
+12.17%
+On time
+0 - 15 min late
+
+16 - 30 min late
+31 - 60 min late
+
+82.05%
+
+61+ min late
+
+Packet Pg. 96
+
+February 2016 OTP
+
+997
+February 2016 - On Time Performance
+Passenger Count & Percentage
+On time
+0 to 15 minutes late
+16 to 30 minutes late
+31 to 60 minutes late
+61+ minutes late
+
+47,132
+6,736
+1,802
+997
+372
+57,040
+
+82.63%
+11.81%
+3.16%
+1.75%
+0.65%
+
+1,802
+
+Attachment: Q1 2016 OTP by Time Categories (2815 : Access-a-Ride/Cab 1st Quarter Report 2016)
+
+1.C.9.b
+
+372
+
+Passengers - Count
+
+6,736
+On time
+
+94.44%
+
+0 - 15 min late
+16 - 30 min late
+31 - 60 min late
+
+47,132
+
+February 2016 OTP
+
+1.75%
+3.16%
+
+61+ min late
+
+0.65%
+
+Passengers - Percentage
+
+11.81%
+On time
+0 - 15 min late
+16 - 30 min late
+
+31 - 60 min late
+
+82.63%
+
+61+ min late
+
+Packet Pg. 97
+
+March 2016 OTP
+
+942
+257
+
+1,681
+
+51,182
+6,430
+1,681
+942
+257
+60,492
+
+84.61%
+10.63%
+2.78%
+1.56%
+0.42%
+
+Passengers - Count
+
+6,430
+
+March 2016 - On Time Performance
+Passenger Count & Percentage
+On time
+0 to 15 minutes late
+16 to 30 minutes late
+31 to 60 minutes late
+61+ minutes late
+
+Attachment: Q1 2016 OTP by Time Categories (2815 : Access-a-Ride/Cab 1st Quarter Report 2016)
+
+1.C.9.b
+
+On time
+
+0 - 15 min late
+
+95.24%
+
+16 - 30 min late
+31 - 60 min late
+
+51,182
+
+March 2016 OTP
+
+1.56%
+2.78%
+
+61+ min late
+
+0.42%
+
+Passengers - Percentage
+
+10.63%
+On time
+0 - 15 min late
+16 - 30 min late
+31 - 60 min late
+
+84.61%
+
+61+ min late
+
+Packet Pg. 98
+
+Q1 2016 OTP
+
+3,069
+
+On time
+0 to 15 minutes late
+16 to 30 minutes late
+31 to 60 minutes late
+61+ minutes late
+
+146,590
+20,327
+5,446
+3,069
+936
+176,369
+
+83.12%
+11.53%
+3.09%
+1.74%
+0.53%
+
+936
+
+5,446
+
+Q1 2016 - On Time Performance
+Passenger Count & Percentage
+
+Passengers - Count
+
+20,327
+On time
+
+94.64%
+
+0 - 15 min late
+
+16 - 30 min late
+31 - 60 min late
+
+146,590
+
+Q1 2016 OTP
+
+1.74%
+3.09%
+
+61+ min late
+
+0.53%
+
+Passengers - Percentage
+
+11.53%
+On time
+0 - 15 min late
+16 - 30 min late
+31 - 60 min late
+
+83.12%
+
+61+ min late
+
+Packet Pg. 99
+
+Attachment: Q1 2016 OTP by Time Categories (2815 : Access-a-Ride/Cab 1st Quarter Report 2016)
+
+1.C.9.b
+
+On-Time Performance
+Improper Procedure/Behavior
+Call Center Error
+Miscellaneous
+Careless Driving
+Failed to Provide Door to
+Door/Assist
+P/U or D/O-wrong location
+Driver Failed to Secure
+Excessive Ride Time
+Maintenance
+No Show / CXL Dispute
+Didn't Follow DA/Comments
+Missed Trip
+Software
+Policy Concern
+Assault
+Total Complaints for the Month
+
+MV
+
+AAT
+
+VIA
+
+TND
+
+FTCC
+
+TOTALS
+
+74
+
+18
+
+14
+
+9
+
+0
+
+115
+
+11
+
+22
+
+8
+
+2
+
+1
+
+44
+
+0
+
+0
+
+0
+
+0
+
+17
+
+17
+
+0
+
+1
+
+0
+
+0
+
+0
+
+1
+
+7
+
+13
+
+3
+
+0
+
+0
+
+23
+
+2
+
+7
+
+0
+
+0
+
+0
+
+9
+
+3
+
+2
+
+1
+
+0
+
+0
+
+6
+
+1
+
+2
+
+1
+
+0
+
+0
+
+4
+
+15
+
+4
+
+4
+
+0
+
+1
+
+24
+
+2
+
+0
+
+0
+
+0
+
+0
+
+2
+
+5
+
+0
+
+0
+
+2
+
+0
+
+7
+
+1
+
+0
+
+1
+
+0
+
+0
+
+2
+
+14
+
+5
+
+5
+
+8
+
+2
+
+34
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+135
+
+75
+
+37
+
+21
+
+21
+
+289
+
+Attachment: 2016 AaR 1st Qtr Complaints (2815 : Access-a-Ride/Cab 1st Quarter Report 2016)
+
+2016 1st Qtr Access-a-Ride
+Compmaits
+
+Total Complaints for the Month
+
+1.C.9.c
+
+Access-a-Ride
+Complaints
+
+Packet Pg. 100
+
+1.C.9.d
+
+Attachment: AAR Monitoring Summary Report 2016 (2815 : Access-a-Ride/Cab 1st Quarter Report 2016)
+
+ACCESS-A-RIDE MONITORING SUMMARY REPORT
+
+1st Quarter 2016
+
+Monitoring Activity
+
+Quantity Reviewed
+
+Compliance
+
+Employee File Review
+
+109
+
+95%
+
+Operator Training File Review
+
+40
+
+86%1
+
+Field/Video Observations
+
+30
+
+98%
+
+Maintenance File Review
+
+57
+
+68%2
+
+Conditional Eligibility Review
+
+75
+
+98%
+
+Call Center Customer Service
+
+75
+
+100%
+
+Certification Process Review
+
+330
+
+98%
+
+Excessive Ride Time Analysis
+
+NA
+
+NA3
+
+Appeal Process Review
+
+20
+
+100%
+
+D.O.T. Hours Review
+
+NA
+
+NA4
+
+1
+
+Missing data from employee files were subsequently found and attached to file.
+Several Preventative Maintenance Inspections were beyond acceptable mileage intervals. Staff is working with
+carriers to address issues.
+3
+This review is scheduled for the end of May.
+4
+This review is scheduled for June.
+2
+
+Packet Pg. 101
+
+A-A-R Ridership:
+Revenue Hours
+Passengers
+Revenue Miles
+Productivity
+
+1st Qrt
+2016
+
+1st Qrt
+2015
+
+Variance
+
+140105
+176339
+2367523
+1.26
+
+147632
+175239
+2336673
+1.19
+
+-5%
+1%
+1%
+6%
+
+2nd Qrt
+2016
+
+#DIV/0!
+
+Q1 Revenue Hours
+
+Variance
+
+#DIV/0!
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+2016
+147632
+
+140000
+
+145000
+
+Access-a-Cab:
+Trips
+
+3rd Qrt
+2016
+
+#DIV/0!
+
+Q1 Passengers
+
+140105
+
+135000
+
+2nd Qrt
+2015
+
+Variance
+
+#DIV/0!
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+175239
+
+174500
+
+1st Qrt
+2016
+
+1st Qrt
+2015
+
+Variance
+
+44922
+
+49967
+
+-10%
+
+175000
+
+175500
+
+2nd Qrt
+2016
+
+2nd Qrt
+2015
+
+#DIV/0!
+
+176500
+
+2336673
+
+Variance
+
+2320000
+
+2340000
+
+3rd Qrt
+2016
+
+3rd Qrt
+2015
+
+#DIV/0!
+
+Variance
+
+#DIV/0!
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+2380000
+
+Variance
+
+2016
+
+1.26
+
+2016
+1.19
+
+2015
+2360000
+
+4th Qrt
+2015
+
+Q1 Productivity
+
+2367523
+
+2015
+176000
+
+4th Qrt
+2016
+
+Q1 Revenue Miles
+176339 2016
+
+2015
+
+150000
+
+3rd Qrt
+2015
+
+1.15
+
+1.20
+
+4th Qrt
+2016
+
+2015
+1.25
+
+4th Qrt
+2015
+
+#DIV/0!
+
+1.30
+
+Variance
+#DIV/0!
+
+Q1 Access-a-Cab Trips
+2016
+
+44922
+49967
+
+42000
+
+44000
+
+46000
+
+48000
+
+AAR + AAC Ridership
+Total Trips
+
+50000
+
+2015
+
+52000
+
+1st Qrt
+2016
+221261
+
+1st Qrt
+2015
+225206
+
+Q1 Total Ride + Cab Trips
+2016
+
+221261
+225206
+
+218000
+
+220000
+
+222000
+
+224000
+
+226000
+
+2015
+
+Variance
+-2%
+
+2nd Qrt
+2016
+
+2nd Qrt
+2015
+
+Variance
+#DIV/0!
+
+3rd Qrt
+2016
+
+3rd Qrt
+2015
+
+Variance
+#DIV/0!
+
+4th Qrt
+2016
+
+4th Qrt
+2015
+
+Variance
+#DIV/0!
+
+Attachment: 1st Qrt Board Stats (2815 : Access-a-Ride/Cab 1st Quarter Report 2016)
+
+1.C.9.e
+
+Access-a-Ride/Cab - Operations and Customer Service Committee Quarterly Report 2016
+
+Packet Pg. 102
+
+1st Qrt
+2015
+
+Variance
+
+65358
+1:56
+3:33
+
+64551
+1:18
+4:00
+
+1%
+49%
+-11%
+
+2nd Qrt
+2016
+
+2016
+
+64551
+
+1:18
+
+Certifications:
+Qualified
+Denials
+Appeals
+Overturned
+
+65500
+
+0:00
+
+1st Qrt
+2016
+
+1st Qrt
+2015
+
+Variance
+
+797
+102
+16
+3
+
+794
+102
+12
+5
+
+0%
+0%
+33%
+-40%
+
+2nd Qrt
+2016
+
+2016
+
+794
+
+793
+
+794
+
+796
+
+797
+
+798
+
+3:36
+
+3rd Qrt
+2015
+
+50
+
+100
+
+4:04
+
+4th Qrt
+2016
+
+Variance
+
+Variance
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+Q1 Overturned
+2016
+
+16
+12
+
+2015
+150
+
+4th Qrt
+2015
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+2016
+
+102
+
+0
+
+3:50
+
+2015
+
+Q1 Appeals
+
+102
+
+2015
+795
+
+3:21
+
+3rd Qrt
+2016
+
+Variance
+
+Q1 Denials
+797
+
+792
+
+3:07
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+Q1 Qualified
+
+Variance
+
+2016
+
+4:00
+
+2:24
+
+2nd Qrt
+2015
+
+1.C.9.e
+
+4th Qrt
+2015
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+3:33
+
+2015
+
+1:12
+
+4th Qrt
+2016
+
+Variance
+
+Q1 Average Call Duration
+2016
+
+1:56
+
+2015
+65000
+
+3rd Qrt
+2015
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+Q1 Average Call Speed
+
+65358
+
+64500
+
+3rd Qrt
+2016
+
+Variance
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+Q1 Calls Taken
+
+64000
+
+2nd Qrt
+2015
+
+0
+
+5
+
+10
+
+2016
+
+3
+5
+
+2015
+15
+
+20
+
+0
+
+2
+
+4
+
+2015
+6
+
+Attachment: 1st Qrt Board Stats (2815 : Access-a-Ride/Cab 1st Quarter Report 2016)
+
+Phone Stats:
+Calls Taken
+Average Speed
+Average Call
+
+1st Qrt
+2016
+
+Packet Pg. 103
+
+Budget Variance:
+Revenue Hours
+
+1st Qrt
+Actual
+
+1st Qrt
+Budgeted
+
+Variance
+
+140105
+
+152009
+
+-8%
+
+2nd Qrt
+Actual
+
+2nd Qrt
+Budgeted
+
+3rd Qrt
+Actual
+
+Variance
+
+3rd Qrt
+Budgeted
+
+#DIV/0!
+
+4th Qrt
+Actual
+
+Variance
+
+4th Qrt
+Budgeted
+
+#DIV/0!
+
+1.C.9.e
+Variance
+#DIV/0!
+
+Q1 Revenue Hours - Budget Variance
+
+152009
+
+130000
+
+135000
+
+140000
+
+145000
+
+Performance Stats:
+On Time Performance - Carrier
+On Time Performance - Pass.
+Complaints - AAR
+Complaints Per Pax - AAR
+Complaints - AAC
+Complaints Per Pax- AAC
+Capacity Denials
+
+150000
+
+Budget
+
+155000
+
+1st Qrt
+2016
+
+1st Qrt
+2015
+
+Variance
+
+94.64
+83.10
+289
+0.0016
+51
+0.0010
+0%
+
+94.89
+83.04
+230
+0.0013
+37
+0.0007
+0%
+
+-0.3%
+0.1%
+26%
+23%
+38%
+43%
+#DIV/0!
+
+Q1 On Time Performance Carrier
+94.64
+
+94.6
+
+94.8
+
+2nd Qrt
+2015
+
+83.10
+
+95
+
+83
+
+83.05
+
+0
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+20
+
+40
+
+% Reviewed
+
+Reviews
+Employee File Review
+Preventative Maintenance File Review
+Training File Review
+Street Observations
+30 reviews
+
+20%
+20%
+20%
+98%
+
+200
+
+0.0007
+
+0.0000
+
+60
+
+Accuracy Rate
+1st Qrt 2016
+96%
+68%
+86%
+98%
+
+0.0005
+
+0.0010
+
+0.0013
+
+0
+
+400
+
+0.001
+
+2015
+
+0.002
+
+Q1 Capacity Denials
+%
+
+Q1 Complaints Per
+Passenger - AAC
+0.0010
+
+0.0016 2016
+
+2015
+
+230
+
+0
+
+Q1 Complaints Per
+Passenger - AAR
+
+2016
+
+289
+
+2015
+
+37
+
+Variance
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+Q1 Complaints AAR
+
+2016
+
+51
+
+4th Qrt
+2015
+
+#DIV/0!
+
+83.15
+
+Q1 Complaints - AAC
+
+4th Qrt
+2016
+
+Variance
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+2015
+
+83.1
+
+3rd Qrt
+2015
+
+#DIV/0!
+
+2016
+
+83.04
+
+2015
+
+3rd Qrt
+2016
+
+Variance
+
+Q1 On Time Performance Passenger
+
+2016
+94.89
+
+94.4
+
+2nd Qrt
+2016
+
+2016
+
+0%
+
+2016
+
+2015
+
+0%
+
+2015
+
+0.0015
+
+% Reviewed Accuracy Rate
+
+2nd Qrt 2016
+
+0%
+
+50%
+
+% Reviewed Accuracy Rate
+
+3rd Qrt 2016
+
+100%
+
+% Reviewed Accuracy Rate
+
+4th Qrt 2016
+
+Attachment: 1st Qrt Board Stats (2815 : Access-a-Ride/Cab 1st Quarter Report 2016)
+
+Actual
+
+140105
+
+Packet Pg. 104
+
+1.C.10
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: June 7, 2016
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+May 10, 2016
+
+Board Meeting Date: June 14, 2016
+
+Subject:
+
+Special Services 1st Qtr Report
+
+RTD currently provides Call-n-Ride service in 21 Call-n-Ride service areas throughout the District. The
+following is a discussion of Call-n-Ride performance through the First Quarter of 2016.
+Boardings:
+1st Qtr 2016 – 120,084
+1st Qtr 2015 – 138,149
+Customer Contacts:
+Operator Complaints
+
+complaints per boarding
+
+1st Qtr 2016 - 17
+1st Qtr 2015 – 51
+
+.0001
+.0003
+
+Operator Commendations
+
+28
+9
+
+Preventable Accidents:
+1st Qtr 2016 – 2 Accidents
+1st Qtr 2015 – 3 Accidents
+Call-n-Ride Comments:
+Ridership continues to be down. Changes to how we are scheduling trips for the school children,
+low gas prices and the new fare increases have affected ridership in the Call-n-Ride areas.
+All Call-n-Rides operate with a computer and scheduling software. The current computers in use are
+old and this affects our Call-n-Ride operations. New computers have arrived and are being
+configured and are anticipated to be on board in June 2016.
+Belmar – The Belmar Call-n-Ride began operating in April 2013 with the opening of the West Line
+Light Rail service. The Call-n-Ride operated with 2 peak vehicles and one all day vehicle, weekdays
+only. Over the past two years, the service has been modified to improve ridership as it does not
+meet the minimum of three boardings per hour. The RTD Board approved discontinuance of this Calln-Ride in April 2016.
+Evergreen – A strong Call-n-Ride over the years, there are two major factors in the decline of
+ridership: a school whose students rode CnR closed and the Extension program for the disabled
+moved and acquired their own bus. We have met with the Seniors’ Resources Center (SRC) and
+they have been actively working with the senior living communities and the schools to increase
+ridership. A Transportation Advisory Committee (TAC) was formed to evaluate the service and make
+
+Packet Pg. 105
+
+1.C.10
+
+recommendations for change. As a direct result of the TAC, marketing has taken place, a shopping
+trip was created for the seniors, and Call-n-Ride worked to encourage school age children to use CnR
+for school trips. At the end of 2015, the shopping trip was discontinued but marketing continues.
+Highlands Ranch - This CnR opened with the Southeast Corridor in November 2006. Highlands
+Ranch CnR replaced the poorly performing Route 426 Ranch Rider. Over the years RTD has tried
+numerous adjustments to the service area and marketing. It has been recommended to be
+discontinued twice. Highlands Ranch has carried a high percentage of Access-a-Ride qualified users.
+While the subsidy is high for the CnR, if CnR were to be discontinued, this ridership would move to
+Access-a-Ride where the subsidy would be much higher. Douglas County has contributed financially
+to the CnR in the past. In 2015 Douglas County and Highlands Ranch provided a cost share with the
+RTD for 50% of the subsidy. A TAC was formed to re-evaluate service and develop marketing to
+increase ridership. The TAC came up with some ideas that were implemented in the August 2015
+runboard. The school trippers have increased ridership slightly, but this requires a great deal of staff
+time.
+Parker – This CnR opened with the Southeast Corridor in November 2006. Over the years RTD has
+made adjustments to the service area and marketing. It has been recommended to be discontinued
+twice. In 2015 Douglas County and the Town of Parker provided a cost share with the RTD for 50%
+of the subsidy. A TAC was formed to re-evaluate service and develop marketing to increase
+ridership. The TAC came up with some ideas that were implemented in the August 2015 runboard.
+So far, these changes have not had a positive impact on ridership.
+ATTACHMENTS:
+
+
+Special Services Monthly Report 1st Qtr 2016
+
+(XLSX)
+
+Prepared by:
+Brian Matthews, Manager, Special Services
+Approved by:
+
+Packet Pg. 106
+
+1.C.10.a
+
+A-Line - May 2003
+Boardings - Weekday/Saturday/Sunday
+Bdngs/Hour - Weekday/Saturday/Sunday
+art Shuttle - Sept 2004
+Boardings
+Bdngs/Hour
+Arapahoe cnR - November 2006
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Belleview cnR - January 2012
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Belmar - April 2013
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Brighton cnR - March 2000
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Boardings -WK Via* (School trips)
+Bdngs/Hour - Wkdy Via*
+Boardings combined - Weekday
+Bdgs/Hour combined - Weekday
+Broomfield cnR - April 2001
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Focus Points
+Boardings
+Operates scheduled
+Bdngs/Hour
+trips only
+Dry Creek cnR - November 2006
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Evergreen cnR - March 2002
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Boardings - Saturday
+Bdngs/Hour - Saturday
+Federal Heights - January 2012
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Golden cnR - April 2013
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Boardings - Saturday
+Bdngs/Hour - Saturday
+Green Mountain cnR - April 2013
+Boardings - Weekday
+Bdngs/Hour - Weekday
+
+Average
+2015
+167.3
+5.4
+
+Jan
+
+Feb.
+
+Mar.
+
+146.5
+4.7
+
+155.6
+5.0
+
+165.3
+5.3
+
+617.5
+26.3
+
+578.6
+24.1
+
+622.1
+25.9
+
+631.2
+26.3
+
+39.5
+2.9
+
+44.8
+3.3
+
+43.3
+3.2
+
+35.9
+2.7
+
+67.5
+3.5
+
+66.7
+3.4
+
+67.5
+3.5
+
+59.3
+3.0
+
+28.1
+1.5
+
+28.6
+1.4
+
+24.5
+1.2
+
+26.1
+1.3
+
+67.2
+5.0
+13.8
+8.1
+85.6
+5.5
+
+60.8
+4.5
+16.7
+9.8
+77.5
+5.0
+
+61.9
+4.6
+14.6
+8.6
+76.5
+4.9
+
+54.0
+4.0
+12.6
+7.4
+66.7
+4.4
+
+54.1
+4.0
+
+59.7
+4.4
+
+51.6
+3.8
+
+49.5
+3.7
+
+5.8
+
+4.7
+
+2.8
+
+2.7
+
+56.4
+4.2
+
+57.1
+4.2
+
+57.8
+4.3
+
+54.3
+4.0
+
+67.5
+2.5
+24.9
+2.5
+
+87.4
+3.2
+25.4
+2.5
+
+89.7
+3.3
+26.5
+2.7
+
+93.9
+3.5
+26.0
+2.6
+
+49.7
+3.7
+
+46.5
+3.4
+
+38.8
+2.9
+
+42.3
+3.1
+
+269.0
+7.3
+48.9
+3.4
+
+241.1
+6.5
+46.4
+4.2
+
+236.2
+6.4
+47.8
+4.3
+
+211.2
+5.7
+30.3
+2.8
+
+120.9
+3.5
+
+119.1
+3.5
+
+121.8
+3.6
+
+108.1
+3.2
+
+Apr.
+
+Page 1 of 3
+
+May
+
+Jun.
+
+Jul.
+
+Aug.
+
+Sept.
+
+Oct.
+
+Nov.
+
+Dec.
+
+Attachment: Special Services Monthly Report 1st Qtr 2016 (2786 : Special Services 1st Qtr Report)
+
+2016 Special Services 1st Quarter Report
+
+Packet Pg. 107
+
+1.C.10.a
+
+Average
+
+Jan
+
+Feb.
+
+Mar.
+
+28.3
+2.4
+
+34.7
+2.9
+
+37.6
+3.1
+
+34.9
+2.9
+
+2636.4
+25.9
+1139.3
+22.4
+652.6
+21.1
+
+2815.1
+27.6
+1173.0
+22.6
+635.8
+19.9
+
+3369.9
+31.2
+1413.3
+27.2
+839.5
+26.2
+
+3126.6
+29.0
+1136.5
+21.9
+646.3
+20.2
+
+63.8
+3.9
+
+57.5
+3.5
+
+55.2
+3.3
+
+49.7
+3.0
+
+31.3
+5.2
+29.2
+9.7
+
+31.0
+5.2
+27.8
+9.3
+
+28.5
+4.8
+33.5
+11.2
+
+29.8
+5.0
+31.5
+10.5
+
+47.6
+3.5
+
+36.1
+2.7
+
+30.1
+2.2
+
+32.3
+2.4
+
+152.3
+3.9
+21.4
+2.4
+24.7
+2.7
+
+150.2
+3.7
+24.8
+2.8
+20.3
+2.3
+
+134.1
+3.3
+21.0
+2.3
+27.3
+3.0
+
+143.3
+3.4
+23.5
+2.6
+27.0
+3.0
+
+54.5
+3.3
+
+54.1
+3.3
+
+47.9
+2.9
+
+50.2
+3.0
+
+157.3
+7.5
+
+155.8
+7.4
+
+145.4
+6.9
+
+150.0
+7.1
+
+224.2
+8.8
+
+208.3
+8.2
+
+198.5
+7.8
+
+171.6
+6.7
+
+91.1
+4.7
+
+84.0
+4.3
+
+77.4
+4.0
+
+82.3
+4.2
+
+39.6
+3.2
+
+37.9
+3.0
+
+33.3
+2.7
+
+35.2
+2.8
+
+132.3
+2.9
+35.9
+2.6
+
+134.2
+3.0
+33.2
+2.4
+
+114.5
+2.5
+42.0
+3.0
+
+123.1
+2.7
+36.5
+2.6
+
+Apr.
+
+May
+
+Jun.
+
+Jul.
+
+Aug.
+
+Sept.
+
+Oct.
+
+Nov.
+
+Dec.
+
+Attachment: Special Services Monthly Report 1st Qtr 2016 (2786 : Special Services 1st Qtr Report)
+
+Highlands Ranch cnR - November 2006
+Boardings - Weekday
+Bdngs/Hour - Weekday
+HOP - October 1994
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Boardings - Saturday
+Bdngs/Hour - Saturday
+Boardings - Sunday
+Bdngs/Hour - Sunday
+Interlocken/Westmoor cnR - April 2001
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Littleton S.Cart - 1988
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Boardings - Saturday
+Bdngs/Hour - Saturday
+Lone Tree cnR - January 2004
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Longmont cnR - February 2001
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Boardings - Saturday
+Bdngs/Hour - Saturday
+Boardings - Sunday
+Bdngs/Hour - Sunday
+Louisville cnR - August 2000
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Meridian cnR - November 2006
+Boardings - Weekday
+Bdngs/Hour - Weekday
+N Inverness cnR - November 2006
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Orchard cnR-March 2006
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Parker cnR - November 2006
+Boardings - Weekday
+Bdngs/Hour - Weekday
+S Jeffco - January 2012
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Boardings - Saturday
+Bdngs/Hour - Saturday
+
+Page 2 of 3
+
+Packet Pg. 108
+
+1.C.10.a
+
+Bdngs/Hour - Weekday
+Jefferson County 5311
+
+Average
+
+Jan
+
+Feb.
+
+Mar.
+
+112.1
+5.7
+
+111.5
+5.7
+
+96.3
+4.9
+
+83.3
+4.3
+
+9.8
+8.0
+
+9.3
+6.6
+
+9.0
+6.4
+
+7.0
+5.6
+
+8.6
+8.7
+
+8.9
+10.3
+
+8.6
+9.5
+
+7.7
+9.0
+
+70.8
+2.6
+
+73.9
+2.7
+
+75.1
+2.8
+
+69.2
+2.6
+
+2.2
+
+2.1
+
+2.0
+
+2.0
+
+Apr.
+
+May
+
+Jun.
+
+Jul.
+
+Aug.
+
+Sept.
+
+Oct.
+
+Bdngs/Hour - Weekday
+1.6
+1.8
+* These numbers reflect passengers carried with the assistance of the Brighton Via Van. Additional service began August 15, 2002 and is
+used primarily for school trips.
+5311 services are the rural services that RTD provides local match for FTA section 5311.Adams and Boulder Counties (Via) Jefferson County (Seniors' Resource Center).
+
+Page 3 of 3
+
+Nov.
+
+Dec.
+
+Attachment: Special Services Monthly Report 1st Qtr 2016 (2786 : Special Services 1st Qtr Report)
+
+S Inverness cnR - November 2006
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Senior Ride - 1977
+Senior Ride Events
+Psg/per trip
+Psg/per hour
+Senior Shopper
+Psg/per trip
+Psg/per hour
+Thornton cnR - Jan 2014
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Boulder/Adams Counties 5311
+
+Packet Pg. 109
+
+1.C.11
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: June 9, 2016
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+June 7, 2016
+
+Board Meeting Date: June 14, 2016
+
+Subject:
+
+2016 1st Quarter Complaint Analysis
+
+Recapped below is an analysis of the customer complaint trends for the 1st Quarter of 2016. Also
+included is a comparison of customer complaint data for the same period in 2015.
+As noted in previous reports, in 2007 and 2008, RTD and the private contractors were meeting the
+performance goal for customer complaints of .0002 complaints per passenger boarding. In 2009, RTD
+began stricter enforcement of the fare policy and the priority seating area policy which advised
+passengers with strollers or other large items that they would need to move from the priority seating
+area if those seats were needed for disabled passengers. In addition, RTD posted notices on all buses
+and light rail vehicles advising passengers of the requirement under Title VI of the Civil Rights Law for
+operators to call out transfer points. Following the implementation of these policies/procedures,
+customer complaints increased, but for 2009, 2010, 2011 and 2012 RTD and the private contractors
+performed, for the most part, at a level of .0003 to .0004 complaints per passenger boarding. In 2012,
+the performance goal for passenger complaints was adjusted to .0003 complaints per passenger
+boarding. The goal for 2014 was again adjusted to account for the static higher level of complaints due
+to the securement area/priority seating issues, the fare enforcement campaigns, TIC availability,
+introduction of SmartCards, and the new West Line service. The 2015 goal remained at .0004
+complaints per passenger boarding. The 2016 goal was again set at .0004 complaints per passenger
+boarding.
+For the 1st Quarter of 2016, RTD and First Transit Longmont met the goal of .0004 complaints per
+passenger boarding. First Transit Commerce City and First Transit Denver had .0005 complaints per
+passenger boarding. Transdev (formerly Veolia) had .0008 complaints per passenger boarding. The
+combined performance for all of the private contractors was .0005 complaints per passenger boarding.
+The combined performance for RTD and the private contractors was .0004 complaints per passenger
+boarding.
+RTD staff, as well as the private contractors, monitor and address customer complaints on a daily basis.
+RTD and the private contractors investigate all customer complaints using a variety of tools, including
+CAD/AVL “flashbacks” and video review and address/discipline operators as needed. Many times the
+results of the investigation reveal that the complaint is not valid. Some of the reasons for the “Not
+Valid” classification include the following:
+Bus was on time (between 1 min early to 5 min late) per “flashback”
+Operator followed proper procedure
+Passenger presented insufficient fare
+Passenger had no proof of eligibility for a discounted fare
+Passenger presented an expired transfer
+Passenger presented a counterfeit pass
+Buses were running late District-wide due to weather
+There was no video evidence to support the complaint
+
+Packet Pg. 110
+
+1.C.11
+
+RTD and the private contractors continue to work collectively in a variety of different areas to address
+customer complaints.
+ Bus routes with poor on-time performance are monitored by both RTD and private contractor
+personnel to determine if the problem is related to the operator or the running time of the route.
+ Meetings are held on a monthly basis with contractor and RTD personnel to discuss challenges,
+solutions and best practices in the areas of bus maintenance, operations, safety and training.
+ Bus operator trainers from RTD and the private contractors meet weekly in an effort to ensure
+consistency in training messages and practices and produce a quarterly newsletter which is
+shared with operations personnel.
+ RTD is conducting refresher training for all operators on an annual basis, and a component of the
+training is customer service. The private contractors conduct mandatory monthly safety meetings
+wherein they discuss customer service issues and provide suggestions for improving passenger
+interactions.
+ RTD and private contractor trainers spend time at Civic Center Station and Denver Union Station
+the first week of each runboard to provide assistance to operators who may need some
+refreshers on station procedures or have questions on their routes.
+ RTD has also reached out to the disability community (Colorado School of the Blind, Atlantis,
+DRMAC Transit Accessibility Task Force) to get feedback on ways to improve RTD service for
+passengers with disabilities.
+ Operators are recognized for the good customer service they provide. Divisions post
+commendations on a bulletin board in the drivers’ room and some provide additional means of
+recognition.
+Historically, and in 2016, the following complaint categories generated the highest number of customer
+complaints:
+Bus Did Not Show
+Bus Early
+Bus Late
+Careless Driving/Operator
+Discourtesy/Operator
+Improper Procedure by Operator
+Passed Up Passenger at Stop
+All of these complaint categories are what RTD considers “operator related” and are included in the
+complaint numbers that are tracked and reported to the Board of Directors on the Quarterly Performance
+Report.
+The high complaint categories are routinely reviewed to determine the factors, both internal and
+external, that are impacting the number of complaints. The input received from both RTD and private
+contractor operations is noted below:
+Bus Did Not Show – 1st Quarter 2016: the complaints in this category increased 78.3% compared to
+the same period in 2015. Due to on-going operator shortages at both RTD and the private contractors,
+a high number of trips were either dropped or ran late. Consequently, a number of passengers
+experienced times when their bus did not show. The YTD average in this category for 2016 is 8.48
+complaints per day. The comparable number for 2015 was 4.81 complaints per day.
+Bus Early – 1st Quarter 2016: complaints in this category decreased 3.2% compared to the same period
+in 2015. “Flashbacks” for “bus early” complaints often show buses running late. It is possible
+passengers see the prior bus running late and will assume it is their bus running early. Operators are
+
+Packet Pg. 111
+
+1.C.11
+
+addressed whenever the CAD/AVL playback confirms that the bus was running ahead of schedule. The
+YTD average in this category for 2016 is 5.36 complaints per day. The comparable number for 2015
+was 5.60 complaints per day.
+Bus Late – 1st Quarter 2016: complaints in this category decreased 4.9 % compared to the same period
+in 2015. This category was also impacted by the operator shortages. Additionally, improving on-time
+performance continues to be a challenge for a variety of reasons including construction, traffic and
+heavy ridership delays; service reductions, which result in the same number of passengers on fewer
+trips; and the inability to fund service improvements to address running-time issues. The YTD average in
+this category for 2016 is 11.01 complaints per day. The comparable number for 2015 was 11.71
+complaints per day.
+Careless Driving/Operator – 1st Quarter 2016: complaints in this category decreased 21.3% compared
+to the same period in 2015. On a regular basis, video recordings are reviewed and undercover ride
+checks are performed to determine if operators are driving in an unsafe or inappropriate manner. In
+addition, RTD and the private contractors have “G-force activated” event-recording systems (Drive Cam,
+Smart Drive) installed on the buses. These incidents are also reviewed on a daily basis. Operators
+continue to be counseled and retrained as needed to improve driving performance. Also, periodic safety
+campaigns are conducted to reinforce safe driving habits. The YTD average in this category for 2016 is
+3.77 complaints per day. The comparable number for 2015 was 4.84 complaints per day.
+Discourtesy/Operator – 1st Quarter 2016: complaints in this category decreased 2.3% compared to the
+same period in 2015. In the majority of cases, video evidence confirms that the operator followed
+proper procedures and treated the customer with respect. In many cases, operators are shown
+enforcing or explaining policies (requesting proper fare payment, requesting space in the priority seating
+area, addressing inappropriate behavior) in a polite and respectful manner and the passengers react in a
+negative manner. Operators are counseled and disciplined if video evidence confirms that they treated
+passengers in a discourteous or inappropriate manner. Operators are also given suggestions for handling
+similar situations in the future. The YTD average in this category for 2016 is 11.08 complaints per day.
+The comparable number for 2015 was 11.47 complaints per day.
+Discrimination – 1st Quarter 2016: complaints in this category increased 5.9% compared to the same
+period in 2015. Investigation into discrimination-related complaints usually shows the operator not at
+fault. The YTD average in this category for 2016 is 0.20 complaints per day. The comparable number
+for 2015 was 0.19 complaints per day.
+Fare Dispute – 1st Quarter 2016: complaints in this category increased 41.7% compared to the same
+period in 2015. The implementation of the new fares and fare equipment resulted in an increase in
+complaints. Investigations into “fare dispute” complaints often show that passengers presented an
+improper/incomplete fare and are not happy with the operators’ enforcement of the fare policies. The
+YTD average in this category for 2016 is 1.49 complaints per day. The comparable number for 2015
+was 1.07 complaints per day.
+Improper Procedure/Operator – 1st Quarter 2016: complaints in this category increased 6.2% compared
+to the same period in 2015. RTD and private contractor training and operations personnel meet on a
+regular basis to ensure all operators are receiving consistent and up-to-date information. In addition, the
+on-going refresher training provided to RTD operators and the monthly safety meetings held at the
+private contractor divisions provide operators with information about accommodating the needs of RTD
+passengers to the best of their abilities. In cases where video evidence shows operators are not
+
+Packet Pg. 112
+
+1.C.11
+
+following proper procedures, appropriate action is taken. The YTD average in this category for 2016 is
+8.08 complaints per day. The comparable number for 2015 was 7.69 complaints per day.
+Incorrect Info/Operator – 1st Quarter 2016: complaints in this category increased 2.4% compared to the
+same period in 2015. The combined efforts of the General Superintendent of Transportation, the Bus
+Operator Training Newsletter Team, Street Supervisors and Dispatchers are providing operators with upto-date information to answer customer questions and address customer concerns. The YTD average in
+the category for 2016 is 0.46 complaints per day. The comparable number for 2015 was 0.46
+complaints per day.
+Passed Up Passenger At Stop – 1st Quarter 2016: complaints in this category increased 2.4% compared
+to the same period in 2015. In many cases, “flashbacks” for these complaints will confirm buses are on
+route and either on time or running late. It is possible the passenger was not directly at the stop when
+the bus arrived. Many complaint comments indicate the passenger was running to the stop as the bus
+passed. Operators are reminded to stay vigilant and watch for passengers that may not be waiting
+directly at the bus stop. In addition, operators are directed to contact RTD Dispatch whenever a
+passenger is passed up due to the bus being full. The number of “Pass Up” complaints from passengers
+with disabilities and/or those using mobility aids represents a small number of the total “Pass Up”
+complaints (41 of the total 996 = 4.1%). Information regarding overcrowded routes is forwarded to the
+Service Planning & Scheduling Department for review and adjustment as needed and as resources will
+allow. The YTD average in this category for 2016 is 10.95 complaints per day. The comparable
+number for 2015 was 10.81 complaints per day.
+
+Customer Satisfaction Survey
+Although customer complaints help identify those areas in which RTD and the private contractors can
+continue to improve the quality of service provided, the results of the 2011 Customer Satisfaction
+Survey indicate that the majority of RTD passengers are satisfied with RTD services. On a scale of 1
+(poor) to 5 (excellent), over 80% of bus, light rail, Call-n-Ride, and SkyRide passengers rated RTD either
+a 4 or a 5.
+Specific driver related areas that received ratings of 4.0 or higher were as follows:
+Courtesy of bus driver
+Driving skills
+Drivers’ knowledge of their specific route
+Drivers’ ability to answer your questions about bus service
+Drivers announcing transfer stops
+
+Packet Pg. 113
+
+1.C.11
+
+Top Categories and Complaints Related to Policy Changes
+QTR 1
+QTR 1
+2016
+2015
+Bus Did Not Show
+772
+433
+Avg per day
+8.48
+4.81
+2016 % change
+78.3%
+Bus Early
+488
+504
+Avg per day
+5.36
+5.60
+2016 % change
+-3.2%
+Bus Late
+1,002
+1,054
+Avg per day
+11.01
+11.71
+2016 % change
+-4.9%
+Careless Driving/Operator
+343
+436
+Avg per day
+3.77
+4.84
+2016 % change
+-21.3%
+Discourtesy/Operator
+1,008
+1,032
+Avg per day
+11.08
+11.47
+2016 % change
+-2.3%
+Discrimination
+18
+17
+Avg per day
+0.20
+0.19
+2016 % change
+5.9%
+Fare Dispute
+136
+96
+Avg per day
+1.49
+1.07
+2016 % change
+41.7%
+Improper Procedure/Operator
+735
+692
+Avg per day
+8.08
+7.69
+2016 % change
+6.2%
+Incorrect Info/Operator
+42
+41
+Avg per day
+0.46
+0.46
+2016 % change
+2.4%
+Passed Up Passenger At Stop
+996
+973
+Avg per day
+10.95
+10.81
+2016 % change
+2.4%
+TOTAL
+5,540
+5,278
+Avg per day
+60.88
+58.64
+2016 % change
+5.0%
+RIDERSHIP 13,047,497
+13,984,048
+
+QTR 1
+2014
+441
+4.90
+75.1%
+518
+5.76
+-5.8%
+953
+10.59
+5.1%
+374
+4.16
+-8.3%
+907
+10.08
+11.1%
+21
+0.23
+-14.3%
+110
+1.22
+23.6%
+670
+7.44
+9.7%
+35
+0.39
+20.0%
+844
+9.38
+18.0%
+4,873
+54.14
+13.7%
+13,984,048
+
+QTR 1
+2013
+496
+5.51
+55.6%
+655
+7.28
+-25.5%
+811
+9.01
+23.6%
+308
+3.42
+11.4%
+877
+9.74
+14.9%
+27
+0.30
+-33.3%
+121
+1.34
+12.4%
+558
+6.20
+31.7%
+41
+0.46
+2.4%
+762
+8.47
+30.7%
+4,656
+51.73
+19.0%
+13,797,812
+
+QTR 1
+2012
+534
+5.93
+44.6%
+551
+6.12
+-11.4%
+1,002
+11.13
+0.0%
+282
+3.13
+21.6%
+606
+6.73
+66.3%
+41
+0.46
+-56.1%
+113
+1.26
+20.4%
+691
+7.68
+6.4%
+44
+0.49
+-4.5%
+771
+8.57
+29.2%
+4,635
+51.50
+19.5%
+14,356,296
+
+Packet Pg. 114
+
+1.C.11
+
+Prepared by:
+Carolyn Conover, Senior Manager, Contracted Services
+Approved by:
+
+Packet Pg. 115
+
+1.C.12
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: June 9, 2016
+
+From:
+
+John Tarbert, Acting AGM, Safety, Security
+and Facilities
+
+GM
+
+Date:
+
+June 9, 2016
+
+Board Meeting Date: June 14, 2016
+
+Subject:
+
+1st Quarter 2016 Security Statistics & Fare
+Inspection Summary
+
+Discussion
+
+DISCUSSION:
+Fare Enforcement Statistics
+Fare inspectors, security officers, street supervisors, and police officers, conduct fare inspection onboard buses and light rail vehicles. RTD’s policy is to provide a warning to first time offenders and then
+to issue a citation if that person is contacted a second time without fare. The table below shows the
+actual number of patrons without fare that resulted in warnings or citations. The variation in numbers
+from month to month may be due to several factors: special events or other security security-related
+incidents.
+Fare
+Inspection
+Warnings
+Citations
+Totals
+
+January
+113
+14
+127
+
+February
+232
+37
+269
+
+March
+159
+58
+217
+
+Light Rail Station Sweeps and on-Board Enforcement Sweeps
+In addition to the regular on-board fare enforcement, security officers conduct random, unannounced
+fare checks at light rail platforms twice a week. Below are the numbers of patrons contacted during the
+quarter. Any area that exhibits a higher fare evasion rate, we go back to that area and conduct an onboard enforcement sweep.
+
+Number of Patrons 1st Quarter 2016
+Patrons Checked Without Fare
+% Fare Evasion
+Number of Patrons 2016 Yearly Total
+Patrons Checked Without Fare
+% Fare Evasion
+
+Plain Clothes Police Officer Fare Inspection
+Police Officers are placed on bus and rail vehicles that have been identified by operators, supervisors,
+dispatch logs and patrons as having a high perception of fare evasion, fare disputes or other problems.
+The following tables summarize information for the months of October, November and December. These
+tables list the number of patron boardings observed, no fare or partial fares, the estimated fare evasion
+rate, the number of warnings and citations issued, and the number of arrests made by police officers.
+
+Packet Pg. 116
+
+1.C.12
+
+Arrests include citations issued or physical arrests made for criminal violations other than fare evasion.
+This is an additional advantage to the plain clothes police fare inspection program as peace officers have
+the authority to check for warrants and take the appropriate law enforcement action. This quarter the
+bus routes inspected include the 15, 16, 31 & 0.
+Dates
+
+Boardings
+Observed
+
+January
+February
+March
+Totals for year
+
+1064
+930
+975
+2969
+
+No
+Fares/Partial
+Fares
+12
+2
+3
+17
+
+Bus
+Warnings
+
+Citations
+
+% of
+Evasion
+
+Arrests*
+
+12
+2
+3
+17
+
+0
+0
+0
+0
+
+1.1
+0.2
+0.3
+0.6
+
+52
+62
+43
+157
+
+The below chart shows the plain clothes police fare enforcement observations for light rail. There is a
+slightly higher fare evasion rate observed by the plain clothes program than for the rail station sweeps
+and bus enforcement because of the following factors:
+ Fare station sweeps are conducted by uniformed security officers; these officers require all
+patrons to have fare before boarding vehicles
+ Rail operators do not have any interface with patrons, while bus operators do ask for fare
+ Plain clothes police officers do not have a deterrence factor as uniformed officers, thus they
+inherently find more violations of fare evasion.
+
+Dates
+January
+February
+March
+Totals for year
+*
+
+Boardings
+Observed
+1865
+1490
+1656
+5011
+
+No
+Fares/Partial
+Fares
+108
+90
+92
+290
+
+Rail
+Warnings
+
+Citations
+
+% of
+Evasion
+
+Arrests*
+
+89
+66
+66
+221
+
+19
+24
+26
+69
+
+5.8
+6.0
+5.6
+5.8
+
+16
+1
+0
+17
+
+Arrests include citations issued or physical arrests made for criminal violations other than fare
+evasion.
+
+Security Officer Use of Force Incidents
+Use of Force is defined as any hands on touching of a suspect by a security officer to detain a suspect
+or make a citizen’s arrest. The majority of these issues are minor in nature. No injuries to any suspect
+or officer occurred in this reporting quarter. The following table summarizes the use of force incidents
+per month.
+January
+8
+
+February
+8
+
+March
+10
+
+Totals
+26
+
+Prepared by:
+John Tarbert, Acting AGM, Safety, Security and Facilities
+Approved by:
+
+Packet Pg. 117
+
+1.C.12
+
+Packet Pg. 118
+
+

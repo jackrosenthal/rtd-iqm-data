@@ -1,0 +1,720 @@
+2020-07-28
+RTD Study Session
+ANGIE RIVERA-MALPIEDE: OK. All right. I would like to call the Denver RTD Special Study
+Session to order. It is July 28 and I have 5:31 PM. And before I start, I'd like to just say something,
+which is that I have received several phone calls from board members regarding the Allied
+contract. I have talked to Mr. Ballard, our General Counsel, and Mr. Meader. And I would like to
+turn it over to our General Counsel. Melanie?
+MELANIE SNYDER: Yes. Yeah. Yeah. [ELECTRONIC ECHO]
+ANGIE RIVERA-MALPIEDE: We have a lot of reverberation.
+MELANIE SNYDER: Yes.
+ANGIE RIVERA-MALPIEDE: OK.
+MELANIE SNYDER: Thank you, Madam Chair. This is Melanie Snyder, General Counsel. Yes,
+I understand there are questions around the Allied Security contract and also potentially some
+issues regarding the delegation authority. And I think what I would recommend is that I work with
+you, Madam Chair, and Mr. Ballard to get that added to an agenda at a later date so that we can
+have a conversation about that and get you the information that you need.
+ANGIE RIVERA-MALPIEDE: Thank you so much, Madam Counsel. OK. With that, I'm going
+to turn it over to the safety management system component, Mr. Meader.
+MIKE MEADER: Thank you, Madam Chair. This is Mike Meader, Chief Safety and Security
+Officer. Excuse me. May I? OK. OK. Thank you very much. Tonight, we've got-- excuse me.
+One of our SMS consultants who has come here to provide a brief presentation to the Board
+regarding our efforts to develop the safety management system and give you a briefing on one
+element of that. And that is the leadership instruments, kind of a status on where we stand right
+now and then give you an opportunity to ask Lurae Stuart, who is with WSP. And then begin the
+briefing. Lurae.
+LURAE STUART: Thank you. Good afternoon, all of you. My name is Lurae Stuart. I work for
+WSP, a part of the Vital Insurance WSP team supporting Mike Meader and Dan McClain and their
+safety management system.
+Thank you for having us, Madam Chair and directors. What I'd like to do is go through this
+PowerPoint quickly. And I would ask, if possible, if you would hold questions till the end. But if
+they're burning and you want to stop me, I will absolutely stop and try to address any questions
+along the way. But to save time, it would be easier if we could address the questions at the end.
+
+So with that, I will start this presentation. Before we get too far, I want to give everybody some
+key definitions of terms that I'll be using so that we're all on the same page. When I talk about safe
+and safety, we're talking about unintentional harm. So slip, trips, and falls, a car accident. When
+we talk about security, we're talking intentional harm. So somebody means to do harm to people
+or the system. Hazards are those real or potential conditions that can cause injury. So we talk about
+hazardous conditions, it could be a real thing or it could be a potential for that to happen.
+Safety risk is a term that is looking at how often or how frequent something might happen and how
+bad that thing might be. So when you assess safety risk, that's different. And I noticed that several
+of you come from a legal background. That's not the same as a liability risk. Safety risk, you never
+can give away. You as a board, you as RTD, safety risk always belongs to the agency. And it is a
+measure of how much risk you're facing related to different hazards or conditions.
+And the last two terms are very important because they help define how much risk an agency wants
+to take on. When you talk about a tolerable condition, you're not saying it's risk free. You're just
+saying you've made an assessment that you can live with the outcomes because the benefits you're
+going to see justify that that acceptance of risk that exists. When I talk about acceptable risk, that
+says you've made a decision to do no further mitigation, at least at this time. Again, it is not using
+the liability sense of risk. It's using safety and security risk, which happens to be defined as harm
+to the system or harm to people. We can't undo once we've done harm. We can satisfy the liability
+piece, but we can't undo the activity.
+So we've assessed, as part of our evaluation of your safety management systems, where you
+currently are in this, what we call this scheme of moving through the safety management maturity
+process. And currently, you're not quite at coping. And don't get too upset about this. This is a
+normal place for most transit across the United States. We're early in this SMS process adoption.
+But we'd really like to see RTD move to this level three, which is consistent application of SMS.
+Above level 3 is a long haul. Those are time and experience moving past that. So just getting to
+level 3, that systematic approach to management of safety risk, is a good achievement to be looking
+at as a goal.
+For that to happen for RTD, we need you. SMS needs you. You are part of the execution of SMS
+in Denver. You need to understand and support the vision and embrace your responsibilities and
+understand the expectations. We provided a video link for you. And I'm hoping some, if not all of
+you got to see that. It's a Metrolink video, a message from the Board in California. If you haven't
+seen that, I am going to talk about a little bit further. But it's a very powerful video that I would
+encourage you to look at at some point.
+So safety management systems is a process and a concept that FDA has applied to transit in the
+United States. And they did it as they looked at safety performance and how safety performance
+was not trending in the right direction. Over time, we were not becoming more safe. We were
+actually having more accidents. As you see across the different types of transit and rail, the
+distribution of fatalities and accidents isn't equal and it's a little overrepresented if you only look
+at fatalities in heavy rail. But when you standardize that by revenue mile, this is kind of the picture.
+But it's not good. We should be safer than this.
+
+This all started when we started looking at what was happening across the system. And in 2009,
+within the space of two months, these three accidents happened. And there were fatalities. There
+were multiple injuries. There was a lot of damage. And a lot of us that were in transit safety and
+security were saying, what is going on? Why are we not becoming safer?
+And our question to you and our question to Dan and Mike as we looked at some of this is, we're
+a little concerned that RTD could be part of that story and that you might be closing in on a big
+event. And that you, as the Board, can be part of taking some role and some changes that might
+make the picture different for Denver RTD Transit.
+So safety management systems it's just an organized set of principles and programs that is overlaid
+on system safety. And the term ALARP, as low as reasonably practicable, is very critical in transit
+because we don't have all the resources. We have to determine where and what is enough. So we
+look at safety and we determine, where do we need to spend those resources and how.
+When we've talked to staff at RTD and we were visiting just before COVID hit the industry and
+hit the United States, we asked them to assess where they believed RTD was in the implementation
+of safety management systems and where they were compared to the transit industry. And as you
+can see by the graphic on the slide, you're lagging behind the industry generally, in your
+application. It varies and it depends on resources. And it also depends on where you are in your
+maturity as an agency. RTD has had tremendous growth. With growth comes change, and that is
+indicative of things that you need to catch up with.
+So going back, what is safety? What are we talking about? Is it zero accidents? Zero incidents? Is
+it, you don't have safety concerns? Are you having perfect employee performance? Are you just
+complying with regulation?
+Well, a lot of traditional safety thinking looked at accidents and incidents and focused in on what
+and who and how. But we didn't and weren't very good at looking at why. We need to examine
+closer some of the concepts of what happens in these accidents and what's the role of the
+organization. How does human performance play a role? And what does practical drift mean when
+it comes to a transit and transit safety?
+Responsibility is applied to everyone from the board all the way down to the person that cleans
+the buses or the trains. It can't be implemented by safety. And that's what safety management
+systems is all about.
+When we talk about a model of accident causation, we start with the organization. What are the
+organizational processes that are pushing and driving the agency towards certain goals? And then,
+what are the working place conditions that support those or influence how people work for that
+organization and in those conditions? Then we add people. And people come with certain frailties.
+We make errors. We violate principles. Sometimes we don't do everything right.
+So what do we do? We put up a lot of defenses. We train people. We put technology into place.
+We pass regulation. But still, sometimes things break through. I liken this to a game of soccer
+where the goal in the back of the net is not the cause or the fault of the goalie. There were 10 other
+
+people on that playing field that contributed. In fact, there were 22 other people on that playing
+field that contributed to that goal. And sometimes, we just stop and we say, only that person that
+had the ball or only the goalie that missed the ball, those were the causes. And that's not really
+what's happening.
+We call these things latent conditions, and they participate in making something available for a
+breakthrough. Part of that is organizational failure. And we should be looking every time to how
+does the organization fail our frontline employees or our frontline people.
+Take a quick minute to remember your R line derailment. It happened at South Sable Boulevard
+and East Exposition Avenue. You had a derailment as a train was going too fast around the 90
+degree curve. You had a very serious injury of a passenger thrown from the train. And then you
+had others injured.
+And we know that the light rail operators are trained to slow their trains when approaching this
+sharp curve-- excuse me, turns. But what other things might have been happening at that time?
+What were the other processes and workplace conditions that might have contributed? What were
+the defenses that didn't work? What were active failures? There's more to the story than just what
+the operator did or did not do.
+So the bottom line is, we really need to be thinking at a bigger and a wider look at what causes
+accidents. They're not just caused by individuals. We have to focus from the individual to the
+organization and understand errors in the context of these service delivery demands. People are
+the solution. They are not the problem.
+I want to play a very short video here of Sidney Dekker as he talks about people in production and
+trade offs.
+SIDNEY DEKKER: My name is Sidney Dekker. I'm a professor at Griffith University. And for
+the past 20 years, I have studied why things go wrong, why a patient dies of a medication overdose
+in a hospital, for example, why an airliner crashes.
+So why do things go wrong? Well, we used to believe that things go wrong because somebody
+makes an error or something breaks. Today, however, we believe and we have since the mid to
+late 1980s that things go wrong because lots of things, lots of little things, larger things inside the
+organization are wrong, have been wrong for a long time. These are things related to procedures,
+culture, design of equipment, supervision, work practices. And all these things can combine to
+create the potential for an accident.
+Now, this has been an extraordinarily empowering idea. It has shifted the focus upstream to the
+systems surrounding the work that people do. We now expect organizations to have vast systems
+in place that are all supposed to look for these holes, these little wrongs, and fix them before they
+can combine to create trouble.
+The risk becomes that we invest in safety work that focuses on the higher frequency but lower
+consequence events, such as people not wearing their safety glasses or having their coffee in a cup
+
+without a lid on it. And that we then mistake low counts on those things as a statement of the
+general safety health of the process or operation as a whole.
+So we used to know that we were safe if we had competent managers and people at the sharp end
+who knew what they were doing. How do we know whether we're safe today? We have the
+paperwork to show that we are. And then we blow stuff up.
+How did we end up here? Here is how. We still see people as the problem. We believe that as long
+as we have great systems in place and that people conform and stay within the narrow bandwidth
+that we have assigned to them, things will be OK. But this is an illusion. And it is increasingly a
+dead end. People are not the problem we need to control. People are the solution that we should
+harness.
+LURAE STUART: So at RTD, we want to harness the potential of the staff and the potential even
+at the Board level to make things go right. I want to speak a little bit about this concept of practical
+drift.
+At practical drift, we start off an operation and we have it designed and engineered in a certain
+way. And then reality hits and over time, we drift away from how that task was engineered or
+designed. It becomes uncoupled. And there are a lot of reasons for this to happen, and some of
+them aren't even bad reasons. This is where we get a lot of new ideas. But a lot of times, we don't
+understand that and we want to harness those employees who are thinking outside the box, because
+they're not following exactly the procedure as written. And we don't quite understand why. So
+another short video that will illustrate this.
+VIDEO SPEAKER 1: What's the fine?
+VIDEO SPEAKER 2: You're a bicyclist so it's anywhere from $10 up to $130 [AUDIO OUT].
+But it's a bicycle summons. A bicycle summons is for not riding in the bicycle lane.
+VIDEO SPEAKER 1: You know-VIDEO SPEAKER 2: red light-[DRAMATIC MUSIC]
+SPEAKER 1: So I had a ticket for not riding in the bike lane. But often, there are obstructions that
+keep you from probably riding in the bike lane.
+[DRAMATIC MUSIC]
+LURAE STUART: So you get the concept, that sometimes, the procedure or the process isn't
+always the optimal solution. And sometimes we put our employees into a position where they have
+to make and use priorities for making decisions that actually contrast with each other. We want
+them to balance safety and security, but we also want them to make the current operation
+
+functional. And yet, you want to expand the system. But you also have to maintain and manage all
+the infrastructure.
+And when they search to do this, sometimes the outcome is not optimal. And sometimes they come
+up with great solutions but we're not always listening.
+So back to my original question of what is safety. Safety not the absence of accidents. Safety is
+the presence of the right mitigation, the right defenses. So what we need your help in doing is
+keeping failure from being successful. Because safety doesn't happen by accident. Human activity
+is never free from risk. By allowing people on transit, we engage in risk.
+But human error is just the beginning of the investigation and not the end. We should be looking
+at organizational failure every time, to make sure we didn't fail the individual. SMS is all about
+putting processes in place to help with that.
+So I want to walk quickly through the requirements for SMS and talk a little bit about your role
+and where we could use your input. The first place is safety management policy. So RTD has a
+safety management policy. They've defined this. It supports the roles and responsibilities. It
+provides direction for risk management and assurance and promotion. And it sets up the
+coordination with security and emergency management.
+Part of this is a commitment to safety resources, a place where the Board can be helpful. This is
+also a proactive identification of hazards and risks, understanding what's happening on your system
+and asking about that before it comes to a place where you're asking about an accident or an
+incident. It's also fostering a safety culture.
+So the Board is part of these responsibilities and accountabilities, along with the accountable
+executive, which is your GM, the SMS manager, which is Mike and Dan, and key personnel which
+support the system.
+So the Board of Directors sits at the top of this structure. And what are their roles? Well, we're
+asking that you embrace safety as an RTD value. Originally, I had this as a priority. And we had a
+very long discussion about priority versus value. And a value stays. Priorities sometimes change.
+We think that a role for you is also to hold the agency accountable for safety. Ask questions, see
+the data, understand what's happening, provide resources for safety. Currently, your accountable
+executive, Paul Ballard, is that accountable executive that has to make them available if there's a
+need. But he needs your support.
+And then finally, you need to understand your leadership role at RTD around safety. And I'm
+referencing that Metrolink video again. It's a very powerful statement about the Metrolink Board
+in California right after a tragic accident on their system where board members met with families
+of people that were killed on the system. They met with families of people that were injured. They
+were at the accident site.
+And they talk about the before, the profound impact it had to them as understanding their role to
+embrace safety, that sitting on the board of directors was not just something they did on an interim
+
+or on a basis where they showed up occasionally. It was a commitment. And they asked for that
+commitment. So if you haven't seen the video, I would ask that you take a look at that video.
+Obviously, the senior leadership team has a lot of accountability and requirements within this
+process. They've signed the SMS as policy and the statement plan. They have to monitor that the
+performance is happening and provide strategic direction.
+At RTD, like many systems, security and emergency management is both also under your SMS
+manager, Mike Meader, in your case. And that's good. That means that these are coordinated
+systems. And when something happens, the response will be coordinated. That means Mike, in his
+role as pulling this all together, also needs support to make sure that, whether it's COVID or
+whether it's another situation, that the processes are supported and integrated.
+It is key under the SMS requirements that FTA handed out that the activities that RTD take related
+to SMS are documented and that documentation is sufficient to show that you're moving in this
+process. FTA says, if it's not documented, it didn't happen. Your staff know that well. But you
+should also know that.
+Key to SMS is understanding and managing the risks that RTD is faced with. Part of that is not
+only identifying and evaluating the risks and then prioritizing and implementing, but you have to
+have methodologies which give you a consistent look at risk. And you have to have a process that
+defines what risk acceptability is for RTD. You as a Board should understand what that is. And I
+have said that I noticed several of you were attorneys. If you don't know what the risk acceptability
+criteria is for your agency, you may want to ask that question.
+It is not defined by the industry. It is something that is left in the hands of individual agencies. But
+it does refer to this level of risk to where you believe, as a group, that further risk reduction or
+measures or additional resources will not result in a significant reduction. It is a personal to RTD
+decision. And it's defined in your risk management process. If you don't know how that's defined,
+if you're not sure, you might want to ask those questions.
+It is key to remember that residual risk still remains. You never completely get rid of risk around
+running transit in an environment like Denver or any environment, actually.
+So your team, your safety team, have defined a process. This is a matrices that they use to evaluate
+risk. It's one that they were considering. I know that they continually look at this. But the only way
+to know what your risk is, is to evaluate it before things happen. To do that, you have to have staff
+that are willing to look and identify those hazards.
+One of the key issues is that for every big accident that happens, there are lots of little incidents
+and latent conditions that go without being evaluated. And we don't always pay attention to them.
+And then things happen. And a lot of that is that practical drift, where we allow things to move
+along at a pace and we don't take them seriously or consider all of the pieces. But we need to be
+paying attention to the small things so we can minimize the big things.
+
+Evaluating risk is just that. How much risk is there, and do we own what's left? We need to have
+ownership of the risk. And you need to provide oversight that the safety risk activities are sufficient
+to manage the risk that RTD has. Excuse me.
+Part of that is using the safety assurance process. The safety assurance process helps us
+continuously verify that what we think is happening out there is happening against the objectives
+that we've set, the targets that we've developed. It provides data and information. These are the
+types of activities that could be shown to the Board on a regular basis to evaluate whether your
+risk targets are being met. We also have to evaluate change and continuous improvement.
+When we talk about risk management-- that's this left side of this slide, which talks about
+evaluating those hazards. But once you start monitoring and measuring, that's that assurance
+process that tells you, you are where you want to be or perhaps you're not where you want to be.
+So it's very critical that safety assurance, which really wasn't a big piece of system safety
+previously, is implemented and is very strong in your agency.
+It's very hard to make progress if you don't know where you are. And that is part of the monitoring
+and measuring. We need to know and the Board needs to know what's happening on the ground.
+The executives need to know what's happening on the ground. One of the things we were surprised
+about was the lack of data that we would have expected at RTD. Now, your current safety and
+security team are rectifying that. They're gathering data. They're doing analysis. But that data is
+critical to know where you are going and whether you're meeting your goals.
+RTD put together some key performance indicators. On the screen are some of these indicators
+that they were looking at. These are things that you should be asking about, asking to be reported
+on. These are things that will have to be reported to FTA. It's a good thing to know where you are
+so you can make progress in your goal of becoming more mature in SMS. But we need to achieve
+these. And to do that, we need people that are invested.
+I mentioned some of the data that was being pulled. If you look at your total accidents over time,
+you can see that in 2019, things weren't necessarily getting better. They were actually a little bit of
+mixed reviews. And to us, this was indicative of things that we saw across some of your system
+that caused us concern. So again, just a snapshot. This was current when we were going to show
+you this briefing in March. It's a little stale. But it's a thing to be monitored. It's something you
+should be asking about.
+RTD has a lot of changes you introduce new systems. You have new contractors in and out. You
+need to be monitoring the changes to make sure they're not introducing new hazards. You have a
+team to do that. You should ask how that's being done every time new changes come to your
+system.
+And we should also strive to be better. That improvement in SMS maturity is something that every
+agency in the United States is now trying to work on their journey. And it is a journey. Even though
+it sounds like the three was only midway to what was shown on that original screen as a five, being
+a mature system, three is a very good target. Three is where you need to be to be a functional
+agency. And the other pieces will come with time.
+
+The last piece of SMS is safety promotion. And that involves both the communication and
+competencies and training. These are setting the tone for safety culture within the agency.
+Safety culture is another thing that we heard from several of your employees that they felt was not
+where they wanted it to be. They did not feel that there was a just and a flexible safety culture
+going on. It's a piece that I know Mike and Dan are paying attention to. But it must be embraced
+at a higher level than just the safety team.
+Safety communication has to happen with open communication without reprisal. They have to be
+free to speak up when they see something. They have to be willing to provide that safety critical
+information of things that they've seen or the hazards that they're concerned about. And the agency
+needs to communicate back to your people what's happening around those activities and those
+items. Communication is the key to making changes.
+The other key is training incompetency. We do a lot of training. We offer a lot of information. But
+that doesn't necessarily mean the people are becoming competent, that they can apply those skills.
+Sometimes there are so many things happening, so many pieces of information flowing, that we
+hear a lot but we never develop that competency.
+So we need to strive for competency, making sure our employees are competent. For SMS, we
+have some competencies that we would like to see developed. For all employees, we need them to
+understand how they should be performing their tasks safely. They should be demonstrating
+competency as they do those. And they should we be reporting any safety concerns that they have.
+Managers and supervisors, they should be preparing and analyzing the safety data, extracting
+information and trending. And they should be encouraging their people to report hazards as they
+see them. For senior management and for the Board, you need to be the strategic piece of this
+organization where you're asking about the goals. You're asking about the metrics and the
+reporting. And you're part of fostering that culture of safety where people feel safe about telling
+you not just the good news, but things that aren't working as well as we hoped, and that they need
+to try new things.
+So bottom line, how will you contribute? I guess I have three questions for you. Where do you
+believe RTD is in the SMS journey? We asked staff, but I'm curious what you think about this
+journey. What do you believe the Board's role is in moving this forward? And lastly, this is what
+we gathered from staff, this disconnect between the perception that RTD was a safe agency and
+the reality where people didn't feel is safe and didn't feel the safety culture was embracing them.
+So with that, I will complete my presentation and open up to questions or comments or discussion.
+I would let you know, I have two of my associates on the phone, Kevin Chandler from Vital
+Insurance and Harry Saporta from Vital Insurance also available to help answer questions. Thank
+you.
+ANGIE RIVERA-MALPIEDE: Thank you so much for that presentation. Are there any questions
+from any Board members? OK. I'm looking to see if there was any hands raised. And I don't see
+any. All right. So thank you so very much for that presentation. I do think that the video was quite
+
+sobering and really made me think about our role as Board members in making sure that everybody
+is safe getting to and from where they need to get to.
+But I thank you for this. And I would ask any Board members, if they would like to respond to any
+of these questions, just to send them forward to Miss McManus to get to the safety group. Thank
+you.
+LURAE STUART: Thank you very much.
+ANGIE RIVERA-MALPIEDE: With that, I'd like to turn it over to Miss McKillop.
+HEATHER MCKILLOP: OK. I'm going to share my screen, hopefully, here. Hold on one second.
+And it takes just a second to bring it up. Can you guys see it yet?
+ANGIE RIVERA-MALPIEDE: Not yet.
+HEATHER MCKILLOP: OK. Let me try that again. It says it is sharing.
+ANGIE RIVERA-MALPIEDE: Do you see it, Director Guissinger?
+LYNN GUISSINGER: No, I don't, either.
+ROGER SHERMAN: Heather, have you clicked on that screen on your desktop? Once you share,
+you've got to make sure you click the right screen.
+Heather, I'm showing you muted.
+ANGIE RIVERA-MALPIEDE: Yes. I'm also showing Heather muted and no video.
+PAUL BALLARD: Madam Chair, this is Paul Ballard. Oh, there she's back. OK.
+HEATHER MCKILLOP: Sorry. It kicked me all the way out. So I had to start all the way from
+scratch to get back in.
+ANGIE RIVERA-MALPIEDE: Oh, OK.
+HEATHER MCKILLOP: So let me see if it'll let me do that this time here.
+ANGIE RIVERA-MALPIEDE: Oh, there it goes. Yes. Perfect.
+HEATHER MCKILLOP: OK. So sorry about that. I just-- knocked me all the way out. So all right.
+So tonight, really the focus of tonight is to talk about the forecast that we received recently from
+Leeds in July. So we have a May, we have a June, and now our July forecast. And what we're
+really looking for this evening is to walk you through that, some different options in the forecast,
+and then get a direction. Because we really need to determine a target that we're going for for '21
+
+through '26 so that both the system optimization plan group as well as the COVID internal task
+force, which is the group Bruce is heading, really has a target to aim for that we can start bringing
+that information back to the Board and having you make decisions going forward. But without a
+target, it's really hard to do that.
+So as we talked about before, we knew the June forecast might be really optimistic. And so I want
+to present to you some options for the July forecast. So I'm just going to go through these first few
+pages rather quickly, because you've seen them before. And really start focusing on the sales and
+use tax revenues.
+So in this screen that I'm showing you right now-- and those of you that are following in your
+agenda packet, it's agenda packet page 87. I'm just comparing the Leeds forecast. So the first one
+on the left hand side is the May 2020 forecast. And it has the lower, medium, and high forecast. I
+just want to point out that the Board had given its direction to use the low forecast for 2020, so the
+$500.9 million. And then the medium forecast for 2021 through 2026, so starting with $485.9
+million down. And then in 2026, it would be $694.8 million.
+So that's kind of where we're sitting at now.
+PAUL BALLARD: Heather, Heather.
+ANGIE RIVERA-MALPIEDE: Yeah.
+PAUL BALLARD: You need to advance your screen. You're just showing us the title slide.
+JUDY LUBOW: Yeah. We see the title.
+HEATHER MCKILLOP: You still see the title? You don't see the-JUDY LUBOW: Yeah. It's just the title page.
+HEATHER MCKILLOP: Man, why? Well, it was working earlier. I apologize. No, title page?
+JUDY LUBOW: Yeah.
+SUSAN COHEN: Hello, this is Susan. Would it help if I tried to share my screen instead?
+HEATHER MCKILLOP: Yeah. Do you want to try to do that? Because I'm having all kinds of
+problems here, so.
+SUSAN COHEN: OK.
+HEATHER MCKILLOP: Let me get out of here so you can do that.
+SUSAN COHEN: Oh, you have to get out first.
+
+HEATHER MCKILLOP: Yep. Hold on. Let me get out if it's going to let me out.
+SUSAN COHEN: Ah, still [AUDIO OUT]
+HEATHER MCKILLOP: Hang on. I'm sharing.
+SUSAN COHEN: OK. OK. There we go. Can everybody see this?
+ANGIE RIVERA-MALPIEDE: Yes.
+LURAE STUART: Yes.
+SUSAN COHEN: OK.
+HEATHER MCKILLOP: Thank you. Sorry, you guys. I tried it earlier and it worked. I apologize.
+OK. So this screen is the the one I was talking about where we had gotten directions from the
+board before to use for 2020 in the May forecast, which is in the upper left hand corner, the $500.9
+million. And then for 21 through 26, the medium forecast, which is in the middle column. So that
+is where we've been sitting and what we've been using to date.
+We then received, a couple of weeks ago, the June forecast, which across the board was up from
+the May forecast. And you can see just for comparison purposes, if you look at the totals, the range
+went from $3.9 million to $4.1 in the May forecast in the upper lower balance. And then in the
+July one-- I'm sorry, in the June one, we're looking at $3.6 to $5.8. So not only did the numbers
+get larger, but the upper and lower bounds became wider. So you had a very narrow margin, $3.9
+to $4.1 in the May. Then you move to June and we have $3.6 to $5.8 million.
+And now we have the July forecast that just came in a week ago. And that is somewhere right in
+between. So the July forecast is down from June, but up from May. So if you look at the total
+column in the low, it ranges from $3.5 billion to $5.5 billion. Again, a much larger range than what
+you saw in May, but a higher number than May overall, if you look at the medium or the high. But
+if you look at the low, it's actually lower, because that bound became bigger.
+So Susan, can you move to the next slide, please? So what I wanted to just show you for
+comparison purposes is, this is a comparison of the low forecast in May for 2020 and then the
+medium forecast for 2021 through 2026. And then I compared it to the same forecast in June and
+July. So you can see, there's a difference. If we use that same philosophy, so a low forecast for
+2020 but the medium forecast for '21 through '26, then the difference between May and June was
+$706 million for that total period of time. The difference between May and July drops to $494. But
+it's still a positive number.
+So that's the current thinking that we are using already, low forecast for 2020 and medium for '21
+through '26. But there are some other options. So if you go to the next slide, Susan.
+
+In this particular slide, I said, OK. We have the low forecast for 2020 already established and the
+medium for '21 through '26. What if we compared that to the June and you used low for 2020
+through 2026 or the July low 2020 through 2026?
+And you can see that there's a considerable difference. So between May and June, if you use low
+across the board, there's a $400 million or $394 million shortfall. But between May and July,
+there's a $500 million shortfall. But that is a very conservative option. This would put us, if the
+Board chose this option, below what the May forecast was and increase that shortfall-- or not
+increase it, but keep it about the same as it was before. So you'll see that in an upcoming chart.
+The next one is if we did medium across the board. So we have low for 2020 in our baseline, in
+our May forecast, with medium 2021 through 2026. And then we just compared that to medium
+forecast for both June and July. And you can see in that, the difference between May and June is
+$740 million difference to the good. And the difference between May and July is still to the good.
+It's about $524 million.
+So if you use a medium across the board, you're in a pretty good situation, or I shouldn't say a
+pretty good situation. A better situation than where we were when we used the May forecast. None
+of these are good situations, but they're better than they were in May. Next slide.
+So if I just took 2021, and I showed the options, our May forecasts that we were using, which is
+the medium forecast, was a shortfall of $251 million in 2021. So when we kept talking about
+between base and fast tracks, we had a shortfall of $250 million, this is based on the May forecast.
+Then I took just the July forecast. So in this comparison, I'm just taking June out entirely because
+that's a forecast that is no longer relevant at this time. So if I take the July forecast and I take the
+low scenario, that would take us to a $245 million shortfall. So basically, the same shortfall we
+had using the main medium forecast.
+And that the Board always has the option of going to a medium forecast, which is what we used
+from the May 2020 forecast, we used for 2021 was the medium. That takes our shortfall down by
+not quite $100 million, but down to $166 million. So that's a considerable difference by using the
+July medium forecast versus the May medium forecast. Next slide.
+So this just looks at the totals between those. So if you take the '21 to '26 shortfall comparison, the
+low, you show overall between 2021 and 2026 a higher shortfall, so a bigger shortfall over that
+period of time of $539 million. So in that case, we would have to come up with more money than
+what we had shown you when we used the May forecast.
+If we go to the medium scenario for '21 through '26, this still assumes the low forecasts for 2020.
+But in '21 through '26, if we go to the medium forecast, then in that case, we actually see a slightly
+better forecast over that period of time. That results in $460 million smaller for shortfall. So you
+have less of a shortfall in that period of time by $460 million, so a better scenario if you use the
+medium forecast. Next slide.
+
+So in this case, I also wanted to point out what this would look like in 2020 for reserves that would
+be carried over in 2021. Because that can be used to offset some of these shortfalls that we're
+talking about. So in the base Board appropriated fund, we had originally-- I'm sorry, based on the
+May Leeds forecast, we had $81 million total that we could carry forward. Under the base
+unrestricted, this $39.7 million that you see in the middle, that is based on the amended 2020
+budget. So we're carrying forward $39 million that the board had given me direction for $25
+million. And we were able to come up with $39.
+With that low forecast still for 2020, we'll be able to add another $20.3 million. And we're
+estimating the carry forward would be $60 million there. So a total carry forward of $101.8 million.
+This sounds really good, except three months of operating reserve, which is our goal, would be
+$136 million, just for comparison purposes. So even with all of that carry forward that we might
+be able to do for 2020, we are still going to be short from three months of operating reserve. But I
+just wanted to use that for comparison purposes.
+And then you can see, we also had additions to the FasTracks unrestricted, $13.5 million more,
+even with the low forecast. And then we cover our three month operating reserve and still have
+$13.5 million left over there. We also start with a large beginning balance. We have shown this
+before to you. And we have the FasTracks internal savings account.
+So there will be discussion starting on August 4th, which is next week, about, what does the board
+want to do as far as maybe trying to offset some of the shortfalls, regardless of what scenario you
+choose tonight, by looking at using some of our reserves that we are anticipating having going into
+2021? So next slide.
+So before we move on to this next part, I just wanted to emphasize, what we're trying to do tonight
+is figure out which of those scenarios you would like to go with, the July using our low forecast
+or July using the medium forecast, or something else, and really need that direction tonight. So I'm
+going to finish the presentation real quickly. And then I want to open it up so we can spend time
+hearing from the board members on what their feelings are about the revenue forecasts.
+The next three slides are just restating the principles as the Board adopted them. So we can just
+skip through those. Just to remind you what the principles-- so on this page, the COVID-19 fiscal
+response task force, the status is, the AGMs have submitted their proposed reductions, the task
+force has reviewed all submittals, there are meetings being held now with each AGM to go over
+the recommendations from the task force, and then those recommendations will be forthcoming to
+the Board, starting, my understanding is on August 4th. Bruce will start covering that in a very
+high level discussion.
+And then as I just mentioned to you, the future Board considerations will be use of reserves, use
+of the funds to either future contributions or the existing balance, looking at reductions in
+administrative overhead costs, and that will be coming out of the fiscal response taskforce, and
+then looking at what type of service reductions we need to sustain in order to be able to balance
+the budget.
+
+But some of that will be dependent, of course, on which scenario you choose. So with that, unshare,
+I would love to open it up to the Board and ask them to provide guidance. Or I'd be glad to answer
+any questions about the various options that were presented.
+BARBARA MCMANUS: So Heather, it's Barbara McManus.
+ANGIE RIVERA-MALPIEDE: OK. Go ahead, Miss McManus.
+BARBARA MCMANUS: I just want to remind the directors on the call that if you go to the bottom
+of your screen and you click participants, the participants will be listed on your right. And to the
+far right, there is an opportunity to raise your hand.
+ANGIE RIVERA-MALPIEDE: Right.
+BARBARA MCMANUS: Thank you. I just wanted to clarify that everybody understood that.
+ANGIE RIVERA-MALPIEDE: Thank you. All right. Let me see. Are there any board members?
+I'm not seeing anybody's hand raised. And I know that cannot be right.
+JUDY LUBOW: I see Vince Buzek.
+ANGIE RIVERA-MALPIEDE: OK. Thank you, ma'am. Secretary Buzek.
+VINCE BUZEK: Thank you, Madam Chair. I raised my hand and it worked.
+ANGIE RIVERA-MALPIEDE: Well, good for you. I didn't see it.
+VINCE BUZEK: Thanks, Heather, for that presentation and for the materials ahead of time. I spent
+a lot of time over the weekend looking at this. And I guess I'll just cut to the chase. And I would
+say that I would be in favor of using the July medium forecasts moving forward. Thanks.
+ANGIE RIVERA-MALPIEDE: Thank you. Director Guissinger. Director Guissinger? I think
+you're muted.
+[AUDIO OUT, TYPING]
+ANGIE RIVERA-MALPIEDE: Director Guissinger? Maybe I'll-- whoever needs to mute their
+phone. Perhaps I'll go to Director Tisdale and then come back to Director Guissinger. Mr. Tisdale.
+DOUG TISDALE: Thank you very much, Madam Chair. I just wanted to say that I concur in the
+words of Director Buzek, that he just expressed. And I thank you for that opportunity.
+ANGIE RIVERA-MALPIEDE: Thank you. All right. Director Guissinger? We may have lost her.
+Miss McManus, do you see any other hands raised? I do not.
+BARBARA MCMANUS: I think Director Cook had a comment or question.
+
+ANGIE RIVERA-MALPIEDE: Thank you so much. Director Cook?
+SHELLEY COOK: Yeah. Sorry. I don't have-- you know, the last Zoom session I did, I think. But
+I don't have a hand raising option on this one for some reason. So forgive me. Heather, can you
+please identify-- we don't have the full report like we did in May, which kind of detailed the
+assumptions and so forth that went into this. Can you describe the assumptions, first of all. In a
+phone call earlier today, you had indicated that the medium case does not assume a new wave of
+infection this fall. And there probably are other things that feed into that, too. So that's the first
+thing.
+Second thing is, what gives you confidence that the medium is the one to place our bets on here?
+HEATHER MCKILLOP: So Madam Chair, this is Heather.
+ANGIE RIVERA-MALPIEDE: Please.
+HEATHER MCKILLOP: So yes. And in regards to the forecast, Susan, if you could go back to
+the one towards the very beginning when it compares the three, the May forecast, whether it was
+the low, medium, or high forecast, did assume that there would be a slow down again at the end
+of 2020 and into early 2021, assuming that there would be kind of another wave that came through
+at that time.
+The June forecast did not have that in there, and neither does the July forecast. So the July forecast
+really assumes that the sales and use tax wasn't hit as hard in 2020, which we saw in the May
+number. It wasn't as bad as we thought it was going to be. And definitely, April was much better
+than we thought it was going to be. So assuming that trend continues, that June, July on will be
+fairly strong. Again, not where it was before, but fairly strong. And that the markets will hold up
+and that we will be able to move forward and businesses will stay open.
+So it does not assume kind of a re-entrenchment or slowing down like the May forecast did at the
+end of 2020 or 2021. But it is a much slower, more steady forecast than what was in May also.
+Definitely, it was slower than what was in the June forecast.
+So I think what we're looking at is, with what we saw in April and May when I ran some of my
+numbers separately, I was seeing numbers that could be closer to what they are showing for the
+medium or even closer to the higher category as far as where we could be, assuming we don't have
+to [AUDIO OUT] again. And so I think with the amount of uncertainty going on, that the medium
+forecast is probably a good place to be right now. I think the low is just really conservative and is
+even below where we were in May. And we have information now that really doesn't support
+something that low.
+Now again, six months from now, or three months or whatever, if we start seeing that changing,
+then we will come back to the Board and have that conversation. But we did talk to Leeds and they
+did say right now, they're not seeing not from even the national models or the Colorado, especially,
+because we've been doing much better than the national front. So that's why I feel pretty
+comfortable with the medium forecast right now for sales and use tax.
+
+SHELLEY COOK: OK. And just to underscore one point. The fact that there is such a span
+between the lower and upper bounds is a reflection of the great amount of uncertainty. And to me,
+in some ways, knowing that's true and knowing the huge impacts that we might face if there's
+another shutdown, I almost want to be a little bit more conservative. But something you said
+sparked a question about whether we could adjust.
+Like one time Bob Broome had thought about identifying a second scenario for cuts and being
+able to pull the trigger if we saw a new wave and new shutdowns in September, October,
+November timeframe. And that would get us a little bit ahead of the game. Is that a possibility? Is
+that feasible? We could come up with two ideas. One is either what you had suggested if we wanted
+to be more conservative, or splitting the difference between the middle and the low, and/or
+developing two scenarios, assuming one, but being able to kind of pull the trigger on the other one
+if things started to go south this fall. Can you comment on that, please?
+HEATHER MCKILLOP: Sure. So yes. So one of the things you and I had talked about was, I'm
+presenting what Leeds has as far as their low, medium, and high. The Board could always direct
+me to come up with something in between, right? The low and the medium or something like that,
+if they so chose. That's your prerogative to do that.
+The other thing I wanted to mention, though, along those lines, is we could control that with some
+of the cost piece of it, too, right? So in Bruce's task force that they're working on, we could have
+some different scenarios. For this type of forecast, these would be the reductions we'd make. If the
+forecasts started going south, we could have these additional reductions on standby. Wouldn't want
+to do those unless things got really bad. But here are the things that we could do if that happened.
+So we could also control that by looking at the cost side, not just the revenue side of it, too. So
+there are some options there. But I felt the fiscal policy kind of directs me to present you what the
+Leeds forecast is. If the Board wants me to do something different than that, you have that
+prerogative to direct us in that way, which in this case, might be something between the low and
+medium or something like that for the July forecast.
+SHELLEY COOK: OK. And/or the ability to have that as something in our back pocket having
+planned for it, and deciding firmly before we adopt the mid-term financial plan and/or the 2021
+budget, which one it'll be. So I guess that's my preference, go with a lower number and/or develop
+a scenario, at least, based on it. And then make a firm decision later.
+And the second thing is, this is my last comment, the future Board considerations in line with our
+COVID principles, I would hope that one of the things that Bruce's group, understanding that we're
+time pressed here, but in addition to service reductions, we'd be identifying service alternatives as
+well. So thank you.
+ANGIE RIVERA-MALPIEDE: Thank you, Director Cook. Director Guissinger, are you
+available?
+LYNN GUISSINGER: Can you hear me now?
+
+ANGIE RIVERA-MALPIEDE: I can. I don't see you, but I hear you. Go ahead, ma'am.
+LYNN GUISSINGER: No, you know, I think my question was answered. Thanks.
+ANGIE RIVERA-MALPIEDE: All right. Thank you so much. Director Whitmore.
+TROY WHITMORE: Thanks, Madam Chair. I initially had my hand raised to make sure that
+Director Cook was recognized. But while I have the floor, I do concur with Directors Tisdale and
+Buzek on the July medium plan, especially in light of the just prior discussion of the flexibility
+that Heather and staff will have if we sense the need for a little tweak to the plan. Hopefully all it
+is is a little tweak. That's all. Thanks.
+ANGIE RIVERA-MALPIEDE: Thank you. I hope so, too, sir. First Vice Chair Catlin.
+PEGGY CATLIN: Thank you, Madam Chair. I'm inclined to agree with Director Cook. I'm a little
+bit nervous recognizing the volatility of some of these forecasts. And I guess what concerns me
+more is the fact that we do not know if the federal unemployment subsidy is going to be continued.
+And the fact of the matter is, a number of consumers who are spending money for which we are
+collecting sales and use tax, we're relying on an additional $600 per week. And if that goes away,
+has that been factored into any of these forecasts? Or even if it's been reduced?
+HEATHER MCKILLOP: So this is Heather. So we did ask that question. My understanding is,
+yes, it's been factored into the July forecast. That they knew the stimulus funding and the additional
+unemployment funding would be terminating at the end of July.
+PEGGY CATLIN: OK. Thank you.
+ANGIE RIVERA-MALPIEDE: Thank you, ma'am. Director Mihalik.
+KEN MIHALIK: Thank you, Madam Chair. And thank you.
+ANGIE RIVERA-MALPIEDE: Oh. Can you speak into your phone? It's hard to hear you.
+KEN MIHALIK: Oh, yeah.
+ANGIE RIVERA-MALPIEDE: Oh, there you go. Thank you.
+KEN MIHALIK: Thank you. That was a very good presentation. And I know there's just so many
+caveats and so many unknowns that this is most certainly not the last time that this gets edited.
+And I guess, until the next iteration, I guess I would say go ahead with the July medium, given all
+the consideration you've given. But yeah. I just think there's just so much uncertainty. It's not
+positive uncertainty. So that's just my two cents. Thanks
+ANGIE RIVERA-MALPIEDE: OK. Thank you so very much. OK. In the queue, there are some
+directors who just dialed in. So let me check one more time. Does anybody have any questions for
+Miss McKillop?
+
+DOUG TISDALE: I believe Director Lubow does.
+ANGIE RIVERA-MALPIEDE: Director Lubow, please.
+JUDY LUBOW: I don't have questions. I have a comment.
+ANGIE RIVERA-MALPIEDE: Please.
+JUDY LUBOW: Yes. I also am very concerned about the really unstable economic and health
+condition that we're in. I mean, it could go south pretty quickly. So I support, actually, Shelly
+Cook's idea of having perhaps in our back pocket a darker analysis, perhaps in between the low
+and the medium, that we could use quickly if things start going south, as well they might. That's
+my take on it. Thank you.
+ANGIE RIVERA-MALPIEDE: Thank you so much. Director Menten.
+NATALIE MENTEN: Thank you. I do want to make sure that you can hear me, as I had to link
+my phone to my computer. Can you?
+ANGIE RIVERA-MALPIEDE: I can hear you clearly. Thank you.
+NATALIE MENTEN: Great. Great. All right. So to start with, the main question was, which
+forecast. And as maybe not surprise, I would go with the low forecast. I feel that puts us in a better
+position to address the unknown. And we certainly have had enough of that.
+And then the second part of the question was, with the five options as we move forward, where
+would we address the funding shortfall? In order of ranking of the five options, the first would be
+the reduction in overhead as a first option to look at. Secondly would be future FISA. Third would
+be existing FISA. Fourth would be service reductions.
+And as a last resort, would be the main base reserves. Because I still have continuing concerns
+that-- Although it's been stated this is a common amount of reserves in the industry, to me, it seems
+to be exceptionally low. And that gives me concern. And that is why that would be the last resort.
+And so I hope I have answered all the questions you were looking to get answers for there, Heather.
+HEATHER MCKILLOP: Yes. Thank you.
+ANGIE RIVERA-MALPIEDE: Miss McManus or Mr. Sherman, I'm not seeing any other hands
+in the queue. Are you?
+HEATHER MCKILLOP: So Madam Chair, this is Heather. If there's no one else in the queue, can
+I maybe summarize and see if this is acceptable?
+ANGIE RIVERA-MALPIEDE: Absolutely.
+
+HEATHER MCKILLOP: So what I'm hearing is that there is support for the July medium.
+However, that maybe I should do a calculation of something between the low and medium by year
+and have a range, so somewhere between the medium and what maybe a more worst case is. So
+when then we work towards the overhead service reductions reserve use and those type of things,
+we can look at it from a range perspective. But I'll run the numbers using the medium and then
+something between the medium and low, using the July forecast as a backup.
+ANGIE RIVERA-MALPIEDE: OK.
+HEATHER MCKILLOP: Is that acceptable to most people?
+ANGIE RIVERA-MALPIEDE: Anyone opposed? Miss McKillop, I'm not seeing anyone doing
+that. So I'm going to say yes, that is exactly correct.
+HEATHER MCKILLOP: Then I will get on that.
+ANGIE RIVERA-MALPIEDE: All right. Anything else in your presentation?
+PEGGY CATLIN: Excuse me. I believe Director Lewis has her hand up.
+ANGIE RIVERA-MALPIEDE: Oh, I can't see it. Go ahead, Director Lewis.
+SHONTEL LEWIS: Thank you, Director Catlin. I did have a question regarding the FISA. I was
+surprised that we were dipping into the reserves. I mean, we hadn't addressed the FISA. And so as
+Director Menten has pointed out, I was just curious as to when that might come into play.
+HEATHER MCKILLOP: So Madam Chair, this is Heather. So we'll start the discussion next week
+on the August 4th meeting about using reserves. And then that will continue, I'm sure, for the next
+several study sessions on what that will look like till we get a resolution on where the Board wants
+to go.
+ANGIE RIVERA-MALPIEDE: OK.
+SHONTEL LEWIS: Reserves or the FISAs? Just to clarify.
+HEATHER MCKILLOP: FISA is part of the reserve, yes. So the FISA and the reserves.
+Everything on that that's attached in your packet.
+SHONTEL LEWIS: OK, thank you.
+ANGIE RIVERA-MALPIEDE: All right. Does that answer all your questions, Director Lewis?
+SHONTEL LEWIS: It does.
+
+ANGIE RIVERA-MALPIEDE: OK. Thank you. Because I'm not seeing people's hands up, does
+anybody else see anyone's hands up? Because I'm not seeing anybody here. OK. I think that is it
+for the presentation this evening. Is that correct?
+HEATHER MCKILLOP: That is correct for me.
+ANGIE RIVERA-MALPIEDE: OK. Is there any other matters to come before the Board on this
+special study session? OK. I'm looking at all my phones and everything and I'm not seeing
+anything. So I'm going to call for an adjournment. Do I have a movement?
+VINCE BUZEK: Buzek moved.
+ANGIE RIVERA-MALPIEDE: Second, Director Tisdale. All in favor?
+TROY WHITMORE: Aye.
+BARBARA MCMANUS: Aye.
+SHONTEL LEWIS: Aye.
+ANGIE RIVERA-MALPIEDE: All right. We are adjourned at 6:46 PM. Thank you. Have a good
+evening.
+LYNN GUISSINGER: Thank you.
+
+

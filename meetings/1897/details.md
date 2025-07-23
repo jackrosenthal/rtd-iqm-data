@@ -1,0 +1,77 @@
+## I. Planning and Development Committee
+
+Chaired by Bill James
+
+### A. Call to Order
+
+Committee Chair James called the meeting to order at 6:29 P.M.
+
+Staff Present:               Bruce Abel, Bill Bell, Lacy Bell, Douglas Carrington, Jessie Carter, Rick Clarke, Susan Cohen, Chuck Culig, John Elias, Sherry Ellebracht, David Genova, Cheryl Holmes, Austin Jenkins, Erin Klaas, Marla Lien, Barbara McManus, Tony McCaulay, Doug MacLeod, Vivian Morales, Paula Perdue, Scott Reed, Steve Reilly, Bill Sirois, Kirk Strand, Walt Stringer, John Tarbert, Pauletta Tonilas, Bill Van Meter, Phil Washington
+
+Others Present:               Rob Andrews, Alex Brown, John Desmond, Tami Door, Sherman Hamilton, Aylene McCallum, Bill Mosher, Cathy Proctor, Roger Sherman, Cyndi Stovall, Mike Sullivan, Joe Triplett, Gary Van Dorn, Elbra Wedgeworth, Monte Whaley
+
+#### 1. Denver Union Station Project Update
+
+Committee Chair James told the Directors as long as they are paying attention to the topic at hand they have freedom to consult any tools.
+
+He then introduced Richard Clarke, Assistant General Manager for Capital Programs, Bill Van Meter, Assistant General Manager for Planning, and Bill Mosher, Senior Managing Director for Trammell Crow Company (TCC). Mr. Clarke and Mr. Mosher presented the last Denver Union Station (DUS) update starting on page 4 of the Government Relations/Planning and Development/FasTracks Monitoring Committees Packet for the April 1, 2014 Committee Meetings.
+
+Committee Chair James thanked Mr. Mosher and Elbra Wedgeworth, Chair of the Board for the Downtown Denver Partnership (DDP) for their leadership and commitment to the community.
+
+Director Deadwyler took a tour of DUS earlier in the day and expressed how impressive it is.   She noted that the bus concourse, which measures 1200 feet, only has one restroom facility at one end.  Mr. Mosher pointed that the restrooms on the other end are upstairs in the DUS main hall. Director Deadwyler expressed the challenge this will pose for females and young mothers as they would have to cross the concourse to have access to that level’s bathroom.
+
+Director Folska said that DUS is transforming the city, not just downtown and thanked Mr. Mosher and Mr. Clarke for a job well done leading such a complex group of people in such a long-term fashion.
+
+Director Daly thanked Mr. Mosher and Mr. Clarke for their work and mentioned he took a group of 40 people from his District on a DUS tour and everyone was very impressed.
+
+Director Hoy attended earlier in the day a Smart Commute Metro North meeting and noted how Karen Stuart, Executive Director of the organization, expressed ownership over DUS as a destination. She explained during the meeting that money spent in downtown Denver benefits everyone in the state.
+
+Director Rivera-Malpiede thanked Mr. Mosher and Mr. Clarke.  She grew up near DUS and is honored to have it in her District.  She wanted to maintain its hallowed ground sense as many families, historical figures, and soldiers going to war have stepped through DUS as the heart of Denver.  She pointed out the role of women in leadership throughout this project and thanked Ms. Wedgeworth for her leadership and support.  Her leadership, she said, adds to the thread of history and coming together as a community. She noted how her Highlands community stops by Riverpoint to take pictures of the landmark.
+
+Director Bagley reflected on his participation as the Board of Directors’ Conduit to the Denver Union Station Project Authority (DUSPA) since 2010 and how Bill Mosher’s leadership as the owner’s representative has been outstanding.
+
+Committee Chair James noted the major projects and openings RTD has planned for the near future and how these are sure to grab the attention of the constituents.
+
+Mr. Mosher recognized Terry Howerter, Chief Financial Officer and Assistant General Manager for Finance & Administration, and Marla Lien, General Counsel, as original RTD members to the DUSPA. He also acknowledged the leadership of Ms. Wedgeworth as well as the City and County of Denver and the Denver Regional Council of Governments (DRCOG), among others.
+
+Committee Chair James asked about the federal loans used to develop the project and wondered if repayment would be accelerated.  Mr. Mosher replied that it is up to the City and County of Denver, RTD, as part of the loan, is paid by FasTracks tax revenues as well as Downtown Development Authority (DDA) tax revenues.  The understanding is that the current City and County of Denver administration would like to pay the loan as soon as possible, but this could change anytime due to City policy. Ms. Lien further explained that there’s a split in the DDA revenue and if there is an excess in revenue it could be applied towards paying off the loan.
+
+Mr. Clarke thanked Mr. Mosher and Mike Sullivan, Alex Brown, and Rob Andrews from TCC.  Each one was presented with a plaque recognizing their contribution to the DUS project.
+
+##### a. DUS Project Update 04.01.14
+
+#### 2. Union Station Bus Concourse Update
+
+Phil Washington, General Manager, told the Board the goal of this update is to give a briefing on the May 9th opening including logistics, steps taken, and other details.  He introduced Bruce Abel, Assistant General Manager for Bus Operations, Scott Reed, Assistant General Manager for Communications, and Jessie Carter, Manager for Service Planning & Scheduling, who reviewed the DUS Bus Concourse presentation starting on page 29 of the  Government Relations/Planning and Development/FasTracks Monitoring Committees Packet for the April 1, 2014 Committee Meetings.
+
+Mr. Reed expressed the privilege of working alongside Tony McCaulay, Senior Manager for Marketing, Stephen Reilly, Manager for Marketing Communications, Pauletta Tonilas, Manager for FasTracks Public Information, and Cheryl Holmes, Manager for Creative Services throughout the Bus Concourse project.  Together they presented to the Board the communication strategy as well as the graphics already being used to promote DUS and inform the public of the closing of Market Street Station as well as bus route changes.  As to the events leading to the opening, the team invited the Directors to the Employee Day on April 26th and shared that the sponsorships for the Evening Gala on May 8th, which will sit 1200 people, are sold out.
+
+Mr. Washington briefed the Directors on the Private-Public Partnership (P3) roundtables scheduled for the morning of May 9th.  They will be educational events wrapped around the P3 delivery model.  With a capacity of 500 people, the idea is to have 3 panels: one from the public perspective, one from the private perspective and one that envisions Transportation Secretary Anthony Foxx interacting with the Workforce Initiative Now (WIN) participants. Participants will include CDOT, RTD, FTA, AECOM, Goldman Sachs, and Fluor, among others.  Confirmed presenters and moderators include Federico Peña, Mike Schneider, and Alethia Nancoo.  Chair Sisk will open the event and Denver Mayor Michael Hancock will close the event.
+
+Mr. Reed informed the Directors that the Ribbon-Cutting Ceremony will be at noon on May 9th.  Mr. Washington added that the idea is to integrate existing services as seamlessly as possible.  He also interjected regarding the potential opportunities being opened by the Free Metro Ride on 18th and 19th Streets.  One developer confirmed that they are planning an outdoor café on 18th St. because of the new service.
+
+Director Folska sees the opening ceremonies as an opportunity to train constituents about RTD services. She suggested an educational voice loop at DIA’s concourse shuttle and asked what other types of marketing are planned and/or in effect.  Mr. Riley mentioned that RTD is using outdoor billboards, digital billboard in the downtown area, open ad spaces on buses and trains, street teams from RTD marketing, public relations, and customer service going out to various Park-n-Rides.  Director Folska asked if bus operators are equipped to make announcements and distribute materials.  Mr. Riley said that yes, those materials are available and that the street teams will focus on the origination of routes affected by the changes.  They have also targeted businesses and HOA’s on 18th and 19th Streets.  Director Foslka asked if the team has tapped into the Citizens Advisory Committee (CAC).  Mr. Reed said that yes, they’ve been working with the CAC and other stakeholders, such as schools, disabled communities, chambers of commerce, Denver Business Journal, etc.
+
+Director Bagley congratulated the team on a great job and noted the employee event on April 26th as a great opportunity to spread the word about DUS and the new services.
+
+Director Walker, who rides the 0 Route every day, is excited to see how it all pans out. He spoke with John Tarbert, Transit Police Chief Officer, regarding security of the area and everything is in place for a safe and secure opening and operation. He also noted how train passengers will arrive at an airy terminal and how bus passengers will have skylights, adding to the quality of travel of the constituents.
+
+Chair Sisk congratulated the team on their mindboggling hard work.  He asked what would happen on Monday, May 11th, the first day for commuters arriving at DUS.  Mr. Riley said that RTD Ambassadors/Employees will have a presence at the different stations two weeks prior and two weeks after to inform and educate the public.
+
+Director Daly asked what is being done to point out alternatives to the 16th St. Mall Ride.   Mr. Riley responded that the teams will be at DUS, Civic Center, in front of Market Station, Park-n-Rides, different stations throughout the Mall and Metro Ride area.  Mr. Reed said that the total is 500 shifts and the process has been implemented at other openings.
+
+Director Solano asked what has been done to reach out to the Hispanic community.  Mr. Reed said that materials are available in Spanish.  Director Solano said he was glad to hear that.  Mr. Riley added that they’ve reached out to various Hispanic publications as well.
+
+Director Hoy asked how many people go through Market St. Station in a day.  Mr. Carter said 5,000.  Director Hoy also congratulated the team on the Employee Day invitation.  He asked if RTD Ambassadors would be open to public volunteers.  Mr. McCauley said that it is best to keep it to RTD employees as they are invested in the project.  Director Walker added that constituents already help each other with route information and he suspects the same will happen with these new changes.
+
+Committee Chair James noted that the Civic Center Station was not mentioned along the way and that he hopes that both Civic Center and DUS will function as centers of gravity for RTD and Denver.  He also noted that collaboration between CDOT, DRCOG, City and County of Denver has enabled the DUS project and have been the conduit for development.
+
+##### a. DUS Overview for Board v2
+
+### C. Other Matters
+
+Director Solano reminded the Directors and staff of his request at the Board Meeting for a copy of the North Metro Ground Breaking Ceremony.  Ms. Tonilas said that a raw video is ready and will be made available to the Board Office as soon as possible.
+
+### E. Adjourn
+
+Committee Chair James adjourned to the FasTracks Monitoring Committee at 7:49 P.M.

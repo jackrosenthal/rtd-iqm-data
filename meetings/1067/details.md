@@ -1,0 +1,71 @@
+## I. Call to Order
+
+Chair Cohen called the meeting to order at 5:31 p.m.
+
+### 1. Roll Call
+
+Director Tayer arrived late.
+
+Staff Present:              Libby Cox, John Elias, David Genova, Mike Gil, Terry Howerter, Austin Jenkins, Erin Klaas, Marla Lien, Patrick McLaughlin, Doug MacLeod, Barbara McManus, Paula Perdue, Scott Reed, John Shonsey, Bill Sirois, Walt Stringer, Gerry Suazo, John Tarbert, Mike Turner, Bill Van Meter, Phil Washington
+
+Others Present:               L. Skip Brown, Dana Crawford, Walter Isenberg, Jim Johnson, Claire Teylouni
+
+## II. DUS Historic Building Update (Lien)
+
+Marla Lien provided an update on the key items they have been negotiating with the Union Station Alliance (USA).  She mentioned that they will have an Executive Session next month and then present to the Board and ask for their approval on November 20.
+
+Among the issues discussed is the lease term which in the original RFP was set for 60 years.  USA thinks it will be very important for lenders for it to be for 99 years.  They are asking for 60, 20 and 19 years to total the 99.
+
+The initial use is for hotel, food, beverage, retail and transit.  They are asking for the ability to chase uses over the 99 years if the area/market/etc. changes.  Staff’s recommendation is that we agree to this with certain parameters allowing hotel, retail and commercial but no residential use.
+
+To address public and Board concerns about making sure that there is always access to transit, and even though at this point there is no MOU with Amtrak, the design is including the requirements for Amtrak to be able to have access to the platform and get luggage in and out.
+
+In the Great Hall they want to make sure that it is always available to the public and that there is always food and beverages when transit is open.  They will pick a standard like Grand Central Station or Washington DC Union Station.
+
+The appearance of the Great Hall is also another issue.  The tenants will be able to design their own rooms and lounges, while protecting the historic fabric of the building.  For any changes in the Great Hall they would have to come back to RTD.
+
+They proposed to make the Great Hall available for special events and close up to 50% of the Great Hall as long as there is access to transit and a seating area.  They could host up to 48 events a year.
+
+Director Malpiede asked if they would use the entire Hall and have seating upstairs.  Marla responded that they have not determined how they will achieve that, but they will always make sure that seating is available.
+
+As far as architectural changes they cannot make a structural changes or changes to the exterior.  In terms of maintenance, they will create a capital reserve account to be funded and maintained to certain levels for major repairs and replacements.
+
+They are also including requirements for an insurance program that will take liability and will revisit the limits every 5 years if not more often.
+
+With regard to mortgage and assignment, this goes into change of use.  The team proposes until 2016 to assign leasehold interest to a qualified management company with relevant experience and no history of criminal activity and no denial of liquor license.
+
+The lease need to comply with FTA requirements as well as the ADA in terms of no discrimination based on race, color, etc., and no conflict of interest, debarment or suspension.
+
+The use of the plaza needs to be safe for everybody.  They have asked for easements and convenience and for each building have a 15’ area that can be used as outdoor seating and activities zone.  USA has also asked that there is 12-15’ buffer zone with no structures, no kiosks and no parking.  The building entryway needs to be free of obstructions.  Amtrak also has the same expectation.
+
+When scheduling events in evening hours, they need to make sure that they are mindful that it is a hotel.
+
+Director Deadwyler stated that when they had the initial discussions about the hotel, the noise level and things that could be a distraction were discussed.  She was under the impression that it would not be a problem.  What she understands is that activities need to end early to avoid the noise. Marla commented that RTD will not put the conditions in the Great Hall, as they will have some bars and guests will need to be ready for people coming and going.
+
+Director Deadwyler also asked what they meant by seating availability.  Marla explained there are seating and outdoor activity zones attached to each building.  The public part of the plaza is part of the DUS project open to the public and it will have a fountain, trees and build in seating.
+
+Director Malpiede asked what is going to happen with the Model Railroad piece in the basement.  Marla explained that the lease itself does not have a requirement for any special tenants other than RTD and Amtrak.  They have not specifically provided for the Rail Association.  Ms. Dana Crawford stated that the Model Railroad Association wants to maintain those two projects as assets to the community and be open more hours.  They are in the process of moving their tracks and they will have some leasing with USA for the use of the space.  A new 21st century approach to invite the public to use and be able to see their collection.
+
+Director Hoy expressed some concerns about the changes in use.  It is his understanding that because it is a national historic building that cannot be done.  Marla explained that the National Park Service (NPS) takes control of the inside of the building and the Landmark Preservation Commission (LPC) manages the outside of the building.  The NPS requirement is only for 5 years.  The building is protected from demolition and major modifications.  They are talking about improvements to the building and some changes are acceptable as long as they are not structural and maintain the Great Hall’s integrity.  Nothing can be done without the LPC approval.  The restrictions continue in the structure but not in the use.  Director Hoy asked what kind of control RTD will have.   Marla explained that anything related to structural changes, both outside and inside, will still have to come to the Board.
+
+Director Malpiede asked about the roof top and the hotel rooms planned for that area.  Marla stated that the NPS did not allow everything USA wanted, they only allowed for partial modification.  Mr. Jim Johnson explained that they will put some suites in the attic instead of regular hotel rooms and that they have reduced the number of rooms proposed.
+
+Director James wanted clarification if because the NPS permitted some modifications in the interior and exteriors, once that is all done any further significant changes would require the NPS’ approval.  Jim explained that the tax credits USA is seeking require Park Service approval of any changes for five years after build out.  After that it would be under the LPC.  Marla stated that RTD would have some approval of those changes like exterior, structure and historic fabric of the Great Hall.  Other than that the renter can take care of the interior spaces.  If alterations are proposed by the tenant, RTD would have the opportunity to approve during the 99 years.  That is what staff has asked for.  Jim Johnson explained that anytime a permit is required it goes to the LPC before it goes to the building permit office.  In the interior the tenant will have freedom to do changes as long as they do not alter the structure of the building or the historic fabric of the Great Hall.  In terms of the Great Hall, RTD will have the opportunity to approve substantial changes to it.  Director James asked if the LPC has the right to approve substantial changes in the Great Hall.  Marla responded that they don’t since their premise is only in the exterior of the building.
+
+Mr. Walter Isenberg expressed his appreciation for the work the staff has done and they look forward to moving the project forward.
+
+## III. Other Matters
+
+Director Anderson stated that she wants to make sure she is notified of any community meeting in her area regardless of the issue being discussed, FasTracks or any RTD meeting.  She was not notified about a meeting in Arvada about landscaping trees held on Monday 29th.  General Manager Washington will have the staff follow up.
+
+Director Tayer arrived late, took over as chair.
+
+## IV. Paperless Packet Training-Board members
+
+Training for the new Paperless Packet and eBoardroom was conducted with the Board of Directors.  Paula Perdue, Barbara McManus and Erin Klaas reviewed eBoardroom, the RTD/IQM2 Web Portal and Hub navigation with Directors.  In eBoardroom Board members were shown how to vote, how to request to speak, and how the timer would work for public participation.  The rules of engagement for conducting meetings were also discussed.  Board members were shown how to log-in and access the paperless packet through the RTD/IQM2 web portal.
+
+Director Tayer thanked the Board staff for all the hard work.  He also thanked Director Tobiassen for championing paperless packets.  Director Malpiede mentioned that she has seen the staff working really hard toward these training sessions.  Paula thanked the IT group for all their support.
+
+## V. Adjourn
+
+Chair Tayer adjourned the Study Session at 8:30 p.m.  There is no meeting next week.

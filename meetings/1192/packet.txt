@@ -1,0 +1,762 @@
+1600 Blake Street
+Denver, CO 80202-1399
+303-299-2303
+
+Regional Transportation District
+
+Board of Directors
+Chair – Lorraine Anderson, District L
+First Vice Chair – Kent Bagley, District H
+Second Vice Chair – Larry Hoy, District J
+Secretary – Bruce Daly, District N
+Treasurer – Jeff Walker, District D
+Barbara Deadwyler, District B
+Dr. Claudia Folska, District E
+Bill James, District A
+Gary Lasater, District G
+Judy Lubow, District I
+
+Natalie Menten, District M
+Angie Rivera-Malpiede, District C
+Chuck Sisk, District O
+Paul Daniel Solano, District K
+Tom Tobiassen, District F
+
+AGENDA
+Operations & Customer Service Committee
+Tuesday, July 9, 2013
+Rooms R, T, & D
+5:30 PM
+Conference Dial-in # 303-299-2663
+Conference ID: 15120
+
+Operations and Customer Service Committee
+Chaired by Paul Solano
+
+A. Call to Order
+B. Recommended Actions
+C. Updates
+
+• BroncosRide 2013 Update
+• Radio and Computer Aided Dispatch and Automatic Vehicle Location
+(CAD/AVL) Project Status Update
+
+• Smart Card Project Status Update
+D. Other Matters
+E. Next Meeting Date - August 13, 2013
+F. Adjourn
+
+The following communication assistance is available for public meetings:
+ Language Interpreters
+ Sign-language Interpreters
+ Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 hours in advance of a RTD
+meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+1.C.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: July 2, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+July 2, 2013
+
+Board Meeting Date: July 9, 2013
+
+Subject:
+
+BroncosRide 2013 Update
+
+There will be two distinct differences in the BroncosRide service for the 2013 season that should be
+pointed out:
+First, the new West Line will provide service to Sports Authority Field at Mile High via the new DecaturFederal Station. Although it has been general practice to discontinue BroncosRide bus service from Light
+Rail Stations, RTD will keep the Federal Center Station BroncosRide for the 2013 season in order to
+evaluate the West Line service capacity to the Stadium on game days. A decision on the continuation of
+the Federal Center Station BroncosRide will be made after the 2013 Broncos season.
+Second, the BroncosRide service has previously included the Federal Shuttle. The Federal Shuttle has
+two elements: a south shuttle for customers parking at Lincoln High School and a north shuttle for
+customers parking at Chase Bank at Lakeside Office Park. Ridership on each shuttle ranges between
+250-300 customers per game. For the Broncos 2013 season, the north portion of the shuttle will not
+operate as Lakeside’s previous commitment to RTD’s BroncosRide parking has changed. Unfortunately,
+there is no alternative for customer parking along Federal Boulevard for the north shuttle. RTD Marketing
+materials will direct the customers to Ward Road or Olde Town Arvada Park-n-Rides for BroncosRide
+service. Therefore, for the 2013 Broncos season, the revised Federal Shuttle routing will only include
+the south shuttle which will operate from Lincoln High School to Decatur-Federal Station for access to
+the Stadium.
+
+Prepared by:
+Brian Matthews, Manager
+Approved by:
+
+Packet Pg. 3
+
+1.C.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: July 2, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+July 2, 2013
+
+Board Meeting Date: July 9, 2013
+
+Subject:
+
+Radio and Computer Aided Dispatch and
+Automatic Vehicle Location (CAD/AVL) Project
+Status Update
+
+Information
+
+INTRODUCTION
+The high severity problems with the system keep reoccurring. RTD is requesting a Senior Central
+System Engineer from INIT to be onsite until the system stabilizes. Installations are still projected to
+complete at the end of August. But, there is risk of completing in early September. Below is a
+capsulated summary that is followed by a list of current and upcoming activities.
+MAJOR PROJECT ELEMENTS STATUS
+Key
+
+Element
+
+1
+
+CAD/AVL Contract
+Testing and Problem
+Resolution
+
+2
+
+CAD/AVL
+Installations
+
+3
+
+CAD/AVL Contract
+Automatic Stop
+Announcements (ASA)
+
+4
+
+CAD/AVL Contract
+Database Interfaces
+
+
+Yellow
+
+
+Yellow
+
+
+Green
+
+
+Green
+
+Status
+The system continues to have high severity problems reoccur
+on a regular basis. RTD is requesting a Senior Central
+System Engineer from INIT to be onsite. The 60-day minifleet test was halted and will not restart until high-severity
+problems are resolved. Therefore, testing will continue into
+September.
+890 buses are installed with 114 remaining. Projections still
+show August completion. Installations still projecting to
+complete at the end of August. But, there is risk of not
+completing until early September.
+Fourteen Street Supervisor vehicles have been installed.
+ASA drive testing went well. The length of messages may be
+a problem on shorter blocks. Modifications of announcements
+are being considered to adjust for this limitation.
+Asset management interfaces are going through detailed
+testing that will extend into July.
+A downstream data management interface is being
+developed.
+
+UPCOMMING ACTIVITIES / EVENTS
+Activity / Event
+CAD/AVL Mini-fleet testing
+Fixed-Route Bus Installations
+CAD/AVL System Acceptance Testing
+
+Time Frame
+7/2012 - 9/2013
+7/2012 - 8/2013
+4th Quarter 2013
+
+Packet Pg. 4
+
+1.C.2
+
+COMPLETED ACTIVITIES
+The following project activities either complete or substantially complete and are no longer risks to the
+project’s success.
+ Paratransit Data Upgrade Project
+ Radio Network Build Project
+ Radio-only mobile and portable radio installation and deployment
+ Operations Control Center (OCC) Remodel
+ CAD/AVL and SMT interface development and testing
+ATTACHMENTS:
+
+
+IT Senior Mgr Delegation0001
+
+(PDF)
+
+Prepared by:
+Eric Farrington, Program Manager, IT
+Approved by:
+
+Packet Pg. 5
+
+Attachment: IT Senior Mgr Delegation0001 (1633 : CAD/AVL Status Report)
+
+1.C.2.a
+
+Packet Pg. 6
+
+1.C.3
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: July 2, 2013
+
+From:
+
+Terry Howerter, Chief Financial Officer
+
+GM
+
+Date:
+
+July 2, 2013
+
+Board Meeting Date: July 9, 2013
+
+Subject:
+
+Smart Card Project Status Update
+
+Information
+
+INTRODUCTION
+The Smart Card Program continues to effectively gather rider taps for bus and train EcoPass and
+CollegePass riders. During the month of June, 2013, 993K taps were recorded on bus and train
+validators, an expected continued reduction from May due to a decrease in college pass use as many
+colleges and universities are on summer break. The Smartcard Customer Service Center, (Operated
+under an RTD contract with Xerox by Celina, Inc.) continues to distribute new cards upon request, issue
+replacement cards and answer riders’ questions as they arise.
+A team of RTD Technical Support staff meets weekly to discuss reported issues with bus installations
+and determine steps required to address issues that arise. A work effort is under way to repair/replace
+defective stanchions on which the Smart Card readers are mounted.
+All one-hundred-nine Light Rail validators have been installed and are operational. Work on the
+installation of two additional validators at 16th/California and 18th/California has been completed. An RFP
+(Request for Proposal) has been published to retain a work order contractor to provide on-call installation
+and electrical services for additional validators as needed. Review of the responses to the proposal is
+scheduled for July 9, 2013.
+An update to the Fare Inspector software used to confirm that passengers have tapped prior to boarding
+is expected to be delivered on July 8, 2013. Once complete, the upgrade to the hand-held devices will
+provide an extended battery life for the unit, as well as display more comprehensive messaging regarding
+suspended cards. Xerox is engaged in additional work to simplify the method by which software
+upgrades are applied to the hand held devices. Fare Inspectors continue to operate in an “educate &
+inform” mode, and will receive additional training on the software improvements when implemented.
+As part of the Phase 2 Smart Card deployment, detailed testing plans have been developed to fully test
+the Retail Point of Sales (RPOS) Terminals that were delivered to RTD in May. Phase 2 will see the
+implementation of these terminals at RTD sales locations and will provide the general public with the
+ability to purchase Smart Card products. The detailed testing scenarios are designed to ensure a
+seamless integration of the point-of sale units into the existing Smart Media Technology platform. A
+review of the Retailer’s Agreement/Application will take place on July 17, 2013. RTD Marketing staff
+will meet with Safeway and King Soopers after a contract is signed to develop the appropriate marketing
+campaign. In addition to the web portal already in place, approximately 150 locations will be established
+throughout the region for riders to purchase monthly passes and/or add value to their cards. Planning for
+Phase 2 of the program is in full-swing and the schedule continues to be evaluated to ensure adequate
+timing for a successful Phase 2 launch.
+1. BUS INSTALLATIONS
+
+Packet Pg. 7
+
+1.C.3
+
+Key
+
+Elements
+
+
+
+Status
+
+Yellow
+
+1
+
+674 = Number of buses requiring replacements
+99 = Number of replacements completed
+37 = Number of replacements since last report
+15% Complete
+Note: A more detailed replacement inventory was
+conducted by the garages, resulting in the identification
+of more replacements. RTD continues to work with Xerox
+in the development of a plan to address the continuous
+effort of replacing validator mounts in the bus fleet.
+
+Stanchion Replacements
+
+2. PLATFORM INSTALLATIONS
+
+Key
+
+Elements
+
+
+
+Status
+
+Green
+2
+
+Installation
+
+
+
+104 Installed, 0 Not finish, 100% Complete;
+Received final approval from the Denver Downtown
+Partnership to provide power to a newly installed validator
+at 16th and California. Installation is complete.
+
+3. FARE INSPECTOR HANDHELD SMART MEDIA READERS (HSMR)
+
+Key
+
+Elements
+
+
+
+Status
+
+Yellow
+
+3a
+
+Installations
+
+
+
+3b
+
+Ride-a-long
+
+
+
+3c
+
+User Manual and
+Training
+
+
+
+A work-around has been established for previously noted
+problems. Vendor engineers will deliver a “power save
+management” feature that would shut down the smart
+card reader in an effort to save battery power on July 8.
+Xerox is investigating improvements to the daily update
+process, as well as an improvement to software upgrade
+delivery.
+The documented results of the June 5th Ride-a-long were
+reviewed with the Heads of RTD Transit Police. A plan for
+Fare Inspector Training has been developed and is targeted
+for completion by August 15, 2013.
+Based on feedback from the fare inspectors, as well as
+RTD Technical staff supporting the handheld units,
+additional information is being added to the User Manual.
+This manual, along with system/software specifications
+will be included in the Fare Inspector Training Materials
+
+4. WEB PORTAL
+
+Packet Pg. 8
+
+1.C.3
+
+Key
+
+Elements
+
+
+
+Status
+
+Yellow
+
+Design Review
+4a
+Phase 1 Punch List
+
+Work continues to verify and validate that the items on the
+punch list have been completed. Xerox has provided,
+through release notes, a list of the items that have been
+addressed. The metrics below are current as of the time
+this report was submitted.
+
+
+
+4b
+
+Marketing Review
+
+
+
+4c
+
+Bulk Upload & Suspend
+
+
+
+Total Records:
+
+116
+
+Open
+
+56
+
+48%
+
+In Progress
+
+13
+
+11%
+
+Verify
+
+20
+
+17%
+
+Closed
+
+25
+
+22%
+
+Marketing has completed their review of the SMT web
+portal. A meeting has been scheduled for July 11, 2013
+during which Marketing will review the requested changes
+to the portal. These changes will be developed into
+requirements which will be presented to Xerox for
+completion. Marketing has provided advanced information
+that there are a large number of changes to be reviewed
+and discussed. Some of these changes are “cosmetic” in
+nature regarding the appearance of the web portal. Others
+may require changes to the functionality of the portal
+itself. A more detailed description of the impact to the
+portal will be provided in the August Board Report.
+The Upload/Suspend functionality was thoroughly tested
+and performs as expected in the test environment. The
+new software was moved into production on Thursday,
+5/30/13. At present, colleges and universities are
+continuing to work through the process of suspending and
+deactivating college passes. RTD has scheduled one-onone meetings with the larger schools and universities to
+offer assistance as they prepare their records for upload
+into the Smart Card system. At these meetings, RTD staff
+will assess the current status of College Pass programs at
+each location and provide support where needed to get
+cards suspended or deactivated as appropriate.
+
+5. CARD DISTRIBUTION
+Key
+
+Elements
+
+
+
+Status
+
+Green
+5
+
+Card Issuance
+
+
+
+The RFP to purchase additional cards is in its final stages
+of development and is almost ready for posting.
+Additionally, a Change Order with Xerox has been created
+to order more cards to provide enough stock through the
+
+Packet Pg. 9
+
+1.C.3
+
+end of the year. The expected delivery date of the
+additional cards is approximately August 1, 2013
+6. REPORTS
+Key
+
+Elements
+
+
+
+Status
+
+Green
+
+6
+
+Reports
+
+
+
+Additional APOS (Agency Point of Sale) reporting
+requirements have been identified and reports are being
+written. Back-end and Systems report requirements have
+been documented and provided to RTD report writing
+experts. Additional access to back-end system tables will
+be required and RTD is working with Xerox to obtain the
+appropriate level of access. In addition, reports are being
+made available to assist the Eco/College Pass support team
+in understanding the current status of cards and riders
+within each of the schools/businesses utilizing the
+Eco/College Passes.
+
+7. MARKETING
+
+Key
+
+Elements
+
+
+
+Status
+
+Green
+7
+
+Strategy
+
+
+
+Marketing strategy discussions for Phase 2 have begun.
+The initial draft of the Marketing Plan is complete and will
+be reviewed as part of the Web Portal Review Process
+outlined in Segment 4b.
+
+8. COMMUNICATIONS
+
+Key
+
+Elements
+
+
+
+Status
+
+Green
+
+8
+
+Strategy
+
+Communications continues to assist with messages
+delivered
+to
+Ride
+Sponsors
+as
+issues
+arise.
+Communication strategy discussions for Phase 2 have
+begun. A Program-Level communication plan is being
+developed. In addition, The RTD Program Team is working
+in tandem with the Xerox Project Manager to ensure
+effective and accurate communications within and among
+all project stakeholders.
+
+9. RETAIL POINT OF SALE (RPOS) & ADMINISTRATIVE POINT OF SALE (APOS)
+
+Packet Pg. 10
+
+1.C.3
+
+Key
+
+Elements
+
+
+
+Status
+
+Green
+9a
+
+Safeway
+
+
+
+9b
+
+King Soopers
+
+
+
+9c
+
+7-Eleven
+
+
+
+9d
+
+Design Review
+
+
+
+9e
+
+Installation Site Surveys
+
+
+
+9f
+
+Factory Acceptance
+Testing
+
+
+
+9g
+
+Additional Retailers
+
+
+
+9h
+
+APOS Devices
+
+
+Yellow
+
+Safeway has committed to continue selling RTD products.
+Safeway has a moratorium on all changes during the
+months of November and December. Site surveys and
+installations may begin in the first quarter, 2014.
+Meeting with King Soopers held in early March. They have
+indicated they would like to avoid their busy months of
+November and December for implementation and training
+of their staff. Installations of the units may be done during
+this time as long as the work is done during the overnight
+hours.
+No response from 7-Eleven; may possibly pursue a
+partnership with Walgreens.
+Design document has been approved. RTD will provide a
+cellular modem for communication to the RTD network.
+All 300 RPOS Units were delivered to RTD on time.
+Network installations at all RTD Retail outlets have been
+completed and the sites are ready for RPOS installation at
+the appropriate time.
+Testing on the new RPOS units is tentatively scheduled for
+the Week of July 15. Xerox will be onsite for testing and
+test plans have been developed and reviewed by the
+extended project team.
+The SMT Program Team continues to look for additional
+retail partnerships and outlets.
+The printers associated with the APOS devices are
+experiencing issues with printing cards. These devices are
+still under warranty and RTD is working with the vendor to
+resolve the technical issues.
+
+NEAR-TERM ACTIVITIES / EVENTS (2013/2014)
+Activity / Event
+
+Time Frame
+
+Installation & Training of RPOS Units (RTD Locations)
+
+May –August, 2013
+
+Installation of RPOS Units (other than RTD locations)
+
+December 2013 – February 2014
+
+Period Passes and Stored Value:
+RTD Retail Locations and Web
+King Soopers/Safeway/Other Retailers
+
+Est. October 15, 2013
+Est. March 15, 2014
+
+Elimination of Paper-based fare products
+
+2014
+
+Major reduction of Paper-based transfers
+
+2014
+
+Substantial System Completion (All Deliverables)
+
+Phase 1
+(Eco, College, Neighborhood):
+
+Packet Pg. 11
+
+1.C.3
+
+Activity / Event
+
+Time Frame
+Complete
+Phase 2
+(MyRide - Passes/Stored Value):
+Spring 2014
+Phase 3
+(Reduced Fare Program &
+FlexPass)
+4th Quarter 2014
+
+ATTACHMENTS:
+
+
+IT Senior Mgr Delegation0001
+
+(PDF)
+
+Prepared by:
+Judy McMurphy, IT Program Manager
+Approved by:
+
+Packet Pg. 12
+
+Attachment: IT Senior Mgr Delegation0001 (1634 : Smart Card Project Status Update)
+
+1.C.3.a
+
+Packet Pg. 13
+
+

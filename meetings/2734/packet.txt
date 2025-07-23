@@ -1,0 +1,7219 @@
+Regional Transportation District
+
+1660 Blake Street
+Denver, CO 80202-1399
+303-299-2306
+
+Board of Directors
+Chair – Doug Tisdale, District H
+First Vice Chair – Natalie Menten, District M
+Second Vice Chair – Barbara Deadwyler, District B
+Secretary – Claudia Folska, Ph.D., District E
+Treasurer – Judy Lubow, District I
+Lorraine Anderson, District L
+Ernest Archuleta, District C
+Bob Broom, District F
+Peggy Catlin, District N
+Larry Hoy, District J
+
+Ken Mihalik, District G
+Chuck Sisk, District O
+Paul Daniel Solano, District K
+Jeff Walker, District D
+Kate Williams, District A
+
+AGENDA
+Financial Administration and Audit Committee/Operations and Customer Service
+Committee
+Tuesday, April 10, 2018
+Rooms R, T, & D
+5:30 PM
+Conference Dial-in # 303-299-2663
+Conference ID: 15120
+
+Financial Administration and Audit Committee
+Chaired by Ken Mihalik
+
+A. Call to Order
+B. Recommended Actions
+
+• Approval of NewPush Contract for Hosting Services
+C. Updates
+
+• RTD Sales and Use Tax Forecast Update
+• Wells Fargo Banking Contract Update
+• Review of 2019-2024 Mid-Term Plan & 2019 Budget Assumptions
+• SmartCard Project Update
+• February 2018 Monthly Financial Status Report
+
+D. Other Matters
+E. Next Meeting Date - May 15, 2018
+F. Adjourn
+
+Operations and Customer Service Committee
+Chaired by Barbara Deadwyler
+
+A. Call to Order
+B. Recommended Actions
+C. Updates
+
+• Board Report August 2018 Service Changes Committee
+• Transit Priority Update
+• Potential Adjustment to Fixed-Route Contractor Agreements
+• Service Availability Update
+D. Other Matters
+E. Next Meeting Date - May 15, 2018
+F. Adjourn
+
+The following communication assistance is available for public meetings:
+ Language Interpreters
+ Sign-language Interpreters
+ Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 business hours in advance of a
+RTD meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+1.B.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+April 4, 2018
+
+Subject:
+
+Approval of NewPush Contract for Hosting
+Services
+
+CFO/AGM,
+
+Finance
+
+Date: April 4, 2018
+&
+
+GM
+Board Meeting Date: April 17, 2018
+
+RECOMMENDED ACTION
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors
+authorize the General Manager or his designee to execute all documents necessary to award a contract
+for “Infrastructure as a Service to Host Smart Media Technology and Ticket Vending Machine Systems in
+a Payment Card Industry Secure Environment” with The NewPush, LLC (NewPush) (Contract Number
+17DH041) for an amount not to exceed $4,000,000. The contract is for two base years with three oneyear options to extend the contract.
+GENERAL MANAGER’S GOALS
+Core Goal #3: Strong Financial Management
+Task Goal #3: Asset Management/State of Good Repair
+BACKGROUND
+The Smart Media Technology (SMT), Ticket Vending Machine (TVM) and website are all hosted at an
+offsite facility to provide additional Information Technology (IT) security to these systems for RTD.
+Doing so requires a considerable set of IT infrastructure to be deployed and operational. These systems
+require a highly complex Data Center with special attention to security, high-availability,
+communications, continuation of operations / disaster recovery, etc.
+More specifically the hosting, systems and subsystems must:
+1. Meet and maintain Payment Card Industry (PCI) security standards.
+2. Provide protected high network security standards because of stored customer information.
+3. Provide high availability and 24/7 support because if the system were to be down, it would be a
+major inconvenience for riders and there would likely be a loss of revenue.
+4. Provide regular system backups
+RTD currently contracts for these hosting services and has for the past three (3) years. RTD currently
+pays approximately $340,000/ year for these services. The $340,000/ year is lower than the new
+proposed contract amount because RTD purchased the hardware ($341,798) when we went to a hosted
+environment. That hardware has reached its useful life and will be surplused. It has been determined
+that it is much more cost effective to have the hosting vendor provide all of the hardware, upgrades to
+hardware, and replacement, thus the increased annual cost for this contract.
+DISCUSSION
+RTD conducted an open procurement for an offsite hosting contractor. Four firms submitted proposals.
+One of these proposals was rejected as non-responsive. The responsive proposers were: Arisant,
+Dataman, and NewPush. The criteria used to evaluate the proposals were:
+
+Packet Pg. 3
+
+1.B.1
+
+Item
+No.
+1
+2
+
+3
+4
+
+Item
+Ability to meet PCI Requirements
+Ability to meet:
+ Service Level Requirement
+ After-hours Support
+ Security Policy
+ Configuration Management Processes
+ Support Processes
+ Backups
+ Disaster Recovery
+ Technical Integration
+Migration / Project Plan
+Cost
+
+Weight
+(%)
+30
+25
+
+25
+20
+
+There were four members of the evaluation team representing, procurement, IT system administration,
+electronic fare operations, ITS systems administration, and an IT enterprise architect. The four members
+of the evaluation team unanimously selected NewPush as the successful proposer.
+FINANCIAL IMPACT
+The contract authority shall not exceed $4,000,000 for 5 years. This funding provides for $612,036/
+year in hosting costs plus $187,964/ year in contingency funding. Funding for 2018 is included in the
+2018 Budget with future year funding planned in the Mid-Term Financial Plan.
+ALTERNATIVES
+1. It is recommended by the Financial Administration and Audit Committee that the Board of Directors
+authorize the General Manager or his designee to execute all documents necessary to award a
+contract for “Infrastructure as a Service to Host Smart Media Technology and Ticket Vending
+Machine Systems in a Payment Card Industry Secure Environment” with The NewPush, LLC
+(NewPush) (Contract Number 17DH041) for an amount not to exceed $4,000,000. The
+contract is for two base years with three one-year options to extend the contract.
+2. Migrate the system back to RTD and provide security and support for the system in-house. RTD
+does not have the resources to adequately support the system 24/7 and continuously meet PCI
+standards. This would put the Smart Card system and RTD at additional risk.
+
+Prepared by:
+Heather McKillop, CFO/AGM, Finance & Administration
+Kim Heldman, Senior Manager, IT
+Approved by:
+
+Packet Pg. 4
+
+1.B.1
+
+Packet Pg. 5
+
+1.C.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+April 4, 2018
+
+Subject:
+
+RTD Sales and Use Tax Forecast Update
+
+CFO/AGM,
+
+Finance
+
+Date: April 4, 2018
+&
+
+GM
+Board Meeting Date: April 10, 2018
+Information
+
+ATTACHMENTS:
+
+
+RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (PPTX)
+
+Prepared by:
+Heather McKillop, CFO/AGM, Finance & Administration
+Attilio Framarini, Project Manager, IT
+Approved by:
+
+Packet Pg. 6
+
+1.C.1.a
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+RTD Sales and Use Tax Forecast
+
+Place cover image here
+
+Robert McNown, Richard Wobbekind, Miles Light, and
+Brian Lewandowski
+April 14, 2018
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 7
+
+1.C.1.a
+
+•
+•
+•
+•
+•
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+Presentation Outline
+Economic overview
+Model development
+Uncertainty
+Forecasts and revisions
+Comparison with Colorado Legislative Council and OSPB
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 8
+
+Economic Growth
+Percent Change
+8
+
+Percent Change
+
+Personal Consumption Expenditures
+
+6
+Year-over-Year
+
+4
+2
+0
+
+Quarterly SAAR
+
+-2
+-4
+-6
+00
+
+01
+
+Percent Change
+25
+20
+15
+10
+5
+0
+-5
+-10
+-15
+-20
+-25
+-30
+
+02
+
+04
+
+05
+
+07
+
+08
+09
+Year
+
+11
+
+12
+
+14
+
+15
+
+17
+
+10
+8
+6
+4
+2
+0
+-2
+-4
+-6
+-8
+-10
+
+Year-over-Year
+
+Quarterly SAAR
+
+00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17
+Year
+Percent Change
+
+Fixed Business Investment
+
+Government Spending
+
+Net Exports
+
+20
+Year-over-Year
+
+15
+10
+
+Exports
+
+5
+0
+Quarterly SAAR
+
+Imports
+
+-5
+-10
+-15
+-20
+-25
+
+00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17
+Year
+
+00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17
+Year
+
+Sources: Bureau of Economic Analysis, the National Bureau of Economic Research, and the Business Research Division.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 9
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+1.C.1.a
+
+National Employment
+Month-over-Month Change, 12-Month Average
+Thousands, Month-overMonth, 12-Mo Average
+
+300
+200
+100
+
+0
+-100
+
+Recession 8 Months
+
+Recession 18 Months
+
+-200
+-300
+-400
+-500
+-600
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+Sources: Bureau of Labor Statistics (Seasonally Adjusted), Moody’s Analytics, and NBER.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 10
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+1.C.1.a
+
+Photo courtesy of RTD.
+
+Colorado Economy
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 11
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+1.C.1.a
+
+Colorado Ranking Among Other States
+Metric
+Real GDP Growth
+Employment Growth
+Population Growth
+Personal Income Growth
+PCPI Growth
+PCPI
+Average Weekly Wage % Growth
+Average Weekly Wage
+Unemployment Rate
+Labor Force % Growth
+FHFA Home Price Index Growth
+
+1-Year 3-Year 5-Year 10-Year
+7
+11
+5
+7
+5
+9
+6
+4
+8
+7
+5
+3
+5
+17
+4
+5
+11
+33
+5
+13
+12
+18
+4
+13
+13
+12
+8
+11
+11
+11
+9
+7
+18
+12
+1
+3
+5
+4
+6
+3
+2
+2
+
+Data Sources: Bureau of Economic Analysis, Bureau of Labor Statistics, U.S. Census Bureau, Bureau of Labor Statistics, Federal Housing Finance
+Agency All Transactions Index, BRD calculations. Note: 3-year, 5-year, and 10-year rates are based on the compound annual growth rate.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 12
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+1.C.1.a
+
+1.C.1.a
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+State Employment Growth
+Year-over-Year January 2018
+
+Source: Bureau of Labor Statistics (Seasonally Adjusted).
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 13
+
+1.C.1.a
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+Colorado Change in Population
+Change in Colorado Population
+2000-2018
+Thousands
+140,000
+
+80,000
+60,000
+40,000
+20,000
+0
+2000
+
+2006
+
+2012
+
+7th-fastest state for percentage growth
+
+Natural Increase
+
+100,000
+
+Net Migration
+
+120,000
+
+Continued net migration into the state
+
+8th-fastest state for absolute growth
+84% of growth along Front Range
+
+2018
+
+Source: Colorado Demography Office, U.S. Census Bureau, and the Business Research Division.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 14
+
+District Change in Population
+
+Thousands
+80,000
+
+Change in District Population
+2000-2018
+
+Two years of net out migration since 2000
+
+70,000
+
+Net Migration Natural Increase
+
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+0
+-10,000
+2000
+
+2006
+
+2012
+
+Five-year acceleration that peaked at 2.1%
+growth in 2015
+2015-2018 growth slows
+Slowing net migration
+
+2018
+
+Source: Colorado Demography Office, U.S. Census Bureau, and the Business Research Division.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 15
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+1.C.1.a
+
+Denver and Boulder Employment Growth
+Combined MSAs Year-over-Year Percentage Change
+Percent Growth
+
+5.0
+
+3.6
+
+4.0
+3.0
+
+2.6
+1.9
+
+2.0
+1.0
+0.0
+-1.0
+-2.0
+-3.0
+-4.0
+-5.0
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+Sources: Colorado Department of Labor and Employment and the Colorado Business Economic Outlook Committee.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 16
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+1.C.1.a
+
+Unemployment Rate
+12-Mo Rolling Average
+12.0%
+10.0%
+
+United States
+Colorado
+District
+
+8.0%
+6.0%
+4.0%
+2.0%
+0.0%
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+Sources: Bureau of Labor Statistics, Local Area Unemployment Statistics, Not Seasonally Adjusted.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 17
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+1.C.1.a
+
+Average Annual Pay
+12-Mo Rolling Average
+$65,000
+$60,000
+
+District
+Colorado
+United States
+
+$55,000
+$50,000
+$45,000
+$40,000
+$35,000
+$30,000
+2001 Q4
+
+2004 Q4
+
+2007 Q4
+
+2010 Q4
+
+2013 Q4
+
+2016 Q4
+
+12
+
+Sources: Bureau of Labor Statistics, Quarterly Census of Employment and Wages.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 18
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+1.C.1.a
+
+Labor Supply vs. Labor Demand
+Denver and Boulder MSAs
+Help Wanted Online
+100,000
+
+Unemployed, 12-Mo. Average
+160,000
+
+90,000
+
+HWOL
+
+80,000
+
+140,000
+120,000
+
+70,000
+60,000
+
+100,000
+
+50,000
+
+80,000
+Unemployed
+
+40,000
+30,000
+
+40,000
+
+20,000
+
+20,000
+
+10,000
+0
+2006
+
+60,000
+
+0
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+13
+
+Sources: Conference Board, HWOL; Bureau of Labor Statistics, LAUS (NSA).
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 19
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+1.C.1.a
+
+1.C.1.a
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+Model Development: Key Economic Drivers
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 20
+
+1.C.1.a
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+Model Development: Key Economic Drivers
+Short-term and medium-term forecasts
+• Employment: U.S. and Colorado
+• Real gross domestic product: U.S.
+• Personal income: Colorado
+• Retail sales and taxable sales: U.S. and Colorado
+Long-term forecasts
+• Population projections from U.S. Census and State Demography Office
+• Projections by age groups for U.S., Colorado, and RTD district
+• Population age distributions affect savings, labor supply, productivity,
+output, and household expenditures
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 21
+
+Forecast Uncertainty and Revisions
+• Previous slides show steady, moderate growth as U.S. and Colorado
+economies recover from recession
+• Colorado economy stronger than national average, both in long run
+and in recent recovery
+• Looking ahead, forecasters encounter uncertainty
+— Tax Cuts and Jobs Act of 2017, growing federal debt, Federal Reserve
+policy (interest rates and unwinding of the balance sheet), renegotiation
+of NAFTA, other trade policies, etc.
+— Frequent revisions of forecasts to reflect new information
+• In March 2018, the BRD switched to the Moody’s Analytics baseline scenario
+from the previous consensus forecasts scenario.
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 22
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+1.C.1.a
+
+Colorado Sales Taxes and RTD Tax Revenue
+$ Millions, 12-Month Rolling Sum
+
+$ Millions, 12-Month Rolling Sum
+$700
+
+$3,000
+$2,500
+$2,000
+
+RTD revenue through January 2018 (Right Axis).
+
+RTD Sales and Use Tax Revenue
+General Fund Sales Taxes
+Net Sales Taxes
+
+$600
+$500
+$400
+
+$1,500
+$300
+
+$1,000
+Note: Colorado Dept. of Revenue retail sales reports
+are current through February 2016 (Left Axis).
+
+$500
+
+$200
+$100
+
+General Fund sales taxes are available through January 2018 (Left Axis).
+
+$0
+
+$0
+
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016
+Sources: Colorado Office of the State Controller and the Colorado Department of Revenue.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 23
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+1.C.1.a
+
+Moody’s GDP Growth Expectations
+Real GDP Growth, %
+
+3.0
+2.8
+
+• Increased Interest rate
+
+2.6
+
+• Higher GDP
+
+2.4
+2.2
+
+March 2018
+Forecast
+Sept. 2017
+Forecast
+
+• Deficit-Financed Tax
+cuts
+• Increased Government
+spending
+
+2.0
+1.8
+
+• Tight labor market
+
+1.6
+
+• Moderate inflation
+1.4
+2017
+
+2018
+
+2019
+
+Source: Moody’s Analytics.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 24
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+1.C.1.a
+
+1.C.1.a
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+Short-Term Forecast
+
+RTD Sales and Use Tax Revenues
+
+Forecasted Percentage Changes of Sales,
+Use and Total Revenues
+Sales Tax
+Use Tax
+Total
+Year
+Revenue
+Revenue
+Revenue
+2016a
+3.76
+7.55
+4.08
+2017
+6.28
+4.57
+6.13
+2018
+3.44
+11.27
+4.12
+2019
+6.76
+5.51
+6.64
+aHistorical data.
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 25
+
+Error Tracking – Short Term Forecast
+Forecast Errors and Revisions
+Forecast Percent Error
+Forecasted Mar 2015 Jun 2015 Sep 2015 Dec 2015 Mar 2016 Sep 2016 Mar 2017 Sep 2017
+Quarter
+Forecast Forecast Forecast Forecast Forecast Forecast Forecast Forecast
+-0.9
+Q1 2015
+3.3
+0.4
+Q2 2015
+0.6
+-2.4
+-1.0
+Q3 2015
+3.9
+1.4
+4.8
+2.4
+Q4 2015
+1.8
+-0.2
+1.0
+0.6
+2015
+3.2
+Q1 2016
+-0.2
+Q2 2016
+0.3
+1.1
+Q3 2016
+1.1
+3.1
+Q4 2016
+1.0
+1.1
+2016
+Q1 2017
+Q2 2017
+Q3 2017
+Q4 2017
+2017
+Note: A positive number represents BRD forecasts exceeding actual revenue.
+
+-0.2
+-3.6
+-3.9
+-0.3
+-2.0
+
+-1.4
+0.6
+-0.2
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 26
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+1.C.1.a
+
+Forecast Performance and Error
+• Short-term forecasts above the actual revenue 69 times
+and below the actual revenue 67 times
+• A simple average of the error has been -0.2%, with a 3%
+standard deviation.
+• 100% of March medium-term (6-year) forecasts within
+upper and lower confidence bound.
+• March forecasts incorporate historical data from prior year.
+• Small revisions have large compounding effect.
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 27
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+1.C.1.a
+
+Scenario Planning
+RTD Revenue 2016-2024
+$ Millions
+$910
+$860
+Optimistic Scenario
+Baseline Scenario
+Pessimistic Scenario
+
+$810
+$760
+$710
+$660
+$610
+$560
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 28
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+1.C.1.a
+
+Long-Term Forecast Uncertainty
+RTD Revenue 2015-2045
+$ Millions
+
+$2,000
+$1,800
+$1,600
+
+High
+Median
+Low
+
+$1,400
+$1,200
+$1,000
+$800
+$600
+$400
+2015
+
+2020
+
+2025
+
+2030
+
+2035
+
+2040
+
+2045
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 29
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+1.C.1.a
+
+Forecast Comparison
+Forecast Comparison
+Colorado Economic
+Indicators
+Personal income (% change)
+2018
+2019
+2020
+Employment (% change)
+2018
+2019
+2020
+Retail trade (% change)
+2018
+2019
+2020
+
+Business
+Research
+Division
+
+Colorado
+Legislative
+Council
+
+Office of State
+Planning and
+Budgeting
+
+4.3%
+5.9%
+4.9%
+
+5.2%
+4.9%
+4.5%
+
+5.1%
+4.8%
+4.5%
+
+2.0%
+1.5%
+0.4%
+
+1.9%
+1.7%
+1.5%
+
+1.9%
+1.6%
+1.6%
+
+5.2%
+5.2%
+3.2%
+
+5.7%
+5.1%
+4.3%
+
+4.6%
+4.5%
+4.3%
+
+Note: BRD, Colorado Legislative Council, and Office of State Planning and Budgeting updates as of March 2018.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 30
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+1.C.1.a
+
+Integrity of Model Forecasts
+• Forecasts are updated semi-annually to reflect the most current
+economic situation.
+• Forecasts may be too high or too low, reflecting uncertainty in the
+economy.
+• Forecasts are generated from theoretically sound economic relations,
+modeled with state-of-the-art methods of modern econometric time
+series analysis.
+• BRD forecasts do not incorporate “add factors” or other subjective
+adjustments of model forecasts.
+• BRD is independent from RTD with no political or financial stake in
+the forecast numbers.
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 31
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+1.C.1.a
+
+1.C.1.a
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2018_Final (3446 : RTD Sales and Use Tax
+
+Thank You
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 32
+
+1.C.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+April 4, 2018
+
+Subject:
+
+Wells Fargo Banking Contract Update
+
+CFO/AGM,
+
+Finance
+
+Date: April 4, 2018
+&
+
+GM
+Board Meeting Date: April 10, 2018
+Information
+
+BACKGROUND
+Wells Fargo has been RTD’s commercial bank since 2004. The original contract was awarded in June
+2004 pursuant to competitive procurement practices. The initial contract term was for five years with
+three years of options. In 2012, Wells Fargo won a competitive procurement process through the State
+of Colorado and offered the same favorable terms to RTD. Therefore it was determined to be in the best
+interest of RTD to award its commercial banking contract to Wells Fargo to continue reliable service and
+for cost savings. The current RTD/Wells Fargo Contract expires September 30, 2018 and RTD has an
+option for a six month extension.
+The services provided under the Wells Fargo contract are abundant and include:
+
+
+
+
+
+
+
+
+
+The operation and servicing of six distinct bank accounts
+Controlled disbursement services
+Automated clearing house (ACH) and wire transfer services
+Cash vault services
+Electronic stop-payment services
+Lockbox processing
+Reporting services
+Discounted Employee banking services
+
+The District has received outstanding service from Wells Fargo through the term of the commercial
+banking contracts. Further, Wells Fargo has been proactive in suggesting account modifications aimed at
+protecting the District against fraud, streamlining its banking processes and further reducing its bankingrelated costs.
+Over the term of these contracts, the District has modified its processes and information technology
+systems in order to keep pace with the advancement of technology, a general increase in electronic
+forms of commerce and significant advancements in the processing of financial transactions. Integration
+between RTD’s systems and those of its commercial bank are crucial to the efficient processing of
+vendor payments, the management of accounts receivable, payroll processing and funds transfer. RTD’s
+integration with its banking institution is well-developed, tested and trusted.
+Wells Fargo has worked with RTD to customize several daily operating processes, some of which are
+under separate contracts, which are performed for RTD such as:
+
+
+
+Processing payments for the MyRide smart card web portal
+Acting as the merchant bank for TVMs, RTD sales outlets, and credit card payments through
+accounting
+
+Packet Pg. 33
+
+1.C.2
+
+
+
+
+
+
+
+Performing ACH draws related to quarterly, semi-annual, and annual Ecopass customers (a high
+volume and tedious process to set-up)
+Allowing vendors to make payments through monthly wires/ACH payments
+Monthly EZPay ACH draw for pass-by-mail customers
+Lockbox accounts for direct deposits
+Electronic deposit process which RTD sales stations are equipped with as well
+
+The commercial banking services used by RTD are voluminous. In addition to commercial banking
+services, Wells Fargo provides merchant services related to the processing of credit and debit cards used
+by RTD customers (as mentioned above) and investment banking services related to RTD’s capital
+financing activities.
+Wells Fargo has been embroiled in a scandal over the creation of new retail customer accounts without
+customer authorization. In 2016, Wells Fargo was fined $185 million by federal regulators as a result of
+this practice. Since these practices were exposed, Wells Fargo has taken many steps to change the
+internal culture that resulted in these retail banking practices and are confident that such practices will
+not occur again.
+The attached one page document titled “The Road to Rebuilding Trust” was provided by Wells Fargo in
+an attempt to highlight the various steps they have taken in response to this scandal.
+The second attached one page document titled “Wells Fargo in your Community” highlights the Wells
+Fargo jobs created and charitable giving in Denver as of December 31, 2016.
+RTD also conducts business with multiple other banks for other non-commercial banking processes such
+as custody accounts where investments are held (UMB Bank), trustee services related to RTD capital
+financing (UMB Bank, Bank of New York and US Bank), escrow services (Zions Bank) and Capital Leases
+(JP Morgan Chase Bank). RTD has 12 additional banks in its investment bank pool, which are used for
+debt financing and refunding. Wells Fargo is also in our investment banking pool.
+DISCUSSION
+The current RTD/Wells Fargo Contract expires September 30, 2018 and RTD has an option for a 6
+month extension. Given this timeline, RTD will need to decide whether to proceed with its own
+competitive procurement process or coordinate with other governments and participate in their
+procurement process.
+The State of Colorado expects to extend their Wells Fargo contract into 2019 and then issue a Request
+for Proposals (RFP) for commercial banking services. The State also expects that their RFP will allow for
+local governments to piggyback on their RFP and contract terms. RTD participated in a similar structure
+for the 2012 contract. The benefit of participating in the Sate process is that they are a much larger
+organization than RTD and will likely be able to obtain lower pricing than RTD can on its own. If RTD
+does not approve of the end result of the process, the option for RTD to perform its own competitive
+procurement process would still be an option.
+If RTD decides to not piggyback on the State RFP, the path forward would include beginning the RTD
+competitive procurement process which will likely take a minimum of six months. It is possible that
+pricing obtained through this process could be less attractive than what may be available through
+working collaboratively with other local governments.
+Were the District to change commercial banks either through a collaborative RFP or a stand-alone RTD
+
+Packet Pg. 34
+
+1.C.2
+
+RFP, an extended period of system modifications and implementation would be required along with the
+maintenance of parallel processes for some period of time prior to a “go live” with a substitute financial
+institution. This implementation and transition would necessitate an increase in staff and substantial
+costs that would not be expected to be recovered through competition.
+
+ATTACHMENTS:
+
+
+Wells Fargo Attachment 1
+
+(PDF)
+
+
+
+Wells Fargo Attachment 2
+
+(PPTX)
+
+Prepared by:
+Heather McKillop, CFO/AGM, Finance & Administration
+Brenden Morgan, Senior Manager, Debt & Investments
+Approved by:
+
+Packet Pg. 35
+
+1.C.2.a
+
+THE ROAD TO REBUILDING TRUST
+
+PROGRESS REPORT: While there is still much work to be done, here are some actions Wells Fargo
+has already taken on our path to making things right, fixing the problems, and building a better bank:
+
+LEADERSHIP & INTEGRITY
+a new CEO and a
+new executive to
+lead the Community
+Bank.
+
+LAUNCHED
+ETHICS
+
+IMPLEMENTED
+
+the Conduct Management
+Office, and centralized
+• Internal investigations
+• Complaints oversight
+• Sales practices oversight
+
+NAMED
+
+the company-wide
+commitment to
+Rebuilding Trust.
+
+new board chair,
+effective Jan. 1, 2018,
+and announced
+several changes in
+board committee
+leadership and
+membership.
+
+CUSTOMERS
+
+REFUNDED FEES
+
+incurred by potentially
+unauthorized
+• Deposits
+• Credit cards
+• Line of credit accounts
+
+AUTOMATIC
+NOTIFICATIONS
+
+DEDICATED
+HOT-LINE
+
+to customers after
+a personal or small
+business checking
+account, savings
+account, or credit
+card has been opened.
+
+for customers with
+concerns about their
+accounts, or any aspect
+of their relationship with
+Wells Fargo. Customer
+service available 24/7
+at (877) 924-8697.
+
+TEAM MEMBERS
+CONDUCTED
+nationwide
+listening tour
+to hear how to
+better care for
+team members.
+
+REACHED OUT
+
+EXPANDED
+
+Raise Your
+Hand, a program
+to ensure team
+member concerns
+are heard.
+
+RAISED
+MINIMUM
+WAGE
+
+base range for
+U.S. entry level
+team members to
+$13.50 - $17.00
+per hour.
+
+INCENTIVES
+ELIMINATED
+
+RISK MANAGEMENT & ACCOUNTABILITY
+risk framework by creating
+centers of excellence to apply
+the highest risk standards and
+controls consistently across
+the company.
+
+MADE
+AVAILABLE
+
+a preliminary $142
+million settlement
+for customer
+remediation and
+related expenses.
+
+ESTABLISHED
+
+• Centralized team member
+
+allegations and disputes team
+in Employee Relations
+• Proactive retaliation review
+for terminations
+• 60-day follow-up with
+team members following
+EthicsLine case closure
+
+NEW COMPENSATION PLAN
+
+product sales goals for retail bankers and
+began roll out of transformational changes
+to processes, coaching and customer
+interaction within the Community Bank to
+place focus on customers’ best interest.
+
+STRENGTHENED
+
+to 40 million retail
+and 3 million small
+business customers
+asking them to contact
+us with any concerns
+about their accounts.
+
+created for retail bankers focused on
+• Customer experience
+• Stronger oversight and controls
+• Team versus individual incentives
+• Rewards team members for providing
+excellent customer service
+
+ACCOUNTABILITY
+
+actions included terminations
+of several Community Bank leaders
+for cause due to sales practices, and
+top senior leaders of the bank had
+their bonuses eliminated.
+
+RELEASED
+
+the results of an independent
+investigation into the bank’s
+sales practices.
+
+© 2017 Wells Fargo Bank, N.A. All rights reserved.
+Packet Pg. 36
+
+Attachment: Wells Fargo Attachment 1 (3447 : Wells Fargo Banking Contract Update)
+
+APPOINTED
+
+1.C.2.b
+
+Our people1
+in Denver, CO:
+§ 874 team members live here
+§ 1,617 team members work here
+Our locations1:
+§ 19 banking locations,
+including 3 in LMI* communities
+§ 3 Wells Fargo Advisors offices
+§ 38 ATMs, 8 in LMI communities
+Our community:
+
+§
+
+14 community development loans totaling $56.4 million and 80 community development investments totaling
+$19.5 million3,4
+
+§
+
+Wells Fargo team members participated in 52 community development service activities totaling 225 hours3,4
+Charitable contributions in Denver, CO2
+
+Foundation giving
+
+Total grants
+
+$ amount
+
+Arts and culture
+
+5
+
+38,500
+
+Civic
+
+19
+
+188,800
+
+Community development
+
+54
+
+431,090
+
+Education
+
+65
+
+643,750
+
+Environment
+
+9
+
+Human services
+
+79
+
+Corporate giving
+
+Count
+
+$ amount
+
+Company matching gifts
+
+172
+
+161,234
+
+65,000
+
+Team member giving
+
+Participants
+
+$ amount
+
+950,550
+
+Team member giving
+
+895
+
+554,009
+
+1PeopleSoft as of January 2018
+2Company data as of 12/31/16
+3Some community development activity cannot be tracked at the city level
+4Community development activity is subject to change as updates are received
+
+*LMI = low to moderate income
+
+Denver, CO
+
+1
+
+Packet Pg. 37
+
+Attachment: Wells Fargo Attachment 2 (3447 : Wells Fargo Banking Contract Update)
+
+Wells Fargo in your community
+
+1.C.2.b
+
+CRA snapshot
+
+Total loans
+
+$ amount
+
+Home purchases
+
+1,535
+
+826,091,000
+
+LMI borrower
+
+301
+
+66,740,000
+
+Home improvement
+
+266
+
+71,722,000
+
+Home equity
+
+4,550
+
+402,310,890
+
+Home refinance
+
+1,588
+
+557,529,000
+
+LMI borrower
+
+439
+
+78,557,000
+
+Wells Fargo continues to be among the highest
+credit rated U.S. banks
+
+Community lending:
+§ 3,389 mortgage loans extending $1.5 billion in credit6,7
+§ Of that, 1,394 were in LMI communities,
+providing $465.2 million in credit and 820
+mortgage loans were made to LMI borrowers,
+providing $156.2 million in credit
+§ 2,864 small business loans extending $127.4 million in
+credit7
+§ Of that, 1,180 were in LMI communities,
+providing $58.4 million in credit
+§ 11 small farm loans, providing $260,900 in credit7
+§ Of that, 1 were in LMI communities, providing
+$39,100 in credit
+
+Credit ratings
+Bank
+
+Moody’s
+
+S&P
+
+Fitch
+
+Wells Fargo Bank
+
+Aa1
+
+AA-
+
+AA-
+
+JP Morgan
+Chase Bank
+
+Aa2
+
+A+
+
+AA-
+
+Bank of America
+
+Aa3
+
+A+
+
+A+
+
+US Bank
+
+Aa2
+
+AA-
+
+AA
+
+Citibank
+
+A1
+
+A+
+
+A+
+
+Source: FDIC Deposit Market Share Report as of 1/2/18
+
+FDIC deposit market share in Denver, CO
+
+5Company data as of 12/31/16
+6Mortgage includes home purchase, home improvement, home refinance, and
+
+multifamily originated and purchased loans
+7Totals include low, moderate, middle, upper and unclassified income levels. All
+
+Deposit share
+
+Rank #
+
+Total deposits
+($000)
+
+27.14%
+
+#1
+
+$13,140,946
+
+Source: Bloomberg as of 10/3/2017
+
+totals in $(000)
+
+Denver, CO
+
+Attachment: Wells Fargo Attachment 2 (3447 : Wells Fargo Banking Contract Update)
+
+Home mortgage lending in your community5
+
+2
+
+Packet Pg. 38
+
+1.C.3
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+April 4, 2018
+
+Subject:
+
+Review of 2019-2024 Mid-Term Plan & 2019
+Budget Assumptions
+
+CFO/AGM,
+
+Finance
+
+Date: April 4, 2018
+&
+
+GM
+Board Meeting Date: April 10, 2018
+Information
+
+ATTACHMENTS:
+
+
+2019-2024 Mid-Term Financial Plan Presentation _ FAAC 041018
+
+(PPTX)
+
+Prepared by:
+Jannette Scarpino, Senior Manager, Budget and Financial Analysis
+Susan Cohen, Senior Manager, Finance and ECM
+Approved by:
+
+Packet Pg. 39
+
+Attachment: 2019-2024 Mid-Term Financial Plan Presentation _ FAAC 041018 (3449 : Review of 2019-2024
+
+1.C.3.a
+
+Review of 2019–2024 Mid-Term Financial
+Plan Development Process and
+2019 Budget Assumptions
+Financial Administration and Audit Committee
+April 10, 2018
+
+Packet Pg. 40
+
+Attachment: 2019-2024 Mid-Term Financial Plan Presentation _ FAAC 041018 (3449 : Review of 2019-2024
+
+1.C.3.a
+
+Agenda
+•
+
+Purpose of Mid-Term Financial Plan
+•
+•
+
+•
+•
+•
+•
+•
+•
+
+Strategic Budget Plan (SBP)
+Annual Program Evaluation (APE)
+
+Revenue
+Operating Elements
+Capital Elements
+Cost Assumptions
+Issues and Challenges
+Next Steps
+
+Packet Pg. 41
+
+Attachment: 2019-2024 Mid-Term Financial Plan Presentation _ FAAC 041018 (3449 : Review of 2019-2024
+
+1.C.3.a
+
+Purpose
+• Mid-Term Financial Plan consists of SBP (Base System)
+and APE (FasTracks)
+• Objective is to combine SBP and APE in one mid-term
+financial plan (6 years) and long-term plan (to 2045)
+• Revenue assumptions are same for both SBP and APE
+• Cost assumptions are different for SBP and APE
+• Development processes are different for SBP and APE
+
+Packet Pg. 42
+
+Purpose of Mid-Term Financial Plan
+Provides overall guidance for RTD’s Base System
+and FasTracks service delivery, debt, and capital
+expenditures
+• Six year capital and operating plan
+• Identifies anticipated revenues and expenditures
+• Must be financially constrained (balanced budget)
+
+Provides input for other planning efforts
+• DRCOG six-year Transportation Improvement Program (TIP)
+• RTD Annual Budget
+• Long-term Financial Plan
+
+Aligns with Board top strategic goals for 2019
+• Enhance Safety and Security
+• Address Service and Human Capital Balance
+• Ensure Fiscal Sustainability
+• Address Future Transportation Needs and Methods
+• Address Asset Management and State of Good Repair
+
+Incorporates approved performance measures
+Sets target for development of fund balances
+4
+
+Packet Pg. 43
+
+Attachment: 2019-2024 Mid-Term Financial Plan Presentation _ FAAC 041018 (3449 : Review of 2019-2024
+
+1.C.3.a
+
+Revenue Assumptions
+•
+
+Sales and use tax growth rate
+•
+•
+•
+•
+
+•
+
+Sales/use tax revenue increased 6.1% in 2017
+Growth is projected to increase 4.1% in 2018 and 6.6% in 2019
+Difference of +$161M from SBP/APE for 2018-2023
+January 2018 actual sales/use tax is 6.3% over January 2017
+
+Annual sales and use tax growth
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+
+Baseline
+6.1% (actual)
+4.1%
+6.6%
+3.8%
+4.5%
+5.1%
+4.4%
+4.2%
+
+CU-Leeds School March 2018 forecast
+
+•
+
+Baseline scenario assumptions
+•
+•
+•
+
+Slowdown in revenue growth reflects a Colorado economy that has returned to capacity
+Recent tax cut should lead to additional disposable personal income, greater consumption
+and taxable retail sales through 2019
+Key indicators of Colorado economy reflect volatile but improving growth rates that remain
+strong for most metrics in 2018-2019
+ü
+ü
+ü
+ü
+
+Unemployment to remain low
+Personal income to grow moderately
+Retail sales will outpace inflation
+Employment growth slows due to shifting demographics
+
+5
+
+Packet Pg. 44
+
+Attachment: 2019-2024 Mid-Term Financial Plan Presentation _ FAAC 041018 (3449 : Review of 2019-2024
+
+1.C.3.a
+
+Revenue Assumptions (cont’d)
+•
+
+•
+
+Fare revenue
+•
+•
+
+Assume generally flat fare revenue for the Base System
+FasTracks is expected to deliver on fare revenue growth in the near term
+
+•
+•
+
+Fare revenue for 2019 will be established with formulation of 2019 Budget
+Per policy, Board will consider a fare rate increase every 3 years, next scheduled
+increase is for 2019 and then 2022
+
+Ridership
+•
+•
+•
+•
+
+•
+
+Assume flat ridership for Base System
+FasTracks is expected to drive any ridership gains in the near term
+System-wide ridership did not meet budgetary goal in 2017
+Mirrors nation-wide downward trend
+
+Federal grants
+•
+•
+•
+
+•
+
+ü Largest increases to be seen in 2019, and 2022 with build-out points and assumed fare rate
+increases
+
+Based on actual 2018 appropriations
+Recognized as awarded
+Assumed to increase at rate of inflation or as identified
+
+Debt Financing
+•
+
+No new debt issued to finance fleet acquisition or construction
+
+6
+
+Packet Pg. 45
+
+Attachment: 2019-2024 Mid-Term Financial Plan Presentation _ FAAC 041018 (3449 : Review of 2019-2024
+
+1.C.3.a
+
+Sales/Use Tax Forecast (2018 - 2024)
+Source: CU-Leeds School – Baseline Forecast Mar-18
+$900
+$800
+$700
+
+Millions of Dollars
+
+$600
+$500
+$400
+$300
+$200
+$100
+$0
+2012
+
+2013
+
+2014
+
+Base (0.6%) - Actual
+
+2015
+
+2016
+
+2017
+
+Base (0.6%) - Forecast
+
+2018
+
+2019
+
+2020
+
+FasTracks (0.4%) - Actual
+
+2021
+
+2022
+
+2023
+
+2024
+
+FasTracks (0.4%) - Forecast
+
+7
+
+Packet Pg. 46
+
+Attachment: 2019-2024 Mid-Term Financial Plan Presentation _ FAAC 041018 (3449 : Review of 2019-2024
+
+1.C.3.a
+
+2019 – 2024 Mid-Term Financial Plan
+Operating Elements
+Bus Service
+
+• Fixed route bus service levels
+•
+•
+
+Service hours in 2019 being developed, expected to be stable to 2018 Budget of
+approximately 3.1 million hours (RTD + private carrier)
+Future bus service improvements dependent on service efficiencies and financial
+capability
+
+• ADA service to meet demand – per federal regulations
+•
+
+2018 Budget of approximately 126,000 hours
+
+Rail Service
+
+• Service hours in 2019 being developed
+•
+•
+
+Expected to be stable to 2018 Budget of 353,000 hours
+•
+FasTracks to see growth in rail service hours from G Line, SERE, and N Line
+Future train service capacity improvements dependent on ridership and financial
+capability
+
+Operating and Passenger Facilities
+
+• Projects to maintain facilities in State of Good Repair
+
+8
+
+Packet Pg. 47
+
+Attachment: 2019-2024 Mid-Term Financial Plan Presentation _ FAAC 041018 (3449 : Review of 2019-2024
+
+1.C.3.a
+
+2019 – 2024 Mid-Term Financial Plan
+Operating Elements (cont’d)
+Operating and Maintenance of
+Completed FasTracks Projects
+• West
+• Denver Union Station
+• Free MetroRide
+• Flatiron Flyer
+• Eagle
+• R-Line and H-Line Extension
+• E, F, and R Line Extensions (SERE)
+• North Metro
+• Assumes RTD internal operation
+
+9
+
+Packet Pg. 48
+
+Attachment: 2019-2024 Mid-Term Financial Plan Presentation _ FAAC 041018 (3449 : Review of 2019-2024
+
+1.C.3.a
+
+2019 – 2024 Mid-Term Financial Plan
+Capital Elements
+Capital projects have a cost greater than
+$5,000 and useful life greater than one year
+Fleet Plan
+• Bus replacements to meet service needs
+
+•
+
+Replacements with clean diesel or other clean fuel buses when cost-effective
+Base system fleet plan to include replacement of 40-ft. transit buses, 30-ft.
+transit buses, and call-n-ride buses; and expansion and replacement of ADA cutaway buses
+Additional Flatiron Flyer vehicles funded by FasTracks
+
+•
+
+Minimum maintenance requirements and spare ratio
+
+•
+•
+
+• Rail fleet expansion to meet service needs
+
+10
+
+Packet Pg. 49
+
+Attachment: 2019-2024 Mid-Term Financial Plan Presentation _ FAAC 041018 (3449 : Review of 2019-2024
+
+1.C.3.a
+
+2019 – 2024 Mid-Term Financial Plan
+Capital Elements (cont’d)
+Operating and Passenger Facilities and
+Equipment
+
+• Projects to replace and improve assets and facilities
+• Maintain SOGR
+• SOGR allowance for completed FasTracks projects
+
+Completion of ongoing FasTracks projects
+• Closeout of US 36 and Eagle projects
+• Revenue service on Southeast Rail Extension
+• Completion of North Metro
+
+• Includes elements needed to support RTD operation of the
+corridor
+
+11
+
+Packet Pg. 50
+
+Attachment: 2019-2024 Mid-Term Financial Plan Presentation _ FAAC 041018 (3449 : Review of 2019-2024
+
+1.C.3.a
+
+2019 – 2024 Mid-Term Financial Plan
+Cost Assumptions
+•
+
+Operating and maintenance costs
+•
+•
+
+•
+
+Diesel fuel costs
+•
+•
+•
+•
+•
+
+•
+
+Budgeted at $1.80 per gallon in 2018
+Current futures estimate is $2.19 for 2019
+Volatile pricing
+Conservative cost assumptions and escalated at national inflation rate
+Provide monthly updates
+
+Debt service
+•
+
+•
+
+Based on 2018 proposed Amended Budget
+Costs escalated at rate of inflation
+
+Interest payments on existing debt
+
+Inflation rates
+•
+•
+•
+
+Based on Moody’s forecasts
+Denver-Boulder inflation rate: 3.1% in 2019
+National inflation rate: 3.0% in 2019
+
+12
+
+Packet Pg. 51
+
+Attachment: 2019-2024 Mid-Term Financial Plan Presentation _ FAAC 041018 (3449 : Review of 2019-2024
+
+1.C.3.a
+
+2019 – 2024 Mid-Term Financial Plan
+Reserve Assumptions
+•
+
+Planned moderate increases to fund balances for Base System and
+FasTracks
+•
+•
+•
+•
+
+•
+
+Sufficient reserves to withstand economic fluctuations
+•
+
+•
+
+Goal is 3 months of operating expenses in reserve balances
+
+FasTracks Internal Savings Account (FISA)
+•
+•
+
+•
+
+Board-Appropriated Fund
+Capital Replacement Fund
+Unrestricted Operating Reserve
+Unrestricted Year-End Fund Balance (remaining)
+
+Continued growth through savings from rubber-tire service increases
+Drawdowns to fund FasTracks corridor operations and maintenance
+
+FasTracks Management Reserve of $15.9M in place through 2024
+
+13
+
+Packet Pg. 52
+
+Attachment: 2019-2024 Mid-Term Financial Plan Presentation _ FAAC 041018 (3449 : Review of 2019-2024
+
+1.C.3.a
+
+Issues and Challenges
+Board Priorities for 2019
+• Enhance Safety and Security
+• Address Service and Human Capital Balance
+• Ensure Fiscal Sustainability
+• Address Future Transportation Needs and Methods
+• Address Asset Management and State of Good Repair
+
+Continue refunding of reserve balances
+• Board-appropriated fund, capital replacement fund, operating reserve
+
+Maintain adequate unrestricted fund balance
+• Targeted balance on combined basis
+
+Deferred projects and SOGR
+Fuel prices/fuel volatility
+Increased O&M costs
+Competing projects/prioritization
+Funding constraints
+14
+
+Packet Pg. 53
+
+Attachment: 2019-2024 Mid-Term Financial Plan Presentation _ FAAC 041018 (3449 : Review of 2019-2024
+
+1.C.3.a
+
+Next Steps
+Further review fuel options
+Review and prioritize SBP departmental requests for capital and expense projects
+• 2019 strategic goals
+• SOGR
+
+Review and update costs to complete ongoing FasTracks projects
+Develop funding strategies and forecasts
+Calibrate ridership/fare revenue estimates using actuals
+Key dates (tentative):
+• May 15 – First draft Mid-Term Financial Plan at FAAC
+• June 26 – Adoption of 2018 Amended Budget
+• July 10 – Second draft Mid-Term Financial Plan at FAAC
+• August 14 – Third draft Mid-Term Financial Plan at FAAC
+• September 11 – Presentation of final Mid-Term Financial Plan and 2019 Requested Budget at
+FAAC
+• September 18 – Adoption of Mid-Term and Long-Range Financial Plans
+• October 9 – Update to 2019 Requested Budget
+• November 27 – Adoption of 2019 Budget
+
+15
+
+Packet Pg. 54
+
+Attachment: 2019-2024 Mid-Term Financial Plan Presentation _ FAAC 041018 (3449 : Review of 2019-2024
+
+1.C.3.a
+
+1.C.4
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+April 4, 2018
+
+Subject:
+
+SmartCard Project Update
+
+CFO/AGM,
+
+Finance
+
+Date: April 4, 2018
+&
+
+GM
+Board Meeting Date: April 10, 2018
+
+DISCUSSION
+
+Smart Media Technology
+The Smart Card Program is an Electronic Fare Collection and Payment System designed to increase fare
+payment convenience for our customers, reduce and optimize fare collection costs for the agency and
+reduce fraud associated with paper based fare media. The contract was signed with Xerox Transport
+Solutions, Inc. (now Conduent) in mid-2010. A smart card is a plastic card onto which customers load
+and reload RTD fare products. There are currently 4 products; EcoPass, CollegePass, Neighborhood
+EcoPass and MyRide Stored Value available on the smart card.
+All bus and rail validator installations are complete. Additional validators will be installed as new buses
+and rail stations are commissioned into service.
+The Smart Card Program launched to EcoPass, CollegePass and Neighborhood EcoPass customers on
+January 1, 2013. There are approximately 327,000 active cards in circulation. During the month of
+March 2018, 1.6M taps were recorded.
+Starting the morning of January 4, 2016, MyRide Stored Value cards were dispersed to the public pilot
+program participants at the RTD retail outlets. On Wednesday May 17, 2017, the MyRide web portal
+went live to the pilot participants and on May 24, 2017, the MyRide web portal was launched to the
+public. As of March 2018, about 22,000 cards were issued, of which 16,100 (73%) were full fare
+cards and 5,900 (27%) were discounted cards. The average stored value loaded (initial purchases and
+reloads) was $40.32, with a total value loaded of approximately $2,720,000. There were more than
+800,000 trips taken using these MyRide cards, with a fare payment value of $2,130,000. Of these
+trips: 77% were local, 20% regional and 3% airport.
+Additional value can be loaded onto the card online, at RTD sales outlets and at retail outlets (Safeway
+and King Soopers). As of June 1, 2017, customers can load cash value onto MyRide cards at 47
+Safeway retail stores. Since launch, Safeway has processed $8,200 in cash value loads. As of July 1,
+2017, customers can load cash value onto MyRide cards at 86 King Soopers retail stores. Since launch,
+King Soopers has processed $29,900 in cash value reloads.
+On February 23, 2018, the MyRide program was expanded by offering customers the option to pick up a
+new MyRide card and load cash value at Safeway locations. Since go-live, Safeway has loaded 38 new
+MyRide cards, totaling $1,175 in sales. There are active discussions to expand the program at King
+Soopers locations.
+Program Monitoring and Decision Points (Next 3 months)
+
+
+April 6th
+
+Weekly Program Monitoring Report to AGMs
+
+Packet Pg. 55
+
+1.C.4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+April 13th
+April 20th
+April 27th
+May 4th
+May 11th
+May 18th
+May 25th
+June 1st
+June 8th
+June 15th
+June 22nd
+June 29th
+July 6th
+
+Element
+
+Weekly Program Monitoring Report to AGMs
+Weekly Program Monitoring Report to AGMs
+Weekly Program Monitoring Report to AGMs
+Weekly Program Monitoring Report to AGMs
+Weekly Program Monitoring Report to AGMs
+Weekly Program Monitoring Report to AGMs
+Weekly Program Monitoring Report to AGMs
+Weekly Program Monitoring Report to AGMs
+Weekly Program Monitoring Report to AGMs
+Weekly Program Monitoring Report to AGMs
+Weekly Program Monitoring Report to AGMs
+Weekly Program Monitoring Report to AGMs
+Weekly Program Monitoring Report to AGMs
+
+Status
+
+Prior Period Activities
+
+Next Period
+Activities
+
+Program Components
+
+MyRide Public
+Web Portal –
+Deferred
+Functionality
+
+
+Yellow
+(no change)
+
+RTD staff completed requirement
+elicitation exercise for auto
+recharge functionality.
+
+Deferred functionality
+targeted for release after
+the Ride Sponsor-Admin
+Portal and Back Office
+Portal Upgrade.
+
+Web Portal development efforts
+reprioritized to focus on MyRide
+PCI based on risk.
+
+Target release date in
+discussions with
+Conduent.
+
+Packet Pg. 56
+
+1.C.4
+
+Element
+
+Status
+
+Prior Period Activities
+
+Next Period
+Activities
+
+Program Components
+External (Vendors)
+NewPush - Remediated items from
+their PCI security audit and
+provided Attestation of
+Compliance.
+
+
+PCI Compliance
+
+Yellow
+(change from
+Red)
+
+Conduent - Completing remaining
+items for PCI compliance with the
+next MyRide web portal software
+release.
+Braintree – Provided Attestation of
+Compliance.
+
+MyRide Web Portal
+contract amendment has
+been executed. Design
+and development effort
+is underway. Software
+release targeted for late
+Q3 2018.
+
+Internal (RTD)
+RTD continues to work to
+remediate internal PCI compliance
+for non-application issues.
+
+Ride SponsorAdmin Portal and
+Back Office Portal
+Upgrade
+
+
+Yellow
+(no change)
+
+To address cybersecurity issues
+and to extend the life of the
+system, the middleware and
+framework software must be
+upgraded for this portal
+functionality.
+High-level requirements gathering
+exercise is complete.
+
+The design effort for this
+software upgrade began
+as scheduled in Q1
+2018.
+
+Packet Pg. 57
+
+1.C.4
+
+Element
+
+Status
+
+Prior Period Activities
+
+Next Period
+Activities
+
+Program Components
+Reliability, Maintainability and
+Accuracy Test (RMAT)
+Phase I: Hardware.
+Timeline: Oct 5th to Dec 7th
+2016
+RMAT Phase I testing
+passed on March 28, 2017,
+with one exception;
+
+Program
+Completion
+
+
+Yellow
+(no change)
+
+PV Screen issue will be
+remediated through the
+Notice to Cure. Platform
+validator screen testing
+concluded in Oct 2017.
+Phase II: MyRide Web Portal.
+Timeline: Estimated Q2 2018
+
+Conduent is reviewing
+the results and
+investigating alternative
+solutions for the platform
+validator screens. Final
+report delivery targeted
+for Q2 2018.
+Planning for the RMAT
+Phase II MyRide web
+portal test began in
+March 2018.
+
+Phase III: Admin/Ride Sponsor
+Web Portal.
+Timeline: TBD
+Final System Acceptance - TBD
+
+Status Indicator Legend
+
+(Green) No current or anticipated issues impacting scope, budget or schedule
+(Yellow) Current or anticipated issue with minor variance in scope, possible increase in budget or
+possible delay
+
+(Red) Project is at risk in one or more areas (cost, schedule, resources) and progress is delayed.
+Action must be taken to remediate the problem.
+
+Packet Pg. 58
+
+1.C.4
+
+Mobile Ticketing
+The mobile ticketing app was launched to the public on November 1, 2017, and was very well received.
+A major enhancement to the mobile ticketing app, the ability to purchase fare products and store them in
+the ticket wallet for future use, was released in March 2018.
+
+Prepared by:
+Heather McKillop, CFO/AGM, Finance & Administration
+Tonya Anderson, SMT Project Administrator
+Approved by:
+
+Packet Pg. 59
+
+1.C.4
+
+Packet Pg. 60
+
+1.C.5
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+April 4, 2018
+
+Subject:
+
+February 2018 Monthly Financial Status Report
+
+CFO/AGM,
+
+Finance
+
+Date: April 4, 2018
+&
+
+GM
+Board Meeting Date: April 10, 2018
+Information
+
+ATTACHMENTS:
+
+
+022818 MFS (PDF)
+
+Prepared by:
+Heather McKillop, CFO/AGM, Finance & Administration
+Doug MacLeod, Controller
+Approved by:
+
+Packet Pg. 61
+
+1.C.5.a
+
+MONTHLY FINANCIAL STATUS
+FEBRUARY 2018
+To: Dave Genova, General Manager and CEO
+From: Heather McKillop, CFO and AGM Administration
+Date: April 3, 2018
+
+ACTION
+
+DISCUSSION
+
+INFO
+
+FEBRUARY 2018
+ACTUAL VS.
+BUDGET
+
+YTD 2018
+ACTUAL VS.
+BUDGET
+
+FEBRUARY
+2018 VS. 2017
+
+YEAR TO DATE
+2018 VS. 2017
+
+S&U TAX
+
+S&U TAX
+
+S&U TAX
+
+S&U TAX
+
+-1.8%
+
+3.5%
+
+4.9%
+
+RIDERSHIP
+
+RIDERSHIP
+
+RIDERSHIP
+
+-4.8%
+
+-2.7%
+
+-0.3%
+
+FARE
+REVENUE
+
+FARE
+REVENUE
+
+FARE
+REVENUE
+
+-2.9%
+
+-1.7%
+
+1.7%
+
+-3.1%
+RIDERSHIP
+
+-7.1%
+FARE
+REVENUE
+
+-6.1%
+
+Attachment: 022818 MFS (3452 : February 2018 Monthly Financial Status Report)
+
+x
+
+SALES AND USE TAX
+FEBRUARY 2018
+(In Thousands)
+
+MONTH
+YTD
+
+2018
+ACTUAL
+
+2018
+BUDGET
+
+VARIANCE
+
+VARIANCE %
+
+2017
+ACTUAL
+
+VARIANCE
+TO 2017
+
+VARIANCE
+%
+
+43,872
+88,957
+
+45,290
+90,613
+
+(1,418)
+(1,656)
+
+-3.1%
+-1.8%
+
+42,386
+84,804
+
+1,486
+4,153
+
+3.5%
+4.9%
+
+S&U TAX - YTD
+ACTUAL VS. BUDGET
+
+S&U TAX - FEBRUARY 2018
+ACTUAL VS. BUDGET
+46,000
+
+92,000
+
+45,000
+
+90,000
+
+44,000
+
+88,000
+
+43,000
+
+86,000
+
+42,000
+
+84,000
+
+41,000
+
+82,000
+
+40,000
+2018 ACTUAL
+2018 BUDGET
+2017 ACTUAL
+
+FEBRUARY 2018
+43,872
+45,290
+42,386
+
+80,000
+2018 ACTUAL
+2018 BUDGET
+2017 ACTUAL
+
+JANUARY- FEBRUARY 2018
+88,957
+90,613
+84,804
+
+SALES AND USE TAX TRENDS
+$65.0
+
+(Millions)
+
+$60.0
+
+2018 Budget
+
+$55.0
+
+$50.0
+
+2018 Actual
+
+2017 Actual
+
+$45.0
+$40.0
+$35.0
+
+Note: The 2018 CU Leeds forecast is +4.7% but Q1 is forecasted to increase 6.9% over Q1 2017
+
+Packet Pg. 62
+
+1.C.5.a
+
+RIDERSHIP
+FEBRUARY 2018
+
+MONTH
+YEAR TO DATE
+
+2018
+VARIANCE VARIANCE %
+BUDGET
+
+7,665
+15,738
+
+8,249
+16,530
+
+(584)
+(793)
+
+2017
+ACTUAL
+
+VARIANCE %
+to 2017
+
+7,880
+15,791
+
+-2.7%
+-0.3%
+
+-7.1%
+-4.8%
+
+RIDERSHIP - YTD
+ACTUAL VS. BUDGET
+
+RIDERSHIP - FEB 2018
+ACTUAL VS. BUDGET
+8,400
+
+16,600
+
+8,200
+
+16,400
+
+8,000
+
+16,200
+
+7,800
+
+16,000
+
+7,600
+
+15,800
+
+7,400
+
+15,600
+
+7,200
+
+15,400
+
+7,000
+
+15,200
+
+FEBRUARY 2018
+7,665
+8,249
+7,880
+
+2018 ACTUAL
+2018 BUDGET
+2017 ACTUAL
+
+JANUARY-FEBRUARY 2018
+15,738
+16,530
+15,791
+
+2018 ACTUAL
+2018 BUDGET
+2017 ACTUAL
+
+RIDERSHIP BY TYPE - FEBRUARY 2018
+5,000
+4,500
+4,000
+3,500
+3,000
+2,500
+2,000
+1,500
+1,000
+500
+-
+
+Bus
+4,179
+4,631
+
+FEBRUARY 2018 ACTUAL
+FEBRUARY 2017 ACTUAL
+
+Mall & Metro Ride
+809
+882
+
+Light Rail
+2,066
+1,821
+
+Commuter Rail
+525
+463
+
+Other
+85
+83
+
+Commuter Rail
+1,109
+937
+
+Other
+177
+171
+
+RIDERSHIP BY TYPE - YTD
+10,000
+9,000
+8,000
+7,000
+6,000
+5,000
+4,000
+3,000
+2,000
+1,000
+-
+
+*
+*
+
+2018 ACTUAL YTD
+2017 ACTUAL YTD
+
+Bus
+8,648
+9,295
+
+Mall & Metro Ride
+1,686
+1,802
+
+Light Rail
+4,117
+3,586
+
+RIDERSHIP TRENDS
+10.0
+
+(Millions)
+
+2018 Budget
+9.0
+
+2018 Actual
+8.0
+
+2017 Actual
+7.0
+
+Note: R Line Service began 4/24/2017
+
+Packet Pg. 63
+
+Attachment: 022818 MFS (3452 : February 2018 Monthly Financial Status Report)
+
+2018
+ACTUAL
+
+(In Thousands)
+
+1.C.5.a
+
+FARE REVENUE
+FEBRUARY 2018
+(In Thousands)
+
+2018
+ACTUAL
+
+2018
+BUDGET
+
+VARIANCE
+
+10,675
+22,457
+
+11,367
+23,120
+
+(692)
+(664)
+
+MONTH
+YEAR TO DATE
+
+VARIANCE %
+-6.1%
+-2.9%
+
+FARE REVENUE - FEB 2018
+ACTUAL VS. BUDGET
+
+2017
+ACTUAL
+
+VARIANCE %
+to 2017
+
+10,858
+22,086
+
+-1.7%
+1.7%
+
+FARE REVENUE - YTD
+ACTUAL VS. BUDGET
+
+11,600
+
+23,500
+
+11,400
+
+23,000
+
+11,200
+
+22,000
+
+10,800
+21,500
+10,600
+21,000
+
+10,400
+
+20,500
+
+10,200
+10,000
+
+20,000
+
+FEBRUARY 2018
+10,675
+11,367
+10,858
+
+2018 ACTUAL
+2018 BUDGET
+2017 ACTUAL
+
+JANUARY-FEBRUARY 2018
+22,457
+23,120
+22,086
+
+2018 ACTUAL
+2018 BUDGET
+2017 ACTUAL
+
+FARE REVENUE - FEBRUARY 2018
+7,000
+6,000
+5,000
+4,000
+3,000
+2,000
+1,000
+FARE BOX
+
+10 RIDE
+
+1,623
+1,903
+
+944
+1,192
+
+FEBRUARY 2018 ACTUAL
+FEBRUARY 2017 ACTUAL
+
+PASSES
+(ECO/COLLEGE/MONTH
+LY)
+5,964
+6,089
+
+TVMs
+
+MY RIDE/MOBILE TIX
+
+SPECIAL SVCS
+
+1,578
+1,646
+
+560
+22
+
+5
+6
+
+TVMs
+
+MY RIDE/MOBILE TIX
+
+SPECIAL SVCS
+
+3,697
+3,628
+
+1,126
+43
+
+14
+45
+
+FARE REVENUE - YTD
+14,000
+12,000
+10,000
+8,000
+6,000
+4,000
+2,000
+-
+
+2018 ACTUAL YTD
+2017 ACTUAL YTD
+
+FARE BOX
+
+10 RIDE
+
+3,459
+3,890
+
+2,168
+2,348
+
+PASSES
+(ECO/COLLEGE/MONTHL
+Y)
+11,993
+12,132
+
+FARE REVENUE TRENDS
+$15.0
+
+(Millions)
+
+$14.0
+
+2018 Budget
+$13.0
+
+2018 Actual
+$12.0
+$11.0
+
+2017 Actual
+$10.0
+
+$9.0
+
+Packet Pg. 64
+
+Attachment: 022818 MFS (3452 : February 2018 Monthly Financial Status Report)
+
+22,500
+
+11,000
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF NET POSITION - COMBINED
+FEBRUARY 28, 2018
+(UNAUDITED)
+(In Thousands)
+
+2017
+Base System
+
+2017
+FasTracks Project
+
+2017
+FasTracks Ops
+
+2017
+Combined
+
+December 31, 2017
+Combined
+
+Change
+
+ASSETS
+CURRENT ASSETS:
+Cash & Cash Equivalents
+Receivables:
+Sales Taxes
+Grants
+Other (less allowance for doubtful accts)
+Total Net Receivables
+
+$
+
+141,939
+
+$
+
+224,885
+
+$
+
+36,354
+
+$
+
+403,178
+
+$
+
+392,324
+
+$
+
+10,854
+
+53,374
+986
+17,596
+71,956
+
+35,583
+9,495
+45,078
+
+-
+
+88,957
+986
+27,091
+117,034
+
+106,224
+42,449
+18,223
+166,896
+
+(17,267)
+(41,463)
+8,868
+(49,862)
+
+32,708
+47,664
+5,150
+299,417
+
+257,380
+7,355
+534,698
+
+151
+36,505
+
+32,708
+305,044
+12,656
+870,620
+
+33,193
+278,819
+12,672
+883,904
+
+(485)
+26,225
+(16)
+(13,284)
+
+Capital Assets:
+Land
+Land Improvements
+Buildings
+Revenue Earning Equipment
+Shop, Maintenance & Other Equipment
+Construction in Progress
+Total Capital Assets
+Accumulated Depreciation
+Net Capital Assets
+
+171,953
+1,310,147
+263,860
+670,329
+186,920
+181,703
+2,784,912
+(1,337,417)
+1,447,495
+
+429,656
+2,647,382
+340,782
+614,112
+3,894
+1,805,703
+5,841,529
+(478,981)
+5,362,548
+
+-
+
+601,609
+3,957,529
+604,642
+1,284,441
+190,814
+1,987,406
+8,626,441
+(1,816,398)
+6,810,043
+
+742,384
+3,979,316
+604,642
+1,216,116
+289,391
+1,749,244
+8,581,093
+(1,777,056)
+6,804,037
+
+(140,775)
+(21,787)
+68,325
+(98,577)
+238,162
+45,348
+(39,342)
+6,006
+
+TABOR Reserves
+Restricted Debt Service/Debt Service Reserves
+Deposits
+TOTAL NONCURRENT ASSETS
+
+14,104
+27,127
+1,501
+1,490,227
+
+7,270
+60,198
+5,430,016
+
+-
+
+21,374
+87,325
+1,501
+6,920,243
+
+21,320
+87,098
+1,502
+6,913,957
+
+54
+227
+(1)
+6,286
+
+Inventory
+Restricted Debt Service/Project Funds
+Other Assets
+TOTAL CURRENT ASSETS
+
+(1)
+
+(2)
+
+NONCURRENT ASSETS:
+
+TOTAL ASSETS
+
+$
+
+1,789,644
+
+$
+
+5,964,714
+
+$
+
+36,505
+
+$
+
+7,790,863
+
+$
+
+7,797,861
+
+$
+
+(6,998)
+
+DEFERRED OUTFLOW OF RESOURCES
+
+$
+
+64,550
+
+$
+
+29,793
+
+$
+
+-
+
+$
+
+94,343
+
+$
+
+95,038
+
+$
+
+(695)
+
+(1) Decrease due to grant collections as well as the reversal of year-end accruals
+(2) Change primarily due to funds set aside for debt service
+
+Packet Pg. 65
+
+Attachment: 022818 MFS (3452 : February 2018 Monthly Financial Status Report)
+
+1.C.5.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF NET POSITION - COMBINED
+FEBRUARY 28, 2018
+(UNAUDITED)
+(In Thousands)
+
+2017
+Base System
+
+2017
+FasTracks Project
+
+2017
+FasTracks Ops
+
+2017
+Combined
+
+December 31, 2017
+Combined
+
+Change
+
+LIABILITIES
+CURRENT LIABILITIES:
+Accounts & Contracts Payable
+Current Portion of Long Term Debt
+Accrued Compensation
+Accrued Interest Payable
+Other
+TOTAL CURRENT LIABILITIES
+
+$
+
+NONCURRENT LIABILITIES:
+Long Term Debt
+Other Long-Term Liabilities
+Net Pension Liability
+TOTAL NONCURRENT LIABILITIES
+
+51,895
+58,950
+24,307
+5,941
+52,909
+194,002
+
+$
+
+547,584
+72
+384,411
+932,067
+
+30,537
+5,750
+36,507
+1,365
+74,159
+
+$
+
+2,908,255
+407,299
+3,315,554
+
+6,779
+34
+6,813
+
+$
+
+-
+
+89,211
+64,700
+24,307
+42,448
+54,308
+274,974
+
+$
+
+3,455,839
+407,371
+384,411
+4,247,621
+
+108,584
+64,700
+22,787
+18,957
+40,017
+255,045
+
+$
+
+3,438,682
+412,871
+384,411
+4,235,964
+
+(19,373)
+1,520
+23,491
+14,291
+19,929
+
+(3)
+
+17,157
+(5,500)
+11,657
+
+(5)
+
+TOTAL LIABILITIES
+
+$
+
+1,126,069
+
+$
+
+3,389,713
+
+$
+
+6,813
+
+$
+
+4,522,595
+
+$
+
+4,491,009
+
+$
+
+31,586
+
+DEFERRED INFLOW OF RESOURCES
+
+$
+
+18,963
+
+$
+
+328
+
+$
+
+-
+
+$
+
+19,291
+
+$
+
+19,302
+
+$
+
+(11)
+
+$
+
+$
+
+$
+
+3,548,068
+150,123
+22,530
+(195,032)
+43,556
+1,655
+10,400
+119,274
+(317,986)
+3,382,588
+
+$
+
+$
+
+3,525,189
+197,669
+23,969
+(298,213)
+71,520
+1,655
+33,328
+12,928
+30,590
+76,058
+(331,373)
+3,343,320
+
+$
+
+$
+
+3,229
+8,821
+8,821
+8,821
+29,692
+
+$
+
+$
+
+2,636,085
+159,501
+5,707
+(298,213)
+71,520
+1,655
+4,107
+4,107
+15,890
+4,107
+2,604,466
+
+$
+
+$
+
+889,104
+38,168
+15,033
+20,400
+14,700
+63,130
+(331,373)
+709,162
+
+$
+
+(22,879)
+47,546
+1,439
+(103,181)
+27,964
+22,928
+12,928
+30,590
+(43,216)
+(13,387)
+(39,268)
+
+$
+
+1,854,194
+
+$
+
+5,994,510
+
+$
+
+36,505
+
+$
+
+7,885,206
+
+$
+
+7,892,899
+
+$
+
+(7,693)
+
+(4)
+
+NET POSITION
+Net Investment in Capital Assets
+Restricted - Debt Service, Projects and Deferrals
+Restricted - TABOR Reserves
+Restricted - FasTracks
+FasTracks Internal Savings Account (FISA)
+Assets Held for Sale
+Board Appropriated Fund
+Capital Replacement Fund
+Unrestricted Operating Reserve/Mgt Reserve
+Unrestricted Fund
+Net Pension Liability - Represented
+TOTAL NET POSITION
+TOTAL LIABILITIES & NET POSITION
+
+-
+
+-
+
+-
+
+-
+
+(6)
+
+(7)
+(7)
+(7)
+(7)
+
+-
+
+(3) Decrease due primarily to payment of year end invoice accruals
+(4) Increase is primarily due to the collection of Eco and College pass funds that will be recognized as revenue during the year as it is earned
+(5) Increase is due to the capitalization of interest costs
+(6) Change is due to additional liabilities as earned value is recognized on the P3
+(7) Change is due to unrestricted funds being redirected to replenish the Board Appropriated and Capital Replacement funds per the 2018 Budget
+
+Packet Pg. 66
+
+Attachment: 022818 MFS (3452 : February 2018 Monthly Financial Status Report)
+
+1.C.5.a
+
+1.C.5.a
+
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION - COMBINED
+FEBRUARY 28, 2018
+(UNAUDITED)
+
+OPERATING REVENUE:
+Passenger Fares
+Advertising, Rent and Other
+Total Operating Revenue
+
+YTD
+Base
+System
+Actual
+
+YTD
+Base
+System
+Budget
+
+YTD
+FasTracks
+Project
+Actual
+
+YTD
+FasTracks
+Project
+Budget
+
+YTD
+FasTracks
+Operations
+Actual
+
+YTD
+FasTracks
+Operations
+Budget
+
+YTD
+System
+Wide
+Actual
+
+YTD
+System
+Wide
+Budget
+
+$
+Favorable
+(Unfavorable)
+
+%
+Favorable
+(Unfavorable)
+
+-----------------
+
+-----------------
+
+-----------------
+
+-------------
+
+-----------------
+
+-------------
+
+-----------------
+
+-----------------
+
+-----------------
+
+-------------
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+- -
+
+22,457
+1,177
+23,634
+
+23,120
+847
+23,967
+
+(663)
+331
+(333)
+
+-2.9%
+39.0%
+0.0%
+-1.4%
+
+20,235
+1,019
+21,254
+
+23,120
+847
+23,967
+
+-
+
+- -
+
+2,222
+158
+2,380
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Asset Management
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+FasTracks Service Increase
+Depreciation and Other Non-Departmental
+Total Operating Expenses
+
+44,764
+7,966
+349
+2,213
+2,849
+2,213
+5,734
+1,758
+1,412
+109
+(16,824)
+34,075
+86,618
+
+48,785
+11,243
+4,820
+2,974
+4,077
+2,974
+8,447
+2,091
+1,056
+185
+(16,824)
+39,225
+109,053
+
+(27)
+881
+39
+66
+3
+16,824
+8,101
+25,887
+
+(113)
+4,652
+32
+64
+16,824
+7,771
+29,230
+
+6,815
+590
+29
+50
+7,484
+
+9,910
+1,148
+95
+-80
+11,233
+
+44,764
+14,781
+322
+3,094
+3,439
+2,252
+5,800
+1,790
+1,412
+109
+42,226
+119,989
+
+48,785
+21,153
+4,707
+7,626
+5,225
+3,006
+8,511
+2,186
+1,056
+185
+47,076
+149,516
+
+4,021
+6,372
+4,385
+4,532
+1,786
+754
+2,711
+396
+(356)
+76
+4,850
+29,527
+
+8.2%
+30.1%
+93.2%
+59.4%
+34.2%
+25.1%
+31.9%
+18.1%
+-33.7%
+41.1%
+0.0%
+10.3%
+0.0%
+19.7%
+
+OPERATING INCOME/(LOSS)
+
+(65,364)
+
+(85,087)
+
+(25,887)
+
+(29,230)
+
+(5,104)
+
+(11,233)
+
+(96,355)
+
+(125,550)
+
+29,195
+
+23.3%
+
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+Net Nonoperating Revenue (Expense)
+
+53,374
+(770)
+843
+145
+(3,523)
+50,069
+
+54,368
+15,426
+306
+543
+(3,631)
+67,012
+
+28,855
+(205)
+1,116
+1,370
+(12,813)
+18,323
+
+23,830
+745
+907
+1,470
+(21,911)
+5,041
+
+7,152
+7,152
+
+12,415
+12,415
+
+89,381
+(975)
+1,959
+1,515
+(16,336)
+75,544
+
+90,613
+16,171
+1,213
+2,013
+(25,542)
+84,468
+
+(1,232)
+(17,146)
+746
+(498)
+9,206
+(8,924)
+
+-1.4%
+-106.0%
+61.5%
+-24.7%
+0.0%
+36.0%
+0.0%
+-10.6%
+
+INCOME BEFORE CAPITAL GRANTS
+
+(15,295)
+
+(18,075)
+
+(7,564)
+
+(24,189)
+
+2,048
+
+1,182
+
+(20,811)
+
+(41,082)
+
+20,271
+
+-49.3%
+
+Capital Grants and Local Contributions
+
+(1,945)
+
+9,068
+
+(6,280)
+
+65,187
+
+-
+
+-
+
+(8,225)
+
+74,255
+
+(82,480)
+
+-111.1%
+
+(62,210)
+
+-187.5%
+
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+
+NONOPERATING REVENUE (EXPENSES)
+
+INCREASE/(DECREASE) IN NET POSITION
+
+$
+
+(17,240)
+
+$
+
+(9,007)
+
+$
+
+(13,844)
+
+$
+
+40,998
+
+$
+
+2,048
+
+$
+
+1,182
+
+$
+
+(29,036)
+
+$
+
+33,174
+
+$
+
+(1) Variance is due to timing of invoices for contracted services as well as parts and supplies orders lagging expectations
+(2) Variance is due to the timing of rail line openings and parts and wages being lower than expected
+(3) Variance is due to the timing of payment for management services
+(4) Variance primarily due to the reversal of a December bill of sale for US36 assets on FasTracks and timing of multiple projects on Base System
+(5) Variance is primarily due to the timing of payment for outside security services and contracted maintenance in which accruals are recorded at year-end
+(6) Variance is primarily due to higher-than-expected self-insured claims for liability and worker's compensation
+(7) Variance is primarily due to the timing of purchase of data processing services in which encumbrances have been incurred
+(8) Variance is primarily due to the timing of production of outside promotional and informational materials and costs related to rail openings
+(9) Variance due year-end accrued expenses that did not materialize
+
+Packet Pg. 67
+
+Attachment: 022818 MFS (3452 : February 2018 Monthly Financial Status Report)
+
+(In Thousands)
+
+1.C.5.a
+
+REGIONAL TRANSPORTATION DISTRICT
+1% SALES AND USE TAX REVENUE - SYSTEM WIDE
+FEBRUARY 28, 2018
+(In Thousands)
+
+Actual
+Budget
+Favorable/(Unfavorable)
+
+February
+2018
+$ 43,872
+45,290
+
+$
+
+(238)
+
+$ (1,418)
+
+% Favorable/(Unfavorable) - Month
+
+-0.5%
+
+-3.1%
+
+% Favorable/(Unfavorable) - YTD
+
+-0.5%
+
+-1.8%
+
+March
+2018
+$
+
+51,708
+
+April
+2018
+$
+
+48,813
+
+May
+2018
+$
+
+52,747
+
+June
+2018
+$
+
+55,896
+
+July
+2018
+$
+
+51,690
+
+August
+2018
+$
+54,972
+
+September
+2018
+$
+54,067
+
+October
+2018
+$
+53,405
+
+November
+2018
+$
+51,584
+
+December
+2018
+$
+60,679
+
+Total Year
+To Date
+$ 88,956
+626,176
+
+2018 VS. 2017 ACTUALS
+Net Sales & Use Tax Received
+
+January
+
+February
+
+2018
+2017
+
+$
+
+45,085
+42,417
+
+$ 43,872
+42,386
+
+Change from to 2017
+
+$
+
+2,668
+
+$ 1,486
+
+% Increase/(Decrease) by Month vs. 2017
+
+6.3%
+
+3.5%
+
+% Increase YTD vs. 2017
+
+6.3%
+
+4.9%
+
+March
+$
+
+48,393
+
+April
+$
+
+47,072
+
+May
+$
+
+50,865
+
+June
+$
+
+53,902
+
+$
+
+July
+
+August
+
+September
+
+October
+
+November
+
+December
+
+50,296
+
+$
+
+$
+
+$
+
+$
+
+$
+
+53,490
+
+52,610
+
+50,532
+
+48,809
+
+57,415
+
+Total
+$
+
+88,956
+598,187
+
+Packet Pg. 68
+
+Attachment: 022818 MFS (3452 : February 2018 Monthly Financial Status Report)
+
+2018 ACTUAL VS. BUDGET
+January
+2018
+$ 45,085
+45,323
+
+1.C.5.a
+
+REGIONAL TRANSPORTATION DISTRICT
+RIDERSHIP
+(UNAUDITED)
+
+Jan
+4,165
+263
+41
+4,469
+
+Feb
+3,890
+250
+39
+4,179
+
+202
+337
+350
+242
+404
+49
+144
+322
+
+239
+243
+333
+245
+436
+80
+150
+340
+
+2,051
+
+2,066
+
+540
+44
+-
+
+487
+39
+-
+
+Total Commuter Rail
+
+584
+
+525
+
+Mall Shuttle
+MetroRide
+Access-a-Ride
+Access-a-Cab
+Vanpool
+Total Other Services
+
+804
+73
+62
+12
+18
+969
+
+738
+71
+58
+11
+16
+895
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+8,072
+
+7,665
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Fixed Route
+Flatiron Flyer
+Call-n-Ride
+Total Bus Service
+C Line
+D Line
+E Line
+F Line
+H Line
+L Line1
+R Line
+
+W Line
+Total Light Rail
+A Line
+B Line
+G Line
+
+Total System
+1
+
+Mar
+
+Apr
+
+May
+
+June
+
+July
+
+Aug
+
+Sept
+
+Oct
+
+Nov
+
+Dec
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+YTD 2018
+8,055
+512
+80
+8,648
+
+YTD 2017
+8,738
+477
+80
+9,295
+
+441
+580
+683
+487
+841
+130
+294
+662
+
+201
+880
+692
+445
+740
+
+240
+(300)
+(10)
+42
+101
+
+119.50%
+-34.10%
+-1.40%
+9.40%
+13.60%
+
+628
+
+294
+34
+
+#DIV/0!
+5.50%
+
+4,117
+
+3,586
+
+531
+
+14.80%
+
+1,027
+83
+-
+
+876
+60
+-
+
+150
+22
+-
+
+17.10%
+37.10%
+#DIV/0!
+
+-
+
+1,109
+
+937
+
+173
+
+18.40%
+
+-
+
+-
+
+1,542
+145
+121
+23
+33
+1,864
+
+1,728
+74
+116
+21
+34
+1,973
+
+(186)
+71
+5
+2
+(1)
+(110)
+
+-10.80%
+95.40%
+4.40%
+8.30%
+-2.30%
+-5.60%
+
+-
+
+-
+
+15,738
+
+15,791
+
+(53)
+
+-0.30%
+
+-
+
+-
+
+-
+
+Change
+% Change
+(683)
+-7.80%
+35
+7.40%
+(0)
+-0.10%
+(647)
+-7.00%
+
+The L Line opened for revenue service with the January 2018 runboard
+
+Packet Pg. 69
+
+Attachment: 022818 MFS (3452 : February 2018 Monthly Financial Status Report)
+
+2018 RIDERSHIP (in Thousands)
+
+2.C.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: April 5, 2018
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+April 5, 2018
+
+Board Meeting Date: April 10, 2018
+
+Subject:
+
+Board Report August 2018 Service Changes
+Committee
+
+DISCUSSION
+To meet the diverse travel needs of the citizens of the District and maintain a high-performance,
+sustainable transit system, RTD has developed a networked family of services for which the different
+classes of service have different expectations of performance. We will continue adjusting services in
+response to changes in ridership and operational performance of the transit system as a whole. It is also
+our responsibility to identify services that are underperforming and recommend modifications,
+curtailment or cancellation of service as warranted or recommend new service as changes in the
+community warrant and resources allow.
+Changes to RTD transit service, have historically been measured by and related to ridership and financial
+impacts. However, current labor market conditions continue to be a serious challenge to the recruitment
+and retention of bus and rail operators. More to the point, the amount of service being provided by
+operators working on their scheduled day(s) off is at a level that impedes employee retention efforts and
+makes it difficult to meet our service commitments to our customers. To better match the RTD’s
+scheduled service offerings to RTD’s available workforce, this proposal starts a process to optimize the
+level of service on various routes throughout the District. The proposed service adjustments were
+conceived in accordance to the Service Policies and Standards adopted by the RTD Board of Directors.
+The proposals herein include a mix of service adjustments and reductions. Notable proposals include a
+restructure of service to/from Conifer and Evergreen (CV/CS/CX and EV/ES/EX). Additionally, a proposal
+to split the Route 27 into two separate services (Routes 26 and 27) is also included. We will monitor
+customer response to the implementation of these service changes and propose adjustments and service
+alternatives as appropriate in future service change recommendations.
+The guiding principles for proposed service changes continue to be:
+ Service performance evaluation based on the RTD Service Standards;
+ The effects on the overall integrity of the transit network and on transit dependent markets;
+ The availability of alternative services to affected riders;
+ Cost-effective distribution throughout the District and Family of Services and the ability to
+enhance service when possible;
+ Title VI of the Civil Rights Act: benefits and services are provided without regard to race, color or
+national origin; also disparate effects on low income and minority populations; and
+ Response to changes in the communities where services are provided
+SUMMARY OF PROPOSED SERVICE CHANGES
+
+Routes proposed for service reductions:
+Route 3L - East Alameda: consolidate the 5:04pm and 5:24pm trips leaving CCS Station
+Route 10 – 12th Avenue: discontinue Saturday service east of Clermont Street
+
+Packet Pg. 70
+
+2.C.1
+
+Route 20 – 20th Avenue: reduce frequency from 30 to 60 minutes before 10:00am and after 6:00pm on
+Saturdays and Sundays.
+Route 24 – University Boulevard: discontinue trips weekday northbound 5:03am, 9:34pm and
+southbound 4:43am, 9:13pm and Saturday northbound: 5:39am, 6:39am, 7:34pm and southbound:
+6:13am, 8:13pm.
+Route 40 – Colorado Boulevard: reduce 30 minute service frequency to hourly service south of Colorado
+Station weeknights, Saturday and Sunday.
+Route 46 – South Dahlia: reduce midday frequency from 30 to 60 minutes south of Colorado Station.
+Route 73 – Quebec Street: reduce Sunday service frequency from 30 to 60 minutes, before 9:00am and
+after 8:00pm.
+Route 85 – Chatfield Avenue: discontinue service on the Route 85.
+Route 133 – Hampden/Tower: discontinue 6:11am and 8:11am northbound trips.
+Route 153 – Chambers Road: discontinue 4:34am northbound trip from Aurora Metro Center on
+weekends.
+Route 157 – CCA/Buckley: reduce frequency from 30 to 60 minutes.
+Route 169 – Buckley Road: discontinue 3:13am northbound trip due to low ridership. Route 204 – Table
+Mesa/Moorhead/19th: discontinue the route portion south of Downtown Boulder Station, between
+Downtown Boulder Station and Table Mesa.
+Route STAMPEDE – CU/East Campus
+Route 209 – CU/Mohawk/Talbot: reduction of service frequency and routing change to reduce service
+duplication.
+Route AT – DTC/Denver International Airport: start the first two trips northbound and end the last two
+trips southbound at Nine Mile Station rather than Arapahoe Station
+
+Routes proposed for mixed service improvements/ service Efficiencies:
+Route 26/27 - Yale Avenue: split the Route 27 in to two separate route services.
+Routes 100L – South Kipling Limited: add 5 peak period trips in place of service on CS and ES.
+Route CV/CS/CX – Conifer/Denver
+EV/ES/EX – Evergreen/Denver: restructure Routes CV/CS/CX and EV/ES/EX and eliminate service
+between Federal Center Station and Conifer/Evergreen.
+
+Routes proposed for routine running time analysis/schedule adjustments:
+Seasonal and School Service: changing to fall service levels for Routes DASH, SKIP, N and STAMPEDE
+Re-instating school trippers on the following services:
+Route 1W – West 1st Avenue
+Route 11 – Mississippi Avenue
+Route 24 – University Blvd.
+Route 30L – South Federal Limited
+Route 31 – Federal Boulevard
+Route 50 – Lakes Crosstown
+Route 52 – West 52nd/South Bannock
+Route 65 – Monaco Parkway
+Route 73 – Quebec Street
+Route 204 – Table Mesa/Moorhead/North 19th
+Route 205/205T – 28th Street/ Gunbarrel/Heatherwood
+Route 206/206F - Pearl/Manhattan/Fairview High School
+Route 208/208F – Iris/Valmont
+
+Packet Pg. 71
+
+2.C.1
+
+FINANCIAL IMPACT
+The overall financial impact contained in this proposal includes a base system cost savings of
+approximately $2,074,600 annualized at current pre-CBA cost estimates. Additionally, workforce
+impacts are expected to be a reduction of 20 full-time weekday equivalent work shifts.
+PUBLIC HEARINGS
+There are 7 public hearings proposed to be held between May 29th and June 7th
+in Aurora, Boulder, Evergreen, Southeast Denver and at the Blake Administration Building Rooms T & D.
+
+ATTACHMENTS:
+
+
+Atch A - August 2018 (DOCX)
+
+
+
+Atch B - r26 27
+
+
+
+Atch C - r85 (PDF)
+
+
+
+Atch D - r204 (PDF)
+
+
+
+Atch E - rStampede
+
+
+
+Atch F- Routes CV CS CX & EV ES EX
+
+(PDF)
+
+(PDF)
+(PDF)
+
+Prepared by:
+Jessie Carter, Manager, Service Planning and Scheduling
+Approved by:
+
+Packet Pg. 72
+
+2.C.1.a
+
+Atch A – August 2018 Service Changes
+
+Route 3L - East Alameda
+Service Standard type - CBD Local – (10% - 15.2 pass. per hr. / 25% - 22.3 pass. per hr.)
+This proposal consolidates the 5:04pm and 5:24pm trips leaving Civic Center Station.
+Ridership on these trips average 39 and 34 boardings respectively, which can be
+accommodated on the consolidated trip proposed to depart Civic Center Station at
+5:14pm. It is expected that some customers will migrate to earlier and later trips around
+the 5:00pm and 5:30pm work stop times.
+Anticipated resource impacts include a reduction of 510 annual hours
+Route 10 – 12th Avenue
+Service Standard type - CBD Local - (10% - 15.2 pass. per hr. / 25% - 22.3 pass. per hr.)
+Discontinue Saturday service east of Clermont Street, as it is on Sunday/Holidays. Current
+ridership along this segment is 168 boardings, corresponding to 10.7 boardings per hour,
+which is below both the 10th and 25th percentile standard for CBD Local service of 15.2 22.3 boardings per hour respectively. Alternative service can be found in Routes 6 – East
+6th Avenue and 15 East Colfax.
+Anticipated resource impacts include a reduction of 1,144 annual hours
+Route 20 – 20th Avenue
+Service Standard type - CBD Local - (10% - 15.2 pass. per hr. / 25% - 22.3 pass. per hr.)
+Due to low ridership it is proposed to reduce Route 20 service frequency from 30 to 60
+minutes before 10:00am and after 6:00pm on Saturdays and Sundays. Current
+productivity during these time periods is 11.7 passengers per hour, which falls below the
+service standard for a CBD Local service of 15.2 boardings per hour.
+Anticipated resource impacts include a reduction of 1,100 annual hours
+Route 24 – University Boulevard
+Service Standard type - Urban Local – (10%-12.2 pass. per hr. / 25%-19.1 pass. per hr.)
+This proposal discontinues underperforming trips weekday northbound 5:03am (7
+boardings), 9:34pm (17 boardings) and southbound 4:43am (10 boardings), 9:13pm (8
+boardings). Saturday northbound: 5:39a (9 boardings), 6:39a (12 boardings), 7:34pm (12
+boardings) and southbound: 6:13am (12 boardings), 8:13p (9 boardings).
+Anticipated resource impacts include a reduction of 1,665 annual hours
+Route 26/27 - Yale Avenue
+Service Standard type - Urban Local – (10%-12.2 pass. per hr. / 25%-19.1 pass. per hr.)
+Ridership on Route 27 between Englewood Station and Colorado Boulevard has been low
+historically and current ridership data shows the segment operating at 12.8 passengers per
+hour, which is below the 25 percentile standard for an Urban Local service of 19.1
+boardings per hour and only slightly above the 10% standard of 12.2 boardings per hour.
+This proposal splits the Route 27 in to two separate route services. The new Route 26 West Yale Avenue service would operate between Southwest Plaza and Englewood
+Station. The new Route 27 – East Yale service would operate between University Hills and
+Ulster - Tufts.
+Anticipated resource impacts include a reduction of 4,335 annual hours
+
+Version 3
+Packet Pg. 73
+
+Attachment: Atch A - August 2018 (3454 : Board Report August 2018 Service Changs Committee)
+
+Service Change Proposals - August 2018
+
+2.C.1.a
+
+Atch A – August 2018 Service Changes
+
+Route 46 – South Dahlia
+Service Standard type - Urban Local - (10%-12.2 pass. per hr. / 25%-19.1 pass. per hr.)
+Reduce midday frequency from 30 to 60 minutes south of Colorado Station. Current
+productivity for the segment sits at 10.6 boardings per hour. Additionally, reduce Sunday
+service frequency from 30 to 60 minutes, where current productivity is 13.8 boardings per
+hour.
+Anticipated resource impacts include a reduction of 1,530 annual hours
+Route 73 – Quebec Street
+Service Standard type - Urban Local - (10%-12.2 pass. per hr. / 25%-19.1 pass. per hr.)
+Reduce Sunday service frequency from 30 to 60 minutes, before 9:00am and after
+8:00pm. Productivity during these time periods is 13 boardings per hour.
+Anticipated resource impacts include a reduction of 893 annual hours
+Route 85 – Chatfield Avenue
+Service Standard type - Suburban Local - (10%-4.7 pass. per hr. / 25%-11.4 pass. per hr.)
+Introduced in August 2015, the Route 85 was implemented as a measure to clarify bus
+service access to the Littleton-Mineral Station, as it covered a portion of what was
+formerly included in the Route 401-Ranches service. Due to low ridership performance
+(9.8 boardings per hour) this proposal discontinues service on the Route 85. The Suburban
+Local standard at the 25 percentile level is 11.4 boardings per hour. This change would
+affect 100 passengers per day of which 90% board or alight at a location not served by
+another fixed route. However, the entire route is in the South Jeffco Call-n-Ride.
+Anticipated resource impacts include a reduction of 4,845 annual hours
+Routes 100L – South Kipling Limited
+CV/CS/CX – Conifer/Denver
+EV/ES/EX – Evergreen/Denver
+Service Standard type- Regional – (10%-11.3 pass. per hour/ 25%-21.9 pass. per hour)
+To better match service to customer demand it is proposed to restructure Routes
+CV/CS/CX and EV/ES/EX and eliminate service between Federal Center Station and
+Conifer/Evergreen. Service would be maintained between Civic Center and
+Conifer/Evergreen. Trips between Federal Center Station and Civic Center would be
+replaced by trips on Route 100L. This proposal is outlined below:
+Discontinue Route CS. Route CS currently carries 17 passengers solely between
+Conifer and Federal Center on 8 eastbound trips and 6 westbound trips.
+8 reverse commuters on the CV/CS/CX would be impacted.
+
+Version 3
+Packet Pg. 74
+
+Attachment: Atch A - August 2018 (3454 : Board Report August 2018 Service Changs Committee)
+
+Route 40 – Colorado Boulevard
+Service Standard type - Urban Local - (10%-12.2 pass. per hr. / 25%-19.1 pass. per hr.)
+Reduce current 30 minute service frequency to hourly service south of Colorado Station
+weeknights (14.8 boardings per hour), Saturday (10.1 boardings per hour) and Sunday
+(12.5 boardings per hour).
+Anticipated resource impacts include a reduction of 1,645 annual hours
+
+2.C.1.a
+
+Atch A – August 2018 Service Changes
+
+Discontinue Route ES. Impacts 10 passengers between Evergreen and Federal
+Center Station. Route ES currently carries 10 passengers solely between Evergreen
+and Federal Center on 5 eastbound and 5 westbound trips.
+Route EV/ES/EX also has 8 passengers boarding between Aspen Park and
+Evergreen PnR that will no longer have service. 7 reverse commuters on the
+EV/ES/EX will be impacted.
+Remaining service would provide 2 trips on Route EX each direction, each peak and
+would provide 3 trips on Route EV each direction, each peak.
+Discontinue service between Evergreen PnR and Aspen Park PnR. Impacts 1
+passenger. Lutheran Church PnR passengers would instead need to board at
+Evergreen PnR.
+Discontinue reverse peak in-service on all routes. Impacts 2 passengers.
+Provide 5 additional Route 100L trips between Federal Center Station and Civic
+Center Station to replace discontinued Route CS and ES trips. Alternative service
+can also be found the W Line light rail service and the formation of Van Pools.
+This proposal would save approximately 27 weekday hours and an estimated 3 weekday
+FTE’s.
+Anticipated resource impacts include a reduction of 6,885 annual hours
+Route 133 – Hampden/Tower
+Service type - Urban Local - (10%-12.2 pass. per hr. / 25%-19.1 pass. per hr.)
+Discontinue 6:11am and 8:11am northbound trips. Average daily ridership on these trips is
+14.9 and 10.7 respectively.
+Anticipated resource impacts include a reduction of 408 annual hours
+Route 153 – Chambers Road
+Service type - Urban Local -(10%-12.2 pass. per hr. / 25%-19.1 pass. per hr.)
+Due to low ridership it is proposed to discontinue 4:34am northbound trip from Aurora
+Metro Center on weekends, which have 3 boardings on Saturdays and 5 boardings on
+Sundays. Alternate trips are available approximately 30 minutes earlier and later from the
+same location.
+Anticipated resource impacts include a reduction of 55 annual hours
+Route 157 – CCA/Buckley
+Service type - Urban Local - (10%-12.2 pass. per hr. / 25%-19.1 pass. per hr.)
+This route was implemented in April of 2016 to provide a replacement for service formerly
+provided by the Route 10 along Centretech Parkway to the Community College of Aurora
+and Buckley Air Force Base. Current ridership performance is relatively low on this service
+
+Version 3
+Packet Pg. 75
+
+Attachment: Atch A - August 2018 (3454 : Board Report August 2018 Service Changs Committee)
+
+Discontinue Route CX. All trips would instead stop at Twin Forks PnR,
+providing 5 trips on Route CV in each direction, each peak.
+
+2.C.1.a
+
+Atch A – August 2018 Service Changes
+
+Route 169 – Buckley Road
+Service type - Suburban Local – (10%-4.7 pass. per hour / 25%-11.4 pass. per hour)
+Discontinue 3:13am northbound trip due to low ridership. The latest data shows an
+average of 4 passenger boardings are affected by this proposal.
+Anticipated resource impacts include a reduction of 383 annual hours
+Route 204 – Table Mesa/Moorhead/19th
+Service type - Urban Local -(10%-12.2 pass. per hr. / 25%-19.1 pass. per hr.)
+It is proposed to discontinue the route portion south of Downtown Boulder Station,
+between Downtown Boulder Station and Table Mesa, due to low ridership, on Saturdays
+and Sundays/Holidays. Alternate routes are available along the Broadway corridor and
+within the ¼ mile walking distance of current routing along Moorhead drive. Ridership on
+Saturdays and Sundays, currently is less than 1 passenger per trip on the Moorhead
+section. The other portion of Route 204 south of Downtown Boulder Station is duplicative
+to Routes DASH, SKIP and/or 225.
+Anticipated resource impacts include a reduction of 1,540 annual hours
+Route 209 – CU/Mohawk/Talbot
+STAMPEDE – CU/East Campus
+Service type - Urban Local – (10%-12.2 pass. per hr. / 25%-19.1 pass. per hr.)
+It is proposed to reduce the AM and PM peak frequency to 30 minutes versus the current
+15 minute frequency, as well as the current midday 30 minute frequency to 60 minute
+frequency, due to low ridership. Maximum passenger loads per trip range from 1 – 18
+passengers. The majority of the route’s boardings and alightings occur between Colorado
+& 30th Street and Euclid & 18th Street (Eastbound 165/185 boardings, Westbound
+193/210 alightings). This section of the route is duplicative to Route STAMPEDE, which
+operates at 10 minute frequency or better, all day.
+In cooperation with CU Boulder and City of Boulder, it is proposed to discontinue Route
+STAMPEDE between Colorado/Discovery Drive and Marine Street and 30th Street. CU
+Boulder will take over this portion of the route via its Buff Route. Route frequency for
+Route STAMPEDE would be every 10 minutes, 7am – 5:30pm and every 15 minutes
+5:30pm – 7pm. Additional frequency of 5 minutes would be maintained for major class
+start and end times, at 9:00am, 10:00am, noon, 2:00pm and 3:00pm.
+Anticipated resource impacts include a reduction of 3,825 annual hours
+Route AT – DTC/DEN
+Service type – Regional – (10%-11.3 pass. per hour / 25%-21.9 pass. per hour)
+This proposal starts the first two trips northbound and ends the last two trips southbound
+at Nine Mile Station rather than Arapahoe Station. The current start times at Arapahoe
+Station for these trips are 3:03am (6 pax) and 3:33am (2 pax) northbound, instead these
+trips would begin at Nine Mile Station would be at 3:17am and 3:47am. The current
+
+Version 3
+Packet Pg. 76
+
+Attachment: Atch A - August 2018 (3454 : Board Report August 2018 Service Changs Committee)
+
+(17.7 passengers per hour) and so it is proposed to reduce frequency from 30 to 60
+minutes.
+Anticipated resource impacts include a reduction of 3,188 annual hours
+
+2.C.1.a
+
+Atch A – August 2018 Service Changes
+
+Attachment: Atch A - August 2018 (3454 : Board Report August 2018 Service Changs Committee)
+
+southbound end times at Arapahoe Station are at 12:52am (3 pax) and 1:52am (1 pax)
+would instead end at Nine Mile Station at 12:40am and 1:40am.
+Anticipated resource impacts include a reduction of 639 annual hours
+
+Version 3
+Packet Pg. 77
+
+Atch B - r26/27
+
+Attachment: Atch B - r26 27 (3454 : Board Report August 2018 Service Changs Committee)
+
+2.C.1.b
+
+Federal & Evans
+Yale Station
+
+Wadsworth / Hampden PnR
+
+Englewood Station
+
+Hampden
+
+Broadway
+
+Federal
+
+I-25
+
+Sheridan
+
+Hampden
+
+Colorado
+
+Yale
+
+Ulster & Tufts
+
+Southwest Plaza
+
+Wadsworth
+
+Bowles
+
+Routes 26 and 27
+Route 26
+Route 27
+Proposed Aug18 Discontinued Routing
+
+Packet Pg. 78
+
+Atch C - r85
+Southwest Plaza
+
+S Wadsworth Blvd
+
+S Pierce St
+
+W Coal Mine Ave
+
+S Kipling St
+
+S Kipling St
+
+W Bowles Ave
+
+Littleton / Mineral Station
+W Ken Caryl Ave
+
+W Mineral Ave
+
+Blvd
+
+Pl
+at
+te
+e
+at
+St
+
+Hw
+
+y
+
+S Erikson
+
+W Chatfield Ave
+
+0
+47
+
+Route 85
+S Santa Fe Dr
+
+0
+47
+
+S
+
+y
+Hw
+
+S Wadsworth Blvd
+
+e
+at
+St
+
+C
+an
+
+yo
+
+n
+
+SS
+anta
+
+R
+
+d
+
+Fe
+Dr
+
+S Simms St
+
+Ken Caryl / C-470
+
+Proposed Aug18 Route 85 Discontinued Routing
+Route 77 (Unchanged)
+
+Attachment: Atch C - r85 (3454 : Board Report August 2018 Service Changs Committee)
+
+S Lowe
+ll Blvd
+
+2.C.1.c
+
+South Jeffco Call-n-Ride Boundary
+
+Packet Pg. 79
+
+Atch - D r204
+
+20th
+
+Attachment: Atch D - r204 (3454 : Board Report August 2018 Service Changs Committee)
+
+2.C.1.d
+
+ut
+Waln
+Canyon
+
+Downtown Boulder Station
+
+17th
+
+15th
+
+Arapahoe
+
+Bro
+adw
+ay
+CU
+Campus
+
+16th
+
+Euclid
+
+27th Way
+
+Baseline
+
+M
+
+oo
+
+rh
+
+ea
+d
+
+US
+
+36
+
+dw
+ay
+
+Proposed Aug18 Selected Trips -- Weekday Only
+
+oa
+Br
+
+Route 204
+Current Routing (Unchanged)
+
+Ithaca
+
+Table Mesa
+
+Packet Pg. 80
+
+Atch E - rStampede
+
+Attachment: Atch E - rStampede (3454 : Board Report August 2018 Service Changs Committee)
+
+2.C.1.e
+
+Arapahoe
+
+Foothills
+
+Marine
+
+30th
+
+CU
+East
+Campus
+
+co
+
+v
+y
+er
+
+Innovation
+
+Dis
+
+Colorado
+
+Route Stampede
+Current Routing (Unchanged)
+Proposed Aug18 Discontinued Routing
+
+Packet Pg. 81
+
+Atch F - Routes CV/CS/CX & EV/ES/EX
+
+2.C.1.f
+Civic Center Station
+
+Federal Center Station
+Genesee PnR
+Paradise Hills PnR
+El Rancho PnR
+Bergen Park PnR
+
+Route CS and ES service
+to Federal Center Station
+is proposed for discontinuance
+
+Evergreen PnR
+Lutheran Church PnR
+
+Twin Forks PnR
+
+Route CX Srevice bypassing
+Twin Forks PnR is proposed
+for discontinuance
+
+Aspen Park PnR
+
+Routes CV/CS/CX & EV/ES/EX
+Current CV/EV/EX Shared Routing (Unchanged)
+Current CV Routing (Unchanged)
+
+Mountain View PnR
+
+Current EV/EX Routing (Unchanged)
+Current EV Routing (Unchanged)
+Current EX Routing (Unchanged)
+
+Pine Junction PnR
+
+Proposed Aug18 CS/ES Discontinued Routing
+Proposed Aug18 EV/ES/EX Discontinued Routing
+
+Attachment: Atch F- Routes CV CS CX & EV ES EX (3454 : Board Report August 2018 Service Changs
+
+"
+U
+
+Packet Pg. 82
+
+2.C.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: April 5, 2018
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+April 4, 2018
+
+Board Meeting Date: April 10, 2018
+
+Subject:
+
+Transit Priority Update
+
+ATTACHMENTS:
+
+
+Transit Priority Update - Board April 2018 Revised
+
+(POTX)
+
+Prepared by:
+Jeff Becker, Senior Manager, Service Development
+Approved by:
+
+Packet Pg. 83
+
+Attachment: Transit Priority Update - Board April 2018 Revised (3448 : Transit Priority Update)
+
+2.C.2.a
+
+1
+
+Transit Priority – Corridor Analysis
+Operations and Customer Services committee
+April 10, 2018
+
+Packet Pg. 84
+
+2
+
+Attachment: Transit Priority Update - Board April 2018 Revised (3448 : Transit Priority Update)
+
+2.C.2.a
+
+Study Goals
+§ Identify and prioritize corridors for transit priorities
+§ Transit priorities will:
+•
+•
+•
+•
+
+Increase bus service speeds and reduce bus delay
+Improve bus service reliability
+Improve customer satisfaction
+Lead to increased ridership and cost-effectiveness
+
+§ Support community investment in sustainable mobility through
+interagency coordination: Complete Streets, transit, bicycle, and
+pedestrian
+
+Packet Pg. 85
+
+RTD Bus Network
+§ All RTD bus routes broken down into
+40,000 segments for detailed study
+§ Multi-step screening used to identify
+and prioritize corridors that best
+benefit from transit enhancements
+based on:
+• Speed - measure of delay and
+reliability
+• Passenger load – benefit the most
+customers
+
+7
+
+Packet Pg. 86
+
+Attachment: Transit Priority Update - Board April 2018 Revised (3448 : Transit Priority Update)
+
+2.C.2.a
+
+Speed
+§ Actual running times used to estimate
+speed at segment level
+§ Median speed 17 MPH
+§ Slower speeds in places as expected
+
+10
+
+Packet Pg. 87
+
+Attachment: Transit Priority Update - Board April 2018 Revised (3448 : Transit Priority Update)
+
+2.C.2.a
+
+Load
+§ Visualize areas with highest levels of
+passenger throughput
+§ Median load of 300 passengers per day
+§ High of 18,000 passengers
+§ Corridor loads also as expected
+
+11
+
+Packet Pg. 88
+
+Attachment: Transit Priority Update - Board April 2018 Revised (3448 : Transit Priority Update)
+
+2.C.2.a
+
+Index Score
+§ Captures areas with slowest speeds
+and highest loads (based on median
+values)
+§ Clusters of high scoring areas
+§ Corridors such Colfax and Broadway
+§ Use index score to identify short list of
+corridors
+
+13
+
+Packet Pg. 89
+
+Attachment: Transit Priority Update - Board April 2018 Revised (3448 : Transit Priority Update)
+
+2.C.2.a
+
+Top 15% Segments
+§ First level of screening
+§ Corridors start to take shape
+§ Building blocks for the network
+
+14
+
+Packet Pg. 90
+
+Attachment: Transit Priority Update - Board April 2018 Revised (3448 : Transit Priority Update)
+
+2.C.2.a
+
+Corridor Continuity
+§ Identify continuous corridors
+§ Synergy with current service
+performance
+§ Bottom-up analysis
+§ Downtown focus
+
+15
+
+Packet Pg. 91
+
+Attachment: Transit Priority Update - Board April 2018 Revised (3448 : Transit Priority Update)
+
+2.C.2.a
+
+Priority Corridors
+§ Adjust alignments to complement
+radial and grid network
+§ Some already being addressed, e.g.,
+E Colfax, US 36, Speer/Leetsdale
+§ Narrow priorities with city input
+o Downing St.
+o E 17th and 18th Avenues
+o E 12th Ave.
+o Federal Blvd
+o W Colfax Ave.
+o Havana Blvd.
+o Broadway St (Boulder)
+
+16
+
+Packet Pg. 92
+
+Attachment: Transit Priority Update - Board April 2018 Revised (3448 : Transit Priority Update)
+
+2.C.2.a
+
+Attachment: Transit Priority Update - Board April 2018 Revised (3448 : Transit Priority Update)
+
+2.C.2.a
+
+Cooperative Transit Priority Treatments
+§ Bus lanes
+§ Traffic signal priority
+§ Queue jumps & bypass lanes
+§ Bus bulbs & bays
+§ Bus stop accessibility & amenities
+§ Next step: Scope of work
+
+Packet Pg. 93
+
+Federal Boulevard – Priority Intersections
+Attachment: Transit Priority Update - Board April 2018 Revised (3448 : Transit Priority Update)
+
+2.C.2.a
+
+Packet Pg. 94
+
+Federal Boulevard – Priority Bus Stops
+15 priority stops
+§
+§
+§
+
+10 meet both ridership and delay
+thresholds
+4 meet delay threshold only
+1 meets ridership threshold only
+
+32
+
+Packet Pg. 95
+
+Attachment: Transit Priority Update - Board April 2018 Revised (3448 : Transit Priority Update)
+
+2.C.2.a
+
+Attachment: Transit Priority Update - Board April 2018 Revised (3448 : Transit Priority Update)
+
+2.C.2.a
+
+Federal Blvd - Existing Conditions (Route 31)
+Direction
+
+Northbound
+Southbound
+
+Peak
+
+AM
+PM
+AM
+PM
+
+Punctuality1
+(min:sec)
+50%3
+2:11
+2:21
+1:40
+4:47
+
+85%4
+5:52
+5:45
+5:25
+10:53
+
+Speed2
+(miles per hour)
+50%3
+16
+13
+18
+15
+
+85%4
+23
+18
+25
+21
+
+Travel Time
+(min:sec)
+50%3
+27:51
+36:48
+26:21
+32:10
+
+85%4
+30:22
+42:06
+30:20
+36:08
+
+Notes:
+1.Median punctuality for all of the bus stops within the corridor. Punctuality refers to the deviation in time between scheduled bus departure and
+actual bus departure from a stop.
+2. Median speed between bus stops.
+3.Data representing the 50th percentile of bus trips. The 50th percentile is the value below which 50% of observed buses would fall, or the median
+value.
+4. Data representing the 85th percentile of bus trips. The 85th percentile is the value below which 85% of observed buses would fall.
+
+Packet Pg. 96
+
+Attachment: Transit Priority Update - Board April 2018 Revised (3448 : Transit Priority Update)
+
+2.C.2.a
+
+Federal Blvd - Analysis
+§ Assumptions:
+• 120 second cycle length
+• 20 seconds of additional green time due to TSP
+• 10 seconds early green
+• 10 seconds extended green
+
+• G/C improves by 0.17
+• Delay reduction expected: 10 – 15 seconds*
+• 12 seconds assumed per intersection
+
+• 17 TSP intersections = 204 second delay reduction
+*Exhibit 4-44 Signalized Intersection Delay (120-Second Cycle and Range of
+Effective Green) from TCRP Report 118: Bus Rapid Transit Practitioner's Guide
+
+Packet Pg. 97
+
+Attachment: Transit Priority Update - Board April 2018 Revised (3448 : Transit Priority Update)
+
+2.C.2.a
+
+Federal Blvd – Northbound Benefits
+Proposed Improvement
+
+TSP
+Louisiana Avenue Bus Bulb1
+
+Benefits
+(seconds
+of delay)
+204
+6
+
+Mississippi Avenue Bypass Lane
+& Queue Jump2
+Alameda Avenue Bypass Lane2
+Howard Place Bus Bulb1
+
+15
+
+26th Avenue Bus Bulb1
+
+8
+
+38th Avenue Bypass Lane2
+Consolidated Stops
+Total Per Trip Savings
+Daily Boardings
+
+15
+10
+281
+3,000
+passengers
+234 hours
+
+Potential Daily Person Delay
+Reduction3
+
+15
+8
+
+Additional Benefits
+(qualitative)
+Bus service reliability improves
+Shortened pedestrian crossing distances; bus service
+reliability improves
+Bus service reliability improves
+Bus service reliability improves
+Shortened pedestrian crossing distances; bus service
+reliability improves; complements Vision Zero plans at this
+location
+Shortened pedestrian crossing distances; bus service
+reliability improves
+Bus service reliability improves
+Bus service reliability improves
+
+Notes:
+1.Based on Exhibit 4-52 of the Bus Rapid Transit Practitioner’s Guide and Synchro volume data provided by Denver.
+2.Based on data provided on page 4-40 of the Bus Rapid Transit Practitioner’s Guide.
+3.Represents the maximum potential person delay reduction, and assumes all riders experience all benefits.
+
+Packet Pg. 98
+
+Federal Blvd – Northbound Costs
+Proposed
+Improvement
+TSP1
+Louisiana
+Avenue Bus
+Bulb
+Mississippi
+Avenue Bypass
+Lane & Queue
+Jump
+Alameda
+Avenue Bypass
+Lane
+Howard Place
+Bus Bulb
+26th Avenue Bus
+Bulb
+38th Avenue
+Bypass Lane
+Consolidated
+Stops
+Subtotal
+Contingency
+(20%)
+Total
+
+Cost per Hour of Transit Person Delay
+Benefit
+Daily
+Annual
+Trade-offs
+Cost
+20 Year
+Estimate
+Lifecycle
+$8,500
+$50
+$0.20
+$0.01
+Minor increases to vehicular
+travel times on side streets
+$60,000
+$12,000
+$47.06
+$2.35
+Minor increases to general
+traffic travel times
+$310,000
+
+$24,800
+
+$97.25
+
+$4.86
+
+Minor increases to vehicular
+travel times
+
+$30,000
+
+$2,400
+
+$9.41
+
+$0.47
+
+$160,000
+
+$24,000
+
+$94.12
+
+$4.71
+
+$80,000
+
+$12,000
+
+$47.06
+
+$2.35
+
+$460,000
+
+$36,800
+
+$144.31
+
+$7.22
+
+$19,500
+
+$2,340
+
+$9.18
+
+$0.46
+
+Increase to vehicular travel
+times due to reduction to two
+thru lanes northbound at
+Alameda
+Minor increases to general
+traffic travel times
+Minor increases to general
+traffic travel times
+Removal of one accessible
+parking space
+Minor increases to walk
+distances
+
+$5,780
+
+$22.67
+
+$1.13
+
+$1,128,000
+$225,600
+$1,353,600
+
+Notes:
+1. TSP costs have been split equally between two directions that will benefit.
+
+40
+
+Packet Pg. 99
+
+Attachment: Transit Priority Update - Board April 2018 Revised (3448 : Transit Priority Update)
+
+2.C.2.a
+
+2.C.3
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: April 5, 2018
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+April 5, 2018
+
+Board Meeting Date: April 10, 2018
+
+Subject:
+
+Potential Adjustment to Fixed-Route Contractor
+Agreements
+
+ATTACHMENTS:
+
+
+Potential Adjustments to Fixed-Route Contractor Agreements (DOCX)
+
+Prepared by:
+Bruce Abel, Assistant General Manager
+Approved by:
+
+Packet Pg. 100
+
+To:
+
+RTD Board of Directors
+
+From:
+
+Bruce Abel, AGM, Bus Operations
+
+Through:
+
+Michael Ford, COO
+
+Date:
+
+April 5, 2018
+
+Re:
+
+Possible Amendments to Fixed-Route Contracts to Address Wage
+Changes
+
+RTD currently contracts with two companies to provide fixed-route bus service. These
+two companies are First Transit and Transdev and they operate under the terms of four
+(4) separate contracts, each of which is for a three (3) year term with two (2) one-year
+options. Collectively, these contractors provide approximately 45% of RTD’s fixed-route
+service.
+First Transit provides service under three contracts:
+
+
+
+
+
+
+“Group 24” (“First Transit-Commerce City”) which is operated out of the First
+Transit Commerce City location. This contract includes local service in metro
+Denver and was implemented on 8/17/14. This contract provides approximately
+334,700 revenue hours of service per year;
+“Group 26” (“First Transit-Longmont”) which is operated out of the First Transit
+Longmont location. This contract includes local service in Boulder and Longmont
+and was implemented on 1/3/16. This contract provides approximately 189,400
+hours of service per year;
+“Group 27” (“First Transit-Denver”) which is operated out of the First Transit
+Denver location. This contract includes local service in metro Denver and was
+implemented on 5/13/17. This contract provides approximately 344,600 hours of
+service per year.
+
+Transdev provides service under one contract:
+
+
+“Group 25” which is operated out of the Transdev Englewood location. This
+contract includes local service in metro Denver and was implemented on
+1/4/15. This contract provides approximately 339,700 hours of service per
+year.
+
+Attachment: Potential Adjustments to Fixed-Route Contractor Agreements (3455 : Potential Adjustment to Fixed-Route Contractor Agreements)
+
+2.C.3.a
+
+Packet Pg. 101
+
+Historically, the starting wages paid for operators by the private contractors have been
+approximately $1.00 per hour less than the starting wage for bus operators for RTD. In
+February of 2018, RTD re-negotiated its collective bargaining agreement (CBA) with the
+Amalgamated Transit Union (ATU) and increased the starting wage for bus and rail operators
+to $19.40 per hour. The current starting wages for bus operators for the private contractors
+are currently as follows:
+First Transit Commerce City (Group 24)
+Transdev (Group 25)
+First Transit Longmont (Group 26)
+First Transit Denver (Group 27)
+
+$15.38 per hour
+$15.71 per hour
+$15.43 per hour
+$15.26 per hour
+
+Due to the low unemployment rate in Colorado and the highly competitive labor market, there
+is concern that the disparity in operator starting wages between the private contractors and
+RTD will entice a high number of bus operators at the private contractor operations to “jump
+ship” – to quit their jobs and apply for jobs with RTD. As a result, our contract partners will
+lose employees and be unable to meet their service commitments to RTD and our customers.
+This will result in dropped service for our customers and a decrease in reliability, one of the
+primary determinants of transit ridership. In order to mitigate a large-scale migration, it is
+recommended that RTD renegotiate the existing Agreements with First Transit and Transdev
+so that private contractor operator wages can be adjusted to a more competitive amount
+relative to the new starting wage for RTD operators and the local Denver labor market for
+drivers.
+In addition to the adjustment to starting wages it will also be necessary to adjust the wage
+scales for existing operators as well. Wages for operator trainers, dispatchers and street
+supervisors will also be increased as wages for these positions are typically determined based
+on an operator wage plus a stated per-hour increase (e.g. the operator wage plus $1.00 per
+hour).
+The purpose of this memo is to expand on previous conversations with the Board that staff
+would be back to discuss additional issues related to the approval of the CBA as this is one of
+the areas previously anticipated for additional conversations with the Board.
+
+Attachment: Potential Adjustments to Fixed-Route Contractor Agreements (3455 : Potential Adjustment to Fixed-Route Contractor Agreements)
+
+2.C.3.a
+
+Packet Pg. 102
+
+2.C.4
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: April 5, 2018
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+April 4, 2018
+
+Board Meeting Date: April 10, 2018
+
+Subject:
+
+Service Availability Update
+
+ATTACHMENTS:
+
+
+Service Availability Memo 4 10 18
+
+
+
+Lost Service Hours 4 10 18
+
+(DOTX)
+
+(PDF)
+
+Prepared by:
+Bruce Abel, Assistant General Manager
+Approved by:
+
+Packet Pg. 103
+
+To:
+
+Dave, Genova, General Manager and CEO
+
+From:
+
+Bruce Abel, AGM, Bus Operations
+
+Date:
+
+April 3, 2018
+
+Re:
+
+Service Availability- March 2018
+
+RTD fixed-route bus operations provided slightly over 98.4% of all scheduled hours of
+bus service in March 2018. Lost service hours for personnel related reasons
+did increase from 283.44 hours in March of 2017 to 1556.16 hours for the month of
+March 2018 and from 851.85 hours YTD in March 2017 to 3216.29 for the YTD in
+2018.
+While RTD did provide in excess of 98.4% of all scheduled hours of service in the
+month, it was necessary to cover 2647 shifts by operators working a 6th day (one of
+their schedule days off). This represents approximately 21,176 hours of service being
+provided by a “6th day” RTD operator and does not include the mandated service hours
+provided by our contractor partners, First Transit and TransDev.
+Contributing to our service challenges in March were several bus bridges and several
+snow days as well as a number of maintenance related challenges at TransDev which
+we are in the process of addressing with TransDev staff. Staff continues to work with
+Human Resources and other departments to address ways to improve recruitment and
+retention among bus operators.
+
+Attachment: Service Availability Memo 4 10 18 (3451 : Service Availability Update)
+
+2.C.4.a
+
+Packet Pg. 104
+
+Lost service hours review
+
+2.C.4.b
+
+weekday hours
+contractor
+missed runs
+pullout delay
+
+4504.00 wkday
+subtotal %
+
+rtd
+missed runs
+
+pullout delay
+
+5714.00 wkday
+subtotal %
+
+rtd & contractor
+missed runs
+pullout delay
+
+10218.00 wkday
+total
+%
+
+5.54
+
+61.36
+
+66.90
+
+5.54
+
+67.49
+
+73.03
+
+3E‐06
+4.33E‐06
+1.18E‐05
+1.89E‐06
+1.55E‐06
+6.55E‐06
+4E‐06
+2.44E‐05
+8.88E‐07
+1.11E‐06
+1.25E‐05
+1.37E‐05
+
+2.10
+12.27
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+2.47
+0.00
+0.00
+0.00
+16.84
+
+12.16
+12.05
+4.03
+8.05
+3.59
+4.49
+3.42
+7.19
+6.59
+7.27
+8.11
+7.40
+84.35
+
+14.26 0.000125
+24.32 0.000213
+4.03 3.53E‐05
+8.05 7.04E‐05
+3.59 3.14E‐05
+4.49 3.93E‐05
+3.42 2.99E‐05
+7.19 6.29E‐05
+9.06 7.93E‐05
+7.27 6.36E‐05
+8.11 7.1E‐05
+7.40 6.48E‐05
+101.19
+
+2.10
+12.27
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+2.47
+0.00
+0.00
+0.00
+16.84
+
+12.43
+12.44
+5.09
+8.22
+3.73
+5.08
+3.78
+9.39
+6.67
+7.37
+9.24
+8.63
+92.07
+
+14.53 7.11E‐05
+24.71 0.000121
+5.09 2.49E‐05
+8.22 4.02E‐05
+3.73 1.83E‐05
+5.08 2.49E‐05
+3.78 1.85E‐05
+9.39 4.59E‐05
+9.14 4.47E‐05
+7.37 3.61E‐05
+9.24 4.52E‐05
+8.63 4.22E‐05
+108.91
+
+2014
+Jan‐14
+Feb‐14
+Mar‐14
+Apr‐14
+May‐14
+Jun‐14
+Jul‐14
+Aug‐14
+Sep‐14
+Oct‐14
+Nov‐14
+Dec‐14
+total
+2015
+Jan‐15
+Feb‐15
+Mar‐15
+Apr‐15
+May‐15
+Jun‐15
+Jul‐15
+Aug‐15
+Sep‐15
+Oct‐15
+Nov‐15
+Dec‐15
+total
+2016
+Jan‐16
+Feb‐16
+Mar‐16
+Apr‐16
+May‐16
+Jun‐16
+Jul‐16
+Aug‐16
+Sep‐16
+Oct‐16
+Nov‐16
+Dec‐16
+total
+note:
+
+total
+note:
+
+6.13
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.27
+0.39
+1.06
+0.17
+0.14
+0.59
+0.36
+2.20
+0.08
+0.10
+1.13
+1.23
+7.72
+
+0.27
+0.39
+1.06
+0.17
+0.14
+0.59
+0.36
+2.20
+0.08
+0.10
+1.13
+1.23
+7.72
+
+0.00
+0.44
+0.00
+0.00
+0.00
+0.00
+9.11
+23.48
+54.09
+93.55
+385.21
+264.07
+829.95
+
+0.37
+1.22
+0.27
+2.19
+1.31
+0.51
+9.11
+16.56
+19.51
+38.49
+91.16
+100.33
+281.03
+
+0.37 4.11E‐06
+1.66 1.84E‐05
+0.27
+3E‐06
+2.19 2.43E‐05
+1.31 1.45E‐05
+0.51 5.66E‐06
+18.22 0.000202
+40.04 0.000444
+73.60 0.000817
+132.04 0.001466
+476.37 0.005288
+364.40 0.004045
+1110.98
+
+1.49
+0.00
+0.00
+1.37
+5.22
+2.20
+7.43
+0.00
+15.14
+1.24
+30.23
+77.25
+141.57
+
+8.15
+9.38
+7.16
+7.28
+8.41
+5.16
+16.58
+9.55
+5.50
+16.47
+11.08
+35.32
+140.04
+
+9.64 8.44E‐05
+9.38 8.21E‐05
+7.16 6.27E‐05
+8.65 7.57E‐05
+13.63 0.000119
+7.36 6.44E‐05
+24.01 0.00021
+9.55 8.36E‐05
+20.64 0.000181
+17.71 0.000155
+41.31 0.000361
+112.57 0.000985
+281.61
+
+1.49
+0.44
+0.00
+1.37
+5.22
+2.20
+16.54
+23.48
+69.23
+94.79
+415.44
+341.32
+971.52
+
+8.52
+10.60
+7.43
+9.47
+9.72
+5.67
+25.69
+26.11
+25.01
+54.96
+102.24
+135.65
+421.07
+
+10.01 4.9E‐05
+11.04 5.4E‐05
+7.43 3.64E‐05
+10.84 5.3E‐05
+14.94 7.31E‐05
+7.87 3.85E‐05
+42.23 0.000207
+49.59 0.000243
+94.24 0.000461
+149.75 0.000733
+517.68 0.002533
+476.97 0.002334
+1392.59
+
+210.12
+522.58
+794.17
+27.30
+27.08
+7.13
+1.50
+18.26
+273.44
+508.47
+288.29
+402.13
+3080.47
+
+61.15
+56.12
+22.57
+15.59
+12.02
+9.14
+6.17
+9.22
+79.36
+134.03
+64.51
+86.29
+556.17
+
+271.27 0.003011
+578.70 0.006424
+816.74 0.009067
+42.89 0.000476
+39.10 0.000434
+16.27 0.000181
+7.67 8.51E‐05
+27.48 0.000305
+352.80 0.003917
+642.50 0.007133
+352.80 0.003917
+488.42 0.005422
+3636.64
+
+90.12
+353.01
+297.34
+126.16
+38.56
+84.22
+89.34
+45.37
+36.04
+99.36
+20.58
+83.30
+1363.40
+
+41.03
+41.22
+13.41
+9.11
+11.21
+17.01
+6.28
+7.35
+10.34
+4.54
+8.14
+14.49
+184.13
+
+131.15 0.001148
+394.23 0.00345
+310.75 0.002719
+135.27 0.001184
+49.77 0.000436
+101.23 0.000886
+95.62 0.000837
+52.72 0.000461
+46.38 0.000406
+103.90 0.000909
+28.72 0.000251
+97.79 0.000856
+1547.53
+
+300.24
+875.59
+1091.51
+153.46
+65.64
+91.35
+90.84
+63.63
+309.48
+607.83
+308.87
+485.43
+4443.87
+
+102.18
+97.34
+35.98
+24.70
+23.23
+26.15
+12.45
+16.57
+89.70
+138.57
+72.65
+100.78
+740.30
+
+402.42 0.001969
+972.93 0.004761
+1127.49 0.005517
+178.16 0.000872
+88.87 0.000435
+117.50 0.000575
+103.29 0.000505
+80.20 0.000392
+399.18 0.001953
+746.40 0.003652
+381.52 0.001867
+586.21 0.002869
+5184.17
+
+125.23
+173.27
+66.35
+97.38
+100.40
+58.58
+174.28
+468.39
+811.88
+555.66
+141.10
+61.97
+2834.49
+
+46.37
+44.53
+31.26
+9.15
+26.04
+22.09
+93.51
+237.01
+362.40
+311.50
+96.36
+76.82
+1357.04
+
+171.60 0.001905
+217.80 0.002418
+97.61 0.001084
+106.53 0.001183
+126.44 0.001404
+80.67 0.000896
+267.79 0.002973
+705.40 0.007831
+1174.28 0.013036
+867.16 0.009627
+237.46 0.002636
+138.79 0.001541
+4191.53
+
+443.00
+529.93
+
+78.00
+28.58
+174.42
+52.53
+32.51
+97.07
+34.08
+49.06
+335.58
+195.00
+172.17
+375.75
+1624.75
+
+21.16
+51.27
+11.41
+22.55
+26.21
+25.39
+13.41
+20.35
+58.35
+43.15
+40.11
+111.83
+445.19
+
+99.16 0.000868
+79.85 0.000699
+185.83 0.001626
+75.08 0.000657
+58.72 0.000514
+122.46 0.001072
+47.49 0.000416
+69.41 0.000607
+393.93 0.003447
+238.15 0.002084
+212.28 0.001858
+487.58 0.004267
+2069.94
+
+203.23
+201.85
+240.77
+149.91
+132.91
+155.65
+208.36
+517.45
+1147.46
+750.66
+313.27
+437.72
+4459.24
+
+67.53
+95.80
+42.67
+31.70
+52.25
+47.48
+106.92
+257.36
+420.75
+354.65
+136.47
+188.65
+1802.23
+
+February 2016 hours attributable to Feb1‐3 snowstorm:
+february 2016 lost hours excluding snowstorm
+
+2018
+Jan‐18
+Feb‐18
+Mar‐17
+Apr‐17
+May‐17
+Jun‐17
+Jul‐17
+Aug‐17
+Sep‐17
+Oct‐17
+Nov‐17
+Dec‐17
+
+note:
+
+6.13
+
+February 2016 hours attributable to Feb1‐3 snowstorm:
+february 2016 lost hours excluding snowstorm
+
+2017
+Jan‐17
+Feb‐17
+Mar‐17
+Apr‐17
+May‐17
+Jun‐17
+Jul‐17
+Aug‐17
+Sep‐17
+Oct‐17
+Nov‐17
+Dec‐17
+
+total
+
+0.00
+
+119.63
+96.35
+467.75
+
+52.43
+29.28
+33.42
+
+683.73
+
+115.13
+
+172.06 0.00191
+125.63 0.001395
+501.17 0.005564
+0.00
+0
+0.00
+0
+0.00
+0
+0.00
+0
+0.00
+0
+0.00
+0
+0.00
+0
+0.00
+0
+0.00
+0
+798.86
+
+February 2016 hours attributable to Feb1‐3 snowstorm:
+february 2016 lost hours excluding snowstorm
+
+270.76 0.001325
+297.65 0.001456
+283.44 0.001387
+181.61 0.000889
+185.16 0.000906
+203.13 0.000994
+315.28 0.001543
+774.81 0.003791
+1568.21 0.007674
+1105.31 0.005409
+449.74 0.002201
+626.37 0.003065
+6261.47
+
+Attachment: Lost Service Hours 4 10 18 (3451 : Service Availability Update)
+
+2013
+total
+
+443.00
+529.93
+
+425.95
+732.78
+889.87
+
+66.03
+137.68
+165.12
+
+2048.60
+
+368.83
+
+491.98 0.004305
+870.46 0.007617
+1054.99 0.009232
+0.00
+0
+0.00
+0
+0.00
+0
+0.00
+0
+0.00
+0
+0.00
+0
+0.00
+0
+0.00
+0
+0.00
+0
+2417.43
+
+545.58
+829.13
+1357.62
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+2732.33
+
+118.46
+166.96
+198.54
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+483.96
+
+664.04 0.003249
+996.09 0.004874
+1556.16 0.007615
+0.00
+0
+0.00
+0
+0.00
+0
+0.00
+0
+0.00
+0
+0.00
+0
+0.00
+0
+0.00
+0
+0.00
+0
+3216.29
+443.00
+529.93
+
+Packet Pg. 105
+
+

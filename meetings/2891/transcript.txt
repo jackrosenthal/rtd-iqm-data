@@ -1,0 +1,1820 @@
+July 30, 2019
+Study Session
+DAVE GENOVA: Different topics and things we've been discussing in that realm and, of course,
+our strategic priorities of the last couple years of enhancing current and future transportation needs
+and methods. And so as we get ready to embark on a lot of the meat of this work, which the Board
+will recall we're getting ready to do a comprehensive system optimization and a comprehensive
+operational analysis, but we wanted to give those terms a little bit more meaning. So we're calling
+this body of work that we're getting ready to embark on over the next year and a half to two years
+Reimagine RTD.
+So this graphic that's on the screen tonight hopefully puts it in a little bit of perspective. It does not
+replace our Transportation Transformation. That's really the umbrella of all the things we're doing
+under that initiative. Reimagine RTD is just as this body of work that we're going to be embarking
+on.
+And so you can also see from the slide the different kinds of inputs going into Reimagine RTD.
+And about five of those will look very familiar because they are strategic priorities for 2020,
+including enhanced current and future transportation, communications, collaboration, and
+transparency, transit equity, ridership, safety and security, and, of course, the Board's desire for
+fiscal sustainability to be overarching throughout all of those strategic priorities. And then, of
+course, we've added on other topics that we'll be informing this work in terms of workforce and
+our technology collaboration.
+So I just wanted to frame that a little bit. Tonight's effort and work is really kind of our unofficial
+kickoff of the Reimagine RTD, as we're working through getting the contract done with our
+consultant team. We'll be doing an official kick off of that a little bit later.
+So that's the rationale behind tonight. I think you're going to see a lot of great information.
+Hopefully it will be very thought provoking for you, thinking about ideas and various priorities
+that you have in mind. So Mr. Chair, I'll turn it back to you.
+DOUG TISDALE: Thank you very much, Mr. Genova. We appreciate that. Let me-- and for the
+sake of the record, Director Lewis has joined us here so we can note that please. Let me give you
+some background about why we're here this evening with Jarrett Walker. Mr. Genova has had the
+opportunity on several occasions to see and hear Jarrett Walker make presentations relative to
+transportation issues and subject matters that are all very near and dear to our hearts and to that of
+Jarrett Walker.
+I had the privilege of seeing him and hearing him in Louisville, Kentucky at the Mobility Summit
+that we had. And it was an exceptional experience. And the man has a great skill at being able to
+take some complex issues and bring them down into workable terms, bite-sized pieces, and to
+share that information with all of us.
+
+And he's spent a great deal of time in preparation on this, in localizing it to RTD. And he has
+worked hard with our staff in that preparation as well. I'm not going to go into his biography at
+length. I'll do that somewhat tomorrow morning with some of the people who have not had the
+opportunity because we, in our Board packets, have received and reviewed the biography
+materials.
+And I want Mr. Walker to feel at home. Feel free to walk around and stretch your legs as you talk.
+You're not constrained. Recognize that those of us who are up front see what's on the screen on
+the other monitors in front of us. So we won't have to turn our back on you at any time. And with
+that, it is my distinct privilege-- oh, and noting for the record that Director Mihalik is also present
+here in the room. So we have all of the directors, either present in person or on the phone. So let
+me with that and with no further ado, ladies and gentlemen, I give to you Dr. Jarrett Walker.
+JARRETT WALKER: Thank you very much, Chair. I have a theater background so I am already
+thinking about the layout of the room and how to make things work. And I wonder, if you mind,
+if I brought my chair around to this side of the table. Everyone OK with that?
+So that Board members on this side of the table can see me. I could also stand up and do a song
+and dance, if you would like. Generally when I'm working with a Board, if I stand up and do a
+song and dance, you all just sort of sit back and let me do it. And I would rather this be a
+conversation.
+So by staying seated and on the same level, I hope that you will feel confident to ask questions as
+they come up in your mind as we go through this. Because if I'm not making sense, there's no point
+in me continuing. So if I'm not making sense, please ask a question. I may say, that's coming. I'll
+get back to that. But by all means, let's all stay present here.
+So I thought it would call this-- well, OK, a little more about me. I've been doing public transit
+planning for about 25 years over 50 metro areas now in 9 countries. I wrote a book about it, which
+is a very friendly explanation of transit issues to anyone who is going to have to think about them.
+My firm, for the last 10 years, has been doing a lot of network redesign, which is something that I
+know you're embarking on. We have a lot of ridership increasing network redesigns under our
+belts.
+But the most important thing about our particular approach and my particular approach to this is
+that I see my mission as being to foster clear conversations about transit, leading to confident
+decisions. I am a consultant who aspires never to make a recommendation. My goal is always to
+help you to help leaders and communities reach their own decisions. And my only role here is to
+help describe consequences of options and to present choices that seem to arise. I have no stake in
+what you decide.
+Now, this may seem an odd place to begin. But I'm going to ask everyone to think about the
+question, how many adult elephants would fit in a wine glass? The reason I ask this question is
+that I ask you to notice the kind of certainty that you have about the answer to that question. That
+kind of certainty is called geometric or axiomatic certainty.
+
+It's a certainty about the basic structure of reality, that objects don't fit in containers that are smaller
+than themselves. And life is not even conceivable if we don't believe things like that. The reason I
+want to pause over that is that we are bombarded by all kinds of claims of certainty, emotional
+certainties, cultural certainties, simply empirical certainties, social science certainties, all of which
+are very interesting, and none of which are remotely as certain as this is.
+And because we are so certain about things like this, it's important to notice that a lot of what we
+know about transit, a lot of what we know about the what choices we have to make when we think
+about transit, we know like we know about elephants and wine glasses. We know it geometrically.
+And although geometry doesn't necessarily get us excited, what you're going to find in this
+presentation is I'm going to mark very clearly when I'm talking about geometry. Because if we can
+recognize that we're in the presence of geometric facts, it drains a lot of the emotion out of it, and
+it helps us feel really sure.
+So let's talk about one of most fundamental issues about the role of transit and the problem that
+transit solves, which is the problem of space. Now, this is a problem that denser cities, like Denver
+and Boulder, have more than some of the other parts of the region. But it is a problem that comes
+up anywhere, if you intend to grow more dense.
+It also becomes a problem simply as a recent region grows horizontally and travel distances get
+longer. And the problem is simply this. You've all seen this image. This is how much space 60
+people take if they are on a bus, how much of the street they take up. And here are the same 60
+people in private cars.
+Now, we've all heard that revolutionary innovation is changing everything about transportation.
+So just to bring that along, here's what it looks like once everyone is using Uber and Lyft. And
+then once we have driverless cars, it looks like this.
+There's actually a reason, which raises the possibility that, if we ever have driverless cars, the only
+way we will achieve the space efficiency that we need in dense cities is to also have the driverless
+bus. As we think about everything that's coming at us about innovation, we need to sort things out
+and make sure we're thinking clearly about it. And it's really helpful to remember that although the
+innovation PR people want to sell us a complete integrated vision of what our cities will be like,
+such that our only role is to prepare for it because it's coming, in fact, there are several different
+and quite separable problems which have quite different and separable solutions. And it's best not
+to confuse them. It's best to keep them very separate in our minds.
+So one problem, which I think we've made enormous progress on already, is the problem of
+communications, the way that inefficiencies in the transport network arise from people not
+knowing what's happening. Think about all the ways that real-time directions and real-time traffic
+information have helped motorists know where to avoid and has assorted out traffic flow and has
+done enormous things for transit as well. That's the world of apps and information technology,
+great stuff.
+
+There is a separate and unrelated problem about emissions, climate impacts, and the efficient use
+of energy, so pollution, both local and at the climate level, energy efficiency. Electric vehicles are
+a great step in this direction. They are completely separable, however, from other steps.
+There is the problem of the efficient use of labor. And there is also a major problem of safety in
+our transportation system. And autonomous vehicles promise to be a response to both of those
+problems, to the extent that they ever are ready. And finally, there is a completely unrelated and
+separable problem that dense cities have, but also that horizontally growing urban regions have.
+And that is the efficient use of space, for which the only solution, as I illustrated in the previous
+diagram, is a large vehicle which carries large numbers of people in very little space.
+Now, let me pause here. There are actually two geometrically coherent solutions to this problem,
+the problem of efficiently using space. One is having lots of people share a vehicle. The other is
+the person-sized vehicle, that is to say the bicycle, the scooter, all the other ways in which we move
+faster than we can walk without taking more space than our bodies take, which is the key thing
+that those things achieve.
+So that person-sized vehicle is another part of the mix. The thing that's immediately obvious,
+though, if you think about it, is that transit is going to specialize around a somewhat longer trip.
+And the person-sized vehicle is going to specialize around a shorter trip. And that's a lot of the
+natural harmony between those two things. But they are both good solutions to the efficient use of
+space. Yes?
+KATE WILLIAMS: I'm sorry. So would you put connected vehicles under communications or
+under autonomous vehicles?
+JARRETT WALKER: I would put connected vehicles, in the sense of providing, for example,
+better and better information, even to a human driver, that goes under communications. The things
+that autonomous vehicles achieve, they really achieve when you no longer need the human driver.
+And that's a bit of a journey yet.
+So another thing to remember is that given that we don't have autonomous vehicles yet, the preautomation reality is that the efficient use of labor is also something that drives us toward largescale public transport, right? Public transit operating cost is mostly labor. Carrying more people
+with fewer drivers, which is what the big vehicle does, is fundamentally a more efficient use of
+labor in terms of the amount of benefit it's providing.
+So pre-automation, the efficient use of labor is also something that drives a toward fixed transit.
+And of course, fixed transit is also a much safer way to travel than anything you can do in small
+cars. So any questions about that? That's an example of a sort of basic geometric argument.
+And the thing to remember about this is when I'm at tech conferences, people are always coming- I'm talking about communications. I'm talking about a particular transit project. And people say,
+but electric vehicles. And I say, yeah, that's great. Electric vehicles is an emissions problem, over
+there. Yes, let's do electric vehicles.
+
+Meanwhile we have to talk about big vehicles. No, we can have small vehicles because they're
+electric. No, mixing two unrelated issues, right, the efficient use of space, as opposed to energy
+and emissions efficiency, is the point.
+So when we trying to think about how to organize our thinking about transit and to decide what
+would constitute-- to create a coherent goal for transit, one of the things I've observed over the
+years is that lots of people who think they want different things actually want the same thing, if
+you think about it right, if you describe it the right way.
+And the useful metaphor I've come up with for this is the idea of the wall around your life. Think
+about the ways that all of us are, relatively speaking, in some sort of enclosure, in some sort of
+prison, where there are walls limiting what we can do. And those walls are walls of travel time.
+That beyond a certain distance, that if you can't get to a place in a certain amount of time, there are
+a whole bunch of things you can't do.
+So in this image from our Dublin network redesign in Ireland, you imagine someone at a
+hypothetical location saying, where could I go in 45 minutes? And the answer to that is a blob.
+And within that blob-- and so to ask this question is to also ask, what jobs could I hold? Where
+could I go to school? Where could I worship? What clubs could I belong to? Who will I meet?
+All those things are fundamentally dependent on where you can get to in a reasonable amount of
+time. So that blob is an answer to that question. That blob is kind of the wall around the possibilities
+of your life.
+So if in the course of a transit plan we can move that blob outward, we have actually made people
+freer. We've given them more freedom and opportunity in their lives because, of course, freedom
+fundamentally is meaningful only in the context of having meaningful choices, right? You only
+have the freedom to choose which grocery store to shop at if you can get to more than one grocery
+store.
+There are all those things where freedom arises fundamentally from the presence of choices. And
+the presence of meaningful choices means you need to be able to get to enough places, quite apart
+from the more fundamental, I think, animal sensation of freedom, the need to move that is
+addressed by what we're describing here. So the interesting question is, what if we just wanted
+people to be freer? What if that were one of our criteria?
+As it turns out, if you wanted high ridership, this is pretty much the same thing. Because describing
+a transit network that makes people freer, you can also describe as a transit network that is more
+likely to be useful to more people in their situation. So here, for example, I'm talking about the
+range of a person's possibilities in life. And I'm saying, we want to make them bigger.
+But you could also think about a city where a person already has to make a particular commute to
+a place that's maybe outside this blob. And they don't use transit transit's not useful. And then we
+bring it inside the blob. And now that same trip becomes possible on transit. And this is the most
+reliable way to grow ridership in a sustained way, is to make transit more useful.
+
+And as much as we talk and as important as it is to talk about the look-and-feel aspects of transit,
+the customer service aspects of transit, most of the failures of public transit that I see in the United
+States, most of the disappointing ridership outcomes can be directly attributed to measurable lack
+of freedom, measurable lack of usefulness. So this is really at the heart of it. So with this sort of
+analysis, right, I can say that with this plan, Jane can get to so many more jobs, which is to say that
+in terms of economic opportunity, she's 43% freer.
+And obviously this becomes something that, quite apart from the fact that it tends to lead to
+ridership growth, is also something people care about in itself. Stop and think for a moment about
+how we talk about the triple bottom line, about how we talk, for example, about prosperity
+outcomes. Well, any sense of shared prosperity starts with access to jobs and opportunity.
+Justice outcomes-- what are we trying to distribute justly or equitably? Surely what we are trying
+to distribute justly and equitably is freedom and opportunity and that that can help us perhaps shift
+some of our conversation away from often error disputes about whether it is just this particular
+improvement happened in this area, but not in that area, when what really matters is how are we
+distributing the actual ability to do things? And of course, most environmental benefits which arise
+from ridership are going to rise from a transit network that is more useful, which is exactly what
+this is measuring.
+So I want to suggest that as we think about the conventional triple bottom line, as we're used to
+sitting through all these conversations about how these different elements of that bottom line, the
+economic, social, and environmental elements seem to be in conflict. That this is actually inside
+of all of them. This is actually underlying all of them and is a potential point of agreement among
+all of them.
+So I dare to suggest that transport planning is freedom planning because what we are doing when
+we plan transportation services is deciding where people will be able to go, which is to decide
+what they will be able to do, which is to decide how free they will be. And as I said, it's inside of
+all of these other things that we already care about. Now, so how do you make freedom? How do
+you generate a high-freedom network? How do you generate a network whose freedom outcomes
+make this a logical choice compared to other options people may have?
+Well, first of all, and this may be my most controversial slide, not all projects, not all transit
+projects are designed to maximize freedom. We have had examples in other cities of transit projects
+which spent a great deal of money, got a whole bunch of other benefits that people loved, and did
+not increase anyone's ability to go anywhere. An example in my home city, Portland, Oregon,
+would be the Portland Streetcar Project, which is much loved by a lot of peoples.
+The real estate industry loves it because they feel it stimulated a lot of development, all wonderful.
+We have this great neighborhood built around it now. But it doesn't do anything that a bus in its
+place couldn't have done at much lower costs that would have enabled us to distribute those
+benefits much more widely. It was, in that sense, a sort of zero-freedom proposal, whose
+justification lay entirely in other non-freedom things that it supposedly did.
+
+There are other examples like that in other cities, where quite simply, increasing freedom just
+hasn't been particularly important in the whole list of criteria that governed a particular project.
+The second important point is that freedom almost never arises from one project. It arises from
+how projects and services work together.
+The reason that network gets to a certain size is not because we added one line, but we added a
+whole bunch of connection opportunities and a whole bunch of new ways that things connect with
+each other so people can get from one vehicle onto another more easily and thereby get to a whole
+bunch more places. It's never just about the project. And whenever I'm in a conversation about a
+project, a let's-build-a-rail-line conversation, I'm always the one pounding the table saying, how
+do the bus connections work?
+And when they tell me, oh, that's a detail we'll figure out an implementation, I say no, it's not a
+detail because it actually goes to the fundamentals of where people will actually be able to go and
+thus what they'll be able to do. When you think, understanding that you, like many Boards, are in
+districts that are responsible to different parts of the region, one of the problems that often arises
+in other regions is that Boards who function that way have conversations like, well, you got yours
+in your district. Where is mine in my district? Or what am I getting in my district?
+[INTERPOSING VOICES]
+[LAUGHTER]
+JARRETT WALKER: No. No. This purely arises in other regions. And I'm presenting it purely as
+a cautionary note, not that you would ever have to deal with these issues yourselves. And the point,
+obviously, is that it's a little bit analogous to when a city council has a debate about libraries, right?
+We've got a library of over here. We've got a library of over there. We've got library over there.
+They've got libraries over there. Where's the library in my district? That's inequitable.
+But this is not like libraries because a library produces benefits right around itself. Like, if it's just
+at a fire station or anything else. But transit only produces benefits from the way it plugs into the
+entire network.
+In fact, when people try to take create transit in isolation, what they end up creating are little buses
+going around in circles, which turn out not to be very useful to very many people. It is the straight
+line that connects you out into a lot of other places that gets you to a lot of other places that makes
+that blob really big. And so we always have to be aware that just because a project is not in your
+district, doesn't mean it doesn't benefit your district.
+A common issue that is arising in many cities, less so in Denver, but in many other cities, many
+cities have built light rail networks that lack any surplus capacity downtown. You're fortunate to
+have essentially two light rail lines through downtown. Many cities have only one.
+Dallas, for example, cannot really get to a consistent 15-minute frequency on its light rail because
+too many lines are jammed through one segment downtown. Now, that's a simple example, where
+
+they went out and built everything that everyone wanted in the suburban district. But the only way
+the system is going to function is if they now make a big investment in downtown. And they're
+going to have to understand that just because this big investment is in one district, doesn't mean it
+is just for that district, which is a very common problem with what we call these core capacity
+problems that arise in many districts.
+Excuse me. I can be a little demonstrative sometimes.
+[LAUGHTER]
+So finally, remembering, too, that equitably distributing projects, as we would equitably distribute
+libraries, is not the same thing as equitably distributing freedom and opportunity. Because a
+particular kind of tool or a particular kind of thing that is right in some places to deliver freedom
+and opportunity, may not deliver freedom of opportunity in other places. So my funny metaphor
+about this-- forgive me if this is too obvious.
+Imagine a coastal city, like Chicago or Los Angeles, where the city decides to build a bunch of
+fishing piers and boat ramps. And would the city council have a conversation and say, well, we
+need one of these in every council district? Or would they agree that, in fact, it only makes sense
+to build them on the coast, where there is water to fish in and to launch boats into?
+And that's a nice example of how equity arguments can get distracted by the thing, when clearly
+in this example the thing you actually want to distribute equitably is the ability to fish and the
+ability to launch boats, which arises necessarily from putting fishing docks and boat ramps on the
+water, even though that necessarily puts them in certain parts of the city. So this has come up over
+and over in the history of transit. Los Angeles is a great example of a city that has gone through
+numerous stages, where a particular kind of transit service was developed that was perfect for one
+particular set of problems in the city. They worked very well there.
+And then there was this, well, we need that thing everywhere else, including in places where it
+doesn't work, exactly like building a fishing dock without any water to fish in. And that produced
+a lot of unsuccessful projects and a lot of confusion. Whereas if we focus instead on the equitable
+distribution of an outcome, like freedom and opportunity, you can have a different and more
+productive conversation.
+I'm still not saying it's easy. Any questions about that before I move forward? OK. Now I need to
+tell you a little bit about exactly what a transit agent's transit network does, what a transit planner
+does if they want to create a high-freedom network, a network in which lots of people can go to
+lots of places so they can do lots of things, and which transit is therefore very useful for lots of
+purposes.
+So the first challenge, when we think about the city in particular, is that in rural life, it makes
+complete sense. We all get in our cars and trucks, and we go off and pursue freedom by ourselves,
+right? We can do that in rural life. Density is low enough. We can go where we want to go, do
+what we want to do. The car seems like a natural way to do that.
+
+But in the city, it doesn't work. Abraham Lincoln famously said that those who would deny
+freedom to others deserve it not for themselves. And this is a picture of Lincoln's idea. Because
+what's happening in traffic congestion is that your freedom is being denied because that car is in
+your way, in the very same act of you denying the freedom of the car behind you, right?
+It is intrinsic to traffic congestion that everyone is denying everyone else's freedom, and so which
+is why it reminds me of Lincoln's epithet. So it brings us back to the notion that securing
+everybody's freedom is actually a collective project, once we are either in a dense city or in a region
+that is horizontally large enough to generate that kind of travel demand. So let's come back to the
+elephant in the wineglass now, because another interesting thing about freedom as an outcome is
+that I can calculate it purely geometrically.
+Think about all of the conversations you probably had about ridership predictions. What will the
+ridership be if we do this or that? And there's a whole industry of ridership modeling that tries to
+predict that stuff. And in that model, there's actually two steps, and it's worth thinking about them
+separately because we have very different kinds of certainty about them.
+The path from a network and a land use pattern, network plus land use pattern gives me a
+calculation of freedom. And that's a purely mathematical or geometric calculation. There's no
+mystery to that. And we're very, very sure about that answer.
+But to get from there to a ridership prediction, well, now we're into the social sciences. Now we're
+into market research. Now we're into a whole lot of complexity. And in the end, you know what?
+Ridership is just volatile. It's just volatile for reasons nobody can quite explain. And predicting
+ridership is a perilous thing to do in the best of times.
+And so what we try to do in our work is say, look, don't just focus on the ridership prediction.
+Focus on the freedom outcome because that we're sure of. That's geometry. And then also
+recognize that there's a long track record showing that indeed if you improve freedom, or which is
+to say the same thing, if you make transit useful to more people in their situations, you get more
+ridership. Because the primary reason people don't use transit is that it is objectively and
+measurably useless to.
+So think about the separability of those things and think about the fact that brilliant as the social
+science experts are who get us from freedom to ridership predictions, no social science observation
+will ever be as certain as we are about a geometric calculation. So how do we expand these blobs?
+The ridership recipe, which is also the freedom recipe, arises from high-frequency service
+following particular patterns of development, because that's how you bring the most useful
+destinations within the reasonable travel time of the most people.
+And let me just quickly talk through the elements of that. Frequency is the most neglected element
+of transit. By neglected, I mean that, if just four decision makers, who are themselves motorists,
+and who experience the city primarily as motorists, frequency is not going to be an obvious idea
+because it doesn't really exist in the motorist's world in the same way as it does in the transit world.
+
+But frequency, it is an overwhelming demand. There's also the problem, by the way, that we can't
+take pictures of frequency. We're all sending images around on Instagram, right? But I can't take
+a picture of frequency. I can take a picture of an electric bus or a nice bus or whatever, but I can't
+take a picture of the experience of frequency. I can't take a picture of the experience that you don't
+worry about the schedule because you go out there and it comes. I can't take a photograph of that.
+Frequency is a cubed benefit. It does three mathematically independent cool things. It means you
+go when you want to go. It means you make connections easily to get to more places. The ability
+to get off one vehicle onto another depends fundamentally on frequency. And finally, it's less risk
+of being stranded by a disruption. So it's kind of backstop from the liability.
+Because those three things are logically independent, it's not surprising that the payoffs of
+frequency are non-linear. So every time my firm does a transit plan, we take all their route-byroute performance data and dump it into a big database and keep growing it. And what happens is
+that higher frequency is toward the left here on the y-axis, higher productivity. Productivity is the
+ratio of passenger boardings divided by the quantity of service provided.
+Now, the interesting thing about this is that as you increase frequency, that is increasing the
+quantity of service, then you would expect the productivity ratio to go down, wouldn't you, because
+you're increasing the bottom of the ratio. But in fact, the relationship runs the other way. And you
+can even see a little bit of curvature to it, that particularly when we get up to about that 15-minute
+frequency, you start seeing productivity really taking off.
+Now, this doesn't necessarily mean that if you change a particular route you will get this outcome.
+This is an observation of lots of bus routes in lots of cities. And high-frequency routes are more
+likely to also be in places with favorable land use patterns. But in general, this relationship is very
+striking and very consistent.
+And again, don't just rely on data. Rely on being able to think about it this way. It's a cubed benefit.
+It has three independent cool things that it does. So of course, the payoff is non-linear because
+each of those things that has a linear payoff in itself.
+Now, there are a bunch of other cool things about frequent service, and particularly about frequent
+bus service which is going to be the service that you can realistically deploy over the largest area.
+One of the cool things about frequent bus service, in particular, is the nexus with affordability,
+which is starting to become an issue here and certainly in a lot of the cities I work in. Portland,
+where I live, it's an existential emergency. But everywhere that it's a concern, keep this in mind.
+Frequent bus service, well-designed and well respected by the cities it operates in, can be very
+liberating. It can be extremely useful for expanding those blobs of access. But unlike rail, you can
+get it to enough places that it can't possibly drive up housing prices wherever it touches in the way
+that rail often tends to do.
+Rail creates the huge uplift of land value right around the station, which tends to be associated
+with relatively expensive development. When the housing emergency, to the extent that our cities
+are experiencing one, is much more about getting quantity over a larger area, but how do you make
+
+that livable? The key thing is a good frequent bus network that has outcomes that are measurable
+in terms of where you can get to in a reasonable amount of time, which can be very good, even if
+you're not near a rail station.
+The other thing that has become very important-- we do this in Portland-- is that if you can show
+a large access outcome, if you can show that it's easy to get to lots of places from this point on
+transit, that's a very strong argument for reducing parking requirements for apartments. So you
+build apartments with less parking because-- and then the market will figure it out. Plenty of people
+don't own cars or don't want to own cars and will choose those apartments that don't come with
+parking. They'll be cheaper as a result. And the whole building will be cheaper to build as a result
+of having less parking, and everyone wins.
+You get a more affordable unit. And the key to all of it is to be on a frequent bus network, but only
+the key to that is that blob, where you could get to from there. Here's what that looks like in
+Portland.
+They told us for years that we had to build a street car to get this outcome. But once we stopped
+building street cars and just started cultivating our frequent bus network, it turns out you can get
+this on a frequent bus line. This is Southeast Division Street in Portland near my office. This is all
+flipped in the last decade and is a very nice street now. The frequent bus is the only public transit
+to this location.
+So that's the fun part is the good part, what we can do. Now we have to talk about the tough part,
+which is that we can't do it everywhere. If you're going to deploy something as expensive as
+frequency, and if we're ultimately going to have to measure this on how many people have
+experienced the benefit of the vast increase in access, then it makes sense that we're going to want
+to increase access most from points where there are lots of people to benefit from that.
+And there are a few other things about how that works, too, that identify what makes a land use
+pattern that is favorable or unfavorable to high-ridership, high-freedom transit. And I have to step
+through those. This is the point where people start getting sensitive because they're going to feel
+that I'm telling them that their neighborhood is good or bad.
+So I want to clarify. I'm not saying anything about anyone's neighborhood. I'm not saying anything
+about anyone's home. I'm not saying anything about anyone's culture or community. I'm saying
+something about geometry, which is that the way a community is laid out is going to have an
+overwhelming impact on what transit can achieve there and therefore on whether intensive transit
+in that area is going to be a good investment.
+And because so many people want to take this personally, we just have to really overemphasize
+that this is not personal. This is geometry. And there's no getting around it. Density is the first of
+them.
+These two bus routes have the same operating costs. They both have two buses on them. They both
+cost the same to operate. But the one in the upper image has twice as many people or jobs around
+every bus stop. So the market for every bus stop is twice as large.
+
+So even if everyone used public transit to the same degree, we would have twice the ridership on
+that upper image. There's no getting around that. Don't take it personally.
+Walkability-- that gray dot is a bus stop. And the black circle is a quarter of a mile around the bus
+stop, which is often an abstract notion we have of walking distance. But the black lines indicate
+from where in that circle you could actually walk to that stop in a quarter mile, the street grid, in
+other words.
+In the upper image, where you have a typical connected pre-War street grid, most of the people in
+that circle can walk to the stop in a quarter mile. When you have a disconnected street grid, sound
+walls, cul-de-sacs, you are simply walling off parts of that circle, preventing them from getting to
+the bus stop, which is exactly as though the circle were less dense as far as transit is concerned.
+It's exactly as though you'd reduced the density. It means the number of people who can get to the
+stop and thereby make use of it is smaller.
+The other critical part of walkability, and this is very important in suburban contexts, is that it is
+useless to put a bus stop on both sides of a road if it is not safe to cross the road there. That is
+effectively one-way service because you're going to be taken from the stop in the morning, and
+you're going to be brought back there in the afternoon. If you can't cross the street, you can't
+complete a round trip.
+So one of the principles I'm always pounding the table about when I'm working with my suburban
+clients is a safe place to cross the street every quarter mile because then you can associate a street
+crossing with every bus stop. But if you don't have that, you really have to ask what you're
+achieving by driving down a street like this, which goes for half a mile or a mile without a safe
+place for a pedestrian to cross. You put bus stops on those sides. What are you achieving? That's
+another signal that density being equal, this is a worse transit market because people can't complete
+round trips.
+Now, my architect and developer friends all understand density and walkability. But linearity is
+something I have to explain to them because it's a distinct problem that affects transit. These two
+images are of a city made of the same poor land uses arranged in different ways.
+So density's the same. Walkability's the same. But in the upper image, those four destinations are
+all in a straight line, which means that I can run a single transit line that feels like direct path
+between any two of them. The line is also maximally fast, maximally straight. And it is also short,
+which means I can run it more frequently.
+In the lower image, those same four destinations are positioned all back off of a line on cul-desacs of various kinds. Maybe there's a little college that's up on a hill at the end of a long road.
+Maybe there's a clump of office towers that is situated to look out over a freeway interchange. But
+as a result, the towers themselves are on a cul-de-sac.
+Maybe that you have the sound-walled subdivision. You have Walmart behind a quarter mile of
+parking. You have all of these ways that the destination moves itself back away from the street or
+
+back away from the direct path. That creates a simply less efficient system for transit. Because to
+serve those same four places, I now have to squiggle.
+Squiggling means the trip is longer. Therefore there is less freedom for the people on the line
+because they can't get as far in a given amount of time. It also means the trip is more expensive
+because the line is longer, which means it costs more to operate, lose-lose-lose. Everything is
+worse for transit in that lower situation.
+So again, even if density is constant, even if walkability is constant, linearity makes a difference.
+And poor linearity, it defines a place where transit will not be able to deliver as much freedom and
+where therefore, it may be considered a less-effective investment for transit if maximizing freedom
+is the goal. And finally, proximity, this is where we apologize to our friends in suburbs that are
+relatively far out.
+It simply takes longer to get there. And that long distance is cost. And obviously this goes, to some
+extent, to the larger regional problem about commute length. To what extent is it even sustainable
+for lots of people to commute from Longmont to Denver or whatever? To what extent can we be
+encouraging more localized demand so that transit doesn't have to do so many of these very, very
+long trips that are inevitably going to be more expensive to provide?
+So I want to ask, does anyone feel like I've insulted their neighborhood, their community, or their
+district?
+[LAUGHTER]
+Because I'm just describing geometry, right? I'm not saying anything about people. I'm just
+describing geometry.
+[LAUGHTER]
+So if we accept that, then the next interesting question is, all this time I've been talking about what
+a high-freedom network, which is also a high-ridership network, looks like. But that doesn't mean
+that's what you should want. I'm simply setting up clearly what it would mean if you wanted to do
+that because it's not what every transit Board wants. There's a thing called the ridership-coverage
+trade-off, and it works like this.
+Here's a simple fictional town. The dots represent people or jobs. So dots close together mean
+density. There are two straight-line streets, and about 70% of the population and jobs are on them.
+Everything else is scattered out at low density.
+I have 18 buses. How do I design a transit system? Well, it depends on the goal. If the goal is
+maximum ridership, which is also, by the way, maximum average freedom, not maximum freedom
+for every individual, but maximum freedom on average, then I would do this. Seeking that nonlinear payoff of frequency, I would put all the buses on those two streets.
+
+Therefore, those buses are very close together. The next one is always coming soon. That very
+high frequency means that service is useful for lots of purposes. And I've put that service where I
+have 70% of the population to benefit from it. So I have followed density, walkability, and linearity
+with frequency. That will give me the highest ridership. It will also give me, if I were to calculate
+the average freedom experienced by each citizen in the city, where you can get to in 45 minutes in
+terms of jobs.
+If I average that across the city, then the spectacular outcome for the 70% that this network serves
+averages out against the zero outcome for the other 30% and gives me the highest possible answer
+for the whole city. Makes sense? Performance measures productivity, ridership relative to costs.
+But Mrs. Jones, who lives in the southeast corner of the city, does not like this plan. And I don't
+blame her. So there's a competing goal, which is give a little bit of service to everyone. And if
+that's the goal, I'll design the network like this.
+[LAUGHTER]
+So not there are 10 routes instead of 2, which means my resource is spread over 10 routes instead
+of 2, which means whereas the previous buses came every five or seven minutes, these buses come
+once an hour. Because these buses come once an hour, they're very unlikely to be going when you
+need them. They're very unlikely to be there when you need them.
+As a result, only people with very few choices use them. Oh, and certain sectors of the population
+that have a lot more flexibility in their schedules, like retired people, will tend to be comfortable
+with this. But people who have jobs and families and busy days can't work with hourly service.
+And so this puts a line everywhere. Everyone gets something. But the service is also relatively
+useless. We have now distributed across the city a very mediocre freedom outcome that everyone
+in the city gets.
+Whereas this was spectacular for 70% and 0 for 30%. This is kind of really not very much but for
+everyone. And because the service is not very useful, the ridership is very low. But that's not the
+point.
+The point is that you're measuring coverage. And when we talk about coverage, we typically use
+a measure like percentage of population and jobs near some service. And that's what we mean. We
+mean availability, which is entirely different from ridership.
+So when you think about these in policy terms and all the policies that people care about and all
+the goals that people care about, we have to face the fact that they sort into opposite goals and that
+you have to think about how those goals are going to be balanced. People want transit to think like
+a business. Lots of people want low subsidy, high-fare bus returns. Spend less to serve more
+people. That leads you to a ridership goal.
+Supporting dense and walkable development, well, that's where a ridership network will go for its
+own reasons. That's on that side of the ledger and all of the environmental benefits of transit and
+
+all the congestion benefits. If you're reducing vehicle miles traveled, if you're trying to protect the
+economy from congestion, if you're trying to reduce either local or global emissions, that all arises
+from transit being ridden not just from transit existing.
+But on the other side of the ledger, it's very hard to be against access for all. It's very hard to be
+against leave nobody behind. And of course, that leads to spending as much as you need to get to
+every last person, even the one who is in the hardest-to-reach place, the most-expensive-to-reach
+place.
+Lifeline access for everyone, who can be against that? And of course, political geography, service
+to every city or every electoral district is often also a reason why we design coverage networks.
+These aren't right or wrong. They're just opposite.
+And this is one of those awful moments, like in budgeting, frankly, where people have to choose
+between competing things that they like. And this is exactly like a budgetary question, in that you
+have to choose between competing things that you like. And both is not an acceptable answer.
+These are opposites. And I want you to understand geometrically why they're opposites. They're
+opposites because they lead to opposite kinds of networks. And when you tell your staff that you
+want both, it's like telling a taxi driver to turn left and right at the same. They can't do it.
+So we always encourage transit agencies to think about this in terms of a question about where
+you want to be on the spectrum. So for example, many transit agencies that we've worked with-well, I'll talk you through one example now. I'll talk you through one example in a minute. But
+there's a way to think through those trade-off from that way.
+Now, let's remember this choice happens at many scales. There's a regional conversation about
+this, where, yes, an extreme ridership solution for the entire region would put a lot more service in
+denser cities and a lot less service in less dense cities, but still a lot of service on the regional
+connections between cities. But you can also have a county level conversation, and you can also
+have a municipal level of conversation.
+If you're thinking about a typical low-density suburban city, there is a higher or lower ridership
+thing to do. There's a more ridership-oriented or more coverage thing you could do just in that city,
+right? The more ridership thing to do would be to concentrate on running frequent service up and
+down whatever main arterial as you have, where you've got the most people.
+The coverage thing would be to run little vans or circulators that make sure you get to everyone in
+hard-to-reach places. You can choose to isolate this question by portions of the region. This is how
+UTA does it in the Salt Lake area.
+We're doing a big project for UTA right now. We're having a public conversation about exactly
+this question, drawing out everybody's views on it. Then the Board is on the verge of giving us
+direction based on all that feedback.
+
+They have decided to put sound walls between the three parts of their region so that Salt Lake
+County, Provo in the south, and the Ogden area in the north have their own separate budgets. And
+so they're having a conversation about each of those budgets and how to divide them. So that it's
+not like just a ridership. A ridership solution would move all the resources into Salt Lake. They've
+got them walled off that way.
+But the other thing to remember is that as you think about what is good policy for you as a regional
+agency, you're also helping to define the municipal role. So one reality of the municipal role is that
+if you're Boulder or Denver, and I tell this all the time when I'm talking to extremely dense,
+extremely ambitious cities with lots and lots of transit demand, is that you're going to have to
+provide more service than the regional agency will give you. You're going to have transit needs
+that are more intense than what the regional agency is likely to meet.
+And that's going to show up in the form of either running some of your own transit service, as
+Boulder does, or buying from the transit agency more service, an additional increments of service
+beyond what the transit agency would allocate to them. That's what Seattle does. And of course,
+the various other municipal investments in transit play into that in some way.
+There's also the possibility that a more ridership-oriented regional policy, if you were to choose it,
+would essentially put municipalities in the position of funding more coverage services. Because
+one of the interesting things is that coverage service is almost always local. Coverage service is
+about getting into a particular area and connecting people into a node of some kind. Often it
+happens within one city, or at least in the local geography.
+So what the Los Angeles region has evolved, for example, is a relationship in which increasingly
+the regional transit agency focuses on high-ridership services. But that's in the context of the
+municipalities having some resources to fund coverage services if they want them. And as a result,
+that whole conversation about coverage gets municipalized. It gets moved to the city council. And
+that can be a productive relationship. There are all sorts of ways to think about it.
+Finally, there's this whole question about the first and last mile. And the first and last mile is a
+description of a problem that arises for many people in the context of less-than-ideal land use
+planning. It arises in the context of low density, low walkability, or low linearity that causes people
+to be too far from a useful transit service.
+And when you think about the first and the last mile in this context, you immediately have to sort
+it into two kinds of solutions. And the key question is, is the taxpayer paying a driver? If the
+taxpayer is not paying a driver, then these are win-wins. Go for them, vehicle rental at stations,
+bike scooters, better pedestrian and bicycle infrastructure, and of course, redevelopment around
+frequent transit, which means that fewer people need the last mile.
+But all the solutions that require paying a driver, micro transit, FlexRide, Uber-Lyft partnerships,
+it doesn't matter what kind of partnership you create, it doesn't matter whether you're paying Uber
+to pay a driver, the operating cost is predominantly labor. And those are tools in the coverage
+toolbox. So I have to emphasize this. Because every time I present the ridership-coverage trade-
+
+off, someone always says, well, we can go for ridership because we'll have other tools to help with
+coverage.
+Well, no, if you're going to pay for those tools, those are in the ledger. They're part of the
+conversation. They need to be counted on the coverage side of the ledger when you think about
+what balance you ultimately want. Yes? Sorry?
+KATE WILLIAMS: Where is the taxpayer not paying?
+JARRETT WALKER: The taxpayer is not paying the driver in examples on the left, where, for
+example, we are using bike and scooter rental to expand people's ability to transport themselves,
+right? Another example is van pooling, where you arrange van pool programs, such that the driver
+is not being paid. The driver is simply one of the commuters, right? That's another solution.
+But the first question is, is the taxpayer paying a driver, because that changes everything about
+what this solution means. Quickly talk you through the Houston redesign. This is what the network
+used to look like. And the red lines here are the high-frequency network. So red means the bus is
+always coming soon, blue, every 15 minutes or better. Blue means every 30. And green means
+every 60. That's what it used to look like.
+And without really adding very much service at all, we changed it to this, before, after. After, after,
+there we go. All right. Before, after. Before, after. Now, as you look at this, if you look closely, it
+looks like a huge expansion of service. You must've spent a lot of money.
+In fact, there was a whole lot of inefficiency in this network that we took out. And if you look
+really closely, you'll see some little green squiggles disappearing. Let me see if I-- look at-- oh, the
+pointer doesn't really work. OK. You can see some little green squiggles disappearing, as a few
+people lost the bus stop near their home in return for this outcome.
+Those people were furious. How do we get to this? We got to this-- oh, also, by the way, a huge
+expansion in weekend service from that to that. We brought weekend service up to be identical to
+weekday except, of course, for the peak.
+So here's the story of how it happened politically. Their existing service was about 55% ridership,
+45% coverage. By that, I mean that about 55% of the service is where it would be if ridership were
+the only goal, and 45% isn't. So we asked the Board, what do you want?
+And I took them to some alternatives. And they finally said, 80-20, 80% ridership, 20% coverage.
+I warned them, OK, 55% ridership to 80%, that means we're going from 45% coverage to 20%.
+That means lots of people are losing their service, and they will be furious, and the public hearings
+will be horrible.
+I made a point to promise that. Controversy is not evidence of failure when it comes to network
+redesign. If you don't want controversy, don't start.
+
+So we designed a plan around 80-20. We designed to that direction. I could show them which 80%
+of the service was intended-- should be judged on ridership, which 20% should not be judged on
+ridership because it wasn't designed for that. The public hearings were horrible, absolutely
+horrible. They went till midnight every night for about five weeks-- for about five days, sorry.
+And the Board went ahead. In fact, the only two Board members who did not want to go ahead
+were the two who had not been on the Board when I had taken them through this whole process.
+And in the end, Houston is now the only major Texas city where ridership is stable or rising and
+just one of four nationally.
+So let me stop and ask for any more questions. And then I'm going to take you through this
+diagram. It's a very quick sort of summary of all the ideas. Yeah.
+PEGGY CATLIN: Question-DOUG TISDALE: And if there are more than one, I'll recognize them. So Vice Chair Catlin.
+PEGGY CATLIN: How did the media treat those public hearings?
+JARRETT WALKER: So education of the media is a critical part of this. Generally speaking, I
+am always working intensively with the reporters of the major newspaper of record, with anyone
+else who wants to talk to us, getting media plugged into the early phases of the project, where we
+are debating the ridership coverage policy, before we draw the map. And often, you can go look
+at what we're doing in UTA in Salt Lake, we have a whole public conversation, a whole or public
+survey about the ridership-coverage trade-off.
+And we show a little conceptual illustrations of what it means. And we get public feedback about
+that before we design a proposal. And the more of that you do, and the more people who are
+involved in the conversation at that step, at that point, the fewer people have any business being
+surprised when they actually see the proposal because the proposal will reflect the clear results of
+a process. So the key is to get the media engaged in that early point.
+PEGGY CATLIN: How did they respond? [LAUGHS]
+JARRETT WALKER: Well, the reporters vary enormously. In most of the cities I've worked in,
+you identify one or two reporters who are really able to tell the whole story from the beginning.
+But there's also-PEGGY CATLIN: Can them hear? Sorry.
+JARRETT WALKER: But there's also-- but then that doesn't change the fact that we had-- so
+Houston, for example, we had a great reporter, Dug Begley at the Houston Chronicle, who wrote
+lots of good stories all through the process, explained it really well. But when the final plan came
+out, there was a front page photo essay in the Houston Chronicle. And I had warned the Board that
+this would happen.
+
+There will be in The Denver Post, let us assume, a front page photo essay about a particular
+sympathetic person who is losing their bus stop. There'll be photos of them from various angles,
+little quotes from them about their lives, and all about how they're losing their bus stop. In the case
+of Houston, they chose a particular person, and they never mentioned that there is a new light rail
+station around the corner from his bus stop.
+So that's easy to do. That is such an easy story to tell, a sympathetic face, a sympathetic story that
+you just have to count that in. That's going to happen. But the question of what then happens in
+response to that is a question of-- to the extent to which people have really been brought into the
+conversation earlier so that they see the bigger picture.
+The remarkable thing is that after this front page photo essay, a little bit later, we got a Houston
+Chronicle editorial in support of the project. So you can never predict it. But there's a lot of
+experience with it. And the most important thing that I can do is promise you that the actual release
+of the plan will be a moment of intense controversy, whatever the plan is and that encourage you
+not to go forward, unless you are all aware and comfortable with the fact that controversy is not
+evidence of failure.
+In fact, transit redesigns are controversial precisely in proportion to how much they achieve.
+Because the more you're going to achieve, especially without new money, the more you're going
+to achieve means the more stuff you're going to change. And that means the more people, who are
+used to things as they are, are going to be mad at you.
+So this whole handout I gave you is just a simple map that kind of sums up-- and you should have- it's illegible in the printout. But you have an 11-by-17 handout.
+DOUG TISDALE: Director Menten.
+JARRETT WALKER: Sorry, yes?
+NATALIE MENTEN: Thank you. I wanted to catch you before we move on to another slide. So
+when you talked about the change in Houston, where they went to an 80-20, and it's a little bit hard
+without having, let's say, two transparencies on top of one another to show the change in the red
+to the blue to the green, what was the reduction? How many bus routes were eliminated? How
+many vehicle miles traveled, how did that change because you had more frequency? So VMT goes
+up where you have those routes. Easy way to put that in the numbers for me?
+JARRETT WALKER: Well, the overall VMT impact-- well, first of all, it was no growth in service
+quantity. So bus VMT's pretty much constant. The buses are driving in different places. But the
+overall amount of driving they're doing is the same.
+Auto VMT, which gets a downward pressure as a result of increased transit ridership, is, of course,
+the increased transit ridership inevitably took some people out of cars. But the bus VMT is constant
+because it wasn't more service. It was just service running in different patterns.
+
+Now, the shift toward ridership did mean that generally, as you said, more frequency on fewer
+routes. Routes disappeared, or routes were consolidated. Often the way people experience that-and again, these were people who lived in neighborhoods that were not dense, not walkable, not
+linear, not places a high-ridership network would logically go. But they were on that 20% coverage
+service.
+What they generally experienced is that the bus stop moved further away from their house, or
+maybe the frequency of the route went down. But a lot of it was just the bus stop moved a little
+further from their house. There were relatively few cases where you're just completely abandoned.
+Mostly it was a matter of changing spacing and things like that. And they didn't like it. They were
+furious. But we all knew that was part of the trade-off going in. Let me mention one other thing,
+which is this first stage, this first stage, where you actually have the public conversation about
+what the priorities should be, what the trade-offs should be, before you even design a final plan.
+One of the interesting things that we often do, although not always, is we will actually draw two
+complete plans, whose only purpose is to illustrate that trade-off concrete so that people see exactly
+where service would appear and exactly where service would disappear, depending on which way
+you turn this ridership-coverage dial.
+That way everyone who's responding is not responding to any kind of abstraction. It's a somewhat
+abstract question. Not everyone is comfortable thinking abstractly. But when you put two maps in
+front of people, they tend to have much more concrete reactions, and they're self-interested
+reactions to those maps.
+We encourage them to take those reactions and turn them into opinions about the ridershipcoverage trade-off because then that all becomes advice back to the Board. And then again, when
+the Board gives the direction, and there's been all sorts of involvement-- there needs to be all sorts
+of involvement of stakeholders, all sorts of involvement in media. So when the Board finally then
+gives the direction about what split to use for the final plan, the whole goal is when the final plan
+comes out, the fewest possible people are surprised.
+Lots of people will still be surprised. Lots of people aren't paying attention until something affects
+them directly. But your stakeholders, the opinion leaders, the media, they've got no business being
+surprised because they remember how we got there. And that makes a big difference in getting the
+plan over the line.
+NATALIE MENTEN: OK. So let me just say, my main interest is in making this agency as fiscally
+responsible as possible, lowering the subsidy. So I have no problem, and it's been stated in the
+past, reducing some route. So my question, though, is, how many routes were eliminated?
+You said there were some green that disappeared. So that tells me there were routes that
+disappeared. And if one route is taken away and, yes, there's still an east-west over here, still, that
+one disappeared. Do you happen to know what that number was?
+
+JARRETT WALKER: If you're watching this from a fiscal perspective, I discourage you from
+counting routes because routes aren't really a meaningful unit. Routes can be big or small. They
+can have different numbers of buses on them.
+So what I can say is we moved-- well, we went from 45 to 20. So we moved about a quarter of all
+service. The key unit is the bus hour, a bus operating for an hour. That's the real cost driving unit.
+NATALIE MENTEN: Mm-hmm,
+JARRETT WALKER: We moved about a quarter of that kind of service out of coverage that was
+wandering around in low-density areas carrying few people and moved it to places where it would
+carry lots of people.
+NATALIE MENTEN: Mm-hmm.
+JARRETT WALKER: And I don't remember count of routes. But that's the sense of the quantity
+because we took it from 45% covers to 20% coverage, which means we moved 25%. About a
+quarter of the whole budget got taken out of a coverage side of the ledger, where you couldn't
+expect it to carry anyone, and got moved over to the ridership side of the ledger, where it carries a
+lot more people.
+NATALIE MENTEN: Mm-hmm.
+JARRETT WALKER: But it wasn't a service reduction. It was just a service rearrangement within
+a constant number of service hours.
+NATALIE MENTEN: OK, I'll accept that answer.
+JARRETT WALKER: OK.
+NATALIE MENTEN: Thank you.
+[LAUGHTER]
+DOUG TISDALE: That's big of you, Director Menten. Thank you.
+[LAUGHTER]
+I know that Director Rivera-Malpiede is in the queue next. And then we'll go to Director Walker.
+And then I'm going to ask Director Folska after that, because she's on the telephone, if she has any
+questions. But let me go to our Second Vice Chair Rivera-Malpiede.
+ANGIE RIVERA-MALPIEDE: Thank you, Chair. So I'm listening to this, and I'm looking at this.
+And the only thing that I keep thinking about, looking at the maps and how there was this reduction
+and stuff, how does Title VI fit into this? And how does the mission of that we are here to make
+sure that everybody has equal access to transportation, number one, number two, because of
+
+gentrification and the working poor being pushed out the furthest, and then you're cutting service
+for just the density in the city where the wealthy live. Can you talk a little bit about that?
+JARRETT WALKER: Yeah, let me talk about how some of that plays out. Title VI, of course, is
+strictly about racial equity. And it's about the disparity of outcomes by race. And I've never done
+a plan that had any kind of Title VI problem, even plans that moved service very dramatically
+across the ledger, because there were always lots of high-ridership places that we can go that have
+lots and lots of people of color living there, such that out of a ridership goal, we get a fair
+distribution of service by race. And we avoid what is called disparate impact.
+Disparate impact under Title VI, just for the benefit of anyone who's listening, means that we have
+to show that any impact that we have had on people of color is not different from a corresponding
+impact we've had on the population generally. That doesn't mean that there won't be angry people
+of color. It kind of means there'll also be angry white people. And it's not disparate on that level,
+right?
+The larger issue, though, that you raise about the suburbanization of poverty is very alarming, and
+it's very alarming for transit agencies, because, you're right, it means that more and more lowincome people are living in places that are less dense, less walkable, less linear. Now, to me, there
+is, first of all, an urban design and land use imperative there that has to be attacked, right? So a
+typical example, if low-income people are starting to live in a suburb where they're living off of
+arterials that are 55 miles an hour because they were designed entirely for through traffic, on the
+assumption that everyone is a motorist.
+Well, now everyone there isn't a motorist. And they've got to be redesigned for the reality of who
+lives there now. And that's something that I think-- and I think as transit agencies, you have to be
+really clear. You can't solve that problem with transit. There is a very urgent problem about how
+urban form and how street design needs to be modified in light of who is living in these places
+now.
+What we have generally found, though, is that, again, we've never had a disparate impact. Even in
+the context as you look across the landscapes of relatively affordable and therefore, relatively lowincome places in kind of the inner-ring suburbs, there are places that are more dense, walkable,
+linear, and there are places that are less, dense, walkable, linear. And a ridership-pointed network
+will focus on the first and not the second.
+And what that ultimately means is that everyone ultimately, at any income, needs to be thinking
+about transit in the context of their location choice and forming expectations about transit based
+on their location. So a way to put this very positively, when you've got a good frequent network
+product out there, and you're advertising it, you'll see apartment ads that say on frequent bus. And
+you'll see those processes by which-- you know, low-income people make lots of choices, too.
+And some low-income people just like their motorcycle. And some low-income people would like
+to be able to use transit. And the world is best if they sort themselves out so that the people who
+like to use transit have places to live on transit. And that's really the only long-term way, I think,
+that this resolves itself.
+
+But I don't pretend that any of this is easy. I do think, though, that the presence of low-income
+people is generally a positive indicator for transit ridership. We have every reason to go to those
+people not just for a social reason, but because they're more likely to ride. But still, the geometry
+is an overwhelming challenge.
+ANGIE RIVERA-MALPIEDE: Just one follow up, quickly, when you were meeting with all the
+key stakeholders, was it done in multiple languages so that it could incorporate diverse
+communities?
+JARRETT WALKER: Yes.
+ANGIE RIVERA-MALPIEDE: Thank you.
+JARRETT WALKER: Yeah.
+DOUG TISDALE: Thank you. Let's go to our Secretary, Director Walker, who has a question for
+you, Jarrett.
+JEFF WALKER: Thanks. Yeah, man, I think Houston's one of the most diverse cities in the
+country, I think in terms of languages spoken. So I imagine that there had to have been some level
+of controversy or displeasure with the system as it existed before. Otherwise it wouldn't have been
+in need of changes. So can you describe the level of unhappiness or displeasure with that system
+before the change, or what led to the change?
+JARRETT WALKER: When we were sitting in the public hearings about the proposed plan, and
+everyone was yelling because this was disrupting their routine, one of the consultants looked at
+another and said, you know what we're hearing over and over? We're hearing your service is
+terrible. Don't change anything.
+[LAUGHTER]
+That-- no, nobody liked the old system. And yet, when you try to improve it in a way that changes
+reality for people-- and there are lots of psychologists can explain why we have a stronger reaction
+to negative impacts than the positive impacts, and why, then, it's universally true that people who
+are negatively impacted by a plan will speak up, while people who benefit by a plan will not, which
+is why the experience of the public hearings around a plan is always pretty negative, even if the
+plan is actually widely supported and is actually-- it's harder to motivate positive enthusiasm. But,
+yeah, the old network was terrible.
+Nobody defended it exactly. But as always, no matter how terrible the network is, they are people
+who are used to it and who are really angry when you change it. That's all I can say.
+DOUG TISDALE: I promised Director Folska that I would ask her if she has any questions at this
+time. So before I go to Treasurer Cook, let me ask Director Folska, any questions from you at this
+point? We have lots to go, and we will have more opportunities. But I just present one to you now.
+
+CLAUDIA FOLSKA: Thank you, Chair Tisdale. All I wanted to say so far is, Jarrett, I think this
+is really great. I think a lot of what you say makes sense. And I think that your presentation and
+framework is concise and comprehensive for us all.
+It's not something that we haven't been talking about in different ways. But the way that you have
+put it together for us, I think, it's really helpful. So thank you. And I'm looking forward to hearing
+the rest of your presentation. That's all.
+DOUG TISDALE: Thank you very much, Director Folska. Let me now recognize our Treasurer,
+Director Cook.
+SHELLEY COOK: [CLEARS THROAT] Excuse me. I was glad that you were identifying
+different elements of land use because I really think that's key and would make just this one
+observation that somewhere in there, I'm hoping you include a mixture of uses. Because what I've
+noticed in the little quarter that we have is the tendency toward all-day use, when there's both retail
+and some employment and the more dense living. So I just hope you build that into or are more
+overt about that.
+The second thing is that I don't know how many communities, separate incorporated entities there
+were in Houston. But we've got like 40 or 50 or something here. So to the extent they can modify
+their planning to meet the goals that you're talking about, maybe we offer or we can discuss
+offering incentives in terms of service to work hand in glove with that. Have you seen that in place
+otherwise?
+JARRETT WALKER: I think, initially, the thing is that, if you were to adopt a policy about how
+much of your service is to be reserved for coverage and actually put a firewall in your budget, and
+everybody can see, that everybody in the region can see, that if we are not densible, not walkable,
+and not linear, we are all competing for that little slice. And we're not going to get very much. So
+the only thing is that adopting a reduction of coverage policy already implies the policy you want,
+because it means that you will go to places as they become dense, walkable, and linear and
+therefore, good places to invest in transit.
+So by all means, go ahead and be more specific. But you don't necessarily need to think just in
+terms of, OK, we're going to have a policy that if you build this many apartments, we'll get you a
+bus route because the larger policy already effectively says that. It says, we're going to go where
+ridership potential is. Here's the geometry of what that looks like. So of course, built that, and we'll
+go there.
+SHELLEY COOK: So you mentioned that Portland had achieved the development-oriented transit
+was the streetcar, but that the same effect was accomplished with a frequent bus. Did they put the
+bus service in first and then the higher density mixed uses happened around it? Or what happened
+there?
+JARRETT WALKER: Yes, the bus service had always been there-- well, had been there since the
+'80s. So it's been there for a long time. What happened really was that-- and there are many people
+in Portland who would vociferously object to me describing things in these terms.
+
+The streetcar was associated with a higher density of development. On the other hand, the streetcar
+was built right on the edge of downtown. And you can have an endless argument about whether
+that development would've happened anyway. I tend to think it would have. It was prime real
+estate.
+But in any case, what we're seeing now across Portland is a general flip of the urban form to four
+stories lining arterials. And that's occurring along frequent bus corridors pretty consistently. It's
+starting to occur also further out in the lower-income inner-ring suburbia. Although, for a whole
+bunch of development and economic reasons, of course, that's a struggle. What everyone wants to
+build is the gentrified stuff in the inner city.
+But we had a huge celebration last year when rents peaked and started going down in Portland.
+Many of us thought that would never happen. And a whole lot of different things, including this,
+have been part of that.
+DOUG TISDALE: And then Director Guissinger, I have you as next in line here.
+LYNN GUISSINGER: Thank you, this is great. It's very helpful I think that, if I understood you
+when you were talking about the relationship with municipalities you said that Denver, Boulder,
+other cities, you may have to step up and provide service the regional agency can't provide. And I
+think it's fair to say that we're at the early stage of that, that Denver and Bolder and other cities are
+looking at their programs. And I think one of our challenges will be how to make sure it all works
+together and that we're working together with them and thought I'd see what your experience with
+that is and your advice.
+JARRETT WALKER: Right. We've done a little bit-- my firm's done a little bit of work for
+Boulder and a little bit of work for this-- my firm has done a little bit of work for both Denver and
+Boulder. We're familiar with where they are. Our message to the city of Denver has been
+unequivocal, that because the relationship between density and demand tends to curve upward,
+when you get above a certain density, you're going to get so much transit demand that you are
+going to be dissatisfied with what the regional agency can give you. It's just you've got to accept
+that.
+Boulder's already gotten there, of course, and has already made its own decisions about what to do
+about that. I think you'll see some of the same pressures operating on the city of Denver. And of
+course, it's very difficult. They have a lot of other budget priorities.
+But that's my message to core cities everywhere. That's my message to core cities or cities that
+want to be very dense inside of any American region that has a big regional transit agency, that
+they should expect to step up. Correspondingly, though, very low-density suburban cities may also
+find that the transit agency cannot possibly give them the local circulator service that they want to
+every low-density part of their community. And that is also a place where-- and again, if the RTD
+draws its boundaries, draws its red lines much more clearly, this is all we're going to spend on
+coverage service, and that's got to be spread over every low-density part of this enormous region,
+that helps to clarify everyone's minds about what they can reasonably expect from RTD and what
+they'd better figure out how to do themselves.
+
+And I think it becomes a framework for a much clearer relationship with your municipalities, both
+on the level of the extreme suburban coverage, flex route kind of territory, and at the opposite
+extreme of what Denver and Boulder can expect.
+LYNN GUISSINGER: And just one more question, if I may. Did I understand that you said that
+UTA has split? It has separate budgets for Ogden and Salt Lake and Provo?
+JARRETT WALKER: Right.
+LYNN GUISSINGER: And did that come out of your study, that that was the best way to approach
+it?
+JARRETT WALKER: No, that's a preexisting arrangement. Well, no, we actually had a
+conversation. We actually had a conversation with the Board about whether they wanted to adopt
+a region-wide ridership-coverage split. And I think the reality was that would have just moved too
+much service from one county into another, and that it was better for them, particularly-- of course,
+they're all laid out on a straight line. And there isn't quite as much entanglement between the little
+mountains in between them. So they found it logical to think in terms of let's think as though we
+have three separate transit agencies here and have local conversations in each of those areas about
+what the right answer is.
+LYNN GUISSINGER: Thanks.
+DOUG TISDALE: Before I let you go on to a map of our choices, which I think is very significant,
+and I appreciated your having some of this conversation already, I want you to keep in mind, as
+you share it with us, the response from some cities, some people, some areas, don't tell me that's
+all you can provide me. I pay as much in taxes as Fred. So if Fred's going to get that, I need to get
+that.
+Or you've already provided something for Bernie, and I've been paying taxes as long as he has,
+and I still haven't gotten anything. And that's part of the dialogue that I know we're going to have
+as we continue on. So I ask you to keep that in mind as you present some of the rest of your
+materials and answer other questions.
+Before we go on to the map of our choices, are there other questions directors have at this time
+before I turn it back to Jarrett to carry forward? Yes. OK, First General Manager and then Director
+Williams.
+DAVE GENOVA: So I just want to provide a little clarification. So the Houston example is one
+example. So we're not certainly sitting here tonight saying we should go to the Houston example.
+So when we see things like 80% coverage versus 20% coverage there, it's simply an example.
+And so tonight, really, we just kind of want to explore the challenges we have, really think, and
+start to set the stage for what the Board wants to talk about and think about as we embark. So this
+is simply kind of a beginning point. So I just want to put a little bit of perspective on that.
+
+So we're not suggesting anything, recommending anything, or moving forward with anything. This
+is simply for information and for your education to help you as you wrestle with these challenging
+issues, because we've talked about them before. But I think, as one of the Board members put it,
+it's being, I think, presented and packaged in a very meaningful, thought-provoking way tonight.
+DOUG TISDALE: Thank you for adding that, General Manager, because I think that people need
+to understand-- this tonight is inspiration and information. It's a keynote. This is a man who can
+help pose some very useful questions as we continue this process and start getting into the weeds
+with our consultant.
+But it helps to hear some of the other stories, but they are only exemplars. It's not a specific solution
+being proposed for us. Director Williams had one more comment, and then I'll go back to you, Dr.
+Walker.
+KATE WILLIAMS: I may be ahead of where we're supposed to be. But I'm wondering how you
+feel about-- we just looked at Houston. I'd really like to see us look at Stockholm or Paris or some
+places in Europe or other parts of the world where transit is much more entrenched and has been
+than just look at Utah or Texas, that we can see them all the time. And if I'm ahead of the
+presentation, I'm OK with waiting.
+JARRETT WALKER: So if I could just respond to that. My advice always when I hear this
+question in the United States is don't just envy Europe, start by envying Canada because Canada
+looks a lot more like the US. But if you go up to Calgary or Edmonton, you'll see a place that looks
+a lot like greater Denver, except there are just a whole lot more buses running around.
+There's just more service per capita. There's just more of it. It's not any different technology. It's
+light rail and buses. But there's just a lot of it. But again, that's a conversation about how big the
+transit agency should be and the overall level of investment, which may not be the conversation
+you're having in a network redesign. I don't know.
+DOUG TISDALE: Director Lewis, you wanted to make your comment now?
+SHONTEL LEWIS: Yeah. Sorry. So I couldn't push the button because I never logged in because
+I was too excited to listen. So I apologize that I couldn't get into the queue. [LAUGHS]
+So I have what may be a question and a comment mixed with maybe some other things because
+I'm trying to mix them through lines between all of these things that you're talking to us about. So
+you talked about transit planning providing freedom and meaningful choices. And then we talked
+about justice outcomes. I hope you follow me.
+We then went and had some discussion about density, walkability, proximity. And Director
+Rivera-Malpiede asked the question about Title VI and gentrification. And we had some discussion
+about how to get municipalities involved.
+And so I'm trying to string all of these things together and thinking about displacement and
+gentrification, and that the walkability, that you talked about, and the density may not be in the
+
+areas that people are being displaced from-- or displaced into rather. And the density is in the
+places that they were displaced from. And what role-- when we talk about municipalities getting
+involved, because they'd just be thinking about the city and county in Denver, for example, what
+about the folks that were displaced from those municipalities?
+JARRETT WALKER: Let me tell you a little bit about best practice, I think, on this. And I
+certainly know intimately what's been happening in Portland. We have had a frequent network
+product that we have advertised for a long time, and it has been focused on more inner-city parts
+of Portland because that's what we're dense, walkable, livable-- dense, walkable, and linear. And
+as we have started to see this population shift out into what we generally call the inner-ring
+suburbia-- it's generally the fabric that was built in the '50s and '60s usually is what we're seeing-there is a huge effort going in to identifying more and more frequent bus corridors in those areas.
+And the city is very clear, and even in its better moments, the state DOT, which controls some of
+the roads, is very clear that this is transit's role in addressing this problem is to get frequent transit
+out not to every person out there, but to enough places that if you're a low-income person, there
+are places you could choose to live where transit would be good. Because again, you may just want
+to live your life on your motorcycle and not care about that, in which case there are other places
+you could live, right? But it's empowering even the low-income person's location choice that, yes,
+they have to live in the inner ring, but they can still choose whether to be on frequent transit or not.
+And that's really the key.
+And then the other part of that is that the transit agency is very clear, everybody is very clear, that
+there's a transit dimension of the problem, there is a land use dimension of the problem, and there
+is a street design dimension of the problem. And those all have to be attacked, and none of them
+is a substitute for another, right? You can't judge transits outcomes, you can't judge transit on
+whether it's achieving ridership on a street that's not safe to cross, right?
+You have to have all of those, and they all have to be working together. And I'm really happy with,
+I think, what we're achieving in the Portland area on that. It helps that part of the inner-ring suburb
+is in the city of Portland. But that's really what has to be done. You have to attack the land use
+planning, and including things like getting rid of parking requirements for development so that
+less-expensive development pencils out.
+You've got to attack the street design. A safe place to cross the street every quarter mile, got to
+insist on it. And then partly in response to those things, transit needs to identify its high-frequency
+bus corridors that will work in those places. And then it's as those these three things converge, that
+we start really attacking the problem.
+SHONTEL LEWIS: Thank you.
+DOUG TISDALE: I have two more directors in line now. You've got this whole flood of
+questioning because you've got some great stuff, and we know there's more. But first I'm going to
+go to Director Broom and recognize him.
+
+BOB BROOM: Thank you, Chair. My question actually is for the General Manager. We've been
+speaking in about 80-20 and that being a possible goal or not being a possible goal and that type
+of thing. But for a point of reference, where are we at now? Are we at 90-10, or are we at 65-35?
+What does RTD look like?
+DAVE GENOVA: That's a good question because I don't know if we've ever measured it in terms
+of ridership versus coverage in terms of the percentage of where our resources go. But what I will
+do is take that back to the team and ask that question and report back to the Board, whether we
+have the capability to measure it that way. Because to my knowledge, unless some of our service
+planning people might know differently, we never really talked about it in those terms.
+So that was another one of the reasons I wanted to clarify earlier that that's an example. And I don't
+know where we would be today. And then if we started talking in those terms, that may be the
+measurements we use. We may do some other looks, or we might make decisions based on other
+kinds of metrics. Again, this is simply just kind of getting the juices flowing on talking about what
+might these kinds of things look like. But I will ask and see if that is a measure that we can easily
+come up with at all.
+JARRETT WALKER: Can I made one comment on that?
+DOUG TISDALE: Yeah, please.
+JARRETT WALKER: I want to be absolutely triple clear that my job is to make an argument for
+why you should ask this question. And I will never, ever have a recommendation about what the
+answer should be. I never, ever told the Houston Board, you should choose 80-20. In fact, in many
+cases, I sat there, as I could tell they really wanted me to tell them what to do, and I refused to do
+that because it wasn't my place.
+My goal was to frame out the question and ask the question. And then it is like any other budgetary
+decision, something that the Board has to figure out. Different cities have come up with different
+splits, anywhere from 50-50 to 90-10, different cities I've worked in. So that's entirely what arises
+locally.
+DOUG TISDALE: Well, and in fairness to Jarrett Walker's analysis of such things, when you look
+at the map of key trends and choices, coverage or ridership is only one of the spectra that are
+identified. There are many others that you can also score and look at. So it's a far more complex
+analysis than just ridership or coverage.
+But first let's go to Director Buzek next, and then we will go to Director Mihalik following that.
+Director Buzek.
+VINCE BUZEK: Thank you, Mr. Chair. And I think we face a lot of challenges, obviously. And
+you're aware of many of them. And when it comes to the equity issue and the ridership versus
+coverage in more remote areas, it's not just Fred wants what Barney has because he wants what
+Barney has, and he's been paying the tax. It's also he wants what Barney has. He's been paying the
+tax. And it's what he was promised when that legislation passed that imposed the tax.
+
+So that's one of the problems we face as well. And another problem, I think-- maybe it's a promise.
+Maybe it's an opportunity, right-- is that RTD is an incomplete system. We haven't finished what
+we are slated to do. Whereas, I would believe, Houston was just fairly well built out in their system.
+So what kinds of problems and/or opportunities does an incomplete system do in planning based
+on where you're going to grow your system, not grow your system, or change it?
+JARRETT WALKER: I think you're talking about a different issue network design. Because when
+we're talking about fast tracks, we're really talking about a large set of capital projects, of major
+construction projects for facilities. And the measure was, yes, it was based on a map of a particular
+set of projects around the region.
+And it's easy to say that yes, relative to those promises, that's incomplete. That's true. There is a
+very difficult question about at what point do you say, even though that map is incomplete, does
+that still mean that these projects that we're not finished are the right projects? Or have values and
+priorities changed so much since then, that it is worth investigating or questioning whether those
+are exactly the right things still to do?
+In the San Francisco Bay Area, we had the BART, the regional transit agency in the San Francisco
+Bay area, recently decided, by a very narrow Board vote, to abandon an extension to a low-density
+suburb that had been in the original plan. And they said they abandoned it partly because that
+suburb chose not to zone the kind of density that would have actually made the line succeed,
+because the suburb's position was this was promised to us, so we don't have to do anything. This
+was promised to us.
+And the BART Board decided no, under those circumstances, we're going to break the promise. It
+was much further in the past. It was really not so much a promise you had made to us, as a promise
+your grandparents had made to our grandparents because the original BART measure's from the
+1960s.
+But it is certainly true that whenever you set down in legislation a map of a particular set of
+projects, you go forward in time, and things keep changing. And at some point, not having built a
+project could be a good thing, if it means you now have a chance to design a better project that's
+more appropriate to how things are now. So those are just some of my thoughts about that.
+DOUG TISDALE: Thank you. Certainly a lot of food for thought. Director Mihalik, your question,
+please.
+KEN MIHALIK: Thank you, Mr. Chairman. And maybe this would be better at the end, but I
+figured anybody else was asking so I would do it now as well. So we talked about some
+socioeconomic factors and demographics. But I don't think you've touched yet, or at least I didn't
+catch it, the effects of aging demographics on this system planning. How does that play into it?
+JARRETT WALKER: So one of the very tough decisions you will have to make is that what older
+people will tend to ask you for is the opposite of what everybody else will respond to. And there's
+no way to make that easy except just to acknowledge that it's going to come up. That's because
+one of the ways that highly efficient transit is made possible is that people walk to it.
+
+And people will often walk further to better service. But when you first introduce that idea, it's
+likely to be seniors who are most concerned about that and who are objecting most strongly to that.
+And that is a difficult conversation that has to be worked through with great compassion. And as
+always, I can frame out the question, but I can't answer it for you. It's very difficult.
+As with everything else, as with low-income people, it matters enormously where seniors are
+living, and it matters enormously that seniors are getting the right signals about the consequences
+of where they choose to retire. My mother chose to stay in her house for the remainder of her life,
+and that had certain consequences because it was a transit inaccessible place, and I knew that, and
+we knew that. And that meant certain things about what she could do.
+So over and over, one of the big themes that this brings back to is this is all-- and the sort of
+fundamentally kind of libertarian or free market sense of this is all about helping people take
+responsibility for their own location choice. And even where people have had fewer choices, like
+low-income people being priced out of the inner city, is about making sure that they have had
+meaningful choices to locate on frequent transit or away from it so that we can expect them, too,
+to have chosen that and to accept some consequences from that, because transit is inevitably going
+to be in one place rather than another. It's going to require some walking.
+And ultimately, the quality that you experience from transit is going to be not just a result of
+whether transit comes to you in the way you think it should come to you, but also about how you
+choose to locate in response to the transit system being what it is. Does that makes sense?
+KEN MIHALIK: Yes, I absolutely like how you put that. A couple more, if I may. Houston's
+famous for its no zoning laws or very lax, really no zoning laws. How did that factor into the design
+of the system for redesign?
+JARRETT WALKER: I don't know that it would have been that much different if it had been in a
+Phoenix or Los Angeles or a similar kind of gridded city. It certainly makes Houston a little more
+colorful and diverse in its architecture. And there are a number of other fascinating things about
+the city, like the fact that it is massively ethnically diverse but doesn't really have large single-race
+areas. It's remarkably locally integrated. A lot of interesting things about the city. But I don't know
+that I could tie anything in particular to the lack of zoning.
+KEN MIHALIK: OK. I was just curious. And then I lost count on the number of times you
+mentioned freedom.
+JARRETT WALKER: Mm-hmm.
+KEN MIHALIK: I tried to keep up. I tried to go back and actually count them, but it was too many
+because you were saying it as I was reading it. And then you also mentioned Canada. And so
+instantly the Toronto project popped in my mind, the sidewalk labs, and all the criticism they're
+facing now for the mass surveillance project it's turned into. What expectation, from your
+perspective, do people have when they ride, expectation of privacy do they have when they ride
+on public transit?
+
+JARRETT WALKER: Whoa. OK, that's more jumps than I meant to send you on.
+[LAUGHTER]
+I don't know. I'm going to try to keep my comments around network design policy and not get too
+far out into that. That's a fascinating space.
+KEN MIHALIK: You can just pass.
+JARRETT WALKER: I'm going to pass. I'm as fascinated as you are by that. But it's not my
+expertise.
+KEN MIHALIK: I'm done.
+[LAUGHTER]
+DOUG TISDALE: Thank you. I don't see anyone else in the queue. In case you haven't noticed,
+you are able to click if you wish to speak. And Ms. McManus is keeping me posted. All right, let's
+go back to Jarrett Walker now for the balance of the prepared presentation.
+JARRETT WALKER: And this is just going to be a kind of way of putting everything that I've
+talked about into some sort of structure. This 11-x-17 handout is something you can put up on your
+wall, if you want. And that sort of pulls together a lot of things I've talked about.
+In the center of this image is a thing called abundant access. This is the kind of network you would
+design if you wanted to maximize where the most people can get to in a limited amount of time.
+So it is the maximum freedom network, although not for absolutely everyone, but the maximum
+on average. It is also the highest ridership network, by and large.
+That network arises as the cumulative result of a whole bunch of choices that have been made in
+a lot of different conversations that seem to be about different things at the time you're having
+them. So I want to observe how they're all related and how in each of these cases, when you're
+having one of these debates, one of the choices leads toward this outcome, and the other tends to
+lead away from it. Again, I want to be careful. I am not making a recommendation.
+There are valid reasons to choose to make the outward choice on any of these axes. But I am simply
+observing, as a matter of consequence, that that is tending you to move you away from the
+maximally useful network. So we've already talked about the ridership-coverage trade-off.
+Focusing on ridership as an explicit goal has the effect of leading to a network that is more useful
+to more people on average. Coverage, nevertheless, is also a worthy goal. So again, I'm not telling
+you how to manage this trade-off. I am only telling you that it is an inevitable thing that you need
+to think about.
+Connections are complexity. Lots of people will complain to you that they have to change buses
+or change from a bus to a train, and that they have an expectation of what's called a single-seat
+
+ride. If you accommodate that, it leads you to running lots and lots of overlapping services, as
+everybody wants a direct bus from everywhere to everywhere else. And that it tends to lead to you
+having less resources to spend on building up frequency. Because remember, the more routes you
+run, the less frequently you can run them.
+So it is through encouraging, trusting, and rewarding, and planning for good connections between
+services, by expecting that most trips are going to involve a change of vehicle, and by establishing
+that as a standard that you move in the direction of more abundant access and higher ridership, if
+that's what you want. How far will people walk? Some people will say, not far. I can't walk very
+far, they'll say. And some of them can't. And that would seem to lead you to run service very close
+to every home or destination.
+If you're going to run very close to every home or destination, that means, again, you're going to
+have a lot more routes. And a lot more routes means a lot less frequency. And that means that the
+service will be a lot less useful.
+Only when you accept and encourage that people will walk further to better service, which requires
+also naming people's barriers to walking as not your problem, but as urgent things for street
+authorities or CDOT or the appropriate authority to address, only when people can be expected to
+go further to get to the service, can you, then, run the most efficient and maximally liberating
+service. And of course, non-driver first-last mile solutions, like bikeshare and so on are part of this.
+But the most critical first-last mile solution is pedestrian infrastructure.
+Peak or all day? It's very common to start with the assumption that this is really about the peak
+commuter. The peak commuter is our bread and butter, getting the briefcase into Denver in the
+morning. And in fact, that kind of service is just fantastically inefficient to operate. And at the
+same time, the marginal cost of service running all day, all the time both ways, is relatively low.
+When you think about a bus that pulls out only for the peak hour, especially to do one of those
+long peak express runs, it may be needed. It may be appropriate. I'm not saying you shouldn't do
+it. I'm just saying it has some very heavy costs. There are three kinds.
+You pay a driver to work for not very long, a short shift. That's usually inefficient. You pull out a
+bus that's going usually in only one direction full. It may run the other direction empty because, of
+course, driver shifts have to end where they began. And third, you have to own a bus that you don't
+use very much.
+So as you invest more and more peak-only services, you get more and more fleet that you have to
+manage relative to a particular amount of service. That's why a lot of best-practice transit agencies
+as they're looking at redesigns are turning a particularly critical eye to peak-only services. And
+several agencies I've worked with, most recently VTA in San Jose, we've discovered that the
+service is actually over-peaked, that the average peak productivity is lower than the average midday productivity. And where we found that, that was a very clear signal, because, of course, buses
+should be full around the peak than they are midday.
+
+And so in any case, you have to be very careful with imagining just an endless demand-driven
+expansion of peak-only express service because it is so expensive. And that's why a lot of network
+redesigns that have really succeeded, they've succeeded mostly by expanding that all-day, allevening, and I might also mention, all-weekend product. The argument for the building the all-day
+network is that its marginal cost is so much lower.
+And thinking about how the economy is changing, thinking about the gig economy, thinking about
+how there are fewer and fewer people who are just 9 to 5, think about how there are more and more
+people who have more flexibility at work, don't necessarily just go in the morning at 9:00 and
+know they'll leave at 5:00. And then of course, the fact that we have to be there and that it's
+important to compete for the low-income rider, who is mostly a service-sector worker, who works
+in retail and entertainment and services. None of those jobs are 9 to 5, they're all over the clock.
+And more importantly, those jobs, mostly peak on Saturday. If you're in retail, it's all hands on
+deck on Saturday. And so that's why it's also important to be there across the weekend. And in our
+review of the American transit industry generally, we're now of the opinion that weekend service
+is some of the lowest low-hanging fruit, that we're tending to historically run not enough weekend
+service based on sort of some long-ago assumptions about what goes on on weekends that just
+aren't true anymore, and that growing weekend service can be a real winner.
+In the Houston plan, as I mentioned, we moved some resources from weekday to weekend. We
+got enormous ridership growth on weekends. There was huge unmet demand there.
+Protect transit from congestion, I think this is straightforward enough. It's not something you
+control directly. But it is, by the way, a very important kind of nexus opportunity, where you can
+run a lot more service if you're protected from congestion because, of course, a faster route is one
+whose vehicles cycle more quickly. You can deliver higher frequency at the same cost.
+Now, how we think about technology-- is technology a tool or a goal? And this is one of the biggest
+questions that I encourage you to always have present in your mind. Because if you're like every
+other Board in the country, you're going to be bombarded by sales pitches. It is in the nature of the
+sales pitch, there is a product, and we want you to buy it. In other words, here is a tool, and we
+want you to form a goal that makes you want our tool.
+[LAUGHTER]
+We've all heard this, right? And if you're in the marketing department of an inventor, that's the
+conversation they're having. We have this cool thing. What purposes can we invent, can we come
+up with that it serves? The argument is from the tool to the goal.
+And it takes a lot of work, and it takes a lot of discipline to say, no, we're going to start with the
+goal. We're going to talk about what we want. And then we're going to have a conversation about
+what tools to buy to deliver that.
+So for example, I certainly support the fact that you've experimented with micro transit. But micro
+transit is also something that, in the industry, has been, I think, wildly over promoted relative to
+
+what it is and has created-- and I've watched these companies with these very inflated public
+relations budgets being able to tell a story that hey, yes, we started out at one boarding an hour,
+and that was a good experiment, and we're glad we tried that. But now we're getting three boardings
+an hour.
+And, yes, OK, but first of all, this is really nothing that demand-responsive service has not always
+been. It's not really anything new. And three boarding's an hour is terrible by the standards of
+fixed-route service. And I don't object to the tool existing, and I don't object to the tool being used.
+But I object to the notion that the goal should be let's use micro transit, as opposed to the goal
+should be what are we trying to do? And then is this tool right for that goal. Do you see what I
+mean?
+This is just a constant pressure you will be under. And I see it all the time in how conversations
+are structured in the industry. If the question is, what should we do with this new tool, I submit
+always that question is backwards. And this also takes me back to the days of streetcar
+development, where, again, watching the Portland streetcar and the other streetcars that happened
+that were entirely driven by an urban development goal, and that was an interesting example
+because it was very clear that the technology was the goal.
+Urban development was the ultimate outcome. This technology was going to deliver that outcome.
+And the transportation outcome was not really the point. So this is kind of fundamental. And the
+whole point of the kind of framework I've tried to give you of these other trade-offs is that thinking
+about those trade-offs is how you form goals that will then guide you toward deciding, as the
+second step, what tools to buy?
+And so finally, I want to end on this one because this really goes to the political challenge of transit
+to why transit is so interesting and difficult politically. And it's the trade-off between diversity and
+specialization. If you're like every other region I've ever worked in, lots of people will come to you
+with ideas for transit services that would be good for them, that would be good for their
+community, their industry, their business, their interest group.
+I can't tell you how many times I've gone into a city, and before we'd even start working, the
+Chamber of Commerce has come to me with the recommended Chamber of Commerce shuttle
+system. And maybe other groups have gone home and designed transit services just for them. And
+the maximally useful transit system for everyone will not look like what any interest group would
+design for itself, period.
+Because if you think about a big successful service, think about the New York City subway or
+think about the A Line, which I rode last night, me, with my suitcase and some other suitcases,
+and also a bunch of airport employees and people coming and going at all the stops. It was really
+diverse. High ridership is diverse ridership.
+And so every time someone asks you to specialize, they're pushing against the essence of how you
+succeed. So that just goes fundamentally to the challenge. So let me just look at one of the most
+extreme examples of this.
+
+If you have heard the term choice rider or dependent rider, I would like to encourage you to forget
+these words. In the classic model, there is someone called a choice rider, who has a car in the
+driveway, and they're supposed to leave their car in the driveway. And then there's someone called
+a dependent rider.
+Or when certain transportation get engineers get in a room and they think nobody else is listening,
+they have an even worse word for these people. They call them captive riders, as though they have
+them in the dungeon. And this is someone we're supposed to visualize has to use transition, no
+matter how bad it is. And this is nonsense.
+The binary division here is nonsense. And the problem it creates is that it makes relatively fortunate
+people, who would themselves be choice riders, think too much about themselves personally as
+the design customer of transit, and to not care at all about what will attract a lower-income rider
+because they think of that person as dependent. And this is absolutely wrong. And in fact, systems
+that are achieving a lot of ridership decline-- we're seeing this very dramatically in Los Angeles-they are you losing the riders that they thought were dependent.
+They are losing low-income riders. Low-income people are buying cars because the transit system
+is not working for them. And that may be partly because their needs weren't front and center when
+a lot of decisions were being made because the conversation among more fortunate people was,
+we need to attract choice riders, which is a way of saying we need to attract people like me. And
+you shouldn't.
+so we need to be very careful about that. But the reality is that it's a spectrum, just as income is a
+spectrum. And people are everywhere along it. And incremental changes in service push someone
+across the line to a transit being useful to them or transit being useless to them. And that causes
+them to start riding or stop riding.
+But everything that achieve, we achieve in the middle. We achieve by people in their own situation
+finding transit to be more or less useful. And dividing riders into choice and dependent simply
+blinds us to this.
+And this is such a common way that relatively fortunate people, with the best of intentions, get
+themselves on a really unhelpful track of thinking too much about themselves as the design
+customer. And we all have to understand that-- I will tell this to your stakeholder workshop
+tomorrow morning. But most of us who are in the position to be on Boards or in a position to be
+on stakeholder workshops are not the design customer. It's great that you will find the service
+useful. But we have to design for this middle 70%, 80%. And we have to ask some of our most
+fortunate constituents to recognize that that means we're not designing around them. We're
+designing around a much greater diversity of people.
+CLAUDIA FOLSKA: Excuse me, Chair Tisdale, if I may have a question?
+DOUG TISDALE: Thank you very much, Director. If you can take a break now, because I know
+you're about to wrap up.
+
+JARRETT WALKER: I have wrapped up. I have wrapped up. I am at the end of my comments.
+And-DOUG TISDALE: No, you're good on time. But let me go to-- yeah, we have the screen back up- first Director Folska and then to Director Williams. Director Folska?
+CLAUDIA FOLSKA: Thank you, Chair Tisdale. So I think those are some really interesting points
+that you've brought out. And I'm wondering what your take on people who are, well, we could say
+transit dependent because they physically cannot have the choice of using a personal car or not.
+And so without public transit, they go nowhere.
+JARRETT WALKER: Right. There are so many different kinds of dependents that need to be
+sorted out. Ultimately people are in a lot of different situations that give themselves different
+options and give themselves different needs. Transit is not necessarily always the answer to all of
+those needs. Para transit is certainly there for people whose dependence arises from disability.
+But there are always going to be a lot of different kinds of dependence, different degrees of
+dependence. But my caution is against categorizing people as dependent, as though that's an onor-off switch, as though that either are or aren't.
+CLAUDIA FOLSKA: Well, if I may say so, with all due respect, I'm blind. And I am absolutely
+transit dependent.
+JARRETT WALKER: Right.
+CLAUDIA FOLSKA: And I'm not really keen to use para transit because it's woefully inadequate.
+And it takes hours to wait for it to get somewhere to wait again to get-- it is so inefficient, and it's
+not a good use of time. And frankly, I don't think the district would prefer people to use para transit
+over a fixed route. But there are, no doubt, a population of people with disabilities who depend on
+public transit or have nothing.
+JARRETT WALKER: I agree completely.
+DOUG TISDALE: Anything further, Director Folska?
+CLAUDIA FOLSKA: I don't know what-- I mean, you were saying don't call them dependent or
+choice users. But the fact is do you have another term that you think is more appropriate?
+JARRETT WALKER: I don't have a problem with-- I'm not disagreeing with the use of the term
+dependent. And I'm not questioning that there are people whose dependence is absolute, as you
+describe it. I'm cautioning against the division of the universe into choice riders and dependent
+riders because many, many people that you would think of as dependent, when you think that way,
+like low-income people, for example, are going to express certain kinds of choices and aren't
+necessarily going to ride forever, no matter how bad the service gets.
+DOUG TISDALE: Thank you.
+
+CLAUDIA FOLSKA: OK, thank you.
+DOUG TISDALE: Thank you, Director Folska. Director Williams?
+KATE WILLIAMS: One of the issues that I haven't heard us talk about at all tonight is how fares
+relate to this. It's been a big issue here recently. And I'm wondering if you have any experiences
+with transit systems that have become free and how that affects all of these other topics.
+JARRETT WALKER: I'm tempted to say that's above my pay grade. Fares are really difficult. It's
+a whole other hard set of questions about how you're measuring success ultimately. I will say that
+in the North American context, I think there's a strong argument for subsidized fares for people
+who need fare subsidies, as opposed to free fares. I don't need a free fare.
+I don't need fare transit to be free. And I should pay something to use it because I can. But I think
+I will not wade deeper into that than that. It's a very challenging set of issues.
+KATE WILLIAMS: Real quick, I just have two things, and then I think Director Lewis, who can't
+push a button, wants to speak.
+DOUG TISDALE: Oh, because you're not signed in. All right, Director Lewis will be right after
+Director Cook.
+KATE WILLIAMS: But one of my favorite signs in my office says a fare is a copay.
+JARRETT WALKER: Mm-hmm.
+KATE WILLIAMS: And I think that's to what you're saying, is that those who pay can pay. Thank
+you. Director Lewis?
+DOUG TISDALE: Thank you. Actually, I'm going to Director Cook, and then I'm going to
+recognize Director Lewis.
+SHELLEY COOK: I keep thinking about all the communities you're going to be addressing
+tomorrow. And as Director Buzek was saying, this isn't just about Barney, it's actually like 50
+communities and 50 mayors who went to bat for us. And I don't think we're going to be making a
+decision about coverage versus ridership in a vacuum.
+It's going to be more like a negotiation with the region. How do you propose we prepare for that,
+what kinds of principals-- do we lay-- how do we commence that in a way that's more likely to be
+successful?
+JARRETT WALKER: So all I can offer is that when we do this process, what we do is we just
+spend a lot of time giving some appropriate form of this presentation. We have a process we do,
+where we gather stakeholders in invited workshops. And we sit them around tables, and I make
+them play a game, where they have to design a transit network for a simple fictional city so that
+
+they can have some experience in their hands of how these trade-off work, and why if you do this,
+you can't do that, because it has to become transparent.
+This has to not just be something RTD is telling us. Rather, it is a description of the geometric
+facts of the matter. And so we put enormous effort into that, that kind of education, to help as many
+people understand why the ridership-coverage trade-off is inevitable. Whether you decide to talk
+about or not, you're still talking about it. And it's what you're really talking about.
+And then leading to helping people talk about what they want not in terms of we're special, so we
+should have this, or we should have this because we're owed this, but rather we insistently ask the
+question, what rule should we be following in designing service?
+And by doing an outreach that's specifically about that, what rule should we be following; how
+should we measure our success; and asking everyone in the community, tell us what success is;
+tell us what you're going to judge us by, that brings a critical mass of people to the point of
+understanding this at that altitude so that they will then understand what's going on when you make
+a certain decision and will understand that that decision is consistent with a policy direction. It
+doesn't mean they'll like the decision.
+But it will be harder for them to argue, as they otherwise would, that you're picking on them
+because it's very clear that you're not picking on them, the way I tried to explain when I talked
+about these geometric facts about how communities are laid down, and how overwhelmingly that
+determines transit outcomes. It's not an opinion about anyone there. And so all that work we do to
+get mayors and city counselors and heads of banks and people around the school district, and the
+university, everyone else, get them around the table, touch these problems themselves in a fun little
+game.
+And then to be out there with the web surveys and so on and all the other tools that are getting as
+many people as possible coming into contact with the actual geometric facts, so that, then, they
+learn how to talk about what they want in the context of those facts, rather than just yelling at you
+because the facts aren't what they would like.
+And all I can say is we have a long track record of projects that have brought a community to some
+sort of consensus and some sort of decision and some sort of action. And again, our goal is not any
+particular decision, but simply a decision whose consequences everyone understands and that lets
+everyone be clear about where they are.
+And again I think tying back to an earlier question you asked, the ability to form clear policy about
+these things, the ability to form a much clearer statement about what RTD owes everyone, what
+being in the RTD district means and doesn't mean is the ultimate answer to all the parties, because
+there are larger mathematical facts about why you're not going to get what you want, even though
+you pay taxes, just as we're not going to build you a fishing pier if you're not on the lake.
+DOUG TISDALE: Thank you. Director Lewis, now you are recognized, please.
+
+SHONTEL LEWIS: What's the answer? Thank you, Chair. So just to follow up on that, you said
+you don't make recommendations. But I'm curious. You've talked about how to bring stakeholders
+along in the process. And I'm just curious. Are there times where you've recommended or presented
+stakeholder engagement to which the client that you were working for deviated from that or just
+decided not to do that? And what were those consequences?
+JARRETT WALKER: You're asking me about-SHONTEL LEWIS: Failures.
+JARRETT WALKER: --where we've-SHONTEL LEWIS: [LAUGHS]
+JARRETT WALKER: OK.
+[LAUGHTER]
+Yeah, I think that a common problem that happens in stakeholder engagement is that the concept
+of a stakeholder is defined too narrowly. Sometimes--This is the way things have happened to
+other cities. Staff will-- well, let me just say this. A network redesign is, by definition, something
+you only do every 20 years.
+It is, by definition, something that most of the staff of an agency have never been through before
+on this scale. It is, by definition, new and challenging and takes staff out of their comfort zones as
+much as it takes everyone else out of their comfort zones. And so one of the challenges for staff, I
+think, is to decide whether yes, indeed we are ready to sit back and have the community have this
+conversation and not make a recommendation.
+Many people, understandably, who work for transit agencies, feel very strongly about what kinds
+of outcomes they want to achieve. And I think there's also the great challenge, then, of figuring
+out who to include in the conversation, when, and so on. So I fully respect how difficult this is.
+And I don't in any way mean to second guess the decisions that they will make and that your staff
+will have to make in approaching this.
+I think all I say in general is this process thrives on transparency. It thrives on people being able
+to get their questions answered. It thrives on having as much information out there in as many
+different forms and in a form that rewards people's curiosity, lets people delve.
+This process thrives on the courage to really ask the question and for staff to very explicitly not
+appear to be favoring an answer. Because if you're going to go to the public, and you're going to
+go the community with a genuine question. and if you look at some of the surveys we've drawn,
+like I think what we've done for UTA-- you can probably find some of that online. The first
+question starts with, we don't know what you want us to do. We are being given contradictory
+direction. So we need you to help us sort it out, figure out what your priorities really are.
+
+We lay it out there very directly. What do you want us to do? How are you going to measure
+success, right? What should our goal be? And people respond to that. And it draws them into
+thinking about some of these tough trade-offs.
+And although inevitably, when we're asking a kind of abstract question like that, some people are
+not going to engage until there's a map in front of them. But a lot of people, a real diversity of
+people will engage at that stage. We've done planning game workshops, stakeholder workshops
+entirely in Spanish, for example, gone fine, and lots of different kinds of communities.
+Because once people touch the sort of physical facts, then they can start to understand and think
+about solving problems inside those physical facts. So that's really necessary. So I guess
+transparency, letting the question be open, really conveying that staff has no prior interest in what
+the answer is, and then defining stakeholder very broadly are probably the keys.
+SHONTEL LEWIS: Thank you. A follow up, please. So in network redesigns, one of the things
+that we're dealing with here in our agency is that we don't have enough operators to operate our
+services. And so when you talk about connectivity and frequency, I'm curious, in your experience
+in network redesign, have you ever redesigned a network that has allowed you to solve for an
+operator shortage?
+JARRETT WALKER:
+DOUG TISDALE: In this respect, a lot of network designs that we've done have turned split shifts
+into straight shifts and have turned part time into full time. And so if you're thinking in the context
+or an operator shortage, I would go back to that extreme inefficiency of peak-only service as
+possibly one area that can help a little bit. Now, I will say the ultimate labor market trends that are
+creating your operating shortage now are bigger and more volatile than a network redesign can
+really help you with. But those would be some of the ways those things might be connected, if you
+want to connect them.
+SHONTEL LEWIS: Thank you.
+DOUG TISDALE: All right. Thank you very much, Director. Let me actually recognize Director
+Lubow first because she didn't have a chance to speak yet. And then we will do Director Menten.
+JUDY LUBOW: Thank you. Thank you, Chair. I'm sure you've dealt with this before because
+you've dealt with such large communities. But we have, I don't know, 30 or 40 communities within
+our huge district. And I can guarantee you that if you were looking for a consensus from Brighton,
+it's going to be different than what you're going to find in Lakewood.
+And when you add to that the fact that we do have a history of promises, legal promises that were
+made that were complied with for some districts but not for others, you really have differences. So
+how do you assimilate all of that?
+JARRETT WALKER: That's the starting point for every project we do. I've never worked in a
+place where that wasn't real. And one of the things that happens when we force people to sit down
+
+and work with the geometry of the problem, they tend to, then, start understanding what the real
+trade-offs are. If you don't understand that stuff, it's easy for someone to say, the only reason that
+RTD isn't giving us the service we want is that we're not yelling loud enough, right? So they yell
+louder.
+[LAUGHTER]
+So you get to bring them into a process where they can touch and understand what the actual barrier
+is to giving them everything they want and why giving them everything they want is not something
+that's realistic in the context of everything the agency has to do. You've got to make that the whole
+planning question transparent enough. And that's what we always are trying to do when we're
+getting people together to sort of play with designing transit themselves.
+Sometimes we'll even-- when we're working at the municipal scale, we'll sit people down in front
+of a map of their city with similar kinds of tools and say, OK, if you had about this much resource,
+what would you do? And it forces people to talk with their neighbors about what their priorities
+are in a way that starts to steer conversations toward an outcome that's going to be possible. And I
+don't claim that it's easy. I just can claim that the problem you're describing is the usual problem.
+JUDY LUBOW: Do you ever mix into that the concept that you talked about in Utah, where you
+actually had Provo and Salt Lake-- you had three different little precincts almost dealing with the
+uniqueness of each one?
+JARRETT WALKER: That firewall structure is something that you can choose to create. It creates
+a lot of other kinds of distortions and often has a lot of other outcomes that start to be a problem.
+I'll give you an example.
+King County, which is the big regional transit operator that also serves Seattle, had, for many
+years, a firewall in its budget, largely separating Seattle's service from the suburban service. And
+it prevented service from being moved into or out of Seattle. Seattle is so much denser than the
+rest of the region and was growing dense so much faster than the rest of the region, that this finally
+ended up in a situation where a bus with 40 people on it in Seattle would be cut, while a bus with
+three people on it in an outer suburb would be kept because the two sides of the firewall were just
+so different in the nature of their transit demand that it was producing these really obvious and
+extreme disparities that got to a point that nobody could really defend them.
+And so, if you were to put, for example, a firewall around Denver service or a firewall around
+Boulder serve, you'd start having some of those kinds of outcomes that would do what an outer
+suburb wants in terms of firewalling its own service and protecting it.
+And you can do that. And you can choose to do that. But it creates its own kind of-- there'll be
+plenty of reasons for people to object to that, too.
+JUDY LUBOW: Well, there may be some third alternative that isn't called a firewall but that is
+some creative way. I think of it as a unique partnership that the municipality would create with
+
+RTD or whatever, saying, we're going to work something out about money and power and what it
+looks like.
+JARRETT WALKER: What Seattle ended up doing, by the way, that county agency that includes
+Seattle, is they finally had to abandon the firewall. And what they instead came up with was
+essentially three equal criteria, one of which is what they call geographic equity, which basically
+means sort of local return of investment. But now, a firewall means 100% local return on
+investment, right? The money will never leave that sub-area. They ended up with something where
+local return investment was one of several criteria so that it wasn't abandoned, but it also didn't
+become too rigid.
+JUDY LUBOW: I see.
+JARRETT WALKER: All that stuff that gets experimented with. There's lots of interesting
+experience with that.
+JUDY LUBOW: OK. Thank you very much.
+DOUG TISDALE: Thank you, Director Lubow. Director Menten, you are recognized.
+NATALIE MENTEN: Thank you. In those situations where some areas are rural areas, say, as an
+example, in one of these cities or agencies that you've worked with, and it was de-- I'm just
+wondering if you've run into this, where an area de-annexed themselves and said, OK, we agree.
+It doesn't make sense to provide the transit to our area. But we're not going to keep investing money
+in something that we don't have product within our area. Have you seen anybody de-annex? We
+had Castle Rock here. But that was years ago and before my time, but just wondering if you've
+seen that.
+JARRETT WALKER: I have seen that. It's the result of a very challenging conversation, because,
+of course, there are regional congestion mitigation benefits that the transit agency is achieving,
+even for people who commute from outside its boundaries. And so de-annexation can give the
+appearance, then, that community is, if you will, freeloading on those benefits.
+But on the other hand, yeah, I have seen it happen. I've seen it happen adversarially. I've also seen
+it happen consensually. I can think of one example in Olympia, Washington, where the transit
+agency consensually went separate ways with three rural towns, each of a couple of thousand, that
+were around the edges of its service area.
+And it was consensual. It was first of all, these towns are constantly voting against our funding.
+And they're very expensive to serve. And they don't seem to value the service very much. And it
+turned out to be kind of consensual. It was kind of a happy divorce.
+[LAUGHTER]
+So that can happen. But it can also be very challenging because of the difficulty of-- and I think it
+helped that those three areas were pretty small. But if you talk about a major chunk of a district
+
+de-annexing, now you're talking about the fact that this area still is benefiting from a whole lot of
+regional benefits that arise from the regional transit agency, even if it doesn't go directly to them,
+and that some people will perceive that as freeloading. And so it's difficult.
+NATALIE MENTEN: Can you give me a couple of the other cities where you've seen this happen,
+whether adversarial or otherwise?
+JARRETT WALKER: This has happened-- the other thing I'm thinking about are some examples
+in Texas, because Texas law makes it extremely easy to do this. A vote of the city council, and
+you're out. When I was working in San Antonio, I was aware of some cases of small cities deannexing.
+Sometimes it didn't matter very much because they were out on the edge. And they weren't getting
+much service anyway. In one case, there was a city that was an enclave city that was close in,
+surrounded by the city of San Antonio, where service had to run across it because it was going
+through this part of San Antonio to that part of San Antonio.
+And they de-annexed. And it created this crazy situation, where all these bus service was operating
+non-stop through this city. So it can have a lot of crazy outcomes.
+And because of the difficulty of agreeing on what counts as a benefit of regional transit, it's a hard
+thing necessarily to agree on. But I understand why people think about it. And again, sometimes
+you can arrange velvet divorces. Sometimes you negotiate other kinds of relations.
+NATALIE MENTEN: All right. You said there four agencies around the country that are-JARRETT WALKER: Sorry?
+NATALIE MENTEN: There are four agencies around the country with either flat ridership or
+gains. Did I catch that right early in the discussion?
+JARRETT WALKER: I think there were more than four now. But there is certainly at least four.
+NATALIE MENTEN: Can you tell me the four you're thinking of?
+JARRETT WALKER: Which one's I was thinking of? Sure, Seattle; Houston; Richmond,
+Virginia; Columbus, Ohio; Anchorage, Alaska-- proud to have worked in all of them.
+[LAUGHTER]
+Oh, and Austin, Texas. Austin, Texas is now turning it around. They just put in a redesign last
+year.
+NATALIE MENTEN: OK. Moving to a different subject real quick, micro transit. I count off our
+last special services report, which is we call it now our flex ride, a very micro target, little, green
+overhead van vehicle. And last count, looks like about 30 of these routes. Our policy is three
+
+boardings per hour. Right now we're sitting at 16 routes with less than our policy boardings per
+hour and about 12 that are somewhere above that or more. Wondering, have you seen somebody
+try replacing these systems with a voucher type of a system, where the person, some variety or
+another?
+Let's say they're a guaranteed public transit user, but the subsidy is $30 per boarding. And the city
+says, we'll give you $5. And you can spend it however you want.
+JARRETT WALKER: That is one of the solutions that sometimes gets developed. I have seen that,
+where essentially rather than providing a service at a fixed fare, like transit agencies do, they
+provide a fare discount on a taxi ride or an Uber ride, whose fare, of course, is variable. And so
+you're not-- because Uber will quote you the fare when you ask for the ride, right? And so the
+voucher may give you $5 off the Uber fare, but that doesn't mean you know what the fare's going
+to be. Low-income people, this may or may not work for them.
+I would still wrap that question into the larger question of the ridership-coverage trade-off. Not
+only is micro transit a coverage service, but when once you decide that your goal is coverage,
+which is the only reason micro transit exists anyway, and the only reason that a lot of hourly fixed
+routes exist, if the goal is coverage, it maybe makes sense to think in terms of the measure of
+success being coverage, measured as something like percentage of people who have some kind of
+service within a quarter mile. Now, demand-responsive services can be an efficient way of doing
+that.
+Because if I've got a very low-density area, then I can take credit for having gone within a quarter
+mile of a lot of places. And yet I don't actually go there every hour, the way a fixed route does,
+because I only go where someone needs it. This only works in the context of very sparse demand.
+But if you're designing to a coverage standard, then you don't really care about the ridership
+because it's the coverage standard that's justifying it. It's the showing the flag in the neighborhood.
+It's the leave no one behind. It's the be there as the lifeline. Then you don't measure the ridership.
+You measure the coverage.
+And in that case, if you were designing to a standard, like 95% of people in the suburb have service
+nearby, then demand response sometimes works. Demand response is always appalling on
+ridership grounds. It's usually worse than fixed routes designed for coverage too.
+I don't know the details of your system. But in most systems, the really dismal suburban fixed
+route that people think is empty all the time, is doing 10 boardings an hour, which is terrible for a
+fixed rate service but just impossibly high for micro transit. There's a whole order of magnitude
+difference.
+So micro transit will never win on a ridership game. It will never even stack up against most fixed
+routes on a ridership game. But if coverage is the outcome, and you're clear that that's what you're
+buying, then there are times when it works.
+
+NATALIE MENTEN: The presentation you'll be doing tomorrow, will that be a duplicate of what
+you did tonight?
+JARRETT WALKER: Oh, modified a little bit for the different audience.
+NATALIE MENTEN: And who are the guests for this? I'm sure the Board was invited.
+DOUG TISDALE: The Board is absolutely invited and welcome to attend tomorrow morning.
+We'll be at History Colorado at 7:30 AM. And I am going to ask that, at some point, we look at
+trying to wrap this up. But that said, you're more than welcome. And there are stakeholders that
+we've invited.
+I know we have invited essentially every elected official within the Regional Transportation
+District. Our 2,400 square miles has been invited, along with a number of others. I know that many
+of the people who were at our Transportation Transformation Summit that we did in November
+last year some time will be present tomorrow. We're expecting about 100 people or so, at this
+point.
+NATALIE MENTEN: Are we maxed on seats, or are there are few available for somebody who
+you did not RSVP?
+DOUG TISDALE: Director, there is always room for members of the Board of Directors.
+DAVE GENOVA: We have space for walk-ins.
+SHONTEL LEWIS: For what?
+DAVE GENOVA: For walk-ins.
+SHONTEL LEWIS: Oh. [LAUGHS]
+NATALIE MENTEN: And is the public invited or welcome?
+DOUG TISDALE: I believe we have said that the public is welcome. We have not broadcast it by
+way of any advertising. But Director, as I indicated, you are welcome. You may bring guests.
+NATALIE MENTEN: Great. Randal O'Toole-JARRETT WALKER: Yes?
+NATALIE MENTEN: --who I admire his work very much, speaks highly of you.
+JARRETT WALKER: Likewise.
+NATALIE MENTEN: So thank you for the presentation.
+
+DOUG TISDALE: Thank you very much, Director. Director Walker, and I know Director
+Guissinger, it looks like you dropped out. I'll go to you next. But I do want to give some time for
+staff here also. If there are any questions that either General Manager or some of the other staff
+would like to ask, I'd like to make some time. So let's please take that into account. Director
+Walker, Mr. Secretary.
+JEFF WALKER: Thanks. You mentioned all day-- a peak service might be inefficient. And years
+ago, I think in '09, 2010, something like that, we got rid of peak fares. And I ride the bus frequently,
+and I noticed it made a world of difference in my commute during the morning and evening. And
+so was probably some of those same benefits would roll over to reducing or eliminating peak
+service.
+I am wondering if you have noticed a difference in size, or geographic size of agencies when they
+go through a situation like this? So like Louisville, Kentucky or Toronto, where it's just one big
+city now that covers a whole county or a region, or, I guess, maybe RTD, which is several cities
+but one big region versus a place like Dallas, which is only 1,000 square miles and several agencies
+around it or San Francisco or Seattle, is it different restructuring the system in the massive agencies
+or regions versus smaller ones, where they're Balkanized?
+JARRETT WALKER: The same principles apply in all geographies. I've done this process in
+Anchorage, and I've done it in Houston, Anchorage population, 200,000, Houston population, over
+2 million in the service area, 4 million in the region. Scale makes the conversation, in some ways,
+more difficult. Certainly all outreach efforts need to be scaled to the scale of the city.
+Probably the most interesting aspect of size is actually the implementation challenge of a redesign.
+Because once you've approved the redesign, it has to happen. The sheer scale of it is often
+extraordinarily daunting for a transit agency, again, remembering that it is inevitable that most of
+the staff of a transit agency haven't been through this before.
+And I point people to Houston as a place where lots of people thought it was impossible. And then
+they decided to do it, and they did it. And they did it really well. But Houston is, I think, a great
+example of a lot of these things because it is so big and on such a massive scale geographically.
+And it all had to be done at once because there was no way to separate it into phases. It was too
+interdependent.
+And it was a massive conversation, too. But we did it. It worked.
+JEFF WALKER: So speaking of Houston, as it's been pointed out and almost everybody knows,
+Houston doesn't have a real zoning code. I think they just have subdivision, and that's it. And what
+you can build on a certain size depends on what can be built or controls what can be built. Does
+the conversation about land use enter into the redesign? Like, maybe we should think about where
+we allow what types of buildings and how many units?
+JARRETT WALKER: A network redesign is usually a two-to-three-year project aiming at an
+outcome, a change in the network two or three years out. As a result, it usually happens in the
+
+context of the sort of given-ness of the land use design, of the land use pattern. But I am always
+thinking about a larger play.
+And when I'm talking to people who care about this, I'm talking about how creating a frequent
+network creates the basis for a new land use reality, if a city chooses to seize it. And that's the stuff
+I talked about earlier about the way you can have lower parking requirements, support more
+apartments, and so on. We are inevitably, when we do a network redesign, running up against all
+of the problems presented by the existing land use.
+And because I have to talk about density, walkability, linearity, there's no way that people get
+through the redesign without understanding the way that their current land use and the choices
+they've made lead to the transit reality that they have and what their expectations can be. And that
+has an impact.
+JEFF WALKER: OK, thanks.
+DOUG TISDALE: Thank you very much, Director Walker. Director Whitmore, you can bat cleanup for the Board, and then I'll open up to staff.
+TROY WHITMORE: Thank you, Mr. Chair. Great presentation. Thank you for being here. Maybe
+this is a question for senior Board members or our management. Is a redesign a given under our
+beginning stages of T2 or Reimagine RTD? It seems like we're down the road a ways tonight.
+I'm just curious. Perhaps I've missed something. But what's your thought, Dave, on that question?
+DAVE GENOVA: So over the last two years, a couple of the strategic priorities that the Board has
+given us, so this year that we're in, 2019, we had the strategic priority of addressing future
+transportation needs and methods. And so under that goal is where we embarked on this body of
+work that we're talking about really kicking off in earnest here shortly, and then, of course, a
+similar strategic priority for 2020, and then, of course wrapped into some other strategic priorities
+that we receive for 2020 to address transit equity, which we really heard from the Board was
+coverage, and then also increased ridership. So this kind of work really gives us the opportunity to
+be able to work through those strategic priorities with the Board and what your thoughts are and
+where we're going to go.
+And again, I'll just re-emphasize tonight that really this is informational. And just a little bit of a
+backdrop is that I've seen Jarrett Walker speak several times. And in fact, tonight is the first time
+I've met him and shook his hand, and said, hi, I'm Dave Genova, nice to meet you. And we have
+not talked before this presentation tonight.
+This is simply the areas of his expertise and the things that he does. And I thought it would be a
+very good way to get, again, thought-provoking dialogue. This is truly the beginning. I'll also
+mention that he's not part of the consultant team that we selected to walk through this work.
+So again, he's coming to us tonight as a very neutral, independent expert in this area to just help
+promote this kind of a discussion. And we'll do the same with stakeholders tomorrow. So certainly,
+
+no preconceived notions. The staff, I will tell you, we have an open mind. And I appreciate some
+of the comments made around getting out of our comfort zones, right? Because I'm hearing some
+things, I'm sure the staff's hearing some things tonight, I'm sure you're all hearing some things
+tonight that are making us a little bit uncomfortable. And how do we want to address some of these
+things?
+Well, the good news is we have a lot of time to work through this. It may turn out at the end of the
+day-- I don't know if this will be the case or not. We may decide we're happy with exactly what
+we're doing. But in light of the strategic priorities that we've been given to work through, we need
+to go through these things and these kinds of discussions and talk about the balances, where we
+want to be on the various spectrums.
+And it'll be interesting. It'll be challenging. At times it's going to be fun and exciting, the exercises
+that we're going to go through. It'll be very stimulating. But we'll see where we're going to land.
+From my perspective and the direction that we've given the staff, it's an open mind, no
+preconceived notions, no preconceived outcomes.
+TROY WHITMORE: I appreciate the comments. That's very helpful. I certainly did not mean to
+come across negative whatsoever on this.
+DAVE GENOVA: It wasn't taken that way.
+TROY WHITMORE: OK. And I have to depart to celebrate a birthday party. I really regret that
+because judging by who's lining up back there, I hate to miss the comments.
+[LAUGHTER]
+But this is going to be good. So again, thank you. Thank you for time, Mr. Chair.
+DOUG TISDALE: Thank you, Director Whitmore. I appreciate it. A large part of what tonight is
+intended to be and has been is to give you information and inspiration so that you will be a more
+informed Board as we go through this process. And that's why we got someone other than the
+consultant working with us on the process to help us work better through how this all works.
+Before I go on too long, because I certainly can, Mr. Genova, are there staff members who'd like
+to come forward and ask questions at this time? I'll let you recognize them.
+DAVE GENOVA: Anybody have any questions for Jarrett Walker? So I know we'll have
+opportunity tomorrow at the stakeholder session, as well as Board members that come, as well as
+the stakeholders that are there. So seeing no one, we'll pass it back to you, Mr. Chair.
+DOUG TISDALE: Thank you very much. Again, the Board is welcome tomorrow. And I think
+the doors open at 7:30. But we start at-DAVE GENOVA: Yes, so there's continental breakfast at 7:30. So that's why we would be
+concerned about a lot of walk ins, because people did RSVP. So that kind of-- some beverages and
+
+refreshments available, 7:30, program to start at 8 o'clock sharp. And we're expecting about maybe
+an hour and a half worth of program tomorrow.
+DOUG TISDALE: Right. And I just want to say on behalf of the Board, and I fairly speak for them
+when I say we thank you, Dr. Walker, for your great time with us, an extended presentation to help
+us get a better handle on a lot of this stuff. I very much appreciate your map because it does point
+out the significant, numerous decisions. It isn't just a simple question of ridership versus coverage,
+which is, I think, the first impression that many people have.
+And so you add a degree of depth and sophistication to this that I know will benefit this Board
+going forward in the future. We look forward to seeing you tomorrow. May I ask, before I give a
+final thanks to Jarrett Walker, are there any other matters to come before the Board? Clicking in,
+first I'll recognize Director Guissinger first, and then I'll go to the General Manager. Director
+Guissinger?
+LYNN GUISSINGER: Super fast, next week we're starting our program that we've talked about a
+little bit of having guests. It's sort of educational and relationship development. And we'll be
+starting with Elizabeth Garner, who is the State Demographer, does a lot of work on aging and the
+future of what our demographics will be like.
+And to keep these as a valued part of our program, we're going to try very hard to keep it to 20
+minutes. I've asked her to do a 10-minute presentation. We get 10 minutes for questions from the
+Board. So hopefully we can keep that to one question each. And if we try to be concise, if we still
+have time, we can go back around. So just a little heads up on that. Thanks.
+DOUG TISDALE: Thank you very much, Director. And I will tell you, having heard Elizabeth
+Garner before, who is the State Demographer, she's an engaging, intelligent speaker that you will
+very much appreciate and enjoy. Mr. Genova, you are recognized, sir.
+DAVE GENOVA: Yes, just very quickly, Board of Directors, so yesterday the Live program went
+live. And as of the close of business yesterday, we had 49 applicants make it completely through
+the eligibility process, just in the first day.
+DOUG TISDALE: Thank you very much. We appreciate that, General Manager. Ladies and
+gentlemen, that concludes our business. Oh, wait, Director Lewis, you're still not signed in. Yes,
+OK, you are recognized.
+SHONTEL LEWIS: That's correct. I just have a quick announcement and a thank you to the staff
+for their participation this past Saturday in the pancake breakfast. We had a really good time.
+Thank you for being responsive and being out in the community. And then I'd also like to make
+an announcement that we will also be out in the community a Brick City this Saturday from
+something to something, somewhere and somewhere, and I'm excited to be there. [LAUGHS]
+[LAUGHTER]
+
+DOUG TISDALE: Thank you. Details to follow. And the Board office will provide that. Ladies
+and gentlemen, join me in welcoming and thanking Dr. Jarrett Walker.
+[APPLAUSE]
+Thank you very much. We stand adjourned. Thank you very much.
+
+

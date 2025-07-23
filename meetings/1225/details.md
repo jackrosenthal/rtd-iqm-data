@@ -1,0 +1,281 @@
+## I. Operations and Customer Service Committee
+
+Chaired by Tom Tobiassen
+
+### A. Call to Order
+
+Committee Chair Tobiassen called the meeting to order at 6:45 p.m.
+
+Staff Present:              Bruce Abel, Martha Bembry, Shirley Bennett, Jessie Carter, Susan Cohen, Carolyn Conover, John Elias, Heather Ellerbrock, Eric Farrington, David Genova, Mike Gil, Kenn Hardin, George Hovey, Terry Howerter, Erin Klaas, Marla Lien, Barbara McManus, Judy McMurphy, Don Merritt, Alice Osner, Paula Perdue, Trent Ratcliff, Scott Reed, Susan Sandoval, Jannette Scarpino, Cal Shankster, Cherie Sprague, John Tarbert, Bill Van Meter, Judy Vialpando, Phil Washington
+
+Others Present:               Dawn Bembry, Dylan Grabonski, Doug Gragg, Stan Gronek, Joe Triplett, Gary Van Dorn, Bob Wilson
+
+#### 1. January 2014 Service Changes
+
+It is recommended by the Operations/Customer Services Committee that the Board of Directors approve the January 2014 Service Change package as revised and summarized in Attachment A resulting in an annualized cost increase of approximately $635,500    and, further, to authorize the General Manager or his designee to execute contract amendments as necessary for private operators whose service is impacted by these changes.
+
+Motion:              Director Folska made the motion to move this item to the full Board at the October 29th, 2013 Board meeting.
+
+Director Bagley seconded the motion.
+
+Discussion:              Bruce Abel commented that staff took a series of recommended service changes out to public comment, as we always do during the service change process.  Staff continues to conduct analysis and use the public comment process to seek input and to get their perspective of the recommended changes.  As a result of that process, Mr. Abel stated that he came back tonight with a recommended set of changes that resulted from staff’s continued analysis, as well as modifications and or additions that resulted from the public input process.
+
+Mr. Abel reminded the Board, as discussed last month, that staff has begun a new process and has included a read-ahead in the Board packet.  Next May, bus operations will be moving to the new Denver Union Station (DUS) bus concourse. Mr. Abel stated that staff likes to look ahead, not just at the current set of changes.
+
+Mr. Abel stated that staff will begin seeking public comment on the DUS changes starting as early as November but they still have a fair amount of work to do.  It may seem like a small project because all we’re going to do is move our operation from Market to DUS, but there are a significant number of activities that need to occur for that transition to take place.  Many of these activities take place within the service planning arena where a number of our routes and schedules need to be adapted to the change in facility.
+
+Mr. Abel stated that Jessie Carter would talk about the changes that have taken place since the initial recommendations.  He noted that copies of two different letters were distributed to the Board that relate to the 29th and Welton Street Station and the recommendation for a permanent closure of that station.  These letters are also available in the October 15th, 2013 Operations and Customer Service Committee Agenda Packet.  This station was closed on a temporary basis to assess the impacts of on-time performance of the temporary closure of that station.  As Jessie will point out, the final recommendation is to move forward with the permanent closure of the 29th and Welton Station.
+
+Mr. Abel stated that the distributed letters represent institutional stakeholders in the area that staff wanted to share with the Board.  One letter is recognition of the improvements in our on-time performance, which is what staff was seeking, with a comment regarding their hope that RTD will not allow the station to fall into disrepair.  In the second letter, the stakeholders acknowledge the improvements in on-time performance; however, they take a slightly different perspective and say that the improvements are not enough.
+
+Jessie Carter greeted the Board and noted that he represents the service development department.  He stated that the January 2014 service change proposal represents about a $635,000 dollar service increase.  The recommended changes are primarily aimed at improving the quality of our service, addressing overloads, on-time performance, etc. Staff also has several service decreases, the largest of which is the permanent closure of 29th & Welton Station.
+
+Mr. Carter shared that staff held 8 public hearings.  Several Board members attended hearings, as well as a number of staff, plus 76 public participants.  Staff received really good input and because of that, they made several changes to the proposal that was brought forth in September.  Those recommended changes include an additional trip on Route 86 to address on-time performance and overloads and cancelling the proposal to move the 6:10 p.m. trip. Staff is also adding trips on the 120X and making some running time adjustments to Route 225.
+
+Also, as part of the public hearing process and further analysis, the Route 410 proposal was altered so that there will be additional trips , but  service will not be curtailed between the Pinery and Parker Park-n-Ride.  With Route P, staff is proposing to add an additional trip on to it at around 3:15 p.m.  Also added to the list was additional service to the Longmont call-n-ride, which is probably the largest service addition, at a cost of about $55,000 thousand per year annualized.
+
+Mr. Carter mentioned that he wanted to comment on the letters that Mr. Abel previously mentioned.
+
+He noted the letter RTD received from the Five Points Business Administration actually characterized their disapproval of the proposal to close 29th and Welton.  The reasons that they cited mainly centered on the impacts or perceived impacts to property owners in the area; the letter doesn’t speak about the customers but instead on the perceived impacts to property values and the amount of foot traffic in the area.  He stated that the letter RTD received from Curtis Park Neighbors, which is a neighborhood association that actually has some folks who use the service on a regular basis, recognized the fact that service had improved in terms of on-time performance and reliability, but they are looking for continued efforts toward making improvements even better in the future and this is something staff agrees with as well.  However, Curtis Park Neighbors also noted the recent occurrence of violence at 30th and Downing and tied that to options that may be available for the 29th avenue station, which is something that is difficult to address from a staff perspective.
+
+Mr. Abel opened the conversation for questions.
+
+Director Deadwyler shared that she is very disturbed at what has gone on at the 30th and Downing station.  She stated that the business community is really concerned about the closing, especially with the recent violence.  Director Deadwyler mentioned that she has asked Jessie Carter to organize another meeting.  She noted that there is some confusion in terms of mixed messages regarding the 29th Street station.  Some members of the business community are stating that there is a possibility the station would re-open; others want everything out if RTD is going to close the station after the studies have concluded.  Director Deadwyler wants RTD to go down and talk with the business community to ensure everyone is on the same page.
+
+Director Deadwyler advised that she received another letter today that was opened as a General Manager Request so it could be responded to formally.  She continued that the two letters presented earlier are not the only letters that are out there that are opposing RTD’s closing of the 29th & Downing station.
+
+Committee Chair Tobiassen asked General Manager Washington if there would be any comment on the security matters later in the meeting.  General Manager Washington confirmed that there would be an update.
+
+Bruce Abel wanted to add to Director Deadwyler’s comments related to the infrastructure; in the Board report, staff did indicate the physical infrastructure would not be removed at this time but this does not mean a potential reopening of the station.  It is based on a request made by the people involved in the Central Corridor/Welton Streetcar study; there may be some other use for this infrastructure, pending the outcome of the study.  Therefore a request was made of RTD to keep the infrastructure in place, rather than take it out to find that in a year, the result of the study indicate that infrastructure is needed.
+
+Director Deadwyler thanked Mr. Abel for his presentation.  She stated that this is why she thinks that it is really important to sit down and have more conversation with the business community as they are very concerned about commuters riding through that area.  They are trying to attract tourism down there and they really thought the 29th station would be valuable to them. In terms of leaving the infrastructure, they want it cleaned and maintained; the station has to be taken care of so that it does not fall into a state of disrepair.  Director Deadwyler stated that the business community have also communicated that they do not want the station empty for years.
+
+Mr. Abel noted that staff agrees that a) there needs to be additional conversations with the business community members so they better understand the intentions regarding the station and b) staff also understands the need to maintain the facility during the closure.
+
+Jessie Carter reiterated that he will be scheduling a meeting with the Five Points Business district as mentioned previously.
+
+Director Lasater noted that in staff’s original proposal, they talked about a reduction of service on the 410 route, but the domino effect is something that he guessed staff discovered as part of the public hearing process.  While the 410 riders themselves may not be the numbers staff wants to see, the number of access-a-Ride riders was a real eye opener.  It’s amazing how many people in this area are highly dependent on access-a-Ride to get into Parker for physical therapy, doctor’s appointments, etc.  He stated that a reduction of the service would have caused huge issues.
+
+Director Lasater shared that he was glad staff listened to the riders. There was a meeting in Parker and there was a lot of concern expressed about how to get home from the campuses during mid-day.  The kids were kind of stranded; they couldn’t get home because it was commuter hours only.  With the increase of day time hours, it has helped to alleviate some of these issues.  Director Lasater wanted to encourage our PI department to work with the town of Parker to alert every one of the increased service in January.
+
+Director Lasater commented that regarding the added P line service first thing in the afternoon, while everyone thinks that added service is fantastic, there is huge concern about getting to Civic Center by 3:15 pm.  Director Lasater noted that he’s had people say that traditionally, they are getting to Civic Center about 3:20 or 3:25 p.m. He wondered if the trip time could be moved 5 – 10 minutes to allow that extra time.  Potentially, this may just be related to people getting into a new habit; however, Director Lasater asked that staff please keep this in mind and monitor the route to see if there are people sitting there at 3:20 p.m. that just missed the ride now will have to sit around for 25 minutes waiting for the next bus.
+
+Jessie Carter stated that as far as the 3:15 p.m. time is concerned, this bus will actually make the first trip out of Civic Center and then go back and make a last trip coming out of Civic Center around 6:00 p.m. With the amount of time that is necessary to make that full round trip, staff thinks it best to leave the current trip time at 3:15 p.m. to allow for reliable service.  He said that if staff finds that the schedule can be adjusted they will consider it at that time.
+
+Director Menten commented that she spoke with Robert Ryerson and he mentioned that staff was working on Route 21.  She noted that in the Board packet it states an additional cost of $25,900.  Director Menten shared that she thought there was an anticipated savings associated with the rerouting planned for Route 21, so she wondered if it was correct to say that we have a little savings on the Green Mountain run but additional costs because of the trip that staff has added into the schedule.
+
+Jessie Carter noted that in actuality, when staff further analyzed Route 21, it was determined that there was no savings with the rerouting; additional costs are due to the additional trip.
+
+Director Menten inquired if the additional costs were because of Green Mountain schedule change.
+
+Jessie Carted advised that initially, the route had a negative number.  There is no negative number now; it’s a zero.
+
+Director Daly commented that the Board had recently changed its policy about the process for service changes; this was the first time having staff go to the public for feedback on route changes before having Board approval.    He wondered if staff felt like this change was working.
+
+Jessie Carter felt that from a process standpoint, as far as getting information out to the public, the change was a huge improvement. He thanked all the Directors for voting to support the new service change process.
+
+Director Lubow shared that she wanted to thank the staff for recommending adding a Longmont call-n-Ride vehicle to handle the overflow in that area.  She felt staff should be commended because they have been having ad-hoc informal meetings in Longmont regarding this issue for some time.  A number of staff including Jeff Becker and Brian Matthews have been kind enough to take part in these meetings which have been very fruitful and frank, addressing the drop in ridership that happened in Longmont about 10 years ago that has never been corrected.  Director Lubow noted that one of the current suggestions came out of one of those meetings, and that staff are being very positive and proactive.  Director Lubow further stated that when this route change request passes, if it passes, staff should coordinate having a lot of PR around the change because this is a very positive outcome in an area where we have had a lot of public dissatisfaction over the constant cutting of service.  Director Lubow intends to work in conjunction with staff to stir up some PR.
+
+Director Hoy questioned if staff increased a 120X trip in to town back in August. Jessie Carter confirmed that an additional 120X trip was added back in August.
+
+Director Hoy assumed that now we had to balance that out with a return trip.
+
+Jessie Carter confirmed this was the case.  He stated that when you look at the 120X route, you are looking at one of our best express routes.  It carries quite a few boardings and when you look at going into fall, you get more and more students riding and people jostling around their trips.  One of the things staff will have to be careful with in May is looking at both the 120X and 122X in concert because when we move to DUS that may have subsequent impact on both of these routes.
+
+Director Hoy wanted to make a comment on a couple of routes.  He has been talking with staff and learned that it turns out if you check the 120 schedule and compare it to the 120X schedule, the 120 departs Wagon Road either 0, 1, 2, 3 or 4 minutes before the 120X shows up.  Director Hoy voiced his long running concern about low ridership on the 120 route.  He wondered if Route 120 was delayed just a few minutes, if that might help increase ridership.
+
+Jessie Carter acknowledged Director Hoy’s comments on the 120/120X route suggestions.
+
+Director Bagley stated that his comments relate to 29th Street station.  It was his understanding that there is a cascade effect through all the light rail trains that go along Welton.  That impact is from the 4 car trains and also maybe because of signal progression downtown. He noted that at the end of the line is it makes the trains run late 3-4 minutes sometimes.  He asked Jessie Carter to confirm this is correct.
+
+Jessie Carter reported that this was part of the issue, but that the biggest part of the issue is that it is a single track corridor.  Two trains can’t occupy the same space in opposite directions at the same time.  There is a limitation to the level of frequency that can be provided on that single track section.  Staff has been warring with this issue since 1994, trying to determine where the sweet spot is in terms of understanding how much service RTD can put in the corridor. The only way to improve on-time performance and reliability is by reducing the amount of time that the trains spend in the single track section.
+
+Mr. Carter shared that when staff first looked at on-time performance, we were stopping 34% of the time at Park Avenue.  After staff made that one change, the number then reduced down to 17%.  Staff believes that can be improved on that even further by working with the City of Denver to improve a new system that they put in place for us, which is a signal system that has an RFID type tag.  We are asking the City of Denver signal group to look at that and improve the reliability.
+
+Mr. Carter noted that Director Bagley is correct.  A delay of 3-4 minutes has an impact throughout the system; however, there isn’t any part of light rail where if something runs late it doesn’t have a downstream effect.   What staff usually expects to see and wants for our light rail is to see routes performing at 91% or greater with on time performance.  When you have a corridor that is performing below 60 percent, staff has to do something in order to provide a better service to that community.
+
+Bruce Abel wanted to further reinforce Jessie Carter’s comments regarding service having cascading impacts.  Not only is the performance in the Welton Corridor improving, but our system is so tied together that when we improve service on the Welton Corridor, we are improving service throughout the system.
+
+Chair Anderson stated that she felt her comments might be too late to impact January 2014 service changes, but she hoped staff got her email regarding the 52 route and the large complex on Carr Street that’s located just a few blocks down.  Chair Anderson noted that she wanted to leave the issue in staff’s hands and hope they can come up with a good solution down the road.
+
+Bruce Abel advised Chair Anderson that staff would not be able to incorporate changes on the 52 route into the January service changes but confirmed staff did receive Chair Anderson’s email and will review her suggestion as part of the May changes.
+
+Director Sisk noted that everyone is well aware of the situation in Lyons and that any schedule changes for that area would be meaningless right now.  Director Sisk shared that staff did a great job of getting Nederland up and running, but that Lyons is a different story.  Director Sisk wondered how we address the transit needs right now for the people in Lyons.
+
+Bruce Abel responded that as previously discussed with the Board, as a result of the flooding, staff did work with Nederland to provide service through the back door.  RTD was able to get that service up about a week after the flood.  Staff worked with the Colorado Highway Patrol (CHP) for a limited time; there was a partial opening of Highway 119 between Boulder and Nederland.  There is full service in Nederland now that Highway 119 has reopened.  Staff is in constant contact with the Colorado Department of Transportation (CDOT) and CHP as it relates to the City of Lyons.  The last update staff received is that there is still a considerable amount of work that remains to be done. There is an expectation of somewhere between November 1 and November 9 where it is believed we can resume some service to Lyons; if CDOT and CHP are able to move up their timeline, we can then move up our current timeline.
+
+Director Sisk noted that he really appreciated staff’s reaction to getting Nederland service back in place.  Director Sisk knew that Bruce Abel took a personal interest in the situation.  With that being said, Director Sisk shared that he would really like staff to not use CDOT or CHP to talk with Lyons; he encouraged that staff should talk directly with Lyons and find out how we can help them.  Being proactive for Lyons is an opportunity for RTD to do the right thing.
+
+General Manager Washington noted that staff will speak directly with Lyons, just like they did with the Nederland Mayor; however, there are still a number of things that need to be coordinated with CDOT and CHP and these efforts will be done simultaneously
+
+Director Menten wanted to point out something that needed to be corrected for the record.   Under attachment B, page 1, the Civic Center public hearing held on the 19th was held at 12:00 p.m., not 6:00 p.m.
+
+Chair Anderson commented that she wanted to thank Bruce Abel for working with Jefferson County commissioners on getting van pooling for the Coal Creek Canyon area.  She asked for an update on the status.
+
+Bruce Abel noted that the contact has been made and conversations have begun but there was no update since last Friday.
+
+Committee Chair Tobiassen declared the motion PASSED.
+
+##### a. Board Report January 2014 - Attachment A
+
+##### b. Board Report January 2014 - Attachment B summary
+
+##### c. A Look Ahead - Attachment C
+
+#### 2. Free Rides for Members of the Military
+
+It is recommended by the Operations & Customer Services Committee that free rides on RTD for active duty members of the United States Military should be extended from the presently approved date of December 31, 2013 to December 31, 2014. Utilization has been minimal to date and this extension will have minimal impact on RTD.
+
+Motion:              Director Sisk made the motion to move this item to the full Board at the October 29th, 2013 Board meeting.
+
+Director Lubow Seconded the motion.
+
+Discussion:               Scott Reed explained that since 2006, the Board of Directors have extended a provision of service to the active members of the military that are in uniform or can present a valid military ID allowing them to ride any RTD service free of charge.  Staff is recommending extending this service through 2014 with no changes. Director Walker noted that a while back he had a question from a gentleman who inquired about free fares for retired military personnel.  Director Walker wondered if that is being considered now and if it was to be a part of the policy the Board is voting on tonight.
+
+Scott Reed replied that the free ride passes are a benefit for active military personnel only.
+
+General Manager Washington stated that RTD has thought about providing this service to the retired military personnel. However, with the numbers of retirees in the metro region, it would make this action cost prohibitive because the numbers are so great.  General Manager Washington further commented that the active duty provision that staff have in place now is consistent throughout the transit community in providing the active duty with the free rides.
+
+Committee Chair Tobiassen commented that he works out at Buckley Air Force base and he often hears feedback from the active military, particularly the National Guard.  The free ride pass is a great benefit in their lives which they really appreciate.  Committee Chair Tobiassen expects that we will hear from some of the active duty members at a future Board meeting.
+
+Committee Chair Tobiassen declared the motion PASSED unanimously.
+
+#### 1. Radio and Computer Aided Dispatch and Automatic Vehicle Location (CAD/AVL) Project Status Update
+
+Bruce Abel commented that he anticipated that this will be the last update on the CAD/AVL project because it is now up and running.  He introduced Eric Farrington, Program Manager, to review the update.
+
+Eric Farrington greeted the Board and reiterated what Bruce Abel stated; staff is wrapping things up for the major activities.  There are still a lot of small activities and some fine tuning to do, but in terms of macro events, staff is pretty much done.  Staff has put in a state of the art, reliable and sustainable system.  The system includes the following:   (a) a public safety voice radio system that we are sharing with other agencies throughout the metro area, (b) a data radio system that is separate that provides redundancy and reliability, (c) a foundation for future real time passenger information, and (d) automatic stop announcements.  Eric Farrington stated that RTD met our FCC mandates for the new system so staff is in pretty good shape on this.
+
+Director Hoy shared that he likes the automatic stop announcements; he noticed them right away.  He wondered if drivers might be able to adjust the volume of the announcements because it sometimes gets noisy on the buses.  Director Hoy also noted that the announcements currently seem louder than when they were originally implemented.  Mr. Farrington replied that staff is still working on the fine tuning of the entire fleet.
+
+Director Menten wondered what type of complaints staff has had from neighbors or residents regarding the outside bus stop announcements. Mr. Farrington responded that there have been some complaints about external announcements; staff is pushing out a change that should go into effect this coming Saturday that has the nighttime announcements’ volume two levels lower than the daytime announcements’ volume.  There is automatic control for when an announcement is being made in a noisy area that the announcement will go up relative to the external noise.  This should reduce the complaints, but as previously noted, staff is still fine tuning the system throughout.
+
+Director Walker shared that he rides the 0 just about every day and there are three different types of pavement on that route: asphalt, concrete and BAD.  Sometimes the pavement can impact the announcement.  Director Walker has spoken with a few of the drivers and they’ve had mixed reactions from the passengers about the interruption of quiet time, loudness, etc.  Some of the drivers have shut the announcements off and just use their microphones.  Director Walker noted that the announcement volume seems to be a big enough problem on some of the routes that switching off the announcements may be warranted.   Mr. Abel responded that Alice Osner is attending to this issue.
+
+Director Daly inquired if the drivers activate the announcements or if they come on automatically.  Bruce Abel replied that the announcements are automatic, and drivers are not supposed to interfere with the announcements.  Director Daly wondered if the announcements could be turned off if there is no one boarding.  Bruce Abel stated that there are internal and external announcements.  The external announcement only goes off if the door is opened.  If there is no one to board, the driver would not open the door, so the external announcement would not occur.
+
+General Manager Washington shared that when a driver signs in, during his first time pulling out of the garage, he interacts with the system by signing on, which kicks off the automatic announcement for that route.  There is a degree of driver interaction with the announcement system which occurs when they sign on in the garage and are pulling out.
+
+Mr. Farrington stated that each bus contains all the announcements of all the routes.  When a driver signs on, this action indicates which announcements are appropriate for that particular bus route.
+
+Committee Chair Tobiassen commented that he has heard from his friends in the disabled community and these announcements are something they have been pushing for a very long time.  The feedback he has received has been very positive.
+
+#### 2. Smart Card Project Status Update
+
+Bruce Abel introduced Judy McMurphy, Program Manager.  Ms. McMurphy informed the Board that she had some quick updates on the Smart Card program.  Staff is starting a series of testing.  She reported that the first round of testing is related to the retail point of sale (RPOS) systems which first will be installed in RTD’s retail outlets.  As staff develops our retail agreements with retailers such as Kings Soopers and Safeway, these same devices will be deployed in those areas as well.  Testing is scheduled to take place on November 5th.  Ms. McMurphy noted that staff had also talked briefly about the bus stanchions being defective with the Board.  The stanchions sit inside the bus and hold the bus validators in place. The Board Report that was submitted stated that 72% of the stanchion repairs have been completed; however, as of this afternoon we are now at 97% complete.  Ms. McMurphy reported that the stanchions have passed a quality test by our Treasury Department to make sure that the installations are not going to break again.  Staff has redirected some of the training for our hand-held smart media readers that our fare inspectors use on the light rail. Beginning next week, RTD is offering 5 classes to the street supervisors to show them how to use the devices as well.  Approximately 36 staff will be trained, and this training will take place at District Shops.  She noted that some arrangements to include after-hours classes have been made.
+
+Judy McMurphy noted that regarding fare inspections taking place, staff is tracking metrics on a weekly basis.  Staff sees on average a 10 percent increase week over week in the number of inspections that are taking place on light rail.  These inspections are providing staff with a wealth of information showing what our riders are doing. These metrics show areas where we might be able to provide some additional communication on the actual process of tapping when boarding the light rail.   Staff is also tracking the actual number of units that our fare inspectors are using on our trains.  We average 25-26 individual units where those inspectors are out inspecting those cards to ensure that people who have the privilege to ride are the ones that are on the trains.
+
+Judy McMurphy noted that the web portal is currently used by our ride sponsors and our businesses for EcoPasses and many of our colleges for the CollegePasses.  The requirements for those are in the hands of RTD’s subject matter experts awaiting their approval. Once the requirements are approved, staff will submit them to RTD’s vendors which will enable staff to move those improvements forward.
+
+Director Hoy had a question about college passes and maybe about Metro.  He noted we had some challenges with their passes at one point and wondered if the problem resolved.
+
+Judy McMurphy responded that staff continues to work on that particular issue.  She explained that RTD is deploying a different solution to the way that the colleges are adding a new contract period on to the cards.  Staff is deploying that solution on 15,000 cards that are eligible to receive the recharge.  With the new process that will be tested over approximately the next 3-4 days, we’re going to be able to probably see an increase with speed in which those cards are getting their recharge.
+
+From an EcoPass standpoint, staff is taking what has been learned through recharging our CollegePass cards and have created a different approach in order to ensure that we don’t run into the same challenges that we did with the college cards.
+
+Director Hoy shared an experience he had on the Rail where a college student’s card would not work.  The driver’s response to the failed card was, “if it doesn’t work, you don’t get on” so the alleged student paid and got on.   Director Hoy asked if staff should expect there may be times when a college student has a card that is supposed to be valid and yet will not work.  Judy McMurphy stated yes; there would be some times when that would occur.  However, with the checks and balances staff have in place that they are monitoring, this should eliminate the problem.  Staff remediates that issue with training that is provided to the fare inspectors as well.  So, if they look at a card that is hot listed or a student has another student’s card, the inspectors are able to identify who those individuals are and can confiscate those cards.
+
+Director Deadwyler commented that regarding the light rail platform validators, it was her understanding that staff ordered additional validators and were installing them this summer. She wonders if this has been corrected.
+
+Judy McMurphy confirmed that this work has not been completed but it is underway.
+
+#### 3. ADA Concerns Update
+
+Bruce Abel informed the Board that a copy of the ADA update is included in their Board packet.  He commented that there have been previous discussions with the Board regarding some of the challenges staff experience relative to conflicts occurring over use of the priority seating areas on our buses.  Mr. Abel introduced Alice Osner - General Superintendent of Transportation, Carolyn Conover - Senior Manager of Contracted Services, and Don Merritt – Manager of RTD Bus Operator Training to review the program and some of the steps that staff is taking to address issues.
+
+Alice Osner stated that staff began working on various items in August of this year.  This includes clarification of the priority seating area, with communications placed in prominent areas so there would be no ambiguity.  Staff also sent out memos to all operators so that they know what to do when a person with a mobility device needs to board the bus and there are other people in that area that may not move.  Staff also put out transportation bulletins and various service memos addressing how to deal with the ADA issues as well as service animals and passenger aides,   Staff also installed a new button on the CAD/AVL radio system that is called the ADA  Pass Up button.  This puts the call to Dispatch in a higher priority so if the driver has a person in a mobility device that is unable to board, the driver presses that button so that the call comes in at higher level of priority to Dispatch.  The button connects with the dispatchers and there is a program to have the video pulled immediately so that it can be reviewed for training disciplinary purposes.
+
+Staff also did an ADA refresher training program that is outlined in the Drivers Operator Guide in the Board packet.  Staff has completed training 837 people with144 people remaining to be trained.
+
+Carolyn Conover reported that the private contractors received the same training during their safety meetings last month so everyone at the contractor facilities has also gone through the training.
+
+Alice Osner shared that marketing staff created pocket cards for the operators.  This was part of the Share the Ride program where staff asked the operators to hand these pocket brochures out to passengers with suitcases, strollers, or other large items when they board the bus so that the passengers will know that they may need to take whatever large items they have, such as strollers or suitcases, and to move from the ADA area, if needed.
+
+Ms. Osner shared that staff also put these communications on the operator bulletin board, which is an internal communication system with all drivers including contractors, and in staff’s Instructor’s Newsletter, a joint project with contracted service.  The instructors meet weekly to review various items of concerns, with ADA being one of the big ones.
+
+Ms. Osner stated that staff implemented our Share the Ride campaign approximately 2 years ago with our Denver Regional Mobility and Access Council (DRMAC) transit accessibility task force.  The group included RTD employees as well as members from organizations that represent people with disabilities including Colorado Cross-Disability Coalition (CCDC), Colorado Center for the Blind, city governments and other organizations that represent people for vocational opportunities.  The idea is to get all people on the bus to work together to share the ride.  The Share the Ride Message is contained on the interior of the buses.  Staff will be doing additional outreach with single moms asking for their assistance on this matter Staff is working on implementing a tracking system to monitor complaints on these issues; the Telephone Information Center (TIC) has implemented a new complaint code for priority seating area complaints so staff can see more of the complaints from the community to better address their concerns.
+
+Bruce Abel reported that RTD’s policy is that as per the ADA, we have an area in the front of the bus with the fold up seats and the tie downs designated as a priority seating area for people with disabilities.  The conflicts that he was referring to somehow took on the moniker of the stroller policy, when in reality what staff are talking about is an increasing number of conflicts between individuals with disabilities seeking access in the areas that had been set aside for them and is being used by folks with strollers and other large items who sought out that area because it can accommodate those with large items. RTD policy is that this area is designated for people with disabilities; others can use this area, but those parties must be ready to move when disabled people need the area.  The conflicts that staff continues to run into is when there are folks who choose not to move or when there are inconsistencies in the application of the policy.  These issues spurred the implementation of our renewed effort for the priority seating area.  Training is given to operators for communicating with individuals, allowing people to use the area when vacant, but that they must vacate when the area is needed for persons with disabilities.
+
+General Manager Washington reminded the Board of a lawsuit regarding ADA complaints. General Manager Washington further shared that there are a number of our friends in the community who have been aware of RTD’s efforts taking various ADA compliance actions; therefore, he was a little surprised to hear about the lawsuit considering many of our ADA stakeholders are engaged in the actions Mr. Abel just spoke about.
+
+Marla Lien advised the Board that RTD had received a 70-page complaint and has close to 4 weeks to respond.  The complaint was filed by the Colorado Cross Disability Coalition (CCDC); it names 3 individuals that suffered, and they are claiming discrimination under existing policies.  CCDC alleges that it is aware of the enhanced efforts that RTD has made starting last summer.  The complaint is on behalf of persons that were either denied boarding or had to wait for several trips to pass by before they were able to board.  The complaint seeks attorney fees and injunctive relief.  The complaint says that the policy is not adequate to protect the rights of persons with mobility devices to have access to the system.  Ms. Lien reiterated that RTD has not yet filed an answer to the complaint.
+
+Director Lubow commented that she was trying to get a handle on what the concerns or complaints are about.  She wondered if it was that people in wheelchairs have to wait for service.
+
+Marla Lien indicated that the complaint is that the designated ADA area is full; that people with large objects such as strollers and or shopping carts are using the area, leaving no space for the disabled people; disabled people can’t get into the designated area.  Some of the people say that drivers don’t ask people to move, some of them say that the driver asks people to move but nothing happens, or that the driver won’t open the lift and raise them.  One does allege that the lift was opened for them but they were suspended in the air for a while because people wouldn’t move, but finally did move.  The complaint alleges that action didn’t occur soon enough.  Otherwise, drivers have said at some stops that they can’t pick the disabled parties up because the bus is full.
+
+Director Lubow wondered how RTD’s policy of improvement will address these allegations.
+
+Marla Lien responded that the policy might address the issues to the extent that better driver training or outreach may help with these issues, but the complaint is stating that the current policies are not strong enough.
+
+Director Lubow noted the driver is supposed to ask people to move and she inquired if the complaint alleges that our drivers are not asking people to move.
+
+General Manager Washington commented that the driver cannot physically kick someone out of the area; staff can’t force people to move.
+
+General Manager Washington informed the Board that staff continuously studies other agencies and looks to see how we can strengthen our policy.   A more stringent policy can come with its own issues as well.  Staff can come up against some serious driver/passenger disputes, where there are all out fights.  General Manager Washington noted that staff will come back to the Board with how they respond to this complaint.
+
+Director Lubow noted that the process seems very difficult.
+
+Director Deadwyler wondered how many of our buses have an actual belly that opens up where you can store large packages and strollers.
+
+Bruce Abel replied that those are available on the inter-city coaches, but in terms of urban transit vehicles, manufactures are making low floor buses which actually encourage folks to board buses with additional luggage, strollers, etc., because it is so much easier to board than it used to be in the days of a lift.
+
+General Manager Washington commented that in the 40 footers, where most of these issues occur, we do not have racks or storage underneath.
+
+Marla Lien commented that the policies that have been raised do not have a complete prohibition on strollers; the prohibitions are on large objects over a specific size.
+
+Director Deadwyler wondered if the automated messages discussed earlier include instruction on the use of the ADA areas, or if passengers have large items, do RTD’s overhead announcements give these passengers alternatives on where they can store their items.
+
+Bruce Abel responded that this is really the focus and the purpose of the training that has been implemented.  The goal of the training is for drivers to be able to communicate to people that if they have a stroller they will need to be prepared to fold it up. Additionally, if you have large items and are seated in the ADA area, be prepared to move upon request.
+
+Director Folska noted that staff is doing an outstanding job, and that she is personally very disappointed that RTD is faced with a lawsuit.  Director Folska appreciates the frustration that staff is facing with the lawsuit. She has worked with many of the staff on these projects, and she knows that staff has worked diligently and in good faith to find reasonable solutions for all the parties involved.
+
+Alice Osner shared that drivers report that for the most part they get cooperation from other customers.  If the driver asks customers to move and if they don’t move, the driver then informs the passenger of RTD’s policies.  She reiterated that the majority of people cooperate to accommodate passengers with mobility devices.
+
+General Manager Washington noted that he doubted any likelihood on this lawsuit encouraging legislature to add clarity to the ADA laws.
+
+Marla Lien noted that the State has no jurisdiction on the matter; this lawsuit is a federal issue.
+
+Committee Chair Tobiassen noted that this is not just a bus problem, though primarily a bus problem.  Staff has these same struggles on light rail.
+
+##### a. ADA Compliance Student Handout
+
+##### b. Share the Ride final
+
+### D. Other Matters
+
+General Manager Washington shared that he asked Dave Genova and John Tarbert to come up and talk about how staff addresses various incidents and criminal activity around the District.  He referred the Board to an email he sent over the weekend in response to a question regarding an incident that occurred at 30th & Downing.  General Manager Washington stated that as per his email, RTD has 7000 cameras located around the system. Part of what staff is doing is educating the public about these cameras.  Often times RTD is stuck between the confidentiality of a police investigation and the need to tell our patrons and our Board as well.  That’s kind of where staff was with the 30th and Downing incident. Mr. Genova and Mr. Tarbert will review the protocols and how they are implemented.
+
+Dave Genova greeted the Board and was joined by John Tarbert, RTD’s Transit Police Chief.  Mr. Genova noted that all RTD rail platforms have video surveillance and all RTD rail platforms have emergency telephones that connect into our 24-hour security command center.  The technicians that work in our command center receive the same training as 911 operators.  Our technicians are very qualified at not only the things they are monitoring but also in working with other law enforcement agencies.  Within the command center there is direct communications, both radio and telephone, with all local law enforcement agencies.  Staff in the command center also answers our 24-hour transit watch hotline, where patrons can call, text or email with any questions or concerns they may have.  Our patrons are quite engaged; last month staff received over 200 calls.  Most of those calls are people calling in asking security to check specific things out.  Staff is working on doing some additional updates to the transit watch materials to make them even more visible so that patrons are aware of the program.
+
+Mr. Genova wanted to address some concerns about station lighting.  Staff recently replaced almost every light pole and fixture along the Welton alignment and at the 30th and Downing Street station.  The poles had to be replaced due to disrepair from corrosion at the base; at this time the fixtures were also replaced.    Staff has been working on the lighting, and has asked the facilities team to raise the wattage.  However, this also has to be balanced out within the community, because we may have someone living across the street from the station saying the lights are too bright.
+
+Mr. Genova commented on the specific incident at 30th and Downing, stating that staff believes the individuals knew each other, including the victim.  He also talked about notifications.  Mr. Genova reported that RTD does have a Command Center that does have a policy regarding notification of incidents. This particular incident didn’t get media attention at the time of the event; had it received media attention right away, the Board would have been notified through the Communications Department.   Regarding staff’s coordination with local law enforcement agencies, when a criminal incident does occur, the local law enforcement agency is the authority that has the jurisdiction.  They lead the investigation and staff cooperates with them to the fullest extent. He said that RTD follows the law enforcement agency’s lead in the kinds of the information that is made public.  Mr. Genova noted that when a law enforcement agency is going to go public, they are usually very good about giving RTD a heads up so this information can be communicated to the General Manager and the Board. In the case of the 30th and Downing incident, RTD was not given that heads up.
+
+Dave Genova asked John Tarbert to address the timeline of the incident and how RTD and Denver Police responded.
+
+Mr. Tarbert reported that Denver 911 Communications called RTD’s Command Center at 9:19 p.m. and said that they were looking for a group of suspicious males in the area of 27th and Welton.  The Command Center immediately looked at the cameras for that location and found no one on that platform.  26 seconds later at 30th and Downing Street, suspicious males where seen.  Denver Police arrived on seen 50 seconds after the incident was reported to RTD.  The assault had already occurred. Denver Police made an arrest that night on the spot.  Since then there have been 3 more arrests made with possibly 2 more arrests pending.  The victim was taken to the hospital and released within 30 minutes, with no serious injury reported.  The Denver Police got the video from RTD’s Command Center at 10:37 p.m. and it was turned over to their evidence crew.
+
+Director Deadwyler wanted to commend Dave and John for all their great work with the security cameras and lighting; however, she was distressed to learn that Chief White took 3 weeks to inform the public about the incident.  Director Deadwyler stated that this delay of information regarding the incident is distressing to her constituents and other colleagues around the City.  They are asking her why communication took so long. Feedback from others is that RTD should have some responsibility in communicating to and notifying the public.  RTD records indicate that we have 3000 people boarding at this location each day.  She has a big concern when our riders do not know to be more vigilant, especially when there are still people at large.  RTD should have some responsibility to the public.  For RTD not to say a word or anything, we look like we lack responsibility and that we don’t care about the constituents in this area.  Even Police Chief White admitted he waited too long.  She believes we need to be able to communicate to people when they have a need to be extra careful.
+
+Dave Genova stated that staff will work with our agency partners to the best of our ability on that but he thinks the biggest impacts we can have is through our Transit Watch Program Staff will continue to work at making the Transit Watch Program even more visible.
+
+Director Deadwyler commented that she felt now is a good opportunity to do something like that, or a safety program, or even just post things around the stations with information about what people should and shouldn’t do.  Director Deadwyler commented that last year, or the year before, people voted to have extra police officers and additional security around the system.  She noted that there never seem to be any of those additional officers or security at the right place at the right time.  Director Deadwyler understands that it would be impossible to be everywhere because there are not enough resources.  However, when we have incidents in specific areas, we need to beef up security in those areas.
+
+Director Folska noted that where there are broken window neighborhoods, places where things are left un-kept, it often attracts violence and destruction of property.  Director Folska shared that some areas haven’t been maintained; things are broken and have not been painted.  She knows staff fixed the clock tower recently at Arapaho Station.  Nine Mile hasn’t been properly maintained and she gets complaints about that all the time.
+
+John Tarbert stated that he checked with the crime analyst for the past 28 days; within a three block area of the 30th and Downing platform, simple assaults have gone down 25% even before the incident occurred. Extra patrols are occurring in in the area 24/7.
+
+Director Deadwyler commented that this was the information she had been asking about, if staff is beefing up security.  Anyone can go driving in that area on any given day and will see a crowd of men just hanging out watching and looking.  This community didn’t know that security was beefed up.  RTD has got to let people know something regardless of what Denver Police communicates.
+
+Director Lubow agreed with Director Deadwyler.  If police took 3 weeks before going public that does seem to be a problem.  She understands Denver Police took the lead, and that RTD cannot compromise an ongoing investigation, but it seems like there would be something staff could work out so that they can communicate something in a timely manner to the public when they need to be more vigilant.
+
+General Manager Washington noted that as he had stated in his email to the Board last weekend, staff are torn between confidentiality and getting out information to the public.  Staff has talked to Chief White’s office, and he is reviewing protocol regarding who releases what information along with when and how that information is released.  As staff moves through these protocols, they have to take these incidents one case at a time and work with the authorities.
+
+Director Deadwyler asked if General Manager Washington or the staff could continue to provide updates on the security matters and notification policies.  General Manager Washington confirmed that they would do so.
+
+### F. Adjourn
+
+Committee Chair Tobiassen adjourned the meeting at 8:31 p.m.

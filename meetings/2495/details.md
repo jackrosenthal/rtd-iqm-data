@@ -1,0 +1,185 @@
+## I. Financial Administration and Audit Committee
+
+Chaired by Natalie Menten
+
+### A. Call to Order
+
+Committee Chair Menten called the meeting to order at 5:30 p.m.
+
+Director Hoy was absent. Director Anderson participated via phone.
+
+Staff Present:               Bruce Abel, Tonya Anderson, Jesse Carter, Susan Cohen, Carolyn Conover, Heather Copp, Nate Currey, Terry Emmons, David Genova, Ann Marie Isaac-Heslop, Erin Klaas, Adrian Mabry, Doug MacLeod, Barbara McManus, Ed Neuberg, Tai-Shrae Parish, Kevin Parker, Scott Reed, Jenifer Ross-Amato, Jannette Scarpino, Zamy Silva, Henry Stopplecamp, John Tarbert, Bill Van Meter
+
+Public Present:               Aaron Epstein, Nadia Garas, Ann Herzenberg, Brandon Mattie, Scott McCarey, Petro Ramos, John Thompson, Joe Triplett, Gary Van Dorn, Dace West
+
+### B. Recommended Actions
+
+There were no recommended actions.
+
+#### 1. Union Time Clock Project Update
+
+Heather Copp, Chief Financial Officer and Assistant General Manager of Finance and Administration, commented that last fall staff discussed the union payroll tracking system with the Board as staff wanted to move to a cloud based system for the 11 year old aging system.  She noted that there were issues with the sole source vendor and it became clear that RTD was not going to get the outcome it wanted.  Staff terminated that contract and moved forward to remediate the existing system as best as they could.  She explained that currently there is a maintenance contract to keep the time clock running as long as possible, but staff is presently exploring a new vendor through a new RFP process.  She indicated it is a mini RFP process later this month with two separate vendors that have already been vetted through the state and it should take 6-12 months for implementation.  At this point in time the goal is to get a new, reputable vendor on board as quickly as possible.  For now, it will only be for union and maintenance employees but may eventually be expanded for the entire agency.
+
+Director Folska asked what constitutes a mini RFP process.  Heather Copp explained that instead of sending out a RFP to the entire world, staff has identified vendors that have already gone through a full RFP process with the State or other transit agencies.  Since the vendors have already been vetted and won an award it shortens the timeframe from 6-8 months to 2 months.  There are two vendors nationally and internationally known in the payroll area that staff is considering: Kronos and ADP.
+
+Committee Chair Menten indicated that she and Vice Chair Lubow would like to take a closer look at the vendor who failed on this project.  Heather Copp noted if the Board would like to know more about the vendor with whom the contract was terminated, Rolf Asphaug, Acting General Council, could discuss that at an Executive Session in August.
+
+Director Sisk added he thinks it is important to examine this further.  He commented that he is not a fan of sole source contracts and would like to know more of the implications of what RTD lost going with the sole source contract.
+
+Director Anderson remarked that RTD’s Legal Department should have all of the pertinent information.
+
+#### 2. May 2016 Monthly Financial Status Report
+
+Doug MacLeod, Controller, indicated that the May 2016 Financial Statements were included in the July 12, 2016 Financial Administration & Audit Committee Agenda packet.  He added that the report included the amended budget figures that were approved in June.  He explained that Sales and Use tax is 4.4% under budget, but staff expects that to be back on track next month as there were two large refunds in May.  Ridership is still short of the budget by 3.6%.  Fare revenue is better with a 6.5% increase above the budget year to date.  He added staff expects fare revenue to stabilize once the University of Colorado A Line has been online for a few months.
+
+The Board had no questions.
+
+##### a. 053116 RTD MFS
+
+#### 3. SmartCard Project Update
+
+Tonya Anderson, Manager of Electronic Fare Operations, indicated the outcome of the security assessment may require an update to RTD’s disaster recovery plan.  She added that staff has completed all of the site surveys for King Soopers in relation to the merchant retail point of sale and staff is currently drafting a response to Albertsons/Safeway’s legal team related to RTD’s terms and conditions.
+
+Heather Copp noted the last time she and Tonya Anderson were in front of the Board they spoke about the delay on going live with the web portal.  She added that staff was not comfortable and did not feel that the RTD environment was secure enough for the public.  Xerox provided part of the security assessment but they did not provide a Payment Card Industry Data Security Standard (PCI) assessment.  During review of the security assessment there were medium and low priority items identified that were remediated by Xerox.  There were also additional items that needed to be addressed that are currently being discussed.  She added that in the meantime, RTD has hired a third party assessor to complete an evaluation on our behalf.  She noted that the third party came on board on July 5th and they will need six weeks to complete their evaluation.  She commented that once the evaluation is received, staff will have a better idea if any issues remain and how to mitigate those to determine the new go live date.
+
+Heather Copp explained that she thinks the history of the project would help the Board understand the delays better.  She commented that the project has been going on for a period of time, as it began in 2008.  In 2013 staff went live with phase 1 of the project which encompassed the ECO, NICO and College Passes.  The part of the project that has been delayed is the part for the general public.  She explained there were issues with the renewals of the passes and staff wanted to get that ironed first.  She added that staff is optimistic about the web portal, but the security issues must be addressed.  She said after the third party assessment, staff will have a baseline for moving forward for any additional upgrades or enhancements.
+
+Committee Chair Menten reiterated that phase 1 went live in 2013 and it works fine as there is no payment component.  She noted that phase 2 is an issue because of the payment portal for those that want to pay with a credit card.
+
+Heather Copp remarked that PCI compliance is the minimum compliance that we can settle for which is what is required of the vendor.
+
+Committee Chair Menten noted she is concerned with the term ‘minimum level’ but understands that is the terminology for the industry.
+
+Chair Tobiassen thanked staff for their cyber security efforts.  He noted PCI compliance is a high level standard and he is confident that the independent audit will be beneficial for RTD.
+
+Director Francone thanked staff for the update and asked for an estimated date when the web portal will be available to the public.  Heather Copp explained that once the third party report is received in August, staff will have a better estimate of when the program can go live.  She stated staff might have to mitigate issues, but hopefully they are simple.  As of now, staff is not comfortable with providing a date.  She added that the pilot program is still active and staff is collecting information as it comes in.  She noted the mobile ticketing option probably will not be available until next year.
+
+General Manager Genova added mobile ticketing is not part of this project and is separate.
+
+Director Anderson commented that she appreciates all of staff’s care with their approach to the sensitivity of credit card numbers.  She is happy that staff wants to get the project completed correctly.
+
+Director Deadwyler inquired about the third party assessing our system and said that five and a half years ago the Board thought this project would be up and running then.  She asked how much stock staff is putting in the third party vendor.  Heather Copp indicated the severity of the report will affect the timeline.  She added that staff does not think there will be any major issues to mitigate, but she could not give a definitive go live date.
+
+Director Deadwyler asked if the results of the report would be provided to the Board in August.  Heather Copp remarked that staff would have to review the report first, and since it is due in August she was not sure if that allowed staff ample turnaround time before presenting the results to the Board.
+
+Committee Chair Menten noted she was concerned since it has taken so long to build this system and asked if it would be an outdated system by the time it goes live.  Heather Copp said it would not.  She said the web portal will be current and it is a tool that anyone will be able to use.  She added that staff is trying to keep up with a variety of different tools that the public will want to use to purchase their tickets.
+
+Director Folska asked if a payback or return on investment was considered before entering into the contract.  She noted $28 million is a lot of money to invest in a system for the public to buy tickets.  Heather Copp indicted that staff would find out that information and provide it to the Board.
+
+Director Lasater said technology on the web is changing every 6-12 months.  He added it is extremely irritating that Xerox cannot do what his company could have completed in half of the time.  He added it is infuriating that the web portal is still not complete, nor is it effective or secure.
+
+Director Lubow asked if RTD has completed an analysis to determine whether Xerox’s performance has been adequate under the contract.  Heather Copp explained that staff did a total review of the contract in January.  She added that staff has continual reviews and meetings with Xerox related to what has been delivered.
+
+Committee Chair Menten inquired as to how many other transit agencies are working with Xerox, and if so, have any had issues comparable to ours.  Heather Copp noted the only example she has is Houston Metro, but staff would need to research if they had any issues with Xerox.
+
+Director Folska asked what staff’s findings were after the review of the contract.  Heather Copp indicated the contract is complicated.  She explained that staff went through the contract to show what we requested that was not delivered and Xerox came back with items that staff asked for that were not covered under the contract.  She noted it is an ongoing negotiation process and it is extremely complicated.  She explained there are a lot of disagreements as to what they think they have completed and what staff thinks they have competed.
+
+Director Folska asked to review staff’s internal analysis and findings.  Heather Copp indicated she would speak with RTD’s legal department but she does not think they will want to release that at this time since the contract is still being negotiated.
+
+Director Solano asked if the issues are contractual or technical, and if they are technical, are RTD’s in house engineers reviewing the information.  Heather Copp explained that the issues for the web portal delay are technical.  She stated RTD employees are not doing the code work as that is proprietary to Xerox.  She added that staff has been unable to review the code as our staff does not have access to Xerox’s systems, so we must rely on them to provide information to us.
+
+#### 4. 2017-2022 SBP Update
+
+Jannette Scarpino, Senior Manager of Budget and Financial Analysis, indicated this is the second draft of the 2017-2022 Strategic Budget Plan (SBP).  She reminded the Board that the first draft had a funding gap of $220 million over the six year period.  She noted staff identified our minimum and must have projects along with the fleet needs.  She commented that the fleet will be financed by a combination of Certificates of Participation (COPs) and the Capital Acquisition Fund, and then staff will accommodate the remaining project requests to the extent that funds permit.  She explained that a balanced SBP is when there is a positive unrestricted year end fund balance over the six year period.  She remarked that the SBP includes service and projects funded from the Base System at 0.6% sales and use tax and operating activity from FasTracks Operations funded by 0.4% sales and use tax.  She commented that FasTracks future expense and projects are included separately in the FasTracks Annual Program Evaluation (APE) financial plan.  She added when variables are examined, uncontrollable and controllable factors must be reviewed:
+
+Uncontrollable
+
+- Sales/use tax revenue
+
+- Fuel price volatility
+
+- Inflation rate
+
+- Nature/speed of economic growth
+
+- Interest rates on debt
+
+- Ridership
+
+- Grant Revenue/Federal appropriations
+
+Controllable
+
+- Fare rate increases/decreases
+
+- Service levels
+
+- Operating costs/expense projects
+
+- Capital investment in projects
+
+- Fund balance development
+
+Jannette Scarpino noted that revenue assumptions include a 10% fare increase in 2019 and 2022 per Board policy.  Sales and Use Taxes include the March 2016 forecasted data from CU Leeds School of Business will be the baseline for future projections.  She added expenditure assumptions have diesel budgeted at $2.23 per gallon, and only the minimum/must have projects for 2017-2018 and the fleet are included.
+
+Jannette Scarpino indicated that the project requests initially totaled over $770 million.  The new minimum/must-have projects for 2017-2018 have been significantly reduced to allow staff to build up the operating reserve and create a new capital acquisition fund.  She noted projects may be added to the SBP if sales and use tax revenue improves to support the project expenditures or if there are excess fund balances at year-end.
+
+Director Folska commented that she heard recently that the Federal Government expected the price of gas to go up $2.00 per barrel.  Jannette Scarpino indicated she did not hear that specifically but noted it is trending up right now and added it is a volatile commodity that is influenced by global events.
+
+Director Lubow asked if capital expenditures included buses.  She noted there were several deferred items near and dear to her and asked staff to speak with her offline about those items.
+
+Director Francone noted some portion of the capital replacement fund would be used to offset debt needs and asked for more details about that.  Jannette Scarpino explained that staff plans to grow the replacement fund at a much more substantial rate than in years past.  She added that staff wants to grow the replacement fund and the unrestricted operating fund as much as possible to provide a funding source should there be an economic downturn or shortfall in revenue.  She explained that RTD’s debt issuance is the COP issuance and staff wants to lessen RTD’s dependence on debt markets by combining some level of debt issuance with some use of our capital replacement fund.
+
+Director Francone asked for an explanation of what local government capital requests are.  Jannette Scarpino said it is not uncommon for RTD to partner with local governments to complete work at their request.  She added that some of those projects RTD takes an ownership in, which is why it falls under capital projects.
+
+Director Sisk remarked that it appears our fare revenue percentage is slipping and noted it used to be close to 20-21% when looking at sources.  Jannette Scarpino explained that staff dialed back the fare revenue for the amended budget because they felt that number was too optimistic.  Heather Copp added this is different than the fare box recovery ratio.
+
+Director Sisk asked if staff was in a position to lock in a fuel rate today.  General Manager Genova indicated staff could, but they are watching the markets on a daily basis and they think the best opportunity will be in the fall.
+
+Director Folska inquired if there was such a thing as good debt for transit agencies.  Jannette Scarpino explained that our debt has helped us grow, which could be considered good debt.
+
+Director Anderson thanked staff for including a line item for unrestricted operating revenue.  She noted that Denver’s economy has been successful for quite a while, but she does not think it will last.  She added that having a cushion for when bad times come is a great idea so that RTD will not have to cut service.  She referenced the service cuts in 2011 and noted how painful it was.  She remarked if RTD has a good financial cushion, it can always provide good service.
+
+##### a. 2017-2022 SBP Update
+
+#### 5. 2017-2040 APE Timeline
+
+Susan Cohen, Senior Manager of Finance and Electronic Content Management, noted this is an overview of the Annual Program Evaluation (APE).  She explained that every year staff does a comprehensive annual evaluation and in that process staff updates the project capital costs and operating cost to reflect current conditions.  Staff also updates revenue conditions to current forecasts and updates the financial plan to reflect the current circumstances.  She added that next Tuesday is the Board of Directors budget training and in two weeks, the Study Session.  She further added that August 2nd will be an overview of the project status, August 9th will be the final presentation of the financial plan and August 16th will be the request for adoption.
+
+There were no questions from the Board.
+
+##### a. 2016 APE Update 071216 v1
+
+#### 6. Quarterly Audit Update
+
+Ann Marie Isaac-Heslop, Internal Audit Manager, indicated the two audit reports were included in the Financial Administration and Audit packet.  She noted the two reports covered position changes and salary increases.  She commented that the first audit for salary increases reviewed opportunities to change positions by adding responsibilities or elevating the position and making changes accordingly.  The second audit covered general salary increases within RTD.
+
+Director Francone asked what are the consequences of not following through with suggestions and/or recommendations from the auditors.  Ann Marie Issac-Heslop indicated that the auditors perform their audits and make recommendations.  The auditors usually work with management on suggested recommendations to bring RTD to a place where it can achieve what it needs at a reasonable cost.  She added management will respond to recommendations by saying concur, partially concur or disagree.  She noted that before management responds, an auditor has sat down with them to discuss the item.  She indicated that her department follows up on their recommendations, and management is usually in concurrence.
+
+Director Folska asked that the Board be privy to the responses from management.  Ann Marie Isaac-Heslop indicated that the final reports can be provided to the Board if they ask.
+
+General Manager Genova stated that every time there is a recommendation or subsequent management response there is an internal audit follow up.  Director Folska noted she wants to see every time staff has disagreed and why.  General Manager Genova stated he has yet to see an audit report where staff disagreed with internal audits recommendations.
+
+Director Anderson indicated she is looking forward to the General Manager’s report on these two particular issues as they are very important to the operation of this agency.
+
+##### a. FAACJuly 2016 with attachments
+
+#### 7. Eagle P3 Financial Presentation
+
+Heather Copp noted she was asked to provide the Board with a detailed summary covering the Eagle P3 Project.  She explained that the concession agreement is a design, build, finance, operate and maintain agreement for 34 years.  The 34 years include 5 years of design/build and 29 years of maintenance and operation.  She commented that RTD sets and retains the fares, owns the assets, and pays the traction power and security costs.  She noted that RTD’s funding sources are sales tax bonds, TIFIA Loan, Full Funding Grant Agreement (FFGA) and Sales and Use taxes (PayGo).  Denver Transit Partners (DTP) receives constructions payments from RTD as well as Private Activity Bonds (PABS) and they have an equity commitment from their stakeholders.  She explained that all of those funds are used for mobilization and design, construction costs, financing costs, DTP overhead, interest payments on PABS and rolling stock.
+
+Heather Copp stated the operation phase is beginning and to pay for that there are fares, grants and taxes.  DTP has TABOR payments and service ability payments.  She explained that the payments will not begin until 2017.  Under the concession agreement, DTP received lump sum payments from 2011-2017.  For 2017-2044 DTP will receive annual TABOR payments that are fixed and not subject to inflation.  She noted that currently, DTP receives a monthly service availability payment from RTD to cover operation and maintenance costs.  She explained that the availability payment is adjusted by the availability factor and the availability ratio.  She added that the calculations require a lot of people to review to ensure that the numbers are correct and it will become more complicated once the additional lines are opened.
+
+Director Solano inquired if the recent legal success for the amendment affects funding.  Jenifer Ross-Amato, Acting Associate General Counsel, explained that is a different issue that relates to RTD’s sales and use tax.  She commented that it was with the Court of Appeals and RTD has not heard if it will be appealed to the Colorado Supreme Court.  At this point RTD is the party that prevailed, but the case can be appealed up one more level and she added that there are complicated legal issues at play.
+
+Director Lubow asked if staff could address how the University of Colorado A line performance issues are reflected in the payment to DTP.  General Manager Genova explained that every month staff validates the invoice information from DTP and discerns if there were any other issues that would affect the monthly payment.  He indicated that there have been some disputes and until resolved, they are not part of the payment.  Heather Copp indicated that there are two places where those line items show up and they are listed as availability and performance deductions.  She added that she cannot provide exact amounts at this time. Director Lubow said that she is personally interested to see how effective the adjustment factor really is and asked staff to provide her with additional details.  Director Francone commented that she thinks Director Lubow is trying to find out if DTP has received a full check or has RTD withheld any funds.  Heather Copp explained there were deductions but she does not have the exact amounts on hand.
+
+Director Sisk commented that without DTP, RTD does not have the three commuter rail lines.  He added there are certain assumptions of risk but RTD has to work though it as a partnership.  He further added that RTD made good debt when it entered into the agreement with DTP.  He remarked that we should look at the project in its entirety to see how it has evolved.  RTD has a long working relationship with DTP and it should not view it in an isolated way.
+
+Chair Tobiassen indicated that when he was elected to the Board they were discussing going through the process of reviewing bids from three vendors for this project. He added that it became a major driver for employment in the region and RTD and DTP built an infrastructure project that we could not have afforded at any other time.  He commented that RTD will need to work with DTP to solve technical issues from time to time but we cannot throw them under the bus when things do not work well.
+
+Director Folska inquired if staff could provide the Board with the total number of issues that occurred with the University of Colorado A Line.  General Manager Genova said that staff is preparing a detailed report for the Board and added that there will be an update in the Operations and Customer Service Committee.
+
+Director Solano said he heard that Philadelphia was having issues with their Hyundai-Rotem commuter rail cars and asked if RTD had the same type of vehicle.  General Manager Genova explained that RTD’s rail cars are similar but not the same.  He noted that they are examined daily and RTD is not having the same issues that Philadelphia is having.  He added that commuter rail cars are not built on an assembly line like automobile cars; they are built as they are ordered.
+
+Director Anderson stated that DTP took all of the risk when it partnered with RTD.  She added that she appreciates all of the people who have worked hard to get this done, including the Board members from 2008-2010 who signed the papers.  She noted that RTD is the envy of the nation because of this project and thanked everyone for the good job they have done.
+
+##### a. Eagle P3 Board Finance Presentation
+
+### D. Other Matters
+
+Director Bagley shared that he and 5 other members of the Board attended the Mayor’s State of the City address at DIA.  He encouraged those that did not attend to read the article in the Denver Post.  He added that the Board should take a tour of the parcels around Union Station to see what economic developments are occurring.
+
+### F. Adjourn
+
+Committee Chair Menten adjourned the meeting at 7:30 p.m.

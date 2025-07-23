@@ -1,0 +1,153 @@
+## I. FasTracks Monitoring Committee
+
+Chaired by Larry Hoy
+
+### A. Call to Order
+
+Committee Chair Hoy called the meeting to order at 5:30 p.m.
+
+Staff Present:               Bruce Abel, Mark Baudermann, Frank Buczkowski, Rick Clarke, Susan Cohen, Heather Copp, John Dawson, Kevin Diviness, John Elias, Sherry Ellebracht, Terry Emmons, Anthony Forrester, David Genova, John Gonzales, Cory Granrud, Nate Herman, Kate Iverson, Tina Jaquez, Erin Klaas, Marla Lien, Adrian Mabry, Tony McCaulay, Robin McIntosh Jr., Patrick McLaughlin, Barbara McManus, Vivian Morales, Andy Mutz, Tom Papadinoff, Paula Perdue, Mike Peters, Scott Reed, Steve Reilly, Pranaya Shrestha, Bill Sirois, Karen Stanley, Henry Stopplecamp, Kirk Strand, Liz Telford, Mike Turner, Bill Van Meter, Ashland Vaughn, Jyotsna Vishwakarma, Brian Welch, Susan Wood, C. Scott Woodruff
+
+Others Present:               GB Arrington, Greg Barber, Chris Barker, Barbara Brodman, Sarah Camacho, Sarah Clark, Karen Creamer, Jane Donovan, Joni Goheen, Art Griffith, The Honorable Jim Gunning – Mayor of the City of Lone Tree, Sherman Hamilton, Scott Hoffman, Eugene Howard,  Negar Karimi, Kelley Kneib, Anders Lindgren, Frank Marigold, Julie McCabe, Lorna Moritz, Roger Partidge,  Joe Reed, Dave Sachs, Roger Sherman, Jeanne Shreve, Karen Stuart, Arleen Taniwaki, Gary Van Dorn, Molly Vega, Megan Wagner, Roger Wilson
+
+#### 1. Recommendation for Passage of Resolution Authorizing the General Manager to Execute a Design Build Contract and other Agreements for the Southeast Rail Extension
+
+It is recommended by the FasTracks Monitoring Committee that the Board of Directors pass the attached resolution authorizing the Chair of the RTD Board of Directors and the General Manager, whether interim or permanent, or their officers or delegates to execute grant agreements, a two phase design-build contract, intergovernmental agreements (IGAs), purchase and sale contracts, documents evidencing property interests, and such other agreements as are necessary or appropriate for the construction of the Southeast Rail Extension (SERE) and to accept third party contributions and increase the project budget by such third party contribution amounts to implement third party requested betterments, all according to the terms set forth in the Resolution.
+
+Motion:               Director Tobiassen made the motion to move this item to the full Board at the July 28, 2015 Board meeting.
+
+Director Anderson seconded the motion.
+
+Discussion:               Bill Van Meter, Assistant General Manager for Planning, introduced Rick Clarke, Assistant General Manager for Capital Programs, Andy Mutz, Engineering Project Manager for the Southeast Rail Extension (SERE) and Marla Lien, General Counsel.  Together they reviewed the SERE presentation included in the FasTracks Monitoring Committee Agenda packet for July 14, 2015.  The presentation included a SERE Update, SERE Design/Build Contract Information, Full Funding Grant Agreement (FFGA) Process, SERE Intergovernmental Agreement (IGA) and Contract Authority, and Next Steps.
+
+Rick Clarke noted that last year the Board authorized the submission of the SERE project to the Denver Regional Council of Governments (DRCOG) as part of their 2040 plan.  At that time staff explained the details of the FFGA and started the procurement process for the design/build contract.  Rick Clarke stated that it is the same project financially.  It includes a significant federal commitment and a local stakeholder commitment of $25 million.  Staff conducted an official appraisal of the Right of Way (ROW) property being donated.  The current appraisal is $3 million.  Staff had originally estimated it to be $9 million.  This does not affect the actual financials of the project.  The project cost overall went down by $6 million.  RTD is still getting all the land needed in one continuous strip, which is of great value to the agency.  RTD’s current additional match is $71.2 million.  The difference from last year’s amount of $73.7 million is due to money already spent on the project.  The total cost of the project is $233 million.
+
+Marla Lien added that Lone Tree will essentially be the banker for a variety of other government entities and private sector companies, providing $25 million over the course of construction.  Dave Genova, Interim General Manager, pointed out that if the FFGA is not granted in its full $92 million staff will come back to the Board to decide on next steps with stakeholders and other financing options.
+
+Committee Chair Hoy thanked staff and management for an excellent presentation.  He asked Directors and staff to keep focused and on track as it may be a long meeting.  He explained that he will allow for all Directors to have a first round of questions and comments before calling on Directors wishing to speak for a second time.  He asked the audience to turn their cell phones off and to take any calls outside of the room.
+
+He acknowledged the presence of various visitors in the audience, including The Honorable Jim Gunning, Mayor of the City of Lone Tree, as well as Douglas County Commissioner Roger Partridge.
+
+Director Bagley expressed his full support for this recommended action to move forward.  He thinks the action sets an example of the partnership between stakeholders, RTD, and the Federal Government, which cannot be denied.  He noted that the 14% stakeholder participation is unprecedented and fantastic.
+
+Director Bagley noticed on the Board Report for the recommended action that Balfour Beatty received the full 45 points allocated for the cost section of the evaluation.  He calculated that their proposal was in the $140 million range as opposed to the other proposals that might have been in the $169 to $182 million range.  He asked staff to confirm that they are recommending an entity that is $30 to $40 million less than others. Andy Mutz confirmed that the cost for the Balfour Beatty contract is $140 million; the costs for the other proposals range from $178 to $198 million.  Director Bagley noted that the difference then is $40 to $60 million.  He asked staff about the cost estimate established by staff when the Request for Proposal (RFP) was created.  Andy Mutz replied that staff estimated the cost at $145 to $146 million.  Director Bagley concluded that the proposal by Balfour Beatty is about $6 million less than staff’s estimated cost.  He thought it is fantastic that the recommendation is for a bidder at 3% less than staff’s estimate.  He pointed out that this difference in cost along with the high stakeholder involvement is really critical as RTD steps up and demonstrate to the Federal Government that the community is ready to work with the amount allocated in the President’s 2016 budget.
+
+Director Lubow said that generally she is very pleased that the stakeholders for the SERE are coming forward and making a submission of money and/or in kind support over the 2.5% that the FasTracks law requires.  She expressed her concerns over not being awarded the FFGA as that is out of RTD’s control.  She noted that even though staff said the recommended action is the same as the past updates presented, she distinctly remembers that when the Board voted to add this item to the APE, the stakeholders’ contribution was valued at $40 million.  This recommended action has the stakeholders’ contribution valued at $28 million, for a marked difference of $12 million.  She understands that the original value presented was not legally binding; however, a contribution of $40 million has an influence on a vote since it is an impressive amount.  She explained that this does not mean she does not want the project to move forward, it simply means that the difference has made her feel uncomfortable.  Director Lubow mentioned that the total project cost has changed over the years: it was $183 million in 2004, last year it was $207 million, and this year it is $233 million.  She thanked staff for their work while noting that she would vote no until the issues she referred to were resolved.  Rick Clarke replied that he would have to look at the letter of intent to get some of the details Director Lubow referred to.  He pointed out that the value change also has to do with estimates versus real appraisals.  He stated that the stakeholders are still providing the strip of land promised regardless of how it is valued.  Marla Lien, General Counsel, confirmed that RTD is getting the land and all other elements the stakeholders promised including staff time, re-planning, roadway easement, sewer easement, temporary water facilities, etc.  The change in value does not denote elimination of elements.
+
+Committee Chair Hoy noted that the package offered by the stakeholders last year is still what RTD will get.  He recalled a discussion in which the range of the value of the land was discussed.  Rick Clarke affirmed Director Hoy’s memory of the conversation noting that while the value of the land went down, so did the value of the project.  Director Hoy agreed that the difference in the value of the project is a direct reflection of the decrease in the value of the land.
+
+Director Anderson stated that she will support the recommended action.  She said that her community has supported FasTracks from the very beginning by a huge percentage.  She added that this is a good deal since RTD will be paying 31% of the total cost of the project, thus leveraging dollars in a great way.  Director Anderson thanked everyone involved for their commitment to this project.  She acknowledged that other parts of FasTracks need to be finished and that this will be a great addition to the FasTracks progress.
+
+Director Menten noted that the cost per mile of the West line was originally estimated at the high $40 million range and ended up being about $56-$58 million.  She pointed out that SERE was originally estimated at $183 million and now has increased to $233 million, meaning about $100 million per mile.  She asked what was accounted in the cost and what the expectation in the future of the cost rising or declining is.  Rick Clarke replied that the cost per mile in all transit projects has been going up for a myriad of reasons.  All FasTracks corridors have gone up from the 2004 estimates.  He pointed out that SERE has unique conditions: poor soil, more structures per mile than other projects, and the 3 stations and large parking lot at the end of line.  Rick Clarke added that with all of the outside money RTD is receiving the cost to RTD per mile is around $30 million range which makes it very cost effective.  Director Menten thanked Rick Clarke for the explanation.  She noted that at the end, it is all tax payers’ money.
+
+Chair Sisk shared that he received a number of letters in support of this project: from the South Metro Denver Chamber, the Denver Metro Chamber of Commerce, Ridge Gate, Douglas County Business Alliance, Denver South Economic Partnership, and Charles Schwab.   He noted that many things may not have been envisioned in the 2004 FasTracks plan, such as Public Private Partnerships (P3s).  He stated that everytime another step of FasTracks is completed it is a regional achievement.  The SERE is important to the whole District.  Chair Sisk acknowledged the collaboration SERE has received and said he was satisfied with the explanation of the $6 million difference.
+
+Director James stated that he was glad he waited to speak because he has heard the concerns and the explanations given.  He agrees with the explanations provided.  He shared the fluctuation in prices since 2004 correlates with his experience in real estate.  He agreed with Marla Lien that the land itself is the asset regardless of the price.  He said he is glad to support this recommended action that has been made possible with local and federal partnerships.
+
+Director Francone thanked staff for spending time with her the day prior answering some of her questions.  She said that she has a few more questions.  She wanted to confirm that the third party would bear the costs of any betterments.  Marla Lien confirmed that was the case in both the recommended action and the resolution.  She asked regarding potential purchases of additional ROW as mentioned by Marla Lien.  She wondered what the estimate for those purchases is. Andy Mutz replied that the cost of the private parcels is estimated at $1.5 million and that price is included in the $233 million of the project.
+
+Director Francone pointed out that the discussion portion of the recommended action as presented in the FasTracks Monitoring Committee agenda packet for July 14, 2015 mentions Intergovernmental Agreements (IGA) with Lone Tree as well as agreements with Ridgegate and Rampart Range Metropolitan District.  These agreements include additional contributions from these entities.  She wondered if those figures were included in the costs since there is a mention of an additional $150,000.  Marla Lien replied that all the contributions are included in the final cost.  The $150,000 is a contribution in staff time and waving permit fees, which other municipalities have charged for.  Marla Lien explained that all contribution values are based on RTD estimates.
+
+Director Francone asked staff to point her to the numbers which explain how the project decreased in cost since the value of the ROW was originally estimated at $15 million, then at $9.2 million and currently appraised at $3 million.  Bill Van Meter referred Director Francone to the Southeast Rail Financing chart included in the presentation.  He said that the only two numbers that have changed are the Local Stakeholder ROW, which changed from $9.2 million to $3 million, and the Subtotal Non-RTD Contributions; last year the value was $73.7 million and this year it is at $71.2 million.  In the past year staff has spent $2.5 million continuing the pursuit of the FFGA, other agreements, engineering and design.  Committee Chair Hoy pointed out that the only difference seems to be the value of the land and the money already spent.
+
+Director Francone asked about the handout on SERE Actual Percentages of Total Costs Instead of the Cost to Complete that Director Lasater distributed to the Directors at the beginning of the meeting.  A copy of this document is available at the Board Office.  Bill Van Meter replied that he had not seen the document.   Committee Chair Hoy stated that it would not be fair to ask staff to comment on a document created by a Director.  Director Francone agreed.
+
+Committee Chair Hoy said that he would not preclude anyone from a second round of questions as the recommended action is very important.
+
+Director Tobiassen thanked staff for the presentation.  He said that this project is aligned with the philosophy of building as much as we can as fast as we can.  He asked if Balfour Beatty is currently working on other projects.  Rick Clarke replied that they are working on the Eagle P3 project and North Metro.  Director Tobiassen noted that this is another reason why their construction cost is lower as they have their crews and equipment in the area.  Rick Clarke added that it is a great way of leveraging the available resources.  Director Tobiassen congratulated the SERE stakeholders for putting their money where the effort is.  He also considers them to be very visionary as this region is one of the fastest growing areas in Metro Denver.
+
+Director Folska said she appreciated the effort, participation and initiative of the SERE stakeholders.  She expects that support and enthusiasm to be sustained throughout the whole project.  She also hopes these stakeholders would help their brethren in other locations come to the table to support other projects in a similar way.
+
+Director Folska mentioned that this recommended action could have been broken down into smaller sections as to not have so many moving parts.  She felt there were some numbers that did not correlate between the recommended action and the resolution.  Although she cannot refer to the numbers, she recalled a $200 million in one place and a $200,000 in another.   She added that all signs indicate RTD will receive the FFGA; however, she would feel more comfortable if there was a clear direction in writing on how the gap may be filled if the funding is less.  Marla Lien explained that RTD is receiving from Lone Tree the following contributions: a cash contribution of $25 million, $50,000 in property rights in the form of deeds and non-revocable licenses to property and $150,000 in staff time and permit fees wavers.  The last two items amount to the $200,000 Director Folska referred to.  The $2 million figure is the estimated value of the property donated by Ridgegate.  Marla Lien clarified that the resolution states “receipt of a FFGA in an amount no less than $92 million” in order to establish that if the FFGA is not at the $92 million budgeted in the Presidential budget staff needs to come back to the Board in order to explore funding options.
+
+Director Folska asked staff to explain the Best Value Select process.  Rick Clarke explained that this process does not necessarily select the lowest proposal; it selects the best proposal based on a point system evaluation of technical qualifications and price.   Director Folska stated that if the third party exceeds costs it is their responsibility to make up the difference, not RTD.  She wondered what the purpose of a contingency is under these conditions.  Rick Clarke explained that the Federal government mandates a contingency.  Also, if RTD wanted to add something to the project or if RTD had missed something on the proposal it would then be RTD’s responsibility to fund that aspect of the project using the contingency.  He added that the contingency for SERE is $25 million and is already added to the $233 million final cost.
+
+Director Folska asked if the SERE area has all the utilities, including power supply, needed for the construction.  Andy Mutz replied that there is power in the area for all 3 stations and throughout the guideway.
+
+Director Bagley noted that what Director Francone may have wanted to ask regarding the handout Director Lasater distributed was about how the final amount of RTD contribution seems to be 45.3%.  Director Bagley explained that that percentage does not include the additional match to be received by RTD, which would place that percentage at 35.8%, or roughly a third of the total cost of the project.
+
+Motion
+
+to Postpone
+
+Indefinitely:               Director Lasater made the motion to table this item to a date uncertain to allow staff and possibly two Board members to enter into discussion with the developer in Lone Tree to bring the shared numbers closer together on the capital cost contributions, so it can not only protect our tax payers, which is our number one mandate, but also show Washington, D.C. that we are strong in making partnerships and being able to move other projects closer to completion.
+
+Director Menten seconded the motion.
+
+Discussion:               Director Lasater said that the Town of Parker asked him to correct the presentation in that the Town of Parker has not officially endorsed the SERE.
+
+Director Lasater stated that he has a different perspective on this action as he has been an elected official for almost 20 years and a corporate CEO for three or four decades.  He said he has a credo, “stay in the comfort zone of business as usual or rise to a challenge that can become a new standard”.  He added that RTD has been very creative in the past and needs to keep being creative in the future in order to build the remaining 50 miles of FasTracks.  He suggested RTD consider adopting the model of municipal government when it comes to construction of capital projects in that the developers build it and municipalities maintain it.  Director Lasater applauded Lone Tree for pulling together cash contributions; however, he thinks the development community can and should be held accountable for getting the remaining FasTracks projects built as soon as possible.  Director Lasater stated that he would like to see RTD take a next step to see cost sharing at 50%.  This would allow for the remaining segments to be built sooner, adding value to all the property owners, tax payers, and the District.  He acknowledged this may be a new way of thinking; however, new thoughts are needed to finish FasTracks sooner and possibly move on to the vision of NexTracks.
+
+Director Lasater added that Washington notices when there is a partnership and local buy in.  He pointed out that he was told that when staff negotiated the cost sharing they did not give a percentage or a dollar amount in the negotiations.  He believes it is time to step up and share in the costs as well as the benefits with the developers.
+
+Marla Lien explained that the motion presented is a motion to postpone indefinitely which if passed means there would be no vote on the main motion.  There would be no discussion on the motion to amend either.
+
+Director Lasater clarified that his intention is not to kill the project.  He would like to see more matching dollars, especially from the land developers, allowing for this action to become a new paradigm in how RTD collaborates with stakeholders.
+
+Committee Chair Hoy requested clarification on the motion including if there could be a discussion.  Marla Lien responded that there is no discussion on a motion to postpone indefinitely.  She noted that the motion presented had a number of items added to it, but essentially it is a motion to postpone indefinitely.
+
+Director Anderson called for the question as there was discussion on the motion to postpone indefinitely.
+
+Marla Lien clarified that a yes vote would dismiss the original motion without a vote.  Staff may present something different at another time, but this specific motion cannot be brought back to the Board.
+
+Committee Chair Hoy explained that if the Directors wanted to vote tonight on SERE, then a no vote on the current motion to postpone indefinitely would be needed.
+
+Director Lasater asked for a question of clarification.  He wondered if he could amend his motion.  Marla Lien replied that the motion has been seconded thus not able to be amended.
+
+Committee Chair Hoy declared the motion FAILED.
+
+Vote
+
+on original
+
+motion:              Chair Sisk called for the question.
+
+Committee Chair Hoy declared the motion PASSED.
+
+Committee Chair Hoy thanked everyone for their participation and their thoughtfulness in their questions.  He also thanked staff for the presentation.
+
+##### a. July 2015 SERE Contract Approval and IGA Authority
+
+##### b. RESOLUTION No  v2docx AGM edits
+
+#### 1. 2015 Annual Program Evaluation (APE) Status Update
+
+Bill Van Meter, Assistant General Manager for Planning, Rick Clarke, Assistant General Manager for Capital Programs, and Susan Cohen, Senior Manager for Finance, reviewed the 2015 Annual Program Evaluation (APE) Status Update presentation included in the FasTracks Monitoring Committee agenda packet for July 14, 2015.  The presentation included the APE Purpose and Process, FasTracks Program Status, FasTracks Program Cost, Changes for 2015 APE, Summary, and Next Steps.
+
+Bill Van Meter explained that staff plans on analyzing the unfunded FasTracks corridors, (Southwest extension, Central, Northwest, and completion of North Metro) to identify which, if any, could be eligible for Small Starts, New Starts and/or other Federal funding.  Staff aims to report the findings of this Federal Funding Feasibility Analysis to the Board and stakeholders next year.
+
+Committee Chair Hoy noted that the presentation discussed the North Metro line to 124th and not the full line up to 162nd.  Rick Clarke explained that construction from 124th to 162nd is not included in the current APE due to financial constraints.  The completion cost of the North Metro line would be $180 million.  Committee Chair Hoy wondered if there have been conversations with local stakeholders using the Southeast Rail Extension (SERE) as an example of a partnership to build the line to completion.  Rick Clarke stated that staff uses the SERE stakeholders as a model on how to get things done when talking to other jurisdictions, communities, etc.
+
+Director Bagley stated that he understands staff will be doing further engineering cost analysis on the Southwest rail extension as well as all unfunded corridors.  Rick Clarke confirmed Director Bagley’s statement.  He said that all unfunded corridors will have a new cost estimate by the end of the year through the Federal Funding Feasibility Analysis.  This will prevent staff from working from obsolete estimates.
+
+Director Anderson shared her concerns regarding safety on the Southwest corridor.  She recalled that $800,000 was budgeted for safety improvements on the Southwest line, due to it being so close to a freight track.  From her understanding, this money was used for the North Metro line.  Rick Clarke explained that Director Anderson may be referring to an amount of $9 million once allocated for railroad relocation for the SERE which was moved to the internal savings account.
+
+Director Anderson asked staff to send her the cost breakdown of the cost per rider to build the North Metro line to 124th.
+
+Director Menten wondered if the Bus Rapid Transit (BRT) going East-West in the northern area is not included in this update because it is not FasTracks.  Bill Van Meter confirmed that was correct.  He said that East-West or Arterial BRT is from the Northwest Area Mobility Study (NAMS).  Director Menten asked if there is any funding for that BRT.  Bill Van Meter replied that there is some funding from Denver Regional Council of Governments (DRCOG) for further environmental planning and design work.  There is also a request included in the Strategic Budget Plan to allow advancement of this project.
+
+Director Menten asked if the Certificates of Participation (COP) are defined as debt, service payment, or other.  Susan Cohen replied that COPs are considered debt service.
+
+Director Lubow noted that the RTD Cash Flow chart through 2030s and 2040s projects an increase in operational and maintenance flow.  She asked if theoretically that money could be used for anything.  Bill Van Meter replied that yes, that money could be used however the Board of Directors would like.
+
+Director Francone expressed her appreciation in being presented the APE before having to vote on it.  She asked that staff send her more details on the projects labeled as miscellaneous.  She inquired about the method to be used for the Federal Funding Feasibility Analysis. She wondered if it is a new method or the same one used before.  Bill Van Meter replied that it is a similar analysis to the one done in 2002-2003.  At that time, the West, East, and Gold line were chosen as the ones with the best chances in receiving funding given the current criteria at that time.  A similar process was used for the SERE.  Staff will do the same with the unfunded lines in order to select the ones with the strongest viability from the Federal perspective.
+
+Director James noted that the gap Director Lubow referred to is still a decade or two away.  He pointed out that budget will be tight for the next few years.  He made reference to Director Lasater’s amendment during the SERE discussion and wondered how possible it would be to put some pressure on stakeholders and other partners.  Rick Clarke replied that staff is already doing that.  Staff has met with Adams County, Thornton, and developers regarding this discussion.  He noted that developers will develop the land whether RTD is there or not, so this is a bit of a challenge. He pointed to Olde Town Arvada and Denver Union Station as examples of successful projects and partnerships with developers.   Director James told staff that the entire Board appreciates all the current and future efforts to engage with developers.
+
+Director Folska reminded everyone that [Tom Clark](mailto:amanda.melroy@metrodenver.org), Chief Executive Officer of the Metro Denver Economic Development Corporation and Executive Vice President of the Denver Metro Chamber of Commerce, is famous for saying that 70% of those employed south of Belleview live north of I-70.  She said that she feels very comfortable that when the SERE is done it will be a big boom.  She also noted how many institutions have concluded that property values increase 2% to 8% with the addition of light rail.  She hopes that the folks in the Southwest area will be able to see that.
+
+Director Folska recalled the presentation on Asset Management and State of Good Repair during the Operations and Customer Service Committee Meeting on July 7, 2015.  The presentation included information about the software developed by RTD that is used to manage the Asset Management Plan.  She understands that the software has been shared with the MAX program participants; however, she feels that licensing software created in house may be a way to create new sustainable revenue sources.
+
+Director Lubow said that she has heard from North Metro stakeholders about looking at 144th instead of 124th as a terminus on the first phase of construction.  She wondered if staff was considering this option.  Rick Clarke replied that staff has heard of that request and does consider 144th as an option.  The rough estimate puts the cost up to $100 million.  Director Lubow stated that this may change the APE if pursued.  Rick Clarke explained that the APE could be changed at any time throughout the year.
+
+Committee Chair Hoy clarified that using 144th as a target on the North Metro line does not change 162nd from ultimately being the end of line.
+
+##### a. 2015 APE Update 071415 v2
+
+### D. Other Matters
+
+Director Walker reminded the Directors that the APTA Board Member and Board Support Seminar will be held from July 18th to the 22nd.  He directed the Board to their Seminar Packets included with their mail.  He said he would reach out to every Director on Thursday or Friday to explain final details and involvement.  He said that the attendees are excited to be in Denver and see all that we are doing.  He thanked Paula Perdue, Executive Director of the Board Office, and the Board Office Staff for all their work preparing for the Seminar.
+
+### F. Adjourn
+
+Committee Chair Hoy adjourned to the Planning and Development Committee meeting at 8:01 p.m.

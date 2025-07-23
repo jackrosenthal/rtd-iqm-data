@@ -1,0 +1,109 @@
+## I. Financial Administration and Audit Committee
+
+Chaired by Jeff Walker
+
+### A. Call to Order
+
+Committee Chair Walker called the meeting to order at 6:20 p.m.
+
+Director Menten participated in the meeting via phone.  Director Daly was absent.
+
+Staff Present:          Bruce Abel, Larry Buter, Carolyn Conover, John Elias, Eric Farrington, David Genova, Kenn Hardin, George Hovey, Terry Howerter, Austin Jenkins, Erin Klaas, Marla Lien, Doug MacLeod, Robin McIntosh, Jr., Barbara McManus, Judy McMurphy, Robert Medina, Paula Perdue, Scott Reed, Jannette Scarpino, Beverly Scott, Jim Stadler, Walt Stringer, Mike Turner, Bill Van Meter, Phil Washington
+
+Others Present:        Martell Dyles, Helga Grunerad, Sherman Hamilton, Dan Pearsall, Joe Triplett, Gary Van Dorn, Martin C. Willie
+
+#### 1. Adoption of 2014 Performance Measures
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors adopt the attached 2014 Performance Measures for Goals 1-7.  There are 22 performance measures in total.
+
+POLICY REFERENCE
+
+Fiscal Policy Statements – Budget Policy 10
+
+Motion:              Director Bagley made the motion to move this item to the full Board Meeting on April 26, 2013.
+
+Director Rivera-Malpiede seconded the motion.
+
+Discussion:              Terry Howerter explained that the Board Report provided in the April 2, 2013 Financial Administration and Audit Committee Packet highlights the proposed changes under the discussion items.  He stated that Jannette Scarpino was present to answer any questions.
+
+Jannette Scarpino explained that the Performance Measures are set early in 2013 because staff incorporates them into our 2014 Adopted Budget.  She stated that the first change is average facilities maintenance complaints per month.  This will increase to < 14.0 from < 12.0 per month to reflect full year revenue service on the West Line and actual experience with West Line maintenance incidents to date.  Jannette Scarpino also stated that the second change is the customer complaints per boardings.  This will increase to .0004 from .0003 due to a static higher level of complaints reached over the last 2-3 years from the strollers/wheelchairs policy, fare enforcement campaign, TIC availability, the introduction of SmartCards, and the new West Line which will bring with it additional complaints.
+
+Director Menten noted a 30% Operating Cost Recovery Ratio in 2010 while just 20% is the proposed goal for 2014.  She asked if this was to meet a statute or because in the past we were trying to put more money in the coffers.  Jannette Scarpino explained that the 2010 number is the actual Recovery Ratio while the goal of 20% is set by a statute.
+
+Director Menten stated that we subsidize ridership a lot.  She is trying to determine how much we are actually getting from riders who use the system.  She is trying to understand why we are going from 30% to 20%.  Terry Howerter said that the goal is being set based on the legislature; from there it is strictly a calculation based on financial information and results.  He stated this is based on certain revenues; it excludes grants and some of the variable revenues and brings in the operating expenses.  Terry Howerter explained that this Cost Recovery Ratio does not impact any funds left over but it could reflect that based on purely operating calculations.
+
+Director Menten noted that in 2013 we have a goal of 0% for an increase in EcoPass revenue and that the 2014 is not yet available.  She asked how many government bodies were subsidizing the EcoPass versus private companies.  Jannette Scarpino explained that the EcoPass revenue has shown flat growth so staff is not forecasting any growth for 2013 and probably will not for 2014 either.  Terry Howerter said that staff does not have a breakdown of government riders versus private riders immediately available but they will get Director Menten the information.
+
+Director Menten said she would be interested in that because on the West Corridor she is facing regular riders who have not been given much information on the schedule changes and eliminated routes.  She believes we would have a good way to communicate with these people based on them having EcoPasses.
+
+Director Lasater highlighted that these Performance Measures are for the entire District.  He has recommended a subset for the Measures that would be broken down by geographical areas, route areas, etc. because it could be that we have 12 complaints but all 12 of those complaints are from the Southwest line.  Director Lasater shared that this happened in his own District but now staff is working on it.  He feels the Board needs to see this in a geographical breakdown to get a better handle on where the complaints are coming from.  Jannette Scarpino said that staff discussed his suggestion at the Senior Leadership Team level.  She stated that staff can report numbers that Director Lasater might be looking for offline but these Key Performance Indicators are for the Board to measure District wide performance.  At this time staff is recommending that the Performance Measurers stay at that level.
+
+Director Folska stated that under Goal 6.2, Increase Ridership, the proposed goal is still to be determined.  She asked what would need to happen for the goal to be set.  Director Folska noted that the Board is being asked to vote on this item tonight only they do not have all the information.  Jannette Scarpino explained that the goal is derived from our 2014 Adopted Budget; the 2014 goal is just a placeholder at this point.  She said that once an appropriate goal is determined staff will inform the Board.  Terry Howerter said there are 4 or 5 goals that are determined as part of the 2014 Adopted Budget.  Staff is asking for this item to be sent to the full Board meeting for approval so that the other goals can be incorporated into the Budget.  Terry Howerter stated that any goals that would come out of the Budget would be presented to the Board once they were determined.
+
+General Manager Washington believes this particular goal is unique because it is a strategic objective that came out of the Advance.  General Manager shared that at the April Study Session he will be presenting to the Board the tactical plan to reach the strategic goal of increased ridership.  He explained that staff is asking for approval or the overall Performance Measures because it is very important that we get this passed to move forward with the Budget.  This is just a placeholder and staff will come back to the board later in the year once the remaining goals are determined.
+
+Director Deadwyler asked if this would be brought back to the Board for approval once the remaining numbers were determined.  General Manager Washington stated that this would not come back for Board approval.  He explained that the idea is that staff will come back to the Board to discuss the ridership goal but the overall Performance Measures will have already been approved by the Board.
+
+Director Deadwyler highlighted that the increase in fare revenue, the EcoPass revenue, and total operating revenue had not yet been figured out.  She is concerned when we talk about increasing the fare revenue and EcoPass revenue.  Director Deadwyler knows many people whose companies subsidize the EcoPass but they still pay a tremendous amount of money.  She feels there is nothing in the Board Report that provides the Board with any indication what was the increase in fare/EcoPass revenue would be.  Terry Howerter explained that Board approval would be required to change fares.
+
+Director Deadwyler said that she is very concerned about the stroller and wheelchair policy.  This policy has not worked since it was put into place.  She is wondering what the plan is to improve this area so that we do not need to increase our Complaint per Boardings goal.  General Manager Washington stated that there is a reality factor that goes with opening a new corridor; that reality factor is that we will likely have more complaints on both the facility and customer side.  He explained that staff is proposing a slight increase in this area because we are opening a new line; staff is not saying that we are not going to strive to improve in this area.  General Manager said that we had the same experience with opening T-Rex.
+
+Director Lubow expressed concern over two of the goal 6 objectives: maintaining cost recovery ratios and improving route efficiency.  She noted that when Senior Leadership and the Board had the advance Board priorities were identified, the first of which was innovative and fiscally sustainable service delivery.  She had also asked for equitable but people felt that was included in innovative.  Director Lubow worries that if we are only concerned with cost recovery ratios and improving route efficiency that is not the same as tempering that with being concerned about vulnerable populations.  She asked how these Performance Measures relates to the identified Board priorities.  Jannette Scarpino shared that the Board priorities are addressed in the development of the 2014 Budget.  General Manager Washington explained that these Performance Measures are in addition to the Board priorities.  Terry Howerter believes the goals more align with RTD’s Mission Statement and this is a way for us to measure our customer satisfaction.
+
+Chair Anderson asked what would happen if the Board did not approve the Performance Measures.  She wondered if staff would need to present new Performance Measures to the Board.  Chair Anderson also commented that Goal 6.3 is incorporating the increase in service that we think we will get when the West Line opens; this is not from a fare increase but an increase in fare revenue from increased ridership.  Terry Howerter stated that if the Performance Measures were not approved staff would take the Board’s recommendations on changes and present the Measures for approval at another time.  He also confirmed that the increase in fare revenue would be from increased ridership unless the Board wanted to increase fares.  General Manager Washington stated that increasing fares was not a staff recommendation.
+
+Director Folska said that she is stuck on having “to be determined” in the Performance Measures the Board is being asked to approve.  She really wishes there was some number in those categories.  Director Folska noted that the West Rail is opening April 26, 2013 and that these Performance Measures are for 2014.  She asked if staff really anticipated an increase in customer complaints that long after the line opened.  Terry Howerter explained that they will look at ridership numbers for 2013 and use that to extrapolate ridership for 2014.  Director Folska thinks this is a very passive process.  She believes if we develop an aggressive campaign to increase ridership then we could say were going to invest X amount of dollars to get Y amount of riders.  Terry Howerter said that this will be information presented by General Manager Washington and Scott Reed during the April Study Session.  General Manager Washington stated that in regards to complaints from the West Rail Line the answer is yes that we will still be getting complaints a year from now.  Our history and experience with opening lines is that there are going to be some things planned now that need to change; the original condition will create complaints and then our fixes will generate complaints.
+
+Director James stated that what is being planned is an increase of the goals to accommodate what we have experienced the in past.  He believes goals need to be attainable otherwise they do not make any sense.  He feels this is a good way of managing these goals.  If the performance is unsatisfactory then the Board will be asked to approve other variables to continue to pursue the goals in the future.  General Manager Washington added that staff updates the Board quarterly on how RTD is doing in meeting the Performance Measures.  This allows us to look at a goal that is not being met and focus on improving that area.  General Manager said that if we know we have an on time performance issue and we know the where, then we can send more supervisors to that area.
+
+Director Sisk expressed that part of his concern with this is that when there are goals he wants a way to measure the goals.  He said that as other Directors have accurately noted, we do not have some goal numbers.  He asked staff to look at this differently going forward.  He feels that these Performance Measures are being looked at with some trepidation because not all the goals are available.  Terry Howerter said that staff can take out the goals that are not available next time and approve everything else.
+
+Director Menten asked for numbers on people that were moved from eliminated bus routes to light rail service.  She wants this information to be considered when we discuss increased ridership.  Terry Howerter explained that if someone was moved from a bus to light rail service we would not see a change in ridership; there may be a decrease in bus ridership and an increase in light rail ridership.  He said that it may be difficult to obtain numbers on people riding the light rail because their bus route was eliminated.  There are many factors that determine if someone begins riding the light rail.  Terry Howerter thought staff might be able to address this as we move forward with smart media.
+
+Director Solano stated that he supports this Recommended Action.  This is an exercise in probability.  As you go into any new venture there is going to be a margin of error.  He explained that as you narrow your margins, look at your variables, and recalculate your probability then you can refine your goals.
+
+Committee Chair Walker declared the motion PASSED.
+
+##### a. 2014 performance measures-proposed
+
+#### 1. Review of 2014-2019 SBP Development Process and 2014 Budget Assumptions
+
+Terry Howerter explained that this is an information item that is being presented tonight.
+
+Jannette Scarpino reviewed a Power Point presentation with the Board that can be found in the April 9, 2013 Financial Administration and Audit Committee Agenda Packet.
+
+Director Hoy noted that sales tax revenues were up 2.8% in January but that does not appear to be the way things are holding.  He is wondering if we are off on our projections for this year already.  Terry Howerter stated that February receipts just came in.  He said that we are up 1.7% over last February but Director Hoy is correct that January to February is down.
+
+##### a. 2014-2019 SBP presentation-FAC 040913
+
+#### 2. February 2013 Monthly Financial Status Report
+
+Doug MacLeod handed out the most recent Sales Tax Report to the Board that can be found in the April 9, 2013 Financial Administration and Audit Committee Agenda Packet.
+
+Doug MacLeod noted that on the Dashboard there are some red categories.  He stated that ridership is down 4.4% versus February of last year and down 2.9% for year-to-date.  Doug MacLeod explained that there was one less day in February this year due to Leap Year.  Also, New Year’s Day fell on a Tuesday whereas it fell on a Saturday and Sunday the previous years.  He believes these factors contributed to our decrease in ridership.
+
+Doug MacLeod stated that fare revenue was up 0.5% for the month and down 0.1% year-to-date.  He said that with ridership being down the percentage it was that would indicate about $550 thousand loss so we were able to offset the loss with some additional revenues.
+
+Doug MacLeod shared that for Sales and Use Tax we were up 2.8% for January and 1.6% for February.  He explained that year-to-date that averages out to 2.2% so we are right around what CU Leeds forecasted.
+
+Doug MacLeod pointed out that the cash on hand has decreased by $118 million.  He explained that on an annual basis we make a payment to Denver Transit Partners for the Eagle P3 Project.  He stated that payment went out in January.  He said that staff is keeping a close eye on cash but do not expect any problems.
+
+Doug MacLeod highlighted the line item that was added for the FasTracks Internal Savings Account (FISA) under the net position section.  This is where any dollars that are set aside from the Risk Allocation Matric (RAM) for the FISA will be tracked.
+
+Doug MacLeod said that $3 million has been added to the Board appropriated and capital replacement fund.
+
+Director Bagley stated that the increases in our actual Sales and Use Tax collections could drop because of the Sequestration at the Federal level.  He noted that Sequestration really relates to Federal monies but it flows through the entire economy.  Director Bagley asked if this was taken into consideration by CU Leeds when doing their forecasts.  Doug MacLeod said this was one of the factors they considered.  At the time the forecast was done there was an assumption that there would be an initial drop-off at the beginning of the year.
+
+Director Deadwyler noted that for operating expenses Doug MacLeod said we were operating at 90 days cash.  She asked where this information was in the report for FasTracks because the Board approval of the RAM changed this to 60 days.  Doug MacLeod explained that FasTracks is different from Base System because their operating costs are such a small proportion of overall costs.  He said that the operating expense balance is shown in the net position section under the FISA line.  That is the portion of cash that cannot be spent so it stays there as a reserve.  Terry Howerter explained that next month when staff begins reporting on the FISA one month will be moved from that line up to the FISA line.
+
+Director Deadwyler asked about reducing the FasTracks Base System funding by 1%.  Terry Howerter stated that does not take effect until January of 2014.  At that time there will be a FISA amount growing on the Base and a FISA amount growing on the FasTracks.  He explained that there were certain items like our one time land sales that were identified to go into Base and FasTracks.  He offered to talk through this offline with Director Deadwyler.
+
+##### a. 022813 RTD MFS
+
+### D. Other Matters
+
+General Manager Washington informed the Board that Bill Holmes will be retiring.  He said that we are currently in the process of recruiting someone to fill his positions.  General Manager said that he does not think it will impact our audit calendar but he will keep the Board informed.
+
+### F. Adjourn
+
+Committee Chair Walker adjourned the meeting at 7:36 p.m. to the Operations and Customer Service Committee meeting.

@@ -1,0 +1,297 @@
+## I. Call to Order
+
+Chair Tisdale called the meeting to order at 5:30 p.m.
+
+## II. Pledge of Allegiance
+
+Chair Tisdale asked everyone to stand and join him in the Pledge of Allegiance. He stated that the Board was privileged to be joined by Boy Scouts from Troop 376, from the Virginia Village neighborhood in southeast Denver, District A. Chair Tisdale explained that the Scouts would be posting the colors this evening and introduced:
+
+- Scottie Snyder
+
+- Ciaran Dooley
+
+- Kameron Snyder
+
+- Anthony Muller
+
+After the pledge, he thanked the Scouts, CJ Mays, for organizing the excursion, and the parents for taking the time to lead the Board in the pledge.
+
+### A. Roll Call
+
+Barbara McManus called roll. There were 13 Board members present at roll call. Directors Deadwyler and Sisk were absent.
+
+Staff Present:                       Bruce Abel, Rolf Asphaug, Shirley Bennett, Steven Butcher, Larry Buter, Gina Callahan, Nicole Carey, Jessie Carter, Jeff Cluphf, Susan Cohen, Carolyn Conover, Doug Davis, Stephen Dory, Sherry Ellebracht, Steve Eubanks, Michael Ford, David Genova, Bob Grado, Chris Harmon, Dave Jensen, Doug MacLeod, John McKay, Heather McKillop, Barbara McManus, Mike Meader, Scott Reed, Greg Smith, Henry Stopplecamp, Mark Tieman, Bill Van Meter, Jyotsna Vishwakarma, Angela Williams
+
+Others Present:                    Doug              Brockwell, John Bryant, Jeremy Campbell, Lynn Cluphf, Shelley Cook, Harry Doby, Jason Dooler, Lindsey Feitz, Gary Forbes, William Gross, Gary Harris, Anne Herzenberg, Danny Katz, Erin Lepe, Jonathan Lovato, David Martin, Amy Mason, Cathy Jo Mays, Sam McKenzie, Darla Ortiz, Stephen Roesler, Shannon Sanderson, Kristen Seidel, Timi Snyder, Susan Spry, Dan Stitt, John Thompson, Joe Triplett
+
+## IV. Retiree Awards
+
+Chair Tisdale noted there were four retirees this month with three in attendance.
+
+General Manager Genova introduced Bruce Abel, Assistant General Manager of Bus Operations, and thanked him for the 18 years of service to RTD. Mr. Genova highlighted Mr. Abel’s many roles and contributions during his tenure at RTD. He stated that Mr. Abel started his career in North Carolina as a Transportation Planner and began his career in Colorado at the Roaring Fork Transportation Agency (RFTA) in Aspen, Colorado.  He added that Mr. Abel was a founding member of Colorado Association of Transit Agencies (CASTA) and was active with the American Public Transportation Agency (APTA). Mr. Genova said that Mr. Abel would be continuing at RTD in a part-time capacity as Director of Special Projects and that his additional time would be spent reading, traveling, and visiting all of the Major League Baseball stadiums and national parks. Mr. Genova stated that Mr. Abel had been a great friend and trusted advisor. He added that he and would always appreciate Mr. Abel’s compassion and care with which he had led the organization.
+
+Mr. Abel thanked RTD for the opportunity to serve to the organization and the community. He reminded attendees of the common theme that retirees have stated, that there were great people at RTD and a great team of people to work with, and he echoed that sentiment. Mr. Abel stated that he had been blessed to have been supported and surrounded by great people his entire time at RTD. He recognized the dedication within all the departments and contractors that he had worked with over the years. Mr. Abel thanked the late Cal Marsella, former General Manager (1995 – 2009), for the opportunities he had afforded him when he started at RTD. He acknowledged Phil Washington, former General Manager (2009 – 2016), and General Manager Genova for the continued support that had enabled him to be successful and provided him with great opportunities. Mr. Abel stated that his tenure at RTD had not been without challenges and that the flip side of every challenge was that there was an opportunity. He shared a story from his experience in Austin, Texas, about a project that he was challenged to complete within 90 days. Mr. Abel quoted Colin Powell, “optimism was a force multiplier” and stated that while there may be challenges people should focus on the opportunities because it makes the challenges easier. He thanked the all the people in the agency and asked them to continue the good work at RTD.
+
+Dave Jensen, Assistant General Manager of Rail Operations, introduced Douglas R. Davis, Light Rail Maintenance Instructor/Supervisor, and stated that it was his honor to present Mr. Davis with his retirement plaque and expressed the agency’s gratitude for his many years of service. He stated that Mr. Davis had worked at RTD for the past 16 years and started in the Maintenance of Way department and then transferred to the Light Rail Vehicle (LRV) Maintenance department, where he spent many years as an instructor and a supervisor. Mr. Jensen explained that Mr. Davis was instrumental in setting up and conducting the first responder training for new corridor openings. He added that Mr. Davis had built the first of the event recorders for the agency’s older fleet of LRVs, the SD-100s, which were the first event recorders to be put on any of the RTD fleet and he had also set up and maintained the tech portal, which is where electro mechanics go to reference parts of an LRV for instructions, to review Standard Operating Procedures, and other rules relating to LRV maintenance. Mr. Jensen said, on behalf of RTD, he wished Mr. Davis all the best in retirement and thanked him for his 16 years of dedication and hard work to RTD.
+
+Mr. Davis thanked Mr. Jensen and said that there were a lot of people who say that as soon as they retire they would travel. He explained that he had applied with RTD over the phone from the Philippines and did not intend travel because he had seen enough of the world prior to working with RTD. Mr. Davis stated that he had come to Colorado in 2002 and was the first technical trainer for light rail training and that he appreciated everything that the agency had done for him. Mr. Davis stated that he had met a lot of good people and he wish all his friends and colleagues the best in the future.
+
+Henry Stopplecamp, Assistant General Manager of Capital Programs, introduced Jeffrey Cluphf, Park-n-Ride Construction Manager, and stated he had worked with Mr. Cluphf for the last 18 years and that he had been a part of the RTD family for 30 years. He added that Mr. Cluphf believed in RTD, our patrons, and was a dedicated employee. Mr. Stopplecamp stated that Mr. Cluphf had been a part of RTD before FasTracks, before the Metro Area Connection (MAC) line, he had worked on most of the Park-n-Ride structures, and any of the construction that was not attached to a facility or corridor. He added that Mr. Cluphf had been the Park-n- Ride construction manager for 15 or 16 years and that he had the honor and privilege of working with him. He added that Mr. Cluphf had touched, through inspections or supervision, all RTD projects over the last 30 years and thanked him for his service and value he had brought to the team.
+
+Mr. Cluphf thanked the engineering team and stated that he had been fortunate to work with many talented individuals at RTD. He added that the engineering department was a great team and that working for RTD had brought him close to so many people and that had been like a family. Mr. Cluphf said it had been a pleasure working with all the fine individuals that make up the RTD staff and thanked everyone at RTD.
+
+Chair Tisdale recognized Luong (Lou) Ha, Manager of Technical Services, for his 28 years of distinguished service to RTD.
+
+## V. Public Participation
+
+Chair Tisdale stated that the public participation period was open to anyone who wanted to speak. He explained that elected officials were invited to speak first, and others would be called in the order they signed up, and then additional speakers would be invited at the end of the list. He reminded the audience that each speaker was allowed three minutes and to approach the lectern when called and state their name and address. Chair Tisdale asked that if any speaker had documentation or reference materials for the Board to give those materials to the Board staff prior to speaking.
+
+John Bryant, Centennial, District G, stated that he was an active community member and a daily RTD rider. He said that he had lived in the Smoky Hill neighborhood for over five years. He thanked the Board for their service and stated the he was on a community board and understood that it was not an easy task getting requests and dealing with competing priorities. Mr. Bryant requested that the pending 169L service change, which was a discontinuation of the stop at at the intersection of Buckley and Crestline, be reconsidered. He added that he would like to ask that the stop, because Crestline is a main thoroughfare through both the Smoky Hill and Piney Creek neighborhoods. Mr. Bryant explained that he had submitted a request through the website and was told that it would be forwarded on to the Board but said he had come to back up that submission regarding the northbound stop number 26372 and southbound stop 26359. He thanked the Board for their time.
+
+Danny Katz, Denver, from the Colorado Public Interest Research Group (CoPIRG), thanked the Board for the opportunity to speak and stated that he had come to applaud RTD for the electric buses that have been deployed. He added that CoPRIG had released a new report on electric buses and had examined the 50 largest transit agencies around the country. Mr. Katz explained that in 2016, the latest year from which data was available, RTD was one of only six agencies that had deployed electric buses on the roads. He added that RTD had 36 electric vehicles currently operating, which was the most of any transit agency and was important for the environmental and public health impacts, because buses oftentimes run through urban denser areas that have more air pollution. Mr. Katz added that running electric buses made economic sense because over their lifetime they save approximately $81,000 over some competitor buses. He stated that CoPRIG was proud of RTD for being a leader and encouraged RTD to continue to realize there was funding available through the Volkswagen settlement money coming to Colorado for electric buses. Mr. Katz thanked Michael Ford, Chief Operations Officer, for speaking at the press conference about the CoPRIG report. He thanked RTD and encouraged RTD to continue to be a leader in the country implementing electric buses throughout the district.
+
+David Martin, Denver, thanked the Board for the opportunity to speak and thanked General Manager Genova for his response to the questions that he had presented at the previous Board meeting. He stated that he was attending to speak again about the University of Colorado A Line commuter rail train horns. He added that the horns continue and that he represented approximately 176 residences in the community that endured these train horns for 2.5 years. Mr. Martin said that he understood that RTD was doing everything to get the quiet zones implemented and asked for RTD to provide community outreach to provide an update on the progress. He added that he would like RTD to like to explain to the neighborhood what was being done to stop the train horns, time frame, and future plan to implement the quiet zones.
+
+Lindsey Feitz, Lafayette, The Gathering Place, stated that this was her second time speaking to the Board but that represented a broader body of people from The Gathering Place, which was Denver's only daytime drop-in center for women, kiddos, and transgender individuals who were experiencing homelessness and/or poverty. She stated that she hoped that the Board realized from the numbers of phone calls, the number of people who have shown up at the meetings, and the 98 people who have signed a petition that she was going to read, that a low income pass was a pressing issue and something that was central to the RTD mission in terms of equity. Ms. Feitz read the petition that stated that The Gathering Place wanted to express support for the RTD Pass Program Working Group's (PPWG) recommendation to create a low income pass program and an enhanced youth discount pass program which would make public transit affordable, accessible, and equitable. She added that public transit helped provide unhoused communities access to warm places to sleep and places to provide food, medical care, and mental health services. Ms. Feitz reminded the elected members of the RTD Board of their responsibility to uphold RTD's mission to provide equitable access to all riders and encouraged the Board to expand the low income pass program to a 50% discount as opposed to the current working group's recommendation of 40%. She explained that was critical to providing a more equitable and public transit system for Denver. Ms. Feitz thanked the Board for their time and said she looked forward to seeing the updates on the RTD website.
+
+Kristen Seidel, Denver, on behalf of the Denver Women's Collaborative, quoted the priorities listed on the RTD website, stating that it said, "At RTD, we are stewards of our riders, our communities, and our environment. We are dedicated to serve the public and meet the transit needs of our riders and communities." She explained that said to her that RTD was dedicated to taking care of primary ridership, and that was the agency’s first investment. Ms. Seidel stated that her taxes and fees were going to RTD as an investment in RTD priorities and that was why she attended every month, not just to represent the nine nonprofit organizations the people they serve. She stated that Florence Crittenton High School in West Denver, that served pregnant women and young moms, and said that these young women even with all the opportunities that Florence Crittenton provided were still faced with the barrier of transportation. Ms. Seidel stated that a low income pass, and child pass would aid in giving these women a better future. She added that the current discount was with a cap for nonprofit organizations and was not meeting the standard and made it unaffordable to organizations. She stated that the Board was elected to uphold the RTD mission to serve the public and to remember that when making decisions.
+
+## VI. Committee Reports
+
+Chair Tisdale stated that the committee minutes were included in the board packet and asked if there were any other questions. There were none.
+
+Planning/Capital Programs & FasTracks Committee – Chaired by Director Lubow
+
+Executive Committee – Chaired by Chair Tisdale
+
+Government Relations Committee – Chaired by Director Solano
+
+Civil Rights Committee – Chaired by Chair Tisdale
+
+Operations & Customer Services Committee – Chaired by Director Deadwyler
+
+Financial Administration & Audit Committee – Chaired by Director Mihalik
+
+GM Oversight & Performance Management – Chaired by Director Walker
+
+### A. Minutes of Apr 24, 2018 3:30 PM
+
+### B. Minutes of Apr 24, 2018 5:30 PM
+
+### C. Minutes of May 15, 2018 5:30 PM
+
+### D. Minutes of May 15, 2018 5:30 PM
+
+### E. Minutes of May 15, 2018 5:30 PM
+
+## VII. General Manager Oversight and Performance Management Update
+
+Chair Tisdale asked Committee Chair Walker if he had any comments regarding the General Manager Oversight and Performance Management Committee.
+
+Committee Chair Walker stated that the team met last Thursday May 17, 2018 and reviewed the tactical plan with General Manager Genova and that on June 19th the team would review revision to the plan and vote on whether or not to move to the full Board
+
+## VIII. Approval of Board Meeting Minutes of April 17, 2018
+
+Motion:               Director Archuleta made the motion to approve the Board Meeting minutes of April 17, 2018.
+
+Director Lubow seconded the motion.
+
+Vote on
+
+The Motion:              The motion passed with 12 in favor (Anderson, Archuleta, Catlin, Folska, Hoy, Lubow, Menten, Mihalik, Solano, Tisdale, Walker, Williams) and 0 against, Directors Deadwyler and Sisk were absent. Director Broom abstained.
+
+Chair Tisdale declared the motion PASSED unanimously.
+
+### A. Minutes of Apr 17, 2018 5:30 PM
+
+## IX. Chair's Report
+
+Chair Tisdale stated he would share a summary of the most pertinent events on the horizon, as well as other items the Board members should be made aware.
+
+HIGHLIGHTS:
+
+- Director Chuck Sisk was the recipient of the prestigious John V. Christensen Award at the Denver Regional Council of Governments (DRCOG) Awards Banquet on April 25. Director Tisdale stated that this was the second time that a Board Chair of RTD had received the award, as Director Anderson received it several years ago. He congratulated Director Sisk.
+
+- General Manager Genova was a great success at the South Metro Denver Chamber’s Economic Development Group annual transportation breakfast on May 11, where he was one of three speakers addressing planes, trains and automobiles.
+
+- Friday, May 11th was the Denver Metro Chamber State of The State Luncheon, attended by Directors Anderson and Chair Tisdale.
+
+- May 17th was the Lone Tree State of the City breakfast, attended by Directors Mihalik and Tisdale.
+
+- May 19th was the Memorial Service for Mayor Steve Hogan of Aurora, attended by Directors Broom, Folska and Tisdale.
+
+- May 19th was also the Conference of Minority Transportation Officials (COMTO) Awards Dinner, attended by Directors Catlin and Tisdale.
+
+- Director Williams recently returned from a pair of transit-related conferences, the APTA Bus and Paratransit Conference in Tampa, Florida, and the CASTA Spring Training event in Greeley.
+
+- May 22nd was the birthday of Board Secretary, Director Claudia Folska
+
+- Downtown Denver Partnership was presenting its annual Urban Exploration Trip on June 3 to June 5 in Los Angeles, California.  General Manager Genova and I would be in attendance.
+
+- There were several transit conferences taking place in June:
+
+o        June 7-10 – APTA Rail Rodeo in Denver, followed by . . .
+
+o        June 10-12 – APTA Rail Conference in Denver
+
+o        June 11-13 – Accelerate Colorado in Washington, D.C.
+
+o        June 19-22 – Colorado Municipal League (CML) Conference in Vail
+
+Chair Tisdale stated that General Manager Genova would share some excellent news about the progress on the University of Colorado A line and the G line in the General Manager’s Report.
+
+## X. General Manager's Report
+
+Chair Tisdale asked General Manager Genova to share his report.
+
+General Manger Genova stated that he would begin with an update regarding the University of Colorado A line and the G line. He explained that RTD had received the written orders from the Public Utilities Commission (PUC) and have begun the verification process. General Manager Genova stated that staff had been out on the University of Colorado A line with DTP and the Public Utilities Commission staff going through field verification testing and that the testing had gone very well. He added that at least eight of the grade crossings had completed the verification process and explained that the grade crossings, the activation, and the warning times were matching up with what was approved in the PUC orders and by the Federal Railroad Administration. General Manager Genova stated that the PUC had filed field verification memos on six crossings: Chambers, Clayton, Dahlia, Havana, Holly, and Steele and that RTD would file completion and certification documents which would move the crossing for final approval on the PUC docket. He explained that, once the PUC issued final approval, it was anticipated that approval would then come from the Federal Railroad Administration (FRA) for the grade crossing attendant removal plan.
+
+General Manager Genova addressed the next steps for the quiet zones on the University of Colorado A line and explained that RTD filed a notice of intent to establish quiet zones with the Federal Railroad Administration and the notice of intent described the different warning devices and design to achieve quiet zones. He explained that the FRA would either concur with all the steps RTD had taken to establish quiet zones or RTD would have to apply for a waiver, but the process was progressing.
+
+General Manger Genova provided an update on the G Line testing and stated that the G Line was going through the same field verification testing process, and testing was expected to progress quickly because it would be done throughout the day and when completed RTD would work towards removing the grade crossing attendants and establishing quiet zones. General Manager Genova explained that about a week's worth of data during the system performance demonstration would be gathered, then RTD would petition the Federal Railroad Administration to add the G Line to the long-term waiver for the University of Colorado A Line, and move towards an opening day.
+
+General Manger Genova provided the additional highlights:
+
+- A draft Executive Summary of a FasTracks status report had been provided and was the first time a comprehensive FasTracks status report tracking progress from the very beginning of 2004 to the present. The final report would be presented at the next Planning Capital Programs and FasTracks Committee meeting.
+
+- June 6th – 12th the APTA International Rodeo and Conference would be hosted by RTD.
+
+General Manager Genova stated that the IPW, formerly called the International Pow Wow, conference was recently hosted in Denver and brought about 6,000 delegates of travel writers, buyers, and planners to the city. He said that the conference purchased 4,000 RTD regional day passes to get from the airport to downtown. He added that he was able to attend some of the IPW events and received positive feedback about the cleanliness of the system, the efficiency, the ease of use, and about the people that work for RTD.
+
+Director Folska, Ph.D., asked for clarification on the quiet crossings on the University of Colorado A line, if they were quiet or silent.
+
+General Manager Genova explained that quiet zone was FRA terminology.
+
+Director Folska, Ph.D., asked were there different train horn sounds that could be used in the quiet zones that would be amenable to the surrounding communities.
+
+General Manager Genova explained that there may be slight variation in the train horns, but that there were minimum decibel requirements prescribed by the Federal Railroad Administration.
+
+Director Folska, Ph.D., asked if RTD would explore a conversation with the community that Mr. Martin referred to as the most troubled by the horns to discuss the type of the horn sounds being used.
+
+General Manager Genova explained that the sounds were regulated and required approval by the FRA.
+
+Director Folska, Ph.D., stated that there were all different sounds to these horns and maybe it would be helpful to explore other sound options.
+
+Director Lubow requested that General Manager Genova and staff keep the public informed and suggested holding more public meeting or telephone town halls and issuing alerts to the public.
+
+Chair Tisdale stated that communication was one of RTD’s highest priorities.
+
+Director Anderson asked for clarification on how long the final testing for the G Line would be and if it was for 21 days or a week.
+
+General Manager Genova explained that the contract stated 21 days of a maintaining a certain level of service reliability and that the FRA wanted a weeks’ worth of reliable data to work through their decision-making process
+
+## XI. Unanimous Consent
+
+Chair Tisdale stated that there were two items on the consent agenda and suggested that if there were any questions or need for discussion of an agenda item, a Director should request it be removed from the unanimous consent agenda for discussion under Recommended Action. Seeing none, he asked for a motion to approve items A and B.
+
+Motion:               Director Folska made the motion to approve items A and B on the unanimous consent agenda.
+
+Director Broom seconded the motion.
+
+Vote on
+
+The Motion:              The motion passed with 13 in favor (Anderson, Archuleta, Broom, Catlin, Folska, Hoy, Lubow, Menten, Mihalik, Solano, Tisdale, Walker, Williams) and 0 against. Directors Deadwyler and Sisk were absent.
+
+Chair Tisdale declared the motion PASSED unanimously.
+
+### A. 2017 CAFR and Report to Governance
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors accept and enter into the record the District’s audited financial reports relating to the year ended December 31, 2017 as prepared by staff and audited by RTD's independent auditor, RubinBrown, LLP.
+
+GM CORE AND TASK GOALS MET
+
+Core Goal #3:  Strong Financial Management
+
+Task Goal #1:  Fiscal Sustainability
+
+##### a. RTD 2017 Comprehensive Annual Financial Report (05-2018)
+
+##### b. Regional Transportation District 2017 ViewPoints FINAL
+
+### B. Budget Transfer for Commuter Rail Third Party Services
+
+It is recommended by the Financial Administration & Audit Committee that the RTD Board of Directors approve a budget transfer of $2.82 million from the FasTracks Management Reserve to the commuter rail operations budget for third party reimbursable projects to allow RTD to compensate Denver Transit Partners (DTP) for costs it will incur for work associated with third party agreements.  The FasTracks Management Reserve will be replenished in the 2018 Amended Budget with the funds that will be received from third parties to compensate RTD for the impacts to its operation.
+
+This action addresses two of the General Manager’s goals for 2018:  Core Goal #1 – Successful Delivery of Transit Services, and Task Goal #1 – Fiscal Sustainability.
+
+### C. Increase Fixed-Route Contract Authority and Budget Transfer due to Operator Wage Increases
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize the General Manager, or his designee, to increase contract authority for the following fixed-route contracts:  First Transit “Group 24” (contract #14-DH-003); Transdev “Group 25” (contract #14-DH-021); First Transit “Group 26” (contract #15-DH-064); and First Transit “Group 27” (contract #16-DH-055); to cover increased costs incurred due to proposed operator wage increases over the term of the contract.
+
+Group 24 – add up to $2,327,316.00 to increase the contract authority on contract #14-DH-003 from $130,465,884.00, as approved by the Board of Directors on March 18, 2014, to a revised contract authority of $132,793,200.00.  Group 25 – add up to $2,432,022.00 to increase the contract authority on contract #14-DH-021 from $139,831,296.00, as approved by the Board of Directors on July 1, 2014, to a revised contract authority of $142,263,318.00.  Group 26 – add up to $2,786,932.00 to increase the contract authority on contract #15-DH-064 from $70,188,522.00, as approved by the Board of Directors on July 7, 2015, to a revised contract authority of $72,975,454.00. Group 27 – add up to $6,841,208.00 to increase the contract authority on contract #16-DH-055 from $141,838,638.00, as approved by the Board of Directors on April 25, 2017, to a revised contract authority of $148,679,846.00.
+
+The total increase in contract authority is up to $14,387,479.00 over the next four (4) years while these services are rebid.
+
+It is further recommended by the Operations and Customer Service Committee that the Board of Directors authorize budget transfers in a total amount not to exceed $4,998,797.00 from the 2018 Board-appropriated reserve to the following fixed-route service contracts to cover the increased costs incurred due to proposed private contractor operator wage increases for 2018:
+
+Group 24 (contract #14-DH-003) - $1,508,841.00Group 25 (contract #14-DH-021) - $1,042,295.00Group 26 (contract #15-DH-064) - $878,518.00Group 27 (contract #16-DH-055) - $1,569,143.00
+
+This action supports Core Goal #1, Successful Delivery of Transit Services; Task Goal #1, Fiscal Sustainability; and Task Goal #2, Workforce and Human Capital.
+
+Motion:               Director Broom made the motion to approve the Increase Fixed-Route Contract Authority and Budget Transfer due to Operator Wage Increases.
+
+Director Williams seconded the motion.
+
+Vote on
+
+The Motion:              The motion passed with 13 in favor (Anderson, Archuleta, Broom, Catlin, Folska, Hoy, Lubow, Menten, Mihalik, Solano, Tisdale, Walker, Williams) and 0 against. Directors Deadwyler and Sisk were absent.
+
+Chair Tisdale declared the motion PASSED unanimously.
+
+## XIII. Executive Session
+
+There was no executive session.
+
+## XIV. Old Business
+
+There was no old business.
+
+## XV. New Business
+
+Director Menten stated that recently the Board were presented proposed recommendations from the PPWG and summarized the recommendation that there were three categories. She explained that the first was the required triennial review of our affairs, the second was the current long-standing pass programs, and the third was modification to the nonprofit fare program. Director Menten thanked all the members of the PPWG for their time and hard work. She stated that she was uncomfortable with some of the presented options and being able to describe the financial impacts to her constituents. Director Menten asked staff to come back to the Board on June 5th and provide a more in depth review in order to better understand the options and be prepared to inform the public of the PPWG recommendations.
+
+Director Williams reminded the Board that the PPWG spent thousands of hours reviewing various programs with strict criteria, which included financial considerations. She added that the PPWG had worked very hard to make sure that they stayed within those constraints. Director Williams reminded the Board that the PPWG information was available on the RTD website under the Pass Program Working Group heading that would answer some of the questions and concerns.
+
+Director Broom stated that he had recently read some synopsis of the tax bill that was passed by Congress last year and that part of the bill alluded to employers or profit companies would no longer be able to write off costs associated with providing employees with bus passes. He requested more information on the bill and for staff to speculate its impact to RTD pass sales.
+
+Director Anderson stated that she was concerned that some people would subsidize other people and that many of those people might just be over the financial cut off for a discounted pass. She added that did not seem equitable. Director Anderson said she would like to keep fares for everyone as low as possible and that, if there was a social welfare component to fares, that should be provided by social welfare agencies. She added that the decisions on the PPWG recommendation were not simple and she was not ready to discuss the outcomes with the community and needed more information.
+
+Chair Tisdale stated that all the Board members would benefit from more information.
+
+Director Deadwyler agreed with Directors Anderson and Menten that she would like to have staff come back and explain the recommendations because they were not simple.
+
+Director Solano stated that the PPWG needed to finish the process. He said that the Board needed to allow staff to examine the different recommendations and make adjustments.
+
+Chair Tisdale clarified the request from the Board that staff explain all of the different factors that impacted the three recommendations submitted by staff for presentation during the public outreach meetings and provide enough information to understand how each model impacted RTD and the public. He explained that there were essentially three silos, that were to be presented to the public for comment, A: being no action at all, B: being the planned fare increase that staff had analyzed and budgeted with some tweaks in some of the elements of our pass programs, and C: implement all of the recommendations that were submitted by the Pass Program Working Group. Chair Tisdale stated that some of the Directors wanted to be able to discuss and explain all of the recommendations to the public and not just present three options.
+
+Director Menten stated that she was not comfortable being able to present the PPWG recommendations to the public as it was currently and that she believed the wording from the RTD mission was to offer "affordable" transportation. She added that people who did not use the system still needed to be considered as part of the system. Director Menten stated she needed to know the financial impact of the program.
+
+Chair Tisdale asked General Manager Genova to comment to ensure staff understood what the Directors were asking to be clarified. He summarized the comments and stated that what was presented previously were plans A, B, and C, to go to the public. He added that the Directors requested a breakdown of all the various elements in each plan to add clarity and definition to the elements of the Pass Program Working Group's recommendations.
+
+General Manager Genova stated he would need to consult the team, but staff would provide additional information and clarity around all of the different items and also seek additional input from the Board. He stated that staff had been working on the schedule and planning dates and venues for public outreach and there would be eight public meetings and additional tools for public outreach. General Manager Genova added that it was important to continue with getting those dates and venues planned and the first outreach was planned for mid-June.
+
+Director Lubow said she was confused about what the staff would be presenting.
+
+Director Walker stated that what staff proposed was not finite or resolute and that there was flexibility in everything presented to the public, which was why staff conducted public outreach, to get input. He added that there had to be something for the public to discuss, an image or a talking point, to get the conversation started. Director Walker explained that bus routes and bus stops fluctuate from or change from when they were originally presented and when those proposed changes were presented to the public. He added that he supported what staff had presented to take to the public, but was always interested in hearing more from staff. Director Walker reminded the Board that nothing was set because we change our system every three months.
+
+Chair Tisdale thanked Director Walker and agreed that nothing was set, even though it looks set, because things were always subject to further change and comment.
+
+Director Williams requested that the Board know in advance where and when the public outreach meeting would occur.
+
+General Manager Genova agreed with Director Williams and explained that there would not be public outreach meeting in each district and would be working closely with the Board on combining meetings.
+
+Director Hoy stated that the process should not be driven by the public meeting schedule and suggested that if the board wanted clarity and information that the schedule be adjusted.
+
+Director Broom asked for clarification from the Board members on requesting more information and if the Directors were planning on creating a different option than what the PPWG had recommended. He added that it was unclear how the Board would accomplish that work.
+
+Director Menten stated that she wanted to break down the three jelled-together recommendations separately in order to understand, when meeting with the public, how all the different recommendations were decided.
+
+Director Deadwyler stated that she had a lot of comments and concerns but did not think the current meeting was the forum for that discussion. She suggested that a conversation with staff one-on-one to discuss the concerns.
+
+Chair Tisdale agreed with Director Deadwyler and suggested that staff take time to visit with some of the directors.
+
+Director Solano clarified to the Board that RTD was a non-profit agency.
+
+## XVI. Adjourn
+
+Chair Tisdale adjourned the meeting at 7:12 p.m.

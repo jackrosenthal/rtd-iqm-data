@@ -1,0 +1,771 @@
+Regional Transportation District
+
+1660 Blake Street
+Denver, CO 80202-1399
+303-299-2307
+
+Board of Directors
+Chair – Doug Tisdale, District H
+First Vice Chair – Peggy Catlin, District N
+Second Vice Chair – Angie Rivera-Malpiede, District C
+Secretary – Jeff Walker, District D
+Treasurer – Shelley Cook, District L
+Bob Broom, District F
+Vince Buzek, District J
+Claudia Folska, District E
+Lynn Guissinger, District O
+Shontel M. Lewis, District B
+
+Judy Lubow, District I
+Natalie Menten, District M
+Ken Mihalik, District G
+Troy Whitmore, District K
+Kate Williams, District A
+
+EXECUTIVE COMMITTEE MEETING
+April 11, 2019 at 12:00 PM
+
+Executive Committee Agenda
+Chaired by Doug Tisdale
+I.
+
+Call to Order
+
+II.
+
+April Board Meeting Agenda Review
+
+III.
+
+Other Matters
+
+IV.
+
+Adjourn
+
+Draft Board Meeting Agenda - April 16, 2019
+I.
+
+Call to Order
+
+II.
+
+Pledge of Allegiance
+
+III.
+
+Roll Call - Determination of Quorum
+
+IV.
+
+Retiree Awards
+Garry E Mahoney – Equipment Maintenance Supervisor – 30 years
+Gavino Ramirez – Information Specialist – 15 years
+
+V.
+
+Public Participation
+
+VI.
+
+Committee Reports
+Planning/Capital Programs & FasTracks Committee – Chaired by Director Lubow
+Communications & Government Relations Committee – Chaired by Director Guissinger
+Civil Rights Committee – Chaired by Director Lewis
+Operations & Customer Services Committee – Chaired by Director Williams
+Financial Administration & Audit Committee – Chaired by Director Mihalik
+
+GM Oversight & Performance Management – Chaired by Director Broom
+VII.
+
+General Manager Oversight and Performance Management Update
+
+VIII.
+
+Approval of Board Meeting Minutes of March 26, 2019
+
+IX.
+
+Chair's Report
+
+X.
+
+General Manager's Report
+
+XI.
+
+Unanimous Consent
+A.
+
+Approval of Contract Authority for BI Work Order
+
+It is recommended by the Financial Administration & Audit Committee that the
+Board of Directors authorize the General Manager or his designee to execute all
+documents necessary to award a contract to 6e Technologies for BI Work Order
+Contract (Contract Number 19DH0XX) for an amount not to exceed
+$2,500,000 over 5 years. Work is administered on an as-needed, work order
+basis. Funding for these Work Orders will be included in the budgets of the
+projects on which the work is performed.
+This action supports the following General Manager’s Goals:
+ Core Goal #3- Strong Financial Management
+ Task Goal #3 – Ensure Fiscal Sustainability
+ Task Goal #4 – Address Future Transportation Needs and Methods
+XII.
+
+Recommended Action
+B.
+
+Board Commitment to FasTracks Completion and Peak Service Plan
+
+It is recommended by the Chair of the Board of Directors, Doug Tisdale, by the
+Chair of the Planning/Capital Programs, & FasTracks Committee, Judy Lubow, and
+by Directors Buzek, Guissinger, Lewis, and Whitmore that the Board of Directors
+approve the attached Resolution No. _____, Series of 2019, Regarding RTD Board
+Commitment for Finishing FasTracks and Supporting the Peak Service Plan for
+Northwest Rail, as presented to the Planning/Capital Programs & FasTracks
+Committee.
+This recommendation is consistent with the General Manager’s 2019 Goals as
+follows:
+ Core Goal #2 – Strong & Ethical Leadership;
+ Core Goal #3 – Strong Financial Management;
+ Core Goal #5 – Effective Communications & Community Outreach;
+ Task Goal #3 – Ensure Fiscal Sustainability; and
+
+
+
+Task Goal #4 – Address Future Transportation Needs and Methods.
+
+C.
+Approval of IGA between RTD and the State's Office of Information
+Technology
+It is recommended by the Financial Administration and Audit Committee that the Board
+of Directors authorize the General Manager or his designee to execute all
+documents necessary to execute an IGA to develop and operate software to help
+manage LiVE Eligibility Applications through the State PEAK software system (State
+Contract Management System (CMS) # 128691) for an amount not to exceed
+$1,800,000. The IGA is for five (5) years of development, operations and
+maintenance.
+This action supports the following General Manager’s Goals:
+Core Goal #3: Strong Financial Management
+Task Goal #3: Ensure Fiscal Sustainability
+D.
+
+Resolution Supporting Two Weeks of Free G Line Service
+
+It is recommended by the Chair of the Board of Directors, Doug Tisdale, that the
+Board of Directors approve the attached Resolution No. _____, Series of 2019,
+Regarding RTD Board’s Support for Two Weeks of Free Service for G Line Travel,
+as presented to the Operations & Customer Service Committee.
+This recommendation is consistent with the General Manager’s 2019 Goals as
+follows:
+ Core Goal #2 – Strong & Ethical Leadership;
+ Core Goal #3 – Strong Financial Management;
+ Core Goal #5 – Effective Communications & Community Outreach;
+ Task Goal #3 – Ensure Fiscal Sustainability.
+XIII.
+
+Executive Session
+
+XIV.
+
+Old Business
+
+XV.
+
+New Business
+
+XVI.
+
+Adjourn
+
+The following communication assistance is available for public meetings:
+ Language Interpreters
+ Sign-language Interpreters
+ Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 business hours in advance of a
+RTD meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+2.11.A
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+April 2, 2019
+
+Subject:
+
+Approval of Contract Authority for BI Work
+Order
+
+CFO/AGM,
+
+Finance
+
+Date: April 3, 2019
+&
+
+GM
+Board Meeting Date:
+
+RECOMMENDED ACTION
+It is recommended by the Financial Administration & Audit Committee that the Board of Directors
+authorize the General Manager or his designee to execute all documents necessary to award a contract
+to 6e Technologies for BI Work Order Contract (Contract Number 19DH0XX) for an amount not to
+exceed $2,500,000 over 5 years. Work is administered on an as-needed, work order basis. Funding
+for these Work Orders will be included in the budgets of the projects on which the work is performed.
+This action supports the following General Manager’s Goals:
+ Core Goal #3- Strong Financial Management
+ Task Goal #3 – Ensure Fiscal Sustainability
+ Task Goal #4 – Address Future Transportation Needs and Methods
+BACKGROUND
+RTD has need of an on-call contractor to provide technology services related to Business Intelligence.
+RTD is moving into more data driven decision making. The District needs data to drive business
+decisions hence the need for Business Intelligence IT services. RTD currently has a variety of BI tools
+such as Oracle OBIEE, Oracle OACS, Informatica, Tableau, etc. The Work Orders (WOs) will be short to
+mid-term periods addressing business, management of technology and consultant services. The activities
+are inclusive of all activities necessary to support, enhance and update the BI tools and processes.
+RTD anticipates the upcoming 5-year contract period may include work associated with several
+initiatives around data including: Ridership Analytics, Realtime operational trend analytics, predictive
+maintenance analytics, state of good repair and other ancillary analytic needs. RTD will also use this
+contract to assist in maintaining day-to-day operations of the existing Oracle BI and Informatica tool sets
+while the new systems/tools are being implemented.
+DISCUSSION
+RTD conducted an open procurement for a BI Work Order contractor. Five firms submitted proposals.
+The criteria used to evaluate the proposals was:
+Item
+No.
+1
+2
+3
+4
+
+Item
+Compliance Matrix Score
+Corporate Qualifications/Technical Skills
+Staff Qualifications/Technical Skills
+Prototypical Project Management Plan and Monthly
+
+Weight
+(%)
+20
+20
+20
+10
+
+Packet Pg. 4
+
+2.11.A
+
+5
+6
+
+Reporting (response from example WO Abstracts)
+References
+Cost (including options, if any)
+
+5
+25
+
+The five members of the evaluation team selected two firms for final interviews. 6e Technologies was
+selected as the successful proposer.
+FINANCIAL IMPACT
+The contract authority shall not exceed $2,500,000. Funding for these Work Orders will be included in
+the budgets of the projects on which the work is performed. The types of funds are dependent upon the
+funding source of each individual project. Individual work orders will be funded as the project
+requirement is processed. The amount is not to exceed $500,000.00 in any one year.
+The current timeline and approximate costs for activities such as business process reviews,
+implementation services, and system configuration for new implementations; assistance maintaining the
+current BI systems; and other associated project work is as follows:
+2019 - $ 500,000
+2020 - $ 500,000
+2021 - $ 500,000
+2022 - $ 500,000
+2023 - $ 500,000
+ALTERNATIVES
+1. It is recommended by the Financial Administration & Audit Committee that the Board of Directors
+authorize the General Manager or his designee to execute all documents necessary to award a
+contract to 6e Technologies for BI Work Order Contract (Contract Number 19DH0XX) for an
+amount not to exceed $2,500,000 over 5 years. Work is administered on an as-needed, work
+order basis. Funding for these Work Orders will be included in the budgets of the projects on
+which the work is performed.
+2. Provide the needed services with RTD personnel. RTD personnel does not have the expertise or
+capacity that can be provided by a work order contractor. This does not meet the needs of RTD.
+
+Prepared by:
+Heather McKillop, CFO/AGM, Finance & Administration
+Kim Heldman, Senior Manager, IT
+Approved by:
+
+Packet Pg. 5
+
+2.12.B
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: March 28, 2019
+
+From:
+
+Doug Tisdale, Director, District H
+
+GM
+
+Date:
+
+March 28, 2019
+
+Board Meeting Date:
+
+Subject:
+
+Board Commitment to FasTracks Completion
+and Peak Service Plan
+
+RECOMMENDED ACTION
+It is recommended by the Chair of the Board of Directors, Doug Tisdale, by the Chair of the
+Planning/Capital Programs, & FasTracks Committee, Judy Lubow, and by Directors Buzek, Guissinger,
+Lewis, and Whitmore that the Board of Directors approve the attached Resolution No. _____, Series of
+2019, Regarding RTD Board Commitment for Finishing FasTracks and Supporting the Peak Service Plan
+for Northwest Rail, as presented to the Planning/Capital Programs & FasTracks Committee.
+This recommendation is consistent with the General Manager’s 2019 Goals as follows:
+ Core Goal #2 – Strong & Ethical Leadership;
+ Core Goal #3 – Strong Financial Management;
+ Core Goal #5 – Effective Communications & Community Outreach;
+ Task Goal #3 – Ensure Fiscal Sustainability; and
+ Task Goal #4 – Address Future Transportation Needs and Methods.
+BACKGROUND
+In 2004, the voters of the Regional Transportation District approved the FasTracks ballot initiative to
+create a comprehensive rail and bus rapid transit project connecting Denver and its suburbs, with an
+expected completion date of 2017 for the entire project. For a number of substantial reasons, some of
+which are noted in the resolution, project completion did not occur in 2017. It is expected that by 2020,
+approximately 70% of the project’s mileage will be completed. This will leave several sections of the
+project not yet funded nor finished.
+DISCUSSION
+The proposed resolution is appropriate and beneficial because it has been 15 years since the passage of
+the FasTracks initiative, several corridors remain unfunded and unfinished, and the voters and taxpayers
+deserve assurance that the project is not being forgotten. The resolution will express the Board’s
+acknowledgement of RTD’s legal responsibility to complete the unfinished FasTracks corridors and its
+intention to do so in as expeditious a manner as possible.
+Addressing the financial challenges facing RTD in completing this task, the resolution expresses the
+Board’s directives to staff to investigate reasonable cost saving measures and to propose funding
+mechanisms to construct and operate the unfinished FasTracks corridors, with a report of steps taken to
+appropriately move forward to be provided within two months. Further addressing financial challenges,
+the resolution also dictates that staff explore, fund, and facilitate construction and operation of a cost
+saving measure for the unfinished Northwest Rail that is presently being evaluated by staff and
+stakeholders – the Peak Service Plan. A report outlining proposed steps to appropriately move forward
+with this Plan will also be required and submitted within two months.
+
+Packet Pg. 6
+
+2.12.B
+
+FINANCIAL IMPACT
+Aside from the staff time required to prepare the reports identified above, there is no additional fiscal
+impact associated with the adoption of this resolution.
+ALTERNATIVES
+1. To adopt the attached resolution
+2. To amend and adopt the amended resolution.
+3. To reject the resolution.
+
+ATTACHMENTS:
+
+
+2019 FasTracks and Peak Rail Resolution - Committee Revised Draft
+
+
+
+Letter from Governor Polis
+
+
+
+2011 Resolution 004 - Concerning A 2011 FasTracks Election (PDF)
+
+(PDF)
+
+(PDF)
+
+Prepared by:
+Barbara McManus, Executive Manager, Board Office
+Approved by:
+
+Packet Pg. 7
+
+RESOLUTION NO. __________, SERIES OF 2019
+REGARDING RTD BOARD
+COMMITMENT FOR FINISHING FASTRACKS
+AND SUPPORTING THE PEAK SERVICE PLAN FOR
+NORTHWEST RAIL
+WHEREAS, the citizens of the Regional Transportation District
+(“RTD”) passed a ballot initiative in 2004 to tax themselves to create a
+comprehensive train and bus rapid transit project connecting Denver and its
+suburbs (“FasTracks Program”), with an intended completion date of 2017
+for the full project; and
+WHEREAS, the full FasTracks Program was not completed in 2017,
+with the current expectation being that approximately 70% of the project
+mileage will be completed by 2020; and
+WHEREAS, several corridors and extensions included in the
+FasTracks Program have not been completed by the date of this Resolution,
+nor have funds for their completion been identified or committed, namely, the
+Northwest and the North Metro corridors, and the Central and the Southwest
+Extensions (collectively, the “Unfinished Corridors”); and
+WHEREAS, it remains the uncompromising intention of the RTD
+Board to comply fully with and to fulfill the obligations created in the
+FasTracks Program passed by the District voters in 2004 in as expeditious a
+manner as possible; and
+WHEREAS, the RTD Board has always acknowledged that these
+FasTracks obligations are the expressed will of the electorate and that RTD is
+required to comply therewith, which acknowledgement was previously
+expressed, inter alia, in RTD Board Resolution No. 004, Series of 2011
+(“Concerning a 2011 FasTracks Election”); and
+WHEREAS, a variety of factors created substantial changes and
+challenges and increased capital costs in the FasTracks Program following the
+2004 voter approval of said Program, which factors included, inter alia, (a)
+the requirement that new technology, including Positive Train Control and
+new signal systems and commuter rail cars, be employed; (b) the decision that
+
+2019 04 02 Committee-Approved Draft
+Packet Pg. 8
+
+Attachment: 2019 FasTracks and Peak Rail Resolution - Committee Revised Draft (3790 : Board Commitment to FasTracks Completion and
+
+2.12.B.a
+
+all but one of the trains be electric-powered rather than diesel-powered; (c)
+additional EIS and local government drainage and traffic requirements; (d) an
+increase in right-of-way acquisition costs; (e) significantly increased costs for
+construction materials; and (f) the great recession of 2008-2009; and
+WHEREAS, while acknowledging the financial challenges, RTD will
+not abdicate its responsibility to complete the Unfinished Corridors as
+expeditiously as possible in a commercially reasonable manner, and to that
+end, the RTD Board expresses its unqualified commitment to and promotion
+of fiscally responsible actions intended to facilitate and effectuate the
+construction of all the Unfinished Corridors; and
+WHEREAS, in regard to one of the unfinished Corridors, staff from
+jurisdictions along the Northwest Rail Corridor and from RTD have been
+investigating the construction and operation of an interim commuter startup
+service (the “Peak Service Plan or “Plan”) along the unfinished portion of
+the Northwest Corridor as a means of providing service to the Corridor in the
+quickest manner possible; and
+WHEREAS, the Peak Service Plan would provide rush hour service to
+the presently unfinished portion of the Northwest Corridor, including three
+trains from Longmont to Denver (and stations in between) in the morning
+rush hour period, and three trains going from Denver to Longmont (and
+stations in between) in the evening rush hour.
+NOW THEREFORE BE IT RESOLVED THAT:
+1. The RTD Board expresses its continued commitment to the
+completion of all the Unfinished Corridors, directing RTD staff to investigate
+and research all reasonable cost-saving measures for construction and
+operation of the Unfinished Corridors and creative funding mechanisms for
+the same as expeditiously as reasonably possible, with a report to the Board
+within two months following adoption of this Resolution outlining proposed
+steps to appropriately move forward on these Unfinished Corridors.
+2. In regard to the Unfinished Corridors, the RTD Board acknowledges
+and appreciates the value and potential of phased approaches and partnerships
+such as the Peak Service Plan to bring interim service to the remaining
+
+2019 04 02 Committee-Approved Draft
+Packet Pg. 9
+
+Attachment: 2019 FasTracks and Peak Rail Resolution - Committee Revised Draft (3790 : Board Commitment to FasTracks Completion and
+
+2.12.B.a
+
+portion of the Northwest Rail corridor in the most rapid time frame
+reasonably possible, expressing its expectation that RTD staff will proceed in
+a commercially reasonable manner to explore, analyze, fund, and facilitate
+construction and operation of the Peak Service Plan, including obtaining Plan
+pricing information from Burlington Northern Santa Fe Railroad as
+expeditiously as possible, with a report to the Board within two months
+following adoption of this Resolution outlining proposed steps appropriately
+moving forward on the Plan.
+3. The RTD Board instructs the General Manager and CEO, through
+staff, to communicate and publicize this Resolution to all stakeholders,
+interested parties, the media and the public in general by appropriate means.
+PASSED AND ADOPTED THIS ________ DAY OF ___________ 2019.
+____________________________
+Doug Tisdale, Chair
+
+___________________________
+Jeff Walker, Secretary
+
+2019 04 02 Committee-Approved Draft
+Packet Pg. 10
+
+Attachment: 2019 FasTracks and Peak Rail Resolution - Committee Revised Draft (3790 : Board Commitment to FasTracks Completion and
+
+2.12.B.a
+
+Attachment: Letter from Governor Polis (3790 : Board Commitment to FasTracks Completion and Peak Service Plan)
+
+2.12.B.b
+
+Packet Pg. 11
+
+Attachment: 2011 Resolution 004 - Concerning A 2011 FasTracks Election (3790 : Board Commitment to FasTracks Completion and Peak
+
+2.12.B.c
+
+Packet Pg. 12
+
+Attachment: 2011 Resolution 004 - Concerning A 2011 FasTracks Election (3790 : Board Commitment to FasTracks Completion and Peak
+
+2.12.B.c
+
+Packet Pg. 13
+
+2.12.C
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+April 2, 2019
+
+Subject:
+
+Approval of IGA between RTD and the State's
+Office of Information Technology
+
+CFO/AGM,
+
+Finance
+
+Date: April 3, 2019
+&
+
+GM
+Board Meeting Date:
+
+RECOMMENDED ACTION
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors
+authorize the General Manager or his designee to execute all documents necessary to execute an IGA
+to develop and operate software to help manage LiVE Eligibility Applications through the State PEAK
+software system (State Contract Management System (CMS) # 128691) for an amount not to exceed
+$1,800,000. The IGA is for five (5) years of development, operations and maintenance.
+This action supports the following General Manager’s Goals:
+Core Goal #3: Strong Financial Management
+Task Goal #3: Ensure Fiscal Sustainability
+BACKGROUND
+RTD commits to reviewing its Fare Structure and Fare Programs every three years to determine if any
+additions or changes are required to provide the best options for RTD ridership and meet RTD’s revenue
+targets. As part of this process, the RTD Board of Directors approved a new Low-Income Fare (LiVE)
+Program in mid-September 2018.
+RTD is working with the Colorado Governor’s Office of Information Technology (OIT) to implement a
+program for evaluating RTD riders’ eligibility for the LiVE program using the State’s public benefits
+application system, PEAK. RTD staff has been meeting with employees from various departments and
+OIT every week for several months.
+The ability to leverage the State of Colorado systems to determine eligibility for the LiVE Program is
+expected to:
+ Reduce the time for implementation of the LiVE Program
+ Limit duplication of data
+ Allow for consistent eligibility data usage
+ Reduce the time spent on administering the LiVE Program’s eligibility assessment
+ Store sensitive data in the State system (For example, data will include pdfs of the application,
+photographs, and verification of income information.
+ Make it easier for those applying for other benefits to access RTD’s LiVE Program
+ Save RTD significant expense
+DISCUSSION
+RTD needs to execute an Intergovernmental Agreement with OIT to implement the LiVE Program. The
+IGA includes the following items:
+
+Packet Pg. 14
+
+2.12.C
+
+
+
+
+
+
+
+Develop a Business Requirements Document (BRD) to identify necessary changes to the PEAK
+System. This has been completed.
+Develop a Technical Design Document (TDD) to identify the details for development of the
+software changes to the PEAK system. This has been completed.
+Perform software development to implement the BRD and TDD.
+Test software changes when complete.
+Provide operational support and maintenance for funning the applications, sending automated
+RTD correspondence, store images and documents, provide system administration and provide
+call center and help desk support for the application.
+
+The design and software development changes shall be performed by OIT’s contractor for a fee.
+Members of OIT and Members of the PEAK Executive Steering Committee have generously donated their
+time to provide guidance, support, document development and review to support implementation of
+RTD’s LiVE Program.
+FINANCIAL IMPACT
+The contract authority shall not exceed $1,800,000. Funding for this project is included in the 2019
+through 2023 Budget. The largest portion of these costs are for the software changes being developed
+this year. Annual correspondence, operations, maintenance and customer support are not expected to
+exceed $211,000 per year during the term of this agreement.
+ALTERNATIVES
+1. It is recommended by the Financial Administration and Audit Committee that the Board of
+Directors authorize the General Manager or his designee to execute all documents necessary to
+execute an IGA to develop and operate software to help manage LiVE Eligibility Applications
+through the State PEAK software system (State Contract Management System (CMS) # 128691)
+for an amount not to exceed $1,800,000. The IGA is for five (5) years of development,
+operations and maintenance.
+2. RTD can independently, or through a contractor, develop software to accept and evaluate
+applications for the LiVE program. RTD does not have the resources to adequately support the
+system 24/7 and continuously meet Personally Identifiable Information (PII) security standards.
+Development of such a system from scratch would take more than a year to implement and
+would be appreciably more expensive. This would put implementation of the LiVE Program and
+RTD security systems at significant risk.
+3. RTD can develop a process to manually accept and evaluate applications for the LiVE Program.
+This would require development of new policies and procedures and the hiring of more than 5
+new employees. This would take more time and cost significantly more to implement.
+
+Prepared by:
+Heather McKillop, CFO/AGM, Finance & Administration
+Monika Treipl-Harnke, Sr, Manager of Revenue
+Approved by:
+
+Packet Pg. 15
+
+2.12.C
+
+Packet Pg. 16
+
+2.12.D
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Board of Directors
+
+Date: April 10, 2019
+
+From:
+
+Doug Tisdale, Director, District H
+
+GM
+
+Date:
+
+April 10, 2019
+
+Board Meeting Date: April 16, 2019
+
+Subject:
+
+Resolution Supporting Two Weeks of Free
+G Line Service
+
+RECOMMENDED ACTION
+It is recommended by the Chair of the Board of Directors, Doug Tisdale, that the Board of Directors
+approve the attached Resolution No. _____, Series of 2019, Regarding RTD Board’s Support for Two
+Weeks of Free Service for G Line Travel, as presented to the Operations & Customer Service Committee.
+This recommendation is consistent with the General Manager’s 2019 Goals as follows:
+ Core Goal #2 – Strong & Ethical Leadership;
+ Core Goal #3 – Strong Financial Management;
+ Core Goal #5 – Effective Communications & Community Outreach;
+ Task Goal #3 – Ensure Fiscal Sustainability.
+BACKGROUND
+Operations for RTD’s G Line were originally scheduled to commence in late 2016. Though the
+commencement of operations was continually delayed due several external factors, the G Line opening
+day has been set for April 26, 2019.
+DISCUSSION
+As a token of RTD’s commitment to its community partners, stakeholders, and constituents, the
+resolution expresses the Board’s strong support for a proposal to offer free service for travel on the G
+Line for the first two full weeks of service operations, commencing Sunday, April 28, 2019, and ending
+Saturday, May 11, 2019.
+ALTERNATIVES
+1. To adopt the attached resolution
+2. To amend and adopt the amended resolution.
+3. To reject the resolution.
+FINANCIAL IMPACT
+The financial impact of this resolution falls within the General Manager’s discretionary authority, and any
+necessary adjustments will be included in the 2019 Amended Budget.
+ATTACHMENTS:
+
+
+2019 04 10 11 28 Resolution for G Line Free Service - DRAFT
+
+(DOCX)
+
+Prepared by:
+Barbara McManus, Executive Manager, Board Office
+
+Packet Pg. 17
+
+2.12.D
+
+Approved by:
+
+Packet Pg. 18
+
+REGIONAL TRANSPORTATION DISTRICT
+RESOLUTION NO.____, SERIES OF 2019
+(RTD Board’s Support for Two Weeks of
+Free Service for G Line Travel)
+
+WHEREAS, The G Line, the 11.2-mile western arm of RTD’s expansive Eagle P3 commuter
+rail project, runs from Denver Union Station through Denver, Adams, and Jefferson
+Counties, terminating at Wheat Ridge/Ward Station; and
+WHEREAS, G Line operations were originally scheduled to commence in late 2016; and
+WHEREAS, Due to several external factors, the commencement of operations was
+continually delayed, and the constituents and businesses along the corridor have been
+patiently awaiting the line’s opening since that time; and
+WHEREAS, General Manager Genova announced on April 1, 2019, that the G Line will finally
+go into operation on April 26, 2019; and
+WHEREAS, The RTD Board recognizes that the delay in G Line operations has caused
+significant inconvenience and frustration for those who have long anticipated its opening;
+and
+WHEREAS, As an acknowledgment of the impacts endured by those along the corridor due
+to lack of promised service and inconvenience while waiting, and as a gesture of the good
+will and good faith of the agency, General Manager Genova has proposed that the first two
+weeks of G Line service be offered free of charge to passengers.
+NOW, THEREFORE, BE IT RESOLVED THAT the RTD Board of Directors expresses its full
+and unqualified support for and approval of the General Manager’s proposal to offer free
+service for travel on the G Line for two weeks, commencing with the service day beginning
+Sunday, April 28, 2019, and ending Saturday, May 11, 2019, in order to demonstrate our
+strong support for our partnering communities and our abundant appreciation for the
+patience and perseverance of the district, particularly those constituents and businesses
+along the G Line corridor.
+
+Packet Pg. 19
+
+Attachment: 2019 04 10 11 28 Resolution for G Line Free Service - DRAFT (3805 : Resolution Supporting Two Weeks of Free G Line Service)
+
+2.12.D.a
+
+Passed and adopted by the Board of Directors of the Regional Transportation District on the
+________ day of April, 2019.
+
+______________________________
+Doug Tisdale
+Chair of the Board
+
+_____________________________
+Jeff Walker
+Secretary
+
+Packet Pg. 20
+
+Attachment: 2019 04 10 11 28 Resolution for G Line Free Service - DRAFT (3805 : Resolution Supporting Two Weeks of Free G Line Service)
+
+2.12.D.a
+
+

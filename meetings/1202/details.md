@@ -1,0 +1,59 @@
+## I. Civil Rights Committee
+
+Chaired by Angie Rivera-Malpiede
+
+### A. Call to Order
+
+Committee Chair Rivera-Malpiede called the meeting to order at 5:31 p.m.  She acknowledged her Committee Co-chair, Director Deadwyler, who was participating via telephone conference call.
+
+Staff Present:              Bruce Abel, Shirley Bennett, Larry Buter, Jessie Carter, Rick Clarke, Carolyn Conover, John Elias, Sherry Ellebracht, Eric Farrington, David Genova, Mike Gil, Kenn Hardin, George Hovey, Terry Howerter, Brian Iacono, Austin Jenkins, Erin Klaas, Marla Lien, Barbara McManus, Doug MacLeod, Judy McMurphy, Brenden Morgan, Kevin Parker, Paula Perdue, Trent Ratcliff, Beverly Scott, Dean Shaklee, Walt Stringer, John Tarbert, Lisa Trujillo, Bill Van Meter, Phil Washington, Armando Martinez, Steve Gieski, Lou Ha, William Weidenaar, Robbie Hunter, Lacy Bell, John Dawson, Zamy Silva, Amanda Murray, Ann Marie Isaac-Heslop
+
+Others Present:              Azim Adams, Greg Amparano, Marcellinus Andrew, Celina Benavdez, Cee David, Martell Dyles, Stan Gronek, Sherman Hamilton, Jos Heemelaar, Eric Hines, Gregory Jenifer, Asaf Kaldesha, Will Lafame, Mica Manila, Mike Meader, Brian Middleton, Sheila Mungai, Kim Patten, Daniel Pearsall, Kate Ridings, Laura Rinker, David Rushton, Joe Triplett, Steve Ubanks, Gary Van Dorn, Raja Viswanathan
+
+### B. Recommended Actions
+
+There were no recommended actions.
+
+#### 1. DTP and John Laing WIN Program Contribution
+
+Committee Chair Rivera-Malpiede stated that RTD is privileged to have Denver Transit Partners (DTP) and John Laing at the meeting to present a WIN program contribution.  She said that as many of the Board members know, the WIN program has been recognized from the top down for being such an innovative and amazing program that has empowered our community members to actually get positions of depth.
+
+General Manager Washington reiterated that the WIN program is a model for the country in terms of investing in human capital.  The program identifies, assesses and trains people for work on our projects as well as other regional projects.  He said that all of our partners have been very active from the beginning along with great support from Directors Rivera-Malpiede and Deadwyler, the full Board and RTD Senior Leadership.  General Manager Washington stated that one of the things that are so important to RTD and our partners is really having an impact within the community where we are building.  DTP and John Laing have stepped up in a huge way to support the WIN efforts.  He believes this program is a wonderful success and really changing lives.
+
+David Rushton, Director of John Laing, thanked the Board for having him here.  He said that on behalf of John Laing and John Laing Charitable Trust he is thrilled to be making a contribution to the WIN initiative.  This is the first check in a three year commitment that John Laing is making to support the program.  He believes that this is a program that is enabling people to get back to work for the long term.  David Rushton shared that it had been interesting to speak with Kenn Hardin and see his absolute motivation and desire to have the program succeed.  David Rushton said that the Charitable Trust also supports a program called the Princess Trust in the United Kingdom which is very similar.  The goal is to get young people who do not have many opportunities trained and supported for the long term.  He stated that he is very happy to support a program like this in the United States.
+
+General Manager Washington acknowledged our WIN steering committee.  He thanked them for the work they do with the program.
+
+Greg Amparano, DTP Executive Project Director, thanked the Board for the opportunity to speak about such a wonderful project.  He has always believes that when WIN could provide a valuable service to contractors and employers it would be a sustained success.  He said that he is happy to report that as far as DTP is concerned the WIN program has achieved that.  Greg Amparano shared that DTP has met their goal of 10% of direct field hire personnel coming from WIN and they currently have 40 persons employed on the Eagle P3 project.  He stated that DTP is very proud to be part of the founding membership of this groundbreaking program.
+
+#### 2. Workforce Initiative Now (WIN) Program Update on Participation Statistics
+
+Kenn Hardin shared that with the help of such great partners, the WIN program now has nine active cohorts for a total of 193 participants.  He stated that does not include the many individuals who were not quite ready for jobs so RTD sent them to training so they can return to us for employment at a later time.  Kenn Hardin reminded the Board that the WIN program is not just about job placement but it is really a career development program.  This program trains people for careers in the transportation industry.
+
+Committee Chair Rivera-Malpiede explained that Chair Anderson was out of town so she was unable to attend the meeting; however, she asked Committee Chair Rivera-Malpiede to extend her deepest appreciation to everyone that supports this program.  Chair Anderson is such an advocate for the WIN program and is so excited about its success.
+
+Director Deadwyler thanked Greg Amparano and David Rushton for their continued support of the program.  She knows it means a lot to the people receiving training.  Director Deadwyler also thanked Kenn Hardin and Martell Dyles.  She thinks they are doing a great job.
+
+Director Hoy stated that RTD really does many great things but this one is almost over the top.  He believes it is so important to give people a chance in life and this program does just that.  He stated that everyone involved should pat themselves on the back.  Director Hoy shared that this program really touches him emotionally because it is such a great outreach.  He does wonder what type of person we are looking for or what characteristics make someone a good candidate.  Martell Dyles stated that there is an assessment potential participants take so we can assess their interest and skills.  He said we tend to look for someone that already has our great wrok standards such as being on-time, good communication skills, etc.  Martell Dyles said it is also a goal that the majority of people we place are within our target areas along the corridors.  Kenn Hardin reiterated that this program was truly created for people who want to change their lives and enter into an opportunity for a career pathway that would lead to something better.  All of the 40 participants on the Eagle P3 project are learning skills, developing career pathways, and looking at what they will do next.  Kenn Hardin said that because of this, we are really looking for people who are ready to change their lives for the better and are really committed to the program.
+
+Director Folska stated that this is an outstanding program.  She really likes that we are working with people in the communities where the tracks are being laid.  She wonders if any of the participants are union employees.  Martell Dyles stated that there are participants that are union employees.  He explained that staff also utilizes the unions in the State and Metro region as training partners, sources of employment, etc.
+
+Director Solano asked if the WIN training is geared solely toward blue collar work.  Martell Dyles explained that we do work with participants in the construction trade but we also do engineering training, Microsoft Office Suite training, CAD software training, etc.  Kenn Hardin stated that many of our contracts have a percentage of participation within their professional services contract.  He also said that last year we started an internship program with engineering students; they were having trouble getting jobs right out of school so this program makes them very qualified for employment through experience.
+
+Committee Chair Rivera-Malpiede shared that both she and her Committee Co-chair, Director Deadwyler, have had the honor and privilege of working with the WIN program from its inception.  She stated that this was the brain child of General Manager Washington.  She believes this program is quite innovative.  She said that this could not have become a reality without our partners.  She thanked Greg Amparano because she believes he was really a catalyst for the program.  Committee Chair Rivera-Malpiede thinks this is the most outstanding partnership in the country.  She expressed what an honor it is to be a part of.  She expressed her thanks for the additional dollars to better help our community.
+
+Director Deadwyler expressed concern that in her community there are people who are just looking for a job.  She had a different vision for the program where we would help these individuals with the hope that if they got hired they would chose to build their skills.  She is worried that we are only hiring field workers within the community that already have experience versus the people that are just looking to get started in the industry.  She wants to make sure we are opening doors to more of the individuals that do not yet have many skills.  General Manager Washington explained that part of the program is an assessment piece that assesses the participant’s potential skills; even if they may not have the skills developed already or be highly trained, the goal of the program is to work with them so they are ready for a job.
+
+Kenn Hardin introduced two WIN participants, Azim Adams and Sheila Mungai, who are both working on the Eagle P3 project.  He asked if they would like to share their experiences.  Azim Adams stated that he was referred to the program in January of 2011 and was hired by June of 2012.  He shared that construction has been a whole new experience for him.  He feels everything has been working out really well for him and he is honored to be part of the program.  Sheila Mungai shared that she already had the administrative skills but this was an opportunity for her to move into a new direction; through the program she has had the opportunity to become an auditor and she really appreciates the opportunity.
+
+##### a. WIN-Presentation- final
+
+##### b. August 8 Delegation letter
+
+### D. Other Matters
+
+There were no other matters.
+
+### F. Adjourn
+
+Committee Chair Rivera-Malpiede adjourned the meeting at 6:01 p.m. to the Operations and Customer Service Committee.

@@ -1,0 +1,59 @@
+## I. Civil Rights Committee
+
+Chaired by Angie Rivera-Malpiede
+
+### A. Call to Order
+
+Committee Chair Rivera-Malpiede called the meeting to order at 6:55 p.m.
+
+Chair Anderson and Directors Deadwyler and Solano were absent.
+
+Staff Present:              Bruce Abel, Will Adams, Martha Bembry, Shirley Bennett, Jessie Carter, Rick Clarke, Susan Cohen, Carolyn Conover, Martel Dyles, Heather Ellerbrock, John Elias, Eric Farrington, David Genova, Mike Gil, Kenn Hardin, Brian Iacono, Austin Jenkins, Erin Klaas, Marla Lien, Barbara McManus, Brian Matthews, Robin McIntosh, Doug MacLeod, Brenden Morgan, Amanda Murray, Paula Perdue, Scott Reed,  Richard Rost, Jannette Scarpino, Dean Shaklee, Zamy Silva, Cherie Sprague, Walt Stringer, John Tarbert, Pauletta Tonilas, Lisa Trujillo, Bill Van Meter, Phil Washington, Julia Yugel
+
+Others Present:               Adrina Gibson, Gary Forbes, Sherman Hamilton, Rita Kahn, Rita Ho, Stu Livensparger, Mica Maniece, Nicholas Moller, Ron Murphy, Thomas Peterson, Dan Pearsall, Larry Tenenholz, Joe Triplett, Christen Villalobos, Doris Vincent, Gary Van Dorn
+
+### B. Recommended Actions
+
+There were no recommended actions.
+
+#### 1. Civil Rights Division 2013 Annual Report
+
+Mr. Kenn Hardin presented the 2013 Annual Report and stated the full Annual Report is included in the December 10, 2013 Civil Rights Committee Board Packet and contains a wealth of information.Kenn Hardin shared that this was the Civil Rights Division’s first Annual Report to the Board as the Division was just approved last year, and the Board approved the Civil Rights Committee this year. Mr. Hardin noted that he will be introducing a couple of the Civil Rights Champions at the end of the presentation. Kenn Hardin stated that it was a great vision of our General Manager Phil Washington to create the Civil Rights Division and the need for staff to switch from the DBE Committee to the Civil Rights Committee.   Staff is better able to get an idea of the areas and functions that come underneath the Civil Rights Division.  Mr. Hardin extended his thanks and appreciation to the two co-chairs; Director Rivera-Malpiede and Director Deadwyler for their support throughout the entire past year. Kenn Hardin reviewed a few of the 2013 highlights.  The Civil Rights Committee was established; the ADA program was approved; and the WIN program was very robust.  Mr. Hardin reported that the Program Director was invited to speak at the Utah Transit Authority (UTA).  Other agencies were also interested in the Workforce Initiative Now (WIN) Program.  The Massachusetts Bay Transportation Authority (MBTA) came to Denver as part of their interest in RTD’s wonderful Capital Program; they also wanted to take a look at the WIN Program.
+
+Mr. Hardin shared often times small businesses say all they do is subcontract.  However, many of the Disadvantaged Business Enterprise (DBE) and Small Business Enterprise (SBE) firms do move into Prime Contract awards.
+
+RTD has enjoyed watching several such entities grow into Prime Contractors such as Sky Blue Builders, Rose Electric and Rodriguez Construction.  The Equal Opportunity Office provided educational training to over half of RTD employees.   Mr. Hardin reported that Mowa Haile, President and CEO of Sky Blue Builders, is here tonight to comment on that experience a little later in the presentation.
+
+Mr. Hardin stated that 2014 Goals include taking the program on the road to RTD District; educating internal and external constituents and customers about what staff does in the Civil Rights Division and how staff supports our organization so there is greater understanding about the Civil Rights service functions.
+
+The WIN program plans to introduce several new programs such as the Ambassador Program and getting more young people involved in the industry.  The Civil Rights Transit Tech Institute will be another exciting piece of the WIN program.  As we move forward, staff will also engage in fund raising activities to keep the WIN program active and alive. The SBO is creating partnerships and training for business development assistant programs.  Staff wants to provide more programs like mentor protégé programs, helping small businesses become more engaged and having a greater understanding about building capacity in their business; and offering far more capacity building orientation workshops.  Mr. Hardin commented that staff will also introduce Sensing Sessions within the organization; helping different departments to become more engaged and to increase morale; enabling staff to understand more about EEO and how important EEO is within the RTD Organization.
+
+Director Folska commented that the Civil Rights Division has put together a really ambitious program.  She inquired about the human capital available to enable the Civil Rights Division to be successful on delivering their goals.
+
+Mr. Hardin replied that when he first started many years ago, it was just himself.  Currently the Civil Rights Division has a very robust staff of 22 staff.  Director Folska advised it would be really helpful if the documents prepared for the Committee Meeting Board Packets could be made available for screen readers.  Director Folska observed all other divisions have been able to make documents legible for screen readers.  Kenn Hardin committed to address that issue.
+
+Mr. Hardin introduced the small business team: Adrina Gibson, Mica Maniece, Amanda Murray, Martel Dyles and Dan Pearsall; the entire team worked on this presentation. Director Daly complimented the team and the quality paper product the Civil Rights Division prepared.  Director Daly also appreciated the ability to put faces to names.
+
+Committee Chair Rivera-Malpiede shared that it has been her distinct pleasure to work with this amazing staff.  Committee Chair Rivera-Malpiede commented that tonight was her last night to be overseeing and co-chairing the Civil Rights Committee; that this is the best staff in the country sitting in front of the Board.  Committee Chair Rivera-Malpiede stated that when she first started attending the DBE quarterly meetings, they were not well attended; now it is standing room only.  Committee Chair Rivera-Malpiede commented that this Division has brought every diverse community into the equation to be part of the process that we call FasTracks, WIN; and for creating opportunities for folks to learn how to grow their business and learn.  Committee Chair Rivera-Malpiede thanked Kenn Hardin and his staff for their hard work.
+
+##### a. Civil Rights 2013 Annual Report
+
+##### b. RTD Summary Board Meeting Presentation - Dec 2013
+
+#### 2. Civil Rights Champions Presented
+
+Kenn Hardin introduced Zami Silva, Small Business Manager who introduced a couple of the Civil Rights Highlighters for 2013.  The first Champion is Mowa Haile, President and CEO of Sky Blue Builders.  He is one of the Prime Contractors on the On-Call contract, where we have 3 DBE’s as Primes.  Sky Blue Builders is also on the I225 project where they just won a maintenance facility contract.  It is amazing to see the DBE’s growing from Sub to Prime Contractors, which is the goal of the program.  Ms. Silva introduced Mr. Haile to say a few words about the experience.
+
+Mowa Haile thanked the Board for the opportunity and for everything RTD has done for Sky Blue Builders.  Sky Blue Builders have been in business for 7 years and have 3 lines of business: Infrastructure - which is RTD type of work along with CDOT as well as a lot of DOD paving contracts; a building division which is tenant finish type of work such as maintenance on buildings; and their 3rd line of business is land development.  Mr. Haile noted it is interesting that RTD Civil Rights Division state that the DBE’s are their champions.  RTD is certainly Sky Blue Builder’s Champion, not only for the opportunity to work on RTD contracts, but also for helping Blue Sky Builders to grow and become a Prime Contractor, which is the spirit of the Civil Rights program.
+
+Hopefully, 4-5 years from now, you will see Sky Blue Builders bidding on a large contract.  Sky Blue Builders acquired a full time WIN person in accounting who is responsible for doing certified payroll, not only for our RTD work, but also for the private sector, Federal and City work; Sky Blue Builders are growing.Rodriguez Construction - DUS, I225, Eagle P3 and West Corridor.  Manny Rodriguez, Rodriguez Construction greeted the Board and stated that Rodriquez Construction was fortunate enough to get a contract at DUS 3 years ago.  Work has snowballed into bigger projects and additional work.  Rodriguez Construction has been doubling its volume for the past 3 years.  A lot of Rodriquez Construction’s success is attributable to the RTD Projects.
+
+Director Walker pointed out that the Civil Rights Champions are present tonight because they’ve worked for it, they’ve earned it.  They represent the best.  Director Walker thanked the Champions for the hard work they have put in for RTD, and Director Walker expounded that the Champions are helping to build the RTD agency into a great success where RTD can help others in the industry, in the nation and the economy.
+
+Director Bagley thanked Sky Blue Builders and Rodriquez Constructionfor sharing their two wonderful stories.  Director Bagley commented he appreciated the Champions for coming down and sharing the storiesof their success with RTD and hearing about their opportunities to launch into larger business.
+
+Manny Rodriguez reported that Rodriguez Construction is also a Hub zone contractor, a lot of the WIN participants fall right in.  In order to stay certified, Rodriguez Construction have to keep a certain percentage inside of a hub zone, which helps on the federal side.  Mr. Rodriguez informed that about 40% of contracted dollars make it out in labor costs and this filters out into the community.Director Bagley thanked the Champions, advising it was very beneficial to hear their stories.
+
+### F. Adjourn
+
+Committee Chair Rivera-Malpiede adjourned the meeting at 7:14 p.m. to the Operations and Customer Service Committee.

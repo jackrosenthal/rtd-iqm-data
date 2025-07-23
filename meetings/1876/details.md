@@ -1,0 +1,272 @@
+## I. Operations and Customer Service Committee
+
+Chaired by Judy Lubow
+
+### A. Call to Order
+
+Committee Chair Lubow called the meeting to order at 5:53 p.m.
+
+Director Deadwyler participated via phone.  Director Anderson was absent.
+
+Staff Present:              Bruce Abel, Jeff Becker, Larry Buter, Jessie Carter, Rick Clarke, Carolyn Conover, John Elias, Heather Ellerbrock, David Genova, Mike Gil, Kenn Hardin, Terry Howerter, Ann Marie Isaac-Heslop, Austin Jenkins, Erin Klaas, Marla Lien, Doug MacLeod, Tony McCaulay, Robin McIntosh Jr., Barbara McManus, Brenden Morgan, Kevin Parker, Paula Perdue, Scott Reed, Richard Rost, Zamy Silva, Walt Stringer, John Tarbert, Pauletta Tonilas, Bill Van Meter, Michael Washington, Phil Washington
+
+Others Present:              Marshall Crawford, Jennifer Eckert, Adrina Gibson, Rita Kahn, Dan Pearsall, Pedro Ramos, Joe Triplett, Gary Van Dorn
+
+#### 1. Contract Award for the District Shops HRU Project.
+
+It is recommended by the Operations and Customer Services Committee that the Board of Directors authorize the General Manager, or his designee, to award a contract to the low, responsive, responsible bidder, JCOR, in the not-to-exceed amount of $2,669,400 for the District Shops Heat Recovery Unit (HRU) project. In addition, a transfer shall be made from the State of Good Repair federal grant to the project budget in the amount of $322,103.
+
+Motion:              Director Rivera-Malpiede made the motion to move this item to the full Board at the February 18, 2014 Board meeting.
+
+Director Bagley Seconded the motion.
+
+Discussion:              Dave Genova, Assistant General Manager of Safety, Security and Facilities, explained that project is a contract award to replace the Heat Recovery Units (HRUs) at District Shops that are part of the heating, AC, and ventilation system.  He said that these units are beyond their useful life.  He stated that this project is mostly grant funded with a small local match.
+
+Director Bagley commented that he is very excited that there is only a 20% local match with grants taking care of the rest.  He thinks it is very good work on the part of staff to get the grants necessary for this project and they should be recognized for their work on something that is really important.
+
+Director Deadwyler noted that several years ago there were funds in the budget for this project.  She wonders why staff kept putting this project off and what happened to the funds that were originally allocated for the project.  Dave Genova said this project has been on the Strategic Budget Plan (SBP) list for a number of years.  He explained that this project was originally funded through RTD budget money but a grant became available that staff is in the process of reprogramming.  Dave Genova said this grant was originally to be used to put in a CNG detection system; however, this project has been put on hold because at this time it is not needed since RTD is not purchasing any CNG buses.  Dave Genova stated that the money originally budgeted for the HRU project is being held in the SBP should the need for the CNG project arise.
+
+Director Menten noted some of the funds are coming from federal grant CO-04-0043.  She asked what program the grant falls under.  General Manager Washington said this is part of the American Recovery and Reinvestment Act (ARRA).  Terry Howerter noted that the funding expires September 30, 2014.
+
+Director Daly asked if staff had determined the cause of the structural issues at the Platte garage.  He also wondered if the buses had been moved back in.  Richard Rost, Manager of Facilities Engineering, explained that the structure is designed to move through expansion and contraction.  He said currently it is performing like it should but there are some tolerances that are getting close so it needs to be addressed.  Richard Rost noted that buses are being moved as work needs to be done.  Dave Genova said that his department was working with Bus Operations to minimize the impact but keeping safety at the forefront.
+
+Director Deadwyler wondered if the grant funding being used for the HRU project might be better spent repairing the Platte facility.  She also asked how much the repairs would cost.  Dave Genova stated that staff has identified funding within the facilities engineering budget so staff is confident moving forward with the HRU project.  He said that a final cost will not be known until all the duct work has been moved out of the way but staff is estimating $300-400K for the repairs.
+
+Director Solano asked the following questions:
+
+1)      What the useful life of the units?  Richard Rost stated 25 years.
+
+2)      What the efficiency of the units?  He noted that in houses you can buy systems with 80 or 90% efficiency.  Richard Rost said that the HRUs are an efficiency based unit but he will have to check on the percentage.
+
+3)      Are the HRUs covered by building insurance?  Richard Rost explained that they were not covered for replacement; these are the original units from 1989.
+
+4)      Were the units damaged?  Richard Rost said they were not damaged but are old.  He noted that it is also very difficult to get repair/replacement parts.
+
+Committee Chair Lubow declared the motion PASSED.
+
+#### 2. Transfer of Funds from Light Rail Capital to Light Rail Expense
+
+It is recommended by the Operations and Customer Service Committee that the RTD Board of Directors authorize the General Manager or his designee to approve the transfer of $703,000 in approved 2014 capital to an expense line to facilitate the development of revised Light Rail Vehicle specifications.
+
+Motion:              Director Tobiassen made the motion to move this item to the full Board at the February 18, 2014 Board meeting.
+
+Director Rivera-Malpiede seconded the motion.
+
+Discussion:              Austin Jenkins, Assistant General Manager of Rail Operations, explained that this action is a housekeeping item to move approved funds from the light rail capital budget to expense budget so RTD can develop and update our specifications for our next purchase of light rail vehicles.  He said that we will need more light rail vehicles as I-225 opens and demand increases.  This is part of the process of cleaning up our specifications.
+
+Director Lasater asked if we would end up with different vehicles or if the goal is to keep everything the same.  He expressed concern over having different parts, needing additional mechanic training, etc.  Austin Jenkins noted that while all our vehicles look alike there are actually 7 versions.  He said that the intent is to continue to purchase Siemens vehicles.  The vast majority of parts and equipment are compatible between versions and that will continue with this version.  Austin Jenkins explained that there have been a lot of modifications made to our light rail cars that we want to incorporate into our specifications going forward.
+
+Director Lasater believes that $700K seems steep just to tweak specifications.  Austin Jenkins commented that $700K was the not-to-exceed number but staff did not think it would go that high.  He explained that it does involve more than just tweaking and he would work with Director Lasater offline to review the entire process.
+
+Director Hoy asked if these would be replacement vehicles for our current fleet or to support new rail lines.  Austin Jenkins stated that these would be needed for service on I-225 and future extensions.
+
+Director Tobiassen shared that he just heard from a constituent that travels with little people.  The constituent expressed that the straps for people standing were too high for them to use.  He asked if that could be looked at as part of this process.  Austin Jenkins said that staff had also received an email regarding this and would be discussing it further.
+
+Director Solano wondered if the mechanics would need to be retrained since the vehicles were not identical.  Austin Jenkins said that there will be some training needed but the vehicles will be very close to our current vehicles.
+
+Director Deadwyler wondered if any housekeeping would be done on the old vehicles to incorporate any improvements that are done as part of this process.  Austin Jenkins said that staff is always looking at how to improve vehicles.  He noted that his team is engaged in an overhaul project of the oldest fleet right now.  General Manager Washington stated yes.  He explained that within the limits of the existing budget staff will work to bring the older fleet up to the specification of the newer fleet.
+
+Director Menten asked what the acronyms LTK and FRSC in the Board Report stand for.  Austin Jenkins explained that LTK stands for Louis T. Klauder which is the parent company of FRSC which stands for Front Range Systems Consulting.
+
+Director Folska agreed with Director Tobiassen that the consideration of the strap placement in the vehicles would be good to consider so people can have a safe ride.
+
+Director Bagley noted that RTD has had some of these light rail vehicles for close to 20 years.  He believes this is part of the natural progression once RTD moves into maintenance and operations.  RTD is not an agency that only does capital projects so the change in thinking has to be to maintenance for the long run.  He said that in 10 years RTD will not be a capital system but a maintenance system and that is something the Board needs to start thinking about.  Director Bagley stated that specifications of any vehicle are absolutely critical when looking at maintenance so he is very supportive of this action.
+
+Director Solano asked what the lifecycle is for a vehicle.  He wondered if vehicles could be retrofitted to go beyond their useful life.  Austin Jenkins said that the useful life of a vehicle was 30 years.  He stated that staff is engaged in an overhaul project right now; the goal is to make our vehicles work for us as long as they can.
+
+General Manager Washington reiterated Director Bagley’s comments about capital programs versus maintenance and operations.  He said this is something staff thinks about every day which is why the State of Good Repair (SOG) division is so important.  He highlighted the Platte facility as an excellent example of SOG.  General Manager Washington noted that the reason New York neglected their SOG for a number of years and are now trying to catch up.
+
+Committee Chair Lubow declared the motion PASSED.
+
+#### 3. Access-a-Ride Budget Transfer
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize a budget transfer in the amount of $5,271,915 to re-allocate previously approved Access-a-Ride 2014 funding from budget accounts associated with the expired Access-a-Ride service provider contracts to budget accounts associated with the new Access-a-Ride service provider contracts.
+
+Motion:              Chair Sisk made the motion to move this item to the full Board at the February 18, 2014 Board meeting.
+
+Director Folska seconded the motion.
+
+Discussion:              Bruce Abel, Assistant General Manager of Bus Operations, explained that during the preparation of the 2014 Budget, RTD’s service provider model still contracted with four companies for the Access-a-Ride service.  He said that the procurement process that was occurring at the same time resulted in RTD selecting three service providers instead of four.  This action is a housekeeping item to reprogram the monies approved at part of the 2014 Budget from four cost codes to three.
+
+Director Folska wondered if there were any plans to support or encourage other businesses to take up the fourth space in the future.  She also wondered why Freedom Cab was not one of the taxi companies that we contracted with.  Bruce Abel stated that the agency and staff are always open and amendable to working with anyone who wants to work with us.  He said in the case of this Request for Proposal (RFP) there were 12 different proposers.  He explained that the evaluation was structured so that the panel could select what was most cost effective for RTD.  In the case of this review, that resulted in three rather than four service providers.  Larry Buter explained that during the roll-out of Access-a-Cab, Freedom Cab was a provider but asked to be excused from the program a few years later.
+
+Director Folska asked if staff thought the same level of service could be provided with three rather than four providers.  Bruce Abel stated that the level of service would be identical.  He noted that the service will also be supplemented with dedicated cabs as well.
+
+Director Bagley asked if it was correct to assume that the funds originally allocated to the fourth provider were now just being reallocated to the other three.  Bruce Abel stated that was correct; the total expenditure does not change.
+
+Director Deadwyler expressed that her biggest concern is service.  She wonders if three service providers will be able to provide service in all areas.  She thinks that Access-a-Ride is underperforming for the amount of money RTD spends.  She is concerned that if the demand for service cannot be handled now then three firms will not be able to manage going forward, especially with the high employee turnover rate.  Director Deadwyler wonders if the information the Board is receiving is accurate as to how Access-a-Ride is performing.  She believes there are a lot of issues that no one is paying attention to.  Bruce Abel stated that staff did their due diligence as part of the RFP process when the decision was approved to select three providers.  He noted that this was also discussed with the Board at that time.  General Manager Washington said that staff will continue to update the Board on a quarterly basis and will be sure to address Director Deadwyler’s concerns.
+
+Director Tobiassen shared that in his experience, the quality of the Access-a-Ride program has improved greatly.  He said he gets very few complaints and when he does, staff moves on them very quickly to resolve the issue with the constituents.  He thanked staff for their efforts.  Director Tobiassen commented that he will be very interested in monitoring the quality as we switch to non-dedicated vehicles since that is a new service.  He hopes that it will provide a better level of service.  Bruce Abel stated that staff shares his interest.
+
+Director Folska asked if the Telephone Information Center (TIC) now has an appropriate coding mechanism for taking Access-a-Ride complaints.  Larry Buter shared that he has been working with the TIC staff to appropriately enter the complaints; this will allow his team to better monitor service and respond to the customers.
+
+Director Folska wonders how staff thinks route match is working.  She has had many constituents tell her that route match takes them very far out of their way during trips.  She expressed concern that this program might not be as efficient as possible.  Bruce Abel said that the program seems to be working; however, if routing issues are brought to staff’s attention they will be thoroughly investigated.
+
+Director Deadwyler shared that she has noticed the route match issues as well.  She said that several times coming from her house to RTD the drivers will take her out of the way.  She indicated that even if she suggests a route, the drivers refuse to take it.  Director Deadwyler stated that often this adds an additional 15 to 20 minutes to her trip.  She had heard similar comments from her constituents.
+
+Committee Chair Lubow declared the motion PASSED.
+
+#### 4. Access-a-Cab Program
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorizes the General Manager, or his designee, to execute all documents necessary to extend Agreements with Metro Taxi, Yellow Cab, and Union Taxi Inc., to provide Access-a-Cab services. In addition, as long as the program remains successful and beneficial to RTD, the General Manager, or his designee, is hereby authorized to negotiate and enter into agreements with each participating cab company in subsequent years, hereafter.
+
+Primary
+
+Motion:              Director Bagley made the motion to move this item to the full Board at the February 18, 2014 Board meeting.
+
+Director Tobiassen seconded the motion.
+
+Discussion:              Bruce Abel noted that RTD has been engaged in Access-a-Cab service with various cab companies since the late 1990s, entering into contracts on an annual basis.  He stated that this action is to secure the Board’s approval to have these agreements in place for as long as it is beneficial to RTD.  He said staff would continue to keep the Board appraised through the annual budget process.
+
+Director Folska stated that she loves Access-a-Cab.  She thinks this is a great model and really helps RTD and the constituents.  She believes it is even more efficient than Access-a-Ride; however, Director Folska shared that she is not comfortable with the language in this action.  She noted that it is inconsistent with the procedures the agency uses when entering into contracts.  She said she has never heard of an action that allows for continuous renewals without the Board’s approval.  Bruce Abel pointed out that this is not a contract to provide service.  This contract allows RTD to pay the cab companies a user side subsidy.
+
+Director Hoy asked if these companies all receive the same subsidy.  He wonders why RTD does not ask the cab companies to bid on the service.  Bruce Abel stated that all companies are paid the same subsidy.  He explained that there are many factors that go into determining the subsidy that RTD pays.  Bruce Abel said that the reason this does not go out to a competitive bid has to do with dedicated versus non-dedicated service.  In the Access-a-Cab program there is not a pool of operators dedicated to the service.  He noted that a dedicated cab component was added as part of the Access-a-Ride component which will cost RTD $39 per trip versus the $12 subsidy for Access-a-Cab.  Bruce Abel said regulatory requirements of contracts for service versus paying a subsidy changes the cost.
+
+Committee Chair Folska asked why staff was recommending that this action’s renewal terms be different than our standard contracts.  Bruce Abel said that staff could continue to do this on a year-by-year basis.  He explained that staff was attempting to streamline the process because for this service RTD does not go out to bid.  RTD determines the subsidy and any company that would like to participate can.  He stated that this is just a formal documentation process so RTD can legally pay the participating companies.   General Manager Washington said that staff was trying to be efficient and innovative but if the Board wishes they can continue to come for approval every year.
+
+Director Deadwyler shared that she has reservations about Access-a-Cab.  She noted that cab drivers work as independent contractors who while the company says they want to work with RTD, the drivers decide if they want to pick-up the passenger.  She said that there is a history of a two hour wait to pic-up a passenger.  Director Deadwyler stated that while this might work for someone wanting to go shopping, it does not work for someone who needs to be somewhere based on a schedule.  Director Deadwyler said that the program needs to work properly before she can support this action.
+
+Motion to
+
+Amend:               Director Folska made the motion to amend the recommended action to include RTD’s standard renewal provisions.
+
+Director Solano seconded the motion.
+
+Discussion:              Director Folska stated that this action affects the most vulnerable people in our population.  She thinks it is something that is worthy of the Board’s attention.
+
+Vote on
+
+Motion to
+
+Amend:              Committee Chair Lubow declared the motion to amend PASSED.
+
+Vote on
+
+Motion as
+
+Amended:              Director Lubow declared the motion as amended PASSED.
+
+Director Bagley requested that a red-lined copy of the changes be included with the final version of the recommended action.
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorizes the General Manager, or his designee, to execute all documents necessary to extend Agreements with Metro Taxi, Yellow Cab, and Union Taxi Inc., to provide Access-a-Cab services. In addition, as long as the program remains successful and beneficial to RTD, the General Manager, or his designee, is hereby authorized to negotiate and enter into agreements with each participating cab company in subsequent years, hereafter.
+
+#### 5. May 2014 Service Changes
+
+It is recommended by the Operations and Customer Services Committee that the Board of Directors approve the May 2014 Service Change package as revised and summarized in Attachment A resulting in an annualized cost increase of approximately $1,440,000 and, further, to authorize the General Manager or his designee to execute contract amendments as necessary for private operators whose service is impacted by these changes.
+
+Motion:              Director James made the motion to move this item to the full Board at the February 18, 2014 Board meeting.
+
+Director Rivera-Malpiede seconded the motion.
+
+Discussion:              Bruce Abel reminded the Board that the primary focus of this action is to implement the changes necessary to move routes from Market Street Station to Denver Union Station (DUS) and focus resources on improving on-time performance.
+
+Jessie Carter shared that staff received a good amount of input during the public hearing process.  He noted that a number of changes have been made to the initial plan.  The key changes are as follows:
+
+- New alignment for Route 8 to allow for an ADA accessible stop
+
+- Route 16 extension has been canceled as further analysis proved is was not practical
+
+- Due to a request from TSA employees, the early morning Route AB trips were adjusted
+
+- At the request of a large employer in Aurora, one Route 130 trip will be converted to Route 130H
+
+Jessie Carter highlighted the changes to Route 15L and 20.  He explained that staff had heard from the residents of the Wynkoop and Icehouse Lofts asking RTD to try to reduce the number of trips by their homes.  He shared that staff did this and through a new plan was able to balance out the trips in the area better.  Jessie Carter said that staff met with the community and had received positive feedback on the changes.
+
+Bruce Abel reminded the Board that the plan originally included changes to the light rail schedules to increase the maintenance-of-way windows.  He said that staff is still conducting some technical analysis so they are holding off on the original recommendation.
+
+Director Bagley noted that the anticipated cost for the Free MetroRide is $826K and for the MallRide it is $148K.  He said that these two changes make up the greatest percentage of the cost increase.  He wonders if this funding is coming from the FasTracks or Base Systems budget.  Jessie Carter stated that the MetroRide will come from FasTracks and the MallRide from Base Systems.
+
+Director Menten asked for further information about why the Route 16 extension was cancelled.  Jessie Carter explained that the cancellation has to do with the proposed alignment.  There was a turn that looked doable on the map but when the route was tested with an actual bus, it just was not feasible.
+
+Director Menten asked what was meant by the public comment related to Route 86X with regards to very confusing waiting lines.   Jessie Carter believes this has to do with consistency in payment for express routes.  The constituent wants to make sure that everyone pays as they leave the bus versus sometimes paying as you board.
+
+Director Menten wondered about the specifics of the W-Line changes.  Jessie Carter explained that three peak round-trips between Federal Center Station and Unions station to add to round-trips after 9 p.m. between Jefferson County Government Center-Golden Station and Union Station.
+
+Director Daly commented that there were not any changes to the MetroRide Route.  Jessie Carter shared that there was a request from the Art District to extend the route.  Staff will be looking at this for a long term service change.
+
+Director Tobiassen thanked staff for the changes to Route 15L.  He thinks this will open a lot of opportunities for people from the east to access Auraria campus as well as Federal and Colfax for transfers.  He believes this is a great change.
+
+Director Deadwyler asked for further information on Route 20.  She expressed concern that the changes might force people to transfer buses to get to the VA Hospital.  Jessie Carter explained that Route 20 will now end at Denver Union Station to compensate for the Route 15L changes.  He said that this will provide connection with routes from the north and west with the hospitals in the eastern portion of downtown.  Jessie Carter stated that this would have no impact on the riders coming from the east.    He also believes the added connectivity at DUS will really benefit riders.
+
+Chair Sisk recognized that the Route AB change helps the TSA and airport employees but he is concerned about the early morning travelers.  He asked staff to continue to look at the timing of this early morning trip.  Jessie Carter said his team will continue to evaluate this schedule.
+
+Committee Chair Lubow expressed her gratitude that staff was able to have such productive meetings with the Wynkoop and Icehouse Loft residents; however, she noted many of them were surprised that changes were happening that they were not aware of.  She believes it might be helpful to put responses to public input on the website so people understand what happens to their comments.  Jessie Carter noted that there is a service change brochure that includes this information.  He expressed that while we are able to make this information available, we cannot make people read it.
+
+Committee Chair Lubow declared the motion PASSED unanimously.
+
+##### a. May 2014 Service Change Attachment A
+
+##### b. Board Report May 2014 - Attachment B
+
+##### c. Map r15L Attachment C
+
+##### d. MetroRide Map_Vert Attachment D
+
+##### e. Union Station Map - Attachment E
+
+##### f. DUS 17th-18th bus volumes - Attachment F
+
+##### g. Map DUS Attachment G
+
+#### 1. Service Performance 2012
+Networked Family of Services
+
+No action required, for information only
+
+Jeff Becker, Senior Manager of Service Development, reviewed a Power Point presentation with the Board that is available in the February 11, 2014 Operations and Customer Service Committee Agenda Packet.
+
+Director Menten asked why there is such a difference in the subsidy per boarding for the BroncosRide versus the RockiesRide.  Bruce Abel stated that the BroncosRide carries more people per hour of service so it is more cost effective.
+
+Director Hoy believes there is some magic in meeting the minimum productivity for various frequencies.  He noted that if a bus runs every hour it may not meet the minimum productivity for half hour service; however, if service was changed to every half hour it might then meet the frequencies.  He asked how staff decides when to make those types of changes.  Jeff Becker said that with new routes staff ties to make the best estimate as to ridership and frequency of service.  He stated that usually ridership builds and service is added in response.  Jessie Carter explained that staff tries to look for grants to experiment with service.  He commented that in staff’s experience, hourly service often does not benefit from a change to every half hour.  Director Hoy asked to speak with staff further regarding specific route questions.
+
+Chair Sisk asked how fare revenue is calculated.  He wonders how Eco, College, Monthly, etc. passes factor in.  Bruce Abel explained that revenue figures are a combination of fare box revenue and revenue from passes that is distributed per ridership statistics.  He said if a passenger boards with some type of pass the driver pushes a button on the fare box for that pass.  The pass revenue is then distributed among the routes proportionate to the ridership.
+
+Director Tobiassen feels very fortunate that the 169L runs from Arapahoe and Parker to DIA at a local fare of $2.25.  He noted there is also a similar service in Brighton.  He expressed concern that everyone else is stuck with the SkyRide at over $9.00 per trip.  Director Tobiassen believes this makes taking public transportation difficult for people making only minimum wage working at DIA.  He wonders if there is some way to address the cost to workers versus travelers.  Bruce Abel said that this is an issue that will be looked at as part of the Fare Task Force.
+
+Director James asked if staff could comment on the responsiveness of ridership when headways get to the 10 to 15 minute level.  Jeff Becker stated that headway is king.  He said that when frequency gets to be at the 10 to 15 minute level people feel this is comparable to being able to get into their car at any time.  They no longer feel like they need to look at a schedule but can just go and wait for the next bus.
+
+Director Folska wonders if there is the opportunity to utilize technology to assist with demand management.  She wonders if there is an application that can tell riders where the bus is in real time.  She thinks this would really help engage our riders.  Bruce Abel stated that the technology is available and staff is looking at what is necessary to make this type of technology work with the new CAD/AVL system.
+
+##### a. Effectiveness-Productivity Chart - Attachment A
+
+##### b. Definitions and 2012 Service Standards - Attachment B
+
+##### c. Notes on Routes Outside Their Acceptable Performance Domain - Attachment C
+
+##### d. RTD Service Performance Charts - Attachment D
+
+##### e. RTD Service Standards Analysis - 2012 - Attachment E
+
+### D. Other Matters
+
+Director Folska said that she thought Director Bagley had an outstanding idea with his request related to the Access-a-Cab Board Report.  She asked that this information be provided for every Board Report.
+
+Director Walker noted that Director Bagley’s request was to see a redline copy of the Board Report outlining Director Folska’s amendment.  He stated that if there are no changes to a recommendation there would not be anything for staff to show.
+
+Director Folska stated that she believes that should be done as a standard, consistent policy for every action item that comes to the Board.  Marla Lien explained that Director Bagley’s request was because there was a change to the original recommendation.  This could not be done for every Board Report because often they are not changed.
+
+Director Bagley believes that any decision that affects policy should come through the Executive Committee.  It is the Executive Committee’s prerogative to make policy changes, not one Director that makes the recommendation.  He noted that his request was not related to policy but one specific item.
+
+Chair Sisk agrees that staff should not be doing additional work.  He said it was his understanding that Director Bagley’s request was simply a redline copy of the recommendation so the Board could compare.
+
+Director Menten stated that she did not see anything wrong with Director Folska’s recommendation for an amendment but she also appreciates Director Bagley asking for the changes to be outlined clearly in a redline copy.
+
+Director Solano believes Director Folska’s request for an amendment and subsequent motion was relevant.  He does not see how this relates to the Executive Committee.
+
+Director Bagley agreed that the amendment was not related to the Executive Committee.  He stated that his comment was simply that policy changes needed to come through the Executive Committee.
+
+Director Deadwyler commented that in the past she has asked for more information when a recommendation comes to the Board.  She would like to see the pitfalls, risks, etc. better outlined.  Director Deadwyler thinks the Board needs to understand this before voting on an item.  She feels that the Board only hears the positives of a recommendation.
+
+Director Walker noted that staff does provide alternatives in the Board Reports.
+
+General Manager Washington believes that two issues are being confused.  He said that when staff recommends something to the Board it is very rarely changed.  Today, the Board did change the language of the recommendations.  He said that is the issue at hand.  He stated that since the recommendation was changed, Director Bagley requested a redline copy to show the change, which staff will provide.
+
+Committee Chair Lubow said that she believes discussions about information contained in the Board Reports can occur at the Board/Staff Advance.  She does not believe that is a discussion for the Committee meeting.
+
+Director Deadwyler stated that she did not like the tone of the conversation related to Board policy.
+
+Director Daly congratulated Committee Chair Lubow for a great first meeting.
+
+### F. Adjourn
+
+Committee Chair Lubow adjourned the meeting at 7:49 p.m.

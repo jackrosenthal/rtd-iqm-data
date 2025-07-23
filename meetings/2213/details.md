@@ -1,0 +1,195 @@
+## I. FasTracks Monitoring Committee
+
+Chaired by Gary Lasater
+
+### A. Call to Order
+
+Committee Chair Lasater called the meeting to order at 5:30 p.m.
+
+Directors Deadwyler, Hoy and Tobiassen were absent.
+
+Staff Present:              Bruce Abel, Rick Clarke, Susan Cohen, Ignacio Correa-Ortiz, Chuck Culig, John Elias, Sherry Ellebracht, Cory Granrud, Terry Howerter, Tina Jaquez, Austin Jenkins, Erin Klaas, Barbara McManus, Doug MacLeod, Vivian Morales, Paula Perdue, Scott Reed, Janette Scarpino, Cheryl Sclafani, Steve Sholtz, Bill Sirois, Cherie Sprague, Henry Stopplecamp, Kirk Strand, Walt Stringer, Stan Szabelak, John Tarbert, Pauletta Tonilas, Lisa Trujillo, Bill Van Meter, Phil Washington, Brian Welch, Susan Wood, Nikita Zanichkowsky
+
+Others Present:              Nic Dial, Joni Goheen, Sherman Hamilton, Matthew Helfant, Nate Herman, Eugene Howard, Mike Peek, Jeanne Shreve, Joe Triplett, Gary van Dorn, Hugh Wilson
+
+### B. Citizens Advisory Committee
+
+Hugh Wilson, Citizens Advisory Committee (CAC) Co-Chair, thanked the Board for the opportunity to report on the CAC’s activities.  He shared that in May the CAC did not meet as a committee after all the festivities for the Denver Union Station Grand Opening but they did have a tour of the East Line at the end of the month.  He said the committee was very impressed by the degree of progress along the Line.
+
+Hugh Wilson stated that the CAC had their quarterly meeting in Boulder on June 18th to solicit citizen input and feedback.  He said that unfortunately there was no public in attendance for this particular meeting.  Hugh Wilson noted that there was a pretty torrential downpour that evening which would have deterred attendees.  He pointed out that additionally, there has been a lot of activity in this area already through the Northwest Area Mobility Study (NAMS) so the public may feel like they have been adequately heard.  Hugh Wilson shared that the CAC did have a great opportunity to speak with Chair Sisk that evening; the CAC also received a great update on the final NAMS outcome and the RTD TIGER grant application for Bus Rapid Transit.
+
+Chair Sisk thanked the CAC for coming to Boulder.  He really appreciates the commitment of the members.  Chair Sisk thought it was great to be able to partake in a discussion with them.  He said that he hopes the CAC is not discouraged by the lack of public turnout in Boulder.  Hugh Wilson said that the CAC members are very committed and plan to continue to outreach throughout the District.
+
+Director Lasater asked where the next few quarterly meetings might be held.  Pauletta Tonilas, Senior Manager of Public Information and Public Relations, said they would be held in Aurora and Five Points.
+
+#### 1. Citizens Advisory Committee Update
+
+#### 1. 2014 - 008 : Approval to submit the RTD FasTracks Projects for the DRCOG 2040 Regional Transportation Plan (Baseline Report)
+
+It is recommended by the FasTracks Monitoring Committee that the RTD Board of Directors approve the attached Resolution, which will permit staff to submit to DRCOG, by August 1, 2014, a Baseline Report on FasTracks in conformance with DRCOG’s request for ongoing review of the FasTracks Plan pursuant to C.R.S. 32-9-107.7 as outlined by DRCOG Resolution passed September 18, 2013. FasTracks projects and project elements that will be completed by 2040, as described in this report, will be included in the 2040 Regional Transportation Plan (RTP) currently being prepared by DRCOG.
+
+Motion:              Director Anderson made the motion to move this item to the full Board at the July 15, 2014 Board meeting.
+
+Director Rivera-Malpiede seconded the motion.
+
+Discussion:              Bill Van Meter, Assistant General Manager of Planning, and General Manager Washington reviewed a Power Point with the Board that is available in the July 8, 2014 FasTracks Monitoring Committee Agenda Packet.
+
+Bill Van Meter noted that the goals of the presentation are to provide the Board with 1) more background on the DRCOG authority for approving fixed guideways under SB 208, 2) an update of FasTracks projects staff is planning to submit for the DRCOG 2040 Regional Transportation Plan (RTP), 3) a schedule for the Southeast Rail Extension, and 4) a summary of the next steps.
+
+Bill Van Meter explained that SB90-208 (referred to as SB 208), enacted in 1990, grants DRCOG the authority to approve a fixed guideway transit system, specifically in the method of financing and technology selected.  He noted that all RTD FasTracks projects need to be identified not only in SB 208 but also in DRCOG’s 2040 Regional Transportation Plan (RTP), which DRCOG is in the process of developing.  Bill Van Meter stated that FasTracks projects must be included in the RTP for National Environmental Policy Act (NEPA) approval and to be eligible for federal funding.
+
+Bill Van Meter informed the Board that DRCOG asked for RTD’s Baseline Report for our FasTracks Projects by August 1, 2014.  He said that everything staff intends to submit to DRCOG is in conformance with the Annual Program Evaluation (APE) that was approved by the Board in May 2014, with the exception of the noteworthy revision to the Southeast Rail Extension Project.
+
+Bill Van Meter reminded the Board that this action is simply to get all the FasTracks projects articulated and identified in the RTP.  He reiterated that by including the Southeast Rail Extension in the RTP, keeping it in the New Starts pipeline, could result in a Full Funding Grant Agreement (FFGA) of $92 million in 2016.  He noted that RTD has a good relationship with the FTA for delivering projects as promised; moving forward with the Southeast Rail Extension is important in maintaining this relationship and building on RTD’s history of success in receiving federal funds.
+
+Bill Van Meter outlined the Southeast Rail Extension funding commitments as follows:
+
+- Federal contribution (FFGA) – $92 million or 44.3%
+
+- DRCOG 1st commitment in principle (CMAQ) – $7.5 million or 3.6%
+
+- Local Stakeholder cash commitment – $25 million or 12.1%
+
+- Local Stakeholder right-of-way – $9.2 million or 4.4%
+
+- RTD-previously-committed funding (2014 APE) – $8.1 million or 3.9%
+
+- RTD required additional match – $65.6 million or 31.6%
+
+Bill Van Meter noted that on a project with a projected total cost of $207.4 million, RTD’s contribution would only be $73.7 million or 35.5%.
+
+General Manager Washington said that as staff had discussed with the Board previously, the FasTracks Baseline Report for inclusion in the DRCOG RTP is a requirement for all FasTracks Projects, not just the Southeast Extension.  He stressed that not including projects in the RTP would preclude these projects from moving forward; RTD cannot accept any federal dollars unless the projects are included in the DRCOG RTP or through an amendment.
+
+General Manager Washington noted that there had been several questions asked that he wanted to answer.
+
+1)      Why the Southeast Extension: it is a good candidate for federal funding in terms of the cost effective index, ridership, etc.  He said that in evaluating the remaining projects this is the best candidate for federal funding.
+
+2)      Is the stakeholder contribution enough: this contribution is the largest RTD has ever received from the local area stakeholders on a FasTracks corridor since we began.
+
+3)      How much is the developer providing for the local stakeholder cash contribution: staff will not know the breakdown until the terms of the Intergovernmental Agreement (IGA) are negotiated.
+
+4)      What happens if the Board does not approve this item: staff is concerned that RTD will lose credibility at the federal level for future requests.
+
+5)      Can these funds be used for other projects: FFGA funds are requested for specific projects and therefore cannot be used for anything else.
+
+6)      How will RTD’s contribution be funded: RTD would issue sales tax revenue bonds.
+
+7)      Why have the ridership projections changed: DRCOG is always updating their land use models which can in turn impact our ridership projections.  The Southeast ridership projections changed along with all the other corridors.
+
+General Manager Washington pointed out that the local contribution leaves just 35.5% of the total project cost to be contributed by RTD; there is no other FasTracks project where RTD can contributed 35.5% and get a complete project done.  He said that the name of the game is who leverages best to get projects done and he believes this is a very good leverage of RTD dollars.
+
+General Manager Washington reiterated that in regards to a ‘no’ vote or tepid approval by the Board, he believes that sends a negative message to our federal partners that RTD is not totally committed; walking away from a FFGA of $92 million and a local commitment of $30-$40 million is not good public policy.  General Manager Washington is concerned that a ‘no’ vote on this action will prevent RTD from pursuing federal funds for any other corridors; a ‘no’ vote will ruin RTD’s credibility.
+
+Director Daly wondered what the new ridership numbers for the Southeast are.  He also asked how it might impact RTD’s FFGA request.  Bill Van Meter said that they are down slightly due to changes in employment and demographic projections.  This leads to ridership dropping from about 9,200 per day to 7,100 per day.  Bill Van Meter noted that at one time this would have been pretty serious; however, with recent changes from MAP-21 staff feels confident that this is a good project in all the categories evaluated.
+
+General Manager Washington commented that this is really just a snapshot in time.  He said that RTD will not know if these projections have an impact unless we move into the next stage.
+
+Director Lubow stated that she would be voting against this proposal.  She said that it is not because she thinks it is a bad proposal but she is concerned for what it will do to the projects that are left behind, which are in her area.  Director Lubow noted that if one corridor goes forward, that means it pushes back the time that the other corridors have to wait to access FasTracks funding.  She commented that while the results of the NAMS did say that the community wanted BRT, that is only for the short term; it is only because her community is not getting rail in the immediate future.  Director Lubow shared that she truly believes that government has a responsibility to fulfill its contracts with the people, which is not happening in her community.  She expressed that as a matter of principle she has to vote against this recommendation.  General Manager Washington said that it is staff’s opinion that a ‘no’ vote by the Board actually negatively affects the other corridors because of its impact on RTD’s ability to get future federal dollars.  He stated that foregoing $92 million on a project sends a very bad message when we go try to ask for more.
+
+Director Folska thanked staff for a very thorough, detailed, and in-depth overview.  She noted that Bill Van Meter said that DRCOG is providing 3.6% or $7.5 million for the Southeast Extension, as they have done on all our FasTracks projects.  She wonders if that means they have provided 3.6% of the total project cost or a flat amount of $7.5 million for each project.  Bill Van Meter stated that DRCOG provides $7.5 million for each project.
+
+Director Folska stated that she believes RTD’s contribution for the Southeast Extension is significantly small compared to what we have paid for other projects.  She thinks it is great that the people of the community were willing to commit 16.5% of the project cost versus just the required 2.5%. She wonders why RTD has not proposed working in partnership with Douglas County to leverage their right-of-way for Certificates of Participation (COPs) as Douglas County is only going to benefit when the property values go up.  Terry Howerter, Chief Financial Officer, stated that COPs require a clean collateral, so when there is a federal interest we cannot do COPs.  Director Solano asked for a clarification why COPs and federal monies could not be used for the same asset.  Marla Lien, General Counsel, stated that COPs could actually be used when there were federal funds as RTD has done with a number of assets[[1]](#_ftn1).   Terry Howerter stated that for this corridor to step-up and contributed 16.5% is huge compared to what RTD has received elsewhere.  He said that the proposed financing fits well within the model and the finance team is ready to move forward with Board approval.
+
+Director Anderson stated that in all the years she has worked within the community, even though each area wanted to be first to get FasTracks built, everyone still worked together for the whole region, not just their own benefit.  She said that recently a memo was brought to her attention from the year 2000 from the City of Arvada representative to the US36 MIS Policy Committee.  She read the memo aloud to demonstrate that the FasTracks process has always been one of compromise and support within the Denver region so the entire FasTracks system could be built out.  Director Folska called for a point of order and requested that Director Anderson present this document that she read and enter it into the record of this evening’s discussion.  Director Solano Seconded the request.  Director Anderson indicated she would not have a problem providing this to staff as this is a public document[[2]](#_ftn2).   The Board office has been unable to attain a direct copy of this memo.
+
+Director Solano stated that at this time he was a borderline ‘no’.  He thinks that everything is starting to go south again when we need to go north; the north has gotten the short end of the stick for a number of years.
+
+Chair Sisk thanked staff for an excellent presentation.  He noted the tremendous amount of work that has gone into this report.  Chair Sisk recognized that everyone is trying to do what is best for their respective districts, but the Board also needs to look at what is best for the entire District.  He shared that is why he has a different perspective than Directors Lubow and Solano; he feels this is something important for the Board to come together as a group and support.
+
+Chair Sisk noted that that a letter from the local stakeholders indicated a right-of-way contribution of $15 million but in the chart presented by staff it was actually only $9.2 million.  He asked for an explanation of the discrepancy.  He also requested a breakdown of how the $9.2 million was calculated.  Bill Van Meter stated that until the details of an IGA are worked out staff cannot put a final value on the contributions so they took a conservative value.  He also noted that the letter from stakeholders also referenced other in-kind contributions such as permit waivers that would be in addition to the $9.2 million in right-of-way determined by staff.
+
+Director Bagley reminded the Board that this action was initiated by the Board that sat at that time in August of 2012; however, it was under discussion previous to that action.  He stated that there has been a lot of work done on this project.  Director Bagley requested the updated ridership projections for all corridors, including those in operation, prior to the vote at the Board meeting.
+
+Director Bagley noted that the FasTracks program has been going on since 2004.  He stated that he fully and categorically supports moving this action forward.  He said that RTD has an exemplary history of obtaining federal money, going as far back as the Southwest corridor.  RTD has been a partner with the current Obama Administration in getting federal monies for the last 5.5 years.  He commented that this Administration has specifically said that one of their major and important focuses is infrastructure; what RTD is doing is exactly what the Administration wants to see done in order to accelerate this economy.  He expressed that he could not be more appreciative of Director Anderson’s comments.  He shared that the reason he wore his shirt was that it says RTD, not MTD or my transportation district; the Board is in this together.  He stated that the message the Board sends to RTD’s partners needs to be that we are all in this together to make sure FasTracks gets completed.  Director Bagley pointed out that even though this is not in his District he fully supports building the Southeast Rail Extension.
+
+Director Bagley stated that approving this recommendation also sends a message to the economic development community.  FasTracks is one of the major reasons that the Denver metro area has the economic development that exists today.  He noted that in many other places in the state that economic development does not exists.
+
+Director Bagley said that for all the reasons he mentioned the vote needs to be positive.
+
+Director Walker commented that the action before the Board gets the Southeast Extension to engineering where the project has to go someday anyway.  He said this also supports regional transportation, which is what he has been dreaming of since he moved to Denver.  Director Walker stated that the last thing RTD wants to do is have the feds look at us as if we do not have our act together.  He believes that as long as there is an opportunity to build in any corridor RTD should take advantage of that.
+
+Director James stated that he agrees with the Directors who have expressed the need to think regionally, not locally.  He shared that he may act a lot locally but when he comes to this table as a Board member he tries to think regionally as much as possible.  He expressed his belief is staff’s assertion that a ‘no’ vote on this recommendation will contaminate RTD’s relationship with our partners and will be a detriment to FasTracks projects not yet built.
+
+Director Rivera-Malpiede expressed her wholehearted support of this recommendation.  She noted that she was on the Board when the Southeast Extension was first voted on in 2012.  Director Rivera-Malpiede stated that she knew the entire FasTracks project would really put the Denver-Boulder area on the map as a viable city for transportation.  Director Rivera-Malpiede stated that RTD’s staff is outstanding.  She said she is asked at all the conferences she attends how RTD has such a great staff.  Director Rivera-Malpiede commented that she knows the people of her District would support this vote and she will as well.
+
+Director Menten pointed out that when she looks at the cost estimates she sees the cost of the Southeast Extension going up.  She asked what the original cost estimate was in 2004 when approved by the voters as she believes it has gone up since then.  General Manager Washington stated that when staff was referencing the cost decreasing that was in relation to the cost in the 2014 APE, not when it was originally approved.  He said that everything has gone up from the original plan.  Director Menten requested to see the original projection.
+
+Director Menten stated that she had never heard that a 2.5% local match was required by the FTA.  Bill Van Meter said that she was correct; the 2.5% match is an RTD requirement, as approved by the Board.  He noted that the FTA requirement is a minimum of 20% local dollars, including RTD funds; however, in practice it is really a 50% match.
+
+Director Menten asked if the application for the FFGA would include how DRCOG calculated the new ridership projection of 7,200.  Bill Van Meter said that an overview of what went into the projections could be included.
+
+Committee Chair Lasater noted that the cost being discussed this evening did not include some previous expenditures of around $40-50 million for the purchase of additional rail cars.  Rick Clarke, Assistant General Manager of Capital Programs, said that the figure was around $31.5 million.
+
+Committee Chair Lasater said that it was his understanding that because of the reduction of riders, RTD had also reduced the parking at the RidgeGate Park-n-Ride.  He asked if it was correct that now for opening day there will be 700 spots instead of the originally planned 2000 and by 2035 there will be 2100 down from 3600.  Bill Van Meter Stated that was correct.
+
+Committee Chair Lasater commented that the 16% local match really shows their commitment to the project; however, he is struggling with a personal moral conflict so he will be abstaining from the vote.  Director Menten asked if he could further explain his conflict.  Committee Chair Lasater shared that he campaigned on the message of last in, last served and he feels this goes against that; however, he recognizes the huge commitment from the stakeholders so that is why he is still conflicted.
+
+Director Bagley stated that the local cash share as defined is 12.1%.  He said that this is a big cash infusion.  Most of the other corridors’ 2.5% local match has been in right-of-way, permit fees, etc.  He reiterated how significant a local match of 12.1% in cash is.  He does not believe that any of the other corridors are prepared to come up with that kind of a cash contribution.
+
+Director Lubow expressed concern about the statement of other corridors not being willing to bring forth the same large cash contribution.  She believes that when the voters approved FasTracks, they did not do it with the understanding that the people without money do not get FasTracks.  Her opinions is that the Board has to be very careful in speaking like that.
+
+Chair Sisk asked how many Directors needed to vote ‘yes’ for this item to move to the Board meeting given the fact that someone would be abstaining.  Marla Lien, General Counsel, stated that there would still need to be a vote in favor of the majority of Directors present.
+
+Committee Chair Lasater declared the motion PASSED.
+
+Director Lubow indicated she had inadvertently voted wrong.  The vote has been corrected to reflect this change.
+
+[[1]](#_ftnref1) There was some confusion about the issue of COPs so further discussion was taken offline.
+
+[[2]](#_ftnref2) Director Anderson did provide excerpts from this memo, a copy of which can be found in the Board Meeting minutes file located in the Board office.
+
+##### a. July 8 DRCOG Baseline Report PowerPoint
+
+##### b. Stakeholder Commitment Letter
+
+#### 2. Approval of Construction Contract for the Central Park Station PnR & Bus Transfer Center
+
+It is recommend by the FasTracks Monitoring Committee that the Board of Directors authorize the General Manager, or designee, to execute all documents necessary to enter into a construction contract with M.A. Mortenson Company in the amount of $10,899,258.23 for the construction of the Central Park Station Park-n-Ride and Bus Transfer Center, which will serve the East Rail Line Central Park Station, regional and local buses and the local neighborhood.  Funding for this project is included in the 2014 Amended Budget for the Eagle Project and the non-FasTracks capital project for the Stapleton Park-n-Ride replacement.
+
+Motion:               Director Folska made the motion to move this item to the full Board at the July 15, 2014 Board meeting.
+
+Chair Sisk seconded the motion.
+
+Discussion:              Cory Granrud, Manager of Park-n-Ride Design, reviewed a Power Point presentation with the Board that is available in the July 8, 2014 FasTracks Monitoring Committee Agenda Packet.
+
+Director Folska thanked Cory Granrud for a great presentation.  She noted that he discussed having Access-a-Ride within the transit center.  She asked if anyone on staff had tried to get Access-a-Ride to pick them up from a station because it will not happen.  Director Folska stated that she does not believe that staff is having individuals with disabilities provide input into the facilities.  She finds this very concerning, noting that this was the case at Denver Union Station as well.
+
+Director Folska asked why staff was proposing a surface parking lot rather than a structure.  She also asked how many ADA spaces were planned.  Rick Clarke stated that the primary driving factor in selecting a surface lot was cost.  He noted that the lot is being designed so there is the possibility to build a structure at a later date.  Cory Granrud said that there will be 38 ADA spaces.  Director Folska asked if that was the minimum number required.  She feels that RTD should look at the minimum number as the floor, not the celling.  Cory Granrud said that 38 was the minimum number required.
+
+Director Folska pointed out how difficult it can be for a visually impaired rider to locate the right bus when there are a large number of bus gates.  She asked staff to look into providing better audible signage.  She also expressed concern that a visually impaired rider will not be able to locate an emergency telephone as the only indicator that one exists is a blue light.  She suggested that these phones have a pinging sound.
+
+Director Lubow said that she did not see any analysis on how the contractor was selected.  She wondered how staff made their decision.  Rick Clarke explained that this was a design, bid, build contract so in those instances staff selects the lowest qualified bidder.  He said that staff is recommending M.A. Mortenson Company, who was $1 million less than the other bidder.
+
+Director Lubow asked if staff has looked into any Transit Oriented Development (TOD) opportunities around the transit facility.  She hopes that staff is looking at this with all our stations.  Cory Granrud stated that staff has identified one location that is being targeted for TOD.
+
+Director Menten noted that the plans included charging stations for electric cars as well as solar panels.  She wonders if RTD plans to charge people for using the stations.  She also expressed concern that solar technology does not really pay for itself and can be very expensive.  Rick Clarke stated that for both of these items the infrastructure is just being put in so the option to use it is there in the future.  He said that staff is applying for grants for the charging stations.  Rick Clarke also said that in relation to solar technology, it can be expensive when retrofitting something but it is relatively inexpensive to build into the infrastructure from the beginning.
+
+Director Rivera-Malpiede expressed that she is very pleased with the DBE goal of 27%.  She shared that there is a TOD station area plan that has been created by the Stapleton community and unanimously approved by the Denver City Council in 2012.  She believes it will really be a catalyst for the Northeast quadrant.
+
+Director Solano pointed out that this area boarders his District.  He wonders if there might be some opportunities to work together with the North Metro Line and the TOD through bus service.
+
+Director Anderson complimented staff on the plan.  She feels it depicts a major transit hub.  She appreciates that the transit facility will include a drivers’ relief station as those are so important to have.  Director Anderson also thanked Director Rivera-Malpiede for all the work she has done on this project.  Rick Clarke said that Director Deadwyler was also very involved in the project.
+
+Committee Chair Lasater declared the motion PASSED unanimously.
+
+##### a. Central Park Station PnR
+
+#### 1. I-225 Rail Line Project Update
+
+Chuck Culig, I-225 Engineering Project Manager, reviewed a Power Point presentation with the Board that is available in the July 8, 2014 FasTracks Monitoring Committee Agenda Packet.  There were no questions from Directors.
+
+##### a. I-225 Update July 2014
+
+#### 2. FasTracks Public Information Update
+
+Scott Reed, Assistant General Manager of Communications, and Pauletta Tonilas, Senior Manager of Public Information and Public Relations, reviewed a Power Point presentation with the Board that is available in the July 8, 2014 FasTracks Monitoring Committee Agenda Packet.  There were no questions from Directors.
+
+##### a. PI Update to FT Monitoring Committee 7.8.14
+
+### E. Other Matters
+
+There were no other matters.
+
+### G. Adjourn
+
+Committee Chair Lasater adjourned the meeting at 7:59 p.m. to the Financial Administration and Audit Committee.

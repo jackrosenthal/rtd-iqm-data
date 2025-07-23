@@ -1,0 +1,933 @@
+2025-06-23
+Performance Committee
+MICHAEL GUZMAN: Good morning. The Monday, June 23 Performance Committee will now come to
+order. We are convened as of 8:30 AM. I would respectfully ask everyone attending this meeting to mute
+yourself unless you are recognized to speak.
+Please note that the committee meetings of the RTD Board of Directors will be held remotely via Zoom,
+and will be audio and video recorded. The meeting recordings, along with the unofficial minutes of the
+meetings, will be posted as soon as practicable on the Board's website. During today's meeting. We are
+providing Communication Access Real Time Translation, also known as CART.
+Anyone who would like to access this service should send an email to the RTD Board Office at
+rtd.boardoffice@rtd-denver.com. And a link will be provided. Additionally, the CART transcript can be
+automatically translated into Spanish for anyone who would like the transcript translated.
+A live stream of this meeting is also available via RTD's YouTube page. I would now like to call the role of
+committee members. Director Vince Buzek.
+VINCE BUZEK: Present.
+MICHAEL GUZMAN: Director Lynn Guissinger.
+LYNN GUISSINGER: Here.
+MICHAEL GUZMAN: Vice Chair Chris Gutschenritter.
+CHRIS GUTSCHENRITTER: Here.
+MICHAEL GUZMAN: Director Matt Larsen.
+MATT LARSEN: Here.
+MICHAEL GUZMAN: Director Chris Nicholson.
+CHRIS NICHOLSON: Present.
+MICHAEL GUZMAN: Director Peggy Catlin.
+PEGGY CATLIN: Here.
+
+MICHAEL GUZMAN: I am the Chair of this Committee, Michael Guzman. I am also present. For the
+record, I also see that we have been joined by Board Chair Julien Bouquet and Treasurer Karen Baker.
+Did I miss anybody? OK.
+I would like to open public comment to anyone who would be willing and would like to address the
+committee regarding any topic listed in the published meeting agenda for the current and immediately
+preceding month. If you wish to speak and have not already done so, please either raise your virtual hand
+or press star 9 on your phone.
+During this time, the Committee will not offer any direct comments or responses. However, if you would
+like to be contacted regarding your public comment, please email the RTD Board at rtd.directors@rtddenver.com. I do not see any hands raised, Mr. Kroll. Are there any hands raised in the queue?
+JACK KROLL: Yes, Director Guzman, this is Jack Kroll, Executive Manager of the Board Office. We have
+two hands raised at this time, the first of which is from Mr. Richard Bamber.
+MICHAEL GUZMAN: Mr. Bamber, you are recognized. Please go ahead. Don't forget to state your name
+for the record.
+RICHARD BAMBER: Yes, good morning. It's Richard Bamber, Greater Denver Transit. Chair Guzman,
+thank you for the opportunity to speak. So looking for the proposed goals. We're pleased to see that
+ridership, while it might be maybe unglamorous or simple, is still a hugely important metric of how the
+agency is doing, if not the most important.
+The ridership statistics leading us up to April are out published on the website. They're often not
+mentioned in agendas or highlighted, but are very, very simple check ins to where we are, reveals an
+interesting item. Up until April this year, RTD overall has carried 20.6 million people. Now, GDT sort of
+thought long and hard about do we weight this? People went well, maybe people ride more in summer,
+people ride more in fall. Overall, we didn't really find much.
+So a very simple, rudimentary calculation of just multiplying by 3 gives a projection of where we're going
+to be at the end of the year, and that multiplied by 3 is 61.8 million. Last year, I think we were 65. The
+GM/CEO currently has a target to increase that. It's around 3, I believe.
+But basically, the message at the moment, and we would like to say we are raising the first warning on
+this, is we're not on target. We're on target to be lower, shed riders at the moment. And the Board should
+absolutely start focusing on this.
+The second point is, if you look at the survey results, the Community Survey just in, only 24% of the
+respondents use RTD on any regular basis, like more than once a month. And so you're asking people,
+the majority, to comment on a system they have no regular first hand experience on. The agency also has
+data on on time performance, could also have data on things like cleanliness, conditions on board,
+conditions of vehicles, in the same way that our transit security and police are giving us metrics of how
+they're performing.
+So the point is construct the goals on the data that the agency has and not a survey where a large
+percentage of the people really don't really have an idea of what's actually happening. Thank you very
+much.
+
+MICHAEL GUZMAN: Thank you, Mr. Bamber. There was another person?
+JACK KROLL: Yes, Chair Guzman. Next, we have Joe Meyer.
+MICHAEL GUZMAN: Thank you. Mr. Joe Meyer, you are recognized. Please state your name for the
+record, and you may begin.
+JOE MEYER: Thank you. My name is Joe Meyer. Thank you, Chair Guzman and the Committee for the
+opportunity to speak. I would like to echo the comments about requesting that the short term goals be
+based on more readily available and official data from RTD, as opposed to survey responses.
+When we're talking about on time performance and service availability, that's something that's already
+collected by the agency. That is known. That is defensible numbers. There's no question on it like there
+would be with survey data. So I'd like to see the on time performance goal retooled to use actual
+measurements of vehicle on time performance, actual measurements of service availability, and not
+survey data.
+Similarly, for safety and security, we have real data on number of security calls, metrics like boardings for
+every security call. As Mr. Bamber mentioned, we can look at cleanliness. There's all sorts of different
+hard data that can be used to get the same results of the system, rather than asking a very small fraction
+of customers for their perception to base the GM/CEO's goals around.
+One example that stands out to me is that this survey was conducted in April of this year. And looking at
+the light rail ridership in particular during that month, there was a significantly lower number of riders than
+in the previous year. So any sort of customer intercepts were missing people that had stopped riding the
+system because they had had problems with either service availability, on time performance, or safety
+and security, and their responses may not have been captured.
+If we don't see boardings increase, which with where we are right now, we're seeing a year over year net
+decline in boardings, but we do see survey responses coming back very positive. That tells me that the
+people for whom the system is not working have stopped riding it, and we're not capturing that outcome in
+survey results, but we will capture that outcome in boardings. So I'm pleased to see that there is ridership
+goal, even though it does in some cases, it may feel like a cop out. It is a very real goal. That's are people
+buying your product?
+So if we have positive survey results but negative trends in ridership, I think that should absolutely be
+captured in the goals. And that should tell us something. It should tell us we're missing some sort of
+problem that's not being captured in the survey. And I encourage the Committee to dig into that. Thank
+you.
+MICHAEL GUZMAN: Thank you. Are there any more hands raised, Mr. Kroll?
+JACK KROLL: Chair Guzman, there are no further hands raised at this time.
+MICHAEL GUZMAN: Did we receive any emailed comments for today's meeting? I am only aware of one.
+
+JACK KROLL: Correct. The one I believe you are referencing is from Greater Denver Transit, and hit on
+many of the same topics you just heard from Mr. Meyer and Mr. Bamber on. Additionally, they did add a
+section in that letter related to some proposed comparative or peer agencies.
+MICHAEL GUZMAN: Thank you. All right. Seeing no other people in queue and having the information
+about submitted commentary, I will now close the public comment section.
+We are on to discussion items. There are two discussion items on today's agenda, and we will plan to
+spend around 45 minutes on each of the two discussions. The latter discussion around the 2025-2026
+GM/CEO short term goals is one of the most important items this Board will tackle with our General
+Manager CEO this year.
+As such, I am going to ask that we stick to a strict timeline for our first conversation today. That may mean
+we end up asking the Directors on this Committee and those attending to send follow up questions or
+comments to the Board Office to coalesce in partner with Mr. McKay, and to respond after our meeting
+today regarding the first conversation.
+Please bear with me. And I do know that we do have a Director that is on a tight timeline today. So just be
+aware of that and hold your questions until the end of the presentation, please. You can make note of
+either the Board packet page number or the slide number in reference to any questions, and we will try to
+get as many in as we can, but we do need to keep our time today. The General Manager/CEO also has a
+hard stop and we need to respect that there is other work going on and Directors need to move on with
+the day as well.
+With that, our first item is for the 2025 Customer and Community Survey results and analysis. I would
+invite John McKay, Chief of Staff, to present this item.
+JOHN MCKAY: Good morning, Mr. Chair. Thank you very much. As you noted, the timeline for this is very
+short. So we are going to get right into this and keep it to about 35 minutes. We've asked our consultant
+partners with ETC Institute to condense the slide deck down a little bit. So without further ado, I'll ask
+Aaron Hekele and Henry Danneberg to bring up the presentation and to go ahead and present.
+AARON HEKELE: Sure, thanks, John. Chair, members of the Committee, and RTD leadership, good
+morning. My name is Aaron Hekele. I'm Vice Present of Field Research here ETC Institute. And I'll be
+presenting the results of the 2025 Community and Customer Survey.
+So we've structured today's presentation to highlight the most meaningful insights. So I'll begin with the
+community value survey where we'll take a look at public awareness and perceptions of RTD. From there,
+I'll transition into the customer excellence surveys, which cover bus, rail, and paratransit services. So
+along the way, we'll take a look at satisfaction trends, net promoter scores, benchmarks, and any key
+drivers for improvement.
+So all four surveys were conducted in the spring of 2025, with data collection taking place in April. We
+use the same proven methodology as years pass to ensure consistency and comparability. The
+community survey was mailed to a random sample of households across the Denver metro area, while
+the customer surveys covering bus, rail, and paratransit were conducted through on board intercepts and
+targeted outreach to active users. This consistent, structured approach gives us a reliable apples to
+apples view of trends and a strong foundation for the insights that we'll present to you today.
+
+So the community value survey was an important opportunity to hear from your general public, not just
+your transit riders. We wanted to better understand how RTD is viewed in terms of value, awareness, and
+support. This gives us a broader lens in an important context for how RTD is performing in the eyes of the
+region as a whole.
+The community survey was mailed to a random sample of households across the region. We aimed for
+400 completions and received just over 700 or around 770, which is a great response rate. Gives us a
+margin of error plus or minus 3.8%. And surveys were monitored to ensure balanced demographic
+representation.
+OK, so let's start with one of the most impressive metrics, quite honestly, is awareness. 99.5% of
+respondents are aware of RTD. That's nearly universal name recognition. So RTD is clearly well known
+and widely recognized throughout the region. While usage varies, this level of awareness really gives
+RTD a strong platform to build future engagement.
+So when we asked riders about their primary reason for using public transportation, the most common
+response was, not surprisingly, commuting to and from work. That was followed by social and recreational
+trips, then by errands, travel for school, and medical appointments. This breakdown that you're seeing
+here really shows that RTD provides a vital service that supports people's daily routines, economic
+opportunities, and access to essential destinations. And RTD is clearly meeting real, everyday needs
+across the region.
+We asked respondents what features would make them more likely to use RTD. The top response by a
+wide margin was more frequent service selected by roughly 55% of survey participants. That was
+followed by a desire for better on time performance and more reliable trips, and then by requests for more
+routes that serve the places they need to go.
+So, as we just discussed, respondents had clear ideas about what make RTD more appealing. More
+frequent service, improved reliability, and expanded route coverage. These factors just don't affect
+ridership. They also influence how people talk about RTD and whether they'd recommend it to others,
+which brings us to what we call the net promoter score, a widely used measure of customer loyalty and
+overall sentiment. It's based on a simple question. How likely are you to recommend RTD to a friend or
+neighbor?
+So responses really fall into three categories. You've got your promoters, those that rate a 9 or 10 on a 10
+point scale, passives rate it as 7 or 8, and detractors 0 to 6. And the NPS is then calculated by subtracting
+the percentage of detractors from the percentage of promoters. Scores can range from anywhere from a
+negative 100 to plus 100, with anything above 0 being considered positive. And the higher the score is
+reflecting stronger loyalty and public confidence.
+So RTD's community net promoter score made a major leap in 2025, a significant increase over both
+2023 and 2024. This is one of the most encouraging results in the entire survey, and it shows that RTD is
+not just visible in the community, it's increasingly valued.
+So what's especially impressive is that the NPS improvement comes from the general public, not just your
+riders. That means perceptions of RTD are improving, even among those that may not use the service
+regularly. It's a reflection of stronger brand recognition, greater community impact, and a growing belief
+that RTD is delivering value across the region.
+
+So when we compare this to national averages, RTD's community NPS performance is really leading the
+way. In many regions, general population scores tend to fall flat or even negative. RTD, by contrast, is
+trending solidly upward, proving that the agency's work is really resonating far beyond platforms and
+transit stops.
+So when we ask community members how valuable they believe RTD is to the region, the results were
+overwhelmingly positive. Nearly 9 in 10, specifically 86%, rated RTD as either valuable or extremely
+valuable. And it's clear from the data that the general community sees RTD as a tremendous asset to the
+region, not just as a transit provider, but as a force that supports really economic opportunity, equity,
+mobility, and overall quality of life. The strong value ratings reflect a shared belief that RTD is delivering
+meaningful impact to the people it serves and to the Denver metro area as a whole.
+All right, so as you can see from the next set of slides, the public's view of RTD value extends well
+beyond transportation. The responses show extremely high levels of recognition for the many roles RTD
+plays in supporting the region and the people it serves.
+So we take a look at slide 13 here. Community members see RTD as critical to connecting people to jobs,
+supporting seniors, and individuals with disabilities, and offering affordable and equitable mobility options.
+That sense of value is rooted in the agency's ability to serve people who need transit the most, and it
+reflects a strong commitment to accessibility.
+Slide 14 here. But the appreciation really just doesn't stop there. RTD is also viewed as a leader in
+environmental sustainability, regional connectivity, and access to health care, showing that the agency's
+impact is far reaching and deeply embedded into the fabric of daily life.
+Residents also see RTD as a contributor to the quality of life, helping people reach educational
+opportunities, access recreation, and live in areas with more affordable housing. They are broad
+community outcomes, and they highlight the fact that RTD is not just moving people, it's supporting the
+livability and economic health of the entire region.
+So on the next couple of slides, we're looking at favorability rating from the community. Respondents
+were asked to rate their level of agreement with a range of statements related to RTD service, covering
+topics such as safety, dependability, and professionalism. The percentages reflect many people agreed
+or strongly agreed with each statement and the results are, again, mostly positive. This shows that RTD is
+consistently delivering services the public views as reliable, respectful, and accessible.
+For example, 90% of respondents agreed with the statement RTD buses are mechanically safe,
+compared to just 55% nationwide. That's a powerful indication of confidence in the system's operation
+and maintenance.
+That said, one of the areas where RTD was rated slightly below the national average was on
+trustworthiness. But that's really not unexpected. Trust is something that often takes longer to rebuild. The
+encouraging part is that every other trend is moving in the right direction, which strongly suggests that
+trust is on its way back. However, trust is just a process and RTD is clearly on the right path here.
+So the next slide displays the results of the key driver analysis we conducted, which helps us understand
+what matters the most to the community and where satisfaction or agreement is already strong. It works
+by comparing how important a specific service feature is to respondents, and how satisfied or favorable
+
+they feel about RTD's performance in that area. The more important the item and the higher satisfaction,
+the more it drives overall perceptions of RTD's value.
+In the 2025 community results, the top drivers were clear. It was providing access to employment
+opportunities, reducing traffic congestion, offering affordable transportation options, serving people with
+mobility challenges, and finally in providing a safe alternative to driving. These responses tell us the
+community sees RTD's core mission as deeply connected to equity, access and quality of life. And the
+good news is that RTD is performing strongly in these areas. So the agency is delivering on the things
+that matter most to the people it serves.
+So now let's transition to our customer excellence surveys. These were administered in the field real time
+feedback from actual riders on buses, trains, and paratransit services. The total sample was over 1,800
+responses from rail and bus customers proportionately collected across the system, which makes the
+results both robust and representative.
+The bus and rail services were collected between April 7 and April 14. Every route in line was sampled in
+proportion to spring 2025 ridership. Our target was around 1,200 completing surveys. And as I already
+mentioned, we collected over 1,800.
+So before I get into the specific topic areas, we highlighted some top takeaways from the customer
+excellence survey. First, RTD is performing at a very high level. Satisfaction scores across the board are
+very high and increased. In fact, bus and commuter rail improved in all 19 areas rated on the survey.
+Light rail improved in 16 of the 19 areas assessed on the survey. And on top of that, RTD's net promoter
+score is up across all services, which is really quite remarkable.
+So who exactly are your customers? So for bus and rail, most riders surveyed are between the ages of 18
+and 39 years old and are predominantly from diverse racial and economic backgrounds. Notably, a large
+portion of RTD ridership surveyed earns less than $50,000 annually. And this really underscores just how
+essential RTD services are to those who rely on transit the most.
+On paratransit, the demographics shift a bit. Not surprisingly, most users are older adults, and many
+identify as individuals with lower incomes. This really reinforces RTD's unique and critical role in providing
+mobility for people who may not have any other options. These aren't occasional riders. These are daily
+lifelines, and the numbers confirm it.
+What you're seeing here is around 71% of the bus riders and 59% of rail riders use the service at least
+three times per week. More than 3/4 of bus users and 2/3 of rail users say they rely on RTD, and for
+access a ride and access on demand users, the majority use the service for most of their trips, many for
+medical needs. And this is reliable, essential travel and RTD is clearly delivering.
+In terms of satisfaction levels, RTD's bus service is performing exceptionally well. In 2025, 76% of bus
+riders reported being satisfied or very satisfied with service, which is well above the national average of
+56%. That also represents a notable eight point increase from last year's result of 68%. It's clear that
+customer perceptions of RTD's bus service are moving in the right direction.
+Rail satisfaction scores are also showing strong gains. You're seeing here in 2025, 75% of rail riders said
+they were satisfied or very satisfied with their experience, which again, is well above the national average.
+
+That's a 12 point increase over 2024, when satisfaction was around 63%. Again, positive momentum
+continues to build among your ridership there.
+So the next set of slides displays current net promoter scores for both bus and rail services compared to
+national averages and prior years results. Again, these NPS scores help us understand how likely riders
+are to recommend RTD, which is a strong indicator of brand loyalty.
+So this slide highlights, in my opinion, one of the most exciting findings in this year's survey results. So
+RTD's composite NPS score, which combines results across bus, rail, and paratransit, jumped from 11 to
+37 just over the past two years. That's a 26% gain, which is a substantial improvement in terms of NPS.
+This likely means significantly more customers are more willing to recommend RTD to others, and that
+speaks volumes about rising confidence in the system.
+So zooming in on the bus customers, the NPS score was similar, increasing from 7 in 2023 to now a
+score of 26. At 26, RTD certainly outpaces most peer agencies nationwide. The average nationwide is
+roughly or negative 16.
+In terms of rail customers, again, same story. The NPS score among all rail customers increased from 19
+in 2023 to a new high of 31 in 2025, which is plus 34 compared to the national average for rail users.
+And then lastly, we break out the results by rail type, commuter versus light rail, and you can see that the
+NPS for light rail increased over the same two year period from negative 2 to now positive 14 and
+commuter held steady at 47, which is extremely favorable.
+In terms of comparing RTD's results to national averages, the scores are really outstanding. RTD is
+exceeding benchmarks in key areas like personal safety, access, and availability of rider information. In
+today's transit environment, that's no small feat. It shows that RTD is really not just keeping pace, it's
+leading the way.
+So on this slide, we see riders rated RTD, how they rated RTD on three key performance related items.
+These measures speak directly to how well the system is delivering on its core promise, getting people to
+where they need to go efficiently and reliably. So all three performance items were rated higher than the
+national average by both bus and rail customers. The most significant difference came from bus riders.
+RTD outperformed the national average by 17 percentage points when it comes to getting customers to
+their destinations in a reasonable amount of time.
+This slide here shifts focus to access related measures, how easily customers can reach and use RTD
+services, both in terms of proximity and price charge. Again, we see strong performance across the
+board, with both access items rated above the national average for both bus and rail users. The standout
+result here came from rail riders. RTD's rail system was rated 25 percentage points higher than the
+national average when it comes to having conveniently located stops and stations. That's really a
+powerful signal that RTD's network is meeting people where they are and making it easier to choose
+transit.
+In terms of public safety and comfort, three items were assessed and RTD really outperformed the
+national averages by wide margins on all three. Based on the data, RTD customers feel significantly safer
+and more comfortable than transit riders across the US, whether it's really on board or while waiting.
+
+These results really reflect a strong sense of security and a positive day to day experience from RTD
+riders compared to riders using other peer systems.
+Scores related to information and driver behavior were also higher than the national averages for both
+bus and rail customers. The only exception was one item among rail riders, which is being notified about
+service disruptions, which came in just slightly below the national average. But still across the board, RTD
+is clearly outperforming peer agencies when it comes to keeping riders informed, and ensuring
+professional, courteous interaction with their operators. And here you're seeing the ratings for driver
+operator behavior. Again, all items rated on the survey are significantly higher than national averages.
+So this slide here focuses on a single but powerful measure. Does RTD add value to the community? And
+the answer from both bus and rail riders is a resounding yes. So 85% of bus customers and 87% of rail
+customers agree that RTD adds value to the region compared to national averages of just 67% and 73%
+respectively. That really means nearly 9 out of 10 RTD riders believe the system plays a meaningful role
+in supporting the community, whether it's through access, sustainability, or economic RTD opportunity.
+Really, it's clear RTD is seen as a vital part of the Denver metro area.
+So in addition to comparing results to national benchmarks, it's just as important to look at how RTD's
+performance is trending over time. So tracking progress year over year helps us understand whether
+initiatives are having the intended impact. To that end, we conducted a trend analysis of all of the items
+assessed on the survey, and the results are quite clear. RTD is definitely moving in the right direction.
+Ratings among bus and commuter rail customers across the board increased, showing system wide
+improvement for light rail. As I mentioned earlier, scores increased in 16 out of the 19 areas assessed,
+signaling strong momentum there as well.
+Similar to the community value survey, we also conducted key driver analysis for RTD's core service, bus,
+light rail, and commuter rail. Again, the analysis helps us to understand which service attributes are most
+closely tied to overall satisfaction in what matters most to your riders. So the next set of slides highlights
+those results, showing the areas that are driving customer perceptions for each mode, and where RTD
+has the greatest opportunities to improve or reinforce service excellence.
+For bus riders, the top drivers were frequency, timeliness, and hours of operations. These are the levers
+that directly impact rider satisfaction for bus riders. The story is pretty consistent when we look at light rail,
+just like bus and commuter rail, frequency stands out as one of the most important drivers of satisfaction.
+Riders also place a lot of weight on hours of operation, timely arrivals, travel time, and feeling safe on
+board the train. And while satisfaction scores are already strong, zeroing in on these areas is what will
+continue moving the rider experience in the right direction.
+So for commuter rail, the top three drivers of satisfaction are frequency, the convenience of stop,
+locations, and personal safety. These priorities are not surprising given the nature of commuter trips
+where reliability, accessibility, and feeling secure are essential to the daily experience. So focusing on
+these key areas will continue to strengthen satisfaction among commuter base.
+Turning now to paratransit, our customer excellence survey reached 444 access a ride and access on
+demand users, which is well above the statistical target. Responses were gathered via mail, text, and
+email to ensure accessibility. The paratransit surveys were conducted between April 7 and April 23.
+Surveys were distributed to eligible active riders with a 95% confidence level and a margin of error of plus
+
+or minus 4.9%. The data is quite robust. These insights reflect the experience of individuals who depend
+on RTD's paratransit services every day.
+Satisfaction among paratransit riders is exceptionally high. Customers using both access a ride and
+access on demand reported strong satisfaction across all key metrics. And you can see from this slide
+that satisfaction grew significantly over the past year.
+Taking a look at the net promoter score for both access a ride and access on demand, in 2023, the NPS
+was 20. In 2024, it climbed to 59. That's a major increase in loyalty and satisfaction. The current score
+remains very high at 54. The NPS for access on demand reached an impressive 81 in 2025, and it
+continues to climb. We've conducted numerous paratransit surveys across the country, and this is by far
+one of the highest NPS scores that I've ever seen for paratransit. So kudos to you all.
+When we look at what matters most to access a ride riders, a few priorities consistently rise to the top. It's
+price or fair charge for using this service, ease of scheduling, and feeling safely secured in the vehicle,
+and also the ability to get where they need to go. So these are all high importance items. And the good
+news is RTD is performing strongly across the board. And these remain really your core strengths.
+However, there are two areas that represent real opportunities to boost satisfaction even further. Both
+travel time and vehicles arriving within the scheduled pickup window are rated as highly important, but
+shows slightly lower levels of satisfaction. And improving performance in these areas could have a big
+impact on the overall rider experience.
+For access on demand, we see a similar pattern of strengths. Riders continue to place high importance
+on ease of scheduling, feeling safely secured in the vehicle, and the ability to go where they need to go.
+And RTD is performing well in all of those areas. In this case, even travel time and vehicles arriving within
+the scheduled pickup window are seen as strengths.
+The only area that stood out as an opportunity for improvement was related to the price or fair charge for
+using the service. While still rated fairly well, it's the one higher importance item where satisfaction lags
+slightly. Taken together, both access on demand and access a ride show exceptionally strong results,
+and RTD is delivering on what paratransit riders value most, which is reliability, safety, and accessibility.
+OK, to wrap things up, looking at the big picture, the results tell a strong and consistent story. RTD
+continues to trend upward and is really leading the way when it comes to rider satisfaction nationwide.
+Customer satisfaction is trending upward across every mode. Bus and commuter rail improved in all 19
+areas assessed on the survey, while light rail showed gains in 16 of the 19 areas surveyed. Compared to
+national benchmarks, RTD is performing well above average and is actually setting the standard in most
+cases.
+RTD's composite net score climbed 24 points, reflecting strong rider sentiment system wide. And the one
+consistent opportunity for further improvement is service frequency. But overall, riders are noticing the
+progress. These results really reinforce that RTD is not only meeting expectations, but raising the bar.
+And with that, I'd be happy to take any questions if you have any.
+MICHAEL GUZMAN: Thank you, Mr. Hekele. Just for time's sake, y'all, we need to wrap this up in the
+next four minutes. So ask your quick question and then anything further we'll follow up through email.
+Director Larsen, I see your hand raised first. Please go ahead.
+
+MATT LARSEN: Yeah, I'd just like to ask if we can get a list of the peer agencies that represent the
+national average that's presented in this survey.
+AARON HEKELE: Yeah, we can get you a list of the communities we surveyed as a part of the
+nationwide survey. Absolutely.
+MATT LARSEN: Great. Thank you.
+MICHAEL GUZMAN: Director Nicholson.
+CHRIS NICHOLSON: Thank you. Can we get a copy of the cross tabs for this survey? There's some
+interesting numbers on the features that we could add that I'd like to see broken down by how often
+people ride but as well as all the other metrics. So could we get the cross tabs for this?
+AARON HEKELE: Yeah, we have a virtual dashboard that allows cross tabs by any variable on the
+survey. We did not create static cross tab tabular tables, but we could certainly work with John to get a
+cross tab report if you'd like.
+CHRIS NICHOLSON: Thank you. Really appreciate it.
+MICHAEL GUZMAN: Director Catlin.
+PEGGY CATLIN: Thank you. Really interesting survey results, and I'm encouraged. Hate to be a wet
+blanket, but with regard to paratransit, the key thing that struck me it was for all eligible riders. And the
+biggest complaint I get from my district is the ineligibility when people try to apply due to their proximity to
+a fixed route. And so yes, the people that have been approved for eligibility for access a ride are satisfied,
+but I think there's a strong group of people that would be frustrated with the fact that they are denied
+eligibility. Thank you.
+MICHAEL GUZMAN: Thank you. Director Guissinger.
+LYNN GUISSINGER: Yeah, thanks very much. Thanks, Mr. Hekele, if I'm saying that right. These
+numbers look really good. I share some of the concern that the public commenters raised, which was I
+went back to the Board briefing documents, and in all three areas, ridership is down, although in
+commuter rail and bus it's not much. In light rail, it's down over 25% over 1 million, if I read that correctly,
+if I'm reading the Board briefing documents, for the first four months. And that seems to me like it would
+build in a bias for the people that are still there. Any comment on that?
+AARON HEKELE: Potentially I'll have to take a look at that further. I do know that there were quite a few,
+just anecdotally, from being out in the field, there were quite a few service disruptions. I think there's
+some construction, those types of things, which might be reflected in ridership a bit. I don't want to speak
+in things I don't really know. But that's something that I could take a look at, Director, for sure.
+LYNN GUISSINGER: Thank you.
+MICHAEL GUZMAN: General Manager CEO Johnson.
+
+DEBRA JOHNSON: Yes, thank you very much, Committee Chair Guzman, and thank you, Director
+Guissinger, for the question. You're absolutely right. During the course of the survey we took in April, we
+were in the midst of having slow speed restrictions and doing other repairs relative to catenary wire,
+restringing, and things of the like. And so as we look at the aspect of reliability, all of these aspects that
+we're focusing on from a state of good repair vantage point would have residual impacts. But as we heard
+from Mr. Hekele, as he presented going forward, this may, and I say may, increase the overall
+perceptions, opinions, and attitudes towards RTD services from a positive aspect. Thank you.
+LYNN GUISSINGER: And I can follow up later if you need to move on.
+MICHAEL GUZMAN: Thank you, Director Guissinger. Vice Chair Gutschenritter.
+CHRIS GUTSCHENRITTER: Thank you. Overall, really positive results. So great to see. My question is
+around the safety perception. For light rail riders, it was 69% compared to commuter rail 82%. I was just
+wondering if we had any thoughts or perceptions on why that might be.
+AARON HEKELE: Yeah, that's something that we could take a look at further. Certainly that's an
+interesting finding. And we could get you a further analysis on that. We could run some cross tabular data
+and some more statistical analysis and try to pinpoint really what's driving that rating. So that's something
+that we can take a look at and get back with you.
+MICHAEL GUZMAN: General Manager/CEO Johnson.
+DEBRA JOHNSON: Thank you. Just for everyone's edification, it's important to note, pursuant to the
+Federal Railroad Administration running commuter rail on an active railway, we do have to have a second
+crew member. In our instance, we utilize a second crew member that is a Allied Security Officer who
+actually has a weapon.
+That's important to note, because on light rail, it's not a requirement under the Federal Transit
+Administration to have a second crew member and we do fare checks. And so while you don't have
+somebody riding the length of the route or the alignment, excuse me, with the various consist you have
+people getting on periodically. And so from my experience, I would surmise that that is a critical element
+in the perception, because there's somebody who is walking through the cars of the consist. Thank you.
+MICHAEL GUZMAN: All right. So I'm excited about getting positive feedback. There is clearly room for
+work. And I think that is what we will pivot to now. Directors, as was stated in the beginning, should you
+have questions or comments further, please email them to the Board Office. And we can compile those
+questions and comments and make sure that we share them with the appropriate folks, mainly our
+General Manager CEO. If it's anything in particular to the ETC Institute and their survey work, we will
+make sure that we communicate with them and provide any feedback.
+Taking quick notes, Mr. Kroll, please help me keep the request for information from this meeting aligned
+so that we can do that work. Thank you so much, Mr. Hekele. I really appreciate you presenting this to us.
+We are now going to move on to our second item. That is for the 2025-2026 General Manager CEO short
+term goals.
+Here again, I would like to ask all members to remain muted while General Manager CEO Johnson
+presents the item, and we will have comments or questions from the committee afterwards as time allots.
+
+We will be concluding this section at about 9:55 to allow time for transition that is required. And just a
+heads up, I am aware of a conflict of time. So should the presentation end quickly, Director Buzek, heads
+up, you will get to go first. Thank you so much. Miss Johnson, you are recognized.
+DEBRA JOHNSON: Thank you very much, Committee Chair Guzman, and thank you for the opportunity.
+And following up on the Board's retreat that was held on Saturday, June 7, 2025, the Chair of the Board,
+Julien Bouquet, facilitated and moderated discussion, and there were breakout groups relative to what
+areas that this body thought were germane relative to having discussions to work in tandem to develop
+short term, specific, measurable, attainable, realistic, time bound goals for 2026.
+In light of that, I took that information, and keeping in mind what you just heard this morning relative to
+ETC and the presentation around survey data and things of the like, put forward some proposed goals
+that are in a working draft. I want to just state working draft. I did notice on package page 63 it was
+inadvertently stated financial impact. It says there is no financial impact associated with this
+recommended action. That is a typographical error discussion item as it's indicated.
+With that as a backdrop, you can see on package page 61 that there are three working draft proposed
+goals for the performance period that would basically cover the latter part of 2025. First short term goal
+being customer experience and welcoming transit environment. Those two things are grouped together,
+as it was the Board's desire. Keeping in mind that there are four strategic initiatives that have spawned
+from our strategic plan, and more so the opinions, perceptions, and attitudes that were garnered through
+our survey data that was collected last year.
+In that vein, the first short term goal says that no later than October 2, 2026 increase overall customer
+satisfaction by 5% for both RTD's fixed route bus service and fixed route rail service, which would
+constitute 50% of the goal. Second part of it to increase favorable customer survey responses by 5% from
+calendar year 2025 to calendar year 2026 in relation to survey questions pertaining to customers'
+perceptions of feeling safe and secure aboard light rail vehicles.
+Now, I'd be remiss if I didn't acknowledge there were commenters talking about survey data. But I think
+what's important for all of us to understand is we deal with safety and security, that it's all about
+perception. We can do everything that we want to do, but it's about perception and recognizing that the
+individuals that are utilizing the system are those that are actually on the vehicles, the revenue vehicles
+waiting at stops. That is the reason why I put this forward, leveraging survey data, because it's about the
+perception of one's customer experience from those that are actually utilizing said system.
+And so basically, the goal from my perspective aligns with the agency's efforts from a collective vantage
+point to deliver high quality customer service and improve performance related to overall customer
+satisfaction, as well as to promote a welcoming transit environment. As we clearly heard from Mr. Hekele
+of ETC Institute, it's the whole notion behind promoting a system in the sense of leveraging the prospect
+behind being a detractor, being neutral, or being a promoter. And this is in alignment with survey data.
+For those that have been, I would say, following the outset of us creating a baseline and then moving
+forward, the work that we have done as an agency feeds in to enhancing one's perception of their
+experience in and around RTD and utilizing its services.
+The second short term goal is based on ridership. Recognizing I use that term, but more or less we're
+talking about transit utilization and boardings. And the short term goal says to increase system boardings
+
+by 3% from the period commencing October 1 of 2025 and continuing through September 30 of 2026.
+Once again, it's to improve performance metrics tied to community perceptions and the value that RTD
+provides to the Denver metro region.
+One thing that I want to share is as we talk about transit utilization, and we've had these conversations ad
+nauseam, and I recognize our core business is based on people utilizing our system. What's interesting,
+having had the opportunity to engage with colleagues that run Deutsche Bahn, which is a regional rail
+service in Hamburg, Germany, and also their localized service that Hamburg government runs, it's really
+interesting how that entity that has vast transit utilization doesn't focus on ridership.
+Actually, they started a German pass. Basically anybody within the country of Germany basically does a
+subscription service, so they're more focused on selling subscriptions. I equated it to being akin to
+Amazon Prime, whereby you have people sign up, and then basically people may want to utilize the
+system more going forward. So I just use that as an aside, just sort of amplifying the whole aspect behind
+transit utilization and different strategies that are being employed to garner those perceptions about what
+that may look like from a ridership aspect.
+And then not to mention, in light of the GAO report that was done, being the Government Accountability
+Office, that report came out probably last month, where RTD actually had the highest retention of
+commuter rail boardings in the country relative to the commuter rail networks that were identified by GAO
+at the request of the federal government.
+Going on to short term goal three, relative to reliability, no later than October 1, 2026 to complete rail
+reconstruction work within budget for the rail segment between the West Colfax Avenue and 7th Street
+intersection and the Denver Convention Center, which is 50% of the goal, and then to increase by 5% the
+percentage of fixed route bus and light rail customers who agree or strongly agree that transit vehicles
+usually run on time, which is 50% of the goal.
+Questions may be asked relative to why are we utilizing a major reconstruction project as it relates to
+reliability? This gets back to the state of good repair and asset renewal, with that being the most aged
+portion of our light rail network, now dating nearly 31 years old, is probably more than 31 years old
+considering that the system opened for revenue service on October 7, 1994, and track had to be laid and
+the OCS placed in and had to do various tests with certain amount of hours before it could open for
+revenue service.
+That's critically important when you think about the configuration of this rail network, with everything going
+through, a large portion of our service going through the downtown core and going through the throat of
+the DUS. That can't happen if we don't have our assets in a state of good repair to increase that
+throughput. So that's my brief presentation. Committee Chair Guzman, I will yield the floor to you to
+facilitate any discussion relative to what I have presented. Thank you very much for the opportunity.
+MICHAEL GUZMAN: And thank you, Madam CEO. And we all appreciate the quick turnaround on this
+from the time that we met. Director Buzek, please go ahead.
+VINCE BUZEK: Thank you, Mr. Chair. I appreciate you taking me first. And thank you, GM/CEO Johnson,
+for the report. You talk a little bit about perception, and I think that's really important, especially when it
+relates to the customer and community survey results. It's interesting how critics of the RTD often use the
+customer community survey results as a weapon. When they're not so good, they wave them in your
+
+face. But when they're good, they kind of want to back away from those. And maybe we should use
+something else, because they're too good. But there you go.
+With regard to the goals, I think goal number one and goal number three all feed into goal number two.
+Because if you improve there, hopefully you're going to improve ridership. I continue to have and always
+have had a problem of a goal of increasing ridership that has some kind of a number, a benchmark. I
+know you have to have one.
+But again, DRCOG tells us that Denver metro area ranks number three in the country for communities
+where people have still not returned to work. And until RTD can mandate employers to send their people
+back to the office, increasing ridership numbers is going to be a challenge. So that's a real problem when
+you put hard numbers on something like that.
+But other than that, I'm happy with these short term goals. And getting back to that ridership thing, we
+have I think a current ridership increase short term goal, right? And notwithstanding that, this GM and
+CEO went back to basics and put safety first and replaced rail on the light rail line, knowing that it would
+have a negative impact on ridership, one of her short term goals, so that she probably wouldn't meet that.
+But safety was first, and she prioritized that over reaching a goal, and I appreciate that. Thank you.
+MICHAEL GUZMAN: Directors, this is your opportunity. Director Larsen, please go ahead.
+MATT LARSEN: Yeah, I wonder with the first goal in terms of customer satisfaction, if there wouldn't be a
+way to measure it outside of just our existing customers in terms of the welcoming transit environment
+and safety. And I guess neither of the surveys to me seem like they're necessarily going to fully capture
+that.
+With the overall community survey, you have a lot of people who just haven't ridden in a long time. And
+their view on the transit environment and the security, it just may not be informed by anything. And then
+when you look at the people who are riding, they're a subset of people who obviously have decided that
+the transit environment is for the most part good enough for them.
+I was wondering if there would be a way to capture this information in a more objective way by finding out
+what characteristics of a transit ride would make people feel secure and welcomed and then actually do
+some kind of mystery rider or some kind of system like that to determine if those conditions are met on a
+sample of the trains or buses.
+I also had a question about the timing of the survey. I don't know. If this is an annual survey, these
+surveys are annual. Is this timing that we saw this time surveyed in April with results in June, is that the
+timing that we should expect going forward? It seems like that timing is kind of not great, not ideally
+aligned with the performance period that we're looking at here. And I wonder if we could change that. I
+also have comments on the other two goals, but I'll stop with goal one right now and I guess leave it for
+others.
+MICHAEL GUZMAN: Madam CEO.
+DEBRA JOHNSON: Yes, thank you very much, Committee Chair Guzman. And thank you, Director
+Larsen, for your thoughtful questions. One thing that I wanted to address relative to your inquiry about
+
+surveying, it's incredibly important to take note that as we go forward with surveying, it's intentional in
+reference to the time of year that we utilize.
+Because with transit ridership, it tends to be seasonal, i.e. where there could be a dip relative to the
+summer and also around the winter, due to the fact that school is typically out of session and folks
+traditionally take vacation or holidays. And so leveraging the April time frame is more or less ideal, or it
+could be in alignment with the October time frame as well is a good time as well for the reasons that I just
+outlined in my response. And I see Mr. McKay has his hand up. Committee Chair Guzman.
+MICHAEL GUZMAN: Mr. McKay.
+JOHN MCKAY: Thank you very much. I just wanted to add, on top of GM/CEO's remarks, that the former
+timing of the surveys was sort of disjointed a little bit. So we would do the employee surveys in April and
+then follow up with the customer and community surveys toward the fall, which would, as GM/CEO
+Johnson noted, we did capture the typical ridership of people during the school year.
+We actually moved that earlier this year for the first time, so that we could capture this information so that
+it could be used in developing the budget year over year. Because as we're taking in new budget
+requests, we use the strategic initiatives and the strategic priorities to prioritize certain items so that the
+higher they are on the ranking, it correlates to their importance on the strategic initiatives year over year.
+So we did, like I said, coalesce in April of this year. We're thinking about doing it a little bit earlier in the
+next year. In 2026, we'll move it a couple of weeks earlier in the cycle, so that we capture this just in time
+for the Board's consideration in June to maybe align with the, again, with the budget development so that
+these key drivers and very important things are noted at the time that the Board takes that into
+consideration. Thank you.
+MICHAEL GUZMAN: Thank you. Director Nicholson.
+CHRIS NICHOLSON: Yes, thank you, Mr. Chair. So I want to first off say I really loved the numbers. I
+think we're really doing a good job making our existing customers happy with the service we're running.
+In terms of the goals, I would like to see us move away from the surveys and move toward metrics over
+which the GM/CEO has direct ability to influence. So for the first goal, I think that rather than asking, do
+people feel safe? We should look at one of the primary measures of safety that we hear about, which is
+drug use on the system, and look at the Transit Watch numbers that we get each month, and how many
+and what percentage of our Transit Watch data is coming back with illicit drug use.
+And I think that just going off a goal that says, we want you to reduce the percentage of Transit Watch
+reports that are about illicit drug use is a good way that can't be directly-- that is a good metric for whether
+or not we are succeeding in reducing that.
+Second one, ridership is down, as was mentioned. I think that we really should be looking at ridership as
+two components of that number. So you have the total ridership, which is really the number of service
+hours that you run and the number of people who ride for every service hour that we run. And I know that
+that's a metric that planning already looks at. It came up in our conversations with Jessie Carter.
+
+Our GM/CEO has the ability directly to influence the number of service hours we run, and then the
+number of people who ride per service hour is up to basically the customer. I think each of those should
+be measured separately in our ridership goal. It should be broken down into those two components,
+because the GM/CEO has specific power over one of them.
+For the third one, there are a lot of ways to measure reliability. And I think that as we've looked, our
+reliability numbers, our on time percentage numbers, one minute early, five minutes late, have been
+getting better. We've been doing a good job this last year, and I've been really pleased to see that.
+The issue that's come up in my conversations has been around dropped runs. It's been around places
+where we just don't-- the bus doesn't come at all, the train doesn't come at all. And I'd like to see us
+measure that third goal in terms of service availability, in terms of dropped runs, and specifically around
+the high visibility dropped runs. The rail, the airport buses, the FF, and the commuter service. I think
+those are the things where people really notice when we don't come.
+And having a metric that's specifically targeted at those services would be a really good way of focusing
+our efforts on the things where we've been getting a lot of flack this year for dropped service. So those
+would be my comments. I'd love to get the GM/CEO's thoughts on those. I sent them to her this morning.
+So if you wouldn't mind, I'd appreciate it.
+MICHAEL GUZMAN: Thank you, Director. General Manager CEO.
+DEBRA JOHNSON: So a couple things. Just for clarification, I believe we're talking about canceled trips,
+not dropped runs, so we're using the appropriate terminology. When something doesn't show up, that is a
+trip that was scheduled. And further clarification, you indicated that I have auspices over revenue hours.
+That's tied into the budget, of course, labor as we move forward. So I would say that we collectively have
+a role in that, because if we don't have enough people power, I can't put those hours within the budget,
+because we're not going to be able to deliver on them because it's more than just operators. So I just
+wanted to share that for everybody's edification, because we do need to be intentional as we move
+forward.
+And then you cited, Secretary Nicholson, some key routes. And I was somewhat lost by what you were
+saying relative. You mentioned the flat iron flyer and something else. Are you talking about carving out
+specific routes in reference to this goal?
+MICHAEL GUZMAN: Director Nicholson.
+CHRIS NICHOLSON: Yeah, I think that there are specific types of services where we have had issues
+over the last year. And I think there are ones that tend to get specific amounts of visibility when we miss.
+Airport rail, that kind of thing, as well as commuter and FF. And that's where I think it does make sense to
+have a very specific, targeted short term goal that isn't meant to necessarily cover everything you do, but
+the things where we think there needs to be the most improvement over the next year. So it's really trying
+to focus on where are those areas where we really want you to hone in.
+DEBRA JOHNSON: OK. Thank you. And I'm not trying to usurp. I just would say that as we look at the
+trips, if we're talking about airport, we really don't have a lot of cancelled trips in light of revenue service
+hours that we have there. But I don't want to debate that. But I just wanted to understand going forward.
+Thank you so much, Committee Chair Guzman, for the opportunity to clarify.
+
+MICHAEL GUZMAN: Absolutely. Mr. McKay.
+JOHN MCKAY: Just a note on Transit Watch utilization. Just to note that an individual using illicit
+substances on a train. I'm a frequent light rail rider or light rail customer. And as I'm using the system, I do
+use the Transit Watch app. As we increase Transit Watch utilization, a single person using illicit
+substances on a train, that could mean three or four or five people are reporting that same individual
+incident. So just there is a correlation between Transit Watch utilization downloads and reports. I just
+don't want those two things to be conflated.
+MICHAEL GUZMAN: I appreciate you bringing that up. I was thinking the same thing. Director Guissinger,
+your hand is raised.
+LYNN GUISSINGER: Thank you very much. Yeah, these get into tricky areas. That's a good point that
+Mr. McKay made that Transit Watch could be a number of people. But I'm not in a light rail area, and I am
+still hearing people, as somebody who's a big fan, as I talked with Miss Johnson about this week, saying
+the last three times he was on the light rail, he had to call a security number because somebody was
+doing drugs on the train. So that's an important thing.
+I am not convinced that the survey results capture what we need better than some sort of actual data.
+And whether it's Transit Watch or overall calls or I don't know exactly how we do that. I am concerned that
+ridership through April was down 6.2%, almost all, not all, but almost all on the light rail. And I don't
+remember the timing for when we started the light rail maintenance and what it was like the first four
+months of this year versus last year. I think that's a really good point that Miss Johnson raised. But I do
+think that safety and security are important there.
+Likewise, ridership. Do we start with a 3% goal? If we end the year where we are on this, where does the
+maintenance fit into that? I just think looking a little more at what our actual situation on the light rail is
+would be helpful. And my perceptions are important, but I think since where we have actual data, that's
+important too and needs to be captured in the goals. Thanks.
+MICHAEL GUZMAN: Thank you, Director Guissinger. For the record, Director Kathleen Chandler did join
+us. I don't know what time you got here, but I just want to make sure that I recognize you. Thank you for
+being with us. Chair Bouquet. We had the retreat, and we are coming back to this conversation. So I'm
+going to invite you into the conversation at this point.
+As we proceed forward, the request is that we as Directors, as I understand it, work together with our
+General Manager CEO Johnson to bring forward a recommended action in July that will go to the Board
+by the end of the month. Is that correct?
+JULIEN BOUQUET: Yes, that is what the current schedule is right now. So this will, in theory, be-- well,
+not in theory. This will be a recommended action item for you guys with performance. And then we would
+approve this as a full Board at the end of July is the hope with this.
+MICHAEL GUZMAN: OK. So that said, Directors on this Committee, I really encourage you to try to set up
+some time to discuss or email with our General Manager CEO about these goals directly and provide
+feedback succinctly. And then this is the time to influence the changes, so that when this committee
+makes a recommendation, it is the recommendation going to the Board so that we do not end up in a
+
+situation where by the end of the July Board meeting, there are 30 amendments that are going to be
+offered to these goals.
+We need to get this work done now so that we can make a final recommendation from this Committee,
+hopefully unanimously, to the Board that can be approved so we can move on. As was our commitment
+to make sure that we are being efficient in these processes. I say that because I want to make sure that
+we keep in mind this is a quick turnaround, and it requires participation from both sides to be able to get
+there.
+And I know the majority of us understand that, but we don't want to play games with any of this. This is
+not a joke and we need to take it seriously. And the last thing we want is a showdown at the Board
+meeting about these goals. We need to walk in there knowing how we are going to proceed for the sake
+of our employee, our General Manager CEO, and for the sake of the public and the constituents that we
+represent. Chair Bouquet, your hand is up. Go ahead.
+JULIEN BOUQUET: Yeah. Well, first off, music to my ears. Thank you for hitting on that, Committee
+Chair. The whole idea, again, of this process of the retreat was, one, there's three main themes that are
+identified. And I believe Miss Johnson did a great job of characterizing that into the goals themselves.
+Based on the conversation, the comments I've already heard, there is feedback. What I think would be
+more than appropriate would be sending that feedback as written documentation to Committee Chair
+Guzman and GM/CEO Johnson, if you guys are both comfortable with that. Again, as the Committee
+Chair has spoke, this should be pretty much finalized for your guys' next committee meeting at the
+beginning of July.
+And so feedback such as that that I'm hearing, it's like, oh, hey, we want x data or we want these hard
+numbers here. If you could send that actual feedback to Committee Chair Guzman and GM/CEO
+Johnson, that would be excellent, because that allows them to get some actual physical feedback on that.
+And at the same time, I can't reiterate this enough, we shouldn't have it like we had it in January, where
+there's significant amount of changes happening between that beginning of July Committee meeting,
+a.k.a. the Performance Committee meeting, and then the end of the full Board meeting in July. That's just
+not going to be an efficient process. So now is the time, as the Committee Chair had said. And do me a
+favor, just send it via email to the Committee Chair and the GM/CEO Johnson, if the two of you are
+comfortable with that.
+MICHAEL GUZMAN: I got the nod from General Manager/CEO Johnson. As Vice Chair Gutschenritter is
+a leadership member of this Committee, certainly we will review this work as well with the General
+Manager/CEO to bring forward the best possible recommendation for the committee. But I want to honor
+that this is not work that is done alone, and we are working together, all of us, to get this done.
+We have five minutes left. So I am going to call on Director Larsen first, whose hand is still raised.
+Director Nicholson, you will follow up, but we will be ending this meeting on time for our General
+Manager, just so that's clear. Go ahead, Director.
+MATT LARSEN: Yeah. I guess I'll make a comment about goal two. And I guess I'm a little bit concerned
+about the timeline that we're discussing to try to finalize this in July. I'm not sure or I wonder if we will
+have enough time to understand why any particular number like 3% or anything else is really the right
+
+number to target. I would like to understand what the trade offs would be with different budget allocations,
+whether we could get a higher number, and if we could, what that would cost us in terms of trade offs and
+other decisions.
+And I mean, really, it's very hard for me to feel comfortable about wanting to finalize that number until
+we've understood what the scenarios are out there for what other numbers could we get to if we did
+something differently in the budget for the following year. I also want to say I agree with Director
+Nicholson that I think for a reliability measure, for sure, we should be using service availability and on
+time performance as the basis for that goal and not survey results, because that is data that we can
+actually collect internally and collect on a regular basis.
+And then lastly, just to reiterate on goal one, I think that if we really want to determine whether or we're
+succeeding at that, Transit Watch, while useful data, has the shortcomings that John McKay mentioned,
+which is that more users will create more reports regardless of the actual amount of activity. I think we
+need some kind of inspection, proactive, going out there, and checking type of approach to really find out
+if we are succeeding there or like mystery riders. But something that kind of takes it more from a periodic
+sample based inspection framework, rather than relying on some kind of reactive data or survey results to
+fully understand what's going on there. Thanks.
+MICHAEL GUZMAN: Thank you. Mr. McKay.
+JOHN MCKAY: Just briefly, thank you very much. I'm looking at the on time performance, the actual on
+time performance, for bus, commuter rail, and light rail for the last year. This is on the performance
+dashboard. And I'm seeing that especially for commuter rail, that we're well above the 90% mark in the
+last month that was recorded here as 92%.
+Looking at the survey data for 2025, that perception was much, much lower. So I'm pulling up the actual.
+This is the survey results from this year. 71% of people thought that commuter rail was on time. So
+there's a roughly 20% gap in perception versus actual on time performance. I just wanted to put that out
+there for the Board's consideration, that we could have the most reliable system in the country here, but if
+people don't perceive it as being on time, then they probably won't ride the system.
+MATT LARSEN: It's also service availability and on time. I would just like to-MICHAEL GUZMAN: Director Larsen. Y'all, we need to be following our decorum. Please make sure that
+you are recognized before you speak. You put your hand down. You were not recognized. We need to
+maintain order. Thank you.
+Madam CEO, do you feel at this point you have sufficient feedback from the Directors on this Committee
+to proceed forward with the conversation? We will certainly follow up with any emailed commentary and
+have a discussion going forward. Is that OK? Is there anything specific that you might need?
+DEBRA JOHNSON: Yes, so I do have the feedback. It would be great if, in fact, as outlined by Chair
+Bouquet, if this feedback could be summarized by the individuals that put it forward and have a copy to
+me and you so nothing is lost in translation as we move forward. Because further to the point, from the
+notes that I have taken, it seemed as if we have disparate viewpoints.
+
+And I want to ensure, as I work with all of you, since this is a unilateral process-- not unilateral. I meant to
+say maybe it seems that way right now. Bilateral process, that we have an opportunity to confer as we go
+forward, and that we're not in a predicament where people are putting forward amendments, because I
+want to ensure that we're rallying around the same thing.
+So with that being said, it would be advantageous to get this in a written format. Because I know what I've
+taken down. But we as people may filter certain information. So I would appreciate having it in a written
+format as well. Thank you.
+MICHAEL GUZMAN: Thank you, I appreciate that. I do want to point out at the beginning of the year,
+there was conversation about whether the budget comes first or the goals come first. And should the
+goals inform the budget and chicken and egg and chicken and egg. This year, the Board has elected to
+try and get the goals done to inform the budget. And that is part of this process. The budget on the
+Finance and Planning Committee is being worked on furiously by the agency, but this part will feed into it
+in terms of total revenue, service hours, and availability of funds to do that.
+The other piece of this is also going to be our people power. And whether we have operators, mechanics,
+janitors, other folks to be able to do the work that we don't see, because the public really only sees the
+operator driving the bus or the operator driving the train. We have maintenance of way workers that are
+catenary wire specialists. We're still doing work on the tracks on the light rail. There are substructure,
+infrastructure, rebuilds, all of the other things that we're doing, and it is a complex situation.
+I would remind Directors to keep that in mind. It is not a simple numbers game from Finance on a budget
+to the reality of service provided. There are many, many moving parts. And this is where we work with
+and collaborate with, communicate with, and cooperate with each other and the General Manager/CEO to
+provide the best way forward for the agency, one that does meet the need and the desire of the public to
+have a world class transportation system that is funded and well funded into the future, and one that is
+providing regular service on a regular basis that is safe and secure.
+And so if we use those lenses to ensure that we do our work going forward, I think we can reach an
+agreement and be able to move forward a final recommendation to the Board from this Committee. We
+have a few weeks to do that. So let's put our heads together and get it done. Please follow up with an
+email to myself and General Manager/CEO so we can begin that work and make sure that we come back
+with a really great recommended action to take forward to the Board. That said, are there any other
+matters to discuss before we adjourn? I do not see any hands raised at this time.
+Directors that are not on this committee, thank you for participating. I look forward to getting your emails. I
+will be reaching out to the Directors that did not make this meeting. But if you talk to anybody in the
+meantime that is not here currently, please have them review the video so that they can be caught up on
+everything that is here and we can get their information in as well. I appreciate your participation.
+Our next meeting date is Monday, July 7. That is a little under 12 days from now, or maybe at 12 days
+from now. It will be at 8:30 AM. Again, at that meeting, we are set to take action on the 2025-2026 short
+term General Manager goals that we discussed today. We will be bringing a recommended action for the
+Committee to review. And seeing no other discussion, our meeting is now adjourned at 9:48 AM. Thank
+you very much. Have a good day.
+
+​greaterdenvertransit@gmail.com​
+
+​Submitted as Public Comment to the RTD Performance Committee Meeting, June 23rd, 2025.​
+​June 20th, 2025​
+​Michael Guzman, RTD Performance Committee Chair​
+​Regional Transportation District​
+​1660 Blake Street​
+​Denver, CO 80202​
+​Dear Chair Guzman,​
+​Greater Denver Transit (GDT) writes regarding to the following three topics:​
+​2025 Customer and Community Survey Results and Data Analysis​
+​GDT notes the results from the 2025 Community Survey, carried out in April this year. GDT also notes that only​
+​24% of the sample surveyed uses RTD services on a regular basis (more than once per month) meaning the​
+​majority of respondents have little experience of what the current RTD customer and rider experience is​
+​actually like. That said the overall conclusion of the survey is of little surprise; as frequency of service is the top​
+​ask from RTD’s users.​
+​While there is undoubtedly value in conducting surveys, we respectfully remind directors and staff that the real​
+​measure of how well the agency is meeting the needs of its customers is in the annual ridership figures. These​
+​grew by an almost non-existent 0.1% in 2024 from 65.18M riders in 2023 to 65.23M riders in 2024.​
+​After 4 months of 2025, the total RTD system ridership figure currently stands at 20.6M. Multiplying this by 3​
+​gives a rudimentary prediction of what the annual ridership figure for 2025 is likely to be - this case it is 61.8M,​
+​which would be a 5.2% decrease from 2024.​
+​The “Western Dozen” - Adoption of an Official Metro Area Peer List for Benchmarking RTD​
+​In order to contextualize the recent performance of RTD and inform on future operational and organizational​
+​improvement, GDT urges the adoption of a consistent list of peer agencies for all benchmarking activities. We​
+​propose a list of 12 metro areas, including Denver, which we refer to as “The Western Dozen”.​
+​It is vital that any serious comparisons between the performance of RTD and other transit agencies be​
+​executed with applicability and integrity, that requires a consistent structure based on operational similarities​
+​that discourages any future urges to engineer an artificially favorable analysis. To achieve this, we urge that the​
+​same set of peers be looked at across all metrics (if available) to avoid cherry picking and sandbagging toward​
+​easier / favorable comparisons.​
+​Peer List Methodology​
+​We selected from comparably-sized western US metro areas that do not benefit from significant amounts of​
+​intact pre-WWII era transit infrastructure (mainly rail) that provides Northeastern US networks with significant​
+​advantages that are exceptionally expensive and difficult to adapt / retrofit.​
+​www.greaterdenvertransit.com​
+
+​Page​​1​
+
+​greaterdenvertransit@gmail.com​
+
+​The set of 11 peer metros each operate a combination of street bus, highway coach, and light rail. Most​
+​operate FRA-regulated commuter / regional rail as well. In urban areas where multiple agencies are​
+​responsible for different modes, we amalgamated those peers together to create a comprehensive​
+​metropolitan area-specific view. Each of these agencies (or predecessors that rebranded/consolidated) have​
+​operated bus services for the past 50 years, and started building light rail between the late 1980’s and 2000’s,​
+​with new rail coming into service at a time that overlapped with RTD’s rail expansions. Each of these agencies​
+​has some unique elements in terms of their climate, geography, or governance, but each has a lot more​
+​similarities in terms of the challenges they face and the responsibilities they have in providing public mobility.​
+​RTD is exceptional in many ways, but it is not so exceptional that it is beyond comparison. We believe that the​
+​operations of RTD can be improved with existing resources, and looking to peer agencies that have made​
+​more progress in terms of ridership recovery after the pandemic can provide a guiding light. Thus we propose​
+​the list be constructed primarily according to peers that have the most operational and environmental​
+​symmetries with RTD.​
+​RTD Western Dozen Peers (In Alphabetical Order)​
+​1.​ ​Austin - CapMetro​
+​2.​ ​Dallas / Fort Worth - DART and Trinity Metro combined​
+​3.​ ​Denver - Regional Transportation District (RTD)​
+​4.​ ​Houston - Metro​
+​5.​ ​Minneapolis / St. Paul - Metro Transit​
+​6.​ ​Phoenix - Valley Metro​
+​7.​ ​Portland - TriMet​
+​8.​ ​Sacramento - SacRT​
+​9.​ ​Salt Lake City - UTA​
+​10.​ ​San Diego - MTS and NCTD combined​
+​11.​ ​Seattle - Sound Transit and King County Metro combined​
+​12.​ ​St. Louis - Metro Transit​
+​2025-26 GM-CEO Short-term Goals​
+​GDT would like to respectfully submit to the Performance Committee our position on the GM & CEO's​
+​short-term goals for 2025-26.​
+​1.​
+
+​Customer Experience / Welcoming Transit Environment - Increase positive survey responses​
+​relating to overall satisfaction (50%) and feeling safe and secure (50%)​
+​GDT supports the overall aims of this goal. However, for the first part we request that the Directors devise​
+​a way for this to be assessed using appropriate data the agency collects. Examples of this could include​
+​records of inspections related to overall condition and cleanliness of transit vehicles, stations, facilities​
+​and infrastructure.​
+​For the second part, we request that this is assessed using the actual transit safety data the agency​
+​collects and is now mandated to publish in accordance with C.R.S. 32-9-166, which was created under​
+​Senate Bill 25-161.​
+
+​www.greaterdenvertransit.com​
+
+​Page​​2​
+
+​greaterdenvertransit@gmail.com​
+
+​2.​
+
+​Ridership - Increase system wide boardings by 3%​
+​GDT is pleased to see a ridership goal remain for the GM & CEO. As discussed in the community survey​
+​results section, the latest figures indicate that the GM & CEO is currently not on-track to meet their​
+​current 2024-25 goal of achieving total vehicle boardings of 69,562,000 during the period from October 1,​
+​2024 and ending September 30th, 2025 even after adjusting the baseline down from 66,307,000​
+​boardings.​
+
+​3.​
+
+​Reliability - Complete rail downtown reconstruction scope (50%) and positive survey responses​
+​related to on-time performance by 5% (50%)​
+​GDT believes that the first part of this goal is not appropriate for the expected caliber of the employee​
+​being assessed and encourages the Board to devise a more suitable goal related to the overall state of​
+​the agency's Capital Programs division.​
+​For the second part, we request that this is assessed using the actual on-time performance and reliability​
+​data the agency collects and is now mandated to publish in accordance with C.R.S. 32-9-166, which was​
+​created under Senate Bill 25-161.​
+​Thanks for all you do,​
+
+​James Flattum​
+
+​Richard Bamber​
+
+​Emma Griffin​
+
+​Joe Meyer​
+
+​CC:​
+
+​RTD Board of Directors​
+​Debra Johnson, RTD General Manager & CEO​
+​Angel Peña, RTD Deputy CEO​
+
+​www.greaterdenvertransit.com​
+
+​Page​​3​
+
+

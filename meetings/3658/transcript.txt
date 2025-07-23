@@ -1,0 +1,1549 @@
+2024-06-11
+Finance and Planning Committee
+DOUG TISDALE: Good evening, and welcome to the Tuesday, June 11th meeting of the RTD Finance and
+Planning Committee. The Committee will now come to order. We are convened as of 5:30 PM Mountain
+Daylight Time. My name is Doug Tisdale, and I have the honor of serving as the Chairman of the Finance
+and Planning Committee. I would respectfully ask everyone who is attending this meeting, please mute
+yourself unless you are recognized to speak. That will make for a much better record.
+Thank you all for joining us this evening. And please note that the committee meetings of the RTD Board
+of Directors will continue for a time to be held remotely via Zoom, and they will be audio and video recorded.
+The meeting recordings, along with the unofficial minutes of these meetings, will be posted as soon as
+practicable on the RTD Board's website.
+During today's meeting, we are also providing to you Communication Access Real Time Translation, also
+known as CART. Anyone who would like to access this service should send an email to the RTD Board
+office at rtd.boardoffice@rtd-denver.com and a link will be provided to you.
+Additionally, the CART transcript can be automatically translated into Spanish for anyone who would like
+to have access to a live transcript of this meeting in Spanish. And finally, a live stream of this meeting is
+also available via RTD's YouTube channel. I would now like to call the roll for the committee members. Bob
+Broom.
+BOB BROOM: Present.
+DOUG TISDALE: Peggy Catlin.
+PEGGY CATLIN: Here.
+DOUG TISDALE: Bobby Dishell is absent on an excused absence this evening. Lynn Guissinger.
+LYNN GUISSINGER: I'm here.
+DOUG TISDALE: Committee Vice Chair Michael Guzman.
+MICHAEL GUZMAN: I am here.
+DOUG TISDALE: JoyAnn Ruscha.
+JOYANN RUSCHA: Present.
+DOUG TISDALE: And again, for the sake of the record, Doug Tisdale as Chair is also present. And for the
+record, I see that we also have present with us Directors Eric Davidson, our Board Chair, Julien Bouquet,
+Marjorie Sloan, and Jaime Lewis. Have I missed any Directors who are present whose name I did not call?
+All right. Thank you.
+
+I would now like to open the public comment portion of our meeting. This is to allow anyone from the public
+to address the committee regarding any topic that is listed in the published meeting agenda for this current
+month or for the immediately preceding month. If you wish to speak and you have not already done so,
+please either raise your virtual hand or press star 9 on your phone.
+Now, please note that during this time, the committee will not offer any direct comments or responses.
+However, if you would like to be contacted regarding your public comment, well then, please just email the
+RTD Board Office at rtd.boardoffice@rtd-denver.com. Mr. Executive Manager of the Board, are there any
+hands raised or indications to make public comment?
+JACK KROLL: Hi, Committee Chair Tisdale. This is Jack Kroll, Executive Manager of the Board Office. At
+this time, I do not see any attendees present who have raised their hand in desire of providing public-- in
+desire of providing public comment. Excuse me.
+DOUG TISDALE: All right. Thank you. Yes. Just washed your mouth, can't do anything with it. I know how
+that happens. All right, then we have nothing from public comment from a presentation being made. Were
+there any emailed comments received for today's meeting? Which is a rhetorical question, because I got
+one I know. But let me ask you, Mr. Kroll, if you can identify any emailed comments.
+JACK KROLL: Committee Chair Tisdale, there was only the one item, which I previously circulated, which
+is from Greater Denver Transit, and it was public comment related to the item you will take up under
+recommended actions with respect to TABOR.
+DOUG TISDALE: Right. And just for the sake of clarity on that, it was a recommendation in favor of that
+action on the debrucing of the TABOR amendment. All right, then. With no other, counting Greater Denver
+Transit, with no other participants in the queue, we will close public comment period at this time.
+The next item on our agenda is information from external entities. There is one external entity report on the
+agenda, and that relates to the Build America Bonds. For this item, I would like to ask Doug McLeod, our
+Chief Financial Officer, to introduce this item, someone from his staff, and then our guest from Hilltop
+Securities. Mr. Chief Financial Officer, the floor is yours, sir.
+DOUG MACLEOD: Thank you, Chair Tisdale. Good evening. Doug MacLeod, Chief Financial Officer. I'm
+joined tonight by Brendan Morgan, Senior Manager of Debt and Investments, as well as Mike Newman,
+who is the Senior Managing Director and Regional Head of Investment Banking with Hilltop Securities. And
+Hilltop Securities is RTD's municipal financial advisor. We do have a presentation to walk through that
+Brendan Morgan will take us through. So, Brendan, the floor is yours if you're ready.
+BRENDAN MORGAN: Thank you, Doug. I would be happy to. Is the Board Office going to pull up that
+presentation or-DOUG MACLEOD: I can pull it up if you'd like, Brendan.
+BRENDAN MORGAN: OK. If you've got it handy, that'd be great.
+DOUG MACLEOD: You got it.
+BRENDAN MORGAN: Apologies. Yeah. I didn't realize we were pulling those up. Well, thank you, Doug.
+Again, I'm Brendan Morgan. I'm the Senior Manager of Debt and Investments for the RTD. And this is a
+informational item that we're going to walk through regarding Build America Bonds. So next slide, please.
+
+So the topics we'll cover here include the strategic priority that this informational item ties to, walk through
+an overview of what Build America Bonds or BABs are, why they exist, et cetera. We'll talk about some
+recent events relating to Build America Bonds. And then we'll talk about RTD's existing Build America Bonds
+that it issued way back in 2010.
+So as far as strategic priorities go, this information item ties directly to the financial success of RTD. In the
+finance department, we routinely monitor RTD's debt portfolio and look for opportunities to refinance or
+restructure RTD's debt in order to achieve future interest expense savings or reduce risk. Sometimes, and
+maybe in the short term here, we might be able to accomplish both of those things. There's been some
+current events that may allow RTD to accomplish both of these, or at least one of them. But we will see as
+time passes here. Next slide.
+All right. So we'll start with the Build America Bond overview. Build America Bonds were created by the
+American Recovery and Reinvestment Act back in 2009 to enhance capital market access for local
+governments and state governments.
+Typically, when state and local governments issue debt, we do it as a tax exempt debt, meaning that the
+interest payments that we make to the investors, they get to keep those and not pay any federal income
+tax on those payments. This Build America Bond program encouraged local governments to issue taxable
+debt where the interest payments made to the investors were indeed subject to federal sales tax. So it was
+a higher interest rate than what we would normally issue.
+To make up for that higher interest rate, the federal government agreed to provide a 35% subsidy for any
+interest expense paid for the life of these bonds. Unfortunately, the federal government has not paid that
+full 35% subsidy since 2013. This has left local governments and states that issued these to pay higher
+than expected interest rates since 2013. The subsidy being paid by the federal government this year is
+currently at 33% compared to the 35% originally agreed upon and anticipated.
+All right. This next slide, we'll continue on the BABs overview. It's going to talk about optional redemption
+provisions. This is a bit of a dry topic, but it is very important given some current events that have happened.
+So when it comes to the ability to prepay debt for various reasons, whether an issuer wants to refinance
+the debt or simply pay it off early, there's typically different terms included in various types of bonds. Build
+America Bonds have what's called a make whole call provision as opposed to a par call, which is common
+in the tax exempt bond market.
+I'll explain the difference here. So when we issue tax exempt debt the way we normally do it, we will issue
+bonds and they will have what's called a par call. And it allows us, the issuer, to prepay that debt once a
+certain date is passed. All we have to do is pay out the amount of money that we borrowed and haven't
+paid back yet, that principal amount, and we can be on our merry way.
+The challenge is Build America Bonds have what's called a make whole call. So what a make whole call is,
+you still need to pay that principal amount back, the amount that you borrowed. And then on top of that,
+you have to pay a premium that's essentially equal to the future value of all the interest payments that
+you've not made yet. So it becomes very expensive to prepay the debt early. Next slide.
+So Build America Bonds or BABs typically have an optional redemption and extraordinary optional
+redemption provisions. Both of them are make whole call provisions. The difference, though one is more
+beneficial than the other to issuers like RTD. As I mentioned, the standard make whole call is very
+
+expensive. The extraordinary optional redemption provision is a little bit cheaper. And the difference is really
+in the factor that calculates the present value of those unpaid interest payments that haven't been made in
+the future. So those get cheaper under the extraordinary optional redemption provision.
+Now, what is an extraordinary event? What would allow RTD to use that provision? That's been a good
+question. It's a question that we've bothered our bond counsel with a few times over the past several years.
+But essentially, an extraordinary event is anything that is a material adverse change to specified sections
+of the Internal Revenue Code, in a nutshell. So if that's happened, if such a change has happened, then in
+theory we, the issuer, would have the right to exercise the extraordinary optional redemption provision
+should the board and RTD as a district choose to do so. Next slide.
+So there have been some recent events, mostly around these optional redemption provisions. The biggest
+cornerstone recent event here was a lawsuit filed by the Indiana municipal power agency versus the United
+States. So, as I mentioned, for more than 10 years now, the subsidy for these BABs subsidies has been
+less than originally promised due to sequestration. The Indiana municipal power agency issued BABs just
+like RTD back in 2009, 2010, and they sought to restore their full 35% subsidy payments through the courts.
+This case proved favorable. It provided favorable guidance for issuers of Build America Bonds like RTD.
+Essentially, the takeaway is that maybe we can exercise this extraordinary optional redemption provision
+that our bonds have. And you've seen, if you look at the municipal bond market recently, you'll see a lot of
+these Build America Bonds being refinanced. Every month, it seems like there's a couple of them being
+executed as refunding or refinancing transactions. Most recently in the news, there was an article about the
+New York MTA. Their board authorized staff to approve-- approved for their staff to refund up to $3.7 billion
+of their outstanding Build America Bonds. Next slide.
+So as a result of this lawsuit, most bond councils now view sequestration as material adverse and therefore
+an extraordinary event. This conclusion gives RTD the right to exercise this extraordinary optional
+redemption provision. However, not all investors agree. The University of California Regents recently
+exercised their extraordinary optional redemption provision and received a letter from a group of some of
+their BABs investors stating that they believed the University had no legal basis to exercise their redemption
+provisions.
+The issuers that signed that letter were also buyers of the new bonds that were used to refinance these
+Build America Bonds. So they were angry enough to write a letter, but not necessarily angry enough to not
+continue to invest in the University's bonds. Last week I spoke with Director Tisdale, and he asked a very
+good question. He asked of the investors that signed that letter to the University, are any of them known
+RTD bond investors in our Build America Bonds?
+So that was a good question, I thought. So I worked with our underwriters and we looked at our certificates
+of participation, Build America Bonds. And sure enough, we did find two investors that do own some of
+those certificates of participation, Build America Bonds. Now, there's $100 million of those bonds
+outstanding. We were able to publicly identify $87 million, the owners of $87 million of those bonds. And
+out of that $87 million, these two investors own $1.3 million of the outstanding debt. So a relatively small
+portion.
+One point I'd like to make that I think I skipped over earlier just before we move on regarding the subsidy.
+This subsidy is subject to elimination absent a waiver by the federal government of the Pay As You Go Act
+of 2010. Now, the good news is currently the subsidy is not subject to elimination until September 30, 2025
+
+next year. So it's not going away this year. After September 30 of next year, we'll see. We'll see what the
+federal government does there. All right. Next slide.
+And this is the last slide. All right. So, RTD's BABs. What Build America Bonds do we have outstanding?
+We issued two different series of Build America Bonds back in 2010. The first one is on the top of this slide
+here. It was the certificates of participation series 2010b. Those were issued for $100 million. The proceeds
+were used to fund various, excuse me, FasTracks projects, including two W Line parking garages. The
+coupon on these bonds is 7.672%. There's currently $100 million outstanding, and the final and only
+maturity will be paid in 2040.
+The second BABs that we issued were FasTracks sales tax bonds. They were issued for $300 million, were
+used to fund various FasTracks projects, mostly the W Line. The coupon on those is 5.844, much lower
+than the previous ones. Current amount outstanding is still $300 million. And again, the final and only
+maturity will be paid in 2050. So that's the information we've prepared for you. We'd be happy to answer
+any questions you may have.
+DOUG TISDALE: All right. Thank you very much for the presentation, Mr. Morgan. That is most helpful.
+And what I would like to do at this time is to open up to the committee relative to any questions that you
+may have, unless first, let me ask of our Chief Financial Officer, does Mr. Newman from Hilltop Securities
+want to add anything or supplement at this time or just wait for questions?
+DOUG MACLEOD: Thank you, Mr. Chair. Doug MacLeod, Chief Financial Officer. Before I turn it over to
+Mike, Mr. Newman, I'd also like to mention that this is being brought to this committee at this point in time
+as an informational item. What our plan is, is to come back in July to the committee with a recommended
+action to actually do the refinancing of the $100 million of certificates of participation.
+I think the big win here for RTD is not going to be necessarily much of an interest savings, if any savings at
+all, but to eliminate the risk associated with being exposed to sequestration and possibly losing that subsidy.
+So as you saw, our interest rate that we're paying on those certificates of participation is north of 7%, I
+believe it was. Yeah, 7.672%.
+That's a very high rate. If we were to pay that entire rate, it's much more expensive than our cost of capital
+with our other debt. I think Brendan, Mike, we're somewhere in the range of 2% to 3% on most of our other
+fixed rate debt. So that would be the impetus for asking the board next month in July, asking this committee
+to give the General Manager the authority to go ahead and refinance these $100 million of COPs.
+The other ones, the other 300 million of bonds are out of the money. They don't make sense right now at a
+5.8% interest rate that it would cost RTD more than it would be worth probably at this point to pursue
+refinancing those. But those are still on the table, and we'll keep monitoring those. So thank you for the
+opportunity. Mr. Newman, do you have anything to add?
+DOUG TISDALE: Mr. Newman, please proceed.
+MIKE NEWMAN: I guess, to supplement Brendan's comments, in addition to New York Metropolitan
+Transportation Authority, the Massachusetts Bay Transportation Authority has announced an intent to
+refund $376 million. As Brendan mentioned, the Regents for the University of California have refunded
+BABs in the amount of $1.2 billion. The state of Washington similarly refunded BABs in the amount of $428
+million. The Commonwealth of Kentucky, through its Turnpike authority, refunded $128 million. And Purdue
+University refunded $72.4 million.
+
+So there are quite a number of municipal entities taking advantage of the current interest rate environment.
+As Brendan discussed in his remarks, a make whole redemption provision is designed to make it expensive
+for an entity to refinance a debt, and it's designed to eliminate the ability to refinance debt for a savings.
+We have watched this at the direction of Doug and Brendan for a number of years.
+The other reason it comes to you now, one is the legal events that Brendan touched on. But we're in an
+interest rate where we have very high taxable rates relative to very low tax exempt rates. This is relevant
+because when you calculate the price to pay off the outstanding BABs, you discount those payments that
+are owed at the taxable US Treasury rate. You fund that payment through the issuance of tax exempt debt,
+and currently tax exempt debt is a historically low percent of US treasuries, which makes this affordable.
+And as Brendan said, it is not one being pursued for savings, although there may be some. And there may
+be a loss. It is more about risk reduction.
+And I would ask the board members to consider these two BAB issues are the only issues that RTD has
+outstanding that the interest rate can change. They're the only two. So this simply would make the
+certificates of participation, which are the ones that are economical, would make them like the rest of the
+debt of RTD.
+What it would also do is position RTD in future if interest rates are favorable to refund these BABs post
+refunding once again, because they will be your traditional tax exempt bonds with a 4% or 5% coupon. And
+when you go to refinance them, you would only, as Brendan said, pay the outstanding principal plus the
+accrued interest to the redemption date.
+DOUG TISDALE: Thank you, Mr. Newman. And before turning to Director Broom, who has far more
+experience in this field probably than most of us on this conference at this point. Just to summarize, it's the
+$100 million out of the $400 million total, the $100 million that represents COPs that we are talking about
+doing this refunding of. And many other agencies and public entities around the country have, in fact,
+proceeded in this manner.
+And the two recalcitrant investors in the University of California situation who are investors of ours hold a
+total of something like $1.3 million out of our $100 million that we're talking about in this COPs. And I'm just
+trying to set a risk scenario for the committee to understand before proceeding to a further consideration of
+this. At this point, first, let me ask, Mr. MacLeod, have I misstated anything in my summary?
+DOUG MACLEOD: No, thank you, Mr. Chair.
+DOUG TISDALE: Thank you. All right. Director Broom, you are recognized, sir.
+BOB BROOM: Thank you, Mr. Chair. We currently have an inverted yield curve. Would it be possible to
+extend the debt out and maintain the TABOR exclusion? Or are these securities not involved with that
+issue?
+BRENDAN MORGAN: That is a good question, if I might. The current final payment of the FasTracks debt
+is related to the RTD FasTracks bonds, and that's scheduled for the year 2050. These certificates of
+participation are not limited by TABOR. And beyond that, they also mature 10 years before that final
+payment. So there's really nothing we could do with this particular potential refinancing that we're discussing
+to extend that debrucing that you're referring to.
+BOB BROOM: Thank you.
+
+DOUG TISDALE: And Director Broom, let me ask, does that satisfy the questions that you had at this time,
+sir?
+BOB BROOM: It does, Mr. Chair.
+DOUG TISDALE: Thank you very much. Are there other committee members or board members who have
+questions, either of Mr. Morgan or Mr. MacLeod or Mr. Newman? I see our board chair, Director Davidson.
+You are recognized, sir.
+ERIK DAVIDSON: Thank you, Chair Tisdale. Thank you, everybody, for the presentation here. Very
+interesting and helpful. One question I had, and I apologize if I missed this, and I think maybe, Mr. Newman,
+you were touching on this a little bit. On packet page 11 in the slides, I think it was slide six, it's noted that
+the difference between the two provisions being the optional redemption versus the extraordinary is really
+the discount factor.
+So I had two questions. One is what is the delta between the discount rates? Maybe it's three questions
+here. What is that delta and how are those set? Sort of part one. And part two, are there other provisions
+that we need to be thinking about that could have any ramifications beyond the discount rate?
+DOUG TISDALE: Mr. Morgan, are you in a position to respond to that or do you want Mr. Newman to cover
+it?
+BRENDAN MORGAN: I'm happy to take a first swing at it here. So I don't have the bond indenture in front
+of me right now that has those exact rates, but the indenture defines the discounting calculation and it points
+to US Treasury securities. If my memory serves me right, because I may be mixing up the bonds versus
+the COPs, they might be the same. I don't recall off the top of my head. However, they're somewhat flexible.
+It points to US Treasury rates, and within the past year, as I believe it's worded. So it gives a little bit of
+flexibility.
+One of the things that the University of California Regents investors were discussing was that calculation.
+And they wanted to be able to understand it. So I think other issuers, I suspect, are going through that with
+their investors as well to make sure that they're on the same page. And it's something we'll have to tread
+carefully with if we were to pursue this potential refunding.
+We would probably notify the market ahead of time and say that this is a potential transaction that the board
+has approved or is going to consider something like that at some point in the future so that the investors
+have time to look at the documents and wrap their mind around it and then come up with questions before
+anything actually happens. But I'd be happy to defer to Mike Newman as well, if you'd like to add any color.
+DOUG TISDALE: Mr. Newman, please.
+MIKE NEWMAN: Following on from Brendan's remarks, the issue, setting aside potential disagreement
+whether that extraordinary event has occurred, the challenge in executing the refundings has been
+calculating that make whole price. Because the documentation for those bond issues was not clear. That
+has been the overriding complaint that I've heard. Knowing that, one of the first things we did is we looked
+at the RTD documents. And fortunately, or reflective of the quality of bond counsel engaged by RTD, it is
+explicitly clear how to do the calculation in the RTD documents.
+To Director Davidson's question and following along Brendan's, the discount factor is the difference
+between the extraordinary and the optional make whole redemption. They both refer to the US Treasury.
+
+The difference is the margin over the US Treasury that is added to come up to the total discount factor. I
+don't recall off the top of my head what the delta is between that margin, but it's the interest margin where
+your delta is. Both used the same treasuries, et cetera. They define where we look to see the Treasury rate
+and when we do so. But it's that margin that is different that creates the enhanced opportunity through the
+extraordinary. And we can follow up with you.
+DOUG TISDALE: And Chair Davidson, is that responsive to your question then?
+ERIK DAVIDSON: Perfectly. And I don't need follow up on the numbers. That answered it better than I
+asked the question. That's exactly what it did. Thank you.
+DOUG TISDALE: All right. Thank you, sir. And in any event, let me point out that we have between today's
+date, June 11 and July 14, before this matter comes back to us potentially as a recommended action to
+address various questions that might arise, either in the minds of the committee, other Directors, or for that
+matter, investors who will be receiving notice relative to RTD's consideration of this action. At this point,
+any other comments or questions from the committee or from any other board members?
+All right. Seeing none, gentlemen, thank you very much for a good presentation, Misters Morgan and
+Newman. Nice job on that. We appreciate it. And we now turn to our next item on the agenda, which is our
+regular monthly update from the Revenue Diversification Working Group. And for these purposes, we
+always defer to our board Chair Davidson to present this item, because he's a part of that Revenue
+Diversification Working Group. Chair Davidson, you have the floor.
+ERIK DAVIDSON: Thank you, Mr. Chair. I'll keep this very simple, because I'd like to defer some comments
+to a later agenda item. But the Revenue Diversification Working Group did meet twice since we last
+convened at this committee here, once on May 28th and once on June 3rd. While there have been several
+topics, the two primary topics of those last two meetings have really centered around the new legislation,
+most notably SB 2432 and SB 24184. I'm sorry, 230 with respect to those measures that have added
+available revenue for transit. So SB 2430 being the oil and gas production fees and SB 32 being methods
+to increase the use of transit.
+So we had a brief conversation around SB 32 and the $5 million that will be available for RTD to pursue for
+its Zero Fare For Youth program. There will be more coming on that. I expect, Mr. Chair, you to will be the
+one to be shepherding that very soon here as we start to discuss that program.
+SB 24230 being the oil and gas production fees. Largely the conversation is too early to know how the
+formula funding will be calculated at the Clean Transit Enterprise or CTE, and what revenues will be
+available to RTD and under which conditions. So that's certainly something that staff will continue to follow
+and this board will be hearing about in the months and the years ahead.
+As everyone will recall, the large conclusion of the Revenue Diversification Working Group when looking at
+our opportunities of what we can do inside the agency and what's going on more broadly was really to look
+to our state partners to identify new sources of funds. So this is great to see that the state is working on
+those. And we have work to do now in partnership. I suspect in many ways, that will start to shape and
+inform what we would like to do with the Revenue Diversification Working Group moving forward, which I'm
+committed to working with Committee Chair Tisdale here to determine and with staff as well.
+The other major topic that we discussed, which has taken up quite a bit of the time of discussion at both of
+the last two meetings, is the TABOR cap calculation. And if it's OK with you, Mr. Chair, I'd like to defer some
+
+of the comments I have regarding that to one of our recommended actions, at which time I would love to
+make some comments to offer some of the perspectives and calculations of the group.
+DOUG TISDALE: I think that's a prudent decision and we appreciate your suggesting that. We'll proceed in
+that manner. Are there any questions or comments of Director Davidson relative to his report on the
+Revenue Diversification Working Group?
+Seeing none and anticipating there will be a fulsome discussion on the next item, we turn to the first of our
+two recommended actions that we have on the agenda this evening. The first recommended action is for
+the Taxpayer's Bill Of Rights or TABOR ballot initiative.
+And this recommended action is for the Board of Directors to adopt the attached resolution number blank
+series of 2024, submitting a ballot question to the eligible electors of RTD at an election to be held on
+November 5, 2024. To wit, without imposing any new tax or increasing any tax rate, authorizing RTD to
+continue to collect, retain, and spend all revenues it receives from whatever sources without regard to the
+limitations set forth in the Taxpayer's Bill Of Rights, TABOR. May I have a motion?
+LYNN GUISSINGER: So moved.
+DOUG TISDALE: And is there a second to Director Guissinger's motion?
+BOB BROOM: Second.
+DOUG TISDALE: And Director Broom is the second. So I have Guissinger as the movement and Broom as
+the second. I would now like to call once again upon Doug MacLeod, our Chief Financial Officer, to begin
+the presentation on this item. Mr. MacLeod, the floor is yours, sir.
+DOUG MACLEOD: Thank you, Chair Tisdale. Doug MacLeod, Chief Financial Officer. And I would like to
+defer to Board Chair Davidson to describe this item. But essentially, we've brought this to this committee
+and the board TABOR discussions in the past on several occasions.
+This is a critical item for RTD or a critical concern going forward, the TABOR impact the revenue growth
+limitation may have on RTD going forward. So it's definitely a concern that we've been discussing for better
+than two years now in terms of what that impact would look like. We know that it will be negative. It won't
+be anything good for RTD at some point, we just don't know when. So at this point, Mr. Chair, if I may turn
+it over to Board Chair Davidson to discuss this item, I'd appreciate it.
+DOUG TISDALE: Board Chair Davidson, you are recognized, sir.
+ERIK DAVIDSON: Thank you very much, Committee Chair Tisdale, and thank you, Mr. MacLeod. I'll keep
+this very brief. I know we've discussed this and certainly don't want to overcomplicate this, but did want to
+share a few perspectives and then very happy to answer questions, as we have others here who can do so
+as well.
+As members of the committee and the Board will recall, the revenues that will be subject to TABOR at the
+end of this year were we not to proceed or succeed with a ballot initiative would be approximately half of
+our revenues. That would be $600 million. The question then becomes, what is our risk exposure if we did
+not pursue or succeed in a TABOR exemption? And this is an interesting question that turns out to be quite
+difficult to answer on a looking forward basis, and I want to highlight why that is and then highlight some of
+the things we've done to better quantify and understand it.
+
+I'll start with one of the simplest things we've done to quantify and understand it that we have previously
+reported on and I touched on in some slides some time ago, which is talk to other government entities who
+have not succeeded or not pursued TABOR exemptions. And what is the magnitude of refunds that they
+have faced? And those ranges that we have been provided run between 7% and 11% And that would be
+pretty dramatic were we to apply that to $600 million. And that gives you some idea of where the upper end
+of some of the risk exposure may be in a year where we have refunds.
+But then the next question is, OK, well, will we face that or not? What can we forecast? And at this moment,
+I want to talk a little bit about some of the dialogue that the revenue diversification working group has had
+with our subject matter experts on staff trying to answer the question of how do we calculate our TABOR
+cap? And this is a little bit of a buckle up, because we are collecting sales and use tax revenue.
+And yet our calculation for the TABOR cap is not tied to sales and use tax and trends with consumer
+spending. What TABOR is tied to is our cap is calculated as a function of the revenues we collected in a
+given year and then applying to that two things. A CPIU growth rate, which is a consumer price index for
+all urban consumers, and then a local growth factor. And that local growth factor is calculated using the net
+change in actual value of all real property in the district.
+So this is actually a function of looking at additions to taxable real property value as well as deletions, which
+can come from, for example, destruction of property. So despite the fact that we're collecting sales and use
+tax and should we have to refund that, that's its own question of how you even go about doing that. The
+calculation of our TABOR cap is tied to the consumer price index, basically inflation, and the changes to
+real property value within the district.
+So the reason I highlight that is forecasting this requires not only forecasting our sales and use tax revenues,
+which of course, we do regularly with the CU Leeds School of Business. And then looking at are we on the
+low side and do we choose to look at low projections versus more optimistic projections. It also requires
+visibility to inflation that is largely out of our control and then also is tied to property value, which a number
+of things outside of our control, not the least of which is other legislative activity, can influence. So it
+becomes very difficult to forecast.
+What you can do is look back and you can look back and see what may have happened in certain years.
+And what I would say is to me, this is as simple as a Board Director looking at this, when I consider that we
+had polling results that were within the margin of error, close to 70% in favor of this, what we're really asking
+ourselves is, how much risk do we want to expose ourselves to over time?
+We've talked about the ratchet down effect. When we have a year where economic conditions are just
+slightly against us, inflation isn't where we need it to be for the right cap, we didn't collect as much sales
+and use tax as we thought, or that change in property value wasn't as favorable, we are exposed to a
+refund. And once you do, you ratchet down the minimum level of revenue that-- or I'm sorry, the maximum
+level of revenue you're allowed to collect. Almost certainly, and most notably, if there's an economic
+downturn, the same thing happens and you're now subject to chronic refunds and don't get to benefit from
+the rebound in the economy.
+So one thing I did just with our staff here, and it's a little hard to go hypothetical, but it's just to look back.
+What if we had not been exempted from TABOR coming out of the economic shock of COVID? So as we
+went from 2021 to 2022, what if we were not exempt from TABOR in the year 2022?
+
+Well, we would have been facing potentially, and I want to be careful on how I phrase that in looking back
+to those local growth factors, potentially on the order of about $50 million, potentially a little bit more,
+potentially a little less. And then we'd have had a chronic effect still in the tens of millions of dollar range in
+the next year. That's an example of where we would have felt that shock. That shouldn't be surprising,
+because that's on the order of magnitude we have heard in that 7% to 11% from other government entities.
+Are we forecasting an immediate refund right now? No, not in the year that we're currently in. But really
+what we're playing with and looking at is how sure are we of our revenue forecasts? How sure are we of
+changes in our ability to forecast property value in the delta? How likely are we to be able to forecast
+inflation? And how confident do we feel in projecting macroeconomic conditions?
+And that really concludes my thought when I look at this. When I do the look back and say, wow, our risk
+exposure can be tens of millions of dollars in a bad year and I see the polling results come in close to 70,
+to me, it's an easy answer as a Board Director to say that we proceed and move forward with that. So with
+that, I will stop there and hand it back to you, Mr. Chair, and certainly happy if you'd like to defer to others
+on the call that are here to answer the questions.
+There is one, I'm sorry, there is one final note I want to make, because there is the question as well, which
+is separate around fair campaign practices and what the Board will be able to do as we consider this. Rather
+than have that be part of the conversation today, I did just want to highlight to you, Mr. Chair, and to my
+colleagues here, call everyone's attention to the memo that was sent by General Counsel Snyder regarding
+fair campaign practices.
+Also to let you all know that her office is developing an FAQ to help guide us even further in that. And after
+conferring with many of you and conferring with General Counsel, I have concluded that it will be best to
+proceed with an executive session at our regularly scheduled Board meeting at the end of the month should
+the Board decide to refer a measure, at which time General Counsel and her team can speak to us about
+the campaign issues regarding this and what RTD can and can't do. So that's a completely separate thread.
+Thank you, Mr. Chair, for allowing me to touch on that. I'll hand the floor back to you, sir.
+DOUG TISDALE: Thank you very much, Mr. Board Chair. We appreciate that, Director Davidson. The
+important point I wanted to highlight there is don't get too intimidated by this, folks. And just to bring it down
+a level to understand, generally speaking, after a governmental body decides to send something to the
+voters on the ballot, the body that sent it cannot actively campaign for or against that measure.
+They can, however, being free citizens entitled to their First Amendment rights, have an expression of
+information regarding that item, but not advocacy regarding that item. That's a very brief primer subject to
+so many footnotes that this meeting would go on forever. But I wanted to give you that just so you didn't
+get too intimidated by the discussion.
+I will also note for the sake of the record that we have with us Dalton Kelly, an attorney from Butler Snow,
+who is a public finance expert with experience in these matters and a good DU law school grad. And to the
+extent that we have very basic information questions, he may, as appropriate, weigh in on this.
+But I am also advised that Mr. Kelly will be available to us at the Board meeting at the end of the month,
+wherein we anticipate, should this matter go forward, having an executive session where we could receive
+further legal advice, not only from our General Counsel, but from Counselor Kelly.
+
+Now, with all that said, committee members, committee members with questions or comments regarding
+this recommended action item to refer a ballot measure to this November's ballot for what is popularly called
+the debrucing of RTD. I see no committee members indicating a desire to speak at this time. Let me open
+it up then to other Board Directors who are in this meeting. Do any of you have any further questions or
+comments at this time?
+Ah, we go back to committee member Catlin for a first comment, and then we'll refer to Director Guissinger.
+But madam Board First Vice Chair Catlin, your thoughts.
+PEGGY CATLIN: Thank you, Mr. Chair. I will be a yes vote for this. But I want to qualify it by saying I believe
+that there are some really good provisions generally in TABOR. But because we are asking for an extension
+of that which we already had as a TABOR exemption, I am in favor of that, because it would essentially be
+a net negative if we decided not to go forward. And I believe in allowing the voters to vote on this. And so
+therefore, I am definitely a yes on this particular measure as narrowly defined by this particular
+circumstance. Thank you.
+DOUG TISDALE: Thank you very much, Director Catlin. We appreciate that observation. The important
+thing that I would like to highlight from that too, is once again, this board believes in allowing voters to have
+a voice in how RTD is governed and how RTD proceeds. Madam Board Second Vice Chair Guissinger,
+Director Guissinger, you are recognized.
+LYNN GUISSINGER: Thank you very much, Mr. Chair. And I just wanted to add my voice. I think that this
+is the right thing to do, as our Chair said. Our polling numbers were very good, 68%, 70%. We looked at a
+sunset provision, decided it was very close in terms of what support we were giving. We are already getting
+lots of people who are asking about what the situation is and wanting to be educated.
+And thank you for your comments and for setting the executive session, Chair Davidson. I think that we will
+be looking to all of the board to work with your constituents and your electeds and others to understand
+what we're doing. And just to be clear, as elected officials, we do get to have opinions and share those with
+the people around us in terms of supporting this. So it'll be a big season and I'd say I definitely agree. Let's
+move it forward.
+DOUG TISDALE: And thank you very much, Director Guissinger. We appreciate that. And in particular,
+because his name was invoked, but also because he has raised his hand, Board Chair Davidson, you are
+recognized, sir.
+ERIK DAVIDSON: Yeah, thank you, Mr. Chair. I just would be remiss in-- I did want to say this. A lot of
+effort has gone into getting to this place and understanding and quantifying this. Thank you to everybody
+on staff who has participated and helped with this.
+But I would also like to just say, just as she spoke, thank you to Second Vice Chair Guissinger for her
+leadership. The investigation under this, the drive to go after this really started under your leadership as
+Chair. And you have not let this issue go and been pushing on it and really appreciate the help and just
+wanted to publicly thank you for the leadership and the work in making this get to this point. Thank you.
+DOUG TISDALE: Very appropriate, and we appreciate that expression. Are there other committee
+members who wish to weigh in at this point? Otherwise, I'm going to open up to the other Board Directors
+in this meeting to add any comments that they might choose. So please indicate by raising your hand.
+
+I see at this time, there are no indications of any committee members or directors with a desire to speak
+further on this topic. So we will then proceed to the vote on the resolution on this recommended action with
+the movement being Director Guissinger and the second being Director Broom. Let me ask, are there any
+no votes on this action?
+Then we have six votes in favor. No negative votes and no abstentions. Therefore, that motion passes
+unanimously and the matter will proceed to the full board for our regular board meeting at the end of this
+month.
+The second recommended action this evening is for the Central Park Station development negotiation. This
+is a recommended action for the Board of Directors to authorize the General Manager and CEO or her
+designee to negotiate and execute an exclusive negotiation agreement referred to as an ENA with Ulysses
+Development Group for the future lease and development of the real property located at 3801 North Ulster
+Street, Denver, Colorado. May I have a motion?
+MICHAEL GUZMAN: So moved.
+DOUG TISDALE: I have Vice Chair Guzman as the movement. Is there a second?
+LYNN GUISSINGER: Second.
+DOUG TISDALE: I heard Director Guissinger first, so I'll take you as the second on this matter. And
+recognize, one thing I'd like to emphasize first for the discussion to keep it in context, this is for an exclusive
+negotiation agreement. This is not the consummation of a lease or sale of property. It is to approve a
+negotiation agreement. And so I would call upon Chessy Brady, who is the Manager of Transit Oriented
+Development of RTD, to present this item. Ms. Brady, the floor is yours.
+CHESSY BRADY: Thank you, Chair Tisdale. Yes, good evening. I'm Chessy Brady, Transit Oriented
+Development Manager. And happy to bring this to you this evening. As Chair Tisdale summarized from the
+action itself, this is an authorization from the board to negotiate with the developer, Ulysses Development
+Group, about this westernmost parcel in the Central Park Station.
+It is generally an exclusive negotiation agreement. It's mostly to give confidence to Ulysses Development
+Group, UDG, that we are exclusively negotiating with them. They can invest time. They can invest money.
+We're not talking to anybody else. And during this process, we will begin and terminate and finalize the
+negotiation of a ground lease. But to start, it's just kind of opening the doors to get to that ground lease,
+which we'll eventually bring back to the board when we have a set of terms.
+So I went through the presentation when this was a discussion item last month. I'm not going to go through
+it again, but I do have it. I'm happy to bring it up if there are questions or to answer any other questions that
+you may have.
+DOUG TISDALE: Thank you, Miss Brady. And yes, we did ask Miss Brady if she could forego simply
+presenting what she already told us just a month ago, figuring that we could at least remember what
+happened last month. And so we're here now for any further questions, clarification, or issues associated
+with the motion that anyone would like to raise. So let me go first to Board Second Vice Chair Guissinger.
+You are recognized.
+LYNN GUISSINGER: Thank you, Mr. Chair, and thank you, Miss Brady. I noted in the Board report that it
+mentions the new legislation, which I think was ultimately SB 230 that authorized RTD to sell property at
+
+less than fully fair market value. That's a piece of this conversation. Is that something that may make a
+difference here?
+DOUG TISDALE: Miss Brady.
+CHESSY BRADY: Thank you. Yes, the ground lease, the price of the ground lease itself will be an important
+topic that we will negotiate with the developer. Up until this point, we were expecting it to be a fair market
+value. I have no doubt that they will request less than fair market value. And we'll work with the Board and
+work with staff to determine and also work with our partners in the state and the city to determine what is
+appropriate, what makes sense for RTD. We have the equitable TOD policy, and we'll use that as guidance,
+but we'll come back to the Board with more information about that policy in general in the coming months.
+LYNN GUISSINGER: Thank you very much. Moving that policy forward a couple of years ago, maybe even
+longer, and for moving this forward. It's great. Thanks.
+DOUG TISDALE: And to quote an ancient maxim of the law, there's no harm in asking. So perhaps they
+will cognizant of that statutory change make such a request. Mr. Vice Chair Guzman, you are recognized,
+sir.
+MICHAEL GUZMAN: Thank you, Chair. Miss Brady, I just want to make sure we-- and I'm just not sure on
+this. We're not talking about selling this real estate. We're talking about a long term lease on this property,
+correct? Just for clarification.
+DOUG TISDALE: Miss Brady.
+CHESSY BRADY: Thank you. Yes. The only disposition method under consideration is ground lease. We
+are not considering leasing-- we are not considering selling the property.
+DOUG TISDALE: Thank you for that clarification. I think that's something that we all need to make sure we
+keep in mind as we look at these dispositions of real property. Are there other questions from the committee
+relative to this second recommended action as moved by Vice Chair Guzman and seconded by Director
+Guissinger? Director Ruscha, you are recognized.
+JOYANN RUSCHA: Thank you, sir. Just for our edification, could staff once again repeat, because we have
+the word execution in this recommended action, the line between staff's delegation and what the board
+would eventually have to approve?
+DOUG TISDALE: Thank you very much, Director Ruscha. And I think that Miss Brady can respond to that.
+But I will initiate the response by saying, again, this is for a negotiation agreement to be entered into as an
+exclusive negotiation agreement. It is not the actual disposition of the property by way of lease or otherwise,
+which is a separate matter that would come back before the board for final approval. But let me ask Miss
+Brady to weigh in and affirm or refute what I have said.
+CHESSY BRADY: Thank you, Chair. Thank you. You covered it. It is indeed-- I'm looking at the action. It is
+for the General Manager and CEO or her designee to negotiate and execute an exclusive negotiation
+agreement and for a future lease. So no disposition approval at this time.
+DOUG TISDALE: Thank you very much. Director Ruscha, does that respond to your question?
+
+JOYANN RUSCHA: Yeah, it does, Mr. Chair. I just wanted to make sure I understood because we also had
+similar actions in recent history. And I had just taken a look at our unsolicited property proposal guidelines
+and was making sure we haven't deviated from that. And if I could put this in more plain language, my
+understanding is that we had a proposal that was effectively put out to bid, for lack of a better phrase, and
+RTD said, I choose you to continue the conversation and that's where we are. So I just wanted to make
+sure that my understanding is what is transpiring, and it sounds like that is the case.
+I also just wanted to make a comment. And I alluded to this at our last meeting. The initial proposal for this
+development, as stated by the developer in the public forum, has changed a little bit from what staff has
+presented us, including the number of units and potentially how many would be affordable, and how
+affordable will be measured. And so to that end, if staff has any more updates since we last spoke, I think
+that would be helpful for the board to chew on before this goes for action at the board meeting. Thank you.
+DOUG TISDALE: Thank you very much, Director. And obviously, without negotiating against ourselves in
+this discussion and creating lines in the sand that may or may not be mutable, let me ask Miss Brady if she
+has any comment in response to your question.
+CHESSY BRADY: So as stated in the action in the report, UDG is expecting at this point approximately 800
+affordable units. Sometimes they have submitted documents that say 800. They have said more. And that
+will continue to change during the negotiation period, based largely on financing, which comes from the
+federal government, the state government, city governments. So we will be watching that very closely. But
+our intent is to-- or I should say our staff intent is to achieve high density and high levels of affordability on
+the site.
+DOUG TISDALE: Thank you very much, Miss Brady. And Director Ruscha, I see your hand has popped up
+again. I take it you'd like some further clarification on that. You're recognized for that purpose.
+JOYANN RUSCHA: Thank you, sir. Just maybe a comment. Director Guissinger had referenced a recent
+change to state statute, and that is a tool we have in our toolbox. And I would just opine this is also a matter
+of public interest. And so I just strongly encourage staff and leadership to, if we move forward, to see what
+is possible to make those units as affordable as possible.
+Just as several people have noted in and out of this forum that using a metric such as AMI is not necessarily
+what most people quantify as an affordable unit. So I recognize that this potential partner might have some
+restraints, especially if there are HUD dollars attached. But I think I just, again, want to encourage staff to
+use the tools that we have in our toolbox to cover those gaps. Thank you so much. And I also just really
+appreciate the team for working on this. It's in my district, and I hope to be at the ribbon cutting ceremony
+if all proves successful and beneficial.
+DOUG TISDALE: Thank you very much, Director Ruscha, and a very worthwhile annotation by you relative
+to this dialogue. Thank you. Director Broom, you are recognized, sir.
+BOB BROOM: Thank you. Chair. Will there be shared parking use at this site and/or will there be diminished
+parking based on the fact that this is close to a TOD site? And has there been any experience in Denver
+where projects have been built with less parking? And what has occurred on the side streets around those
+projects?
+
+DOUG TISDALE: Thank you, Director Broom. And Miss Brady, I know that you had addressed some of
+those parking issues in your presentation previously, so you may have that information readily at hand. If
+you could respond to Director Broom's question, please.
+CHESSY BRADY: Sure. So there's two ways of looking at parking on this site. One is the removal or
+reduction of RTD customer parking. And the plan is to remove the approximately 650 RTD spaces currently
+located on the parcel. As I describe in the action, we feel that that's an acceptable reduction based on
+current utilization and even past utilization.
+The other side of the parking equation is how many parking spaces would be provided for the future
+residents. And Denver has very liberal laws or ordinance requirements for requiring parking for residents,
+especially in affordable developments. So the parking requirement from a zoning perspective would be very
+low to nothing. And so we will work with the developer to ensure that they are providing enough parking so
+that there is not spillover into the other RTD parcels, which would happen on this site.
+And this is something that we follow very closely for affordable developments, market rate developments
+across the district, and are really trying to keep tabs on in order to make sure that we're building the right
+amount of parking. Not too much, not too little. And that's a changing data point as well. So we will keep
+watching that as this development becomes more concrete.
+BOB BROOM: Sounds like we want Goldilocks parking. Thank you.
+DOUG TISDALE: Thank you, Director Broom, for stealing my line. I was going to say, we have built
+something that is Papa Bear parking and our usage has definitely been Mama Bear on a diet. And I think
+that's some of what has motivated the willingness of staff to present this item to us at this time. Director
+Broom, did you have anything further you wish to say at this time?
+BOB BROOM: Not at this time. Thank you, Chair.
+DOUG TISDALE: Thank you very much, sir. Director Lewis, you are recognized, sir.
+JAIME LEWIS: Thank you, Mr. Chair. And thank you, Chessy, for all the work you're doing on this. As you
+know, this is just the beginning of a long process. As you know, the media only reports on RTD if there's
+something negative going on. So I'm just curious if we can squeeze some PR out of this while it's fresh,
+because obviously, we're talking a year or two years down the line before this thing actually starts to actually
+grow. So I'm hoping maybe you can work with our department to get something out there to the media.
+CHESSY BRADY: I have done the interview, so we'll see if it becomes an article.
+DOUG TISDALE: Thank you very much, Director Lewis. Anything further from you on that point, Director
+Lewis, or any other point?
+JAIME LEWIS: I'm fine. Thank you, Director.
+DOUG TISDALE: Thank you. And I know that Mr. Stewart Summers, our Director of Marketing and
+Communications, is here with us as well. And am certain he's taking copious good notes relative to all of
+this. So we thank you for that affirmation, Mr. Summers. Any other comments from any committee member
+or from any Board Director relative to this second recommended action?
+
+Seeing none, we're ready for a vote on this. And at this time, I would ask for any no votes on this
+recommended action that was moved by Committee Vice Chair Guzman and seconded by Second Vice
+Chair Guissinger. The chair hears no no votes, and therefore the vote will be recorded as six members of
+the committee in favor, no members of the committee opposed, and one excused absence from this
+meeting. That concludes the recommended actions that we have on our agenda this evening.
+Now we will move on to our discussion items where we have four discussion items that are listed on the
+agenda. The first of these discussion items is the Zero Fare For Youth pilot program. And I would like to
+ask at this time once again for our Chief Financial Officer, Mr. Doug MacLeod, to present this item with his
+staff. Mr. MacLeod, the floor is yours, sir.
+DOUG MACLEOD: Thank you, Mr. Chair. Doug MacLeod, Chief Financial Officer. I am joined this evening
+by Monika Treipl-Harnke, who is RTD's Senior Manager of Revenue. I would like your permission, Mr.
+Chair, to relinquish the floor to Miss Treipl-Harnke as I pull up the presentation. We have a presentation to
+walk through for this discussion item.
+DOUG TISDALE: Thank you very much. It's the committee's pleasure to hear Miss Treipl-Harnke now.
+Assuming, that is, that she goes off mute.
+MONIKA TREIPL-HARNKE: There we go. OK, can you hear me now? Sorry about that. Yeah, I had some
+funny messages. OK, thank you, Mr. Chair. Again, my name is Monika Treipl-Harnke. And I will be Senior
+Manager of Revenue. And Doug MacLeod very kindly offered to run the presentation for me.
+This is going to be pretty brief, I think. And I apologize for the strange background here. I'm just going to
+briefly go over the background of the Zero Fare For Youth program at RTD, about the pilot program, and
+then the next steps about extending this Zero Fare For Youth initiative for an additional school year. So let's
+start with that.
+So this all started with the system wide fare study and equity analysis, the goals of which were equity,
+affordability, and simplicity. This was an initiative that fit all these three goals. It was originally started as a
+pilot program, and we're still in the pilot program phase. The purpose of this pilot program was to provide
+no cost transit to youth, children and youth up to or ages 19 and under. So really until your 20th birthday,
+you're eligible. And this would be free boarding on all RTD services.
+And yeah, so that we worked really hard to get that going for the school year, last school year starting in
+September 2023. It was a pilot program. We were able to get a extension from the FTA and the permission
+to do this for 12 months rather than just six months in order to capture a full school year.
+The fare change requirements should we now continue this program for the FTA do kick in, meaning an
+equity analysis is required. This was not required for pilot program. And Carl Green, our Director of Civil
+Rights, did present that to you last month in this committee meeting. So let's keep going.
+This is just for comparison. Under this current fare structure that we have in place, there is a youth fare. It
+is just not being collected right now for this 12 month period. So the youth fare would be $0.85 for the three
+hour pass. And currently everything is 0. And then, of course, we have the day and monthly pass prices as
+well. This is a 70% discount off the regular standard fare.
+OK. So the evaluation of the pilot and also some of it was already in the equity analysis, the draft equity
+analysis that Carl Green presented last month. It was operational impacts where we were wondering if
+
+there would be some negative ones, and really there weren't any. Either there were no operational impacts
+or very minimal.
+Community and customer feedback was very positive from inception of the program to now. Good media
+coverage as well. Financial impacts were below the forecasted foregone revenue. And we'll look into that
+in a little bit. And of course, we at RTD want to encourage the early use of transit. Let me just move my
+computer so I'm not in the sun anymore. OK. All right.
+So we'll talk about the increase right now with this slide. But I think we can really say this has been a really
+big success. So let's talk about the increase in what we would expect. So you see this jump in youth
+boardings based on the Zero Fare For Youth initiative. And this assumes that the initiative would continue
+not as a pilot, but as a regular program. This was based on data that was collected also in conjunction with
+the equity analysis. And it's really based on past boardings, counted past boardings on fixed route buses.
+Let's see. So I should narrate this a little bit. So you see that we estimated 10.4 million youth boardings in
+2023, which was an increase from the 9.3 million in 2022. And we would expect another jump to 13.7 million
+youth boardings in 2024. So just as a reminder, being that it started the program, the pilot program started
+in September, it means that 2023 had a few months of the pilot program. And 2024, should this program
+continue, we'll have a full 12 months of the Zero Fare For Youth.
+OK. And then foregone revenue. So the estimate for foregone revenue is 2.9 million. This is actually for
+2025. So 2.8 million for 2024. I do want to explain the chart a little, because you can see 2023 revenue.
+This is not foregone revenue, but this is actual revenue collected from youth boardings. And that's 3.7
+million.
+And what we did, what our consultants did is they took the youth boarding numbers and assumed if we
+hadn't provided Zero Fare For Youth, then the numbers would not increase. And so the numbers pretty
+much stayed the same or increased very moderately for the boardings. But then the average revenue per
+boarding decreased because of our new fare structure.
+So there's two things that changed just as-- in September 2023, we started the Zero Fare For Youth
+program. And then as we know, in January 2024, all the fare decreases took effect. So we're looking at two
+different variables here. And that's how we come up with this 2.8 million in foregone youth fare revenue. It's
+only a very slight increase predicted for the years afterwards. Because by the time the program is fully
+implemented, youth ridership would stay pretty much stable and just grow by the regular overall ridership
+forecasts for our overall ridership.
+OK. So the impact. We contacted some school districts. Or all of them, but got some responses about a
+positive impact to truancy rates. That was specifically Boulder Valley School District. And then we had some
+other feedback about higher regular usage by students, usage for field trips by students and teachers, but
+we didn't get numbers for that. That was more of an anecdotal conversation.
+Before this pilot was started, there was some internal and external conversation. Will this lead to disruptive
+behavior maybe if we have more youth boarding and children? And there is no issues reported. Nothing of
+significance, nothing systemic. Of course, customer boarding is faster when there is no fares to be paid,
+people looking for cash.
+And then from a public input perspective for this more permanent program, this is going to be part of the
+service changes public process. So this is, for example, there will be six public service or six public meetings
+
+and they're going to start next week. So there's going to be six meetings over two weeks. And this is going
+to be the Zero Fare For Youth will be part of the presentations at those meetings. And people will have an
+opportunity to provide feedback, people and organizations. So we'll have that information.
+The Title VI analysis. I already mentioned that Carl Green, our Director of Civil Rights, he presented to you
+last month at this committee meeting. There was no disparate impact or disproportionate burden present
+for customers covered under the Civil Rights Act under the Title VI. So no impact on or no negative impact
+on minority and low income populations. Let me just keep going.
+So the estimated financial impact. We already saw that on the last slide. We expect about $2.9 million in
+foregone youth fare revenue. That's for the year 2025. We expect about $410,000 in estimated expenses.
+That would be marketing, language assistance, survey, providing an annual report. And then there might
+be some other miscellaneous expenses as we get and understand the grant rules and see what other
+expenses may be covered.
+And speaking of grant rules, the Senate Bill 24-032 was passed in May and signed by the governor. It's
+methods to increase the use of transit. So under this state grant, it establishes a state grant, $5 million
+available for one year. This is specific to RTD and specific to the provision of free services for youth or zero
+fare services for youth.
+Grant rules and grant applications will be available in July and should the board decide RTD will apply for
+this grant. And then future funding is subject to future state appropriations. So while we like to say, oh,
+instead of a pilot program, let's make this a permanent program, from a state funding perspective, it's really
+going to be year by year subject to the appropriations.
+And then next steps. So I keep referring to it. You already heard from Carl Green, the preliminary equity
+analysis, last month. Now we are having this conversation about the discussion item for extending the
+program beyond the pilot. So next month in July will be the official discussion. The Title VI equity analysis
+will be presented again by Carl Green and will be for your consideration as a recommended action.
+And also the recommended action to extend this program past the pilot program, so past August 2023, will
+also be coming to you on July 16th. And then two weeks later, July 30th, we will be asking for your final
+consideration and approval if that is desired. And that will be, again, the Title VI equity analysis and the
+program continuation. And thus thank you. And please ask any questions.
+DOUG TISDALE: Thank you very much. We appreciate that, Miss Treipl-Harnke. Nice presentation. And
+this is a matter that we have discussed numerous times over the course of this committee, including the
+excellent presentation by Mr. Carl Green relative to the Title VI impact. So I know that many questions that
+had previously have already been responded to.
+But this is an opportunity first for committee members to ask any questions or to make any comments
+relative to this discussion item. You're not being requested to take any action tonight, but to have further
+discussion. So are there any committee members with questions or comments relative to the Zero Fare For
+Youth pilot? Mr. Vice Chair, you are recognized, sir.
+MICHAEL GUZMAN: I just want to say thank you for putting the numbers together in terms of forgone
+revenue as compared to what is available. I'll be interested to see what happens. But given that the state
+made it dependent on future appropriations, I'm grateful for having that available, because I'm really excited
+about having the free fare for youth, especially since that is all year long and it serves a much needed
+
+purpose. So I just wanted to say that. That was one thing that I was wondering about, so I'm glad it's in the
+presentation. That's all. Thanks.
+DOUG TISDALE: Thank you very much, Mr. Vice Chair. Appreciate that. And I do want to say, and I see
+that Mr. Summers is still with us here, I loved the ad that we put out on social media of, and I'll say this word
+even though someone may criticize me later, but the chubby little boy jumping up and down because
+summer was going to be free on the RTD and he was going to have fun going everywhere.
+And I say that because I was that chubby little boy and I very much appreciated seeing that. And I thought
+it was a wonderful message that we shared. Are there any other members of the committee first, and then,
+if not, other Directors who would like to make a comment or question? Madam First Vice Chair Caitlin, you
+are recognized.
+PEGGY CATLIN: Thank you, Mr. Chair. I just wanted to make an acknowledgment to former Director Kate
+Williams. She worked tirelessly on this, and I know that she would be very pleased to see the results of this
+and also the action going forward. So just a shout out to Kate.
+DOUG TISDALE: Thank you. That's very nice of you to share that with us. I appreciate that, Director Catlin.
+Director Ruscha, you are recognized.
+JOYANN RUSCHA: Thank you. I just had a comment. Given that the state did not fund Free Fare For Better
+Air this year, and right now this program is dependent upon grants, I just wanted to offer that at some point
+we make a commitment to this program beyond any pilot phase. Of course, we would aggressively pursue
+funds, but I would hate to see this program go away in the future because we didn't have an outside funding
+source. And as others have noted, I'm very grateful to staff for going through this work and also for former
+Director Williams as well. I think this is really great for our agency.
+DOUG TISDALE: Thank you very much, Director Ruscha. And yes, you do raise a question that we know
+we will have to deal with at some point in the future, and that is whether we can convince the state to renew
+its funding after this first year that they have guaranteed funding and also what other revenue sources might
+be available in the future should that not happen. Thank you. Director Broom, you are recognized now, sir.
+BOB BROOM: Thank you, Chair. Has staff taken a look at what they could give up in some other program
+areas in order to continue that program?
+DOUG TISDALE: And let me ask Ms. Treipl-Harnke or Mr. MacLeod probably would be the best person in
+the first instance to respond. So Mr. MacLeod, let me go to you, sir.
+DOUG MACLEOD: Thank you, Chair Tisdale. Great question. We have not at this point. The concern,
+obviously, was going into past the pilot program not having funding and trying to identify that funding. We
+didn't know what the impact would be. So thank you to Miss Treipl-Harnke for all her work pulling together
+those numbers. $2.9 million plus advertising and some of the other costs that were described in that
+$410,000 other miscellaneous items to continue promoting the program. That portion would probably go
+away.
+So we'd be faced with the loss, simply with the loss of foregone revenue at the end of the current grant
+period, assuming that we move forward with this item. So it would be essentially looking to find
+approximately $3 million. I believe at that point in time, if that grant were to go away, we could identify a
+specific item. It's a relatively small amount in the whole budget and the entire revenue for RTD. So not a
+current material concern, I would say, but we certainly would look at that.
+
+BOB BROOM: Well, I guess I was looking at the other program, the one for clean air.
+DOUG TISDALE: And so the question then is relative to our Zero Fare For Better Air program, I think, is
+where Director Broom is directing your attention, Mr. MacLeod. So any thoughts on that?
+DOUG MACLEOD: Thank you. Yes, and so because funding is not being made available in the current
+year in 2024, RTD will not move forward with Zero Fare For Better Air. There are a couple of individual
+days. We will be coming back to the board regarding free fare on Election Day and National Vote Early Day
+would be the recommended action there. We also have, excuse me, New Year's Eve as a free day.
+Currently there's no plans to offer any other free days other than what's been discussed here with Zero
+Fare For Youth if the committee were to move forward with that.
+BOB BROOM: I guess I just feel like it's really hard to start and stop programs like this. You lose a lot of
+momentum.
+DOUG MACLEOD: Mr. Chair, if I may?
+DOUG TISDALE: Yes, please, Mr. MacLeod.
+DOUG MACLEOD: Thank you. And also one of the things, too, that's very difficult on staff, as well as not
+only administrative staff, but certainly our operators and our security personnel is the occasional
+implementation of Zero Fare Days. As you can imagine, plus the costs associated with getting word out, et
+cetera.
+It did have some good benefits to it, but the loss in revenue in 2023, the two months, July and August, the
+replaced fare revenue was approximately $14 million. So absent that grant funding in 2024, that's a more
+significant number that RTD would have to make up. Plus the additional fact of the additional work, working
+with vendors to turn off machines at certain points of time, et cetera. So yes, that's not being contemplated
+in 2024.
+BOB BROOM: Thank you.
+DOUG TISDALE: Thank you very much, Director Broom. We appreciate your participation on that and
+bringing that important matter back up. Mr. Vice Chair, you are recognized, sir.
+MICHAEL GUZMAN: Just real quick. Board packet page 21, bullet number five that we have discussed
+previously specifically calls this out in that ask to the public in terms of identifying funds, saying providing
+transportation services for youth 19 years of age or younger at reduced or no fares in the potential ballot
+measure that we will be discussing going forward in the resolution. So I just want to point that out. We've
+kind of tackled this previously. It just needs to come back to us for a vote. That's all.
+DOUG TISDALE: Thank you, sir. And Madam Board Second Vice Chair Guissinger, you are recognized.
+LYNN GUISSINGER: Thank you very much. Just to follow up on Director Broom's question about the Zero
+Fare For Better Air. And I certainly appreciate the concerns that our CFO has raised. And I know you all
+have looked at this. I think this year that not having it, it wasn't funded and not doing it makes a lot of sense.
+We have a lot of maintenance projects going and doing the two at the same time is problematic.
+
+But I would like to see the conversation continue in the future. And it'd be great to get it funded. But even if
+it's just one month or a shorter period and there's a way to, as Director Broom said, move something else
+around, I think that it's a very popular program and one that's worth considering in the future. Thanks.
+DOUG TISDALE: Thank you very much, Dr. Guissinger. Director Lewis, you are recognized now, sir.
+JAIME LEWIS: Yeah, I wanted to piggyback on what Peggy and JoyAnn were saying. One of Kate's queue
+lines was that we're building a new generation to use RTD products in the future. So if you think about it, it
+actually pays for itself because these kids are going to be wanting to get their pass as soon as they turn
+20.
+But one comment or question I wanted to ask our presenter, Monika. I know there's a little gap there. It cost
+$2.7 million, but there's $5 million available. Not that we'd want to spend all this money on this particular
+subject. But I was wondering if there are any efforts to utilize some money to get out to more languages,
+especially in the area of Aurora. From what I understand, there's 65 different languages in that particular
+city. And I hate to use that old expression, leave no kid behind. There's probably pockets of communities
+out there that have no clue about what's going on. So I'm hoping maybe we use some money to get to
+some of those community centers and other places where the language is a barrier.
+DOUG TISDALE: Thank you, Director Lewis. A very valid point, because we have spoken in the past in this
+committee and others relative to the phenomenal diversity of languages that we have represented in the
+Regional Transportation District. And I know that all of our collateral materials are considered carefully for
+translation into various languages. And I know that Mr. Summers and others are addressing that. Are there
+other comments or questions from any committee member or any board member relative to this second
+discussion item on Zero Fare For Youth?
+Seeing none, Miss Treipl-Harnke, thank you very much for an excellent presentation as always, one that
+gets a lot of great interest. I will point out to the board that it's now approximately 12 minutes after the hour
+of 7:00. And although we don't have that much more to go, I am advised that it is necessary for our
+transcribers to take a break from time to time and that we need to afford them that opportunity.
+And so, as I have sometimes said in the past when doing presentations, I always like to give my audiences
+an opportunity to escape at some point. This, ladies and gentlemen, is your opportunity. We will take a brief
+recess. We will resume at 7:25, That's 7:25 PM, for our next three discussion items, which I don't think will
+take an over long period of time. So thank you very much for your patience. And this committee will now
+stand in recess until 7:25 PM. Thank you.
+Good evening, ladies and gentlemen. It is now 7:25 PM Mountain Daylight Time. We are reconvened after
+our brief recess in order to conclude this June 11th meeting of the RTD Finance and Planning Committee.
+Our second discussion item this evening is the Q1 2024 financial update. That's our financial update for the
+first quarter of 2024. And we now call once again upon the tireless Chief Financial Officer of RTD, Mr. Doug
+MacLeod, to introduce this item to the committee. Mr MacLeod, the floor is yours.
+DOUG MACLEOD: Thank you, Chair Tisdale. Doug MacLeod again. So I do have a slide presentation here
+just to give the committee an update on the financial position and financial results for RTD through the first
+quarter. Why we chose the first quarter is we did not receive the April sales and use taxes until yesterday,
+but I will comment on that as I go through. So we don't yet have April financial statements available.
+
+OK, so what I'll talk about tonight is the current results for the first three months of the year versus budget
+and also discuss the financial position, take a look at historical trends to put things into context, where we
+were, and where we are currently. Have a little more in depth discussion about fund balances and then
+finish up with some of the challenges we see going forward.
+And most of this discussion is not only to provide an update but also in preparation just to level set for
+coming items, including the discussion next month, which will be a preliminary look at the five year financial
+forecast, formerly known as the midterm financial plan. We'll have a discussion item in July for the
+committee discussing some of those items. And then we'll be coming back in September to ask for approval
+of that five year financial forecast and then go into the budget discussions for 2025.
+So just take taking a quick look at the first three months of 2024. And of course, everybody knows we're on
+a calendar year, fiscal year basis. So we budget for and we record our financial statements on a 12 month
+basis ending December each year.
+Encapsulated the revenues here. At the top is the actual versus budget and then versus prior year. At the
+bottom half of that section with numbers, it shows the variances of actuals to each of the above columns.
+So for instance, fares, fare revenue through three months is $2 million. And the thousands of numbers are
+dropped off. So these are in millions. So excuse me, these are in thousands. So fares, for instance, the
+number in bracket there are about in the middle of the page is a variance of $2,313,000 versus budget.
+So actual results are $2.3 million under budget, $5 million under prior year same time. The main reason for
+the difference year over year to prior year is the change in the fare structure. That's to be expected. I'm not
+too concerned about the fares versus budget of $2.3 million shortfall. It's relatively small. And it was based
+on certain projections. So we need to watch that as the year goes to see how that materializes projections
+based on the new fare structure.
+Sales and use tax. I'll talk a little bit more about this in the challenges section. But what you can see here
+is through three months, RTD is $8.2 million below budget. Keep in mind that the budget was built and
+approved by the board in November for 2025. Since that time, we've gotten a revised forecast from CU
+Leeds in March. That revised forecast is down slightly. So they're actually at CU Leeds, the economists
+there are actually expecting a downturn based on some of the results we're seeing, which are shown here.
+So we're $8.2 million under budget thus far on sales and use taxes.
+Grants, again, this is not a concern. It has to do with the timing of the budget. So we show a negative $57
+million variance to budget at this point in time. What generally happens is we spread the budget for the
+grant funding that RTD receives, 5307 preventive maintenance funds, across several months. And then it
+depends on when the application is approved and when we can start drawing money down with Federal
+Transit Administration. So we will make up this difference by year end. So no concerns there.
+And then other revenue. That's just miscellaneous revenue. It's relatively small, but it kind of offset some of
+the shortfalls in fares. And it's really due to better than expected investment returns. And then some
+miscellaneous receipts for things that we receive, such as insurance settlements and the like. So that's not
+a number that we really rely on from a budgeting perspective, but it is a trending positive. So overall, $61
+million under revenue, with the bulk of that being from timing on grant funding.
+Expenditures through the first three months. Again, same format here. And what we've done is we've broken
+out operating expenses, debt service, and capital expenditures thus far. Again, focusing on that middle
+
+section there, the lower section. Operating expenses are to the good positive variance there of $27 million.
+So we're under what we had budgeted by $27 million.
+A big portion of that is attributable to several things. Lower than expected purchase transportation, which
+is our contracted service for both bus and fixed route as well as paratransit. Also utilities are under budget,
+insurance is under budget, and other outside services all totaling about $27 million. So that's trending about
+what we usually see. We're usually under budget throughout the year. And we're working through the
+budgeting process to tighten up those variances. But again, a lot of these budgeted appropriations need to
+be fully appropriated up front by the board through the budgeting process in order to issue purchase
+requisitions and go forward with the contracting process for state law.
+Debt service is just a little bit under budget. Again, that's due to some offsetting investment income that we
+get on debt service reserves and the like. So another good piece of information there. And then capital
+expenditures are slightly over budget at 1.9. Those tend to fluctuate-- $1.9 million. Those tend to fluctuate
+based on when we put the assumption together when those expenditures will occur during the year.
+So I anticipate-- obviously we can't go over the appropriated amount, so I anticipate us coming closer to
+the budgeted amount. So all told expenditures, $27 million under budget versus the 60 or so under budget
+on revenue. Again, I'm not personally concerned too much about these items, because we're only three
+months into the year and we have a ways to go.
+Moving into financial position. So those are the results, the transactions, the money in and out, the fund
+balances that I just spoke or the fund sources and uses through that three month period. Where do we
+stand from a financial position? So if we look at our balance sheet as of March 31, 2024, we have total cash
+and investments, and again, the last, three zeros are dropped off this, RTD has one $1,300,113,000 in cash
+and investments.
+And why this is on this screen is that's a critical component what's available to RTD potentially to spend
+before subtracting all liabilities and other obligations. It's down slightly from the prior year. Again, that's due
+to just timing of cash flows regarding some of the expenditures. We have to spend grant money up front
+and then draw it later, et cetera.
+So cash and investments, that's our liquidity position. That's how much money is basically available for
+RTD to spend. Fund balances is what's left over after we subtract out everything that's due. So basically,
+all of our liabilities. So if you were to look at our balance sheet within the monthly financial statements, you
+would see you add that up a few numbers, but you would see these numbers. Again, very strong position
+on fund balances, $1.2 billion, pretty flat to the same time last year.
+So just to summarize what I've discussed so far regarding financial results, revenue is a little behind
+expectations. We do have a positive expenditure variance offsetting some of that revenue shortfall. And we
+do have a strong financial position. So this will all be key as we move into looking to the future for our five
+year financial forecast as well as our budget.
+Just quickly going over some historical trends. These graphics are actually included in the monthly financial
+statements that you've seen. I just wanted to have the opportunity to discuss this and show what's happened
+historically. So over on the left, the far left numbers start in 2018. And the two graphics, the two lines, the
+red and the green drop below 0.
+
+So what the red and the green are, those are the fund balances. That's the money that's left over that's
+available. And I'll talk quite a bit here. Not a lengthy period of time, but I'll talk a little bit about fund balances
+and the board's role in that. But FasTracks is shown in red. Base system's shown in green.
+But what you can see is in 2018 is at that point in time, we didn't have enough money to necessarily pay
+off all obligations if they were to come due at that point in time. Doesn't necessarily mean we were bankrupt,
+because some of these obligations are way out into the future. But it's very important not to be in a position
+where the fund balances are negative.
+The top line, the blue line is the trends in our cash and investments. But what you can see with the red and
+green lines is we've markedly improved as an agency our fund balances while also improving our cash and
+investment position. So when we talk about being in a strong financial position, this is indicative of that. So
+those two fund balances amounts are funding that's available per the board purview to use for certain
+purposes. And I'll talk about some of the obligations that we still have that probably I would recommend
+those fund balances be used for.
+The flip side of the coin, when you look at our balance sheet, is what do we owe? If you go back in time
+2016, this graph starts to show a nice trend line of eight or nine years here. This graphic shows the big
+obligations that RTD has. So in blue is the total debt profile. So everything in the principal amount of debt
+owed to our investors that was borrowed in 2016 is $3.9 billion. And then the other large obligation that was
+on our balance sheet at the time was the pension liabilities of $320 million in the red box there at the top.
+You can see the trend as it goes forward. And part of the reason for that, so if you get to 2021, you can see
+we start to see significant decreases in those amounts. So moving all the way over to 2024, we're left with
+currently the outstanding principal has dropped from 2016, $3.9 billion down to $3.4 billion. Part of that's
+actual debt service that's been paid. But a lot of it's also due to the debt refinancings that have occurred in
+more recent years when we had the opportunity. So we refinanced debt for interest savings, took out some
+of the principal balance at the same time, and reduced the risk to RTD.
+The pension obligation, $165 million down from $320 million. You may recall, in 2022 with the new collective
+bargaining agreement, the Amalgamated Transit Union and RTD worked together to try to address the
+large pension obligation that was out there. And you'll recall that that pension plan was closed to new
+employees for represented employees going forward in 2023.
+And there was also a large payment of $160 million, a lump sum put into that plan to sure that plan up, also
+reducing the risk profile to RTD. So we've taken some steps as an agency to really reduce not only our
+obligations and increase our financial position, but also to reduce some of the risks associated with some
+of these financial items.
+Moving into fund balances. So I've got this broken down by the types of fund balances. And essentially,
+what the fund balances are is if you take RTD's assets minus its liabilities, what's left over is fund balance,
+also known in the private sector as owner's equity. So it's really this essentially the savings that are left over
+if RTD were to pay off all of its obligations.
+So this should be the same numbers as the prior slide with the line graph. What I will point out in the base
+system column is I realize that the $511 million at the bottom, $511,463 should be $695,000. I'll fix that, get
+this presentation updated. The pensions were taken out of that number, but that's the difference. So that
+number is showing lower than it should be, and it should all go into the unrestricted fund.
+
+But just moving down each line item here. So we've got a column for base system, a column for FasTracks.
+We have to keep that money separate. FasTracks cannot pay for the base system except for the feeder
+service that we've talked about previously. So FasTracks funding has to remain only for FasTracks.
+Just walking down through here. So there's restricted fund balances that we don't often talk about because
+those are restricted by contract or agreement, such as debt agreements. That's money that has to be set
+aside to service debt, for instance. We also have a restricted TABOR reserve that's required of all
+governmental agencies in Colorado to maintain a 3% TABOR reserve, 3% of certain revenues. So those
+monies are essentially untouchable for covenants. So total there is $183.6 million.
+Then we get into the Board, the funds that fall under Board auspices. So this is the remaining money after
+you take out restricted reserves. So through the fiscal policy that the Board has approved and through
+discussions, there are essentially four different fund balances. I use the word funds and reserves
+interchangeably. The operating reserves have been established as three months of operating expenses,
+excluding depreciation. That number is $257.2 million. Again, that's up to the Board's purview. All these
+items are under the Board's purview as to appropriate and to be used. So if anybody wanted to use any of
+this funding, the Board would have to give explicit approval.
+Capital replacement fund. So through the budgeting process, while we have this good cash position, we
+identified $185 million set aside for capital replacement. That has to do with our state of good repair, the
+transit asset management plan, and having that funding available so we do not have to, in the short term
+at least, borrow money and pay additional interest costs.
+FasTracks internal savings account. A lot of discussion about that recently. And have a couple more slides
+to go into a little more detail about the FISA. What is in there currently is $190,99,000. That is a fund balance
+established by the Board several years ago at the time to put money away for future FasTracks projects.
+And then finally, the unrestricted funds. So the unrestricted fund is showing us $412 million, but it should
+be $412 million plus another 200. So there's about $600 million. Sorry again. I'll fix that. $600 million. That's
+everything that's left over that hasn't been identified by the board for set aside funds in the three preceding
+line items.
+Again, that whole bottom section is really up to the Board's purview as to how to spend that. Now, staff may
+come with recommendations based on our five year financial forecast or based on the budget. For instance,
+the capital replacement fund. As needs are identified rather than going out and borrowing money, during
+the budgeting process, staff would come to the board potentially and ask to use a portion of that $185
+million to apply towards state of good repair, for instance.
+So again, restricted are contractual or statutory requirements such as TABOR. All the other items are under
+the Board auspices. The Board has the authority to spend and only the Board can appropriate those funds.
+So to touch on the FISA, there's been a lot of questions recently about the FasTracks Internal Savings
+Account. So as you all know, the FasTracks plan, the FasTracks program was approved by the voters in
+2004. As part of that ballot measure approval for RTD, there was a financial plan associated with that that
+was approved by many, bond counsel, et cetera, that led up to that.
+Within that FasTracks financial plan, as I mentioned, FasTracks money has to stay separate. The only
+exception is that in that initial FasTracks plan, it was agreed that FasTracks would pay or reimburse or pay
+the base system for any additional bus feeder service or paratransit service that was contemplated by
+
+adding new rail lines. So it's essentially FasTracks service, but because it's provided by the base system
+to service the FasTracks elements, it was determined to be a FasTracks cost. Therefore, FasTracks must
+pay base for that.
+In the FISA, this initial FasTracks plan, so the original assumption was that there would be a 1% growth in
+the revenue hours of that bus feeder service and paratransit service that's being subsidized or paid for by
+FasTracks. A 1% growth in the revenue hours year over year based mainly on population growth.
+So in 2012, as you can imagine, there was a lot of discussion, a lot of public discussion about RTD's inability
+to identify enough funding to complete the rest of the FasTracks elements. So there was a lot of discussion,
+a lot of pressure, a lot of back and forth about trying to identify funding to finish additional FasTracks
+elements. The result was that the board at the time established the FasTracks Internal Savings Account.
+That FasTracks Internal Savings Account identified specific line items that were potential revenue sources
+to put into a fund, the FISA fund, and keep building that until enough money was available to build additional
+FasTracks items.
+So the primary source, and I'll show you what this looks like here in the next slide, but the primary source
+of that funding is approximately $22 million per year, and it's associated with that 1% annual growth. So the
+original FasTracks plan said 1%, not dollar growth, but revenue hours growth, and then the dollars were
+applied to that. So it was at the time shown that the actual revenue hours, these are service hours that our
+revenue vehicles are in service, those revenue hours were remaining flat, but yet the plan was calling for
+1% growth that FasTracks would pay to that.
+As it was identified-- with pay to the base system. As it was identified that the reality was less than the initial
+assumptions, that was identified as a source to say that instead of doing 1% revenue hour growth, let's only
+have FasTracks pay the base year over year increases according to CPI inflation, knowing that those
+revenues. So it's volume versus amount, essentially. So we changed from a volume calculation per Board
+direction down to a percentage increase based on inflation.
+The difference between those two is approximately $22 million per year. That $22 million per year, instead
+of going to the base system to pay for bus service that's not necessarily happening, stays in the FISA. And
+I would point out, I'm going to show you a condensed version of the FISA and kind of quickly walk through
+that. But we do include a FISA statement in the monthly financial status report and have for a long time. So
+it is available for public inspection. I'd be happy to discuss further with anybody that would like to.
+So this is what the FISA statement looks like in the monthly financial statements. It's got more columns in
+the actual statement showing more years. But just for presentation purposes, you can see, and I'll start at
+the bottom and go back up to the top and work my way down. What you can see is the FasTracks Internal
+Savings Account balance at the very bottom. In the 2024 column, there's the $190,000,099. That's the
+balance that will reside in that account at the end of this year.
+Starting at the very top, that limit FasTracks funding increases for bus and paratransit to CPI. That's at
+approximate $22 million per year. It grows over each year because of inflation. But because we're not
+having FasTracks pay base as much as what was originally contemplated, that difference is $21,000,192
+in 2024. That goes into the FISA and stays with FasTracks. It doesn't get paid to base.
+I'm hitting on a few other items here. So many of these items were identified at the time of the creation of
+the FISA around 2012, 2013. So some of these items were one time things such as Union Pacific Railroad.
+
+There was delays and it was decided to delay some work. That money was put into the FISA. Same with
+savings on Project [INAUDIBLE].
+So as FasTracks was being built out, once the budget, once that project was finished and closed out, if
+there was additional budget left over, it went into the FISA. This is all FasTracks money. So the option was
+leave it in the FasTracks Unrestricted Fund, or put it in the FISA so it's specifically identified for the purpose
+of the FISA, which is to finish additional FasTracks projects.
+Probably one of the only other really notable items in the top section is total sources of cash is that any land
+sales or lease revenue that come into the agency, whether it's FasTracks or base system, goes into the
+FISA. And there wasn't room here, but there's footnotes within the monthly financial statements that show
+what that balance is made up of. It's been a few property sales, essentially.
+So you can see all the sources that have come in. And then right below sources is the actual funding uses
+that have been approved by the board through last many years. Additional money was used for additional
+scope items for US 36 BRT for the FasTracks Flatiron Flyer. $6,000,129 for that. North Metro project draws,
+additional scope work for the North Metro project. It was identified that that's a FasTracks project. Let's use
+FISA funding per the Board. And then Northwest Peak Rail Service study of $8 million most recently, just a
+couple years ago, I believe it was, that $8 million was identified to be used from the FISA because it applies
+to future potential FasTracks expansion.
+One last time I'll point out on this is can see out there in-- it's shown in the column estimated 2025 through
+2040. There's two large numbers there. They both have to do with commitments that RTD agreed to. So I'll
+start with the $60,000,746. That number is spread over three years, and it's really going to occur in 2025
+through 2027. It has to do with the Denver Transit Partner, Project Eagle P3. Within the funding for that, it's
+contemplated over that 30 year term that there are certain points in time where additional funding will be
+paid to DTP for refurbishments and taking care of assets, because all the assets belong to RTD.
+But Denver Transit Partners are concessionaires using those assets to provide service. The concessionaire
+agreement requires that those assets be returned to RTD at the end of the concessionaire agreement in
+the state of repair that would be expected for that point in their life. Along the way, there's additional spikes
+in payments occasionally to Denver Transit Partners for payments to do refurbishments and replacements
+of certain assets. So that's essentially what-- you notice it's debt service. Is kind of what we call our debt
+that we pay to-- it's an obligation we pay to DTP.
+US 36 project draws same concept, I believe. I'm drawing a blank on that one, but it's the same concept.
+Those are out in the future. Those are fundings identified and agreed to through IgAs or concessionaire
+agreements that need to go out the door. So if you look at all the way through 2040, it's estimated that the
+balance in the FISA would be 525,000,333, barring any changes to this.
+So finishing up here, some of the challenges going forward. So I've shown you a very good financial position
+for RTD at this point in time and how we've gotten there, some of the things we've done to get to that point.
+But there are some challenges. As we talk about, the five year financial forecast and going forward with the
+budget.
+And there's certain things that we need to keep in mind as an agency, number one being TABOR. A lot of
+discussion about that tonight, the impacts that TABOR may have on revenue limitations going forward
+should the TABOR debrucing expire. It will expire, but should the ballot initiative be approved by the full
+
+Board and go forward, depending on the outcome of that, that could have some impact to RTD's forward
+revenues.
+We have new diversification. We've had lots of discussions how sales and use taxes make up 67 or so,
+about 2/3 of RTD's revenue portfolio. That's subject to volatility with or without impacts from TABOR. So
+we're reliant as an agency on one single revenue source that's not necessarily guaranteed.
+What we're seeing with tax collections is they're slowing. So I showed you the slide through March and
+we're under budget. We're also trending lower than the prior year for the same period of time. If you go in
+with the April sales and use tax results, we're still seeing that flattening and decrease year over year in our
+sales and use tax results.
+And regarding TABOR, probably couldn't come at a worse time if we're going to see a decrease, because
+that's going to be our new basis going forward if we're subject to TABOR in the future. Nonetheless, that's
+something to keep our eyes on as we project forward and decide what funding sources we're going to have
+and how they'll be used.
+So when I talked about the good financial position with all the fund balances, one of the biggest
+commitments that's not necessarily shown on our financial statements is maintaining our assets in a state
+of good repair. So when we bring the draft five year financial forecast, what you're going to see is based on
+current thinking, much of those fund balances will be consumed by maintaining our assets in a state of
+good repair. Good example is the $150 million downtown rail reconstruction. That's a big chunk of money.
+And that will continue to happen as our infrastructure and our facilities age.
+So if you look at our financial statements, it looks like we have a lot of money, but it's essentially spoken
+for. We really need that to maintain what we have. So I would just offer that caution that whether it's
+FasTracks or base system, a lot of that funding, unless we want to borrow additional money to pay for
+things, which creates its own problems, might be something that we should consider as an agency to keep
+intact and spend down for purposes of maintaining our system.
+Two, I guess one big unknown is inflation. What's going to happen with inflation? So what we've
+experienced is a lot of volatility in prices of goods and services. That certainly has an impact. So we make
+certain assumptions in our forecast and our budgets. And then whether that holds true or not is up to the
+economy.
+And then staffing growth. I just wanted to put this one on here, because our human resource department
+and our Chief People Officer Polege is doing a fantastic job bringing people in. We must retain them. We're
+making a lot of progress, in my opinion. So that staffing growth is going to be very important as to how we
+ensure that we're staffing the right areas with the appropriate skill levels in coordination with our system
+optimization plan. So every time we staff front line people, there's also associated support people. So we're
+really taking a closer look as we go forward in our budgeting and building everything around the staffing
+necessary to support system optimization plan.
+So, Mr. Chair, that concludes my presentation for the Q1 financial update, and I'd be happy to take any
+questions.
+DOUG TISDALE: Thank you very much, Mr. MacLeod. And I truly appreciate the fact that you've said
+several times that all of these data are available to the public. They're on our website. They are easily
+accessible. And we are in the process of updating our performance dashboard to have even simpler, more
+
+easily understood representations of all of this information in that context. So we appreciate that. Madam
+First Vice Chair Catlin, you are recognized.
+PEGGY CATLIN: Thank you, Mr. Chair. And Doug, thank you for that very good presentation. I appreciate
+it. And also your explanation of the FISA. But help me understand why in this current inflationary
+environment that we've had, why the FISA contribution remains almost at $22 million for the year. I just
+don't understand that. Can you help clarify that for me?
+DOUG TISDALE: Mr. MacLeod.
+DOUG MACLEOD: Thank you. Yes, thank you for the question, Director Catlin. Yes, so the inflation does
+impact that, because we are increasing it year over year by the inflation rate. So it does increase the
+amount. So if you were to compare the prior year, I believe it was $20 million, 19 point something million,
+now going up to $21 million in 2024. So that increase is based on inflation. So it does impact that.
+At the same time, it decreases the amount that was originally contemplated or the amount that was originally
+contemplated stays flat. The 1% growth is just compounded. And then inflation goes up, so it kind of
+squeezes the amount that goes to the FISA because it's that difference. If the FISA was never put in place,
+the FasTracks would be paying-- FasTracks currently pays about the same amount to the base system of
+$20 million.
+It just so happens, coincidentally, that the amount that's retained for that difference is $20 million. So if the
+FISA was never put in place in this decrease to CPI versus the 1% revenue growth, revenue service growth
+wasn't put in place, FasTracks would actually be paying instead of $20 million, they'd be paying about $40
+million to base for this service. So it does have somewhat of an impact. It's relatively small, even at 5%, 6%
+inflation on $20 million, but certainly does come into play.
+PEGGY CATLIN: Thank you. If I might, Mr. Chair.
+DOUG TISDALE: Please proceed.
+PEGGY CATLIN: Follow up question. Well, also, I think one of our risks would be the TABOR question that
+we may suggest go on the ballot this November would really only impact the base system. That's my
+assumption. But then following that, this board has the auspice or the authority to pause a FISA contribution,
+does it not? I mean, it was a previous board that decided that. It wasn't part of the 2004 FasTracks selection.
+So that could be something in our hip pocket to offset something hypothetical risk, should the TABOR
+extension not pass.
+DOUG MACLEOD: Mr. Chair?
+DOUG TISDALE: Yes, Mr. MacLeod, please respond.
+DOUG MACLEOD: Thank you. Yeah, great questions. So yes, I'm drawing a blank, Director Catlin, please
+help me with the first part of the question.
+PEGGY CATLIN: The first part was the risk associated with the possibility or hypothetical thing that this
+TABOR extension would not pass. That's the risk to the base system solely. And so the second part was
+the board's authority to deal with the FISA on an annual basis.
+
+DOUG MACLEOD: Thank you. So, yes, regarding the TABOR applicable revenues, so we've talked a little
+bit about the voter authority 1999 extended the base system debrucing exemption from TABOR through
+the end of no later than 2026 when the debt is paid off. So it happens that the debt will actually be paid off
+in 2024, subjecting the base system certainly to TABOR.
+In 2004, when the voters approved the FasTracks 4/10 and the borrowing capacity, et cetera, that ballot
+language is very specific, only to the 4/10 that the FasTracks collects. So what's happening in the TABOR
+calculation is it's not only the base, it's all non 4/10 sales tax revenue on the FasTracks system side too.
+So it subjects FasTracks spare revenue, other investment income, other types of income that they may get.
+So that's how we get the 50% of all of RTD revenues after taking out-- it's all the base part of FasTracks
+and then you subtract out the biggest one is federal grants to come to about $600 million subject. So yeah,
+it does affect FasTracks.
+By the way, the FasTracks ballot initiative in 2004 not only spoke to the 4/10 being debruced, it also has a
+sunsetting provision. So once the debt is paid off in 2050, currently scheduled, RTD may only retain enough
+of that 4/10 to continue to operate and maintain the FasTracks system. So there's a potential to sunset that
+4/10, reduce the 4/10 that's collected in the future.
+The second question regarding the FISA. Yes, the Board certainly all those fund balances are under the
+auspices of the Board to decide what to do with that, do nothing with it. You can change it completely. It's
+totally up to the board. It was just something that was set forth in 2012 at the time. So including the FISA.
+I think the only thing that we could not change is anything that was approved by the voters and in 2004 as
+part of that financial plan. But within that those parameters, you can certainly make changes. And again,
+the voters have not approved the FISA, for instance. That was a Board construction. Same with all the fund
+balances. Totally up to this board what we do with that going forward.
+PEGGY CATLIN: Thank you. It was not clear to me until tonight that the revenues generated from the
+FasTracks were also subject to that TABOR calculation. So thank you for that. That's unfortunate, but
+thanks for the clarification. Thank you, Mr. Chair. I'm done.
+DOUG TISDALE: You're very welcome. But recognize as to your last comment there, that is still a quarter
+of a century away in terms of that sunsetting. I recognize for some of us, a quarter of a century isn't that
+long ago or that far in the future, but it's something that we should at least note for the record. Other
+committee members or board directors who have questions for Mr. MacLeod concerning this? Mr. Board
+Chair Davidson, you are recognized.
+ERIK DAVIDSON: Thank you Committee Chair Tisdale. Thank you, Mr. MacLeod. Really helpful
+presentation. Well put together and walked through. Thank you for doing that. Very much appreciate it.
+Just one quick comment to the point of the TABOR revenue. Just this was one of the importance of that
+ballot language having retain and spend all revenues it receives, it being the agency, from whatever sources
+without regard to limitations. So we are considering the whole amount there.
+And then I just also, Mr. MacLeod, shifting gears, had a question for you. You talked about the challenges
+and a little bit of softening in the sales tax revenues. And then also we're still in inflation and we have state
+of good repair. And there's really an intersection between all three of those that could align to be pretty
+tough. And I know we've got a disturbing trend, not just multi-industry, but industry specific regarding a lot
+
+of projects going over budget across the country in transit right now, and in some cases pretty sizably and
+even minimal limited number of vendors and bidding and so forth.
+As I just think about those over budget projects, our system aging and being in a place of taking on state
+of good repair while we're coming out of a high inflationary period and with some of those softening
+numbers, I guess just from a qualitative perspective, how much risk do you see here to our current five year
+financial plan? How much are you worrying about this issue and talking about this issue? And if you could
+just shed a little bit of light of what some of the dialogues are internally, especially as we look at the
+[INAUDIBLE] and so forth. Just would love to know your sense of big risks, small risks, somewhere in the
+middle.
+DOUG TISDALE: Mr. MacLeod.
+JAIME LEWIS: Thank you. Great question, and thank you for that. So what we're seeing internally is for all
+of our efforts, all of our projects, essentially, we do put together an internal cost estimate before we can
+issue a purchase requisition. So that's a precursor to that, to establish a foundation for what RTD believes
+is willing to pay. Then we get bids in.
+What we're seeing is Internal Cost Estimates or ICEs that were put together not too long ago because of
+inflation and volatility of projects, they change rapidly. So something that was put together a year or two
+ago, we need to take a quick look at it, not just apply an inflation factor. There's all sorts of materials costs
+and things that need to be re contemplated. So that's one risk.
+Fortunately, for the most part, almost all contracts that RTD enters into, with exception of work order
+contracts, are fixed price contracts. So as we go to PR, we get an agreement, negotiate a contracted price
+with the vendor. That's the price that RTD's not to exceed amount that you're familiar with hearing. That's
+the price that's agreed to.
+Things that are down the road is where the concern is. What does that really look like? So the way we
+budget for things is we apply an estimated inflation rate. So we try to account for that in the future.
+Obviously, this is unusual what we're experiencing in the last couple, two, three years. So that's been very
+difficult. But that's definitely a challenge. It definitely affects what we can afford.
+And we're also seeing we've had some experience with also some vendors that agreed to these fixed rate
+prices that are really having a lot of pressure on them because of inflation. Because two or three years ago,
+they agreed to a three year plus two option year contract at a fixed rate. Well, wages and everything else
+is going up far faster than what they expected. So they're experiencing some difficulties, too.
+So it's really across the board, and it's very difficult to estimate. Where in the past, we'd estimate the typical
+3% overall and then certain different inflation rates for wages and certain categories. Fuel had a different
+inflation rate. But this is just a whole guessing game at this point. But I think we need to be prepared as an
+agency to err on the side of caution that these price increases and things are going to be just much more
+expensive than what we've seen in the past.
+DOUG TISDALE: Thank you. And anything further from you, Board Chair Davidson? Thank you. Mr.
+Committee Vice Chair Guzman, you are recognized, sir.
+MICHAEL GUZMAN: Mr. MacLeod, you had made reference to the sales and use tax report for April not
+being quite available for this, but you did receive it. So I'm guessing, I'm just looking back at the previous
+Board documents from March, and it shows about just under $71,000 in sales and use tax, which puts us
+
+below our budget. And you said it was trending lower. So are we mimicking at a lower rate the 2023 trends?
+Is that what we're looking at in terms of budget? Or is it going to surpass that a little bit?
+DOUG MACLEOD: If the trend-- sorry, Mr. Chair, may I?
+DOUG TISDALE: Yes, please.
+DOUG MACLEOD: Thank you. Thank you for the question. And what we're seeing on that trended basis.
+And as an example, so when CU Leeds gave us the forecast in August of last year, they had estimated a
+certain amount of growth in our sales and use taxes at RTD. When they came back and gave us the March
+report, they had lowered that forecast going forward by a substantial amount. Not anything super alarming.
+But the most recent forecast is saying they think that in 2023, based on at that point in time that RTD's
+sales and use taxes would grow approximately 3% from 2023 to 2024. What's actually happening through
+April now that we have the results is we are actually down 0.4%. So less than 1% from the prior year, but
+that same for four months this year versus last, not only are we not seeing not 3% growth year over year,
+but we're seeing smaller decrease. Yeah.
+And it's not a large number. It's $1.2 million after four months. But just the trend is a little concerning,
+especially when we budgeted for a 3% increase. And trends usually continue unless some anomaly. So I
+would suspect that we're going to continue to see that trend flattening and potentially reduction in sales and
+use taxes throughout 2024.
+MICHAEL GUZMAN: Mr. Chair, may I? OK, I got the nod. I have one more question. It doesn't need to be
+answered now. Probably can't be. I know we're in the process of getting all of these numbers together. But
+as we go forward through the year, in preparation of planning out a budget for 2025, will you be bringing
+forward recommendations around some of these accounts and some of these funds that we have currently
+specific to FISA to follow up with Director Caitlin's question about what are we putting in there? Should we
+continue to put more in there?
+I mean, I get that this is an update, which is great, but the updates lead to action. And so as a discussion
+matter, will this committee be seeing some recommended action or some recommended discussion items
+that lead to recommended actions about what to do with some of these funds from the agency side? Will
+we be collaborating with you on some of those going forward into this budget planning process for later in
+the year? That way, it doesn't quite come as a surprise at the end of the year, but also because we want to
+be fully prepared and invested and knowledgeable and aware of what we need to do to mitigate any
+unexpected circumstances.
+I think my concern goes back to last year learning about CU Leeds School program and their projections
+and being concerned that we were looking at this in too rosy a manner, even though it was fairly
+conservative. And I will admit that. I'm still concerned that we looked too positively at what could potentially
+happen with our Colorado economy. And so I want to make sure that we're addressing that as we go
+forward, knowing that sales revenue and income of any kind is kind of building the plane as you're flying it.
+And so I want to make sure that since we do not do a midterm or a mid-year budget update any further and
+that we do want to just have one good, solid budget that's done really well, that we have all of our facts and
+figures in order to be able to present one for 2025 that is going to be in the SMART goal mind frame,
+achievable, relevant, and timely, but also very specific to what we know is going to be the truth about the
+economic situation we face.
+
+DOUG TISDALE: Mr. MacLeod.
+DOUG MACLEOD: Thank you. Thank you for the question. Great question. Yes, the answer is yes. Last
+month, we began the discussion about the fiscal policy. We do have on the agenda for the July Finance
+and Planning Committee to come back and continue that discussion. Where we're going with that is some
+potential options for the Board to consider to maybe shore things up, particularly in light of TABOR impacts.
+Just to be prepared, we've always been relatively conservative. So where we have as an agency three
+months of operating reserves set aside, the Government Finance Officers Association recommends as a
+best practice two months. So we've gone a little bit beyond there to set money aside. One of the things that
+we proposed potentially that we may be coming to the board with, we're going to come with fiscal policy for
+2025 as a discussion item in July. We're going to come back in September with a recommended action to
+approve that fiscal policy to help develop the budget.
+In the Revenue Diversification Working Group, we're discussing some potential protections, for lack of a
+better word, for the agency regarding TABOR, such as possibly setting aside an additional reserve as a
+recommendation for potential TABOR refunds. We could do other things like shore up, even increase the
+amount of operating reserve. All those things that we would recommend essentially would buy RTD time
+so that we can make adjustments going forward. If we didn't have any fund balances and all of a sudden
+we ran into difficulties, the first thing that we would probably have to do is make operating expense cuts
+and the biggest dollars there are service.
+So I don't want to suggest that we would do that. We have the funding to maintain things. But it's going to
+come at a cost, too. So if we end up using some of those fund balances that really should probably be used
+for a state of good repair and we use it because our revenues fall and we burn through those reserves for
+other purposes, I just think we need to be very mindful and forward looking as to what impacts that have.
+And certainly that would be part of the discussion with the Board, make some recommendations, get some
+feedback what the Board is comfortable with.
+And also when we put together that five year financial plan, I think it gives a really good picture of what the
+projected expenses are. So even though revenues are very difficult to building the airplane while you're
+flying it, it's very difficult to accurately predict those or any potential recessions out in the future. What we
+can get a really good view of is what expenditures, especially things that we have to do like pay our debt,
+some of those items.
+But then we can talk about what adjustments can we make going forward. There's a lot of things we can
+do, a lot of levers we can pull in terms of being flexible going forward and adjusting to revenues. So that
+would be part of the discussion as well. So hopefully I answered the question.
+MICHAEL GUZMAN: Yes, indeed. Thank you. I want to make one quick comment, if that's OK, Mr. Chair.
+DOUG TISDALE: Yes, please proceed.
+MICHAEL GUZMAN: One of the main issues that came out this last legislative season is that they want to
+see a Board that is nimble with an agency that is nimble and quickly able to do these things. And so my
+question and my ask about this is, although we do work at the speed of government, because that is what
+we, the Board, are, we still have quite a bit of agility and the ability to move with both action from the board
+and the necessary work from the agency. And it requires both of us working together.
+
+And I want to point that out, because it's difficult to understand when you're not sitting here having these
+conversations on a regular basis, understanding all of the complexity going on behind the scenes to point
+at something as simple as a budget line item, one single piece, and not even understanding the entirety of
+that. So as we go forward, I thank you for all of your work and your staff has done an incredible job. But I
+want to keep being able to be nimble and agile, which I think this Board is quite good at when we have the
+information we need.
+But again, we as Board members, and somebody said it earlier, I think it was Second Vice Chair Guissinger,
+that we need to be able to work within our constituencies and tell a better story as Directors to what's going
+on. So when we have the knowledge from you about what's going on with our budget and our agency, we
+have the ability to then go out and tell that story publicly about what's happening with the folks that we
+represent in our communities respective to what's going on with service and how we're trying to protect that
+and grow that, even if we are trying to deal with how do we make it all work and what we're facing. So thank
+you.
+DOUG TISDALE: All right. Thank you very much, Mr. Vice Chair. Good questions, all. Any other committee
+members or Directors who have questions for Mr. MacLeod?
+All right. I will note one thing. If you refer back to packet page 68, which is slide number 14 in your
+presentation. And you don't need to pull it up, but I just say that for the sake of the record. It is important to
+remember that the Board established the FISA, the FasTracks Internal Savings Account. It is a Board
+creation. It was not created by the General Assembly of Colorado. But the General Assembly does not
+always recall that, viz the fact that we had a bill passed that referenced how the Board was to prioritize
+expenditures from FISA. So it is important to understand that getting that information out is beneficial. Thank
+you very much for all of that information.
+All right, ladies and gentlemen, the next two discussion items do not have an accompanying board report
+tonight. I'll pause so you can cheer. These are items that are enumerated in our committee work plan. And
+so it is incumbent upon us to address these items in our committee meeting tonight.
+Now, the first of these two items, which is the third discussion item, is an update on our draft budget
+framework. And then the last one is an update regarding ongoing conversations related to an RTD return
+on investment dashboard item. As your Committee Chair, I will be introducing both of these items now,
+providing you with an update and facilitating any subsequent discussion by the committee and the other
+Directors present.
+So first, regarding seeing the draft budget framework. In April, we received an update from CFO MacLeod
+related to recommendations from our internal auditors as to how the RTD budget is presented for approval
+by this board. This item is back before us tonight so that I can share an update on that work.
+The Chair is informed by our staff that the modified budget framework is not yet prepared. When we drafted
+the work plan back in February, we all reasonably believed that the staff would have adequate time by June
+to give us an outline for a revised budget framework. I'm informed by staff that despite their best efforts,
+they're not yet in a position to present that information to us tonight, as originally scheduled in our work
+plan.
+Now, please recall, and we've mentioned this several times in the past, when we drafted and approved our
+various committee work plans, we all agreed that these were going to be fluid and subject to modification
+as circumstances dictated. We see that need presented tonight.
+
+So rather than just striking the agenda item and pretending that it's not in our work plan, your Chair and
+your Vice Chair instructed staff that we would raise the matter tonight in an open meeting and provide you
+with this information and give you the opportunity to ask questions or to make comments. If you feel so
+inclined. This, like the opportunity I gave you before to leave, this is that opportunity. So I will ask, first of
+all, Mr. McLeod, is there anything that you would like to say at this time to supplement or annotate the
+comments by the Chair?
+DOUG MACLEOD: No, thank you. You covered it. Thank you, Mr. Chair.
+DOUG TISDALE: Thank you. All right. Any committee members or directors who would like to add anything
+relative to this third discussion item? Seeing none, we'll proceed to our final discussion item on this
+evening's agenda, and that relates to an update on the progress of the RTD return on investment dashboard
+elements and framework.
+Now, we have discussed this concept several times as a board over the past few months in this meeting
+and in other meetings. You will recall that at our retreat in February, we reviewed the fact that five years
+ago, 2019, our then General Manager pulled together relevant information regarding how much sales and
+use tax revenue was derived from each county in the RTD together with an estimate of what was the
+approximate cost of services provided to each county.
+This was an attempt to discern what might be called a return on investment for each county relative to the
+sales and use taxes that they paid and to respond to complaints by some counties that they were not
+receiving what they considered their fair share. Now, whether or not that was a good or even a valid
+measure, it was our then General Manager's best effort at responding to these complaints that we were all
+hearing.
+At the retreat, we discussed the ability and the advisability to update that ROI measure. We assigned it to
+the Finance Committee for further consideration and action. We discussed this again at last month's
+committee meeting. At that time, our General Manager CEO raised a very valid concern that this committee
+was exploring the creation of what could fairly be called another performance dashboard item without going
+through the Performance Committee. That was a relevant and salient observation.
+Specifically, if we're going to design a performance metric, and certainly ROI is a classic performance
+metric, then it should be designed by the Performance Committee, which is charged with such matters.
+Therefore, your Chair and your Vice Chair, both of whom sit on the Performance Committee, come before
+you tonight to respectfully suggest that this issue of an ROI metric should be removed from this committee's
+work plan and reassigned to the Performance Committee.
+Now, this was discussed by us in yesterday's Performance Committee meeting, and that committee, which
+is chaired by First Chair Catlin, is prepared to proceed in that manner. Your Chair and your Vice Chair
+wanted to bring this before you tonight to seek your concurrence in this approach and to amend our
+committee's work plan accordingly.
+So we welcome your discussion now for anyone who would like to ask a question or make a comment
+relative to moving the ROI metric from the Finance and Planning Committee Work Plan to the Performance
+Committee Work Plan. Please indicate if you'd like to step in on this. Director Ruscha, you are recognized.
+
+JOYANN RUSCHA: Thank you, sir. So I was present at the Performance Committee when this was brought
+up, and I didn't know if it would be helpful if you wanted to comment on how the ROI was somewhat already
+incorporated, just for the record.
+And then I also wanted to ask just for clarification. Could this committee make an informal recommendation
+to the Performance Committee as to what we would like to see, how we would measure ROI, or what we
+might want to see in a dashboard? Just recognizing that our committees of record are supposed to be
+specialty committees and we definitely spent time on this during the Board retreat. Thank you, sir.
+DOUG TISDALE: Thank you very much. As to the second question first, I don't know that it's productive for
+the committee to attempt to take a committee stance. But every committee member, and for that matter,
+every Board member, is invited to participate in the Performance Committee meetings, and they have the
+opportunity to speak. And I think recommendations and suggestions are appropriate and could be
+considered. And I'll recognize the Performance Committee Chair in just a moment.
+As to the first element of your question, how is this, in some respects already incorporated? If you look at
+the performance dashboard, which is on the RTD website, I think you'll see a number of things that address
+some of the elements of that. I don't know that they address it specifically as it was originally crafted back
+in 2019, but I think that the Performance Committee is perfectly capable of addressing and synthesizing
+available data to produce useful information. That having been said, Performance Committee Chair Caitlin,
+you are recognized.
+PEGGY CATLIN: Thank you, Mr. Chair. You already referenced the performance dashboard, and we as
+the Performance Committee are welcoming input and suggestions on KPIs or other metrics that you would
+like to see in that performance dashboard. So that's all I had to say. Thank you.
+DOUG TISDALE: Thank you very much. And I take it that your comment might have superseded the
+observation that Second Vice Chair Guissinger was going to make?
+LYNN GUISSINGER: That's correct.
+DOUG TISDALE: All right. Thank you very much. We appreciate that. Any further discussion relative to the
+removal of the ROI metric from this committee's work plan and assigning it over to the Performance
+Committee work plan?
+Hearing none, thank you all for letting me take the time to lay the table out on that one and give you some
+further background. And so let it be written, so let it be done.
+We turn now to other matters. Let me ask, are there any other matters that any committee member would
+like to address at this point in time? Seeing none, are there any other matters that any director who is not
+a member of the committee would like to address at this time?
+The chair will note, for the sake of the record, that you have received while we've been in this meeting an
+email from Board Executive Manager Kroll that was received by him from RTD Director Natalie Minton.
+Former Director Minton actually showed up at Blake Street, assuming that she could speak at the meeting,
+not realizing that these meetings continue for a time to be held only virtually rather than in person.
+And for the sake of the record, I promised her, because I worked with her well for a number of years, that
+we would reference in this meeting that she had submitted an email which is in opposition to the TABOR
+
+election ballot issue at the election. And so you can look at her email at your convenience. And she may
+well be present at the board meeting on this matter, but I wanted to bring that to your attention.
+All right. I see no other matters being raised by any committee member or by a director. Therefore, let me
+point out that our next meeting date is scheduled for Tuesday, July 16, 2024. That meeting of the Finance
+and Planning Committee on the 16th of July will have us, pursuant to our work plan, potentially act on
+recommendations regarding the Build America Bonds, as to which you heard a presentation earlier this
+evening, and the Zero Fare For Youth. And also relative to zero fares for National Vote Early Day and
+Election Day.
+So that's just a preview of some of the things that are coming up. Likewise, we are also set pursuant to our
+work plan to discuss our fiscal policy and our five year financial plan. We just like to give you some coming
+attractions so you know what's in store.
+Seeing no other discussion, I will now call this meeting adjourned as of 8:34 PM Mountain Daylight Time.
+Thank you all very much for your participation, and we hope that you have a wonderful evening. Good night.
+
+From:
+Sent:
+To:
+Cc:
+Subject:
+Attachments:
+
+Greater Denver Transit <greaterdenvertransit@gmail.com>
+Tuesday, June 11, 2024 8:00 AM
+RTD Board Office; Jack Kroll; Tai-Shrae Parish
+Debra Johnson; RTD General Manager
+RTD Finance & Planning Committee Meeting Public Comment - Letter - 11th June 2024
+20240611_RTD_FinancePlanning_Letter.pdf
+
+Good morning Jack/ Tai-Shrae,
+Please include the attached letter and materials in the transcript/ minutes (as appropriate) for tonight's
+night's Finance & Planning Committee meeting. It is submitted as public comment.
+Kind Regards,
+Richard Bamber
+(For and behalf of Greater Denver Transit)
+(303) 803-3898
+greaterdenvertransit@gmail.com
+www.greaterdenvertransit.com
+
+1
+
+greaterdenvertransit@gmail.com
+
+Submitted as Public Comment to the
+RTD Finance and Planning Committee Meeting, June 11th, 2024.
+June 11th, 2023
+Doug Tisdale, RTD Finance and Planning Committee Chair
+Regional Transportation District
+1660 Blake Street
+Denver, CO 80202
+Potential Ballot Recommended Action (TABOR “DeBrucing”)
+Dear Chair Tisdale,
+Greater Denver Transit (GDT) is in support of an RTD sponsored ballot measure that will allow the agency to
+“Debruce” and be free of Colorado Taxpayer's Bill of Rights (TABOR) revenue restrictions in perpetuity.
+Lifting the revenue restrictions imposed by TABOR will empower RTD to address the growing transportation
+demands, invest in essential infrastructure projects, enhance service quality, and contribute to the overall
+economic and environmental health of the region. As the Denver Metro area continues to expand, ensuring
+that RTD has the financial capability to meet these challenges is not just beneficial but necessary for the
+region's future prosperity.
+Therefore GDT urges all directors on the committee to vote “Yes” on an RTD sponsored ballot measure that
+will allow the agency to “Debruce”. We thank you for all you do.
+Best Regards,
+
+James Flattum
+Greater Denver Transit
+CC:
+
+Richard Bamber
+Greater Denver Transit
+
+RTD Board of Directors
+Debra Johnson, RTD General Manager & CEO.
+
+www.greaterdenvertransit.com
+
+Page 1
+
+

@@ -1,0 +1,1299 @@
+2023-09-26
+Board Meeting
+LYNN GUISSINGER: I will now call the Tuesday, September 26 RTD Board meeting to order. We are
+convened as of 5:30 PM. I respectfully ask everyone to remain muted unless you are recognized to
+speak. We are analog tonight, without the computers. We're working off a paper script here, a paper
+agenda. But I think everyone should have it.
+Thank you for joining us this evening. As the Board has moved to in-person meetings for our monthly
+meetings, please note the committee meetings will still be held remotely and will be audio and video
+recorded. The meeting recordings, along with the unofficial minutes of the meetings, will be posted as
+soon as practicable on the Board's website. Visit rtd-denver.com. And a live stream of this meeting is also
+available via RTD's YouTube page.
+Pledge of Allegiance is first. Director Rosenthal. No. Director Tisdale, could you please lead us in the
+pledge?
+DOUG TISDALE: Thank you, Madam Chair.
+IN UNISON: I pledge allegiance to the flag of the United States of America and to the Republic for which
+it stands, one nation, under God, indivisible, with liberty and justice for all.
+LYNN GUISSINGER: Thank you, Director Tisdale. Now, Director Rosenthal, could you please read the
+land acknowledgment?
+PAUL ROSENTHAL: Absolutely. Thank you, Madam Chair. The Board of Directors acknowledges that the
+land on which our buses and trains operate is a traditional territory of the Ute, Cheyenne, Arapaho, and
+other contemporary tribal nations that are historically tied to these lands. We honor our Indigenous elders
+who have traveled, inhabited, and stewarded these mountains, hills, and plains throughout generations.
+May this acknowledgment demonstrate a commitment to working to dismantle the ongoing legacies of
+inequity of the Native and all historically oppressed peoples and recognize their current and future
+contributions in the district as we move forward.
+LYNN GUISSINGER: Thank you. Director Harwick, at the risk of putting you on the spot, I think there is
+the statement of Employee Appreciation next to you, on the desk over there. If you wouldn't mind reading
+that.
+IAN HARWICK: Happy to read it.
+LYNN GUISSINGER: Thank you.
+IAN HARWICK: The Regional Transportation District Board of Directors recognizes that RTD's dedicated
+workforce is the lifeblood of the agency. Every day RTD employees do extraordinary things to make lives
+better through connections. We honor their work of delivering transit excellence, service, and value to the
+community, especially demonstrated during difficult and stressful moments. May the actions taken by the
+
+Board of Directors demonstrate our profound gratitude, commitment, and support toward all RTD
+employees.
+LYNN GUISSINGER: Thank you very much.
+I will now call the roll. There are several Board members who are online for various reasons tonight.
+Director Bouquet. I'll come back to Director Bouquet. I know he is planning to attend online. Director
+Broom.
+BOB BROOM: Present.
+LYNN GUISSINGER: Director Buzek.
+VINCE BUZEK: Here, Madam Chair.
+LYNN GUISSINGER: Thank you. Director Catlin. I believe she is driving back from South Dakota and
+should be joining us in just a few minutes. Director Davidson.
+ERIK DAVIDSON: Here.
+LYNN GUISSINGER: Director Dishell is excused. And we congratulate Director Dishell and his wife. Baby
+Micah Dishell joined the world today. So it's exciting. Yeah.
+[APPLAUSE]
+
+I am here, Lynn Guissinger. Michael Guzman.
+MICHAEL GUZMAN: Present.
+LYNN GUISSINGER: Director Harwick.
+IAN HARWICK: Present.
+LYNN GUISSINGER: Director Rosenthal.
+PAUL ROSENTHAL: Present.
+LYNN GUISSINGER: Director Ruscha.
+JOYANN RUSCHA: Present.
+JACK KROLL: She indicated that-LYNN GUISSINGER: Ah, I apologize if I missed you online. I thought you were going to be here to read
+the other. Director Sloan.
+MARJORIE SLOAN: Here.
+LYNN GUISSINGER: Director Tisdale.
+
+DOUG TISDALE: Present.
+LYNN GUISSINGER: Director Whitmore.
+TROY WHITMORE: Present.
+LYNN GUISSINGER: Director Williams is-- are you there, Director Williams?
+JACK KROLL: It doesn't appear as though she's joined yet.
+LYNN GUISSINGER: Retiree awards. First of all, let's see, I didn't keep track with-- we have, what, 3
+absent and 12 present? We have a quorum.
+One of the many rewarding duties of serving on this Board is the recognition of RTD retirees. And the
+time has come for us to recognize the employees who have moved on to enjoy their retirement. At this
+time, I'd like to read the names of the employees who have retired since June. Unfortunately, they were
+unable to attend tonight's meeting, but I would like to thank them for their hard work, their commitment
+and dedication to RTD.
+Craig Emmert, Manager of Technical Training for 29 years, Johnny Flanagan, CAD operator, 21 years,
+Leroy Lefebre, bus operator, 44 years, Jim Rhodes, construction engineer for 34 years, and Henry John
+Stopplecamp, AGM of Capital Programs for 23 years. Thank you all for your many years of service for
+RTD.
+All right. Next is our public participation period, which is open to anyone who would like to address the
+Board. As we have both in-person and remote attendees, in person comments will go first, followed by
+those who are participating remotely.
+Is there anyone in person who wishes to attend to speak? No. And do we have anyone online that wishes
+to speak?
+JACK KROLL: We do. We have two individuals that have raised their hands at this point. It looks like
+there's a third that has raised their hand now. So we can certainly proceed with that.
+LYNN GUISSINGER: Great. For those wishing to speaking virtually, please-SPEAKER 1: Go ahead. No, excuse me.
+LYNN GUISSINGER: --please raise your virtual hand or press star 9 on your phone. Staff will unmute you
+when it's your turn to speak. If you're dialed in, press star 6 to toggle your mute settings. Please bear in
+mind that by participating in this process, you are being recorded. If you do not wish to be recorded, then
+your comments will have to be submitted in writing.
+If any speaker has documentation or reference materials for the Board, or if any member of the public
+would like to submit written comments, please email those materials to the Board Office at
+rtd.boardoffice@rtd-denver.com. During this time, the Board will not offer any direct comments or
+responses. However, if you would like to be contacted regarding your comments, please email the RTD
+Board Office, again, at rtd.boardoffice@rtd-denver.com.
+
+Speakers, please begin your remarks by stating your names. You'll have up to three minutes to provide
+the comments. Who is our first speaker, Mr. Kroll?
+JACK KROLL: That would be Mr. James Flattum.
+LYNN GUISSINGER: Mr. Flattum, go ahead.
+JAMES FLATTUM: Good evening, everyone. This is James Flattum from Greater Denver Transit. My
+comments tonight are going to focus on the operator shortage, what is perhaps the single largest
+challenge RTD faces today. RTD management and staff have been very consistent, this is the number
+one problem preventing RTD from restoring service and increasing frequencies.
+Looking back, the operator shortage probably goes back to before the pandemic. It is certain that
+pandemic conditions certainly exacerbated it, with labor shortages across the country. As you would
+expect, when we look at other transit peer agencies around the country, we see operator shortages have
+impacted them as well. What is not universal, however, is the recovery.
+Several of RTD's peer agencies have made significantly more progress in staffing back up. In March of
+2022, RTD raised standard hourly wages from $2.58 to $24 for starting operators. In July of last year,
+RTD's combined full-time and part-time bus and light rail operator count numbered 911 people. Today this
+number is 930 people. So despite having a full year at this higher wage, RTD has only achieved a net
+increase of 19 operators over 12 months.
+As an example, compare this to LA Metro. LA Metro announced it had hired 1,000 new bus operators
+between February, 2022 and May of 2023. There were certainly offsets with some workforce attrition not
+included in this number, but the increase net was sufficient for LA Metro to increase their frequencies to
+pre-pandemic levels and restore cancellation rates to their pre-pandemic averages. LA Metro also raised
+pay, but only to $23, which is $1 lower than RTD, in a city that has higher costs of living.
+So their success cannot be attributed to easier operating conditions either. LA Metro serves a larger
+population than RTD and LA is a city that is widely known for experiencing severe social challenges with
+homelessness, drug abuse, and poverty that are orders of magnitude beyond what Denver faces today.
+We at GDT are not going to hold RTD responsible for the macro conditions of the pandemic. However,
+the question for management and the Board is, what is RTD doing? What does RTD have in their control
+that is not sufficiently working to attract and retain operators? What else can RTD do to make the job
+experience more attractive?
+We've done some cursory digging ourselves, speaking with RTD operators, DTO operators, Allied
+Security staff, and we have a few points to recommend for the Board to look into. One, questions have
+been raised about whether health care and 401(k) benefits are sufficiently competitive for operators. Two,
+certain operators and staff have reported they may not get the basic dignities, such as lunch breaks,
+which may otherwise be possible. And three, finally, we've been given accounts of lower middle
+managerial staff who are known for hostile personalities that may be contributing to excessive attrition
+and may lack the leadership skills for their task.
+Whatever the primary cause is, the lack of progress around hiring clearly deserves scrutiny from the
+Board, as it is hampering service quality more than any other thing at RTD. We would urgently push for a
+rapid review and peer agency benchmarking analysis to ascertain best practices among peer agencies
+for hiring and retention. Thank you. That concludes my comments.
+
+LYNN GUISSINGER: Thank you, Mr. Flattum. Mr. Kroll, who is next?
+JACK KROLL: Next we have Mr. Richard Bamber.
+LYNN GUISSINGER: Mr. Bamber, go ahead, please.
+RICHARD BAMBER: Good evening, everybody. First, I'd like to just reference the letter that hopefully is
+on the desks there in front of all of you, common sense amendments to the code of conduct. They've
+been worked up with stakeholders. So please, please vote in support of those tonight.
+Zero Fare, the first initial numbers have come out from July. And we crunched the data two ways, whether
+it's month to month or year on year. And it seems to be 16%. So at least that's good. It's up. And I think I'd
+like to say, I'd like to thank the staff here, because it was for a second year running, the Zero Fare for
+Better Air was a pretty flawless implementation. Everything seemed to be in place. There was no major
+issues. And that's credit where credit is due.
+I'd like to spend the rest of my allotted three minutes here on Henry Stopplecamp. While all RTD staff
+retiring have had long and we are hugely thankful for their contribution, Henry clearly stands out for me
+and James on a personal level. I was worked with him for six years on FasTracks, where he was, I think,
+the head of rail operations, and transitioning to the role he finished with the agency, as AGM of Capital
+Programs.
+I learned a lot from him. Henry would always discuss, engage, and share his extensive knowledge of
+railroads with anybody who was willing to ask and listen. After a well-earned break, we hope Henry will
+stay involved in the railroad community, advocating-- there's plenty of challenges ahead-- while enjoying a
+long and happy retirement. From this British railroader to an American one, I thank you, sir. You will be
+surely missed. Thanks.
+LYNN GUISSINGER: Thank you very much, Mr. Bamber. I think that all of us here share your
+appreciation for the huge contributions Mr. Stopplecamp has made to the agency.
+Who else do we have, Mr. Kroll?
+JACK KROLL: Yes. We have a Brett Paglieri.
+LYNN GUISSINGER: Go ahead, please.
+BRETT PAGLIERI: Hi. Thank you. My name is Brett Paglieri. I am a Edgewater resident who uses and
+enjoys RTD. I would like to see RTD modernize their decision making processes to be data driven in
+order to provide better routing service. It is now the standard that route planning and ridership models are
+based on origin and destination data from riders and modeled using modern data sciences. RTD should
+strive to know where people start and end their journeys. And most of that information could be available
+from our existing infrastructure with changes, but isn't being utilized to its fullest potential.
+Transfer information is important and feasibly obtainable from the current validation system, but we have
+access to so much more in this digital age. Apps like Google and Apple maps collect millions of queries
+and journeys in Denver every day and know what percentage of those end up being real trips. Third-party
+apps, like the Transit app, have real time GPS tracking for people taking transit, along with enormous
+amounts of data showing where people searched to go.
+
+To me, as someone in the Silicon Valley world, there's no valid excuse for not having ridership data in an
+age when my phone, my watch, and even my car log and track information everywhere I go. Data
+crucially can show us what trips aren't being taken. Having data is knowing the why, why people choose
+other options besides RTD. RTD should follow the lead of others and update the app to obtain more data
+and mine its data to find out best places to put their routes and forecast future ridership.
+I advocate that you use data to drive better service and ridership. For example, the RTD app signs me out
+and makes me log back in after inactivity. Even Facebook keeps you logged in because they know a
+small percentage of people will be turned away from any obstacle between them and their service.
+Thank you for helping to make things better and I look forward to seeing a modern, data driven, efficient
+transportation service that strives to be at the forefront of modern practices and technology. I have high
+hopes for RTD for being a world class transit service, constantly improving upon itself by using data and
+best practices. Data would show you more people who ride if we allowed you to tap a credit card to pay,
+where and how to improve wayfinding, and how to invest in service to improve more lives.
+I would like to see RTD follow the lead of others and use data, as it's already being used to make
+decisions, especially so we can catch up with the rest of the country. Thank you very much.
+LYNN GUISSINGER: Thank you, Mr. Paglieri. And do we have any others wishing to speak?
+JACK KROLL: At this time, I can see no other hands raised.
+LYNN GUISSINGER: And there were emailed comments tonight?
+JACK KROLL: One comment, or one letter was received in advance from Greater Denver Transit, and
+that has been circulated.
+LYNN GUISSINGER: Thank you very much. With no other participants in the queue, we will close public
+participation at this time.
+KATE WILLIAMS: And we would like to note that Director Williams has joined the meeting.
+LYNN GUISSINGER: Thank you. I was just about to note that both Director Williams and Director Catlin,
+thank you, have joined the meeting at this point.
+The first report for the external entities is from the Access-a-Ride Paratransit Advisory Committee, or
+APAC. Ms. Julie Jennings, please start when you are ready.
+JULIE JENNINGS: I'm Julie Jennings, and I'm presenting a brief summary of the Access-a-Ride
+Paratransit Advisory Committee meeting from September 12. I have the following updates.
+There were four new members filling expired three-year terms, Jessica King, Malorie Miller of DRCOG,
+Paige Reppo of Jewish Family Services, and Tiffany Kaneta of Laradon Hall.
+Fare changes. All updated fares and programs will commence in 2024.
+Updating information for customers with permanent certification. This fall, the MTM Eligibility Center will
+start to update the customer database for permanent or lifetime certified customers. They will begin with
+the least active customers.
+
+QRyde software implementation, the route match replacement. RTD will be ready to launch QRyde
+September 23, including the customer portal mobile access. Reservations will be taken beginning
+September 19 for trips on or after September 23. Concerns were raised and addressed, including
+accessibility issues, testing and fixes, and reservations by facilities for multiple clients.
+Access on demand update. The question was asked, is a two-stop trip possible? Uber does allow a twostop trip, while Lyft does not. Random holds are being placed on customer accounts for non-payment.
+The holds are related to Apple Pay. Lyft and Uber suggested adding a credit card or debit card instead of
+using Apple Pay.
+Other tech issues. RTD continues to talk with Uber about the missing trip cancel button for screen
+readers.
+Surface area stop lookup map. APAC is to test for functionality of current and new maps and send
+feedback by October 3.
+Members spent about 30 minutes discussing things about the Access-a-Ride program that we would like
+to see improved, and I look forward to providing all of you updates on how we progress with those. Thank
+you.
+LYNN GUISSINGER: Thank you so much. The second report is from the Advisory Committee for People
+with Disabilities, or ACPD. Mr. Earl Lee, please begin.
+EARL LEE: Thank you, Madam Chair. The ACPD meeting was held on September 6. Gabe Christie
+introduced four new members to the group. We have also just today decided on two more members that
+we are going to bring on and hoping by the beginning of 2024 that we will have full membership for the
+ACPD committee.
+The main discussion that we carried on the 6TH, we continued our ongoing discussion of elevator
+reliability, especially in locations that do not have an alternative method of access, such as a ramp. In
+these areas, an operating elevator is not a matter of convenience but a necessity for people who use
+wheelchairs and other mobility devices. It's become a real problem for a number of people.
+Several members echoed their concerns throughout the system, where they have not been able to
+access an elevator or they get off of a train, in particular, and find out that an elevator is not available,
+they can't get down working up to the levels that they need to and they have no idea what to do from that
+point.
+The one person who could speak to these issues unfortunately was not available to attend. So at this
+point, we are looking forward to a process that apparently is being worked on, being developed by RTD,
+and we will continue those discussions in our next meeting.
+Audio messages was the next discussion that was brought up, the next topic. Often, the audio messages
+are garbled and unintelligible, especially on train platforms and buses, the fixed route buses. There's
+inconsistent volumes and poor audio quality. The audio announcements are often not effective in helping
+passengers find their stops. This is especially true of the blind, who rely heavily on auditory messages.
+Shawn Spears, ex officio member, has had several reports from blind students using Route 66 that the
+bus announcements simply are inefficient, or insufficient. We also discussed briefly other possible
+
+technologies, NFC, near-field communications, some other things that we feel need to start getting looked
+at as alternatives to simply audio.
+The subject of ramp width on the free MallRide buses was brought up. One member saw a gentleman
+with a wider wheelchair who could barely get on and off of the bus because the sides of his wheels were
+scraping the edge of the ramp. This is very dangerous because it would be very easy for that person to
+go up over the ramp and fall.
+Now we realize that this is not something that can be corrected today, but we want to make sure that this
+is something that is considered in the future as new equipment is beginning to be spec'ed for both fixed
+route and for mall shuttle buses.
+Nick Rorres, who works for RTD, was quick to say that the MallRide ramps are 30.5 inches, which is
+wider than the fixed route bus ramps, and that both meet the ADA standards. And I think what this tells us
+is that while it may be the ADA minimum standard, what we're finding today is that some of the ADA
+standards that were written so long ago don't meet the real world challenges that we face today.
+Finally, we got a presentation from Andrea Zuckerman on the new website refresh that she and her team
+are working on. She did send out a survey for input from the ACPD committee members on how they
+currently use the website and what would make it better for them in the future. So we're looking forward to
+how that impacts the direction that she takes the website.
+And that concludes my report for this evening, and thank you very much.
+LYNN GUISSINGER: Thank you, Mr. Lee. We do not have a report from the CAC tonight because there
+has not been significant activity. But GM/CEO Johnson and our Board Office Executive Manager, Mr.
+Kroll, and I met with the co-chairs of the CAC this month. We are always talking about and struggling to
+figure out how to make their work really serve the agency and serve the Board.
+And I feel like we've come to a really good place to move forward. With the Finance and Planning
+Committee's focus on financial diversification and the creation of the working group among the staff,
+we've also asked the CAC to look at those issues. And I feel like it's all hands on deck, right, to address
+our financial future. So I think that that will be what they'll be moving forward with next. And I think it could
+be real important work. So I'm looking forward to that.
+All right. In a moment, the Board will meet in Executive Session to discuss the 2023-2-24 Office of the
+State Auditor performance audit. I'd like to note that when the Board moves into Executive Session,
+everyone in the room will need to leave, except those who are entitled to participate. When leaving the
+room, please make sure to take all of your belongings with you. Once the Executive Session adjourns, inperson attendees will be allowed to come back into the room.
+For those that are participating remotely, we'll have hold music playing until the Board meeting is called
+back to order. Really good music, right, Mr. Kroll?
+JACK KROLL: That's right.
+LYNN GUISSINGER: I'll now entertain a motion to move into Executive Session to discuss the following.
+Pursuant to Section 24-6-402(4)(c) of CRS for matters required to be kept confidential by federal or state
+law or rules and regulations and Sections 2-3-103, 2 and 3, and 2-3-103.7(1) CRS regarding an update
+
+from the Office of the State Auditor on progress of the ongoing 2023-2024 performance audit. Do we
+have a motion?
+ERIK DAVIDSON: So moved Director Davidson.
+LYNN GUISSINGER: And a second. I see Director Whitmore raised his hand. We have move-TROY WHITMORE: Second the motion.
+LYNN GUISSINGER: OK. Thank you. We have a motion by Director Davidson and a second by Director
+Whitmore. Is there any discussion on this item? Seeing none, is there anyone opposed to this motion?
+All right. With, what are we up to, 14? I believe 14, no, 13 yeses, the motion carries. The Board meeting is
+adjourned into Executive Session as of 5:59 PM. We'll take a quick five-minute break to clear out the
+room and switch the recording. And then we'll be back.
+JACK KROLL: Just a reminder to those Directors-[HOLD MUSIC PLAYING]
+
+AUTOMATED VOICE: Starting September 1, anyone 19 and under can-[HOLD MUSIC PLAYING]
+
+AUTOMATED VOICE: Starting September 1, anyone 19-[HOLD MUSIC PLAYING]
+
+AUTOMATED VOICE: Starting September 1, anyone 19 and under can ride RTD at no cost as part of
+Zero Fare for Youth, a one-year pilot program that aims to enhance the lives of RTD customers and
+communities by reducing transportation costs for families. Learn more at rtd-denver.com/youth.
+RTD's MyRide fare payment system offers more convenience and flexibility than ever before. Download
+the RTD MyRide app to simply scan and ride and never pay more than you should. Learn more at rtddenver.com/myride.
+Your schedule is important so we work hard to stay on ours. Sign up for service alerts to get up-to-date
+notifications on detours, delays, closures, and other issues that may impact your trip. Sign up for service
+alerts at rtd-denver.com.
+Have you lost or forgotten an item on a bus or train? Call Lost and Found at 303-299-6000, option 3, or fill
+out a customer comment form online at rtd-denver.com.
+
+With RTD's Transit Watch app, you never ride alone. The app is a quick, easy, and anonymous way for
+customers to communicate directly to transit police about safety and security concerns. Users have the
+option of directly calling transit police or sending a message. If you see something, say something.
+RTD is actively hiring operators, mechanics, and body shop technicians. No commercial driver's license
+required. Salaries for operators start at $24.96 per hour. These positions also offer a $4,000 signing
+bonus, on-the-job training, and great benefits. Apply today at rtd-denver.com/careers.
+RTD continues to accept all 2020, 2021, and 2022 10-Ride and Access-a-Ride paper tickets as valid fare
+payment through 2023. This is to accommodate customers who purchased tickets before and during the
+pandemic and have not yet returned to riding RTD. Visit rtd-denver.com for details.
+[HOLD MUSIC PLAYING]
+
+AUTOMATED VOICE: Starting September 1, anyone 19 and under can ride at no cost as part of Zero
+Fare for Youth, a one-year pilot program that aims to enhance the lives of RTD customers and
+communities by reducing transportation costs for families. Learn more at rtd-denver.com/youth.
+RTD's MyRide fare payment system offers more convenience and flexibility than ever before. Download
+the RTD MyRide app to simply scan and ride and never pay more than you should. Learn more at rtddenver.com/myride.
+Your schedule is important so we work hard to stay on ours. Sign up for service alerts to get up-to-date
+notifications on detours, delays, closures, and other issues that may impact your trip. Sign up for service
+alerts at rtd-denver.com.
+Have you lost or forgotten an item on a bus or train? Call Lost and Found at 303-299-6000, option 3, or fill
+out a customer comment form online at rtd-denver.com.
+With RTD's Transit Watch app, you never ride alone. The app is a quick, easy, and anonymous way for
+customers to communicate directly to transit police about safety and security concerns. Users have the
+option of directly calling transit police or sending a message. If you see something, say something.
+RTD is actively hiring operators, mechanics, and body shop technicians. No commercial driver's license
+required. Salaries for operators start at $24.96 per hour. These positions [AUDIO OUT]
+
+--2020, 2021, and 2022 10-Ride and Access-a-Ride paper tickets as valid fare payment through 2023.
+This is to accommodate customers who purchased tickets before and during the pandemic and have not
+yet returned to riding RTD. Visit rtd-denver.com for details.
+[HOLD MUSIC PLAYING]
+
+AUTOMATED VOICE: Starting September 1, anyone 19 and under can ride RTD at no cost as part of
+Zero Fare for Youth, a one-year pilot program that aims to enhance the lives of RTD customers and
+communities by reducing transportation costs for families. Learn more at rtd-denver.com/youth.
+RTD's MyRide fare payment system offers more convenience and flexibility than ever before. Download
+the RTD MyRide app to simply scan and ride and never pay more than you should. Learn more at rtddenver.com/myride.
+Your schedule is important so we work hard to stay on ours. Sign up for service alerts to get up-to-date
+notifications on detours, delays, closures, and other issues that may impact your trip. Sign up for service
+alerts at rtd-denver.com.
+Have you lost or forgotten an item on a bus or train? Call Lost and Found at 303-290-6000, option 3, or fill
+out a customer comment form online at rtd-denver.com.
+With RTD's Transit Watch app, you never ride alone. The app is a quick, easy, and anonymous way for
+customers to communicate directly to transit police about safety and security concerns. Users have the
+option of directly calling transit police or sending a message. If you see something, say something.
+RTD is actively hiring operators, mechanics, and body [AUDIO OUT] technicians. No commercial driver's
+license required. Salaries for operators start at $24.96 per hour. These positions also offer a $4,000
+signing bonus, on-the-job training, and great benefits. Apply today at rtd-denver.com/careers.
+RTD continues to accept all 2020, 2021, and 2022 10-Ride and Access-a-Ride paper tickets as valid fare
+payment through 2023. This is to accommodate customers who purchased tickets before and during the
+pandemic and have not yet returned to riding RTD. Visit rtd-denver.com for details.
+Starting September 1, anyone 19 and under can ride RTD at no cost as part of Zero Fare for Youth,
+[AUDIO OUT] lives of RTD-- transportation costs for [AUDIO OUT] more-RTD's MyRide fare payment system offers more convenience and flexibility than ever before. Download
+the RTD MyRide app to simply scan and ride and never pay more than you should. Learn more at rtddenver.com/myride.
+Your schedule is important so we work hard to stay on ours. Sign up for service alerts to get up-to-date
+notifications on detours, delays, closures, and other issues that may impact your trip. Sign up for service
+alerts at rtd-denver.com.
+Have you lost or forgotten an item on a bus or train? Call Lost and Found at 303-299-6000, option 3, or fill
+out a customer comment form online at rtd-denver.com.
+With RTD's Transit Watch app, you never ride alone. The app is a quick, easy, and anonymous way for
+customers to communicate directly to transit police about safety and security concerns. Users have the
+option of directly calling transit police or sending a message. If you see something, say something.
+RTD is actively hiring operators, mechanics, and body shop technicians. No commercial driver's license
+required. Salaries for operators start at $24.96 per hour. These positions also offer a $4,000 signing
+bonus, on-the-job training, and great benefits. Apply today at rtd-denver.com/careers.
+
+RTD continues to accept all 2020, 2021, and 2022 10-Ride and Access-a-Ride paper tickets as valid fare
+payment through 2023. This is to accommodate customers who purchased tickets before and during the
+pandemic and have not yet returned to riding RTD. Visit rtd-denver.com for details.
+Starting September 1, anyone 19 and under can Ride RTD at no cost as part of Zero Fare for Youth, a
+one-year pilot program that aims to enhance the lives of RTD customers and communities by reducing
+transportation costs for families. Learn more at rtd-denver.com/youth.
+RTD's MyRide fare payment system offers more convenience and flexibility than ever before. Download
+the RTD MyRide app to simply scan and ride and never pay more than you should. Learn more at rtddenver.com/myride.
+Your schedule is important so we work hard to stay on ours. Sign up for service alerts to get up-to-date
+notifications on detours, delays, closures, and other issues that may impact your trip. Sign up for service
+alerts at rtd-denver.com.
+Have you lost or forgotten an item on a bus or train? Call Lost and Found at 303-299-6000, option 3, or fill
+out a customer comment form online at rtd-denver.com.
+With RTD's Transit Watch app, you never ride alone. The app is a quick, easy, and anonymous way for
+customers to communicate directly to transit police about safety and security concerns. Users have the
+option of directly calling transit police or sending a message. If you see something, say something.
+RTD is actively hiring operators, mechanics, and body shop technicians. No commercial driver's license
+required. Salaries for operators start at $24.96 per hour. These positions also offer a $4,000 signing
+bonus, on-the-job training, and great benefits. Apply today at rtd-denver.com/careers.
+RTD continues to accept all 2020, 2021, and 2022 10-Ride and Access-a-Ride paper tickets as valid fare
+payment through 2023. This is to accommodate customers who purchased tickets before and during the
+pandemic and have not yet returned to riding RTD. Visit rtd-denver.com for details.
+Starting September 1, anyone 19 and under can ride RTD at no cost as part of Zero Fare for Youth, a
+one-year pilot program that aims to enhance the lives of RTD customers and communities by reducing
+transportation costs for families. Learn more at rtd-denver.com/youth.
+RTD's MyRide fare payment system offers more convenience and flexibility than ever before. Download
+the RTD MyRide app to simply scan and ride and never pay more than you should. Learn more at rtddenver.com/myride.
+Your schedule is important so we work hard to stay on ours. Sign up for service alerts to get up-to-date
+notifications on detours, delays, closures, and other issues that may impact your trip. Sign up for service
+alerts at rtd-denver.com.
+Have you lost or forgotten an item on a bus or train? Call Lost and Found at 303-299-6000, option 3, or fill
+out a customer comment form online at rtd-denver.com.
+With RTD's Transit Watch app, you never ride alone. The app is a quick, easy, and anonymous way for
+customers to communicate directly to transit police about safety and security concerns. Users have the
+option of directly calling transit police or sending a message. If you see something, say something.
+
+RTD is actively hiring operators, mechanics, and body shop technicians. No commercial driver's license
+required. Salaries for operators start at $24.96 per hour. These positions also offer a $4,000 signing
+bonus, on-the-job training, and great benefits. Apply today at rtd-denver.com/careers.
+
+RTD continues to accept all 2020, 2021, and 2022 10-Ride and Access-a-Ride paper tickets as valid fare
+payment through 2023. This is to accommodate customers who purchased tickets before and during the
+pandemic and have not yet returned to riding RTD. Visit rtd-denver.com for details.
+Starting September 1, anyone 19 and under can ride RTD at no cost as part of Zero Fare for Youth, a
+one-year pilot program that aims to enhance the lives of RTD customers and communities by reducing
+transportation costs for families. Learn more at rtd-denver.com/youth.
+RTD's MyRide fare payment system offers more convenience and flexibility than ever before. Download
+the RTD MyRide app to simply scan and ride and never pay more than you should. Learn more at rtddenver.com/myride.
+Your schedule is important so we work hard to stay on ours. Sign up for service alerts to get up-to-date
+notifications on detours, delays, closures, and other issues that may impact your trip. Sign up for service
+alerts at rtd-denver.com.
+Have you lost or forgotten an item on a bus or train? Call Lost and Found at 303-299-6000, option 3, or fill
+out a customer comment form online at rtd-denver.com.
+With RTD's Transit Watch app, you never ride alone. The app is a quick, easy, and anonymous way for
+customers to communicate directly to transit police about safety and security concerns. Users have the
+option of directly calling transit police or sending a message. If you see something, say something.
+RTD is actively hiring operators, mechanics, and body shop technicians. No commercial driver's license
+required. Salaries for operators start at $24.96 per hour. These positions also offer a $4,000 signing
+bonus, on-the-job training, and great benefits. Apply today at rtd-denver.com/careers.
+RTD continues to accept all 2020, 2021, and 2022 10-Ride and Access-a-Ride paper tickets as valid fare
+payment through 2023. This is to accommodate customers who purchased tickets before and during the
+pandemic and have not yet returned to riding RTD. Visit rtd-denver.com for details.
+Starting September 1, anyone 19 and under can ride RTD at no cost as part of Zero Fare for Youth, a
+one-year pilot program that aims to enhance the lives of RTD customers and communities by reducing
+transportation costs for families. Learn more at rtd-denver.com/youth.
+RTD's MyRide fare payment system offers more convenience and flexibility than ever before. Download
+the RTD MyRide app to simply scan and ride and never pay more than you should. Learn more at rtddenver.com/myride.
+Your schedule is important so we work hard to stay on ours. Sign up for service alerts to get up-to-date
+notifications on detours, delays, closures, and other issues that may impact your trip. Sign up for service
+alerts at rtd-denver.com.
+
+Have you lost or forgotten an item on a bus or train? Call Lost and Found at 303-299-6000, option 3, or fill
+out a customer comment form online at rtd-denver.com.
+With RTD's Transit Watch app, you never ride alone. The app is a quick, easy, and anonymous way for
+customers to communicate directly to transit police about safety and security concerns. Users have the
+option of directly calling transit police or sending a message. If you see something, say something.
+RTD is actively hiring operators, mechanics, and body shop technicians. No commercial driver's license
+required. Salaries for operators start at $24.96 per hour. These positions also offer a $4,000 signing
+bonus, on-the-job training, and great benefits. Apply today at rtd-denver.com/careers.
+RTD continues to accept all 2020, 2021, and 2022 10-Ride and Access-a-Ride paper tickets as valid fare
+payment through 2023. This is to accommodate customers who purchased tickets before and during the
+pandemic and have not yet returned to riding RTD. Visit rtd-denver.com for details.
+Starting September 1, anyone 19 and under can ride RTD at no cost as part of Zero Fare for Youth, a
+one-year pilot program that aims to enhance the lives of RTD customers and communities by reducing
+transportation costs for families. Learn more at rtd-denver.com/youth.
+RTD's MyRide fare payment system offers more convenience and flexibility than ever before. Download
+the RTD MyRide app to simply scan and ride and never pay more than you should. Learn more at rtddenver.com/myride.
+Your schedule is important so we work hard to stay on ours. Sign up for service alerts to get up-to-date
+notifications on detours, delays, closures, and other issues that may impact your trip. Sign up for service
+alerts at rtd-denver.com.
+Have you lost or forgotten an item on a bus or train? Call Lost and Found at 303-299-6000, option 3, or fill
+out a customer comment form online at rtd-denver.com.
+With RTD's Transit Watch app, you never ride alone. The app is a quick, easy, and anonymous way for
+customers to communicate directly to transit police about safety and security concerns. Users have the
+option of directly calling transit police or sending a message. If you see something, say something.
+RTD is actively hiring operators, mechanics, and body shop technicians. No commercial driver's license
+required. Salaries for operators start at $24.96 per hour. These positions also offer a $4,000 signing
+bonus, on-the-job training, and great benefits. Apply today at rtd-denver.com/careers.
+RTD continues to accept all 2020, 2021, and 2022 10-Ride and Access-a-Ride paper tickets as valid fare
+payment through 2023. This is to accommodate customers who purchased tickets before and during the
+pandemic and have not yet returned to riding RTD. Visit rtd-denver.com for details.
+Starting September 1, anyone 19 and under can ride RTD at no cost as part of Zero Fare for Youth, a
+one-year pilot program that aims to enhance the lives of RTD customers and communities by reducing
+transportation costs for families. Learn more at rtd-denver.com/youth.
+RTD's MyRide fare payment system offers more convenience and flexibility than ever before. Download
+the RTD MyRide app to simply scan and ride and never pay more than you should. Learn more at rtddenver.com/myride.
+
+Your schedule is important so we work hard to stay on ours. Sign up for service alerts to get up-to-date
+notifications on detours, delays, closures, and other issues that may impact your trip. Sign up for service
+alerts at rtd-denver.com.
+Have you lost or forgotten an item on a bus or train? Call Lost and Found at 303-299-6000, option 3, or fill
+out a customer comment form online at rtd-denver.com.
+With RTD's Transit Watch app, you never ride alone. The app is a quick, easy, and anonymous way for
+customers to communicate directly to transit police about safety and security concerns. Users have the
+option of directly calling transit police or sending a message. If you see something, say something.
+RTD is actively hiring operators, mechanics, and body shop technicians. No commercial driver's license
+required. Salaries for operators start at $24.96 per hour. These positions also offer a $4,000 signing
+bonus, on-the-job training, and great benefits. Apply today at rtd-denver.com/careers.
+RTD continues to accept all 2020, 2021, and 2022 10-Ride and Access-a-Ride paper tickets as valid fare
+payment through 2023. This is to accommodate customers who purchased tickets before and during the
+pandemic and have not yet returned to riding RTD. Visit rtd-denver.com for details.
+Starting September 1, anyone 19 and under can ride RTD at no cost as part of Zero Fare for Youth, a
+one-year pilot program that aims to enhance the lives of RTD customers and communities by reducing
+transportation costs for families. Learn more at rtd-denver.com/youth.
+RTD's MyRide fare payment system offers more convenience and flexibility than ever before. Download
+the RTD MyRide app to simply scan and ride and never pay more than you should. Learn more at rtddenver.com/myride.
+Your schedule is important so we work hard to stay on ours. Sign up for service alerts to get up-to-date
+notifications on detours, delays, closures, and other issues that may impact your trip. Sign up for service
+alerts at rtd-denver.com.
+Have you lost or forgotten an item on a bus or train? Call Lost and Found at 303-299-6000, option 3, or fill
+out a customer comment form online at rtd-denver.com.
+With RTD's Transit Watch app, you'll never ride alone. The app is a quick, easy, and anonymous way for
+customers to communicate directly to transit police about safety and security concerns. Users have the
+option of directly calling transit police or sending a message. If you see something, say something.
+RTD is actively hiring operators, mechanics, and body shop technicians. No commercial driver's license
+required. Salaries for operators start at $24.96 per hour. These positions also offer a $4,000 signing
+bonus, on-the-job training, and great benefits. Apply today at rtd-denver.com/careers.
+RTD continues to accept all 2020, 2021, and 2022 10-Ride and Access-a-Ride paper tickets as valid fare
+payment through 2023. This is to accommodate customers who purchased tickets before and during the
+pandemic and have not yet returned to riding RTD. Visit rtd-denver.com for details.
+Starting September 1, anyone 19 and under can ride RTD at no cost as part of Zero Fare for Youth, a
+one-year pilot program that aims to enhance the lives of RTD customers and communities by reducing
+transportation costs for families. Learn more at rtd-denver.com/youth.
+
+RTD's MyRide fare payment system offers more convenience and flexibility than ever before. Download
+the RTD MyRide app to simply scan and ride and never pay more than you should. Learn more at rtddenver.com/myride.
+Your schedule is important so we work hard to stay on ours. Sign up for service alerts to get up-to-date
+notifications on detours, delays, closures, and other issues that may impact your trip. Sign up for service
+alerts at rtd-denver.com.
+Have you lost or forgotten an item on a bus or train? Call Lost and Found at 303-299-6000, option 3, or fill
+out a customer comment form online at rtd-denver.com.
+With RTD's Transit Watch app, you never ride alone. The app is a quick, easy, and anonymous way for
+customers to communicate directly to transit police about safety and security concerns. Users have the
+option of directly calling transit police or sending a message. If you see something, say something.
+RTD is actively hiring operators, mechanics, and body shop technicians. No commercial driver's license
+required. Salaries for operators start at $24.96 per hour. These positions also offer a $4,000 signing
+bonus, on-the-job training, and great benefits. Apply today at rtd-denver.com/careers.
+RTD continues to accept all 2020, 2021, and 2022 10-Ride and Access-a-Ride paper tickets as valid fare
+payment through 2023. This is to accommodate customers who purchased tickets before and during the
+pandemic and have not yet returned to riding RTD. Visit rtd-denver.com for details.
+Starting September 1, anyone 19 and under can ride RTD at no cost as part of Zero Fare for Youth, a
+one-year pilot program that aims to enhance the lives of RTD customers and communities by reducing
+transportation costs for families. Learn more at rtd-denver.com/youth.
+RTD's MyRide fare payment system offers more convenience and flexibility than ever before. Download
+the RTD MyRide app to simply scan and ride and never pay more than you should. Learn more at rtddenver.com/myride.
+Your schedule is important so we work hard to stay on ours. Sign up for service alerts to get up-to-date
+notifications on detours, delays, closures, and other issues that may impact your trip. Sign up for service
+alerts at rtd-denver.com.
+Have you lost or forgotten an item on a bus or train? Call Lost and Found at 303-299-6000, option 3, or fill
+out-LYNN GUISSINGER: All right. We're going to reconvene in one minute. One-minute warning.
+Great.
+The Board meeting is called back to order as of 6:40 PM. I'd like to thank everyone for your patience as
+we pick up where we left off.
+First report of committees is Audit Committee report. Directors Catlin and Davidson, do you have anything
+you would like to report?
+
+PEGGY CATLIN: Very briefly, we had no Audit Committee meetings in September. The next meeting is
+tentatively scheduled for November 6, but our consultants are working on the approved audit plan and
+making progress.
+LYNN GUISSINGER: Thank you. Committee Chair Tisdale, do you have a report from the Finance and
+Planning Committee?
+DOUG TISDALE: Thank you very much, Madam Chair. The Finance and Planning Committee met on
+September 12. The minutes are in your packet. The item that was approved unanimously was the midterm financial plan. That has been pulled for administrative reasons and will be coming back later.
+There were two discussion items, and I just want to highlight, on the revenue diversification working group
+discussion item, it was clarified that the revenue diversification working group will not be taking any
+actions and will only be providing recommendations for the full Board to consider at some appropriate
+point in the future.
+And then regarding the Northwest Rail Peak Service feasibility study update, it was very pleasant to hear
+that a commitment to communication, collaboration, and cooperation with the Front Range Passenger
+Rail is part of our plan and that ultimately they'll be coming up with a coordinated plan going forward and
+trying to make sure that our efforts are not at odds with Front Range Passenger Rail and vice versa.
+That concludes my report, Madam Chair. Thank you.
+LYNN GUISSINGER: Thank you, Committee Chair Tisdale. Let me add that Director Bouquet has joined
+us online.
+The Operations and Safety Committee. Committee Chair Williams, do you have a report? Director
+Williams, are you there? No. I know she's-- I believe she's traveling, so she may have lost her connection.
+I guess we will wait and see if she comes back to get the Operations and Safety Committee report, unless
+somebody else is ready to do it.
+OK. Performance Committee report. Committee Chair Davidson.
+ERIK DAVIDSON: Thank you, Madam Chair. The Performance Committee met on September 11. One of
+the most important things that a Board of Directors does is evaluate the performance of the CEO and
+General Manager. So I'd like to call attention to a couple of things that were discussed and occurred at
+the meeting.
+Certainly the most substantial thing was that the committee unanimously approved the compensation
+philosophy for the General Manager and CEO of RTD. That appears on the unanimous consent agenda
+this evening. Some highlights from that compensation philosophy for the Board to be aware of, the
+committee did decide to align our compensation to the 50th percentile of public transit agencies and
+related public and private sectors.
+We did note the importance of transparency, the intent of the Board to pay for performance, the intent to
+recognize value in compensation components that "support health and welfare of the General Manager
+and CEO," recognize and respect RTD's fiscal reality, and engage no later than 18 months prior to a
+contract expiration of a sitting CEO to engage and discuss future plans of that contract.
+
+That appears in your agenda. I thank you to all Directors who have submitted thoughtful feedback and
+had discussions with myself, with other committee members, as well as the Board Office. I think it's an
+important thing for us to be moving forward with and actually is going to influence a number of other
+upcoming topics.
+We have several upcoming meetings, all of which are going to be important. I know there have been quite
+a few meetings of the Performance Committee, so thank you to everybody for your participation.
+First of all, on October 2, this upcoming Monday, we will have a meeting that will have on it a discussion
+item around the results of the employee survey results that will be presented to us, which, as we all know,
+aligns with one of our key strategic objectives and relates to the weighted success outcomes that
+influence our General Manager's contract and performance evaluation.
+We will also be discussing the findings of the Gallagher report. This is the compensation analysis that
+was conducted a year ago, at this point, regarding where our General Manager and CEO's existing
+compensation falls in relation to the market. With the passage of the compensation philosophy, it is now
+important and paramount for the Board to respond to that compensation analysis based on our new policy
+and the analysis that we received. We'll have a discussion on October 2 and we expect to move forward
+with a recommendation regarding the base salary range to be set for the General Manager and CEO
+position at October 16.
+October 16 will be the next meeting of the Performance Committee. In addition to the discussion around
+the base salary range, we will also be discussing the results of both the customer and the community
+value surveys, again relating to our strategic objectives. At that point, we will also be looking at any
+recommended actions that may be required as it relates to compensation or the performance evaluation
+process of the CEO and General Manager for this year.
+Most importantly, I would like to note a very significant meeting that I would like to request the
+participation of all Directors. This is November 13. The Performance Committee will plan on an Executive
+Session that will be in-person only. Again, this will be an in-person only Executive Session. This will be to
+deliver the performance review to our current CEO and General Manager, Debra Johnson, discuss her
+performance and the performance of the agency moving forward.
+After that point, the committee will move to approve the public records that will correspond to that
+performance evaluation plan and we will also be discussing the goals for the agency and our CEO and
+General Manager for 2024 at upcoming dates of the Performance Committee.
+So many important things happening there. Again, just to emphasize, if nothing else, please participate in
+that in-person only November 13 Executive Session for the performance evaluation of our CEO and
+General Manager. Thank you very much, Madam Chair.
+LYNN GUISSINGER: Thank you very much, Director Davidson. I believe I see a hand from Director
+Rosenthal.
+PAUL ROSENTHAL: Thank you, Madam Chair. Are we still having a meeting on October 2, or is that
+canceled, for Performance Committee?
+ERIK DAVIDSON: Yes, thank you for the question. We are meeting on October 2. That is where we will
+receive the employee survey results and as well have the discussion items surrounding the compensation
+analysis and the Gallagher, the findings from Gallagher. Thank you.
+
+LYNN GUISSINGER: Thank you for your hard work on that, Committee Chair Davidson. And I will just
+underscore, as he said, evaluating our CEO and giving her good feedback for the next year ahead is one
+of the, if not the most critical thing we do. So I encourage attendance-- certainly, November 13. That's an
+evening meeting, a 5:30 meeting, so everybody can make it-- but at the other Performance Committee
+meetings as well.
+I believe Director Whitmore is prepared to give the Operations and Safety Committee report.
+TROY WHITMORE: Well, I will do that unless we want to do one last call for Director Williams, if she had
+trouble joining back over to the regular meeting.
+LYNN GUISSINGER: I don't think she's with us.
+TROY WHITMORE: All right. Thank you, Madam Chair.
+The aforementioned committee met on September 13, a relatively short meeting. The substance of the
+meeting was revisions proposed for the code of conduct that were unanimously approved. And the code
+of conduct is on the consent agenda here in a few minutes this evening.
+We also discussed the 2024, January '24 service change proposals. The last time I gave this report, I
+couldn't say that situation either, could I? But yes, we discussed that. Mostly minor changes but we had
+good input from both Michael Ford and Jessie Carter on that.
+And then we had our quarterly safety performance review presented by Dan McLean. And we have some
+good news and some things to work on, as we all knew would be the case.
+So good meeting, very short. The one thing I did want to emphasize, our next meeting is not on
+Wednesday. It is on Monday next month. Monday the 2nd due to the conflict with the DRCOG banquet.
+So we will be meeting as a committee on Monday instead of Wednesday. So I don't think there's a
+Broncos Monday night game. Oh, never mind.
+[LAUGHTER]
+Thank you for your time.
+LYNN GUISSINGER: Thank you for pinch hitting, Director Whitmore. And that's a very good point. All our
+committee meetings are next week for the APTA conference as well.
+The Board and committee minutes were included in the Board packet. Are there any corrections from the
+Directors for the minutes to be approved this evening?
+TROY WHITMORE: Move to approve.
+LYNN GUISSINGER: OK. Unless there's objection, I'm going to-- I'll take that motion but I'm going to read
+it all here anyhow. Unless there's objection to considering the minutes all at the same time, may I please
+have a motion to approve the minutes for the following meetings, June 28, 2023, Board meeting, July 25,
+2023, Board meeting, September 11, 2023, Performance Committee, September 12, 2023, Finance and
+Planning Committee, September 13, 2023, Operations and Safety Committee, and September 21, 2023,
+Executive Committee.
+
+I heard Director Whitmore as movant. Do we have a second?
+DOUG TISDALE: Second.
+LYNN GUISSINGER: I hear Director Tisdale as the second. Is there any discussion on this motion?
+I'll now call for the vote. Are there any no votes? Seeing none, the motion passes. I believe, are we at 13
+now, Board staff, 13 attendees? I think we have 13 yes votes, zero no votes. Might be 12. That motion
+passes and there are no no votes.
+All right. The Chair's report. It was a busy month, even if we weren't meeting in August. There were a
+number of meetings. I attended a number of meetings that I think Ms. Johnson will address, some that
+she was speaking in, a variety of things.
+Just briefly, the tour of DEN airport that many of you were on, the TLRC meeting that we spoke at, the
+youth fares media event. We had a meeting with Danny Katz and the Alliance to Transform
+Transformation to understand better what they're working with. Commuting Solutions Conference and
+several other things.
+My focus during this time-- well, I guess I want to talk about two things, the things that I've done and that
+we've been doing and also some of the things that I think are significant coming up. And my focus in a lot
+of this time has been working with Ms. Johnson and the team, Mr. MacLeod and others, on getting the
+information the Board needs to make decisions about addressing TABOR and some of our financial
+diversification options. Also, thank you to Ms. Snyder for help with that. I appreciate staff moving that
+along quickly. We'll be deciding on a summary scope of work for a political consultant to help with some
+of the financial diversification issues later tonight.
+And also, I've had a variety of discussions with legislators and with others, such as the Alliance to
+Transform Transformation-- Transform Transportation and others around the conversation that you may
+have seen in the article in, I think it was in Colorado Public, CPR, about increased funding for RTD and
+possible changes in accountability with RTD, and just trying to learn more about what those might look
+like there. I think it's fair to say they're far from having any definite proposals at this point. So I've been
+involved in those conversations.
+I've met with a number of legislators, Senate President Fenberg, Senator Winter, Senator Hansen, some
+of the representatives in my area. And it may be time in the near future for all of us to start checking in
+with some of our legislators, or many of us.
+From the federal perspective, the news is what we're all hearing, that the government is likely to. Or may
+well shut down at the end of this week. And Michael Davies gave our Executive Committee a good report
+on that, I think. And I spoke with him today. DOT will still be able to process some formula grant
+reimbursements. Discretionary grants will be upheld. We'll see how long that lasts, if it happens.
+There is a draft of a TLRC bill, the transportation legislation review committee. They are authorized to
+move forward on, I think, five bills. And one of them is to continue the Ozone Season Transit Grant
+program, which is our zero fare months. And I think there's a lot to be worked out there, but that is part of
+what they're working on. And also, funding for Zero Fares for Youth throughout the state, which is very
+exciting. I think we have started something here.
+
+In terms of things moving forward, tomorrow afternoon is the TOD and real estate onboarding. Even
+though it's an onboarding, kind of a big issue right now. I plan to attend it. I may be a few minutes late.
+And I encourage others to attend it. What I'm hearing from our new colleagues is that the onboarding
+meetings have been super helpful. And I think that this one in particular, with the Governor's focus on
+TOD and what's coming up in the legislature, would be good to attend.
+We have a study session scheduled for October 18. The TLRC, I think Ms. Johnson sent out this just in
+the last couple of days, that we will be, she and I will be, mostly she will be, speaking to the TLRC next
+Tuesday, October 3, at 8:30. You should have that information in your emails.
+The monthly Board briefing documents. I've asked the Board Office to every time they send out the twoweek calendar to send that link. Because it was a little obscure how to find it before. And it's just so
+important that we all get in there and read all of those. So I encourage that.
+And that's about it. I think also, I guess one other thing, you also may have received an invitation from the
+Regional Air Quality Council to an event that is celebrating the Clean Air legislators that supported their
+Clean Air legislation and ours in the process.
+So thank you very much. That's my report. Any questions?
+OK. General Manager's report. Ms. Johnson, please share with us your report.
+DEBRA JOHNSON: Yes, thank you very much, Madam Chair, and good evening to all of you Board
+members and to all who are assembled both virtually and here in the Board room. As introduced, I am
+Debra Johnson, RTD's General Manager and CEO. And this evening I will share with you the following
+information. As I customarily do, it's centered around our strategic priorities.
+So regarding community value, given that the last Board meeting occurred over two months ago, I will
+share an overview of certain meetings and events in which I have engaged, including the Denver Metro
+Chamber state of the city event, a meeting with representatives from the Denver International Airport-- the
+Chair did reference that briefly, but I'll give some more specifics as it relates to the intent there-- a
+conference call that we took part of with the Alliance to Transform Transportation group-- the Chair made
+reference of that, but it really involves a myriad of different entities outside of the environmental groups,
+as well-- a meeting of the Transportation Legislative Review Committee meetings, which we've had with
+city officials and staff from Commerce City, Adams County, and the City and County of Broomfield,
+respectively, the Commuting Solutions Sustainable Transportation Summit, of which I took part of a panel
+discussion, and an inaugural meeting of an industry advisory council, a visit to the US Department of
+Transportation's Technology Center, my participation in the leadership exchange sponsored by the
+Denver Metro Chamber of Commerce, and a meeting with the Northwest Mayors and Commissioners
+Coalition regarding customer excellence. I will discuss the Zero Fare for Youth announcement, as well as
+the inaugural meeting of the State Transportation Task Force.
+Speaking to employee ownership, I will touch on the bus, rail, and snowplow rodeo events that have
+recently taken place. And regarding financial success, I will go into a little more detail. The Chair did
+reference this, but potential transit industry impacts resulting from a federal government shutdown, should
+that commence on Sunday, October 1. And to close my remarks, I will respond to Director Tisdale's
+inquiry regarding a solicitation involving the naming rights of the A Line.
+
+So as it pertains to community value, on Thursday, July 27, I, along with members of staff, attended the
+Denver Metro Chamber of Commerce State of the City event, during which mayors from across the
+region, and more specifically also included the Mayor from Colorado Springs, shared insights and
+discussed changing demographics, economic conditions, and regional growth.
+On Monday, August 7, the Chair, as she referenced, and six members of the Board met with
+representatives from the Denver International Airport, including the CEO, and what we discussed were
+Denver International operations, the projections in airport traffic and ongoing construction, as well as the
+importance of transit and moving customers and workers to and from the world's third busiest airport.
+On Wednesday, August 9, I, along with Chair Guissinger, Second Vice Chair Davidson, and CFO
+MacLeod participated in a call with the Alliance to Transform Transportation. It's a group of environmental
+and civic-minded organizations, not to mention our own Amalgamated Transit Union Local 10-01, of
+which Mr. Longenbohn heads, they participated and are involved as well. And the main focus is on
+access to reliable, affordable, and safe transportation options. We collectively discussed opportunities for
+the expansion of transit access through alternative revenue sources.
+Moving on to the Transportation Legislative Review Committee convened on Monday, August 21 at the
+state capitol, I had the opportunity to present updates regarding the systemwide fare study and equity
+analysis specifically related to our path forward and what we anticipate taking place relative to our new
+fare structure with its implementation in the first quarter of 2024, talked about the call for projects
+partnership program, as that preceded the announcement, as we were looking to evaluate applications at
+that time, quite naturally recognizing the labor intensive organization of public transit.
+We spoke about our people power. We did hear comments this evening by a public commenter and just
+wanted to ensure that everybody recognizes that public transportation agencies are powered by people
+and we're labor intensive organizations, and for all intents and purposes, 3/4 of an operating budget are
+generally geared toward labor.
+And then lastly, touched upon the Zero Fare for Better Air and, quite naturally, the year pilot long program
+for Zero Fare for Youth initiatives.
+I participated in a meeting along, with the city manager and staff for Commerce City, along with the
+[AUDIO OUT] that part of his district and Government Relations Officer Davies on Thursday, August 24.
+The discussion centered around the partnership program and people power and the Zero Fare for Youth
+initiative and how RTD can support the city's expansion efforts.
+On Wednesday, August 30, as part of the 7th annual Commuting Solutions Sustainable Transportation
+Summit, I participated in a panel discussion moderated by Boulder County Commissioner Claire Levy
+centered around passenger rail service
+along the Front Range. Other members of the panel included Amtrak Executive Vice Present Dennis
+Newman, former US Department of Transportation General Counsel John Putnam, and David Singer,
+who serves as the Assistant Director of Passenger Rail with the Colorado Department of Transportation.
+That same day, I and Chair Guissinger and Government Relations Officer Davies visited the City and
+County of Broomfield to meet with the Mayor, City Manager, and members of staff, of their staff, rather,
+for purposes of discussing partnership opportunities related to localized service. Moreover, I managed
+
+expectations by sharing that I and my staff are focused on back-to-basics people power and a welcoming
+transit environment.
+And just to provide more context, often we have discussions relative to what it is we can do relative to
+providing transit services. And recognizing that I constantly stress that we are the R in RTD, being
+focused on regionalized service, it's often important that we qualify what our intent is in reference to
+delivering transit services. And I would say that that conversation was well received relative to being very
+forthright in reference to what it is that we can do with our limitations in people power and resources.
+On Tuesday, September 5, once again with Director Whitmore and Government Relations Officer Davies,
+we traveled to Adams County to participate in a study session for the Board of County Commissioners,
+where I shared information again about RTD's partnership program, our people power, and our Zero Fare
+for Youth initiative, and fielded a myriad of questions very analogous to those that were posed by the City
+and County of Broomfield officials, as well as staff.
+This past Monday, September 18, I participated in a meeting of an industry advisory council and provide
+more context around that, it is something I was invited to participate in due to my experience and thought
+leadership in reference to the public transit space, and more specifically, it was convened at the request
+of LA Metro. And the council was formed intentionally to provide guidance and industry insight regarding
+planning for mega events, recognizing that Los Angeles will host the 2028 Olympics and Paralympic
+Games.
+But also, we're looking to address the simultaneous challenges faced by the transit industry as a whole
+for the transition to zero emission bus service, recognizing that LA has made a commitment to be car-free
+with the Olympics, but more specifically as it relates to the state of California, recognizing that one cannot
+utilize diesel buses in the Southern California basin, trying to garner a better understanding of how that
+may be possible for other agencies to help around the country.
+And then more specifically, as we talk about zero emission technologies, keeping in mind that there's only
+two original equipment manufacturers that provide buses to the United States at this juncture. And so
+other members of the council include industry CEOs that have had experience in providing for mega
+events. And so this collaboration has been intentional.
+So I have my colleagues that represent MARTA, being the Metropolitan Atlanta Rapid Transit Authority,
+Miami County Dade Department of Transportation, Greater Cleveland Transit Authority, Utah Transit
+Authority, Long Beach Transit, TransLink in Vancouver, British Columbia, Las Vegas-- or I should say, the
+Regional Transportation Commission of Southern Nevada-- Jacksonville Transportation Authority, and
+Toronto Transit Commission, TTC in Toronto, Canada, and as well as Harris County Metro that provide
+service to the greater Houston area.
+On Tuesday, September 19, I and Government Relations Officer Michael Davies-- you're seeing a pattern
+here, he's my sidekick-- we traveled to Pueblo to visit the US Department of Transportation Technology
+Center, or TTC, to engage in discussions surrounding the future of rail transit, as well as a Front Range
+Passenger Rail update, a tour of TTC, and a train demonstration. The governor, state legislators, federal
+railroad administration leadership and transportation industry representatives, as well as members of the
+Front Range Passenger Rail District, of which I serve as an ex-officio member, were also in attendance.
+And really, I thought my role was to serve as a train whisperer.
+
+And we basically had an opportunity to understand the offerings of TTC, which include, but not limited to,
+full scale transportation testing of locomotive and passenger and freight rail cars, hands-on training, and
+cybersecurity and communication testing.
+From Thursday, September 21 through Saturday, September 23, I ventured to Minneapolis, Minnesota as
+part of the 33rd Annual Leadership Exchange sponsored by the Denver Metro Chamber of Commerce.
+This group is designed to explore the latest leadership trends and innovations of another community then
+launch new ideas in the Denver Metro area. The learning opportunities that we were afforded included
+corporate attraction, city activation and livability, community trust building and public safety, creative
+economy in housing policy and zoning.
+The delegation consisted of 162 business executives and civic leaders, including the mayors of Denver,
+Lakewood, and Lone Tree, as well as a commissioner representing Adams County.
+And just earlier today I and Chair Guissinger and Second Vice Chair Davidson, as well as Michael Davies
+and Patrick Shanley, who serves as the project manager for the Northwest Rail Feasibility Study, met with
+the Northwest Mayors and Commissioners Coalition, a group of local governments in the Northwest Metro
+region with interest in regional transportation investment priorities, among other topics. During this
+meeting, I fielded a myriad of questions regarding transit service delivery, including the future of rail in the
+Northwest Metro region, how the agency is utilizing federal dollars, service equity, and, of course, people
+power.
+As I transition to the strategic priority of customer excellence, on Tuesday, August 8, Chair Guissinger,
+Director Williams, Denver City Council member Amanda Sawyer, Denver Public Schools Board member
+Scott Baldermann, and I, along with Director Guzman and members of staff in attendance, formally
+announced the 2023-2024 Zero Fare for Youth pilot program in an event held at the Chestnut Pavilion
+near Denver Union Station.
+As the Board is aware, council member Sawyer sponsored a proclamation of support for the program and
+the agency has received a myriad of positive feedback from legislators, stakeholders, and families
+regarding the zero fare offering. I would be remiss not to state, without the Federal Transit
+Administration's partnership in providing a waiver to the agency, this demonstration project for the
+duration of a year would yet to be possible.
+And more so with the support for state legislation to provide funding for Zero Fare for Youth in future
+years is contemplated, as you heard from the Chair in her remarks, as part of the 2024 legislative and
+government relations program, which the Board will discuss later this evening.
+As we talk about the need for transportation for youth, just yesterday, on Monday, September 25, I
+participated in the inaugural meeting of the school transportation task force which was created by Senate
+Bill 23-094. I, along with the other participants, discuss baseline data, task force requirements, and
+potential approaches in determining how to improve and modernize school transportation services for
+students across the state. I was appointed by the Commissioner of Education for the Colorado
+Department of Transportation to serve as a representative of public transportation providers. The task
+force will meet at least six times prior to November of 2024 and will prepare, publish, and share its
+findings with the governor and the education committees of the General Assembly no later than
+December 1st of 2024.
+
+Speaking now to employee ownership. Rodeos were held on September, August 5, Friday, August 18,
+and Saturday, September 5 for rail, snowplow, and bus competitions, respectively. I extend my
+appreciation and congratulation to all those individuals who participated in those three exciting events, as
+well to those that made these rodeos a reality. Having been in this space for three decades, I always find
+the rodeos to be quite exciting. And it gives us an opportunity to come together as employees and
+celebrate what we do best. And that's our aspect of the operational components to ensure that we can
+make lives better through connections.
+Competing in these competitions is no easy task and individuals must take the necessary time to hone
+their skills, skills that they will then employ in the course of their duties. The highest scoring snowplow
+and bus rodeo participants each year are invited to attend competitions on a national stage, or
+international, in some instances, recognizing that Canada is part of the American Public Transportation
+Association. Unfortunately, the rail rodeo competition, which is typically held at the annual APTA spring
+rail conference, remains on hiatus for the immediate future.
+And speaking to financial success, the Chair referenced this, but I wanted to take a moment to provide a
+little more in-depth information relative to the potential transit industry impacts resulting from the looming
+possibility of a federal government shutdown. Congress will not complete pending action or
+appropriations prior to October 1, 2023. The federal Antideficiency Act generally bars the obligation or
+expenditure of federal funds in the absence of appropriations. As a result, Congress must enact a
+continuing resolution, as we commonly refer to as a CR, to provide interim budgetary authority and
+prevent a government shutdown.
+If a funding gap occurs, federal agencies are generally required to begin a shutdown of affected projects
+and activities, which includes the prompt furlough of non-excepted personnel. This means that Congress
+must enact a CR this week to prevent a government shutdown beginning Sunday, October 1.
+I will share, we were slated to host the TSA administrator this Friday here at Blake, but recognizing the
+impacts of TSA workers and things of the like, we had to forego that this Friday, when I received a call
+from the Deputy TSA administrator. But that just shows the critical aspects of everything that is happening
+right now.
+It is unclear whether Congress will reach a bipartisan, bicameral agreement to prevent a shutdown. The
+impacts of the government shutdown on the USDOT agencies vary considerably. The Chair made
+reference to FTA, recognizing that operations will continue and none of its 700 employees will be
+furloughed, given that FTA operations are financed by either the Highway Trust Fund or advance
+appropriations under the bipartisan infrastructure law. The FTA will be able to reimburse transit agencies,
+as we heard from the Chair, for previously approved projects. However, it is not clear whether new grants
+will be approved.
+Additionally, to the extent that FTA activities involve other agencies, the personnel of those agencies,
+such as the Environmental Protection Agency, US Department of Labor, and US Department of the
+Interior may be furloughed, which could stop progress on projects. And recognizing that we do operate
+commuter rail, I would be remiss not to reference the Federal Railroad Administration. 350 employees, or
+35%, would be furloughed during a government shutdown.
+Remaining FRA personnel will be focused primarily on activities necessary to protect life and property,
+such as safety inspections. The FRA would not continue any of its unfunded core agency function nor
+contracts, purchase orders, or other documents obligating funds would be executed, nor would the
+
+agency be able to advance any rulemakings, including those related to railroad safety. Similarly, 455
+employees, or 25% of the Office of the Secretary of Transportation, would also be furloughed. The Board
+will be apprised of any anticipated impacts to RTD in the wake of a federal government shutdown.
+And lastly, as I stated in my introductory comments, I will respond to an inquiry from Director Tisdale that
+was made during the Executive Committee meeting this past Thursday, August 21, regarding the A Line
+naming rights solicitation. Most of you may be aware that RTD had previously entered into a naming
+rights agreement with the University of Colorado in 2016 upon the A Line commencing revenue service.
+Advertising revenues associated with the agreement totalled $1 million annually, as Director Tisdale had
+noted.
+As was reported to the Board during the January 17, 2023 Finance and Planning Committee meeting, the
+value of advertising rights for the A Line was again valued in 2022 at $1 million annually. The A Line
+Corporate Partnership, as the solicitation was named, has now been advertised twice, initially from
+Monday, October 31 through Tuesday, November 29, 2022, and again from Thursday, June 8, 2023 and
+Wednesday, July 26, 2023. No bids were received during either solicitation window. As such, staff does
+not foresee engaging in further solicitations in the near term.
+It should be noted that the system advertising contract with Lamar Advertising precludes the agency from
+offering certain assets as part of the solicitation, and further, as part of the advertising contract, the
+agency receives a minimal annual guarantee. For fiscal year 2022, that amount was $5.2 million, and for
+fiscal year 2023, that amount totals $5.4 million, and the agency receives payments on a recurring
+monthly basis in the amount of $450,000.
+In establishing the stable revenue stream, RTD has leveraged its available advertising assets across the
+transit system to a greater extent than was previously possible by partnering with Lamar Advertising.
+One further note, the original A Line naming rights agreement expired in early June of 2021, which
+expiration neatly coincided with the commencement of the system advertising contract with Lamar, which
+was approved by the Board on June 22, 2021.
+And with that, Madam Chair, I thank you all for your patience and indulgence, and that concludes my
+report. And I welcome questions, if it suits this body. Thank you very kindly for the opportunity to report
+out.
+LYNN GUISSINGER: Thank you, Ms. Johnson. You may now have a drink of water.
+[LAUGHTER]
+Does anyone have any questions? Director Rosenthal.
+PAUL ROSENTHAL: Thank you, Madam Chair. Thank you, General Manager Johnson. That's very
+extensive. It goes to show the great work you're doing within the agency and also in the community,
+promoting the agency. Thank you.
+My question is about the A Line, the recent emergency situation exercise within RTD, with other agencies
+as well. Have there been any feedback or observations yet about how that went and what maybe some
+changes we're going to be making because of it? Or what are some, I guess, some outcomes from it?
+
+DEBRA JOHNSON: So thank you very much, Director Rosenthal, for the question. And I'll just provide
+some context so everybody understands the nature of the question.
+Recognizing that we do operate railroads, or rail service, it's incumbent upon us to ensure that we're
+prepared in the event of emergency or things of the like. So the A Line is operated by our concessionaire,
+which is the Denver Transportation Partners and Denver Transportation Operators. And in doing so, we
+leveraged a drill which we do customarily as pursuant to Federal Railroad Administration guidelines and
+compliance standards.
+So with the assistance of DTO, DTP, and with emergency personnel, in the immediate area there was a
+drill that was conducted in support of Denver International Airport staff as well last Wednesday from the
+hours about 10:00 to noon. And in doing so, we actually simulated that there was really a catastrophe that
+was happening.
+We're in the process of shoring up the responses relative to that exercise. So I'm not at a position in
+which to provide report outs. But what I will say anecdotally, and after having had a Leadership Safety
+Committee meeting, which I convene on a monthly basis, quite naturally with any exercise, this is to
+ensure that we are positioned adequately in the event of an emergency.
+So as we move forward, there's opportunities to ensure that we have some other aspects of training that
+are honed in on. And then as we look with emergency personnel as well, so they have a better
+understanding about deactivation of rail lines and things of the like.
+And so that would be my response broad brushedly without having any statistics or any type of report out
+from a hotwash. Thank you.
+PAUL ROSENTHAL: Thank you.
+LYNN GUISSINGER: Thank you very much. Any other questions? Discussion. OK, Director Broom.
+BOB BROOM: Thank you, Chair. I was-[? TROY WHITMORE: ?] It's not on.
+BOB BROOM: It's not on? The light's not off.
+TROY WHITMORE: Never mind. Please proceed. I apologize.
+BOB BROOM: I was curious as to whether there was any major movement with any of our litigation going
+on, and particularly whether we're coming upon some deadlines that have to be met in order for some of
+these lawsuits to continue. Very generally is all I'm asking.
+DEBRA JOHNSON: Yes. Thank you very much, Director Broom, for the question. And I feel it's most
+appropriate that I defer the response to General Counsel. So with that, Melanie Snyder will address that
+inquiry. Thank you.
+MELANIE SNYDER: Yes. Thank you, Madam Chair and Director Broom, for the question. So yes, there is
+an appeal pending before the Colorado Court of Appeals in the litigation with our concessionaire. The
+Court of Appeals actually just issued an order extending the deadline and setting the briefing schedule.
+So DTP's opening brief is due on October 20. You're welcome.
+
+LYNN GUISSINGER: Great. Anything else? Thank you very much.
+We're going to move on to item 17, the unanimous consent agenda. There are two items tonight listed
+under Section 17. Those items are the GM/CEO compensation philosophy and the September, 2023
+code of conduct revisions. If anyone has a change to, discussion on, or questions about these items,
+please feel free to advise me at this time and I will, of course, be happy to pull it from the unanimous
+consent agenda for consideration under recommended action.
+DOUG TISDALE: Madam Chair, if I may.
+LYNN GUISSINGER: Yes, go ahead.
+DOUG TISDALE: I'd like to pull item 17b, the September, 2023 code of conduct revisions.
+LYNN GUISSINGER: OK. We will move that to the recommended action agenda.
+That leaves the GM/CEO compensation philosophy on the unanimous consent agenda. May I have a
+motion to approve that?
+ERIK DAVIDSON: So moved, Davidson.
+PAUL ROSENTHAL: Second.
+LYNN GUISSINGER: OK. I hear Director Davidson to my left and Director Catlin to my right as the
+movant and the second. Are there any no votes on this action? Seeing none, we have 13 yes votes and
+zero no votes and two people absent. So the motion passes.
+The recommended actions. I guess we add the-- excuse me just a second-- we add the recommended
+action. Oh, are there 12? 12 attended. So we add the recommended action on the-- the unanimous
+consent agenda item, September, 2023 code of conduct revisions to the recommended actions.
+Let's see. I need to read that. I'm going to come back to that one. Is that OK? I just want to-- I need to find
+the language. It's not in my system here.
+We're going to start with the first action item is the pass through carbon reduction grant. For the Board of
+Directors to authorize an expense appropriation to effectuate a pass through grant from the state of
+Colorado to the City and County of Denver, or CCD, in the amount of $5 million for the Colfax Avenue
+Bus Rapid Transit project. Do we have a motion?
+DOUG TISDALE: So moved.
+LYNN GUISSINGER: And a second?
+
+IAN HARWICK: Second.
+LYNN GUISSINGER: I heard Director Tisdale and Director Harwick. Is there any discussion on this
+motion? Seeing none, are there any no votes? And seeing none, I believe we have 12 yes votes and zero
+no votes. This item passes.
+
+The second action item is for public opinion polling consultant summary scope of work approval and
+contract authorization. For the Board of Directors to approve the summary scope of work for a solicitation
+and to subsequently authorize the General Manager and CEO, the GM/CEO, to enter into the contract for
+consulting services for strategic advice, development of a survey instrument, and public opinion polling
+related to revenue diversification and RTD finances.
+Do we have a motion?
+PEGGY CATLIN: So moved.
+LYNN GUISSINGER: Director Catlin is the movant. And a second?
+MARJORIE SLOAN: Second.
+LYNN GUISSINGER: Director Sloan is the second. Is there any discussion on this motion?
+I'll now call for the vote. Seeing none, are there any no votes on this motion? Again, seeing none, we
+have 12 yes votes, zero no votes, and the motion passes.
+Board Office. Oh, my neighbor here has found the recommended action for me. For the Board-- this is the
+September, 2023 code of conduct revisions that have been removed to the recommended action, for the
+Board of Directors to adopt revisions to the customer code of conduct.
+Do we have a motion to accept these revisions? Motion to approve from Director Broom. A second?
+TROY WHITMORE: Second.
+LYNN GUISSINGER: Second from Director Whitmore. Is there discussion on this motion? Director
+Tisdale.
+DOUG TISDALE: Thank you very much, Madam Chair. I want to say first that I appreciate and applaud
+the excellent work that Director Guzman has done in his laser-like focus on these really very helpful
+amendments. And I think they're good.
+I had some hesitation regarding the change to rule 16 that is found on page 48 of your packet. And
+specifically it relates to the deletion of the phrase, but not limited to. The deletion of that language caused
+me concern. It's a common phrase that is used. Even the General Manager/CEO used that phrase in her
+report to us this evening.
+And the reason for it is that the maximum of the law, the maxim of the law is, inclusio unius est exclusio
+alterius, also expressed as expressio unius est exclusio alterius, which means, the inclusion of one thing,
+or the expression of one thing, excludes anything else that is not specifically mentioned. And for that
+reason, I like the phrase, but not limited to, because it gets around that rule.
+I have, however, having spent some time looking at this more closely, drawn comfort from a memo from
+the Office of Legislative Legal Services, a body with which some of our people in this room are familiar,
+on statutory construction. That particular memo from the Colorado Office of Legislative Legal Services
+recites that Colorado has adopted the approach that the word includes in a statutory provision-- and this
+is the rough equivalent of a statutory enactment-- is illustrative and not exclusive.
+
+And so therefore, I just wanted to make a record on that point so that if ever the issue arose, we would
+not be faced with someone saying, well, but that's not what you said in that rule and citing the maximum
+of the law. So that gave me comfort. And so therefore, I do support the amendments as submitted by
+Director Guzman. And again, thanks for his great work. But I wanted to make that record.
+Thank you very much, Madam Chair.
+LYNN GUISSINGER: Thank you, Director Tisdale, for being so thorough for us.
+I will now call for the vote. Are there any no votes on the motion? Seeing none, the measure passes with
+12 yes votes, zero no votes, and three who are absent.
+The next item is a discussion item for the 2024 draft Legislative and Government Relations program. Mr.
+Davies, Government Relations Officer, would you please introduce this item?
+MICHAEL DAVIES: Good evening, Chair, members of the Board, Michael Davies, Government Relations
+Officer. Presented this item before the Executive Committee last week. And as the Board likely knows,
+the Board approves on an annual basis a Legislative and Government Relations program. The purpose of
+that program is to give direction to staff and allow for effectiveness and flexibility during the legislative
+season, which can be frantic and a bit hectic. So it is a helpful document for staff.
+Going into a bit of detail in the attachment A, which is the draft Legislative Program and Government
+Relations report, or Government Relations program, there are not very many changes from last year's
+Board approved program. At the federal level, there really are no changes. And that is due to the fact that
+the federal policy is really set in multiyear surface transportation authorizations.
+And so that is the Infrastructure Investment and Jobs Act, or the BIL, the Bipartisan Infrastructure Law.
+And so policy is set there. And really, our focus on that matter is to make sure that we're working with
+USDOT as they implement that law, that is doing the regulations, making sure that we're paying attention
+to how USDOT implements that, and commenting appropriately if need be. The other side of that is
+discretionary grants and obviously advocating for discretionary grants that are a benefit to the agency.
+On the state side of things, again, no major changes from last year, other than the addition of one item.
+The one addition from last year's Board approved program is Row E, and that is to support legislation to
+provide funding for RTD's Zero Fare for Youth program.
+There was some discussion earlier tonight on that topic. And as Chair Guissinger mentioned, the
+Transportation Legislation Review Committee is contemplating a bill that would offer state funding for that
+purpose. And so adding that would authorize staff to advocate for legislation that would provide funding
+for Zero Fare for Youth.
+And then on the local side of things, there is no major additions, just a slight word change in Row B. And
+that is the subregional service councils and RTD call for projects partnership program. Last year's
+language was really to say we will implement and stand that program up. And this year really is just to
+change that language and say we are continuing to administer and make improvements to that program
+in partnership with our local municipalities.
+And with that, that concludes my report and happy to answer any questions.
+
+LYNN GUISSINGER: Thank you very much. Is there discussion on the legislative agenda here? Director
+Rosenthal.
+PAUL ROSENTHAL: Thank you, Madam Chair. And thank you, Mr. Davies, for your work and for also our
+lobbyists and legislative advisors.
+In terms of at the state level, and I appreciate the addition of E for the Zero Fare for Youth, where does
+the Zero Fare for Better Air fit in? And so obviously, our first year, we had a one month subsidy from the
+state. This year, we had two months. Perhaps next year, we'll have three months. Wouldn't that be even
+nicer? So where does that fit in this agenda program?
+LYNN GUISSINGER: Go ahead.
+MICHAEL DAVIES: Thank you, Director Rosenthal. It is not specifically in this agenda. That doesn't mean
+that it can't be added. In the past, for the Zero Fare for Better Air grants, the Board has taken specific
+action to approve a support position for that bill. Also, it comes before the Board to submit an application
+to the grant program as well. But it isn't explicitly included in this program. But in the past, obviously, the
+Board has voted to approve and support that program.
+LYNN GUISSINGER: Go ahead.
+PAUL ROSENTHAL: Thank you, Madam Chair. And also, I'm encouraged also to see letter D under the
+state as well, in regards to enhancing penalties for assault-related crimes in RTD frontline employees. I
+think given some of the statistics that we heard in committee, it is really important that we support those
+efforts to hold people accountable for assaulting our operators. And by the way, some are also exposed
+to fumes and things like that.
+So we need our state legislators to know that the decisions they make do impact our operators. Thank
+you.
+LYNN GUISSINGER: Thank you. I skipped ahead. I see Ms. Ruscha's hand up. Were you raising yours,
+Director Harwick?
+
+IAN HARWICK: No, I was letting you know.
+LYNN GUISSINGER: OK. But we need a motion and a second to approve. Oh no, it's just a discussion
+item. OK, we're good. Director Ruscha.
+JOYANN RUSCHA: Thank you, Madam Chair. I had a comment and question.
+LYNN GUISSINGER: Pardon me, Director Ruscha, you're very hard to hear. If you could turn things up a
+little.
+JOYANN RUSCHA: I am turned up as loud as I can be turned up. Can you still not hear me?
+LYNN GUISSINGER: We can hear you. It's just faint. But we'll be OK, I think.
+JOYANN RUSCHA: OK. Might be something on your end.
+
+So my comment was about actually just what Director Rosenthal just touched on. My question was on
+reclassifying RTD transit workers to enhance penalties for committing assault on an RTD employee. My
+question to Mr. Davies, do you have an idea as to what we're seeking to reclassify transit workers as,
+reclassify as what? What would that statute or new statute look like?
+And then second, this might be a question for General Counsel, but there currently is statute on the books
+18-9-115, that already makes it a class III felony to interfere with safe transit that also covers things like
+menacing. It doesn't even require an assault. And so I was just wondering what the intent is, or what the
+need would be for this statute under Colorado state law, considering that we already have something like
+this on the books?
+And again, I want to be clear, it's not that I don't think that our operators deserve protection under the law.
+It's just that I'm not sure what problem that we're trying to solve in statute, if we already have a law like
+this on the books that already has pretty severe criminal penalties. And if I'm not wrong, I think this carries
+up to 12 or 13 years in prison if convicted. Thank you.
+LYNN GUISSINGER: Mr. Davies.
+MICHAEL DAVIES: Thank you, Director Ruscha, for the question. So just a bit of background on this
+topic. As you all may know, we work very closely with our union partners, Mr. Longenbohn at ATU 10-01.
+And in working with them, this has been one of the union's top requests is to look at enhanced penalties
+and make sure that that it is a welcoming, safe, secure working environment for our frontline transit
+workers.
+In doing some research and looking at other transit agencies throughout the nation and in other states,
+they do align frontline transit workers with other public employees that are on the front lines, such as
+officers or first responders or firefighters. And so this section of the legislative program really is to work
+with lawmakers in the General Assembly to craft legislation to mirror what is seen in other states that
+protect those frontline workers.
+LYNN GUISSINGER: Thank you. Anything else, Director Ruscha? Nothing else?
+JOYANN RUSCHA: No, thank you.
+LYNN GUISSINGER: OK. Director Catlin.
+PEGGY CATLIN: Thank you, Mr. Davies. I really appreciate, this is a pretty clear and clean document and
+I think it provides good direction.
+I have a comment on the local item C, local official and key stakeholder engagement, about building and
+maintaining collaborative relationships with local officials and key stakeholders. I've found that, in my
+experience, sometimes we are requested to support or become involved in initiatives that may not be
+related to public transportation. And I was hoping that we could maybe emphasize that our goal first and
+foremost is to provide safe, reliable, cost effective transportation. And sometimes, myself included, we get
+distracted with other issues that are important to some of our local stakeholders.
+So if we could put something in there that emphasizes that we want to do this for public transportation, I
+would appreciate it.
+MICHAEL DAVIES: Certainly I can look into adding something that clarifies that.
+
+LYNN GUISSINGER: Anything else? Any other discussion? Just a point for the future. I've been working
+with Ms. Johnson and Mr. Davies, and we have our state, Brandeberry McKenna representatives, and our
+local representative, Jennifer Webster at Catalyst Planning, to attend the October Board meeting to give a
+report and answer your questions. Thanks.
+Thanks so much, Mr. Davies.
+Director activities report. Does anyone want to report on your activities for August and September?
+Director Guzman.
+MICHAEL GUZMAN: August was busy for everybody. I'm going to skip to this last weekend. I was
+grateful to have the opportunity to go to Washington, DC for the Latinos in Transit conference, an
+amazing group of leaders, where our GM and CEO is well known and recognized by her peers in other
+agencies across the United States. And it was great to hear good feedback about RTD in Denver and
+what people are seeing coming from us, especially with regards to Zero Youth for-- Zero Fare for Youth.
+And having the opportunity to sit face-to-face with FTA administrator Nuria Velazquez and-- Nuria
+Fernandez, excuse me. I'm nervous. I'm talking in English again. This is hard for me. No, I'm just kidding.
+To have a face-to-face conversation with her and give her our thanks, my thanks for giving us the waiver
+to be able to do that pilot program here and seeing the result lead to potential legislation that could impact
+the entire state was a wonderful opportunity.
+I was joined by Director Ruscha as well. And I want to express my gratitude to the Board and to the
+committees for taking up the amendments. And I want to thank the community groups that we met with.
+Both Director Ruscha and I worked on those amendments in advance and they were fine tuned and put
+through committee, as was agreed upon at our June meeting. And that would not have been possible
+without community input.
+So thank you for taking a serious second look at them and passing them through tonight. I really
+appreciate it. That's been most of the effort of the work that I've accomplished in the last couple of
+months, outside of other committee work. I'm really proud of that happening tonight and I'm really grateful
+to work with all of you. Thank you.
+That also includes meeting with our General Manager/CEO and going through them as well. So thank you
+for your support on those. I appreciate it.
+LYNN GUISSINGER: Thank you, Director Guzman. Director Ruscha, I see you lit up. Did you have
+something to add, the conference or otherwise?
+JOYANN RUSCHA: No, I just enjoyed my time. Thank you, Director Guzman, for inviting me.
+LYNN GUISSINGER: Thank you. Did I see Director Tisdale?
+DOUG TISDALE: Thank you very much, Madam Chair. As I mentioned before this happened, I spent
+three weeks in the month of August in Australia and New Zealand as part of the American Public
+Transportation Association study mission to the cities of Auckland, Brisbane, Melbourne, and Sydney to
+examine their transit systems. A detailed report is being prepared now and we will have that available for
+distribution to the Board. And I can respond separately on all of that.
+
+I will emphasize once again, just in case the question arises, this was all done at no cost to RTD for my
+travel to the APTA study mission in Australia and New Zealand. And as I said, we'll get that report to all of
+you. If anyone is coming to APTA Transform Conference, We will be giving the first draft of that report to
+people at the APTA conference. Thank you.
+LYNN GUISSINGER: Thank you, Director Tisdale.
+Other matters. Are there any other matters? I'm sorry, did I jump the gun? Go ahead, stick with whatever
+you want.
+PAUL ROSENTHAL: All right. OK, fine. It is [INAUDIBLE], I guess.
+So activity that I participated, one of the many things that I'm doing in the community, one thing that really
+sticks home with what we were talking about with TOD and how do we plan better for the future, I
+participated in the Denver South Suburban Mobility Conference, and that was at Kiewit. And that was
+really incredible hearing from different leaders in the community who are doing great work on TOD, how
+do we integrate better planning and zoning and construction of communities and inclusive of transit. So
+that really was a wonderful event. And I learned a lot and made some good connections there for myself,
+but also for RTD.
+But I also wanted to let-- speaking to the next item on the agenda, and I wasn't able to have this event at
+my fingertips earlier, when I did the land acknowledgment-- but speaking of planning, the Denver
+Community Planning and Development department is going to host representatives from tribes from
+historical ties to the land now known as Denver to inform Denver's American Indian and Indigenous
+peoples Historic Context Study.
+So I went to the one last year. It is a wonderful reception that everyone is invited to on October 8 from
+1:00 to 3:00 PM at the Denver Indian Center. And that is on Morrison Road within the city of Denver. So it
+is a wonderful cultural event with various Native American tribes. And so again, that is October 8, 1:00 to
+3:00 PM at the Denver Indian Center. So hopefully everybody will be able to make that. Thank you.
+LYNN GUISSINGER: Thank you. Anybody else? Any other matters?
+OK, Director Davidson.
+ERIK DAVIDSON: Thank you, Madam Chair. I just have one other matter. I'll keep it brief. I just wanted to
+publicly thank Mr. Gary Sprung for his September 20 guest opinion in The Daily Camera that I would call
+attention from my fellow Directors to take a look at. I'm going to read the title of his opinion piece in The
+Daily Camera, "Who or What is to Blame for the Northwest Rail Debacle? Not RTD."
+I wanted to share that and really thank CEO and General Manager Debra Johnson, as well as Mr. Patrick
+Stanley, who's not here this evening but I seem to bump into at every other community event that I attend,
+talking about Northwest Rail and for framing this around developing a common set of facts. I think Mr.
+Sprung's article well captures how we got to where we are.
+Certainly, I think this Board cannot shirk its responsibility or its accountability to this Northwest Rail
+debacle. However, we need to collaborate to find a path forward. So I know there's a perception that
+continues to arise sometimes within this Board, within our staff, within the community that we tend to do
+studies and we tend to kick the can down the road, and we continually repeat and face Groundhog Day
+just to appease political leaders, perhaps even some on this Board, perhaps even myself.
+
+But I think that the intent of these types of things, really it comes down to how you intend to use the
+output, how you intend to use the outcome. And there continues to be a great deal of enthusiasm,
+however difficult it may be, however uncertain it may be right now, to collaborate with the Front Range
+Passenger Rail District to find some way forward for this group to work with the community in earnest
+from a common set of facts to find a path forward.
+So I thank you to all of our staff, led by General Manager Johnson, for helping to establish the tone of this
+conversation. I thank Mr. Sprung for recognizing that tone and well capturing in his piece how we got to
+where we are. And I thank this Board and, again, all of our RTD staff for continuing to support the effort in
+earnest to not only conduct this peak service study but also to do so in collaboration very, very closely
+with our community.
+So thank you very much.
+LYNN GUISSINGER: Thank you, Director Davidson. And I agree. And that was very well said. I will pass
+on your thanks next time I run into Mr. Sprung. It was a nice piece.
+All right. Seeing no other discussion, I will entertain a motion to adjourn.
+PAUL ROSENTHAL: So moved.
+LYNN GUISSINGER: All right. Lots of motions to adjourn. The meeting is adjourned, but note that the
+next Board meeting is scheduled for Tuesday, October 24. And next week, committee meetings are off
+schedule because of a couple of things. So Monday night is the Operations and Safety Committee
+meeting and Tuesday night is the Finance and Planning Committee meeting.
+Thank you all. I will see you soon.
+
+greaterdenvertransit@gmail.com
+
+Submitted as public comment to the RTD Board Meeting, September 26th, 2023.
+September 26th, 2023
+Lynn Guissinger, RTD Board Chair
+Regional Transportation District
+1660 Blake Street
+Denver, CO 80202
+September 2023 Code of Conduct Revisions
+Dear Chair Guissinger,
+Greater Denver Transit (GDT) is in full support of the four proposed amendments to RTD’s Code of Conduct
+relating to rules 16, 27, 28 and 40. It is clear to us that these common sense amendments have been
+introduced following community input and we urge all directors on the board to vote in support of them.
+Best Regards,
+
+James Flattum
+Greater Denver Transit
+CC:
+
+Richard Bamber
+Greater Denver Transit
+
+RTD Board of Directors
+Debra Johnson, RTD General Manager & CEO.
+
+www.greaterdenvertransit.com
+
+Page 1
+
+

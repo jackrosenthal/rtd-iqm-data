@@ -1,0 +1,141 @@
+## I. Operations and Customer Service Committee
+
+Chaired by Kate Williams
+
+### A. Call to Order
+
+Committee Chair Williams called the meeting to order at 7:41 p.m.
+
+Directors Archuleta, Folska, Francone, and Solano were absent. Director Anderson participated via phone and left the meeting early.
+
+Staff Present:               Bruce Abel, Rolf Asphaug, Gina Callahan, Jessie Carter, Carolyn Conover, Heather Copp, Nate Currey, John Elias, David Genova, Doug Grass, Russ Larson, Adrian Mabry, Doug MacLeod, John McKay, Barbara McManus, Mike Meader, Brenden Morgan, Tai-Shrae Parish, Greg Pennington, Scott Reed, Rahul Sood, Henry Stopplecamp, Bill Van Meter
+
+Others Present:               Doug Gragg, Dr. William Gross, Wendy Londa, Robby Long, John Thompson, Leslie Thompson, Gary Van Dorn
+
+### B. Recommended Actions
+
+There were no recommended actions.
+
+#### 1. 4th Quarter 2016 Security Statistics & Fare Inspection Summary
+
+Mike Meader, Chief Safety Officer and Assistant General Manager of Safety, Security and Asset Management, stated that he and Steve Martingano would provide an overview of the fare enforcement program and specifically how it works.
+
+Steve Martingano, Transit Police Commander of Fare Enforcement Operations, commented that previously, fare enforcement fell under CRS 18-9-115, a criminal code, but now it is under CRS 42-4-1416(2), which is similar to a traffic infraction.  He stated that if someone fails to pay their ticket, they will not be able to obtain or renew their driver’s license.  Currently, the first offense will result in a written warning.  A second offense will result in a ticket that is $82.50 or $106.50, depending on the jurisdiction that it is written in.  A third offense will result in a ticket and a 30-day suspension from all RTD services.
+
+Steve Martingano added that fare enforcement is done by a Transit Security Officer (TSO) or an off duty police officer.  RTD’s light rail system is currently divided into four zones: Central, Southeast, Southwest, and West.  The Central Zone has 14 transit officers, the Southeast has 22, the Southwest has 9, and the West has 15.  In December, a Fare Task Force was created with six transit security officers to devote inspection time to rush hour service.  These officers are not restricted to zones or specific lines and they allow other transit officers to handle calls for service and to perform rides and bus checks.
+
+General Manager Genova noted that the Fare Task Force was done without adding headcount.  Instead, RTD shifted its resources to create this program.
+
+Steve Martingano explained that staff examined the costs to harden stations and the estimates ranged from $123 to $175 million dollars, with an additional $16.7 million in annual operating costs.
+
+General Manager Genova commented that the estimated cost of lost revenue from fare evasion is $531,000 annually.  He stated that when the cost benefit analysis is examined, it does not make sense to harden RTD’s stations.  He noted that he called other transit agencies to get their numbers, and LA Metro indicated that, while they had hardened stations and added turnstiles, they still have fare evasion.  In addition to hardening and turnstiles, LA Metro is now adding an additional 77 fare inspectors.  He noted that there is a perception that people are riding RTD trains without buying tickets.  He explained that a lot of RTD riders use pre-paid fare media that would not require them to buy a ticket, or stop at a kiosk.
+
+Director Deadwyler asked if Eco Pass holders receive citations for failure to tap their cards.
+
+Steve Martingano said no.  He noted for the people that do not tap their cards, officers explain the process and indicate that failure to do so is against RTD’s policy.  The interaction between the TSO and the pass holder is meant to be an educational moment to inform the pass holder of the proper way to use their card.  He noted that staff will be doing more outreach and communication in schools to teach students how to use their cards.
+
+General Manager Genova stated that college students and Eco Pass holders use pre-paid media, which is why they do not get a citation.  He remarked that people that use stored value cards, which decreases the amount every time the card it tapped, will get a ticket for failure to tap their card.
+
+Director Menten asked if RTD would hire additional members for the Fare Task Force.
+
+General Manager Genova said four new task force members would be moved over from existing resources.
+
+Director Tisdale commented that it is worthwhile to regroup staff in order to capture fare evaders during rush hour service.
+
+Mike Meader remarked that staff is currently examining commuter rail numbers and is working on getting light rail figures closer to those numbers.
+
+Director Tisdale noted that the conversations he has had with women about their reluctance to travel alone on bus or rail is striking and their concerns need to be addressed.
+
+Director Mihalik observed that the Southwest zone has the fewest amount of TSO’s, but contact the most people.  He asked if the nine TSO’s assigned to that zone are extremely proficient.
+
+Steve Martingano stated that the TSO’s go from the first stop to the last stop and back.  He said they come into contact with a lot of people, and they make more contacts because they are on that train on a consistent basis.
+
+Director Sisk said it always interests him when facts get in the way of opinions.  He hoped that this presentation would put a lot of discussion about fare evasion to rest.
+
+Director Lubow asked if the $1.8 million estimate to add an officer to every train was a net cost.
+
+Steve Martingano stated that the total hours of service were figured into the current contract in order to determine that number.
+
+Director Lubow commented that staff should perform a cost analysis to determine the net cost of adding an officer to every train as it may be worthwhile and benefit RTD.
+
+Chair Hoy added that the fines collected from tickets do not go to RTD.  He explained that, when people receive a citation, the fine goes to the county or municipal court of the county.  While RTD writes the tickets, the various municipalities get the money.
+
+Director Menten asked what the collection rate was for the counties.
+
+Steve Martingano said that Denver County was the only one that responded back to him, and in 2016, they collected $20,620 off of RTD’s citations.
+
+Director Anderson stated that she does not think that an extra officer on each train will make the system safer.  She added that, being a woman who travels alone, it is imperative to be aware of the surroundings and of what is going on.
+
+##### a. final draft of light rail fare enforcement presentation
+
+#### 2. Lost Service Hours Update
+
+Bruce Abel, Assistant General Manager of Bus Operations, indicated that there were a total of 270 lost service hours for the month of January.  He stated that, while lost service hours are improving, staff is still operating under mandates.
+
+Director Lubow asked if there are particular areas or routes that have more lost service hours and if certain routes are more troublesome than others.
+
+Bruce Abel explained that staff uses daily information to determine if there is disproportionate coverage and tries not to lose consecutive trips, if possible.  He added that certain routes are particularly troublesome, but staff strives to make sure those routes are triaged appropriately.
+
+Director Broom asked if lost service hours are related to the weather.
+
+Bruce Abel noted that to some degree lost service hours are directly correlated to the weather conditions.  He added that staff saw more of an impact the previous year because there were more snow days than there have been for the current year.
+
+##### a. Lost Service Hours Update 2 14 17
+
+#### 3. 55S Ridership Update (no back-up)
+
+Bruce Abel reminded the Board that the 55S was the special bus service implemented between Olde Town Arvada and Union Station until the G line could be opened.  He stated that ridership continues to be challenged and this route is being socialized for the May service changes.  He added that ridership is at 6 to 7 passengers per hour, which is much lower than staff had expected.
+
+Chair Hoy reminded the Board that this route was established because the G line was postponed.  He wished more people would utilize the service, but noted that even though it is available, many will not.
+
+Bruce Abel added that Director Anderson has been apprised of the current status of the 55S.
+
+Director Deadwyler asked whether the 55S would continue until the G line opens, or whether staff would remove the line from service.
+
+Bruce Abel stated that conversations concerning the 55S will continue through next month, and possibly, it would be included in the service changes for May.
+
+### D. Other Matters
+
+Chair Hoy stated that the Board should receive an email for the upcoming retreat and noted that everyone would also need to fill out the attached survey.  He asked any Board members who did not receive the survey email to contact the Board Office.
+
+Director Tisdale remarked that RTD had excellent representation by Scott Reed and Director Walker at the South Metro Denver Chamber’s Economic Development Group breakfast on Friday, February 10th.
+
+General Manager Genova commented that the Board had been updated throughout the day with what information was available concerning the accident on the University of Colorado A Line, but there was still not much more to add.  He stated that staff had spent a lot of time at the scene in the morning and that the Aurora Police Department (APD) did an excellent job.  He added that staff was able to review the functionality of the at-grade crossing equipment with the Federal Railroad Administration (FRA), and they were satisfied that everything was operating correctly.  He noted that, as far as what the official finding may be, the APD is in charge of determining the cause of death.
+
+Henry Stopplecamp, Assistant General Manager of Capital Programs and Facilities, commented that the important thing was that every team worked well together to examine the area and to determine what happened.  He added that staff planned to reopen the University of Colorado A Line by 9 p.m.
+
+Scott Reed, Assistant General Manager of Communications, explained that Nate Currey, Senior Manager of Communications, had been talking to APD.  APD stated that, once they notify the next of kin, they will release the video of what happened.  He added that RTD would need to educate the media about the exit gates, as they remain open if a vehicle is present in the crossing.
+
+Henry Stopplecamp stated that there were three cameras that show the full narrative of what happened.
+
+Director Menten said that she was interested in seeing the video.  She asked what kind of numbers RTD has for people that have committed suicide on RTD’s system.
+
+General Manager Genova commented that often times there needs to be evidence to specify a suicide ruling.  He said that staff has data for light rail going back all the way to when it opened and staff can pull those numbers.
+
+Director Lubow remarked that the Board received copies of a complaint to the FRA which stated RTD does not have a safe system.  She asked how that complaint would factor into the FRA’s opinion of the University of Colorado A Line and the current waiver.
+
+General Manager Genova said the FRA would review all complaints and make a final determination.
+
+Director Broom asked if RTD’s risk management contacted the individuals that were injured on the train.  He further inquired about the damage to the train and asked if it was significant.
+
+Rolf Asphaug, General Counsel, said that the individuals would be contacted through RTD’s insurance representative.
+
+General Manager Genova stated that Denver Transit Partners (DTP) would need to do a comprehensive assessment of the vehicle but noted that it stayed on track and was straight when it came to a final stop.
+
+Director Deadwyler asked how staff was sure that this was an intentional act and that the vehicle did not stall on the tracks.
+
+General Manager Genova remarked that the way the vehicle was moving in the video was very unusual.  He noted that the approach to the crossing was strange, and it moved slowly a few times before crossing the tracks.
+
+Rolf Asphaug reminded the Board that the final determination would be made by the law enforcement authority and coroner.  He said that RTD does not need to make any type of statement otherwise until the final report was released.
+
+General Manager Genova noted that the three different camera angle recordings would not be released until the investigation was completed.
+
+Scott Reed added that in every interview RTD has done today, staff has used the precursor of “According to Aurora Police”.  He noted that staff has not said anything that was stated as “According to RTD”.
+
+Director Menten asked if there are cameras at every crossing.
+
+General Manager Genova indicated that there are not any cameras at grade crossings where there are no gates, which includes most of downtown Denver.  He stated that RTD has learned that video is incredibly valuable and there are four crossings on the R Line that do not currently have cameras.  He said staff is examining the costs of getting cameras at those locations installed.
+
+### F. Adjourn
+
+Committee Chair Williams adjourned the meeting at 8:50 p.m.

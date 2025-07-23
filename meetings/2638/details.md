@@ -1,0 +1,207 @@
+## I. Financial Administration and Audit Committee
+
+Chaired by Natalie Menten
+
+### A. Call to Order
+
+Committee Chair Menten called the meeting to order at 7:05 p.m.
+
+#### 1. Roll Call
+
+Directors Anderson and Folska participated via phone. Director Tisdale was absent. Director Anderson left the meeting early.
+
+Staff Present:                      Bruce Abel, Tonya Anderson, Rolf Asphaug, Steve Bodie, Nicole Carey, Carolyn Conover, Lou Cripps, Nate Currey, Joey Davidson, Aprajit "Jeet" Desai, Terry Emmons, Bob Grado, Jeff KayBrian Matthews, John McKay, Heather McKillop, Barbara McManus, Mike Meader, Allen Miller, Brenden Morgan, Todd Nikkel, Tai-Shrae Parish, Tegan Rice, Jannette Scarpino, Cal Shankster, Henry Stopplecamp, Mark Tieman, Monika Treipl-Harnke, Christina Zazueta.
+
+Others Present:        Dan Dent, William Gross, Dave Sachs, John Thompson, Joe Triplett
+
+#### 1. 2018 Fiscal Policy Statement
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors approves and adopts the revised Fiscal Policy Statement for 2018.
+
+Motion:               Director Walker made the motion to move this item to the full Board at the November 28th, 2017 Board Meeting.
+
+Director Sisk seconded the motion.
+
+Discussion:               Jannette Scarpino, Senior Manager of Budget and Financial Analysis, stated that a redlined version of the amended policy statement was included in the Board Packet and asked whether the Directors had questions.
+
+Directors Anderson and Folska both said that they had no questions and would support the motion.
+
+Committee Chair Menten declared the motion PASSED unanimously.
+
+##### a. 2018 Fiscal Policy Statement red-lined
+
+#### 2. 2018 Investment Policy
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors adopt the Investment Policy Statement (the “Policy”), attached.
+
+Motion:               Director Lubow made the motion to move this item to the full Board at the November 28th, 2017 Board Meeting.
+
+Director Deadwyler seconded the motion.
+
+Discussion:              Brendan Morgan, Senior Manager of Debt and Investments, stated that the purpose of the recommended action was to specify the Board’s policies and procedures that support a prudent and systematic investment program for operating and reserve funds. He said the priorities for the agency’s investments were safety, liquidity, and yield. He said that the only change to the policy was the addition of a rating by the Fitch credit rating agency.
+
+Director Broom asked whether RTD bought Yankee bonds as part of its investment portfolio.
+
+Mr. Morgan said that the agency did not presently buy Yankee bonds but did own supranational bonds, such as those issued by the World Bank, that were denominated in US dollars and backed by the federal government.
+
+Director Broom then asked whether the agency purchased Canadian bonds.
+
+Mr. Morgan confirmed that RTD did not purchase Canadian bonds.
+
+Directors Anderson and Folska both said that they had no questions and would support the motion.
+
+Committee Chair Menten declared the motion PASSED unanimously.
+
+##### a. Recommended Investment Policy 11-2-17 REDLINE
+
+#### 3. 2018 Recommended Budget
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors adopt Resolution No. ___, Series of 2017 for the adoption of the 2018 Budget, Resolution No. ___, Series of 2017 for the 2018 Budget Appropriation and Resolution No. ___, Series of 2017 for the appropriation of 2018 Previously Appropriated Capital.
+
+The 2018 Recommended Budget includes the following summary of operating and non-operating revenue, and operating expenses, debt and reserves, capital expenditures, and fund balances.  The attached Fiscal Year 2018 Recommended Budget and Fiscal Year 2018 Recommended Budget-Fund Balance (Exhibit I) provide the supporting detail for the Base System, FasTracks Project (Construction) and FasTracks Operations.
+
+The 2018 Recommended Budget includes projected operating and non-operating revenue below (in thousands) which are estimated, not appropriated.  The following amounts are summarized from relevant data in Exhibit I.
+
+The 2018 Recommended Budget appropriation includes projected operating expenses, debt and reserves, capital expenditures, and fund balances below (in thousands).  The following amounts are summarized from relevant data in Exhibit I.
+
+Motion:               Director Mihalik made the motion to move this item to the full Board at the November 28th, 2017 Board Meeting.
+
+Director Archuleta seconded the motion.
+
+Discussion:              Ms. Scarpino presented the overview of the recommended budget and noted that the Board had already discussed the Annual Program Evaluation (APE) and the Strategic Budget Plan (SBP). She said the total appropriation for 2018 was $2 billion, with a capital carryforward of $743 million. She stated the budget contained three major changes since the requested budget was presented to the Board in October: the inclusion of $13 million in expense projects approved in the SBP, an expense project carryforward of $41 million, and the startup costs for the RTD operation of North Metro. She said that the total district operating expenses for 2018 were $13.6 million higher than in the 2017 amended budget. She reported that overall FasTracks project expenses were diminishing. She said the agency budgeted diesel fuel at $1.80 per gallon, compared with $1.69 per gallon for fiscal year 2017, and she stated that fuel prices had recently been above $2.00. She said the agency would move to lock in fuel prices in the near future and added that gasoline prices in the budget were projected to be $2.65 per gallon. She indicated there would be no change to interest expense or principal debt payments and stated that no new debt would be issued in 2018. Regarding capital expenditures, she said the budget contained $59 million in new capital for the Base system, which included the purchase of 40’ transit vehicles, the Burnham Yard Lead purchase, and the Colfax transit priority project. She noted that the fleet would be financed through previous debt issuances. She said the capital carryforward on the Base system was $105 million. For the FasTracks system, she stated that new capital totaled $129 million, which included North Metro projects, and the capital carryforward totaled $639 million. Regarding budget assumptions, she stated that sales & use tax revenues were projected to be 4.9% over 2017, farebox revenue was projected to be 3% higher, and grant revenue was expected to be $13 million lower, largely due to drawdowns in 2017 rather than 2018. She stated that FasTracks accounted for most of the ridership growth.
+
+Director Broom asked whether the budget anticipated any forthcoming proceeds from the Volkswagen settlement and whether RTD budgeted the personnel costs for filled positions, rather than the actual headcount.
+
+Ms. Scarpino said that the budget did not contemplate any proceeds from the Volkswagen settlement and that the agency did budget for filled positions, meaning that the agency would experience vacancy savings for the duration of any vacancy. She noted that any new positions created must first go through the SBP evaluation process.
+
+Director Sisk said it was alarming that the agency had not locked in the price of diesel fuel at a time when prices were over $2.00 per gallon.
+
+Ms. McKillop said that fuel prices were still seeing the effects from disruptions caused by hurricanes and that the agency would lock the diesel fuel price once it reached $1.80 per gallon.
+
+Bruce Abel, Acting Chief Operations Officer and Assistant General Manager of Bus Operations, said that RTD received reports from the fuel supplier and had placed an order for an automatic lock on diesel fuel once prices reached $1.80 per gallon.
+
+Director Sisk asked whether fuel prices were lower before the hurricane season.
+
+Ms. McKillop said that fuel prices had not been below $1.80.
+
+Mr. Abel added that fuel prices were in the mid $1.80 range and were experiencing declines.
+
+Ms. McKillop said the agency would be better off not to lock prices too early.
+
+Director Lubow stated that the Board Report mentioned higher than estimated service payments for operations and maintenance on the Eagle project.
+
+Ms. Scarpino answered that the higher costs were associated with performance metrics for Denver Transit Operators (DTO). She said that they received a higher payment due to a high on-time-performance rating.
+
+Ms. McKillop said that DTO would earn a bonus for reaching an on-time-performance rating of 95%. She said the budget was adjusted because DTO was approaching the 95% threshold.
+
+Director Lubow asked about the $5 million contingency reserve contained in the budget.
+
+Ms. Scarpino said the contingency reserve would be used for emergency needs and project overruns. She said the reserve was created in an effort to reduce overbudgeting in certain projects. She said the General Manager controlled disbursements from the reserve and that requests would go through him for approval.
+
+Ms. McKillop noted that General Manager Genova’s approval authority had limits and that request amounts exceeding his authority would be sent to the Board. She said staff changed the way they budgeted operating costs to look at different factors for the allocation of costs, which were applied to the operating budget. She said that the change was made both to temper the budget and to allow flexibility, while at the same time building trust with budget managers. She said that the new process would be monitored and could be reexamined the following year.
+
+Director Francone asked whether the capital carryforward projects identified in Attachment C were incomplete projects for which funds had been appropriated.
+
+Ms. Scarpino said that was correct.
+
+Directors Anderson and Folska said they would support the recommended action.
+
+Committee Chair Menten declared the motion PASSED.
+
+##### a. Board Resolutions-2018 Adopted Budget
+
+##### b. Exhibit I
+
+##### c. Attachments A, B, C
+
+##### d. Program Capital
+
+#### 1. September 2017 Monthly Financial Status Report
+
+Doug McLeod, Controller, presented the monthly financial report. He said sales and use tax continued to perform better than budgeted. He said that revenues had been projected to increase 4% over 2016 but actual revenues were 2.7% higher than expected, yielding $11.7 million over expectations. He noted that the agency was still receiving $200,000 per month in marijuana sales tax revenues, despite the fact that vendors were not required to collect the tax beginning July 1, 2017, and that the total loss of revenue to the agency was $800,000. He said that the higher than expected sales and use tax revenues were attributable to sales in certain economic sectors, such as car dealerships, full service restaurants, hotels, and home centers. He said the agency experienced an increase in revenues from internet sales of $600,000.
+
+Ms. McKillop said that vendors who remitted marijuana sales and use tax revenues after July 1, 2017, were entitled to a refund upon their request. She said some vendors would not ask for a refund and noted that the agency had received $500,000 in additional marijuana tax revenues since July.
+
+Director Menten asked for more information regarding internet sales.
+
+Mr. MacLeod said that RTD could collect sales tax from vendors who had nexus in the district. He said that Amazon had created nexus in the district and that the agency had begun to receive taxes collected on Amazon’s sales. He added that ridership was 9.9% lower than expected and that fare revenue was down 8.9%. He noted that the 2017 budget had contemplated higher growth in ridership from the R and G Lines. He said that ridership was down 4.4% year-over-year for the month of September and down 1.5% overall year-to-date. He noted that ridership on non-revenue services, such as the 16th Street Mall Shuttle, was down as well. He noted King Soopers had returned unused 10-ride ticket books purchased in 2017, which resulted in a credit of $300,000. He said fare revenue was up 5.6% year over year, which was largely attributable to the University of Colorado A Line and the increased ticket price for that line. Overall, he said that total revenues were $11.1 million, or 2%, over budget.
+
+Chair Hoy asked whether it would be fair to assume that retailers who remitted marijuana sales and use taxes and subsequently received a refund would have difficulty locating the patrons who had paid the tax.
+
+Ms. McKillop said that retailers who received refunds would not need to return the tax to the consumers.
+
+Director Francone asked about the $29 million refund that resulted from the Denver Union Station refinancing.
+
+Ms. McKillop said that the bill that would facilitate the refund had stalled because Congress was operating under a continuing resolution. She said a bill could pass in 2017 and noted that staff regularly spoke with representatives from the City and County of Denver because of Denver’s own financial interest in the refund.
+
+##### a. 093017 MFS
+
+#### 2. SmartCard Project Update and Mobile Ticketing Demo
+
+Ms. McKillop stated that the mobile ticketing smartphone application (app) went live on November 1, 2017. She said that users could purchase day passes through the app and that the agency was looking into offering other types of fare media. She said that the option to purchase and store tickets in advance would be rolling out in the first quarter of 2018.
+
+Tonya Anderson, Manager of Electronic Fare Operations, showed a demonstration of the app, which she said could be downloaded on the Android and Apple mobile platforms. She noted that the app offered options for local and regional zones, as well as full and discount fares, and she stated that, as with other day passes, the electronic tickets expired at the end of the service day, 2:59 a.m., even if they had not been activated. She said the app could store payment methods and split payments among different cards and that storage for tickets for future use would be implemented soon. She stated that RTD was working with the vendor, Wasabi, to correct minor technical problems with the app, such as an error encountered when using American Express cards. She said that, based on their last update, the fixes would be implemented by the end of the week. She noted that the electronic tickets were similar in appearance to paper fare media, which meant that users and operators would be familiar with them, and that the electronic tickets featured security features such as QR code and a scrolling date and time bar with colors that changed based on the time. She said that operators and fare enforcement officers would use visual validation, rather than hardware authentication. She said the app included access to the RTD Trip Planner and NextRide platforms, with future access to the Transit Watch app planned for the first quarter of 2018.
+
+Director Deadwyler said she was impressed with the app and could not wait to show her family members who frequently use RTD services. She stated that many emergency services and restaurant employees were excluded from using the app because the day passes expired at 2:59 a.m. She asked whether it would be possible for day passes to expire 24-hours after the time of purchase.
+
+Ms. McKillop said that the current fare policy dictated the expiration of day passes at the end of the service day at 2:59 a.m. She said RTD’s system was unusual in that respect and that Wasabi typically worked on systems with a rolling 24-hour schedule. She said staff was contemplating changing the policy as part of the upcoming fare changes. She said that staff was required to implement current policy for media purchased through the app.
+
+Chair Hoy said the Board could reconsider the service day policy. He said he could not remember the reason behind the policy. He thanked the staff who worked hard on the app rollout, which he said took only five months.
+
+Director Anderson note that the app was not custom-built, as opposed to the SmartCard.
+
+Ms. McKillop said both the team that worked on the app and the vendor were great and stated that the app looked as though it were custom-built even though it was not.
+
+Director Williams said she liked the app and that her constituents were excited. She commended staff for showing that the agency was moving toward the 21st century.
+
+Director Menten asked whether the app would work for people who were sight limited, and Ms. Anderson responded that it would.
+
+#### 3. Fiscal Sustainability Update
+
+Ms. Scarpino stated that the Fiscal Sustainability Task Force was formed in 2010 and presented recommendations to the Board in 2011, many of which were implemented. She said that the completed items were contained in the Board Report, including policies on naming rights, ongoing partnerships, and privatization. She said the fiscal sustainability report was given twice annually and that she would report any further progress.
+
+Director Williams questioned whether anyone had looked at the University of Colorado A Line running through the Colorado State University campus at the National Western Complex.
+
+#### 4. Quarterly Investment Report
+
+Mr. Morgan presented the investment report for the third quarter of 2017. He said the year had been good for the agency’s investments, which were performing ahead of benchmarks. He said short term interest rates were good, having experienced two rate hikes so far in 2017 with a potential for a third. He said that year-to-date earnings for all funds was $6.1 million, performing well to budget.
+
+Director Broom asked about the duration of the portfolio.
+
+Mr. Morgan said the agency did not review all of its portfolios in aggregate and noted that the agency held portfolios for individual projects. He said that bond proceeds were the largest items held in the portfolios. He said staff managed the portfolios for cash flow rather than for duration and that project managers were expected to spend from the cashflows. He stated that one year was a typical duration, though some portfolios went out further, such as those for reserves required under the Taxpayers Bill of Rights (TABOR).
+
+##### a. INVESTMENT REPORT 3RD QUARTER 2017 ( 3 TABS)
+
+### D. Other Matters
+
+Ms. McKillop reported that RTD hired a senior manager of human resources, who started with the agency that day. She said he would be introduced during the following month’s committee meetings and said he had more than 20 years of experience in human resources and spent 13 years in the Air Force.
+
+Director Menten asked about the implementation costs of the SmartCard and mobile ticketing programs.
+
+Ms. McKillop said that the SmartCard rollout had cost $30 million and the mobile ticketing app had cost $46,000. She said that Wasabi did not make money on the distribution of its app but rather received a percentage of the sale of each fare purchased though the app.
+
+Director Menten likened the fee to a credit card processing fee.
+
+Ms. McKillop agreed and noted that the vendor was responsible for PCI compliance, processing, and liability.
+
+Director Menten said that, during the recent Transportation Legislation Review Committee (TLRC) meeting, the legislators discussed a proposed bill regarding a vendor fee change, and she asked for a briefing on the bill.
+
+Chair Hoy said that Sherry Ellebracht, RTD’s Government Relations Officer, would prepare a bill summary.
+
+Ms. McKillop said the bill dealt with a proposed low-income program that would be supported by a reduction in the processing fee vendors were allowed to retain when collecting sales tax. She said that the legislature had in the past changed the amount allowed to be withheld. She noted that RTD presented information to TLRC about the pass program working group, and she stated that RTD was not directly asked for information regarding the vendor fee, though the agency’s presenters mentioned the vendor fee reduction was an option considered by the working group. She added that staff does not take positions on bills without Board’s approval but noted that the bill did not pass out of committee.
+
+Director Menten asked when sales tax remittance forms were printed and submitted.
+
+Ms. McKillop said they were printed in the last quarter of the state fiscal year and distributed in the summer. She said vendors of a certain size were required to remit taxes via an online form.
+
+Director Lubow said she would be interested in learning if the vendor fee would be a good source of funding for low-income passes.
+
+Ms. McKillop reiterated that TLRC did not pass the bill in question. She said the vendor fee had been a contentious political issue and stated the funding source was not an appropriate topic on which RTD should weigh in. She noted that a low-income program was being considered by the pass program working group.
+
+Director Lubow asked whether the pass program working group was looking at alternative funding sources.
+
+Ms. McKillop said the pass program working group was evaluating broad proposals and had not yet considered funding. She said that each proposal contained a low-income component.
+
+### F. Adjourn
+
+Committee Chair Menten adjourned the meeting at 8:15 p.m.

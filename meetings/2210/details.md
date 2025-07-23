@@ -1,0 +1,71 @@
+## I. Operations and Customer Service Committee
+
+Chaired by Judy Lubow
+
+### A. Call to Order
+
+Committee Chair Lubow called the meeting to order at 5:30 p.m.  She introduced Bruce Abel, Assistant Manager for Bus Operations, who would act for General Manager Phil Washington during the committee meetings.
+
+Chair Sisk and Director Tobiassen were absent.
+
+Staff Present:               Bruce Abel, Lacy Bell, Shirley Bennett, Jessie Carter, Rick Clarke, Carolyn Conover, Sherry Ellebracht, Steve Gieske, Mike Gil, Cory Granrud, Terry Howerter, Austin Jenkins, Erin Klaas, Marla Lien, Barbara McManus, Vivian Morales, Paula Perdue, Scott Reed, Zamy Silva, Bill Sirois, Greg Smith, Walt Stringer, Stan Szabelak, John Tarbert, Pauletta Tonilas, Mike Turner, Bill Van Meter, Michael Washington, Susan Wood
+
+Others Present:               Ron Boshman, Eugene Howard, Ryan Murphy, Jacob Rogers, Larry Tenenholz, Monte Whaley, Greg Yates
+
+#### 1. Award of “Group 25” Contracted Fixed-Route Services
+
+It is recommended by the Operations and Customer Services Committee that the Board of Directors authorize the General Manager, or his designee, to enter into a contract for the provision of “Group 25” contracted fixed-route transit services with Veolia Transportation. This contract is for three years for an amount not to exceed $66,874,659 with two (2) one-year options in the amount of $24,271,326 (option year 1) and $25,140,353 (option year 2), for a total five year not-to-exceed amount of $116,286,338. In addition, RTD will reimburse the contractor’s direct fuel costs in an amount estimated to be approximately $13,799,677 for the initial three year contract term, $4,816,129 for option year 1, and $4,929,152 for option year 2, for a total of $23,544,958 for the five year period.  This results in a total not-to-exceed contract amount of $80,674,336 for the initial three year contract period and $139,831,296 for the five year period. This proposal represents the most responsive and responsible proposal received in response to Request for Proposals (RFP) 14-DH-021, to provide “Group 25” Public Transportation Services. The contract to provide this service is scheduled to be effective on January 4, 2015.
+
+Motion:              Director Folska made the motion to move this item to the full Board at the July 15, 2014 Board meeting.
+
+Director Anderson seconded the motion.
+
+Discussion:              Bruce Abel mentioned that RTD received three (3) proposals in response to Request for Proposal (RFP) 14-DH-021 for the Provision of Group 25 Public Transportation Services: First Transit, MV Transportation, and Veolia Transportation.  The final ranking represents the evaluation team’s conclusion that the strengths of the Veolia Transportation technical and Small Business Enterprise (SBE) proposal outweighed the strengths of the MV Transportation and First Transit proposals and more than offset the slight difference in cost.
+
+Director Folska asked if RTD had an SBE requirement due to federal funding.  Bruce Abel introduced Zamy Silva, Small Business Office Manager.  She replied that if this was a federal funded project, there would be a Disadvantaged Business Enterprise (DBE) requirement.  The SBE goal is 5% because this is a locally funded project.  Director Folska further inquired about the fuel and refund costs, value of buses provided to Veolia and RTD’s hourly rate for internal employees.  Bruce Abel answered that the average bus costs $450,000.  New buses are distributed throughout all the RTD and contracted garages.  Greg Smith, Manager for Competitive Services, pointed out the comparison cost chart on page 6 of the Operations & Customer Service/Planning & Development/Government Relations Committee Meetings packet for July 1, 2014 illustrating RTD’s costs versus Veolia Transportation’s.
+
+Director Solano asked for clarification on the identity of Group 25.  Greg Smith answered that the “Group XX” is a naming convention which helps identify the services provided by each contracted group.  Director Solano asked how Veolia Transportation received new buses and which area they serve.  Bruce Abel answered that the entire fleet of new buses is distributed to all garages (RTD and contracted) as needed.  Veolia Transportation is located in Englewood and mostly serves the southeast and southwest areas.  For a listing of specific routes served, Bruce Abel pointed the Directors to the chart on pages 8 and 9 of the Operations & Customer Service/Planning & Development/Government Relations Committee Meetings packet for July 1, 2014.
+
+Committee Chair Lubow declared the motion PASSED unanimously.
+
+##### a. Attachment A
+
+##### b. Attachment B
+
+##### c. Chart
+
+### C. Updates
+
+There were no updates presented to the Committee.
+
+### D. Other Matters
+
+Bruce Abel updated the Board on the steps taken by the Fare Review Task Force to address the Directors’ question from the June 10, 2014 Operations & Customers Service Committee Meeting.  Numerous interfaces with customers have been added to receive input regarding the fare structure:
+
+- Besides the non-profit community, the task force will convene five (5) Formal Public Meetings through August: east, south, northwest, northeast, and central.
+
+- A Customer Panel representing all 15 Districts will convene on July 16th and will address the topic.
+
+- The Online Customer Community will be asked for feedback in July.
+
+- RTD Fare Review Web Page will include a description of the Fare Review Task Force and an email address to submit feedback.  Periodic updates on progress will be added to the web page and advertised on RTD’s home page.
+
+- Using social media (i.e. Facebook and Twitter) to ask for feedback.
+
+- Transit Management Associations (TMAs)/Organizations (TMOs) and local governments will be asked to participate in one focus group meeting on July 24th.
+
+- Reports to the Board of Directors will be done bimonthly instead of quarterly.
+
+Director Bagley updated the Directors on the most recent General Manager’s Oversight and Performance Management Committee Meeting held on July 1, 2014 at 3:00 p.m. prior to the Operations and Customer Service Committee Meeting.  He mentioned the GM Oversight and Performance Committee, while discussing changes to the 2015 General Manager’s Strategic Goals, had an extensive conversation about the Fare Review Task Force and recommended an open public process with individuals from all fifteen (15) Districts having input.  He asked Director Anderson to speak on behalf of the committee.  Director Anderson reiterated the importance of being inclusive and for all Districts to be represented.  The committee feels the fare Review is not a single item issue and it is an important matter to everyone.
+
+Director Folska acknowledged and applauded the staff for their responsiveness to the Director’s requests.  She also asked about fare box evasion rate and asked Bruce Abel to speak about people with disabilities possibly evading rates.  Bruce Abel said that the light rail evasion rate is at 3% (three percent).  Fare evasion in buses and paratransit services is non-existent as customers have to interface with the operator.  Staff has heard stories of abled-people recruiting disabled people so they can serve as their Personal Care Assistant (PCA).  PCAs are not charged for fare.  These stories are anecdotal, not overwhelming nor pose a problem to services.  Director Folska asked Bruce Abel to expound on if phony PCAs support is an issue on paratransit services.  He responded it would be much more challenging given the process that paratransit uses for ticketing.
+
+Director Menten asked if the Customer Panel who will participate in the Fare Review is the same public Customer Panel that currently meets monthly.  Bruce Abel confirmed it is the same panel.  Their next meeting will be on July 16th.  Meetings are typically at 5:30 p.m. and they have attendance confirmation from 13 out of the 15 members.  Director Menten also asked for details on the TMOs/TMAs/local government meeting and public meetings.  Bruce Abel answered that the local government meeting will be on July 24, time to be determined.  The 5 public meetings are still to be determined.  Director Menten asked to have the information on all meetings added to the Director’s calendar as it becomes available.  She asked if a consultant has been chosen for the Fare Review Task Force had been chosen.  Bruce Abel answered that currently the Task Force is evaluating the proposals received from the RFP.
+
+Director Rivera-Malpiede echoed Director Folska’s sentiment for the responsiveness and the inclusivity across the District.  She also asked for the structure of the July 24th meeting.  Bruce Abel said it would be a panel with representatives.
+
+Director Lubow asked Bruce Abel to provide the Fare Review Public Engagement Outline in report form to the Board.  She also asked if the outline was in response to the GM Oversight and Performance Management Committee conversation.  Bruce Abel answered the plan was developed as a response to the Operations & Customer Service Committee Meeting on June 10th.  Noting the recent recommendations from the GM Oversight Committee, Director Lubow asked if there could still be any changes to the outline as a response to those recommendations.  Bruce Abel answered that there could be changes.  Director Lubow thanked staff for their responsiveness to the Director’s request.  She shared a stakeholder’s suggestion: creating a Technical Advisory Committee (TAC) which could share input throughout the process, not just at the beginning and at the end.  She noted the TAC’s involvement does not have to be extensive.  Bruce Abel answered that experience shows it is counterproductive to go the public with a blank slate.  The current process allows for public feedback before the Task Force works with the consultant and once a proposal is created.  He acknowledged Director Lubow’s request of more public involvement during the process.
+
+### F. Adjourn
+
+Committee Chair Lubow adjourned to the Planning and Development Committee Meeting at 5:59 p.m.

@@ -1,0 +1,858 @@
+2022-06-07
+Study Session: Low-No Emission Vehicles
+VINCE BUZEK: Thanks. I will now call the Tuesday, June 7 study session in order. It's 5:32 PM. I'd
+respectfully ask everyone to remain muted unless you are recognized to speak.
+Thank you all for joining us this evening. Please note that the official meetings of the RTD Board of
+Directors are being held remotely in the interest of public health, safety, and welfare. The official meetings
+of the Board of Directors will be held via Zoom and will be audio and video recorded. The meeting
+recordings, along with the unofficial minutes of the meetings, will be posted as soon as practicable on the
+Board's website. Visit rtd-denver.com. And a live stream of this meeting is also available via RTD's
+YouTube page.
+Colleagues, being elected as a member of this body imposes an ethical obligation for each of us to
+enhance and maintain the public confidence in this agency. As a Board of Directors, it's our collective
+duty to our constituents, stakeholders, and staff to conduct our business in an atmosphere of mutual
+respect, cooperation, civility, trust, and collegiality. These are values we all agree upon. As such, I
+encourage each of us to review the operating guidelines adopted by this Board and to act in accordance
+with those principles, which are available on the Board of Directors page on the RTD website.
+Thank you. Ms. McManus, could you call the roll? And before you do, I see Director Tisdale has his hand
+raised.
+DOUG TISDALE: Thank you, Mr. Chairman. I just wanted to take a moment, because we learned today
+that one of the Directors with whom I had served on this Board has passed away. Barbara Deadwyler,
+who was a passionate and engaged member of this Board, passed recently. And I would suggest that we
+take just a moment of silence to honor her memory and her service on the RTD Board. Thank you.
+VINCE BUZEK: Thank you. Let's do that right now. Director Rivera-Malpiede, did you want to say
+something?
+ANGIE RIVERA-MALPIEDE: I just want to thank Director Tisdale. I also had the honor and privilege of
+working with Director Deadwyler. And she held several offices within the RTD Board of Directors, was a
+strong advocate for her community, and will be missed. So I just wanted to also extend my condolences
+to her family.
+VINCE BUZEK: Thank you. So let's take a moment in honor of Director Deadwyler.
+OK. Thanks for that. And thank you, Directors Tisdale and Rivera-Malpiede. Where were we? Let's call
+roll, Barbara McManus.
+BARBARA MCMANUS: OK. And thank you, Directors, for pointing that out. I had that on my list. But as
+usual, you took care of it for me. Thank you.
+Director Bouquet. Director Broom.
+BOB BROOM: Present.
+
+BARBARA MCMANUS: Director Buzek.
+VINCE BUZEK: Here.
+BARBARA MCMANUS: Director Catlin.
+PEGGY CATLIN: Here.
+BARBARA MCMANUS: Director Cook.
+SHELLEY COOK: Here.
+BARBARA MCMANUS: Director Davidson.
+ERIK DAVIDSON: Here.
+BARBARA MCMANUS: Director Dishell. Director Guissinger.
+LYNN GUISSINGER: Here.
+BARBARA MCMANUS: Director Lewis.
+SHONTEL LEWIS: Present.
+BARBARA MCMANUS: Director Rivera-Malpiede.
+ANGIE RIVERA-MALPIEDE: Present.
+BARBARA MCMANUS: Director Rosenthal.
+PAUL ROSENTHAL: Present.
+BARBARA MCMANUS: Director Sloan.
+MARJORIE SLOAN: Here.
+BARBARA MCMANUS: Director Tisdale.
+DOUG TISDALE: Present.
+BARBARA MCMANUS: Director Whitmore.
+TROY WHITMORE: Present.
+BARBARA MCMANUS: Director Williams.
+KATE WILLIAMS: Good evening. I'm here.
+BARBARA MCMANUS: OK, we have a quorum, with 13 present and two absent.
+
+VINCE BUZEK: Great. Thanks for that. Thanks, everybody, for being here to talk about the Low-No
+Emission Bus discussion.
+This topic is one that's very important to the Board, given environmental impact concerns, sustainability,
+and improving air quality for the region. The Board has a vested interest in understanding how these
+technologies support the agency's strategic priority of community value, which is, "RTD strives to be a
+strong community partner, providing value to customers, as well as the broader Denver Metro region,
+while sustaining planet Earth."
+General Manager and CEO Debra Johnson, before we begin with the staff presentation, would you like to
+provide any comments?
+DEBRA JOHNSON: Thank you very much, Mr. Chair. And good evening to all of you that are virtually
+assembled. I am Debra Johnson, the General Manager and CEO here at the Regional Transportation
+District.
+Tonight, Fred Worthen, the Assistant General Manager of Bus Operations, will present information
+regarding the state of low and no emission bus technologies in the transit space, as well as at RTD. I
+would be remiss not to acknowledge that this presentation actually arose from a conversation Chair
+Buzek and I had regarding his intent to form an ad hoc committee regarding the implementation of zero
+emission vehicles here at the agency.
+At that time, I put forward for his consideration an offer to have staff conduct a study session in which we
+can convey our technical knowledge of and previous experiences with low and no emissions propulsion
+technologies. Chair Buzek was very receptive to the idea, which is what brings us here this evening.
+As you just heard the Chair reference, that within our strategic plan the first among our priority is
+community value, meaning that RTD strives to be the strong community partner, providing value to
+customers as well as to the broader Denver Metro region while sustaining planet Earth. This agency has
+been actively engaged in the low no emissions vehicle conversation for some time now and has forged
+ahead even in this uncertainty due to the absence of technology standards and the myriad of challenges
+encountered in the disparate operating environments throughout our 2,342 square mile service area.
+Just in April of this year, the Environmental Protection Agency recently reclassified the area along the
+Front Range, specifically the region stretching from Fort Collins to Castle Rock, as a severe violator of
+federal ozone standards. According to EPA regional administrator, ground level ozone remains one of the
+most challenging public health concerns we face, affecting large numbers of Coloradans and their
+families. Moreover, according to EPA data, transportation accounted for 29% of the total greenhouse gas
+emissions produced in the United States.
+Now we all know that RTD plays a pivotal role in the reduction of greenhouse gases throughout the
+agency's service area. According to a Federal Transit Administration report entitled "Public
+Transportation's Role in Responding to Climate Change, " light rail systems produce on average 62% less
+in greenhouse gas emissions per passenger mile than an average single occupancy vehicle trip, and bus
+transit produces 33% less. Whether powered by internal combustion engines or alternatively fueled
+propulsion systems, it is important to recognize that RTD makes lives better through connections and
+takes cars off the road.
+
+So with that contextual background, I will now yield the floor to Mr. Worthen for his presentation. Thank
+you very much, Mr. Chair and members of the Board, for engaging this evening.
+VINCE BUZEK: Thanks, GM Johnson. And Fred, before you begin, I just want to say that I think RTD can
+really be a leader in this space. We already have one of the largest electric bus fleets in the country.
+We've got more electric buses coming online.
+I think that even though I'm sure we're going to hear some challenges that are out there with regard to
+technology and so forth, I think as a Board, as policymakers, we can be involved in this discussion and
+moving it forward. So thanks for your time. And Mr. Worthen, it's all yours.
+FRED WORTHEN: Thank you, Chair Buzek. Good evening, honorable Board members. I am Fred
+Worthen, Assistant General Manager of Bus Operations.
+Tonight I'll start with a very high overview of the various low and no emission technologies currently
+utilized in the transit industry. We will transition to a discussion of our existing clean diesel and battery
+electric bus fleets, followed by the environmental impacts and performance of these fleets, lessons we
+learned with the implementation of the existing 16th Street Mall fleet battery electric bus, and where we
+are with our existing fleet purchases, and finally, what our next steps are in the fleet planning process.
+There are many forms of low and emission technologies in usage on fixed route services within the transit
+industry. Clean diesel, diesel electric hybrids, and compressed natural gas technologies have been in
+usage for quite some time in the transit industry and are very stable technologies.
+Diesel engines are powered by internal combustion through a compression ignited by injection systems.
+Hybrid diesel systems use a conventional diesel engine in combination with an electric propulsion system.
+In a nutshell, the diesel engine supply is powered to the bus when the demand for power exceeds the
+battery capacity. Diesel and hybrid diesel vehicles both use conventional fueling stations.
+CNG vehicles operate much like gasoline powered vehicles, with spark ignited internal combustion
+engines powered by compressed natural gas. Compressed natural gas fleets require specialized fueling
+equipment and infrastructure.
+With regard to all of these technologies, there is a significant amount of information with regard to the
+long-term performance and cost associated with these technologies. These technologies are long range,
+with ranges that are typically two to three times those of electric-based technologies. These technologies
+make up the majority of transit fleets and operations within the United States.
+There are many different types of electric vehicles, with very different operating characteristics. At a very
+high level, long range electric battery buses are typically charged at an operating base [AUDIO OUT]
+overnight or between scheduled services. They are meant to operate over 120 miles on a single charge.
+On-Route charging battery electric buses, also called demand charging or fast charging, are typically a
+short range vehicle that is charged both on the street while in revenue service and at operating bases.
+Although the range is theoretically unlimited, they have to be recharged about every 15 to 20 miles of
+operation. They also require the availability of land, easement, and access to a power grid to support en
+route charging, usually in areas where there is already little or no land available. This, in return, restricts
+these vehicles to areas where there is supporting infrastructure.
+
+Hydrogen fueled buses produce electricity by combining hydrogen and oxygen atoms. The hydrogen
+reacts with oxygen across an electrochemical cell, similar to that of a battery, to produce electricity, water,
+and small amounts of heat. Hydrogen vehicles are refueled overnight or between scheduled services and
+require specialized fueling infrastructure. In Colorado, hydrogen is not widely available, but there are
+efforts underway to make hydrogen more readily available in our state.
+A few key points about these technologies. These vehicles are over twice the cost of a conventional
+diesel bus. The maximum range varies depending upon the technology and bus specifications. I'll discuss
+range limitations later in the session.
+Also, these technologies are still in their infancy within the industry. They are not in widespread usage.
+Since these technologies are still relatively in their infancy, most fleets in operation are small and are
+being used primarily as pilot projects to examine the utility of the technology and operation at the local
+level.
+APTA has adopted standards for diesel fuel vehicles. However, there are no industry adopted standards
+for electric vehicle technologies. APTA has been working on developing electric bus standards, but the
+technology is changing rapidly, which has complicated this effort. There are also no long-term
+performance and costs associated with these technologies.
+The short-term performance and associated costs currently available vary widely, based upon many
+factors. Manufacturers also have limited production capabilities at this time as compared to clean diesel
+vehicle availability. And finally, there are significant capital and infrastructure requirements to support
+these technologies.
+There are several different types of charging technologies available to support battery electric bus fleets.
+Long range buses typically use plug-in slow charging technology. There are two different types of plug-in
+chargers, AC and DC. AC stands for alternating current. AC is the type of power that goes in and out of
+the electric grid we plug into. DC stands for direct current. That is the type of power we get from batteries,
+like standard AA batteries used for personal electronic devices. Electric bus batteries can only store
+power as DC.
+Charging time for this technology is typically 3 and 1/2 hours from 20% to 100% capacity. Electric cost
+are lower if charging takes place during off-peak hours. These vehicles usually require less support
+[INAUDIBLE] infrastructure when compared to conductive or inductive technologies.
+Short range buses typically use either a conductive or inductive charging technology. Conductive
+technology uses panographs that connect directly to the top or the bottom of the bus. Drawbacks to
+conductive charging include space required en route to install a charger, the potential for unsightliness of
+the charging station, exposure of the charging station to inclement weather, and damage to the charger
+from other vehicles through height and clearance restrictions.
+Inductive charging of battery electric buses occurs wirelessly, without any physical connection. This is
+made possible through inductive charging coils buried beneath the street level at bus stops. When an
+electric bus drives over the charging pad, the bus wirelessly communicates with the infrastructure to
+begin the charging process, sending current through the buried coil.
+
+Inductive charging technology is newer and more expensive than conductive charging, making it less
+common today in the United States. Additionally, inductive charging is slightly less efficient than
+conductive charging.
+Both conductive and inductive chargers are fast charging, with a wide range of power levels. At the top
+end, a fast charge bus typically requires about six minutes of charge for every hour of service operated.
+These chargers typically have higher electrical costs due to charging during peak demand periods.
+Access to electricity, electrical grid capacities, and land availability can limit where these technologies can
+be used. Short range vehicles typically operate on routes close to their home operating base, due to
+range limitations.
+This is a very high level overview of these technologies. Each technology has unique characteristics and
+operational impacts and needs. The remainder of this workshop will focus primarily on technologies
+currently in use at RTD, clean diesel and long range battery electric buses. For clarity purposes, I will
+refer to our current battery electric bus fleet as the Mall fleet.
+There are many misnomers with regard to the environmental impacts of various transit bus technologies
+in use throughout the industry. The National Academies for Science, Engineering, and Medicine released
+a guidebook for deploying low emission transit buses in 2020. This guidebook was developed in
+cooperation with the Transit Cooperative Research Program and the Center for Transportation and the
+Environment.
+Within this guidebook, there is a recommendation that when looking at the deployment and environmental
+benefits, consider well-to-wheel emissions. While zero emission buses have no harmful tailpipe
+emissions, there will most likely be upstream greenhouse gas emissions from electricity generation for
+charging battery electric buses, production, and delivery for fueling.
+Electricity is often characterized as a clean technology. According to the Environmental Protection
+Agency, the primary sources of greenhouse gases in the United States are transportation and the
+production of electricity. The transportation sector generates the largest share of greenhouse gas
+emissions. The largest sources of transportation-related greenhouse gas emissions include passenger
+cars and light duty trucks. This includes sport utility vehicles, pickup trucks, and minivans.
+Electricity production generates the second largest share of greenhouse gas emissions. Nationwide,
+approximately 62% of electricity comes from burning fossil fuels, mostly coal and natural gas. Xcel power
+generation in the state of Colorado is currently 61% from burning fossil fuels and 39% from renewable
+sources, such as wind and solar power.
+Diesel buses are often characterized as heavy polluters of the environment. There has been significant
+legislation over the last 30 years to reduce particulate matter and nitrogen oxide in diesel vehicles. In
+2010, the EPA'S first national greenhouse gas emission standards was passed under the Clean Air Act.
+As a result of this legislation, diesel engines began utilizing diesel exhaust fluid. At a high level, diesel
+exhaust fluid is injected into the exhaust system upstream of a catalyst, where it vaporizes and
+decomposes nitrogen oxide, which ultimately converts the nitrogen oxide to harmless nitrogen and water.
+This is why you do not see black smoke billowing from newer diesel engines.
+This chart shows a well-to-wheel comparison of the Mall fleet vehicles to 40-foot clean diesels and an
+average automobile. Due to the fact that Xcel primarily burns fossil fuels to generate electricity and the
+16th Street Mall operating environment, our current Mall fleet is not as environmentally as effective as a
+
+40-foot clean diesel. I will discuss the Mall fleet operating environment later in the session. Overall,
+there's virtually no environmental difference between our conventional clean burning diesel and our Mall
+fleet.
+Overall, RTD's environmental footprint accounts for less than 1% of the greenhouse gases emitted by
+vehicles within our service area. Our real opportunity to reduce the environmental impact of pollutants
+stemming from vehicles is to get people out of single occupant vehicles and onto our buses.
+Now I'd like to spend a little time discussing the performance of our existing 16th Street Mall battery
+electric bus fleet and some high level lessons that we have learned from the implementation of this fleet.
+The 16th Street Mall is a very unique operating environment. The service is operated along 16th Street
+between Denver Union Station and the Civic Center Station. This corridor is restricted primarily to mall
+service and pedestrians, with high frequencies of service along the corridor.
+The Mall fleet is significantly different than our regular local service fleet. These buses were custom built
+for the mall, with an enclosed operator compartment, with the operator seat located on the right side of
+the vehicle.
+We are currently transitioning our fleet from 292 kilowatt per hour batteries to higher capacity 330 kilowatt
+per hour batteries. This is due to warranty-related battery degradation issues. All battery packs should be
+replaced by the end of this year.
+Before going into lessons learned, it may be helpful to understand how our existing fleet is performing
+compared to the 40-foot clean diesel fleet purchased during the same time period. The data and
+information I'm about to share is for the complete year of 2021. I do think it's important to remember that
+the Mall operations are different than regular local service operations, thus we expect some variances in
+the performance of this fleet just strictly due to the operational differences.
+It's important to understand both the operational effectiveness and cost of our fleets. Overall, the fleet is
+more efficient from a miles per diesel gallon equivalent. The Mall fleet is about twice as efficient as the
+comparable 40-foot clean burning diesel fleet.
+Although the Mall is more efficient from a miles per gallon diesel equivalent standpoint, the fuel cost per
+mile for the mall fleet is about 30% higher than the current clean burning diesel fleet. An electric load
+management system was installed in January, 2019. The load management system helps manage and
+balance maximum charging loads. Rather than charging all buses at once, the software makes decisions
+to charge buses in stages based upon predetermined parameters. This could be one row at a time,
+lowest to highest charge, and other variables. This in turn reduces electricity cost.
+The load management system helped lower electrical charging costs marginally. In 2019 and early 2020,
+RTD staff also worked with Xcel as an intervener to help create new electrical rates for electric vehicles
+through the Public Utility Commission hearings. This work helped lower the operational costs further, as
+seen in 2020 and 2021 operating cost.
+From a reliability standpoint, the mall fleet has experienced a higher rate of chargeable road calls than
+other fleet types purchased during comparable time frames. This is comparing normalized data related to
+chargeable road calls. Chargeable road calls are defined as any mechanical failure that results in lost
+service.
+
+Auxiliary systems on the Mall fleet have been among the leading reasons for chargeable road calls. There
+have already been multiple planetary drive failures in the Mall fleet with less than 30,000 miles on those
+buses, leading to the manufacturer recall and replacement of those planetary drives by the manufacturer.
+Additionally, a significant portion of the fleet has seen battery degradation beyond warranty requirements
+of 20%, leading to the previously mentioned complete replacement of the Mall fleet battery packs.
+Maintenance costs for the Mall fleet have also been higher than the 40-foot clean burning diesel fleet. The
+average maintenance cost for the Mall fleet was $1.80 per mile, compared to $0.54 per mile for the diesel
+fleet. The maximum range a vehicle can travel is also less when comparing the same fleets. The Mall
+fleet can travel on average about 92 miles between full charges, compared to a 40-foot transit coach that
+can travel about 616 miles before requiring refueling. As a note, the maximum range of any coach will
+vary based upon operating conditions and by individual vehicle.
+This chart illustrates the wide variations and range we experience during operating conditions. The blue
+line represents range variations for the original factory installed 290 kilowatt per hour battery packs. The
+red line represents the performance of the new replacement 330 kilowatt battery packs the manufacturer
+began installing in the fleet earlier this, or late last year. I'll explain why we experienced these variations
+later in the session.
+The one major lesson we've learned from this is that the battery electric bus fleet has to be managed at
+the micro level to avoid service disruptions. I should also mention that the current electric fleet scheduled
+to begin production later this year will look more like a conventional 40-foot bus and will operate in a
+normal fixed route operating environment. Thus, we expect the performance of the new electric fleet to
+differ from the Mall fleet.
+The Federal Transit Administration requires that all large size heavy duty vehicles be kept for 12 years or
+500,000 miles before a vehicle is eligible for replacement. Before making a decision to purchase any
+vehicle, it's recommended that a comprehensive review of technology available is done. Choosing any
+technology, vendor, and infrastructure will more than likely lock an agency into a long-term commitment to
+a chosen path, so choose wisely.
+Remember, the agency is buying a complete system, not just a type of bus. Choosing hastily may lead to
+costly mistakes and unanticipated consequences. Testing and developing operational plans is important,
+as the technology chosen impacts many factors, such as the capital requirements, operational cost, and
+how we train our workforce to support the technology.
+With regard to assessing technology, understand the cradle to grave environmental impacts. Look
+beyond tailpipe emissions and examine complete lifecycle impacts from cradle to grave, develop goals
+and strategies that reduce the entire carbon footprint for the technology chosen, and understand the cost
+and replacement impacts.
+Choosing whether a fast or slow charge is appropriate, or a combination of both, is highly dependent
+upon operating conditions, land and infrastructure availability, and associated cost. It's also important to
+evaluate and plan for impacts on infrastructure. Our operating bases are very old and scheduled upkeep
+in our asset management program has fallen behind. As a result, significant infrastructure improvements
+are needed to support electrification efforts.
+As an example, electrical upgrades will need to be at operating bases and remote charging location.
+Determining who pays for those upgrades and how much lead time is needed for these upgrades is also
+
+important part of the process. It's important to understand local, state, and federal regulations and expect
+your electrical provider to pass along some or all of external infrastructure upgrade costs to the agency.
+RTD paid Xcel about $450,000 for infrastructure upgrades to connect the bus manufacturer supply
+charging systems for the Mall fleet to the Xcel transformer. Installing a separate electrical meter for the
+electric fleet is also necessary. This will help with tracking operational costs and monitoring the
+effectiveness of electrical load management systems.
+Facility space planning is also an important part of the process. Charging equipment have varying
+footprints and can take up a lot of space. Parking and facility utilization is restricted once the infrastructure
+is installed.
+It's important to do due diligence during the procurement cycle. Operating environments and conditions
+impact vehicle performance. One major lesson learned is that staff should not depend upon manufacturer
+performance data to project how the fleet will perform in our operating environment.
+Planning for charging systems and associated infrastructure is a critical step in the assessment process.
+Consider energy resiliency, plan for power outages, and develop a system that allows for flexibility in
+charging vehicles. Some form of smart charging or charger control is required to reduce energy cost and
+ensure the buses are charged adequately prior to deployment. This will more than likely have impacts on
+how we park, charge, and assign vehicles for revenue service.
+Ensure charging equipment meets all relevant certification requirements and that local inspectors are
+familiar and comfortable with the equipment. This was problematic for RTD when installing chargers for
+the Mall fleet, as local inspectors required additional equipment certification before allowing installation.
+Ensure interoperability for future bus purchases. Specify and procure open architecture to the greatest
+extent possible. Interoperability between different manufacturer's buses was not a consideration when
+purchasing the Mall buses, but it will be for future electric transit bus purchases. While the model bus
+charging plugs and use of AC power has operational advantages, it limits the vehicles that can use this
+infrastructure in its current state to just the current manufacturer.
+As previously mentioned, the price of a 40-foot battery electric bus is more than double the cost of 40-foot
+clean burning diesel vehicles. This can have a significant financial impact when purchasing large
+quantities of vehicles.
+With regard to infrastructure, plan for current and future growth needs. This includes examining
+operational facilities and working with the local electrical provider to ensure adequate infrastructure is in
+place. Understand all infrastructure costs. As previously mentioned, our operating bases are very old and
+in need of asset upgrades. Charging systems alone can range in price from $60,000 to $150,000 a unit
+for in-depot chargers. Costs associated with electrical capacity upgrades of facilities can be substantial
+and will be driven by the technology chosen.
+Other support assets, such as lifts and hoists, may need to be upgraded or replaced as well. Plan
+appropriately time for infrastructure upgrades. It took about a year to upgrade the Platte bus operating
+division and external electronic public utilities infrastructure to support the housing of the existing Mall
+fleet.
+Workforce development and training is a necessity to ensure the successful implementation of any fleet.
+As previously mentioned, if an electric fleet is chosen during the process, the agency is purchasing a
+
+complete system, not just a vehicle. The technical knowledge needed to successfully implement an
+electric fleet is completely different than a conventional clean burning diesel.
+As an example, operating training requires a shift in both driving habits and operational awareness.
+Electric buses depend upon regenerative braking to increase operational range. Regenerative braking
+systems cause the electric motor to run in reverse mode and run backwards. This process reclaims and
+stores kinetic energy generated by the system for further use.
+During the regenerative process, the motor slows the wheels and also acts as an electricity generator. To
+maximize operational range, operators have to shift from traditional braking habits to a different driving
+style that allows the regenerative braking system to work and help recharge the batteries.
+Vehicle maintenance technicians need to be trained on high voltage systems and new diagnostic support
+systems. Training on the safe handling and [INAUDIBLE] out of high-voltage systems is a critical safety
+component. Chargers and infrastructure also require regular maintenance. Charger-specific training and
+documentation is necessary for the proper training of facilities maintenance technicians.
+The lack of industry adopted standards require a specific technical knowledge when procuring electric
+buses. Additionally, separate procurements may need to be issued to support charging and infrastructure
+requirements, which requires careful project management to ensure infrastructure is in place before the
+new fleet arrives.
+Parking configurations, charging equipment limitations, and range limitations require those that manage
+the fleet to have an in-depth knowledge of operational issues and to actively manage the yard and fleet at
+a micro level. It's also critical to develop appropriate IT strategies. Protecting the agency from hardware
+and software obsolescence is a step often overlooked. It's important to require systems that are open
+architecture and reduce reliance on a particular manufacturer provider. This includes on-board, charging,
+and diagnostic systems.
+Ensure that vendors guarantee supporting any technology beyond the expected life of the vehicle.
+Consider requiring software escrow to ensure the continuity of your hardware and software infrastructure.
+First responders also need to know shut-down locations at both the bus and the facilities and what
+hazardous materials are in usage. Develop guides for first responders and invite them to train with the
+new equipment.
+Understanding the operational impacts of any technology chosen is important. This includes range
+limitations and battery degradation issues. The operational range of a vehicle is impacted by many, many
+variables. Operating speed, operator driving habits, terrain, frequency of stops, auxiliary electrical loads,
+and heating and air conditioning systems impact vehicle range. The Mall fleet has regularly experienced a
+30% to 50% variation in range, as previously discussed.
+Planning for battery degradation is also important. Over time, the maximum charge electric fleet batteries
+can carry begins to degrade, which will impact the performance and range of an electric vehicle. I will
+discuss battery degradation shortly in the session.
+Developing operational processes and fleet management plans based upon worst case scenarios is also
+critical. Between normal operational range variations and normal battery degradation, it's anticipated the
+vehicles will have less and less range as they age.
+
+Examine fleet mixes and develop a transition plan. Most experience with fixed route electric vehicles is
+limited to 30- and 40-foot vehicles. Plans to transition to a [? revenue ?] fleet to an electric fleet should
+follow a systems engineering approach that considers capacity constraints, range limitations, spare ratio
+impacts, infrastructure requirements, and associated cost.
+Understand how your contractor operations will be impacted. At RTD, 45% to 48% of fixed route services
+are contractor operated at four different operating bases that RTD does not own. These contracts are
+typically three years in duration, with two additional one-year options. Electrifying facilities that RTD does
+not own presents unique issues in itself.
+The Federal Transit Administration typically restricts fleets to the maximum 20% spare ratio, based upon
+peak vehicle requirements for service provision. Due to range and other technical limitations, large scale
+electrification does not come at a one-to-one vehicle replacement ratio, which could lead to a larger fleet
+and fleet spare ratio. Exemptions to spare ratio requirements are subject to approval by the local regional
+FTA office.
+Public education is also required. Conducting outreach to educate the public on the new fleet is critical.
+For example, low emission vehicles typically do not make a lot of noise, so a person who is visually
+impaired may not recognize that a vehicle is actually approaching a stop.
+For daily operations-- sorry, flipped by itself-- plan for daily operational impacts. For example, if an
+operating base were to lose power for an extended period of time, how would we operate and support
+scheduled service?
+Understanding operational impacts begins with the understanding of the nuances of the technology
+selected and what the impacts are of the technology over time. For example, the performance of a new
+battery pack on a battery electric bus changes over time. New batteries are generally limited with regard
+to how much of a battery charge can be accessed for operations. Within the Mall fleet, alarms signal
+when a battery reaches 20% charge. Once alarms sound, the performance of the vehicle begins to erode.
+As batteries get older, they begin to experience degradation. A new battery that previously generated 300
+kilowatt hours of electricity with 20% degradation will only be able to hold 288 kilowatt hours of charge. As
+previously mentioned, batteries already have variable operating ranges based upon auxiliary unit usage,
+terrain, driver skills, and other factors. When stacking normal variability on top of degradation, the
+distance and performance of vehicle will be significantly reduced and impacted over time.
+So how does battery performance impact daily operations? This chart is a very good example how
+variations in climate, topography, driving style, and battery degradation impact daily operation. The
+example in this chart shows the range of a new battery versus a degraded battery on a block of work. In
+transit terms, a block of work is the work assignment for a vehicle or day from base pull out into service
+and through pull into the base at the end of service.
+The first set of lines on the left side of the chart, starting at 500, indicates a newly fully charged battery
+under optimal conditions can enter service at 6:08 AM and stay in service to nearly 6:00 PM at night.
+However, the same battery fully charged but exposed to variations in geography, climate, and driving
+style could have to end service as early as 3:08, about three hours earlier.
+
+Auxiliary systems to power heating and cooling systems and the inability to fully optimize the regenerative
+braking system can severely reduce the operational distance of a vehicle. Over time, as the kilowatt hour
+capacity of the vehicle diminishes, degradation further reduces the distance the vehicle travels.
+The second line on the left side of the chart, starting at 350, illustrates that degradation, accompanied by
+the drain of auxiliary systems and diminished return from the regenerative braking systems, reduces the
+amount of time the vehicle can be in revenue service. In a worst case scenario, this vehicle could need to
+be removed from revenue service as early as 12:15 PM. This illustrates about a 50% reduction in revenue
+service provision from best case scenarios to worst case scenarios. This will lead to increased operational
+cost and impacts.
+In this example, this piece of work will require two to three vehicles to complete the scheduled revenue
+service. This leads to increased deadhead and pre-trip inspection time and may require more operators. I
+should point out that even under optimal conditions, this block of work could not be completed by a single
+electric vehicle. A diesel vehicle could complete this entire piece of work on a single tank of fuel.
+Going back to our original point, it's very important to understand and plan for impacts on daily
+operations. Studies regarding fleet electrification have focused on the cost and performance of this
+technology. These studies have not focused on other direct and indirect operational impacts and costs.
+This chart illustrates the impact of a single vehicle operating in service on a single day.
+So let's expand this point. Route 15 and 15L operate on the East Colfax corridor. This is one of our
+busiest routes that begins service each day at 3:30 AM and continues in service through 2:00 AM the
+next day. This route requires 36 buses operating nearly 600 hours of daily service.
+Looking at the variability of this slide, think of how that would transfer on a larger scale, such as Route 15
+operations. As you can see from this chart, it requires more electric buses to do a single block of work.
+Each time a bus pulls out from an operating bus, time has to be added to pre trip, post trip, and travel
+time from an operating base. This increases the number of hours paid for service operations.
+On a larger scale, this means additional buses and support staff, such as operators, mechanics, and
+service and cleaning personnel, and possibly even more operating bases to operate the same level of
+service maintained by our diesel fleet. Electric vehicles can also take up to four hours to recharge, which
+impacts vehicle availability and maintenance programs.
+Now expand that thought further to over 100 routes, a fleet of over 700 buses housed and maintained at
+seven different operating bases. Understanding life cycle and operational direct and indirect cost is critical
+to any agency. Operational cost will vary widely, depending upon the unique temperature, terrain, and
+energy cost and pricing structures of the jurisdiction. Do not assume the experience of other transit
+systems will transfer to our system.
+Making a decision without understanding full cost lead to very costly mistakes that impact the financial
+and operational sustainability. It's important that staff does not depend upon operational costs provided by
+vehicle manufacturers and other transit systems. Current battery electric buses have not been in usage
+for an extended period of time. There are also no long range costs available for life cycle cost analysis.
+The current technology is too new. Obtaining a life cycle and operational cost model that is accurate for
+our operating environment may be hard to accurately predict. Finally, understand indirect cost.
+
+Operational management plans may require increased staffing, increases in service hours, or simply
+require more capital investments.
+Although it may be tempting to pursue grants and wide scale implementation of battery electric buses, a
+wise approach is to test and develop operational plans before engaging in large scale purchases. Things
+to consider when developing and test and operational plans include: electric vehicles require completely
+new business model, develop training and operating models that adapt to your electric fleet capabilities
+and constraints, testing your operating environment to better understand operational constraints and cost,
+develop staged plans for implementing electric vehicles, and develop specific learning goals for any
+purchase to support future purchases.
+Utilizing all the lessons learned from our current Mall fleet implementation and operations, we've put
+together a cross-functional team to guide the development and implementation of the currently approved
+17 battery electric buses scheduled to begin production later this year. Buying an alternative fuel vehicle
+is significantly more work than simply writing specifications for a vehicle, buying the vehicle, and placing it
+into daily operations.
+Staff spent about two years doing the work shown before engaging in the procurement process. As
+previously mentioned, the agency is buying a complete system, not just a bus.
+Engaging with Xcel early in the process was very important to this project, to help ensure power and
+infrastructure will be available when the electric fleet arrives. This is a step that is often overlooked during
+purchases, leading to project delays.
+The procurement process is much more intensive than a regular diesel bus procurement. Developing
+specifications for the bus and infrastructure, preparing for infrastructure upgrades, and working with the
+local utilities vendor is critical to the success of the program. From a procurement standpoint, it is
+advantageous to issue a separate infrastructure procurement to contain project cost and ensure
+infrastructure meets current and future needs.
+There are also other infrastructure upgrades needed to support electric bus technology. As an example,
+battery electric buses generally have very, very heavy battery packs on the roof of the vehicle. At East
+Metro, where our new electric buses will be located, we have to install specialized lifts, hoists, and fall
+restraint systems to work on our battery packs located on the vehicle's roof. We also have to ensure that
+all equipment is functional for current and future vehicle purchases. Staff spent about one year
+developing the vehicle and infrastructure requirements for this project.
+The final stage is to implement and test the technologies chosen. This includes developing operational
+plans, training plans, and comparing modeling work to our actual experience. Plan, do, check, act.
+All of this work will help us to evaluate the utility of battery electric buses at a larger scale and develop a
+refined long range plan for electric vehicles. We're taking all of these lessons learned and applying them
+to our current battery electric bus procurement underway. We currently have 17 battery electric buses that
+are scheduled to begin production later this year, with delivery anticipated in the first quarter of 2023.
+I should mention there is a national shortage of computer components and batteries. This could impact
+the delivery schedule of these vehicles. Once we receive the new electric vehicles, we will store and
+maintain them at our East Metro operating base.
+
+We anticipate installation of the equipment, infrastructure, and facility upgrades beginning late in the third
+quarter 2022. We will commission charging equipment and infrastructure when the new electric bus fleet
+is delivered.
+Utilizing all of the lessons learned from our Mall fleet, the current battery electric bus fleet procurement,
+and other work done by staff and consultants, we will be engaging in long range fleet planning efforts over
+the next couple of years. This will include looking at the utility of alternative fuel vehicles and clean diesel
+technologies more holistically and in greater detail. Due to the fact that alternative fuel vehicle technology
+is constantly changing, this will be an ongoing effort for all future vehicle procurements.
+Thank you for your time this evening. I am more than happy to answer any questions you may have.
+VINCE BUZEK: Thank you, Mr. Worthen, for that presentation. Let's start with Director questions and
+comments. And I see Director Davidson first in the queue.
+ERIK DAVIDSON: Thank you very much, Mr. Chair. Mr. Worthen, that was an awesome presentation. I
+so appreciate the system level thinking involving the grid. And one of my questions was going to be about
+that early engagement with Xcel, and I'm glad to see that we have a lot of that.
+One of the questions I have-- this is exciting stuff, I'm trying to sort through my questions here-- but one of
+the questions I have is about performance. So certainly, the manufacturers have warranties with us. But
+when it comes to not only range but even specifications, their mean time between failure and
+specifications regarding repair, I know this is one of the things that's really hard to pin down in the
+absence of standards, but could you speak to what's in our contracts and how we're approaching
+performance requirements from vendors, and what tools we have to renegotiate with them based on any
+performance issues that we notice?
+FRED WORTHEN: Thank you for that question, Director Davidson. I will say that we worked with the
+Center for Transportation and the Environment to develop the standards for our fleet that we purchased
+and will begin actual production later this year. There are so many different things in the standards that I
+could speak to that I think I could take the rest of the evening talking to that. I would be more than happy
+to share the requirements of the procurement, though, with you and the Board as a whole.
+With regard to overall standards, though, we do have specific standards with regard to things like battery
+degradation. We do have replacement requirements when a vehicle does have performance issues, such
+as a battery degrades below 80%, the requirement to rebuild or replace a battery is part of that actual
+procurement requirements itself.
+And then we also have negotiated contract that we have set with each one of our vendors. We do have
+extended warranties. I believe that the battery packs have required a 12-year warranty on them. But I'll
+check on that to make sure that I'm speaking to that correctly. And then we have other performance
+related things in there too with regard to things like anticipated range. So those types of things are within
+our existing contract and within our existing procurement.
+With regard to if there are problems with performance, we typically work with the vendor and try to cure
+those one-on-one. So for example, with our existing fleet, when we started having problems with the
+planetary drive failures, we went to the vendor and explained the problems. They came in and did an
+analysis. They declared that we had a problem and they recalled and replaced those planetary drives
+voluntarily.
+
+So starting to work with the vendor is our first step. But of course, if worse comes to worse, we always
+have cure issues and legal issues that we can take with the vendor. My experience has been with our
+vendors, though, that we have worked with in the past that when we bring a problem to them, they are
+more than willing to work with us and try to find alternatives and solutions.
+VINCE BUZEK: Director Davidson, does that take care of your questions? You're still on mute. OK. Must
+have
+ERIK DAVIDSON: Oh, I'm sorry. Yeah, sorry about that. Yeah, that very much answers my questions.
+And appreciate that. I'll come back around.
+VINCE BUZEK: Great, great. Thanks. Director Rosenthal, you're next.
+PAUL ROSENTHAL: Thank you, Mr. Chair. And thank you, Mr. Worthen, for that really exhaustive
+presentation, no pun intended. Sorry, I thought I'd get a chuckle out of that one.
+Nevertheless, so I have two questions for you. One is in regards to, I believe one of the slides was talking
+about emissions and that you said there was really no or very little difference between an electric bus and
+a clean diesel bus. And I was wondering a little bit more about those statistics, how they're generated,
+and in particular since if you look at how our power is increasingly being generated by renewable
+resources and less and less, and long-term less and less, especially with Xcel is going to be, as they shut
+down their coal fired power plants and continue to use, to some extent, their natural gas power plants. So
+if you could speak to that, I'd appreciate it. Thank you.
+FRED WORTHEN: Sure. So I do want to clarify, first off, the emissions reductions with the Mall fleet is
+less than we anticipate we will get with the new fleet. And part of the reason that the Mall fleet does not
+perform as well is going back to the part of regenerative braking. The Mall fleet, since they stop every
+block, they really don't get a chance to fully utilize regenerative braking, so we really don't get the miles
+per gallon diesel equivalent which helps reduce the greenhouse gas emissions.
+With regard to the calculations, though, we used the Argonne National Laboratory heavy duty vehicle
+emissions calculator. The amount of emissions, particulate-- and pardon me, I'm reading the description
+here, because I knew this question was going to come up-- the amount of emissions reductions,
+particulate matter, nitrous oxides, and greenhouse gas emissions of an electric bus can be compared to
+that of a diesel bus.
+The model considers the emissions from production and transport of each fuel type, tailpipe emissions,
+and power plant emissions to create electricity to charge the electric bus. This is based on Xcel's
+Colorado generation, power generation makeup. And then I explained a little bit about the Mall, how the
+regenerative part reduces some of the efficiency too.
+But I think going back to the particulate matter component, though, too, with regard to emissions
+reductions, the chart that I showed, that showed the NOx and particulate matter that was occurring 20
+years ago, we've really reduced-- the industry has reduced particulate matter and NOx through the diesel
+exhaust fluid component itself. By injecting the diesel exhaust fluid into the catalytic converter systems,
+we've basically taken harmful emissions and turned them into water and non-harmful emissions. So the
+diesel vehicles actually emit these days very little particulate and NOx.
+PAUL ROSENTHAL: And I appreciate that answer. But given that, what is the proportion of the newer
+versus older buses in our stock at RTD? So the older buses emitting more, the newer buses emitting less,
+
+I mean, do we weigh more heavily towards the newer ones? And what does newer mean? Newer
+meaning in the last 5 years, 10 years? If you don't mind speaking to that.
+FRED WORTHEN: So going back to compare these, we actually compared vehicles that were purchased
+during a similar time frame as the Mall itself. So that was the, I believe it were 2015 and '16 vehicles were
+the closest to the electric fleet purchase that we made. The electric buses were received by RTD in 2018.
+We do have some older vehicles, but I would point out that a good portion of our older vehicles will be
+cycling out this year. We have 100-plus vehicles that are on order right now. So that will leave the
+average fleet closer to the statistics that are within that chart.
+PAUL ROSENTHAL: Thank you. And Mr. Chair, one final question. And perhaps this is something that
+General Manager Johnson might be able to answer.
+To be direct and straightforward, I mean, just based on some of the conclusions in, or-- I know Mr.
+Worthen was more presenting facts-- but does one also come to the conclusion that perhaps having just
+clean diesel buses is more cost effective if there's no substantial reason, from an air pollution standpoint,
+that there are issues with installation and with ongoing costs and less miles traveled on a charge. And I'm
+not saying I agree, I'm just saying I'd like to hear your perspective, whether we should put a hold on any
+future purchases of electric vehicles from those perspective. Thank you.
+DEBRA JOHNSON: Mr. Chair, if I may.
+VINCE BUZEK: Yes, please.
+DEBRA JOHNSON: Thank you so much, Director Rosenthal. I appreciate the question.
+I would qualify by answer by saying I believe that we have to be innovative and open to new ideas and
+continuous improvement. And what Mr. Worthen was presenting was showcasing where we are currently
+as a organization, because there is an opportunity for us to optimize how we're delivering transit services.
+As we talk about our vehicles, our facilities, we need to ensure that we have facilities that are in a state of
+good repair that can be easily adaptable and scalable to look at alternatively fueled propulsion systems.
+Additionally, as we look at how we do our service planning, we have a myriad of routes that are very long
+in length. And there's a couple of different decision points. Do we want to leverage inductive charging? As
+I shared previously, you may be aware that, having come from California, we looked at these various
+things, because there is an innovative clean transit regulation put forward by the California Air Resources
+Board.
+So where we need to go as a organization is to have a transition plan. Because utilizing that to determine
+various factors, I believe you as a Board will have more information to make informed decisions about our
+fleet type. Because we could have sub fleets and we could have them operating in a myriad of different
+places. However, we need to identify the problem for which we're trying to solve. And if that is reducing
+greenhouse gases by a certain amount, then we can do that, and tactically speaking, we can identify the
+best means in which to accomplish that goal.
+So does that address your question, sir?
+PAUL ROSENTHAL: It does. And thank you very much for that answer.
+
+DEBRA JOHNSON: You're very welcome.
+PAUL ROSENTHAL: And I look forward to the other Directors and their questions. Thank you again.
+VINCE BUZEK: Thank you, Director Rosenthal. Director Williams, you're next.
+KATE WILLIAMS: Thank you, Chair. Let me get myself here on the bus. That was great. And Mr.
+Worthen, thank you so much.
+The only problem I have is that there are 12 or 13, or how ever many Directors, and 20, or how ever
+many staff, and who needs to hear this is the rest of the world. I'm wondering if there are any plans to
+make this presentation to a DRCOG meeting, to a Metro Mayors meeting, to a city council meeting.
+Because it's great that we know it. We already love you and we already love RTD.
+But I'd really, really, really like to see this get out to the rest of the world so that people understand the big
+picture that we are looking at and the fact that we are looking at it. So General Manager Johnson, thank
+you for having your staff look at this holistically. And that's my request, is that we would do this wonderful
+presentation all over town. Thanks.
+VINCE BUZEK: Thank you, Director Williams. Director Broom.
+BOB BROOM: Thank you, Chair. I have a couple questions.
+Since you're talking about basing the new electric buses out at the bus barn on East Colfax, does it make
+sense to then assign those buses to the 15 route so that you're not having to put facilities all over the
+district to support electric buses? I mean, to have a bus run out of juice up in Longmont, that's a long way
+to send a wrecker to haul them back in. That's one question.
+Then the second question that we kind of totally ignored here today is what is the future availability of
+diesel fuel? I mean, it's going towards probably $8 a gallon. Are we going to have to construct a tank farm
+to buy millions of gallons when it becomes available offseason or something like that to ensure that we'll
+have diesel fuel year round? Thank you.
+FRED WORTHEN: Mr. Chair, if I may answer.
+VINCE BUZEK: Please, Fred, yes.
+FRED WORTHEN: So to your original point, Director Broom, thank you for that question.
+When we made a decision to look at where to house the vehicles, we did what we would call a block
+analysis. And as I described a little earlier, block is basically the assignment of a vehicle from the
+beginning of the day when it starts service all the way through the end of the day. And what we did is we
+analyzed blocks of service based upon the anticipated range that we'll be able to get out of the new
+electric fleet. So we actually won't be assigning to routes. We will be assigning those buses to blocks
+where we believe that they can complete revenue service.
+With regard to the future availability of diesel fuel, I'm not sure that anybody can answer that question at
+this point. I appreciate the question. And I think this, again, as we talked about future vehicle purchases,
+we have to constantly evaluate what we're buying and what technology we're buying from. And if diesel
+vehicle prices change dramatically as we look at future procurements, that would be taken into account
+
+BOB BROOM: Thank you.
+FRED WORTHEN: Thank you, sir.
+VINCE BUZEK: Thank you, Mr. Worthen. Thank you, Director Broom. Does that answer your questions?
+BOB BROOM: No, not really. But I didn't expect an answer. Thanks.
+VINCE BUZEK: Sounds good. Director Cook.
+SHELLEY COOK: Thanks. I was thinking somebody else was ahead of me.
+Two quick ones. The maintenance cost per mile was surprising to me, because you always hear about
+the electric vehicles being less costly to maintain. And part of that may stem from the unique nature of the
+Mall shuttle versus an average of all the diesel routes that we operate.
+And so is there a way to compare more apples to apples, to compare, for example, our average for diesel
+cost over all the routes with an agency's routes that, where an agency has been able to electrify a
+broader range of its routes, or by comparing to maintenance cost per revenue service hour or something,
+is there a way to look at it more equivalently? That's my first question, Fred.
+FRED WORTHEN: Well, with regard to the maintenance cost per miles, first and foremost, again going
+back to what I spoke of, when you buy an electric vehicle, you're not just buying an electric component,
+you're buying the complete system.
+One of the issues that we are experiencing is that the auxiliary systems put a very heavy strain on the
+electric vehicle itself. So we've seen component failures, like our doors, that have led to problems with
+low charge. We've also seen premature failures with equipment, such as the planetary drive failures that I
+spoke of earlier. And we've seen even battery degradation issues that we did not anticipate. With the fleet
+only being basically in service five years, we anticipated that we wouldn't hit warranty problems for some
+time.
+So again, the technology is so new that there's really no experience to rely on what the performance of
+equipment is going to be. With regard, though, to looking at peers, you can't transfer what a peer's
+experience will be to ours. And that is one thing that has been learned in the industry very, very quickly.
+Between differences in terrain, topography, all of the other things, specifications on the vehicle,
+everybody has a different story to tell.
+I think that when you start talking about normalizing costs and things like that, miles per gallon of diesel
+equivalency, that's an industry standard thing that's done, miles between road calls, those are industry
+standards. So everything that I presented with regard to performance metrics are APTA standards that
+are used industry-wide.
+SHELLEY COOK: My second question isn't really-- I mean, it's kind of in the arena, but I'm stretching a
+little bit. The question-- and hopefully, somebody who's on the call can answer this-- we're reviewing the
+guidelines that we have that would allow our customers to electrify their fleets and take advantage of the
+last and first mile, like on e-bikes. What's our time frame for hopefully being able to loosen that a bit to
+enable people to take electric bikes and/or scooters, when they work, on our fleet? What's your time
+frame for completing that review?
+
+VINCE BUZEK: General Manager Johnson.
+DEBRA JOHNSON: Yes. Thank you very much, Mr. Chair.
+Director Cook, oh, my god, this is serendipitous. I just had a conversation with Marta Siepecki this
+morning about this. And so I asked her to get with Bill Van Meter, and we're actually having a discussion
+tomorrow. So we recognize when this policy was first put into place, we were talking about combustible
+engines and things of the like. So I would say-- and I'll double back with you-- that we probably would
+have an understanding of what our policy is once we look at the safety aspects, I'd probably say within
+four weeks. But I will double back with you if the time is different, because I don't want to misspeak
+without having had the opportunity to speak with staff collectively.
+SHELLEY COOK: Super. Thank you. Thanks so much. That's all I have.
+VINCE BUZEK: Thanks, Director Cook. Director Guissinger. First Vice Chair Guissinger.
+LYNN GUISSINGER: Thank you, Chair. Thanks so much, Mr. Worthen. That was a really informative and
+an excellent presentation.
+I have a few questions. I know there's so much going on in the state. You know, SB 260 created the clean
+transit enterprise. They've just come out with an adopted 10-year plan that I think set a $135 million goal
+for them to raise towards clean transit in the next few years. There's a state goal of 1,000 electric vehicles
+by 2030 and a state ZEV Transit Roadmap. Are we involved in those projects and those planning efforts?
+FRED WORTHEN: Yes. Thank you, Director Guissinger. We have been involved in all of those different
+efforts. If you would like detailed information with regard to our involvement, I would have to defer to Mr.
+Bill Van Meter, since his staff has been working directly on those initiatives.
+LYNN GUISSINGER: OK. And are those-- I guess, are we coordinating those with our efforts in terms of
+moving forward with electric buses and all of those things? It looks like Ms. Johnson might have
+something there. Oh, there's Mr. Van Meter. Good.
+DEBRA JOHNSON: OK. And Mr. Van Meter is here. So I was going to have him to speak to this. We had
+just had a conversation as well, as it relates to our coordinated approach, especially with the projections
+that DRCOG has put forward for the region. But I will yield the floor to Mr. Van Meter, because I'm certain
+he can address this question. And if I need to add some supplemental information, I will do so. So Mr.
+Van Meter, thank you.
+BILL VAN METER: Thank you. And I'll have to state that I would prefer to have conversations with my
+staff and get back to you before I misstate where we are and what our level of coordination and
+discussions are on this topic. I don't have good information to share at this juncture, this evening. So-LYNN GUISSINGER: Understandable.
+BILL VAN METER: --you caught me flat footed.
+LYNN GUISSINGER: OK.
+DEBRA JOHNSON: If I may. So what we'll do as staff is circle back in reference to the questions that
+were posed by Director Cook in regards to the e-bike policy and all the questions, so we can provide a
+
+summarized document that provides the answers to the questions of which we don't have responses to at
+this juncture.
+LYNN GUISSINGER: Great. Thank you very much.
+And just following up on Director William's comment, I think if we can take some of this to those groups,
+we would inform them and they may inform us as well. Again, Ms. Johnson, you have something on that?
+DEBRA JOHNSON: Right. I just wanted to share, I appreciate Director William's comment. And as Mr.
+Worthen knows, we were invited to participate and present at the Colorado Energy Office and other
+places. And we knew we had this coming. So in respect for this Board, we wanted to bring this here first.
+But yes, totally support what Director Williams said. And with your further reiteration of that, that's what
+we do intend going forward but needed to garner a better understanding of what the Board's pleasure
+was as we go forward. So we appreciate that input.
+LYNN GUISSINGER: That's great. And I'm glad to hear you're coordinating with the Colorado Energy
+Office too. I don't know exactly if the Clean Transit Enterprise, I think that's in CDOT, but I'm not-- but I
+think all of those pieces, as I say, we can inform them and they can inform us. So I think that'll be great.
+And we learned a lot of lessons from the Mall shuttle. But I also appreciate what you were saying, Fred,
+that-- I'm excited about the new 17 buses that we've ordered, because everything's changing so quickly.
+The original Nissan Leaf got a 70-mile range and now they're at 230, and other cars are at 350 and 400.
+So I think looking at the newer vehicles, and some of it may be specs from the manufacturers. And I hear
+what you say, that you can't totally rely on them. But maybe some of these other organizations in the
+state can help and give us a little better picture of the opportunities with the battery electric buses.
+Thanks.
+VINCE BUZEK: Thanks for that. Director Tisdale, you're up.
+DOUG TISDALE: Thank you very much, Mr. Chairman. Just on that last point, in terms of projected miles
+and so forth, let's not forget that we also bought buses with a 12-year guaranteed battery life. And as I
+understand it, after five years, we're having issues. So I mean, manufacturers always do overstate.
+I was struck by so many things in this presentation that you pulled together. And I hope, by the way, that
+you'll be able to share your slide deck with all of us. Because there was outstanding stuff in that, Fred, I
+mean, it was really just very, very compelling and I think responds to a lot of questions.
+And when I hear Director Williams say we've got to talk to other people about this, I think that's right.
+Because people look at us and say, well, how come you haven't been all over this? How come you
+haven't got nothing but electric buses? And being able to say, you know, it's a problem. And we're
+dedicated to the proposition of improving air quality, but as it turns out, our air quality improvement has
+come about in large part by something called clean diesel. So I think that's fantastic.
+I think people, when they talk about electric vehicles of any sort, fail to take into account what you pointed
+out, that about 25% of the greenhouse gas emissions that we experience are from the generation of
+electricity. So it's great to say, yes, the vehicle is electric and it'll run, but we had to do a lot of dirt to get
+that electricity made. And that's something that we need to address.
+
+I am very cautious about the fact that the upfront cost for the BEBs is roughly double what we pay for a
+clean diesel bus. It's something that, in seeing your chart about the NOx emissions and so forth, I think,
+again, people just don't know. So at least if we could tell them that and say, we think the electric vehicle
+market is slowly but surely catching up, but we're not going to run off-- I submit that we should not run off
+and just say, yes, we're making a commitment now that every new bus we get is going to be electric.
+Because that would be, I think, a foolhardy move.
+And we need to assess the ROI on all of this, our return on investment. What is it really like for converting
+to an electric fleet?
+That's why the one thing that made my heart sing was when you said, we're doing a study, a
+comprehensive study to look at all these factors that we'll come back to you with. But this is, at least, a
+good introduction for all of us. And I think, as Director Williams points out, it's an introduction that we
+really should share with DRCOG and Metro Mayors, because they will help communicate that message to
+the rest of our public in the Regional Transportation District.
+Thank you very much, Mr. Chairman. Those are my comments.
+VINCE BUZEK: Thank you, Director Tisdale. And I guess takeaway I got from this is understand the
+challenges with the electrification, but move forward, slowly, incrementally, understanding those, and not
+run away from them because of the challenges. So-OK, Secretary Sloan, you're up.
+MARJORIE SLOAN: Thank you. And this is a follow-on to Director Tisdale and your comment, Chair. We
+have talked about the electrification of buses based on Xcel's generation practices. And this is outside of
+the scope of this particular presentation, but I think it would be helpful for the public in general, and
+certainly myself, to understand the possibilities for generating our own electricity through solar panels on
+right-of-way for RTD on our maintenance facilities, to see if that can change the calculation in any way.
+So that would be another step in this analysis.
+But again, I appreciate what we have before us today. Thank you all.
+VINCE BUZEK: Thank you, Secretary Sloan. Director Catlin. No, Second Vice Chair Catlin.
+PEGGY CATLIN: Thank you, Mr. Chair.
+Fred, I benefited from a presentation that you gave to a few of us Board members probably 2 and 1/2, 3
+years ago. And what I learned from that presentation was that technology is ever evolving and that we are
+taking steps to proceed, understanding that this technology is evolving.
+What impressed me with your presentation tonight was your system-wide approach and educating the
+Board that this isn't just a plug and play. You know, when public says, why don't you just do electric
+vehicles, you really have to go through a very, very thorough analysis and thought process in moving
+forward. And I very much appreciated your presentation.
+And I agree with many of the Directors that said these are good steps forward, but we want to proceed in
+a very, very deliberate way that understands all of the trade-offs. And I just am impressed from the
+evolution of where you came from pre-COVID, 2 and 1/2 or 3 years ago, when I sat through that
+presentation, and where you are now. It was very impressive. Thank you so much.
+
+FRED WORTHEN: Thank you.
+VINCE BUZEK: Thank you. Thank you. Director Rosenthal, one more time.
+PAUL ROSENTHAL: Sorry for a quick confirmation statement/question. And perhaps the General
+Manager might be able to confirm this. I asked a while back about diesel prices, and this speaks to
+Director Broom. And my understanding is we have contracts on the purchase of diesel that are longer
+term and that sort of evens out the amount that we are paying for our diesel, clean diesel.
+So if-- and I don't know how long those contracts are4. Are they six months, a year, two years? And to the
+extent that how does that address Director Broom's question? Thank you.
+FRED WORTHEN: Mr. Chair. Thank you for that question, Director Rosenthal.
+Yes, we do lock diesel prices each year. Typically around the August or September time frame of each
+year, we look at diesel prices. We make a determination on what we can and what we're willing to pay.
+And then we work with our vendor to actually lock in prices.
+And it's advantageous to us. If prices are below the lock price, we get a little bit of a break. But if they go
+above the lock price, then we're locked in at that upper cap level. So the lock does help stabilize the cost
+over the budget cycle for the single year that we're in operation. But we do renew those diesel locks every
+year.
+VINCE BUZEK: Great. Thanks for that. And Mr. Worthen, thanks so much again for the presentation.
+Thanks, everyone, for being here.
+I guess I'll make my comments, since I'm last here. A couple of things were raised. I know First Vice Chair
+Guissinger raised the concept of the quick evolution in this technology. And it always seems that new
+technologies evolve very, very quickly at the onset, as opposed to diesel technology that's been around
+forever has evolved really slowly to where it is now.
+And so that's why any full fleet replacement to zero emission vehicle is probably decades into the future,
+even with the advanced rate of technology improvements. The three big things that I think are critically
+important are cost, charging, and range. Those are the big three that are preventing us from moving
+forward quickly.
+And the other one-- and GM/CEO Johnson was on a panel that I attended at the Denver Athletic Club-the fact that there are no industry adopted standards with regard to these fleets means the prices are all
+over the place when it comes to this technology. And once you get some industry standards that
+everyone, all these manufacturers have to comply with, then you're going to see prices probably come
+down pretty dramatically. So I think that's really important.
+And APTA has a zero emission fleet committee that a former member, employee of RTD is the Chair of, I
+understand. So that might be something for us to follow as we move forward.
+I'd love to do this again in December, the first week of December, if we could, to get an update and also
+to get a plan on the integration of the 17 battery electric buses we're getting. Because I presume that if we
+anticipate them coming the first quarter of 2024, maybe, we ought to have an integration plan. And maybe
+we can get some updates on that and see where things are moving forward.
+
+I'd like to try to keep this top of mind. And for Directors, for policy considerations, yeah, we can't just say
+replace our fleet. We can't afford that. But maybe we say any time there's a bus order of all the diesel
+buses, maybe 5% of them are going to be electric. I mean, think about things like that to slowly but surely
+begin the integration process. Anyway, something to think about.
+Thanks again, General Manager Johnson, Mr. Worthen, all the other staff that were in attendance for
+support. We really appreciate you being here. Directors, thanks for your inquiring minds and your
+comments.
+And with no further hands raised, I'll say good night and good-bye.
+
+

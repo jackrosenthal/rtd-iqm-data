@@ -1,0 +1,91 @@
+## I. Government Relations Committee
+
+Chaired by Claudia Folska
+
+### A. Call to Order
+
+Committee Chair Folska called the meeting to order at 5:29 p.m.  She requested that the Board members not use their cell phones during the meeting.
+
+Director Anderson left early.
+
+Staff Present:               Bruce Abel, Bill Bell, Lacy Bell, Douglas Carrington, Jessie Carter, Rick Clarke, Susan Cohen, Chuck Culig, John Elias, Sherry Ellebracht, David Genova, Cheryl Holmes, Austin Jenkins, Erin Klaas, Marla Lien, Barbara McManus, Tony McCaulay, Doug MacLeod, Vivian Morales, Paula Perdue, Scott Reed, Steve Reilly, Bill Sirois, Kirk Strand, Walt Stringer, John Tarbert, Pauletta Tonilas, Bill Van Meter, Phil Washington
+
+Others Present:               Rob Andrews, Alex Brown, John Desmond, Tami Door, Sherman Hamilton, Aylene McCallum, Bill Mosher, Cathy Proctor, Roger Sherman, Cyndi Stovall, Mike Sullivan, Joe Triplett, Gary Van Dorn, Elbra Wedgeworth, Monte Whaley
+
+##### a. RTD/DDP/DUSPA Collaboration - Tami Door/Elbra Wedgeworth
+
+Committee Chair Folska welcomed Tamara Door, President and CEO of the Denver Downtown Partnership (DDP) and Elbra Wedgeworth, DDP Chair.  They gave an overview of who the partnership is, what they do, and what they do in collaboration with other entities.  Among items discussed were the different collaborations with RTD and Denver Union Station Project Authority (DUSPA), including the 16th St. Mall and Mall Ride, FasTracks, Wynkoop Plaza and Denver Union Station (DUS).
+
+Director Hoy asked to get a copy of the presentation.  Ms. Wedgeworth confirmed that the Board Office staff has a copy.
+
+Director Bagley thanked DDP for their part in this complex relationship.  DDP/RTD collaborative work demonstrates what can be done when groups sit down and exchange ideas.
+
+Director James said it was a pleasure working with DDP in the past and looks forward to working in the future with the DUS plazas.
+
+Director Rivera-Malpiede thanked DDP for having their door open and congratulated them on their outstanding staff.
+
+Director Deadwyler thanked the DDP on their fine presentation and reminded the staff to provide a copy.  She also mentioned she doesn’t know the background on the complicated history.
+
+Director Menten asked how she could get a copy of the DDP and the Downtown Denver Business Improvement District (BID) financials.  Ms. Door said she could make them available.
+
+Phil Washington, General Manager, explained that the term “complicated” is not used negatively.  He also thanked the DDP on behalf of the RTD staff.  He stressed that when putting services together in Denver, it is not just for the residents but also for the many people who work in the area.   He asked DDP if they had a percentage of workers that commute from the outlying areas.  Ms. Door referred the question to Aylene McCallum, Senior Manager for Transportation and Research at DDP, who said that she would need to look into the commuter survey for an actual number, but acknowledge that the average distance traveled is 14 miles.  Mr. Washington used this point to stress the importance of providing services for Denver really means providing services to anyone who visits.
+
+Committee Chair Folska asked about the quantity of the kiosks and the rent paid for them on the 16th St. Mall.  Ms. Door deferred the question to John Desmond, Executive Vice President of Urban Planning & Environment at DDP and Executive Director at BID.  He answered that there are 5-6 kiosks along the mall with a sliding scale monthly rent of $500 to $800 depending on location.  Push cars rent for $300 a month.  Director Folska asked if any kiosk were planned for Wynkoop Plaza.  Mr. Desmond said DDP/BID will wait a year before making a decision on that.  Ms. Door pointed out that there is turn over on the kiosks since some vendors have grown into brick and mortar locations.  Director Folska thanked the DDP and encouraged those in attendance to attend DDP fundraisers.
+
+##### b. APTA Legislative Conference Recap
+
+Committee Chair Folska called for a point of order and asked the Directors to please turn their phones off during the meeting as a sign of respect to the audience and reinforcing the transparency of the available information.  Director Anderson responded as a point of order and stated that she was using her phone in order to access the consolidated agenda as other Directors use their iPad for similar purposes.  She further commented on the phone being another tool in order to perform the job on behalf of the constituents and asked for a committee to discuss the tools allowed during meetings.  Committee Chair Folska asked that until then the Directors please refrain from using the phones during the meetings.
+
+Director Deadwyler commented that in the beginning Executive Committee member Kent Bagley made the suggestion that Directors not have cell phones in our Board meetings and it was decided by the Executive Committee at that time.  She does not think the Board needs to have a committee to decide as she thinks the Board should adhere to the original decision.  She stated that when the Directors got the tools, i.e. the iPad and Ultrabooks, it was decided that Directors would not use cell phones or be able to text each other with notes on the system to keep everything perfectly honest and everybody on the same page.  Director Deadwyler said that she thinks the Board should keep the status quo.
+
+Director Anderson got up from her seat to show Chair Sisk that she was viewing the Consolidated Agenda on her phone.  She stated that she was leaving if she could not look at an agenda during the meeting and would just be calling-in.  Director Anderson left the meeting at 7:55 p.m.
+
+Director Solano thanked Committee Chair Folska for her leadership and encouraged transparency during meetings.
+
+Committee Chair Folska welcomed Sherry Ellebracht, Government Relations Officer, to the meeting.  Ms. Ellebracht noted that the APTA Conference was covered during the last Board Meeting but left it on the agenda in case there were any more questions or comments.
+
+Director Deadwyler noted that she wasn’t present for the Board Meeting, but wanted to thank Ms. Ellebracht for the organization of the APTA conference.
+
+Director Walker mentioned that the conference was great due to the quality of the meetings and asked to pass on the comments to Patton Boggs.
+
+Director Solano thanked Patton Boggs for their work during the conference.
+
+Committee Chair Folska commended Patton Boggs on their performance, including the prepared response for Mr. Washington at the House Transportation and Infrastructure committee.
+
+##### c. Local Government Update - CRL Associates
+
+Ms. Ellebracht introduced Roger Sherman, Chief Operating Officer for CRL Associates, Inc.  Additional analysis on the polling information related to MPACT64 as requested by the Directors will be sent to the Board Office this week. He explained that the analysis is not divided by Districts but by North, Central, and South regions.  He will be at the Denver Mayor’s caucus meeting the next day discussing how the significant work in transportation in the past couple of years has had an impact on how the Colorado Department of Transportation (CDOT) looks at partnering with transit agencies as well as how to continue the conversation and utilize this coalition as the process grows.  He also mentioned that Sue Horn, Mayor for the town of Bennett, which is outside of the District, is in a recall process due to her participation on the Denver Regional Council of Government (DRCOG) and her perceived regionalism support for RTD.
+
+Director Solano thanked CRL Associates, Inc. for their work.
+
+Director Menten asked for a resource other than legislative counsel to get an overview of how much Highway Use Tax Account (HUTA) funding has been diverted to public mass transit in the state in the past 10 years.  Mr. Sherman replied that his team would have to look into it and that it may be something DRCOG has access to.   Director Menten asked for a timeframe when the Board could expect the additional polling data.  Mr. Sherman said in the next couple of days.
+
+##### d. State Legislative Update - Brandeberry~McKenna
+
+Ms. Ellebracht introduced Jennifer Brandenberry for the State Legislative update.  She mentioned there are 36 days left in the Legislative session as they finalize the budget.  Both the House of Representatives and the Senate may have a bit of wiggle room of $12 to $15 million, but overall most bills will not pass on due to lack of funding.  There are no bills initiated by RTD but a few do need to be cleaned up to negate any impact.  The Honorable Nancy Todd, Chair of the Senate’s Transportation Committee, is excited about RTD’s work and has toured the I-225 corridor and the DIA construction.  Ms. Brandenberry also mentioned the proactive process of the Northwest Area Mobility Study and how reaching out to local legislators for one-on-one meetings has been successful.
+
+Director Lubow thanked Ms. Brandenberry for the work with the legislators as history indicates they are not often kept in the conversation.
+
+##### e. Federal Update - Patton Boggs (Sherry Ellebracht)
+
+Ms. Ellebracht mentioned how overall it is difficult to create a bill in Washington D.C. at this time due to funding and/or timeframe.  There are no new bills projected before the November elections and there’s not a lot of hope for anything to go through during the “lame duck” session.  The anticipation was that HUTA would last until September but the new date is July.  Patton Boggs continues working on the DUS opening and are still working hard to get Mr. Anthony Foxx, Secretary of Transportation, to the event.  Colorado State Senators Udall and Bennett have reached out to him.
+
+Chair Sisk acknowledged the cancellation of the Transportation and Infrastructure Committee Special Panel focusing on Public-Private Partnerships (P3s) visit in April that was communicated to the Directors via email and noted how this opens up time to concentrate on the DUS opening.  He hopes Secretary Foxx would be able to make it.  Ms. Ellebracht said RTD extended the invitation to the Congressional Committee for the summer.
+
+### D. Other Matters
+
+Director James asked Marla Lien, General Counsel, if the RTD Board has a policy or Robert’s Rules of Orders addresses the topic of the attention of members of a committee or board during meetings, whether it would be documents, devices, other people or anything else.  Ms. Lien said she’s not aware of anything in Robert’s Rules that addresses devices specifically.  The general rule of a meeting is only the person called to speak is speaking.  Director James asked to confirm that there isn’t anything in neither place that has to do with the attention of the members of that board or committee.  She replied that there was none that she was aware of, even for napping.
+
+Committee Chair Folska recalled that when Chair Sisk was elected as Chair he asked the Directors to not use their phones during meetings. Director Solano encouraged Directors to speak on cue and not using their mobile devices.  He emphasized the need for common courtesy.  Director Rivera-Malpiede asked to clarify the use of iPads during meetings, as she uses hers to do research on the topic being discussed at the moment.  Committee Chair Folska suggested a conversation at the Executive Committee level and added that other councils do not allow the use of electronic devices because it is not known what they are used for.  Chair Sisk agreed to take the mobile devices conversation to the Executive Committee and since there is no policy on Robert’s Rule, the Board of Directors will have to come up with their own policy which makes way for the Directors to be informed while not having outside advice during meetings, thus developing trust and not having Directors feel alienated.  Director Daly asked Ms. Brandeberry about the use of mobile devices in legislative settings.  She answered that it is really up to the leadership of the meeting keeping in mind that public meetings are public and there is pressure for the members to pay attention and do their job.
+
+Director Walker directed Director Menten to CDOT for more information regarding funding of any agency using funds in any state.
+
+Director Deadwyler mentioned how Mr. Washington is held in high regard in Washington D.C. and shared that Mr. Washington and Jared Fleisher from Patton Boggs assisted her by carrying her scooter up a flight of stairs.
+
+Director Daly commended Mr. Fleisher on his support of Mr. Washington while at Washington, D.C., even sitting beside him during meetings.
+
+Ms. Ellebracht mentioned that Patton Boggs worked with RTD on a long list of questions, helping RTD to compile what was needed to be submitted correctly and promptly.
+
+### F. Adjourn
+
+Committee Chair Folska adjourned the meeting at 6:27 p.m. to the Planning & Development Committee.

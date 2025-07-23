@@ -1,0 +1,125 @@
+## I. Operations and Customer Service Committee
+
+Chaired by Jeff Walker
+
+### A. Call to Order
+
+Committee Vice-Chair Walker called the meeting to order at 7:30 p.m.
+
+Director Hoy was absent. Director Bagley left before the meeting began and Director Anderson participated via phone.
+
+Staff Present:              Bruce Abel, Tonya Anderson, Jesse Carter, Susan Cohen, Carolyn Conover, Heather Copp, Nate Currey, Terry Emmons, David Genova, Ann Marie Isaac-Heslop, Erin Klaas, Adrian Mabry, Doug MacLeod, Barbara McManus, Ed Neuberg, Tai-Shrae Parish, Kevin Parker, Scott Reed, Jenifer Ross-Amato, Jannette Scarpino, Zamy Silva, Henry Stopplecamp, John Tarbert, Bill Van Meter
+
+Public Present:              Aaron Epstein, Nadia Garas, Ann Herzenberg, Brandon Mattie, Scott McCarey, Petro Ramos, John Thompson, Joe Triplett, Gary Van Dorn, Dace West
+
+Committee Vice-Chair Walker noted that Director Anderson was the Chair of the Committee but as she was participating via phone he would be leading the meeting.
+
+#### 1. Revised RTD Transit Service Policies & Standards
+
+It is recommended by the Operations and Customer Services Committee that the Board of Directors approve the RTD Service Standards as revised July 2016, thereby adopting the updated policies and standards as included in Attachment B.
+
+Motion:              Director Sisk made the motion to move this item to the full Board at the July 19, 2016 Board Meeting.
+
+Director Deadwyler seconded the motion.
+
+Discussion:              Bruce Abel, Assistant General Manager of Bus Operations, reminded the Board that staff presented the revised Transit Service Policies and Standards at the last Operations and Customer Service Committee Meeting.  He reiterated that while Service Standards have been in place for a number of years, this action is to formalize the process through the Transit Service Policies and Standards document.  He indicated the changes had been sent to RTD’s various stakeholders and discussed with any interested parties.
+
+Bruce Abel noted that Committee Vice-Chair Walker did reach out to him to ask for clarification on item 2.4.4 – SeniorRide and Senior Shopper.  The language reads: “A minimum of 10 passengers per trip is required.  Scheduled events that do not generate reservations of at least 2 groups of 10 may not be rescheduled for the next 12 months.”  Bruce Abel explained the intent behind this language was that it be provided as guidance rather than prescriptive.  The intent is that staff cannot schedule trips but may elect to do so depending on circumstances.
+
+Director Deadwyler expressed concern about this language.  She asked staff if there was a way to make it clearer because interpretations can change as time goes on.  Bruce Abel said if it was agreeable to the Board, staff would work on clarifying this item prior to the Board Meeting on July 19.  The Board unanimously supported the suggestion.
+
+Director Francone asked for confirmation that discussions about the changes to the Transit Service Policies and Standards document had taken place with Jefferson County.  Jeff Becker, Senior Manager of Service Development, explained that the document had been sent to Jefferson County but they did not attend any meetings or provide any feedback.
+
+Director Francone asked if there were any significant changes to section 12 that outlines the Service Change process or if this is just articulating what already occurs.  Bruce Abel stated it is just putting into writing what has been the practice for quite some time.
+
+Director Francone asked if she was correct that a minimum warrant could be considered demand as it related to the criteria for shelters.  Bruce Abel explained a good way to look at it is determining at what point a shelter is warranted.  He said that is where the term comes from.
+
+Committee Chair Anderson thanked staff for revising the Transit Service Policies and Standards as having an updated policy helps RTD better work with our communities as our service continues to evolve.
+
+Director Folska inquired as to the minimum warrant required for a shelter to be installed.  Jeff Becker stated it was 40 boardings per day at a stop.  He said there could be other factors taken into consideration such as if the stop was in front of an assisted living community.  Bruce Abel stressed that this is guidance for staff but not the final determination.  He stated the budget would always be the final guidance; however, staff can still be creative in coming up with solutions to best serve the community.
+
+Committee Vice-Chair Walker declared the motion PASSED unanimously.
+
+##### a. Atch A - Highlights of Revisions to Transit Service Policies & Standards
+
+##### b. Redlined Service Standards - Proposed Revisions 2016
+
+##### c. Atch C - Service Standards 2016 Power Point
+
+#### 1. Proposed Fall 2016 Service Change
+
+RECOMMENDED ACTION
+
+No action required, for information only. The following service change proposal will be taken to the public for review and comment.
+
+Bruce Abel commented that service changes usually take place three times a year but due to the openings this fall the service changes are not necessarily sticking to the normal schedule.  He said the most notable service change would be the opening of the G Line and all the associated new bus feeder service.  He indicated there was no date out yet as staff continues to work with Denver Transit Partners.  This is the service change information staff will be taking out to the public for comment over the next few months.  He reminded the Board that the G Line service plan was approved some months ago.  This just outlines the additional changes that will take place as part of that runboard.
+
+Jessie Carter, Manager of Service Planning and Scheduling, shared that the proposal contains mainly system maintenance and small incremental increases in service outside of the recommendations for the G Line.  He pointed out that this proposal included the grant funded Route 62 again, which was previously postponed due to roadway construction issues.  He explained it was brought back into this proposal with changed language to note that the route would be implemented once the roadway was complete.
+
+Director Francone thanked staff for the changes to the 15 and 15L as well as the C Line.  She said having earlier service on the C Line will be a huge help in allowing her constituents to catch early morning flights.  She complemented the entire service planning and light/commuter rail teams.  She shared she has ridden from her home in Littleton to DIA several times and it has been nothing but a success.  She has heard nothing but good things from her constituents.
+
+Director Sisk thanked staff for the additional Flatiron Flyer service that was being added as part of the proposal.  He thinks they have shown a great reaction in terms of listening to the constituents.
+
+Committee Vice-Chair Walker agreed with Director Francone that the earlier C Line service will really help his constituents catch their early morning flights.
+
+##### a. Attachment A Fall 2016
+
+##### b. Atch B - r62 map
+
+#### 2. Request for Lafayette Fare Buy-Up (no back up)
+
+Bruce Abel shared that in late May staff met with the Mayor of Lafayette and Boulder County Commissioners regarding a grant application they were submitting to support a fare buy up demonstration for all riders that board at the Lafayette Park-n-Ride for a period of two months.  He said the goal of the demonstration was to evaluate the induced demand that would result from free fares.  In June, Lafayette and Boulder County were advised that the grant application was approved for 2017 funding during the high ozone days.  Bruce Abel stated since those discussions Lafayette and Boulder County have approached RTD about beginning the demonstration the Fall of 2016 but staff is reluctant given the number of things already happening.  He said staff would continue to have conversations with Lafayette and Boulder County.
+
+Director Menten asked if this meant fare would only be free on a day when a high ozone alert had been issued.  Bruce Abel explained the grant was submitted for use during the spring/summer high ozone period.  The fare would be free for a full two month demonstration period.
+
+Director Lubow stated she supports the fare buy-up on the part of Lafayette and Boulder County just as she supports the Longmont fare buy-up program.  She thinks increased transit use is wonderful, especially if it does not negatively impact RTD.
+
+Chair Tobiassen wondered what would happen if everyone from Boulder County decided to go to Lafayette to take the bus down to Denver Union Station.  Bruce Abel explained something like a fare buy-up would require an Intergovernmental Agreement (IGA) that addresses such things as who pays for increased demand, is there adequate rolling stock, etc.  He said all of those things would still need to be addressed with Lafayette and Boulder County in an IGA.
+
+Director Sisk said that he too was supportive of this idea.  He thinks it is an exellent opportunity to increase ridership while having Boulder County and Lafayette pay not just for current fare box revenue but actual ridership.
+
+Director Folska agrees this is an excellent idea.  It does not just cover the Route L but the Hop, Skip, Jump and everything in between.
+
+#### 3. "Meet in the Streets" Update (no back up)
+
+Bruce Abel reminded the Board that the Meet in the Streets events have begun.  He stated an email from the Downtown Denver Partnership was forwarded to all Directors inviting them to several walking tours that will be taking place to observe the activation activities that are happening.
+
+Director Folska asked staff to make sure that the cost of marketing, activation activities, etc. compared to actual sales and use tax revenue is taken into consideration as staff completes their analysis of the events.  She also wonders what long-term obligations RTD would have to continue to repave the mall if the 16th Street Mall Shuttles were permanently relocated.  Bruce Abel stated the impact on sales and use tax revenue during the activation events will be part of the evaluation criteria.  He said he is not sure how the long-term maintenance of the mall might look in the future but moving the Shuttles could have an impact on those conversations.
+
+Director Menten asked if there has been a substantial increase in the number of tickets or arrests that have been made on the Mall since increased enforcement has begun.  General Manager Genova shared that in his own personal experiences the appearance and activities have improved from his perspective.  He said that specific numbers would need to be requested from the Denver Police Department.
+
+#### 4. University of Colorado A-Line Update (no back up)
+
+Terry Emmons, Assistant General Manager of Rail Operations, shared that after the July 4th Holiday weekend average weekday ridership is at 17,300, which is very successful for the start of a new corridor.  He said on-time performance for Week 11 saw good improvements at 92%.  He recognized this is not quite the level expected but it is moving in the right direction.  Overall on-time performance is still hovering just under 90%.
+
+Terry Emmons commented that his team was just informed that DTP successfully completed testing of the wireless crossing improvements on non-revenue trains so they will begin upgrading the software in the revenue trains.  He said this should lead to significant improvement on the warning times for the at-grade crossings.
+
+General Manager Genova recognized Aaron Epstein, Ann Herzenberg and Nadia Garas from Denver Transit Partners (DTP) who were all in attendance this evening.
+
+Director Folska shared that she loved the University of Colorado A Line train.  She said it is like the party train as people riding are just so fun and lively.  She stated she seems to make new friends every time she gets on.  Director Folska recognized the snafus that have occurred were bad but when putting them into comparison with how frequently the train runs with no issues she thinks DTP and RTD are doing a wonderful job.  She cannot wait for the B and G Lines to come online.
+
+Director Francone agreed with Director Folska.  She commented that recently she rode the University of Colorado A Line with Directors Archuleta and Solano and it is true that you do make new friends.  She said it has a different vibe than the light rail services.  She thanked Terry Emmons for his quick response in making repairs to a damaged sign at the Mineral Station.  She asked if staff could provide a week-to-week overview of the ridership and on-time performance as it is very helpful for her when she receives questions out in the community.
+
+Director Deadwyler noted the University of Colorado A Line runs through her District and initially she was bombarded with complaints; however, she continued to encourage people to use the service and now they love it.  She said she does still hear complaints that the train is making people late to work so she hopes the on-time performance can improve to above 90% soon.
+
+Director Solano commented that on the trip referenced by Director Francone the conductor was not announcing the stops as the train left DIA.  He asked staff to look into this as it can be a detriment to our visually impaired riders.
+
+Chair Tobiassen shared that he asked General Manager Genova to have staff put together a technical briefing on how the system works for the University of Colorado A Line to cover things like Positive Train Control.  He said he would be working with staff to get a time on the schedule to cover this for any Director that would be interested.
+
+General Manager Genova indicated he wanted to recognize a group that is not talked about much and that is the University of Colorado A Line Security Officers.  He noted they are providing more than just security as they are also the second crew member as required by the Federal Railroad Administration.  He stated they have been working very hard and are really great ambassadors for our service.  He shared he often receives compliments about their courtesy and ability to answer questions.
+
+Committee Vice-Chair Walker said he also receives a lot of compliments for the Security Officers.
+
+### D. Other Matters
+
+Director Anderson noted this has been not only a particularly bad week for police officers but for transit security officers (TSOs) as well.  She asked staff to extend RTD’s condolences to the Dallas Area Rapid Transit (DART) Association for the loss of their transit security officer.  She also wants to make sure RTD’s TSO’s know how much the Board appreciates the protection they provide.  General Manager Genova shared that he had reached out to the DART General Manager as well as their Transit Police Chief.  He said an account had been set up for the officers family where people could make contributions if they are so inclined.  He said RTD would be following up with something else as well to let them know we continue to think about them as an entire agency.
+
+Director Francone thanked Don Young, Senior Manager of Treasury, for the quick turnaround time on fixing the jammed Ticket Vending Machine at the Downtown Littleton Station over the weekend.
+
+Director Menten asked for a refresher as to how we were alerting riders with strollers that they needed to be collapsed prior to boarding.  Bruce Abel explained that on the bus side passengers are notified via an automatic stop announcement prior to boarding that their strollers much be collapsed.  He said this is a result of the settlement agreement that was reach with the Colorado Cross Disability Coalition.  He noted one continual area that needs to be balanced is if an individual boards with an unfolded stroller but has a disability or the child has a disability.  That is an exception to the rule.  Terry Emmons explained that if someone is in the reserved area with a stroller and a wheelchair needs to board the operator is instructed to ask the passenger to move or collapse the stroller; however, not all passengers comply.  Director Menten indicated she was hearing this was an issue on the W Line and asked to speak with Terry Emmons offline.
+
+Committee Vice-Chair Walker expressed his gratitude for the people on the front line, the operators and TSOs.  He said they do a fantastic job of interacting with the customers and keeping the peace.  He asked staff to pass along his thanks.
+
+### F. Adjourn
+
+Committee Vice-Chair Walker adjourned the meeting at 8:35 p.m.

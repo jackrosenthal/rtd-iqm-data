@@ -1,0 +1,111 @@
+## I. Financial Administration and Audit Committee
+
+Chaired by Tom Tobiassen
+
+### A. Call to Order
+
+Committee Chair Tobiassen called the meeting to order at 5:30 p.m.
+
+Director Francone was absent.
+
+Staff Present:              Bruce Abel, Rolf Asphaug, Larry Buter, Gina Callahan, Carolyn Conover, Heather Copp, Lou Cripps, Nate Currey, Terry Emmons, Steve Gieske, David Genova, Lou Ha, Kim Heldman, Robbie Hunter, Erin Klaas, Marla Lien, Doug MacLeod, Brian Matthews, Barbara McManus, Andrew Merlino, Brenden Morgan, Paula Perdue, Scott Reed, Bill Sirois, Henry Stopplecamp, Monika Treipl-Harnke, Bill Weidenaar
+
+Others Present:              Brad Buchanan, Sarah Camacho, Bar Chadwick, Dre Chiriboga-Flor, John Desmond, David Gaspers, Eugene Howard, Pedro Ramos, Rebecca Tate, Joe Triplett, Gary Van Dorn, Jason Whitlock
+
+#### 1. Approval of Contract for Investment Advisor Services
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors authorize the Interim General Manager to execute all documents necessary to award a one year contract plus four one year optional extensions to Public Trust Advisors (PTA) to perform RTD’s investment advisor services.  The new contract would begin March 1, 2016 with a cost of up to $175,000 for the first year depending on the assets under management during the year.  The cost of the optional years is also dependent on the assets under management at that time.  The cost for all four option years is anticipated to be approximately $800,000, if executed.  Total cost for five years is anticipated to be $975,000.
+
+Motion:              Director Folska made the motion to move this item to the full Board at the January 19, 2016 Board Meeting.
+
+Director Solano seconded the motion.
+
+Discussion:              Heather Copp, Chief Financial Officer and Assistant General Manager of Finance and Administration, asked Brenden Morgan, Senior Manager of Debt and Investments, to review what RTD’s investment services cover and the process followed to select a firm.
+
+Brenden Morgan noted that RTD has utilized the services of Public Finance Management (PFM) for the past five years.  PFM provided advice in regards to investment of RTD’s operating funds and bond proceeds.  He explained that typical investments include US Treasuries, Corporate Bonds, Municipal Bonds, etc. as outlined by RTD’s Investment Policy.  He said with the end of PFM’s contract approaching, staff issued a Request for Proposals (RFPs) in November of 2015.  RTD received 11 proposals in total.  Through the evaluation process it was narrowed down to two top candidates: Public Finance Management (PFM) and Public Trust Advisors (PTA).  He explained that these firms were ranked equally so RTD issued a best and final offer to ensure the best possible pricing was obtained.  It was determined that PTA had the best overall proposal.
+
+Brenden Morgan stated that funding for the first year of this contract was included in the 2016 Budget.  Funding for the four option years would need to be appropriated in future RTD budgets.
+
+Director Archuleta inquired how much RTD made from investments in 2015.  He also wondered how much RTD pays for management of these investments.  Brenden Morgan stated that 2015’s report would be available next month.  He said in 2016 RTD expects to earn about $1.5 million.  He stated that RTD would pay up to $175,000 for investment advisor services in 2016.  He explained that the way the contract is structured is that RTD pays three and a half hundredths of a percent of any assets under PTA’s management.  Director Archuleta expressed his surprise that staff would ask the Board to approve a recommendation when they could not tell the Board how much RTD made last year.
+
+Director Bagley shared that PFM recently made a presentation to the Denver Union Station Project Authority Board, which he was very impressed by.  He asked if his understanding that the two proposals were fairly similar in scope and technical ability was correct and that the request for a best and final offer brought the decision down to a matter of cost.  Brenden Morgan said that was generally correct.  The Review Committee looked at the proposals without having access to the cost information; the Committee just rated the proposals based on their technical merit.  Once Procurement calculated the scores to include cost, Public Finance Management and Public Trust Advisors were tied.  Brenden Morgan explained that the request for a best and final offer was a way for the firms to move their proposals one way or the other in the ranking.
+
+Director Sisk noted that he had some of the same concerns raised by Director Archuleta.  He requested that staff provide the Board with background as to who comprises the PTA and PFM teams and about the firms as a whole.
+
+Director Anderson pointed out that there are certain requirements as to how public monies are invested in the State of Colorado.  She wondered if PTA complies with those requirements.  Brenden Morgan confirmed that RTD is restricted by State Statute and further restricted by the RTD Investment Policy as to how our funds can be invested.  He said that PTA is very familiar with the Colorado State Statutes as they are based in Colorado and operate the largest government investment pool in the State.
+
+Director Anderson asked if she was correct in remembering that the Investment Policy was recently approved by the Board.  Brenden Morgan stated that the Board approved the Policy in November of 2015.
+
+Director Deadwyler inquired if her understanding that there was not a company managing RTD’s investments last year was correct.  Brenden Morgan stated that Public Finance Management (PFM) is the company RTD has utilized for the past 5 years.  Director Deadwyler asked what the projected earnings were for 2015 and how much RTD paid PFM.   Brenden Morgan said that the budget projected close to $1 million in earnings and RTD paid PFM approximately $300,000.
+
+Director Lasater commented that while staff may not have the earnings for 2015, the projected versus actuals for the prior four years should be available.  He asked staff to provide this information prior to the Board Meeting.
+
+Heather Copp pointed out that the amount paid to the investment advisor was not related to earnings but related to the value of the assets managed by the firm.
+
+Committee Chair Tobiassen commented that it is important to remember that the firm is not helping RTD invest in stocks or mutual funds; these are very low-risk and low-interest rate investments.
+
+Marla Lien, General Counsel, stated that it is important to note that many times the interest RTD is allowed to earn is capped.  She explained that it is a very complicated set of investments to ensure we meet arbitrage regulations.
+
+Committee Chair Tobiassen declared the motion PASSED.
+
+#### 1. November 2015 Monthly Financial Status Report
+
+Doug MacLeod, Controller, noted that the November Monthly Financial Status Report was included in the January 12, 2015 Financial Administration and Audit Committee Agenda Packet.
+
+Doug MacLeod reminded the Board that in October, sales and use tax was 5% under budget; however, in November it was 3% over budget.  He explained that in doing some checking with the Department of Revenue staff learned that there was a timing issue with some of the reporting that lead to the variances.  He stated that year-to-date sales and use tax was 0.8% under budget.  Doug MacLeod pointed out that ridership continues to be under budget, which is following the same trend that staff has seen for around the last 6 months.  He said that even through ridership was down fare revenue improved for the month of November.
+
+Director Bagley inquired if staff had any anecdotal information that might give them a perspective as to how the revenue shortfall to budget might be at the end of the year.  Heather Copp stated that staff is hoping December will hold its own or be slightly better.  She said if we can end the year around $5 million under budget we will be in good shape.  Staff has been planning to accommodate a $5-10 million shortfall.  She commented that staff would continue to present the estimated impact of fare revenue and sales and use tax shortfalls to the budget as there was already concern for 2016.
+
+Director Lubow said she surmises that ridership is going down because gas prices are so low so more people are driving.  She noted this might continue indefinitely.  She wonders how staff takes this into account.  Heather Copp stated that there is an indirect correlation between gas prices and ridership; however, in 2016 it will be hard to isolate the factors that are impacting ridership with gas prices being low, the fare increase and opening of all of RTD’s new services at the same time.  She said with more choices of where to travel there may be an increase in ridership even with lower gas prices.
+
+##### a. 113015 RTD MFS FINAL
+
+#### 2. Smart Card Project Update
+
+Heather Copp reminded the Board that the public Smart Card pilot program went live on January 1st, along with many other initiatives.  She asked Kim Heldman, Senior Manager of Information Technology, to provide the Board with an update.
+
+Kim Heldman began by recognizing what a tremendous team effort everything had been.  She thanked all of the people who worked tirelessly over the holidays to make this a success.  She shared that Day Pass printers have been installed and are operational on all fixed-route buses.  Kim Heldman noted that RTD sent out 1,000 vouches for Smart Cards and through Sunday, January 10, 265 Smart Cards had been issued at RTD Sales Outlets.  The programing for the new fare structure across the entire system went live on January 1.  Additionally, new platform validator layouts and stickers were updated to address recommendations made by the National Federation of the Blind of Colorado.   Finally, the real-time data feed for third party developers went live over the New Year’s weekend.
+
+Director Archuleta shared that he heard some drivers were putting bags over their fare/ticketing machines and letting people ride for free.  Kim Heldman said she believes this was related to a handful of issues in the validators for the Smart Cards.  She reiterated that this was not system wide and had no impact on revenue.
+
+Director Archuleta asked how the new printers were working.  Kim Heldman explained that there had been some issues as well, but again, it was not a widespread issue.  The issues were very typical of a project of this size and magnitude.
+
+Director Walker shared that he rode the bus almost every day the previous week and noticed everything moving very smoothly.  He said there were some stalls when people were trying to figure out what to do but overall it was a very seamless transition.
+
+Interim General Manager Genova thanked the staff that worked on all of RTD’s changes over the holidays as there were many people involved.
+
+### D. Other Matters
+
+Heather Copp asked Bruce Abel, Assistant General Manager for Bus Operations, to speak to the Board about the driver shortage issue and its impact on service.
+
+Bruce Abel noted that, as has been discussed for several months, RTD has been experiencing some very meaningful labor shortages for both fixed route and paratransit operators.  He reminded the Board that staff continually tracks the hours of lost service.  RTD provides approximately 10K hours of service on an average weekday.  Through the first six months of 2015 we were averaging between 7 and 14 hours of lost service per month.  Bruce Abel pointed out that this is a percentage so small Excel cannot even calculate it.  However, beginning in June/July RTD began to see operator shortages manifesting themselves in a slight increase in lost service hours.   At this time staff began to have conversations about things like signing bonuses and other retention strategies.
+
+Bruce Abel explained that the hours of lost service grew to 150 hours in October and 500 in November, meaning that Excel could now calculate the percentage of hours of service lost at two tenths of one percent.  He commented that while this is a very small percentage it is still not acceptable.
+
+Bruce Abel reiterated that steps have been taken to increase RTD’s recruitment efforts; however, it is also a retention issue.  He said that steps have also been taken to address issues such as less desirable shifts.  Finally, in addition to recruitment and retention issues, there is also the issue of the legalization of marijuana.  He said that anecdotally he can tell the Board that when 10 people are given tentative offers of employment only 3 will get hired.  He stated that with the improving economy recruitment will continue to be a struggle but staff is pulling out all the stops.
+
+Bruce Abel recognized that there have been questions as to the process staff follows when dropping a run.  He explained that dispatch will first look to find routes that have the highest service frequencies.  Also, staff continues to try and find another operator so that perhaps only one hour of service is lost on an eight hour run.
+
+Director Menten commented that while the percentage of lost service hours may be small, to the passenger that does not get picked up it is a big deal.  She inquired how many people will become long term employees out of every 20 that complete training.  Bruce Abel stated that in reviewing separations between July and September, over half of those leaving had been employees for less than a year.  He explained that getting operators to stay past the first year was one of the things staff was trying to address through deferred signing bonuses, incentives for split shifts, etc.
+
+Director Menten asked how many additional operators RTD needed to ensure we did not have any dropped runs.  Bruce Abel stated we would need about 6 classes of 20 trainees to get back to where staff wanted to be based on current attrition rates.
+
+Director Menten wondered about the maximum number of trainees that could be in one class.  Bruce Abel said the current maximum was 20; however, if staff had 40 people ready to start training they would find a way to train them all.
+
+Director Lubow asked how RTD could better communicate with our riders if their route was dropped.  Bruce Abel explained that using our current Rider Alert system was a challenge as Rider Alerts would go to all riders of the route; however, since staff continues to try and fill dropped runs, a route that is dropped at 5:00 a.m. may have a driver for the 6:00 a.m. trip.  Director Lubow asked staff to think about how we could improve the alert process because if a person is waiting for a bus that does not show up it is really a bummer.
+
+Director Lubow said she heard from a constituent that Longmont is last on the list for replacement drivers if a route is dropped because Longmont is not a highly dense area.  Bruce Abel stated that he cannot say that is accurate but knows that Longmont is not having an issue with lost hours of service as is being experienced in other parts of the District.
+
+Director Hoy informed the Board that he was recently speaking with Director Francone, who was unable to attend this evening, about Route 77.  He said that she feels this is a route that is continually dropped and is very concerned about it.  Gina Callahan, Acting Deputy Assistant General Manager of Bus Operations, stated that dispatch does not want it to appear that any route is being picked on; however, after evaluating the frequency of service, the route that has the longest service hours is the route that gets filled first.  For example, if one dropped route is only one hour and another is four, dispatch will try to fill the four hour route first.  She explained that this can make it seem as if one route is being affected more than other routes, such as Route 77.  When a trend develops staff will focus their efforts on that route to address the issue but it is really a juggling act.
+
+Director Solano noted that in the telecom arena, which is where he comes from, there was a group of technicians on pager duty in case another technician called in sick or did not show up.  He wondered if staff had considered something similar.  Bruce Abel explained that RTD did have extra operators come in to be “on call” but unfortunately due to the labor shortage the labor pool is still not large enough to cover all of the needs.  He stated that the issues had more to do with the number of operators as opposed to the processes.  Director Solano thinks there is a way that all the dropped routes can be covered.
+
+Committee Chair Tobiassen believes the real time bus data can be very helpful if a run is dropped as the passenger can see when the next bus will be arriving to make the appropriate decision about what to do next.  Bruce Abel noted that there are still issues with the real time data if a run is dropped as it will just display the scheduled route time; however, this is something that Bus Operations will work with IT and Communications to see what can be done.
+
+Director Bagley shared that, as the Board is probably aware, he has been serving on the Denver Union Station Project Authority along with Marla Lien on behalf of RTD.  He said he wanted to report on some really outstanding figures he just received.  In 2009 CBRE, a commercial real estate firm, made projections during the height of the recent recession as to what kind of revenues would come forth for sales and use tax collections as well as property taxes.  He stated that property tax collections are pledged at approximately $12.1 million or 274% over the 2009 projections for 2016.  Additionally, sales and use tax collections were 617% greater than the 2009 projections.  He thinks these are fantastic numbers and noted that there are estimates that some of the loans could be paid by 2026, which is 15 years earlier than first thought.
+
+Director Folska asked Director Bagley to email a copy of the statistics to the Board.  He said he would have staff send the information.
+
+### F. Adjourn
+
+Committee Chair Tobiassen adjourned the meeting at 6:29 p.m.

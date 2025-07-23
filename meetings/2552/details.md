@@ -1,0 +1,707 @@
+## I. Government Relations Committee
+
+Chaired by Claudia Folska
+
+### A. Call to Order
+
+Committee Chair Folska called the meeting to order at 5:30 p.m.
+
+Director Lasater was absent.  Directors Anderson and Deadwyler participated via phone.
+
+Staff Present:               Bruce Abel, Tina Aragon, Rolf Asphaug, Chessy Brady, Gina Callahan, Jeff Cluphf, Heather Copp, Lou Cripps, Nate Currey, John Elias, Sherry Ellebracht, Terry Emmons, John Ewy, David Genova, Doug Gragg, Erik Haugen, John Hersey, Brian Iacono, Ali Imansepahi, Ann Marie Isaac-Heslop, Kate Iverson, Beverly Lindsay, Adrian Mabry, Michelle Madrid, Doug MacLeod, James Maguire, Barbara McManus, Jeff Miessel, Tai-Shrae Parish, Kevin Parker, Mace Pemberton, Gary Schear, Roger Sherman, Zamy Silva, Bill Sirois, Dana Steele, Errol Stevens, Henry Stopplecamp, Greg Straight, Rebecca Tate, Doug Tisdale, Bill Van Meter, Jyotsna Vishwakarma, Kate Williams, Susan Wood, Clayton Woodruff
+
+Others Present:               Jenifer Brandeberry, Mike Dino, Patty Doersch, William Gross, Anne Miano, Roger Sherman, John Thompson, Joe Triplett, Gary Van, Megan Wagner
+
+### B. State of the District Address - General Manager Genova
+
+General Manager David Genova presented his State of the District Address.  In his presentation he discussed his managerial structure, accomplishments, future goals, challenges of each of the following units:  Bus Operations, Capital Programs, Communications, Finance and Administration, General Counsel, Planning, Rail Operations, Safety, Security and Asset Management, and the Executive Office.
+
+Bus Operations
+
+2016 Accomplishments
+
+- Implementation of US 36 Bus Rapid Transit (BRT) Flatiron Flyer service between Boulder and Denver.
+
+- Implemented restructured bus service network to accompany the opening of the University of Colorado A Line commuter rail service between Denver Union Station (DUS) and Denver International Airport (DIA).
+
+- Introduction of Zero Emission all-electric BYD Mall shuttle buses
+
+2017 Goals
+
+•              Implement restructured bus service network to accompany the opening of the G Line commuter rail service between Wheat Ridge, Arvada and DUS.
+
+•              Complete the replacement of the 16th Street Mall shuttle buses with BYD all-electric Mall shuttle buses.
+
+•              Develop draft service plan, seek public comment and seek Board approval of restructured bus services to accompany the opening of the N Line commuter rail service in 2018.
+
+2017 Challenges
+
+•              Meet staffing needs in all areas of operations to respond to changing service needs, demographics and succession planning needs.
+
+•              Improve service delivery to meet growing mobility needs and improve on-time performance while staying within constrained financial resources.
+
+•              Address changing technology and its potential for integration into the public transit service offering.
+
+Capital Programs
+
+2016 Accomplishments
+
+•              Completed construction and testing for the openings of the Flatiron Flyer, University of Colorado A line, and B line; the R line construction and testing nearly complete; the University of Colorado A line received the international Global AirRail Awards “Travelport Project of the Year”.
+
+•              Issued Notice to Proceed for construction of the Southeast Rail Extension (construction is on-going).
+
+•              Implemented state of good repair projects for the existing light rail corridors, bus system and facilities as outlined in the SBP.
+
+2017 Goals
+
+- Place the G Line and R Line in service and institute Quiet Zones on the commuter rail lines.
+
+- Continue to work with CCD and the Downtown Stakeholders on developing solutions for the 16th Street Mall.
+
+- Continue to implement state of good repair projects for the existing light rail corridors, bus system and facilities as outlined in the current SBP.
+
+2017 Challenges
+
+•              Address project management challenges of managing all projects of our capital program safely, within budget, on-schedule and with high quality.
+
+•              Successfully work with stakeholders to meet their expectations while maintaining the defined scope, schedule and budget of the projects.
+
+•              Begin transition from management of a large-scale capital construction program to a maintenance program for a large multimodal transit infrastructure in a state of good repair.
+
+Finance & Administration
+
+2016              Accomplishments
+
+- Address project management challenges of managing all projects of our capital program safely, within budget, on-schedule and with high quality.
+
+•              Successfully work with stakeholders to meet their expectations while maintaining the defined scope, schedule and budget of the projects.
+
+•              Begin transition from management of a large-scale capital construction program to a maintenance program for a large multimodal transit infrastructure in a state of good repair.
+
+Technology-related
+
+•              RTD IT systems cybersecurity assessment, and light rail SCADA system cybersecurity assessment
+
+•              Real-time data for bus and light rail
+
+•              Upgraded trip planner
+
+•              Stored value pilot program went live on Jan.1, 2016.  As of Nov. 20, 2016, 1,920 have been issued with a total value of $313,100 loaded and 113,540 boardings.  As part of this program, this application was moved to a new hosted environment which was completed on time.  New iPhones with new eForce and SMT programming to replace the aging HSMRs were implemented as part of this program in June.
+
+2017 Goals
+
+•              Implement Mobile Ticketing.
+
+•              Increase and improve recruitment efforts for bus and light rail operators.
+
+•              Develop SBP, APE, Financial Plan and 2018 Budget that address Board goals of building reserves, meeting service needs, and address State of Good Repair and CBA wages/trust needs.
+
+2017 Challenges
+
+•              Recruitment
+
+•              Collective Bargaining Agreement Negotiations
+
+•              Fiscal sustainability
+
+-              Strategic Budget Plan (SBP)/ Annual Program Evaluation(APE)/ Financial Plan / 2018 Budget that address Board goals of building reserves, meeting service needs within means, and address State of Good Repair and CBA wages/trust needs within very tight fiscal constraints.
+
+-              No ability to borrow or bond.
+
+General Counsel
+
+2016 Accomplishments
+
+•              Created and integrated RTD’s new Information Governance and Management Division.
+
+•              Settled the Colorado Cross-Disability Coalition class action lawsuit challenging the design and operation of RTD’s light rail vehicles.
+
+•              Provided extensive legal work to open the University of Colorado A Line, B Line, and Flatiron Flyer plus several parking garages; and to ready the G and R Lines for opening.
+
+2017 Goals
+
+•              Complete new procedures, training, templates and terms/conditions for technology contracts.
+
+•              Finish drafting and implementing a comprehensive 5-year plan to make RTD proactive in information governance and enterprise content management.
+
+•              Develop and implement web-based Colorado Open Records Act intake procedures and accident/incident report processing.
+
+2017 Challenges
+
+•              Increased numbers and complexity of lawsuits and claims concerning personal injury, employment, ADA, contracts, and construction.
+
+•              Managing an ever-expanding universe of information created by RTD and managed with various information systems, making it difficult to gather and produce data and records.
+
+•              Creating and managing a large number of projects to support the department’s missions, including ensuring necessary training of RTD staff on new policies and procedures.
+
+Planning
+
+2016 Accomplishments
+
+•              Award of $92 million Southeast Rail Extension Small Starts Grant Agreement on April 27, 2016.
+
+•              Completed rigorous analysis of potential for FTA New Starts/Small Starts grant funding of the Central Rail Extension, Northwest Rail, North Metro Completion and Southwest Rail Extension and presented results to stakeholders and Board.
+
+•              Completed the Parking Pricing Technical Analysis and presented study results to the Board.
+
+2017 Goals
+
+•              Issue Request for Proposals, retain a consultant, and begin the District-wide Arterial BRT Feasibility Study.
+
+•              Procure a consultant team and initiate the NEPA and Preliminary Engineering process for arterial BRT on State Highway 119.
+
+•              Initiate the Pass Program Study and convene the Pass Program Working Group.
+
+2017 Challenges
+
+•              Obtain NEPA clearance for the 15L Route Improvements project.
+
+•              Track and pursue all federal, regional, and non-profit funding opportunities (grants, etc.) to support RTD’s goals and objectives.
+
+•              Managing expectations for RTD’s ongoing role in TOC issues including affordable housing, first and final mile connections, gentrification, and joint development opportunities.
+
+Rail Operations
+
+2016 Accomplishments
+
+•              Rebuilt the aging infrastructure with full replacement of NB Speer\Stout and 13th Ave. grade crossings for State of Good Repair rehabilitation.
+
+•              Successfully procured rail track equipment to correct the existing degradation of track ride quality conditions.
+
+•              Provided rail operations oversight to open and oversee the operations of the University of Colorado A line and B line; and completed integrated testing and preparation for the R line to provide a safe and reliable light rail operating system.
+
+2017 Goals
+
+•              Appropriately staff all Rail Operation divisions to ensure that we are able to operate and maintain the existing system properly and support the expansion of the new rail corridors.
+
+•              Install and implement the advance railway safety warning system for Wayside Workers.
+
+•              Complete system upgrades on selected system infrastructure elements to assure maximum operational safety, efficiency and on-time service delivery.
+
+2017 Challenges
+
+•              Continue Light Rail State of Good Repair vehicle overhaul project and targeted track and system rehabilitation work in downtown Denver.
+
+•              Recruit, train and retain the additional rail vehicle operators necessary to operate the existing corridors and also support the additional corridors.
+
+•              Continue to obtain funding for State of Good Repair rehabilitation work for the aging infrastructure.
+
+Safety, Security and Asset Management
+
+2016 Accomplishments
+
+•              Received two national security industry awards/recognitions
+
+•              Grand Platinum Award from Security Technology Industry for Security Command Center - Command and Control Technology Project
+
+•              Department of Homeland Security/Transportation Safety Administration Gold Award for excellence in security programs.
+
+•              Compliant with new FTA Transit Asset Management Plan Rule Making - well ahead of schedule.
+
+•              Administered safety and security certification process and provided safety and security oversight to open and oversee safety and security of Flatiron Flyer, the University of Colorado A line and B line; and working toward completion of the safety and security certification process for the R line and G line.
+
+2017 Goals
+
+•              Complete the integration of light rail and commuter rail Command Centers for full redundancy and enterprise control from either location.
+
+•              Initiate transition of RTD System Safety Plan to FTA mandated Safety Management System; provide oversight of FRA  mandated Part 270 System Safety Plan Transition for commuter rail.
+
+•              Begin implementation of new Enterprise-wide Hazard/Close Call Reporting System for light rail and commuter rail.
+
+2017 Challenges
+
+•              Meet increasing security needs with the opening of additional light rail and commuter rail lines.
+
+•              Implement new safety requirements with the adoption of Safety Management System framework.
+
+•              Continue efforts to gather data and develop analysis systems for Safety and State of Good Repair processes.
+
+Executive Office: Materials Management
+
+2016 Accomplishments
+
+•              Solicited and awarded 5,293 Purchase Orders or Contracts totaling $304,953,559.
+
+•              Received $500,440 revenue from public auction of surplus and obsolete District property.
+
+•              Achieved a 1.17% District wide Stock out level (Performance Measure Goal is 1.5%).
+
+2017 Goals
+
+•              Continue to award and administer contracts to support RTD Base System and FasTracks.
+
+•              Maintain District-wide stock out level below 1.5% (Performance Measure Goal).
+
+•              Successful implementation of a new Inventory Forecasting Software.
+
+2017 Challenges
+
+•              Maintain District wide stock out level below 1.5% (Performance Measure Goal).
+
+•              Implementation of Inventory Forecasting Software.
+
+•              Continue to monitor diesel fuel futures pricing and make recommendations to achieve budget certainty at competitive market rates.
+
+Executive Office: Civil Rights
+
+2016 Accomplishments
+
+•              Completed the FTA Triennial DBE Goal and Methodology for FFY 2017-2019 proposing a 24% agency-wide DBE goal.
+
+•              Base system and FasTracks DBE/SBE/WIN goals have been achieved for 2016, and many FasTracks projects have exceeded their project goals.
+
+•              RTD was a major participant of the biggest 4-day National ADA Symposium in the nation.
+
+2017 Goals
+
+•              Develop and implement a Diversity class which will be required for all RTD employees.
+
+•              Implement a robust revised ADA complaint procedure, and partner and coordinate an inter-agency collaborative Small Business Event.
+
+•              ADA committee structure review and revision.
+
+2017 Challenges
+
+•              FasTracks contracts ending in 2017: reduction in consulting resources, executing DBE/SBE and labor compliance close-out reports and preparing all documents/files for federal reviews and audits.
+
+•              Transitioning the WIN Program from a construction focused community workforce development training program to assisting and developing training programs and initiatives to support operations and maintenance including RTD’s internal recruitment needs.
+
+District-wide Challenges and Priorities for 2017
+
+•              Fiscal sustainability.
+
+•              Workforce.
+
+•              Wages/CBA/trusts.
+
+•              State of Good Repair (funding).
+
+•              Aging bus facilities.
+
+•              New regulations (safety).
+
+•              Identifying funding to complete FasTracks.
+
+•              G and R line openings.
+
+2017 Agency Strategic Goals
+
+•              Board adopted
+
+•              Fiscal Sustainability
+
+•              Workforce/Human Capital
+
+•              Operations and Maintenance/State of Good Repair
+
+General State of the RTD District
+
+•              Historic year opening 3 corridors on time and within budget, all exceeding ridership expectations.
+
+•              Safety remains the District’s #1 priority.
+
+•              Service is our main value.
+
+•              Agency continues to perform at a high level meeting 89% of performance measures.
+
+•              Operating within budget, on time, meeting goals, received national recognition/awards.
+
+•              Financially stable by managing competing priorities.
+
+•              Transparent, collaborative, partner.
+
+•              Great team of RTD employees.
+
+•              Continued focus on continuous improvement and innovation.
+
+•              Positioned well to continue to meet goals and deliver service.
+
+Director Anderson stated it was a great state of the district and she’s proud to work for RTD, that it’s a great organization, and she’s looking forward to next year.
+
+Director Deadwyler agreed that it was a wonderful state of the district address.  She said that RTD has a lot of challenges coming up next year and asked that staff pay more attention to the Access-a-Ride program and its patrons.  She stated that there are things that need to be prioritized and worked on.
+
+Director Bagley stated that the Board of Directors are part of the RTD team, and they are just as responsible for the challenges the agency faces.  He remarked that sometimes the Board gets fixated on the larger issues such as the Smart Cards and the University of Colorado A-Line.  He noted that General Manager Genova’s State of the Agency Address shows the bigger picture of all the things that are going on within the agency.
+
+Director Bagley asked General Manager Genova when he decided to hire a COO for RTD.
+
+General Manager Genova responded that it has been on his mind for a long time and that with the need to integrate bus and rail operations under one area, a COO is ideal.  He stated that he wasn’t able to include this position in the 2016 budget but now he has the opportunity to do so, with the timing of the budget cycle.
+
+Director Archuleta asked what our shortfall of drivers is.
+
+Bruce Abel responded that we are approximately down 70-75 drivers, though the actual number varies on any given day due to call-offs, FMLA, etc.
+
+Director Walker emphasized the importance of continually communicating with our customers about any problems that arise and affect their commute.  He also mentioned that RTD’s Twitter account is timely with information.  He thanked General Manager Genova for the presentation and the great job that he is doing.
+
+Chair Tobiassen stated how impressed he was with how RTD’s services have been enhanced over the past eight years.  He stated that when he first started he had a dream list and most of them have come to fruition. He specified that the R line through Aurora was on that list.  He gave thanks to Lisa Trujillo and Pauline Haberman for all their hard work and dedication to that project.  Chair Tobiassen also showed his appreciation to the Aurora Police Department for their positive involvement with RTD to provide security on the bus/rail lines. He also recognized that four of our mall shuttles have switched over to electric fleet; with more to come.  Included on his dream list was the Smart Card and now it’s a reality.  He also remembers suggesting RTD open up a Facebook account and now we have one with thousands of followers. He also mentioned that the internal auditing team does a great job and suggested cyber auditing. he emphasized how great it was working with the staff at RTD.
+
+Director Lubow stated that the presentation was informative and positive.  She asked if the new Manager of Continuous Innovation position would be the person to oversee new technologies.
+
+General Manager Genova replied that the new managerial position would be responsible for working with employees to make process improvements, engage and empower employees and work on efficiencies that drive innovations.  Information Technology would be tasked with overseeing new technologies and the new COO will be responsible for looking for programs that can integrate and complement existing services.
+
+Director Lubow also mentioned a group in Los Angeles named Extraordinary Innovations who seek out and study innovative forms of transportation.  She suggested that RTD also plan ahead for the next ten years.
+
+General Manager Genova stated that the Extraordinary Innovations team is working on program delivery and how they can deliver transportation projects.
+
+Director Lubow stated that she is in full support to finding funding for the unfunded projects and to start moving forward on those projects to their completion and to continue to work through affordable fares to enable people to have better access to our system and to offer support to those who need it.
+
+General Manager Genova advised that affordable fares will be represented in the pass program working group.
+
+Director Solano stated that he liked the idea of making diversity training mandatory for all employees.  He also asked when RTD would start collective bargaining negotiations; once the new officers are elected.
+
+General Manager Genova stated that they will start having conversations in mid-2017.
+
+Director James echoed the sentiments of his colleagues on a job well done. He is looking forward not being a member of the RTD board in the future and being comfortable in being a Denver citizen.  He emphasized that he admired the way the organization has worked through challenges.  He also stated that he agrees with Director Lubow regarding the fact that RTD needs to embrace technology.  Lastly he encourages us to partner with our peers in the community.  Work towards helping our lower income customers that have difficulty using our mobility by partnering with other organizations; by encouraging development of housing to compliment the transportation and jobs so customers can afford the housing.
+
+Director Folska asked if autonomous cars will be eliminating the need of public transportation entirely.
+
+General Manager Genova said he believes that they will be used more to assist with local routes and shorter trips.  He stated that this is an opportunity to build in some efficiencies; however, the biggest challenge will be affordability.  General Manager Genova also stated that the downside to autonomous vehicles is that they will cause heavy congestion and there are regulatory environment hurdles.
+
+Bruce Abel stated that it is important to look selectively at market segments to find where the right niche is to plug them into. Hel believes they will not be a replacement but will play a viable role in future mobility.
+
+Director Sisk stated that the University of Colorado A-Line and G-Line need to be at the forefront of our operations and should the agency’s first priority.
+
+Director Hoy commented that he was very pleased with what he has heard.  He also wanted to thank all the staff at RTD.  He indicated that he was looking forward to next year to see these current projects come to fruition and new projects get started.
+
+Director Anderson agreed with Director Sisk about the fixing the University of Colorado A-Line and opening the G-Line.
+
+Director Solano stated that the staff does a great job and they do great things and believes that hiring the Manager of Continuous Innovations is a brilliant move and that this person will be a good asset to the planning division.
+
+Director Folska stated that RTD needs to manage expectations and be proactive in our approach.  She also thanked staff for their hard work.
+
+#### 1. Local Government Liaison Services
+
+It is recommended by the Government Relations Committee that the Board of Directors authorize the General Manager to enter into Contract No. 16-DO-025 for Local Government Liaison services with CRL Associates, Inc. (CRL) for three years (January 1, 2017 through December 31, 2019), at a cost of $102,000 per year, and for two (2) additional one-year options to renew at prices specified in the Contract, each option period contingent upon approval by the Board of Directors pursuant to the Contract Award agreement.
+
+Motion:               Director Tobiassen made a motion to move this item to the full Board at the December 20, 2016 Board Meeting.
+
+Director Solano seconded the motion.
+
+Discussion:               Director Francone stated that CRL Associates have done an excellent job and she appreciates the services that have provided
+
+Director Solano agrees that CRL Associates have done a stellar job.
+
+Director Bagley also appreciates the hard work they have done for RTD.
+
+Committee Chair Folska declared the motion PASSED.
+
+#### 2. Federal Liaison Services
+
+It is recommended by the RTD Government Relations Committee that the RTD Board of Directors authorize the General Manager to enter into an agreement for federal liaison services with Squire Patton Boggs LLP to exercise a one-year option (January 1, 2017 through December 31, 2017) to extend Contract No. 14-DX-001, at a cost of $264,000.  Funding for this contract is included in the 2017 budget.
+
+Motion:               Director Sisk made a motion to move this item to the full Board at the December 20, 2016 Board Meeting.
+
+Director Bagley seconded the motion.
+
+Discussion:               Director Francone said that Squire Patton Boggs have been instrumental in helping RTD negotiate rules and regulations and guidelines.  She said the wealth and knowledge of their team is phenomenal.
+
+Director Solano echoed Director Francone’s sentiments and appreciates them keeping the Board updated.
+
+Director Anderson stated that RTD needed people in Washington working for the organization.
+
+Director Folska appreciates the partnership with all our government liaisons.
+
+Committee Chair Folska declared the motion PASSED.
+
+#### 1. Local Update - CRL Associates, Inc.
+
+Roger Sherman, CRL Associates, stated that he would answer any questions from the packet provided.
+
+Director Lubow was intrigued with all the activity to try and find new funding for RTD.
+
+Roger Sherman stated that the main discussion is funding transportation, if funding comes to fruition through sales tax and it passes through legislation, then it is important for RTD to be at the table to see how money can be distributed to RTD.
+
+Director Francone offered her gratitude to Roger for updating the template with the 2016 newly elected officials.  She requested a lower level organization chart that would include other cities and asked that a copy be shared with new Board members as well.
+
+##### a. CRL LGR Report 11-30-16
+
+##### b. Copy of Nov 2016 Local Officals elected to office
+
+#### 2. State Update - Brandeberry McKenna
+
+Jenifer Brandeberry and Megan Wagner congratulated the other governmental liaisons on the renewals of their contracts.  They have enjoyed their partnership with them and look forward to working with them in the future.  Brandeberry McKenna submitted a written report and asked if the Board had any questions.
+
+Director Francone mentioned to Jenifer Brandeberry that she had a meeting scheduled with Vice-Chair Cook from the Senate Transportation Committee in January and asked if she would like to attend with her.
+
+##### a. State Update 12-6-16
+
+#### 3. Federal Update - Squire Patton Boggs
+
+Mike Dino, Patty Doersch and Anne Miano from Squire Patton Boggs gave a federal update for the Board of Directors.  The firm stressed Washington is unchartered territory with newly elected President Trump.
+
+They stated there is a certain level of optimism with the regulatory reform because large infrastructures will most likely be funded, which in turn would provide jobs for Americans.
+
+RTD’s Recent Achievements
+
+- FAST Act
+
+o        Ensured all New Starts projects could continue to rely on highway
+
+funding, defeating House-passed language that banned the use of STP and CMAQ funds for New Starts projects.
+
+o        Secured greater flexibility in the definition of corridor-based BRT
+
+systems.
+
+- Openings
+
+o        Flatiron Flyer BRT, University of Colorado A Line, and B Line
+
+- Improvements/Expansions
+
+o        Breaking ground on SERE, revitalizing Civic
+
+Center Station, and new Free MallRide buses.
+
+- Federal Funding
+
+o        $150 million for Eagle P3 project and $92 million for SERE,
+
+part of $2.8 billion in federal grant and loan commitments.
+
+2016: RTD is a Leading Voice in Public Transportation
+
+- January
+
+o        Treasury Secretary Lew tour of Denver Union Station: Federal
+
+government views Denver Union Station as a model for rail station
+
+redevelopment nationwide.
+
+- March and May
+
+o        RTD projects spotlighted in US DOT’s Build America
+
+Bureau: RTD participated in two nationwide webinars presenting
+
+Case studies of Denver Union Station and Eagle P3 projects
+
+- April
+
+o        White House Infrastructure P3 Forum: Heather Copp presented on
+
+Eagle project.
+
+- August
+
+o        Site Visit by HT&I Railroads Subcommittee Chairman Jeff Denham:
+
+RTD hosted Chairman Denham for a tour of Denver Union Station and a trip on the University of Colorado A Line.
+
+RTD’s Federal Priorities
+
+- New Starts
+
+o        Securing full funding for the Eagle P3 in the FY 2017 omnibus
+
+appropriations bill expected in the Spring.
+
+- FRA approvals for commuter rail service
+
+o        Safety compliance culture
+
+- New Opportunities
+
+o        Big infrastructure bill in the next Congress?
+
+o        New/nontraditional partnerships and coalitions, building on DC meetings last March, e.g., Free Congress Foundation.
+
+What is the state of play on transportation issues in Washington?
+
+- Lame Duck session
+
+o        Only one of the 12 spending bills has been passed for the fiscal year that started on October 1. Federal government agencies and programs are operating under a short-term spending bill (a “CR”) that expires on December 9.
+
+o        Republican-led House and Senate are waiting out Obama’s final weeks in office; with no incentive to compromise, few bills expected to be passed– funding for Flint water crisis, national defense.
+
+- Fiscal Year 2017 Transportation/HUD Appropriations Bill
+
+o        Controls funding for New Starts projects, TIGER program for FY 2017.
+
+o        Under any CR: short-term extension of FY 2016 levels for transit
+
+formula programs under the FAST Act; no discretionary grant
+
+awards
+
+- A big infrastructure bill in the first 100 days of the next Congress?
+
+o        Trump’s second Cabinet pick was his Transportation Secretary: Elaine Chao.
+
+§         Transportation and infrastructure investment is one of the most ambitious parts of Trump’s early policy agenda.
+
+- What do we know about Elaine Chao?
+
+o        Experienced
+
+§         Labor Secretary under George W. Bush
+
+§         Deputy Transportation Secretary under George H. W. Bush
+
+o        Unambiguously part of the Washington establishment
+
+o        Very well connected:
+
+§         Her husband is Senate Majority Leader Mitch McConnell (R-KY).
+
+FY 2017 Appropriations Outlook
+
+- Deadline
+
+o        Members of Congress are eager to pass another spending bill
+
+before December 9 deadline.
+
+- Another CR
+
+o        House and Senate Appropriations Committees negotiating
+
+another short-term spending bill – through to the Spring – to allow the incoming Trump Administration to have the final say in FY 2017 spending priorities.
+
+- Final transportation spending levels next Spring:
+
+o        House and Senate 2017 THUD bills both fully fund transit and highway formula programs at their FY 2017 FAST Act levels.
+
+- TIGER funding
+
+o        House $450 million, Senate at $525 (FY 2016 TIGER was $500 million)
+
+- New Starts funding
+
+o        House $2.50 billion, Senate $2.338 billion (both
+
+above $2.302 billion FY 2017 FAST Act authorization for New Starts)
+
+What does this mean for New Starts funding?
+
+- RTD’s FY 2017 New Starts request:
+
+o        $167 million for Eagle P3 FFGA
+
+- President’s FY 2017 budget:
+
+o        $175 million for Eagle P3 FFGA
+
+- Pending House and Senate FY 2017 THUD appropriations bills: Both fund the Eagle project at $150 million.
+
+- US DOT will not award grants in discretionary programs (programs in the
+
+control of the Appropriators) in the absence of a full-year spending bill.
+
+- Bottom Line Likely that no FY 2017 New Starts funding will be awarded until after an omnibus spending bill is enacted in the Spring.
+
+Trump’s Infrastructure Proposal
+
+- Timing
+
+o        Trump wants to see an infrastructure bill advance early in the next Congress.  Pelosi, other Democrats, have signaled general support for increased infrastructure funding.
+
+- Revenues gained through tax reform
+
+o        One-time funding through taxation of all revenues ($2.6 billion) of US companies held overseas: “deemed” repatriation.
+
+- Finance
+
+o        Tax credit for private investors in infrastructure projects.  Funding component, too?
+
+o        Equity investors support a small fraction of transit projects, so tax credit only part of the solution.
+
+o        Infrastructure package should include grant funding; sent out to States through FAST Act formula programs?
+
+- Regulatory reform
+
+o        Reducing or eliminating burdensome regulations.
+
+Opportunity for HTF Revenue Solution?
+
+- Any infrastructure bill will attract policy riders, large and small.
+
+- Long-sought Highway Trust revenue solution?
+
+o        Closing the gap between spending levels and dedicated HTF revenues seen as “unfinished business” after FAST Act.
+
+- But surface transportation funding is not a must-pass bill:
+
+o        FAST Act funds surface transportation programs through 2020.
+
+o        Other Trump priorities: trade, immigration could take precedence.
+
+o        Competing transporation priorities in FY 2017: FAA reauthorization.
+
+o        Some Republicans want to use tax reform only to lower rates, not for new spending.
+
+- Same politically difficult revenue options: taxes on gasoline, oil and gas production, vehicle-miles traveled.
+
+- Return of earmarks could enable support for revenue increase for HTF.
+
+Transit Programs in a Trump US DOT
+
+- FAST Act in place through FY 2020:
+
+o        Second year into 5-year authorization governing overall funding levels, transit’s share of HTF revenues, major policies and programs.
+
+o        So major changes not expected immediately in surface transportation
+
+programs.
+
+- Transit’s place in the Highway Trust Fund?
+
+o        While Republican Party platform does not support dedicated HTF revenues for transit, Trump (www.greatagain.gov) appears supportive of federal funding for transit.
+
+- Regulatory reform is likely:
+
+o        Streamline/reduce environmental requirements for projects
+
+o        Two-man crew rulemaking is vulnerable (Congressional Review Act, if
+
+finalized by Obama US DOT)
+
+o        Strong support for Buy America
+
+The 115th Congress
+
+- Colorado’s Congressional delegation:
+
+o        All won reelection; changes in committee memberships are possible.
+
+o        Senator Garner will lead the National Republican Senatorial Committee for the 2018 election cycle.
+
+- Senate Banking, Housing, and Urban Affairs Committee, which has principal jurisdiction over public transportation, has a new Chairman:
+
+o        Senator Mike Crapo (R –ID) replaces term-limited Richard Shelby (R-AL). Sherrod Brown (D-OH) remains Ranking Member (“RM”).
+
+- House Transportation and Infrastructure Committee:
+
+o        Same “Big Four” for transit and highways: Chairman Shuster (R-PA), RM DeFazio (D-OR), Subcommittee Chairman Graves (R-MO), Subcommittee RM Norton (D-DC).
+
+o        Railroads Subcommittee: Rep. Denham (R-CA) held onto his seat in a close election and returns as Chairman. Capuano (D-MA) remains RM.
+
+Director Francone asked Mike Dino to share results of I6 grant.
+
+Mike Dino stated that the I6 grant, which Jefferson County and National Renewable Energy Labs would have partnered to work with the Workforce Development in order to create jobs, was not approved.  He indicated the group intends to work with the Economic Development Administration in the region because they like the idea of the grant and they want to find a way to fund certain components of it.
+
+Director Bagley expressed his gratitude to Squire Patton Boggs to present and past teams and said it has been a pleasure working with them.
+
+Chair Tobiassen stated that he appreciates the eight years working with Squire Paton Boggs.  He stated that they have helped RTD navigate through some troubled times and expressed his thanks.
+
+Director Sisk also expressed his appreciation and asked if it made sense for the Board to visit the capital in March, since everything will be a work in progress.
+
+Anne Miano stated that she thought that the Board of Directors should visit in March.  She stated she is unsure of President Elect Trump’s agenda and would confirm a date at a later time.
+
+Director James agreed that Squire Patton Boggs had been a great connection for the RTD organization.
+
+Director Anderson agreed with Director Sisk and said a trip in March would be chaotic.
+
+Director Deadwyler thanked the team for a very interesting report.
+
+Director Folska thanked Squire Patton Boggs for being attentive and responsive to the Board and stakeholders and offered congratulations for staying on with RTD.
+
+##### a. RTD Federal Update 12 6 16 v2
+
+### E. Other Matters
+
+Director Francone gave a shout out to Scott Reed in Communications.  She said she had a great meeting with Conifer’s Town Council and indicated they were extremely grateful that she attended.  She will be looking to Communications in the future for more swag for this group.
+
+### G. Adjourn
+
+Committee Chair Folska adjourned the meeting at 7:58 p.m.

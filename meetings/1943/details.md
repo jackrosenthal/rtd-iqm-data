@@ -1,0 +1,51 @@
+## I. FasTracks Monitoring Committee
+
+Chaired by Larry Hoy
+
+Staff Present:                Bruce Abel, Bill Bottini, Rick Clarke, Sherry Ellebracht, Dave Genova, Terry Howerter, Austin Jenkins, Erin Klaas, Marla Lien, Barbara McManus, Robin McIntosh Jr., Doug MacLeod, Bob Mickelson, Vivian Morales, Thomas Papadinoff, Paula Perdue, Chris Quinn, Scott Reed, Bill Sirois, Henry Stopplecamp, Mike Turner, Ashland Vaughn, Michael Washington, Brian Welch
+
+Others Present:              Kaitlyn Benz, Jenifer Brandenberry, Jane Donovan, Tina Francon, Sherman Hamilton, Eugene Howard, Joey Triplett, Gary Van Dorn, Monte Whaley
+
+Committee Chair Hoy excused Director Bagley from the meeting.
+
+#### 1. Northeast Area Transit Evaluation (NATE) II Update
+
+Chris Quinn, Project Manager for Planning, presented the Northeast Area Transit Evaluation (NATE) II Update starting on page 29 of the Planning & Development/Government Relations/FasTracks Monitoring Committee Meetings Packet for August 5, 2014.  He said the purpose of NATE II was to expand/refine analysis of the original NATE study as requested by local jurisdictions.  Local jurisdictions requested to have the transit path follow Highway 2 connecting with Colorado Blvd or Stapleton instead of Downtown Denver.  Included within the scope of the NATE II study is updating environmental, transportation, land use and municipal plan information; performing high-level fatal flaw analysis of Commuter Rail and Light Rail alternatives; and developing Bus Rapid Transit (BRT) alternatives and evaluations.  The study is being conducted in-house by RTD staff and on-call consultant resources.
+
+Director Anderson said that the NATE II study is very exciting, addressing it as a possible “Northeast Extension”.  Noting the cost-effectiveness of constructing on RTD property, she asked if RTD owned any right-of-way in the NATE study area.  She mentioned she was under the impression that RTD may own some property in the area.  Richard Clark, Assistant Manager for Capital Programs, said that RTD doesn’t own the right-of-way in that area.  Any future projects would include negotiations with the rail owners.  Marla Lien, General Counsel, said that in 2006-07 RTD approached BNSF Rail and Union Pacific in preparation for future public transportation options.  Both companies at the time decided not to enter into any agreements without definite ideas and cost commitments for rail in the area.
+
+Committee Chair Hoy reminded the Board and Staff to please be direct and concise when giving their comments, questions, and/or answers.  This, he said, is not meant to stifle conversation.
+
+Director Menten asked staff to send her a copy of the 2007 NATE study.  She also asked who the on-call consultant was.  Bill Sirois, Manager for Transit Oriented Development and Planning, answered that the consultant was through the Jacobs Engineering contract.  Director Menten asked if the original study would give other options for BRT besides light rail and commuter rail.  She also asked for the time frame of  the Nate II study.  Chris Quinn replied that beyond BRT, commuter and light rail there are no other options.  He also said no dates are set yet.
+
+Director Daly asked staff if “fatal flaw” referred to projects staff would not recommend moving forward with.  Chris Quinn said that “fatal flaw” circumstances are considered when a project encounters a barrier that it cannot work around, for example, a superfund site.  Director Daly stated that RTD used to own property in the NATE study area.  He wondered if it was sold.  Richard Clark said that RTD is trying to dispose of a property near Ft. Lupton.
+
+Director James asked staff to clarify about the Colorado Blvd Station, and perhaps further south, as a potential location to end the Northeast line.  Chris Quinn said that there is interest to incorporate the line to route 40 allowing passengers a one seat bus ride to the employment centers along that corridor.
+
+Director Folska asked how much funding was allocated to the NATE II study.  She also asked for the study’s time frame.  Chris Quinn said that there is $150,000 allocated for the study since it is a very high level study.  He estimated a little over 12 months as the project’s timeline.  Director Folska asked if staff had an update on the Northwest Area Mobility Study (NAMS).  Chris Quinn said that the study was sent to the stakeholders for final reviews and comments.  Staff hopes it will be available early next week.  Committee Chair Hoy asked Director Folska to take any further questions on the NAMS offline.
+
+Committee Chair Hoy reminded the staff and the Board of the difficulties along the Northwest corridor.  He said that it is critical for RTD to work now with stakeholders as they make plans for future developments through a possible corridor.  He thanked staff for their work.
+
+##### a. NATE II Board Update 5August2014(2)
+
+#### 2. North Metro Rail Line Update
+
+Ashland Vaughn, Project Manager for Engineer, presented the North Metro Rail Line update starting on page 39 of the Planning & Development/Government Relations/FasTracks Monitoring Committee Meetings Packet for August 5, 2014.  The presentation included an overview of the project elements as well as design and construction updates.  It also gave an update on the Suncor Energy Rocky Mountain Pipeline Project.
+
+Director Walker asked if the Suncor project would make any improvements that would facilitate construction on RTD’s right of way.  Ashland Vaughn said that the majority of their construction  is tunneling, usually at 30-50 feet underground, rendering them of little use to RTD.
+
+Committee Chair Hoy mentioned that he attended the Metro North Chamber Golf Tournament on July 23rd.  During the tournament, Suncor made a point to thank RTD for our cooperation.  He also mentioned that those in attendance were very excited about the North Metro line.  Their knowledge on the project was to various degrees.  He expressed his amazement at the Suncor pipes being so deep underground.
+
+##### a. NM Update Presentation 8 5 14_ACCESSIBLE for Review
+
+### C. Other Matters
+
+Director Menten said that she found out about the W Line closings this weekend through the RTD email alerts and asked how the constituents are being informed, including those that do not get alerts and may just show up to the closed stations.  Scott Reed, Assistant General Manager for Communications, said that notices will be placed in strategic locations at the stations as well as sent out through a press release.  A bus bridge will be in place to transport commuters.  Austin Jenkins, Assistant General Manager for Rail Operations, said that staff chose this weekend as there were not many events in the community, minimizing the impact of the closures.  He also reiterated that notices will be placed on the stations, bus bridges would be available, and probably a representative from Public Information will be on site.  He recalled that closures occurred when the W Line first opened for 3 weeks.  During this time, RTD received only 2 complaints.
+
+Committee Chair Hoy asked if the press releases are sent to the Board members.  Scott Reed said that all press releases are included in the daily RTD clips internal email.
+
+Dave Genova, Assistant General Manager for Safety, Security, and Facilities, reminded the Directors of the Light Rail Rodeo on Saturday, August 9 at 6:00 a.m.
+
+### E. Adjourn
+
+Committee Chair Hoy adjourned the meeting at 7:50 p.m.

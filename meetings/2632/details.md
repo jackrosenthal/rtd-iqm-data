@@ -1,0 +1,261 @@
+## I. Operations and Customer Service Committee
+
+Chaired by Lorraine Anderson
+
+### A. Call to Order
+
+Committee Chair Anderson called the meeting to order at 7:54 p.m.
+
+Directors Francone and Folska were absent.  Director Deadwyler left the meeting early.
+
+Staff Present:                       Bruce Abel, Rolf Asphaug, Larry Buter, Gina Callahan, Nicole Carey, Jessie Carter, Charles Castro, Susan Cohen, Lou Cripps, Nate Currey, Jeet Desai, Kevin Diviness, Martell Dyles, Terry Emmons, John Flanagan, David Genova, Bob Grado, John Hersey, Ann Marie Isaac-Heslop, Jeff Kay, Jim Maguire, Doug MacLeod, John McKay, Heather McKillop, Barbara McManus, Mike Meader, Mike Millage, Allen Miller, Mike Nabhan, Tai-Shrae Parish, Kevin Parker, Scott Reed, Jannette Scarpino, Ruth Seleske, Karl Shoemaker, Kevin Steele, Henry Stopplecamp, Mark Tieman, Brian Thye, Monika Treipl-Harnke, Bill Van Meter, Ashland Vaughn, Jyotsna Vishwakarma,
+
+Others Present:                    Mac Callison, Daniel Delin, William Gross, Angie Malpiede, Robert McNown, Mike Peek, Dave Sachs, John Thompson, Joe Triplett, Gary Van Dorn, Ruth Wallsgrove, Richard Wobbekind,
+
+#### 1. January 2018 Service Change
+
+It is recommended by the Operations and Customer Services Committee that the Board of Directors approve the January 2018 Service Change package as summarized in Attachment A and, further, to authorize the General Manager or his designee to execute contract amendments as necessary for private operators whose service is impacted by these changes.
+
+Motion:               Director Solano made the motion to move this item to the full Board at the October 24, 2017 Board Meeting.
+
+Director Williams seconded the motion.
+
+Discussion:              Bruce Abel, Acting Chief Operations Officer and Assistant General Manager of Bus Operations, stated that staff was seeking the committee’s approval to move forward with the January 2018 service changes.  He stated that these changes, which occur three times a year, allow staff to right-size service delivery based on need and use.
+
+Mr. Abel said that staff had made a variety of recommendations to either add or re-adjust service based on ridership.  He remarked that the two main items on the rail side were to create the L Line, or downtown loop, and to adjust the R Line and W Line on evenings and weekends.  He added that the compromise for the W Line was formulated by the City of Golden.
+
+Jessie Carter, Service Planning and Scheduling Manager, commented that there were over 200 people that attended the public hearings.  He also stated that there were quite a few comments from stakeholders and other groups and because of that, additional changes were made based off of their feedback.  He stated that staff is looking at ending the 84 and using the 34 to pick up some of the stops, including going to Mercy Housing.
+
+Mr. Carter noted that staff changed the frequency of the 42 and 45 to every thirty minutes because those routes were not achieving the 25 boardings per hour.  He added that this change had been put through an equity analysis and this represents the least discriminatory alternatives.
+
+Director Deadwyler thanked staff for all of their help.  She noted that the 89 had struggles for several years with low ridership.  She asked if the 34 now reached Mercy Housing, did that mean that there would not be a bus going to Anschutz.
+
+Mr. Carter stated that was correct, but those riders could be directed to the University of Colorado A Line via the 34.  He added that one of the best things about the University of Colorado A Line was that it was much faster in comparison to the bus.
+
+Mr. Abel commented that with the proposed elimination of the 89, the 34 would extend its route to serve Mercy Housing, which would also go to the University of Colorado A Line.
+
+Mr. Carter remarked that when staff talked to the constituents in Stapleton about Mercy Housing, their focus was access to the King Soopers on MLK and Iola.  He also noted that the 34 during peak service would be every thirty minutes which was more often than the hourly service it currently had on the 89.
+
+Director Deadwyler asked that staff discuss this with her further offline.
+
+Director Menten explained that she would be a no vote for this item because she supported the original efficiencies.  She said that she had received several comments from people who have said that they do not see people use the W Line.  She added that the R Line’s performance at this point in time is less than ideal and boosting the weaker system on the shoulders of the bus riders is not fair.  She added that RTD needs to be running lean and as Mr. Abel had indicated, RTD can always adjust service based on need.  She further added that she attended many of the public meetings and a lot of the letter writers are not riding the system.
+
+Director Lubow asked what was the difference in cost between the original proposal and the new.
+
+Mr. Carter stated that on the R Line, the original proposal saved $2.8 million and the current proposal saved $1.5 million.
+
+Director Lubow asked what the changes to the BOLT would look like.
+
+Mr. Carter commented that the changes would reflect a timing issue, not a frequency issue.
+
+Director Broom thanked staff for listening to the public and reviewing the original proposal.  He said that he still thought that six months was not enough time to attract ridership and RTD’s marketing focus should be adjusted.  He added that RTD needs to address street traffic and get people out of their cars.  He stated that he commuted for 20 years and he saw the ebb and flow of traffic.  He remarked that RTD needs to change the mind-set of the public because RTD is not efficiently moving goods and people.
+
+Director Tisdale commended staff on their collaboration with the City of Golden.  He said that it was his understanding that the Mayor and City Council approached RTD with a proposal that was workable.  He stated that the changes now proposed to the R Line are not severely dramatic, and are similar to changes on bus schedules for weekends.  He added that these schedules are always up for review and change, and this accommodation appears to be responsible and addresses the issues that staff had to look at.
+
+Director Solano said that in order to increase demand, the system has to be reliable and in addition, staff did not give the R Line enough marketing time.  He noted that he would be a no vote, and asked if the problem laid in the fact that RTD was short manpower.
+
+Mr. Abel explained that the driving force behind the recommendation was that RTD does not have the passengers.  He remarked that RTD has limited resources in terms of operators, vehicles, and money.  He added that mandating cannot be sustained especially when there are not enough passengers to warrant the service.
+
+Director Solano commented that demand will grow if the service is given more time.
+
+Mr. Carter remarked that in comparison to the University of Colorado A Line which has 23,000 passengers per day, the R Line is only running at 40 passengers per hour.  He stated it was difficult to say that advertising and or service time was an issue.
+
+Mr. Abel recognized that RTD’s greatest demand potential was on a weekday and said that poor ridership manifests itself on weekends.
+
+Director Williams remarked that RTD is trying to do its best as an organization to balance its financial situation with its image and added that RTD is about moving people, not vehicles.
+
+Chair Hoy noted that the City of Golden came up with and paid for a flex route to do what staff was trying to do.  He commented that it seemed wrong to take away the 15 minute headways from them after they committed funds.  He added that between the last proposal and the current proposal, staff and the City of Golden have come up with an agreeable proposal that is a win win for both parties.  He further added that the City of Aurora seems to be pleased that the weekday headways will remain at 15 minute intervals, but noted that those headways might not last forever.  He explained that if ridership continues to dip, staff may need to address this one more time.  He remarked that he would be voting in favor of this item because if not, RTD will continue to provide more service than is needed and RTD will end up spending money it does not need to spend.  He said that RTD will be saving money and satisfying stakeholders, so he will be voting yes.
+
+Director Archuleta commented that RTD should advertise for the R Line on TV and Radio.  He said that it would not take a lot of money, and if there are going to be savings it should be applied to advertising.
+
+Director Lubow said that this is a complex issue because there are a lot of different needs and requirements.  She added that while she would prefer to save money, it is important to show people that they are listened to and their needs are addressed.  She noted that this was a good compromise and she would be supporting it.
+
+Director Mihalik noted that when the first iteration of the service cuts was published he was shocked that the R Line performance was so low.  He said that because ridership has been increasing he would suspend his belief in the service standards until the next service change, and if the R Line and W Line are up for changes again, they should be changed to the standard service levels.
+
+Director Walker stated that he supported the recommendation.  He commented that staff had shown its flexibility in working with local governance and while the area along the R Line is not built for this type of service today, ridership will grow in time.  He added that the multiple years of construction should have been a good advertising agent.
+
+Director Broom remarked that RTD does the service change exercise three times a year, and stated that there is not going to be significant changes to ridership on the R Line in four months until the next service change.  He noted that the W Line has been in operation much longer, and the R Line has not been given enough time to build its ridership.  He also stated that the Board should be given adequate notice to prepare for conversations with constituents if another recommendation comes up like this again.
+
+Committee Chair Anderson thanked staff for always being willing and able to listen to the public.  She noted that they attend meetings that can at times be unpleasant.
+
+Director Solano commented that in some areas, the University of Colorado A Line still has a bad stigma in terms of its on-time performance.
+
+Committee Chair Anderson declared the motion PASSED.
+
+##### a. Attachment A - January 2018 Service Change
+
+##### b. Attachment B – Summary of Electronically Received Comments & Public Meetings – January 2018 Service Changes
+
+##### c. Attachment C - Letters Received - January 2018 Service Change
+
+##### d. Attachment D - R Line Service Proposal January 2018 Service Change
+
+##### e. Attachment E - W Line Service Proposal January 2018 Service Change
+
+##### f. Attachment F - 28-28B Proposal January 2018 Service Change
+
+##### g. Attachment G – Route 34 Proposal January 2018 Service Change
+
+##### h. Attachment H - L Line Concept January 2018 Service Change
+
+#### 2. Approval of 2018 Access-a-Cab Agreements
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorizes the General Manager, or his designee, to execute all documents necessary to extend an Agreement with Metro/Yellow Transportation, Northern Yellow, and Union Taxi Inc., to provide Access-a-Cab services. In addition, it is recommended by the Operations and Customer Service Committee that the Board of Directors authorizes the General Manager, or his designee, to execute all documents necessary to add Green Taxi Cooperative as a new provider for the Access-a-Cab program.
+
+Motion:               Director Tisdale made the motion to move this item to the full Board at the October 24, 2017 Board Meeting.
+
+Director Broom seconded the motion.
+
+Discussion:              Mr. Abel commented that this is a housekeeping item.  He said that the Board should be aware that RTD’s Access-a-Cab program has the customer pay for the first two dollars, and any fare remaining after $14.00.  He remarked that RTD’s legal team had asked that these contracts be entered into annually, so this will be the first of an annual contract.
+
+Committee Chair Anderson declared the motion PASSED unanimously.
+
+#### 3. Approval for Budget Transfer to Accommodate Demand Shift of Access-a-Cab Service
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize a budget transfer in the amount of $505,000 from Yellow Cab Access-a-Cab service to Metro Taxi Access-a-Cab service and Union Taxi Access-a-Cab service in the amounts of $340,000 and $165,000 respectively to adjust for the shift in customer demand for these services in 2017.
+
+Motion:               Director Tisdale made the motion to move this item to the full Board at the October 24, 2017 Board Meeting.
+
+Director Williams seconded the motion.
+
+Discussion:              Mr. Abel stated that this request was only to move money, and not for additional funding.  He commented that when staff budgeted this service, it was done by the company and not by the program.  He reiterated that this action will only move funds from one budget line item to another.
+
+Committee Chair Anderson declared the motion PASSED unanimously.
+
+#### 4. Approval to Extend Travel Training Contract
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize the General Manager or his designee to exercise option years one and two of the Via Mobility Services Contract 16DH048 for the provision of Travel Training services.  The cost of the two one-year option years shall not exceed $265,700.  The total cost of Contract 16DH048 shall not exceed $399,740.
+
+Motion:               Director Solano made the motion to move this item to the full Board at the October 24, 2017 Board Meeting.
+
+Director Tisdale seconded the motion.
+
+Discussion:              Mr. Abel stated that RTD currently has a contract with VIA Mobility to provide travel training to RTD customers who typically use Access-a-Ride.  He stated that the training helps teach those individuals how to use fixed route services.
+
+Director Mihalik commented that in the Board Report, there was a statement which indicated that participation had been lower than expected.
+
+Mr. Abel explained that staff would like to have more people move through the program in order to generate additional savings.
+
+Director Mihalik inquired as to how many people had gone through the program.
+
+Mr. Abel remarked that 19 people had completed the program so far.
+
+Committee Chair Anderson declared the motion PASSED unanimously.
+
+#### 5. Approval of Budget Transfer between Access-a-Ride Service Providers
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize the General Manager, or his designee, to transfer budgeted funds totaling $1,120,030.00 from MV Transportation (Contract 13-DH-053) and Via Mobility Services (Contract 13-DH-055) to All Aboard Transit (Contract 13-DH-054) and Transdev On Demand (Contract 13-DH-035) to account for changes in Access-a-Ride service delivery during the period of January 1, 2017 through September 30,2017.  Funds will be transferred from the MV Transportation fuel line item ($240,000.00), from the Via Mobility service line item ($672,030.00) and from Via Mobility fuel line item ($208,000.00) and will be transferred to All Aboard Transit (290,000.00) and TransDev Mobility on Demand ($830,030.00).
+
+Motion:               Director Tisdale made the motion to move this item to the full Board at the October 24, 2017 Board Meeting.
+
+Director Archuleta seconded the motion.
+
+Discussion:              Mr. Abel stated that in 2016 and 2017, RTD was having challenges in the Access-a-Ride program as service providers were not able to hire employees to provide service delivery.  He added that during the re-bid of the contract, cab drivers were able to provide some of the services that dedicated providers could not.  He noted that there was no financial impact with this action item and it was only a reallocation of funds.
+
+Committee Chair Anderson declared the motion PASSED unanimously.
+
+#### 6. Purchase of Platform Hyrail Truck
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize the General Manager or his designee to enter into a contract for $612,700 dollars with Geismar MTM for purchase of a platform Hyrail truck (Contract Number 17DR002).
+
+Motion:               Director Archuleta made the motion to move this item to the full Board at the October 24, 2017 Board Meeting.
+
+Director Williams seconded the motion.
+
+Discussion:              Terry Emmons, Assistant General Manager of Rail Operations, stated that the Platform Hyrail truck will improve Maintenance of Way’s (MOW) ability to perform inspections and repairs to the overhead energized wires.  He noted that the truck is considered specialized equipment and it has been vetted through the procurement process.
+
+Director Lubow asked if the truck was absolutely necessary and how much RTD would be saving by using this vehicle.
+
+Mr. Emmons explained that this vehicle would be more efficient as it could do the job of two bucket trucks and a boom truck.  He added that this truck would allow staff to be more efficient and safer on the rails.
+
+Director Lubow asked if in RTD’s current tight financial time if this was a luxury or a necessity.
+
+Mr. Emmons commented that this truck would allow staff do perform work with less operators, but staff could do the work without it.
+
+Director Solano inquired as to how big the truck was.
+
+Karl Shoemaker, Track Maintenance Senior Engineer/Supervisor,  it is a single axle vehicle and has a 33,000 chassis, which is comparable in size to the current bucket trucks.
+
+Director Solano noted that was the size of a regular bucket truck and asked what the benefit was of this purchase.
+
+Mr. Shoemaker said that the Hyrail had a 7x14 platform which could accommodate multiple people.  He noted that instead of three trucks on the rails to complete one job, this vehicle would limit that need to just one.
+
+Mr. Emmons added that over the weekend, a contractor who had a similar vehicle was able to complete work five hours quicker by utilizing this type of truck.
+
+Chair Hoy said that this truck can drive on and off the tracks and it has a large platform stage on a scissor type jack.  He remarked that it would allow for repairs to occur quicker, and it would be a more efficient and safer way to work.
+
+Mr. Emmons added that this vehicle is safer because bucket trucks have to be maneuvered around, and buckets can limit a worker’s mobility.
+
+General Manager Genova added that it will also have an arm on it as well.
+
+Chair Hoy noted that Director Deadwyler left the meeting early, but she had asked him to relay a comment on her behalf.  She said that this was a very expensive item and felt that it was a luxury, and if she had been here she would have voted no.  However, Chair Hoy said that in his opinion, this is a tool that is necessary for efficiency and worker safety.
+
+Director Mihalik inquired as to what was the expected useful life of the vehicle.
+
+Mr. Emmons stated that the useful life is 15 to 20 years, and noted that in comparison, one bucket truck is $300,000.
+
+Director Mihalik asked if this truck would replace the need for three bucket trucks.
+
+Mr. Emmons said yes, it would replace the need for three trucks performing work on the rail.
+
+Committee Chair Anderson said that anytime staff can work more efficiently and safely it is worth the cost.
+
+Committee Chair Anderson declared the motion PASSED unanimously.
+
+#### 1. Lost Service Hours Update 10 17 17
+
+Mr. Abel commented that lost service hours for September equaled 1568 hours.  He explained that that figure was the worst since staff had begun to keep records of lost service hours several years ago.  He noted that it was reflective of RTD’s current challenges and this service loss came in spite of the need to mandate operators.  He added that September 2017 was also the worst in terms of mandates and staff had to mandate over 36 shifts over the course of the month, which translated to 90 shifts per day.  He further added that staff is currently 120 drivers short of headcount.  He remarked that continuing to mandate operators is not sustainable nor acceptable to this extent.  He noted that this was a report he was not happy to present, but staff continues to work with the Human Resources group to hire additional operators.
+
+Director Lubow stated that when this was first brought up months ago, staff addressed the steps being taken to manage the operator shortage.  She noted that staff has seemed to have run out of steps and inquired as to what other avenues staff would pursue to manage the operator shortage.
+
+Mr. Abel explained that there is a $2000 sign on bonus which is paid out incrementally, as well as a $2.00 per hour split run incentive.  He added that staff has also implemented a $2.00 per hour incentive to work beyond scheduled hours, and staff worked with the union to increase operator wages by $1.00 per hour.  However, he said that staff will need to discuss right-sizing service and determine which services are attainable.  He remarked that the current situation is a difficult conundrum.
+
+General Manager Genova added that staff is also working on modeling different scenarios which include limiting split shifts, recovery times, and other items.  He stated that a lot of what management has heard is that it is more than just wages, and staff is weighing different approaches.
+
+Director Lubow commented that this is a conundrum that is unsolvable, especially when the Board receives letters from people who stated that their bus had standing room only.  She asked what other transit agencies were doing.
+
+Mr. Abel stated that hiring operators is an issue across the nation, and other transit agencies are having the same problems.
+
+Director Menten indicated that there was a state statute which limits RTD’s ability to contract out routes.  She asked if RTD was close to that cap.
+
+Mr. Abel said that RTD can contract out 58% and is currently at 56%.  However, he noted that RTD’s contractors are in the same boat that RTD is in.
+
+Director Menten noted that the legislation, as currently written, could be a barrier to RTD’s operations.  She also discussed Director Deadwyler’s previous commentary about recruiting retirees who might want or need a part time job and asked if the union would prevent such an action.
+
+Mr. Abel explained that RTD has a retiree bus operator program which allows retired bus operators to work part time, and RTD offers part time employment regardless of age.
+
+General Manager Genova added that within the Collective Bargaining Agreement (CBA) with the union, the maximum percentage of part time employees is limited to 21%.
+
+Director Williams commented that when she was in Atlanta for the American Public Transportation Association’s (APTA) Annual meeting, she told every bus driver that she met that they should move to Denver.  She added that if there were any recruits from Atlanta, she wanted the credit.
+
+Director Archuleta stated that everyone is skirting the issue, which is that operators are not paid enough.  He said that if they were paid $21 or $22 dollars an hour, RTD would have a plethora of operators.
+
+##### a. Lost Service Hours 10 17 17
+
+#### 2. Asset Management & ISO Update 10 17 17
+
+Mike Meader, Chief Safety Officer and Assistant General Manager of Safety, Security and Asset Management, said he along with Lou Cripps and Ruth Wallsgrove would present.  He said that with RTD’s ongoing efforts to assess and improve how the agency functions, and in keeping in line with the General Manager’s goal to achieve the International Organization for Standardization (ISO) 55000 certification for asset management RTD asked an external consulting company to provide support.  He said that company, AMCL, is a leading asset management consulting firm and has working with over 200 similar organizations around the world, including current work with New York’s Metropolitan Transportation Authority (MTA), the Transport for London (Tube), Singapore’s Land Transport Authority (LTA) and others.  He added that they bring a wealth of experience and best practices from around the world that RTD is benefiting from.  He noted that the presentation this evening would be the first in a series of informational briefings as RTD continues its journey to asset management excellence.
+
+Ruth Wallsgrove, AMCL, stated that AMCL is a dedicated infrastructure asset management company that works across five continents and a whole range of sectors.  She noted that she, along with her colleagues, work with many different transit agencies across the world.  She noted that the base of this is that RTD is asset intensive, and assets are critical to meeting RTD’s core mission.  She added that many transit agencies around the world are facing the same challenges as RTD, and it could be summarized as the need to do more with less.  She commented that her organization would be bringing some of those lessons with them and highlighted the context in which her organization would be working.  She noted that the Federal Transit Administration (FTA) had mandated good practices of asset management to all federally funded transit agencies.  She said that this centers on the requirement to have a good, and coordinated long term asset management plan.  She noted that this new legislation will be a problem for many transit agencies in the United States who are just realizing what exactly asset management entails.  She stated that RTD has been working on this for some time, and is in fact recognized as a leader in the industry.  She added that there is also an international standard for asset management which lays out a framework for good asset management.  She commented that the current asset management plan is a good base on which to build value, and the intention is to go beyond that measure.
+
+Director Williams said that this is a great plan, but noted that the late hour to hear all of this information was poor planning.  She asked that that the next presentation occur earlier in the evening.
+
+General Manager Genova explained that the presentation had been on the schedule for a very long time and it was strategically planned for this date, and apologized for the late hour.
+
+Committee Chair Anderson said that the ISO standard is the ultimate certification to receive.
+
+Director Walker noted that he worked for an engineering firm that went for the ISO 9000 certification and it was a very intensive process.  He added that this is something that the Board needs to keep their eyes on.
+
+##### a. Asset Management & ISO Update 10 17 17
+
+### D. Other Matters
+
+Director Menten noted that the address for RTD’s administrative offices had recently changed and it was now 1660 Blake Street.
+
+General Manager Genova remarked that the official effective date of the address change is Friday, October 27th.  He noted that because of the development on the block, the city required that RTD change its address.
+
+Committee Chair Anderson thanked staff for taking care of late night route that left people at a bus stop with no driver.  She stated that staff made sure a driver was dispatched to that route so that the people stuck at the stop who were transit dependent could get home that night.
+
+### F. Adjourn
+
+Committee Chair Anderson adjourned the meeting at 9:47 p.m.

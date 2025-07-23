@@ -1,0 +1,371 @@
+## I. Call to Order
+
+Chair Hoy called the meeting to order at 5:30 p.m.
+
+## II. Pledge of Allegiance
+
+Chair Hoy asked everyone to stand and join him in the Pledge of Allegiance.
+
+## III. Roll Call - Determination of Quorum
+
+### A. Roll Call
+
+Barbara McManus called roll. There were thirteen (13) members present at roll call.  Directors Anderson and Francone were absent.
+
+Staff Present:                       Bruce Abel, Rolf Asphaug, Shirley Bennett, Gina Callahan, Nicole Carey, Susan Cohen, Anita Davidson, Sherry Ellebracht, Terry Emmons, David Genova, Bob Grado, Gary Hull, James Maguire, Brian Matthews, John McKay, Heather McKillop, Barbara McManus, Mike Meader, Tai-Shrae Parish, Mace Pemberton, Scott Reed, Ruth Seleske Jannette Scarpino, Henry Kevin Steele, Stopplecamp, Mark Tieman, Bill Van Meter, Jyotsna Vishwakarma, Brian Welch
+
+Others Present:                    Dr. William Gross, Delaina Hull, Donald Stitt, John Thompson, Nicole Townsend, Gary Van Dorn
+
+The Chair discussed RTD’s safety procedures in case an emergency situation occurred.
+
+## IV. Retiree Awards
+
+Chair Hoy stated that there were a number of retirees for the month of December and asked the General Manager and staff to present the retirees.
+
+General Manager Genova asked Bruce Abel to approach the podium.
+
+Bruce Abel, Acting Chief Operations Officer and Assistant General Manager of Bus Operations, noted that the first retiree of the evening was Anita Davidson. He said that Ms. Davidson was retiring after 29 years of service to the district and she first served as a bus operator and then as a revenue instructor. He noted that her retirement plans included traveling to Albania to work for the World English Institute.
+
+Ms. Davidson commented that the retiree award meant a lot to her. She added that sometimes drivers get on the road and do not realize how important their jobs were to everyone else. She said that she remembered one time when a man kept saying that he was going to blow his wife away and she asked if he had any children and what would happen to them and to him if he did that. She said that RTD serves many people day-to-day from all walks of life and the agency has so many neat things going on and it had been great to have been a part of it.
+
+Mr. Abel also recognized Gary Hull, who had 20 years of service with RTD. He thanked Mr. Hull’s wife for sharing him with RTD for the past 20 years and said that Mr. Hull’s retirement plans would include sleeping in late and working for RTD as a part time driver.
+
+Mr. Hull said when he first started working for RTD people told him that 20 years would fly by in the blink of an eye and they were right. He thanked RTD for the ability to provide for his family and for all of the people he had met along the way.
+
+Chair Hoy added that it was always great to see the people who had worked so hard for RTD and noted that they are what made RTD a great organization.
+
+## V. Public Participation
+
+Gary Van Dorn, Denver, said that he was speaking on behalf of the National Federation of the Blind of Colorado (NFBCO). He commented that Civic Center Station was absolutely gorgeous, but after exploring the station, he noted that half of the braille was incorrect or that signage required by the Americans with Disabilities Act (ADA) was missing. He stated that the NFBCO was unhappy that proper signage was not installed or was incorrect, and they were also dismayed that RTD did not consult with them in advance of Civic Center Station’s re-opening. He stated that he would like to work directly with the General Manager to resolve the issue as soon as possible.
+
+Chair Hoy said that Mr. Van Dorn’s concerns would be investigated right away.
+
+Chair Hoy added that Mr. Joe Triplett, a constituent who regularly attends Board meetings, was unable to attend and asked that the Chair extend a happy holiday message from him to the Board.
+
+## VI. Committee Reports
+
+Civil Rights Committee – Chaired by Director Solano
+
+Executive Committee – Chaired by Chair Hoy
+
+Financial Administration & Audit Committee – Chaired by Director Menten
+
+GM Oversight & Performance Management – Chaired by Director Francone
+
+Government Relations Committee – Chaired by Director Walker
+
+Operations & Customer Services Committee – Chaired by Director Anderson
+
+Planning/Capital Programs & FasTracks Committee – Chaired by Director Lubow
+
+There were no changes to the committee reports.
+
+### A. Minutes of Dec 5, 2017 5:30 PM
+
+### B. Minutes of Dec 5, 2017 5:30 PM
+
+### C. Minutes of Dec 12, 2017 5:30 PM
+
+### D. Minutes of Dec 12, 2017 5:30 PM
+
+### E. Minutes of Dec 14, 2017 12:00 PM
+
+## VII. General Manager Oversight and Performance Management Update
+
+There was no update from the General Manager Oversight and Performance Management Committee.
+
+## VIII. Approval of Board Meeting Minutes of November 28, 2017
+
+Motion:               Director Williams made the motion to approve the Board Meeting minutes of November 28, 2017.
+
+Director Deadwyler seconded the motion.
+
+Discussion:               Director Lubow said that there was an error in the minutes and that the discussion of the General Manager’s bonus only reflected 1% and not the original 4%.
+
+Rolf Asphaug, General Counsel, said that votes are reviewed from the bottom up, and the last vote was for 1%.
+
+Barbara McManus, Executive Manager of the Board Office, said that the 1% discussion was located in Other Matters.
+
+Mr. Asphaug reiterated that after the original motion failed where the 4% discussion occured, the motion was brought forward for re-consideration and was discussed in New Business.
+
+Chair Hoy noted that Director Lubow’s concern would be reviewed and corrected if needed.
+
+Vote on
+
+The Motion:              The motion passed with 12 in favor (Archuleta, Broom, Deadwyler, Folska, Hoy, Lubow, Mihalik, Menten, Sisk, Tisdale, Walker, Williams) and 0 against. Directors Anderson and Francone were absent and Director Solano abstained.
+
+Chair Hoy declared the motion PASSED unanimously.
+
+### A. Minutes of Nov 28, 2017 5:30 PM
+
+## IX. Chair's Report
+
+Chair Hoy provided the following report:
+
+Attended events and awards
+
+- December 1st – The Denver Regional Mobility & Access Council (DRMAC) Annual Meeting and Regional Coordinating Council (RCC) Annual Meeting was held, and Directors Tisdale and Williams attended.
+
+- December 4th – District H had its Open House in Centennial, and Director Tisdale attended.
+
+- December 4th – Was proclaimed Colorado’s Autonomous and Connected Vehicle Day, and Directors Mihalik and Williams attended the event at Panasonic.
+
+- December 5th – Mayor Hancock’s 2017 Sustainable Denver Summit was held in Denver. Director Solano attended.
+
+- December 7th – The Metro Mayors Caucus & Metro Area County Commissioners Regional Leadership Reception was held in Denver and Directors Francone, Lubow, and Tisdale attended.
+
+- December 8th – The South Metro Denver Chamber Economic Development Group breakfast was held in Centennial, and Director Tisdale attended.
+
+- December 13th – District I had its Open House in Longmont, and Director Lubow attended.
+
+- December 14th – District N had its Open House, and Director Francone attended.
+
+- December 15th – The Civic Center Re-Dedication Ceremony was held at Civic Center Station and Directors Archuleta, Broom, Deadwyler, Folska, Mihalik, Solano, Tisdale, Williams, and myself attended.
+
+Ongoing and upcoming events
+
+- January 4th – Director Solano will be attending the Denver Metro Chamber’s 5th Annual Business Legislative Preview Breakfast in Denver.
+
+- January 8th – District C will have its Open House at Trevista at Horace Mann in Denver, and Director Archuleta will attend.
+
+- January 9th – Commuting Solutions will host its 9th Legislative Breakfast at the Lionsgate Event Center in Lafayette.  Directors Sisk, Solano, and myself will attend.
+
+- January 9th – Will also be the Special Board Meeting and Executive Committee Election in this room.
+
+- January 10th – District E will host its Open House at Whole Foods Market in Denver, and Director Folska will attend.
+
+- January 11th – District D will host its Open House at Englewood High School and Director Walker will attend.
+
+- January 31st – District J will host its Open House, and I will be in attendance.
+
+Director Menten inquired as to which ways the Open Houses were being advertised.
+
+Scott Reed, Assistant General Manager of Communications, said that staff putt out news releases to the media and posted on RTD’s website and social media.
+
+Director Menten asked if Channel 8 was receptive to or being asked to provide the information on their channel.
+
+Mr. Reed said that sometimes, if an event is not a municipality specific event, they will not, but he noted that the information is being published and is available for their use.
+
+Director Menten noted that she was going to try to attend as many open houses as she could make. She added that she was going to start a Ride-n-Dine program in her district and noted that people who signed up for the event were responsible for paying their own way and the first event would be held at a dollar soup and salad bar.
+
+Mr. Reed noted that invitations were also emailed out to people to promote the events.
+
+Director Menten added that, if anyone would like to join her for the first Ride-n-Dine event, the meal itself would be inexpensive. She said that the ride and meal would be $17.50 or less, which included the tip.
+
+Director Folska said that, for District E, it would be great if RTD could advertise and invite city council members as well as local school administrators. She noted that publishing ads in local newspapers, such as The Villager, would be great.
+
+Mr. Reed explained that staff focused on the community newspaper in each district, the larger paper such as the Denver Post, and the local elected officials. He said that Directors were welcome to provide their own email list and added that staff would be happy to work with each Director on their specific needs or requests.
+
+## X. General Manager's Report
+
+General Manager Genova briefed the Board on the following activities:
+
+- Attended the American Public Transportation Association (APTA) Board Meeting, Leadership APTA and met with the Federal Railroad Administration (FRA) on Thursday, November 30th through Friday, December 1st.
+
+- Met with the Federal Transit Administration’s (FTA) Region VIII Administrator, Cindy Terwilliger, on Monday, December 4th.
+
+- Attended the Colorado Autonomous and Connected Vehicle day at Panasonic with Governor Hickenlooper on Monday, December 4th.
+
+- Met with Nancy Freed, Aurora Deputy City Manager, Mac Callison, Aurora Transportation Planning Supervisor, Dave Chambers, Aurora Director of Public Works, and Roberto Venegas, Aurora Assistant City Manager/Intergovernmental Relations and staff on Tuesday, December 5th.
+
+- Attended the Visit Denver Government & Community Affairs Committee on Wednesday, December 6th.
+
+- Had a conference call with the Denver Transit Partners (DTP) Board on Thursday, December 7th.
+
+- Attended a quarterly meeting with Mayor Hancock on Thursday, December 7th.
+
+- Attended the Metro Mayors Caucus & Metro Area County Commissioners Regional Leadership Reception on Thursday, December 7th.
+
+- Attended the Northwest/US 36 Stakeholder quarterly meeting on Friday, December 8th.
+
+- Met with State Representative Phillip Covarrubias on Monday, December 11th.
+
+- Attended the Civic Center Media Tour on Tuesday, December 12th.
+
+- Met with the APTA Rail Rodeo Planning Committee on Tuesday, December 12th.
+
+- Attended the Visit Denver Board of Directors Meeting on Wednesday, December 13th.
+
+- Met with the House Minority Leader Patrick Neville on Wednesday, December 13th.
+
+- Met with State Representative Cole Wist on Wednesday, December 13th.
+
+- Attended the 2017 Leadership Academy Graduation on Thursday, December 14th.
+
+General Manager Genova added that, after the pre-hearing conference with the administrative law judge, staff would look to set the final schedule in mid-January. He said that staff was confident that the hearing would be scheduled for some time in February, but staff would know more after the public commentary closed.
+
+Director Folska inquired if the Leadership Academy graduates could make their final presentations to the Board.
+
+General Manager Genova said that he would review the schedule to see if that could be added.
+
+Director Broom commented that he had read an article that stated that the student pass came out to $24.50 and asked if that was for both high school and college students
+
+Chair Hoy said that college passes were offered through the respective universities or colleges in the college pass program.
+
+General Manger Genova noted that, for college passes, RTD had a master contract with each college or university that opted into the program, and the cost of the pass was then passed onto each student through their student fees, whether they used the pass or not.
+
+Chair Hoy added that Front Range Community College did not like the concept of the all or nothing pass, and that was why they were not participating in the college pass program.
+
+Director Deadwyler asked if the article Director Broom mentioned was correct in that RTD offered student passes at $24.50.
+
+General Manager Genova said that any student up through high school, or age 19, could get a 50% discount on a pass, and currently a local monthly pass would equate to $49.00 for K-12 students.
+
+Chair Hoy commented that the article Director Broom had mentioned was wrong, and they had used a half of a half to get to $24.50 and were incorrect.
+
+Director Tisdale stated that, in light of the circumstances the previous day in Washington, he would like staff to provide information to the Board as it became available.
+
+General Manager Genova noted that it was very early in the investigation, and that train was not under Positive Train Control (PTC), whereas RTD’s system was.
+
+Director Williams thanked Heather McKillop, Chief Financial Officer and Assistant General Manager of Finance and Administration, for her input earlier in the day at the Pass Program Working Group (PPWG) and for all of her efforts in the process.
+
+## XI. Unanimous Consent
+
+Chair Hoy suggested that if there were any questions or need for discussion of an agenda item, a Director should request it be removed from the unanimous consent agenda.  Seeing none, he asked for a motion to approve items A through G.
+
+Motion:               Director Folska made the motion to approve items A-G on the unanimous consent agenda.
+
+Director Williams seconded the motion.
+
+Discussion:               Director Folska said that Denver Regional Council of Governments (DRCOG) did an outstanding job with the van pool, however, RTD and DROCG both provide transportation outside of the district and in the future she would like a broader conversation about that.
+
+Vote on
+
+The Motion:              The motion passed with 13 in favor (Archuleta, Broom, Deadwyler, Folska, Hoy, Lubow, Menten, Mihalik, Sisk, Solano, Tisdale, Walker, Williams) and 0 against. Directors Anderson and Francone were absent.
+
+Chair Hoy declared the motion PASSED unanimously.
+
+### A. 2017-010 : 2018 Audit Charter
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors approves the attached 2018 Audit Charter.
+
+##### a. 2018 Audit Charter Proposed final
+
+### B. 2017-011 : Annual Audit Plan 2018
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors approves the attached Annual Audit Plan for 2018.
+
+##### a. 2018 Audit Plan Proposed Final
+
+### C. 2017-012 : Budget Transfer for Planning Grant Projects
+
+It is recommended by the Financial Administration & Audit Committee that the RTD Board of Directors approve a budget transfer of $4.664 million from the Operating Reserve to the Planning base system expense grant project budget, effective January 1, 2018, to allow for the completion of grant-funded projects that will not be completed in 2017.  The Operating Reserve will be replenished in the 2018 Amended Budget with the funds that were not spent on these projects in 2017.
+
+### D. 2017-013 : Approve Contract Amendment for the Supply of 60 - 40' Transit Buses
+
+It is recommended by the Operations and Customer Service Committee that the RTD Board of Directors authorize the General Manager, or his designee, to exercise the contract option and amend contract 13-FH-053 with Gillig LLC. for the purchase of 60 additional 40’ transit buses and associated spare components in an amount not to exceed $26,350,000.
+
+### E. 2017-014 : 5311 Funding Agreement
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize the General Manager, or his designee, to execute all documents necessary to enter into funding agreements with Via Mobility Services and the Seniors’ Resource Center to provide RTD financial support for the provision of FTA Section 5311 (non-urbanized) services for Boulder County, Adams County and Jefferson County.  These Agreements are for calendar year 2018 and for amounts not to exceed $379,677.00 for Boulder County, $373,346.00 for Adams County and $115,679.00 for Jefferson County.
+
+### F. 2017-015 : City of Boulder Hop Funding Agreement
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize the General Manager, or his designee, to execute all documents necessary to enter into a Cost Sharing Agreement with the City of Boulder to provide RTD financial support for the operation of the HOP circulator bus service in the commercial areas of the City of Boulder, the University of Colorado at Boulder and adjacent business and residential areas. This agreement is for calendar year 2018 and is for an amount not to exceed $1,430,742.00.
+
+### G. 2017-016 : Exercise Option for On-Vehicle Advertising Contract
+
+It is recommended by the Operations/Customer Services Committee that the General Manager or his designee be authorized to exercise the one-time extension with Lamar Advertising of Denver [Lamar] for the two-year period January 1, 2018 through December 31, 2019.  Under the terms of the recommended action, Lamar would remit to RTD either 1) a minimum guarantee of $3.4 million in 2018 and $3.4 million in 2019 or 2) seventy percent of net sales, whichever is greater.
+
+## XII. Recommended Action
+
+### H. 2017-017 : Recommendation for On-Call Construction Services Contracts
+
+It is recommended by the Planning/Capital Programs & FasTracks Committee that the RTD Board of Directors authorize the General Manager to award contracts to Krische Construction, Gilmore Construction Corporation, HPM Incorporated and T-Bone Construction Inc. for On-Call Construction Services for one year, with four optional one-year extensions. The maximum cumulative value of the four contracts, including all optional extensions will not exceed $30 million.
+
+Motion:               Director Lubow made the motion to approve the Recommendation for On-Call Construction Services Contracts.
+
+Director Archuleta seconded the motion.
+
+Discussion:              Director Menten asked how this contract related to the 16th Street Mall repairs.
+
+General Manager Genova commented that there was a separate contract just for the 16th Street Mall repairs.
+
+Vote on
+
+The Motion:              The motion passed with 12 in favor (Archuleta, Broom, Deadwyler, Folska, Hoy, Lubow, Mihalik, Sisk, Solano, Tisdale, Walker, Williams) and 1 opposed (Menten). Directors Anderson and Francone were absent.
+
+Chair Hoy declared the motion PASSED.
+
+## I. 2017-018 : Contract Award for the Regional Bus Rapid Transit Feasibility Study
+
+It is recommended by the Planning/Capital Programs & FasTracks Committee that the RTD Board of Directors authorize the General Manager to approve a professional services contract award to Felsburg Holt & Ullevig to serve as the Contractor for assistance in the preparation of the Regional Bus Rapid Transit (BRT) Feasibility Study for an amount not to exceed $1,250,000.  Funding for this contract is included in the 2017 Adopted Budget for the Regional BRT Feasibility Study.
+
+Motion:               Director Deadwyler made the motion to approve the Contract Award for the Regional Bus Rapid Transit Feasibility Study.
+
+Director Archuleta seconded the motion.
+
+Vote on
+
+The Motion:              The motion passed with 11 in favor (Archuleta, Broom, Deadwyler, Hoy, Lubow, Menten, Mihalik, Solano, Tisdale, Walker, Williams) and 1 opposed (Folska). Directors Anderson and Francone were absent. Director Sisk was away.
+
+Chair Hoy declared the motion PASSED.
+
+### J. 2017-019 : Update to 2018 Quarterly Performance Measures
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors adopt updated 2018 Quarterly Performance Measures to include measures for ridership, fare revenue, and total operating revenue.
+
+Motion:               Director Archuleta made the motion to approve the Update to 2018 Quarterly Performance Measures.
+
+Director Tisdale seconded the motion.
+
+Vote on
+
+The Motion:              The motion passed with 11 in favor (Archuleta, Broom, Folska, Hoy, Lubow, Menten, Mihalik, Sisk, Solano, Tisdale, Walker) and 0 opposed. Director Williams abstained, and Director Deadwyler was away. Directors Anderson and Francone were absent.
+
+Chair Hoy declared the motion PASSED.
+
+##### a. 2018 updated final performance measures
+
+### K. 2017-020 : DRCOG Vanpool Funding Agreement
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize the General Manager, or his designee, to execute all documents necessary to enter into an Agreement with the Denver Regional Council of Governments (DRCOG) to provide RTD support and expansion of the DRCOG Way to Go vanpool program in the Denver metropolitan area. This agreement is for calendar year 2018 and shall be in an amount not to exceed $1,058,600.
+
+Motion:               Director Broom made the motion to approve the DRCOG Vanpool Funding Agreement.
+
+Director Lubow seconded the motion.
+
+Vote on
+
+The Motion:              The motion passed with 10 in favor (Archuleta, Broom, Folska, Hoy, Lubow, Sisk, Solano, Tisdale, Walker, Williams) and 2 opposed (Menten, Mihalik). Director Deadwyler was away. Directors Anderson and Francone were absent.
+
+Chair Hoy declared the motion PASSED.
+
+### L. Englewood Art Shuttle Funding Agreement
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize the General Manager, or his designee, to execute all documents necessary to enter into a Cost Sharing Agreement with the City of Englewood to provide RTD financial support for the operation of the Art circulator bus service in the City of Englewood. This agreement is for calendar year 2018 and is for an amount not to exceed   $336,208.
+
+Motion:               Director Archuleta made the motion to approve the Englewood Art Shuttle Funding Agreement.
+
+Director Williams seconded the motion.
+
+Vote on
+
+The Motion:              The motion passed with 11 in favor (Archuleta, Broom, Deadwyler, Folska, Hoy, Lubow, Sisk, Solano, Tisdale, Walker, Williams) and 2 opposed (Menten, Mihalik). Directors Anderson and Francone absent.
+
+Chair Hoy declared the motion PASSED.
+
+## XIII. Executive Session
+
+There was no executive session.
+
+## XIV. Old Business
+
+Director Lubow thanked staff for their hard work and their help at the Open House in Longmont. She said that everyone did a sterling job and it was a pleasant evening, which she was very grateful for.
+
+Director Menten added that she was glad to hear that the event was not hostile. She said that if District I knew how hard Director Lubow fought for her district, they would not be mean to her at all.
+
+## XV. New Business
+
+Director Folska thanked staff, her colleagues on the Board, and the Board Office and said that she was proud to serve the district and looking forward to the new year. She added that her heart and prayers were going out to everyone on the inaugural ride on the Washington train the previous day and commented that hopefully RTD could learn from that accident.
+
+Chair Hoy remarked that this would be the end of the year for the Board and he wanted to thank everyone in the room, and to those that could not make it for all of their hard work. He noted that, while sometimes the Board can get down in the weeds, the agency itself puts on a heck of an effort. He said that everyone was a part of the team and wished everyone a festive holiday season and prosperous new year.
+
+## XVI. Adjourn
+
+Chair Hoy adjourned the meeting at 6:30 p.m.
+
+Prepared and Transcribed by:
+
+__________________________________________________________________
+
+Barbara McManus, Executive Manager to the Board of Directors

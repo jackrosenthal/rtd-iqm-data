@@ -1,0 +1,107 @@
+## I. Government Relations Committee
+
+Chaired by Claudia Folska
+
+### A. Call to Order
+
+Committee Chair Folska called the meeting to order at 5:36 p.m.
+
+Director Deadwyler was absent.  Director Anderson participated via phone.
+
+Staff Present:              Bruce Abel, Jessie Carter, Susan Cohen, Heather Copp, Nate Currey, John Elias, Sherry Ellebracht, Terry Emmons, David Genova, John Gonzales, Doug Gragg, Erin Klaas, Russ Larson, Shantel Lewis, Marla Lien, Rik Lor, Doug MacLeod, Barbara McManus, Paula Perdue, Chris Quinn, Scott Reed, Henry Stopplecamp, Greg Straight, Walt Stringer, Mike Turner, Bill Van Meter, Michael Washington
+
+Others Present:              Jenifer Brandeberry, Roger Sherman, Megan Wagner
+
+#### 1. Resolution No. ___ Series of 2016, RTD Position on House Bill 16-1008
+
+Motion:              Director Sisk made the motion to move this item to the full Board at the February 16, 2016 Board Meeting.
+
+Director Lubow seconded the motion.
+
+Discussion:              There was no discussion on this item.
+
+Committee Chair Folska declared the motion PASSED unanimously.
+
+##### a. Resolution HB 16-1008
+
+#### 2. Resolution No. ___ Series of 2016, RTD Position on Senate Bill 16-011
+
+Motion:              Director Lubow made the motion to move this item to the full Board at the February 16, 2016 Board Meeting.
+
+Chair Tobiassen seconded the motion.
+
+Discussion:              Director Francone said it was her understanding that Senate Bill 16-011(SB 16-011) had already passed its second reading in the Senate.  She asked for an explanation as to the ramifications of approval of SB 16-011 for RTD and why it was coming before the Board so late.  Sherry Ellebracht, Government Relations Officer, explained that SB 16-011 was moving very quickly through the process.  She pointed out that this is the first Government Relations Committee Meeting since SB 16-011 was introduced.  She stated that currently RTD receives a minimum of $3 million annually under the Funding Advancements for Surface Transportation and Economic Recovery Act of 2009 (FASTER).  RTD also has the opportunity to compete for funding from a statewide pool of $2 million.  She stated that passage of SB 16-011 would have a significant impact on RTD’s funding.
+
+Director Francone inquired if her understanding was correct that the funds received under FASTER are to be used specifically for improvements to roads and bridges.  Sherry Ellebracht said that FASTER allocates $15 million for transit funding.  Marla Lien, General Counsel, explained that there is a broad definition of projects that can be eligible for FASTER funds.  She indicated that they had to be roadway related, so RTD could not use the funds to buy light rail vehicles, but funds had been used for things like the Mall Shuttle transitway, DUS, Park-n-Ride improvements, etc.
+
+Director Menten thought that if SB 16-011 passed, the funds would go back to CDOT for road improvements and safety.  Sherry Ellebracht said she thought that was correct.  Director Menten wondered if that meant these funds would be used to improve a bridge where our buses traveled over.  Sherry Ellebracht stated that it would depend on what area of the state CDOT decided to use the funding, and on what projects, but it was possible.
+
+Director Anderson pointed out that many of our riders use the vehicles to get to Park-n-Rides to use our service.  She believes passage of SB 16-011 would hinder projects that held the elderly and disabled access our services.  She indicated that she was in support of RTD’s position.
+
+Committee Chair Folska pointed out that many on the Board are concerned with a low income fare.  She thinks no longer receiving $3 million of FASTER funds will make RTD even more constrained in supporting those who are transit dependent.
+
+Committee Chair Folska declared the motion PASSED.
+
+##### a. Resolution SB 16-011
+
+#### 1. Local Update - CRL Associates
+
+Roger Sherman, CRL Associates, shared that he attended the Metro Mayors Caucus (MMC) Retreat on January 9th.  He commented that transportation was a major topic in a number of ways.  He said there was a presentation regarding a new non-profit called Mobility Choice with the goal of creating a vision for the future of mobility in the Metro area.  Roger Sherman said this non-profit will be analyzing the feasibility of a 2018 ballot measure to fund the vision that comes out of this group.  He said the second presentation related to transit was by Build a Better Colorado, which is the statewide conversation that is occurring around various constitutional challenges and funding/fiscal policies.  He noted that one of the items being discussed is a potential debrucing of the State which would provide new funding.  One of the other items under discussion is targeting some of those funds for transportation.  There was also a general discussion of transportation led by Mayor Jim Gunning.
+
+Roger Sherman pointed out that transportation is a major focus for our local elected mayors, but what is different is that there are very different opinions than we saw leading up to the 2004 election.  He stated that the MMC is meeting on February 3, 2016 as well to hear a presentation related to polling that was completed by the Colorado Contractors Association.  He said this polling has shown some favorability for a statewide sales tax for transportation.  He shared that there is interest in pursuing that for the 2016 ballot.  He explained that there is the risk that competition between the various transportation funding ideas could end up killing all of them.  He stated that there is agreement that there is a transportation funding challenge but very differing opinions about how to move forward.
+
+Roger Sherman shared that he will be attending the Colorado City and County Managers Association Conference at the end of February.  He believes it is very important for CRL to maintain those relationships.
+
+Roger Sherman informed the Board that he will be reaching out to them soon to schedule one-on-one meetings to begin preparing for the telephone town halls.  He said the plan is to start early so that everyone feels prepared.
+
+Director Francone said she was glad to hear that transportation is on everyone’s mind.  She wondered if there was any indication of the hot button issues for the MMC.  She wondered if it was bike trails, the bullet train from Cheyenne to Pueblo, etc.  Roger Sherman commented that the group never got into that level of detail; however, there were a lot of differing opinions that started to surface depending on where they were in the region and based on party affiliation.  He believes if there is a solution that encompasses everyone’s needs it will be harder to reach than the FasTracks tax ballot was in 2003/2004.
+
+Director Lubow asked if there was any specific discussion related to transit itself related to the Mobility Choice non-profit.  Roger Sherman stated that there was discussion about partnering with RTD, CDOT and DRCOG to talk about funding priorities.  There was also a discussion related to looking the FasTracks projects that had not yet been finished and looking at all the alternatives.  He noted another primary focus is first and last mile connection and if there is a way for the public and private sector to partner in those connections.
+
+##### a. CRL LGR Report 02-02-16
+
+#### 2. State Update - Brandeberry~McKenna
+
+Jenifer Brandeberry, Brandeberry~McKenna, thanked the Directors who were able to attend the Legislative Event at Denver Union Station.  She thought it was very well attended, and not just by legislators from the Front Range.  It was a great opportunity for educating the legislators and networking.
+
+Jenifer Brandeberry noted that the legislature is now up and running.  She shared that on the third and final reading House Bill 16-1008, roadway shoulder access for buses, it passed out of the House to the Senate.  She pointed out that this is a bipartisan bill that CDOT is leading along with support from RTD and DRCOG.  She expects the bill will continue to move forward quickly.
+
+Jenifer Brandeberry reiterated that this session is going to be marked by bills being introduced in one chamber and killed off by the other.  She said that bigger issues like transportation funding will come after the March forecast.
+
+Jenifer Brandeberry anticipates Senate Bill 16-037 dying this week in the Senate.  This is a bill by Senator Kefalas and Representative Pabon related to the Colorado Open Records Act (CORA).  She explained that there is a lot of concern surrounding the way it has been drafted and the burden that would be placed on the public entity in terms of how they needed to compile information.  She noted that this is a very complicated issue but thinks the time is right for there to be a stakeholder process to update CORA so it reflects current technology.
+
+Director Bagley commented that the Resolution related to the Board’s position of opposition of SB 16-011 passed 12 to 2.  He wondered if it was appropriate for members of the Board and staff to testify before the House on RTD’s position.  He thinks this bill is of critical importance to RTD.  Marla Lien, General Counsel, stated at this time the Board had not taken a position related to SB 16-011 as it had only passed the Government Relations Committee.  She said that assuming the Board passed the resolution any Board member or staff member could testify relative to RTD’s position; conversely, any Board member can testify as to their own personal position as long as they make it clear they are not testifying on behalf of the Board or RTD.
+
+Jenifer Brandeberry indicated she would be happy to work with members of the Board to craft appropriate testimony.  She reiterated that the likelihood of this bill passing is slim.  She pointed out that Director Menten testified in support of SB 16-011.  Jenifer Brandeberry said she wanted to thank Director Menten for the way she conducted herself.  Director Menten made it clear she was there as a personal citizen providing her personal opinion.
+
+Director Francone asked of Senate Bill 16-037 related to CORA was the bill requiring that records are provided in an electronic formal.  Jenifer Brandeberry said that was correct.  She reiterated that this bill will die in the Senate as it was not written right; however, she thinks there will be a second bill introduced later after a stakeholder group is established.
+
+Committee Chair Folska noted that SB 16-037 could have a real impact on RTD as we process many, many CORA requests.  Jenifer Brandeberry explained that there is a demand from some groups that would like to require certain types of burdens on public entities to format the records in a way that would benefit those groups.  The public entities are concerned about privacy issues, work that goes into preparing the records, etc.  She believes that most public entities recognize the need to update CORA to reflect current technology but the conversation is not yet ready for prime time.
+
+Director Menten shared that SB 16-037 is a bill she strongly supports.  She pointed out that there have been several stakeholder meetings since early December that were started by open records advocates.  She thinks the public entities are overreacting to this bill.  She hopes this bill does not die and she will be working on her end to move it forward.  She stressed that there has been a lot of stakeholder input.  She believes there has been a great deal of misinformation about what the bill is actually doing.  Jenifer Brandeberry agrees the conversation will continue.  She thinks it is a matter of striking a balance between what makes sense from a cost standpoint and a fairness standpoint.  She stated that Brandeberry~McKenna would continue to monitor the issue and report back to the Board.
+
+Director Bagley wanted to note that when Director Menten said ‘we’ related to SB 16-037 she was not speaking on behalf of the RTD Board.  He expressed concern that within the RTD Committee and Board meetings when someone used the term ‘we’ there was a tendency for that to mean the RTD Board.  Director Menten did not believe she implied she was speaking in reference to the RTD Board but instead she was speaking of a stakeholder group.
+
+Director Anderson believes everyone’s wishes need to be respected and an agreement needs to be reached related to updating CORA; however, it should not just be special interest groups that are dictating the changes.
+
+Director Solano wondered what House Bill 16-1097 was trying to accomplish by changing the oversight for permits for Medicaid transportation providers.  Jenifer Brandeberry explained that there is a program for recipient of Medicaid to receive transportation services.  She stated that on the Front Range the program works pretty well; however, in rural communities there have been issues surrounding how these people get services.  The permitting process for entities that want to provide those transportation services has been pretty laborious.  The goal of this bill is to streamline the process for service providers in rural areas.  She explained that sometimes there can be confusion between the Medicaid transportation services and Access-a-Ride so they monitor the discussion.
+
+Director Menten requested that it be made clear that the Resolution of RTD’s position on SB 16-011 passed by a vote of 12 to 2 in any testimony from RTD Directors or staff.
+
+Committee Chair Folska thanked Brandeberry~McKenna for their work on the Legislative event.  She thought they did a great job.  She also thanked the Directors that were able to attend.  She noted that Director Bagley put together some wonderful information about Denver Union Station.  She encouraged the Directors that were not in attendance to make sure they received a copy.
+
+##### a. State Update 2-2-16
+
+#### 3. Federal Update - Squire Patton Boggs
+
+Sherry Ellebracht commented that there was not much to report from Washington as there has not been much activity.  She said the next big thing coming up is the President’s Fiscal Year 2017 budget proposal that will come out in February.  She anticipates the Eagle P3 will be in the proposal but Squire Patton Boggs will be watching it very closely and report back.
+
+##### a. Federal Update 2 2 16
+
+### D. Other Matters
+
+Director Francone reported that on January 20 she attended the Hispanic Contractors of Colorado’s annual dinner.  She shared that they were very excited to have someone from RTD in attendance.  She thought it was a wonderful outreach and noted that the Hispanic community, especially the small business, are very anxious to do business with RTD.
+
+### F. Adjourn
+
+Committee Chair Folska adjourned the meeting at 6:16 p.m.

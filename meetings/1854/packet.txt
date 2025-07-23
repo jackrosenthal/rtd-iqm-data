@@ -1,0 +1,1309 @@
+1600 Blake Street
+Denver, CO 80202-1399
+303-299-2303
+
+Regional Transportation District
+
+Board of Directors
+Chair – Lorraine Anderson, District L
+First Vice Chair – Kent Bagley, District H
+Second Vice Chair – Larry Hoy, District J
+Secretary – Bruce Daly, District N
+Treasurer – Jeff Walker, District D
+Barbara Deadwyler, District B
+Dr. Claudia Folska, District E
+Bill James, District A
+Gary Lasater, District G
+Judy Lubow, District I
+
+Natalie Menten, District M
+Angie Rivera-Malpiede, District C
+Chuck Sisk, District O
+Paul Daniel Solano, District K
+Tom Tobiassen, District F
+
+AGENDA
+Operations & Customer Service Committee
+Tuesday, November 19, 2013
+Rooms R, T, & D
+5:30 PM
+Conference Dial-in # 303-299-2663
+Conference ID: 15120
+
+Operations and Customer Service Committee
+Chaired by Tom Tobiassen
+
+A. Call to Order
+B. Public Safety Update - Denver Police Chief - Robert White
+C. Recommended Actions
+
+• Award Contract to Purchase Video Event Recorders for Bus Safe Driving
+Management
+
+• Award of Access-a-Ride Services Contracts
+• Amendment of ADA Contracts for Call-n-Ride Service Awards
+• Award Contract to Supply 125 – 40’ Low-Floor Transit Buses
+• Paratransit Service Extension and Funds
+D. Updates
+
+• Smart Card Project Status Update
+
+ Update on DUS Service Change Meetings - No Back Up
+ DesignLine Update - No Back Up
+E. Other Matters
+F. Next Meeting Date - December 10, 2013
+G. Adjourn
+
+The following communication assistance is available for public meetings:
+ Language Interpreters
+ Sign-language Interpreters
+ Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 hours in advance of a RTD
+meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+1.C.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: November 12, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+November 8, 2013
+
+Board Meeting Date: November 19, 2013
+
+Subject:
+
+Award Contract to Purchase Video Event
+Recorders for Bus Safe Driving Management
+
+RECOMMENDED ACTION
+It is recommended by the Operations/Customer Service Committee that the RTD Board of Directors
+authorize the General Manager, or his designee, to award the contract to SmartDrive Systems of San
+Diego, CA, for the purchase of up to 600 event recorder systems and five (5) years of managed services
+to host and review data, provide event management in web application and produce driving behavior
+reports to allow coaching of drivers on safe driving and accident reduction.
+BACKGROUND
+The safe driving management system is made up of onboard recording equipment and back office data
+review and evaluation. The onboard equipment consists of an event recorder mounted on the bus
+windshield with outward and inward facing cameras controlled by an onboard computer. The system
+records video, audio, GPS location, speed, and accelerations in all three axes. The system saves data 15
+seconds before and 15 seconds after an event. An event is triggered either automatically by preset
+parameters, like g-forces being out of normal range signifying an impact or unusual maneuver of some
+sort, or by the driver manually initiating the recording. Data for these events are uploaded to the service
+provider each night and reviewed for the cause and severity of the event. The information is filtered,
+prioritized and then fed back to RTD to enable effective coaching with the drivers.
+Driver coaching based on data from video-based data recorders has been shown to reduce risky driving
+behaviors. Poor behaviors can be addressed and good behaviors reinforced. The coaching process to
+reduce poor driving behaviors will result in fewer accidents, more comfortable rides, and safer buses. In
+addition, the system has been shown to provide objective data to document the cause of accidents for
+reducing false claims.
+The Request for Proposals (RFP) was issued on June 11, 2013 for the procurement of a Video-Based
+Fleet Safety Management Solution.
+
+DISCUSSION
+Proposals were received from two (2) companies: SmartDrive Systems and DriveCam. The proposals
+were rated according to their proposed costs and company technical ability. SmartDrive was the lowest
+cost proposal. It also showed compliance with RTD's technical requirements, to include the provisions
+for connecting systems to our onboard mobile router for data transfer to WIFI cloud available in each of
+the bus garages, and interfacing with RTD's new CAD/AVL system to retrieve driver assignment data.
+DriveCam's system is lacking the WIFI transfer. It uses a cellular connection for data transfer, which
+requires recurring cellular phone fees and contributes to their higher proposed cost. In addition, their
+proposal did not detail how they would document driver bus assignments.
+
+Packet Pg. 3
+
+1.C.1
+
+SmartDrive
+
+DriveCam
+
+Item
+
+QTY
+
+Unit Cost
+
+Subtotal
+
+Unit Cost
+
+Subtotal
+
+On Board Equipment
+Prototype Installation
+Testing,Documentation Services
+Total One Time Costs
+
+600
+10
+1
+
+$438.80
+$160.00
+$3,175.15
+
+$263,280.00
+$1,600.00
+$3,175.15
+$268,055.15
+
+$693.00
+$450.00
+$2,800.00
+
+$415,800.00
+$4,500.00
+$2,800.00
+$423,100.00
+
+Bus
+QTY
+
+Cost per
+Bus/Month
+
+600
+600
+600
+600
+600
+
+$28.00
+$28.00
+$28.00
+$28.00
+$28.00
+
+Monthly Costs
+Managed Services to host and
+review data, provide event
+management in web
+application, provide reports.
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Total Recurring Cost
+
+Total Cost
+
+Subtotal
+
+$201,600.00
+$201,600.00
+$201,600.00
+$201,600.00
+$201,600.00
+$1,008,000.00
+
+Cost per
+Bus/Month
+
+$42.00
+$42.00
+$42.00
+$42.00
+$42.00
+
+$1,276,055.15
+
+Subtotal
+
+$302,400.00
+$302,400.00
+$302,400.00
+$302,400.00
+$302,400.00
+$1,512,000.00
+
+$1,935,100.00
+
+RTD has used two approaches to reduce the cost of this system. First, RTD requires the integration
+with the existing onboard mobile router for daily data transfer via WIFI cloud, thus eliminating recurring
+cellular fees. Second, RTD will use in-house personnel for the equipment installations.
+
+FINANCIAL IMPACT
+
+This contract is for the purchase of up to 600 sets of onboard equipment and five years of managed
+services to host and review event data, manage the events in a web application, and provide reports and
+program reviews. The funding for the equipment purchase is approved and available in the District's
+2013 Adopted Budget. Funding for year one is included in the District's 2014 Proposed Budget and the
+following years will be included on an ongoing basis. Total not to exceed costs are $268,055 for the
+equipment and $201,600 per year for five (5) years of managed services.
+DBE PARTICIPATION
+There was no DBE requirement for work performed under this contract.
+
+Packet Pg. 4
+
+1.C.1
+
+ALTERNATIVES
+1. To authorize the General Manager to award a contract to SmartDrive Systems for the purchase of up
+to 600 event recorder systems and for five (5) years of managed services to host and review data,
+provide event management in web application and provide reports. This is the recommended alternative.
+2. Award the contract to the DriveCam, the second high rated proposal. This is not the recommended
+action as it would contradict with RTD's procurement practice.
+3. Do not authorize the award of the contract. This is not desirable as it would not provide the expected
+safety benefit to our drivers, passengers and communities.
+4. Do not authorize the award of the contract and re-solicit proposals. This is not desirable as it would
+result, at the very least, in a delay in the expected benefits and may increase the cost of the project.
+
+Prepared by:
+Lou Ha, Manager
+MinuteTraq Admin,
+Approved by:
+
+Packet Pg. 5
+
+1.C.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: November 13, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+November 13, 2013
+
+Board Meeting Date: November 19, 2013
+
+Subject:
+
+Award of Access-a-Ride Services Contracts
+
+RECOMMENDED ACTION
+It is recommended by the Operations and Customer Service Committee that the Board of Directors
+authorize the General Manager, or his designee, to enter into contracts for the provision of Access-aRide services using dedicated (RTD owned) vehicles with MV Transportation, Horizon Coach Lines, and
+Via Mobility Services. These contracts are for three years, with two one-year options for a 5-year, with
+a cumulative not-to-exceed cost of $145,700,972 for Access-a-Ride service and $28,125,117 for
+Access-a-Ride fuel, for a total not-to-exceed amount of $173,826,089. The contract amounts by
+service provider are as follows: MV Transportation - $66,279,862 for service, $14,062,559 for fuel,
+for a total not-to-exceed amount of $80,342,421; Horizon Coach Lines - $42,484,584 for service,
+$7,031,279 for fuel, for a total not-to-exceed amount of $49,515,863; and Via Mobility Services $36,936,526 for service, $7,031,279 for fuel, for a total not-to-exceed amount of $43,967,805. The
+committee further recommends that the Board of Directors authorize the General Manager, or his
+designee, to enter into a contract for the provision of Access-a-Ride services with non-dedicated
+(contractor provided) vehicles with Veolia Transportation on Demand. This contract is for three years,
+with two one-year options for a total 5-year, not-to-exceed amount of $9,811,727. Fuel for this
+contract is included in the total contract price. These proposals represent the most responsive and
+responsible proposals received in response to Request for Proposals (RFP) 13-DH-035, to provide
+Access-a-Ride Services.
+BACKGROUND
+The Americans with Disabilities Act (ADA) requires that public entities operating a fixed route system
+also provide paratransit service to individuals with disabilities that is comparable to the level of service
+provided to individuals without disabilities. RTD adheres to the U.S. Department of Transportation, Part
+37 regulations (Transportation for Individuals with Disabilities) which regulate paratransit services. All
+policies regarding services were developed in concert with a citizen advisory committee comprised of
+individuals from the disabled community. The original design of the Access-a-Ride program was adopted
+by the RTD Board of Directors and was forwarded to the Federal Transit Administration for their
+approval.
+The current Access-a-Ride structure consists of one Call Center Contractor and four Service Provider
+Contractors. First Transit operates the Call Center while Global Transportation, Horizon Coach Lines,
+MV Transportation, and Via Mobility Services provide the service. In addition, all paratransit eligibility
+functions are handled under contract with Easter Seals of Colorado. The current Access-a-Ride service
+provider contracts are currently scheduled to expire December 31, 2013.
+On August 16, 2013, RTD issued a Request for Proposals (RFP) soliciting technical and price proposals
+to provide Access-a-Ride and Call-n-Ride services. Proposers had the option of bidding on 50%, 25%,
+or 16.6% of the Access-a-Ride service and up to two packages of Call-n-Ride service. This service
+represents the re-bid of service currently provided by Global Transportation, Horizon Coach Lines, MV
+Transportation, and Via Mobility Services. The RFP was available on the RTD external website for public
+
+Packet Pg. 6
+
+1.C.2
+
+download. In addition, announcements were placed in transit publications. Proposals were due on
+September 20, 2013.
+DISCUSSION
+Twelve (12) proposals were received in response to RFP 13-DH-035 for the Provision of Access-a-Ride
+services. Proposals were received from Apple Bus Company, First Transit, Global Transportation, Horizon
+Coach Lines, McDonald Transit Associates, MV Transportation, Ride Right, SCR Medical Transportation,
+Trinity Transit, Veolia Transportation and Veolia Transportation on Demand (separate proposals for both
+dedicated and non-dedicated vehicle service), and Via Mobility Services (formerly known as Special
+Transit).
+It is the recommendation of the evaluation committee formed to evaluate proposals received in response
+to RFP 13-DH-035, that RTD award contracts for the Access-a-Ride service provision to MV
+Transportation (50% of the revenue hours), Horizon Coach Lines (25% of the revenue hours), and Via
+Mobility Services (25% of the revenue hours). This recommendation is based upon the evaluation of the
+proposals according to the evaluative criteria as set forth in the RFP for this procurement. The
+evaluative criteria established for this procurement were: a) understanding/approach and organization for
+implementation (40%); b) experience of firm and individuals proposed for key positions and disciplines
+(25%); c) Small Business Enterprise (SBE) Submittal / Compliance (5%) and d) price (30%).
+The evaluation team consisted of Larry Buter, Manager, Paratransit Services; Maria Christian,
+Technician, Contracted Services; Steve Gieske, Assistant General Superintendent, Maintenance; Kenn
+Hardin, Senior Manager, Civil Rights; Pat Heye, Senior Alternative Service Planner / Scheduler; Brian
+Matthews, Manager, Special Services; Chris Sills, Paratransit Safety and Training Compliance Officer;
+Joy Volz, Paratransit Quality Assurance Supervisor; and Mac Weeden, Senior Quality Control Inspector.
+The members of the evaluation team individually reviewed the technical proposals submitted by the
+twelve proposers. Each team member evaluated the proposals on how well the proposal met the
+evaluative criteria set forth for the procurement and assigned a score for “Understanding and Approach”
+and for “Experience and Proposed Key Positions.” “SBE Submittal and Compliance” was evaluated and
+scored by the Civil Rights Division. The score for the “Cost” element of each proposal was calculated
+by the RTD procurement staff and was then added to the technical score and the SBE score of each
+proposal to determine the overall score or rating of each proposal.
+The key strengths of each proposal are as follows:
+Apple Bus Company – previous experience with a similar sized system.
+First Transit – previous experience, proposed installation of DriveCam system, comprehensive training
+and maintenance program.
+Global Transportation – incumbent, good training program, no start up.
+Horizon Coach Lines – incumbent, good maintenance program, no start up.
+McDonald Transit Associates – good maintenance program and quality control systems.
+MV Transportation – incumbent, proposed new technologies to monitor service, good maintenance and
+training program.
+Ride Right – previous experience with a similar sized system.
+SCR Medical Transportation – previous experience, good training and quality control systems.
+Trinity Transit – previous experience with Access-a-Ride Project Management.
+
+Packet Pg. 7
+
+1.C.2
+
+Veolia Transportation (dedicated vehicle) – previous experience, good maintenance plan, good training
+program.
+Veolia Transportation on Demand (non-dedicated vehicle) – existing provider, limited start up, offers
+scheduling flexibility.
+Via Mobility Services – incumbent, strong maintenance and training, no start-up.
+The key weaknesses of each proposal are as follows:
+Apple Bus Company – proposal failed to address all operational requirements.
+First Transit – requires start up activities.
+Global Transportation – proposed Maintenance Manager, not acceptable to RTD, maintenance plan
+undeveloped.
+Horizon Coach Lines – expansion to 25% service levels would require facility relocation.
+McDonald Transit Associates – several key personnel did not meet minimum requirements.
+MV Transportation – high turn-over rate.
+Ride Right – proposal failed to address all operational requirements.
+SCR Medical Transportation – proposal failed to address all operational requirements.
+Trinity Transit – proposal failed to address all operational requirements.
+Veolia Transportation (dedicated vehicle) – proposed Maintenance Manager has limited experience at the
+25% service level.
+Veolia Transportation on Demand (non-dedicated vehicle) – limited quality control.
+Via Mobility Services – operational logistics concerns at the 25% service level.
+The total overall scores regardless of the proposed service model, including SBE rating and cost rating
+were as follows:
+MV Transportation –
+Via Mobility –
+First Transit –
+Horizon Coach Lines –
+Veolia (dedicated) –
+Global Transportation –
+McDonald –
+SCR –
+Ride Right –
+Apple Bus Co –
+Trinity Transit –
+Veolia (non-dedicated) –
+
+96
+83
+81
+71
+71
+69
+67
+66
+60
+59
+46
+Veolia was the only proposer to bid on the non-dedicated vehicle option.
+
+An evaluation of the total program cost was made by identifying the firms that scored in the competitive
+range and then comparing the proposed prices for the 50%, 25%, and16.6% service levels. The service
+model deemed most advantageous to the District in terms of both quality and cost resulted in a
+combination of one 50% provider (MV Transportation) and two 25% providers (Via Mobility and Horizon
+Coach Lines). It was the consensus of the evaluation team that these firms presented the best proposals
+in terms of the understanding of the project, proposed management team, proposed organization,
+approach to deliver the requested service, attainment of SBE goals and proposed price.
+The evaluation team also considered maintaining the current four provider model. Using the costs
+provided by the lowest priced service provider for the 50% service level plus the lowest prices of the
+
+Packet Pg. 8
+
+1.C.2
+
+three service providers in the competitive range for the 16.6% service level, resulted in an overall
+program cost increase of $4.5 million dollars over the five-year contract term. However, the evaluation
+team had questions regarding changing the service model from four contractors to three and increasing
+the proposed providers from a 16.6% to a 25% service level. Oral presentations were conducted with
+the firms in the competitive range for the provision of 25% service model: Horizon Coach Lines, Veolia
+Transportation (dedicated vehicle), and Via Mobility Services. The purpose of the oral presentations was
+to offer these firms an opportunity to further articulate their operating plan and to respond to the
+questions of the evaluation team. Furthermore, Veolia Transportation on Demand (non-dedicated
+vehicle) was invited to provide clarification on the non-dedicated vehicle approach to providing Access-aRide services. At the conclusion of the oral presentations, the evaluation team again met and concluded
+that the three provider service model represented the best model for the District and our passengers.
+Therefore, the recommendation of the evaluation committee was to contract with MV Transportation to
+provide 50% of the revenue hours, Horizon Coach Lines to provide 25% of the revenue hours, and Via
+Mobility Services to provide 25% of the revenue hours; and to contract with Veolia Transportation to
+provide non-dedicated-vehicle Access-a-Ride service.
+FINANCIAL IMPACT
+The recommended action is based upon the evaluation committee’s determination that the recommended
+firms’ proposals represent the most responsive and responsible proposals received in response to the
+RFP issued by the District. This determination is based upon the evaluation of technical, SBE and price
+issues consistent with the evaluative criteria established by RTD and communicated in the RFP
+document.
+An RTD internal financial analysis indicated that the estimated cost to provide these services would be
+higher than the prices offered by the recommended service providers. The estimated cost was based on
+current and projected wage rates and other operating expenses. The financial comparison of the top
+three proposals at the 50% and 25% service levels to the top four proposals at the 50% and 16.6%
+resulted in the three provider model yielding a $4.5 million dollar savings to the District over the fiveyear contract term.
+Funds for the provision of the first year of service under this contract are included in the 2014 requested
+budget. There are no proposed start-up costs, and therefore, there is no start-up cost impact on the
+2014 budget. Funds will be requested in future budgets for the provision of service in future years.
+
+ALTERNATIVES:
+1)
+2)
+
+3)
+
+Award contracts to Horizon Coach Lines, MV Transportation, and Via Mobility Services,
+and Veolia Transportation on Demand as recommended.
+Maintain current levels of service, one 50% service provider and three (3) 16.6% service
+providers for an additional cost of $4.5 million dollars. This is not recommended as it does
+not reflect the outcome of the evaluation team’s evaluation process.
+Resolicit the RFP. This is not recommended as the proposal process has resulted in a
+responsive and responsible proposal and is less expensive than the RTD internal cost
+estimate (ICE).
+
+Prepared by:
+
+Packet Pg. 9
+
+1.C.2
+
+Larry Buter, Manager
+Carolyn Conover, Senior Manager
+Approved by:
+
+Packet Pg. 10
+
+1.C.3
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: November 13, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+November 13, 2013
+
+Board Meeting Date: November 19, 2013
+
+Subject:
+
+Amendment of ADA Contracts for Call-n-Ride
+Service Awards
+
+RECOMMENDED ACTION
+It is recommended by the Operations and Customer Service Committee that the Board of Directors
+authorize the General Manager, or his designee, to amend the new ADA paratransit services contracts
+with MV Transportation and Via Mobility Services (per solicitation #13-DH-035) for the provision of Calln-Ride services. The amendment to the MV Transportation contract is for three years, with two one-year
+options and shall not exceed $19,039,885 for the 5-year period for Call-n-Ride services. The
+amendment to the Via Mobility Services contract is also for three years, with two one-year options and
+shall not exceed $8,692,084 for the 5-year period for Call-n-Ride services. In addition, these contracts
+will include a cost for fuel which will be treated as a pass through expense. The total 5-year estimated
+cost for Call-n-Ride fuel for MV Transportation is $3,333,539 and for Via Mobility Services is
+$1,380,399. The total 5-year not-to-exceed cost for MV Transportation is $22,373,424. The total 5year not-to-exceed cost for Via Mobility Services is $10,072,483.
+BACKGROUND
+On August 16, 2013, RTD issued a Request for Proposals (RFP) soliciting technical and price proposals
+to provide Access-a-Ride and Call-n-Ride services. Call-n-Ride services were included in the Access-aRide services RFP because these services had been assigned to and were operated by ADA paratransit
+service providers under the existing contracts. Past experience has shown that the cost of Call-n-Ride
+service is lower when combined with Access-a-Ride service because of reduced overhead costs.
+All of the existing Call-n-Ride services (with the exception of the Evergreen CNR) were divided into three
+(3) service packages and proposers were allowed to bid on one or two packages. Proposers were
+required to bid on Access-a-Ride service in order to also bid on Call-n-Ride service (Call-n-Ride service
+was not a “stand alone” service option). Proposers were not required to submit a separate proposal for
+Call-n-Ride service, but they were required to detail how they would address the unique operational
+requirements of the service.
+The Call-n-Rides included in each package are as follows:
+Package A
+Arapahoe
+Belleview
+Dry Creek
+Highlands Ranch
+Lone Tree
+Meridian
+North Inverness
+Orchard
+Parker
+
+Package B
+Belmar
+Golden
+Green Mountain
+South Jeffco
+
+Package C
+Brighton
+Broomfield
+Federal Heights
+Interlocken
+Longmont
+Louisville
+South Thornton
+Thornton
+
+Packet Pg. 11
+
+1.C.3
+
+South Inverness
+The new contracts for ADA paratransit service include the option for the assignment of Call-n-Ride
+service so that Call-n-Ride service can be assigned to those contracts.
+DISCUSSION
+Subsequent to the evaluation of the Access-a-Ride RFP responses and recommendation for contract
+award, the Call-n-Ride proposals were evaluated. Only proposers that were recommended to provide
+Access-a-Ride service were considered to provide Call-n-Ride services. The Call-n-Ride proposals were
+evaluated on the following criteria: a) understanding/approach and organization for implementation
+(40%); b) experience of firm and individuals proposed for key positions and disciplines (25%); c) Small
+Business Enterprise (SBE) Submittal / Compliance (5%) and d) price (30%).
+Via Mobility Services, formally known as Special Transit, has operated Call-n-Ride service for
+approximately twelve years. The management team is well experienced in the provision of Call-n-Ride
+service. Via Mobility currently provides Call-n-Ride service from a facility in the Boulder area and a
+facility in the Denver area. This allows a quicker response time in case of vehicle maintenance problems
+and cuts down on excessive deadhead mileage and fuel expenses.
+MV Transportation has operated Call-n-Ride service for approximately ten years. MV Transportation
+proposed a team comprised of experienced Call-n-Ride managers and drivers, and it has provided quality
+Call-n-Ride service throughout its tenure. The MV Transportation facility is located in the south metro
+area which provides good access for the Call-n-Rides in service packages A & B.
+Horizon Coach Lines does not have any experience operating Call-n-Ride service for RTD. Horizon’s
+initial RFP response provided pricing for Call-n-Ride package C. During the follow up interview with the
+Horizon team, the organization identified that it had intended to bid on package B, not package C. In
+addition to this oversight, the Horizon proposal provided very limited discussion on the operation of the
+Call-n-Ride and the proposed Call-n-Ride Supervisor had limited experience managing this type of service.
+The evaluation of the Call-n-Ride service proposals and pricing resulted in a recommendation to assign
+Call-n-Ride Packages A and B to MV Transportation under the ADA paratransit contract and Call-n-Ride
+Package C to Via Mobility Services under the ADA paratransit contract. The contracts to provide these
+services are scheduled to be effective April 1, 2014.
+
+FINANCIAL IMPACT
+Funds for the provision of the first year of service under this contract are included in the 2014 requested
+budget. There are no proposed start-up costs, and therefore, there is no start-up cost impact on the
+2014 budget. Funds will be requested in future budgets for the provision of service in future years.
+
+ALTERNATIVES:
+1)
+
+Assign Call-n-Ride service to MV Transportation and Via Mobility as recommended. This is
+recommended as both contractors’ personnel have Call-n-Ride experience and can provide
+the direct supervision for a smooth contract transition.
+
+Packet Pg. 12
+
+1.C.3
+
+2)
+
+Assign Call-n-Ride service to another ADA paratransit contractor. This alternative is not
+recommended as the other contractor will be experiencing an increase in their Access-aRide revenue hours and this will be a new service for them. This would also contradict the
+results of the evaluation process.
+
+Prepared by:
+Brian Matthews, Manager
+Approved by:
+
+Packet Pg. 13
+
+1.C.4
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: November 14, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+November 14, 2013
+
+Board Meeting Date: November 19, 2013
+
+Subject:
+
+Award Contract to Supply 125 – 40’ LowFloor Transit Buses
+
+RECOMMENDED ACTION
+
+It is recommended by the Operations/Customer Service Committee that the RTD Board of Directors authorize
+the General Manager, or his designee, to award a contract to Gillig LLC for the purchase of 125 – 40’ low-floor
+transit buses and associated spare components in the amount not to exceed $51,800,000, with an option to
+purchase up to 307 additional 40’ buses over a five year period.
+BACKGROUND
+RTD’s existing 2000 Series Orion 40’ transit buses have exceeded their FTA service life of 12 years or 500,000
+miles. The buses are coming up to 14 years old and have accumulated on average 585,000 miles of stop-andgo transit service. They have become unreliable and require intensive maintenance to keep them in service.
+The bus manufacturer, Orion Bus Industries, went out of business a few years ago. Many components for bus
+repair have become difficult to obtain. The adopted Strategic Budget Plan (SBP) calls for the replacement of
+the 2000 Series buses over the next three years, 125 buses in 2013, 110 buses in 2014, 64 buses in 2015 and
+10 buses per year afterward.
+The Request for Proposals (RFP) was issued on May 24, 2013 for the procurement of 40’ transit buses. The
+RFP solicited proposals that offer buses in different power configurations: clean diesel, CNG and hybrid
+electric. Proposals were received on September 4, 2013.
+DISCUSSION
+Proposals were received from four companies: Gillig, New Flyer, Nova Bus, and North American Bus Industries
+(NABI).
+The proposers submitted their costs as follows.
+
+Gillig
+
+Clean Diesel
+Bus
+$412,662
+
+CNG Bus
+$460,622
+
+New Flyer
+
+$439,990
+
+$478,941
+
+NOVABUS
+
+$429,950
+
+$486,100
+
+Hybrid Bus
+$579,227 (Series Hybrid)
+$604,081 (Parallel Hybrid)
+$585,681 (Series Hybrid)
+$626,951 (Parallel Hybrid)
+$595,270 (Series Hybrid)
+$627,600 (Parallel Hybrid)
+
+Packet Pg. 14
+
+1.C.4
+
+NABI
+
+$473,066
+
+$512,269
+
+No Bid (Series Hybrid)
+$665,570 (Parallel Hybrid)
+
+Staff has performed a life cycle cost analysis of the different power configurations to determine the most cost
+effective and efficient propulsion power system for the new buses.
+The hybrid buses are $166,565 (for the series hybrid) or $191,419 (for the parallel hybrid) higher in unit cost
+than the diesel buses. Accordingly, RTD would only be able to purchase 85 to 89 hybrid buses for the available
+budget instead of the 125 replacement vehicles desired.
+Based on RTD’s experience of 20% better fuel economy for the hybrid buses and its current diesel fuel
+purchase price, it would take between 31 and 36 years to reach the break-even point on the capital
+investment for hybrid buses. This far exceeds the twelve (12) year useful life of the vehicle. Accordingly, hybrid
+vehicles were eliminated from further consideration.
+The CNG buses are $47,960 higher in unit cost than the diesel buses. Accordingly, RTD would only be able
+to purchase 112 CNG buses for the available budget instead of 125 replacement vehicles desired.
+In order to convert to CNG operations, RTD must also invest in new CNG stations and safety modifications
+of existing maintenance and parking facilities. Since the 40’ buses will be distributed to all three RTD’s
+divisions and four private operators’ divisions, all seven divisions would have to be modified for CNG. The
+CNG stations required for fueling CNG vehicles at seven divisions are estimated to cost upward of $17.3
+Million. The facility modifications to these divisions to bring them into compliance with fire codes for safe
+operations of CNG fuel are estimated to cost up to $31.4 Million. The total facility upgrades for the seven
+divisions are estimated to result in a $48.7 million investment. No funding has been identified to finance
+these necessary capital improvements.
+Currently, CNG fuel cost is equal to about 50% of diesel fuel cost. Based on the RTD’s average year to date
+purchase prices of $3.26 per gallon of diesel and $1.62 per diesel gallon equivalent of CNG, together with
+the assumption that the price differential between diesel fuel and CNG fuel would stay the same
+throughout the future years under this analysis, it would take 13 years to reach the break-even point on
+the capital investment for CNG buses and required facility upgrades.
+
+The CNG analysis by staff indicates:
+
+Savings in CNG fuel cost will be more than offset by the higher cost of bus purchase and
+upgrading the maintenance and parking facilities.
+
+Prices of natural gas and diesel fuel have been historically extremely volatile. There is no
+guarantee that the current pricing advantage of natural gas over diesel fuel will continue into the
+future. Examples of the price volatility are shown below.
+
+Packet Pg. 15
+
+1.C.4
+
+Nov-04
+Nov-05
+Nov-06
+Sep-08
+Aug-11
+Sep-13
+
+Diesel
+$/gallon
+$1.690
+$1.980
+$2.000
+$3.200
+$2.365
+$3.260
+
+CNG
+$/gallon
+$2.017
+$2.585
+$1.752
+$1.576
+$1.889
+$1.635
+
+CNG Cost as
+Percent of
+Diesel Cost
+119%
+131%
+88%
+49%
+80%
+50%
+
+
+There are no significant air quality impacts to convert from diesel to CNG operations. Both new
+clean diesel and new CNG buses have significantly lower emissions than the older buses they replace.
+The emissions of new clean diesel and CNG buses are considered to be the same.
+
+The CNG facility upgrade will take at least two years to implement. Going with CNG buses will
+delay the bus procurement process at least two years.
+
+In the past CNG buses showed higher maintenance costs than diesel buses. However, in the
+last several years, CNG engine technology has improved. Even though CNG buses require certain new
+costs for CNG related maintenance such as CNG engine sparkplug replacement and high pressure fuel
+system maintenance, staff has assumed CNG and diesel maintenance costs to be equivalent.
+
+The reliability and durability of CNG engines are still questionable at high altitude and cold
+weather conditions, coupled with the usage of low energy natural gas available in Denver metro area.
+High altitude conditions cause loss of engine power and hotter engine operating temperature. Cold
+weather causes CNG engine starting problems. Denver’s natural gas has lower energy content than the
+rest of the country. Low energy gas causes engine operating issues.
+
+CNG is a combustible gas at very high pressure (3,600 pounds per square inch of pressure).
+Safety and security for the operation of CNG are of concern.
+
+The high cost CNG stations and associated facility upgrades may become obsolete in 12 years at
+the end of life of the buses under this procurement. Electric vehicle technology appears to be the
+preferred technology of the future. A number of electric buses are currently in production or under
+demonstration by bus manufacturers. As electric bus technology is still in its infancy, it currently has
+issues such as high purchase cost and low operating range. In the upcoming years, it is expected that
+the technology will advance and production processes will improve, allowing the bus cost to come
+down and the operating range to increase.
+There are risks that the very large investment in CNG facility upgrades and CNG buses may not pay off; that
+the savings on CNG fuel may not be realized due to commodity price fluctuations; that the CNG technology
+may become obsolete to better engine technologies currently being demonstrated such as electric vehicles;
+and that CNG operational difficulties may be experienced under RTD’s high altitude, cold climate and low
+energy natural gas usage. In addition, no funding has been indentified to finance the CNG facility upgrades.
+
+Packet Pg. 16
+
+1.C.4
+
+Based on the above considerations, staff has recommended that RTD stay with clean diesel technology as a
+good public policy.
+The proposals were also rated according to their proposed costs and company technical ability.
+Gillig submitted the lowest cost proposal, which is also rated highly for its technical ability. Gillig’s proposal is
+the most responsive, responsible, lowest cost and best value proposal. Gillig meets and exceeds RTD technical
+specification requirements. Gillig has the experience and qualification in the manufacture of transit buses,
+being one of the oldest and most financially stable manufacturers in North America. Gillig offered a lifetime
+warranty against bus structure corrosion damage. Gillig proposed a delivery schedule that meets RTD’s 12month delivery schedule requirement.
+The 40’ buses are low floor for ease of passenger boarding and de-boarding. They will be equipped with a
+wheelchair ramp and two wheelchair access areas to allow for ADA compliance. Their clean diesel engines will
+meet the latest EPA regulations and will reduce exhaust emissions up to 90% from the level of the existing
+buses. The buses will be equipped with an automatic passenger count system and a security digital camera
+system. The 40’ buses will have two passenger doors and 36 passenger seats.
+FINANCIAL IMPACT
+This current contract is for the purchase of 125-40’ low-floor transit buses and associated spare components
+in the amount not to exceed $51,800,000. The funding for this contract is approved and available in the
+District’s 2013 Adopted Budget, and also identified in 2014 Requested Budget.
+The contract allows RTD the options to purchase up to 307 additional buses over a five year period. Pricing for
+additional option buses will be based on the initial base pricing plus an inflationary price adjustment
+computed using the US Department of Labor’s “Producer Price Index” or PPI which is published monthly.
+Additional buses to be purchased from the options will require separate authorizations from the RTD Board of
+Directors.
+DBE PARTICIPATION
+There is no DBE requirement for transit vehicle purchases. Each vehicle manufacturer is required by the
+Federal Transit Administration (FTA) to submit a DBE plan for FTA approval. As part of the required proposal
+submittal documents, Gillig has submitted a certificate attesting to FTA’s approval of its DBE plan.
+ALTERNATIVES
+
+
+To authorize the General Manager to award a contract to Gillig for the purchase of 125 clean diesel 40’
+low-floor transit buses and associated spare components. This is the recommended alternative.
+
+
+
+Award the contract to Gillig for a smaller quantity of CNG 40’ buses (112 buses) with the available
+budget. This is not the recommended action as it would delay the bus purchase from one to two years
+due to the long process to construct the CNG fuel stations and modify the maintenance and parking
+
+Packet Pg. 17
+
+1.C.4
+
+facilities. CNG requires higher bus purchase costs and multi-million dollar facility costs, which will
+offset the CNG fuel savings. There are risks of operational difficulty for CNG buses in RTD’s high
+altitude and cold weather conditions, in addition to the availability of only low energy natural gas in
+Denver metro area. In addition, no funding has been identified to finance the necessary capital
+improvements.
+
+
+Do not authorize the award of the contract and re-solicit proposals. This is not desirable as it would result,
+at the very least, in a delay of the delivery of the buses and may increase the cost of the project.
+
+Prepared by:
+Lou Ha, Manager
+Approved by:
+
+Packet Pg. 18
+
+1.C.5
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: November 14, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+November 14, 2013
+
+Board Meeting Date: November 19, 2013
+
+Subject:
+
+Paratransit Service Extension and Funds
+
+RECOMMENDED ACTION
+It is recommended by the Operations and Customer Services Committee that the Board of Directors
+authorize the General Manager to extend contracts with Horizon Coach Lines and Global Transportation
+for the provision of Access-a-Ride services and with Via Mobility Services and MV Transportation for the
+provision of Access-a-Ride and Call-n-Ride services for a period of three (3) months at the following notto-exceed costs. For Access-a-Ride services: Horizon Coach Lines – service $1,385,003, fuel
+$207,513, total $1,592,516; Global Transportation – service $1,343,251, fuel $207,513, total
+$1,550,764; Via Mobility Services – service $1,386,102, fuel $207,513, total $1,593,615; MV
+Transportation – service $3,676,213, fuel $622,543, total $4,298,756. For Call-n-Ride services: Via
+Mobility Services – service $358,632, fuel $60,444, total $419,076; MV Transportation – service
+$824,052, fuel $150,659, total $974,711. The cumulative total not-to-exceed costs are as follows:
+Access-a-Ride service $7,790.570, Access-a-Ride fuel $1,245,081 and Access-a-Ride total
+$9,035,650; and Call-n-Ride service $1,182,685, Call-n-Ride fuel $207,356 and Call-n-Ride total
+$1,390,040.
+
+BACKGROUND
+In June of 2012 the RTD Board of Directors approved a one (1) year extension to the Access-a-Ride
+service contracts with MV Transportation, Global Transportation, VIA Mobility, and Horizon Coach
+Lines.
+The extension also included the Call-n-Ride services which were assigned to MV
+Transportation and Via Mobility. The extension was approved, in part, to allow staff to fully analyze
+the benefits of utilizing non-dedicated vehicles for a portion of the Access-a-Ride service.
+Approximately two years ago, several Board Members requested that an evaluation be conducted
+with respect to a relatively new concept of offering paratransit services via non-dedicated vehicles.
+While the usage of non-dedicated vehicles has been a viable form of transportation within the taxi
+and human services arena, their use within the strictly enforced parameters of ADA paratransit had
+not yet been fully demonstrated or analyzed. During the last two years, staff had been critically
+assessing new service delivery models to include the possibility of incorporating non-dedicated
+vehicles as a resource.
+Non-Dedicated Service operates with vehicles that do not provide
+transportation exclusively for a particular service such as Access-a-Ride, but are also used to
+transport other passengers when not engaged in providing paratransit service. These drivers and
+vehicles are in essence, hired for a particular time and when released, continue to use their vehicles
+for other matters.
+
+DISCUSSION
+Subsequent to the recent procurement of the Access-a-Ride service and the recommendation by staff
+to move from four (4) dedicated vehicle providers to three (3) dedicated vehicle providers and one (1)
+
+Packet Pg. 19
+
+1.C.5
+
+non-dedicated vehicle provider, an extension of three (3) months is being requested in order to
+facilitate a smooth transition to the new service model. Two of the dedicated-vehicle providers will
+be increasing their service level from 16.6% of the Access-a-Ride service to 25%. This will require
+increases in driver, mechanic and staff levels and modifications to operating facilities. A three (3)
+month extension to the existing Access-a-Ride contracts will provide adequate time for the
+contractors to accomplish these tasks.
+
+FINANCIAL IMPACT
+There will be no budgetary impact as these funds have been budgeted for in the 2014 requested budget.
+
+Prepared by:
+Larry Buter, Manager
+Carolyn Conover, Senior Manager
+Approved by:
+
+Packet Pg. 20
+
+1.D.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: November 14, 2013
+
+From:
+
+Terry L. Howerter, Chief Financial Officer
+
+GM
+
+Date:
+
+November 13, 2013
+
+Board Meeting Date: November 19, 2013
+
+Subject:
+
+Smart Card Project Status Update
+
+Information
+
+INTRODUCTION
+RTD’s Treasury Department has taken ownership of the installation of additional platform validators at
+various locations throughout the RTD light rail system. Due to budgetary constraints some of the
+planned installations are being delayed until 2014. By the end of 2013 the platform validators at Colfax
+and Auraria will be moved to more convenient locations. New and improved network connectivity will be
+installed at Sports Authority Field, and additional validators will be installed at 30th and Downing. In
+2014 platform validators will be installed at Southmoor, 16th and Stout, Orchard and 27th and Welton.
+Over 35 Street Supervisors attended a series of 6 classes focused on the use of the Handheld Smart
+Media Reader to scan SmartCards. 98% of those scheduled to attend participated in the training.
+In partnership with Xerox, the SMT Program Team continues to work on Phase 1 improvements and has
+defined the scope of changes in the following areas:
+ Ticket Management changes that will help manage requests for assistance with SmartCard.
+ Increased search capabilities within the web portal
+ Inventory Management changes that will create a better audit train of SmartCard transfers from
+one warehouse to another.
+Other activities that are under way include
+ EcoPass Card Renewal will be completed by 12/31/13
+ ADA compliance improvements on existing platform validators
+ Development of a Disaster Recovery Outline and Plan
+The information outlined below contains the current status of SMT Program activities:
+1. BUS INSTALLATIONS
+Key
+
+Elements
+
+1a
+
+Stanchion Replacements
+
+1b
+
+Bus Validator Inventory
+
+
+Green
+
+Status
+All of the broken bus stanchions have been repaired. RTD
+has quality checked the replacements and has passed the
+inspection. We are awaiting the Deliverables Approval
+document from Xerox.
+Work continues to complete the bus validator inventory
+entered into Maximum. As many of the validators were
+purchased with federal ARRA funds, RTD is required to be
+able to report on the installation location of the hardware.
+
+2. PLATFORM INSTALLATIONS & UPGRADES
+
+Packet Pg. 21
+
+1.D.1
+
+Key
+
+Elements
+
+2a
+
+Installation
+
+2b
+
+Changing Cellular
+Connectivity to Network
+on Platform Validators
+
+2c
+
+
+Green
+
+Status
+Due to budgetary constraints some of the planned
+installations are being delayed until 2014. By the end of
+2013 the platform validators at Colfax and Auraria will be
+moved to more convenient locations. New and improved
+network connectivity will be installed at Sports Authority
+Field, and additional validators will be installed at 30th and
+Downing. In 2014 platform validators will be installed at
+Southmoor, 16th and Stout, Orchard and 27th and Welton.
+As part of the validator installations in 2013, a proof of
+concept installation is being completed at Sports Authority
+Field, the goal of which is to increase the ability of the ticket
+sales machines to report sales more consistently. If this test
+proves successful, more work can be planned for 2014 in an
+effort to change all cellular connectivity to hardwired network
+connectivity.
+A new Braille sticker for the platform validators has been
+designed and printed in-house using technology that exists in
+RTD’s print shop. The new sticker will be reviewed by
+members of the Coalition for the Blind to obtain their
+feedback during a meeting in December.
+
+ADA Compliance on
+Platform Validators
+
+3. HANDHELD SMART MEDIA READERS
+Key
+
+Elements
+
+3a
+
+HSMR Training
+
+3b
+
+Fare Inspection
+
+
+Green
+
+Status
+HSMR training has been delivered to 98% of the Street
+Supervisor Staff.
+The SMT Program Team is working closely with Fare
+Inspectors, the Bus and Light Rail Driver Training Team and
+Marketing to assess the appropriate date for Fare Inspection
+to begin in earnest. Currently plans are in place to go live
+with Fare Inspection on February 1, 2014.
+
+4. WEB PORTAL
+Key
+
+Elements
+
+4a
+
+Marketing Review
+
+4b
+
+Bulk Upload & Suspend
+
+
+Yellow
+
+Status
+All of the requirements outlined in the Marketing Review have
+been taken into account by Xerox. An initial estimate of
+1000 hours to complete the work has been submitted by
+Xerox. The SMT Program Team is working with Marketing to
+create screen mock-ups for newly designed pages.
+Work continues to assist colleges with their bulk
+upload/suspend/deactivate activities. This same functionality
+may be used to assist with EcoPass renewals.
+
+Packet Pg. 22
+
+1.D.1
+
+5. CARD DISTRIBUTION
+Key Elements
+
+
+
+Status
+
+Green
+5
+
+The SMT Program Team is beginning conversations with
+Marketing and Operations Finance to determine the best
+approach to follow when producing MyRide cards. More
+discussions are planned for the near future.
+
+Card Issuance
+
+6. MARKETING
+Key
+
+Elements
+
+6a
+
+Strategy
+
+6b
+
+Mayor’s Office, City &
+County of Denver and
+Denver Public Schools
+
+
+Green
+
+Status
+The Marketing strategy for re-educating the general public on
+tapping procedures has been altered to accommodate the
+date for Fare Inspection go-live. The team has an estimated
+date of February 1, 2014 for Fare Inspection to begin in
+earnest. Marketing plans to move forward with installing
+signs on trains reminding riders of the correct tapping
+procedures as well as when a rider is required to show their
+ID. The SMT Program Team is also working with Bus
+Operator Training specialist to begin the SmartCard 101
+training for the drivers.
+Members of the SMT Program Team met with
+representatives of the Denver Mayor’s Office and the City &
+County of Denver to discuss the strategy and technical
+requirements of creating a smart card system that would
+provide students with the ability to use one card to gain
+access to RTD transportation, Denver recreational centers,
+libraries, and their schools. Although members of the Denver
+Public School District were invited, no one was able to
+attend. Marketing is scheduling a follow-up meeting with the
+appropriate participants to talk about timing and next steps.
+
+7. RETAIL POINT OF SALE (RPOS)
+Key
+
+Elements
+
+7
+
+Factory Acceptance
+Testing
+
+
+Green
+
+Status
+Factory Acceptance Testing for the Retail Point of Sale units
+has been completed and was successful. There are two items
+that will require remediation, and a few other items (spelling
+and message clarification) will be reviewed with the vendor.
+
+8. OPERATIONAL DESIGN
+Key
+
+Elements
+
+8a
+
+Business Process
+Development
+
+
+Yellow
+
+Status
+A meeting is scheduled with the AGMs the week of
+November 18th to begin discussions on the development of
+the Smart Media Technology Program Support Plan. AGMs
+
+Packet Pg. 23
+
+1.D.1
+
+Key
+
+8b
+
+Elements
+
+
+Yellow
+
+Operational Support
+Processes for SMT
+Infrastructure
+
+Status
+will review organizational recommendations from CH2M-Hill
+and prioritize the #1 and #2 areas of program focus on which
+process, metrics, roles and responsibilities activities will
+begin.
+The SMT Program Team is in discussions to determine the
+best approach to document the processes surrounding the
+operational support of the SMT Infrastructure.
+
+NEAR-TERM ACTIVITIES / EVENTS
+Activity / Event
+Installation & Training of RPOS Units (RTD Locations)
+Installation of RPOS Units (other than RTD locations)
+Period passes and Stored Value:
+RTD Retail Locations and Web
+King Soopers/Safeway/Other Retailers
+
+Substantial System Completion (All Deliverables)
+
+Time Frame
+Q2 2014
+Q3 and Q4 2014
+Q3 2014
+Q4 2014/Q1 2015
+Phase 1
+(Eco, College, Neighborhood):
+Complete
+Phase 2
+(MyRide - Passes/Stored Value):
+Q3 2014
+Phase 3
+(Reduced Fare Program & FlexPass)
+2015
+
+Prepared by:
+Judy McMurphy, IT Program Manager
+Approved by:
+
+Packet Pg. 24
+
+

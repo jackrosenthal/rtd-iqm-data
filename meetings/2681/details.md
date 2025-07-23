@@ -1,0 +1,83 @@
+### A. Call to Order
+
+Committee Vice Chair Archuleta called the meeting to order at 7:13 p.m.
+
+Director Folska participated via phone.  Directors Anderson, Deadwyler, Francone, Menten, and Solano were absent.
+
+Staff Present:                       Bruce Abel, Rolf Asphaug, Lacy Bell, Steve Bodie, Nicole Carey, Lou Cripps, Nate Currey, Kevin Diviness, Sherry Ellebracht, David Genova, Bob Grado, Kathryne Grove, Anne Hillyer, Robin McIntosh, John McKay, Heather McKillop, Barbara McManus, Mike Meader, Allen Miller, Ed Neuberg, Tai-Shrae Parish, Scott Reed, Zamy Silva, Bill Sirois, Yong Song, Henry Stopplecamp, Mark Tieman, Jyotsna Vishwakarma, Brian Welch
+
+Others Present:                    Jenifer Brandeberry, Mike Dino, Doug Gragg, William Gross, Emily Snyder, Paolo Solorzano, Megan Wagner
+
+### B. Recommended Actions
+
+There were no Recommended Actions.
+
+#### 1. Civil Rights Committee Updates
+
+Zamy Silva, Senior Manager of Civil Rights, introduced two new employees to the Civil Rights Division: Kathryne Grove, Equal Employment Opportunity (EEO) Manager, and Anne Hillyer, ADA Investigator/Specialist.
+
+Ms. Silva stated that this year RTD went through the Federal Transit Administration’s (FTA) Triennial Review and the FTA recognized RTD’s Disadvantaged Business Enterprise (DBE) and Equal Employment Office (EEO) as model programs with best practices.
+
+Ms. Silva added that in July RTD hosted a one day US Department of Transportation (DOT) Career Days Discovery:
+
+- Six girls with ages ranging from 13-19 had an opportunity to spend a day at RTD learning about careers in transportation and construction.
+
+- They also spent a day at Denver International Airport (DIA), Iron Horse Architects Inc., P&H Equipment, and Wagner Equipment.  This also created media coverage in the Denver Post, Denver Business Journal, and news channels 7, 9 and 31.
+
+Ms. Silva commented that RTD implemented a new Advisory Committee for People with Disabilities (ACPD):
+
+- The mission of ACPD, through multi-directional communication, apprises the ADA Steering Committee on ADA-community related issues and concerns and provides suggestions, ideas, and feedback on matters as they relate to people with disabilities. ACPD will serve in an advisory capacity and be assisted by a designated staff liaison to the ADA Steering Committee.
+
+- ACPD is comprised of 13 members who will serve 1, 2, or 3 year terms.
+
+- ACPD will work with an ADA Steering Committee made up of 11 members who are RTD staff as well as ADA working groups made up of various RTD staff across the organization.
+
+- RTD held an orientation for ACPD members on August 31, 2017.
+
+- ACPD will meet on a quarterly basis and the next meeting will be November 9, 2017.
+
+Ms. Silva stated that the Small Business Office (SBO) collaborated with the Colorado Department of Transportation (CDOT) and the City and County of Denver, and Denver hosted the first Colorado Small Business Collaboration Conference on September 21st:
+
+- VIP Presenters gave their perspectives on the future of transportation and opportunities for small, minority, women and disadvantages owned businesses.
+
+- VIP Presenters included:
+
+o        Mayor B. Hancock from the City of Denver
+
+o        David A. Genova, RTD General Manager and CEO
+
+o        Shailen Bhatt, CDOT Executive Director
+
+o        Eric Hiraga, Executive Director of the Denver Office of Economic
+
+Development
+
+- 369 people pre-registered for this event and 303 people attended. It was an all-day event and a huge success.
+
+Ms. Silva added that the next SBO event would be the Small Business Breakfast of Champions, which would be held at the Radisson Hotel Denver Southeast on Thursday, November 9th.  She noted that RTD has spent over a billion dollars in small business development and the agency wanted to recognize that achievement.
+
+Director Folska inquired if the Civil Rights Division was helping to recruit operators.
+
+Ms. Silva explained that currently the Workforce Initiative Now (WIN) program is helping with the outreach for bus and light rail operators.  She commented that since RTD received a grant in 2015, staff is working with the Federal Transit Administration (FTA) to see if some of those funds could be used for a more robust outreach effort to help RTD recruit operators.
+
+Director Folska asked how many people Civil Rights helped to recruit and hire.
+
+Ms. Silva stated that the information would be researched and provided to the Board the next day.
+
+Director Lubow asked if the ADA investigator was a new position, and if so what did that position do.
+
+Ms. Silva explained that the position was new and was identified last year.  She noted that RTD has had a lot of ADA complaints and in 2016 staff spent a lot of time improving ADA procedures.  She added that some complaints required more attention than others, and with Ms. Hillyer’s legal background, she was able to work with the various RTD divisions to ensure complaints were properly handled and investigated.
+
+General Manager Genova remarked that the Small Business Breakfast of Champions was sponsored so that people could attend at no charge.  He added that the Civil Rights team had been working hard on event planning and it was a great opportunity to mark the FasTracks success with small, women-owned, and disadvantaged business owners.
+
+Rolf Asphaug, General Counsel, commented that he had pulled Kathryne Grove, RTD’s new EEO Manager, out during the break in between meetings and said that he wanted to make sure that she was properly introduced to the Board.
+
+##### a. RTD Civil Rights Commitee-November 2017
+
+### D. Other Matters
+
+There were no Other Matters.
+
+### F. Adjourn
+
+Committee Vice Chair Archuleta adjourned the meeting at 7:35 p.m.

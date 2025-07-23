@@ -1,0 +1,1330 @@
+2025-02-20
+Executive Committee Meeting
+JULIEN BOUQUET: Thank you. I now call to order the February 20 Executive Committee. We're
+convened as 11:15 AM. I'd respectfully ask everyone attending this meeting to mute yourself, unless
+you're recognized to speak.
+Please note that committee meetings of the RTD Board of Directors will be held remotely via Zoom and
+will be audio and video recorded. The meeting recordings, along with the unofficial minutes of the
+meetings, will be posted as soon as practicable on the Board's website.
+During today's meeting, we're providing Communication Access Real Time translation, also known as
+CART. Anyone who would like to access the service should send an email to the RTD Board Office at
+rtd.boardoffice@rtd-denver.com and a link will be provided.
+Additionally, the CART transcript can be automatically translated into Spanish for anyone who would like
+access to a live transcript of the meeting in Spanish. Also, there is a live stream of this meeting, which
+can be found via RTD's YouTube page.
+Before I call the roll, I will want to make a note that agenda is very packed, as Mr. Kroll kind of mentioned.
+We will move through our work as quickly and diligently as possible. There is some chance that we may
+not get to all the items on this agenda. And in that case, it will be moved to March for potential action.
+Other items for which a potential action is unlikely to occur may not carry forward.
+I would now like to call the roll of the committee members. First Vice Chair O'Keefe. First Vice Chair
+O'Keefe did let me know he would be absent. He is an excused absent. Second Vice Chair Whitmore?
+TROY WHITMORE: Present.
+JULIEN BOUQUET: Present. Secretary Nicholson.
+CHRIS NICHOLSON: I am here.
+JULIEN BOUQUET: Perfect. Treasurer Benker?
+KAREN BENKER: I'm here.
+JULIEN BOUQUET: And I am here as well. So we have four out of the five members. We do have a
+quorum. I do want to note, for the record, I do see Director Catlin, Director Buzek, Director Guissinger,
+Director Larsen joining us. Perfect.
+OK. I would now like to open public comment to anyone who'd like to address the Committee regarding
+any topic listed in the published meeting agenda for the current and immediately preceding month. If you
+wish to speak and not have already done so, please either raise your virtual hand or press star 9 on your
+phone.
+
+During this time, the Committee will not offer any direct comments or responses. However, if you would
+like to be contacted regarding our public comment, please email the RTD Board Office at
+rtd.boardoffice@rtd-denver.com.
+Mr. Kroll-- oh, excuse me. Sorry. Staff will unmute you when it is your turn to speak. If you're dialed in,
+press star 6 to toggle your mute settings.
+Please bear in mind that participating in the process, you're being recorded. If you do not wish to be
+recorded, then your comments will need to be submitted via writing. Comments can be submitted to the
+Board Office at the following email address, rtd.denver-- excuse me, rtd.directors@rtd-denver.com.
+Speakers should begin their remarks by stating their names, and each speaker will have up to three
+minutes to speak. Mr. Kroll, do we have any speakers for today?
+JACK KROLL: Chair Bouquet, yes. This is Jack Kroll, Executive Manager of the Board Office. We do
+have three individuals who have raised their hand, and the first of which is Logan Davis.
+JULIEN BOUQUET: Logan, you are recognized.
+LOGAN DAVIS: Thank you so much. Directors, I'm here to speak to the records request fee waivers for
+members of the media. And thank you for the opportunity to discuss it. I am an investigative journalist with
+the Colorado Times Recorder.
+CHRIS NICHOLSON: Mr. Davis, we can barely hear you, if you can speak up a little bit.
+LOGAN DAVIS: Oh. Any better here? Can you hear me at all?
+JULIEN BOUQUET: You sound good on my end, Logan. Proceed.
+CHRIS NICHOLSON: OK.
+LOGAN DAVIS: OK. Most people have forgotten that Colorado led the nation in transparency reforms in
+the Watergate era, passing the very first Sunshine Law in the country in 1972, as well as the Public
+Official Disclosure Act, which it took Congress another six years to emulate.
+By the time Colorado leapt ahead of the pack in '72, though, the cornerstone of our systems for
+transparency and accountability had already been in effect for four years. When passed into law by the
+state legislature in 1968, the Colorado Open Records Act was revolutionary, reflecting a new era in the
+public's interest in politics and the media's role in facilitating it.
+Unfortunately, in the intervening 57 years, CORA has lost its frontrunner status. While other states have
+updated their transparency and records access laws, Colorado has allowed ours to become stale, even
+as the proliferation of information technology has made the task of observing, understanding, and holding
+our government accountable exponentially more complex.
+Between our lack of clear records retention laws, a system which relies in large part on the honor code,
+and an escalating and often capricious fee scale, Colorado's public records are far harder to access than
+they should be. These problems are well known to policymakers. That's why there have been attempts to
+reform CORA introduced at the state legislature for several consecutive years, though none of substance
+have passed.
+
+That's why I was so glad to hear that RTD was entertaining this. There are more problems with CORA
+than the fee schedule. But the assessment of fees has become a tactic increasingly employed by
+government bodies to dissuade records requesters or prevent the fulfillment of requests.
+To see RTD considering to go in the opposite direction is a much-needed display of leadership. I
+commend you for it. As the kind of writer whose work is occasionally a rather serious inconvenience to
+public officials, I understand why some of you may be disinclined to support a resolution which, in your
+eyes, might make it easier for people like me to inconvenience you.
+I want to leave you by assuring you that CORA is saving you from more inconvenient reporting than it is
+subjecting you to. As I'm sure other journalists will tell you, many of the stories, pitches, and conspiracies
+which are brought to us by readers turn out to be nothing. They may look or sound sinister on the surface,
+but they often turn out to simply be "run of the mill" facts presented out of context. Access to public
+records is often what allows us to discover the mundane truth of those claims, without resorting to
+sensationalism or inaccurate reporting.
+By passing this resolution, RTD has a chance to become a state leader on transparency and to carve a
+path towards the kind of meaningful state-level CORA reform, which would benefit all of us. Whether to
+uphold the cornerstone principles of government transparency and accountability, or simply to spare
+yourselves from the kind of conspiracism and bad feeling borne out of opacity, I encourage you to pass it.
+Thank you.
+JULIEN BOUQUET: Thank you, Logan, for your comments. Our next speaker, Mr. Kroll?
+JACK KROLL: Yes. Next we have Joe Meyer.
+JULIEN BOUQUET: Joe, you're recognized.
+JOE MEYER: Thank you. My name is Joe Meyer, and I'm speaking on behalf of myself and also on
+behalf of my position on the Citizens Advisory Committee.
+I am not a member of the media or a journalist. I would not directly personally benefit from the waiver on
+CORA request fees. However, I fully support this resolution, as I have been making many CORA requests
+for the past year or so to attempt to put together some of my own data visualizations and data reductions
+to a lot of ridership data, on-time performance, customer complaints data that RTD have been collecting,
+but have not been presenting transparently through open-data dashboards to the public.
+I believe that making these data available to the public is key to not only transparency about the work the
+agency does, but also key to being able to bring in crowdsourced suggestions and ideas to help the
+agency move forward and modernize.
+By waiving the request fee for members of the media, I believe this would increase the amount of CORA
+requests made, increase transparency, get more of this data out into the reporting that's being done,
+ultimately benefiting the public. And to me, hopefully, ultimately pushing RTD to build better open-data
+tools that anyone can use and access the data that they collect and reduce-- over the long term, reducing
+the need to use CORA requests to access so much of this data and see transparently what the
+organization is doing, what decisions are being based on, how various routes and stops are performing.
+And ultimately, I think encouraging this open-records request process to be used by waiving this fee is a
+benefit for all of us. Thank you.
+
+JULIEN BOUQUET: Thank you for your comments, Joe. The next speaker, Mr. Kroll?
+JACK KROLL: Yes. Next we have Tim Regan-Porter.
+JULIEN BOUQUET: Tim, you're recognized.
+TIM REGAN-PORTER: Thank you, Directors. I'm here to speak in support of this provision. I am the CEO
+of the Colorado Press Association, and I don't think I have to inform the Directors of the rampant spread
+of mis and disinformation at this time and the importance of transparency and public trust in our
+institutions.
+And by allowing members of the mass media-- not only our members and broadcaster members, but
+others who may convincingly make the case that they are members of the mass media working in public
+interest-- you are setting a admirable precedent in Colorado and elsewhere to really make the information
+available to the public for the good of public interest.
+I think this is well-crafted. I think it makes it implementable, in that members of the Press Association and
+Broadcasters Association can easily demonstrate that they qualify, but also giving room for others to
+demonstrate that they are doing journalism.
+I think this is an important step forward. As a previous guest has testified, Colorado set the bar for
+transparency. And it's been a struggle in recent years. And I think this is a laudable move forward in
+making sure that the public can trust our institutions and get the information that they need about what's
+going on.
+And as a regular writer, who lives just off the 15 on Colfax, I appreciate the work you do and appreciate
+the effort to help us make sure that everyone is accountable. Thank you.
+JULIEN BOUQUET: Thank you, Tim. Mr. Kroll, is there another speaker?
+JACK KROLL: There is. We have Linda "Shape-ly--" or "Shap-ly." Excuse me if I pronounced that poorly.
+JULIEN BOUQUET: Linda, you are recognized.
+LINDA SHAPELY: Hi, there. Thank you. Can you hear me?
+JULIEN BOUQUET: Yes, we can. Thank you.
+LINDA SHAPLEY: Thank you, Directors, for the opportunity. My name is Linda Carpio Shapley. I am
+Director of Editorial for Colorado Community Media, and I'm also President of the Colorado Press
+Association Board.
+I strongly support RTD's proposal to waive open records fees for members of the media. As a locallyfocused news organization serving two dozen communities in the Denver metro area, we recognize the
+critical role that transparency and access to public records play in ensuring government accountability
+and keeping the public informed.
+The financial challenges facing the news industry have made investigative and in-depth reporting
+increasingly difficult. Many newsrooms, including ours, operate with limited resources, making the cost of
+obtaining public records a significant barrier to our journalism.
+
+Government entities have the right to charge for fees, but there's a bigger cost when those fees continue
+to get higher. It limits the public's right to know how their tax dollars are being spent. And this is coming at
+a time when trust in government entities is plummeting.
+As a taxpayer-funded agency that provides essential services to our communities, RTD has a
+responsibility to foster a more open and accountable government, while demonstrating a commitment to
+the principles of public service and good governance. And so thank you so much to the Board, and we
+hope that you approve this proposal and set a precedent for other public agencies to follow.
+Supporting local journalism ultimately benefits the residents who rely on accurate, timely, and in-depth
+reporting to stay informed about the decisions that impact our lives. So thank you for your time and the
+consideration.
+JULIEN BOUQUET: Thank you very much, Linda. Mr. Kroll, is there another speaker?
+JACK KROLL: Chair Bouquet, at this time, there are no further speakers in the queue.
+JULIEN BOUQUET: Excellent. Were there any emailed comments received for today's meeting?
+JACK KROLL: Yes. You all received one email comment in advance from Greater Denver Transit. And it
+was related to the item the previous speakers mentioned, the proposed resolution to increase for fee
+waivers for members of the media. And they were in support of that position.
+JULIEN BOUQUET: Excellent. Thank you very much, Mr. Kroll. With no other participants in the queue,
+we will close comment-- or public comment at this time. All right, moving on, folks. Oh, Director Whitmore.
+TROY WHITMORE: Yes. Thank you, Mr. Chair. I just want to apologize to our public commenters. I had
+to go off screen to deal with a personal matter and some medical stuff, some family members. So I do not
+like to make that a practice of being off screen, so I apologize. Sometimes life happens in the middle of
+the day. So thank you.
+JULIEN BOUQUET: Thank you very much, Director Whitmore. I would also want to state for the record, I
+did see Director Chandler did join us. So just stating that for the record as well. OK.
+There is one recommended action on today's agenda. The action under consideration by the committee is
+for the Board of Directors to adopt a position on Senate Bill 25-161, or SB 161, regarding transit reform.
+Before we take a motion to adopt the position, I am going to ask our GM and CEO Johnson to briefly
+present this item to the committee. GM CEO Johnson, while the committee is in no doubt very familiar
+with the bill at this point, would you mind giving us a higher level of overview of what is being proposed?
+DEBRA JOHNSON: Yes. Good afternoon-- or good morning, excuse me, Mr. Chair and members of the
+Board. Debra Johnson, General Manager and CEO.
+As you're aware, on packet page 5, the Board received a copy of a bill that was introduced, Senate Bill
+25-161, in which our Chair had transmitted to all of you, recognizing that there are several elements in the
+bill that intend to enhance transit accessibility to the region. There are also some elements pertaining to
+governance, which I will yield to Chair Bouquet to speak about after I complete my statement.
+
+For all intents and purposes, several of the elements that are contained here are relative to how might the
+agency go about planning strategically in relationship to comprehensive operations analyses, as we have
+discussed on several occasions about the importance of that from a transit agency's perspective to
+optimize service delivery.
+There are elements that are prescribed relative to the frequency in which that should be done. There is
+another element that touches upon transit worker assault that is already mandated pursuant to the federal
+government's guidance. And there's other elements that are within the auspices of the agency currently
+that have been or seek to be memorialized in statute.
+For all intents and purposes, relative to the items that are presented here, RTD's staff looks at these
+elements as things that are within the agency's control. But enhancing some of the elements, I'd be
+remiss not to mention that the current status of this bill would bring about increases in expenditures
+relative to this agency to $5.78 million for us to effectuate some of these aspects.
+Recognizing all of those would be doable, there would be future conversations relative to what might that
+look like from a appropriation process. But staff is amenable to working in tandem with the drafters, if it is
+the direction of this Board.
+But before I yield the floor, I would like to call out one element that was put forward in the bill that has to
+do with the low-income program qualified as LiVE. There is language in the bill that specifies RTD needs
+to enhance the program.
+I would be remiss to say that RTD actually undertook a fare study and equity analysis, in which there was
+great enhancements done to the overreaching program. Recognizing that RTD does not function as a
+Human Services agency, the agency, being RTD, currently does have a three-year intergovernmental
+agreement with Denver Human Services. And customers that apply for the LiVE program do so through
+the Colorado PEAK website.
+And those that are already receiving benefits, such as Medicare and SNAP, are categorically income
+eligible and do not have to provide proof of payment. The reason I call this out specifically is that RTD
+would incur an undue burden relative to leveraging itself as a transit service provider to function more as
+a human services agency and would have to retain staff, not to mention DHS, Denver Human Services,
+would have to leverage staff going forward and increase or incur costs.
+In the bill, it also clearly states that the intent would be for RTD to increase participation relative to the
+program. I think it's very important to note, with the advent of the fare study and equity analysis, through
+the work that we have done collectively relative to community-based organizations in which RTD retained
+services, whereby we leverage 21 safe harbor languages and really engage, we had 18,300 applications
+submitted for the LiVE program in 2023.
+The Board effectuated the new fare structure in 2024. Hence, in 2024, we had 34,800 applications. That
+was a 90% increase in the number of applications submitted. And more specifically, relative to those that
+were approved, there were nearly 10,000 applications that were approved in 2023 and 15,300 in 2024,
+which netted a 55% increase in the number of applications approved.
+So recognizing it would be beneficial for us, as staff, to garner an understanding of what it is that the bill
+drafters are trying to, I would say, rectify relative to the LiVE program. And the other portion of the
+program relative to EcoPass, that program, too, was categorized in our fare study and equity analysis.
+
+And so we want to ensure that we garner a better understanding of what that may be. And so that would
+be one element, in particular, from staff's perspective that we would like to seek amendment on.
+So with that, Mr. Chair, I will yield the floor to you to speak about the governance elements contained in
+the draft bill SB 25-161. Thank you.
+JULIEN BOUQUET: Excellent. Thank you very much, Ms. Johnson. So again, Directors, you have all
+been sent the proposed amendments. And again, the ones that I'm speaking on behalf is on the
+governance perspective.
+Specifically, there's three main amendments that, again, this is the discussion for today and Tuesday. The
+three main amendments based on feedback that I was receiving from Directors, is, one, to make the two
+Directors on the proposed accountability voting members on that committee.
+As it currently stands, myself, as the Chair, would be appointing two members to this Accountability
+Committee, but as just ex officios with no voting power. That would be the first amendment, is giving them
+voting power.
+The second is to add to the proposed Accountability Committee, two former Directors selected by the
+Board to serve as voting members on the committee. Preferably, I'd want that as former chairs. But again,
+the proposal itself is just saying two former Directors in general. These would be voting committee
+members, and I think they would give a better perspective on this Accountability Committee.
+Finally, the third Director-- or the third amendment would be to remove the addition of two ex officio
+members to the RTD Board of Directors. As it currently stands, the bill would be assigning two ex officio
+members to this Board. This Board voted-- excuse me, the voters voted in the '80s to have a 15-member
+board.
+And again, we were getting feedback that the Board is too large. Now, we're to a point where we're
+getting asked to add two ex officio members. But I'm happy to go through more of it. The reasoning has
+been given to all of you, all through the weekly update that was given to you earlier this week.
+So with that being said, now that we've gotten some background, I move to adopt an amend position with
+these specific amendments being requested to make the two RTD Directors on the proposed
+Accountability Committee voting members of that committee, and to add to the proposed Accountability
+Committee, two former Directors selected by the Board to serve as voting members on the committee,
+and to remove the addition of two ex officio members to the RTD Board of Directors.
+Do I have a second?
+TROY WHITMORE: Second, Whitmore.
+JULIEN BOUQUET: Second, Whitmore. All right. Perfect. So we're going to move into discussion
+regarding the governance side of this. Secretary Nicholson.
+CHRIS NICHOLSON: So I'd actually like to step back and discuss the whole bill, quite honestly. Because
+when we take an amend position, we're not just taking an amend position on the governance perspective.
+We're taking an amend position on the legislation.
+
+So actually, I have a couple of questions to ask of a couple of people to clarify what I'm about to say to
+make sure I'm speaking correctly. The first one would be to-- it looks like our lobbyist, Jenifer
+Brandeberry, is on here.
+If we're saying "amend," are we implicitly saying, if you give us the amendments that we've asked for, we
+will support the bill? Because that's my understanding of what an amend position means. It means, do
+these things, make these changes, and then we will-- we will support your legislation. Is that a fair
+expectation of what that means in the Capitol?
+JENIFER BRANDEBERRY: Sometimes people ask of that. It's not a guarantee. So you can clarify, we're
+in an amend and don't have an official support or oppose position.
+CHRIS NICHOLSON: OK. That's helpful. The second question I have is really, when we're getting to-and this is both a question for you and a question for GM CEO Johnson-- none of the amendments raised
+today were amendments on the nongovernance sections of the bill.
+And it strikes me as odd in that we are the Board, which means we are taking a position inclusive of the
+Board and inclusive of the agency is my understanding of how this works, that we're not being asked to
+vote on the amendments that clearly, at least from what-- I mean, I guess what I'm asking is, GM CEO
+Johnson, do you have changes to the bill that you want? And if so, why are we not voting on those
+changes now?
+DEBRA JOHNSON: Mr. Chair, if I may?
+JULIEN BOUQUET: Yes, Ms. Johnson.
+DEBRA JOHNSON: Thank you very kindly. Director Nicholson, as I indicated, I need to understand
+various elements. So contingent upon the direction of the Board, it would be advisable that we could
+actually have conversations with the bill sponsors to ascertain what it is that they would like us to see as a
+transit agency relative to human services. So that's what I called out in particular.
+And then more specifically, as it relates to information that is contained within the bill, where we talk
+about, for instance, worker assault information that has to be submitted to the Federal Transit
+Administration, we are quite aware that we are submitting that information, as we've been working with
+the federal government, and in turn, working with the state as well, trying to ensure that we can increase
+penalties or, I should say, promote deterrence measures for those that assault transit workers in the line
+of their-- in the line of duty.
+That's incredibly important. Because quite naturally, if we look to deliver transit services, we want to
+provide an optimal environment, i.e. a welcoming transit environment. And we will not be able to retain
+employees to deliver service, therefore, ensuring that we can deliver services as relates to the schedules
+that we put forward, if, in fact, we can't retain employees.
+And that, in turn, parlays into the topic of which you have shared on numerous occasions upon which you
+campaign relative to the perception of security on transit. And so I need to, first, garner understanding
+what it is that we're able to do before I can say what can't be done. Thank you.
+JULIEN BOUQUET: Secretary Nicholson.
+
+CHRIS NICHOLSON: I have one last question, and this is for you, Chair Bouquet. Have you solicited
+input from all of the Board members as to what amendments they would like to see? Basically, what I'm
+asking is, are we looking at a list that is comprehensive of the concerns of the entire Board? Or are we
+looking at something that was drafted by you, and maybe staff, and that-- where did these come from?
+And will we be seeing additional amendments potentially when we get to the Board on Tuesday?
+JULIEN BOUQUET: Sure. Great question. So this was drafted based on several stakeholders that I
+heard. Again, as all 15 of you have seen the three amendments-- I did say for feedback-- that's kind of
+what the discussion is for today and as well as our full discussion on Tuesday.
+So I'm 100% open to-- if this is not what we feel as a Board is what we want to go forward with as our
+amend position, specifically with the amendments, that's what the conversation is happening now. So that
+would be the feedback I would give. If there are issues with these amendments, that's the conversation
+that should be happening today and, ultimately, as a 15-body member on Tuesday night.
+CHRIS NICHOLSON: OK. One more question. Do you think it is advisable if we are crafting the
+amendments that we want and voting on them-- do you think it's advisable that we craft these as floor
+amendments to this bill, especially when, at the first Board meeting, you pointed out that it was a, let's
+say, "messy process" to be making a bunch of floor amendments and basically rewriting our goals on the
+floor.
+Do we really want to be-- do you think that that is a good process here for this, considering we'd be doing
+basically the same thing, but now getting the support of all 15 Directors, all at the same time?
+JULIEN BOUQUET: Sure. So again, we're publicly elected. If this is a conversation that should be publicly
+happening, then that's what's going to happen. I think what would be-- again, what I would advise for
+Directors is if their specific amendments that we're not comfortable with, that's the conversation feedback
+that I get from today's meeting. And again, what I want is specific emails. That's why I sent these
+amendments to everyone in advance.
+We haven't made a formal decision on this. So if there are things that we're like, nope, this is not
+representing to us as a Board, then again, we have to come to a common consensus of what position we
+want to take, if we were taking amend position, what amendments we want to go forward with.
+CHRIS NICHOLSON: I have additional questions, but I'll cede to the other Directors out of respect and
+not to-JULIEN BOUQUET: Treasurer Benker, you're recognized.
+KAREN BENKER: Thank you, Mr. Chair. One point is actually clarification. If you could tell me, the first
+two amendments-- the first one says, add two RTD members to the Accountability Committee, but they
+would not vote, correct?
+JULIEN BOUQUET: No, it would be-- so how the bill is structured right now, it is asking for two members
+from the RTD Board to be on the Accountability Committee as non-voting members. The first amendment
+changes it to be voting members.
+KAREN BENKER: OK. So then how does amendment 1 and 2-- how do they relate to one another?
+
+JULIEN BOUQUET: Sure. So ultimately, how it stands with this Accountability Committee is the bill
+sponsors are asking for x amount of folks to be coming from each of these agencies. They've given us
+originally two folks, who are non-voting members. And this was in the past as well, as Director Whitmore
+can attest to. I believe him and Director Guissinger were the latest ones. And the whole idea is to give
+more insight to this Accountability Committee of how this Board actually functions and, more importantly,
+how the agency functions.
+So amendment 2 is related to it because it is adding two additional members who would be former RTD
+Directors. It adds more weight and more perspective of how the agency functions.
+So for instance, just hypothetically saying, I select you and Director Catlin. You guys are both sitting
+Board members. But then I select former Director Tisdale and former Director Rosenthal as Directors,
+who would also give a perspective that would help understand the Accountability Committee a little bit
+more.
+KAREN BENKER: So again, clarification. So are you suggesting there be two RTD members or four RTD
+members?
+JULIEN BOUQUET: Two current serving, two former. So it'd be four in total.
+KAREN BENKER: OK. I didn't understand that. The only other thing that I'll add, at least at this point-- I
+have a feeling we're going to have quite a conversation. Why are you not even interested in striking the
+whole provision for an accountability commission?
+JULIEN BOUQUET: Yeah, that's a great question. So for me, I think there is pushback from Directors
+saying, why should we even go forward with the Accountability Committee as is? I believe that we do
+need a process of looking at how this Board functions and how the governance of this Board works. And I
+believe that having four perspectives from two sitting members and two former Directors will help give a
+better understanding of it.
+We want to ultimately be good partners in this, while, at the same time, giving insight to it. That is the
+hope of why I would say, let's go forward with this Accountability Committee. We want to be good
+stewards and make sure that the stakeholders feel that we're doing our best job when it comes to it. But
+that would be my reasoning behind it, is basically being good partners.
+And Ms. Brandeberry, if you could mute yourself. Thank you.
+KAREN BENKER: OK. I'll have more comments, but-JULIEN BOUQUET: Perfect.
+KAREN BENKER: --we've got a long line. Thank you.
+JULIEN BOUQUET: Yeah, absolutely. Thank you, Treasurer Benker. Director Catlin.
+PEGGY CATLIN: Thank you. I just wanted to make sure there weren't any other committee members with
+their hands raised before I speak.
+JULIEN BOUQUET: I don't see any.
+
+PEGGY CATLIN: OK. With respect to the last amendment, having two ex officio members, one appointed
+by DRCOG and one appointed by CDOT, I would caution the Board about dismissing this whole cloth.
+And here's my rationale.
+We, as RTD, enjoy a number of ex officio positions on other boards across this region, among them
+Northwest Parkway. I, personally, have been an ex officio member on the E-470 Board of Directors,
+which is comprised of elected officials as well.
+We're non-voting, but I think it really is an opportunity to forge partnerships, strengthen partnerships. And
+as long as we put boundaries on what it is those Directors can do with regard to staff access and that sort
+of thing, I would suggest that it really provides an avenue, much as you say, giving the Accountability
+Committee more input from RTD. This allows more external input as well as insight from external folks
+into what it is we do as a Board.
+So I would say that I am in favor of having those ex officio members. Despite the size of our Board, I think
+it could be a good way to foster partnerships and gain a greater understanding of the work that we do.
+Thank you.
+JULIEN BOUQUET: Thank you for your comments, Director Catlin. Director Buzek?
+VINCE BUZEK: Thank you, Mr. Chair. And I'm going to just make my comments, then I have to take off,
+unfortunately. I want to thank you for your work on this. And I agree with the amendments that you have
+proposed. There may be others that we can consider.
+In 2023-- Director Guissinger probably remembers some legislation that was proposed that went through
+a number of iterations before it finally just went away. And my belief is this is the 2023 legislation
+reenacted in a different form and in a two-step process.
+So we're at step one of implementing that. And that is, let's put all of this Accountability Committee
+together. We can then show transparency, tell the world we really looked at this, instead of just saying,
+this is what you're going to do, and here's how you're going to do it. We're going to at least have the
+appearance that we've examined this. And hopefully they really are committed to making the
+Accountability Committee a functioning process.
+My guess is-- and the reason I say I think this is coming back to the 2023 legislation is something as
+innocuous as on page 19 of the proposed bill, where you have the words "shall be stricken" replaced by
+the word "is." It says, "The governing body of the district, formerly, shall be a Board of Directors consisting
+of 15 persons." Their proposal is now, "The governing body of the district is a Board of Directors."
+Really easy to change 15 to 5 or whatever it might be, if, in fact, the statute just says, that's what it is and
+not what it shall be. So that's what gives me the idea that this is phase one of a two-step process that we
+might not be able to control too much.
+But to the extent we can, and the extent we can work with the legislature to make this as beneficial as
+possible to the community, I think we need to do that. That's why I think the amendments that have been
+proposed so far are valid and important for us to consider.
+And once again, I'll just say, some people might think they know the pulse of the legislature and they
+know what we should do. You don't. That's why we hire professional people, like Brandeberry McKenna,
+who has represented RTD for years and has done an incredible job in doing that. So to the extent
+
+Brandeberry McKenna can help guide us through this and help us with amendments, I think we need to
+listen. Thank you, Mr. Chair.
+JULIEN BOUQUET: Thank you very much, Director Buzek. Director Guissinger.
+LYNN GUISSINGER: Thank you, Mr. Chair. Thank you for your work on the three proposed amendments.
+I kind of agree with Director Catlin in terms of the ex officio. I do have some pause in terms of what their
+roles are. And we are all fiduciaries of RTD.
+Would they have that same obligation? Is there a fiduciary obligation to their other entity? That may be
+something we want to have addressed, if they keep this in the bill. Same with going into executive
+sessions. And I think that varies. I know that in some of these cases, ex officios do. But that does raise a
+concern for me.
+I think it's very important that we have representation on the Accountability Committee. I don't know that I
+would oppose the amendments you've raised, but I don't feel as strongly that it needs to be voting rights.
+There are going to be 13 members on there. And I don't recall people in the previous Accountability
+Committee-- that there were many-- or only one, maybe, split vote or sort of split vote.
+But I do think it's really important. I hope Ms. Johnson or someone from her staff will be there as well,
+because I think they're able to give a lot of feedback, in terms of how the agency really runs, that is
+helpful.
+And even more than these, I feel like the potential amendments that Ms. Johnson raised on the LiVE
+program and treatment of our operators-- and she mentioned the EcoPass-- I would raise that one, too-there's some language in there that's, like, "to the greatest extent feasible, RTD will take over the
+administration." I'm not sure that that's a lot different from what that is. But I don't know what "the greatest
+extent feasible" is.
+So if we pass three amendments today-- and this is a question for Jenifer Brandeberry. I think that there
+are more important amendments that could be coming in the near future. What's the best way to handle
+that? Should we come out with three that seem OK but don't address some of the other issues? Or how
+would you suggest we address this?
+JULIEN BOUQUET: Ms. Brandeberry. You're on mute.
+LYNN GUISSINGER: You're muted.
+JULIEN BOUQUET: You're on mute still, Ms. Brandeberry.
+CHRIS NICHOLSON: She may be in a place where she can't unmute because of the noise at the Capitol.
+LYNN GUISSINGER: Looks like she's trying.
+JULIEN BOUQUET: OK. Director Guissinger is-- oh, wait. I see a finger of pause.
+Director Guissinger, as Ms. Brandeberry gets set up, could I call on Director Whitmore?
+
+LYNN GUISSINGER: Sure. She just text me she can't get off mute. So maybe it's something we can
+address before the meeting on Tuesday. But I do think it's important to keep the door open for other
+amendments that staff has raised.
+JULIEN BOUQUET: Sure. I think that's the whole process of today and the whole process of Tuesday is
+making sure that we're flexible of what we want to see. So Second Vice Chair Whitmore.
+Oh, before I recognize you, I do also want to recognize Director Gutschenritter has joined us. Thank you,
+sir. Director Whitmore.
+TROY WHITMORE: Yes. Thank you, Mr. Chair. My question is very similar to Director Guissinger's. I'm
+just a little confused about strategic timing on potential amendments to LiVE and/or EcoPass. What would
+be the best timing for that?
+I mean, obviously, staff probably needs a little more time to run the numbers. When you see $5.7 million
+mentioned by CEO Johnson, it does give a little pause for concern.
+So when we have the opportunity to talk strategy with our lobbyists, that would be great, or if Ms. Johnson
+has any opinion on that. I just have a hunch, at the Capitol, the bandwidth is tapped out because it's a
+busy midweek day. So that's probably what Ms. Brandeberry's issue is, unfortunately.
+JULIEN BOUQUET: Ms. Johnson, did you want to comment on-DEBRA JOHNSON: Yes. Thank you very much, Mr. Chair. And thank you, Second Vice Chair Whitmore.
+As it relates to the comments that have been outlined and to the question in which you posed, I do feel
+that we would be in a position relative to understanding what each of us want to do collectively and
+having dialogue around that.
+This is, I would surmise, the first bite. As we know, there's going to be other iterations. And so we need to
+be intentional, purposeful, and strategic as we go about this. Because as I stated with my comments, I am
+coming from the vantage point that we want to work in amicable fashion, whereby the legislators seem to
+believe that there could be more that could be done relative to the Regional Transportation District in
+particular.
+And the reason why I qualify that is, since we are called out and we are the only intermodal transit agency
+in the entire state, I believe that there's an opportunity to engage in such a way where we're educating
+and informing. When I put forward my quick synopsis, I was outlining a lot of these things that have been
+incorporated into this draft bill or things that are already within the purview of RTD. When you start
+reading and it says "engage and leverage partnerships," we already do that.
+And so I think taking the time-- and that's why I'm seeking Board direction relative to a collective
+understanding, because we, as staff, can engage in those conversations relative to what is the problem
+for which we're trying to solve, and how might we do this, recognizing at this juncture that these are
+unfunded mandates. And Ms. Brandeberry is off mute, so I will yield the floor to my colleague. Jenifer?
+JENIFER BRANDEBERRY: I think it's totally fine to have an amend position and communicate to the
+sponsors, we have a few more questions and would not close the door on needing additional clarifications
+as the bill moves through the process. Apologies for my inability to get off mute.
+TROY WHITMORE: Mr. Chair, if I may continue briefly.
+
+JULIEN BOUQUET: Yes. Yes, Director Whitmore.
+TROY WHITMORE: So the thought, in conversations with several of my colleagues here, and probably
+with Ms. Brandeberry, is we've got a fiscal note attached to this bill. And so that slows the process with
+the Appropriations Committee. So we would have time. And would it be appropriate to have future
+amendments as we move along, notably to LiVE or the EcoPass? Is that a good assumption?
+JENIFER BRANDEBERRY: Yes, we have time for sure. And we can be very clear with the legislators that
+we need some more internal staff time to understand what, on LiVE and Eco, we're trying to do, and
+make sure it's drafted in a way that accomplishes the goal the legislators want and that you, as the Board,
+have done, in a way that doesn't undermine the successes of the program and/or create unnecessary
+FTEs for us and/or our partners at Denver who administer the program.
+TROY WHITMORE: Very good. Thank you both for your answers. And I'll go back on mute, Mr. Chair.
+Thank you.
+JULIEN BOUQUET: Thank you, Director Whitmore. I see Secretary Nicholson next.
+CHRIS NICHOLSON: Yes, thank you. So Director Whitmore actually beat me to my first question, which
+is, what does the timeline of this look like? Because it's my understanding this is going to go through
+Senate Transportation, then it's going to get to Senate Appropriations.
+Right now, the legislature is trying to cut hundreds of millions of dollars out of the state budget. And so
+anything with a fiscal note, which this will have because it's allocated in the governor's budget to have
+$150,000 to pay for the commission and the study, will sit in Senate Appropriations until after the long bill
+budget is finished at the end of March.
+So from where I sit, we have a substantial amount of time to work with the sponsors, craft amendments,
+work internally, discuss what we want out of this legislation. And to my mind, we should take that time.
+And the reason for that is that I would not be comfortable taking a position for an amend with a limited set
+of amendments, only saying-- because we would basically be promising to the sponsors, as a Board, to
+some degree-- maybe not-- we could tell them not-- but that, if you give us what we're looking for, then
+we'll come back and maybe change our minds.
+And so what we would be voting out of here today, we've already seen fairly different opinions on some of
+the amendments that have been proposed. For example, I agree with Director Catlin that the ex officios
+are not terribly concerning to me. I can live with them.
+By contrast, I think we would be making a massive strategic mistake, both for the policy process and for
+what it would mean for the Board in the long term, to support this Accountability Committee, because it's
+not one. It is a six-month misadventure, predominantly dominated by members of the state legislature and
+the governor's office to write a set of recommendations that they can then wave around at the session
+next year.
+MICHAEL GUZMAN: [INAUDIBLE]
+CHRIS NICHOLSON: Thank you. Director Guzman, you're not on-- OK, there we go-- that they can wave
+around at the session in '26 and say, you approved this, we worked together, so we're going to implement
+
+this now. And so we are saying, ourselves, we will give you political legitimacy for this Accountability
+Committee.
+[INDISTINCT CHATTER]
+OK. We're getting all kinds of interjections right now-- that we are basically handing them political
+legitimacy for a study that is not actually going to study what the Board has worked on. It will do exactly
+what they did last time, which is, we're going to compare you to other transit agencies, and look at how
+they're run, and look at how much they're paid, and then we're going to make some recommendations.
+They're not saying that they're going to look at our history over 45 years and look at, what have we done
+well, what has worked for us, what has worked poorly for us?
+So I'd want to work with the sponsors on this bill. I think almost all of the bill is fantastic, and I think that
+we would be doing ourselves a massive disservice. Like, we could be handing them political momentum
+to then come back to us and say, yeah, let's get rid of the Board because that's what everybody else
+does.
+So I would caution us, in the strongest possible terms, about asking to be-- functionally, the chicken,
+asking to be part of the menu committee for making the chicken dinner. We are signing up to hand these
+people a political weapon, and we should not do that. Thank you.
+JULIEN BOUQUET: Treasurer Benker.
+KAREN BENKER: Director Nicholson, you gave a very good, strong speech. But here's just a question I
+want to make sure I understand. Do you know-- could somebody tell me, is the Accountability
+Commission sunsetted? I know there's a date when the report is supposed to be submitted. But does the
+commission then sunset itself and go away? I don't know. Is that a question perhaps for our lobbyist,
+Jenifer?
+JENIFER BRANDEBERRY: The appropriation is for one year for the independent study to review. They
+are required to make a recommendation. Nothing in the recommendation is binding.
+That recommendation is due to the General Assembly in January of 2026. Then, based on that
+recommendation, which could do nothing, change nothing-- this is similar to what was recommended in
+the last Accountability Committee-- that could be it. It could be a change in structure. It could be all kinds
+of things.
+But that would be required to have a bill be drafted in the first part of next year's session and have that
+conversation throughout the legislative session, because you would have to pass legislation in order to
+change anything.
+KAREN BENKER: And I understand that. I'm just wondering if the Accountability Commission dissolves
+after a certain point.
+JENIFER BRANDEBERRY: It would, because there would be no appropriation for it.
+KAREN BENKER: Right. But the appropriation, quite frankly, is for staff to write the report, correct? I have
+not seen the fiscal note. I suppose I should look for it.
+
+JENIFER BRANDEBERRY: The appropriation is to hire an independent third party-- an outside-- which is
+very-- this has been done in other areas of statute, whether it's water and/or other transportation forms.
+You hire an independent-- they've done it on housing here before.
+The state appropriates money. They hire an independent person to convene stakeholder meetings and
+processes for a certain amount of time. Then that convener, that independent third-party person,
+summarizes what was discussed and makes legislative recommendations.
+KAREN BENKER: Right. And I understand that, but I'm just wondering if this Accountability Commission
+would just sunset once the report is completed.
+JENIFER BRANDEBERRY: That's what I'm saying. Sorry, Director, if I'm not being clear. It absolutely is a
+one-year deal, because the appropriation for the third party is for one year. And it's over in January of
+2026.
+They could run another bill, next year, that says they didn't have enough time. They want to hire another-or extend that contract to extend the conversation. But it would have to be a separate act. It was only
+applicable through January of '26.
+KAREN BENKER: No, and I understand the appropriation part. I'm just wondering if the members of the
+committee then dissolve and they go away, or they could continue to monitor RTD work and come up with
+their own recommendations at a later date. That's all I'm wondering, is whether or not there's even a
+possibility that this commission would go on. And maybe we should be asking specifically for a sunset
+date. Just a suggestion.
+The other thing that I'd at least like to add is-- and we've had brief conversations about this before, and
+hopefully, very soon, we're going to have a much longer, in-depth conversation. But I definitely see these
+bills as a sign that the Legislature and the Governor's Office wants more from RTD. And I think we want
+to give more. But we're new. We're a brand new Board. We've got new members. We've got old
+members. Everything is sort of shifting a little bit.
+If there's anything that we can start to work on perhaps a little quicker to show that we are in partnership,
+with them, and we want to increase ridership, and we want to increase some of the programs that they
+specify, I think that would be a good sign to send to the policymakers on Capitol Hill.
+I know, and I hope, Mr. Chair, that it looks like we're going to have another retreat the first week of June.
+And my understanding-- and if you could perhaps clarify, too, give me more information-- that the primary
+goal of that retreat is to set some goals for the agency, whether it's going to be for the 2026 year or
+whether it's going to go further out.
+But I hope that that's going to be the main mission of our next retreat, and I look forward to those
+discussions, because it would be great if we could get something started and perhaps relieve some of the
+pressure that we've been receiving from the state legislature about-Basically, the legislature's prescribing so many things that we already do, but they're now codifying it and
+putting it into law. And that's fine if they want to do that. We're going to do it anyway. But again, I think, I
+believe, they're telling us to speed things up a little bit. So there's my two cents worth. Thank you.
+JULIEN BOUQUET: Thank you, Treasurer Benker. To answer your question, so, yes. So Director Larsen
+and Director O'Keefe, I have pointed as to this working group to work with Mr. Kroll in regards to the
+
+2026-- again, this might change based on Director Larsen, or Director O'Keefe's, or the working group's
+overall work.
+How I imagined it was, we would basically set it up where we'd probably have one or two study sessions
+to talk about the process of actually setting forth the short-term goals for our CEO and GM. And again,
+that first couple steps is something that's not going to just be 2026. The hope is this carries over to 2027,
+2028 permanently.
+And then the retreat in June would be specifically to discuss, hey, we as policy Directors, this is what
+we've heard from our legislators. This is what we've heard from our stakeholders. This is what we want to
+set as our short-term goals.
+Why that June date is so important is because that's prior to the budget getting set. And it gives enough
+time from staff, from my understanding, to basically say, this is what the Directors want. Let's set this into
+motion and put it into our budget.
+I think that is a huge victory if we're able to do that this year, because, one, it sets up a process for the
+future, and, two, it shows to our stakeholders, we are the governing Board. This is what we want to see.
+And this is what we're going through the budget. And when I mean "we," I mean the entire public and
+what the stakeholders are going forward. So that's the-KAREN BENKER: And just a quick follow-up. You raised an excellent point at the end. I think it's
+messaging. If we're going to be doing all of this good work, then how do we let-- how do we let our
+stakeholders know that we're working hard on it, and stay tuned, there's going to be some good things
+coming out of the RTD Board. So hopefully we can also think about how we message this.
+JULIEN BOUQUET: Absolutely.
+KAREN BENKER: Thank you.
+JULIEN BOUQUET: Thank you, Treasurer Benker. Director Larsen, you're recognized.
+MATT LARSEN: Thanks, Chair Bouquet. I just wanted to comment on a few things. I did notice, Director
+Benker, that on page 26 of the act or the bill, line 19 says that the section, which I believe is the section
+about the Accountability Committee or Commission, is repealed effective July 1, 2026. So I read that to
+mean that it's gone by then.
+Then I just wanted to sort of agree with Chair Bouquet that, yeah, we are-- Director O'Keefe and I are
+working to really change a lot of the timing of our planning process so that we can do a better job of doing
+all of these things that we want to do, and a lot of which that are in the bill.
+And lastly, what I wanted to do is respond a bit, I guess, to Director Nicholson. I mean, I think we-- I think
+that it is a good thing that this Accountability Committee is being proposed. I think that we should be able
+to withstand the scrutiny of our performance as a Board. And if we can't, and the public, as represented
+by the legislature, wants things to be different, I think we should be open to that.
+Because at the end of the day, what we want is for RTD to be successful. And if there is a better structure
+out there that can be a better source of oversight for the agency and do a better job, I think we should be
+open to hearing about that, and learning about that, and possibly supporting it.
+
+And so I don't think we should-- I think we should support the Accountability Committee in general. That's
+my comments. Thanks.
+JULIEN BOUQUET: Thank you, Director Larsen. Director Nicholson.
+CHRIS NICHOLSON: Thank you. So a couple of things just very quickly. The first thing is that the
+Accountability Committee does not actually look at our performance.
+Just to read it here-- I pulled it up while Director Larsen was talking-- "The purpose of this committee is to
+evaluate and make recommendations on the governance structure of the Board of Directors and
+executive leadership of the district, compensation for the Board of Directors and executive leadership of
+the district, the representation of local governments and state agencies in the district, the district's
+workforce retention, and the committee's work is to build on--" and it goes on from there.
+But this is not a, "We are going to look at how you're doing, and we're going to give you feedback on
+whether you're doing well." This is a, "We are going to look at how you are structured, and then give you
+feedback--" not even give you feedback, but come up with an alternative And then obviously the thing you
+do with that, if you're trying to get a committee done by beginning of the next session, is run a bill.
+I think that that conversation is a political conversation at the end of the day. It is a conversation between
+us, between the legislature, the governor, the City of Denver, the communities of color, the counties, and
+the cities-- all the stakeholders that weighed in last time and fundamentally killed the reform bill last time,
+that sought to change our structure.
+I don't think, fundamentally, it is in our interest to buy in to a structure that is going to make that
+recommendation in which we are not equal partners. And we would not be equal partners, because the
+committee is overwhelmingly staffed by people who are legislators and from the Governor's Office, and
+not from the counties, and not from the cities.
+So I think this is a hackneyed effort to create a political context for writing a bill next year that is designed
+to try and do exactly what it did last year. That being said, I think that we are in a different position than
+we were. I think this bill is fundamentally good. I think there are a lot of things in it that I like.
+And when we talk about what we should be doing, getting back to the point of this motion, the question I
+have for Jenifer is, if our position is basically, we like a lot of what's in this, we want to get to a yes, but we
+don't have a specific set of recommendations yet because we can't agree on the ex officios, we can't
+agree on what to do with the Accountability Committee, is it better for us as a Board to take an amend
+position and say to the sponsors, we'll get back to you on what those amendments will be, once you are
+closer to being out of Senate Appropriations and maybe give them to you for floor amendments? Or is it
+better for us to take a monitoring position?
+And then once I get an answer to that, I'm going to make an amendment so that we can move this along,
+because I think spending another 30 minutes on it probably isn't productive to the other six things we
+have to do.
+JULIEN BOUQUET: Yeah. Ms. Brandeberry, so the question basically is, we're-- well, go for it.
+JENIFER BRANDEBERRY: I think an amend position is fine. It preserves us the option to work with the
+sponsors and the proponents to educate them on the Board's positions. It's always better to get it
+amended sooner rather than later. Because the later the session goes, the wonkier it gets.
+
+So if we have consensus on three or four items by next week, that doesn't mean we close the door for
+additional amendments. But we can absolutely say, these three, there's consensus from the Board. And
+we can also communicate there's additional discussions happening. And we reserve the right to come
+back and let you know, we may need additional amendments.
+JULIEN BOUQUET: Perfect.
+JENIFER BRANDEBERRY: Because the bill may be amended in committee in a way that we don't like or
+has something that has a more fiscal negative impact to the district. So we can respond all the way
+through between now and May 7. But in general, it's good practice to get things that we agree upon in
+earlier rather than later.
+JULIEN BOUQUET: Perfect.
+JENIFER BRANDEBERRY: And I'm sorry. I have got to go to another legislative meeting. So thank you
+for having me, and I'm always available for questions. If anyone has them, they can call or text us directly
+at Brandeberry McKenna.
+JULIEN BOUQUET: Thank you.
+JENIFER BRANDEBERRY: Thank you.
+JULIEN BOUQUET: All right, Ms. Chandler-- excuse me, Director Chandler, last comments on this. And
+then we're going to put it to-- yes.
+KATHLEEN CHANDLER: Well, thank you for having this discussion. I would agree with Director Catlin
+that we need to have this accountability, but they should be non-voting members. I'm a non-voting
+member, along with Director Catlin, on the E-470-- the E-470 Authority. And I really appreciated that. I got
+to learn a lot about that agency, and it was really exciting. But I was also not allowed to be part of the
+executive session.
+So I would really formulate how that board is created and what their function is. I also would ask that we
+define who this Accountability Committee is accountable to. I'm not sure that we have a clear definition of,
+who are they accountable to? Are they accountable to the agency? Are they accountable to the voter?
+Are they accountable to who?
+And so I think that would be a really good opportunity for us to define things a little bit better. But overall, I
+agree that this Accountability Commission would probably be a good thing. We just need to really,
+absolutely structure it where we are understanding each additional role. Because when you don't have it
+defined, then people make things up. And that's not always the best decision for the agency overall.
+JULIEN BOUQUET: Perfect.
+KATHLEEN CHANDLER: Thank you.
+JULIEN BOUQUET: Thank you very much, Director Chandler. Director Nicholson, you had an
+amendment. You're on mute.
+CHRIS NICHOLSON: I muted myself, and then I-- yes. I'd like to make a substitute amendment-- or
+however you want me to say this, a subsidiary amendment-- to the recommended action, which is to say
+
+for the Board of Directors to adopt a-- sorry-- for the Board of Directors to adopt an amend position on
+Senate Bill 25-161 regarding transit reform, without any specific amendments to be submitted to our
+lobbyists for transmission to these bill sponsors, and with the intention of submitting amendments at our
+next Board meeting. To let them know that as well, that we intend to submit amendments to them after
+our next Board meeting. But we are not submitting any amendments at this time.
+JULIEN BOUQUET: Is there a second on that? OK. I'm seeing none. So that wouldn't become an
+amendment from my understanding, since there's not a second.
+OK. So moving forward, how the motion has-- so I made the motion originally. And again, before we take
+it to a vote, what I want to clarify for folks is, there's going to be an opportunity for folks to give me
+feedback, and all of us, going forward into Tuesday.
+Again, where this starts, where these three amendments start, is a conversation that I've collectively
+heard from Directors. If there are things that you're, like, Chair Bouquet, you are totally wrong on that, I
+want to hear about that between now and Tuesday.
+And then when we come to Tuesday-- and, of course, we can have this conversation in open session-then we, of course, can say, these are the amendments that we're originally proposing. It is not saying
+we're going to be in favor of the bill. It's based on what we've seen in the bill. There's a lot that we've seen
+that we liked. This is what we're proposing to amend.
+And again, for us to vote and pass this to the full board meeting as an Executive Committee, 1,000% this
+can change during the Tuesday board meeting. And again, if we're not satisfied during the Tuesday board
+meeting, after we pass x amendments, we can also take a position to amend in the future.
+So my proposal is we got to keep this show going. I think the quicker that we take an amend position and
+the quicker that we have specific amendments for our lobbyists, the better this will go. And this shows that
+the Board has a message regarding this bill.
+So I'm going to put it to a vote regarding this Executive Committee. Again, the motion is to make the two
+RTD Directors on the proposed Accountability Committee voting members on that committee, and to add
+the proposed Accountability Committee to former Directors selected by the Board to serve as voting
+members on the committee and to remove the addition of two ex officio members to the RTD Board of
+Directors.
+Director Whitmore was a second, so I'm going to put this to a vote. Treasurer Benker.
+KAREN BENKER: Let me put it this way. I will probably vote no at the Board meeting, but I do think it's
+important to have the Board have the conversation. So at this point, I'll vote yes.
+JULIEN BOUQUET: Perfect. Thank you. Secretary Nicholson.
+CHRIS NICHOLSON: I believe very firmly that recommending this as the default is disrespectful to the
+entire Board, when it has become very clear from this conversation that there is not anywhere near
+consensus among the Board members. And so handing them a set of recommendations and saying,
+these are the three amendments we want you to run, I know how defaults work, and I would strongly
+encourage the Chair to not move forward with a set of recommendations that are clearly not under a
+consensus.
+
+JULIEN BOUQUET: Secretary Nicholson, are you a no or yes?
+CHRIS NICHOLSON: I'm a firm no.
+JULIEN BOUQUET: Thank you. Second Vice Chair Whitmore.
+TROY WHITMORE: Excuse me. Well, this vote will be a consensus of one body, the Executive
+Committee. And we have a lot of discussions ahead. And I'm confident that we will move the process
+along appropriately. Therefore, I'm a yes vote.
+JULIEN BOUQUET: Thank you. I am also a yes vote. The motion will move forward to the full Board. 3, 2,
+1. Thank you.
+All right. Perfect. Let me get back to our script. Thank you all for the conversation-- a very lively
+conversation. Is there a motion to approve the Board meeting agenda for our meeting on Tuesday,
+February 25?
+TROY WHITMORE: So moved.
+JULIEN BOUQUET: Whitmore is the mover. Is there a second? Director Benker? Or Treasurer Benker?
+KAREN BENKER: A question. I don't have the agenda in front of me. I should have printed it, because I
+do like paper. I did want to talk about the Board operating procedures. Is that going to be on the consent
+agenda?
+JULIEN BOUQUET: Mr. Kroll?
+JACK KROLL: Just one quick procedural thing, if we could get a second on the motion to discuss the
+agenda first.
+JULIEN BOUQUET: I'm a second.
+JACK KROLL: OK. And then the Board operating guidelines is simply a discussion this month. It's not on
+the agenda for any kind of action at the Board meeting. If there were to be consensus on the Board
+operating guidelines and what's being proposed, they would come back next month as an action item for
+the Executive Committee to consider, and at that point would go to the full Board for consideration.
+While every Director has access to the packets that are published, typically, in instances where the Board
+is considering amendments to either bylaws or operating guidelines, the Board Office will circulate those
+following the Executive Committee meeting during which they came up as a discussion-- not an action
+item, but just a discussion-- for further input from Board members, before returning the following month as
+an action item to the Executive Committee.
+KAREN BENKER: OK. That's good to know because I have many issues with that particular document.
+So it's going to go forward. But we'll be doing the vote next month, not next week. Thank you.
+JULIEN BOUQUET: Perfect. Is there any further-- yes, Director Chandler.
+
+KATHLEEN CHANDLER: I'm sorry. I must leave, but thank you very much for this discussion. And I just
+wanted to make that apparent. Thank you, guys, so very much. It was good to hear you. And I'm sure
+we'll have a robust discussion on Tuesday. Thank you.
+JULIEN BOUQUET: Looking forward to it. Thanks for being here, Director Chandler. Perfect. Is there any
+further discussion on the review of the agenda? OK. Seeing none, are there any "no" votes on this? OK.
+Seeing none, we pass 4 to 0. All right, next up-- I should say 4, 0, and 1 absent.
+There are six discussion items on the agenda. The first item is the monthly Government Relations Report.
+And since Mr. Davies is gone, I'm going to turn it over to GM CEO Johnson.
+DEBRA JOHNSON: Thank you very much, Chairman Bouquet. The monthly Government Relations
+Report is in your packet on pages 34 and 35. What I will supplement to this month's report really is
+around the federal element regarding government relations, quite naturally.
+As you may be aware, since January 20, President Trump has issued almost a hundred executive orders,
+memoranda, and proclamations to carry out his administration's policy goals and agenda. And many of
+the directives, together with USDOT Secretary Duffy, basically does appear to have impact to the public
+transportation industry.
+I know that this body has had several conversations. More so, these EOs, these Executive Orders really
+pause some transportation funding. They terminate diversity, equity, and inclusion programs, and impose
+new tariffs, and established priorities for DOT competitive grants.
+Where RTD currently sits, working with our federal lobbyists, we have not identified any direct impacts to
+our agency currently relative to formulaic funding. And also, you may be aware that we are a passthrough in reference to a discretionary grant for Colfax BRT. Having had meetings with the FTA directly,
+just yesterday, recognizing that those already have signed agreements, we are in a position where we
+can still make draws, meaning that we can draw down on that money and be reimbursed.
+So I just wanted to share that information, as I have had several conversations relative to the Finance
+Committee and other venues, and wanted to impart that information. As it relates to the state, we just had
+a lively discussion that really summarizes the bulk of the activity there, while this agency has moved
+forward looking at deterrence measures, as I called out, with transit worker assaults and things along
+those lines. That is something that is in the works.
+And then lastly, at the local level, I know that Catalyst Public Affairs has been working with committee
+members or Board members in general, relative to providing support. So nothing too much to add there,
+as the primary focus has been on the state and with the monitoring of where we are with the federal
+government, with the new administration.
+So with that, Mr. Chair, I'll yield the floor, recognizing that there's a myriad of other items that you all
+would like to get to. Thank you.
+JULIEN BOUQUET: Thank you very much, Ms. Johnson. Questions for Ms. Johnson from committee
+members or Directors? OK. Seeing none, we do have several items, so we're going to move on to-- thank
+you, Ms. Johnson. I just wanted to say thank you for presenting.
+I'm going to move on to second item, which is going to be the Board Operating Guidelines for the 2025
+review and proposed amendments. Mr. Kroll, do you have any additional comments regarding this?
+
+JACK KROLL: Thank you, Chair Bouquet. I think it would just be helpful to summarize how we got here.
+The Board passed operating guidelines some time ago and, back in 2019, passed a resolution as it
+updated the Board operating guidelines to recommit annually during a meeting in the first quarter of each
+year to uphold these principles and to amend them as necessary to reflect current practices.
+And so this item appeared on the Board's work plan, or the committee's work plan, as a result of that
+resolution. And it's a standard practice that the Executive Committee endeavors to simply review these
+guidelines on an annual basis in a meeting in the first quarter of each year.
+Last year, there were substantive changes that occurred to the Board operating guidelines subsequent to
+a similar conversation in the first quarter of the year, and then again in September of last year. But it's
+really important to not just revisit these, but also recommit to them, understand them, and ensure that
+they're working for the Board as it is currently constituted and operating.
+Following a discussion that I had with Chair Bouquet and First Vice Chair O'Keefe, I pulled together some
+proposed amendments, which you all see in your packet today, to reflect some of the feedback that we
+were getting-- that I received from that discussion.
+And so there are proposed amendments around the following items-- engagement of staff time,
+cooperation and communication regarding elected official outreach, length of time each Director should
+speak at a meeting on a topic, the role of the meeting chair, ensuring efficient meetings, and the length of
+time dedicated to each agenda item. Finally, professionalism and respect expected in communications
+with staff.
+The Board operating guidelines, it's important to note, derive their authority, if you will-- authority might be
+a strong word-- but it's really about your collective and shared commitment to them, and capacity to
+remind each other of them and hold each other accountable to them.
+And with that, you all have received the packet with the specific language of the proposed amendments.
+I'm happy to take any questions that you all may have. As I outlined earlier, the process would be, if
+there's consensus around some of these items today, they would return as an action item at next month's
+meeting. In the interim, we would also solicit direct input from Directors not on the committee for their
+input on these proposed changes.
+JULIEN BOUQUET: Perfect. Thank you very much, Mr. Kroll. Are there any comments or questions from
+Committee Members? Any comments or questions from Directors who are joining us today? Yes,
+Treasurer Benker.
+KAREN BENKER: Just quickly. And again, I know we'll have a more in-depth discussion. I counted 59
+recommendations on this particular piece that's coming before us. I just feel that they're excessive. And I,
+at some point, would like to maybe consolidate something down to a one-pager, where we respect one
+another, and listen, and proceed.
+But I'll save that discussion for next month. And so go forward at this point. You'll hear more from me in
+March.
+JULIEN BOUQUET: Perfect. Thank you, Treasurer Benker. Yes, I agree myself, too. I think getting us
+down to simple operating guidelines isn't the worst idea on the planet. Perfect. Any other questions or
+comments about this? But yes, we will carry this forward into next month.
+
+OK. Seeing none, we're going to keep moving on, just in respect to time. Third item is the First SemiAnnual Report on Director Requests. Mr. Kroll, would you please present this item?
+JACK KROLL: Yes. And for this item, I do have a very short PowerPoint that I'd like to run through. I know
+we're tight on time, so I'll make it go quickly. But a lot of staff, time, and effort went into preparing this
+item. And I want to give it its fair due. Let me make sure that I am-- all right. Can you see a presentation
+mode of my screen here?
+JULIEN BOUQUET: You are good to go, sir.
+JACK KROLL: Great. So first and foremost, a big thanks and huge shout-out to the Board Office staff who
+manages the Director request process and our partners in the Executive Office and across the agency,
+who do a phenomenal job of providing timely, and accurate, and informative information to Director
+requests.
+We, as part of the Board's operating guidelines, have been asked to present on Director requests on a
+semi-annual basis. And this is the first of two updates you'll receive on these requests this year. The next
+one we will come back and do later in the fall.
+So you can see here, just real quickly, an overview of all requests that are coming into our system. In
+2022 and 2023, we maintained the process for managing these in SharePoint. And then in 2024, we
+moved over to Salesforce. But there was still some overlap in the beginning parts of the years with
+SharePoint.
+That was a great collaboration between Board Office, the Executive Office, and our colleagues in IT to
+develop a system in Salesforce that's far more powerful and allows us to track, much more closely, the
+amount of time, energy, and effort being deployed on responding to Director requests, as well as the
+amount of time it takes to get back to folks, or, in other words, the turnaround time on those.
+As you can see, there has been a very significant increase in the amount of requests we are receiving
+from Board members. And we're tracking that accordingly so you all can be aware of it.
+These are numbers for 2025 projected, extrapolated out from the end of-- I think we stopped pulling this
+data right at the end of-- or as the packet was put together. So it's about one-and-a-half months worth of
+data that's extrapolated out. So not the most-- there's a great potential for variation in the final numbers
+here.
+But again, you can see we're continuing on this upward trend. And some of that is to be expected with the
+number of new incoming Board members participating.
+These are the total by Director. So in red, you'll see the number of requests, as well as the number of
+hours that went into responding to those requests. And in 2025-- or, excuse me, this is total by leadership
+team. So this, I think, is a great slide, because it shows how everyone across the agency is working to get
+these responses back to you all and get information. And it's really a shared and collective effort.
+I do want to make one call-out here. We built, intentionally, a system that would respect attorney-client
+privileges. And so the legal category here is significantly under-reported. But that's because we didn't
+want to have a separate database containing confidential legal advice that Directors had sought out from
+the Office of the General Counsel.
+
+And so the number there of just showing four total requests in 2024 is a far cry from the actual
+engagement that the General Counsel's Office is providing with Board members. So just want to make
+that one clarification and point here.
+And then 2025, by Director, you can kind of see-- again, we're only about a month or so in here. And this
+is the breakdown across the Board. And then, again, with the leadership teams and staff across the
+agency.
+And finally, I just want to share out updates for 2025. We've now got a category where we track requests
+that come in to all Directors, whereas in the past, that would have been captured in this item "Board
+Office, No Director." So we'll have "Board Office, No Director" coming forward, and then as well as
+requests that get sent to all Directors.
+And then we've just updated our system to remove Directors who were no longer in the Board in 2024
+and added new Directors into the Salesforce. And then we will automatically remove folks as they term off
+the Board.
+Before I take any questions, I just want to give a big shout-out to Jillian Knapp-Rhodes, Tai-Shrae Parish,
+and Marie Snell. They do a lot of the coordinating work on this. Jillian Knapp-Rhodes actually worked very
+closely with IT to design the Salesforce system, and really worked closely on continuing to enhance that
+system so it's more functional for us.
+And then Marie Snell is the primary-- by default, in many ways-- the primary coordinator between the
+Board Office and staff across the agency in getting responses to your inquiries. And I can't say enough
+about the great work the team does to ensure that your responses are accurate, timely, and are tracked
+and don't fall through the cracks.
+And with that, Chair Bouquet, that concludes my presentation.
+JULIEN BOUQUET: Thank you very much, Mr. Kroll. Are there any questions or comments from
+committee members or Directors present? Second Vice Chair Whitmore.
+TROY WHITMORE: I'll be brief. We do not thank our Board Office staff enough for the yeoman's work
+that they do. So just kudos to all four of those people that do so much behind the scenes to assist us. So
+just didn't want the opportunity to pass to say thanks.
+JULIEN BOUQUET: Thank you very much, Director Whitmore. And yes, all 15 of us are greatly
+appreciative of the time and effort that our Board Office staff put into it. So thank you. Treasurer Benker.
+KAREN BENKER: I guess two things. One is, with regard to tracking so closely all our requests-- and I
+know we're going to be having that more in-depth discussion in March-- I do wonder whether it's worth
+staff time to keep track of this. And so I raise that as a question now.
+And I'm disappointed that I'm only down as one question. And I will do better, Jack. I will ask many, many
+more questions because I want to make sure everyone knows that I'm working hard on learning as much
+as I can about RTD. So there's that.
+The second thing is I would like to ask if we could reconsider Director Nicholson's motion to add an
+amendment to be discussed by the Board to postpone discussion about our bill till next month. Since I
+voted yes on the prevailing side, I have the-- I can do that. Don't be upset with me. [CHUCKLES]
+
+But I'd like to have at least that option on the table. I'm not even quite sure that-- I actually do believe that
+the Board should be making decisions on the bill now, but I think it would be good to have a full Board
+discussion on that. So that's one reason I am asking for reconsideration. Thank you for your patience.
+JULIEN BOUQUET: Appreciate it. So again, going back to that, we have voted on this, and we are going
+to have the full discussion during Tuesday's meeting. And I'm going to take feedback from all 15 of you.
+I'm going to work with Mr. Kroll to get all feedback prior to Tuesday. And again, if there's an issue with the
+amendments that are, that's the question that we can discuss during Tuesday's meeting. This isn't set
+and final.
+CHRIS NICHOLSON: Just to be clear, I believe that Director Benker is asking for reconsideration of the
+vote that we just took a minute ago and that she was in the majority on that. So we can have
+reconsideration of that vote. I would ask that we do that, as per Robert's Rules. And maybe Jack can
+facilitate that or explain the details there, make sure that we're doing that properly.
+JULIEN BOUQUET: Mr. Kroll?
+JACK KROLL: Sure. I'll be happy to chime in. It is a technical possibility for a request to be made to
+reconsider by someone who voted in the majority on that issue. So in that regard, both Director Benker
+and Director Nicholson are correct.
+However, what I would offer for the Chair's consideration is that the conversation and discussion at hand
+is not pertaining to that. I think that motion would be a bit out of order, given that we have moved on to a
+series of discussion items.
+I think it would be allowable-- and this is really your discretion, Chair-- under other matters to revisit that. I
+think that, at the end of the day, if the Executive Committee reconsiders its position on the matter and
+takes no position, you all have already approved your agenda for next month's-- or next week's meeting
+anyways. So the item will still be discussed by the full Board. It just wouldn't be discussed within the
+context of a recommendation from the Executive Committee.
+So my recommendation, at this point, is to continue forward with your agenda as stated, and then revisit
+this item under other matters.
+JULIEN BOUQUET: Perfect. Thank you very much, Mr. Kroll. We'll move this into-- well, we'll have this-- it
+is also my discretion. Do I even have to take it up in Other Matters?
+JACK KROLL: The issue that I think is at a hand here would be the fact that we were under discussion of
+another matter. And so the motion made by Director Benker to reconsider could be considered outside of
+the orders of the day or the agenda, right? But when you get to Other Matters, that's a more free-flowing
+session and may allow for broader discretion to entertain such motions.
+JULIEN BOUQUET: Perfect. OK. Mr. Kroll, I did see your hand up before. Did you have a comment prior?
+JACK KROLL: I was just going to respond to Director Benker's notion about the reporting. There is
+actually likely some under-reporting being done here.
+Director Benker, you have been very curious, and we are appreciative of that curiosity, Board Member.
+And it is on my shoulders for not having included further some of the inquiries that you have made.
+
+And then as far as the value of tracking the requests made by Directors, I do think that is actually very
+valuable, because it allows for us to make informed resource decisions within the Board Office and
+across the agency about the type of resources we're providing the Board, with from a staffing perspective.
+JULIEN BOUQUET: Perfect. What other questions or comments do we have on this discussion item
+here? OK, perfect. I think the one thing I would want to offer as comments, as the Chair to it, is going to
+be, when it comes to a request, yes, we have every right to make as many requests as we like. I think
+one thing I would tell Directors, again, is where are these requests ultimately going? And does this help
+when it comes down to our policy decision-making?
+That would be my caution when it comes to moving forward. When it comes to requests, make sure that
+these items, ultimately, are going to be helping you as a decision-maker. Again, I know that staff are
+taking a lot of time when it comes to some of these requests. They're very respectful of it. So that would
+be my one recommendation to folks.
+OK. So moving on. Let me see. We are on our fourth item, which is continuing education efforts for the
+Board of Directors.
+I do want to caution, before I give it over to Mr. Kroll-- or I shouldn't say really "caution--" but when it
+comes to the educational efforts, we, as a Board of Directors, thinking about specific items that we want
+to go forward with rather than going in a myriad of different conversations of, hey, these are going to be
+the continuing education efforts that we want to go forward with, think about what specific ones we want
+to go based on time. So, Mr. Kroll, do you have any additional comments regarding this?
+JACK KROLL: Yeah. I would just say the Board Report has a good amount of information around the
+process for which the Board Office solicited input on what areas the Board may benefit from continuing
+education efforts on. Given your time is tight today, my recommendation to you as the Chair is to take
+input from the Executive Committee members either very quickly here or in subsequent offline
+communications around the four bullet points listed in the Board report that were recommendations for
+continuing education that haven't yet been scheduled.
+We have scheduled, by way of the training policy and other requests from you as the Chair, trainings on a
+number of items that were raised in our feedback process for continuing education of Directors. And so
+those four items that are not yet scheduled and could potentially be added, given your time constraints,
+you may, as you mentioned, consider one or two of these as being most important and working to focus
+on those.
+But best practices for engaging with the media is one training topic. This one was a recommendation from
+CFO MacLeod. The long-term financial trajectory and associated constraints relative to ongoing
+maintenance needs and debt capacity, and how that impacts goals associated with the facility and fleet
+transition or additional rail expansion.
+Several Directors alluded to some interest in looking at the topic of mobility hubs within the Policy
+Objectives Forum. And I believe this is actually a recommendation, although I'm not quite positive. But I'm
+pretty sure it came from Director Benker to look at state of good repair with respect to the bus and rail
+fleets.
+
+JULIEN BOUQUET: All right. What comments or questions do we have, Directors, about continuing
+education? Again, feel free to shoot me an email, Executive Committee members, of what we want to
+potentially look at and, again, limit what we at.
+OK. Moving on. Fifth item, Mr. Kroll and GM CEO, would you please present the item regarding our 2025
+Executive Committee work plan?
+DEBRA JOHNSON: Thank you very much, Mr. Chair. I'm Debra Johnson, General Manager and CEO.
+Recognizing that Mr. Kroll has been presenting the work plans, I will yield the floor to him and input
+anything that I deem to be appropriate to help with this committee's consideration. So Mr. Kroll, I'll yield
+the floor to you.
+JACK KROLL: Thank you, GM and CEO Johnson. And you all have, again, had the opportunity to look at
+this work plan. We did meet-- Director O'Keefe, GM CEO Johnson, Melanie Snyder, myself, and Chair
+Bouquet-- to discuss this work plan. One thing that I would like to highlight that is around the corner here
+is an item that Chair Bouquet has asked for, which is with respect to director accountability. And it's a
+bylaw amendment, so that will be coming as a discussion item in March and potential action item in April.
+There was also a request to look at the Board's expense and reimbursement policy. Tai-Shrae Parish and
+the Board Office did some great work on that back in 2023. But one of the things we've been
+encountering since we updated that policy is struggling to get adherence to stated deadlines with respect
+to submission of expense reports.
+And this is not just something that makes our lives easier. It is something that is actually-- there's some
+strong guidance from the IRS around the timing of reimbursement requests, particularly as it relates to
+travel. And we want to make sure that the Board is in compliance with that.
+And we'd like to consider the Board changing that policy, so that rather than giving the Executive
+Committee the capacity to prevent reimbursement for expenses that were requested after the deadlines,
+we would flip that to make it such that the Executive Committee would have to provide permission to
+provide expense reimbursements that were particularly tardy.
+I want to flag, again, just in a little bit of self-interest here, that there would be an executive session stated
+for June for a performance management conversation with myself, as I do primarily report to the Board
+Chair. And then also the Executive Committee has an obligation within the Board's bylaws to provide
+performance feedback to my position.
+And with that, I don't really think there's much else to say, other than there's a lot of green pasture out on
+this work plan in the months following July and beyond. And I think that gives you some flexibility. But
+please consider continuing the conversation around what it would make sense for the Board to look at.
+And, Director Nicholson, I know you and I had talked about something recently that would make sense to
+be added to this work plan, and I can't recall off the top of my head what it specifically was. But I recall our
+conversation, and I asked you to chime in with that recommendation today. So-JULIEN BOUQUET: Secretary Nicholson.
+CHRIS NICHOLSON: Yes. I am having difficulty at this moment recalling as well. But I will reach out to
+you after the meeting, and I'm sure we can coordinate over email.
+
+JACK KROLL: And this item is just up again for discussion this month. You all will vote on it as a
+committee at next month's meeting.
+CHRIS NICHOLSON: Actually, sorry, I do remember now. It was the issue of the research computer for
+Directors had come up. And I will be speaking about that later today with GM CEO Johnson. But it may
+make sense for us to have a discussion as an Executive Committee about the proper means for access
+to information and our ability as Directors to have a secure and safe way to access agency records.
+Thanks.
+JACK KROLL: Yeah. And I think it was a bit broader than that maybe narrow focus on the notion of a
+research computer, but just generally speaking, Director access overall.
+CHRIS NICHOLSON: Yeah. That sounds right.
+JULIEN BOUQUET: Perfect. OK. Moving on. Any questions or comments on that from Executive
+Committee members? Excellent.
+All right. Moving on to our sixth and final item, records request fee waivers for the member of the media.
+Secretary Nicholson, would you please present this item?
+CHRIS NICHOLSON: Thank you. Journalism presents a crucial role in helping the public understand what
+we do at RTD. The ability of the press to gather information on our work helps back up the argument that
+we are being transparent about the choices we make and the challenges we face.
+But CORA fees are expensive, and journalists have been acknowledging this routinely in print and on
+television the last few years, as well as today in our public comment. It does not do us any favors with the
+public when we are perceived as being unwilling to grant access to basic information.
+Lack of access due to high CORA fees was mentioned in the Denver Post article just a few days ago on
+transit-oriented development. This resolution aims to rectify that by offering a limited fee waiver for
+Colorado journalists. It has cost containment built in, with a cap by the individual requester and employer.
+And I intend to add an overall cap across all requesters and decrease the overall-- the individual limits,
+when this comes before the Board-- or rather before the Committee for Action next month.
+It has multiple levels of waivers, first qualifying people based on their membership in the Colorado
+Broadcasters Association or Colorado Press Association, or through an application that asks them to
+demonstrate that they meet the statutory definition of a member of the mass media as it is defined in the
+press shield law.
+And finally, it creates the ability for anyone to ask for a public purpose exemption when filing a court
+request, as it currently exists in many jurisdictions here in Colorado. And that would be decided entirely at
+RTD's discretion.
+By doing this, we essentially serve to create predictability for requesters who, by definition, would be
+asking in the public interest, rather than creating a waiver benefit only accessible to one group of people,
+and without creating any kind of enforceable right broadly.
+The language borrows heavily from the existing fee waiver programs in other jurisdictions. And by adding
+a two-year sunset, reduced individual and employer limits, and an overall per-year cap for the program,
+we can ensure that this is meaningfully cost contains at a level the Board can be very comfortable with.
+
+Few journalistic outlets today have lots of money for research costs, especially when they don't know
+what they're going to get in return. Community outlets have virtually none. This program will make it
+easier for local papers in Brighton, and Longmont, and Highlands Ranch, and Parker to have an equal
+ability to obtain records that can answer the questions that their communities are interested in.
+Among our strategic initiatives is customer and community connections. What better way to build
+community trust in our work than making it easier for them to perform direct oversight of what we do?
+Thank you.
+JULIEN BOUQUET: Perfect. Thank you, Secretary Nicholson. What questions or comments do we have
+regarding this matter? Again, this is just a discussion item at this point. But is there any feedback from
+members of the Committee or from other Directors? Yes, Treasurer Benker.
+KAREN BENKER: I do like this suggestion, and I'm very glad that it's going to be time-limited, sunsetted
+in two years, so we can see whether or not it's going to be used judiciously or if it's going to be abused.
+So I'm in favor of moving forward with this. And I do think it's a good idea. So [INAUDIBLE].
+JULIEN BOUQUET: Thank you, Treasurer Benker. Director Guissinger.
+LYNN GUISSINGER: Thanks. I'll probably need to spend some more time with this because there were
+some definitions in what Chris was saying that I hadn't seen.
+But one thing that the reporter-- or the resolution or something said was that people send in CORA
+requests that are very broad. And then when they see-- we give them an estimate, and often they trim it
+down to what they really need. So I'd be concerned that this really could open up the door to a lot more
+staff time and a lot more expense for RTD.
+I am certainly a big fan of transparency. I've been pushing to get our dashboard updated and fixed. And I
+know that there's new software that's involved with that. And maybe Ms. Johnson or our General Counsel
+could speak to that issue of whether we get broad questions, and then when they see a price, that we get
+them trimmed down to what they really want, because that does concern me.
+JULIEN BOUQUET: Ms. Johnson or Ms. Snyder?
+DEBRA JOHNSON: Thank you very much, Mr. Chair. And thank you, Director Guissinger. I think it would
+be appropriate for General Counsel to address the question, as information governance falls within her
+direct auspices. Ms. Snyder?
+MELANIE SYNDER: Mr. Chair, if I may?
+JULIEN BOUQUET: Yes, Ms. Snyder.
+MELANIE SYNDER: Thank you. Yes, Director Guissinger, you're correct. The Information Governance
+and Management Division handles the intake of all the CORA requests. They work with the requesters to
+ensure-- it's very, very common for them to reach back out to the requester, to provide additional
+information, to gather additional information, to help them narrow the information-- narrow their requests.
+We do get quite a range there, not just from members of the media, but we have requesters who, for
+example, are requesting video at a Park and Ride because their catalytic converter was stolen. They
+might submit an initial request that says, my catalytic converter was stolen in March.
+
+And so our staff would go back and say, what was the day, what was the rough time period, so that we're
+narrowing the amount of video that we're trying to look for to provide that-- provide the responsive
+records. So it's a pretty common thing that the team works on to ensure that the requesters are getting
+the information that they need.
+And I would say that certainly our communications team engages quite frequently with the press to also
+provide additional contextual information to help inform those requests, so they can really be asking-framing their requests in a way that are going to get them the information that they're looking for.
+JULIEN BOUQUET: Director Guissinger.
+LYNN GUISSINGER: Well, thank you. That's my concern is that we're opening up a big, wide-- to say that
+they're limited to $3,000, it looked to me like the last three years-- and again, I was doing this kind of
+quickly-- the media had just over $1,000 in fees twice and about $1,300 in fees once.
+So they're not getting to those kind of numbers. And just my concern is a lot of-- we're getting a lot of
+CORA requests now and getting a lot of broad ones that will take up a lot of time and expense. Thanks.
+JULIEN BOUQUET: Thank you, Director Guissinger. Secretary Nicholson.
+CHRIS NICHOLSON: Thank you, sir. Yeah. No, I appreciate completely where you're coming from,
+Director Guissinger. Just based on conversations I've had, I expect that number to come down to $300 or
+$400 per individual media-- individual journalist and a few-- maybe $1,000 across an outlet.
+We only have had about 32, I think is the right number, Colorado outlets that have made requests. And
+the majority of them have made only one or two small requests.
+I think that if we put a yearly cap on this of, say, $5,000 across all of the requests, across all of the
+outlets, we're unlikely to set ourselves up for a gigantic fishing expedition by any particular media outlet or
+anything like that.
+So I think it's all a question of what boundaries we put on this to make sure that we're keeping within
+reasonable cost limits. And I think that starting out with something like $300 or $400 per journalist and a
+$5,000 cap on the whole thing probably avoids most of the concerns that I think you just raised.
+JULIEN BOUQUET: Thank you. Director Guzman. No?
+MICHAEL GUZMAN: Thank you. No, sorry. I'm trying to unmute. So the fiscal impact statement on this is
+hard to justify. As Chair of the Finance Committee and somebody who's watching our budget pennies, I
+would want to know numbers. And I don't see the numbers. I need to be able to feel comfortable doing
+this.
+A question for Madam CEO or General Counsel Snyder would be, the fees that are collected for the work
+that is-- for any CORA requests or CCJRA requests that are currently submitted, does that money cover
+the cost of the labor that goes into doing this? Is it given to the state under the statute?
+It's $14.37 an hour, I think, is what it stated in here, if it's a certain amount, right? So even if you're getting
+into thousands of dollars, who's getting that $1,000? Is that being paid to RTD so that we can do this
+research for somebody? Or is that going somewhere else? That's one question.
+
+The second question is, we're not making a lot of money off of CORA requests, but it is a way to limit the
+proper requesting of information under the law. So I want to make sure that we're not setting ourselves up
+for failure.
+Finally, without having a hard number on that one, with all due respect, Secretary Nicholson, it is not the-I would argue that I would have a hard time justifying this to my constituents who elected me to be here,
+when they would like to see buses running more frequently or utilizing the taxpayer money to do other
+matters, not providing a waiver, which no other entity in Colorado as stated in this description, offers,
+generally speaking, for this type of research, instead of putting it back into the agency where it belongs.
+And so maybe we could handle those questions in order, if you don't mind. Thank you.
+CHRIS NICHOLSON: Sure. So I completely-JULIEN BOUQUET: Hold on, Secretary Nicholson.
+CHRIS NICHOLSON: I keep doing that. My apologies. [LAUGHS]
+JULIEN BOUQUET: Director Guzman, was that question towards Ms. Snyder and Ms. Johnson?
+MICHAEL GUZMAN: Yes, please, about the collection of fees, and then how they're utilized or if they're
+paying for the research work time of the agency staff.
+JULIEN BOUQUET: Staff?
+DEBRA JOHNSON: Yes. Once again, Mr. Chair, I will yield the floor to Ms. Snyder.
+MELANIE SNYDER: Mr. Chair, if I may?
+JULIEN BOUQUET: Yes.
+MELANIE SNYDER: Thank you. So to answer your question, Director Guzman, the statutory-- under the
+Colorado Open Records Act, RTD is authorized to charge up to $41.37 an hour. Our current policy is that
+we're only collecting $30 an hour. We haven't updated that in a little while, so that might be something
+that we're looking at.
+The other response to your question is that those dollars go back to RTD. They don't go to anyone
+outside of RTD. And then I guess the last about what those dollars are supposed to compensate for, I
+think we could run the math to figure out how much time is actually being spent. It's just a flat dollar
+amount that we're charging, $30 per hour.
+There are a number of people. It's not just the team and the Information Governance Division who
+collects the records. It's anyone. It could be Debra. It could be myself. It could be other AGMs. It could be
+our CFO.
+So the time that is being spent, I think-- sometimes we're focusing a little bit on the actual fee and the
+dollar amount. But it's, I think, important to keep in mind that it's not just the dollar amount. It's the time
+that somebody is taking to compile the information, which means they're not using that time to do other
+work that they-- that's the core function of the agency.
+
+JULIEN BOUQUET: Perfect. Thank you very much, Director Guzman. Any further conversation on this? I
+have a hard stop in five minutes. So Mr. Nicholson, quickly. You're on mute. You're on mute.
+CHRIS NICHOLSON: Sorry about that. Yes. So I agree completely with Director Guzman. We do need a
+cap on this in order to make sure that we feel comfortable with it fiscally. That's something that came out
+of discussions that I had.
+To my understanding, this would only apply to requests made to the agency. So we wouldn't be paying
+anybody else these funds. They would just be allocated to compensate for the fact that we were not
+doing-- we were not receiving money for the work.
+So yeah. No, I would like to make sure that we do this in a way that is fiscally defensible. $5,000 does not
+pay for an entire bus operator, but it does pay for something. And we should make sure that that money is
+going to something that we think is worthwhile.
+JULIEN BOUQUET: Thank you, sir. Any further discussion on this item? OK. Seeing none, we're going to
+move to other matters. Are there any other matters at this time? OK, seeing-- Director Nicholson?
+CHRIS NICHOLSON: I was just going to say, I believe that Director Benker-- oh, no, she's still here. But
+go ahead, Director Benker.
+JULIEN BOUQUET: Actually, you go ahead, Director Benker.
+KAREN BENKER: [LAUGHS]
+CHRIS NICHOLSON: My apologies. I meant to say, I'll stop talking to be-- that was not a "I'm the Chair
+now."
+KAREN BENKER: Mr. Chair, because I also have to leave really soon to get one of my pups to a vet, I
+would like to make a motion to reconsider Director Nicholson's initial motion to postpone discussion until
+March. And I think you can further elaborate.
+CHRIS NICHOLSON: Yeah. So sorry. My apologies. Go ahead.
+JULIEN BOUQUET: Secretary Nicholson.
+CHRIS NICHOLSON: Just to be clear, my amendment on the motion was simply that we not forward, to
+the full Board, the amendments that Chair Bouquet submitted. And the reason for that is simply that I got
+the sense that there was enough disagreement among the Board members who spoke today that sending
+a particular set of amendments as the format for discussion would bias the conversation going into
+Tuesday. Because it was pretty clear to me that there wasn't anywhere near agreement among the actual
+Board members who were on the call.
+So I would ask Chair Bouquet to seriously reconsider whether or not that's the right thing to do.
+JULIEN BOUQUET: Thank you, sir. I appreciate it. Mr. Kroll, you're recognized.
+JACK KROLL: Yeah. I just want to bring some point of clarification. I believe Director Benker's intent, in
+order to make a motion to reconsider, you have to actually make a motion to reconsider what was
+
+passed. And I believe you made a motion to reconsider Director Nicholson's amendment, which didn't
+pass.
+So you're actually needing to make a motion to reconsider the Executive Committee's adoption of the
+position to amend. That would be the appropriate motion to make. And let me add some further clarity. It
+has to then pass with a majority to undo the Board's action. So even if it goes 2 to 2, it doesn't change the
+outcome here.
+So I leave that for your consideration. And then a final procedural note here is that, if a motion to
+reconsider fails, it is actually out of order to re-bring that motion in the future. So just leave that for your
+consideration and thought as you wind up your meeting here.
+JULIEN BOUQUET: Thank you. I just want to wind up-- I just want to say, how it is currently saying, we
+100% can amend based on what the amendments are there. I understand the perspective.
+Secretary Nicholson, I have called very many members, if not all-- well, not all the members, but a
+majority of the members on this Board already. I sent this email out, if there is any feedback or comments.
+This is just moving it forward to the full Board. If we want to change it, we can change it.
+So that would be my warning, Secretary-- or, excuse me, Treasurer Benker, if you want to go forward with
+it. But I think the smarter idea is move this conversation to Tuesday and continue forward with it, OK? So
+with that Treasurer Benker, did we want to go forward with-KAREN BENKER: I actually would like the Board to discuss all four amendments. And so is this a motion
+to be added to the three that we've already approved? It's a question for Director Nicholson.
+CHRIS NICHOLSON: So I think that Director Bouquet-- Chair Bouquet, who has to jump off right now,
+has addressed a lot of the concerns that I have. And I hope that when we talk about this at the Board
+meeting, we can start from a position of zero, rather than making an assumption that the three that he
+submitted are reflective of the consensus.
+To me, that is not a reasonable recommended action to bias our conversation around. But I will leave that
+to him and to the conversations we have then, and not put us in a situation where we are continuing this
+discussion.
+JULIEN BOUQUET: Thank you.
+CHRIS NICHOLSON: I appreciate it.
+JULIEN BOUQUET: Sorry. I don't mean to speed you guys all up. I have children pounding at the door.
+This is what I'd recommend. This, I believe, is the smartest decision.
+I will have Mr. Kroll send out communication. What that communication will be exactly is feedback
+regarding these amendments. I am going into this saying, this is what I'm proposing. I think it's smart for
+us to have the full discussion on Tuesday. This is what I've been proposing the whole time, and we be
+open to it, and we move forward. That would just be my recommendation.
+So OK? I'm seeing thumbs up. Treasurer Benker, you OK with that? Are there any other matters?
+TROY WHITMORE: Mr. Chair, I move to adjourn the meeting.
+
+JULIEN BOUQUET: OK. Let me say this one real quick. Our next meeting is scheduled for Thursday,
+March 20. At this meeting, we're slated to take action on our committee work plan, as well on proposed
+amendments to our operating guidelines. In addition, our standard monthly Government Relations Report.
+We'll hold discussions on the Board's efforts regarding record retention, our next Board retreat, and a
+potential bylaw amendment.
+Do I have a-- well, motion to adjourn. We're all done. We don't need a second. Have a great afternoon,
+everyone. Thank you.
+JACK KROLL: Bye, everyone.
+
+greaterdenvertransit@gmail.com
+
+Submitted as Public Comment to the RTD Executive Committee Meeting, February 20th, 2025
+February 20th, 2025
+Julian Bouquet, RTD Executive Committee Chair
+Regional Transportation District
+1660 Blake Street
+Denver, CO 80202
+Dear Chair Bouquet,
+Greater Denver Transit (GDT) would like to respectfully submit public comment on the following topic:
+Records Request Fee Waivers for Members of the Media
+GDT is in support of this resolution, which would provide the first $1,000 in CORA fees to be waived per year
+to credentialed members of the media with an overall limit of $3,000 per media outlet. Making it easier to allow
+the press access to RTD’s discoverable records is a key part of facilitating media coverage on the agency that
+is well informed and in the public interest.
+Thanks for all you do,
+
+​
+James Flattum​
+
+​
+
+​
+
+​
+​
+
+​
+​
+
+​
+​
+
+​
+
+​
+
+​
+
+​
+​
+
+Richard Bamber
+
+Emma Griffin​
+
+CC:​
+
+RTD Board of Directors
+Debra Johnson, RTD General Manager & CEO
+
+www.greaterdenvertransit.com​
+
+Page 1
+
+

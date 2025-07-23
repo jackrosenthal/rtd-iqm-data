@@ -1,0 +1,69 @@
+## I. FasTracks Monitoring Committee
+
+Chaired by Larry Hoy
+
+### A. Call to Order
+
+Committee Chair Hoy called the meeting to order at 5:30 p.m.
+
+Chair Sisk and Director Lubow were absent.  Director Menten arrived after the FasTracks Monitoring Committee meeting concluded for the Planning and Development Committee meeting.
+
+Staff Present:               Bruce Abel, Susan Altes, Mike Barnes, Lacy Bell, Rachel Carson, Rick Clarke, Wayne Cochran, Kevin Diviness, Phil Eberl, John Elias, Sherry Ellebracht, Terry Emmons, Ken Fleck, Marcia Fraley, David Genova, Terry Howerter, Genevieve Hutchinson, Kate Iverson, Austin Jenkins, Erin Klaas, Marla Lien, Patrick McLaughlin, Barbara McManus, Doug McLeod, Jeff Miessel, Vivian Morales, Andy Mutz, Scott Reed, Gary Schear, Pranaya Shrestha, Bill Sirois, Henry Stopplecamp, Stan Szabelak, Yong Song, Brian Thye, Pauletta Tonilas, Li-Wei Tung, Mike Turner, Bill Van Meter, Ashland Vaughn, Jyotsna, Vishwakarma, Michael Washington, Phil Washington, Brian Welch, Karen Young
+
+Others Present:               Tim Baldwin, Dan Cohen, Michael Dunlap, Kimaron Hallford, Eugene Howard, Joni Goheen, Doug Gragg, Pedro Ramos, Josh Russell, Cindy Stovall, Joe Triplett, Chris Waggett
+
+### B. Citizens Advisory Committee
+
+Cindy Stovall, Citizens Advisory Committee (CAC) Co-chair, thanked the Board for the opportunity to keep them up-to-date on the CAC’s activities.  She said that the last quarterly public meeting was held on September 17th in Aurora with Director Tobiassen in attendance.  There was an update from RTD staff on the East Line as well as a presentation by Bob Watkins, City of Aurora Planning and Development Services Department Director, on Transit Oriented Development in the area.  Cindy Stovall shared that the next meeting for the CAC will be a work session in October.  She noted that the application process for becoming a CAC member was now open and would be closing on October 17th.
+
+Committee Chair Hoy asked how many openings there were for the CAC.  Cindy Stovall stated there were three.
+
+Committee Chair Hoy thanked the CAC for all their hard work; the Board really appreciates everything they do.
+
+#### 1. Citizens Advisory Committee
+
+#### 1. Approval of Budget Transfer for North Metro Sidings
+
+It is recommended by the FasTracks Monitoring Committee that the Board of Directors authorize the transfer of $16 million from FasTracks Railroad Right of Way budget to a project to construct additional track sidings (see attached) on the North Metro Rail Line (NMRL).  These sidings will improve system reliability on the entire RTD commuter rail network.  They provide for a more robust, reliable operation on the current North Metro segment to 124th Avenue and facilitate the future construction of the remaining segment to 162nd Avenue.  Funding for the FasTracks Railroad Right of Way Budget is included in the 2014 Amended Budget for the FasTracks capital program.
+
+Motion:              Director Solano made the motion to move this item to the full Board at the October 28, 2014 Board meeting.
+
+Director Lasater Seconded the motion.
+
+Discussion:              Rick Clarke, Assistant General Manager of Capital Programs, reminded the Board that the North Metro Rail Line is largely a single track railroad with passing sidings.  Trains in opposite directions meet on these sidings, pass, and then both reenter the single track.  He noted this works fine until something goes wrong such as breakdowns, power problems, inclement weather, etc.  He explained that once a delay begins it can become difficult to manage and create a ripple effect with too much single track.
+
+Ashland Vaughn, North Metro Project Manager, reiterated that the North Metro currently is primarily single track with a series of passing tracks.  He explained that these additional sidings will help the system recover from any problem so that they do not compound and spiral out of control.  He stated that this is not just important for the reliability of the North Metro but really the entire commuter rail system.
+
+Committee Chair Hoy pointed out the schematic of the sidings that was included in the October 7, 2014 FasTracks Monitoring Committee Agenda Packet.  He thought this was a great illustration of the request.  Ashland Vaughn noted that it is much more financially feasible to integrate these track sidings into the system now versus coming back later.
+
+Rick Clarke reminded the Board that RTD has a very good experience of moving forward with enabling works that benefit the agency down the road.  He stressed that once North Metro is built to end-of-line these sidings would still need to be built but at that time it would be at a much greater cost.  He stated that while RTD’s motto is to build as much as we can as fast as we can we also need what we build to be done right.  Rick Clarke said that RTD does not want to open a line only to have it be continually behind schedule because these sidings were not approved.  He commented that another important reason to approve this action is that there is budget available.  He reiterated how important it is for this to be done now while RTD has a contractor ready and service has not yet started.
+
+Director Folska noted that the funding for this work would be coming from the FasTracks Railroad Right of Way budget.  She wondered what the ramifications would be of using all the funds from this budget.  Rick Clarke stated that there would no longer be any funding available if unforeseen expenses arouse as it relates to BNSF and Union Pacific right of way; however, the Eagle project was built almost entirely along railroad right of way and any issues were successfully handled within the Eagle project’s budget.
+
+Director Solano thinks it is great that staff is looking forward and being proactive in their recommendations.  He thinks this is a great recommendation.
+
+Committee Chair Hoy declared the motion PASSED.
+
+##### a. northmetro track schematic
+
+#### 1. Central Rail Extension Mobility Study
+
+Andy Mutz, Project Manager, reviewed a Power Point presentation with the Board that is available in the October 7, 2014 FasTracks Monitoring Committee Agenda Packet.  He reminded the Board that the purpose of the study is to determine the best way to provide a direct trip between the 38th/Blake Station and Downtown Denver while establishing a long-term vision with the local community.  The study elements include alignments, vehicles and operational elements such as stations, ridership capacity, RTD system integration, future expansion, etc.
+
+Director Bagley inquired what the cost of the Central Rail Extension is budgeted at in today’s dollars.  Andy Mutz said it is roughly $65 million.
+
+Director Rivera-Malpiede shared that she was overwhelmed and touched by how many community members have participated in the study.  She asked how staff plans to keep them updated on the status of the project.  Andy Mutz stated that the process would be the same as it was at the start; there will be an elected officials briefing followed by a task force meeting and then a public meeting.
+
+##### a. CRE Board Update Oct 2014
+
+### E. Other Matters
+
+Bill Van Meter, Assistant General Manager of Planning, said that in some recent conversations with Northwest Corridor stakeholders it became clear that not everyone has an understanding of how this line will operate as part of RTD’s contract with Denver Transit Partners (DTP).  He explained that in the original Request for Proposal (RFP), the operations plan was always defined as an express service between the Westminster Station and Denver Union Station without stopping at any intermediate stations, which are the 41st Avenue and Pecos Street stations.  He stated that per staff’s discussions with the stakeholders, including DRCOG, Adams County, and Denver County, there is now a common understanding.  Bill Van Meter noted that this is also a great opportunity to test express service as this has been requested on many of RTD’s existing lines.
+
+Director Anderson pointed out that the Environmental Impact Statement for the Gold Line indicated a concern that there be a way to transfer at the Pecos Street station to the Northwest Rail Line.  Bill Van Meter acknowledged that the opportunity for transfer is recognized by staff; however, until the line goes further north there is not a demand for transfer.  He said this will be addressed as the corridor gets built out further.
+
+Committee Chair Hoy thanked Bill Van Meter for the update.
+
+### G. Adjourn
+
+Committee Chair Hoy adjourned the meeting at 5:55 p.m. to the Planning and Development Committee.

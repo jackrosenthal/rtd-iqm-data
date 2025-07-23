@@ -1,0 +1,117 @@
+## I. Call to Order
+
+Chair Anderson called the meeting to order at 5:32 p.m.
+
+### 1. Roll Call
+
+Staff Present:               Bruce Abel, Jeff Becker, Larry Buter, Jessie Carter, Carolyn Conover, John Elias, Sherry Ellebracht, David Genova, Mike Gil, Erin Klaas, Marla Lien, Barbara McManus, Brian Matthews, Doug MacLeod, Paula Perdue, Scott Reed, Jannette Scarpino, Cal Shankster, Henry Stopplecamp, Lisa Trujillo, Bill Van Meter, Phil Washington, Steve Reilly, Cheryl Holmes, Sheri Rustin, Jeff Dunning, Robert Rynerson, Nataly Erving
+
+Others Present:              Larry Tenenholz, Joe Triplett, Gary Van Dorn, Monte Whaley
+
+General Manager Washington began by thanking Chair Anderson for nominating him for the APTA General Manager of the Year Award.  He was unaware that he was nominated but as he stated in his email to the Board, it is really a reflection of what the entire agency does.  He believes this is a testament to what the whole agency has done over the last few years.  General Manager Washington feels that this is really an opportunity for RTD to really push a national transportation agenda and that is exactly what he plans to do.
+
+General Manager Washington shared that at the very last minute on Sunday, July 28, 2013, the Federal Railroad Administrator, Joseph Szabo, stopped through Denver on the Amtrak and requested a tour of Denver Union Station (DUS).  Dave Genova, Henry Stopplecamp and Jeff Kay conducted the tour.  He stated that DUS is a multimodal operation center.  DUS is not just a Federal Transit Administration involved project; the Federal Railroad Administration has contributed about $150 million in the form of a Railroad Rehabilitation and Improvement Financing loan.  General Manager Washington said that Administrator Szabo could not believe that we are at 50% completion for the Eagle P3 project.
+
+General Manager Washington informed the Board that RTD lost one of our drivers last week who passed away suddenly.  Al Shavers worked at East Metro.  He shared that he attended the funeral as did many people from the RTD family.
+
+## II. Service Development Process
+
+General Manager Washington explained that staff tries to present our service planning process to the Board on an annual basis. It is very important for the Board to understand how staff looks at our service standard criteria, the timing involved with suggesting or recommending service adjustments and how staff goes about this based on the service policy the Board adopted.
+
+Bruce Abel, Assistant General Manager, thanked the Board for letting staff have the opportunity this evening to walk through the service development process.  He hopes that it is going to be a very worthwhile use of the Board’s time because he thinks it is one of the critical elements of RTD’s core processes.  Bruce Abel introduced Jeff Becker, Senior Manager of Service Development, Steve Reilly, Manager of Marketing Services, and Jessie Carter, Manager of Service Planning & Scheduling. He explained that staff wanted  to have a broader tag team approach to tonight’s presentation because what they are going to talk about tonight involves many people and areas of RTD.
+
+Bruce Abel explained that service development really is where we translate our mission statement into action; it really helps provide the guidance for our resource allocation to meet the District’s mobility needs.  Bruce Abel stated that staff cannot produce ridership; what they can produce is service.
+
+Bruce Abel, Jessie Carter, and Steve Reilly reviewed a PowerPoint presentation with the Board that is available in the July 30, 2013 Study Session Agenda Packet.
+
+The key take-a-ways from this presentation included:
+
+- How we develop the proposed service plan
+
+- How we communicate the proposed service plan and;
+
+- How we implement the service plan
+
+Director Folska asked why staff included Access-a-Ride in the Performance by Class of Service chart since the service standards being evaluated are for fixed route service.  Bruce Abel explained the purpose is not necessarily to evaluate but to illustrate Access-a-Ride’s subsidy per boarding and boardings per vehicle hour.  He stated this is good information to have when staff begins resource allocations.
+
+Bruce Daly asked staff for a further explanation of the runcut process.  Bruce Abel explained that the runcut process is where staff takes all of the pubic schedules and turns them into pieces of work that an operate bids on.  RTD must go through the process per the terms of the collective bargaining agreement of having drivers select what piece of work they are going to do for the next several months.  He stated this is a very time consuming processes as there are 1100 plus operators on the bus side and nearly 200 operators on the rail side that go through the process of actually selecting their work.  There are timelines associated with each of these milestones and a lot of technical work that goes on to prepare the schedules.
+
+General Manager Washington explained that staff gets sort of aggressive when they bring to the Board the action to take the proposed service changes out to the public.  General Manager Washington stressed the fact that just a difference in a week or two in the schedule can cause a ripple effect on the milestones outlined on page 20 of the presentation.  He noted that the Board action is just the second item; if that gets delayed by a week or two it causes this ripple effect in the schedule that can impact the CBA requirement for drivers to vote, etc.
+
+Bruce Abel reiterated that one of the greatest challenges falls in the category of timelines. He noted that staff has a variety of directives that impact the processes and planning.  He asked the Board to consider modifying the process that requires staff to bring a draft to the Operations and Customer Service Committee Meeting for approval and then to the Board of Directors Meeting for approval before it even goes out for public comment.  He hopes there can be a process in which staff communicates with the Board at the same time as the public so they have the opportunity to really work with everyone.  Steve Reilly stressed that the timeline for the final approval would remain unaffected; it would only be the process on the front end that would change.
+
+Because of the number of questions by the Board members in the queue, Chair Anderson implemented a round robin process for comments.
+
+Director Deadwyler asked how effective staff believes the methods are for getting information out to people. She wonders if our riders are getting information.  She noted that in her district, the current methodology is not effective.  Bruce Abel replied that we all acknowledge that the attendance at our public meetings is not what we might wish it to be but it is not what it was in years gone by.  He thinks we have seen a real change in the way people communicate; the vast majority of our feedback now comes electronically.  The communication is designed to drive people to the website to see the specifics of the service changes and to provide feedback to us through the website.
+
+Jesse Carter expounded that we might have an average attendance of less than 20 people per meeting but at the same time we are receiving hundreds of emails so there is quite a bit of communication going on between constituency and staff.
+
+Steve Reilly expressed we do a really good job of trying to mix the resources we have at our disposal to get the word out in the best fashion.  He stated that his team tries to be highly visible and use the opportunities and space allocated to RTD in a very wise and judicious manner.  His team is trying to mix that up with the digital tools available to them while leveraging and growing out digital databases.  Steve Reilly explained that Marketing tries to make the best choices possible for media placement; they look at geography, timeline, circulation, overlap with other media, etc.
+
+Director James stated that while he has not yet fully vetted the suggestion of expediting the approval process his initial reaction is positive.
+
+Director Lasater asked how long Bruce Abel has been the Assistant General Manager of Bus Operations.  He wondered if in Bruce Abel’s time as AGM there had ever been a clash between Board approval and the final product. Bruce Abel said he has been with RTD 13 years and had 35+ years in the industry. He stated that very rarely has there been a change made during staff’s request to take the proposed changes out to public comment; that is really the reason why staff is making the suggestion to eliminate a formal approval prior to taking it out to the public for feedback, and allow for an active conversation with staff and the Board regarding recommendations.
+
+Director Lasater believes the expediency and ability to interact with the consumer is more important than the Board having control of the process.  He said the bottom line is that we either need to make or save money from this District; he feels if we can get happy customers we are going to be making money and subsidizing less and that is a good thing.
+
+Director Rivera-Malpiede said that as a TMA director for the past 12 years and going through the service change process three times a year she has learned a lot. She is in support of staff’s recommendation.
+
+Director Rivera-Malpiede is pleased about RTD using Twitter, Facebook, and email to communicate with our constituents; however, a great number of her constituents are transit dependent and single linguistic with no access to computers.  She asked what staff has in their plans in terms of being able to communicate with these individuals.  Bruce Abel shared that staff is just getting ready to conduct some surveys on Limited English Proficiency throughout our District so we can be more proactive in identifying what other languages we need to be more communicative in. He said we do a fair amount of Spanish outreach but are also aware of the fact that there are a number of other ethnic populations other than Spanish.
+
+Lisa Trujillo thanked Director Rivera-Malpiede for bringing the subject up. She stated that public relations has been involved with the service change process by sending out news releases but they need to take a more active role in the process.  She said that her team has been talking to Michael Washington regarding Title VI and Limited English Proficiency.  The plan is to implement a grassroots outreach and having more time in the process will allow her team to do that.
+
+Director Menten commented that she heard from many people who have signed up for rider alerts who did not receive notification of the April service changes.  She wonders if it would be possible to use the data we have for EcoPass or FlexPass holders and do a generic email blast to them.  Director Menten also believes an ongoing system message on the bus via overhead speaker system every few minutes that would state generic information about upcoming service changes might be beneficial.
+
+Scott Reed explained that the EcoPass, FlexPass, etc. lists are controlled by each employer or program coordinator.  He stated that the coordinators  are responsible for communicating that information to the riders on an individual basis.  He said that RTD is precluded from utilizing the individual contact information.
+
+Scott Reed said that we already place Transflux Posters on all the vehicles as well as brochures.
+
+Director Jeff Walker stated that anything that helps extend the time that we are talking to the public or gathering information from the public he supports.
+
+Steve Reilly elaborated that the service change period does not operate in a vacuum; the marketing department meets with service planning continually to determine routes that may need a boost.  He explained that there is a route promotion program in which we will send out printed literature every other month to routes that may have some challenges or issues.  This will be in the form of correspondence about their route with some sort of incentive to try out the route.  Steve Reilly stated that the goal is to get to a point where individuals know what is going on with their route on an ongoing basis; then, hopefully when it comes time for a service change, they will be prepared to look for their route during the public comment period.
+
+Director Hoy noted that since he has been on the Board there have been many service adjustments, most of which have focused on reducing routes or eliminating routes.  He also commented that there have not been a lot of new routes even though our population has grown.  Director Hoy asked what sparks a new route.
+
+Bruce Abel responded that we have been in an era of diminishing resources.  He explained that staff has not been in a position to come to the Board with recommendations for new service.  Bruce Abel shared that staff would typically like to have a 1% or 1.5% service increase every year to maintain service levels as traffic grows, population grows, etc.   He stated that we have not had the opportunity to do that in a number of years.  Jesse Carter stated that the Origin and Destination Studies (O&D) is where most of our new routes actually began.  He said that service planning also looks at the development in the municipal areas.  General Manager Washington reiterated that as Jessie Carter stated, staff is talking to cities, developers and do surveys; there are a lot of different things that trigger a new route.  He noted that as Bruce Abel discussed, maintenance is a big deal; staff is continually looking to fix on-time performance while optimizing service.  General Manager Washington stated that in the 6 year strategic budget plan (SBP), there is new service coming on-line in year 3 or 4 that will be triggered by talking to cities and developers.  Bruce Abel explained that O & D studies are done on a rotating basis; it is a household based survey that asks people what are their public transit travel desires in terms of origins, destinations and times of travel.  He stated that these surveys are very good predictor of successful service.  General Manager Washington stated that Transit Oriented Development will also have an impact on service.
+
+Chair Anderson stated that she likes what staff is looking at in trying to engage the public even more. She noted that with all due respect to Director Menten, she does not want a recording on the bus or train playing over and over for her to listen to.  Chair Anderson feels that when she is on the bus she wants to hear what the next street is, read, and look at her email.  She thinks this is an invasion of space.
+
+Director Bagley stated that anything we can do to enhance the process of the three Runboard operations so we get more input from citizens and stakeholders he will support as long as it is done in a context that works for the staff and the Board.  He asked staff to clarify the information on the slide about Service Standards by Class of Service.  He asked how the 10% and 25% minimums are calculated.   Jeff Becker stated if you had 100 local routes the bottom 10 performing routes would be the 10% minimum.  Director Bagley requested that for future presentations, this clarity is made.
+
+Director Daly asked why the Automatic Passenger Counters are not on every bus.  Jeff Becker explained that for a bus it costs about $12,000 to install and for rail vehicles it is even higher.  He stated that we are now installing them in combination with the CAD/AVL equipment. About 25% of the busses are equipped now.
+
+Director Folska shared that she had recently taken a ride on the new 16th street mall shuttles. She thinks they are really nice but the air does not work, the windows do not open, and the recordings are all wrong.  Director Folska also shared that a blind woman was trying to get on that shuttle the other day and her guide dog got stuck outside.  The people got the driver’s attention but that is not easy to do because you cannot communicate directly with the driver.  She noted that there is also a problem at Civic Center. There are a few cut outs for busses, but if blind people are waiting where the bus is supposed to pick them up and it stops someplace else they will miss the bus.  She knows one rider who has a sign she holds up so hopefully the driver will find her.  Director Folska stated that it is not a joke to be disabled and have the courage to use this system. She feels we have a great system but the biggest problem that people with disabilities have is those without disabilities are driving the system, making schedules, etc.  She believes if we start to consider people who are disabled or who cannot speak English as the gold star standard to serve them first everything else will fall in line; we are designing and building things for all of our customers and she thinks we need to think about our most vulnerable customers first.
+
+Director Tobiassen suggested that staff bring future proposed service changes such as eliminating the approval process to go out for public hearings, to the Operations and Customer Service Committee since it is a committee of the whole.  This would give the Board an opportunity to discuss the changes with staff prior to them being presented to the public.  He also noted that when there are changes and he receives emails, he forwards these directly to the service changes email address; however, he does not receive any acknowledgement of the email other than a form email.  Jessie Carter explained they do collect and tally but due to the volume of emails it would take a dedicated resource to respond which his team does not have.
+
+Director Lubow thanked staff for their presentation and the incredible work they do in moving 325,000 people per day.  She shared that she had a meeting with several of her disabled constituents and RTD Staff for three hours trying to address the needs of these individuals.  She thought it was a wonderful meeting.  She wonders how we can increase real, effective communication with other constituents.  She believes the public meetings leave something to be desired.  Director Lubow noted that in the Northwest Area Mobility Study telephone town hall, people stated that they prefer email communication.  She wants to see a list that people can sign-up for to receive general RTD information.
+
+Steve Reilly informed the Board that during service change periods there is a link on the Board of Director’s page that allows constituents to email their Director about specific service changes.
+
+Director Solano stated that he believes the service planning team is well organized, coordinated, etc. and he wants to accommodate them in any way the Board can; he supports staff’s proposed changes for the service change process.  He asked for clarification as to how budgeting affects the communication process with constituents.  Bruce Abel stated that he was attempting to highlight that one of the real guiding forces in our service is our financial capacity.  He said that in relation to communication, staff is really just hoping for more time so meaningful conversations can occur.
+
+Director Sisk reiterated support for modifying the service change process.  He also appreciates the in-depth presentation from staff.  He believes communication is vital.  He suggests working with municipalities and counties to send service change information to residents.  Director Sisk commented that there is also a certain responsibility on the part of the consumer to come forward.  Director Sisk asked how we determine service levels for special services like BroncosRide, RockiesRide, etc.  Bruce Abel explained that there are service standard requirements for special services as well.  Staff will look at costs, revenues, subsidy per passenger, etc.  He stated that over the years the RockiesRide has diminished from serving every game to only weekend games.
+
+Chair Anderson asked Board members to contact staff with any other questions.  Director Menten requested to be copied on all e-mails. Legal counsel Lien expressed this could be interpreted as a meeting and recommended that Bruce Abel would compile all the questions and provide the Board with responses.
+
+### 1. Service Development Process Presentation
+
+##### a. Service Development Process
+
+## III. Other Matters
+
+Director Walker shared that he and Director Hoy attended the APTA Transit Board Member Conference in Austin.  He stated that he had a chance to speak with many other Directors.  He really thinks we have a fantastic agency; he cannot say enough how blessed he is to be part of RTD.  He was selected as the Region V representative for APTA.
+
+Director Hoy shared that he had the opportunity to speak to the group about FasTracks and how the RTD Board interacts with management and staff.  He said that other Board members were surprised with the latitude the RTD Board gives to management.  He agrees with Director Walker’s sentiments; RTD has a good team and we are going a lot of good things.
+
+Director Solano expressed concern about a Denver post article covering Kiewit-Turner.  He also asked for an update regarding a company that flooded near the Gold Line construction.  General Manager Washington stated that there will be no impact to RTD.  He said staff would provide an update on the flooding.
+
+Director Deadwyler shared that APRI met with a group that has been meeting for over 22 years.  It is a group of current and former gang members who put aside their difference and have a yearly BBQ.  She attended with Austin Jenkins (AGM – rail operations) and Monica Caldwell (HR).  Director Deadwyler said that the group appreciated RTD attending so much they ask for us to come next year.  She thanked Austin Jenkins and Monica Caldwell for their attendance.
+
+Director Lasater stated that he had the opportunity to meet with the Utah Transit Authority in Salt Lake.  He said that most people do not realize RTD’s Board is elected.  Director Lasater commented that they were very envious of RTD; however, UTA has created a great rail system.
+
+Chair Anderson congratulated Director Walker for his election as the Region V Representative for APTA which covers a huge area.   She also congratulated General Manager Washington on his award as APTA Outstanding Public Transportation Manager for 2013.
+
+## V. Adjourn
+
+Chair Anderson adjourned the meeting at 7:44 p.m.

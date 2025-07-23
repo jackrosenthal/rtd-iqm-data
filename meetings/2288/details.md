@@ -1,0 +1,67 @@
+## I. FasTracks Monitoring Committee
+
+Chaired by Larry Hoy
+
+### A. Call to Order
+
+Committee Chair Hoy called the meeting to order at 8:20 p.m.
+
+Director Lasater was absent and Director Anderson left prior to the start of the meeting.
+
+Staff Present:              Bruce Abel, Rolf Asphaug, Shirley Bennett, Tara Bettale, Sarah Camacho, Rick Clarke, Heather Copp, Lou Cripps, Kevin Diviness, John Elias, Sherry Ellebracht, Terry Emmons, David Genova, Kim Heldman, Erin Klaas, Adrian Mabry, Doug MacLeod, Barbara McManus, Vivian Morales, Mike Nabhan, Paula Perdue, Scott Reed, Bill Sirois, Henry Stopplecamp, Greg Straight, Kirk Strand, Stan Szabelak, John Tarbert, Mike Turner, Bill Van Meter, Jyotsna Vishwakarma
+
+Others Present:              GB Arrington, Jenifer Brandeberry, Mike Dino, Nehemiah Hall, Sherman Hamilton, Julie McKenna, Lorna Moritz, Bob Rizzuto, Roger Sherman, Arleen Taniwaki, Joe Triplett, Gary Van Dorn, Megan Wagner
+
+### B. CAC Update
+
+Committee Chair Hoy recognized Bob Rizzuto, Citizens Advisory Committee (CAC) Co-Chair, and applauded him for his dedication in staying so late.
+
+Bob Rizzuto thanked the Board for the opportunity to present to them this evening.  He noted that this is his 6th year on the CAC.  He has seen a lot of changes and it has been very fun to be part of the process.  He also thanked the Directors for participating in the two-on-one meetings; the CAC feels they are so rewarding and a great opportunity to get to know the Directors better.  Bob Rizzuto said that a common thread within those discussions was “what’s next” for the CAC as RTD transitions from construction and planning to operations.  Other common themes were engaging the CAC earlier as policy recommendations are begin developed by staff, participating in more outside events and focus their quarterly meetings more broadly to address the community interests better.  He stated that the committee also hopes the Board will utilize the CAC in a meaningful way during the General Manager Executive Search process.
+
+### C. Recommended Actions
+
+There were no recommended actions.
+
+#### 1. Eagle P3 Project Update
+
+Rick Clarke, Assistant General Manager for Capital Programs, introduced Greg Straight, Eagle P3 Project Director, to the Board.  He said that while the Board has met Greg previously, this is the first time he will be presenting to them as the overall Project Director for Eagle P3.  Rick Clarke noted that Greg Straight has been on the Eagle project since day one; Greg Straight has been given an awesome responsibility but he is a true leader that will bring this project home on-time and on-budget.
+
+Greg Straight reviewed a Power Point presentation with the Board that is available in the May 12, 2015 FasTracks Monitoring Committee Agenda Packet.  He stated that design, construction and systems are proceeding very quickly and on schedule for revenue service in 2016.  He said that 20 commuter rail vehicles have already been received and four are in-route.  He expects all 66 will arrive by the end of the year.
+
+Greg Straight pointed out that many people will inquire as to why testing needs to be for a full year.  He explained that each commuter rail car needs 1,000 miles of “burn-in” before revenue service as well as each operator needing approximately 160 hours of “throttle time” (operating the car) along the alignment they will work before revenue service can begin.
+
+Greg Straight recognized the Public Information team for their amazing efforts on the safety outreach program.  Approximately 15,000 students close to the East Line received safety brochures, door hangers were distributed to 20,000 residences along the line in addition to numerous community and stakeholder meetings.  He stated that the same outreach plan for the Gold Line will begin this fall.  Greg Straight noted that the FTA Project Management Oversight praised the outreach plan during staff interviews and is in full support of the plan for other lines.
+
+Greg Straight explained that RTD is assisting local agencies with the issuance of the letter of intent for quiet zones.  He said that while stakeholders have requested that the Quiet Zones be established prior to revenue service, it cannot be guaranteed.  RTD and Denver Transit Operators (DTO) are working to fulfill that request.
+
+Greg Straight said that public tours would be available for all rail lines through October as well as the Commuter Rail Maintenance Facility.  He encouraged the Directors to get the word out to their constituents to attend.
+
+Director Folska expressed her appreciation for the PI team as well.  She wondered how the project was coming with regards to Positive Train Control (PTC).  Greg Straight stated that PTC has been incorporated into the project from the beginning.  He has every reason to believe that it will be up and operational for revenue service as there have been no indications of fatal flaws.
+
+Director James inquired if the “burn-in” miles for each rail car and “throttle time” for each operator would be predominately on the East Line.  Greg Straight said that the majority of vehicle miles would be on the East Line since it was ready first; however, operators need to have hours along the alignment they will be working so that will be on all rail lines.
+
+Director Menten commented that on the West Line the issue of noise is not just related to horns; it is also about the volume and frequency of the stop announcements.  She said she was not sure if that might also apply for the Eagle Project but was something to keep in mind.  She stated that there was also a crossing along the West Line made a Quiet Zone after the fact.  She wondered how many at grade crossings there were throughout the Eagle project, how many had requested to be Quiet Zones, and what the cost would be to make one of these crossings a Quiet Zone after the fact.  Greg Straight stated that there were 40 at grade crossings, all of which had requested to be Quiet Zones.  He said that while the costs to make a crossing eligible to be a Quiet Zone could be significant, most of these cost would occur anyway to ensure safety.  Interim General Manager Genova pointed out that there is a big difference between the West Line and Eagle Project as commuter rail is regulated by the Federal Railroad Administration which means there are many more regulations.
+
+Director Menten inquired how complaints would be handled since the lines would be operated by DTO.  She asked if it would work the same way as it does currently with the contractors for our bus service.  Greg Straight stated that the complaint process would work the same; complaints would be routed through RTD with RTD evaluating the complaint and monitoring the resolution.  He said that complaints are factored into DTO’s monthly payment so they are highly incentivized to provide a high level of customer service.
+
+Director Deadwyler expressed her excitement at watching the progress throughout her District; however, she said that she has yet to see any vehicles operating along the line and she travels along it on a daily basis.  She wondered if perhaps there was a specific time she needed to be watching as she would love to see one.  Greg Straight explained that currently the only portion of the track certified for testing was from DIA to 40th and Airport so they are not going far enough south yet for her to see them.
+
+Director Deadwyler inquired about the progress on the stations.  Greg Straight stated that the team had been focused on the civil improvements and getting the rail line up for testing.  He said the stations are progressing well and people should really start to see progress now that the cars are being tested.
+
+Director Deadwyler noted that she gets a lot of complaints about noise from certain communities but our trains are not even running through those areas.   She said it is important for people to understand that it is not just RTD that will be operating trains.  Greg Straight explained that RTD designating Quiet Zones will be another benefit to the community; since we have a shared alignment with the rail roads the whole crossing will be a Quiet Zone.
+
+Director Tobiassen shared that many in his community heard that the freight train operators would blow their horns whether or not a crossing was designated a Quiet Zone.  Rick Clarke noted that if it is a Quiet Crossing all rail road companies recognize the Quiet Zone; however, if a train engineer sees a potential incident they have discretion to use the horn.
+
+Committee Chair Hoy thanked staff for a great presentation.
+
+##### a. Eagle Update to Board, 5.12
+
+### E. Other Matters
+
+Director Francone shared that she and Director Lubow toured Boulder Junction recently.  She said it was fabulous to see the improvements that have been made.  She stated that Boulder Junction would be very excited if other Board members wanted to go on a tour.
+
+Director Deadwyler invited the entire Board to the annual Juneteenth Festival.  There will be entertainment and speakers that will really be promoting RTD.  It is on June 20th from 7:00 a.m. to 6:00 p.m. in the Historic Five Points Neighborhood.
+
+### G. Adjourn
+
+Committee Chair Hoy adjourned the meeting at 8:57 p.m.

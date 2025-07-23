@@ -1,0 +1,71 @@
+## I. Government Relations Committee
+
+Chaired by Bruce Daly
+
+### A. Call to Order
+
+Committee Chair Daly called the meeting to order at 6:03 p.m.
+
+Staff Present:              Shirley Bennett, Rick Clarke, John Dawson, John Elias, Sherry Ellebracht, Kevin Flynn, David Genova, Mike Gil, Terry Howerter, Austin Jenkins, Jeff Kay, Erin Klaas, Marla Lien, Doug MacLeod, Barbara McManus, Ana Mostaccero, Paula Perdue, Scott Reed, Daria Serna, John Shonsey, Bill Sirois, Henry Stopplecamp, Greg Straight, Walt Stringer, John Tarbert, Pauletta Tonilas, Bill Van Meter, Ashland Vaughn, Gary Vidlock, Phil Washington
+
+Others Present:               Zach Alexander, Lauren Balsley, M. Combs, ZJ Czupor, Aaron Epstein, Charles Flax, Jake Gilmore, Stan Gronek, Mowa Haile, Sherman Hamilton, Walter Jones, Barry LaSalle, David Lewis, Qing Liu, Brian Middleton, Bill Mosher, Dan Pearsall, Mark Pilkington, Laura Rinker, Julio Rivera, Adriane Sanford, Roger Sherman, Robert Smith, Joshua Solis, Joe Triplett, Gary Van Dorn, Bob Wilson, Christina Zazueta
+
+### B. Recommended Actions
+
+There were no recommended actions.
+
+#### 1. Legislative Update - Local, State, Federal
+
+Local – Roger Sherman
+
+Roger Sherman said that in looking at the meetings CRL Associates has had since the last update, the one theme that really runs consistent is discussion about revenue options.  He stated that this morning they had a Metro Mayors Caucus FasTracks Task Force Meeting that Directors Bagley and Sisk attended along with General Manager Washington and several other RTD Staff.  Roger Sherman believes it was a very good discussion similar to the statewide discussion of how to fund transportation and make the appropriate allocations.  He said that at the meeting they were given a spreadsheet that outlined the various options the Mayors are considering which is very extensive.
+
+Roger Sherman stated that there was a full Metro Mayors Caucus Meeting on February 6th, an Impact 64 Meeting on February 12th, a Metro Area County Commissioners meeting on February 22nd, and the Colorado Transportation Commission meeting on February 26th.  At all of these meetings, a major component was transit funding.  He explained that these discussions are complicated because they are at a statewide level.  Roger Sherman said that the allocations would most likely be done based on population.  Roger Sherman explained that he has offered to go to a Club 20 meeting to provide an update to them on the polling that has been done showing that transit is very popular.
+
+Roger Sherman shared that he attended the City and County Manager’s Association Conference on February 14th and 15th.  While there was nothing specific pertaining to RTD at the conference he believes building relationships with the city managers is very important to RTD’s long term success.  He stated that he met with the new Commissioner, Casey Tighe, from Jefferson County and also has meetings scheduled with several other new commissioners in the upcoming weeks.
+
+State – Brandeberry~McKenna
+
+Jenifer Brandeberry stated that this Friday, March 8, 2013, will mark the hallway point of the Colorado General Assembly.  She stated that as the Board may know, they have been spending a lot of time on some very controversial issues ranging from civil unions to gun legislation.  Jenifer Brandeberry shared that in all her time lobbying she has never seen so many big, emotional issues going in front of the legislators.
+
+Jenifer Brandeberry outlined that for RTD’s agenda, her team is working on the bill to change our parking statute.   This is a Democratic sponsored bill by Nancy Todd in the Senate.  The bill’s House sponsor is Republican Kevin Priola.  This bill has moved from the Senate into the House and is scheduled to be discussed in the House Transportation Committee on March 6, 2013.  She shared that they have spent a lot of time with the Transportation Committee Members; this committee contains many legislators who come from the northern part of the state.  Jenifer Brandeberry stated that no one to date has testified in opposition of the legislation; however, there are many cities, city managers, etc. who have approached us about working on an Intergovernmental Agreement (IGA).  She shared that our sponsors understand that if RTD needed to go out and negotiate 35-40 IGAs it would defeat the purpose of the legislation.  This is a permissive tool for RTD and our partners in the local communities.
+
+General Manager Washington reiterated that we have been hearing that other cities are requesting to execute the “Boulder Model” not understanding that Boulder is unique because it has only one facility that RTD owns.  He stated that we have not anticipated administering a large number of IGAs.  It is RTD’s position that we are not staffed nor was it ever intended that we would administer 30+ IGAs.  General Manager said that Director Lasater had mentioned setting up a task force; he believes that is appropriate but we are not set up to administer that many IGAs.
+
+Jenifer Brandeberry stated that the other piece of legislation her team is working on is a bill that will be introduced in the next week.  The sponsors of the bill will be the Majority House Leader, Dickey Hullinghorst, and Chair of the Joint Budget Committee, Senator Pat Steadman.  She explained that this bill came from RTD’s work on the Risk Allocation Matrix (RAM).  Colorado has a very complicated Sales and Use Tax System.  Jenifer Brandeberry stated that for various reasons, the State collects Sales Tax on certain items and RTD collects on certain items but they do not match.  The purpose of the bill is to streamline the collections so that what RTD collects matches with what the State collects.  She said that this bill is projected to increase RTD’s collections by about $3 to $3.5 million.
+
+Jenifer Brandeberry shared that there were a few other bills that might have interest for the Board.  One is a bill to allow the local jurisdictions to use the High Performance Transportation Enterprise money for transportation purposes.  This bill has cleared the Senate and is in the House Transportation Committee.  Jenifer Brandeberry noted Director Folska’s question to Bill Mosher regarding Transit Oriented Development.  She believes SB 52 addresses some of the concerns he mentioned about our current construction defect statute.  This bill has been taken off the table but the conversations have been that it will be re-scheduled once DRCOG completes a study they are currently working on.
+
+Jenifer Brandeberry said that at the beginning of the session Senate Bill 23 was introduced.  It would do a very dramatic overhaul of the Colorado Governmental Immunity Act.  This bill proposed raising the overall cap that had not been raised since the 1970s.  She believes the timing was very ripe for this bill.  The bill bumped the cap from $150 thousand to $350 thousand per claim with an ongoing index.  Jenifer Brandeberry stated that the bill was testified to in the Senate last week with zero opposition; the bill was put on the Consent calendar.  She stated that the bill will pass.
+
+Jenifer Brandeberry stated that the Joint Transportation Committee is meeting very regularly at the state level to keep up-to-date on what is going on.  She shared that Brandeberry~McKenna and RTD have been invited to present on March 28, 2013 to the Committee.  The goal of the presentation is to share with the Committee how we have been so innovative and creative with our funding.
+
+Jenifer Brandeberry informed the Board that they are and will continue to see a very active, innovative group of people who want to look at doing government differently.  She thanked the Board for their working relationship and all their outreach to their legislators.
+
+Director James asked if it would be possible to prevent the request for other IGAs by removing Boulder from the language of the bill.  Marla Lien explained that Boulder was not in the language of the bill but it was a separate IGA with RTD.
+
+Director Menten shared that she listened to the hearing in the Senate and she thought there was a great deal of confusion about the parking bill.  She stated that she is confused as to why there will be a House hearing on the bill tomorrow as well as a scheduled briefing for March 28th.  Director Menten wonders why we are waiting so long to have a briefing when we are putting the bill through these hearings.  Jenifer Brandeberry explained that the briefing on March 28th is a general briefing about RTD and public financing while the hearing tomorrow is Committee Bill Hearing for the House Transportation Committee.
+
+Director Menten asked if Jenifer Brandeberry could provide her with further information on the tax bill once it is available.  Jenifer Brandeberry said she would get that to Director Menten as soon as it is available.
+
+Federal Update
+
+Sherry Ellebracht explained to the Board that Mike Dino was in Washington, D.C. so she would be providing them with an update.  She stated that sequestration did go into effect on March 1st, 2013.  Sherry Ellebracht shared that the final figures from the Office of Management and Budget indicate that the New Starts Grants will be reduced by about 5%.  She explained that we do not know how those cuts will be allocated.  Sherry Ellebracht said that the formula funding would be exempt from the sequestration budget cuts.
+
+#### 2. Legislative Conference - Key Messaging
+
+Sherry Ellebracht provided the Board members with a packet of information for their upcoming trip to Washington, D.C. for the APTA Annual Legislative Conference.  She stated that it contained Patton Boggs’ Power Point presentation that has excellent slides as well as some talking points and background information that Board members can speak to when they go to their meetings on the Hill.
+
+Sherry Ellebracht explained that there are several things we will be asking for when we meet with our delegates.  She stated that RTD still does not know what we will be receiving as an appropriation for Eagle P3.  We will be asking our delegation to write a letter to the FTA and Department of Transportation asking for the most funding possible for that project.  Sherry Ellebracht stated that with the sequestration affecting New Starts Grants, it will also be important for us to explain the consequences to the Eagle P3 project if we do not receive the full grant funding.  She said that it will be very important to go to the meetings prepared and to speak as one voice with one message.
+
+Sherry Ellebracht said that she believes the presentations will be fantastic.  Directors and Staff go to the conference to hear the latest on what is happening and APTA always has presenters that can provide the most up-to-date information.
+
+General Manager Washington said that it will be important to continue to repeat the messages that staff has been impressing upon the FTA Administrator.  The first message is to convey the uniqueness of the Eagle P3 project; this is the only Public-Private Partnership in the country.  It is also important to convey RTD’s track record of success.  Finally it is important to highlight the WIN job creation that is tied to the project.
+
+### D. Other Matters
+
+There were no other matters.
+
+### F. Adjourn
+
+Committee Chair Daly adjourned the meeting at 6:38 p.m. to the FasTracks Monitoring Committee.

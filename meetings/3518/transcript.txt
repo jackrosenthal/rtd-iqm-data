@@ -1,0 +1,1410 @@
+2023-10-03
+Finance and Planning Committee
+DOUG TISDALE: Good evening. The Tuesday, October 3 Finance and Planning Committee of the RTD
+will now come to order. We are convened as of 5:30 PM Mountain Daylight Time. I would respectfully ask
+everyone who's attending this meeting to mute yourself, please, unless and until you are recognized by
+the Chair to speak.
+I want to thank you all for joining us this evening. Please note that the Committee meetings of the RTD
+Board of Directors will continue for a period of time to be held remotely via Zoom. Now, these meetings
+will be audio and video recorded. And the meeting recordings, along with the unofficial minutes of these
+meetings, will be posted as soon as practicable on the Board's website. Visit rtd-denver.com to access
+these. And in addition, a live stream of this meeting is also available via RTD's YouTube page.
+Now, Directors and members of the staff, for the sake of the record, if you would please like to be
+acknowledged during tonight's proceedings, I would ask you please to raise your virtual hand and wait for
+me to call upon you before proceeding to speak. Directors and staff who are participating by phone can
+also raise their virtual hands to indicate that they would like to speak by pressing Star 9 on your phone.
+And to toggle your mute setting on the phone, please press Star 6.
+So I would now like to call the roll for the Committee members. Director Peggy Catlin?
+PEGGY CATLIN: Here.
+DOUG TISDALE: Director Bobby Dishell is excused from the meeting and will be absent. Chair Lynn
+Guissinger?
+LYNN GUISSINGER: I'm here.
+DOUG TISDALE: Director Michael Guzman?
+MICHEAL GUZMAN: I am present.
+DOUG TISDALE: And Director Ian Harwick?
+IAN HARWICK: Here.
+DOUG TISDALE: And Committee Vice Chair Erik Davidson
+ERIK DAVIDSON: Here
+DOUG TISDALE: And I am Chair Doug Tisdale and I am present I am not seeing-- and I think that's
+because of the way I have my screen set up-- the other Board members, but I do see now Director
+Marjorie Sloan is with us and Director Troy Whitmore is with us. Are there any other Board Directors who
+are with us whom I have not recognized?
+
+All right. So we have those two, and we thank you for that. I will now open the public comment portion of
+our meeting. This is an opportunity for anyone who would like to address the Committee regarding any
+topic that is listed in the published meeting agenda, either for this current meeting that we're having now
+and also for the immediately preceding month. If you wish to speak and if you've not already done this,
+please now either raise your virtual hand or press Star 9 on your phone so that we will know you wish to
+speak.
+Now, please note during this time, the Committee will not offer any direct comments or responses to
+anything that you say. If you would like to be contacted personally regarding your public comment, please
+simply email the Board Office at rtd.boardoffice@rtd-denver.com. So now may I ask of staff, are there any
+hands raised at this time?
+TAI-SHRAE PARISH: No, there are no hands raised.
+DOUG TISDALE: All right. Then I can forego the description of how we process these comments and
+even avoid my advance. Please do not feel that you are compelled to use the full three minutes that
+you're accorded during this public comment period.
+Having now confirmed with staff that no hands are raised, I will let you know that Board Office staff has
+also advised me that we have not received any emailed comments for today's meeting. And so therefore,
+with no participants in the queue and no email comments received, we will close the public comment
+period at this time.
+Next is our information from external entities. There is one external entity report on the agenda this
+evening. That report is for the sales and use tax forecast. Now for the sake of the record, these materials
+can be found at Committee Packet Page 3 through Page 77.
+I would like to ask Doug MacLeod, our Chief Financial Officer, if he would now introduce this item and
+also please introduce our distinguished advisors from the CU Leeds School of Business. Mr. MacLeod,
+the floor is yours.
+DOUG MACLEOD: Thank you, Mr. Chair, and good evening. As the Chair mentioned, we do have a
+discussion item or an external party presentation from the CU Leeds School of Business. Joining me
+tonight are Rich Wobbekind, Robert McNown, and Brian Lewandowski who will have a presentation
+momentarily. Also in the packet is included the August 2023 sales and use tax forecast, the most recent
+forecast. The entire report is in there too for your reference.
+Before we jump in, I just wanted to refer to a couple of items that are stated in the Board report itself. The
+last forecast, the previous forecast received by RTD from the Leeds School of Business was in March of
+2023, the most recent forecast being the one received in August of this year.
+Just for your information, there is a table in that Board report that points out the changes between those
+two forecasts. We use-- here at RTD, we use those forecasts for both our budget as well as our Mid-Term
+Financial Plan.
+So within the-- comparing the two forecasts, the most recent forecast actually shows a decrease in sales
+and use tax projected collections for 2023 for the year of $21.5 million, which is a 2.4% decrease. That's
+really based on our recent experience.
+
+The last four months have been relatively flat compared to the prior years, so we're not seeing the
+historical growth that we've seen over the last few years, at least over the last four months. So I think that
+tempered some expectations in the remainder of this year in terms of sales tax collections.
+And then for the full six-year period for the Mid-Term Financial Plan, the forecast has decreased with the
+August presentation by $19.4 million. So $21.5 million for one year, $19.4 million for six years. So
+obviously, there's some years that actually show increases as you get further into the six-year period. So
+Mr. Chair, without further ado, I would like to turn the floor over to Mr. Wobbekind to lead the
+presentation.
+RICHARD WOBBEKIND: Believe you're seeing the slides.
+DOUG TISDALE: We are indeed, Rich. Thank you very much, sir.
+RICHARD WOBBEKIND: OK. So we're ready to roll. Well, thank you so much, Doug, for the introduction.
+And yes, I'm Rich Wobbekind. And joining me tonight in the presentation is Dr. McNown, our lead
+econometrician on these modeling projects. And also as mentioned, our team leader, Brian Lewandowski
+is on the call and will be taking questions at the end as needed, as we go through. You also see in this
+slide our other team members, Miles Light and Adam Illig, who work at the Business Research Division.
+I would highlight and repeat what you just heard. So this was an August 2023 report. And again, more for
+newer members of the Board even though it's been a year now for-- probably almost a year for everyone.
+We do this twice a year, and typically roughly six months apart to fit into RTD's budget and forecasting
+cycle for future budgetary uses-- sources and uses, if you will.
+So this is the second time this year we have presented. And as mentioned, this is updated and does
+show a change. And you'll hear more about that in the second part of the presentation from my colleague,
+Dr. McNown.
+So when looking at the sales and use tax forecast, we always talk about, what's going on in the
+background? And when you look at this particular slide, you come away with a couple of pieces that are
+clear. There's been a lot of uncertainty in the forecast, and that has been shown in the actual reports that
+we've given you. The error bands are pretty wide around the forecast. A lot of these things continue to be
+questionable or unknown.
+When we have entered the year, we were not forecasting a recession, but we were forecasting a very
+slow economy. And the economy has clearly outperformed. The first three quarters have all been over
+2% GDP growth, so that's on the positive side.
+But on the flip side, if I showed you this graph that-- I'm sorry, this slide that we showed you a year ago,
+you would see a lot more of these arrows in green. Far fewer in red than you see on this particular one.
+So even though the economy has outperformed, the mixture of the red and yellow arrows on this
+particular graphic still give people concerns.
+And we see this reflected in confidence surveys and other things by both businesses and consumers that
+they're still worried that there's potential for a recession in next year, and we're not out of the woods yet,
+that kind of a background piece. So that, of course, creates a lot of uncertainty.
+And just to tie it to something that Doug mentioned, the retail sales that you'll be tied to as we go through
+this, we're focused a lot on the consumer in this overall picture because the consumer, of course, is a
+
+huge percentage of GDP. But the consumer is also driving the retail sales environment. So pay a lot of
+attention to that obviously in the modeling, but just in general in terms of looking at the overall macro
+economy. So a little bit more about that as we go along.
+So again, GDP has outperformed through the first two quarters-- and in the beginning of-- and so far in
+the third quarter. It officially ended on Friday. But most of the forecasts for the third quarter are suggesting
+it's going to be over 2% for Q3 of 2023.
+Going forward, again, when we look at the Moody's analytics and the consensus forecast outlooks for
+2023 and 2024 in particular, you can see the 2024 forecast for both Moody's and from consensus
+forecasts are much lower growth than this year. This year at 2% and next year at sub 2% kind of growth.
+So looking at another year of relatively weak growth overall in the economy.
+Of course, underlying some of this is our prices in the economy. And the Fed I believe, at least a lot of the
+commentary seems to flit around, they feel like they're winning the battle in terms of controlling inflation in
+the economy. But they do think the 2% number that is their target is a somewhat elusive goal. All of that
+behind the scenes signals that it's unlikely we're going to see much change in interest rates, particularly in
+the downward direction, anywhere in the near future.
+So you can see the Consumer Price Index-- this is national at the moment on the left-hand side. And one
+of the things that's been encouraging is the Producer Price Index used to be referred to as the Wholesale
+Price Index. But the inputs, if you will, in the production process had really come down dramatically. More
+recently, we're seeing those inputs turn up as well. Still in a very modest way and still at a very good level
+year over year, but not going to be able to continue to extract any gains, if you will, from lower and lower
+producer prices.
+And as you know, and it got tons of airplay, the Denver-Aurora-Lakewood MSA has been one of the
+higher inflation areas in the country. Again, as a primer, I guess, for understanding the CPI, if you care to,
+you can see that a few components-- the weights are in the far right-hand column.
+And there are just a couple of components that really combine to come up to about 80% of the overall
+index, those being food and beverages, housing, and transportation. So you could see those pieces
+together again. 75%-- better than 75% of the overall index when we add those pieces together.
+So when we look at that, how are we doing in those areas? And what our expectations could be about
+those areas. And frankly, the housing component, which is measured by a formula for cost of shelter,
+continues to plague the Denver-Aurora-Lakewood MSA, at least through the July numbers, which are the
+most recent-- well, July for Denver-Aurora-Lakewood, August for the overall index. If that's confusing, I
+apologize. Denver-Aurora-Lakewood's only done every other month, so that's why we're sort of a month
+behind there.
+We always like to look at the metrics of Colorado versus other states that are out there. And you can see
+the other states that are out there, you know, how we are ranking and how we feel. And a year ago, a
+little bit more than a year ago we were in the top 10 to 20 in most of these. We in this past year have
+dropped into a rank that's somewhere more in the middle of the pack for most of these.
+But doing certainly better than average has been per capita personal income. It's certainly top 10 in the
+country. Average annual pay, seventh in the country on average. So those are particularly strong
+
+numbers. Labor force participation also a very strong number with fourth highest labor force participation
+rate.
+We do see a slowing in the home price index growth for both one year and quarterly. In terms of our
+rankings we went out of the top 20 down into the 30s and 40s. Probably a good sign in terms of overall
+affordability of housing in Colorado, but it really hasn't been reflected in terms of the rents and other
+things, at least to this point in time.
+Surprising maybe to some, but the population growth continues to be slower than it had been. We were
+always a top 10 kind of population growth state, and now we're at 19th in terms of population growth. So
+that particularly has gotten a lot of focus.
+One quick comment here before-- and I'll try to move this along or speed this up just a little bit-- but
+employment growth, our rank dropped all the way down 32nd and has gotten a lot of attention in the
+newspapers and in broadcast media, print and broadcast media. And there's been a lot of discussion
+about, is the luster off?
+Or one of the comments that we have made in our reports is that we think it may be a combination of a
+labor supply shortage, but it also could be possibly a reflection of maybe miscounting. We've heard from
+the Colorado Department of Labor and Employment that this may be getting underreported. So we don't
+really have sort of a firm grip on this.
+Well, the Colorado Department of Labor and Employment has come out with some suggested revisions,
+employment revisions based on what they think may be inaccuracies on how some of these numbers, the
+basing point of some of these numbers, monthly numbers. And if you put those revisions in, it does put
+Colorado back up into the top 10 or 15 employment growth states.
+So that's an encouraging sign if, in fact, all of this comes to fruition after-- everything gets rebenchmarked every quarter. The economic data gets re-benchmarked. Happy to explain that in more
+detail in Q&A if people are interested.
+We do seem to continue to have an acute labor force shortage. In the data that just came out this
+morning I updated in this particular slide, we're now at 1.9 to one, 1.9 available jobs for every one job,
+every one unemployed person. It was 2.1 in the previous month, so it has come down ever so slightly. But
+it is still a bigger or larger gap than the nation as a whole, so it does appear to be a labor force shortage
+issue to some extent in terms of available labor to fill the jobs that are out there.
+We have seen consistent, again, with Mr. MacLeod's comments in the introduction. We have seen a
+slowing of national retail sales year over year, 2.5%, and 6/10 of a percent month over month. And the
+tan line on this graphic is Colorado. And you can see Colorado tamping even a little bit more over the last
+couple of months. So that's very consistent with what we're seeing in your data and the RTD data that
+we're working with. We're seeing this sort of dampening of retail sales.
+Some of it's a lower inflation rate environment, but some of it may be the consumer actually slowing down
+a little bit. And that's why we pay so much attention to the consumer in this environment. There are lots of
+studies that are looking at the fact that a lot of the excess savings, which accrued over the COVID
+recovery period, have been burned down.
+There are some additional concerns being expressed with student loan repayments starting this particular
+month, which will affect individuals, a segment of the population, $200 to $300 a month on average. So
+
+some of those things could continue to damp retail sales as we go forward. That's at least what people
+are looking at in terms of things people are thinking about.
+We have a wide variety of tailwinds, headwinds, and unknowns. I-- spend a little bit more time on the
+headwinds just for a moment. The ones hopefully in the left-hand side would be somewhat obvious. The
+job openings. Consumers still continuing to spend, obviously, the employment growth, which has been
+very positive income growth. Again, we got very good income growth numbers just today, actually. So
+we're continuing to see very good signs in terms of the fundamentals of the economy in terms of moving
+forward.
+But there's just this number of headwinds that are out there. Financial, which I'm happy to talk about in
+more detail, commercial real estate, the government shutdown. Now that's been averted for-- as of
+yesterday and today. But still, we're facing that again in 45 days. The continuing challenges of climate
+change, worker shortages, worker patterns, and so on. You can see the other things we have in our
+headwinds category and our unknowns category.
+So just to highlight three of these quickly before passing the baton to my colleague, so one of them-- and
+they overlap. But I think these are important things to keep sort of in the back of our mind as we're
+looking.
+So one of them is the future of work in terms of central business districts, office vacancies, what that
+means in terms of multiplier effects of people spending, sort of the downtown vibrancy, and so on. You
+can see that. And potentially commercial defaults, which bleeds into the financial expectations that I
+mentioned a little bit earlier.
+But this is from 2020. The 2019 data is very similar. We don't have any updated data from here. But this,
+for example, is the inflow and the outflow of commuters to the Denver Metro area, to Denver specifically,
+the city and county of Denver. This is county-based data. Brian can correct me in the Q&A. But I'm-county-based data, so city and county of Denver.
+And you can see the city and county in Denver is certainly getting a lot more inflow than it has outflow. So
+these are the people coming into work. These are the people going out to work, 180,000. And the
+150,000 are the people who live and work in the county. So you could sort of see why we're paying a lot
+of attention to this if that pattern changes.
+Certainly, bank deposits had gone through a significant decline. You can see this now. I don't know if you
+get the full box up in the right-hand corner. This has most recently ticked up a little bit, but this, of course,
+is an area of concern in terms of banks having enough money for lending and whether they pull back on
+lending.
+And that, of course, impacts far more than the commercial real estate market. It affects small businesses.
+It affects consumers. And so we're paying a lot of attention to that. And you can't ignore that it's out there,
+that it's part of the issue.
+And then again, I said there's a lot of overlap here in terms of these three things. But the higher interest
+rates in the economy certainly putting a lot of pressure on the banking system, but putting a lot of
+pressure on other sources of venture capital flows and other sources of capital.
+When you can get a 5% rate of return that's essentially risk-free at this moment, and someone else is
+saying, it's a difficult investment environment, I may be able to get you 8% or whatever, there's a lot less
+
+interest in the part of money to flow to those types of investments. So it just makes it more difficult to get a
+lot of the creation of-- money for high-growth ventures or the creation of new businesses. So with that, I'm
+passing the baton to my colleague, Dr. McNown, to talk about the RTD forecast and the drivers of that
+forecast.
+ROBERT MCNOWN: Yes, thanks, Rich. Happy to be here to present and discuss our forecasts with the
+Board. So just a quick overview. The core of our economic forecasting project and the forecasts of RTD
+sales and use tax revenues is a model of the Colorado economy. And clearly, the Colorado economy is
+influenced by what's going on at the national level, although with some degree of independence. And I
+think that's indicated by some of the slides that Rich presented.
+So you have an overview of the current situation at the national level, and this is summarized in the table
+here. The forecasts at the national level come from Moody's. And we're emphasizing Moody's baseline
+scenario, which they and we also have determined is the most likely outcome. We also present forecasts
+with alternative scenarios, but we'll focus on the baseline to begin with.
+And so you can see just focusing on 2023, there's going to be a lot of numbers here, and I'll only point to
+a few of them. But obviously, what's happening with retail sales is really crucial, a crucial driver of sales
+tax revenues, although we're going to be particularly interested in the change-- the rate of growth of retail
+sales for Colorado. But you'll see it's quite similar to what's being projected here for the rest of this year,
+and then even a little weaker in 2024 at the national level, anyway.
+And it's important for me to point out that even though the growth in retail sales is positive, it still falls far
+short of the increase in costs, as indicated by the rate of inflation here. So in real terms, retail sales are
+falling behind. Let's go on to the next slide.
+So the focus then here is on the Colorado economy, key macroeconomic indicators here. And you see a
+similar picture that say compared to 2022 and 2021, we had really robust growth in retail sales for the
+state of Colorado. For the current year, we're down around 3%, far below this higher rate of inflation that
+we experienced here in the Front Range. And that's something you saw in one of Rich's slides as well,
+that our rate of inflation tends to be about one percentage point higher than it is at the national level.
+And a little bit different here from the national economy is that our model is forecasting a slightly better
+picture for retail sales in 2024. So let's go on to the next slide as well.
+And this is, of course, the heart of our forecast. Some of the historical data going back to 2020, but also
+for the current year, 2023, and then to our final medium term forecast to rise in 2029.
+And of course, the tall part of the bars here, the tan part represents sales tax revenues. And once again,
+similar to what we saw for retail sales, we see a really strong growth in the previous two years, 2021,
+2022. Double-digit growth in sales and use tax revenues.
+But now what's projected for 2023 is really extremely modest. Keep in mind, it is still a positive rate of
+growth. However, it's not as strong as what was projected back in March, and I think that's a point that
+Doug was making as well.
+But there's quite a strong bounce-back that's expected for 2024. And I think that reflects a slightly
+stronger picture that we saw for some of the key economic indicators for the state in the previous slide.
+So let's go on to the next slide as well.
+
+So we provide the short-term forecasts for 2023, 2024. The model also projects out to 2029, following a
+planning horizon that RTD uses. And so here's what our forecasts have looked like over the past several
+vintages when we've presented these semi-annual updates.
+And let's focus on these top two lines. So first of all, we see this black line. And this was the fairly strong,
+steady growth that was projected back in March for RTD revenues. And the blue line is the current
+forecast that we're making now.
+And you can see that it's much weaker into 2023, but then converges back to the level or the trend level
+that was predicted back in March. So it just seems to be a temporary shortfall with a strong recovery back
+to our previous level, or back to the level that was forecast in the previous update in March.
+In any case, both of these forecasts that we've generated in this year are stronger over this entire forecast
+horizon than what we saw a year ago. And that's, of course, reflecting the really strong recovery that
+we've experienced in 2022. And the next slide.
+So it's important to emphasize the uncertainty that's involved in any forecasting project. There are a
+couple of ways we do this. The dotted-- the dashed lines that are labeled High Forecast and Low
+Forecast are statistically based on confidence bounds, such that the probability that the actual revenues
+collected in any one year falls outside these confidence bounds, either above the high or below the low.
+That probability is only about 33%. So I think it gives you a good range of the possible outcomes.
+Another way of incorporating the uncertainty is to consider alternative scenarios coming from Moody's.
+And so Moody's, I've emphasized previously, mostly this baseline forecast. Moody's presents a number of
+alternative forecasts, and we've selected for further information an optimistic scenario, which is just a little
+bit stronger than what the baseline says.
+A pessimistic one, however, has a real notable recession here going into 2024, but then a recovery,
+although it takes a long time to move back to a previous level. And in fact, never quite moves back to that
+baseline projection even by 2029.
+So if a significant recession does come to pass in 2024, that's incorporated in the revenue forecast for
+RTD indicated by this red line. Well, we hope that doesn't happen, but of course, it certainly is possible.
+And the next slide.
+So we're also charged with developing forecasts that go out to 2050. And the basis for our model
+forecasting out that far is that we emphasize particularly demographic change. And we're fairly confident
+in predicting or using the census forecasts in predicting what's happening in terms of the aging of our
+population as well as the decreased growth in overall population. And that strongly influences economic
+activity in a variety of ways.
+And so what we see here in the forecast-- and we can focus on the blue line as sort of the medium or
+baseline forecast that we're generating here-- is that there's considerable variation over time. It's not like a
+straight line projection by any means. And that reflects the variation in the demographic change that's
+likely to occur over the next about 30 years.
+So what we see here is that in the current decade, in this second row here we've got fairly strong growth
+in RTD taxable sales, and therefore sales tax revenues. And we've already seen that materialize in
+particularly what we observed in 2021 and 2022. And even if it continues at a modest level, we're still
+going to achieve an average rate of growth of retail sales or taxable sales of over 6%.
+
+But now that falls off dramatically in the following decades because of the demographic changes that
+we're very confident are going to occur so that the average rate of growth annually over this entire
+forecast period is only about 3.33%. And the next slide.
+So I do want to emphasize some aspects of our forecasting methodology. We rely on an econometric
+model. We don't introduce judgmental adjustments such as add factors to the model forecasts. We think
+that the best information that we can provide to the Board, to RTD and the staff is through careful
+consideration of the model, that it follows the best available econometric methodologies and also the
+most recent data.
+So when we do our forecasts every six months, we bring-- of course, bring in the most recent data. And I
+should also emphasize that we don't have any particular political or financial interest in what comes out in
+terms of the forecast numbers. Of course, we do want them to be as accurate as possible. So thanks for
+your attention, and we'll be happy to take some questions. So go to the last slide.
+DOUG TISDALE: Thank you very much, Dr. McNown, and Rich Wobbekind for an as always stellar and
+informative presentation. Now, I'm going to ask if there are any comments or questions from the
+Committee or from other Directors.
+And let me point out that we will not be repeating this presentation at the full Board meeting later this
+month. Therefore, tonight is the only opportunity that you will have to ask our distinguished visitors from
+the CU Leeds School of Business any questions about this forecast. So with that, I will now open up the
+floor to members of the Committee and to Directors.
+And let me ask, Rich, if you would be so kind, maybe if you can stop screen sharing for right now just so
+we can see people, and then we may come back. But if you would like to speak, please raise your virtual
+hand on the Zoom app or press Star 9 on your phone to indicate to staff that you would like to speak. So
+I'll pause and give you an opportunity to do that. And I'll go first to Vice Chair Davidson.
+ERIK DAVIDSON: Yeah, thank you, Mr. Chair, gentlemen. Always good to see you. Thank you for
+coming, and as always, presenting a look. Just more a comment, less a question here.
+I think the gap that we see between the low or the pessimistic scenario and the baseline that's in the near
+term in the 2024 represents where the uncertainty lies. And I think I'm just stating the obvious for
+Directors here, but once again, that's timed right around our TABOR exemption on the base system, so
+something we'll be talking about more later.
+But we've been talking about that hypothetical for a while, and boy, does it stick out seeing that gap. And
+as you said, Dr. McNown, hopefully that doesn't come to pass. But given that that's where the uncertainty
+is, something this body needs to think about. So thank you very much for being here. Great presentation
+as always.
+DOUG TISDALE: Thank you, Mr. Vice Chair. And I should point out too for everyone, recall that
+beginning at Packet Page 26 there's a great deal of additional information that the CU Leeds School has
+given us relative to this forecast model, and a much more in-depth analysis than they could accomplish
+during the PowerPoint presentation. Madam Chair Lynn Guissinger, you are now recognized.
+LYNN GUISSINGER: Thank you very much. And thank all of you for this presentation. It's always helpful.
+I was in a little conversation on this with Doug MacLeod today, and it's sort of a follow-up from Erik's
+
+question. If we don't-- if we become subject to TABOR and there is a-- moving down the pessimistic
+version, do you have a number that you use for the property value as you're projecting forward?
+DOUG TISDALE: Dr. McNown, if you'd care to respond to that.
+ROBERT MCNOWN: I'm sorry, Director. I'm not sure I understand-LYNN GUISSINGER: Yeah, I'm sorry. Maybe I didn't say-ROBERT MCNOWN: --your question in terms of-- you referred to the property values or-LYNN GUISSINGER: If we become subject to TABOR, it's measured by the annual-- Doug might have to
+help me-- the gain in property values. I think it's appraised values, is what they use. And that's what we
+would have to start factoring in. And in fact, I think our team has factored it in. And I was just curious if
+you've looked at that at all, what appraised values over the course of time would look like.
+ROBERT MCNOWN: Well, I have to say no, we have not. Now, in other forecasting projects that we do
+for other municipalities in the area, we do forecast property taxes, which of course require a forecast of
+appraised and imputed values. And that's certainly well within our purview and expertise. But since that's
+not been something we've been tasked with so far, I really can't give you a good answer on that.
+LYNN GUISSINGER: OK. Thanks very much. I think our consultants in the Reimagine project did come
+up with some numbers, so I'm not asking you to do it. I just was curious what your numbers might look
+like. Thanks.
+DOUG TISDALE: In short, as I understand it, they have the capacity and the expertise, but it's not in their
+brief, and so that's why they have not performed that analysis for us. But we could certainly ask for that in
+the future, should that be desired. Are there other comments from any members of the Committee or any
+other Directors who are in this meeting tonight relative to the CU Leeds School of Business forecast that
+we have received? And paused, giving people a chance to unmute. Director Guzman?
+MICHEAL GUZMAN: So I have one. And maybe this is just me being pessimistic, but why are we using
+the baseline model instead of the more pessimistic line to be more conservative in our forward thinking
+about budgeting? And just general would be fine. I just don't understand why we wouldn't look at it in a
+more conservative manner. What would be the kick in the pants I need to understand why we're looking
+at a higher amount when there's so much uncertainty? Thank you.
+DOUG TISDALE: Thank you, Director. Dr. McNown?
+ROBERT MCNOWN: That's a perfectly reasonable question. And in fact, one of the reasons that we
+provide these alternative scenarios and the forecast based on them is to give you, give the Board, the
+staff the opportunity to consider the more pessimistic possibility. And I think your question is very well
+placed.
+We like to think that our task is to provide these alternatives with some basis for why we think the
+baseline scenario is the most likely. But of course, there's a reasonable probability that a more pessimistic
+outcome could materialize. And so I think it would be entirely reasonable for-- if the Board were to decide
+that possibly the pessimistic scenario or maybe even a midpoint between the pessimistic and the baseline
+scenario might be appropriate for your planning purposes. I don't know if Brian or Rich want to enter.
+
+RICHARD WOBBEKIND: I was just going to highlight that the pessimistic scenario is in the error band of-it's in the high-low error band for the baseline forecast. And so-- and I would certainly argue exactly what
+you just said, Robert, that you should be thinking about, you can be on the lower side of that error band if
+you think the uncertainty is uncomfortable.
+Brian and I were talking about this this afternoon. And I don't want to go off on a side rail here, but just
+really quickly, we track how many times the forecast is high and how many times the forecast is low. And
+over the last couple of years, it's been high. You've come in higher than the forecast many-- in the last
+two years. We've had these really high retail sales numbers.
+But for a long period of time prior to that, we would be over one quarter. We'd be below the next quarter.
+It would really fluctuate up and down like, I would argue, a good forecast should, that you're getting in and
+out and around that band. So I think your question, Commissioner Guzman, is super valid, and that's
+something that the group has to think about.
+DOUG TISDALE: Thank you. Appreciate that, Rich. Brian Lewandowski, did you want to weigh in on that
+too? Your name was s a couple times there.
+BRIAN LEWANDOWSKI: No, I guess the only thing I would share is following on Rich's comment, when
+we take a look back at the entire history of doing this with RTD for the last 13 years or 14 years or so,
+we've had a tendency to be a little bit low about 55% of the time and a little bit high in our estimate, 45%
+of the time. So I think that's a pretty good judge of our record over time.
+We do scrutinize the Moody's scenarios with every update and decide what we think is the appropriate
+base model to use. And sometimes it happens to be the Moody's actual baseline that they're publishing,
+and then sometimes we choose a different scenario because we're trying to discern what we think the
+most likely path of the economy is. And as we were going through that exercise for this update, we did
+select the Moody's baseline scenario because it does seem very plausible.
+DOUG TISDALE: And thank you for repeating for the benefit of Directors who have not heard you say
+that before, which is a question I have asked in the past. How often have you been right and how often
+have you been wrong? And to say that 55% of the time your forecasts are just a little below what we have
+and 45% of the time they're a little higher than what we have received. And think our CFO Mr. MacLeod
+wants to weigh in on this too. So Doug, you are recognized.
+DOUG MACLEOD: Thank you. And just to add a little bit more context. The forecast is provided by these
+gentlemen at CU Leeds School of Business is a forecast that it's up to RTD to choose which scenario is
+to be used in our planning and budgeting.
+And as Mr. Lewandowski indicated, the medium forecast historically has been the one that's very close to
+what our actual experience is. And statistically speaking, it's the highest probability in terms of what's
+likely to happen. I believe the optimistic and the pessimistic forecasts are around the range of 33% likely
+where 60-- think it's somewhere around 60%, 70% likely that the medium forecast. So statistically
+speaking, it makes-- it's more valid to use that forecast.
+Now, we could do something lower. And we actually have forecasted a little bit lower, and I'll talk about
+that a little bit during the MTFP, because of the TABOR challenges that we have. So I guess it's all to say
+that this is great information. These gentlemen are expertise. We tend to take-- experts in their area. We
+
+tend to take some liberties with some adjustments within our planning process based on the internal
+factors. Thank you, Mr Chair.
+DOUG TISDALE: Thank you very much, Mr. MacLeod. We appreciate that. Director Catlin, you are
+recognized.
+PEGGY CATLIN: Thank you, Mr. Chair. And you and Director Whitmore may recall four or five years ago
+when we had considerable debate about some of these forecasts and we had some angst about taking
+the baseline. And I believe we did not adopt a mid-term financial plan because we were nervous about
+the forecasts.
+And so to Director Guzman's comments, we do have the ability to adopt something that's a little more
+conservative to give us a little bit of comfort. But I just remember those four years ago or whatever, we
+were very, very nervous about the projections and kind of punted when we did not pass a mid-term
+financial plan that year because we wanted to wait and see. So I'm just augmenting what Doug MacLeod
+and our experts have said, but we did have that period of time where we were ultra cautious, I guess.
+DOUG TISDALE: Thank you for sharing that, Director Catlin. That's right, and I recall that well, and I know
+Director Whitmore does also.
+MICHEAL GUZMAN: Thank you for answering those questions. I really do appreciate it. I know that it's
+coming from a place of super curiosity. And I'm not an expert in finance at all, so I rely on this information.
+But I've read through it thoroughly, and it just boggled me. I'm like, what are we doing, and how do we do
+this? So you know, I hate to say it, but this is only the second time I've experienced one of these reports,
+and I am grateful for them. So thank you for your expertise and for your guidance.
+DOUG TISDALE: Your questions are always welcome, Director Guzman. It's important to have everyone
+make sure that they leave this meeting feeling satisfied relative to the information provided. As I said, we
+will not have this presentation at the full Board meeting. This is our shot, so we develop as complete a
+record as we can so that Directors who have not had the opportunity to participate in this meeting may at
+least watch the video or read the transcript and have an opportunity to understand what this particular
+forecast means to us.
+Last call for any further comments or questions regarding the projections and forecasts received from the
+CU Leeds School of Business and Professor-- Dean Richard Wobbekind and Dr. Robert McNown and
+Brian Lewandowski. Any further comments or questions? Hearing none, we'll close out our discussion on
+that. Gentlemen from CU, thank you very much. Go Buffs, and good luck next week.
+RICHARD WOBBEKIND: Thank you.
+DOUG TISDALE: All right. We turn now to recommended actions. There are four recommended actions
+on the agenda this evening. The first action is for the third amendment to the RTD Salaried Defined
+Contribution Plan. Now for the Board of Directors-- the recommended action is for the Board of Directors
+to approve a third amendment to the Salaried Employees Defined Contribution Plan to change the vesting
+schedule to 20% vesting at one year of employment and an additional 20% at each year of employment
+thereafter with 100% vesting at five years.
+Now for the sake of the record, the materials for this recommended action are found at the Committee
+Packet Page 71 through-- 78 through Page 81. Do we have a motion?
+
+PEGGY CATLIN: So moved.
+DOUG TISDALE: And a second to that motion?
+IAN HARWICK: Second.
+DOUG TISDALE: I have Director Catlin as the movement and Director Harwick as the second. And I
+would now like to ask Doug MacLeod, our Chief Financial Officer, to present on this item. Mr. MacLeod,
+the floor is yours.
+DOUG MACLEOD: Thank you, Chair Tisdale. Just a little bit of additional background about this action-requested action item. So as we've mentioned, this is the defined contribution plan for our salaried or
+nonrepresented employees. These are employees that were hired on January 1, 2008, and thereafter.
+Salaried or nonrepresented employees hired prior to that point participate in the Defined Benefit Pension
+Plan.
+So with this plan, RTD contributes 9% of wages for each salaried employee hired after January 1, 2008.
+The employee does not contribute any of their funds, but has another alternative in a 457(b) plan.
+However, with this defined contribution plan, it contains a cliff vesting which means that there's no vesting
+that happens for each employee until they reach their fifth year anniversary. So if an employee were to
+terminate prior to their fifth year of employment, they would not own-- they would not be able to keep any
+of that money that RTD has contributed because there's 0% vested. So that money would be forfeited
+back into the plan.
+What's being proposed here is to change that vesting schedule so each-- as Chair Tisdale described,
+each successive year of employment, the employer would earn another 20% ownership within those
+contributions. So Year 1, they'd own 20% of the contributions. Year 2, 40%, and so on, still getting to
+100% at five years, but it's ratably over the five years instead of a cliff at the five-year point.
+The reason this recommendation is coming forth-- and by the way, it's a recommendation from the
+trustees of that plan, including a unanimous recommendation including Directors Dishell and Directors
+Broom that serve on that trustee-- on that trust. The reason is to bring parity with this-- between this plan
+and the vesting schedule on the new plan, defined contribution plan that was open for represented
+employees with a collective bargaining agreement that the Board approved.
+So really, it's a parity issue to bring parity between the two plans, to not have two different vesting
+schedules amongst different groups of employees, as well as to enhance the competitiveness in terms of
+retaining and attracting employees. We feel it's much more market competitive to offer something that's
+closer to what the private sector offers.
+So Mr. Chair, with Committee approval and Board approval this month, the changes would take place.
+There are some coding that needs to take place with Empower, the contracted firm that takes care of this
+plan, that would not occur until February 1. With Board approval during this month, that would give
+Empower the time to actually implement these changes, which would be in effect on February 1. Then
+they would apply to all of those employees participating in this plan.
+So if I'm a-- I'm at my three-year anniversary by February 4, I automatically go from 0% vested up to 60%.
+So it would apply across the Board. I think I've covered all the salient points, Mr. Chair, and would be
+happy to answer any questions.
+
+DOUG TISDALE: Thank you very much, Mr. MacLeod. At this time, I will ask those Directors who have
+questions or who wish to speak to raise your virtual hands, and I'll call on you in turn. Remember, for
+Directors or staff calling into the meeting, if you wish to speak, please press Star 9.
+And before recognizing Directors, let me just highlight that the intent of the plan amendment is to create
+parity and equity among our workforce, treating our salaried employees the same way that we treat our
+represented employees. And that is the central focus of this recommended action. And speaking of
+workforce, I should note for the record that Charlene Polege, our Chief People Officer, is also on that
+committee that unanimously recommended this.
+I see a number of Directors, but I see General Counsel. And as a lawyer, I will defer to General Counsel
+first to ask a question or raise a comment that she may have. So General Counsel, the floor is yours.
+MELANIE SNYDER: Thank you, Mr. Chair. This is Melanie Snyder, General Counsel. I just wanted to
+highlight-- it looks like a couple edits that I had made on the third amendment that are in the Board packet
+on pages 80 and 81, those didn't get entered into the packet, unfortunately. So it's just the effective date
+that CFO MacLeod just noted. It's February 1, 2024. There's a few dates that still say January 1 2024. So
+I will work with Board staff to ensure that we get that attachment swapped out and we'll get those records
+updated accordingly.
+DOUG TISDALE: Thank you very much for that. And the Chair will note that is a mere ministerial
+administrative change that can be made to the document and does not impact the motion requiring any
+kind of amendment. Thank you for alerting us to that.
+MELANIE SNYDER: You're welcome.
+DOUG TISDALE: Madam Vice Chair Catlin, Board Vice Chair Catlin, you are recognized.
+PEGGY CATLIN: Thank you, Mr. Chair. Maybe Mr. MacLeod can answer this for me, but I believe when I
+was reading through the packet it said that there would be no fiscal impact. But then again, it said that the
+forfeited funds as it stands currently could not be used for benefits, but they were used for administrative
+funds. So this is effectively going to change some of the administrative cost-- or administrative funds that
+have we have available to the agency. Am I correct?
+DOUG MACLEOD: Yes.
+DOUG TISDALE: Mr. MacLeod.
+DOUG MACLEOD: Thank you. Thank you, Mr Chair. Yes. Great question. So currently-- and thank you
+for serving on the trust previously, Director Catlin. As you know, the contributions that go into the plan
+cannot be returned to the employer if they're forfeited, right? So-- per IRS rules. Those funds have to stay
+within the plan. And as you mentioned, they're used for administrative expenses.
+Those forfeitures have grown to over-- the last time I heard a few months ago, it was $680,000 in
+forfeitures. More than enough to pay administrative expenses.
+And we also took a look at, hey, if we change this vesting schedule, the forfeiture would probably be less
+from people who leave and take some of their-- leave before five years and take some of their contri-RTD's contributions with them and not leave them in the plan to pay administrative expenses. But based
+on our look at it, we think there's plenty of money so there won't be a fiscal impact to RTD having to
+
+backfill that loss of any funds that are taken out just because there's such a big chunk of money in there
+already. So hopefully, that answers your question.
+PEGGY CATLIN: You anticipated my second question, which is, what's that amount that's sitting in
+reserve? But the other thing is that with respect to the Chair's comment, there still is-- there is still not
+parity in terms of the agency's contributions to the different plans, represented versus nonrepresented. I
+mean, they are different percentages. And so I just want to just state for the record that they are not all
+exactly the same. And this Board has taken action for certain percentages or certain amounts to be
+contributed to increase the solvency of those plans, so I was just stating that for the record. Thank you.
+DOUG TISDALE: That is an excellent amplification and clarification, yes. Parity relating to the vesting
+rights, not specifically as to contributions. Thank you. Yes, I appreciate that. Director Guzman, you are
+recognized, sir.
+MICHEAL GUZMAN: Thank you. I want to make sure I understood something clearly, and that is that
+once this becomes effective February 1 of 2024, this is retroactive to the employees that were hired after
+January 1 of 2008? Did I hear that correctly? So that it is-- the 20% is going to accrue for people who
+have worked already?
+And I just want to make sure that I'm clear on that because I was not under that impression. Reading the
+paragraph on page 79 right above financial impact made it sound like that was only going to begin on
+February 1 of 2024. Just getting clarification. I'm excited if the answer's yes, that's correct, so-- [LAUGHS]
+DOUG TISDALE: Mr. MacLeod, you may feel free to excite Director Guzman.
+DOUG MACLEOD: Thank you. Yeah, correct. [LAUGHS] You're absolutely right. And yeah, it was difficult
+to phrase that correctly. I'm not sure retroactive is a good term because one of the things is we didn't want
+to give the indication that somebody's already left with Board approval that this would automatically entitle
+them to forfeited contributions, recognizing that the coding can't be completed until February 1. That
+would be the date that it's effective. But it would be unfair for an employee to be here versus somebody
+new to vest on a different schedule and not recognize their years of service and reward them accordingly.
+And it has been, frankly, a pain point with several employees. It's been brought up with-- the dialogue with
+everyone on a few occasions as well. So I think it's a very good thing for our current employees to
+recognize their contributions, and I think it will be very well received.
+MICHEAL GUZMAN: Thank you for clarifying. It's the word that I would have used, but you explained
+why. That's what I was trying to get to, so thank you.
+DOUG TISDALE: Thank you, Director Guzman. Director Whitmore, you are recognized, sir.
+TROY WHITMORE: Thank you, Mr Chair. While not quite as excited as Director Guzman, I am pleased
+with that answer, Mr. CFO. Not so much with my colleagues on the Board, and certainly not with staff, but
+it seems like in the public when we talk about People Power, we dwell on recruitment, recruitment,
+recruitment. And when we looked at numbers last night with Ms. Polege's report, retention is critical. And
+that seems like such an important priority on the People Power front.
+So to have this parity brought into the right focus, at least on the vesting rights, I think is a very smart
+move. So I certainly appreciate the trustees bringing this forward and the discussion and the clarity, and
+us understanding what hopefully we can do to improve situations for retention, because it is so important.
+
+So not being a member of the Committee, I still would like to urge a yes vote, Mr. Chair. And with that, I'll
+go back to silent.
+DOUG TISDALE: Thank you very much, Director Whitmore. Always happy to hear your voice. Any other
+comments or questions from Committee members or other Directors present at this meeting? Hearing
+none, thank you all for the discussion. Therefore, on the recommended action as moved by Director
+Catlin and seconded by Director Harwick, are there any no votes on this recommended action?
+Hearing none, then the record will reflect that there is a unanimous vote of support from this Committee,
+absent Director Dishell who is absent from the meeting. And it will proceed to the consent agenda for the
+full Board meeting.
+The second action for this evening is the 2024 investment policy. It reads for the Board of Directors to
+approve the 2024 investment policy. For the sake of the record, materials for this recommended action
+are found at Committee Packet Page 82 through Page 107. Do we have a motion?
+LYNN GUISSINGER: So moved.
+DOUG TISDALE: And is there a second?
+ERIK DAVIDSON: Second, Davidson.
+DOUG TISDALE: Davidson. All right. So I have Chair Guissinger as the movant and the Vice Chair of the
+Committee, Erik Davidson, as the second. And we will now proceed to discussion. I would like to ask,
+once again, Doug MacLeod, our Chief Financial Officer, and Brenden Morgan, our Senior Manager of
+Debt and Investments, to present this item. Gentlemen, the floor is yours.
+DOUG MACLEOD: Thank you. Just briefly, a little bit more information about this item. We like to bring
+the investment policy once a year-- at least once a year to the Finance and Planning Committee and also
+to the Board to approve it for the upcoming fiscal year. We can bring it at any time to make any additional
+changes, obviously, but we like to establish it since it is a policy to have it established on an annual basis
+and have Board agreement as to what that policy is. We also time this recommended action to coincide
+with the budget preparation, so it aligns with how we're putting the budget together.
+Regarding the 2024 investment policy, there are very, very small changes. What you'll see in your packet
+is the Board item, final requested version, and then a red line version. There are just a handful of small
+grammatical changes, some cleanup items that we wanted to put forth. But there have been no statutory
+changes, investment changes through the state. And we follow those guidelines.
+Obviously, it's a very conservative policy. RTD is not allowed to invest in more volatile investments such
+as equities or primary investments or in federal government instruments, such as US treasuries, federal
+agency bonds, those types of things. So they're very safe investments. This investment policy is very
+structured. A lot of it's guided by statutory requirements for governmental agencies in Colorado where we
+can and cannot invest in. Guidance on how Brenden and his investment advisors invest the funds, make
+sure we're following those.
+And it really focuses on in order of importance of safety of principal; liquidity, that the cash is available
+when RTD needs it, and finally by yield. So investment income is a concern, but it's down the line from
+ensuring that we're good stewards of taxpayers' money. So again, there's no substantive changes to this
+investment policy, and it would be in effect for fiscal year 2024, Mr. Chair. Thank you.
+
+DOUG TISDALE: Thank you very much, Mr MacLeod. At this time, I would ask those Directors who have
+questions or who wish to speak on this matter to raise your virtual hands, and I will call on you in turn. For
+Directors or staff who are calling in, recall you need to press Star 9 if you wish to speak.
+Now before recognizing Directors, permit me to highlight what Mr. MacLeod just said. The 2024
+investment policy recommends only minor, administrative, ministerial, editorial changes to the 2023 policy
+that you all discussed and approved just one year ago. With that, I open the floor to discussion. I see-MICHEAL GUZMAN: Two of us did not participate in that conversation, so this is brand new to us. Just
+want to make that clear. [LAUGHS] And thank you. It looks great. I appreciate it.
+DOUG TISDALE: No, I understand, Director Guzman, but the Board on which you served last October
+did, in fact, discuss-- oh, no, wait. You didn't. I'm sorry. That was '22 election. Forgot. OK. Director
+Harwick?
+IAN HARWICK: I don't need to get into major details on this, but I'm just curious, like, we're making some
+administrative changes. To what end? I mean, just like, what is this? How does this help us? That's it.
+DOUG TISDALE: All right, thank you. And Mr. MacLeod, do you wish to respond to that?
+DOUG MACLEOD: Yes, thank you. And I think the changes that we're making are so minor, that's not the
+important point. It's to bring to this governing body what the investment policy will be and to prove that on
+an annual basis, just so that everybody's clear and we have the governing body weigh in on what the
+policy should be. So that's really the intent of this action item. Thank you for the question.
+DOUG TISDALE: And it does afford the opportunity-- and I apologize, I did misspeak when I say you all
+approved. Obviously, Director Harwick and Director Guzman did not, but I speak to the others here who
+did. Director Catlin, you are recognized.
+PEGGY CATLIN: Thank you, Mr Chair. And actually to Director Guzman's point, I just think it would be
+good for our new Directors to take a look at the policy, even though this Board did pass it last year, and
+I'm still comfortable with it. Just wanted to make sure that new Directors were comfortable with that policy
+as well. I think it's pretty sound and very prudent, and I'm supportive of it. But if you're new, you might
+want to take a little closer look at it to see if you're comfortable. Thank you.
+DOUG TISDALE: Thank you very much, Director Catlin. Director Guzman, you are recognized.
+MICHEAL GUZMAN: I just want to say I did read through it. I'm very comfortable with it. And changing '23
+to '24, it's super simple stuff. I get it. But yeah, no, it's awesome. And it's great to know that we have
+something that we're relying on to lead and guide so if there's a question later, we can come back to you
+with it.
+And Doug's done an awesome job with us new Directors, getting us onboarded properly with the right
+information. So it's not our first time seeing this, just the changes. So that's great. Thank you for the
+heads up, though, because we've got to make sure that our third new Director reviews it as well.
+DOUG TISDALE: Indeed. Thank you very much, Dr. Guzman. All right. We have a motion that was made
+by Chair Guissinger and was seconded by Committee Vice Chair Erik Davidson. And I will ask at this
+time, are there any no votes on the recommended action? Hearing none, the record will reflect that the
+
+matter has passed unanimously out of the Finance and Planning Committee, and that only Director
+Dishell was absent from the meeting.
+The next action before you is the 2024 fiscal policy, and this is for the Board of Directors to approve the
+2024 fiscal policy. For the sake of the record, materials for this recommended action can be found at
+Committee Packet Page 108 through Page 121. May I have a motion?
+PEGGY CATLIN: So moved.
+DOUG TISDALE: I hear Director Catlin as the movement, but I heard Director Guzman in there. Director
+Guzman, can I hear that as a second?
+MICHEAL GUZMAN: Second.
+DOUG TISDALE: Thank you very much, sir. It is so recorded. I will now ask once again-- I don't know.
+Who should we get? Why don't we ask our Chief Financial Officer Doug MacLeod if he could present on
+this item, please.
+DOUG MACLEOD: Thank you, Mr. Chair. I'd be happy to. So with this item similar to the investment
+policy, this is the actual fiscal policy that we like to bring to the Board once a year. There are a few more
+changes that we're requesting in this one that I'll go through briefly, each item.
+Again, this sets the standards by which we build the budget, essentially. So you've seen things in there
+such as the accounting policies, the investment-- it refers to the investment policy, capital improvement
+policies, budgeting policies. So really, as a policymaking body really establishes on an annual basis, or
+more frequently if necessary, what policies we will follow as an agency in terms of keeping financial
+records and developing forecasts and budgets and the like.
+So there are a few. Same format. There's a Board report, there's a final version, and then there's a red
+line version that incorporates the changes. And I'll discuss each one of those red line changes that we're
+requesting here.
+You'll see throughout there's a few very minor grammatical changes, again, in this version, in this 2024
+fiscal policy. Another item-- these are all laid out in the Board report as well.
+There's a reference in the capital improvement policies to the Mid-Term Financial Plan that was
+duplicative in the budget policies. We thought it didn't belong underneath the capital improvement policy,
+so we just simply moved it down and combined it into the budget policy. It's more of a budget planning
+type of policy, so it was just an administrative change there.
+Under fund balance policies-- so we've had several discussions or mentioned on several occasions that
+RTD's in a good financial position. Our intent is to make all of our capital purchases with cash as opposed
+to borrowing additional money.
+Typically what we do, as you know, we're out of bonding capacity and cannot issue more bonds, but we
+do have the ability to issue certificates of participation, which we historically have done for equipment
+purchases, rolling stock purchases, buses and trains. But we stopped doing that when we got into a
+better financial position because we didn't want to incur additional debt and pay additional interest.
+
+The one thing that we wanted to change in this language is to modify just slightly that we would only
+purchase capital with-- capital assets with cash, that we would continue to do that unless it was financially
+advantageous to do otherwise. So let me explain a little further on that.
+So why we wanted to change that is currently the cash that we have on hand that we've invested, we're
+earning over 5% yields on, but the cost to borrow using a certificate of participation is 2.5% to 3% interest.
+So actually, if we were to go out and borrow money, if we needed-- if the Board chose to pursue a path of
+borrowing additional money for some larger project, we might want to consider actually issuing a
+certificate of participation because we can keep our cash invested at 5% and only pay 2.5% to 3% and
+keep that difference. So it's not concrete that we would do that, but we just wanted to have that in fiscal
+policy that it gives us the option as an agency to consider such a move.
+Next item. We moved the net revenue coverage ratio from the debt policies to the budget policies. It is a
+debt policy. However, the debt portion is on the back end, so it kind of is the reporting of what actually
+happened. But for our budget policies, we want to aim for a net revenue coverage ratio of 1.2% for this,
+for 1.2 times for this policy.
+The reason being is that ratio is calculated by taking total revenues minus operating expenses. The
+amount that's left over is what would be-- the credit rating agencies look as, what would be available to
+pay debt?
+We want to keep that ratio at 1.2 times so our leftover money is actually 20% higher than what we need to
+pay our debt. That gives all of our investors as well as our stakeholders comfort knowing that we're not
+cutting it too close so we have enough money to fund everything with a little bit of cushion. So that is
+more on the budgeting side. Moved it to the budget policy because we want to ensure the way we budget
+ensures that we meet those ratios. That was just the movement of that item.
+The other significant item that we did is we removed the reference in the budget policies to an amended
+budget. That doesn't preclude our ability to come and ask the Board for an amended budget. But
+historically, what we've done mid year is we've come to the Board and done an amended budget to
+update the budget.
+Our General Manager and CEO Debra Johnson has been talking about, we need to eliminate the budget
+for several-- for a few years now, the amended portion of that, and really be intentional in our budgeting
+and stick to what we're budgeting and not have changes, which we all agreed to. So that's the intent of
+removing that amended budget. Doesn't mean we still might not come with certain changes to the Board
+or request for different appropriations. But this wholesale amending of the budget going forward is not
+probably a good business practice, so it'll force us to plan a little bit better.
+Finally, Mr. Chair, just one more item. One of the items that we have in there, we refer to the six-year MidTerm Financial Plan, the MTFP. We would like to change that in 2024 to a five-year financial forecast. We
+still need to come up with a catchy acronym. General Manager Johnson has called it the F cubed, the
+triple F for the Five-year Financial Forecast. Something pithy and clever like MTFP.
+But we thought it would be more appropriate to be-- we really didn't have a good justification for choosing
+six years. And the longer out you go, a six-year plan, the further out you go, the less certain it is, the less
+accurate it's going to be.
+
+We thought we'd go to the industry standard. And what our General Manager is used to is a five-year
+financial forecast. So what we would do is start presenting the budget year plus five years as opposed to
+the budget year plus six years. So that concludes each of the changes that we are requesting to this 2024
+fiscal policy, Mr. Chair.
+DOUG TISDALE: Thank you very much, Mr. MacLeod. So at this time, I would like to ask those Directors
+who have questions or who wish to speak to raise your virtual hands. I will call on you in turn. For
+Directors or staff calling in, please recall, press Star 9 on your phone. Permit me to frame this discussion
+a little bit by noting that the key focus that I heard from these policy changes is principally to do that,
+which is financially advantageous to the agency. Always a good goal.
+And to bring our financial planning process into alignment with the industry by going from a six-year focus
+to a five-year focus. If it's a Five-Year Financial Forecast-- I think it's a FYFF, by the way. With that, the
+floor is now open, and I will recognize Director Catlin first.
+PEGGY CATLIN: Thank you. Sorry to dominate some of this conversation. First of all, I think I've stated
+before, But I'm a little bit nervous about a 1.2 coverage ratio. I would personally like to see that a little
+higher. But as far as the changes that you've proposed for this fiscal policy, I'm comfortable with it. But I
+just wanted to state that I just would really like to see a little bit more cushion there.
+But with regard to that additional 20%, does that include our budgeted reserve? Is that included in that
+20%? Or is the-- or is the budgeted three-month operating reserve included in the base? Am I making any
+sense? I don't know.
+DOUG MACLEOD: Yes, Mr. Chair?
+DOUG TISDALE: Yes. Please, Mr. MacLeod.
+DOUG MACLEOD: Thank you. And point well taken. Certainly for financial success, we certainly want to
+have the most money and have the highest ratios that we can in that respect. Where we're trying to
+balance that is the expectation that we will spend the taxpayer dollars on service. So we cut back on
+service and put more money away and have 1.3 debt service coverage ratio.
+By the way, that ratio, we always pay our debt first. So especially with the bonds, the Department of
+Revenue takes the taxes-- the sales tax remittance from the Department of Revenue goes to a trustee.
+They take out what's necessary to pay the bond payments and hold it in trust to make sure that we're
+paying those that debt on time. So that really comes out first. But in terms of looking at it from a credit
+rating agency or an investor standpoint, that 1.2 ratio is really looking at, what's left over?
+And frankly, that 0.2 can be used and is used for other things such as capital expenditures. So really, the
+formula is total revenues minus operating expenses. Whatever leftover is to pay debt. And the 0.2 also, it
+needs to kind of be left over to pay capital expenditures.
+So to answer your second question, because we have fluctuations in our revenue and expenses-- so
+sometimes our expenses will pop up a little bit each year just because we'll have certain one-time
+projects, and then they'll come back down. In those years, they only look at it on an income statement
+basis. They do not take the balance sheet and our funds-- fund reserves into account when they look at
+that debt service coverage ratio. They calculate itself, but they do take into context, hey, all right. RTD for
+one or two years fell below 1.2, for instance.
+
+But if you did look at their balance sheet, they have a billion dollars in reserve. So we as a credit rating
+agency aren't super concerned about that, as long as their forecast, their financial forecast shows they're
+going to get back on track. So that's kind of a quick way of-- it's like most financial metrics. You have to
+take it into context, but the calculation itself is just a strict revenues minus expenses divided by debt
+service.
+DOUG TISDALE: Anything further, Director Catlin? You wanted to add to that?
+PEGGY CATLIN: No, I'm fine. And I'm obviously familiar with other debt financing where their coverage
+ratios are higher and the ratings are higher. So I just-- in the case of-- it's comparing apples to oranges.
+But in some cases, I've seen debt coverage ratios of higher than 2, which, that's a really healthy position.
+But as you said, it's taxpayer dollars and you have to really balance and spend them wisely. So I'll get off
+my soapbox. But I just would-- I'd feel more comfortable with a higher coverage ratio, but that's just my
+preference. Thank you.
+DOUG MACLEOD: Mr. Chair, if I may?
+DOUG TISDALE: Please feel free to supplement, Mr. MacLeod.
+DOUG MACLEOD: Thank you. What I was going to add, Director Catlin, is we actually have been in the
+1.3, 1.4 for a few years, particularly with COVID funding because our revenue was so high. But we
+anticipate being quite a bit above that 1.2 by one or two percentage basis points going forward. So I think
+we will continue to exceed that. And the 1.2 is really just a floor that we don't want to try to drop below.
+PEGGY CATLIN: Thank you. I really appreciate that, and that makes me feel better.
+DOUG TISDALE: And thank you, Director Catlin, for your involvement. And please, for someone who was
+the Deputy Executive Director of CDOT for 11 years, your input is never questioned or regretted, so
+please continue to participate to the fullest extent possible. Vice Chair Davidson, you are recognized now,
+sir.
+ERIK DAVIDSON: Yeah, thank you, Mr. Chair. And thank you, Mr. MacLeod. I'm certainly glad to see
+some of the changes. I think being intentional with the budget is important. We've talked a lot about our
+capital carryforward and that being a symptom of seeing things getting postponed. Also makes a lot of
+sense to move to a five-year look on a forecast as opposed to the Mid-Term Financial Plan that we've
+been doing.
+I just wondered if you wouldn't mind speaking generally-- and I think this may be as much to General
+Manager and CEO Johnson as to Mr. MacLeod-- just about the changes that are coming to the budgeting
+process. And I know that you all have been talking about that and talking about operational changes. And
+wondering if you can just share a little bit more context and a little bit more about those ongoing changes
+with the Committee.
+DOUG TISDALE: Vice Chair, I'm going to allow the question if there can be a brief response. But it's
+beyond the scope of the motion, and so I don't really want to get us too far afield. But let's take a couple
+minutes for Mr. MacLeod to respond to that or General Manager CEO Johnson, should she choose.
+ERIK DAVIDSON: And I can clarify, specifically with respect to if it would do away with the amended
+budget as the expectation, which has really been the case since certainly I've been on the Board. Just
+
+speaking to the process that is going to get us to a position where there is no longer a material need to do
+so would be helpful context.
+DOUG TISDALE: Thank you. That helps clarify that. And let me recognize our General Manager and
+CEO Debra Johnson to respond to it.
+DEBRA JOHNSON: Thank you very much, Mr. Chair. And thank you very kindly, Vice Chair, for the
+question. As I have shared with you all, we need to be more intentional relative to our fiduciary
+responsibility and recognizing that this body did adopt a strategic plan in which we talk about four
+strategic priorities. I look to those priorities of the functional pillars of which decisions are made.
+And more specifically, as discussed last night at the Operations and Safety Committee, there's three
+initiatives of which we collectively as a Management and Leadership team are focused on quite naturally
+being that of getting Back to Basics, which is the state of good repair, and just establishing processes and
+procedures. Our People Power, which Director Whitmore talked about the importance of retention. And
+then lastly, a Welcoming Transit Environment.
+And so as we look to make decisions going forward, whether it's good, bad, or indifferent coming into the
+organization, I recognize that we weren't necessarily forecasting in the best ability-- to the best of our
+ability. And oftentimes, the amended budget process was used just out of not a necessity, but out of past
+practice.
+And so working in conjunction with CFO MacLeod and members of his team and having conversations
+with our Leadership team, we have decided to be more intentional, create that sense of ownership
+amongst people in the organization and be very transparent, and not do things in a siloed approach. We
+are focused on one RTD, recognizing that one individual in this organization can't do anything by
+themselves.
+And more specifically, we need to look at it from the vantage point of, what is it that we need to
+accomplish? And looking to discern whether or not, is it regulatory compliance? Are there core aspects
+that we need to include in budget requests that are going to impact us doing our core business functions?
+And third, what are the interdependencies?
+So recognizing that this is going to be an evergreen change as we come full steam ahead. There will be
+continuous improvement. And this is the first foray as we look at what we're doing with operational
+expenses and capital expenses, and so it's across the agency holistically. And so I'll yield the floor to Mr.
+MacLeod. So that's what I would offer at this juncture. So thank you very much for the question and for
+the opportunity to respond.
+DOUG TISDALE: Thank you very much. And kudos to you for avoiding the use of the phrase out of
+laziness when you were describing that process. Mr. MacLeod, she has yielded the floor to you, so you
+are recognized, sir.
+DOUG MACLEOD: Thank you. I think General Manager Johnson really encapsulated where we need to
+go as an agency. And this has been needing to have been done for quite a while. I'm very encouraged by
+it. I really think, as she mentioned, we can be much more intentional and very-- not only very intentional in
+what we're budgeting, but ensuring that we're actually executing and we're only budgeting for the items
+that we intend on completing during the fiscal year.
+
+So I'm encouraged by that. We've already taken some steps, as you know, under General Manager
+Johnson's direction to kind clean up some of the things like capital carryforward. And you'll see that as we
+go through the budgeting process that we're going to be much more in line with what the strategic plan is
+saying.
+And part of employee ownership, one of the strategic priorities is to ensure that people are executing on
+what they say they're going to execute on and be efficient with the taxpayer dollars that we don't tie them
+up. We've had-- in years past, we've had fairly large budget underruns where we over-budgeted to a
+certain extent because we haven't been able to execute due to People Power and other issues.
+But we want to be very methodical and intentional on how we're budgeting, appropriating money, and
+actually executing on what we say we're going to complete. So that's all I would add. Thank you, Mr
+Chair.
+DOUG TISDALE: Thank you very much, Mr. MacLeod. Are there any further comments or questions
+relative to this recommended action? Dr. Guzman, you are recognized.
+MICHEAL GUZMAN: I just quickly want to say I think part of my resistance to the Leeds School of
+Business is that it forecasts out so far. So that you're pulling it back even one year makes me feel more
+comfortable that that budgeting process and those forecasts are going to make more sense because it
+allows more nimbleness in receiving that information quickly and adjusting properly.
+Not needing to amend a budget all the time necessarily, but really having a realistic look on what's
+coming up on the horizon. Six years seems so far away, and we don't know what's going to happen in 45
+days, if you catch my drift. So thank you for that, and I'm glad that this is on here. I'm in support of it.
+DOUG TISDALE: Thank you very much, Dr. Guzman. Any other comments or questions from the
+Committee members or from any Board members? Hearing none, let me ask at this time on the motion
+made by Director Catlin and seconded by Director Guzman. Are there any no votes on this action?
+Hearing none, then the recommended action is passed unanimously. And when I say unanimously, that
+refers to six aye votes and zero no votes. And Director Dishell is permissively absent from this meeting.
+The matter will proceed to the consent agenda for the full Board meeting.
+The final action item that we have for this evening is the 2024-2029 Mid-Term Financial Plan, referred to
+as the MTFP. And the recommended action is for the Board of Directors to adopt the 2024-2029 MidTerm Financial Plan, the MTFP. For the sake of the record, the materials for this recommended action are
+found at Committee Packet Page 122 through Page 134.
+And before asking for a motion, let me explain for the sake of the record why we are revisiting this item.
+As you may recall, this item was brought forward as a recommended action item to the Finance
+Committee on September 12, and after a full discussion was passed unanimously.
+However, prior to the September Executive Committee meeting, a formula error was identified by staff
+that required correction. At the request of the GM CEO, Chair Guissinger removed the item from the
+September Board meeting agenda to allow the MTFP to be corrected by staff. We are bringing this item
+back through the Committee to follow our pre-established best practices and to honor the role of our
+standing Committee in the Board's governance structure.
+
+To emphasize the point again, the only change to the MTFP that you previously passed unanimously is
+the correction of some numbers, as Mr. MacLeod will explain further. With that as a background, do we
+have a motion to approve the 2024-2029 Mid-Term Financial Plan as amended by staff?
+MICHEAL GUZMAN: So moved.
+DOUG TISDALE: I have a motion by Director Guzman. Is there a second?
+IAN HARWICK: Second.
+ERIK DAVIDSON: Second, Davidson.
+DOUG TISDALE: I heard Harwick first, so I'm going to give it to him, Mr. Vice Chair. And I would now ask- I'm stumbling again now. Who am I going to go to? All right. Well, look. We'll start with our Chief
+Financial Officer Doug MacLeod, and we'll just take it from there. But we're also going to have a tag team.
+And we have Todd Nikkel, our Senior Manager of Budget, who will be available to present on this item.
+But Mr. MacLeod, the floor is yours.
+DOUG MACLEOD: Thank you, Mr. Chair. In a moment, I will call up the revised MTFP presentation, MidTerm Financial Plan presentation that's been changed since the September 12 presentation. Thank you
+for setting that up.
+I appreciate the Board's commitment-- the Committee's patience in considering this a second time. I
+regret that we did not catch this error the first time. It was there and just missed it. Our intent is not to let
+that happen again, this formula error. We have error checks in place to ensure that this particular one
+doesn't happen again.
+So with that said-- and I do thank you. General Manager Johnson also sent out a communication to the
+Board members notifying you that we would be pulling this item from the agenda for September. So I
+appreciate her support with this too, and we'll get it right this time.
+So what I intend to do is pull up the same presentation that was given on September 12, but just skip
+down to the cash flows where the numbers change and explain what has changed since that time, Mr.
+Chair. So let me share my screen. Mr. Chair, can you confirm that you see the presentation on screen?
+DOUG TISDALE: Yes, sir. I can confirm it is visible on our screens now.
+DOUG MACLEOD: Thank you very much. So as I mentioned, again, this is background information, these
+first several slides. No changes there. Just explaining the thought process behind development of the
+Mid-Term Financial Plan. Again, this is the six-year financial forecast past the 2023 budget year. So it
+goes into 2029 revenues and expenditures.
+So just to explain where the error occurred. So we have-- when we talk about our sets of financial books,
+our financial records, we've talked about that we have a book-- a business for the base system, which is
+the 6/10 sales and use tax. Then we have a separate book within our financial system for the FasTracks
+system, which is the 4/10 sales and use tax.
+The reason why we keep those two entities separate is because per voter authorization, 4/10 funding
+cannot be spent on the base system side, but the base system funding can be used on the FasTracks. So
+we keep those numbers separate in the way we account for things.
+
+We are going to talk a little bit about allocation. So not to get too deep into the accounting for this, but
+what happens is all of the invoices, payroll, everything else is paid out of the base system. That is
+because we have one set of bank accounts.
+And if you think about it, it would be really hard to take, for instance, my salary and allocate it between
+base system and FasTracks for every invoice, for every paycheck, et cetera. So what we do is we actually
+pay everything out of the base system. Then we calculate based on activity on FasTracks how much of
+that total expense belongs to FasTracks, allocate that expense by reducing the base system's books, and
+increasing the FasTracks systems books.
+So if you look at it in total, there's really no change when we do that allocation. It's just trying to get the
+two pieces stated correctly for the fair presentation of their financial position.
+When we were putting together the Mid-Term Financial Plan, there was a formula error that we
+encountered with the allocation. So this is a plan. So we do this allocation within software. It's different
+from our actual set of books where we actually book expenses. So it's just an outlook, and it's a financial
+plan.
+So we do certain calculations to put these numbers together within the software. That allocation was
+actually over-allocating the expenses from the base system over to FasTracks, making it appear that the
+operating expenses-- this line item, operating expense, less depreciation for the base system was
+actually showing as lower than it should have been because too many of the expenses were pushed over
+to the FasTracks system.
+Likewise, if you were to look at that previous version of the operating expenses on the FasTracks set of
+books, it was much higher than it should have been. In fact, if you were to compare this Mid-Term
+Financial Plan with the one presented last year, the operating expenses on FasTracks were almost
+double what they were last year.
+So once this was pointed out, we realized we had a problem, pulled it from the agenda, and fixed the
+allocation. But the question that arose was, well, jeez. You know, FasTracks looks like it's losing a lot of
+money and the basis is going to have to subsidize a lot more of the FasTracks operating expenses when
+in fact, the operating expenses were incurred [INAUDIBLE].
+So to wrap it up, what we did is we fixed-- we corrected the formulas within here. So now the operating
+expenses for each entity are correct. And you can see on the bottom line there that cash flow. So that's
+everything that comes in and goes out the door for FasTracks in terms of finances. It shows a positive.
+And these are stated in thousands. So in 2023, it shows a $32.6 million net cash flow.
+So you can see it's all positive. There's not a subsidization necessary. Just the subsidization idea was
+that once the base system paid off its debt, which happens in 2024, it would free up cash flow in case the
+FasTracks system needed additional financial support. That's not the case here in the next six years
+through 2029. Could be the case down the road. Don't know for sure. But because the base system can
+run FasTracks but not vice versa, it was the prudent thing to do in terms of planning cash flow and cash
+availability to support the entire system.
+So going on to the consolidated total. So this bottom line-- sorry, net cash flow. Not the bottom line, but
+the bolded line, the net cash flow, this actually-- so there was a problem between allocation between the
+
+two. But in fact, not only had the base system over-allocated, but there was an additional allocation just
+on the FasTracks side, overstating the total expenses.
+So sorry to make this too confusing, but what ended up happening when we fixed those formulas is the
+bottom line actually changed too. So the bottom line net cash flow of the six-year period plus this year is a
+positive $171 million. [INAUDIBLE] So that sounds like a lot of money, but it's really not. When you
+consider revenue of $9.1 billion, it's about a 2% variation.
+And again, this is a six-year forecast, so these numbers get a little softer as you go out. So it's not
+something to hang our hat on, but it does at least show that we have an over-balanced budget projected
+to be at least balanced and have enough money to fund reserves still and end up with a net positive cash
+flow. So Mr. Chair, I believe that kind of encapsulates the problem that we're trying to rectify by bringing
+this back to this Committee. And I'd be happy to take any questions.
+DOUG TISDALE: Thank you very much, Mr MacLeod. At this time, I would like to ask those Directors who
+have questions or who wish to speak to this matter to please raise your virtual hands, and I will call on
+you in turn. For Directors who are online with a telephone, if you wish to speak, please press Star 9.
+And to reiterate, we are not here this evening to reinvent the wheel. We already discussed this matter at
+length last month, and we are here to review only some revisions in some numbers. And for the sake of
+the record, I would like to acknowledge and extend appreciation to Nate Minor of Colorado Public Radio
+for raising this issue with our staff. The floor is now open, and I will recognize our Board Chair Lynn
+Guissinger.
+LYNN GUISSINGER: Thank you, Mr. Chair. And thank you, Doug. It sort of-- it is a little bit back into the
+mix of this, but to answer Director Guzman's question earlier and sort of based on our conversation today,
+as you go forward in this MTFP, you did cap the growth based on a TABOR limit. Is that right?
+DOUG MACLEOD: Yes, Ms. Chair.
+DOUG TISDALE: Yes, Mr. MacLeod.
+DOUG MACLEOD: Thank you. Yes, thank you, Chair Guissinger, for pointing that out. Forgot to mention
+that. So you're absolutely right. So when we talked earlier about the forecast that CU Leeds provides,
+those numbers that are stated in that Board-- that Board memo are strictly related to what they provided
+us in the forecast.
+When we take those numbers and put it into the Mid-Term Financial Plan, you're correct. What we do is
+we actually adjust down a little bit. So they show that they have a 3.3% annual increase on average in
+their forecast. For the base system, because we have this potential TABOR revenue growth limitation
+issue looming starting in 2025, for the Mid-Term Financial Plan what we've done is we've limited that
+growth to 1.4% instead of the average 3.3% each year.
+So it's not a lot, but it takes it down a little bit, to be a little bit more conservative than what the
+professionals are saying we should collect. And that 1.4% is based on the analysis that was done by a
+subcontractor of WSP that did the Reimagine contract. They looked at the growth in property tax
+valuations within the district over 10 years. It increased by 1.4%.
+
+So that's really the only basis that we have to go on. So we used that number for a placeholder for now,
+but thank you for pointing that out. We are trying to be a little bit more conservative than what the forecast
+actually shows.
+LYNN GUISSINGER: Thank you.
+DOUG TISDALE: Thank you very much. Any other questions or comments from any member of the
+Committee or any Director? Director Harwick, you are recognized.
+IAN HARWICK: Sorry. And this is-- I probably should have asked this question last time, but I'm just
+curious about-- so hypothetically-- and this is about de-Brucing. So maybe this is the right time. Maybe
+this is wrong. And if it's wrong, just tell me it's wrong time.
+So hypothetically, we see this post-cliff in 2025 if we don't go to the voters before then this happens. But
+let's say we decide, OK, 2026 feels more favorable. If we go to then and de-Bruce, we're not then-- all of
+this sort of bad financial situation that might be happening in theory could go away. Is that-- am I
+understanding that correctly? We're not stuck at that lower level even if we de-Bruce, are we? Did that
+make sense? Sorry.
+DOUG TISDALE: You are right, Director Harwick. This is not the right time.
+IAN HARWICK: OK.
+DOUG TISDALE: That having been said-IAN HARWICK: Yeah, I know. I'm just-- that's-DOUG TISDALE: Having been said, if Mr. MacLeod wishes to offer any comment on that briefly, he may.
+DOUG MACLEOD: Thank you, Mr. Chair. Yeah, just really briefly. And yes, you're right, and that's one of
+the strategies that we're trying to-- with the revenue diversification group. So that's one strategy, right? So
+we're not so dependent on sales and use taxes potentially that we can spread that out so we're not so
+susceptible to those swings where we drop down and then be limited in our growth back up. So that's one
+strategy.
+The other issue is just the TABOR growth limitations that would really only affect in 2025 the base
+system. FasTracks is de-Bruced until 2050. So that whole investigation, we've got to get our-- got to get
+all of our facts straight. And that's part of what we've done with this revenue diversification group, which
+we met for the first time yesterday, I believe.
+Vice Chair Davidson's going to share some additional information. But yeah, that's the intent of this
+organization is, what is our policy prescription for addressing the [INAUDIBLE]? There will be more to
+come, so thank you, Mr. Chair.
+DOUG TISDALE: Thank you very much, Mr MacLeod. And thank you, Director Harwick. And I just-- I
+couldn't avoid the joke. All right. Are there any other comments or questions? Chair Guissinger, you are
+recognized.
+LYNN GUISSINGER: I'm sort of on this thing, and Doug and I discussed it. But in page 122, it says "sales
+and use tax projections provided in August 2023 by the University of Colorado Leeds School of Business
+
+projected $31.7 million decrease over the March 2023 forecast." I think, Doug, that what we talked about
+is their projections were at $21.5 million, but with your 1.-- in other words, this may need-- this memo may
+need a little adjustment. With your 1.4% with the change that you made, it came to $31.7 million. Is that
+right?
+DOUG MACLEOD: Yes.
+DOUG TISDALE: Mr. MacLeod, you're recognized.
+DOUG MACLEOD: Thank you. Yeah, correct, and thank you for pointing that out. It's incorrectly worded.
+So it really should say the forecast-- the forecast provided by CU Leeds did show a $21 million decrease.
+However, RTD staff with General Manager Johnson's approval reduced that down for the additional-down to the 1.4% on the basis [INAUDIBLE] to be more conservative. So the difference between those
+two numbers. So yes, I'll look at if we can adjust that language for the final package, so thank you.
+LYNN GUISSINGER: Mm-hmm.
+DOUG TISDALE: Thank you. So we could simply adjust that number for presentation in the final report
+that is attached to the minutes as a part of this process. Any other comments or questions from the
+Committee or any Director? Seeing none, let me now ask on the motion by Director Guzman as
+seconded by Director Harwick, are there any no votes on this item?
+Hearing no expression of no votes, then we have a unanimous vote on the recommended action. It will
+proceed to the consent agenda. That's six aye votes, zero no votes. And Director Dishell is, as we said
+previously, excused for his absence. And this may be the last time that this Committee has to talk about
+the MTFP. And from now on, we'll talk about the FYFF and go from there.
+All right. That concludes our recommended actions for this evening. There is one discussion item on the
+agenda, and that item is for the 2024 proposed budget. Now for the sake of the record, the materials for
+this discussion item are found at Committee Packet Page 135 through Page 165.
+And let me give my own introduction as Chair. As you all know, the budget is one of the most important
+functions of this Committee and of the RTD Board. And for that reason, we take an extraordinary amount
+of time in its preparation. We take information from the CU Leeds School of Business. We engage with all
+of our departments. We incorporate and take into account numerous other studies and initiatives that we
+have put in place. We create a six-year, now presumably, hopefully amended to a five-year FYFF
+forecast.
+We then draft a proposed budget and have a discussion to examine that proposed budget. And at long
+last, we create a final budget and hold a public hearing on that, and then and only then take action to
+approve a final budget.
+Transparency and accountability are the keys throughout this entire process. With that in mind, I now ask,
+just because there's nobody else to ask, and I'm going to ask the marathon man, Doug MacLeod, our
+Chief Financial Officer, and Todd Nikkel, our Senior Manager of Budget, to present this item. Gentlemen,
+the floor is yours.
+DOUG MACLEOD: Thank you, Chair Tisdale. And I have a presentation to walk through here just
+momentarily. I did want to point out too that within the Board package, there's a Board report followed by
+
+the actual budget document. That's the document that we intend to present or make available for public
+inspection.
+You'll note that there's a letter from the General Manager included in there, some narrative information.
+It's a really good document. I hope--and very informative-- that you all have the chance to read it over. So
+I wanted to point that out to this Committee. And without further ado, I will share my screen with the
+presentation of the actual numbers. Mr. Chair, can you confirm that you can see that?
+DOUG TISDALE: Yes, sir.
+DOUG MACLEOD: Excellent. Thank you. OK. So this is the 2024 proposed budget. We call it a proposed
+budget because it's not the official budget until it goes through the process of the Board approving and
+appropriating the funding. And I'm Doug MacLeod, obviously. And Todd Nikkel's here too to help answer
+any questions that may come up.
+Just a quick review, the proposed budget timeline. The Chair mentioned this draft budget is presented to
+the body as a discussion item. So it will not go to the full Board, but it is presented in open forum at this
+meeting, and then it is also provided for public inspection through posting on our website.
+We also are required by state statute to provide notice in two daily newspapers. So we put a notice out in
+the Boulder Daily Camera and The Denver Post, saying that RTD's budget is available for public
+inspection. You can find it here at our website, for instance, and some contact information. We also leave
+a copy over in the Board Office if anybody wants to come in and inspect it in person.
+That must be done by October 15 per statute. So we get this post out there for public consumption, public
+review. It is posted until it is approved. And we would come back to this Committee on November 14 at
+the next Financial Planning Committee to present this as an action item.
+In that intervening period, there may be a few adjustments that-- we're continuing discussions. We don't
+anticipate any large adjustments, but we've had several discussions with departmental and then
+consolidated discussions with the General Manager to go through the budgets with a fine-tooth comb.
+Those continue to happen after we've had a decision on what those numbers look like to present to this
+body.
+Tonight, there will be additional discussion, really going through it one more time with each department.
+So there may be some changes. When we bring back the action item, there will be a schedule included
+from what was presented in this meeting to anything that changed by line item to the final presentation.
+So you'll be able to see what we're actually requesting for appropriation and what changed during
+commentary.
+So I'd mentioned that our budget process is improving each year. We already discussed some of the
+intents of our General Manager and this agency in terms of becoming better at budgeting, more
+intentional, having more frequent meetings, more frequent reviews to have an agency-wide
+understanding of where we stand on projects, et cetera.
+So we continue to refine that project, really trying to narrow down some of our asset management plan,
+repair and replace schedules, prioritize those [INAUDIBLE] strategic plan. So I would say we've gone
+through a very detailed budget process, and we intend to continue to improve this going into next year.
+
+This proposed budget aligns with the 2024 through 2029 MTFP, Mid-Term Financial Plan. So what we
+use the MTFP for is we first set a target of what's a sustainable operating expense level as well as what
+we know that needs to be replaced on a capital expenditure basis. Those two numbers are the targets
+that are used for the development of the budget.
+As you can imagine, the budget requests always come in higher than what that projection shows. And as
+we talk more about it and are more intentional about what we're actually going to execute on, our target is
+to bring those numbers in line with what the Mid-Term Financial Plan shows is a fiscally sustainable
+amount. So that was the target that this was based on.
+Again, it aligns with the strategic plan initiatives. So within this plan, you'll see in the narrative there's
+discussion items that relate back to these specific items, explicitly Back to Basics, People Power,
+Welcoming Transit Environment. So I won't spend a lot of time discussing that since it is in the document.
+Some of the assumptions. Fare study and equity analysis was taken into account as the Board knows
+and approved. Those recommendations the Board approved of being implemented for being in effect in
+early 2024. We've taken that into account in adjusting the fare revenue to what the projections are, which
+is lower than what we've historically seen.
+We've talked already about the forecasted sales and use tax from CU Leeds in the budget. Again, 2024,
+we do not-- we will not be subject to TABOR limitations, so we did not reduce the growth. We used the
+actual sales and use tax forecast for 2024 from CU Leeds. That doesn't come into effect until 2025.
+The operating expenses were based on the System Optimization Plan and what we're currently spending,
+in addition to open positions are included. There are all these frontline positions that remain unfilled that
+were discussed during last evening's presentations. Those positions are actually budgeted within this
+budget. We do have a provision within there so we don't over-budget for vacancy savings, knowing that
+there will be turnover and there's a time period of when [INAUDIBLE] adjusted accordingly on our biggest
+cost in the agency, which is compensation.
+We assumed a 5.1% inflation rate. The July Bureau of Labor Statistics inflation rate that came out for
+Denver-Lakewood-Aurora is what they call it, that area surrounding a district, was at 4.7% in July. We
+used 5.1%.
+The math actually worked out that way because we have certain adjustments that are different from
+inflation, so there's different components such as labor. We have contractual increases. We have
+contractual increases within a lot of our contracts for a lot of the services that we contract out that are built
+in that arrive at that 5.1% inflation.
+All of this is to say that I think that we're being conservative in assuming what the inflation costs will be in
+2024. We're not at our historical 3% inflation rate. We're assuming 5.1%.
+A big component of not only our budget, but our longer term planning is the Transit Asset Management
+plan. The FTA requires that we submit a Transit Asset Management plan at least once every four years.
+And if there's any updates or significant changes to that plan, we need to notify them and submit a new
+plan.
+It's very specific and very prescriptive in terms of the way we evaluate our assets. We're still working on
+continuing to develop that plan and make it more solidified and more ingrained in our process. But as far
+
+as the financial planning for that, that's one of the key elements, to ensure that we have the funding to
+make sure that our assets are maintaining a state of good repair.
+And again, we allow a provision to maintain our reserves according to policy. Within the fiscal policy, we
+still have the requirement to maintain three months of operating reserves, excluding depreciation. It's kind
+of our rainy days. But we actually have more than that three months currently. But this budget also
+maintains those reserves at or above those levels, [INAUDIBLE] district policy.
+Just quickly, strategic priority alignment. Again, I touched on this earlier, but that's the big thing. You
+know, when there are new budget requests or new initiatives that are brought forward in the budget
+process, budget preparation process, a big part of the discussion is, how does that align with our strategic
+priorities and our strategic initiatives
+People Power constraints is a big item, obviously. And I mentioned that we budgeted for positions that we
+think is adequate for what we think our turnover as well as our net hiring because obviously, we have a lot
+of open positions, but we're not going to hire them all on January 1, so we've budgeted accordingly and
+ratably, such as with the police department. [INAUDIBLE] approximately 35 officers in the budget, so
+that's been planned for and it's been scheduled throughout the year.
+I mentioned during the fiscal policy discussion that we're going to discontinue the amended budget
+process. This will be the first time that we've done this since I've been here. I'm not concerned. I'm glad
+that we're doing it. I think it's really good for us as an agency and for all of us staff members to ensure that
+we adhere to that budgeted-- what was originally set forth and appropriated through the budget process.
+We still have the ability to be flexible. There's certain delegations and certain Board responsibilities in
+terms of moving money for those appropriations that we would come to the Board certainly for certain
+items that fall within that purview to ask for additional funding or transfer funding if necessary. But we're
+not going to do the one big amended budget.
+I wanted to point out that I still believe we're in a strong financial position, which is good. We have about
+$1 billion in cash and investments. Also in reserves about $500 million, on the basis of $500 million on
+FasTracks.
+So we're in a good position to weather the storm. We don't want to burn through that money because it's
+really earmarked over several years to maintain our assets. But I don't see us getting into a lot of trouble
+and being in a panic trying to figure out what we're going to do, at least in the short term if there's a big
+economic event.
+So this all to say is total what will be requested for an operating budget is $856 million. That's right in line
+with what we-- I believe in the Mid-Term Financial Plan for 2024, and approximately $58 million in capital.
+We're still going through that. There's going to be some carryforward. So when we get down to the cash
+flows, you'll see that it's $32 million. But those were our targets on that when [INAUDIBLE] the actual
+appropriation [INAUDIBLE].
+Just quickly, this is what the revenue picture looks like. So you can see we've had really good growth.
+The orange bars are the COVID funding, which was good because you can see the blue bars from our
+regular recurring funding really dropped during COVID. That was a great help to us not only to sustain
+operations, but it also allowed us to save some of the excess sales and use tax and build our reserves
+during that time, getting us in a good financial position.
+
+The growth-- [COUGHS]-- excuse me. The growth that you see from 2023 budget to 2024 budget is partly
+due to-- mostly due to sales and use tax growth, but we also will be receiving additional funding through
+the bipartisan infrastructure law for our preventive maintenance grants. We used to receive about $100
+million a year. That goes up to $130 million in 2024, so that's also helpful. But I'm pretty confident that our
+revenues-- by the way, the lower fares are embedded in there too, so still seeing some growth in 2024.
+This has been in the presentation too, just to give you an idea of how our expenses break down by
+category in the budget. Again, wages and benefits are our largest category. In fact, General Manager
+Johnson often refers to them being 3/4 of our expenditures.
+And if you were to take what's in purchase transportation and our services-- those are our contracted
+services. If you took the wage portion out of that, what are being paid for wages for folks that are being
+contracted, this slice of the pie for compensation would actually be closer to 75% So just to give me an
+idea, that's how dependent we are on People Power for our business. Then you can see some of the
+other expenses broken down there.
+To give you an idea of the cash flows, so this is our income statement. We have a column for 2023
+budget versus what we're presenting tonight for the proposed 2024 budget. A couple items that just focus
+on total revenue in Row 5 with the blue number there. You can see the increase is projected to be about
+$62 million next year.
+All of our operating expenses are summed up in Row 14. There's [INAUDIBLE] $56,165 million. You can
+see the components that make that up. So it's really small growth over the last year.
+And what I'd point out is why that-- even though we're including 5.1% inflation, the reason why that's only
+growing by $1 million-- less than $1 million next year over this year is because we're really, as I
+mentioned, being very intentional and specific about how we budget instead of budgeting everything that
+we might want to do and not actually accomplishing that. So in fact, we're over-budgeted in 2023. We're
+really going to be close to our budget in 2024, so we want to be very specific in what items were
+budgeted for [INAUDIBLE].
+Debt service, Row 15 there, you can see that's come down a bit. That'll continue to be at that level. Those
+are really due to the refinancings. We've reduced some of our debt service needs, so that's been really
+helpful. Even though it's only $2 million, it's much more over seven years.
+CapEx. We have $32 million in there. That number that I showed you, the $58 million, also includes some
+of the capital carryforward, which is not included in this number yet. So we're going to be-- when we come
+back to you, the capital carryforward will be $58 million or thereabouts. And we have to reconcile that
+carryforward when we get enough data. We have to pick a point in time and say, OK, this is what hasn't
+been completed on these already started projects. That's our number that we included in this budget, so
+that will get updated at the time.
+You can see there on the bottom line is net cash flow of $145,978,000. We're anticipating in 2024 that will
+change slightly with the capital carryforward, as well as if there's any tweaks that we do between now and
+November. We expect those to be small, if any. That money actually will go into the capital replacement
+[INAUDIBLE] and also be used to build up our [INAUDIBLE] contribution reserves.
+Every year as our expenses increase, we're going to keep that three months of unrestricted operating
+reserve. So our expenses increase. The three-month reserve needs to increase. So we add-- next year
+
+we'll add $5 million to keep that at three months, and then everything excess of that 145 goes into the
+capital replacement.
+So Mr. Chair, that concludes the presentation. One thing I was going to add is during this intervening
+period-- I know this is just a discussion on tonight. But we are available if any Board members or
+Committee members want to see more detail, have any questions. We have contact information on what
+we're putting out there. You know how to get a hold of me. Please don't hesitate if you want to have more
+details, have more discussion about the [INAUDIBLE].
+And I'll stop there, Mr. Chair, and ask for questions.
+DOUG TISDALE: Thank you, Mr. MacLeod. As they say, be careful what you wish for. You might get it.
+Let me start with Vice Chair Davidson. You are recognized, sir.
+ERIK DAVIDSON: Yeah, thank you, Mr. Chair. And Mr. MacLeod, thank you for going through all of that,
+and to Mr. Nikkel as well for being here and supporting this. Just one question. First of all, it's great that
+we are seeing the debt service. In some of those older Mid-Term Financial Plans, we can actually see it's
+big enough to show up here, so that's great.
+And just a point of clarity on the capital expenditures, I think you answered the question I had had, which
+is the presentation referenced, the 58. But you mentioned that included the capital carryforward, and then
+you mentioned the capital carryforward amount. Is it correct that the capital carryforward will be the
+difference between the 32 and the 58 that you referenced? So it'll be 26 is about what you expect the
+carryforward to be? Is that right?
+DOUG MACLEOD: Sorry. Yeah. I may not have said that correctly. So our capital-- let me explain just a
+little bit more. Sorry, Mr. Chair. I'm just jumping right in.
+But the capital carryforward used to be about $567 million. It was growing year after year after year. And
+what we realized is we've got all these projects that we've agreed to fund, but we haven't been executing
+on them. That's why it's growing. So we undertook this initiative. We got it down to about $200 million. So
+I'm sorry. I didn't state that correctly.
+The capital carryforward would be in addition to the 58. The 58-- what's shown in the 32 right now is the
+asset management plan things, that we know of and we're still evaluating the new capital that will come
+into play there. But our target is the 58. So it may not be at 58, but that's what we're-- not that we have to
+spend it, but that's what we think we have available, depending on whether we can execute it.
+And to clarify on the capital carryforward, so that money has already been appropriated. It's
+approximately $200 million after we reconcile it. So the money has already been dedicated to it. That
+money is sitting over on the balance sheet where we're just looking at the income statement.
+So that money's already earmarked to take care of the ongoing capital carryforward, so there's really no
+necessarily impact. But it will still have to be appropriated. That capital [INAUDIBLE] continue to be
+appropriated for future years.
+ERIK DAVIDSON: OK. Thank you. Yeah, that's very, very helpful. Thank you. Yeah. Very different
+numbers. That makes sense. This was the appropriation of that and bringing that. Thank you for that
+additional clarification. I appreciate it.
+
+DOUG TISDALE: All right. Thank you, Vice Chair. Director Guzman, you are recognized, sir.
+MICHEAL GUZMAN: Thank you. I don't know if this is for Debra or-- excuse me, General Manager CEO
+or the Chief Financial Officer. I'm very comfortable with you guys, and I'm a very comfortable person. I'm
+so sorry. I try to remember. Every time, I forget.
+With respect to the budgeting numbers for capital expenditures, I want to hear from you that we are not
+tying your hands to not be able to meet what you are planning to do this next year with these numbers,
+that you are confident that this is going to be the sufficient amount of monetary investment you need to
+keep our system in a state of good repair and also to fund any other operational needs that you have.
+I just want to make sure that I hear that and it's on the record that you are confident in this. And if there's
+any reservation, can you please speak to that so that we can request those adjustments be made and
+take another look at this? I'm confident that you presented us the right information, Mr. MacLeod. Debra, I
+would-- excuse me, General Manager CEO Johnson, I would love to get your feedback on that. Thank
+you.
+DOUG TISDALE: General Manager CEO, you are recognized to respond.
+DEBRA JOHNSON: Thank you very much, Chair Tisdale. And thank you very much, Director Guzman,
+for your question. I will state that this is another process that's evergreen as we look at the capital
+carryforward and recognizing that I have shared with Mr. MacLeod, Finance and Budgeting staff, as well
+as members of the Leadership team, when it comes to our Transit Asset Management plan, that is our
+guidepost.
+We are looking at critical aspects. We do not put a price tag on safety. So there could be some
+reallocation of funds as it relates to what we have before us.
+And Mr. MacLeod made reference earlier on in the presentation about subsequent meetings that we're
+having with the Leadership team, because there are some projects that have been on the books that
+have yet to come to fruition that we need to ensure come to fruition as we look at our facilities that may
+have not been kept up to par relative to what our TAM may have indicated. So those are the types of
+things when we come back to you with the proposed recommendation for the budget in November-- on
+November 14 that we will shore up because we have a greater opportunity to align the capital projects
+with those three strategic initiatives.
+So I can't answer the question right now, but I am, like, 85% confident that we are going to address all
+things safety-related because that's where our priorities rest. Thank you.
+DOUG TISDALE: Thank you very much, Madam General Manager CEO Johnson. We appreciate your
+input on that very important point and the question that Director Guzman raised. Are there other
+questions or comments from Committee members or Directors?
+Seeing none, I have one that I just wanted to direct to our CFO, and that's relative to the 5.1% inflation
+rate that is utilized as one of your basic assumptions. I recognize that currently statewide, we're at almost
+5.2% for this year with a projection that it will drop down to close-- under 4% next year. And you've looked
+at all of that, I know.
+
+But I also know that the Denver-Aurora-Lakewood MSA is historically significantly higher than the statewide inflation rate. And I just want to make sure that you're very comfortable with that 5.1% inflation rate
+that you have used for planning purposes in this proposed budget.
+DOUG MACLEOD: Thank you, Mr. Chair. Yes, it's as comfortable based on current information as we can
+be. Now, I think most-- and you saw this in the CU Leeds presentation. The most that the-- the inflation
+rate spiked up to around 10% and has slowly been trickling back down because the higher interest rates
+that the Fed has been putting in place, trying to slow the economy down.
+So there's probably a better chance that inflation will be lower than what we're assuming, being at 4.7%,
+5.2% currently. And we budgeted 5.1%. There's probably a better chance of it going lower. And it could
+certainly go higher.
+I think one of the bigger concerns we have-- I mean, inflation, certainly if it jumps a lot higher, would be a
+big concern. But one of the bigger concerns we have is just the metrics that were provided in terms of
+availability of people. 1.9 jobs for every one unemployed person.
+The other issue being supply chain constraints that we're still incurring some real challenges there. And
+so what we're seeing is some of our vendors come back asking for increases to their contracts just
+because when they bid it two or three years ago, inflation wasn't where we are now, so they're struggling
+too. So it's really a lot of moving pieces. But to answer your question, I feel pretty comfortable about the
+5.1% at this point.
+DOUG TISDALE: All right. Thank you very much. I appreciate that, sir. Are there any other comments or
+questions from the committee members or from any Director relative to the 2024 proposed budget? All
+right. Hearing that, we have concluded the discussion on that discussion item. Are there any other
+matters that a Director wishes to bring forward at this time? Vice Chair Davidson, you are recognized.
+ERIK DAVIDSON: Thank you, Mr. Chair. At the last Finance and Planning Committee meeting, I had
+committed to keep this Committee apprised on the ongoings of the Revenue Diversification Working
+Group that has formed within staff. Again, just as a reminder, this is a staff-led group that's looking at
+opportunities to diversify our revenue, as well as to look for opportunities to make our revenue and our
+financial position more resilient.
+This is in reaction to the discussion we had at the Board retreat earlier this year regarding our
+commitment to financial success. The working group from a staff perspective is comprised of our CEO
+and General Manager Debra Johnson, General Counsel Melanie Snyder, Chief Financial Officer Doug
+MacLeod Government Relations Officer Michael Davies, and Senior Manager of Debt Investments Mr.
+Brenden Morgan.
+And the Committee-- sorry, the Working Group met yesterday on October 2. Dare I say the theme is a
+common set of facts at this point. It is working together to really establish where we are. General Counsel
+Snyder has been doing some investigation ahead of this in terms of what our financial opportunities are
+now as they are currently permitted under RTD's enabling legislation. So there's some just background
+investigation that's occurring that was discussed and will be further discussed at an upcoming meeting.
+Additionally, it was pointed out by several, including General Counsel Snyder, that in looking back at our
+historical records, we do have some history of looking at these types of opportunities within RTD. Past
+Boards and past staff leadership has looked at revenue diversification and revenue ideas, other ideas for
+
+financial resilience. And we really identified that there needs to be some work done to really look at all of
+those past efforts, what their results were, and where they landed.
+There's also a really interesting discussion around other transit agencies and how they are financed and
+how they may compare to us or not compare to us. And some really good, you know, gaps in our
+understanding were pointed out just in that it's hard to do an apples to apples. And as our General
+Manager has been saying in a couple of meetings recently, and I think came up yesterday, where we run
+the risk of being apples to fish sometimes.
+So the way we categorize what's state funding, for example, we had a discussion around sales tax is a
+form of state funding when it's done across an entire state. So when we look at the different budgets from
+different agencies, we have to be very intentional.
+So I just want to talk about some specific action items and one that I think is going to be something for the
+Committee to really tune into shortly here. So some actions coming up is additional research on historical
+data of what we've done in the past, what's worked and what hasn't, as well as there's an opportunity in
+front of us to engage with the Citizen Advisory Committee to further engage some of the minds that we
+have around us to look at a number of ideas.
+Similarly, there is the Alliance to Transform Transportation that has been formed. There's an opportunity
+for RTD to be directly engaged at the staff level with that group. Also, and I want to highlight this, there's
+going to be some work done to come up with a comparable metric that really kind of looks at the
+percentage of state funding that agencies receive, including RTD and other agencies.
+Out of this will come some talking points. I think this is a really important point that I can bring back to the
+committee, that once we have some comparable metrics and some ways to talk about this, Board
+members I think would be then encouraged to reach out to our networks and share this information
+openly, especially as the legislature is dialoguing about RTD. It would be good for us all to be on that
+same page. Additionally, there's going to be some work done investigating some additional matters, and
+again, looking at some of those historical recommendations.
+So the group is meeting again on November 6. I do plan to attend that to, again, take some notes and
+liaise. Again, I encourage-- as much as my job here is to come back and report to this Committee on
+what's happening with that Working Group, given that they will be providing recommendations to this
+Committee, my job is also to take any ideas from Board members and Committee members back into that
+working group as well. So I certainly encourage my colleagues to reach out to me with any and all ideas
+or thoughts related to this.
+So with that, thank you. And also, a huge thank you to all of the staff members I mentioned earlier for
+their involvement in this group. I think as it was pointed out, we have repeated this effort in the past, but
+it's all about the intention with which we go into the effort. And this group really is working in earnest to
+find something material that can be done for the agency, and I certainly thank staff for using their time
+and expertise on that. Thank you.
+DOUG TISDALE: Thank you very much, Mr. Vice Chair. We appreciate your operating as our liaison to
+the Working Group and creating that information base for us. Let me ask if there are any questions of
+Vice Chair Davidson at this time from any of the Committee members or Board members.
+
+Hearing none, then I will point out that our next meeting date of the Finance and Planning Committee is
+scheduled for Tuesday, November 14 at 5:30 PM Mountain Standard Time. And I want to congratulate all
+of you on being very focused and very productive over the last almost 2.5 hours. You have gone through
+a massive information item, four action items, and a long discussion item, and acquitted yourselves quite
+well. Director Whitmore, the interloper to the Committee, you have a final observation. Your hand is up.
+TROY WHITMORE: I do. I was quite impressed by the work of this Committee. And since you're the
+keeper of the FYFF, I'd like to recommend that you're also known as the drum corps from here forward.
+DOUG TISDALE: Thank you very much. That's an excellent way of putting it. All right. Seeing no other
+discussion, then let the record reflect that this meeting is adjourned as of 7:54 PM Mountain Daylight
+Time. Thank you all so much for your participation. Good evening.
+
+

@@ -1,0 +1,141 @@
+## I. Operations and Customer Service Committee
+
+Chaired by Judy Lubow
+
+### A. Call to Order
+
+Committee Chair Lubow called the meeting to order at 6:12 p.m.
+
+Directors Anderson, Daly, and Lasater were absent.
+
+Staff Present:              Bruce Abel, Carolyn Conover, Martell Dyles, Bob Grado, John Elias, David Genova, Mike Gil, Kenn Hardin, Austin Jenkins, Erin Klaas, Marla Lien, Barbara McManus, Robin McIntosh JR, Doug MacLeod, Vivian Morales, Brenden Morgan, Paula Perdue, Scott Reed, Richard Rost, Bill Sirois, John Tarbert Mike Turner, Bill Van Meter, Michael Washington, Phil Washington
+
+Others Present:              Sherman Hamilton, Eugene Howard, Pedro Ramos, Joe Triplett, Zach Wallace, Monte Whaley, Darcy Wilson
+
+### B. Recommended Actions
+
+There were no recommended actions.
+
+#### 1. Fare Task Force Update
+
+Bruce Abel, Assistant General Manager of Bus Operations, reviewed a Power Point presentation with the Board that is available in the August 12, 2014 Operations and Customer Service Committee Agenda Packet.  He noted that this was just a brief status updated; a more substantive update will be provided at the next Operations and Customer Service meeting.  Bruce Abel highlighted that staff had recently completed the consultant selection process with consensus in awarding the contract to CH2M HILL.  He noted that the problem identification outreach meetings had begun with the following:
+
+- Fare Inspector Focus Group
+
+- RTD Customer Panel
+
+- Bus Operator Focus Group
+
+- Local Government/TMA/TMO Meeting
+
+- Community Based Organization Focus Groups
+
+He shared that there are additional upcoming public meetings being held throughout the District in Westminster, Lakewood, Commerce City, Aurora, Denver and Longmont.
+
+Director Folska said that she is very impressed and proud of how staff is attacking this huge, huge endeavor.  She thinks the outreach to the community organizations has been incredible, constructive and positive.  Director Folska noted that one of the comments she has been hearing from the community organizations is that they would like to see a means test related to income and RTD fare.  She wonders if there are other organizations that already do this at different points of entry into the social services system that might be able to assist RTD in this testing.
+
+Director Rivera-Malpiede informed the Board that she attended two of the recent problem identification outreach meetings, which were excellent.  She said that she has received comments from several organizations thanking RTD for doing this study.  Director Rivera-Malpiede commended staff for ensuring that the upcoming public meetings are in all parts of the District.
+
+Director Solano feels this is a great study.  He expressed interest in how income might affect the outcomes of the study when comparing low income areas to affluent areas.  Director Solano commented that when he was in Houston the previous week the light rail costs $1.25 for a three hour ticket.  He hopes RTD and CH2M HILL can look at how RTD’s fares compare to other metro areas with a fine tooth comb.  Bruce Abel stated that a peer review will be part of the study.
+
+Director Menten stated her surprise at getting such short notice on the dates for the upcoming public meetings.  She said she would have hoped for more of an opportunity for her to conduct public outreach in her community.  She asked if there was any way to extend the August 29th deadline for public comments so she could reach out to her constituents.  Bruce Abel stated that staff and CH2M HILL will pay attention to all of the input that is received, even past the August 29th deadline.
+
+Director Menten inquired what other companies submitted a response to RTD’s Request for Proposal (RFP).  She shared that when she thinks of CH2M HILL she thinks of design, construction and engineering, not customer service analysis.  Director Menten wonders if the other companies have the same background as CH2M HILL.  She also inquired as to the cost of the contract.  Bruce Abel said that the other respondents were IBI Group, LTK Engineering and Transportation Management Design.  He explained that CH2M HILL has a very robust transportation unit, doing a great deal of fare structure work throughout the industry.  He stated that the cost is approximately $140K, but he would need to get the exact figure.
+
+Director Menten noted that the flyer for the fare study contained information in Spanish, Vietnamese, Korean and Russian.  She asked how these languages were selected.  She also wondered how often people request language interpreters for RTD meetings.  Michael Washington, Title VI Manager, explained that if there are more than 1000 individuals that do not speak English within the service area then information must be translated into that language.  He said that requests for meeting translation are rare.
+
+Director Folska wondered if perhaps the reason Houston’s light rail was only $1.25 was because they received a large amount of subsidy from the petroleum industry.  Bruce Abel stated that he did not know the sources of subsidy for Houston but that is something that would be looked at as part of the agency comparison.
+
+Committee Chair Lubow requested that the summary of comments be broken down by group (i.e. fare inspectors, bus operators, public meetings, etc.).  She asked if the Board would be provided with a written report at the end of the fare study.  Bruce Abel stated that CH2M HILL would provide a written document with recommendations at the end of the process.
+
+##### a. RTD Fare Study - Aug2014_OpsCommUpdate
+
+#### 2. Civic Center Presentation
+
+David Genova, Assistant General Manager of Safety, Security and Facilities, introduced Robin McIntosh, Senior Manager of Facilities, and Richard Rost, Manager of Facilities Engineering, who reviewed a Power Point presentation with the Board that is available in the August 12, 2014 Operations and Customer Service Committee Agenda Packet.
+
+Richard Rost reminded the Board that there have been ongoing issues at Civic Center Station so staff made the decision to completely start over, rather than trying to fix what was already there.  He said that design is 95% complete, with final design completion anticipated by November, 2014.
+
+Director Folska shared that she is very excited to see the progress in this area.  She appreciates the consistency of RTD branding with the canopy being made of the same material as those at Denver Union Station (DUS).  Director Folska stated that she is concerned that the stakeholders who were involved in the design process did not include people with disabilities or the elderly.  She suggested that staff contact Mayor Hancock’s office to work with the Denver Commission for People with Disabilities and the Denver Commission on Aging.  Director Folska believes these two groups need to be at the table during the design phase so RTD does not fall into some of the same issues we have at DUS.  She does not want accessibility to happen at this location as an afterthought; accessibility needs to be built in at the design phase.
+
+Director James wondered what the total budget for the project is.  He said his impression is that most of the design work has been done.  He asked if the Request for Proposal (RFP) would just be a construction contract.  Richard Rost stated that the total budget, including design, is $21,139,326.  He said that Director James was correct that the RFP would just be for construction.
+
+Director James expressed concern that there were no neighborhood organizations included as stakeholders in the design process.  He knows that the Golden Triangle Neighborhood Association is particularly concerned about the pedestrian access of Civic Center.  He believes this is an opportunity to really engage the community to transform Civic Center.  Director James inquired about the long term plans for the open space next to the bus station.
+
+Richard Rost explained that staff worked with the City of Denver (City) and the Downtown Denver Partnership (DDP) to develop a list of stakeholders that were technically qualified for the urban design issues that accompany this size of project, which did not include neighborhood groups.  Bill Sirois, Senior Manager of Transit Oriented Development, stated that RTD, along with the City and DDP, just received a grant to complete a Master Plan for Civic Center.  This Master Plan will encompass the entire Civic Center area, not just the bus station.  He said that a primary focus of the Master Plan will be looking at uses of the open parcel along Colfax.
+
+Director James noted that the budget was very tight for this project; he reminded staff that there is extensive experience working with very tight budgets at Denver Union Station Project Authority should they need any assistance.
+
+Director Walker thanked staff for looking to make the Civic Center station better instead of just putting it back together.  He believes this will be a big improvement over what is at the station now.  He inquired if the bus facility was one level or two.  Richard Rost stated that the buses were all at one elevation.  He noted that there is an elevation difference between Broadway and Lincoln which can make the station seem like two levels.
+
+Director Tobiassen pointed out that safety and security are big issues at this station.  He hopes that this new design is being engineered with safety as a priority.  Dave Genova stated that the new design concept is more open, fostering a better environment for security.
+
+Chair Sisk thanked staff for a wonderful presentation.  He thinks it is very exciting to see such great things happening on the other end of the mall.  He said he hopes RTD can take the best ideas from the teams that submit proposals and homogenize those into one construction project.  Chair Sisk noted that this station has an opportunity for naming rights that should be considered before it is re-opened.  Dave Genova explained that during the industry review RTD will be asking teams to provide their technical suggestions on schedule, savings, etc. that will be incorporated into the final RFP.
+
+Director Folska inquired if staff had considered a community garden for the open space next to the bus station.  Dave Genova stated that RTD’s objective is to take care of our transit investment in the station.  He said the development of the Master Plan will really evaluate what opportunities exist for that area.
+
+Director Bagley shared that he frequents this area at least two to three times a month.  He feels that the elevated garden and grass area really does not work as it stands right now.  He hopes the new design will be much more friendly and open.
+
+Director Lubow asked if the canopy would protect people from the weather or was really just for aesthetics.  She wonders if it would protect better if it was made just a little wider.  Richard Rost said it would give some protection and provide a great deal of lighting for the station; however, the size of the canopy was really a balancing act with the Civic Center building as they wanted it to be as small as possible.
+
+##### a. Civic Center Station Power Point presentation
+
+#### 3. Transit Watch Program Update
+
+Dave Genova introduced Bob Grado, Transit Police Commander, who reviewed a Power Point presentation with the Board that is available in the August 12, 2014 Operations and Customer Service Committee Agenda Packet.
+
+Bob Grado shared with the Board that development of this App came from his participation in RTD’s Multi Agency Exchange (MAX) program.  RTD had previously looked into developing an App but the cost far exceeded the Department of Homeland Security grant RTD was awarded.  He said that when he was discussing wanting to develop an App with his counterpart in Los Angeles, Los Angeles offered to allow RTD to use the app they had already developed.  Bob Grado stated that without this exchange of technology RTD would not have been able to launch this App.
+
+Director Folska wondered if RTD paid a licensing fee to Los Angeles Metro.  She suggested that perhaps RTD should begin getting patents for the technology we develop to create additional revenue streams.  Bob Grado said that we do not pay LA Metro; they just have RTD permission to use their App and work with the vendor for branding.
+
+Director Tobiassen said that he is glad this program is taking off.  He shared that he was recently contacted by the Aurora Office of Emergency Management looking for examples of texting in emergency situations being successful.  He thinks that they will also be very interested in this App.
+
+Director Rivera-Malpiede asked if this App would be available in different languages.  Bob Grado stated that it was only available in English; staff hopes it can be available in other languages in the future but there are no plans for development at this time.
+
+Director Bagley reminded the Board that the MAX program includes LA, Atlanta, Dallas and Denver.  It is a sharing of industry best practices.  He thinks it is so important not only for RTD to share how we do things, but also to learn from the other agencies.  Bob Grado informed the Board that RTD saved over $250K in working with LA.
+
+Director Solano asked if this App would also provide people with alerts, such as an Amber Alert.  He said that he also thinks developing the App in different languages should be a priority.  Bob Grado shared that RTD can send out alerts but staff is still in the process of developing a policy on what alerts will be sent and how.
+
+##### a. TWapp Board Presentation
+
+#### 4. Rail Operations Department Update
+
+Austin Jenkins, Assistant General Manager of Rail Operations, reviewed a Power Point presentation with the Board that is available in the August 12, 2014 Operations and Customer Service Committee Agenda Packet.  He informed the Board that his four year anniversary was at the beginning of August.  This caused him to start thinking about what Rail Operations has accomplished in such a short time and where they are going.  He thought it was important to share this with the Board.
+
+General Manager Washington stated that Austin Jenkins has done a great job.  General Manager brought him on to the RTD team soon after he was named the RTD General Manager.  He said that one of the important things Austin Jenkins is working towards is the reorganization of staffing.  This is in an effort to begin thinking about how RTD will transition people from Capital Programs once those projects are complete, which is very important.
+
+Director Bagley pointed out to the Board that he was wearing his shirt and hat from last Saturday’s Rail Rodeo.  It says ‘Big. Bold. Modern Transit.’ which is exactly what Austin Jenkins described in his presentation.  Director Bagley thought it was very instructive to be able to attend and speak with the mechanics, drivers, etc.  He said it was a really great experience.
+
+Director Tobiassen stated that he too thought the Rail Rodeo was a great event.  He said that he is always impressed at how high the rookies place, which is a great demonstration of the tremendous training program that RTD has.
+
+Director Tobiassen asked how many vehicles are in the queue to be overhauled as well as the cost and time per vehicle.  Austin Jenkins explained that there will always be vehicles in the queue to be overhauled because it is a process that will go on forever; by the time staff gets to the end of the 100 series vehicles it will be time for the 200 series.  He said that a new light rail vehicle costs around $4 million while overhauling a vehicle is in the range of $700K.  Austin Jenkins stated that the goal it to overhaul a vehicle in 4 weeks but there is a little lag due to staffing.
+
+Director Tobiassen shared with the Board that he used to do work for Union Pacific (UP).  At the UP facility there was a detector that could measure the heat of the bearings and wheel circumference as the trains drove by.  He commented that this was great preventative maintenance and wonders if RTD has looked into something similar.  Austin Jenkins explained that the expense of this technology makes it cost prohibitive to RTD; however, he said that looking at the bearings and wheel circumference is part of RTD’s regular periodic maintenance.  Austin Jenkins noted that this preventative maintenance and keeping the wheels so true to each other has led to one of the best gear box records in North America.
+
+Director Folska said that she loves the idea that Rail Operations is working to bridge the silos within RTD.  She thinks this interdisciplinary approach of bringing people from Capital Program to rail is fantastic.
+
+Director Menten asked for examples of when a vehicle’s event recorder might begin recording.  Austin Jenkins said an example of this might be when a train is traveling and there is a sudden brake application.  He explained that this event recorder will help the mechanics quickly identify where the problem is.  He offered to give Director Menten a demonstration.
+
+Director Menten asked if it was correct that with the opening of the West Line there were 800 first responders trained in addition to the RTD employees.  Austin Jenkins stated that was correct; first responders had to learn how to get on the vehicles, move around them, etc. in case of an emergency.
+
+Director Rivera-Malpiede asked how many employees there are in the Rail Operations Department.  Austin Jenkins said there were just under 400. Director Rivera-Malpiede shared that she absolutely loves to go to the annual Rail Rodeo.  She thinks it is so amazing to see all the families there to support the participants.  She congratulated Austin Jenkins on such a fantastic event that people really want to come and participate in.
+
+Director Deadwyler stated that she is not often impressed, but Austin Jenkins and his team have totally impressed her with what they have managed to accomplish in just four years.  She thanked them for their efforts and hard work.
+
+Austin Jenkins pointed out that there are a lot of people around the country doing the same job who wish they were him.  He said he really has the best organization to work for in the country.
+
+##### a. 4th year Rail Operations Board Presentation 20140812AJ
+
+### D. Other Matters
+
+Director Walker shared with the Board that he was asked to speak about the MAX program at that APTA Transit Board Member & Board Support Seminar, where he also spoke about the Workforce Initiative Now program.  He said that RTD having two call-outs in one conference really spoke to the recognition our programs have nationally.
+
+Director James informed the Board that there was also discussion about putting a public market somewhere in Civic Center which might be a good use of the open space next to the bus station.
+
+Director Bagley said that last week he attended several meetings: the Denver South Economic Development Partnerships monthly meeting and the C-470 Corridor Coalition meeting.  He shared that Mayor Jim Gunning expressed to Director Bagley that he has received numerous emails and phone calls of people who are so excited that the Southeast Rail Extension was approved.  Director Bagley said that despite the positive feedback he was embarrassed by the questions he received in response to an article that was in the Denver Post last Thursday.
+
+Chair Sisk reminded everyone that there are no meetings scheduled for August 19th or 26th.  The next meetings will be the committee meetings held on September 2nd.
+
+### F. Adjourn
+
+Committee Chair Lubow adjourned the meeting at 7:53 p.m.

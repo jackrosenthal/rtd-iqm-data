@@ -1,0 +1,71 @@
+## I. Government Relations Committee
+
+Chaired by Claudia Folska
+
+### A. Call to Order
+
+Committee Chair Folska called the meeting to order at 5:57 p.m.
+
+Staff Present:              Bruce Abel, Rick Clarke, Susan Cohen, John Elias, Sherry Ellebracht, David Genova, Svetlana Grechka, Genevieve Hutchison, Austin Jenkins, Erin Klaas, Nadine Lee, Marla Lien, Barbara McManus, Doug MacLeod, Patrick McLaughlin, Vivian Morales, Paula Perdue, Chris Quinn, Scott Reed, Jannette Scarpino, Bill Sirois, Kirk Strand, Mike Turner, Bill Van Meter, Phil Washington, Brian Welch, Susan Wood
+
+Others Present:              Jenifer Brandeberry, Mike Dino, Doug Gragg, Sherman Hamilton, Matthew Helfont, John Kingley, Roger Sherman, Joe Triplett, Gary Van Dorn, Monte Whaley, Bob Wilson
+
+#### 1. Local Government Update - CRL Associates
+
+Roger Sherman, CRL Associates, indicated that June is a month of meetings, conferences and travel.  He noted that the Metro Mayors Caucus will have a full Caucus meeting on June 4, 2014.  He shared that he will be attending the Downtown Denver Partnership’s Urban Exploration Trip, which Director James will be attending as well.  He pointed out that this trip, as well as Accelerate Colorado, presents great opportunities for informal discussions with Colorado’s elected officials.  Roger Sherman informed the Board that he would report back if there were any specific comments by elected officials in their District.
+
+Roger Sherman stated that he will be attending the Colorado Municipal League Annual Conference from June 17-20, 2014.  He believes this will be a good opportunity to interact with RTD’s mayors and council members throughout the District.
+
+Roger Sherman noted that the quarterly meeting for the FasTracks Citizens Advisory Committee will be in Boulder on June 18, 2014.  He invited the Directors to attend.  Roger Sherman said that there would be a presentation on the Northwest Area Mobility Study consensus as well as a discussion about RTD’s upcoming DRCOG reports.
+
+Roger Sherman shared that the Metro Area Commissioners Meeting will be the last Friday of the month.  He commented that at this time the agenda has not been released but he plans to be there if there are any transit related issues.
+
+Director Daly congratulated Roger Sherman on the great telephone town halls that he was conducting with each Director.
+
+#### 2. State Legislative Update - Brandeberry~McKenna
+
+Jenifer Brandeberry, Brandeberry~McKenna, stated that the legislature is out of session so Brandeberry~McKenna is gearing up for the interim committee meetings.  She said they follow the Legislative Audit Committee (LAC) and the Transportation Legislation Review Committee (TLRC) on behalf of RTD.
+
+Jenifer Brandeberry shared that the LAC recently met and approved two items for research time that pertain to transportation funding: (1) HTPE and US36 and (2) CDOT and FASTER Funds.  She reiterated that this is just for research time; the Committee may vote to proceed with a full audit at the July Committee Meeting.  Jenifer Brandeberry stated that TLRC has released its committee meeting dates but no agendas yet.  She said that she has been working with a committee staffer to coordinate the report/presentation that RTD does each year.
+
+Jenifer Brandeberry noted that Friday, June 6, 2014, is the last day the Governor has to sign or veto a bill.  She commented that it remains to be seen if Senate Bill 14-197 regarding to P3s in Colorado will be signed, vetoed or become law without signature.
+
+Jenifer Brandeberry said that there have been some interesting conversations between the oil and gas industry, municipal governments, the agricultural industry, and homebuilders in regards to calling a special session to deal with some of the pending ballot measures.  She shared that this is something the Governor would really like to happen but she sees it being difficult due to timing.
+
+Jenifer Brandeberry informed the Board that during the legislative session her firm and Chris Quinn, Planning Project Manager, offered briefings on the Northwest Area Mobility Study to the legislators on the corridor.  She said there were four briefings conducted; her office is continuing to work to schedule additional meetings.
+
+Committee Chair Folska thanked Jenifer Brandeberry for her report and for Brandeberry~McKenna’s pro-active approach to educating our legislators.
+
+Director Bagley wondered if the special session would include something related to construction defect legislation.  Jenifer Brandeberry stated that it would be called directly to address oil and gas and setback issues.
+
+Director Bagley asked if Jenifer Brandeberry expected something to happen in the next session in reference to construction defect legislation as it relates to Transit Oriented Development, Transit Oriented Communities or in any other matter.  Jenifer Brandeberry explained that the sponsors of the last bill have indicated that they plan to continue to work on the issue along with a large group of organizations that have signed onto the coalition.
+
+Director Menten wondered if it was possible to find out what the focus is of the two items approved for research time by the LAC.  She also wondered what the timeframe might be to determining if there would be a full audit.  Jenifer Brandeberry explained that typically the initial research time has a very broad net.  She believes the focus for HTPE research is to actually review the contact while the focus of the FASTER research is to see how the dollars have been allocated.  Jenifer Brandeberry said that she anticipates a vote on a full audit for both items during the July committee meeting.
+
+Director Lubow asked if RTD took a position on the P3 legislation.  Jenifer Brandeberry stated that was something that her team monitored on behalf of RTD.
+
+Committee Chair Folska asked if Jenifer Brandeberry thought the red light camera bill might come back in the next session.  She noted that Bruce Abel, Assistant General Manager of Bus Operations, provided her with some evidence of how well these cameras assist us in reducing our accident rates.  She thought it might be valuable to share with the sponsors.  Jenifer Brandeberry stated that this has been a perennial issue for some years; she anticipates someone bringing it back.
+
+#### 3. Federal Update - Patton Boggs
+
+Mike Dino, Patton Boggs, shared with the Board that his firm had gone through a merger effective January 1, 2014; they are now known as Squire Patton Boggs.
+
+Mike Dino stated that the Senate is in session while the house is not.  He noted that there is a lot of activity in Washington as they are trying to get a lot done before the summer recess.  He shared that the Senate Appropriations Subcommittee met recently to try to undo what the house is trying to do.  The Senate Subcommittee approved a little over $11 billion for transit which is about $500 million more than the House Subcommittee.  He stated that both of these amounts are much less than what the President asked for in his budget which was about $17.5 billion.
+
+Mike Dino commented that RTD pays particular attention to the Transportation Investment Generating Economic Recovery (TIGER) grant program.  He said that the senate has allocated $550 million, the house $100 million while the President asked for $1.25 billion.  Mike Dino shared with the Board that the Senate number usually prevails in the appropriations process.  He pointed out that the House Committee also began restricting TIGER.  They do not allow any transit projects; they are completely focused on highway, bridge, port and freight rail.  He said that when the full House Appropriations Committee did their mark-up of the bill they did fully fund the New Starts program at $1.7 billion, which is good news for RTD.
+
+Mike Dino reminded the Board that the current reauthorization expires on September 30th while the Highway Trust Fund (HTF) runs out of money in late July/early August.  He stated that both sides are trying to figure out how to pay for the HTF.  The House version is to eliminate Saturday delivery of the mail but this is very controversial because it is a one-time patch and many people do not want to see that happen.  In the Senate the Chairwoman of the Environment and Public Works Committee, Barbara Boxer, is suggesting that the HTF be replenished with a wholesale tax on gas and diesel, eliminating the federal sales tax at the pump,
+
+Mike Dino noted that the President’s reauthorization has allocated $550 million for Bus Rapid Transit (BRT) but has not changed the current BRT definition.  He stated that as the Board is aware, the goal was to get the old definition back, which would allow RTD more flexibility.  He said that this is something his team will continue to pursue.
+
+Mike Dino shared that General Manager Washington and Marla Lien, General Counsel, put a report together for Congress and the FTA that discusses what RTD learned from going through the New Starts process using the P3 platform.  This follows-up on General Manager Washington’s testimony to the P3 Special Panel.  He stated that it is very positive that RTD is seen as a resource and expert in this area.
+
+Committee Chair Folska asked Mike Dino how he thinks RTD would fare qualifying for BRT funding given that the definition may not fall back to the SAFETEA-LU definition.  Mike Dino explained that it would present a challenge for RTD; there is a small amount of money, subject to a stricter interpretation of BRT, that would be distributed to entities meeting that definition.
+
+### C. Other Matters
+
+There were no other matters.
+
+### E. Adjourn
+
+Committee Chair Folska adjourned the meeting at 6:23 p.m. to the Planning and Development Committee.

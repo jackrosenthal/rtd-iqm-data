@@ -1,0 +1,4016 @@
+Regional Transportation District
+
+1660 Blake Street
+Denver, CO 80202-1399
+303-299-2306
+
+Board of Directors
+Chair – Doug Tisdale, District H
+First Vice Chair – Peggy Catlin, District N
+Second Vice Chair – Angie Rivera-Malpiede, District C
+Secretary – Jeff Walker, District D
+Treasurer – Shelley Cook, District L
+Bob Broom, District F
+Vince Buzek, District J
+Claudia Folska, District E
+Lynn Guissinger, District O
+Shontel M. Lewis, District B
+
+Judy Lubow, District I
+Natalie Menten, District M
+Ken Mihalik, District G
+Troy Whitmore, District K
+Kate Williams, District A
+
+AGENDA
+Financial Administration & Audit Committee
+Tuesday, January 15, 2019
+Rooms R, T, & D
+5:30 PM
+Conference Dial-in # 303-299-2663
+Conference ID: 15120
+
+Financial Administration and Audit Committee
+Chaired by Ken Mihalik
+
+A. Call to Order
+B. Recommended Actions
+
+• Contract Amendment Authority for MCCi (Laserfiche Value Added Reseller)
+• NMRL Financial Analysis
+C. Updates
+
+• November 2018 Monthly Financial Status Report
+• Smart Card and Mobile Ticketing Update
+• 2019 Fare Change Update
+
+D. Other Matters
+E. Next Meeting Date - February 12, 2019
+F. Adjourn
+
+The following communication assistance is available for public meetings:
+ Language Interpreters
+ Sign-language Interpreters
+ Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 business hours in advance of a
+RTD meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+1.B.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+January 9, 2019
+
+Subject:
+
+Contract Amendment Authority
+(Laserfiche Value Added Reseller)
+
+CFO/AGM,
+
+Finance
+
+Date: January 9, 2019
+&
+
+GM
+Board Meeting Date: January 29, 2019
+
+for
+
+MCCi
+
+RECOMMENDED ACTION
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors
+authorize the General Manager or his Designee to negotiate and execute all documents necessary to
+amend Contract No. 17DO02, MCCi Laserfiche VAR Services and Support, to increase the contract
+amount from a current total of $499,850 by $890,000 to a new total not-to-exceed amount of
+$1,389,850 (subject to further Board action by budget authorization for budget years 2020 through
+2022), in order to support RTD’s operations, maintenance and project development based on Laserfiche
+software through 2022.
+Core Goal #3 – Strong Financial Management
+BACKGROUND
+In early 2017, RTD chose the Laserfiche software system as the backbone of RTD’s improved enterprise
+content management efforts. RTD had used Laserfiche for many years for storage of certain RTD
+records. Instead of buying a completely new enterprise content management (ECM) system, based on
+extensive review and cost analysis by RTD subject matter experts and our consulting ECM expert, RTD’s
+ECM Steering Committee concluded that Laserfiche was the most cost effective way for RTD to manage
+its unstructured information (i.e., information not already managed in place by software such as Oracle).
+Laserfiche is now being steadily implemented District-wide as the repository for most unstructured
+records. (Some records are being managed in place where their remaining retention periods would not
+justify conversion.)
+RTD’s Information Governance and Management (IGM) Division has completed many successful
+information governance projects with the upgraded version of Laserfiche in collaboration with RTD’s
+existing Value Added Reseller (VAR): MCCi, under contract with RTD since 2017. First, in 2018, IGM,
+MCCi and RTD’s Safety Division developed and implemented the Safety Management System (SMS)
+using Laserfiche. The SMS program is an FTA required program in which RTD must demonstrate it has a
+formalized, data driven safety reporting program that complies with the requirements set forth by the
+FTA. RTD was awarded the 2018 Laserfiche Excellence Award for the most innovative implemented
+project using Laserfiche.
+Additionally, IGM, MCCi and RTD’s Human Resources Division completed Phase I of the HR Digitization
+project. IGM was able to scan over 3,000 current and former employee files and place them in our
+secure Laserfiche repository. Security and access controls have been applied to each employee file to
+ensure confidentiality and retention has been applied to ensure RTD adheres to our retention schedule.
+Employee files are now available digitally to approved managers and supervisors, thus saving money on
+paper copies and space by eliminating extensive shelving in HR.
+
+Packet Pg. 3
+
+1.B.1
+
+Third, IGM and HR were able to help RTD save thousands of dollars by automating the yearly decal
+distribution using Laserfiche forms. Employees signed for their decals via digital signature and a record
+of who received what decal number is kept. This process saved money by eliminating the cost of two
+temporary employees and paper.
+These are only a few examples of how continued and expanded use of Laserfiche is not only supporting
+better information management, but is already saving the District time and money.
+DISCUSSION
+RTD moved to Laserfiche’s latest enterprise level version, called Laserfiche RIO, in late 2017. This past
+year has been a learning curve for the IGM team in terms of new system functionality. The IGM team is
+committed to learning as much as possible from the MCCi consulting team so that RTD staff can
+become self-reliant in administration and development of future Laserfiche projects; however,
+professional services from MCCi will continue to be needed to fully employ Laserfiche RIO in our ECM
+efforts. In 2019/2020 IGM will be undertaking some large projects which will require significant support
+from our VAR. The requested $890,000 funding increase will allow IGM to pay for up to three more
+years (2020-2022 – 2019 is already paid) of annual software support at an estimated $110,000 per
+year (total $330,000), and for up to four more years (2019-2022) of professional services on specific
+projects selected by RTD at an estimated $140,000 per year (total $560,000), for a total of
+$1,389,850. Projects already anticipated for Laserfiche starting in 2019 include:
+ North Metro Operations Document Control
+ Phase II of the H.R. Digitation project – *There
+*This project will require a significant amount
+are two pieces of detailed work that will require
+of support from MCCi for IGM and collaboration
+a significant amount of support from MCCi.
+with RTD I.T. in order to meet FRA regulation
+Rail Ops file clean up and department template
+requirements.
+consolidation
+ SMS - Safety Management System Phase II
+
+ PDP - Professional Development Plan electronic
+form
+
+ GIS Map for Capital Programs Engineering tying  Access-a-Ride streamline business process and
+project documentation to a geographical map
+create electronic forms
+ Accident/Incident – Bus/Rail Ops Electronic  LRV Tech Portal – Providing technical
+Reporting to reduce paper and support the SMS
+documentation available via weblink to Rail Ops
+program
+MOW and technical teams
+ Customer complaint electronic forms
+
+ Board Office electronic forms
+
+ Laserfiche upkeep and administration fees
+
+ Easter Seals rider verification project
+
+RTD’s initial contract with MCCi was for $400,850. Based on higher than originally anticipated use of
+Laserfiche licenses and MCCi project support, RTD amended the contract to add $99,000 for a new NTE
+of $499,850. RTD continues to identify additional projects for 2019 and future years to take advantage
+of Laserfiche’s benefits as our ECM backbone as our information governance efforts continue to mature.
+Granting this Board authority now will allow RTD staff to further amend the contract in stages to allow
+for additional MCCi support through this budget year. Importantly, funding for these types of services
+was already included in the 2019 IGM Division budget. Board authority will allow RTD staff not to have
+to go back to the Board to further amend the contract for 2020, 2021 and 2022 (including option
+years), but amendments for 2020-2022 will not occur unless these services continue to be authorized in
+the RTD budget, and unless RTD staff determines that exercise of the option years is in RTD’s best
+
+Packet Pg. 4
+
+1.B.1
+
+interest. For professional services, the amounts sought are on a not to exceed basis, and RTD staff will
+determine whether and to what extent projects justify use of MCCi resources or can be handled
+internally.
+Laserfiche has proven effective and popular, justifying our consultant’s recommendation of it as a highly
+cost effective alternative to going outside for an entirely new, multi-million-dollar ECM system. Our IGM
+team believes that this requested amount will provide the funds needed to ensure adequate Laserfiche
+licenses, technical support, and professional services through 2022 to help us develop the above and
+additional projects to take advantage of Laserfiche. While RTD’s IGM team is highly capable in
+Laserfiche, support from MCCi will continue to be needed to help our staff succeed with such projects.
+FINANCIAL IMPACT
+The amount of the contract amendment sought is $890,000, bringing the not to exceed total authorized
+contract amount to $1,389,850 (subject to Board authorization through the budget process for years
+2020-2022).
+SBE PARTICIPATION
+The RTD Small Business Opportunity Office established a 0% SBE participation goal for this project.
+ALTERNATIVES
+1. Accept the recommended action by the Financial Administration and Audit Committee that the
+Board of Directors authorize the General Manager or his Designee to negotiate and execute all
+documents necessary to amend Contract No. 17DO02, MCCi Laserfiche VAR Services and
+Support, to increase the contract amount from a current total of $499,850 by $890,000 to a
+new total not-to-exceed amount of $1,389,850 (subject to further Board action by budget
+authorization for budget years 2020 through 2022), in order to support RTD’s operations,
+maintenance and project development based on Laserfiche software through 2022.
+2. Do not accept the Recommended Action. This alternative is not recommended, because
+constraining Laserfiche services would have a substantial detrimental impact on, and increased
+costs to, RTD, impeding development of present and future projects which are imperative to
+RTD’s record management and document control needs. RTD would need to stop using
+Laserfiche at the end of this year and immediately start the procurement process for a substitute
+software system.
+3. Authorize a smaller amount only to cover 2019, and require staff to return to the Board for
+further authorization for 2020-2022. This is not recommended because there is already a
+contract with MCCi with option years in place through 2022, and because funding and
+amendments for 2020-2022 will already be subject to Board oversight through the budget
+process.
+
+Prepared by:
+Rolf Asphaug, General Counsel
+Lisa Dorrance, Manager, FasTracks Document Control
+Approved by:
+
+Packet Pg. 5
+
+1.B.1
+
+Packet Pg. 6
+
+1.B.2
+
+DIRECTOR REQUESTED AGENDA ITEM
+To:
+Requested
+by:
+
+Board of Directors
+
+Date: January 10, 2019
+
+Ken Mihalik, Chair, Financial Administration &
+Audit Committee
+
+Date:
+
+January 10, 2019
+
+Subject:
+
+NMRL Financial Analysis
+
+Board Meeting Date: January 29, 2019
+
+Added to Committee Agenda as a Director initiated request pursuant to RTD Board Bylaws Art. VI,
+Section 1(f). Requires formal motion and second at Committee meeting.
+MOTION
+To have a competent, independent third-party company perform a complete financial analysis to evaluate
+and compare the RTD and Denver Transit Partners proposals for the start-up and first ten years of
+dispatch, operations, and maintenance for the North Metro Rail Line. (NMRL)
+The Board of Directors hereby directs the General Manager to commission a competent, suitable and
+independent agency to perform a complete financial analysis in an amount not to exceed $50,000.
+Subsequent to the complete analysis, a decision will be made by the appropriate RTD committee to
+move an action forward to the Board of Directors who shall vote on which entity shall dispatch, operate,
+and perform maintenance on the North Metro Rail (NMRL).
+The December 2018 action to acquire four additional properties for a North Metro Rail Line Maintenance
+Facility, which will require displacing several businesses, shall be suspended until the Board of Directors
+review and affirm those property acquisitions under state eminent domain law.
+Core Goal #1 – Successful Delivery of Transit Services
+Task Goal #1 – Fiscal Sustainability
+BACKGROUND
+Over the course of the last 16 months the board has received presentations about the NMRL budgets
+while staff sought feedback on who shall dispatch, operate, and maintain this portion of the commuter
+rail line network. The choices presented by staff included operating the North Line internally or
+subcontracting it out to Denver Transit Partners (DTP) under the partner Denver Transit Operators (DTO)
+as an extension to the Eagle P3 concession agreement.
+The RTD Board of Directors, though asked for informal head-nods, never formally voted on the singlesubject of who should run the North Metro Rail Line. Instead, the action was inferred to be accepted by
+our very recent approval of the 2019 budget.
+In January 2019, it was discovered and came to the attention of the RTD Board of Directors that Denver
+Transit Partners submitted a proposal in April 2018 which implies substantial savings if Denver Transit
+
+Packet Pg. 7
+
+1.B.2
+
+Partners dispatch, operate, and maintain the North Metro Rail Line. One major difference between
+RTD’s and DTP’s operational plans is employee headcount. Denver Transit Partners proposal notes they
+would need 71 employees to operate the North Metro Rail Line while RTD’s budget includes 121
+employees to operate the North Metro Rail Line. Some of the employee positions, if the line is operated
+by RTD, appear to be redundant as DTP already operates the A, B, and G Line once opened.
+More questions have arisen that make it difficult to compare cost-benefit, applicable Federal Railroad
+Administration (FRA) regulations related to dispatch operations at Denver Union Station, and a like-to-like
+analysis.
+Furthermore, in December 2018, the RTD Board of Directors authorized acquiring four properties,
+presently occupied by several businesses, to provide for a North Metro Rail Line maintenance facility
+which is only needed if RTD were to self-perform operation and maintenance of the North Metro Rail
+Line. As it is unclear what cost this potentially adds to the North Metro Rail Line self-perform option and
+these property acquisitions would displace several businesses, the property acquisitions under state
+eminent domain law shall be suspended until this action to self-perform operation and maintenance of
+the North Metro Rail Line is affirmed by the current Board of Directors.
+It is in the best interest of constituents, stakeholders, and the Regional Transportation District to hire a
+competent firm to perform a complete financial analysis to ensure that funding is spent in the most
+efficient manner possible while delivering the best service for our riders.
+Additional background documentation will be presented to the board and added to this packet once
+public release is approved.
+FINANCIAL IMPACT
+The complete financial analysis shall cost no more than $50,000. Experienced professionals have
+estimated this analysis may require 80 hours and top-level compensation is estimated at $300 per hour
+
+Prepared by:
+Ken Mihalik, Chair, Financial Administration & Audit Committee
+Natalie Menten, Vice-Chair
+Approved by:
+
+Packet Pg. 8
+
+1.C.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+January 9, 2019
+
+Subject:
+
+November
+Report
+
+2018
+
+CFO/AGM,
+
+Finance
+
+Date: January 9, 2019
+&
+
+GM
+Board Meeting Date: January 15, 2019
+
+Monthly
+
+Financial
+
+Status
+
+Information
+
+ATTACHMENTS:
+
+
+113018 MFS (PDF)
+
+Prepared by:
+Heather McKillop, CFO/AGM, Finance & Administration
+Doug MacLeod, Controller
+Approved by:
+
+Packet Pg. 9
+
+1.C.1.a
+
+MONTHLY FINANCIAL STATUS
+NOVEMBER 2018
+To: Dave Genova, General Manager and CEO
+From: Heather McKillop, CFO and AGM Administration
+Date: January 15, 2019
+
+ACTION
+
+DISCUSSION
+
+INFO
+
+NOVEMBER 2018
+ACTUAL VS.
+BUDGET
+
+YTD 2018
+ACTUAL VS.
+BUDGET
+
+NOVEMBER
+2018 VS. 2017
+
+YEAR TO DATE
+2018 VS. 2017
+
+S&U TAX
+
+S&U TAX
+
+S&U TAX
+
+S&U TAX
+
+1.1%
+
+8.2%
+
+5.8%
+
+RIDERSHIP
+
+RIDERSHIP
+
+RIDERSHIP
+
+-3.4%
+
+-3.5%
+
+-2.0%
+
+FARE
+REVENUE
+
+FARE
+REVENUE
+
+FARE
+REVENUE
+
+-2.3%
+
+1.6%
+
+1.9%
+
+2.4%
+RIDERSHIP
+
+-5.4%
+FARE
+REVENUE
+
+-8.2%
+
+Attachment: 113018 MFS (3708 : November 2018 Monthly Financial Status Report)
+
+x
+
+SALES AND USE TAX
+NOVEMBER 2018
+(In Thousands)
+
+MONTH
+YTD
+
+2018
+ACTUAL
+
+2018
+BUDGET
+
+VARIANCE
+
+VARIANCE %
+
+2017
+ACTUAL
+
+VARIANCE
+TO 2017
+
+VARIANCE
+%
+
+52,805
+571,915
+
+51,584
+565,496
+
+1,221
+6,419
+
+2.4%
+1.1%
+
+48,809
+540,772
+
+3,996
+31,143
+
+8.2%
+5.8%
+
+S&U TAX - YTD
+ACTUAL VS. BUDGET
+
+S&U TAX - NOVEMBER 2018
+ACTUAL VS. BUDGET
+54,000
+
+575,000
+
+53,000
+
+570,000
+
+52,000
+
+565,000
+
+51,000
+
+560,000
+
+50,000
+
+555,000
+
+49,000
+
+550,000
+
+48,000
+
+545,000
+
+47,000
+
+540,000
+
+46,000
+
+535,000
+
+45,000
+2018 ACTUAL
+2018 BUDGET
+2017 ACTUAL
+
+NOVEMBER 2018
+52,805
+51,584
+48,809
+
+530,000
+2018 ACTUAL
+2018 BUDGET
+2017 ACTUAL
+
+JANUARY- NOVEMBER 2018
+571,915
+565,496
+540,772
+
+SALES AND USE TAX TRENDS
+$65.0
+
+2018 Budget
+
+(Millions)
+
+$60.0
+$55.0
+
+2018 Actual
+
+2017 Actual
+
+$50.0
+$45.0
+$40.0
+
+Packet Pg. 10
+
+1.C.1.a
+
+RIDERSHIP
+NOVEMBER 2018
+
+MONTH
+YEAR TO DATE
+
+2018
+VARIANCE VARIANCE %
+BUDGET
+
+7,880
+90,011
+
+8,330
+93,196
+
+(450)
+(3,186)
+
+2017
+ACTUAL
+
+VARIANCE %
+to 2017
+
+8,166
+91,851
+
+-3.5%
+-2.0%
+
+-5.4%
+-3.4%
+
+RIDERSHIP - YTD
+ACTUAL VS. BUDGET
+
+RIDERSHIP - NOV 2018
+ACTUAL VS. BUDGET
+9,000
+
+95,000
+
+8,800
+
+94,000
+
+8,600
+
+93,000
+
+8,400
+
+92,000
+
+8,200
+
+91,000
+
+8,000
+
+90,000
+
+7,800
+7,600
+
+89,000
+
+7,400
+
+88,000
+
+7,200
+
+87,000
+
+7,000
+
+86,000
+
+NOVEMBER 2018
+7,880
+8,330
+8,166
+
+2018 ACTUAL
+2018 BUDGET
+2017 ACTUAL
+
+JANUARY-NOVEMBER 2018
+90,011
+93,196
+91,851
+
+2018 ACTUAL
+2018 BUDGET
+2017 ACTUAL
+
+RIDERSHIP BY TYPE - NOVEMBER 2018
+5,000
+4,500
+4,000
+3,500
+3,000
+2,500
+2,000
+1,500
+1,000
+500
+-
+
+Bus
+4,297
+4,542
+
+NOVEMBER 2018 ACTUAL
+NOVEMBER 2017 ACTUAL
+
+Mall & Metro Ride
+686
+867
+
+Light Rail
+2,180
+2,049
+
+Commuter Rail
+629
+620
+
+Other
+88
+89
+
+RIDERSHIP BY TYPE - YTD
+60,000
+50,000
+40,000
+*
+
+30,000
+
+*
+
+20,000
+10,000
+2018 ACTUAL YTD
+2017 ACTUAL YTD
+
+Bus
+48,927
+50,707
+
+Mall & Metro Ride
+9,570
+10,641
+
+Light Rail
+23,496
+23,004
+
+Commuter Rail
+7,020
+6,506
+
+Other
+997
+993
+
+RIDERSHIP TRENDS
+10.0
+
+(Millions)
+
+2018 Budget
+9.0
+
+2018 Actual
+8.0
+
+2017 Actual
+7.0
+
+Note: R Line Service began 4/24/2017
+
+Packet Pg. 11
+
+Attachment: 113018 MFS (3708 : November 2018 Monthly Financial Status Report)
+
+2018
+ACTUAL
+
+(In Thousands)
+
+1.C.1.a
+
+FARE REVENUE
+NOVEMBER 2018
+(In Thousands)
+
+2018
+ACTUAL
+
+2018
+BUDGET
+
+VARIANCE
+
+11,454
+131,369
+
+12,477
+134,498
+
+(1,023)
+(3,129)
+
+MONTH
+YEAR TO DATE
+
+VARIANCE %
+-8.2%
+-2.3%
+
+FARE REVENUE - NOV 2018
+ACTUAL VS. BUDGET
+
+2017
+ACTUAL
+
+VARIANCE %
+to 2017
+
+11,273
+128,877
+
+1.6%
+1.9%
+
+FARE REVENUE - YTD
+ACTUAL VS. BUDGET
+
+12,600
+
+135,000
+
+12,400
+
+134,000
+
+132,000
+
+12,000
+
+131,000
+11,800
+
+130,000
+
+11,600
+
+129,000
+
+11,400
+
+128,000
+
+11,200
+
+127,000
+
+11,000
+
+126,000
+
+NOVEMBER 2018
+11,454
+12,477
+11,273
+
+2018 ACTUAL
+2018 BUDGET
+2017 ACTUAL
+
+2018 ACTUAL
+2018 BUDGET
+2017 ACTUAL
+
+JANUARY-NOVEMBER 2018
+131,369
+134,498
+128,877
+
+FARE REVENUE - NOVEMBER 2018
+7,000
+6,000
+5,000
+4,000
+3,000
+2,000
+1,000
+FARE BOX
+
+10 RIDE
+
+1,694
+1,955
+
+724
+648
+
+NOVEMBER 2018 ACTUAL
+NOVEMBER 2017 ACTUAL
+
+PASSES
+(ECO/COLLEGE/MONTH
+LY)
+6,046
+6,016
+
+TVMs
+
+MY RIDE/MOBILE TIX
+
+SPECIAL SVCS
+
+1,929
+2,255
+
+987
+329
+
+74
+70
+
+TVMs
+
+MY RIDE/MOBILE TIX
+
+SPECIAL SVCS
+
+24,726
+26,663
+
+9,116
+1,562
+
+382
+438
+
+FARE REVENUE - YTD
+70,000
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+-
+
+2018 ACTUAL YTD
+2017 ACTUAL YTD
+
+FARE BOX
+
+10 RIDE
+
+21,507
+24,146
+
+10,212
+11,460
+
+PASSES
+(ECO/COLLEGE/MONTHL
+Y)
+65,427
+64,609
+
+FARE REVENUE TRENDS
+$14.0
+
+(Millions)
+
+$13.5
+
+2018 Budget
+
+$13.0
+$12.5
+
+2018 Actual
+
+$12.0
+$11.5
+
+2017 Actual
+
+$11.0
+$10.5
+
+Packet Pg. 12
+
+Attachment: 113018 MFS (3708 : November 2018 Monthly Financial Status Report)
+
+133,000
+
+12,200
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF NET POSITION - COMBINED
+NOVEMBER 30, 2018
+(UNAUDITED)
+(In Thousands)
+
+2018
+Base System
+
+2018
+FasTracks Project
+
+2018
+FasTracks Ops
+
+2018
+Combined
+
+December 31, 2017
+Combined
+
+Change
+
+ASSETS
+CURRENT ASSETS:
+Cash & Cash Equivalents
+Receivables:
+Sales Taxes
+Grants
+Other (less allowance for doubtful accts)
+Total Net Receivables
+
+$
+
+44,611
+
+$
+
+205,421
+
+$
+
+38,070
+
+$
+
+288,102
+
+$
+
+392,324
+
+$
+
+(104,222)
+
+63,179
+6,041
+6,904
+76,124
+
+43,046
+7,246
+50,292
+
+-
+
+106,225
+6,041
+14,150
+126,416
+
+106,224
+42,449
+18,223
+166,896
+
+1
+(36,408)
+(4,073)
+(40,480)
+
+31,425
+47,407
+5,975
+205,542
+
+208,559
+77,255
+541,527
+
+235
+38,305
+
+31,425
+255,966
+83,465
+785,374
+
+33,193
+286,685
+53,626
+932,724
+
+(1,768)
+(30,719)
+29,839
+(147,350)
+
+Capital Assets:
+Land
+Land Improvements
+Buildings
+Revenue Earning Equipment
+Shop, Maintenance & Other Equipment
+Construction in Progress
+Total Capital Assets
+Accumulated Depreciation
+Net Capital Assets
+
+171,953
+1,310,651
+292,097
+667,230
+198,663
+160,326
+2,800,920
+(1,401,457)
+1,399,463
+
+448,800
+2,703,427
+341,035
+628,115
+3,945
+1,886,975
+6,012,297
+(598,930)
+5,413,367
+
+-
+
+620,753
+4,014,078
+633,132
+1,295,345
+202,608
+2,047,301
+8,813,217
+(2,000,387)
+6,812,830
+
+742,384
+3,979,316
+604,642
+1,216,116
+289,391
+1,749,244
+8,581,093
+(1,777,056)
+6,804,037
+
+(121,631)
+34,762
+28,490
+79,229
+(86,783)
+298,057
+232,124
+(223,331)
+8,793
+
+TABOR Reserves
+Restricted Debt Service/Debt Service Reserves
+Deposits
+TOTAL NONCURRENT ASSETS
+
+14,260
+27,341
+1,502
+1,442,566
+
+7,272
+60,515
+5,481,154
+
+-
+
+21,532
+87,856
+1,502
+6,923,720
+
+21,320
+87,098
+1,502
+6,913,957
+
+212
+758
+9,763
+
+Inventory
+Restricted Debt Service/Project Funds
+Other Assets
+TOTAL CURRENT ASSETS
+
+(1)
+
+(2)
+
+NONCURRENT ASSETS:
+
+TOTAL ASSETS
+
+$
+
+1,648,108
+
+$
+
+6,022,681
+
+$
+
+38,305
+
+$
+
+7,709,094
+
+$
+
+7,846,681
+
+$
+
+(137,587)
+
+DEFERRED OUTFLOW OF RESOURCES
+
+$
+
+62,954
+
+$
+
+28,257
+
+$
+
+-
+
+$
+
+91,211
+
+$
+
+95,038
+
+$
+
+(3,827)
+
+(3)
+
+(1) Decrease due to timing of grant draws. Majority of preventive maintenance grants are earned towards end of year.
+(2) Increase due to P3 TABOR interest classified as prepaid interest until P3 reaches final completion.
+(3) Increase primarily due to earned value payments on FasTracks projects as well as bus fleet replacement.
+
+Packet Pg. 13
+
+Attachment: 113018 MFS (3708 : November 2018 Monthly Financial Status Report)
+
+1.C.1.a
+
+1.C.1.a
+
+(UNAUDITED)
+(In Thousands)
+
+2018
+Base System
+
+2018
+FasTracks Project
+
+2018
+FasTracks Ops
+
+2018
+Combined
+
+December 31, 2017
+Combined
+
+Change
+
+LIABILITIES
+CURRENT LIABILITIES:
+Accounts & Contracts Payable
+Current Portion of Long Term Debt
+Accrued Compensation
+Accrued Interest Payable
+Other
+TOTAL CURRENT LIABILITIES
+
+$
+
+NONCURRENT LIABILITIES:
+Long Term Debt
+Other Long-Term Liabilities
+Net Pension Liability
+TOTAL NONCURRENT LIABILITIES
+
+36,303
+62,530
+22,586
+6,939
+26,957
+155,315
+
+$
+
+482,557
+72
+384,208
+866,837
+
+13,839
+4,805
+24,324
+2,016
+44,984
+
+$
+
+2,902,920
+421,556
+3,324,476
+
+7,576
+315
+7,891
+
+$
+
+-
+
+57,718
+67,335
+22,586
+31,263
+29,288
+208,190
+
+$
+
+3,385,477
+421,628
+384,208
+4,191,313
+
+108,584
+64,700
+22,787
+18,957
+40,209
+255,237
+
+$
+
+3,456,591
+412,870
+384,208
+4,253,669
+
+(50,866)
+2,635
+(201)
+12,306
+(10,921)
+(47,047)
+
+(4)
+
+(71,114)
+8,758
+(62,356)
+
+(5)
+
+TOTAL LIABILITIES
+
+$
+
+1,022,152
+
+$
+
+3,369,460
+
+$
+
+7,891
+
+$
+
+4,399,503
+
+$
+
+4,508,906
+
+$
+
+(109,403)
+
+DEFERRED INFLOW OF RESOURCES
+
+$
+
+18,925
+
+$
+
+314
+
+$
+
+-
+
+$
+
+19,239
+
+$
+
+19,302
+
+$
+
+(63)
+
+$
+
+$
+
+$
+
+3,507,901
+148,621
+25,735
+(136,569)
+49,428
+1,655
+31,359
+16,659
+25,590
+74,087
+(330,955)
+3,413,511
+
+$
+
+$
+
+3,558,703
+182,972
+24,007
+(225,502)
+84,897
+1,655
+33,350
+12,950
+14,700
+24,786
+(330,955)
+3,381,563
+
+$
+
+$
+
+3,276
+9,046
+9,046
+9,046
+30,414
+
+$
+
+$
+
+2,657,229
+145,431
+5,742
+(225,502)
+84,897
+1,655
+3,904
+3,904
+3,904
+2,681,164
+
+$
+
+$
+
+901,474
+37,541
+14,989
+20,400
+14,700
+11,836
+(330,955)
+669,985
+
+$
+
+50,802
+34,351
+(1,728)
+(88,933)
+35,469
+1,991
+(3,709)
+(10,890)
+(49,301)
+(31,948)
+
+$
+
+1,711,062
+
+$
+
+6,050,941
+
+$
+
+38,305
+
+$
+
+7,800,305
+
+$
+
+7,941,719
+
+$
+
+(141,414)
+
+NET POSITION
+Net Investment in Capital Assets
+Restricted - Debt Service, Projects and Deferrals
+Restricted - TABOR Reserves
+Restricted - FasTracks
+FasTracks Internal Savings Account (FISA)
+Assets Held for Sale
+Board Appropriated Fund
+Capital Replacement Fund
+Unrestricted Operating Reserve/Mgt Reserve
+Unrestricted Fund
+Net Pension Liability - Represented
+TOTAL NET POSITION
+TOTAL LIABILITIES & NET POSITION
+
+-
+
+-
+
+-
+
+-
+
+(6)
+(7)
+
+(8)
+(8)
+(8)
+(8)
+
+-
+
+(4) Decrease due primarily to payment of year end invoice accruals
+(5) Decrease due to principal payments on debt and movement of some debt obligations to Current Portion of Long Term Debt
+(6) Increase due to timing of debt service payments during the year
+(7) Decrease due to obligations being incurred that will be paid in future years with future cash flows
+(8) Change is due to unrestricted funds being redirected to replenish the Board Appropriated and Capital Replacement funds per the 2018 Amended Budget as well as debt payments
+
+Packet Pg. 14
+
+Attachment: 113018 MFS (3708 : November 2018 Monthly Financial Status Report)
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF NET POSITION - COMBINED
+NOVEMBER 30, 2018
+
+1.C.1.a
+
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION - COMBINED
+NOVEMBER 30, 2018
+(UNAUDITED)
+
+OPERATING REVENUE:
+Passenger Fares
+Advertising, Rent and Other
+Total Operating Revenue
+
+YTD
+Base
+System
+Actual
+
+YTD
+Base
+System
+Budget
+
+YTD
+FasTracks
+Project
+Actual
+
+YTD
+FasTracks
+Project
+Budget
+
+YTD
+FasTracks
+Operations
+Actual
+
+YTD
+FasTracks
+Operations
+Budget
+
+YTD
+System
+Wide
+Actual
+
+YTD
+System
+Wide
+Budget
+
+$
+Favorable
+(Unfavorable)
+
+%
+Favorable
+(Unfavorable)
+
+-----------------
+
+-----------------
+
+-----------------
+
+-------------
+
+-----------------
+
+-------------
+
+-----------------
+
+-----------------
+
+-----------------
+
+-------------
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+28,346
+1,610
+29,956
+
+131,369
+7,087
+138,456
+
+134,289
+6,266
+140,555
+
+(2,920)
+821
+(2,099)
+
+-2.2%
+13.1%
+0.0%
+-1.5%
+
+103,046
+5,249
+108,295
+
+105,943
+4,656
+110,599
+
+-
+
+- -
+
+28,323
+1,838
+30,161
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Asset Management
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+FasTracks Service Increase
+Depreciation and Other Non-Departmental
+Total Operating Expenses
+
+252,055
+48,994
+3,390
+33,423
+18,804
+12,067
+36,260
+9,992
+6,408
+632
+(16,824)
+66,713
+471,914
+
+264,814
+60,359
+8,061
+47,956
+21,844
+15,034
+47,384
+11,676
+6,051
+1,066
+(16,824)
+102,215
+569,636
+
+280
+8,438
+193
+288
+5
+16,824
+126,095
+152,123
+
+988
+21,456
+159
+535
+685
+16,824
+116,092
+156,739
+
+36,076
+369
+4,791
+222
+30,643
+72,101
+
+52,263
+390
+6,398
+1,159
+-68
+60,278
+
+252,055
+85,070
+3,670
+42,230
+23,595
+12,260
+36,548
+10,219
+6,408
+632
+223,451
+696,138
+
+264,814
+112,622
+9,049
+69,802
+28,242
+15,193
+47,919
+13,520
+6,051
+1,066
+218,375
+786,653
+
+12,759
+27,552
+5,379
+27,572
+4,647
+2,933
+11,371
+3,301
+(357)
+434
+(5,076)
+90,515
+
+4.8% (1)
+24.5% (2)
+59.4% (3)
+39.5% (4)
+16.5% (5)
+19.3% (6)
+23.7% (7)
+24.4% (8)
+-5.9% (9)
+40.7% (10)
+0.0%
+-2.3%
+0.0%
+11.5%
+
+OPERATING INCOME/(LOSS)
+
+(363,619)
+
+(459,037)
+
+(152,123)
+
+(156,739)
+
+(41,940)
+
+(30,322)
+
+(557,682)
+
+(646,098)
+
+88,416
+
+13.7%
+
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+Net Nonoperating Revenue (Expense)
+
+342,593
+21,903
+5,402
+3,080
+(839)
+(18,662)
+353,477
+
+337,046
+87,510
+2,187
+2,413
+(19,969)
+409,187
+
+161,100
+129
+5,330
+7,565
+610
+(38,955)
+135,779
+
+156,237
+4,200
+8,567
+8,086
+(120,509)
+56,581
+
+68,222
+424
+68,646
+
+68,461
+565
+69,026
+
+571,915
+22,456
+10,732
+10,645
+(229)
+(57,617)
+557,902
+
+561,744
+91,710
+10,754
+11,064
+(140,478)
+534,794
+
+10,171
+(69,254)
+(22)
+(419)
+(229)
+82,861
+23,108
+
+1.8%
+-75.5% (11)
+-0.2%
+-3.8%
+0.0%
+59.0%
+0.0%
+4.3%
+
+INCOME BEFORE CAPITAL GRANTS
+
+(10,142)
+
+(49,850)
+
+(16,344)
+
+(100,158)
+
+26,706
+
+38,704
+
+220
+
+(111,304)
+
+111,524
+
+-100.2%
+
+Capital Grants and Local Contributions
+
+11,681
+
+38,259
+
+35,763
+
+226,205
+
+314
+
+-
+
+47,758
+
+264,464
+
+(216,706)
+
+-81.9%
+
+(105,182)
+
+-68.7%
+
+NONOPERATING REVENUE (EXPENSES)
+
+INCREASE/(DECREASE) IN NET
+POSITION
+
+$
+
+1,539
+
+$
+
+(11,591)
+
+$
+
+19,419
+
+$
+
+126,047
+
+$
+
+27,020
+
+$
+
+38,704
+
+$
+
+47,978
+
+$
+
+153,160
+
+$
+
+(1) Variance is due to lower labor, fuel, parts and purchased transportation
+(2) Variance is due to lower labor, repair parts, outside services and purchased transporation
+(3) Variance is due to lower management services costs primarily related to grant funded projects
+(4) Variance is due to lower contract maintenance costs related to locally and grant-funded projects including Eagle and North Metro
+(5) Variance is due lower outside security services costs
+(6) Variance is due to lower legal services and insured claims costs
+(7) Variance is due to lower hardware, software and outstide IT services costs
+(8) Variance is due to lower labor costs from open positions and lower outstide services costs
+(9) Variance due to purchasing card costs that initially get coded to this cost center until they can be coded to each cost center where they were incurred
+(10) Variance due to lower management services, outside services and travel costs
+(11) Variance is due to FTA delaying draws on the FFGA until G Line issues are resolved
+
+Packet Pg. 15
+
+Attachment: 113018 MFS (3708 : November 2018 Monthly Financial Status Report)
+
+(In Thousands)
+
+1.C.1.a
+
+REGIONAL TRANSPORTATION DISTRICT
+1% SALES AND USE TAX REVENUE - SYSTEM WIDE
+NOVEMBER 30, 2018
+(In Thousands)
+
+Actual
+Budget
+Favorable/(Unfavorable)
+
+February
+2018
+$ 43,872
+45,290
+
+March
+2018
+$ 52,568
+51,708
+
+April
+2018
+$ 50,943
+48,813
+
+May
+2018
+$ 52,889
+52,747
+
+June
+2018
+$ 56,722
+55,896
+
+$
+
+$
+
+$
+
+$
+
+$
+
+860
+
+2,129
+
+142
+
+827
+
+$
+$
+
+July
+2018
+53,363
+51,690
+1,673
+
+August
+2018
+$ 55,534
+54,972
+
+September
+2018
+$
+54,022
+54,067
+
+October
+2018
+$ 54,112
+53,405
+
+November
+2018
+$ 52,805
+51,584
+
+$
+
+$
+
+$
+
+$
+
+(238)
+
+$ (1,418)
+
+% Favorable/(Unfavorable) - Month
+
+-0.5%
+
+-3.1%
+
+1.7%
+
+4.4%
+
+0.3%
+
+1.5%
+
+3.2%
+
+1.0%
+
+562
+
+-0.1%
+
+(46)
+
+1.3%
+
+707
+
+2.4%
+
+% Favorable/(Unfavorable) - YTD
+
+-0.5%
+
+-1.8%
+
+-0.6%
+
+0.7%
+
+0.6%
+
+0.8%
+
+1.1%
+
+1.1%
+
+1.0%
+
+1.0%
+
+1.1%
+
+December
+2018
+$
+60,679
+
+Total Year
+To Date
+$ 571,914
+626,176
+
+1,221
+
+2018 VS. 2017 ACTUALS
+Net Sales & Use Tax Received
+
+January
+
+February
+
+March
+
+April
+
+May
+
+July
+
+August
+
+September
+
+October
+
+November
+
+December
+
+2018
+2017
+
+$
+
+45,085
+42,417
+
+$ 43,872
+42,386
+
+$ 52,568
+48,393
+
+$ 50,943
+47,072
+
+$ 52,889
+50,865
+
+$
+
+June
+56,722
+53,902
+
+$
+
+53,363
+50,296
+
+$ 55,534
+53,490
+
+$
+
+54,022
+52,610
+
+$ 54,112
+50,532
+
+$
+
+52,805
+48,809
+
+$
+
+Change from to 2017
+
+$
+
+$
+
+2,821
+
+$
+
+$
+
+$
+
+3,996
+
+2,668
+
+$ 1,486
+
+$ 4,175
+
+$ 3,871
+
+$ 2,024
+
+3,067
+
+$ 2,044
+
+1,412
+
+$ 3,580
+
+% Increase/(Decrease) by Month vs. 2017
+
+6.3%
+
+3.5%
+
+8.6%
+
+8.2%
+
+4.0%
+
+5.2%
+
+6.1%
+
+3.8%
+
+2.7%
+
+7.1%
+
+8.2%
+
+% Increase YTD vs. 2017
+
+6.3%
+
+4.9%
+
+6.3%
+
+6.8%
+
+6.2%
+
+6.0%
+
+6.0%
+
+5.7%
+
+5.3%
+
+5.5%
+
+5.8%
+
+57,415
+
+Total
+$ 571,914
+598,187
+
+Packet Pg. 16
+
+Attachment: 113018 MFS (3708 : November 2018 Monthly Financial Status Report)
+
+2018 ACTUAL VS. BUDGET
+January
+2018
+$ 45,085
+45,323
+
+1.C.1.a
+
+REGIONAL TRANSPORTATION DISTRICT
+RIDERSHIP
+(UNAUDITED)
+
+Fixed Route
+Flatiron Flyer
+Call-n-Ride
+Total Bus Service
+C Line
+D Line
+E Line
+F Line
+H Line
+L Line1
+R Line
+
+W Line
+Total Light Rail
+A Line
+B Line
+G Line
+Total Commuter Rail
+
+Jan
+4,166
+263
+41
+4,469
+
+Feb
+3,891
+250
+39
+4,179
+
+Mar
+4,216
+269
+41
+4,526
+
+Apr
+4,205
+275
+41
+4,522
+
+May
+4,228
+270
+41
+4,539
+
+June
+3,745
+271
+36
+4,052
+
+July
+3,816
+264
+36
+4,116
+
+Aug
+4,340
+291
+43
+4,674
+
+Sep2
+4,188
+289
+40
+4,517
+
+Oct
+4,672
+317
+47
+5,036
+
+Nov
+3,991
+266
+40
+4,297
+
+YTD 2018
+45,458
+3,024
+446
+48,927
+
+YTD 2017
+47,445
+2,815
+447
+50,707
+
+202
+337
+350
+242
+404
+49
+144
+322
+
+239
+243
+333
+245
+436
+80
+150
+340
+
+252
+267
+352
+257
+460
+82
+142
+353
+
+275
+315
+372
+270
+443
+72
+145
+359
+
+181
+265
+353
+247
+422
+74
+153
+328
+
+176
+254
+417
+233
+386
+77
+160
+341
+
+164
+256
+387
+244
+392
+73
+158
+357
+
+214
+261
+420
+263
+406
+72
+172
+372
+
+214
+261
+420
+263
+406
+44
+144
+395
+
+234
+296
+414
+279
+506
+66
+159
+402
+
+198
+275
+393
+286
+433
+69
+146
+381
+
+2,349
+3,029
+4,211
+2,830
+4,693
+759
+1,673
+3,951
+
+1,177
+4,996
+4,336
+2,667
+4,580
+1,313
+3,935
+
+1,172
+(1,966)
+(125)
+163
+114
+759
+360
+15
+
+99.6%
+-39.4%
+-2.9%
+6.1%
+2.5%
+0.0%
+27.4%
+0.4%
+
+2,052
+
+2,066
+
+2,165
+
+2,251
+
+2,023
+
+2,045
+
+2,033
+
+2,179
+
+2,146
+
+2,356
+
+2,180
+
+23,496
+
+23,004
+
+492
+
+2.1%
+
+540
+44
+-
+
+487
+39
+-
+
+568
+46
+-
+
+566
+49
+-
+
+582
+49
+-
+
+607
+53
+-
+
+620
+52
+-
+
+659
+57
+-
+
+644
+55
+-
+
+628
+47
+-
+
+588
+42
+
+6,488
+533
+-
+
+6,066
+440
+-
+
+421
+93
+-
+
+6.9%
+21.2%
+0.0%
+
+Change
+% Change
+(1,987)
+-4.2%
+209
+7.4%
+(2)
+-0.4%
+(1,780)
+-3.5%
+
+584
+
+525
+
+615
+
+615
+
+631
+
+660
+
+672
+
+716
+
+699
+
+675
+
+629
+
+7,020
+
+6,506
+
+515
+
+7.9%
+
+7,105
+
+6,771
+
+7,305
+
+7,389
+
+7,193
+
+6,757
+
+6,820
+
+7,569
+
+7,362
+
+8,067
+
+7,106
+
+79,444
+
+80,217
+
+(774)
+
+-1.0%
+
+Mall Shuttle
+MetroRide
+Access-a-Ride
+Access-a-Cab
+Vanpool
+Total Other Services
+
+804
+73
+62
+12
+18
+969
+
+738
+71
+58
+11
+16
+895
+
+921
+81
+65
+12
+18
+1,097
+
+856
+79
+53
+11
+17
+1,016
+
+861
+77
+66
+12
+18
+1,034
+
+927
+68
+61
+11
+18
+1,085
+
+947
+62
+62
+11
+18
+1,100
+
+884
+66
+66
+13
+18
+1,047
+
+606
+57
+59
+11
+15
+747
+
+635
+71
+68
+12
+17
+803
+
+625
+61
+62
+11
+16
+774
+
+8,802
+768
+683
+127
+187
+10,567
+
+9,975
+665
+677
+132
+184
+11,634
+
+(1,173)
+103
+6
+(5)
+3
+(1,067)
+
+-11.8%
+15.4%
+1.0%
+-3.9%
+1.4%
+-9.2%
+
+Total System
+
+8,074
+
+7,666
+
+8,403
+
+8,405
+
+8,227
+
+7,842
+
+7,920
+
+8,616
+
+8,109
+
+8,870
+
+7,880
+
+90,011
+
+91,851
+
+(1,840)
+
+-2.0%
+
+Total Revenue Service
+
+1
+
+The L Line opened for revenue service with the January 2018 runboard
+
+Packet Pg. 17
+
+Attachment: 113018 MFS (3708 : November 2018 Monthly Financial Status Report)
+
+2018 RIDERSHIP (in Thousands)
+
+1.C.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+January 9, 2019
+
+Subject:
+
+Smart Card and Mobile Ticketing Update
+
+CFO/AGM,
+
+Finance
+
+Date: January 9, 2019
+&
+
+GM
+Board Meeting Date: January 15, 2019
+Information
+
+DISCUSSION
+Smart Media Technology
+The Smart Card Program is an Electronic Fare Collection and Payment System designed to increase fare
+payment convenience for our customers, reduce and optimize fare collection costs for the agency and
+reduce fraud associated with paper based fare media. The contract was signed with Xerox Transport
+Solutions, Inc. (now Conduent) in mid-2010. A smart card is a plastic card onto which customers load
+and reload RTD fare products. There are currently 4 products; EcoPass, CollegePass, Neighborhood
+EcoPass and MyRide Stored Value available on the smart card.
+All bus and rail validator installations are complete. Additional validators will be installed as new buses
+and rail stations are commissioned into service.
+The Smart Card Program launched to EcoPass, CollegePass and Neighborhood EcoPass customers on
+January 1, 2013. There are approximately 343,330 active cards in circulation. During the month of
+December 2018, 1.37M taps were recorded.
+Starting the morning of January 4, 2016 MyRide Stored Value cards were dispersed to the public pilot
+program participants at the RTD retail outlets. On Wednesday May 17, 2017, the MyRide web portal
+went live to the pilot participants and on May 24, 2017, the MyRide web portal was launched to the
+public. As of December 2018, approximately 34,340 cards were issued, of which 25,580 (74%) were
+full fare cards and 8,770 (26%) were discounted cards. The average stored value loaded (initial
+purchases and reloads) was $39.92, with a total value loaded of $5,097,800. There were nearly
+1,616,420 trips taken using these MyRide cards, with a fare payment value of $4,272,100. Of these
+trips: 78% were local, 19% regional and 3% airport.
+Additional value can be loaded onto the card online, at RTD sales outlets and at retail outlets (Safeway
+and King Soopers). As of June 1, 2017, customers can load cash value onto their MyRide cards at 47
+Safeway retail stores. Since launch, Safeway has processed $88,370 in cash value loads. As of July 1,
+2017, customers can load cash value onto MyRide cards at 86 King Soopers retail stores. Since launch,
+King Soopers has processed $73,900 in cash value reloads.
+On February 23, 2018, the MyRide program was expanded by offering customers the option to get a
+new MyRide card and load initial cash value at Safeway locations. Since go-live, Safeway has loaded
+1,937 MyRide cards, totaling $63,280 in sales. There are active discussions to expand the program at
+King Soopers locations.
+
+Packet Pg. 18
+
+1.C.2
+
+Program Monitoring and Decision Points (Next 3 months)
+
+
+
+
+
+
+
+
+January 18th
+February 1st
+February 15th
+February 15th
+March 8th
+March 22nd
+April 5th
+
+Element
+
+Program Monitoring Report to AGMs
+Program Monitoring Report to AGMs
+Program Monitoring Report to AGMs
+Program Monitoring Report to AGMs
+Program Monitoring Report to AGMs
+Program Monitoring Report to AGMs
+Program Monitoring Report to AGMs
+
+Status
+
+Prior Period Activities
+
+Next Period Activities
+
+Program Components
+
+2019 Fare
+Change
+
+MyRide Public
+Web Portal –
+Deferred
+Functionality
+
+System changes to implement
+the fare changes, Youth discount
+and 3-hour pass were success.
+No issues were reported.
+
+
+Green
+
+
+Yellow
+(no change)
+
+Additional Smart Card system
+enhancements are planned for
+2Q 2019 to support the fare
+change.
+RTD staff completed
+requirement elicitation
+exercise for auto recharge
+functionality.
+Web Portal deferred
+functionality development
+efforts reprioritized to focus
+on MyRide PCI based on risk
+& 2019 Fare Change
+Activities
+
+Currently working on planning
+activities.
+
+Packet Pg. 19
+
+1.C.2
+
+Element
+
+Status
+
+Prior Period Activities
+
+Next Period Activities
+
+Program Components
+External (Vendors)
+NewPush - Remediated items
+from their PCI security audit
+and provided Attestation of
+Compliance.
+
+
+PCI Compliance
+
+Green
+(change
+from
+Yellow)
+
+Conduent - Completing
+remaining items for PCI
+compliance with the next
+MyRide web portal software
+release.
+Braintree – Provided
+Attestation of Compliance.
+Internal (RTD)
+RTD continues to work to
+remediate internal PCI
+compliance for nonapplication issues.
+
+Ride SponsorAdmin Portal
+and Back Office
+Portal Upgrade
+
+
+Yellow
+(no change)
+
+To address cybersecurity
+issues and to extend the life
+of the system, the
+middleware and framework
+software must be upgraded
+for this portal functionality.
+High-level requirements
+gathering exercise is
+complete.
+
+PCI compliance software
+released to the public on
+9/20/2018. One issue was
+reported and corrected within 30
+days.
+RTD completed internal deep dive
+security scan and found 0 high or
+critical priority items following
+this release.
+Disaster Recovery testing and
+Incident Response Plan Training
+completed.
+
+The design effort for this
+software upgrade stalled in 4Q
+2018 due to Conduent resource
+challenges. Working with
+Conduent to restart design effort.
+
+Packet Pg. 20
+
+1.C.2
+
+Element
+
+Status
+
+Prior Period Activities
+
+Next Period Activities
+
+Program Components
+Reliability, Maintainability and
+Accuracy Test (RMAT)
+Phase I: Hardware.
+Timeline: Oct 5th to Dec
+7th 2016
+
+Program
+Completion
+
+
+Yellow
+(no change)
+
+RMAT Phase I testing
+passed on March 28,
+2017, with exception to
+Platform Validator screen
+issue (some screens turn
+dark during the day due to
+exposure to heat and
+sunlight). Screen issue will
+be remediated through the
+Notice to Cure procedure.
+Platform validator screen
+testing concluded in Oct
+2017. Platform validator
+screen hardware
+engineering analysis
+delivered in May 2018.
+Conduent proposed
+replacing the existing LCD
+screen with a transflective
+LCD screen, which would
+offer better readability and
+durability to UV light and
+heat. Phase II: MyRide
+Web Portal. Timeline:
+Completed.
+
+RTD and Conduent formulating a
+plan for continued roll-out and
+testing for summer 2019
+
+Platform validator purchase for
+SERE and NM will have the new
+transflective LCD screens
+installed.
+Complete RMAT Phase II
+completed with no issues.
+
+Phase III: Admin/Ride
+Sponsor Web Portal.
+Timeline: TBD
+Final System Acceptance TBD
+Status Indicator Legend
+(Green) No current or anticipated issues impacting scope, budget or schedule
+
+(Yellow) Current or anticipated issue with minor variance in scope, possible increase in budget or
+possible delay
+(Red) Project is at risk in one or more areas (cost, schedule, resources) and progress is delayed.
+Action must be taken to remediate the problem.
+
+Packet Pg. 21
+
+1.C.2
+
+Mobile Ticketing
+The mobile ticketing app was launched to the public on November 1, 2017, and was very well received.
+Mobile ticketing Fare inspection app was released in August. Full fare and senior and individual with
+disabilities discount 3-hour pass and Monthly pass went on sale in November 2018 in preparation for the
+2019 fare change. Youth mobile ticketing products (3-hour pass, Day pass and Monthly pass) went on
+sale on Jan 1, 2019. Percent of fare revenue, for mobile ticketing products, continue to grow and
+exceed expectations.
+VALUE of tickets sold
+Local 3
+Hour
+Discount
+$
+- $
+$
+- $
+$
+- $
+$
+- $
+$
+- $
+$
+- $
+$
+- $
+$
+- $
+$
+- $
+$
+- $
+$
+- $
+$
+- $
+$ 35,700 $ 3,900
+$ 89,500 $10,300
+$ 125,200 $14,200
+Local 3
+Hour
+
+Nov-17
+Dec-17
+Jan-18
+Feb-18
+Mar-18
+Apr-18
+May-18
+Jun-18
+Jul-18
+Aug-18
+Sep-18
+Oct-18
+Nov-18
+Dec-18
+Total
+
+Reg 3
+Reg 3
+Hour
+Hour Discount
+$
+- $
+$
+- $
+$
+- $
+$
+- $
+$
+- $
+$
+- $
+$
+- $
+$
+- $
+$
+- $
+$
+- $
+$
+- $
+$
+- $
+$ 9,800 $ 800
+$25,000 $ 1,900
+$34,800 $ 2,700
+
+Local Day
+Pass
+$
+42,200
+$
+80,400
+$ 131,500
+$ 143,300
+$ 190,800
+$ 210,400
+$ 228,100
+$ 261,300
+$ 277,100
+$ 302,700
+$ 294,300
+$ 309,700
+$ 251,300
+$ 193,300
+$ 2,916,400
+
+Local Day
+Pass
+Discount
+$ 5,300
+$ 11,000
+$ 19,400
+$ 22,100
+$ 30,500
+$ 31,200
+$ 36,900
+$ 43,000
+$ 48,500
+$ 56,300
+$ 55,300
+$ 59,600
+$ 46,800
+$ 30,500
+$496,400
+
+Reg/AP Day
+Pass
+$ 62,500
+$ 116,500
+$ 142,300
+$ 153,800
+$ 203,500
+$ 221,000
+$ 257,100
+$ 299,600
+$ 315,400
+$ 341,800
+$ 345,900
+$ 365,600
+$ 352,400
+$ 325,200
+$ 3,502,600
+
+Reg/AP
+Day Pass
+Discount
+$ 5,200
+$ 8,400
+$ 10,600
+$ 9,800
+$ 16,100
+$ 16,800
+$ 18,400
+$ 22,700
+$ 24,300
+$ 25,300
+$ 25,400
+$ 27,000
+$ 24,400
+$ 21,400
+$255,800
+
+Local
+Monthly
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$ 10,600
+$ 37,300
+$ 47,900
+
+Local
+Monthly
+Discount
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$ 1,200
+$ 3,700
+$ 4,900
+
+Reg
+Monthly
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$ 8,600
+$ 24,100
+$ 32,700
+
+Reg
+Monthly
+Discount
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+700
+$ 1,500
+$ 2,200
+
+Oct-18
+
+Nov-18
+
+Increase
+Total
+$ 115,200
+$ 216,300 87.8%
+$ 303,800 40.5%
+$ 329,000
+8.3%
+$ 440,900 34.0%
+$ 479,400
+8.7%
+$ 540,500 12.7%
+$ 626,600 15.9%
+$ 665,300
+6.2%
+$ 726,100
+9.1%
+$ 720,900
+-0.7%
+$ 761,900
+5.7%
+$ 746,200
+-2.1%
+$ 763,700
+2.3%
+$7,435,800
+
+% of Fare
+Rev
+1.0%
+1.8%
+2.6%
+3.1%
+3.7%
+4.0%
+4.5%
+5.4%
+5.5%
+5.4%
+5.8%
+6.2%
+6.5%
+
+Value of Mobile Tickets Sold
+$900,000
+
+$800,000
+$700,000
+$600,000
+$500,000
+
+$400,000
+$300,000
+$200,000
+
+$100,000
+$Nov-17
+
+Dec-17
+
+Jan-18
+
+Feb-18
+
+Mar-18
+
+Apr-18
+
+May-18
+
+Jun-18
+
+Jul-18
+
+Aug-18
+
+Sep-18
+
+Local 3 Hour
+
+Local 3 Hour Discount
+
+Reg 3 Hour
+
+Reg 3 Hour Discount
+
+Local Day Pass
+
+Local Day Pass Discount
+
+Reg/AP Day Pass
+
+Reg/AP Day Pass Discount
+
+Local Monthly
+
+Local Monthly Discount
+
+Reg Monthly
+
+Reg Monthly Discount
+
+Dec-18
+
+Packet Pg. 22
+
+1.C.2
+NUMBER of Tickets Sold
+Local 3
+Local 3
+Hour
+Hour Discount
+Nov-17
+Dec-17
+Jan-18
+Feb-18
+Mar-18
+Apr-18
+May-18
+Jun-18
+Jul-18
+Aug-18
+Sep-18
+Oct-18
+Nov-18
+13,700
+3,000
+Dec-18
+34,400
+7,900
+Total
+48,100 10,900
+
+Reg 3
+Hour
+Discount
+2,200
+400
+5,600
+900
+7,800
+1,300
+
+Reg 3
+Hour
+
+Local Day
+Reg/AP Day
+Local Day
+Pass
+Reg/AP Day
+Pass
+Pass
+Discount
+Pass
+Discount
+8,100
+2,000
+7,000
+1,200
+15,500
+4,200
+12,900
+1,900
+25,300
+7,500
+15,800
+2,400
+27,500
+8,500
+17,100
+2,200
+36,700
+11,700
+22,600
+3,600
+40,500
+12,000
+24,600
+3,700
+43,900
+14,200
+28,500
+4,100
+50,200
+16,500
+33,300
+5,100
+53,300
+18,600
+35,100
+5,400
+58,200
+21,700
+38,000
+5,600
+56,600
+21,300
+38,400
+5,600
+59,600
+22,900
+40,600
+6,000
+48,300
+18,000
+39,200
+5,400
+37,200
+11,700
+36,100
+4,700
+560,900 190,800
+389,200
+56,900
+
+Local
+Monthly
+
+Local
+Monthly
+Discount
+
+Reg
+Monthly
+
+Reg
+Monthly
+Discount
+
+100
+355
+455
+
+25
+70
+95
+
+50
+131
+181
+
+8
+16
+24
+
+Total
+18,300
+34,500
+51,000
+55,300
+74,600
+80,800
+90,700
+105,100
+112,400
+123,500
+121,900
+129,100
+130,383
+139,072
+1,266,655
+
+Increase
+88.5%
+47.8%
+8.4%
+34.9%
+8.3%
+12.3%
+15.9%
+6.9%
+9.9%
+-1.3%
+5.9%
+1.0%
+6.7%
+
+Number of Mobile Tickets Sold
+160,000
+140,000
+
+120,000
+100,000
+80,000
+60,000
+40,000
+
+20,000
+Nov-17
+
+Dec-17
+
+Jan-18
+
+Local 3 Hour
+Local Day Pass
+Local Monthly
+
+Feb-18
+
+Mar-18
+
+Apr-18
+
+May-18
+
+Local 3 Hour Discount
+Local Day Pass Discount
+Local Monthly Discount
+
+Jun-18
+
+Jul-18
+
+Aug-18
+
+Reg 3 Hour
+Reg/AP Day Pass
+Reg Monthly
+
+Sep-18
+
+Oct-18
+
+Nov-18
+
+Dec-18
+
+Reg 3 Hour Discount
+Reg/AP Day Pass Discount
+Reg Monthly Discount
+
+Prepared by:
+Heather McKillop, CFO/AGM, Finance & Administration
+Tonya Anderson, SMT Project Administrator
+Approved by:
+
+Packet Pg. 23
+
+1.C.3
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+January 9, 2019
+
+Subject:
+
+2019 Fare Change Update
+
+CFO/AGM,
+
+Finance
+
+Date: January 9, 2019
+&
+
+GM
+Board Meeting Date: January 15, 2019
+Information
+
+BACKGROUND
+RTD commits to reviewing its Fare Structure and Fare Programs every three years to determine if any
+additions or changes are required to provide the best options for RTD ridership and meet RTD’s revenue
+targets. Over 20 months ending in mid-2018, the Pass Working Group and RTD staff reviewed all fares
+and fare programs to define potential fare changes and improvements, RTD staff presented a
+recommendation to the RTD Board of Directors and received approval mid-September 2018. The goal of
+this project was to implement changes to the RTD Fares, Fare Structure, changes and additions to the
+Fare Programs as approved by the RTD Board of Directors.
+2019 Approved Changes Summary:
+ Cash Fare: $3 Local / $5.25 Regional / $10.50 Airport.
+ 3-Hour Pass: These fares allow riders to travel for three hours in any direction. This change
+replaces the three-hour one-way transfer or ticket.
+ Retain ticket book and MyRide discount with modifications (Riders purchasing a 10-ride ticket
+book or paying with a MyRide smart card will receive a discount)
+ The youth discount will increase from 50 percent to 70 percent and will be solely age-based
+(ages 6-19).
+ Utilization pricing for pass programs: Pricing for EcoPass, Neighborhood EcoPass, and CollegePass
+will now be priced based upon trips taken.
+ EcoPass: Other updates to pricing based on changes in service levels and employer categories.
+ FlexPass: Discontinue program discount. Employers and employees pay regular monthly pass
+price.
+ New Low-Income Program (Targeting Summer 2019)
+DISCUSSION
+Each year, RTD provides free rides to the public the night of New Year’s Eve and into New Year’s Day.
+Any fare changes for the New Year are effective immediately thereafter. This year, rides were free on
+all services beginning at 7:00 p.m. on December 31st through the full service day on New Year’s Day
+ending at 2:59 a.m. on January 2nd. The new 2019 fare rates and fare media were successfully
+implemented and made available to the public for the beginning of the service day on January 2nd. Only
+very minor issues arose during the implementation and each issue was immediately rectified.
+Fare change implementations impact virtually every area of RTD as well as our customers and involve
+significant effort to plan, coordinate and implement.
+
+Packet Pg. 24
+
+1.C.3
+
+Below is a list of system and business impacts, all of which RTD has effectively addressed.
+
+System Impact of Fare Change
+Smart Card E-Fare
+Payment System
+(SMT)
+
+SMT - Rail Validators
+
+Mobile Ticketing
+
+Yahoo Store (Online ticket book
+and Pass sales)
+
+SMT - MyRide Portal
+
+SMT - Smart Media
+Encoder (SME)
+
+FareBox
+
+360 Media (FlexPass)
+
+SMT - Admin Portal
+
+SMT - Fare
+Enforcement App
+(HSMR)
+
+Ticket Vending
+Machines
+
+Aloha System (RTD Outlet Point
+of Sale)
+
+SMT - Retail Point of
+Sales (RPOS)
+
+SMT – Youth Card
+Stock
+
+Pass Vending
+Machines
+
+ERP System (Oracle)
+
+SMT - Admin Point of
+Sales (APOS)
+
+CAD / AVL System
+
+Ticket Book Vending
+Machines
+
+Web ID (Proof of eligibility cards)
+
+SMT - Bus Validators
+
+Bus Printers
+
+Gateway System
+w/Galaxy Software
+(Sports Events)
+
+IT Reporting
+
+Business Impacts of Fare Change
+Paper Tickets and
+Passes
+
+Marketing & RTD
+Website
+
+Public Relations
+
+Trailblazer Book Updates
+
+Training
+
+New ECO & NECO
+Contracts
+
+Reporting
+
+Bus Operations
+
+LOW INCOME PROGRAM
+RTD is working with the State’s Office of Information Technology (OIT) to implement a program for
+evaluating RTD rider’s eligibility for the low income program using the State’s public benefits software
+system. RTD staff have been meeting with employees from various departments and the OIT every
+week for several months. The following has been completed:
+
+
+
+High level requirements have been provided to the State
+RTD has received a level of effort cost estimate from the State’s technology vendor for the
+vendor’s portion of the work
+Next Steps
+ Anticipate receiving the remaining cost estimate and timeline for delivery from the State by
+January 11th
+ RTD will need to review total cost estimate and see if fits within the RTD identified budget
+ RTD will need to review the timeline once received
+ Once the timeline and budget have been agreed upon we can finalize and execute the
+Intergovernmental Agreement (IGA) with the State
+ Once the (IGA) is executed we can begin final design documents and the state’s vendor can
+begin work
+
+Packet Pg. 25
+
+1.C.3
+
+Prepared by:
+Heather McKillop, CFO/AGM, Finance & Administration
+Approved by:
+
+Packet Pg. 26
+
+

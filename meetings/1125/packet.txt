@@ -1,0 +1,5221 @@
+1600 Blake Street
+Denver, CO 80202-1399
+303/299-2303
+
+Regional Transportation District
+
+Board of Directors
+Chair – Lorraine Anderson, District L
+First Vice Chair – Kent Bagley, District H
+Second Vice Chair – Larry Hoy, District J
+Secretary – Bruce Daly, District N
+Treasurer – Jeff Walker, District D
+Barbara Deadwyler, District B
+Dr. Claudia Folska, District E
+Bill James, District A
+Gary Lasater, District G
+Judy Lubow, District I
+
+Angie Rivera-Malpiede, District C
+Natalie Menten, District M
+Paul Daniel Solano, District K
+John Tayer, District O
+Tom Tobiassen, District F
+
+AGENDA
+Financial Administration and Audit Committee/Operations and Customer Service
+Committee
+Tuesday, January 15, 2013
+Rooms R, T, & D
+5:30 PM
+Conference Dial-in # 303-299-2663
+Conference ID: 15120
+
+Financial Administration and Audit Committee
+Chaired by Bill James
+
+A. Recommended Actions
+
+• Oracle Hardware and Software Contract Approval
+B. Updates
+
+• CU Leeds Sales and Use Tax Forecast Update – No Backup
+• Web and Document Accessibility Briefing
+• November 2012 Monthly Financial Status Report
+C. Other Matters
+D. Next Meeting Date - February 12, 2013
+E. Adjourn to Operations and Customer Service Committee
+
+Operations and Customer Service Committee
+
+Chaired by Tom Tobiassen
+
+A. Recommended Actions
+
+• Purchase of Up to 34 Mall Shuttle Buses
+• April 2013 Service Change
+B. Updates
+
+• Radio and Computer Aided Dispatch and Automatic Vehicle Location
+(CAD/AVL) Project Status Update
+
+• Smart Card Project Status Update
+C. Other Matters
+D. Next Meeting Date - February 12, 2013
+E. Adjourn
+
+The following communication assistance is available for public meetings:
+ Language Interpreters
+ Sign-language Interpreters
+ Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 hours in advance of a RTD
+meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+1.A.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: January 10, 2013
+
+From:
+
+Terry Howerter, Chief Financial Officer
+
+GM
+
+Date:
+
+January 10, 2013
+
+Board Meeting Date: January 15, 2013
+
+Subject:
+
+Oracle Hardware
+Approval
+
+and
+
+Software
+
+Contract
+
+RECOMMENDED ACTION
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors authorize the
+General Manager, or his designee, to execute all documents necessary to award a contract (22DJ010) to DLT solutions
+LLC in the amount of $2,020,472 for Oracle hardware, software and services.
+BACKGROUND
+RTD’s current core server and data storage infrastructure reached its end of useful life of 5 years in early 2012. This
+procurement is part of a 5 year IT strategic plan included in the 2012 and 2013 strategic budget plan (SBP).
+To meet operational requirements of the many new systems, RTD’s business applications have increasingly required
+more processing and storage capacity, higher availability and recovery capabilities.
+With this foundational hardware and software, over the next 12 months, the Information Technology team will be able
+to consolidate over 30 servers into just 6 servers, increase system and application performance by over 600% and
+provide critical system failover and disaster recovery.
+RTD currently runs all critical business and operational systems using Oracle hardware and software. Below is a list,
+although not all inclusive, of the services impacted by this procurement:
+1. RTD’s finance, accounts receivable/payable, payroll and budgeting
+2. Human resources employee management, benefits and recruiting
+3. Purchase requisition, procurement, contracts and RTD’s inventory and warehousing
+4. State of Good Repair (SoGR)
+5. Rail and bus maintenance and work order system, operator management system
+6. Intelligent transportation systems (ITS) such as Trip Planner, Farebox, Smartcard, CAD/AVL, passenger
+information display, Internet and Intranet web and mobile applications
+DISCUSSION
+RTD received proposals from 2 vendors (DLT Solutions LLC and Mythics) for Invitation for Bid (IFB) No. 22DJ010. The
+responsible low bidder was DLT Solutions LLC.
+RTD is in various stages of implementing many new systems and upgrades to support the Fastracks program, our riders
+as well as our operations and business staff. The hardware and software included in this contract will provide RTD the
+core foundation that will enable us to continue to:
+1. Create operational efficiencies throughout the District
+2. Provide new services to our riders and constituents such as real time passenger information and automatic stop
+announcements
+3. Improve access to information including reporting and information analytics
+4. Reduce system lifecycle support costs
+
+Packet Pg. 3
+
+1.A.1
+
+5. Improve new software release quality assurance (QA) testing
+6. Dramatically improve system performance and reliability
+7. Provide the required hardware and software licensing infrastructure for continuation of operations disaster
+recovery site located at the State of Colorado disaster recovery site (eFort)
+The scope of this procurement includes the following:
+ One additional engineered Oracle database server and storage (Exadata) plus required database licenses and 1
+year of maintenance.
+ Two engineered application servers and storage (Exalogic) plus required licenses and 1 year of maintenance.
+ Foundation software licenses plus maintenance for real time passenger information systems.
+ Foundation software licenses plus maintenance for an enterprise data warehouse.
+ Software licenses plus maintenance for advanced reporting and business intelligence.
+ Software licenses plus maintenance to provide business operations efficiency such as automating the purchase
+requisition to DBE and contracts through accounts payable final invoice payment (procure to pay).
+ Oracle advanced customer services to provide:
+o Expert assessments and recommendations, incorporating best practices throughout the deployment and
+asset lifecycle from Oracle advanced support engineers.
+o Installation and configuration services for all hardware and associated software.
+o Proactive quarterly patch and upgrade services for all hardware and software throughout the lifecycle of
+assets.
+FINANCIAL IMPACT
+Cost to the District for this long term foundational hardware and software is $2,020,472. Funding has been
+appropriated in the 2013 IT operational expense budget.
+ALTERNATIVES
+Approve the request to replace legacy hardware and associated software licensing and continue to:
+ Create operational efficiencies throughout the District
+ Provide new services to our riders and constituents such as real time passenger information and automatic stop
+announcements
+ Improve access to information including reporting and information analytics
+ Reduce system lifecycle support costs
+ Improve new software release quality assurance (QA) testing
+ Dramatically improve system performance and reliability
+ Provide the required hardware and software licensing infrastructure for continuation of operations disaster
+recovery site located at the State of Colorado disaster recovery site (eFort)
+This is the recommendation from staff.
+Do not approve the request and procure the necessary hardware and software over a few additional years which would
+require RTD to:
+
+
+
+
+Accept the inherent risk of prolonged system outages due to hardware which is beyond its useful life
+Delay the rollout of various business and rider services such as procure to pay automation and real time
+passenger information
+Delay portions of the program for State of Good Repair
+
+Packet Pg. 4
+
+1.A.1
+
+
+
+Delay advanced reporting and business intelligence for simpler access to information and reduce the need for
+spreadsheets
+
+RESULT:
+MOVER:
+SECONDER:
+AYES:
+ABSENT:
+
+PASSED [UNANIMOUS]
+Bill James, Director, District A
+Tom Tobiassen, Director, District F
+Anderson, Bagley, Daly, Deadwyler, Folska, Hoy, James, Lasater, Lubow, Menten,
+Rivera-Malpiede, Solano, Tobiassen, Walker
+John Tayer
+
+Prepared by:
+Trent Ratcliff, Senior Manager
+Approved by:
+
+Packet Pg. 5
+
+1.B.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: January 10, 2013
+
+From:
+
+Terry Howerter, Chief Financial Officer
+
+GM
+
+Date:
+
+January 10, 2013
+
+Board Meeting Date: January 15, 2013
+
+Subject:
+
+CU Leeds Sales and Use Tax Forecast Update
+– No Backup
+
+Prepared by:
+Terry Howerter, Chief Financial Officer
+Approved by:
+
+Packet Pg. 6
+
+RTD Sales and Use Tax
+Forecasting Model
+Robert McNown
+Richard Wobbekind
+Miles Light
+Brian Lewandowski
+
+Business Research Division • Leeds School of Business • University of Colorado
+
+January 15, 2013
+Packet Pg. 7
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+Presentation Outline
+•
+•
+•
+•
+•
+
+Model development
+Economic drivers
+Uncertainty
+Forecasts and revisions
+Comparison with Colorado Legislative Council and OSPB
+
+Business Research Division • Leeds School of Business • University of Colorado
+
+2
+Packet Pg. 8
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+Model Development
+•
+
+Short term, medium term forecasts:
+– Employment
+– Personal income
+– Retail sales and taxable sales
+
+•
+
+Long term forecasts:
+– Population projections from U.S. Census and State Demography Office
+– Population age distributions affect savings, labor supply, output, and
+household expenditures.
+
+Business Research Division • Leeds School of Business • University of Colorado
+
+3
+Packet Pg. 9
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+Total Employment
+
+Denver-Aurora-Broomfield & Boulder MSAs
+Thousands
+1,440
+1,420
+
+55 Months
+
+72 Months
+
+1,400
+1,380
+1,360
+1,340
+1,320
+1,300
+1,280
+1,260
+1,240
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+Source : Bureau of Labor Statistics, CES (Seasonally Adjusted).
+
+Business Research Division • Leeds School of Business • University of Colorado
+
+2010
+
+2011
+
+2012
+
+4
+Packet Pg. 10
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+District Total Nonfarm Wages,
+4Q Rolling Sum
+$ Millions
+
+District Total Nonfarm Wages, 4Q Rolling Sum
+Denver-Aurora-Broomfield & Boulder MSAs
+
+75,000
+70,000
+65,000
+60,000
+55,000
+50,000
+Q1 2002
+
+Q1 2004
+
+Q1 2006
+
+Q1 2008
+
+Q1 2010
+
+Source: Bureau of Labor Statistics, QCEW.
+Note: includes Adams, Arapahoe, Boulder, Broomfield, Denver, Douglas, and Jefferson counties.
+
+Business Research Division • Leeds School of Business • University of Colorado
+
+Q1 2012
+
+5
+Packet Pg. 11
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+Personal Income
+
+United States and Colorado
+Indexed, 1970=100
+3,000
+2,500
+2,000
+
+Colorado
+
+1,500
+1,000
+United States
+500
+0
+1970 1973 1976 1979 1982 1985 1988 1991 1994 1997 2000 2003 2006 2009 2012
+Q3
+Q3
+Q3
+Q3
+Q3
+Q3
+Q3
+Q3
+Q3
+Q3
+Q3
+Q3
+Q3
+Q3
+Q3
+Business Research Division • Leeds School of Business • University of Colorado
+
+6
+Packet Pg. 12
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+Household Debt Growth
+National
+$ Billions
+1,500
+
+Home Mortgage Debt
+
+1,000
+
+500
+Consumer Credit Debt
+0
+
+-500
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+Source: U.S .Flow of Funds Account, Z.1 data release.
+
+Business Research Division • Leeds School of Business • University of Colorado
+
+2011
+
+2012
+
+7
+Packet Pg. 13
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+State Taxable Retail Sales in the District
+Colorado Taxable Retail Sales
+12-Month Rolling Sum
+12-Month Rolling Sum
+$ Millions
+44,000
+42,000
+40,000
+38,000
+36,000
+34,000
+32,000
+30,000
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+Data Sources: Colorado Department of Revenue and RTD, based on period month.
+
+Business Research Division • Leeds School of Business • University of Colorado
+
+2010
+
+2012
+
+8
+Packet Pg. 14
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+Forecast Uncertainty and Revisions
+• Previous slides show steady, moderate growth as US
+and CO economies recover from recession
+– employment growth still sluggish.
+• Looking ahead forecasters encounter uncertainty
+– uncertainty over budget negotiations, euro problems,
+Middle East, etc.
+– Frequent revisions of forecasts to reflect new
+information.
+
+Business Research Division • Leeds School of Business • University of Colorado
+
+9
+Packet Pg. 15
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+Forecast Revisions with 2012 Updates
+Revenue Forecasts for Full Year 2012
+2012 by Quarter
+Q1
+Q2
+Q3
+December 2011 Forecast
+RTD Actual Collections
+By Model Run Updated
+Quarterly
+2012 - Full Year
+
+2012
+3.93
+8.47
+
+1.68
+7.75
+
+2.24
+8.87
+
+5.42
+7.98
+
+Q4*
+6.11
+9.28
+
+Dec '11
+3.93
+
+Mar '12
+3.68
+
+June '12
+8.33
+
+Sept '12
+9.89
+
+Dec '12
+8.47
+
+June '12
+7.06
+6.15
+
+Sept '12
+7.91
+5.47
+
+Dec '12
+5.37
+4.97
+
+Input Variables
+By Model Run Updated
+Quarterly
+Colorado Retail Sales
+National Retail Sales
+
+Dec '11
+5.28
+4.66
+
+Mar '12
+4.29
+4.41
+
+* Q4 Actual Collections include two months actual collections and one month forecasted
+
+Business Research Division • Leeds School of Business • University of Colorado
+
+10
+Packet Pg. 16
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+Revisions to 2013 Forecasts of Key
+Economic Drivers
+National Forecast Revisions September to December
+National
+GDP
+Personal Income
+Retail Sales
+
+September
+2.34
+4.91
+4.18
+
+December
+2.08
+3.81
+3.35
+
+Revision
+-0.26
+-1.09
+-0.83
+
+State Forecast Revisions September to December
+State
+Personal Income
+Retail Sales
+
+September
+4.89
+4.44
+
+December
+4.04
+3.36
+
+Revision
+-0.85
+-1.08
+
+Business Research Division • Leeds School of Business • University of Colorado
+
+11
+Packet Pg. 17
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+Factors Impacting 2013 Revenues
+• Slower forecasted national and state economic growth
+• Data anomalies causing high collections in January 2012
+• Unusually high consumer spending in 2012
+– Growth in retail sales exceeds growth in personal
+income
+• Gasoline prices for 2013
+– 2012 was highest year on record
+– Moody’s forecasts higher gas prices in early 2013
+
+Business Research Division • Leeds School of Business • University of Colorado
+
+12
+Packet Pg. 18
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+Short-Term Forecast
+
+RTD Sales and Use Tax Revenues
+
+Forecasted Percentage Changes of Sales,
+Use, and Total Revenues
+Year Sales Tax Revenues
+2011a
+3.63
+2012
+8.61
+2013
+1.00
+2014
+5.30
+
+Use Tax Revenues
+12.92
+7.13
+3.64
+5.85
+
+Total Revenues
+4.43
+8.47
+1.25
+5.35
+
+a Historical data.
+
+Business Research Division • Leeds School of Business • University of Colorado
+
+13
+Packet Pg. 19
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+Forecast Uncertainty
+Dollars
+140,000,000
+
+Quarterly RTD Total Revenue Forecasts
+Low Forecast
+
+130,000,000
+
+Median Forecast
+High Forecast
+
+120,000,000
+
+110,000,000
+
+100,000,000
+
+90,000,000
+2012
+Q1
+
+2012
+Q2
+
+2012
+Q3
+
+2012
+Q4
+
+2013
+Q1
+
+2013
+Q2
+
+2013
+Q3
+
+2013
+Q4
+
+2014
+Q1
+
+Business Research Division • Leeds School of Business • University of Colorado
+
+2014
+Q2
+
+2014
+Q3
+
+2014
+Q4
+
+14
+Packet Pg. 20
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+Medium-Term Forecast
+
+Baseline Sales and Use Tax Revenue
+
+Percentage Change in RTD Total Tax Revenue: Baseline Scenario
+Year 2011a 2012 2013 2014 2015 2016 2017 2018 2019
+Total 4.43
+8.47 1.25 5.35 5.65 4.99 4.25 3.58 3.74
+a Historical data.
+
+Business Research Division • Leeds School of Business • University of Colorado
+
+15
+Packet Pg. 21
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+Long Term (30 year) Forecasts Affected by
+Population Forecast Revisions
+•
+•
+•
+•
+
+•
+
+Population age distributions affect long run growth through impacts on
+savings, labor supply, output, and household expenditures.
+National population forecasts: U.S. Census Bureau
+State and district population forecasts: Colorado Demography Office
+Revisions
+– National 2040 population: -6.3% (not in current BRD forecasts)
+– Colorado 2040 population: -2.2%
+– District 2040 population: -2.1%
+Similar changes in projected populations of specific age groups
+
+Business Research Division • Leeds School of Business • University of Colorado
+
+16
+Packet Pg. 22
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+Long-Term Forecast
+
+RTD Sales & Use Tax Revenues (Nominal)
+Average Annual Percentage Rates of Growth
+Years
+
+RTD Sales Tax
+
+RTD Use Tax
+
+Total RTD Revenues
+
+2001-2010a
+
+1.20
+
+-1.26
+
+0.97
+
+2011-2020
+
+4.69
+
+6.65
+
+4.86
+
+2021-2030
+
+2.94
+
+3.54
+
+3.00
+
+2031-2040
+
+3.06
+
+3.31
+
+3.09
+
+2011-2040
+
+3.56
+
+4.49
+
+3.64
+
+a Historical data. Note: Nominal means the year of expenditure.
+
+.
+
+Business Research Division • Leeds School of Business • University of Colorado
+
+17
+Packet Pg. 23
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+Forecast Comparison
+Forecast Comparison
+Colorado Economic Indicators
+
+Business
+Research
+Division
+
+Colorado
+Legislative
+Council
+
+Office of State
+Planning and
+Budgeting
+
+2012
+
+3.6%
+
+3.6%
+
+4.3%
+
+2013
+
+4.0%
+
+2.7%
+
+3.9%
+
+2012
+
+1.8%
+
+1.8%
+
+2.1%
+
+2013
+
+1.4%
+
+1.0%
+
+1.2%
+
+2012
+
+5.3%
+
+5.2%
+
+5.6%
+
+2013
+
+3.4%
+
+4.1%
+
+3.8%
+
+Personal income (% change)
+
+Employment (% change)
+
+Retail trade (% change)
+
+Business Research Division • Leeds School of Business • University of Colorado
+
+18
+Packet Pg. 24
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+Integrity of Model Forecasts
+• Forecasts may be too high or too low, reflecting
+uncertainty in the economy
+• The forecasts are generated from theoretically sound
+economic relations, modeled with state-of-the-art
+methods of modern econometric time series analysis.
+• BRD forecasts do not incorporate add factors or other
+subjective adjustments of model forecasts
+• BRD is independent from RTD with no political or
+financial stake in the forecast numbers
+
+Business Research Division • Leeds School of Business • University of Colorado
+
+19
+Packet Pg. 25
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+1.B.1.a
+
+1.B.1.a
+
+Attachment: CU Leeds Sales and Use Tax Presentation (1470 : CU Leeds Sales and Use Tax Forecast
+
+Thank You
+
+Business Research Division • Leeds School of Business • University of Colorado20
+Packet Pg. 26
+
+1.B.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: January 10, 2013
+
+From:
+
+Terry Howerter, Chief Financial Officer
+
+GM
+
+Date:
+
+January 10, 2013
+
+Board Meeting Date: January 15, 2013
+
+Subject:
+
+Web and Document Accessibility Briefing
+
+ATTACHMENTS:
+
+
+Board Brief on Document Accessibility
+
+(PPTX)
+
+Prepared by:
+Trent Ratcliff, Senior Manager
+Approved by:
+
+Packet Pg. 27
+
+Attachment: Board Brief on Document Accessibility (1471 : Web and Document Accessibility Briefing)
+
+1.B.2.a
+
+RTD Board of Directors Briefing on Web
+and Document Accessibility
+January 15, 2012
+
+Packet Pg. 28
+
+Our Goal
+•
+
+Consistent with the Americans with Disabilities Act, insure RTD’s
+website content is accessible to people with disabilities using a
+variety of assistive technologies.
+
+•
+
+Incorporate accessibility standards for persons with disabilities
+including guidelines from the Web Accessibility Initiative (WAI) of
+the World Wide Web Consortium (W3C) and Section 508 of the
+Rehabilitation Act.
+
+•
+
+Provide the best transit experience to each and every rider, and
+continue to takes steps to improve our websites.
+
+•
+
+Continue to provide reasonable accessibility accommodations
+to RTD websites and documents in accordance with applicable
+laws.
+Packet Pg. 29
+
+Attachment: Board Brief on Document Accessibility (1471 : Web and Document Accessibility Briefing)
+
+1.B.2.a
+
+Progress to Date
+•
+
+June - Began planning efforts to provide reasonable accessibility accommodations to
+RTD websites and public documents in accordance with applicable laws.
+
+•
+
+August – Completed scope of work for an experienced and qualified vendor to provide
+an assessment and audit to evaluate how accessible our websites and public
+documents are for people with a variety of disabilities. Vendor will also provide training.
+
+•
+
+October – Web and DocumentAccessibility Assessment RFP Released
+Scope Includes:
+1.
+2.
+3.
+4.
+5.
+
+•
+
+rtd-denver.com (including careers site)
+rtd-fastracks.com
+MinuteTraq Board Paperless System
+RTD mobile site – m.rtd-denver.com
+Smartcard web site
+
+December:
+•
+•
+•
+•
+
+Awarded RFP to web and document accessibility vendor
+Created document accessibility 101 training course
+Published document authoring reference training materials on the hub
+intranet
+Completed draft electronic content accessibility policy using Austin Capital
+Metro’s current policy as a starting point
+Packet Pg. 30
+
+Attachment: Board Brief on Document Accessibility (1471 : Web and Document Accessibility Briefing)
+
+1.B.2.a
+
+Near Term Accessibility Action Plan
+•
+
+Outsource any necessary document remediation in the short
+term.
+
+•
+
+Train 50 key staff on document accessibility authoring. January
+2013.
+
+•
+
+Purchase, install and train a few RTD staff on various assistive
+technologies. January 2013.
+
+•
+
+Finalize RTD electronic content accessibility policy and
+standards. Sometime after web and document accessibility
+assessment vendor final recommendation. March 2013.
+
+•
+
+Setup an assistive technology kiosk computer in the Board
+Room for public participants. January 2013.
+Packet Pg. 31
+
+Attachment: Board Brief on Document Accessibility (1471 : Web and Document Accessibility Briefing)
+
+1.B.2.a
+
+Long Term Accessibility Action Plan
+• Develop and deliver training for all employees on how
+to author accessible documents in Microsoft Office
+2010. April 2013 through October 2013.
+• Remediate any web pages or web site content based
+on our accessibility vendor’s recommendations. April
+2013 through October 2013.
+• Continue efforts to make all RTD websites compliant
+with RTD’s electronic content accessibility policy and
+standards. Ongoing.
+Packet Pg. 32
+
+Attachment: Board Brief on Document Accessibility (1471 : Web and Document Accessibility Briefing)
+
+1.B.2.a
+
+1.B.3
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: January 10, 2013
+
+From:
+
+Terry Howerter, Chief Financial Officer
+
+GM
+
+Date:
+
+January 10, 2013
+
+Board Meeting Date: January 15, 2013
+
+Subject:
+
+November
+Report
+
+2012
+
+Monthly
+
+Financial
+
+Status
+
+ATTACHMENTS:
+
+
+113012 RTD MFS
+
+(PDF)
+
+Prepared by:
+Doug MacLeod, Manager
+Approved by:
+
+Packet Pg. 33
+
+1.B.3.a
+
+BOARD OF DIRECTORS REPORT
+To: Phillip A. Washington, General Manager
+
+Date: January 15, 2013
+
+From: Terry L. Howerter, Chief Financial Officer
+Date: January 8, 2013
+
+Board Meeting Date:
+ACTION
+DISCUSSION
+
+Subject: November 2012 Monthly Financial Status Report
+
+INFO
+X
+
+DASHBOARD (in Thousands)
+
+Ridership
+
+Year-to-Date vs. Prior Year-to-Date
+
+Fare Revenue
+
+Sales & Use
+Tax
+
+0.8%
+
+1.6%
+
+5.2%
+
+66
+
+$145
+
+$1,785
+
+Fare Revenue
+
+Ridership
+Ridership
+
+Sales
+&&
+Use
+Tax
+Sales
+Use
+Tax
+
+1.2%
+
+4.6%
+
+8.1%
+
+1,065
+
+$4,549
+
+$30,516
+
+Attachment: 113012 RTD MFS (1472 : November 2012 Monthly Financial Status Report)
+
+Current Month vs. Prior Year
+Month
+
+RIDERSHIP (in Thousands)
+Actual vs. Prior Year
+Month
+Bus
+Light Rail
+Revenue Service Boardings
+Mall Shuttle
+Other
+Month System-Wide Boardings
+
+2012 Actual
+
+Year-to-Date
+Bus
+Light Rail
+Revenue Service Boardings
+Mall Shuttle
+Other
+Year-to-Date System-Wide Boardings
+Actual vs. Budget
+Month
+Year-to-Date
+
+2011 Actual
+
+Variance
+
+% Variance
+
+5,324
+1,650
+6,974
+1,045
+95
+8,114
+
+5,227
+1,649
+6,876
+1,080
+92
+8,048
+
+97
+1
+98
+(35)
+3
+66
+
+1.9%
+0.1%
+1.4%
+-3.2%
+3.3%
+0.8%
+
+58,897
+19,164
+78,061
+12,624
+1,096
+91,781
+
+56,844
+19,088
+75,932
+13,761
+1,023
+90,716
+
+2,053
+76
+2,129
+(1,137)
+73
+1,065
+
+3.6%
+0.4%
+2.8%
+-8.3%
+7.1%
+1.2%
+
+2012 Actual
+8,114
+91,781
+
+2012 Budget
+8,290
+93,438
+
+Variance
+(176)
+(1,657)
+
+% Variance
+-2.1%
+-1.8%
+
+9.7
+
+9.2
+
+(Millions)
+
+8.7
+
+2012 Budget
+2012 Actual
+
+8.2
+
+2011 Actual
+7.7
+
+7.2
+
+2012 Actual
+
+2012 Budget
+
+2011 Actual
+
+Packet Pg. 34
+
+1.B.3.a
+
+FARE REVENUE (in Thousands)
+Actual vs. Prior Year
+Month
+Year-to-Date
+
+2012 Actual
+$
+9,064
+103,883
+
+2011 Actual
+$
+8,919
+99,334
+
+Variance
+$
+145
+4,549
+
+% Variance
+1.6%
+4.6%
+
+Actual vs. Budget
+Month
+Year-to-Date
+
+2012 Actual
+$
+9,064
+103,883
+
+2012 Budget
+$
+9,542
+106,288
+
+Variance
+$
+(478)
+(2,405)
+
+% Variance
+-5.0%
+-2.3%
+
+$11.0
+
+$10.5
+2012 Budget
+
+$10.0
+(Millions)
+
+2012 Actual
+$9.5
+2011 Actual
+
+$9.0
+
+Attachment: 113012 RTD MFS (1472 : November 2012 Monthly Financial Status Report)
+
+$8.5
+
+$8.0
+
+2012 Actual
+
+2012 Budget
+
+2011 Actual
+
+SALES & USE TAXES (in Thousands)
+Actual vs. Prior Year
+Month
+Year-to-Date
+
+2012 Actual
+$
+35,995
+405,545
+
+2011 Actual
+$
+34,210
+375,029
+
+Variance
+$
+1,785
+30,516
+
+% Variance
+5.2%
+8.1%
+
+Actual vs. Budget
+Month
+Year-to-Date
+
+2012 Actual
+$
+35,995
+405,545
+
+2012 Budget
+$
+35,700
+394,655
+
+Variance
+$
+295
+10,890
+
+% Variance
+0.8%
+2.8%
+
+$42.0
+$40.0
+
+(Millions)
+
+$38.0
+
+2012 Actual
+
+2012 Budget
+
+$36.0
+$34.0
+2011 Actual
+
+$32.0
+$30.0
+$28.0
+
+2012 Actual
+
+2012 Budget
+
+2011 Actual
+
+Expenditures
+Total year-to-date operating expenditures were within the planned amounts included in the 2012 Amended Budget.
+
+Reviewed and verified by: ___________________________________________________________
+Terry L. Howerter, Chief Financial Officer
+
+Packet Pg. 35
+
+1.B.3.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF POSITION
+As of November 30, 2012 (In Thousands)
+(UNAUDITED)
+2012
+Base System
+
+2012
+FasTracks Project
+
+2012
+Combined
+
+December 31, 2011
+Combined
+
+Change
+
+ASSETS
+CURRENT ASSETS:
+$
+
+69,393
+-
+
+$
+
+243,213
+53,345
+
+$
+
+312,665
+53,345
+
+$
+
+258,162
+220,347
+
+$
+
+54,503
+(167,002) (1)
+
+43,995
+8,284
+3,212
+
+29,330
+120,607
+4,911
+
+73,325
+128,870
+8,123
+
+74,360
+151,463
+16,850
+
+(1,035)
+(22,593)
+(8,727)
+
+Total Net Receivables
+
+55,491
+
+154,848
+
+210,318
+
+242,673
+
+(32,355)
+
+Inventory
+Prepaid Expenses
+Restricted Debt Service/Project Funds
+Other Assets
+
+30,270
+2,614
+71,346
+5,530
+
+72,975
+222,685
+2,775
+
+30,270
+75,589
+294,031
+8,305
+
+28,049
+94,250
+356,688
+8,305
+
+2,221
+(18,661)
+(62,657) (2)
+-
+
+TOTAL CURRENT ASSETS
+
+234,644
+
+749,841
+
+984,523
+
+1,208,474
+
+(223,951)
+
+Capital Assets:
+Land
+Land Improvements
+Buildings
+Revenue Earning Equipment
+Shop, Maintenance & Other Equipment
+Construction in Progress
+
+175,879
+1,272,156
+248,159
+541,593
+101,718
+124,908
+
+14,671
+83,621
+9,350
+255,945
+1,821
+2,232,192
+
+190,550
+1,355,777
+257,509
+797,538
+103,539
+2,357,100
+
+187,985
+1,345,825
+250,255
+748,772
+97,390
+1,852,168
+
+2,565
+9,952
+7,254
+48,766
+6,149
+504,932
+
+Total Capital Assets
+Accumulated Depreciation
+
+2,464,413
+(1,075,195)
+
+2,597,600
+(38,298)
+
+5,062,013
+(1,113,493)
+
+4,482,395
+(1,010,261)
+
+579,618
+(103,232)
+
+Net Capital Assets
+
+1,389,218
+
+2,559,302
+
+3,948,520
+
+3,472,134
+
+476,386
+
+TABOR Reserves
+Restricted Debt Service/Debt Service Reserves
+Deposits
+Other
+
+10,695
+28,065
+1,500
+3,274
+
+6,178
+49,963
+81,952
+
+16,873
+78,028
+1,500
+85,226
+
+16,845
+79,729
+1,500
+88,655
+
+28
+(1,701)
+(3,429)
+
+TOTAL NONCURRENT ASSETS
+
+1,432,752
+
+2,697,395
+
+4,130,147
+
+3,658,863
+
+471,284
+
+Attachment: 113012 RTD MFS (1472 : November 2012 Monthly Financial Status Report)
+
+Cash & Cash Equivalents
+Cash Reserved for Eagle P3 Payment
+Receivables:
+Sales Taxes
+Grants
+Other (less allowance for doubtful accts)
+
+NONCURRENT ASSETS:
+
+TOTAL ASSETS
+
+$
+
+1,667,396
+
+$
+
+3,447,236
+
+$
+
+5,114,670
+
+$
+
+4,867,337
+
+$
+
+247,333
+
+(1) Represents earned value through the current date by DTP to be paid in January 2013
+(2) Decrease is primarily due to the use of project funds for the FasTracks build-out
+
+Packet Pg. 36
+
+1.B.3.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF POSITION
+As of November 30, 2012 (In Thousands)
+(UNAUDITED)
+2012
+Base System
+
+2012
+FasTracks Project
+
+2012
+Combined
+
+December 31, 2011
+Combined
+
+Change
+
+LIABILITIES
+Accounts & Contracts Payable
+Current Portion of Long Term Debt
+Accrued Compensation
+Accrued Interest Payable
+Other
+
+$
+
+TOTAL CURRENT LIABILITIES
+NONCURRENT LIABILITIES:
+Long Term Debt
+Other Long-Term Liabilities
+Net Pension Obligation
+TOTAL NONCURRENT LIABILITIES
+TOTAL LIABILITIES
+
+41,991
+38,410
+17,794
+6,663
+16,948
+
+$
+
+129,136
+7,755
+15,519
+8
+
+$
+
+171,165
+46,165
+17,794
+22,182
+16,956
+
+$
+
+313,368
+54,786
+18,279
+16,636
+30,911
+
+$
+
+Attachment: 113012 RTD MFS (1472 : November 2012 Monthly Financial Status Report)
+
+CURRENT LIABILITIES:
+(142,203) (3)
+(8,621)
+(485)
+5,546 (4)
+(13,955) (5)
+
+121,806
+
+152,418
+
+274,262
+
+433,980
+
+(159,718)
+
+422,977
+37,370
+
+1,417,228
+129,030
+-
+
+1,840,205
+129,030
+37,370
+
+1,880,819
+37,370
+
+(40,614)
+129,030 (6)
+-
+
+460,347
+
+1,546,258
+
+2,006,605
+
+1,918,189
+
+88,416
+
+$
+
+582,153
+
+$
+
+1,698,676
+
+$
+
+2,280,867
+
+$
+
+2,352,169
+
+$
+
+(71,302)
+
+$
+
+927,834
+11,587
+99,411
+10,304
+13,200
+6,000
+16,907
+
+$
+
+1,134,318
+5,590
+272,648
+84,728
+30,000
+218,416
+2,859
+-
+
+$
+
+2,062,152
+17,177
+372,059
+95,032
+30,000
+218,416
+2,859
+13,200
+6,000
+16,907
+
+$
+
+1,536,529
+16,388
+436,417
+98,460
+30,000
+359,657
+19,867
+17,850
+
+$
+
+525,623
+789
+(64,358)
+(3,428)
+(141,241) (6)
+(17,008) (7)
+13,200 (7)
+6,000 (7)
+(943)
+
+$
+
+1,085,243
+
+$
+
+1,748,559
+
+$
+
+2,833,802
+
+$
+
+2,515,168
+
+$
+
+318,634
+
+$
+
+1,667,396
+-
+
+$
+
+3,447,236
+-
+
+$
+
+5,114,670
+-
+
+$
+
+4,867,337
+-
+
+$
+
+247,333
+
+NET POSITION
+Invested in Capital Assets, Net of Related Debt
+TABOR Fund
+Debt Reserves/Project Funds
+Other Restricted Assets
+FasTracks Contingency Fund
+FasTracks Construction Fund
+Operating Reserve
+Board Appropriated Fund
+Capital Replacement Fund
+Unrestricted Fund Balance
+TOTAL NET POSITION
+TOTAL LIABILITIES & NET POSITION
+
+(3) Payment was made to DTP for Eagle P3 scheduled construction payment of $220 million in January 2012
+(4) A semi-annual debt service payment will occur in November
+(5) Primarily unearned revenue from pass sales
+(6) Includes $35m accrual for East Line aviation improvments and $94m in accrued financing costs for the Eagle P3 Project
+(7) Operating Reserve for Base System was moved to Board Appropriated and Capital Replacement funds in 2012 with the revised Fund Balance Policy
+
+Packet Pg. 37
+
+1.B.3.a
+
+REGIONAL TRANSPORTATION DISTRICT - COMBINED
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION
+November 30, 2012 (In Thousands)
+(UNAUDITED)
+Month
+Combined
+Actual 2012
+-----------------
+
+Month
+Combined
+Budget 2012
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+YTD
+Combined
+Actual 2012
+-----------------
+
+YTD
+Combined
+Budget 2012
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+Passenger Fares
+Advertising, Rent and Other
+Total Operating Revenue
+
+9,064
+62
+
+9,542
+452
+
+(478)
+(390)
+
+-5.0%
+-86.3%
+0.0%
+
+103,883
+4,478
+
+106,288
+4,973
+
+(2,405)
+(495)
+
+-2.3%
+-10.0%
+
+9,126
+
+9,994
+
+(868)
+
+-8.7%
+
+108,361
+
+111,261
+
+(2,900)
+
+-2.6%
+
+21,861
+3,682
+220
+2,061
+3,033
+693
+2,479
+724
+311
+66
+420
+8,553
+
+21,202
+3,518
+203
+1,408
+3,677
+697
+2,374
+806
+397
+65
+110
+9,143
+
+(659)
+(164)
+(17)
+(653)
+644
+4
+(105)
+82
+86
+(1)
+(310)
+590
+
+-3.1%
+-4.7%
+-8.4%
+-46.4%
+17.5%
+0.6%
+-4.4%
+10.2%
+21.7%
+-1.5%
+-281.8%
+0.0%
+6.5%
+0.0%
+
+237,341
+33,712
+1,869
+36,437
+33,743
+7,744
+24,055
+8,136
+4,023
+521
+3,131
+103,782
+
+236,315
+35,011
+2,115
+94,270
+40,684
+7,991
+26,943
+9,414
+4,678
+828
+13,435
+100,446
+
+(1,026)
+1,299
+246
+57,833
+6,941
+247
+2,888
+1,278
+655
+307
+10,304
+(3,336)
+
+-0.4% (1)
+3.7% (2)
+11.6% (3)
+61.3% (4)
+17.1% (5)
+3.1%
+10.7% (6)
+13.6% (7)
+14.0% (8)
+37.1% (9)
+76.7% (10)
+0.0%
+-3.3%
+0.0%
+
+Total Operating Expenses
+
+44,103
+
+43,600
+
+(503)
+
+-1.2%
+
+494,494
+
+572,130
+
+77,636
+
+13.6%
+
+OPERATING INCOME/(LOSS)
+
+(34,977)
+
+(33,606)
+
+(1,371)
+
+4.1%
+
+(386,133)
+
+(460,869)
+
+74,736
+
+16.2%
+
+35,995
+8,137
+401
+938
+(4,968)
+
+35,700
+6,153
+274
+932
+(4,484)
+
+295
+1,984
+127
+6
+(484)
+
+0.8%
+32.2%
+46.4%
+0.6%
+0.0%
+10.8%
+0.0%
+
+405,545
+64,429
+3,033
+10,085
+(674)
+(55,810)
+
+394,655
+71,593
+3,018
+20,252
+(49,319)
+
+10,890
+(7,164)
+15
+(10,167)
+(674)
+(6,491)
+
+2.8%
+-10.0%
+0.5%
+-50.2% (10)
+0.0%
+-13.2%
+0.0% (11)
+
+Net Nonoperating Revenue (Expense)
+
+40,503
+
+38,575
+
+1,928
+
+5.0%
+
+426,608
+
+440,199
+
+(13,591)
+
+-3.1%
+
+INCOME BEFORE CAPITAL GRANTS
+
+5,526
+
+4,969
+
+557
+
+11.2%
+
+40,475
+
+(20,670)
+
+61,145
+
+-295.8%
+
+Capital Grants and Local Contributions
+
+36,805
+
+48,060
+
+(11,255)
+
+-23.4%
+
+278,156
+
+319,933
+
+(41,777)
+
+-13.1% (12)
+
+(10,698)
+
+-20.2%
+
+19,368
+
+6.5%
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Facilities
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+Other Non-Departmental Expenditures
+FasTracks Service Increase
+Depreciation
+
+Attachment: 113012 RTD MFS (1472 : November 2012 Monthly Financial Status Report)
+
+OPERATING REVENUE:
+
+NONOPERATING REVENUE (EXPENSES)
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+
+INCREASE/(DECREASE) IN NET POSITION
+
+$
+
+42,331
+
+$
+
+53,029
+
+$
+
+$
+
+318,631
+
+$
+
+299,263
+
+$
+
+(1) The variance is primarily due to wages and vehicle replacement parts
+(2) The variance is due to lower West Line activition costs for wages
+(3) The variance is primarily due to the DRCOG Front Range Travel Survey costs not yet being incurred
+(4) The variance is primarily due to transit improvements not yet being incurred as well as funds budgeted for the Southeast extension and US36 projects not yet incurred
+(5) The variance is primarily due to the timing of projects associated with facilities engineering
+(6) The variance consists of lower data processing services, computer hardware purchases, recruitment, training, medical exams and the timing of fare media purchases
+(7) The variance is due to lower costs for route promotions, SmartCard, general ridership campaign and graphics
+(8) The variance is primarily due to the timing of WIN program expenses
+(9) The variance is due to accrual reversal for the Fiscal Sustainability Task Force as well as lower travel
+(10) The variance is due to a $11m capital contribution to USA for DUS renovations that will occur in December
+(11) The variance is due to capitalized interest being different than budget. The interest expense and interest capitalized variances offset
+(12) Primarily a timing issue related to project expenditures being incurred in different periods than assumed in the budget
+
+Packet Pg. 38
+
+1.B.3.a
+
+REGIONAL TRANSPORTATION DISTRICT - BASE SYSTEM
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION
+November 30, 2012 (In Thousands)
+(UNAUDITED)
+Month
+Base System
+Actual 2012
+-----------------
+
+Month
+Base System
+Budget 2012
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+YTD
+Base System
+Actual 2012
+-----------------
+
+YTD
+Base System
+Budget 2012
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+Passenger Fares
+Advertising, Rent and Other
+
+9,126
+
+9,994
+
+(868)
+
+-5.0%
+-86.3%
+0.0%
+-8.7%
+
+108,361
+
+111,261
+
+(2,900)
+
+-2.3%
+-10.0%
+-2.6%
+
+21,861
+2,839
+178
+1,040
+2,938
+693
+2,428
+690
+311
+66
+420
+(1,194)
+7,254
+
+21,202
+3,132
+159
+348
+3,558
+697
+2,310
+728
+397
+65
+110
+(1,194)
+7,677
+
+(659)
+293
+(19)
+(692)
+620
+4
+(118)
+38
+86
+(1)
+(310)
+423
+
+-3.1%
+9.4%
+-11.9%
+-198.9%
+17.4%
+0.6%
+-5.1%
+5.2%
+21.7%
+-1.5%
+-281.8%
+0.0%
+5.5%
+0.0%
+
+237,341
+30,747
+1,324
+4,482
+33,034
+7,744
+23,507
+7,744
+4,023
+521
+3,131
+(13,131)
+87,211
+
+236,315
+31,577
+1,613
+5,721
+39,719
+7,991
+26,239
+8,726
+4,678
+828
+13,435
+(13,131)
+84,373
+
+(1,026)
+830
+289
+1,239
+6,685
+247
+2,732
+982
+655
+307
+10,304
+(2,838)
+
+-0.4%
+2.6%
+17.9%
+21.7%
+16.8%
+3.1%
+10.4%
+11.3%
+14.0%
+37.1%
+76.7%
+0.0%
+-3.4%
+0.0%
+
+Total Operating Expenses
+
+39,524
+
+39,189
+
+(335)
+
+-0.9%
+
+427,678
+
+448,084
+
+20,406
+
+4.6%
+
+OPERATING INCOME/(LOSS)
+
+(30,398)
+
+(29,195)
+
+(1,203)
+
+4.1%
+
+(319,317)
+
+(336,823)
+
+17,506
+
+5.2%
+
+21,597
+6,837
+104
+203
+(1,562)
+
+21,420
+6,153
+39
+196
+(1,801)
+
+177
+684
+65
+7
+239
+
+0.8%
+11.1%
+166.7%
+3.6%
+0.0%
+-13.3%
+0.0%
+
+243,327
+59,050
+871
+1,999
+(547)
+(18,260)
+
+236,793
+71,593
+429
+12,151
+(19,807)
+
+6,534
+(12,543)
+442
+(10,152)
+(547)
+1,547
+
+2.8%
+-17.5%
+103.0%
+-83.5%
+0.0%
+7.8%
+0.0%
+
+Net Nonoperating Revenue (Expense)
+
+27,179
+
+26,007
+
+1,172
+
+4.5%
+
+286,440
+
+301,159
+
+(14,719)
+
+-4.9%
+
+INCOME BEFORE CAPITAL GRANTS
+
+(3,219)
+
+(3,188)
+
+(31)
+
+1.0%
+
+(32,877)
+
+(35,664)
+
+2,787
+
+7.8%
+
+561
+
+4,899
+
+(4,338)
+
+-88.5%
+
+15,552
+
+27,761
+
+(12,209)
+
+-44.0%
+
+(4,369)
+
+-255.3%
+
+(9,422)
+
+119.2%
+
+Total Operating Revenue
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Facilities
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+Other Non-Departmental Expenditures
+FasTracks Service Increase
+Depreciation
+
+9,064
+62
+
+9,542
+452
+
+(478)
+(390)
+
+103,883
+4,478
+
+106,288
+4,973
+
+(2,405)
+(495)
+
+Attachment: 113012 RTD MFS (1472 : November 2012 Monthly Financial Status Report)
+
+OPERATING REVENUE:
+
+NONOPERATING REVENUE (EXPENSES)
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+
+Capital Grants and Local Contributions
+INCREASE/(DECREASE) IN NET POSITION
+
+$
+
+(2,658)
+
+$
+
+1,711
+
+$
+
+$
+
+(17,325)
+
+$
+
+(7,903)
+
+$
+
+Packet Pg. 39
+
+1.B.3.a
+
+REGIONAL TRANSPORTATION DISTRICT - FASTRACKS PROJECT
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION
+November 30, 2012 (In Thousands)
+(UNAUDITED)
+Month
+FasTracks Project
+Actual 2012
+-----------------
+
+Month
+FasTracks Project
+Budget 2012
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+% Fav/
+(Unfav)
+-------------
+
+YTD
+FasTracks Project
+Actual 2012
+-----------------
+
+YTD
+FasTracks Project
+Budget 2012
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+% Fav/
+(Unfav)
+-------------
+
+Passenger Fares
+Advertising, Rent and Other
+
+$
+
+Total Operating Revenue
+
+-
+
+$
+
+-
+
+$
+
+-
+
+0.0%
+0.0%
+0.0%
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+0.0%
+0.0%
+0.0%
+
+-
+
+-
+
+-
+
+0.0%
+
+-
+
+-
+
+-
+
+0.0%
+
+42
+1,021
+51
+28
+1,194
+1,299
+
+2
+44
+1,060
+58
+28
+1,194
+1,466
+
+2
+2
+39
+7
+167
+
+0.0%
+100.0%
+4.5%
+3.7%
+0.0%
+0.0%
+12.1%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+11.4%
+0.0%
+
+3
+545
+31,955
+548
+376
+13,131
+16,571
+
+26
+502
+88,549
+636
+388
+13,131
+16,073
+
+23
+(43)
+56,594
+88
+12
+(498)
+
+0.0%
+88.5%
+-8.6%
+63.9%
+0.0%
+0.0%
+13.8%
+3.1%
+0.0%
+0.0%
+0.0%
+0.0%
+-3.1%
+0.0%
+
+Total Operating Expenses
+
+3,635
+
+3,852
+
+217
+
+5.6%
+
+63,129
+
+119,305
+
+56,176
+
+47.1%
+
+OPERATING INCOME/(LOSS)
+
+(3,635)
+
+(3,852)
+
+217
+
+-5.6%
+
+(63,129)
+
+(119,305)
+
+56,176
+
+-47.1%
+
+14,398
+1,300
+297
+735
+(3,406)
+
+14,280
+235
+736
+(2,683)
+
+118
+1,300
+62
+(1)
+(723)
+
+0.8%
+0.0%
+26.4%
+-0.1%
+0.0%
+26.9%
+0.0%
+
+162,218
+5,379
+2,162
+8,086
+(127)
+(37,550)
+
+157,862
+2,589
+8,101
+(29,512)
+
+4,356
+5,379
+(427)
+(15)
+(127)
+(8,038)
+
+2.8%
+0.0%
+-16.5%
+-0.2%
+0.0%
+27.2%
+0.0%
+
+Net Nonoperating Revenue (Expense)
+
+13,324
+
+12,568
+
+756
+
+6.0%
+
+140,168
+
+139,040
+
+1,128
+
+0.8%
+
+INCOME BEFORE CAPITAL GRANTS
+
+9,689
+
+8,716
+
+973
+
+11.2%
+
+77,039
+
+19,735
+
+57,304
+
+290.4%
+
+Capital Grants and Local Contributions
+
+35,300
+
+42,602
+
+(7,302)
+
+-17.1%
+
+258,917
+
+287,431
+
+(28,514)
+
+-9.9%
+
+(6,329)
+
+-12.3%
+
+28,790
+
+9.4%
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Facilities
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+Other Non-Departmental Expenditures
+FasTracks Service Increase
+Depreciation
+
+Attachment: 113012 RTD MFS (1472 : November 2012 Monthly Financial Status Report)
+
+OPERATING REVENUE:
+
+NONOPERATING REVENUE (EXPENSES)
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+
+INCREASE/(DECREASE) IN NET POSITION
+
+$
+
+44,989
+
+$
+
+51,318
+
+$
+
+$
+
+335,956
+
+$
+
+307,166
+
+$
+
+Packet Pg. 40
+
+1.B.3.a
+
+REGIONAL TRANSPORTATION DISTRICT - FASTRACKS OPERATIONS
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION
+November 30, 2012 (In Thousands)
+(UNAUDITED)
+Month
+FasTracks Ops
+Actual 2012
+-----------------
+
+Month
+FasTracks Ops
+Budget 2012
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+YTD
+FasTracks Ops
+Actual 2012
+-----------------
+
+YTD
+FasTracks Ops
+Budget 2012
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+Passenger Fares
+Advertising, Rent and Other
+Total Operating Revenue
+
+-
+
+-
+
+-
+
+0.0%
+0.0%
+0.0%
+
+-
+
+-
+
+-
+
+0.0%
+0.0%
+0.0%
+
+-
+
+-
+
+-
+
+0.0%
+
+-
+
+-
+
+-
+
+0.0%
+
+843
+95
+6
+-
+
+384
+119
+6
+50
+-
+
+(459)
+24
+6
+44
+-
+
+0.0%
+-119.5%
+0.0%
+0.0%
+20.2%
+0.0%
+100.0%
+88.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+
+2,962
+709
+16
+-
+
+3,408
+965
+68
+300
+-
+
+446
+256
+68
+284
+-
+
+0.0%
+13.1%
+0.0%
+0.0%
+26.5%
+0.0%
+100.0%
+94.7%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+
+Total Operating Expenses
+
+944
+
+559
+
+(385)
+
+-68.9%
+
+3,687
+
+4,741
+
+1,054
+
+22.2%
+
+OPERATING INCOME/(LOSS)
+
+(944)
+
+(559)
+
+(385)
+
+68.9%
+
+(3,687)
+
+(4,741)
+
+1,054
+
+-22.2%
+
+-
+
+-
+
+-
+
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+
+-
+
+-
+
+-
+
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+
+Net Nonoperating Revenue (Expense)
+
+-
+
+-
+
+-
+
+0.0%
+
+-
+
+-
+
+-
+
+0.0%
+
+INCOME BEFORE CAPITAL GRANTS
+
+(944)
+
+(559)
+
+(385)
+
+68.9%
+
+(3,687)
+
+(4,741)
+
+1,054
+
+-22.2%
+
+Capital Grants and Local Contributions
+
+944
+
+559
+
+385
+
+68.9%
+
+3,687
+
+4,741
+
+(1,054)
+
+-22.2%
+
+-
+
+0.0%
+
+-
+
+0.0%
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Facilities
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+Other Non-Departmental Expenditures
+Depreciation
+
+Attachment: 113012 RTD MFS (1472 : November 2012 Monthly Financial Status Report)
+
+OPERATING REVENUE:
+
+NONOPERATING REVENUE (EXPENSES)
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+
+INCREASE/(DECREASE) IN NET POSITION
+
+$
+
+-
+
+$
+
+-
+
+$
+
+$
+
+-
+
+$
+
+-
+
+$
+
+Packet Pg. 41
+
+1.B.3.a
+
+January
+2011
+
+February
+2011
+
+March
+2011
+
+April
+2011
+
+May
+2011
+
+June
+2011
+
+July
+2011
+
+August
+2011
+
+September
+2011
+
+October
+2011
+
+November
+2011
+
+December
+2011
+
+Total Year
+To Date
+
+Sales Tax Collections
+Use Tax Collections
+Vendor Allowance
+Less Cost of Collections Fee
+Plus Interest Earned
+
+$ 26,296,987
+3,023,571
+897,415
+(38,834)
+24,747
+
+$ 26,634,063
+2,789,259
+907,848
+(38,834)
+20,491
+
+$ 31,005,976
+3,456,347
+1,058,115
+(38,834)
+21,365
+
+$ 29,895,947
+3,016,443
+1,020,234
+(38,834)
+19,995
+
+$ 30,589,773
+2,747,467
+1,043,912
+(38,834)
+19,865
+
+$ 32,292,889
+3,699,747
+1,102,032
+(39,560)
+20,600
+
+$ 30,817,692
+3,026,591
+342,765
+(39,560)
+26,811
+
+$ 32,650,076
+3,258,476
+399,387
+(39,560)
+22,395
+
+$ 31,744,637
+3,052,968
+388,839
+(39,560)
+20,294
+
+$ 30,102,312
+3,357,443
+372,151
+(39,560)
+23,675
+
+$ 30,934,261
+2,919,550
+376,534
+(39,560)
+18,805
+
+$ 35,007,935
+4,719,616
+441,864
+(39,560)
+21,331
+
+$ 367,972,548
+39,067,479
+8,351,096
+(471,090)
+260,374
+
+Net Sales & Use Tax Received
+
+$ 30,203,887
+
+$ 30,312,827
+
+$ 35,502,969
+
+$ 33,913,785
+
+$ 34,362,183
+
+$ 37,075,709
+
+$ 34,174,300
+
+$ 36,290,774
+
+$ 35,167,178
+
+$ 33,816,021
+
+$ 34,209,590
+
+$ 40,151,186
+
+$ 415,180,408
+
+Favorable/(Unfavorable) to Prior Year
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$ 17,631,195
+
+Actual
+
+2,479,941
+
+3,190,166
+
+2,345,840
+
+2,127,847
+
+(106,006)
+
+1,662,752
+
+2,797,195
+
+2,339,770
+
+865,004
+
+1,277,824
+
+1,094,781
+
+(2,443,917)
+
+Percent of Increase/(Decrease)
+
+8.9%
+
+11.8%
+
+7.1%
+
+6.7%
+
+-0.3%
+
+4.7%
+
+8.9%
+
+6.9%
+
+2.5%
+
+3.9%
+
+3.3%
+
+-5.7%
+
+Percent of Increase Year to Date
+
+8.9%
+
+10.3%
+
+9.1%
+
+8.5%
+
+6.5%
+
+6.2%
+
+6.6%
+
+6.6%
+
+6.1%
+
+5.9%
+
+5.7%
+
+4.4%
+
+The 3.3% Vendor Allowance elimination was reduced from 3.3% through June 2011 to 1.1% beginning in July 2011 and ending in June 2014
+The following refunds affected the 2011 vs. 2010 comparison. Excluding both refunds results in a 2011 increase of 4.2% over 2010 rather than 4.5%:
+July 2010 includes a prior year refund, to a single vendor, in the amount of $2,635,631
+December 2011 includes a refund for the period 2000-2005 of $1,723,115 for taxes paid on computer software
+
+January
+2012
+
+February
+2012
+
+March
+2012
+
+April
+2012
+
+May
+2012
+
+June
+2012
+
+July
+2012
+
+August
+2012
+
+September
+2012
+
+October
+2012
+
+November
+2012
+
+Sales Tax Collections
+Use Tax Collections
+Vendor Allowance
+Less Cost of Collections Fee
+Plus Interest Earned
+
+$ 29,967,067
+3,166,944
+364,430
+(39,560)
+21,999
+
+$ 29,337,195
+3,200,609
+357,872
+(39,560)
+19,635
+
+$ 33,109,532
+3,612,354
+403,889
+(39,560)
+22,164
+
+$ 32,850,700
+3,577,804
+400,665
+(39,560)
+19,700
+
+$ 33,941,600
+3,414,995
+415,493
+(39,560)
+17,671
+
+$ 35,440,481
+4,277,167
+441,753
+(41,009)
+15,824
+
+$ 33,626,601
+2,914,549
+406,423
+(41,009)
+19,695
+
+$ 34,457,627
+3,460,487
+421,738
+(41,009)
+16,666
+
+$ 35,055,538
+3,359,396
+427,264
+(41,009)
+17,902
+
+$ 33,775,579
+3,166,066
+410,878
+(41,009)
+18,713
+
+$ 32,468,514
+3,154,698
+396,214
+(41,009)
+16,454
+
+$
+
+-
+
+$ 364,030,434
+37,305,069
+4,446,619
+(443,854)
+206,424
+
+Net Sales & Use Tax Received
+
+$ 33,480,880
+
+$ 32,875,751
+
+$ 37,108,379
+
+$ 36,809,309
+
+$ 37,750,199
+
+$ 40,134,216
+
+$ 36,926,260
+
+$ 38,315,509
+
+$ 38,819,091
+
+$ 37,330,227
+
+$ 35,994,871
+
+$
+
+-
+
+$ 405,544,691
+
+Favorable/(Unfavorable) to Prior Year
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+-
+
+$ 30,515,470
+
+Actual
+
+3,276,993
+
+2,562,924
+
+1,605,410
+
+2,895,524
+
+3,388,016
+
+3,058,507
+
+2,751,961
+
+2,024,736
+
+3,651,913
+
+3,514,206
+
+1,785,281
+
+December
+2012
+
+Total Year
+To Date
+
+Percent of Increase/(Decrease)
+
+10.8%
+
+8.5%
+
+4.5%
+
+8.5%
+
+9.9%
+
+8.2%
+
+8.1%
+
+5.6%
+
+10.4%
+
+10.4%
+
+5.2%
+
+0.0%
+
+Percent of Increase Year to Date
+
+10.8%
+
+9.7%
+
+7.8%
+
+8.0%
+
+8.4%
+
+8.3%
+
+8.3%
+
+7.9%
+
+8.2%
+
+8.4%
+
+8.1%
+
+7.3%
+
+January
+2012
+
+February
+2012
+
+March
+2012
+
+April
+2012
+
+May
+2012
+
+June
+2012
+
+July
+2012
+
+August
+2012
+
+September
+2012
+
+October
+2012
+
+November
+2012
+
+December
+2012
+
+Total Year
+To Date
+
+Sales Tax Collections
+Use Tax Collections
+Vendor Allowance
+Less Cost of Collections Fee
+Plus Interest Earned
+
+$ 29,967,067
+3,166,944
+364,430
+(39,560)
+21,999
+
+$ 29,337,195
+3,200,609
+357,872
+(39,560)
+19,635
+
+$ 33,109,532
+3,612,354
+403,889
+(39,560)
+22,164
+
+$ 32,850,700
+3,577,804
+400,665
+(39,560)
+19,700
+
+$ 33,941,600
+3,414,995
+415,493
+(39,560)
+17,671
+
+$ 35,440,481
+4,277,167
+441,753
+(41,009)
+15,824
+
+$ 33,626,601
+2,914,549
+406,423
+(41,009)
+19,695
+
+$ 34,457,627
+3,460,487
+421,738
+(41,009)
+16,666
+
+$ 35,055,538
+3,359,396
+427,264
+(41,009)
+17,902
+
+$ 33,775,579
+3,166,066
+410,878
+(41,009)
+18,713
+
+$ 32,468,514
+3,154,698
+396,214
+(41,009)
+16,454
+
+$ 39,825,510
+4,559,096
+523,487
+(41,009)
+22,644
+
+$ 403,855,944
+41,864,165
+4,970,106
+(484,863)
+229,068
+
+Net Sales & Use Tax Received
+
+$ 33,480,880
+
+$ 32,875,751
+
+$ 37,108,379
+
+$ 36,809,309
+
+$ 37,750,199
+
+$ 40,134,216
+
+$ 36,926,260
+
+$ 38,315,509
+
+$ 38,819,091
+
+$ 37,330,227
+
+$ 35,994,871
+
+$ 44,889,728
+
+$ 450,434,419
+
+Favorable/(Unfavorable) to Prior Year
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$ 35,254,012
+
+Actual Plus CU-Leeds Forecast
+
+3,276,993
+
+2,562,924
+
+1,605,410
+
+2,895,524
+
+3,388,016
+
+3,058,507
+
+2,751,961
+
+2,024,736
+
+3,651,913
+
+3,514,206
+
+1,785,281
+
+4,738,542
+
+Percent of Increase/(Decrease)
+
+10.8%
+
+8.5%
+
+4.5%
+
+8.5%
+
+9.9%
+
+8.2%
+
+8.1%
+
+5.6%
+
+10.4%
+
+10.4%
+
+5.2%
+
+11.8%
+
+Percent of Increase Year to Date
+
+10.8%
+
+9.7%
+
+7.8%
+
+8.0%
+
+8.4%
+
+8.3%
+
+8.3%
+
+7.9%
+
+8.2%
+
+8.4%
+
+8.1%
+
+8.5%
+
+Packet Pg. 42
+
+Attachment: 113012 RTD MFS (1472 : November 2012 Monthly Financial Status Report)
+
+REGIONAL TRANSPORTATION DISTRICT
+SYSTEM 1% SALES & USE TAX INCLUDING VENDOR ALLOWANCE
+FISCAL YEARS 2011 AND 2012
+
+2.A.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: January 10, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+January 8, 2013
+
+Board Meeting Date: January 15, 2013
+
+Subject:
+
+Purchase of Up to 34 Mall Shuttle Buses
+
+RECOMMENDED ACTION
+It is recommended by the Operations/Customer Service Committee that the RTD Board of Directors
+authorize the General Manager or his designee, to exercise the option of Contract 19FK001 with
+DesignLine USA for the purchase of up to 34, 45-foot mall shuttle buses to replace the existing
+TransTeq mall buses at a price not to exceed $24,147,350.
+BACKGROUND
+The RTD Board of Directors approved the purchase of two (2) DesignLine mall buses on March 23, 2010
+to accommodate the changes to the operation of the Free Mall Ride Shuttle resulting from the
+construction and reconfiguration of the Denver Union Station. The original procurement was the result of
+RTD Request for Proposals (RFP), for which proposals were received on September 10, 2009.
+DesignLine was determined the most responsive and responsible proposer. The RFP allowed RTD to
+purchase up to 57 additional buses for a five year period with pricing for additional buses being based on
+the initial base pricing plus a price adjustment set by the US Department of Labor Producer Price Index
+(PPI).
+The mall buses are unique because of their length, number of doors, completely low floor and highly
+demanding service. Industry standard bus manufacturers do not produce the mall bus type and do not
+want to expend their resources in the engineering and manufacture of the buses because of their low
+sales volume. Currently, there may be only two specialty bus manufacturers that are interested in the
+production of these buses.
+The new DesignLine buses will replace the existing TransTeq mall buses. The TransTeq mall buses are
+currently 12 to 13 years old. By the time the new buses arrive, the current mall buses will be more than
+13 and 14 years old. The bus manufacturer, TransTeq, went out of business several years ago. Many
+components of the buses have become obsolete and there are no replacement parts. The lack of support
+and replacement parts have caused extreme difficulty in keeping the buses in service.
+DISCUSSION
+The DesignLine mall buses are low floor buses, 45’ long with three wide passenger doors for fast and
+easy passenger ingress and egress. The buses are powered by a hybrid electric system driven by a
+micro-turbine engine. When the batteries are fully charged, the engine shuts down and the bus runs on
+full electric mode. In normal operation, the buses operate in full electric mode about half of the time. To
+comply with ADA, the buses have a wheel chair ramp and two wheelchair tiedown positions.
+The first two DesignLine mall buses, Bus #1640 and #1641, were received and put into service in
+November 2011 and April 2012, respectively. The buses have received positive acceptance from the
+riding public and the Denver Downtown Partnership. The Partnership has endorsed the purchase of
+additional DesignLine buses for the replacement of the existing buses. Passengers have given the buses
+mostly positive reception. In term of mechanical performance, the buses have performed better and
+more reliably in initial service than the previous two generations of mall buses. With the knowledge from
+
+Packet Pg. 43
+
+2.A.1
+
+the bus evaluation service, we are including a number of improvements to the buses in the manufacture
+of additional buses to allow better maintenance service accessibility and passenger comfort.
+FINANCIAL IMPACT
+The requested approval is for the change order to exercise the purchase option for a guaranteed quantity
+of 32 mall shuttle buses in the amount not to exceed $24,147,350. The quantity may be increased up
+to 34 buses depending on the final price negotiation with DesignLine. The purchase is funded partially in
+the amount of $6,500,000 by the State of Good Repair Grant from the Federal Government. The
+remaining funding is in the District’s 2013 Budget.
+DBE PARTICIPATION
+There is no DBE requirement for transit vehicle purchases. Each vehicle manufacturer is required by the
+Federal Transit Administration (FTA) to submit a DBE plan for FTA approval. As part of the required
+proposal submittal documents, DesignLine has submitted a certificate attesting to FTA's approval of its
+DBE plan.
+ALTERNATIVES
+1. To authorize the General Manager to issue a change order to DesignLine for the purchase of thirtytwo (32) additional mall buses. This is the recommended alternative.
+2. Do not authorize the change order and re-solicit proposals. This is not desirable as it would result, at
+the very least, in a delay of the delivery of the buses and may increase the cost of the project.
+RESULT:
+MOVER:
+SECONDER:
+AYES:
+NAYS:
+ABSENT:
+
+PASSED [12 TO 2]
+Bill James, Director, District A
+Tom Tobiassen, Director, District F
+Anderson, Bagley, Daly, Deadwyler, Folska, Hoy, James, Lasater, Lubow, RiveraMalpiede, Tobiassen, Walker
+Natalie Menten, Paul Solano
+John Tayer
+
+Prepared by:
+Lou Ha, Manager
+Approved by:
+
+Packet Pg. 44
+
+2.A.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: January 10, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+January 9, 2013
+
+Board Meeting Date: January 15, 2013
+
+Subject:
+
+April 2013 Service Change
+
+RECOMMENDED ACTION
+It is recommended by the Operations/Customer Services Committee that the Board of Directors approve
+moving the proposed April 2013 Service Change on to public review and comment.
+DISCUSSION
+With the completion of construction of the West Light Rail Line and Board adoption of the West Corridor
+Service Plan on October 23, 2012, significant changes in bus and light service are slated to begin April
+28, 2013. Additional routine service changes not associated with or included in the West Corridor
+Service Plan are also necessary to maintain system on-time performance and provide the appropriate
+level of service according to customer demand. For this year we will continue to focus on adjusting
+services in response to the January 2012 service revisions and changes in ridership and operational
+performance.
+The proposed April 2013 Service Changes contained herein reflect the continued budgetary challenges
+faced by RTD. The guiding principles for service changes continue to be:
+•
+Service performance evaluation based on the RTD Service Standards
+•
+The effects on the overall integrity of the transit network and on transit dependent markets
+•
+The availability of alternative services to affected riders
+•
+Cost-effective distribution throughout the District and Family of Services
+•
+Title VI of the Civil Rights Act: benefits and services are provided without regard to race, color or
+national origin
+•
+Response to changes in the communities where services are provided
+SUMMARY OF PROPOSED SERVICE CHANGES
+Routine Service Adjustments
+205/225 – split the interline to establish correct recovery amount
+SKIP – adjust PM peak and evening schedule
+
+Packet Pg. 45
+
+2.A.2
+
+Discontinue seasonal school trips or deviations on the following routes:
+Route 1W – West 1st Avenue
+Route 6 – East 6th Avenue
+Route 9 – West 10th Avenue
+Route 11 – Mississippi Avenue
+Route 16 – West Colfax
+Route 24 – University Blvd
+Route 30 – Federal Boulevard
+Route 30 Limited – South Federal Limited
+Route 31 – Federal Crosstown
+Route 43 – MLK Boulevard/Green Valley Ranch
+Route 51 – Sheridan Crosstown
+Route 52 – West 52nd/South Bannock
+Route 65 – Monaco Parkway
+Route 66 – Arapahoe Road
+Route 73 – Quebec Street
+Route 76 – Wadsworth Crosstown
+Route 100 – Kipling Crosstown
+Route 153 – Chambers Road
+Route 206 – Pearl/Eisenhower
+SKIP, JUMP, BOUND, DASH – to Summer service levels
+FINANCIAL IMPACT
+The annualized cost impact of the April 2013 Service Change proposal is estimated to $53,200.
+PUBLIC HEARINGS
+Two public meetings have been scheduled for January 2013 in Downtown Denver. These hearings are
+designed to inform the public of the proposed service changes and to obtain public input which will be
+summarized and reported to the Board at its February meeting, when final service change proposals will
+be presented and final approval will be requested.
+Downtown Denver
+
+RESULT:
+MOVER:
+SECONDER:
+AYES:
+ABSENT:
+
+January 30, 2012
+12:00 p.m. & 7:00 p.m.
+RTD Administration Offices
+1600 Blake Street, Room T & D
+
+PASSED [UNANIMOUS]
+Bill James, Director, District A
+Tom Tobiassen, Director, District F
+Anderson, Bagley, Daly, Deadwyler, Folska, Hoy, James, Lasater, Lubow, Menten,
+Rivera-Malpiede, Solano, Tobiassen, Walker
+John Tayer
+
+Prepared by:
+Jessie Carter, Manager, Service Planning and Scheduling
+Connie Payne, Administrative Assistant
+
+Packet Pg. 46
+
+2.A.2
+
+Approved by:
+
+Packet Pg. 47
+
+2.B.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: January 10, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+January 9, 2013
+
+Board Meeting Date: January 15, 2013
+
+Subject:
+
+Radio and Computer Aided Dispatch and
+Automatic Vehicle Location (CAD/AVL) Project
+Status Update
+
+Information
+
+INTRODUCTION
+Testing continues and high severity items have been resolved. Testing is delayed pending a few missing
+features that are scheduled for delivery by next month. Onboard installation rates have improved. Below
+is a capsulated summary that is followed by a list of current and upcoming activities.
+MAJOR PROJECT ELEMENTS STATUS
+Key
+
+Element
+
+CAD/AVL Contract
+1
+
+2
+
+3
+
+Testing and Problem
+Resolution
+
+CAD/AVL
+Installations
+CAD/AVL Contract
+Automatic Stop
+Announcements (ASA)
+
+Status
+
+
+Yellow
+
+
+Yellow
+
+About 75% of Phase II Mini-fleet testing is complete. INIT
+was not as prepared for testing as they had indicated in early
+December and many tests were deferred.
+High severity problems from testing are fixed. A few
+additional items were identified in testing and the number of
+items unresolved has increased from 77 to 88 items.
+Several areas of functionality remain to be delivered and are
+scheduled to be implemented in the first quarter 2013. These
+items will be tested when delivered.
+About 30% of the fixed-route fleet has been installed. There
+have been recent improvements in installations rates.
+The installation schedule status has been adjusted to show
+as yellow. This is because the current expectation is to
+complete in July, which is not currently at risk.
+
+foundations for ASA near completion and public ASA
+ The
+deployment will be made when all buses have the CAD/AVL
+Green
+
+onboard hardware.
+
+6
+
+CAD/AVL Contract
+Database Interfaces
+
+ Asset management interfaces are developed and tested.
+A downstream data management interface with Ride Check
+Green Plus is being developed.
+
+7
+
+Real-Time Passenger
+Information (RTPI),
+foundation, delivery and
+Light Rail equipment
+
+ RTPI foundation requirements development is anticipated to
+be complete in 2013. Implementation for buses is anticipated
+Green for 2014 and implementation for trains is expected in 2015.
+
+UPCOMMING ACTIVITIES / EVENTS
+Activity / Event
+
+Time Frame
+
+Packet Pg. 48
+
+2.B.1
+
+Activity / Event
+
+Time Frame
+
+CAD/AVL Mini-fleet testing
+
+7/2012 - 2/2013
+
+Fixed-Route Bus Installations
+
+7/2012 - 7/2013
+
+CAD/AVL System Acceptance Testing
+
+2nd and 3rd Quarter 2013
+
+RTPI foundation and public delivery for buses
+
+2013 - 2014
+
+RTPI for Light Rail
+
+2014 - 2015
+
+COMPLETED ACTIVITIES
+The following project activities either complete or substantially complete and are no longer risks to the
+project’s success.
+ Paratransit Data Upgrade Project
+ Radio Network Build Project
+ Radio-only mobile and portable radio installation and deployment
+ Operations Control Center (OCC) Remodel
+ CAD/AVL and SMT interface development and testing
+Prepared by:
+Eric Farrington, Program Manager, IT
+MinuteTraq Admin,
+Approved by:
+
+Packet Pg. 49
+
+2.B.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: January 10, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+January 10, 2013
+
+Board Meeting Date: January 15, 2013
+
+Subject:
+
+Smart Card Project Status Update
+
+Information
+
+INTRODUCTION
+The RTD Smart Media fare collection system went live for Eco Pass Program and College pass program
+participants as of January 1, 2013. RTD employees serving as “Ambassadors” have been assigned to
+staff all RTD light rail platforms beginning on December 27, 2012 and will continue to staff all platforms
+until January 11, 2013. Various individual platforms associated with area colleges will be staffed until
+January 24, 2013.
+The installation of bus validators is complete except for 5 buses that are in heavy maintenance. There
+are approximately 100 buses that are still going through the RTD QC inspection process to accept them.
+All remaining work is being done by Linkmont as a DBE subcontractor to Xerox.
+There have been reports of some problems with bus validators not working correctly. Customers have
+experienced some “Red” validations. The causes for the malfunctions include parameter configurations
+that were not properly updated on some buses and some improper bus operator procedure. Corrections
+to the parameters are being implemented by ACS/Xerox personnel and Bus Operations continues to reiterate information to the Bus Operators through every communication channel available. We are
+monitoring the entire system and responding accordingly to issues as they arise.
+All Light Rail validators have been installed and are operational. Additional (over and above the original
+plan) validators are in the process of being installed at the following locations:
+ 16th/Stout (2)
+ 18th/Stout (2)
+ 16th/California (1)
+ 18th/California (1)
+The RTD Network Team and SCADA Team are working together to connect the validators to the existing
+network for the Ticket Vending Machines (TVM) to accept credit cards by 2nd Quarter 2013. Validators
+for West Corridor and expansion of existing stations, as needed, have been ordered and are expected to
+be delivered in March, 2013. An RFP will be going out to bring on a workorder contractor to be on-call
+to install additional validators or relocate any validators as needed.
+Printing and distribution of the EcoPass, CollegePass, and NeighborhoodPass cards began the week of
+October 8th. Ecopass Employers had the option of printing their own cards (Self-Administration) or
+submitting photos to RTD and having the cards produced and mailed back. All employers who
+submitted their photos by the initial deadline have received their cards. Some companies are still
+submitting their photos and those cards are in the process of being printed and distributed. Complete
+distribution of all cards will occur by the end of January. 2012 EcoPass and CollegePass decals were
+extended through January 31, 2013 to assist customers in making the transition as easy as possible.
+The software for Fare Inspectors has been approved and is in the process of being installed. Fare
+inspectors are operating in an “educate & inform” mode currently and will transition to enforcement of
+the smart card tapping in the near future.
+Xerox and INIT have been working together to finalize a single driver control. The INIT CAD/AVL
+interface will contain the screens needed to control the Smart Card Equipment. This integration will
+offer the driver a simpler and more streamlined approach to CAD/AVL and Smart Card. This successful
+
+Packet Pg. 50
+
+2.B.2
+
+integration reduces overall operating and maintenance expenses and increases the driver convenience
+with the completion of a true “smart bus”.
+The Board has previously approved several fare changes and administrative policies regarding the
+implementation of Smart Card. The Smart Card Program Team will continue to add policy and
+procedures to this list and distribute to The Board as needed (no updates this month)
+1. BUS INSTALLATIONS
+Key
+
+Elements
+
+1a
+
+Installation Rate
+
+Status
+
+
+Yellow
+
+99.6% of buses are installed. Recent installs are in the
+process of being inspected by RTD. Inspections expected to
+be complete by the end of the month.
+
+2. PLATFORM INSTALLATIONS
+Key
+
+Elements
+
+Status
+
+2a
+
+Central, Southwest and
+Southeast Lines
+
+3.
+
+FARE INSPECTOR HANDHELDS
+
+Key
+
+Elements
+
+3a
+
+Software Installation &
+Training
+
+4.
+
+CAD/AVL INTERFACE
+
+Key
+
+Elements
+
+4a
+
+Interface with INIT
+
+5.
+
+WEB PORTAL
+
+Key
+
+Elements
+
+5a
+
+Design and Testing
+
+5b
+
+Training
+
+ Complete and operational, monitoring any issues
+Yellow
+Status
+
+ Software is being rolled out and training is complete.
+Yellow
+
+Status
+interface has been successfully tested in the lab and is
+ The
+active on some 300 buses.
+Green
+
+Status
+
+ Web portal was tested, implemented, and ready for customer
+use on Oct 8 .
+Yellow
+for all EcoPass, CollegePass, and Neighborhood Pass
+ Training
+Coordinators is complete and ongoing sessions scheduled.
+th
+
+Packet Pg. 51
+
+2.B.2
+
+Key
+
+Elements
+
+Status
+Green
+
+5c
+
+Photos/Files Due from
+EcoPass Employers
+
+6.
+
+CARD DISTRIBUTION
+
+Key
+
+Elements
+
+
+
+
+Green
+
+EcoPass employers have uploaded their files and the cards
+are in various states of production and distribution.
+Companies who had their photos submitted by the deadline
+have received their cards. Other companies will get their
+cards this month.
+
+Status
+All smart card stock has been shipped.
+
+6a
+
+Card Issuance
+
+7.
+
+REPORTS
+
+Key
+
+Elements
+
+7a
+
+Reports
+
+8.
+
+MARKETING
+
+Key
+
+Elements
+
+8a
+
+Strategy
+
+9.
+
+COMMUNICATIONS
+
+Key
+
+Elements
+
+9a
+
+Strategy
+
+MyRide cards will
+
+ have stored value and monthly passes encoded on them and
+have been ordered in anticipation of the August, 2013 go-live
+Green of MyRide.
+Status
+
+
+Report development is underway.
+Green
+
+Status
+and EcoPass marketing materials are complete.
+ CollegePass
+Web portal training materials are complete.
+Weekly
+communications to EcoPass Coordinators and RTD
+Green Ambassadors is ongoing.
+
+Status
+
+
+Green
+
+10.
+
+RETAIL POINT OF SALE (RPOS)
+
+Key
+
+Elements
+
+Ambassadors have been staffing Light Rail Stations for
+several weeks and any issues or concerns are being brought
+back to project team for resolution.
+
+Status
+
+Packet Pg. 52
+
+2.B.2
+
+Key
+
+Elements
+
+Status
+
+10a
+
+Retail Locations
+
+
+Green
+
+RTD will schedule follow up meeting with Safeway and then
+contact King Soopers. Ilium working to schedule meeting
+with 7-Eleven to discuss the Denver market, which has over
+75 franchise stores. Retail terminals are expected to be
+delivered in May, 2013.
+
+10b
+
+Statement of Work
+(SOW), Purchase
+Request PR), Board
+Approval, Contract
+
+ Notice to Proceed provided to Xerox on September 28 with
+delivery and integration testing to take place in June 2013.
+Green
+th
+
+NEAR-TERM ACTIVITIES / EVENTS (AUGUST 2012)
+Activity / Event
+
+Time Frame
+
+Factory Acceptance Testing – All EcoPass Functionalities
+
+Complete
+
+Vehicle Installations Complete
+
+Complete
+
+Vehicle QC/Inspection Complete
+
+January 31, 2013
+
+Light Rail Platform Installations Complete
+
+Complete
+
+EcoPass Web Portal Available to Public
+
+Complete
+
+EcoPass, CollegePass, and Neighborhood Pass Coordinator Training
+
+Complete/Ongoing
+
+Ambassador Program
+
+Complete/Ongoing
+
+CAD/AVL & SMT Integrated Testing
+
+Complete
+
+Equipment Operational Readiness Test
+
+Complete
+
+EcoPass “Tapping” begins
+
+Complete
+
+Period passes and Stored Value
+
+August, 2013
+
+Retail Point of Sale Network
+
+August, 2013
+
+Elimination of Paper-based fare products
+
+December 31, 2013
+
+Major reduction of Paper-based transfers
+
+2014
+
+Substantial System Completion (All Deliverables)
+
+Phase 1
+(Eco, College, Neighborhood):
+December, 2012
+Phase 2
+(Passes/Stored Value):
+
+Packet Pg. 53
+
+2.B.2
+
+Activity / Event
+
+Time Frame
+August, 2013
+Phase 3
+(Reduced Fare Program &
+FlexPass
+4th Quarter, 2013
+
+Prepared by:
+Gary Googins, Project Manager, IT
+Approved by:
+
+Packet Pg. 54
+
+

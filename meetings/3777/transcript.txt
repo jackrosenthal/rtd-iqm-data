@@ -1,0 +1,1396 @@
+2025-04-08
+Finance and Planning Committee
+MICHAEL GUZMAN: The Tuesday, April 8, Finance and Planning Committee will now come to order. We
+are convened as of 5:31 PM, Mountain Standard Time. I would respectfully ask everybody to remain muted
+while you are attending this meeting, unless you are recognized, and then you can unmute yourself. Please
+note that the committee meetings of the RTD Board of Directors will be held remotely via Zoom and will be
+audio and video recorded. The meeting recordings, along with the unofficial minutes of the meetings, will
+be posted as soon as practicable on the Board's website.
+During today's meeting, we are providing communication access real-time translation, also known as
+CART. Anyone who would like to access this service should send an email to the RTD Board Office at
+RTD.boardoffice@rtd denver.com and a link will be provided. Additionally, for anyone who would like
+access to a live transcript of this meeting in Spanish, the CART transcript can automatically be translated.
+[SPEAKING SPANISH]
+
+A live stream of this meeting is also available via RTD's YouTube page. I'm going to pause here for one
+moment. The Board last month adopted changes to its operating guidelines, which call for the following-to allow the meeting Chair to make specific time allotments to its agenda items and to ensure the meeting
+is being conducted according to those time allotments, to share thoughts succinctly and such that no
+Director speaks for more than five minutes on a given topic initially, and no more than two minutes if
+subsequent comments are required, finally, to honor the meeting Chair's role in ensuring efficient
+communication, which can include limiting debate, allocating a set amount of time to a given agenda item,
+and imposing speaking limits.
+I have not included anything to that effect in this meeting, and we are not changing our procedures from
+prior at this point for this month. I bring that up only to say that it may affect future meetings, and I will confer
+with my colleagues on the Board and ensure that in planning these meetings, we follow those guidelines
+accordingly. If we plan to make any changes, I will inform everybody well in advance and let you know, just
+so that we can have an efficient meeting. So far, we've done a great job on this committee, and so I'm
+hoping we can just keep going with that and make sure that we honor our guests' time as well as each
+other's.
+All right. I would now like to call the roll for the committee members. Committee Vice Chair Karen Benker.
+KAREN BENKER: Present.
+MICHAEL GUZMAN: Director Peggy Catlin.
+PEGGY CATLIN: Here.
+MICHAEL GUZMAN: Director Lynn Guissinger.
+
+LYNN GUISSINGER: Here
+MICHAEL GUZMAN: Director Chris Gutschenritter.
+CHRIS GUTSCHENRITTER: Here.
+MICHAEL GUZMAN: Director Matt Larsen.
+MATT LARSEN: Here.
+MICHAEL GUZMAN: Director Patrick O'Keefe.
+PATRICK O'KEEFE: Here.
+MICHAEL GUZMAN: I am Director Michael Guzman, Committee Chair. We are all here. Great job. I also
+see Board Chair Bouquet has joined us. And sorry, one moment while I flip through the screens. I don't see
+any other Directors, but if you are here, please let me know. It appears we are joined by our General
+Manager, CEO, Debra Johnson. Thank you. And our Deputy CEO, Angel Peña are also on with us this
+evening. So let's go.
+I would like to open the public comment to anyone who would like to address the committee regarding any
+topic listed in the published meeting agenda for the current or previous month. If you wish to speak and
+have not already done so, please either raise your virtual hand or press star 9 on your phone. During this
+time, the committee will not offer any direct comments or responses. However, if you would like to be
+contacted regarding your public comment, please email the RTD Board at RTD.Directors@RTDDenver.com. Are there any hands raised?
+JACK KROLL: Committee Chair Guzman, there are no hands raised at this time. And in anticipation of your
+subsequent question, there were no emailed public comments to the Board in this committee for tonight's
+meeting.
+MICHAEL GUZMAN: Great. Thank you very much, Mr. Kroll. With no participants in the queue, we will
+close the public comment section at this time. Tonight, we have information from external entities. There is
+one external entity report on the agenda for this evening. It is the sales and use tax forecast. I would like to
+ask Brenden Morgan, our acting Chief Financial Officer, to introduce this item and our guests from the CU
+Leeds School of Business. Mr. Morgan.
+BRENDEN MORGAN: Thank you, Chair Guzman. Good evening. I'm Brenden Morgan, the acting Chief
+Financial Officer. This first item here, we're going to hear from the University of Colorado Leeds School of
+Business. And they're going to present their most recent sales and use tax forecast for the RTD. This
+forecast is very important to RTD because the sales and use tax is our largest single revenue source.
+Leeds provides to us two forecasts annually, one in March, which they're going to walk us through this
+evening. That is the forecast that we will use for preparation of the five-year financial forecast, which we
+will be discussing with the Board summertime this year. And then they'll provide another one in September,
+which we will use for the 2026 budget later on this year.
+I'd like to point out a few things here. Their forecast-- if you flip through their slides here, you'll notice the
+2025 forecast is significantly lower than the previous forecast in the 2025 budget that we have for sales tax
+revenue. And it's also about $6.1 million lower than our 2024 actual sales tax revenue. So it's a meaningful
+
+decline expected for the rest of this year. Near term, we can offset the 2025 decline through various
+strategies that we've been working through.
+When you look beyond just 2025 and you look at the 2026 through 2030, the five-year period in front of us
+here, this forecast is about $315 million lower than the previous forecast. So we'll have to have some tough
+conversations when it comes time to talk through the five-year financial forecast. Again, we're looking at
+strategies already, thinking about how we can do this and manage this decline in the least disruptive
+manner. But we'll get to that this summer when we're putting together that five-year financial forecast. So
+that's about all I have for this. I'm going to hand it over here to the folks we have-- Rich Wobbekind, Robert
+McNowan, and Brian Lewandowski from the University of Colorado Leeds School of Business. So,
+gentlemen, please, take it away.
+BRIAN LEWANDOWSKI: All right. Thank you, Brenden. First and foremost, I just want to really thank all of
+you for your time this evening. I understand that there may be some new individuals in the room, so I'm
+going to provide just a little bit more of a background than I usually do. My name is Brian Lewandowski. I'm
+the Executive Director of the Business Research Division at the University of Colorado Leeds School of
+Business, and I'm joined by my colleagues, Doctor Richard Wobbekind and Doctor Robert McNowan, who
+are both PhD economists and have a long history as professors and practitioners in the field of economics.
+Now, the business research division is an applied research center at the University of Colorado, Boulder,
+and for over 100 years, we have researched and studied the economy, being hyper focused on the Colorado
+and the local economy. We've been working on a sales and use tax forecast with RTD since 2010. So how
+we do this, we built a time series econometric model that examines relationships between the district's
+economy and the state and national economy. And after establishing these long-run dynamic relationships
+between these economies, we apply that relationship to national economic forecasts from Moody's
+Analytics. Thus, we generate a local economic and revenue forecast based on a projection of the national
+economy.
+We also present the upper and lower statistical bounds of the forecast. And we generate forecasts under
+varying economic conditions, which is known as scenario analysis, which we think is helpful for
+understanding how your revenue may perform under alternative economic conditions. And these forecasts
+are presented in a short run, one to two years out, medium term, which is five to six years out, and a longterm forecast, which is about 30 years out, incorporating changing economies and changing demographics
+over this period.
+Now, we're currently in some very interesting and unique economic times, which you'll hear about in a
+moment from Rich. So part of our job is to discern the best economic scenario to use from Moody's to apply
+in our forecast. We usually select the baseline scenario from Moody's. But then we can also choose from
+a range of more optimistic economic conditions and more pessimistic economic scenarios. For this
+particular update, we used one downside scenario from Moody's because we felt that the downside risks
+were evolving faster than Moody's had incorporated into their baseline model, conditions that we now
+believe are coming to fruition.
+Now, over the years, we have reacted to various economic shocks. We began modeling your revenue by
+component to capture the unique growth rates by sector of the economy. So think about how restaurant
+sales and grocery sales diverged during the pandemic. We're modeling it by component to capture those
+unique differences. We began modeling revenue at greater frequencies, even monthly, during the
+pandemic, just to help respond to your needs in reacting to those economic conditions. We adapted to the
+
+growth of e-commerce and a legal and taxed marijuana industry, all things that were disruptive in a positive
+way to the growth rates of your revenue.
+And we continue to think through how new legislation may impact your sales and use taxes and be
+thoughtful about how climate change is incorporated into the macroeconomic model. For the short-term
+forecast, the BRD, the Business Research Division, estimates have been above the actual revenue 81
+times and below your actual measured revenue 94 times. So that shows that there's quite a bit of symmetry
+between the mean. So we're high and low almost an even number of times. And our simple forecast error
+one year out over this 15-year period has been -0.8%. So we feel that error is fairly low.
+So for the next few minutes, Rich will share with you an economic update, which is important for
+understanding how we're thinking about the economy. And then we'll turn it over to Robert, who will tie that
+information to the forecast for RTD sales and use taxes. With that, Rich, please take it away.
+RICHARD WOBBEKIND: Thank you, Brian. And as Brian mentioned, we're going to be making our way
+through the slide forecast here. So let me just sort of take you through some of the macro assumptions.
+Again, with no-- without overemphasizing the environment we're in, of course, there's a great degree of
+uncertainty with the policy changes we're experiencing. I'll talk a little bit more about that in a moment. But
+going in and using the scenario Brian suggested, we feel confident that the scenario chosen to run the
+baseline forecast is not overestimating to any great extent the overall economic activity in the economy.
+So here you see the baseline forecast that is approximately-- the growth for the year is about 8/10 of a
+percent for GDP. Again, that has come down since the beginning of the year or since the fourth quarter of
+last year. Those assumptions for GDP for 2025 have come down. In this particular forecast that you see
+right now in terms of the baseline forecast, what we know from GDP now out of the Atlanta Fed is that they
+have reduced the first quarter GDP forecast when adjusted to about a minus 8/10 of a percent. So it looks
+like it's going to be an overall very slow year for the US macro economy. And that's a key driver for the state
+economy and a key driver for your model.
+We've also seen a slowing in terms of employment growth. Again, you're familiar with this. Just last Friday,
+there was an employment report that was released. It was a positive report in the greater sense of things,
+152,000 jobs. But also included with that was a slight revision downward of the January and February
+numbers. So this is, again, indicating a still growing but slowing national economy, one that is, currently not
+recessionary, but is, again, showing very, very slow growth.
+So this translates into our Colorado forecast. We had a very big slowdown in 2024 in terms of the Colorado
+job growth, 1.1% for 2024. And our 2025 number in our forecast is approximately 1.2%, at least at this point
+in time without any revisions. So again, you can see that while this is not-- it's growing. It's growing at a
+substantially slower rate. You can look back over the course of the last more than decade, and other than
+2020, 2024 and 2025 are two very slow years in the grand scheme of things.
+But still, if you look at the right-hand side, we're at the highest level of labor force that we've ever seen, or
+total employment that we've ever seen. So it's still a slowing but growing economy overall. Similarly, we
+have the largest labor force we've ever seen, as illustrated on the left. But also in terms of the flip side, we
+look at the right-hand side. We're seeing the unemployed versus the people-- the unemployed workers
+versus the available jobs, and in the most recent month, we've actually crossed the line, meaning that there
+are more unemployed people than there are available jobs in the workforce.
+
+So for a long period of time, we had a very tight labor force that showed a higher level of job openings than
+unemployment. Right now, that ratio has gone to 0.9. So we have for every available job, we-- for every
+unemployed worker, there is 9/10 of a job available, if you will, if you want to think of it in that context.
+When we look at major drivers, of course, for your forecast are national retail sales and then Colorado
+taxable sales. And you can see the trend on the left-hand side. This has been-- after the excess spending
+and pent up demand coming off of COVID has worn itself out, we've seen very much a slowing trend, '23,
+'24, '25, in terms of where retail sales have been. And you do see a tracking, although not directly, between
+national sales and Colorado retail sales. And on the right-hand side, because we can get this detail at the
+national level, you can see the types of things that are growing at a more rapid rate, and the types of things
+that are growing at a less rapid rate in terms of retail sales.
+And the thing to note, I believe, out of the right-hand graphic, is that a lot of these things are in what we
+would call non-durable goods, meaning short-term consumptions, like health care and personal services
+and things like food and beverage and motor vehicles, parts in particular, food and drinking, clothing and
+accessories. All of them-- those things are non-durable and tend to be more lower cost items in general
+and kind of fit with what you expect in a slowdown in the business cycle as opposed to expensive, durable,
+longer lasting types of things. People put off those purchases when they see a slowdown in the business
+cycle.
+We can similarly see that Colorado's rank among states has fallen fairly substantially in the last year or so
+in terms of a lot of the major indicators, including real GDP, and employment growth. Even population
+growth has fallen to between 10 and 20 in the grand scheme of things. But you can see a lot of the major
+indicators have fallen in terms of relative ranking. All of that said, we're still, in terms of per capita personal
+income, the eighth highest per capita personal income state. Our hourly wage growth, we were ninth highest
+in the country for that. And average annual pay, we're 7th highest in the country. So a lot of the indicators
+are still very positive. They're just-- relative ranking, they're slowing.
+And when we look at labor force participation, which is five lines up from the bottom, it's a bunch of initials- LFPR-- but we're still the sixth highest labor force participation state in the country. So we have a lot of
+people willing and able and wanting to work. And we have solid kinds of indicators, but our relative ranking
+has fallen amongst the 50 states.
+As I led off with, just tons of risks to the forecast, and we put this graphic out there to give you-- the ones in
+red are the ones we're probably most concerned with in terms of the risk factor. Some of these risks could
+be down-- are downside risks. Some of them could be upside risks to our forecast, meaning creating
+uncertainty in the forecast. But certainly, tariffs, immigration policy, and the federal government pullback
+are seriously impacting the way we're thinking about the economy and the way the preliminary runs that
+we're using to forecast the model are being generated with some of those issues in mind.
+Just to close with just a couple of quick comments on some of the things that are out there in terms of
+hearing a lot about-- of course, we're concerned about the federal job loss given the position of the state,
+the relative position of the state. But we're really highlighting here that may be more regional than statewide
+in the sense of its impact. The overall level of federal employment in Colorado has been relatively stable
+for 35 years. If you look at the left-hand graphic, when the Census occur, we see these bumps. And its
+overall importance in terms of percentage of total employment in the state has declined over that same
+period.
+
+So, yes, federal employment is important. And the federal labs are certainly important to the state economy.
+But as a percentage of employment, they're a relatively small number. Also as relates to trade, we are-these are our shares with the major trade partners that we have, and of course with tariffs going on. But
+Colorado is a relatively minor player, if you will, in terms of dependence on US trade, 33rd in terms of overall
+ranking, and 49th in terms of per capita export ranking. So we really don't depend on trade as a major part
+of our economy.
+But that doesn't mean-- just like with the federal labs and sort of locational types of impacts that could occur
+around lab hot spots, in this particular case, it could very well be a situation where we see impacts in terms
+of, for example, the elements of the agricultural sector in terms of their impacts on the state. And then
+closing out, just a quick comment about inflation. This has come very much under control. And in the-- and
+as we look at the year end in January, we now have a little bit of update on this since this report was passed
+forward.
+But still, the inflation in the Mountain Region and in Denver-Aurora-Lakewood is very much under control
+and below the national average. This is good news. This is something, of course, there is concern about
+going forward with some of the policies that could potentially raise inflation, in particular-- this is my personal
+comment-- in particular, the tariff policy and the immigration policy. So we'll look forward to addressing
+those as we see the actual data come out in the months ahead. So now I am passing the baton on to my
+colleague, Doctor McNowan, and he will talk to you about what you most care about, which is the RTD
+forecast.
+ROBERT MCNOWAN: All right. Thanks, Rich. So I'm going to try to build on what Rich has presented,
+particularly about the national economy, which is naturally, a key driver of what's going on at the state level.
+Although, one of the Rich's slides pointed to the differences across states and particularly how Colorado
+ranks on these various economic criteria. And so clearly, it's not a one-for-one lockstep relationship between
+the Colorado economy and the national economy. And that that's actually very central to our forecasting
+project is the Colorado economy model that we've developed for RTD.
+But obviously, the US economy plays an important role. And there's a few summary statistics showing our
+expectations for the current year and 2026 as well for our short-term forecasting. And you can see that
+under the scenario that we've selected, as Brian described as somewhat more pessimistic than Moody's
+baseline scenario, that it's not a very robust forecast here. GDP growing at less than 1%, as Rich mentioned.
+The labor market doesn't look too good with employment actually declining over these two years and the
+unemployment rate rising. So at the national level, it's not a great picture. And of course, these data were
+presented before the events of the past week or so. Our next slide then translates this into what's going on
+for Colorado. Rich, will you advance the slide for me? Or am I-- am I able to do that? There we are.
+Yeah, so you can see the similar sort of statistics criteria for indicating the state of the Colorado economy.
+And in. 2025, notice there's a higher expectation for inflation in Colorado, contrary to what we've seen in
+the recent past. And I think this simply reflects a more accurate forecast of what's going to go on even at
+the national level. So keep your eye on those inflation rates on the left column there-- 4.7% in the current
+year and 3.4%, so not meeting the Fed's goals by any means of reducing inflation to 2%.
+And what that means is that the rate of growth in retail sales and personal income, which are key drivers of
+sales tax revenues, in real terms, adjusted for inflation, those two variables are declining. So that means
+the purchasing power of our households is not going to sustain robust expenditures. And you can also see
+the unemployment rising in our forecast and a very modest growth in the employment levels.
+
+So in our next slide, now, RTD has unfortunately gone through a pretty rough patch here. You can see from
+the bars, the height of these bars, which represent the total sales and use tax revenues, they're fairly flat
+over this entire period from 2022 through 2024 and continuing into our forecast for 2025, which actually
+shows a decline in 2025 expected in our forecast of minus 0.7%, so pretty close to 0. And then, although
+we're picking up a bit in the forecast for 2026 at 2.8%, again, that is not going to meet the rate of inflation.
+So in real terms, the revenue collections for RTD are not that good either.
+Now, looking further into the future, we present this medium-run forecast going out to 2030. And you can
+see those bars were rising a little bit more dramatically. But let's go to the next slide, Rich. That's fine. And
+yeah, you can see then from the numbers-- there's a lot of numbers to look at, so I'll only point out a few.
+But we're expecting modest growth in the current year and 2026, but picking up considerably, quite a strong
+recovery in 2027, and then steady as it goes through the remaining years to 2030, growing at above 4%
+per year. And that's quite substantial relative to the recent history that you just saw there.
+Next slide. Another picture that I think will highlight the importance that we have with these different
+scenarios-- so the blue line presents what we call our baseline forecast. And as Brian mentioned, that
+forecast was not as strong as what Moody's was expecting in their baseline. But we anticipated that there
+were some factors that Moody hadn't incorporated in the forecast when they presented them to us or when
+we were able to access those. But even more interesting is if you look at the red line, which shows what
+we expect for RTD sales and use tax revenues under a more pessimistic environment, if the National
+economy suffers some serious setbacks as a result of, let's say, the tariffs or the deportation policies,
+immigration policies that Rich had referred to, then the red line, you can see, shows a decline in revenues
+in both '25 and '26, and then moving back on track upwards, even to catch up almost with the other
+scenarios.
+So this takes us out to 2030. Also, those dashed lines are the statistical confidence bounds. So we would
+expect that the true level of revenues is going to fall somewhere between those dashed lines, upper and
+lower bounds there, with a 67% probability. The next slide.
+And we also produced this long-range forecast, now going out to 2055, so essentially, a 30-year forecast.
+It's largely driven by demographic changes, both the aging of the population and the slowing in the rate of
+growth of the total population. And you can see that with those factors in particular that-- look at the
+rightmost column of the data there, the numbers there, and you can see that RTD taxable sales essentially
+equivalent to sales tax revenues.
+The average rate of growth over these 10-year periods is declining from 4.9% in the most recent past 10
+years. In the current 10 years that we're beginning to enter, quite below, a bit below that, even further below
+in the next to last decade, from 2036 to 2045. And then with some slight recovery in the final decade, the
+demographic factors are actually going to move a little more in our favor in terms of generating more tax
+revenues. And next slide.
+So I just want to emphasize some of the features of these forecasts. These are model-driven forecasts. We
+don't adjust them based on human judgment. We believe that this is the best service that we can provide
+to RTD. It's important to emphasize that the forecasts are subject to some degree of uncertainty. And that's
+why we provide these alternative scenarios and also the confidence bounds based on the statistical
+analysis.
+We've tried to build a model that is grounded in theoretically sound economic theories and state-of-the-art
+rigorous econometric methods. And we really-- this is a real partnership. We benefit greatly from the
+
+interaction we have with the team in the revenue department and the data that's provided to us. And it's
+really a pleasure working with all of you. So we're happy to take some questions or comments from anyone.
+MICHAEL GUZMAN: OK, thank you very, very much. I appreciate it. I'll just say this. My niece and I are
+getting ready to go see The Wiz. And so, "Don't You Ever Bring Me No Bad News" has been playing through
+my head since I got the heads up on this packet.
+[LAUGHTER]
+So maybe I'll start with a quick question. And I'm sorry. I'm going to take Chair's privilege this one time. The
+demonstration, what's the theory behind decreased spending for all of these years, and then, all of a sudden
+in 2027, there's a substantial jump? Can you explain that? Because that was a little confusing to me.
+ROBERT MCNOWAN: Yeah, I think all three of us might have a slightly different take on this, but the
+emphasis of my answer is what explains the relative stagnation of RTD tax revenues for these previous
+three years and continuing into the current year. And my answer is that even though there are a good
+number of economic indicators for the state, which have been moderately strong, the key indicator of retail
+sales or taxable sales have not been strong at all. And that's particularly true within the district. And there,
+of course, is some shifting in the composition of expenditures towards some services that are not taxable.
+And that, I think, has weakened the sales and tax revenue growth for RTD in particular.
+And to some extent, we're still working our way out of the pandemic. I mean, it's hard to believe, but the
+restaurants are still closing, and we see this all the time, still an accumulation of the hardships that these
+small businesses suffered from during that-- during the pandemic and the aftermath. So I think all that adds
+up to the stagnation that we've seen and will continue now for another year or so. And so I'd say that 2027,
+according to our forecast, is going to be more a return to normal. Maybe it's a little above normal, but that's
+a natural consequence too of being underperforming for a while.
+RICHARD WOBBEKIND: I don't know if Brian wants to jump in first or not. I would just say very quickly, I
+think we're talking about a more robust housing market, and we've had a very depressed housing market.
+And just in terms of even people buying old property, moving into a house already owned, there's
+tremendous amount of home improvement types of stuff that occurs. And those are numbers that have
+been very soft in the US and in Colorado for the last couple of years. So I'm attributing at least some of it
+to that, in addition to what Robert mentioned.
+MICHAEL GUZMAN: Awesome. Thank you. Brian, anything to add?
+BRIAN LEWANDOWSKI: Just one observation-- on slide 16 where we show the medium-term RTD revenue
+scenarios, you may find it-MICHAEL GUZMAN: It's packet page 20 for us.
+BRIAN LEWANDOWSKI: You may find it somewhat curious that the alternative scenarios converge in 2030.
+And we also find that curious. We're leveraging Moody's alternative scenarios. Really, this is by design
+because Moody's is showing what-- what they're showing is an economic shock of varying degrees in the
+short term. And so you can see them on that slide. There's an economic shock in the pessimistic scenario
+and in the baseline scenario, and less of a shock, just more continued growth, in the optimistic scenario.
+
+So we do see differences in the short term, which we like for this modeling exercise. But then there is this
+convergence in the medium term that may or may not be very likely. Just, growth rates catch up by that
+point in time.
+MICHAEL GUZMAN: Great. Thank you. Vice Chair Benker, your hand was up first.
+KAREN BENKER: OK, first of all, thank you so much for this report. I have to confess, I've been part of your
+fan club for many years. I've been following your work probably close for a decade, almost two decades,
+always comparing it to OSPB in [? which ?] council forecasts to see where you land. So it's fun to actually
+meet you and to ask you a few questions.
+You touched on this just now a little bit. When you're talking about sales taxes and they're pretty much level
+from this year and last year-- in fact, even a little bit lower-- you talked about what kinds of sales are going
+up and what kinds of sales are going down. Could you break that up a little bit? So you're saying that
+restaurants are lower? Home-- home goods have been stalled because of the housing situation. What else
+are you seeing in the sales taxes?
+RICHARD WOBBEKIND: I don't know if Brian can say any more about Colorado. I was-- what I was referring
+to is what is on here in terms of where we-- this is on the national numbers. In the national numbers, we
+can get detail in a very rapid sort of fashion. I think the state numbers have a little bit of lag, but I don't know
+if Brian can comment on this.
+BRIAN LEWANDOWSKI: Yeah, so there's a couple of phenomenons that we're watching right now. One,
+that only barely shows up here on the slide that Rich has up, is that Colorado taxable sales are growing at
+a slightly slower rate than national retail sales. So at the national level, we have a great long history of retail
+sales by component. The components are shown on the right-hand side of this slide.
+[INTERPOSING VOICES]
+BRIAN LEWANDOWSKI: In Colorado-KAREN BENKER: Oh, I'm sorry. Go on.
+BRIAN LEWANDOWSKI: Yeah, in Colorado, we have a great wealth of data from the Department of
+Revenue that has taxable sales by county and by city, and we can even take a look at it for some industries.
+So two observations that I want to share is one, we've seen a flattening of taxable sales pretty broadly
+across Colorado. So the average last year was about 1% for 2024 over 2023. And we saw a lot of our major
+metro communities recording slow taxable sales. That's the state's tax base. So it's really comparing apples
+to apples across these jurisdictions.
+And the second observation is that it appears that Colorado consumers are perhaps shifting a little bit more
+of their attention to services from goods, which looks like it might be a trend slightly ahead of the nation,
+which is important for RTD because like the state and like many jurisdictions within the state, you're taxing
+goods. And so if consumers shift some of their attention to services, that ends up detracting from revenue
+that would otherwise support your operation.
+KAREN BENKER: I guess I'm sort of surprised. I've always thought of Colorado as being in the top 10 of
+so many different categories. And the slide that you showed just a little while ago shows that we're in the
+30s or the 40s, even with personal income growth and population growth. That surprises me, that population
+
+growth has been slowing. So why are we different now, a little bit different from where we were even just a
+few years ago?
+BRIAN LEWANDOWSKI: Yeah, so the other slide that we like to show in partnership with this slide is our
+15-year growth rate. And so we measured this what, 2008 through 2013. Now that the year-end numbers
+are starting to trickle in for 2024-- sorry 2023, 2024-- we need to update it. But over that long-term period
+coming out of the financial crisis, the Great Recession, Colorado was a top-five state in many of these really
+important metrics, so beating most states in GDP growth, employment growth, income growth. Home price
+growth, we were number one over that period, sustaining growth rates of 6%.
+So I think that there's two things going on here. For some of these metrics, other states are just now playing
+catch up. They have leapt us in ranking because they had a delayed recovery. And so now in the very short
+run, when we look at a one-year rank, there's other states that are now growing faster than us-- may not
+mean that we're growing slower in that particular metric. It just means that other states are growing faster.
+Now, in some of these other metrics, we actually are growing more slowly. And so that seems to be-- having
+a 6% compound annual growth rate for home prices, that is not a sustainable growth rate for home prices.
+There is a point then in the future where people can't-- literally can't afford to live in Colorado anymore if
+you continued on that trajectory. So really growth rates are hard to sustain, and we seem to be hitting an
+inflection point, perhaps, ahead of some other places. We've seen the tech slowdown, the tech industry
+slowdown, where Colorado has a great comparative advantage. That slowdown has hurt some of our
+employment growth.
+And that story is replicated when we take a look at the information sector, our construction sector. So I think
+behind each one of these numbers, there's sort of a story that describes it. Population growth-- we don't-we can think through, pontificate about why we might have slower growth. If it's our comparatively high cost
+of living, is that slowing the appeal of moving to Colorado? That's sort of a question mark. But it's sort of
+logical to think through some of those reasons why we could be having some slower population growth
+right now.
+RICHARD WOBBEKIND: I can build very, very quickly related to RTD on Brian's last comment there. The
+professional and business service jobs and the high-tech jobs, a lot of that was is Downtown Denver RTD
+District focused. And so we had-- several years in a row, we were adding 15,000 jobs a year in that particular
+sector. And the most recent data for 2024 is job loss in that sector, as some of those high-tech consulting
+firms and so on have downsized.
+And those are well above-average wage jobs. And there are office occupying to some extent, those jobs,
+some of that. And some of it's super benefited from COVID because people were going remote and so on.
+And we needed all these tech people to help us understand all of that. So it's a little bit of an adjustment
+process too, but it's certainly impacts down to retail sales, RTD district, and just overall.
+MICHAEL GUZMAN: So may I-- sorry, Director Benker-- move on to the next one, and we can come back
+if you have more? Awesome. Thank you so much. Director O'Keefe.
+PATRICK O'KEEFE: Thank you, Mr. Chairman. Thank you for the presentation. It was really useful. And
+I'm going to cheat a little bit. You said you don't interfere with your model, and I appreciate that. If you were
+going to second guess your model, what is the one or two things that are the highest risk things to change
+for you? And then related to that, is there a-- is there some sort of keystone or black swan event, or whatever
+you want to call it, that would tip us into kind of an unrecoverable, headed to a depression. Like Medicaid
+
+cutting-- Medicaid funding gets cut. The state can't backfill. So now you've just-- you're not spending on
+medical services, and campuses like Anschutz go into massive layoffs. Or is there anything that is-- that's
+one thing we should be watching? So the two parts-- what would you second guess? Tell me you wouldn't,
+but maybe we'll talk you-- talk you into it. The second, is there anything in the universe that we should be
+watching that would upend our assumptions as kind of a single event? Thank you.
+ROBERT MCNOWAN: That's a great question. I'll try to contribute a little to an answer here and rely on my
+colleagues as well. The simplest answer is that I would lean towards a more general pessimistic scenario
+from the national economy, And in that way-- as opposed to a more micro approach where I identify a
+specific problem. You gave the insurance example, and that's-- that could certainly be a concern. But more
+from the macro picture, if we used a different scenario at the national level, then that would be a more
+comprehensive expectation of what's going to happen in the national economy, driving in turn, what's going
+to happen in the Colorado economy across the board.
+So not so much looking for one specific problem-- now you could call the tariffs one specific problem, but
+of course, they're widespread and likely to be sustained, as best I can tell from listening to the news about
+that. So that's certainly the highest risk that I see. And it's really quite a general phenomenon. I could see
+that leading us to a situation of stagflation, where we continue to have high and increasing rates of inflation
+and at the same time, reductions in employment or increases in the unemployment rate.
+PATRICK O'KEEFE: Thank you. I will stipulate that long-term federal planning is like Thursday now, so
+there's no such thing.
+MICHAEL GUZMAN: Director O'Keefe, is that everything for now? All right. I am remiss in mentioning that
+Director Nicholson has joined our meeting. And as you have your hand raised next, please go ahead,
+Director Nicholson.
+CHRIS NICHOLSON: Thank you, Chair Guzman. So my question is sort of piggybacking off of Director
+O'Keefe's. And that is, obviously, we've been in a new environment economically just in the last handful of
+weeks. How much of your analysis in the larger graphs and the long term, the medium and long term, how
+much of that has baked in what has happened just in the last couple of weeks? I assume a lot of this has
+been worked on over many, many months. So I just wanted to understand, if you were to redo this starting
+with what you know today, having seen the last couple of weeks, how much of it do you-- would it change
+dramatically or not much?
+ROBERT MCNOWAN: Well, first, I'll respond with Director O'Keefe's point that it's hard to make long-run
+planning when things will change by Thursday. But I would be tempted to reconsider using an even more
+pessimistic scenario than what we used. Now, this has actually been presented to the staff, and it's in the
+report that we've provided to you as well, our written report. And so if the RTD Board decides they want to
+be more conservative in their budget planning than that-- that more pessimistic scenario would be
+something that you could turn towards.
+It is true that, I think as your question suggested, that we did the modeling, the analysis, and ran the model
+and generated the forecasts prior to the onset of these tariffs. Now, we could have-- I think we're sitting
+back in March and looking at the situation, knowing that on April 2 the tariffs were going to be announced.
+And we had no idea the magnitude of them. We were certainly surprised by how large those tariffs were
+imposed to-- and such-- to such an extensive range of countries as well.
+
+So I guess some leaning towards that more pessimistic scenario would be something that I would consider
+together with my team. Rich and Brian, I don't know if they fully agree with that.
+BRIAN LEWANDOWSKI: I'll add a couple of thoughts. One, if you really want to see a downside scenario,
+in Appendix D of the forecast-- it's on page 51-- we've always provided RTD with a real downside recession
+scenario. And so if you read the scenario, it says prolonged recession scenario with a 96% probability that
+the economy will outperform this projection and a 4% probability that the economy will under perform. So I
+think this does-- this could be that real-- not apocalyptic, but it's more of a unlikely extreme downside
+scenario for you to be considering.
+RICHARD WOBBEKIND: So I have to jump in. This is being this is being recorded, and this is my statement
+only. I can't imagine with congressional elections occurring every two years, that they're going to let the
+economy go into a prolonged recession. Maybe I'm a dreamer, but I just-- I don't see the political system
+allowing that kind of economic problem to exist for a long period of time. I just don't. And this is, again, my
+own personal opinion, not that of the University of Colorado, the Regents of the University of Colorado, or
+anybody else. It's just my personal opinion.
+But, when I think about these things, I always factor in political realities, so just my two cents.
+ROBERT MCNOWAN: I want to mention-MICHAEL GUZMAN: Just for the record-- just for the record, packet page 73 is Appendix D.
+ROBERT MCNOWAN: Yeah, I wanted to clarify that the pessimistic scenario that I was referring to is not
+that extreme one that Brian mentioned, but rather, the one that's depicted in one of the slides we were
+looking at. So it's presented in the main part of the report where we consider the baseline scenario, a
+pessimistic scenario, and an optimistic scenario, all in the context of the six-year forecast going out to 2030.
+MICHAEL GUZMAN: Director Nicholson, does that address your question?
+CHRIS NICHOLSON: Yeah, so just very quickly, it sounds like there are two pessimistic scenarios. There's
+the one that's on the graph, the main graph and the main presentation. And then there's a even more
+pessimistic scenario that's in the appendix, just to clarify there. And then the second question, with regard
+to the more pessimistic scenario, I guess my question is knowing what you know now, you said it was 96%
+likely it's going to be better than that, and 4% likely it's going to be worse than that. Would you change
+those-- how would you change those numbers today, given what has happened in the last couple of weeks?
+BRIAN LEWANDOWSKI: So my own sort of gut reaction is that somewhere between what we modeled for,
+the baseline scenario and the pessimistic scenario, which is presented on page 16. I mean, that's sort of
+gut feeling today where we land. And my brief reason why is we don't know what's going to happen with
+these tariffs in the short run. But when we see that the tariffs on inbound Chinese products are going up
+100%, if that sticks for a while, then that's when we have underestimated inflation, in my opinion, in this
+model.
+And I think we've also-- we would also expect more downside in consumption than what we presented in
+the baseline scenario. And so you can think through that and think how these policies have real effects in
+the short run. So even the effects of restructuring federal government, right or wrong, we have a federal
+presence in Colorado beyond even just federal employment. Some of the federal lab employment, they
+actually show up as private sector contractors. And somebody mentioned the University of Colorado system
+that is dependent on federal funding for research grants and contracts, as well as the other universities.
+
+So there's exposure here where in the short run, when these shocks hit our economy, it ends up having a
+negative impact on employment and a negative impact on personal income. And that same general
+negative impact happens when we think about the change to global trade in the short run, as it rebalances.
+And that short run can be painful for the national economy and for our local economy. So that's how we
+think about those downside risks and how they may impact all the way down to RTD's sales and use taxes.
+MICHAEL GUZMAN: Thank you.
+PATRICK O'KEEFE: Awesome, that's great. Sorry.
+MICHAEL GUZMAN: It's OK. Thank you. Director Catlin, you are next.
+PEGGY CATLIN: Thank you, Mr. Chair. And our guests probably remember this Board acting in a very
+conservative fashion probably 2019 or 2020, and in fact, adopted a more of a pessimistic scenario for
+budgeting purposes. So that's not something that-- that is something that has happened in the past. And
+you probably remember that better than I. But I know that a number of Directors were very concerned about
+the forecasts, and so we did elect to adopt a much more conservative approach for those years. Brenden's
+nodding his head, so I'm not just conjuring this up in my mind, but I do remember feeling a little concerned.
+And so that's not unheard of for this Board to act in that fashion. So no question, just a comment. Thank
+you.
+MICHAEL GUZMAN: Thank you. All right, last call for questions, y'all. All right. Seeing no more hands-gentlemen, thank you so much. It's lovely to have you back and visiting with us. We look forward to your
+update. I will say this-- for two years, I have asked why we don't take the more pessimistic approach, and
+you have never suggested that. So it gives me pause to really look at these numbers and consider it. But
+thank you for your honesty and your candor with all of this. And gut instinct sometimes is good enough to
+move forward with, and the numbers certainly help us make a good decision. So we appreciate all of your
+hard work in helping us fulfill our policy of seeking advice from a third party outside of RTD. Thank you so
+much.
+ROBERT MCNOWAN: Thank you.
+RICHARD WOBBEKIND: Thank you.
+MICHAEL GUZMAN: All right. Sorry, got to switch screens and get back to my proper place. All right. We
+do have one recommended action on the agenda this evening, which is for the 2025 fiscal policy. This is
+for the Board of Directors to approve the modified 2025 fiscal policy. Do we have a motion?
+LYNN GUISSINGER: So moved.
+MICHAEL GUZMAN: Is there a second?
+KAREN BENKER: Second.
+MICHAEL GUZMAN: I have the movement as Director Guissinger and the second as Vice Chair Benker. I
+would like to ask Brenden Morgan as the acting Chief Financial Officer to present this item to the committee.
+Mr. Morgan.
+BRENDEN MORGAN: Thank you, Chair Guzman. Yes, so in the packet for this, you will see two copies of
+RTD's fiscal policy. One is a new proposed policy, and one is a red line showing changes from the current
+
+policy to come to that new proposed policy. So a discussion item was presented at the March 11, 2025, F
+and P committee to remove references regarding TABOR revenue growth limitations from the fiscal policy.
+This included things like accounting for TABOR applicable revenues versus non non-applicable revenues
+and establishment of a TABOR refund reserve, where we would set aside funding for any projected TABOR
+refunds that RTD may pay in the future.
+But of course, since the November 5, 2024, general election, where voters passed by a 69% approval rate
+the exemption of RTD from TABOR revenue growth limitations indefinitely, these fiscal policy items are
+really no longer applicable to RTD. So given all of that, this action item seeks to remove the fiscal policy
+items which were established to mitigate exposure to TABOR revenue growth limits, which are no longer
+applicable.
+MICHAEL GUZMAN: All right. Directors, are there any questions, comments? Seeing none, I will call for a
+vote. Are there any no votes on this recommended action? I see none. That passes unanimously, and we
+will send that up to the Board. Mr. Morgan, thank you. All right.
+Let's move on to our discussion items. There are two included on tonight's agenda. The first item is for
+Equitable Transit-Oriented Development policy amendment. I would like to ask Chessy Brady, Manager of
+Transit-Oriented Development, to present this item. All Directors on this committee either received the
+onboarding training earlier this year, or were given access to the video recording of the same training. It is
+in your email, so you can review that when you like for any updated information. Ms. Brady, the floor is
+yours.
+CHESSY BRADY: There we go. Thank you very much. Good evening. I'm Chessy Brady, the TransitOriented Development Manager in the planning department, happy to be here speaking to you about
+potential amendments to RTD's Equitable TOD policy. So starting with the basics to make sure we're all on
+the same page-- what is TOD? What is transit-oriented development? At RTD when we're talking about
+TOD, we're talking about the area within a 10 minute walk or half a mile of a transit station, which we would
+prefer be a mix of uses, high density, low parking ratios, good design, good walkability, good access to
+those transit stations that are located adjacent.
+The benefits of TOD in general are to concentrate development where infrastructure already exists, such
+that we reduce sprawl, reduce the need to drive, reduce costs associated with transportation, driving, and
+housing, lower emissions, improved air quality. And then as a transit agency in particular, the benefits
+include higher ridership. People who live or work near transit, near existing transit, are more likely to take
+the transit. And if there is development happening on RTD land, there's potential for RTD to receive
+revenues from the lease or sale of that land.
+So RTD has been doing TOD for 20 years. We look back to Union Station and even before that to see how
+we've cooperated with developers and jurisdictions in just this century. In 2021, the Board approved an
+equitable TOD policy to encourage equitable TOD, which in this case, is really referring to income-restricted,
+affordable, residential buildings. And a goal was set at that point that between 2021 and 2031, 35% of new
+units on RTD land would be affordable. Important to understand there that that means that you might have
+100% affordable building over here and a fully market rate building over here. And across all of the buildings
+in that 10 years, 35% would be affordable. We are on track to exceed that at this point.
+The equitable TOD policy also allowed for flexibility in parking requirements, both from a customer, a transit
+customer perspective, and from a residential or commercial provision of parking perspective. It requires
+that staff expedite responses to developers. And it, notably for this presentation, allows a negotiated land
+
+price as permitted by statute. And we put that in parentheses and said, as permitted by statute, because in
+'21, it was effectively not permitted by statute. RTD was required to receive fair market value when leasing
+or selling land.
+And that changed last spring. In Senate Bill 214, the Senate struck that language from the RTD statute,
+which now leaves the land price up to RTD's discretion. And that's where you come in. So the equitable
+TOD policy language allows-- currently, in the red box-- reductions in purchase price or rent. It may be
+permitted in exchange for affordable housing development or other benefits to the agency. And that's all
+well and good. That's our standing language. We can work with that.
+But given that we now have the ability to discount land or not, it's a good time for us to think about setting
+guardrails around what we mean by reductions. And the reason to do that is really to help three groups,
+first, prospective developers. So developers come to RTD and say, we want to build an x-- 100-unit building
+on this property. It's going to be 100% affordable. We know that your equitable TOD policy says you allow
+reductions. So how much are those reductions going to be?
+And it's more efficient for the developer, for staff, and for Board members who are eventually making
+decisions on these property dispositions, to have guidelines in place to be able to cut to the chase of what
+is RTD willing to do as far as reductions to encourage affordable housing. So expecting this conversation
+that we're having today to be coming this spring, over the fall, we spoke with governments, nonprofits,
+developers, and economic and financial consultants to understand what the change in the statute meant
+for RTD and how RTD could respond in order to actually set these guardrails to encourage the affordable
+housing.
+And the takeaways from this diverse group of stakeholders here was really very consistent. And the first
+takeaway was that to encourage affordable housing, RTD needs to keep any policy direction very simple.
+It's very complicated to build and finance affordable housing. Every entity who contributes to the process
+has its own requirements related to the finances, related to the housing mix, and we don't want to add
+another layer of complexity. Rather, we want to be simple. We want to fit into the existing structures in order
+to actually help make the affordable housing happen.
+We also need to allow-- these stakeholders suggested, and I would agree, that we need to allow flexibility
+because every project is different. RTD has park and rides-- and that is predominantly what we're talking
+about here, active park and rides when it comes to land at stations-- park and rides that are 10 acres that
+are worth many millions of dollars. And we have park and rides that are less than an acre and less than $1
+million. And different projects would locate on those sites in different jurisdictions. And our policy needs to
+be flexible enough to deal with those and to treat them all as unique-- new, unique projects.
+We should also rely on existing financial sources requirements this outreach showed. So again, not only
+are the other entities who are financing affordable housing putting a lot of restrictions around it. They're
+also vetting every project. They're professional underwriters. These are the cities, the state, the banks.
+They're evaluating the projects. And then they're also holding them to the compliance. And we don't need
+to be another layer of vetting and compliance. We can work with our housing partners and these other
+entities to help move these joint projects forward.
+And then these groups were consistent in their feedback that RTD should support affordable housing as
+much as possible, but they were very understanding of the fact that RTD is a transit agency. First and
+foremost, we're focused on mobility. We're focused on connecting people and that housing is not our
+
+primary purpose. So they were conscious, as we should be, of the balancing act that RTD needs to take
+into account when considering how we dispose of property.
+We also looked at other transit agencies around the country. These agencies, like RTD, are all operating
+in totally different contexts. They have different regulations. They have different real estate values, land
+holdings, statutory requirements. And as a result, they each have different ways of discounting land. Sound
+Transit, for example, has requirements from the state that they encourage affordable housing. They have
+to meet certain goals. And so they discount their land for affordable housing really significantly.
+Los Angeles also ends up discounting pretty significantly, but they don't have a formula that gets them
+there. They in-- like Philadelphia, they negotiate to fill the gap in the project. And in LA in practice, that
+comes out to be about 50% to 70% per-- for an affordable project. That's the situation that I would prefer to
+avoid where a developer is coming in, not knowing exactly what we want or even having a range of what
+we want, but instead, having an idea that somebody else got about this. So maybe I should get about that.
+But maybe they ask for more, maybe they ask for less. And so the benefit of setting the guardrails is that
+we're not wasting time on projects that aren't feasible because the developer is not realistic in their
+expectations.
+There are also transit agencies that do not discount land. Some of them do that because they're statutorily
+unable to, as we were last year. And some of them, it's because of the way real estate works in their city
+and their land holdings, which may be particularly valuable, for example, and with access to different kinds
+of financing. So everybody's different. And taking this into account, and these considerations, we should
+figure out what works best for RTD.
+So again to level set on where RTD sits in this conversation, we are a transit agency. We're not a housing
+agency. We have a fiduciary duty to taxpayers, to the state, to the FDA, who purchased much of our land.
+On the other hand, we're also a partner in the region, and we're an important part of the economy and can
+be an important part of the housing solution to the affordability crisis. Our property is dominated by active
+park and rides. Customers park there. And in some cases, many customers park there, in some cases,
+very few. And so we need to take that into consideration with any piece of property.
+But also, our property is not valuable or plentiful enough to have an effect, say, on some of the numbers
+that the Leeds group was just showing us, where they're talking about tens of millions, hundreds of millions.
+We're talking about a couple of millions. The property values are not high enough to substantially impact
+RTD's budget on an annual basis. And it's notable that when land is leased or sold, the revenues are
+deposited in the FISA, so something to keep in mind.
+So taking all that into account, I propose a kind of, what I hope, is a balanced approach to this balancing
+act that we need to take here between being a transit agency and having a role in the region. And so I
+propose this language that if developers can demonstrate a financial gap-- so if the project doesn't work, if
+it doesn't pencil, if it's not going to happen, it needs subsidy, RTD will permit a 30% reduction in land price
+or rent if projects provide at least 50% of units to households making up to 60% of area median income. If
+I read this to a developer, they understand exactly what it says, no problem.
+But I know that this is a lot of numbers, and it's very confusing. So we're going to take a timeout here and
+talk about area median income, which is established and published by HUD annually, and is how affordable
+housing is financed in this country, whether it's using low-income housing tax credits or not. So to hone in
+on an example, a single person household who is earning $91,000 a year in Denver is the median. They
+
+are the median human in Denver, and HUD has determined that they can afford a rent of $2,500 a month.
+Whether you like that number or not, that is what HUD has decided.
+And single people who make less than that, as in they make 30% of that, or 60% of that can afford to pay
+less rent. An individual making $27,000 a year can afford a $700 a month apartment. That changes when
+you look at a family. So a four-person household in Denver who is making a $130,000 is the median. If a
+four-person household making $40,000 is at 30% AMI and HUD has determined they can afford to pay
+$1,000 a month, and so that is what an affordable developer will charge that person or that household
+rather.
+So when we're talking about affordable housing and income-restricted units, these are really the groups
+that we're looking at, 60% AMI, 30% AMI, and sometimes above, depending on how a building is mixed.
+But that's why that-- so the 60% is what we're focusing on in this language. If half of the units in a building- say it's a 100-unit building. 50 units of the building are going to be offered to households making up to
+60% AMI. Then RTD would discount the land by 30%. Other discounts would then be applied if the
+developer is providing more or less affordability relative to that 30% baseline, up to a maximum of 50%. So
+no developer would receive more than a 50% discount.
+If the developer wanted to get close to that 50% discount, they would emphasize mixed-income projects.
+They would maximize the density according to zoning. And they would incorporate as many large units as
+they could since there's a lack of those units in the region. So these are the numbers I'm hoping to get
+feedback on from you today. I would emphasize that there are a lot of ways to make these numbers and
+any of this much more complicated.
+And as I spoke about the outreach that we did, the benefits to keeping it simple and to leaving discretion
+around some baseline numbers is really what we're trying to do there. And I tried to visualize this because
+again, I know it's a lot of numbers. And you have this in your packet to refer to. But again, the idea is that
+there's a maximum discount of 50%, and there's this baseline policy or kind of an anchor point that
+developers and staff and directors can kind hone in on. And then there's wiggle room on either side.
+So to apply this to an existing scenario, we have Central Park Station, where a developer is lined up to
+build affordable units. The appraised value was $20.7 million. If they meet our baseline requirement, they
+would get a 30% reduction or $14.5 million. It would actually be in a ground lease, so it would be $840,000
+a year, so just to give you a sense of what 30% does to some of our higher value properties.
+Some other properties, just for reference, these park and rides could potentially be developed in the future.
+And the land values are something like $3 to $7 million. So if you think about reducing those by half or by
+a third, if they become affordable projects, just context on those numbers. Again, the reason to set these
+guardrails in the policy is to try to encourage affordable housing. For developers, time is money, and the
+time that they spend hashing out projects and rehashing out projects slows down development or prevents
+it altogether. If we can provide some really clear guardrails and encourage developers to be aggressive in
+how much affordability they would want to provide on RTD properties, then we have a lot of property where
+development is possible.
+And since 2004, 1,400 units have been built on RTD property, and 16% of those have been affordable.
+We're already providing a higher level of affordability than we have in the past, and I think the more we can
+do to provide certainty and clarity and have consensus amongst ourselves, the better we can contribute to
+the cause. So the plan is for this discussion. After this discussion item, I'll come back in May with a proposed
+
+action, and then hopefully have an amendment by the end of May. And we would then be able to work with
+developers to continue our efforts to build TOD on RTD land.
+And I'll add that after-- we'll have this discussion now and then. Also, Mr. Kroll is going to be sending out a
+request for feedback, so you'll have the opportunity to provide written feedback as well. And I will appreciate
+that because I hope to get your input as we pull together this amendment. I see there's lots of questions
+already, but I'm all set for now. Thank you.
+MICHAEL GUZMAN: Thank you for the presentation, Chessy. Director Catlin, your hand was up first.
+PEGGY CATLIN: Thank you, Mr. Chair. Chessy, thank you very much for this presentation. And I really
+agree with providing some very clear, finite, simple guidelines for developers to follow. I'm just curious what
+feedback you've had from developers. And if there's some information that we could see regarding
+feedback. It's really important that we partner with some of these developers. And I saw a couple of key
+projects that are of interest to me. And specifically, I went to the-- we presented something to the Jefferson
+Economic Development Council today. And there were some discussions about what do we do with
+developer proposals and how are they evaluated, and how are they assessed.
+So I think it would be really helpful to have some talking points that we could-- as we meet with some of our
+local elected officials and some of our partners, the Chambers of Commerce and the business community,
+that we could really have something at our disposal. This is a great start. I appreciate it, but I know there's
+a keen interest, at least based on the conversation I had this afternoon with Jefferson EDC, that people
+really want to understand. And they want they want RTD to succeed, and they want to succeed as well. So
+I just think there's some opportunities here. And this is a great start. Thank you.
+CHESSY BRADY: Great. Thank you.
+MICHAEL GUZMAN: Just the comment, no question? OK, just making sure. I don't want to miss anything.
+Director O'Keefe-PEGGY CATLIN: If I might-- if there could be some sort of brief cheat sheet provided to Directors, provided
+it's approved after the April meeting, that just would just be really helpful because I know it's of interest to
+the community. So thank you.
+CHESSY BRADY: Yeah, absolutely.
+PATRICK O'KEEFE: My turn?
+MICHAEL GUZMAN: Go ahead.
+PATRICK O'KEEFE: Thank you, Mr. Chairman. Chessy, I'll say the same thing. I've sat through a lot of
+affordable housing presentations, and some of them are like paper NyQuil or something. They can send
+everyone off into daze. So I like the simplicity. The one thing that I'd ask that you consider, is there a way
+to go higher towards median income, like 80% and capture-- I know this is true about Denver. So not picking
+on Denver, I'm just going to say it's true.
+There's a lot of attention driven on that under 50%. And a lot of it-- you know, you're getting people off the
+street, out of shelters, and in that kind of initial home that's affordable. I think there's a gap building that's
+between 50% and 80% or maybe even 50% and 100% where people just can't find housing in the
+communities they live in. And I know it's popular. People say, look, if you can take a family, that's a police
+
+officer, firefighter, nurse, teacher, or member of the military, and if they can afford that, then you're doing
+pretty well. If they don't, your affordable housing isn't reaching deep enough.
+So that's one thing I'd ask you to consider without over engineering it. And so that's what I'd be trying to
+capture, is, a police officer is married to a teacher. And what happens with their affordability? And would
+they be-- would they fall through the cracks on this?
+The second thing, which-- is there a way to turn off Director Benker's speaker? Can we consider not putting
+real estate disposition in FISA and putting it into some other account? And I don't know what has driven
+that. It may-- I don't think it's statutory, and I'm not sure what the bonding language said or the original
+question on FasTracks, but I think having the flexibility for us to decide how we want to dispose of the real
+estate-- it may be concurrent development where we put in green space around that station that is now got
+a bunch of affordable housing, hopefully some families, or anything, maintenance funds. I just don't want
+to tie us to one account where the sales would go if we have the flexibility to do that. So that's kind of
+questions, just more comments for when you come back again.
+CHESSY BRADY: OK, I would like to respond to your first comment. Part of the reason we structured the
+language as we have is that in low-income housing tax credits, the CHFA, the Colorado housing and
+Finance Administration is really looking for income averaging. So I didn't-- I don't want our policy to be that
+complicated, and especially in case it's not a LIHTC deal. But the idea there would be that if a developer is
+providing at least 50% of their units below 60% then for LIHTC, they could provide the other half above
+60%, which means that they are hitting that-- they're going to be a lot of 80% units. And that is-- that's part
+of how they finance the project. So that is part of the thinking. Just, it's part of trying not to complicate it too
+much, but anticipating that that's actually how developers will get these deals done most of the time.
+PATRICK O'KEEFE: OK
+MICHAEL GUZMAN: All right. Does that answer your questions, Director O'Keefe?
+PATRICK O'KEEFE: The FISA one is an open question. And Jack's trying to answer the question right now.
+MICHAEL GUZMAN: Mr. Kroll.
+JACK KROLL: So that is actually defined by your fiscal policy, fund balance policies number four, sub bullet
+b, sale and lease opportunities for all RTD properties. So you outline what funds the FISA in your fund
+balance policies, and that is listed alongside three other items that the revenues for which would go into the
+FISA. So if you wanted to change that, you would look at changing your fiscal policy accordingly.
+PATRICK O'KEEFE: Well, if only the fiscal policy was coming up soon.
+MICHAEL GUZMAN: All right, apologies. Sorry. Director Larsen, you are up next.
+MATT LARSEN: Yeah, thank you. Thank you, Chessy. That was a great presentation. I would just like to
+kind of make a comment that I do agree that we should be willing to sell our property below market, and I
+like that we're moving in that direction. I also think we should, though, consider really revisiting our TOD
+policy and revisiting the question of the need for affordable housing per se being a primary goal.
+I mean, as Chessy mentioned, the complexities of getting affordable housing built are pretty steep. If we
+could do deals for market rate housing, it would-- more frequently and would be willing to negotiate lowering
+our prices to allow market rate housing to be built, it could greatly speed the amount of housing that does
+
+get built on our properties. And really, that market rate housing, that might be the luxury housing of today.
+But in 30 years, that is the affordable housing of tomorrow. And rather than waiting years and years for the
+government to find money to get housing, affordable housing built, we have many private developers who
+would be able to raise money to get market rate housing built probably much, much more quickly.
+And I also wanted to say that I think we should also, as one of our criteria for this consideration of selling
+below market, be looking at the size of the project. I mean, I think the number of units matters, whether it's
+whatever type of property it is. And I also think the potential speed that it gets developed and turned into
+housing is also something that we should consider as well, which is another reason to look to market rate.
+And I'm hoping that we will have a chance-- I believe TOD was on our work plan coming up sometime, and
+I hope we get a chance to maybe revisit that discussion. Thanks.
+MICHAEL GUZMAN: Thank you. Was there anything that needed to be responded to in there?
+MATT LARSEN: Nope.
+MICHAEL GUZMAN: All right, Director O'Keefe, your hand is still up. Did you have more? OK, sorry, just
+double checking. Director Gutschenritter.
+CHRIS GUTSCHENRITTER: Thank you, Chair. And thank you, Chessy. My question was really just around
+how you kind of got to your numbers in the proposed amendment. Is that based off research? Is it based
+off conversations, your experience? Is it just a gut feeling? Just curious to better understand how you arrived
+there.
+CHESSY BRADY: Yeah, that's a valid question. I think part of the answer is that there is no right or wrong
+Here. It is-- I propose it as a kind of middle ground for the Board to consider in view of our role, as I said,
+as a transit agency, but our interest in encouraging affordable housing, and trying to balance that. The land
+was generally purchased with taxpayer funds or with federal dollars. So we have a responsibility to be
+cognizant of that. But we have a policy that says we will consider reductions for affordable housing, which
+contributes to ridership and which contributes to connectivity.
+And we know that affordable-- or income-- residents of income-restricted housing are far more likely to
+become riders, regular riders than residents of market rate housing. So I'm not going to say it's a gut
+number, but it is a balance of where we've been, where we are right now, what's happening in the real
+estate market. The developers-- of course, developers and many nonprofits would have us give the land
+for free to worthy projects. Others would have us hold on to the value of the land and get the top dollar, and
+there is no right answer. So that is why I put the question to you to take into account the different
+stakeholders and to take into account what other transit agencies have decided to do and kind of try to
+thread the needle of where RTD wants to stand.
+CHRIS GUTSCHENRITTER: Thank you.
+MICHAEL GUZMAN: Vice Chair Benker.
+KAREN BENKER: OK, a couple of things-- first of all, Chessy, I thought your presentation was very good.
+It was concise. You gave examples. You gave us numbers. So I appreciate that very much, by the way.
+With regard to FISA, I would hope that we would have a discussion about that since Director O'Keefe
+brought that up. I thought that was a very good point that you made, Director O'Keefe, because I do think
+we need to figure out how money does go into, flow into FISA. And maybe there's some other mechanism
+
+that we can come up with where additional funds might be put into FISA if we're giving a special discount
+to some of the providers-- or developers, I should say.
+The other thing that I wanted to bring up, which is tangent to this, but it's not exactly this-- and I've been
+giving this a lot of thought. But when we're talking about transit-oriented development, I really would like to
+see some placemaking. And I have been thinking of bugging our acting CFO and perhaps some others to,
+in the next budget, put in perhaps a position for someone that has expertise in placemaking because
+placemaking is what makes something desirable to linger.
+In fact, I was able to have coffee today at Denver Union Station, and it's such a lovely building. And you've
+got the Pearl Street Mall. You've got the 16th Street Mall. You've got other areas where there's outdoor
+restaurants, and people want to sit and have coffee and talk. So I'm not saying that all of these transitoriented developments needs to have a special place for people to sit and develop relationships and
+conversations and all that good stuff. But I would like RTD, as we go more into this-- especially with some
+of our rail stations. I've seen some of the rail stations now since I'm sort of back into the rail business in
+many ways. And I'm disappointed.
+I mean, I expected more transit-oriented development to be around there where people would gather. And
+I'm not quite sure what we can do, but it just seems like there are-- it's a special trade where people have
+a certain skill set, where they know how to make a place where people want to be. And so I just throw that
+out as a thought. I know it's not directly related to what you're talking about tonight, Chessy, but transitoriented development can be so wonderful. And so I'm hoping when we go forward with these kinds of
+projects that we do as much as we can to make it attractive and bring people together. So, thanks.
+CHESSY BRADY: May I respond, Director Guzman?
+MICHAEL GUZMAN: Yes, please.
+CHESSY BRADY: Of course, I absolutely agree that we want great places associated with any development
+that's happening, and that is absolutely part of what we try to do. When we're talking to developers about
+potentially building on RTD land, we're looking for the green spaces. We're looking for the activation. We're
+looking for-- we're looking for shade. We're looking for sidewalks. We're looking for cafes, or in the case of
+Central Park, for a daycare, and what people do-- how they walk around there. So no, it's not central to this
+particular discussion, but it's absolutely on our minds.
+KAREN BENKER: Thank you.
+MICHAEL GUZMAN: Just as a-- to add into this-- sorry, General Manager, CEO, I will call on you in one
+moment. The reminder that we are a transportation agency, and that needs to remain our focus. This is a
+policy of land that we own, that we can lease. And I believe-- Chessy, correct me if I'm wrong-- the longterm lease is the preference to the sale because we have a continual source of revenue coming in. Even
+though that's not something that will ultimately make a great impact on our budget, it certainly doesn't hurt
+to have an income revenue stream, that we remain focused on that. So in terms of the place around our
+stations, we have a utilitarian function for what we need to build, and certainly what's adjacent to those train
+stops, for example, or transit centers, may not fall under our direct purview to build and develop out. That
+doesn't mean that we can't partner with our municipalities and our counties and local folks to be able to do
+some of that work, or even the developers that are going to be building things around there. But that's our
+partnership with other elected officials in the planning of city infrastructure and municipal services. So,
+General Manager, CEO Johnson, please.
+
+DEBRA JOHNSON: Thank you very much, Mr. Chair. And thank you, Vice Chair Benker for broaching what
+you did. Just wanted to provide some context, which the Chair did provide, recognizing the importance of
+placemaking within our core business function as we go forward and recognizing the budget development
+process, utilizing various aspects to make those determinations as we go forward. I think where we are at
+this juncture is leveraging the partnerships that the Chair spoke about and considering that we have various
+planning staff that more or less are focused on long-range planning from that vantage point, would look to
+developers to partnership to ensure that we have viable, transit-oriented development projects for the
+betterment of the various constituencies that are served. So I just wanted to acknowledge that saying I don't
+discount what you said, but once we get to a place where there's a greater opportunity to leverage transitoriented development, I think that would be better suited for a full-time equivalent if we were going to go
+down that path, but happy to engage further on the topic. And I know you and I are going to meet soon, so
+I'd love to probe a little bit more. So thank you.
+MICHAEL GUZMAN: Awesome. Thank you so much. Director Guissinger.
+LYNN GUISSINGER: Thank you very much. And thank you, Chessy. As always, it was a very good
+presentation. And I really appreciate the E-TOD policy that you and Bill [INAUDIBLE] and others have
+brought to us in the past. You talked about 17% of the housing that's been built on RTD land in recent years
+was affordable. I'm just thinking through what Director Larsen was proposing and wondering what's kind of
+the split now, how many projects sort of are coming to us? You said it's a very small amount of money. And
+I know Central Park Station is bigger. You showed the other ones. Are people pursuing the affordable
+housing? It seems like it. And I see you nodding, so that's my question.
+CHESSY BRADY: Yes. Thank you. Yes, since the equitable TOD policy was approved by the Board in
+2021, we immediately had a lot of interest from affordable developers and that interest has been sustained
+through COVID and through real estate downturn. And it is-- the interest has been exclusively for affordable
+projects. And that reflects the real estate market in the region and rising construction costs and the lack of
+financing for market rate development. Affordable development has other ways of financing. It has lowincome housing tax credits. It has state initiatives. It has local financing sources from local housing agencies
+and such.
+And so, because the multifamily market rate finance world has really had the bottom drop out of it as interest
+rates rose, the affordable market has really taken its place over the last few years. So we have a lot of
+developers who are working through our unsolicited proposal process. We may be sharing with you in the
+next few months some new unsolicited proposals that we've been working through for years now because
+they do take a long time. But it's just sort of iterative process of vetting with the developer, with the
+jurisdiction. And it takes a while to get to groundbreaking. But we are on the way with several different
+projects, and they will be almost exclusively affordable. Some up to maybe 80% or 100% but nothing in the
+truly fully market rate area.
+LYNN GUISSINGER: Good. Thank you so much. I think that the policy and the numbers you propose sound
+reasonable. And it certainly aligns with where the state and the region are wanting us to-- wanting everybody
+to be helping. So thanks for putting all of that together.
+CHESSY BRADY: Thank you.
+MICHAEL GUZMAN: So thank you. Does that cover everything? Hands down. All right. Cool. I want to go
+back to that statement that I-- a question, and I want to make sure I emphasize it. The preference that we
+have is to lease the land long term and not to sell it. Is that correct?
+
+CHESSY BRADY: Absolutely. Yeah, we tell developers that we have a strict policy-- or a strong preference
+for ground lease that makes sale nearly impossible.
+MICHAEL GUZMAN: OK. I have a quick question in regards to this policy and the type of developments
+that are licensed to go forward. The Hattie McDaniel, if I remember the name correctly, was just completed
+under a similar type of program, and it took quite a few years to get done. But the entire building and the
+future residents who will receive-- I don't know if it's an eco pass or similar to an eco pass-- to access transit
+as part of that agreement went forward, and it's the whole building that is affordable, including multi member
+family units, right? So there's single and double and then multi unit parts of that building, which is in-- it's a
+less than a city block area. Right? We were out there for the groundbreaking.
+And so on some of these examples that you've given, like the 13th Avenue R or the Evans Little Triangle
+that's over there, or a few of the other ones, I would think that double checking with the municipalities on
+what the plans and the building zoning requirements are is going to really have an impact on this. I attend
+the LUTI meetings all the time for the city and county of Denver, and this is a constant, constant topic of
+discussion at that table, specifically around what type of zoning requirements are needed for density
+development, which is their way of talking about it. For us, it's transit-oriented development, but they equate
+to the same thing in most instances.
+And where the city or the municipality might align with this policy to be able to-- what often happens is
+layering the finances for a developer to do this work. If the city is able to pitch in, federal level is able to
+pitch in, the developer pitches in, and then we are able to offer the discount on the lease of the land, then
+that's how those projects get done. And so I'm really happy with what you've presented here. Thank you
+for the time out, by the way, to explain the part that I don't think I have ever quite wrapped my head around.
+But also, I think it's really good work.
+I am inclined to ask the same question Director O'Keefe asked, which is for a single person who is just in
+the weird spot between that 60% and 80% break, not quite able to-- maybe they're living paycheck to
+paycheck-- hi, it's me I'm talking about, right? What do we do in that situation, and how does that get
+incentivized? And what does that look like if we move that percentage in a slight amount? Is it possible to
+do that? That's my question. Is it possible to move those brackets at all, or are we stuck with that 60% and
+lower?
+CHESSY BRADY: We aren't stuck anywhere. We're making up the numbers, so we can set it where we
+want. What I've tried to do is align it with other-- the way developers tend to think about affordable housing.
+So for example, if you wanted to make sure that-- I mean, one of our values that I list is a mixed income
+building, so you're going to have a variety of AMI levels, which includes the 70% the 80% and maybe up to
+100% depending on how it's financed. The policy-- the numbers that I'm providing there allow for that.
+So if you're meeting that baseline, 50% of units below 60%, you're getting that 30% discount. If, in addition
+to that, you are also providing the other half of the units at 70%, then that's a ticket to getting to the greater
+discount on the land value. So it's-- in that way, it's incentivized. It's very hard to finance a building that's
+100% below 60% AMI. Generally, you're going to have that range. What we've tried to do in the policy is
+set a minimum, again, around that baseline 30% off so that there's wiggle room on both sides, including
+offering affordability at that 60% to 80% level. And it looks like Bill Sirois would like to weigh in as well.
+MICHAEL GUZMAN: Jump on in, Mr. Sirois.
+
+BILL SIROIS: Well, the one thing I'd just like to add is that with the way affordable housing financing is set
+up, that 60% level is kind of that threshold that CHFA, the state housing finance authority agency sets as
+kind of their threshold for financing. So they look at that. So we're trying to align ourselves with the financing.
+So I think one of the things that we would look at, just like Chessy said, we're aligning ourselves. But that
+doesn't mean that we are saying everything is at 60% and below in 100% of the building. A lot of the projects
+are mixed income. So there are some people that are above 60% and some people that are below, but that
+60% threshold is consistently used by financing agencies. And that's what the developers are using as that
+test.
+So we're kind of trying to mimic that because again, we don't want to reinvent the wheel. And if we said our
+threshold is now 85%, and that doesn't line up with financing, that's going to-- then we're going to be kind
+out of whack with developers. So we want to make sure that we're consistent with the way the market works
+for affordable housing. And then we can play with the mix, hopefully, and then get maybe some more of
+those higher end, I mean, I'll just say that even though the Hattie's not-- it's a little bit different deal. I mean
+the Hattie was a for-sale project, so it's different than probably mostly what we're going to see. It was a
+condo project, but it is serving 80% in income and above because it is an affordable for-sale project, which
+most affordable for-sale products, you have to start at 80% for people to qualify for the loan.
+So I mean-- so there's some of those things. So you can kind of see that we're setting that 60%, but that is
+just kind of a baseline that really is used by the financing agencies that we can then use and build upon as
+we discuss our options with developers.
+MICHAEL GUZMAN: Great. Thank you so much. Are there any other questions? All right. We'll look forward
+to getting the email from Jack and being able to provide further written comments back to you. Ms. Brady,
+thank you for your hard work on this wonderful presentation. I really appreciate it. Quick time check-- it is
+7:22. Would anybody object to taking a 10-minute break for our transcriptionist, just a little bit early, before
+we start the next section of our agenda? I see no objections. So at 7:32, let's return to the meeting. Thank
+you.
+Thank you very much for the break. We are going to continue. It is 7:32 PM. We have the second discussion
+item, which is for planning and risk assessment relative to federal funding opportunities. I would like to ask
+Brenden Morgan, acting Chief Financial Officer, and Mr. Michael Davies, Government Relations Officer, to
+present this item. Mr. Morgan, you are recognized.
+BRENDEN MORGAN: Thank you, Chair Guzman. I'm going to share my screen here. All right, fantastic.
+So the committee requested a agenda item update to present information regarding potential financial
+impacts to RTD that could result from changes in federal funding. The purpose of this discussion item is to
+provide information to the committee about RTD grant basics. A portion of-- excuse me-- the portion of
+federal grant revenue total to-- in comparison to total RTD revenue and outstanding grant apportionments,
+which RTD is currently in the process of drawing down as expenses are incurred.
+So we will move through these slides. We'll start with-- we'll talk a little bit about the background, and then
+we'll talk a little bit about financial contributions of these grants and what that looks like today. So starting
+with the background, we'll start with grant fundamentals. RTD primarily receives federal grant funding from
+the Federal Transit Administration, or FTA, which receives its funding from the Federal Department of
+Transportation. RTD is a direct recipient, which means it continues to meet all legal, audit, and certification
+requirements to receive federal funding directly from federal agencies.
+
+All of RTD grants are provided on a reimbursement basis, meaning that RTD must first incur and pay for
+expenses that qualify under any specific grant and then follow up with a request to be reimbursed for those
+expenditures. Grant funding opportunities can be recurring or one time, which is an important consideration
+when creating financial plans, as well as incurring underlying expenses, particularly those that are ongoing
+when a recurring revenue stream will be necessary to continue that expenditure over time.
+Each grant award requires that RTD participate in an application and award process that have strict
+application requirements. Virtually all grants have a local match requirement. For example, a $1 million
+grant may have an 80/20 match for which the awarding agency contributes 80% of the cost, and RTD
+provides a 20% match using its own funds. Grant awards require strict adherence to the required purpose
+of funding to ensure that only eligible expenditures get reimbursed.
+The federal government operates and appropriates grant funding on an October 1 through September 30
+fiscal year versus RTD's January through December fiscal year. This generally results in RTD drawing
+down recurring annual funding up to one year after the award is made to RTD. All grant awards are subject
+to monthly reporting requirements from the awarding agency, as well as annual audits by RTD's external
+auditor. These audits are known as single audits and are performed to ensure that grant funds are expended
+for the eligible purpose.
+RTD maintains detailed records of all grant expenditures in its financial system of record, Oracle. It also
+meets and reports regularly with the FTA and other grant awarding agencies. Grant funding that is applied
+to specific uses results in the awarding agency having a financial interest in the expenditure. For example,
+if the FTA provides grant funding for buses, there's specific contracting requirements. The FTA will require
+a financial interest in all of those buses. So if RTD were to dispose of a bus before the end of its useful life,
+then we would be required to repay the grant funds back to the FTA.
+Moving on to slide 5 here, the primary applicable grant types. There are several different types. RTD applies
+for and participates in grant opportunities that align with our strategic priorities. This slide summarizes the
+primary types of grants that RTD currently receives. FTA section 5307 grants are the largest recurring grant
+funding source and are used to reimburse RTD for preventative maintenance activities related to
+operations. These 5307 grants are typically in the range of approximately $150 million of revenue annually
+for RTD.
+FTA section 5309 grants are non-recurring and used for capital purchases rather than operating expenses.
+Examples include qualifying infrastructure and rolling stock purchases. These grants are periodically
+available for application by RTD and must be used for specific agreed to purchases. These grants can also
+vary in size.
+FTA section 5339 grants are relatively small and tend to be in the range of $4 to $6 million annually and
+must be used for bus and related facilities and equipment. For example, RTD has used this funding for
+items such as hoists for bus maintenance. Examples of other grants include those that become available
+from Homeland Security for use by the RTD police department for K-9s, and state grants, for Zero Fare for
+Better Air and Zero Fare for Youth programs.
+So we'll move on to the financial contribution here. My favorite part of this slide is the pie chart on the right.
+I'm a visual learner, and this paints a great picture of where RTD's revenues come from in my mind. This
+particular slide shows RTD's budgeted revenue sources for 2025. Grant funding for RTD typically comprises
+about 15% of total revenues. However, in 2025, you'll see that grant revenue is approximately 26%. This is
+
+because of the inclusion of the Colfax Bus Rapid Transit, or BRT, pass through grant, for which the funding
+will be passed through to the city and county of Denver for this BRT project.
+Grants are generally the second largest recurring revenue source for RTD, behind sales and use tax. So
+on this pie chart, you can see the kind of Broncos colors we've got going here. The orange shows grants
+and other income at 26%, relative to sales and use tax at approximately 67%. This just gives you an order
+of magnitude of how important grant revenue is to RTD. And the answer is, yes, it's very important.
+Slide 8 takes a look at existing grant status. This slide shows grants that were awarded to RTD in prior
+periods and is provided to show the current status of all of these open grants. As previously mentioned,
+grants are received by RTD on a reimbursement basis, so this slide shows that RTD has approximately
+$1.166 billion in grant awards that have not been finalized and closed out at this point in time, with a
+remaining balance of $65.5 million remaining to be drawn.
+Current status-- so RTD draws grants funds as quickly as possible after the expenditures have been
+incurred to ensure that if we can efficiently manage cash flows and investments. Once we get that
+reimbursement from the Federal government, we immediately invest that money so that it can start earning
+money for RTD. Passage of the recent continuing resolution by Congress indicates that there will be no
+impact to federal grant funding to RTD through September 30 of 2025, so that much seems certain at this
+point in time.
+RTD is currently uncertain if there will be any future adverse impacts to federal grant funding. Perhaps one
+of you brought your magic eight ball that we can consult here this evening. I did not. So with that, these are
+all the slides that we've prepared, but we've got a few grant experts here in the meeting today, General
+Manager and CEO Johnson, as well as Michael Davies, our Government Relations Officer. They may want
+to chime in at this point if they have anything else that they'd like to add or think I missed anything.
+DEBRA JOHNSON: Yes, if I may, Mr. Chair?
+MICHAEL GUZMAN: Please.
+DEBRA JOHNSON: Yeah, so thank you very much. And thank you, Mr. Morgan, for the presentation. One
+thing I wanted to share by way of context, as we've talked about this item in reference to working with the
+Chair and the Vice Chair of this committee, wanted to ensure that we grounded everybody into-- grounded
+everybody as to where we are relative to federal funding and some important notables, of which Mr. Morgan
+spoke of, really focuses on the continuing resolution. So one thing I want you all to be aware of that we
+have been working closely with the American Public Transportation Association. For those that may not be
+familiar, I happen to be a member of the legislative steering committee.
+And as we forge ahead, one thing is certain as it relates to APTA and what we're doing. We're focused on
+four major initiatives. We're analyzing the impacts of the Trump Administration executive actions on public
+transportation. We've been aggressively advocating for public transportation investments as it relates to
+fiscal year '26 being THUD appropriations. And THUD is the acronym for transportation, housing, and urban
+development and related agencies appropriations bill. Also in reference to APTA in and of itself, we are
+developing and adopting and advocating for APTA surface transportation reauthorization
+recommendations.
+And we're carrying on out-- we're carrying out a holistic advocacy outreach effort. Just tomorrow, there is a
+hearing before the Transportation and Infrastructure Committee on the Hill, and we will have representation
+
+there. And what's critically important-- when I say we, I mean, APTA. And what's critically important is
+tailoring our message as it relates to the value of public transportation and not what our key messages
+generally are about what public transportation can do relative to ridership and utilization.
+As we look at the times in which we're in and looking at the partisan slant-- and I'm not trying to get into
+partisan politics, but just recognizing that each branch of the government is heavily Republican dominated.
+We do know that we have to ensure that there's an understanding of where the economic impact lies. And
+so basically, what we're really focusing on is the jobs that public transportation supports across sectors.
+And the potential job loss without federal funding is the most effective message that we can actually
+leverage at this time.
+Because even when we look at private industry, considering the critical value that public transport brings
+forward, cutting public transportation funding means cutting good paying American jobs in a range of
+industries, from manufacturing and engineering to operations and information technology. And so also,
+another good point that we've been talking about is that public transportation relies on more than 2,000
+suppliers in the US. And as we talk about that, that's generally private industry as well as we move forward.
+So while we can't give you great specificity in reference to what lies ahead for tomorrow because none of
+us are soothsayers, these are critical issues in which we are very well leaning into. As Director O'Keefe can
+attest, just this morning, our call with our federal lobbyists, as well as Michael Davies, as we talk about
+where we are, and RTD has really been well versed in this situation. And then more so, as I shared earlier
+with some individuals, Matt Welbes, who serves as the Executive Director of the Federal Transit
+Administration, the most federal career level position at the FTA, who has been there for 20 years, provided
+information relative to where we are currently with funding going into 2026, relative to the grants and things
+of the like, what grant funding opportunities currently remain.
+We appear to be optimistic, and that's what I can say at this juncture. So just wanted to paint that picture.
+And, Mr. Davies, if you'd like to add any more information relative to where we are on the federal funds,
+please feel free. The floor is yours.
+MICHAEL DAVIES: Thank you. I don't have anything further to touch on, but happy to answer any questions
+from members of the Board.
+DEBRA JOHNSON: Mr. Chair, I'll yield the floor to you to field the conversation.
+MICHAEL GUZMAN: Thank you. Director O'Keefe, your hand is up.
+PATRICK O'KEEFE: Thank you, Mr Chairman. As Ms. Johnson said, we had a call with our Government
+Affairs Team this morning, and I think they have appropriate paranoia in keeping an eye out for our risks
+going forward. I think that was a great presentation. I would focus on what's real right now. The reacting
+week to week is kind of pointless.
+The thing that does scare me is reconciliation because that is not just a budgetary move. It's also a rewriting
+of the underlying law. And that is, I think, our biggest risk going forward, and kind of the source of my
+unease with our position. I've been through reconciliations. They don't have much subtlety. And it's all about
+capturing-- making spending match revenue.
+And so this was great. I think it's probably a good topic for us to keep coming back to. We'll probably know
+this summer what direction reconciliation is going. I'm actually-- I'm kind of heartened that we have a pretty
+good FDA administrator, and he understands transit. That's great. Again, I don't-- subtlety is something that
+
+just doesn't happen in reconciliation. So I think the best thing we can do as a Board is keep a cautious eye
+to our financial position going forward.
+MICHAEL GUZMAN: Thank you. Are there any other questions or comments from Directors? This was one
+of the items that we as directors added to our work plan this year. So thank you for honoring our request
+and bringing this forward, everybody. Floor is yours if you have a question. Director Guissinger.
+LYNN GUISSINGER: Sorry, I couldn't find my-- oh, there it is-- my hand. In terms of the money that we've
+been awarded so far, is that money all-- has it all been paid? For instance, the $176 million pass through
+to Denver, the 5307 funding, have we received that money for this year?
+DEBRA JOHNSON: If I may?
+MICHAEL GUZMAN: Yes.
+DEBRA JOHNSON: Yes, so thank you very kindly. So the way these grant programs work, they're
+reimbursable. So as the city and county of Denver has initiated work on the Colfax BRT, they have
+submitted some expenses to us. And what we do as an agency, basically, we have paid those monies. And
+then we go and we put in the appropriate documentation into the federal grant software program to get
+those monies reimbursed to us. We do have an established agreement. By virtue of conversations I have
+had with the Executive Director of the Federal Transit Administration, we have basically seen those being
+processed.
+I just took part in a quarterly Colfax BRT meeting with regional FTA representation as well as project staff
+from the city and county of Denver Transportation and Infrastructure, and FTA representatives from the
+region indicated we are doing everything that we are slated to do. And at this juncture, that commitment
+was made. It would be hard to pull back those monies.
+But as we go forward, we don't just get all that money up front. It doesn't-- the program doesn't work that
+way. But relative to where we are, we've done everything that we're supposed to do relative to our
+appropriations and our formulaic dollars. Mr. Morgan, is there anything else you'd like to state if I
+misrepresented anything?
+BRENDEN MORGAN: No, Debra, I think you presented it correctly. And again, as those funds do come in,
+we immediately draw them down as the money is spent, as soon as we can draw those funds down, and
+then invest that money, so it goes to work for RTD as soon as possible.
+LYNN GUISSINGER: Thank you.
+MICHAEL GUZMAN: I don't see any other hands at this point. I would just highlight-- scroll up in your Board
+packet or your committee packet a few pages earlier back to that financial-- or the fiscal policy that we have
+set. There are three items under grant monies that we have policies around. It's good to know what those
+are. We draw them down quickly. Sorry, I got to go back and look at my notes just to make sure I don't
+misstate anything.
+All potential grants will be examined for matching requirements, both dollar and level of effort matches.
+Intergovernmental assistance shall be used to finance only those capital improvements that are consistent
+with the strategic plan and for which operating and maintenance costs have been included in operating
+budgets and forecasts. And the third one is that we will draw down apportioned grant funds as quickly as
+
+possible for efficient working capital management. That's the policy that we have currently in place. It's
+included in the policy that we are recommending back to the Board from this committee today.
+Knowing that gives me some ease that we're doing this the right way. My dis-ease comes from the part of
+not knowing what the future holds. So there's been some maybe miscommunication or misunderstanding
+from community members here in Denver about the Colfax BRT. And thank you for highlighting and
+separating out the fact that $176 million for the Colfax BRT is a pass through, as there are only, I believe,
+three-- is it three or four different entities that can hold federal funding like this? And RTD is one of them
+that can receive federal funds directly.
+And we are working in partnership for a project that Denver and the city of Aurora-- the city and county of
+Denver and the city of Aurora are working on for that corridor. That's not for the purchase of buses. That's
+for the infrastructure. We're simply an entity in the state of Colorado that is eligible to hold on to those funds
+in a budget somewhere while we do the work of returning that information, as was stated earlier, to the
+federal government for the grant purposes.
+But when it comes to the 53 sources that we were discussing-- 07, 09, and 39-- those are monies that are
+put to use directly at RTD. So I think that's just important to understand. CDOT, RTD, DRCOG, and is it the
+city and county of Boulder can hold funds, the direct recipients of federal funds. Is that correct in our region,
+Madam CEO?
+DEBRA JOHNSON: Yes, thank you, Mr. Chair. Just a point of clarification-- so as a transit agency, we are
+eligible for funds being a direct recipient. The other aspects of which you qualify, considering DRCOG
+serves as the Metropolitan Planning organization, they are eligible for funds relative to the planning
+responsibility that they have that is carved out in statute. And then the other entities being municipal
+operators, that goes through the state of Colorado and is funneled through CDOT. And that's based upon
+population. Because in certain areas, they're not in excess of 200,000 residents.
+And then relative to the city and county of-- not city and county-- relative to the county of Boulder, that was
+something-- they're in the process of going through an assessment whereby they can become a direct
+recipient. And that came to fruition. So they have to establish programs relative to the federal government
+to be eligible. So just wanted to provide that qualifier because as a transit agency, utilizing data as it relates
+to the NTD reporting, that's how we are qualified, in addition to being within an urbanized area providing
+transit services.
+MICHAEL GUZMAN: Thank you. Just think it's important to highlight that we're basically a middleman in
+this process for that purpose, not anything else, which means that we're not directly always in control of the
+project that's happening. We will serve it later. But in our capacity right now, we're helping out, and we're
+working with our governments that we are participating with here locally. Thank you so much. Last chance- seeing none. Then let us move on. Thank you so much for a good conversation.
+We will move to the other matters section of our agenda. I know of one specific other matter Director Matt
+Larsen would like to raise related to the agency's fiscal year. I will recognize him first before we move into
+any other matters. Director Larsen, you are recognized.
+MATT LARSEN: Thank you, Director Guzman. So in what Director Guzman sent out before this meeting, I
+think yesterday or today, I outlined the reasons why I think we should change the fiscal year effective July
+1 of 2027-- or 2026, rather-- so that we would have a July to June fiscal year. I guess what I really wanted
+to do is just first bring up the idea because I think it has a lot of benefits for us. As I outlined, I think it would
+
+allow us, the agency, to have the GM, CEO's performance goals aligned with the rest of her staff that is
+currently already on a July to June schedule in terms of their performance evaluations. It would also, my
+understanding is, help us budget better because we will have a better understanding of what federal grants
+are available to us based on just the timing with that fiscal year.
+And it also has the potential to offer some advantages related to the timing of the budget process when
+new Board members come in. And if we wanted it to, we could change the timing of the Board leadership
+elections to align with that as well, which would create a-- it would prevent the situation where new Board
+members who come in are sort of immediately asked to vote for leadership without really that much
+information.
+So I wanted to bring this up. I'm not sure-- I guess what I'm really not certain about, and I'd love to hear
+some feedback on, is if we wanted to target July of 2026 as a sort of being the start of the first fiscal year
+that would go from July to June, when would we have to make that decision? And that was really kind of
+the discussion I wanted to have. And are there any objections or concerns from anybody or reasons why
+anyone thinks we shouldn't move forward on that?
+MICHAEL GUZMAN: Sorry, my screen is flipping really quickly, so I'm just waiting a moment. Director
+Benker, your hand was raised first. Please go ahead.
+KAREN BENKER: OK. I've given this some thought. And as I think everyone knows, I have a government
+finance background. So far, just tonight, I've only come up with 12 reasons why we should think about not
+going forward. So let me go through a few more. If this does get to the full Board, I'll come up with another
+20. But here's some that I'd like to have you think about.
+First of all, we're in the process of hiring a new CFO. Even if we-- it'd be nice if we had some continuity
+here. But even if it's someone that we've been working with for a while, there's still a lot of new things to
+learn. And so it's going to be a challenge for a new CFO to come in and immediately start talking about
+rearranging our whole fiscal house. That's one.
+Two, I think we've got so many issues facing us right now and so many also opportunities facing us right
+now that I would like to ask that we spend our staff time and our Board time focusing on things like adding
+service, our staffing levels. We're almost done with rail burn, so there are a lot of other things that we could
+be spending our time on.
+Three, keep in mind, we will lose a lot of our statistical information because it's not just comparing spending
+levels over, let's say, the past 10 years, which are going to be very, very different. So you're not going to
+be able to do apples to apples. It's going to be apples to oranges. And then your ridership numbers and all
+the other statistics that we've got that we keep a close eye on are all going to be put into different categories,
+and we're going to lose track of where we are.
+Four, changes in the accounting system, this is time consuming. This is not something where you switch a- you switch a light switch, and there you go. It's over and done with. So that's something that I think we
+need to consider for our staff. Contracts-- many of our contracts are annual contracts. So for example with
+the Union, where does that go? I mean, does that affect any of our contracts?
+Six, something that I think is very important is we're going to be dealing with three or four different fiscal
+years, one after another. So let's say we do this. So in this fiscal year FY25, we've got a calendar year. If
+we go forward then FY26, we've got six months. Then FY27, we have 18 months. And then FY28 we're
+
+going back to 12 months, but it's a different time period. So you're going to have information that's just not
+going to match. And it's just going to be difficult to handle.
+Let's see. Item number seven, which relates to this, is revenue and expenditures. So let's say we have a
+six-month fiscal year or an 18-month fiscal year. We don't know whether or not we're going to have a surplus
+or a deficit in those years. If we have a deficit because of how our money comes in-- because, for example,
+I think everyone knows December, the holiday months, are when we get so much of our sales taxes coming
+in. So how is that going to affect a six-month fiscal year or an 18-month fiscal year? Are we going to have
+enough money to run the agency, or do we have to move money around and figure out how to make it all
+work.
+Number eight, we have three run boards. OK, so each run board costs money. So how do we work with the
+run boards and a new fiscal year? Are we going to have to cut a run board in half so that we know part of
+the money is going to go in one fiscal year, and part of the money is going to go in another?
+Let's see, number nine-- I'm not quite sure, but we may need to check to see whether or not we need state
+legislation. We are a special district. As far as I know, all special districts and all local governments have a
+calendar fiscal year. The only ones that do not are school districts. And the reason why school districts do
+not is because they get approximately 60% of their funding from state government, and so they do follow
+the state fiscal year.
+Number 10, it's pretty easy to change a personnel review. I mean, we've done it at the state. All you have
+to do is move the date and make it convenient for everybody. Moving a fiscal year is a little bit more intense.
+11, let's see, by having the fiscal year that we do have, we do have more information. So if the state
+legislature does give us additional funding, which they have over the past year or two, and that the federal
+government begins their fiscal year in October, we will have those dollar amounts that we can build into our
+budget because the first draft of our budget that we present to the public will be in October. We can make
+changes if we find out all of a sudden that the federal government has made some drastic change, either
+up or down. And that gives us time to make adjustments to the next year's budget. So actually, the timing
+works really well for us.
+OK, and then the last one-- hopefully, Doug MacLeod won't be mad at me. I asked him. I said, Doug, you're
+leaving. What do you think? Should we change the fiscal year? And of course, he smiled. He's being very
+diplomatic. And he said, no. And I said, would you be willing to come back and testify before the Board to
+do that? He just sort of grinned.
+So those are my 12 reasons for now. I'll come up with more if it goes forward, but I'd like to encourage the
+Board. You have to realize it's so much work and so many unknowns. And for what purpose? And if it's just
+because of a performance review, that's easy to change. So I'd like to put those things out for you to
+consider.
+If it goes forward to the Board and goes through our committee, I'll certainly be in favor of having the Board
+have a full discussion on this. But I would just ask that this is not something easy to do. So with that, my
+speech is over. Thank you.
+MICHAEL GUZMAN: Thank you, Vice Chair Benker. Out of deference, Chair Bouquet, please go ahead.
+JULIEN BOUQUET: I'll proceed if my internet allows me. If I start breaking up, please just let me know,
+OK? Thank you. So I just wanted to clarify a couple of things. So we did have this conversation with a
+
+couple folks. So one, in regards to the overarching-- our third goal when it comes to the Board this year
+was changing our timeline of when we as a Board are setting our short-term goals for our CEO, our GM
+and CEO. It's its own separate entity. I think the conversation came forward from Director O'Keefe and
+Director Larsen's work from their working group with it, and it's a valuable conversation.
+But I do want to emphasize that it is a separate conversation. So it is not reliant for us to be changing the
+fiscal year to match with that of setting our timeline when it comes to our CEO, GM goals. If I were to give
+a recommendation, I believe that-- we heard a valuable amount of interest. And it'll be interesting to hear
+from Director Gutschenritter and Director O'Keefe about how this committee feels. But if I were to give a
+recommendation, this potentially could be a discussion item, most likely, I would say June or July, later in
+the committee's work plan. I don't want to add that on. Obviously, it's the committee's autonomy, but that
+would be my recommendation.
+I do not believe that it is the-- I do not believe we're ready to change it for 2026. I believe it's appropriate to
+stay where we're at when it comes to it. But I do think it does warrant a discussion, especially based on the
+interest and conversations that I heard from FNP last time. But do just want to clarify that it is-- we don't
+need to change our fiscal year to match with our goal for this year, which is just reevaluating the timeline of
+when we're setting our CEO, GM's goals-- so just wanted to clarify that.
+MICHAEL GUZMAN: Thank you. Director Gutschenritter, your hand is up next.
+CHRIS GUTSCHENRITTER: Thank you, Chair Guzman. And Director Benker kind of used the term I was
+thinking of, but it's the unknown-- fear of the unknown. I know that there would be a ton of work that would
+go with this. There's a ton of things that would have to be figured out. And so I would be nervous to try to
+move this forward in 2026. As Chair Bouquet said, maybe longer term, yes, absolutely something to
+discuss.
+I think it would also be-- something I would really appreciate having is if there's any other comparable
+agencies, which I know that's a hot button topic, but it's some other agency or company that's gone through
+this before and hearing from their CFO or somebody in their finance department about just the
+complications, the effort, all that went into making that change and considerations. I think that would be
+wise to do, if possible. And I think that'd be really informative for the rest of the Board to-- I just-- I want to
+make sure that we go into this as eyes wide open as possible.
+So that's my thoughts. But lastly, I'll say, Director Larsen, thank you for having the energy to and the creative
+thoughts to try and tackle this.
+MICHAEL GUZMAN: Thank you, Director Gutschenritter. Director O'Keefe.
+PATRICK O'KEEFE: Thank you, Mr. Chair. There's no one smarter on the broader budgetary impacts than
+Director Benker. So all the caution that she gives is-- I hear it, and I do believe Director Larsen pointed out
+a lot of the positives, too, that we would get. And I think we need, maybe not a fully vetted plan, but a little
+bit more to make a comparative assessment on the risks and the rewards. I think there are a lot of rewards,
+not the least of which is having when we come in with new Directors and we have kind of substantive macro
+questions that new Directors just aren't in a position to make with full information. I do-- this is-- this is a
+significant change. It's not undoable.
+Fiscal years are-- I apologize to the accountants on the call. They're just-- it's an accountant problem, and
+it's not insignificant. I work for an engineering company, and we changed to Oracle. Apologies to any Oracle
+
+people on the call. And we almost went bankrupt because we couldn't invoice for 90 days. So you can have
+knock on effects that happen that you don't see coming when you make the plans. But I do think it has
+some material benefits and aligning a lot of the processes to a more logical calendar.
+So I'd like us to take another card on this as we go through the separate but tied together CEO goal
+conversation, and so we can make kind of the decisions considering the two but distinct of each other.
+Thanks.
+MICHAEL GUZMAN: Thank you, Director O'Keefe. Chair Bouquet.
+JULIEN BOUQUET: I'll make it quick. Thank you, sir. Another thing in consideration too-- I think it-- I think
+it does warrant discussion. I will be honest with you. I don't believe it. Is a conversation ready for 2026-excuse me-- to impact 2026. But 100%, it's a conversation I think should happen, and as mentioned,
+weighing the pros and cons. Another thing to consider-- and then this might fall more into the Executive
+Committee itself, or the work that [? F&P ?] does might fall into the Executive Committee-- is it might also
+change our governance structure as well as a Board, and it might change when we are electing our officers
+as well. And there might be some benefits to that. So just want to throw that little plug out there, but I think
+it might warrant a conversation down the road. So thank you.
+MICHAEL GUZMAN: I saw several other hands that went up, and they went down. So either Director Benker
+nailed everybody's thoughts on that one in her first round or not. But let's keep going. Director Guissinger.
+Oh, you're muted.
+LYNN GUISSINGER: Sorry. Just briefly, I would agree with what I'm hearing is-- sentiment is it's worth the
+discussion and no reason to rush it. As Director Benker said, we have potentially a new CFO coming in
+and-- we do have a new CFO coming in and a lot of other pieces to be considered. So I certainly would
+want to hear from Ms. Johnson and Mr. Morgan. But potentially, we set it for discussion down the road, I
+think.
+MICHAEL GUZMAN: Thank you. OK, I'm going to give my two cents as a member of the committee and
+the Board. I have no problem having the conversation about this. I agree with Director Guissinger. We need
+to bring in the staff and the agency on this. We need feedback from them. It is critical to get feedback back
+from the agency on this because this is not just an arbitrary decision the Board can make that will not have
+an impact of some kind to the agency.
+I would want to know with full confidence before we make any sort of decision about this one way or the
+other. Right now, we don't have to. We can continue forward with what we have, and several options have
+been brought forward that would also have precedent. We can continue with a 12-month budget process,
+and we can always amend the budget that's in our fiscal policy, and we have done that before.
+We have moved away from it on purpose. And that was at the recommendation of our General Manager,
+CEO, that we should have a budget that we can fulfill in 12 months. And following our current status, we
+removed the midyear amendments to the budget that we were doing prior to-- regularly prior to the arrival
+of myself on the Board. That doesn't mean that we don't have something we can follow to extend out a 12month budget for another six months to do this alignment.
+I am also very concerned. We spoke, and I'm going to hold you to this, that the inquiry here was to find out
+what we could do in advance of making some sort of change like this, so that we didn't miss any opportunity
+to be able to do this if this is the direction the Board wants to go. I believed that was the conversation that
+
+we were going to have, not a recommendation to do this immediately, which feels shortsighted and not
+ready. So I'm inclined to work on this. And I would like to work on this with you and with Karen Benker and
+continue developing this with staff specifically in order to bring back a more proper discussion around this
+for the Board-- for this committee to recommend to the Board, one way or the other what we would like to
+do. But it does need to be done later in the year, unfortunately.
+We're not going to rush into it. It's going to take the time it takes. And I would commit to you-- something I
+don't usually do on these meetings-- that we can continue to work on this if the anticipated end time or
+major move for this with consent and approval from our agency staff would be more likely to happen in
+2027, not in 2026. Because that would require changing Board bylaws, most likely, and changing agency
+structures with unforeseen pitfalls that we will need to consider.
+So that's my sense on this, but thank you for bringing forward the conversation. I'm glad that we're having
+it. Furthermore, and in addition to those comments, I do know that Director O'Keefe and Director Larsen
+have been working in a workgroup on a number of matters that are-- that workgroup is, to my understanding,
+winding down its work, and reports should be coming to us with recommendations from the both of you to
+be discussed, both in this committee and in the Performance Committee. And so I look forward to having
+that conversation and that work to review so that we can have a discussion around that.
+In the meantime, I am going to look towards our General Manager, CEO and our acting CFO for their input
+on this conversation, please. So we can round this out and have a place to begin further conversation later.
+Madam CEO.
+DEBRA JOHNSON: Yes, thank you, Mr. Chair. I appreciate the opportunity to opine on this. I do think it's
+advantageous to have a discussion session relative to looking at the pros and cons. I've heard a lot of
+different comments. I think it'd be premature for me to offer up my opinion at this juncture. While I heard
+several of them, some-- let me just share that when Director Larsen brought this to my attention, I suggested
+he bring it forward in this committee, recognizing statutory questions and things of the like. Quite naturally,
+we ran these to ground before I even doubled back with Director Larsen. So I just wanted everybody to
+know that wasn't done in a vacuum. And as it relates to timelines and things of the like, keeping in mind
+that we do use systems, and reports can be run in such a way. And that was-- I did have the opportunity to
+confer with our former CFO as well.
+So I believe it's just a matter of preference. And sometimes, change is hard. But for all intents and purposes,
+most independent transit agencies do function on a traditional fiscal year, just for everybody's edification.
+Thank you very much.
+MICHAEL GUZMAN: Mr. Morgan, as our acting CFO, I would invite you to this conversation, if you feel so
+inclined.
+BRENDEN MORGAN: Thank you, Chair Guzman. Yes, there's certainly a lot of interest for conversation
+around this topic coming from various Board members, so it certainly seems worth a conversation. It's a
+topic that should be-- from my perspective, should be thought through thoughtfully. I want to put some time
+in on this, and there's probably some gotchas that we don't know about at this point in time, not that they're
+necessarily insurmountable. It's just that I think if RTD were to go down the path of making a change like
+this, we'd want to do it thoughtfully, with our eyes wide open, and having a fully thought out plan ready to
+go. So I'm certainly looking forward to the conversation.
+
+MICHAEL GUZMAN: Thank you. Anybody else? I don't see any other hands raised. Director Larsen, is that
+sufficient information and feedback for you on this matter?
+MATT LARSEN: Yeah, I think that it's great to have right now. I appreciate it from everybody.
+MICHAEL GUZMAN: Good. Vice Chair Benker and I will follow up with you. We'll have a further
+conversation to figure out how we move forward with the conversations and get everybody involved. OK?
+MATT LARSEN: All right, great.
+MICHAEL GUZMAN: Wonderful. Are there any other matters that we need to discuss in this committee? I
+see none. Thank you. Our next meeting date for the Finance and Planning Committee of the RTD will be
+Tuesday, May 13, 2025. At that meeting, our work plan has us slated to hear from an external entity report
+from the state demographer's office, as well as representatives working on the Colfax BRT project. And
+additionally, we will take action on the equitable transit-oriented development policy discussed this evening
+to get an-- and to get an update on capital improvement projects. So we know where we're at with spending
+and expenditures.
+I just realized because I referenced our Board operating guidelines, and I think it's in our Board bylaws. We
+are missing on our committee a safety moment. And so I would like to take a moment since I was downtown
+today, and I saw this happen, to publicly say to all of our constituents, I know listening to your headsets and
+having phone conversations on your iPads is really part of culture right now. But you've got to be aware
+when you're at a street crossing not to step off the curb until you look left and right because buses do not
+stop on a dime. And I watched three people almost get hit today.
+And the bus drivers who were paying attention and looking out for your safety were able to stop, maneuver
+the bus, which is a hard thing to do, and keep everybody safe inside and outside those buses. So please
+be aware of your surroundings and turn down the volume while you're walking on the street. Or at least,
+stop yourself when you get to the corner so that you do not get hit by a bus. It is not something that we at
+RTD take lightly, and we want to look out for your safety, as well as the safety of the people on board and
+our operators. Thank you so much.
+I have no other discussions in the meeting. So with your permission, we will adjourn at 8:22 PM. Thank you
+very much. Have a good night.
+
+

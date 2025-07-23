@@ -1,0 +1,479 @@
+Regional Transportation District
+
+1660 Blake Street
+Denver, CO 80202-1399
+303-299-2307
+
+Board of Directors
+Chair – Doug Tisdale, District H
+First Vice Chair – Natalie Menten, District M
+Second Vice Chair – Barbara Deadwyler, District B
+Secretary – Claudia Folska, Ph.D., District E
+Treasurer – Judy Lubow, District I
+Lorraine Anderson, District L
+Ernest Archuleta, District C
+Bob Broom, District F
+Peggy Catlin, District N
+Larry Hoy, District J
+
+Ken Mihalik, District G
+Chuck Sisk, District O
+Paul Daniel Solano, District K
+Jeff Walker, District D
+Kate Williams, District A
+
+EXECUTIVE COMMITTEE MEETING
+July 12, 2018 at 12:00 PM
+
+Executive Committee Agenda
+Chaired by Doug Tisdale
+I.
+
+Call to Order
+
+II.
+
+July Board Meeting Agenda Review
+
+III.
+
+Other Matters
+
+IV.
+
+Adjourn
+
+Draft Board Meeting Agenda - July 17, 2018
+I.
+
+Call to Order
+
+II.
+
+Pledge of Allegiance
+
+III.
+
+Roll Call - Determination of Quorum
+
+IV.
+
+Retiree Awards
+
+V.
+
+Public Participation
+
+VI.
+
+Committee Reports
+Planning/Capital Programs & FasTracks Committee – Chaired by Director Lubow
+Government Relations Committee – Chaired by Director Solano
+Civil Rights Committee – Chaired by Chair Tisdale
+Operations & Customer Services Committee – Chaired by Director Deadwyler
+Financial Administration & Audit Committee – Chaired by Director Mihalik
+GM Oversight & Performance Management – Chaired by Director Walker
+
+VII.
+
+General Manager Oversight and Performance Management Update
+
+VIII.
+
+Approval of Board Meeting Minutes of June 26, 2018
+
+IX.
+
+Chair's Report
+
+X.
+
+General Manager's Report
+
+XI.
+
+Unanimous Consent
+A.
+
+Approval of ERP Licenses
+
+It is recommended by the Financial Administration & Audit Committee that the
+Board of Directors authorize the General Manager or his designee to execute all
+documents necessary to award a contract to Mythics for licenses for the ERP
+Replacement Program for an amount not to exceed $2,000,000 over 5 years.
+Subscriptions for the ERP Replacement Program will be paid annually.
+This recommendation addresses two of the General Manager’s 2018 goals: Core
+Goal #3 Strong Financial Management and Task Goal #1 Fiscal Sustainability.
+B.
+
+Approval of Data and Content Analysis Software
+
+It is recommended by the Financial Administration and Audit Committee that the
+Board of Directors authorize the General Manager or his designee to award a fiveyear contract to Active Navigation in the total not-to-exceed amount of $869,539
+for a data and content analysis software (record crawler).
+This recommended action addresses the General Manager’s 2018 goals - Task Goal
+#1 Fiscal Sustainability, and Task Goal #3 Asset Management/State of Good
+Repair.
+XII.
+
+Recommended Action
+
+XIII.
+
+Old Business
+
+XIV.
+
+New Business
+
+XV.
+
+Executive Session
+Denver Transit Partners dispute resolution process and negotiations. CRS 24-6-402 (4)
+(b) (Conferences with an attorney for the local public body for the purposes of receiving
+legal advice on specific legal questions); and CRS 24-6-402 (4) (e) (I) (Determining
+positions relative to matters that may be subject to negotiations; developing strategy for
+negotiations; and instructing negotiators)
+
+XVI.
+
+Adjourn
+
+The following communication assistance is available for public meetings:
+ Language Interpreters
+ Sign-language Interpreters
+ Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 business hours in advance of a
+RTD meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+2.11.A
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+July 2, 2018
+
+Subject:
+
+Approval of ERP Licenses
+
+CFO/AGM,
+
+Finance
+
+Date: July 3, 2018
+&
+
+GM
+Board Meeting Date: July 17, 2018
+
+RECOMMENDED ACTION
+It is recommended by the Financial Administration & Audit Committee that the Board of Directors
+authorize the General Manager or his designee to execute all documents necessary to award a contract
+to Mythics for licenses for the ERP Replacement Program for an amount not to exceed $2,000,000
+over 5 years. Subscriptions for the ERP Replacement Program will be paid annually.
+This recommendation addresses two of the General Manager’s 2018 goals:
+Financial Management and Task Goal #1 Fiscal Sustainability.
+
+Core Goal #3 Strong
+
+BACKGROUND:
+The current Oracle e-business suite (EBS) enterprise resource planning (ERP) implementation at RTD is
+approaching end of life. Oracle will end support for the EBS system in 2021.
+Starting in 2017, the Information Technology team began researching various approaches for the ERP
+replacement. Modern ERP solutions are moving toward a cloud-based, specialized solution. Three options
+for replacement were presented to the AGM’s for consideration:
+1. Upgrade the existing ERP Oracle system to Oracle Cloud
+2. Implement another vendor’s single cloud ERP solution (such as SAP or Workday)
+3. Use a best-of-breed hybrid approach by implementing ERP cloud-based solutions for specific lines
+of business (such as finance and human resources)
+The options were presented to the AGM’s and they determined to use a best-of-breed, hybrid approach.
+This enables RTD to take advantage of the strengths of various cloud-based solutions to improve
+business operations and more closely align the cloud/software solution to business process. Cloud tools
+make it easier to implement a best-of-breed approach and they also allow for integration between the
+differing systems.
+During the research phase, demonstrations of several vendor’s solutions were held with RTD business
+units to determine the functionality needs and best fit for RTD business processes. Through this series
+of demos and requirements gathering sessions, the determination was made that finance related
+modules would stay in one cloud-based solution forming the ERP backbone, or backend system. The
+solution that was chosen was Oracle cloud. The human resources and payroll modules will utilize a
+different cloud-based solution that has not yet been determined. Some examples of the finance related
+modules (and those that are dependent on finance modules) include:
+
+
+
+
+
+General ledger
+Accounts payable
+Account receivable
+Assets
+
+Packet Pg. 4
+
+2.11.A
+
+
+
+
+
+
+Procurement
+Inventory planning and forecasting
+Public sector budgeting
+Sourcing, supplier, and contract management
+
+The first phase of the ERP replacement project includes the following modules:
+1. Public sector planning and budgeting
+2. Inventory planning and forecasting
+3. Sourcing, supplier and contract management
+The current Public Sector Planning and Budgeting module is outdated and does not provide the
+functionality needed by RTD. It is no longer supported by the vendor. The Inventory Planning and
+Forecasting module is outdated and does not provide advanced functionality that enables efficient
+business performance. This module will reach end of life and no longer be supported by the vendor after
+2021. Sourcing, Supplier and Contract Management is a new module that will be added to the ERP
+program once licenses are procured and will allow for easier management of contracts and vendor
+interactions.
+Over the past eighteen months, multiple vendors were invited to demo their solutions for these three
+modules with RTD business units. The Oracle solution best fit the needs of the business units as well as
+the specific public-sector business needs of RTD. In the case of public sector budgeting, Oracle is the
+only solution that performs the functions needed for public sector. Oracle was also chosen because of
+the dependence and integration needed between these modules and the finance backbone.
+The Board previously approved a total of $15,000,000 for the ERP Replacement Program in the 2018 2023 Strategic Budget Plan. The contract authority recommended in this board action will use a portion
+of this approved funding for this first set of ERP program licenses.
+DISCUSSION
+RTD conducted an RFI to obtain pricing for these three modules with the National Association of State
+Budget Officers (NASBO), US Communities, and The Cooperative Purchasing Network (TCPN). Each of
+these organizations have pre-negotiated contracts with the State of Colorado. The State bid and
+awarded these contracts through their standard procurement processes and these contracts allow other
+governmental agencies to utilize them. Two firms submitted proposals. The criteria used to evaluate the
+proposals was license cost.
+FINANCIAL IMPACT
+The contract authority shall not exceed $2,000,000. Funding for these licenses is included in the approved
+ERP Replacement Program budget.
+
+The yearly breakdown for the licenses is as follows:
+2018
+2019
+2020
+2021
+2022
+
+$400,000
+$400,000
+$400,000
+$400,000
+$400,000
+
+Packet Pg. 5
+
+2.11.A
+
+ALTERNATIVES
+1. It is recommended by the Financial Administration & Audit Committee that the Board of Directors
+authorize the General Manager or his designee to execute all documents necessary to award a
+contract to Mythics for licenses for the ERP Replacement Program for an amount not to exceed
+$2,000,000 over 5 years. Subscriptions for the ERP Replacement Program will be paid annually.
+2. Remain on our existing ERP implementation with one module currently out of support and the
+remaining modules no longer supported by the vendor after 2021.
+
+Prepared by:
+Heather McKillop, CFO/AGM, Finance & Administration
+Kim Heldman, Senior Manager, IT
+Approved by:
+
+Packet Pg. 6
+
+2.11.B
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+July 2, 2018
+
+Subject:
+
+Approval
+Software
+
+of
+
+CFO/AGM,
+
+Finance
+
+Date: July 3, 2018
+&
+
+GM
+Board Meeting Date: July 17, 2018
+
+Data
+
+and
+
+Content
+
+Analysis
+
+RECOMMENDED ACTION
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors
+authorize the General Manager or his designee to award a five-year contract to Active Navigation in the
+total not-to-exceed amount of $869,539 for a data and content analysis software (record crawler).
+This recommended action addresses the General Manager’s 2018 goals - Task Goal #1 Fiscal
+Sustainability, and Task Goal #3 Asset Management/State of Good Repair.
+BACKGROUND
+Since RTD began using personal computers and related technology to support its mission, our employees
+have created, received and saved electronic files on RTD’s network shared drives. Today, there are
+more than 9,000 – nine thousand – gigabytes (GB) of electronic files in RTD’s shared drives alone.
+Translated to paper, that is 8 billion pages, 8 million file boxes (at 1,000 pages per box), or more than
+4,500 round trips to the moon if each page is placed end-to-end.
+In this digital age, all organizations including RTD are facing steadily increasing information management
+challenges. These challenges include increased regulatory requirements that now focus on information
+assets more than ever before, security and privacy issues, and email and web communications. To
+support best practices in information governance, lifecycle management, and records management, and
+to most efficiently leverage the information and data in our custody, RTD must take control of this
+tsunami of data. A well-established software tool called a “crawler” is a standard method to identify and
+flag files for transfer or deletion, helping reduce the total volume of electronic files to manage while
+ensuring that the information RTD relies on is quickly accessible.
+DISCUSSION
+In August 2016, IQ Business Group (IQBG), a highly respected information governance consultant,
+presented RTD with recommendations to improve our records management program after a careful
+assessment of the existing program. IQBG’s recommendations included combining RTD’s various
+document control and information governance staff into a unified Information Governance &
+Management (IGM) Division, creating records liaisons within each department, and other
+recommendations.
+The purchase of a data and content analysis tool – a crawler – was one of IQBG’s recommendations
+after a pilot crawl of a small portion of RTD’s network revealed that roughly 40% of the total content
+fell into the category of low value. For this exercise there were five classifications that made up the low
+value category:
+
+
+
+Temporary – 2% of files were created by system processes (i.e., .tmp file extensions)
+Duplicates – 30% of the files assessed were duplicates
+
+Packet Pg. 7
+
+2.11.B
+
+
+
+
+
+Non-Business – 24% files identified as multimedia content named in a way that indicates it is not
+related to business (Christmas, holiday, vacation, etc.)
+Old – 26% content with a modified date greater than ten years.
+Identified low value – 18% content identified in the name or by folder as being a first draft, or an
+older version, of content that should be deleted.
+
+Another factor in the analysis was the risk content that was identified. Approximately 280,000 files on
+the network showed a number that appears like a social security number or a credit card number.
+The term “crawler” is most often seen in the context of internet searches: a “web crawler” – also
+known as a “spider” – is an automated tool that browses through the internet in a systematic way,
+creating an updating a search engine index and helping make sense of the huge amount of online
+information. Google and Bing would not exist without automated crawlers.
+For individual enterprises like RTD, crawlers serve similar indexing and search functions for data in a
+variety of formats, but they also perform the crucial task of identifying files that can and should be
+deleted. Appropriate deletion of data is important because data costs potentially enormous sums of
+money to manage – especially in the context of litigation e-discovery – and value can only be derived
+from data if the information is accessible and usable. Not all data has equal value – to a computer, an
+employee’s vacation snapshot can take up just as much space on RTD’s files and require just as much
+management as critical operational data – but all data must be evaluated for its value (or lack of value)
+and retained or deleted based on that evaluation. A crawler is the key automation tool to perform such
+evaluation and promote efficient retrieval of valuable data. A crawler can also identify information that
+needs to be secured. Conducting such searches and evaluation manually is virtually impossible given the
+amounts of data at issue, while an automated crawler uses algorithms to quickly and accurately identify
+files that can and should be deleted.
+To more efficiently and securely manage RTD’s data and information, and optimize storage in
+compliance with RTD’s records retention policy, subject to approval of this Recommended Action the
+IGM Division will use a crawler to search and analyze RTD’s structured and unstructured electronic
+information. IGM’s goal is to reduce storage of information in unauthorized locations, identify and
+remove duplicates (de-duping), reduce storage costs, identify the most current version of duplicates to
+preserve as the record copy, and improve current processes and practices when it comes to managing
+information as an organization.
+The crawler is one strategy that IGM intends to use to reach these goals by better identifying redundant
+information. Another strategy is to implement a records liaison program to interface with IGM as the
+Division’s eyes and ears. A third strategy is the assessment program to determine compliance of
+departments across RTD with the records management and information governance policies and
+procedures.
+This technology will be used in conjunction with RTD’s Enterprise Content Management (ECM) tool,
+Laserfiche, to capture the original and authentic record. Duplicate and redundant files will be flagged for
+destruction in accordance with RTD policies and procedures. These actions will help reduce the cost of
+doing business, minimize the risk of keeping records past their retention period, and lower legal
+expenses.
+The RFP was advertised on October 16, 2017. RTD received five proposals. Active Navigation was
+selected as the best value based on software features, functionality, maintenance and support, and
+price.
+
+Packet Pg. 8
+
+2.11.B
+
+The proposed contract with Active Navigation is for a not-to-exceed amount of $869,539 covering all
+five years, and includes a five-year licensing agreement, implementation, testing, maintenance, training,
+and support.
+FINANCIAL IMPACT
+Most of the funding is accounted for in the 2018 - 2023 Strategic Budget Plan within IGM’s operating
+budget and approved capital award. Crawler software Award #LC-01-3309-16 and Award #LC-013309-15 have cumulative funds at $650,000; implementation and integration Award #LC-01-3309-16
+has $74,880, and Support and Maintenance from the expense budget has $100,000 for a grand total of
+$824,880. The balance of the funds will come from the Data Processing budget line in the IGM O&M
+budget.
+The cost savings/avoidance to be realized is significant. The Crawler will:
+ Reduce the volume of electronic files to review during eDiscovery.
+ Decrease time spent searching for information. An estimated 15–25% of employees’ time is
+spent on nonproductive information–related activities.
+ Eliminate redundant, obsolete and trivial files (ROT) to keep storage costs down.
+ Identify the authentic record for business and engineering decisions to avoid costly mistakes.
+ Eliminate shadow systems that hold duplicate information.
+ Provide the legally defensible deletion of e-trash, ROT, stale and low value content.
+ Effectively identify and protect personally identifiable information, personal health information,
+sensitive security information, and protected critical infrastructure information.
+ Move the authentic records to the correct repository to reduce duplication of files, or re-creation
+of the record.
+ Enhance compliance with current processes and practices to manage information overall at RTD.
+ALTERNATIVES
+1. It is recommended by the Financial Administration and Audit Committee that the Board of Directors
+authorize the General Manager or his designee to award a five-year contract to Active Navigation in
+the total not-to-exceed amount of $869,539 for a data and content analysis software (record
+crawler).
+2. Do not accept the Recommended Action. Do not authorize the General Manager or his designee to
+award a contract to Active Navigation in the amount of $869,539 for the data and content analysis
+software. This alternative is not recommended because without a crawler, RTD would continue to
+generate and store data and information at an exponential rate, with lessened security and increased
+search and e-discovery costs. RTD would have to rely on costly, inefficient and less reliable manual
+methods to try to manage electronic information, resulting in greater personnel costs, reduced
+effectiveness, and greater risk of liability.
+
+Prepared by:
+Rolf Asphaug, General Counsel
+Linda Buss, Sr Manager, Information Governance and Management
+Approved by:
+
+Packet Pg. 9
+
+2.11.B
+
+Packet Pg. 10
+
+

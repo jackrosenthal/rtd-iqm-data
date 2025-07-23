@@ -1,0 +1,229 @@
+## I. Call to Order
+
+Chair Sisk called the meeting to order at 5:30 p.m.
+
+## II. Pledge of Allegiance
+
+Chair Sisk called for everyone to stand and recite the pledge of allegiance.
+
+### A. Roll Call
+
+Paula Perdue called roll.  There were eleven (11) present at roll call and four (4) absent.  Director Menten arrived after roll call and Directors Anderson, Deadwyler and Lubow were absent.
+
+Staff Present:              Bruce Abel, Susan Altes, Mike Ames, Bill Bell, Shirley Bennett, Bob Brown, Jessie Carter, Rick Clarke, Carolyn Conover, Phil Eberl, John Elias, Sherry Ellebracht, David Genova, Mike Gil, Cory Granrud, Svetlana Grechka, Terry Howerter, Austin Jenkins, Erin Klaas, Mitch Kuharski, Marla Lien, Reuben Martinez, Barbara McManus, Vivian Morales, Jimmy Outlaw, Paula Perdue, Scott Reed, Cal Shankster, Pranaya Shrestha, Greg Smith, Henry Stopplecamp, Pauletta Tonilas, Bill Van Meter, Paul Von Fay
+
+Others Present:              Jeff Boerma, Gary Forbes, Doug Gragg, Wayne Graham, Sherman Hamilton, Rita Kahn, Betty Martinez, Steven Mohan, Kenny Shepard, Shane Tempel, Jim Toweill, Joe Triplett, Gary Van Dorn, Richard Visher, Monte Whaley
+
+## IV. Retiree Awards
+
+Assistant General Manager Bruce Abel, Operations, recognized the retirees from operations and asked Mike Ames to do the honor of introducing them.
+
+Mike Ames introduced Reuben Martinez who retired as a street supervisor after 23 years with RTD.  Mike stated Reuben had spent 6 years in bus operations before moving to street supervision.  Reuben was an excellent employee and very dedicated.  General Manager Washington interjected that he had seen Reuben working on a fence at his house in Aurora so he surmises Reuben will have a big “honey do” list for his retirement.  Reuben thanked RTD for the opportunity to be a part of the operations.
+
+Mike Ames introduced Jimmy Outlaw, an employee with over 20 years experience at RTD.  Jimmy began also in bus operations and spent the last 16 years as a dispatcher.  Jimmy had cross- trained on a number of other positions including street supervision.  This is Jimmy’s second retirement-first with 20 years in the Air Force and now with 20 years at RTD.
+
+Jimmy stated he considered it a privilege to have four families:  His first and second personal families, his Air Force family and now his RTD family.  It is an honor.
+
+Assistant General Manager Austin Jenkins, Rail Operations, acknowledged the retirees from rail operations and invited his managers to assist him with the presentation.
+
+Terry Emmons, rail operations manager, introduced Greg Boysen, instruction supervisor for Maintenance of Way, for his 34 years of service.  Greg was unable to be present but Terry reflected on his stellar career.  He stated he had worked with Greg over many years and Greg was a trained and skillful craftsman.  Terry and Greg’s career expanded over 31 years together including working the East Metro graveyard, District Shops and terminating at the LRT division.  He wished Greg a happy retirement.
+
+Phil Eberl, manager of LRV Maintenance introduced Cal Shankster who retired as maintenance –of-way manager with over 30 years service at RTD.  Cal of course needed no introduction as he had served as the acting AGM of rail operations in the interim before Austin Jenkins had been hired.  Cal was skillful and knowledgeable about every phase of LRT and did his work with precision and dedication.  Cal had begun his career in bus mechanics and moved over to LRT in 1993.  Terry Emmons added he had worked for Cal for a number of years.  Cal was a person who worked around the clock and never slept. He was a great mentor and will be missed.
+
+Cal expressed his appreciation to all of RTD, the staff, and the current and former Boards. He is grateful for the work he got to do at RTD and will be moving on to start his new career with the Denver Transit Operations Division for Commuter Rail.
+
+Chair Sisk thanked all of the retirees and stated they were the reason for RTD success.  They were unsung heroes who had done their work with pride and integrity.  The Board is extremely grateful for the time they devoted to RTD and wish them the best in their new endeavors.  Thanks for a job well done.
+
+## V. Public Participation
+
+- Richard Visher, Denver, spoke as an access-a-ride client.  He recommended that the 10-coupon book be changed to a 12-coupon book but keep the same price.
+
+## VI. Committee Reports
+
+There were no changes to the committee reports.
+
+Planning & Development Committee – Chaired by Director James
+
+Government Relations Committee – Chaired by Director Folska
+
+FasTracks Monitoring Committee – Chaired by Director Lasater
+
+Civil Rights Committee – Chaired by Director Rivera-Malpiede
+
+Operations & Customer Services Committee – Chaired by Director Solano
+
+Financial Administration & Audit Committee – Chaired by Director Walker
+
+GM Oversight & Performance Management – Chaired by Director Bagley
+
+CDOT – Director Walker
+
+E-470 – Director Tobiassen
+
+ACED – Director Anderson/Director Solano
+
+Northwest Parkway – Director Hoy
+
+Pension Committee – Director Lubow/Director Tobiassen
+
+### A. Minutes of Feb 25, 2014 5:30 PM
+
+### B. Minutes of Mar 4, 2014 5:30 PM
+
+### C. Minutes of Mar 4, 2014 5:30 PM
+
+### D. Minutes of Mar 4, 2014 5:30 PM
+
+### E. Minutes of Mar 18, 2014 5:30 PM
+
+### F. Minutes of Mar 18, 2014 5:30 PM
+
+### G. Minutes of Mar 20, 2014 12:30 PM
+
+## VII. General Manager Oversight and Performance Management Update
+
+Committee Chair Bagley indicated that the new committee had met.  The first survey monkey will be in mid-April and he is hoping for full participation.
+
+## VIII. Approval of Board Meeting Minutes of February 18, 2014
+
+Motion:              Director Folska made the motion to approve the February 18 Board meeting minutes.
+
+Director Solano seconded the motion.
+
+Vote on
+
+Motion:              The motion passed with 12 in favor and 0 against.  Directors Anderson, Deadwyler and Lubow were absent.
+
+Chair Sisk declared the motion PASSED Unanimously.
+
+### A. Minutes of Feb 18, 2014 5:30 PM
+
+## IX. Chair's Report
+
+Chair Sisk provided this report:
+
+- Several Board members attended the APTA Legislative Conference in Washington D.C. (Anderson, Bagley, Daly, Deadwyler, Folska, Hoy, James, Lasater, Rivera-Malpiede, Tobiassen, Walker and Chair Sisk).  This was a great event and the Congressional meetings, etc. were well coordinated by Sherry Ellebracht and Patton-Boggs.  They had the opportunity to visit with a number of key people in Washington.  The name RTD was heard throughout the hallways.  Several comments were made about the testimony that General Manager had participated in the week before the Infrastructure P3 Panel Subcommittee.  We spoke with one voice and focused on the ASK.
+
+- Chair Sisk and Director Daly attended the Hispanic Contractors of Colorado 24th annual banquet where Director Rivera-Malpiede received the Community Advocate Award.
+
+- Directors Anderson and Daly attended the Jeffco EDC Annual Industry Appreciation Awards at the Arvada Center for the Arts and Humanities.
+
+- Director Dr. Claudia Folska received an award at the 2014 WTS Colorado Annual Awards Gala and was also recognized as the WTS International Award for the Rosa Parks Diversity Leadership Award.  She will accept this award in Portland Oregon.
+
+- The North Metro Groundbreaking Ceremony was well attended and a real success.  Several RTD Board members attended:  Anderson, Bagley, Daly, Deadwyler, Folska, Hoy, Lasater, Rivera-Malpiede, Solano and Walker.  A number of dignitaries spoke around the collaborative effort and process.  Directors Hoy and Solano spoke also and did a wonderful job representing the Board.
+
+- Director James attended the ULI Shifting Suburbs Series on bus rapid transformation.
+
+- Several Board members plan to attend the Road Ahead-Designing for Density: Implementing Transportation Solution on March 27:  Directors Bagley, James, Rivera-Malpiede and Sisk.
+
+- On Saturday, March 29, the LCLAA Cesar Chavez Dinner Dance and Awards Ceremony will be held.  Director Solano purchased a table and will be representing RTD along with Director Rivera-Malpiede.
+
+- The COMTO annual scholarship banquet will be held on April 11.  Several Board members plan to attend which includes Director Deadwyler, Folska, Rivera-Malpiede, Tobiassen, Solano and Chair Sisk.  This should be a wonderful event to support youth in transportation.  General Manager Washington and a couple of other RTD members were the founding members for this Chapter.
+
+- Board members and senior leadership have received the meeting summary notes and results from the survey of the Joint Strategic Planning Advance which was held in March.  Gary Suiter did a wonderful job of facilitating this retreat.
+
+## X. General Manager's Report
+
+General Manager Washington provided these comments:
+
+- On March 27, RTD will host a visit from the Regional Transportation Commission of Southern Nevada.  RTD will provide an overview of their DBE program, WIN, Eagle project and take them on a tour of DUS.  Director Rivera-Malpiede as the Chair of the Civil Rights Committee will represent the Board.
+
+- RTD has been a participant in the Clinton Global Initiative for the past couple of years.  This year the event will be in Denver and RTD will be participating.  This will be a good chance to share with national and international key decision makers.
+
+- RTD is continuing to plan for a couple of visits which will occur in the next couple of months:
+
+1.       House Transportation & Infrastructure Committee P3 Panel—When he testified before the Panel a couple of weeks ago, he had invited them to come see what Denver is doing.  They will be here April 22-24.  He is not sure of format as they are coordinating their own schedule.  RTD will be talking about DUS and the Eagle project.  They will also visit with the US 36 Coalition and DIA.  This is a great opportunity for the City of Denver.  He has heard back from the Subcommittee Panel where he testified and they have provided him with about 15 follow-up questions. This is normal procedure and he will share with the Board when complete.
+
+2.       DUS Grand Opening—Planning is underway for the P3 Roundtable on May 9 which is hosted by Patton-Boggs.  There are three aspects to this roundtable:  Public sector panel which will include RTD, CDOT and perhaps member of FTA; Private sector which will have an international flavor and a Dialog with the Transportation Secretary Foxx and WIN participants.
+
+- The Free Metro Ride vehicle was available today for the Board members to review.  We are on target to have all of the Free Metro Ride vehicles ready before the DUS opening.  We are making progress on the bus bowls at 18 & 19 street.  At the opening, we will have peak hours service only to Civic Center.
+
+- RTD continues to rack up awards for our West Corridor.  We have received awards from WTS and the APWA for our work on the West Corridor.  This attests to the collaboration and interoperability of a great team working together on this project.
+
+## XII. Unanimous Consent
+
+Motion:              Director Daly made the motion to approve the unanimous consent agenda, items A-C
+
+Director Rivera-Malpiede seconded the motion.
+
+Vote on
+
+Motion:              The motion passed with eleven (11) in favor (Bagley, Daly, Folska, Hoy, James, Lasater, Menten, Rivera-Malpiede, Sisk, Tobiassen, and Walker) and one (1) against (Solano).  Directors Anderson Deadwyler and Lubow were absent.
+
+Chair Sisk declared the motion PASSED.
+
+### A. Budget Transfer for West Rail Line Track Paving
+
+It is Recommended by the FasTracks Monitoring Committee that the Board of Directors authorize the General Manager and/or his designee to transfer $650,000 of the remaining funds from the Wadsworth parking structure project to install track paving at three RTD West Line Light Rail Stations.
+
+##### a. Station photos
+
+### B. Property Acquisition for the North Metro Rail Line Phase 2
+
+It is recommended by the FasTracks Monitoring Committee that the Board of Directors pass the attached property acquisition resolution certifying properties as necessary for construction of the North Metro Rail Line Phase 2 from 72nd  Avenue to 124th Avenue, Adams County, Colorado  and authorize staff to proceed with all requisite legal process under state eminent domain law and to provide the General Manager or designee with authority to enter into all contracts necessary to execute real property transactions.
+
+##### a. NM-RTD-BOARD
+
+##### b. 2014 Resolution - 002 North Metro Rail Line Phase II Property Acquisition
+
+### C. Authorization for Intergovernmental Agreement (IGA) with the West Colfax Business Improvement District for the Transfer of RTD Shelters & RTD Site Maintenance
+
+It is recommended by the Planning & Development Committee that the RTD Board of Directors authorize the General Manager or designee to execute all documents necessary to enter into an Intergovernmental Agreement (IGA) with West Colfax Business Improvement District (WC-BID) for the transfer of ownership of 7 older model “Daytech” shelters & 2 trash receptacles, and to reimburse WC-BID for the purchase and installation of 5 new trash receptacles. The cost of the trash receptacles is included in the 2014 Adopted Budget for local government requests.
+
+##### a. Shelter IGA exhibits
+
+## XIII. Recommended Action
+
+Motion:              Director Lasater made the motion to approve item D, Award of “group 24” Contracted Fixed Rout Services.
+
+Director Rivera-Malpiede seconded the motion.
+
+Vote on
+
+Motion:              The motion passed with 11 in favor (Bagley, Daly, Folska, Hoy, James, Lasater, Menten, Rivera-Malpiede, Sisk, Tobiassen and Walker) and 1 opposed (Solano).  Directors Anderson, Deadwyler and Lubow were absent.
+
+Chair Sisk declared the motion PASSED.
+
+### D. Award of “Group 24” Contracted Fixed-Route Services
+
+It is recommended by the Operations and Customer Services Committee that the Board of Directors authorize the General Manager, or his designee, to enter into a contract for the provision of “Group 24” contracted fixed-route transit services with First Transit, Inc. This contract is for three years for an amount not to exceed $61,038,650 with two (2) one-year options in the amount of $22,578,190 (option year 1) and $23,750,230 (option year 2), for a total five year amount not to exceed $107,367,070. In addition, RTD will reimburse the contractor’s direct fuel costs in an amount estimated to be approximately $13,536,453 for the initial three year contract term, $4,725,730 for option year 1, $4,836,631 for option year 2, for a total of $23,098,814 for the five year period.  This results in a total contract amount not to exceed $74,575,103 for the initial three year contract period and $130,465,884 for the five year period. This proposal represents the most responsive and responsible proposal received in response to Request for Proposals (RFP) 14-DH-003, to provide “Group 24” Public Transportation Services. The contract to provide this service is scheduled to be effective on August 17, 2014.
+
+##### a. Group 24 Attachment A
+
+##### b. Group 24 Attachment B
+
+##### c. Group 24 Chart
+
+## XIV. Old Business
+
+- Director Folska asked a process question about unanimous consent.  She stated she could understand when we pass things all at once that are similar but suggested we might separate them when the items are not similar.  Chair Sisk acknowledged her comment.
+
+Director Lasater shared that how the process normally occurs is if there is an item to be discussed on the unanimous consent, this item is pulled from the unanimous consent for further discussion.  Items appear on the unanimous consent agenda when they have passed committee unanimously and do not really have anything to do with whether they are like or unlike.  This is the process they followed in Parker and this is the protocol for most unanimous consent agendas.
+
+## XV. New Business
+
+- Director Bagley commented the visit to Washington D.C., stating it was well organized.  He thanked Sherry Ellebracht and Patton Boggs for their efforts.  He shared that he had hosted a tour of the DUS facility with a group of people from the South Metro Chamber (40 people).  This is a group interested in economic development.
+
+- Director Rivera-Malpiede also thanked Sherry Ellebracht and Patton Boggs for the wonderful Washington D.C. trip. They showed outstanding leadership. She also provided an update on Former Director Matt Cohen, stating that his spirit is strong and he continuing to coach soccer for his kid.  Tumors have appeared in his legs but he has not given up on God.  He would love to hear from members of the Board.
+
+- Director Solano noted that the North Metro groundbreaking was on March 20 and video was done of this event.  He repeated his request for a copy of the full video.  He stated that many of his constituents were unable to attend and he wanted a copy for them also.  He wanted this request on record.
+
+Director Solano stated there had been a report by the Northglenn Sentinel with an error stating the “west line.”  It should have said the “North Metro Line Opening and he wanted a correction on this also.
+
+Marla Lien, General Counsel, responded to the request for a copy of the video for his constituents.  She stated the proper process would be for this to request a copy via the open req process (CORA).
+
+Scott Reed responded to the issue of the media error.  He stated the error had occurred on the printed media but not on the online version.  He had sent Director Solano a copy of the apology from the editor of the Northglenn Sentinel who acknowledged they had simply made a mistake.
+
+- Director James commented that he too thought the Legislative Conference was very productive.  He shared that he conducted a DUS tour with the Colorado Chapter of the Appraisal Institute.  There were about 35 of them and they found the tour enjoyable.
+
+- Director Daly shared that he will be hosting a tour on March 26 with a group of professional and business leaders from Evergreen called the Pathfinders.  They will ride the West Line to downtown, have lunch at the Wynkoop where Pauletta Tonilas will share with them information about FasTracks, and take the DUS tour.
+
+## XVII. Adjourn
+
+Chair Sisk adjourned at 6:35 p.m.
+
+Prepared and Transcribed by:
+
+­­­­­­___________________________________________________________
+
+Paula Perdue, Executive Director to the Board of Directors

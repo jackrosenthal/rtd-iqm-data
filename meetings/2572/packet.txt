@@ -1,0 +1,2804 @@
+Regional Transportation District
+
+1600 Blake Street
+Denver, CO 80202-1399
+303-299-2306
+
+Board of Directors
+Chair – Larry Hoy, District J
+First Vice Chair - Tina Francone, District N
+Second Vice Chair – Barbara Deadwyler, District B
+Secretary – Jeff Walker, District D
+Treasurer – Natalie Menten, District M
+Lorraine Anderson, District L
+Ernest Archuleta, District C
+Bob Broom, District F
+Dr. Claudia Folska, District E
+Judy Lubow, District I
+
+Ken Mihalik, District G
+Chuck Sisk, District O
+Paul Daniel Solano, District K
+Doug Tisdale, District H
+Kate Williams, District A
+
+AGENDA
+Financial Administration & Audit Committee
+Tuesday, January 17, 2017
+Rooms R, T, & D
+5:30 PM
+Conference Dial-in # 303-299-2663
+Conference ID: 15120
+
+Financial Administration and Audit Committee
+Chaired by Natalie Menten
+
+A. Call to Order
+B. Recommended Actions
+C. Updates
+
+• Smart Card Project Update
+• November 2016 Monthly Financial Statements
+D. Other Matters
+E. Next Meeting Date - February 14, 2017
+F. Adjourn
+
+The following communication assistance is available for public meetings:
+ Language Interpreters
+ Sign-language Interpreters
+ Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 business hours in advance of a
+RTD meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+1.C.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather
+Copp,
+Administration
+
+Date:
+
+January 11, 2017
+
+Subject:
+
+Smart Card Project Update
+
+CFO/AGM,
+
+Finance
+
+Date: January 11, 2017
+&
+
+GM
+Board Meeting Date: January 17, 2017
+Information
+
+The Smart Card Program is an Electronic Fare Collection and Payment System designed to increase fare
+payment convenience for our customers, reduce and optimize fare collection costs for the agency and
+reduce fraud associated with paper based fare media. The contract was signed with Xerox Transport
+Solutions, Inc. in mid-2010.
+The Smart Card Program launched to EcoPass, CollegePass and Neighborhood EcoPass customers on
+January 1, 2013. There are approximately 475,000 active cards in circulation. During the month of
+December 2016, 1.25M taps were recorded.
+Starting the morning of Monday January 4, 2016 MyRide Stored Value cards were dispersed to the
+public pilot program participants at the RTD retail outlets. As of January 1, 2017, approximately 1,930
+cards were issued, of which 1,530 (79%) were full fare cards and 400 (21%) were discount cards.
+The average stored value loaded (initial purchases and reloads) was almost $48, with a total value
+loaded of $342,000. There were 125,000 boardings using these MyRide cards with a fare payment
+value of $276,000. Of these boardings; 70% were local, 28% regional and 2% airport.
+The Stored Value MyRide Card is a product that can be purchased by the general public currently
+enrolled in the public pilot program to pay for transit fares on fixed route buses and rail platforms. Stored
+Value is provided on reloadable plastic cards. These cards can be loaded with certain dollar amounts and
+used much like a gift card. Once the card is loaded, it can be used to board bus or rail until the dollar
+amount on the card is less than the fare needed. Additional value can be loaded onto the card at RTD
+sales outlets.
+All bus installations are complete for operational service. Additional validators will be installed as buses
+are purchased.
+Additional platform validators were installed for the University of Colorado A Line and the B Line to
+Westminster. More platform validators will be installed on the G Line to Wheat Ridge and the R Line to
+Aurora. 191 Light and Commuter Rail platform validators have been installed and are operational.
+As of January 1, 2017, Xerox Transport Solutions, Inc. separated its Business Process Services Unit into
+an independent public company called Conduent. Xerox will be referred to as Conduent.
+Program Monitoring and Decision Points (Next 3 months)
+
+
+
+
+
+January 20th Weekly Program Monitoring Report to AGMs
+January 27th Weekly Program Monitoring Report to AGMs
+February 3rd Weekly Program Monitoring Report to AGMs
+February 10th Weekly Program Monitoring Report to AGMs
+
+Packet Pg. 3
+
+1.C.1
+
+
+
+
+
+
+
+
+February 17th Weekly Program Monitoring Report to AGMs
+February 24th Weekly Program Monitoring Report to AGMs
+March 3rd
+Weekly Program Monitoring Report to AGMs
+th
+March 10
+Weekly Program Monitoring Report to AGMs
+March 17th Weekly Program Monitoring Report to AGMs
+March 24th Weekly Program Monitoring Report to AGMs
+
+Element
+
+Status
+
+Prior Period Activities
+
+Next Period
+Activities
+
+Program Components
+
+External Hosting
+of SMT
+environment
+
+Merchant Retail
+Point of Sale
+(RPOS)
+
+
+Green
+(no
+change)
+
+
+Yellow
+(no
+change)
+
+The service provider for this hosting
+is NewPush. They are in the
+processes of maintaining Payment
+Card Industry (PCI) compliance
+standards.
+Disaster Recovery environment
+testing has identified issues. We are
+working with Conduent and NewPush
+to resolve them.
+RTD in active discussions with King
+Soopers and Safeway. Reached
+general agreement on terms and
+conditions with King Soopers and
+Safeway.
+RPOS installed at King Soopers test
+store. Site surveys for RPOS
+installations at all King Soopers
+complete.
+
+Testing continues and
+issues are being resolved
+as they are uncovered.
+
+Initial training at King
+Soopers test store
+complete.
+Training at Safeway store
+scheduled for this month.
+Site Surveys for RPOS
+installations at all
+Safeway stores scheduled
+for Q1 2017.
+
+RPOS installed at Safeway test
+stores.
+
+Stabilization and
+Enhancement of
+Current Operating
+Pass System
+(ECO, College and
+Neighborhood)
+
+
+Yellow
+(no
+change)
+
+For a variety of reasons, there has
+been a small percentage of cards in
+circulation that requires an
+administrative action to extend their
+usability. Remediation was made to
+some of these cards in March 2016
+which yielded positive results.
+Challenges continue to remain and for
+this reason, the status is shown as
+yellow.
+
+RTD and Conduent
+continue to monitor.
+Issues are documented
+and reviewed weekly with
+the Conduent Technical
+Team.
+
+Packet Pg. 4
+
+1.C.1
+
+Element
+
+Status
+
+Prior Period Activities
+
+Next Period
+Activities
+
+Program Components
+
+MyRide Public
+Portal
+Enhancements
+
+
+Red
+(no
+change)
+
+This MyRide portal allows the public
+to self-administer their MyRide cards.
+The MyRide web portal cybersecurity
+vulnerabilities are remediated from a
+Conduent perspective.
+
+NewPush has remediated items from
+their PCI security audit.
+
+
+Cybersecurity
+
+Ride SponsorAdmin Portal and
+Back Office Portal
+Upgrade
+
+Red
+(no
+change)
+
+
+Yellow
+(no
+change)
+
+Conduent provided security
+assessment report for the MyRide and
+Admin portals and completed
+cybersecurity remediation related to
+this scan.
+Third party vendor concluded an
+independent security assessment.
+Report findings were shared with
+Conduent.
+
+MyRide Web Portal
+availability to the public
+delayed to complete
+cybersecurity assessment
+and remediation.
+RTD assessing results of
+the remediation from RTD
+and NewPush
+perspectives.
+
+Conduent completed
+Payment Card Industry
+(PCI) compliance
+assessment of the
+system.
+RTD assessing results of
+the remediation from RTD
+and NewPush
+perspectives.
+
+To address cybersecurity issues and
+to extend the life of the system, the
+middleware and framework software
+must be upgraded for this portal
+functionality.
+
+Work with Conduent to
+advance the software
+upgrade after the MyRide
+Web Portal enhancements
+are complete.
+
+Requirements gathering exercise is
+complete.
+
+This task is currently on
+hold.
+
+Packet Pg. 5
+
+1.C.1
+
+Element
+
+Status
+
+Prior Period Activities
+
+Next Period
+Activities
+
+Program Components
+Reliability, Maintainability and
+Accuracy Test (RMAT)
+
+Program
+Completion
+
+
+Yellow
+(no
+change)
+
+Phase I: Hardware.
+Timeline: Oct 5th to Dec 7th
+Phase II: MyRide Web Portal.
+Timeline: TBD
+Phase III: Admin/Ride Sponsor
+Web Portal.
+Timeline: TBD
+
+RMAT Phase I initial
+testing complete.
+Conduent remediating
+issues identified during
+RMAT Phase I testing
+with target completion
+date Q1 2017.
+RMAT Phase I re-testing
+targeted for Q2 2017.
+
+Final System Acceptance - TBD
+
+Status Indicator Legend
+
+(Green) No current or anticipated issues impacting scope, budget or schedule
+(Yellow) Current or anticipated issue with minor variance in scope, possible increase in budget or
+possible delay
+
+(Red) Project is at risk in one or more areas (cost, schedule, resources) and progress is delayed.
+Action must be taken to remediate the problem.
+
+Prepared by:
+Tonya Anderson, SMT Project Administrator
+Approved by:
+
+Packet Pg. 6
+
+1.C.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather
+Copp,
+Administration
+
+Date:
+
+January 11, 2017
+
+Subject:
+
+November 2016 Monthly Financial Statements
+
+CFO/AGM,
+
+Finance
+
+Date: January 11, 2017
+&
+
+GM
+Board Meeting Date: January 17, 2017
+
+ATTACHMENTS:
+
+
+113016 MFS_Final
+
+(PDF)
+
+Prepared by:
+Doug MacLeod, Controller
+Heather Deckard, Senior Finance Analyst
+Approved by:
+
+Packet Pg. 7
+
+1.C.2.a
+
+MONTHLY FINANCIAL STATUS
+NOVEMBER 2016
+To: Dave Genova, General Manager and CEO
+From: Heather Copp, Chief Financial Officer
+Date: January 06, 2017
+
+ACTION
+
+DISCUSSION
+
+INFO
+
+NOVEMBER 2016
+ACTUAL VS.
+BUDGET
+
+YTD 2016
+ACTUAL VS.
+BUDGET
+
+NOVEMBER
+2016 VS. 2015
+
+YEAR TO DATE
+2016 VS. 2015
+
+S&U TAX
+
+S&U TAX
+
+S&U TAX
+
+S&U TAX
+
+-2.4%
+
+-1.1%
+
+4.9%
+
+3.8%
+
+RIDERSHIP
+
+RIDERSHIP
+
+RIDERSHIP
+
+RIDERSHIP
+
+-5.8%
+
+-5.8%
+
+5.2%
+
+-1.7%
+
+FARE
+REVENUE
+
+FARE
+REVENUE
+
+FARE
+REVENUE
+
+FARE
+REVENUE
+
+10.4%
+
+2.8%
+
+19.1%
+
+11.0%
+
+Attachment: 113016 MFS_Final (3032 : November 2016 Monthly Financial Statements)
+
+x
+
+SALES AND USE TAX
+NOVEMBER 2016
+(In Thousands)
+
+MONTH
+YTD
+
+2016
+ACTUAL
+
+2016
+BUDGET
+
+VARIANCE
+
+VARIANCE %
+
+2015
+ACTUAL
+
+VARIANCE
+TO 2015
+
+VARIANCE
+%
+
+46,779
+508,398
+
+47,924
+514,042
+
+(1,145)
+(5,644)
+
+-2.4%
+-1.1%
+
+44,601
+489,659
+
+2,178
+18,739
+
+4.9%
+3.8%
+
+S&U TAX - YTD
+ACTUAL VS. BUDGET
+
+S&U TAX - NOVEMBER 2016
+ACTUAL VS. BUDGET
+520,000
+
+49,000
+
+515,000
+
+48,000
+
+510,000
+47,000
+
+505,000
+
+46,000
+
+500,000
+
+45,000
+
+495,000
+490,000
+
+44,000
+485,000
+43,000
+42,000
+2016 ACTUAL
+2016 BUDGET
+2015 ACTUAL
+
+480,000
+NOVEMBER 2016
+46,779
+47,924
+44,601
+
+475,000
+
+JANUARY- NOVEMBER 2016
+508,398
+514,042
+489,659
+
+2016 ACTUAL
+2016 BUDGET
+2015 ACTUAL
+
+SALES AND USE TAX TRENDS
+$54.0
+
+(Millions)
+
+2016 Budget
+$48.0
+
+2016 Actual
+
+2015 Actual
+
+$42.0
+
+$36.0
+
+Packet Pg. 8
+
+1.C.2.a
+
+RIDERSHIP
+NOVEMBER 2016
+2016
+ACTUAL
+
+(In Thousands)
+
+MONTH
+YEAR TO DATE
+
+2016
+VARIANCE VARIANCE %
+BUDGET
+
+8,325
+93,426
+
+8,841
+99,153
+
+(516)
+(5,728)
+
+2015
+ACTUAL
+
+VARIANCE %
+to 2015
+
+7,916
+95,078
+
+5.2%
+-1.7%
+
+-5.8%
+-5.8%
+
+RIDERSHIP - NOV. 2016
+ACTUAL VS. BUDGET
+
+RIDERSHIP - YTD
+ACTUAL VS. BUDGET
+
+9,000
+
+100,000
+
+8,800
+
+99,000
+97,000
+
+8,400
+
+96,000
+
+8,200
+
+95,000
+
+8,000
+
+94,000
+93,000
+
+7,800
+
+92,000
+
+7,600
+
+91,000
+
+7,400
+
+90,000
+
+NOVEMBER 2016
+8,325
+8,841
+7,916
+
+2016 ACTUAL
+2016 BUDGET
+2015 ACTUAL
+
+JANUARY- NOVEMBER 2016
+93,426
+99,153
+95,078
+
+2016 ACTUAL
+2016 BUDGET
+2015 ACTUAL
+
+RIDERSHIP BY TYPE - NOVEMBER 2016
+6,000
+5,000
+4,000
+3,000
+2,000
+1,000
+NOVEMBER 2016 ACTUAL
+NOVEMBER 2015 ACTUAL
+
+Bus
+4,447
+4,801
+
+Light Rail
+1,592
+1,619
+
+Mall Ride
+921
+969
+
+A Line*
+466
+-
+
+B Line*
+48
+-
+
+BRT*
+349
+-
+
+West Line
+383
+340
+
+Other
+87
+143
+
+MetroRide
+31
+44
+
+West Line
+4,101
+3,864
+
+Other
+970
+1,308
+
+MetroRide
+529
+547
+
+RIDERSHIP BY TYPE - YTD
+70,000
+60,000
+50,000
+40,000
+*
+
+30,000
+*
+
+20,000
+10,000
+2016 ACTUAL YTD
+2015 ACTUAL YTD
+
+Bus
+50,674
+57,202
+
+Light Rail
+18,592
+19,791
+
+Mall Ride
+10,894
+12,365
+
+A Line*
+3,586
+-
+
+B Line*
+179
+0
+
+BRT*
+3,900
+-
+
+RIDERSHIP TRENDS
+10.0
+
+(Millions)
+
+2016 Budget
+9.0
+
+8.0
+
+2016 Actual
+2015 Actual
+
+7.0
+
+* New in 2016
+
+Packet Pg. 9
+
+Attachment: 113016 MFS_Final (3032 : November 2016 Monthly Financial Statements)
+
+98,000
+
+8,600
+
+1.C.2.a
+
+FARE REVENUE
+NOVEMBER 2016
+(In Thousands)
+
+MONTH
+YEAR TO DATE
+
+2016
+ACTUAL
+
+2016
+BUDGET
+
+VARIANCE
+
+11,469
+122,888
+
+10,386
+119,518
+
+1,083
+3,370
+
+VARIANCE %
+10.4%
+2.8%
+
+FARE REVENUE - NOV. 2016
+ACTUAL VS. BUDGET
+
+2015
+ACTUAL
+
+VARIANCE %
+to 2015
+
+9,629
+110,691
+
+19.1%
+11.0%
+
+FARE REVENUE - YTD
+ACTUAL VS. BUDGET
+124,000
+
+12,000
+
+122,000
+
+11,500
+
+118,000
+116,000
+
+10,500
+
+114,000
+10,000
+
+112,000
+
+9,500
+
+110,000
+108,000
+
+9,000
+
+106,000
+
+8,500
+
+104,000
+
+NOVEMBER 2016
+11,469
+10,386
+9,629
+
+2016 ACTUAL
+2016 BUDGET
+2015 ACTUAL
+
+2016 ACTUAL
+2016 BUDGET
+2015 ACTUAL
+
+JANAUARY- NOVEMBER 2016
+122,888
+119,518
+110,691
+
+FARE REVENUE - NOVEMBER 2016
+7,000
+6,000
+5,000
+4,000
+3,000
+2,000
+1,000
+FARE BOX
+
+10 RIDE
+
+2,481
+2,250
+
+874
+857
+
+NOVEMBER 2016 ACTUAL
+NOVEMBER 2015 ACTUAL
+
+PASSES
+(ECO/COLLEGE/MONTHLY)
+6,097
+5,581
+
+TVMs
+
+SPECIAL SVCS
+
+1,974
+813
+
+44
+127
+
+FARE REVENUE - YTD
+70,000
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+2016 ACTUAL YTD
+2015 ACTUAL YTD
+
+FARE BOX
+
+10 RIDE
+
+24,870
+26,742
+
+11,907
+12,454
+
+PASSES
+(ECO/COLLEGE/MONTHLY)
+65,502
+60,539
+
+TVMs
+
+SPECIAL SVCS
+
+20,009
+10,432
+
+600
+525
+
+FARE REVENUE TRENDS
+$14.0
+
+(Millions)
+
+$13.0
+$12.0
+$11.0
+
+2016 Actual
+2016 Budget
+
+$10.0
+$9.0
+
+2015 Actual
+
+$8.0
+$7.0
+
+* New in 2016
+
+Packet Pg. 10
+
+Attachment: 113016 MFS_Final (3032 : November 2016 Monthly Financial Statements)
+
+120,000
+
+11,000
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF NET POSITION - COMBINED
+NOVEMBER 30, 2016
+(UNAUDITED)
+(In Thousands)
+
+2016
+Base System
+
+2016
+FasTracks Project
+
+2016
+FasTracks Ops
+
+2016
+Combined
+
+December 31, 2015
+Combined
+
+Change
+
+ASSETS
+CURRENT ASSETS:
+Cash & Cash Equivalents
+Receivables:
+Sales Taxes
+Grants
+Other (less allowance for doubtful accts)
+Total Net Receivables
+
+$
+
+88,579
+
+$
+
+30,790
+
+$
+
+23,867
+
+$
+
+143,236
+
+$
+
+339,950
+
+$
+
+(196,714)
+
+56,221
+11,005
+8,014
+75,240
+
+37,424
+96,104
+6,436
+139,964
+
+-
+
+93,645
+107,109
+14,450
+215,204
+
+96,460
+1,780
+18,453
+116,693
+
+(2,815)
+105,329
+(4,003)
+98,511
+
+34,330
+133,238
+3,439
+334,826
+
+556,397
+11,027
+738,178
+
+23,867
+
+34,330
+689,635
+14,466
+1,096,871
+
+35,922
+579,721
+34,558
+1,106,844
+
+(1,592)
+109,914
+(20,092)
+(9,973)
+
+Capital Assets:
+Land
+Land Improvements
+Buildings
+Revenue Earning Equipment
+Shop, Maintenance & Other Equipment
+Construction in Progress
+Total Capital Assets
+Accumulated Depreciation
+Net Capital Assets
+
+172,258
+1,314,673
+263,511
+633,176
+177,909
+122,264
+2,683,791
+(1,246,950)
+1,436,841
+
+412,028
+1,914,968
+343,917
+497,653
+3,480
+2,217,266
+5,389,312
+(279,564)
+5,109,748
+
+-
+
+584,286
+3,229,641
+607,428
+1,130,829
+181,389
+2,339,530
+8,073,103
+(1,526,514)
+6,546,589
+
+390,250
+2,195,281
+491,458
+921,680
+201,950
+3,325,283
+7,525,902
+(1,394,293)
+6,131,609
+
+194,036
+1,034,360
+115,970
+209,149
+(20,561)
+(985,753)
+547,201
+(132,221)
+414,980
+
+TABOR Reserves
+Restricted Debt Service/Debt Service Reserves
+Deposits
+TOTAL NONCURRENT ASSETS
+
+13,762
+31,852
+1,500
+1,483,955
+
+6,926
+60,584
+5,177,258
+
+-
+
+20,688
+92,436
+1,500
+6,661,213
+
+20,211
+91,316
+1,500
+6,244,636
+
+477
+1,120
+416,577
+
+Inventory
+Restricted Debt Service/Project Funds
+Other Assets
+TOTAL CURRENT ASSETS
+
+(1)
+
+(2)
+
+(3)
+
+NONCURRENT ASSETS:
+
+TOTAL ASSETS
+
+$
+
+1,818,781
+
+$
+
+5,915,436
+
+$
+
+23,867
+
+$
+
+7,758,084
+
+$
+
+7,351,480
+
+$
+
+406,604
+
+DEFERRED OUTFLOW OF RESOURCES
+
+$
+
+50,097
+
+$
+
+24,518
+
+$
+
+-
+
+$
+
+74,615
+
+$
+
+77,736
+
+$
+
+(3,121)
+
+(1) Cash will be replenished with year-end COP fund draws for fleet purchases, bond proceeds for SERE and I-225, and collection of grant receivables
+(2) Majority is receivable from the P3 Full Funding Grant Agreement (FFGA) to be collected in 2017
+(3) Increase due to issuance of 2016A FasTracks Sales Tax Bonds
+
+Packet Pg. 11
+
+Attachment: 113016 MFS_Final (3032 : November 2016 Monthly Financial Statements)
+
+1.C.2.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF NET POSITION - COMBINED
+NOVEMBER 30, 2016
+(UNAUDITED)
+(In Thousands)
+
+2016
+Base System
+
+2016
+FasTracks Project
+
+2016
+FasTracks Ops
+
+2016
+Combined
+
+December 31, 2015
+Combined
+
+Change
+
+LIABILITIES
+CURRENT LIABILITIES:
+Accounts & Contracts Payable
+Current Portion of Long Term Debt
+Accrued Compensation
+Accrued Interest Payable
+Other
+TOTAL CURRENT LIABILITIES
+
+$
+
+NONCURRENT LIABILITIES:
+Long Term Debt
+Other Long-Term Liabilities
+Net Pension Liability
+TOTAL NONCURRENT LIABILITIES
+
+32,324
+48,105
+22,357
+12,559
+21,267
+136,612
+
+$
+
+623,330
+321,615
+944,945
+
+43,559
+10,293
+27,889
+2,620
+84,361
+
+$
+
+2,943,304
+364,114
+3,307,418
+
+8,072
+8,072
+
+$
+
+-
+
+83,955
+58,398
+22,357
+40,448
+23,887
+229,045
+
+$
+
+3,566,634
+364,114
+321,615
+4,252,363
+
+163,302
+61,698
+19,953
+21,451
+24,165
+290,569
+
+$
+
+3,387,621
+247,771
+321,615
+3,957,007
+
+(79,347)
+(3,300)
+2,404
+18,997
+(278)
+(61,524)
+
+179,013
+116,343
+295,356
+
+TOTAL LIABILITIES
+
+$
+
+1,081,557
+
+$
+
+3,391,779
+
+$
+
+8,072
+
+$
+
+4,481,408
+
+$
+
+4,247,576
+
+$
+
+233,832
+
+DEFERRED INFLOW OF RESOURCES
+
+$
+
+4,102
+
+$
+
+572
+
+$
+
+-
+
+$
+
+4,674
+
+$
+
+4,701
+
+$
+
+(27)
+
+$
+
+$
+
+$
+
+2,682,289
+745,572
+20,284
+(61,696)
+27,007
+2,418
+22,200
+15,000
+35,537
+(311,672)
+3,176,939
+
+$
+
+$
+
+2,921,555
+853,509
+19,784
+(300,404)
+43,556
+2,418
+30,465
+23,265
+64,137
+(311,672)
+3,346,613
+
+$
+
+$
+
+5,265
+5,265
+5,265
+15,795
+
+$
+
+$
+
+2,156,148
+640,925
+4,956
+(300,404)
+43,556
+2,418
+2,547,599
+
+$
+
+$
+
+765,407
+212,584
+14,828
+25,200
+18,000
+58,872
+(311,672)
+783,219
+
+$
+
+239,266
+107,937
+(500)
+(238,708)
+16,549
+8,265
+8,265
+28,600
+169,674
+
+$
+
+1,868,878
+
+$
+
+5,939,953
+
+$
+
+23,867
+
+$
+
+7,832,695
+
+$
+
+7,429,216
+
+$
+
+403,479
+
+(4)
+(5)
+
+NET POSITION
+Net Investment in Capital Assets
+Restricted - Debt Service, Projects and Deferrals
+Restricted - TABOR Reserves
+Restricted - FasTracks
+FasTracks Internal Savings Account (FISA)
+Assets Held for Sale
+Board Appropriated Fund
+Capital Replacement Fund
+Unrestricted Fund
+Net Pension Liability - Represented
+TOTAL NET POSITION
+TOTAL LIABILITIES & NET POSITION
+
+(6)
+
+(7)
+
+(4) Increase due to issuance of 2016A FasTracks Sales Tax Bonds
+(5) Increase due to EAGLE P3 capital lease
+(6) Decrease due to continued construction of the FasTracks System which will be funded through future cash flows
+(7) Will fluctuate primarily with fluctuations in cash. Expected to decrease to budgeted level by end of 2016 after December debt service payments
+
+Packet Pg. 12
+
+Attachment: 113016 MFS_Final (3032 : November 2016 Monthly Financial Statements)
+
+1.C.2.a
+
+1.C.2.a
+
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION - COMBINED
+NOVEMBER 30, 2016
+(UNAUDITED)
+
+OPERATING REVENUE:
+Passenger Fares
+Advertising, Rent and Other
+Total Operating Revenue
+
+YTD
+Base
+System
+Actual
+
+YTD
+Base
+System
+Budget
+
+YTD
+FasTracks
+Project
+Actual
+
+YTD
+FasTracks
+Project
+Budget
+
+YTD
+FasTracks
+Operations
+Actual
+
+YTD
+FasTracks
+Operations
+Budget
+
+YTD
+System
+Wide
+Actual
+
+YTD
+System
+Wide
+Budget
+
+$
+Favorable
+(Unfavorable)
+
+%
+Favorable
+(Unfavorable)
+
+-----------------
+
+-----------------
+
+-----------------
+
+-------------
+
+-----------------
+
+-------------
+
+-----------------
+
+-----------------
+
+-----------------
+
+-------------
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+11,603
+- 11,603
+
+122,889
+5,101
+127,990
+
+119,518
+4,397
+123,915
+
+3,371
+704
+4,075
+
+2.8%
+16.0%
+0.0%
+3.3%
+
+111,874
+5,101
+116,975
+
+107,915
+4,397
+112,312
+
+-
+
+- -
+
+11,015
+11,015
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Asset Management
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+FasTracks Service Increase
+Depreciation and Other Non-Departmental
+Total Operating Expenses
+
+250,528
+40,483
+2,461
+34,824
+15,908
+11,868
+33,873
+10,207
+6,789
+548
+(15,999)
+97,553
+489,043
+
+255,692
+43,621
+4,971
+42,737
+14,950
+10,523
+41,386
+11,619
+6,443
+1,417
+(15,999)
+80,160
+497,520
+
+433
+11,932
+394
+228
+272
+15,999
+90,188
+119,446
+
+248
+19,868
+474
+443
+1,278
+15,999
+107,763
+146,073
+
+472
+42,860
+2,920
+1,996
+5,183
+53,431
+
+472
+52,199
+5,786
+3,609
+1,472
+63,538
+
+251,000
+83,343
+2,894
+46,756
+18,828
+12,262
+34,101
+12,475
+6,789
+548
+192,924
+661,920
+
+256,164
+95,820
+5,219
+62,605
+20,736
+10,997
+41,829
+16,506
+6,443
+1,417
+189,395
+707,131
+
+5,164
+12,477
+2,325
+15,849
+1,908
+(1,265)
+7,728
+4,031
+(346)
+869
+(3,529)
+45,211
+
+2.0%
+13.0%
+44.5%
+25.3%
+9.2%
+-11.5%
+18.5%
+24.4%
+-5.4%
+61.3%
+0.0%
+-1.9%
+0.0%
+6.4%
+
+OPERATING INCOME/(LOSS)
+
+(372,068)
+
+(385,208)
+
+(119,446)
+
+(146,073)
+
+(42,416)
+
+(51,935)
+
+(533,930)
+
+(583,216)
+
+49,286
+
+8.5%
+
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+Net Nonoperating Revenue (Expense)
+
+305,039
+75,670
+2,345
+927
+(261)
+(24,473)
+359,247
+
+308,425
+85,711
+834
+2,732
+(24,988)
+372,714
+
+148,343
+1,615
+5,095
+6,716
+(5)
+(52,027)
+109,737
+
+141,082
+1,305
+2,328
+8,060
+(82,549)
+70,226
+
+55,016
+55,016
+
+64,535
+64,535
+
+508,398
+77,285
+7,440
+7,643
+(266)
+(76,500)
+524,000
+
+514,042
+87,016
+3,162
+10,792
+(107,537)
+507,475
+
+(5,644)
+(9,731)
+4,278
+(3,149)
+(266)
+31,037
+16,525
+
+-1.1%
+-11.2%
+135.3%
+-29.2%
+0.0%
+28.9%
+0.0%
+3.3%
+
+INCOME BEFORE CAPITAL GRANTS
+
+(12,821)
+
+(12,494)
+
+(9,709)
+
+(75,847)
+
+12,600
+
+12,600
+
+(9,930)
+
+(75,741)
+
+65,811
+
+-86.9%
+
+4,362
+
+18,996
+
+175,245
+
+200,379
+
+-
+
+-
+
+179,607
+
+219,375
+
+(39,769)
+
+-18.1%
+
+26,042
+
+18.1%
+
+(1)
+(2)
+(3)
+
+(4)
+(5)
+
+NONOPERATING REVENUE (EXPENSES)
+
+Capital Grants and Local Contributions
+INCREASE/(DECREASE) IN NET
+POSITION
+
+$
+
+(8,459)
+
+$
+
+6,502
+
+$
+
+165,536
+
+$
+
+124,532
+
+$
+
+12,600
+
+$
+
+12,600
+
+$
+
+169,677
+
+$
+
+143,634
+
+$
+
+Attachment: 113016 MFS_Final (3032 : November 2016 Monthly Financial Statements)
+
+(In Thousands)
+
+(1) Variance is due to the timing of rail line openings
+(2) Variance is due to the timing of payment for management services
+(3) Variance is due to the timing of payment for contract maintenance and grant expenditures
+(4) Variance is primarily due to the timing of payment for data processing services
+(5) Variance is primarily due to the timing of payment for outside services including 2016 openings
+
+Packet Pg. 13
+
+1.C.2.a
+
+REGIONAL TRANSPORTATION DISTRICT
+1% SALES AND USE TAX REVENUE - SYSTEM WIDE
+NOVEMBER 30, 2016
+(In Thousands)
+
+ESTIMATED
+
+February
+2016
+$ 39,696
+39,691
+$
+5
+
+March
+2016
+$ 44,462
+47,441
+$ (2,979)
+
+April
+2016
+$ 46,084
+45,805
+$
+279
+
+May
+2016
+$ 45,529
+47,629
+$ (2,101)
+
+June
+2016
+$ 52,319
+50,261
+$
+2,058
+
+% Favorable/(Unfavorable) - Month
+
+-2.4%
+
+0.0%
+
+-6.3%
+
+0.6%
+
+-4.4%
+
+% Favorable/(Unfavorable) - YTD
+
+-2.4%
+
+-1.2%
+
+-3.1%
+
+-2.1%
+
+-2.6%
+
+Actual
+Budget
+Favorable/(Unfavorable)
+
+July
+2016
+44,548
+48,109
+(3,561)
+
+August
+2016
+$ 51,450
+48,284
+$ 3,167
+
+September
+2016
+$
+49,441
+49,527
+$
+(86)
+
+October
+2016
+$ 46,923
+47,206
+$
+(283)
+
+November
+2016
+$ 46,779
+47,924
+$
+(1,145)
+
+4.1%
+
+-7.4%
+
+6.6%
+
+-0.2%
+
+-0.6%
+
+-2.4%
+
+-1.4%
+
+-2.3%
+
+-1.1%
+
+-1.0%
+
+-1.0%
+
+-1.1%
+
+$
+$
+
+December
+2016
+
+$
+
+-
+
+Total Year
+To Date
+$ 508,398
+514,042
+$
+(5,644)
+
+2016 VS. 2015 ACTUALS
+Net Sales & Use Tax Received
+
+January
+
+February
+
+March
+
+April
+
+May
+
+July
+
+August
+
+September
+
+October
+
+November
+
+2016
+2015
+
+$
+
+$ 39,696
+38,448
+
+$ 44,462
+45,956
+
+$ 46,084
+42,964
+
+$ 45,529
+44,677
+
+$
+
+52,319
+47,064
+
+$
+
+44,548
+46,552
+
+$ 51,450
+46,717
+
+$
+
+49,441
+47,867
+
+$ 46,923
+43,935
+
+$
+
+46,779
+44,601
+
+$ 508,399
+489,659
+
+Change from to 2015
+
+$
+
+$
+
+$
+
+$
+
+$
+
+5,255
+
+$
+
+(2,005)
+
+$
+
+$
+
+1,574
+
+$
+
+$
+
+2,178
+
+$
+
+41,168
+40,878
+290
+
+3,120
+
+852
+
+June
+
+1,247
+
+$ (1,494)
+
+% Increase/(Decrease) by Month vs. 2015
+
+0.7%
+
+3.2%
+
+-3.3%
+
+7.3%
+
+1.9%
+
+11.2%
+
+-4.3%
+
+4,734
+10.1%
+
+3.3%
+
+2,988
+6.8%
+
+4.9%
+
+% Increase YTD vs. 2015
+
+0.7%
+
+1.9%
+
+0.0%
+
+1.9%
+
+1.9%
+
+3.6%
+
+2.4%
+
+3.4%
+
+3.4%
+
+3.7%
+
+3.8%
+
+December
+
+Total
+
+18,740
+
+Packet Pg. 14
+
+Attachment: 113016 MFS_Final (3032 : November 2016 Monthly Financial Statements)
+
+2016 ACTUAL VS. BUDGET
+January
+2016
+$ 41,168
+42,164
+$
+(996)
+
+1.C.2.a
+
+REGIONAL TRANSPORTATION DISTRICT
+FASTRACKS INTERNAL SAVINGS ACCOUNT (FISA)
+
+2017 RECOMMENDED BUDGET
+Actual
+
+Estimated
+
+Risk Level
+-------------
+
+2013
+-----------------
+
+2014
+-----------------
+
+2015
+-----------------
+
+2016
+-----------------
+
+2017
+-----------------
+
+Medium
+Medium
+Medium
+Low
+
+$
+
+$
+
+$
+
+$
+
+$
+
+2013-2017
+-----------------
+
+Estimated in APE
+2018-2030
+-----------------
+
+Estimated in APE
+2031-2040
+-----------------
+
+$
+
+$
+
+Total
+-------------
+
+IDENTIFIED SOURCES:
+Limit Fastracks funding increases for bus and paratransit expansion to CPI
+Reduce FasTracks Minimum Unrestricted Fund Balance from $150 million
+Reduce FasTracks Operating and Maintenance Fund Balance from 3 to 2 months
+Defer the Union Pacific Railroad (UPRR) relocation for the SW Corridor Extension
+Achieve project underruns on FasTracks projects currently under contract 1
+
+-
+
+2,796
+4,000
+9,000
+
+4,958
+500
+-
+
+7,148
+3,500
+-
+
+9,716
+-
+
+$
+
+24,618
+8,000
+9,000
+
+257,398
+-
+
+273,484
+-
+
+$
+
+555,500
+8,000
+9,000
+
+Low
+
+-
+
+-
+
+12,600
+
+5,653
+
+7,551
+
+25,804
+
+-
+
+-
+
+25,804
+
+Low
+Low
+
+5,563
+-
+
+-
+
+-
+
+4,096
+3,512
+
+8,333
+
+9,659
+11,845
+
+10,333
+
+-
+
+9,659
+22,178
+
+Low
+Low
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+306,289
+-
+
+306,289
+-
+
+5,563
+
+15,796
+
+18,058
+
+23,909
+
+25,600
+
+88,926
+
+267,731
+
+579,773
+
+936,430
+
+IDENTIFIED USES:
+US36 Project draws 1
+North Metro Project draws
+Southeast Rail Extension (SERE) Project draws
+Debt service and operations funding 1,3
+
+-
+
+-
+
+(958)
+(11,901)
+-
+
+(3,399)
+(3,512)
+
+(5,171)
+(7,038)
+(8,333)
+
+(6,129)
+(22,338)
+(11,845)
+
+(49,333)
+(10,333)
+
+-
+
+(55,462)
+(22,338)
+(22,178)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(248,679)
+
+(57,611)
+
+(306,290)
+
+Return to 3 months O&M Fund Balance 1
+
+-
+
+-
+
+-
+
+-
+
+(8,000)
+
+(8,000)
+
+-
+
+-
+
+(8,000)
+
+-
+
+-
+
+(12,859)
+
+(6,911)
+
+(28,542)
+
+(48,312)
+
+(308,345)
+
+(57,611)
+
+(414,268)
+
+Sales and lease opportunities for all RTD properties 2
+Request local financial participation in projects above the current 2.5%
+Restore FISA drawdowns for operations between 2031-2040 3
+Sales tax audit/parity
+Total Sources
+
+Total Uses
+
+Net Sources and Uses
+
+$
+
+5,563
+
+$
+
+15,796
+
+$
+
+5,199
+
+$
+
+16,998
+
+$
+
+(2,942)
+
+$
+
+40,614
+
+$
+
+(40,614)
+
+$
+
+522,162
+
+$
+
+522,162
+
+FasTracks Internal Savings Account Balance
+
+$
+
+5,563
+
+$
+
+21,359
+
+$
+
+26,558
+
+$
+
+43,556
+
+$
+
+40,614
+
+$
+
+40,614
+
+$
+
+-
+
+$
+
+522,162
+
+$
+
+522,162
+
+1
+
+Includes approved changes from 2016 Annual Program Evaluation
+
+2
+
+Sale of Civic Center air rights for $8,063 less $2,500 cost of NAMS study - these are Base System funds; plus Fort Lupton property sale of $4,096
+
+3
+
+The 2016 Annual Program Evaluation restores all funds drawn from the FISA for operations and debt service to the FISA by 2040.
+
+Packet Pg. 15
+
+Attachment: 113016 MFS_Final (3032 : November 2016 Monthly Financial Statements)
+
+(In Thousands)
+
+

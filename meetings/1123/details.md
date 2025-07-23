@@ -1,0 +1,103 @@
+Chaired by Bill James
+
+### A. Call to Order
+
+Committee Chair James called the meeting to order at 5:30 p.m.
+
+Directors Folska and Menten participated in the meeting via telephone.
+
+Staff Present:              Bruce Abel, Jessie Carter, Susan Cohen, Carolyn Conover, John Elias, Sherry Ellebracht, Eric Farrington, Mike Gil, Lou Ha, Terry Howerter, Austin Jenkins, Erin Klaas, Marla Lien, Barbara McManus, Doug MacLeod, Anthony Menendez, Paula Perdue, Trent Ratcliff, Scott Reed, Jannette Scarpino, Daria Serna, John Tarbert, Bill Weidenaar
+
+Others Present:              Chris Barker, Celina Benavidez, Matt Christiansen, Jane Donovan, Boyd Gordon, Stan Gronek, Van Groves, Tom Grushka, Nehemiah Hall, Robert McNown, Jon Moellenberg, Ted Rutledge, Jason Simmons, Gary Van Dorn
+
+#### 1. Oracle Hardware and Software Contract Approval
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors authorize the General Manager, or his designee, to execute all documents necessary to award a contract (22DJ010) to DLT solutions LLC in the amount of $2,020,472 for Oracle hardware, software and services.
+
+Terry Howerter explained that this would be authorizing the General Manager to enter into a contract with DLT solution for hardware, software and services related to replacing some of our aging servers.
+
+Trent Ratcliff stated that this contract was the outcome of 18 months of comprehensive needs analysis and research on the technology architecture that we needed and was sustainable for the future to meet our current and future needs.  He said that the infrastructure comes from the business unit staff, IT staff and throughout RTD.  This is a foundational set of hardware and software that over the next 12 months will allow us to have a 5x reduction in the number of servers that we maintain our critical business and operations systems.  Trent explained that we received two proposals and this is being requested to be awarded to DLT Solutions as the most responsible low bidder.
+
+Motion:              Director Bagley made the motion to move this item to the full Board at the January 22, 2013 Board meeting.
+
+Director Tobiassen seconded the motion.
+
+Discussion:              Director Folska said that the $2 million for the hardware and software seemed like a very low cost.  She asked staff to explain this low cost.  She feels it would be a terrible mistake to not budget enough to support proper implementation.
+
+Trent Ratcliff explained that what we really are doing is expanding on the infrastructure that we put into a trial approximately a year and a half ago.  RTD purchased two of these database machines at that time and migrated most of our critical applications onto those servers.  He said that this procurement is to purchase one additional database machine and two engineered application servers.  He states that the original database machines exceeded staff expectations so staff wants to move forward with more of the hardware and software for operational and business efficiencies.
+
+Director Lubow noted that the Board Report indicated this will replace equipment that is five years old.  She asked if the expectation was that this new equipment would last for five years as well.  Trent Ratcliff stated that the hardware could last for five or six years.  He said that we can also expand the hardware by 2x if we need to instead of replacing them; Oracle will support these machines for many years if needed.
+
+Director Lubow asked for the breakdown of cost between hardware, software and maintenance.  She also asked what the expected expenses would be next year when we did not need to purchase the hardware but needed to do another contract for maintenance.  Trent Ratcliff stated that he had somewhat of a summary but not an exact breakdown.  The database hardware and enterprise database licensing which includes compression of the data, high availability failover capabilities and disaster recovery licenses costs in the $340,000 range with $90,000 in maintenance.  The applications servers (2) cost $610,000 with approximately $134,000 in maintenance.  The various additional software for different business applications is in the $600-$700 thousand range with approximately $140,000 in maintenance.  Trent Ratcliff explained that maintenance would be 22% of the original purchase price which includes patches, upgrades for the hardware, and on-site issue support within four hours.  He stated that the maintenance costs have been included in the Strategic Budget Plan as well.
+
+Director Lasater asked for the life expectancy of the hardware.  Trent Ratcliff said the hardware came out three years ago.  He explained that RTD’s refresh cycle is 5 years.  If the hardware is meeting our needs and we can get parts for it, then we can keep the hardware for a sixth year.  Trent stated that after a sixth year we are taking a risk of potential hardware failures that could be catastrophic.
+
+Director Lasater noted that with a maintenance cost of 22% of the value over a five year period we are looking at on overall maintenance cost of 110% of the value of the original contract.  He said that he is not familiar with this type of environment but he feels the cost is high for a maintenance contract.  Trent Ratcliff explained this is not just a standard server with processing; it has a storage array unit built in.  Trent stated that means we will not need to purchase an additional $500 thousand dollar storage network appliance.  Trent said that while 22% may seem high it provides us 24/7 monitoring and alarming of the systems by Oracle customer service and they do all the patches and upgrades on a quarterly basis.  This has allowed RTD to offload tremendous growth in Database Administrator (DBA) Resources.  Trent explained that these servers will reduce our need for half of a DBA, offsetting most of the maintenance cost.
+
+Director Solano asked if this new acquisition would make the Board Paperless Packet more secure.  Trent Ratcliff explained that the MinuteTraq system is hosted securely in the cloud by our vendor so this would not have any impact on the Board Paperless Packets.
+
+Committee Chair James declared the motion PASSED unanimously.
+
+#### 1. CU Leeds Sales and Use Tax Forecast Update – No Backup
+
+Terry Howerter introduced Robert McNown from the CU Leeds School of Business.  He explained that RTD has contracted with CU Leeds to provide sales and use tax forecasts that we use for short and long term projections and forecast models.  He informed the Board that we receive an update from CU Leeds every quarter.
+
+Robert McNown reviewed a Power Point presentation with the Board that can be found in the January 15, 2013 Financial Administration and Audit Committee Agenda Packet.  Robert informed the Board that the model is grounded in well accepted economic relations.  He stated that the CU Leeds forecasts are not wildly different from other units doing similar exercises.
+
+Robert McNown highlighted that recovery from the 2002 recession took longer than 2009 recent recession.  Colorado is making better progress in terms of employment, wages, and State taxable retail sales.   He stated that the picture is one of steady, moderate growth but the economy at the National and State level is still subject to some uncertainties.
+
+Robert McNown stated that CU Leeds is predicting only a 1.23% revenue increase in 2013 over 2012.  This is attributed to data anomalies causing high collections in January 2012, extremely robust consumer spending, slower forecasted national and state economic growth, and Moody’s forecasts of higher gas prices in 2013.  He stated that he understands this is not great news but CU Leeds wants to be realistic.  He explained that most of this sluggish growth will be happening in the first half of the year; by 2014 we will see growth exceeding 5% so we will be more on track with our current moderately high rate of growth.
+
+Robert McNown explained that they rely on the population forecasts from the US Census and Colorado Office of Demography in their long term forecasts.  They analyze how the composition of the population will change over time and apply their understanding of how spending patterns will change with population composition changes.   Robert stated that these population forecasts are also subject to interim revision.  The US Census just provided a revision in which the projection of the population in 2040 is 6% lower than was projected 10 years ago.
+
+Robert McNown concluded by saying CU Leeds realizes their forecasts could be too high or too low but the important thing is that the forecasts are generated from theoretically sound economic relations and modeled with state-of-the-art econometric procedures.
+
+Director Anderson asked if the retail sales collected by RTD outlined on Page 10 of the presentation included internet sales.  Robert McNown stated that it does include internet sales.  He explained that when retail sales are measured at the National level that would be comprehensive; by measuring retail sales for the State, if there are out of state sales through the internet they will not show up in the data.  He stated that his team is trying to keep their eye on internet sales.  Brian Lewandowski provided an analysis of this in CU Leeds full report of how this may effect projections going forward.
+
+Committee Chair James asked Robert McNown if he had any comments on whether or not anything would be done at the political level about collecting tax on internet sales.  Committee Chair James stated that he has not seen much done on the issue.  McNown said that they have seen in other states a move to make more of the internet sales taxable.  Some states have extended their reach particularly if companies have a facility in the state that gives the state some jurisdiction over internet sales but that is a very contentious issue.  Robert stated that as internet sales grow he anticipates there will be some political forces on the part of groups like RTD that want to capture more of the internet sales for their revenues and then there will be countervailing pressures on the other side.  He said that he is not in a position to forecast how those political forces will work out either in the internet sales context or the budget negotiations that are ahead of us.  McNown explained that is why CU Leeds provides us with the high and low forecasts to take into account some of the uncertainties.
+
+Director Bagley noted that in reading about gasoline prices locally versus nationally, Colorado seems to be about 50 cents lower than the national average.  He asked if this could have a contributing factor to possibly increasing our retail sales tax.  McNown explained that the issue is not so much the relative level of our gas prices compared to the Nation’s but what the direction of change will be.  He stated that even though our prices may remain below the average they will still rise over 2013.
+
+Director Bagley stated that he assumes all the CU Leeds forecasts were based on RTD not collecting a tax on candy or soda.  He said there could be benefits that might come long later in the year or 2014 that we may not yet know about.  McNown explained that it would be possible if CU Leeds knew that next year there would be a step up in the effective tax rate because of a change in exemptions they could build that into the forecast.  For example in the model CU Leeds does have an effective tax rate that takes into account that the vendor allowance has been phased back in.  That changes the effective rate of taxation in the same way changes some of the exemptions would.
+
+Director Bagley stated that in looking at the projections from December, 2011 RTD was significantly advantaged over what the projections were.  He asked if Robert McNown had anything to attribute that to.  McNown said this was in part from the data anomaly that lead to a postponement for some collections from December, 2011 to 2012.  He explained that CU Leeds had no way of knowing about that; his team actually did not learn about the anomaly until March through their conversations with staffers at the Department of Revenue.  Robert stated that a more important piece was that Colorado and the District households were much more aggressive in their spending behavior than CU Leeds would have expected.
+
+Director Hoy stated that the population projections in the report were negative numbers but that he believes this was pointing out that the increase in the population was less than first anticipated.  Robert McNown said yes; the projections are about 6% lower than the Census Bureau was reporting 10 years ago.
+
+Director Tobiassen asked what the top three retail sales generators would be.  He also asked if retailers like Walmart and Best Buy have stores in the District do they collect tax when selling something over the internet.  McNown said the top three retail sales generators are car sales, restaurants and hotels, and clothing/department stores.  Robert explained that retailers in the District are required to collect tax on internet sales but he is not sure if RTD get their tax.  He believes they are required to collect for the state but does not think RTD receives any of that collection.  Terry Howerter stated that the state uses the same basic data process for those taxes as in-person purchases to RTD would receive some of the tax collected.
+
+Director Lubow said that scientists say we are in a situation of climate change that could lead to water problems, less snowfall, etc.  These changes could factor into the economy.  She asked if the CU Leeds team took situations like these into account when generating their forecasts and if it was even possible to take them into account.  McNown stated that his team did not factor anything with the climate into their forecasts.  He explained that their forecasts are much more conservative than other forecasts he has seen because CU Leeds takes into account the demographic drag.  McNown said he is not sure how they would address those situations but thinks it is worth giving some further thought to.
+
+Committee Chair James thanked Robert McNown for his presentation.
+
+#### 2. Web and Document Accessibility Briefing
+
+Trent Ratcliff reviewed a Power Point presentation with the Board that can be found in the January 15, 2013 Financial Administration and Audit Committee Agenda Packet.
+
+Director Hoy asked how the scope of work for the RFP was developed; was this done by internal employees or did we contact outside sources.  He also asked if this was phase one of the project.  Trent Ratcliff stated that it was written by internal employees but there is information available online and they also consulted with local and national vendors as to what might be included in the scope.  Trent explained that we will have the vendor evaluate our website and provide us with remediation.  Once staff feels they have remediated the website the vendor will conduct another assessment.  Trent stated that we can include more assessments by the vendor if needed.
+
+Director Tobiassen said that when we originally began looking at this RFP there was some discussion about having someone from the local disabilities community involved in the evaluation.  He also asked if he and Director Folska could have a copy of the action plan when it becomes available.  Trent Ratcliff stated that was correct; Jim Pilkington with the Division of Vocational Rehabilitation was on the panel.
+
+Director Solano asked if the website would be accessible to our Spanish speaking community.  Trent Ratcliff explained that is not part of this assessment but it is something marketing is looking into with the website redesign.
+
+Director Lubow asked if there was a process for the public to evaluate our progress.  Trent Ratcliff informed the Board that staff has been working with the Division of Vocational Rehabilitation, the Colorado School for the Blind, and several other organizations that make up an advisory panel.  Trent shared that he also reached out to a number of his peers in a consortium of transit agencies in North America.  He sent out 30 inquiries and only received 4 responses as to what other agencies were doing in this area.
+
+Director Malpiede asked how much the implementation was going to cost RTD.  Trent Ratcliff stated that the accessibility contract was $36 thousand to have the two assessments.  He explained that after the assessments it is his hope that this company will be able to offer training for staff.  Once staff is trained all the work will be internal.
+
+##### a. Board Brief on Document Accessibility
+
+#### 3. November 2012 Monthly Financial Status Report
+
+Doug MacLeod reviewed the November Monthly Financial Status Report with the Board that is available in the January 15, 2013 Financial Administration and Audit Committee Agenda Packet.  There were no questions on his report.
+
+##### a. 113012 RTD MFS
+
+### D. Other Matters
+
+Committee Chair James said that it had been a pleasure to serve as the Chair of the Financial Administration and Audit Committee for the last few years.  He said that he enjoys working with our Chief Financial Officer and financial staff; he looks forward to turning over the reins to Director Walker.
+
+### F. Adjourn
+
+Committee Chair James adjourned the meeting at 6:48 p.m. to the Operations and Customer Service Committee.
+
+These minutes were prepared by Erin Klaas, Senior Board Office Assistant.

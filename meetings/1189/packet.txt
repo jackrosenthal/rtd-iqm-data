@@ -1,0 +1,682 @@
+1600 Blake Street
+Denver, CO 80202-1399
+303-299-2303
+
+Regional Transportation District
+
+Board of Directors
+Chair – Lorraine Anderson, District L
+First Vice Chair – Kent Bagley, District H
+Second Vice Chair – Larry Hoy, District J
+Secretary – Bruce Daly, District N
+Treasurer – Jeff Walker, District D
+Barbara Deadwyler, District B
+Dr. Claudia Folska, District E
+Bill James, District A
+Gary Lasater, District G
+Judy Lubow, District I
+
+Natalie Menten, District M
+Angie Rivera-Malpiede, District C
+Chuck Sisk, District O
+Paul Daniel Solano, District K
+Tom Tobiassen, District F
+
+AGENDA
+Planning & Development Committee
+Tuesday, July 2, 2013
+Rooms R, T, & D
+5:30 PM
+Conference Dial-in # 303-299-2663
+Conference ID: 15120
+
+Planning and Development Committee
+Chaired by Bill James
+
+A. Call to Order
+B. JCECA Recognition
+
+• Jefferson County Emergency Communications Authority (JCECA)
+Recognition
+
+C. Updates
+
+• Northwest Area Mobility Study Board Update
+D. Other Matters
+E. Next Meeting Date - August 6, 2013
+F. Adjourn
+
+The following communication assistance is available for public meetings:
+ Language Interpreters
+ Sign-language Interpreters
+ Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 hours in advance of a RTD
+meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+1.B.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: June 26, 2013
+
+From:
+
+Richard Clarke, Assistant General Manager
+
+GM
+
+Date:
+
+June 26, 2013
+
+Board Meeting Date: July 2, 2013
+
+Subject:
+
+Jefferson County Emergency Communications
+Authority (JCECA) Recognition
+
+ATTACHMENTS:
+
+
+Letter from Jefferson County Emergency Communications Authority
+
+(PDF)
+
+Prepared by:
+MinuteTraq Admin,
+Approved by:
+
+Packet Pg. 3
+
+1.B.1.a
+
+Jefferson County Emergency Communications Authority
+
+Frank P. Buczkowski Sr.
+Systems Manager, Signal & Communications
+RTD FASTRACKS
+1560 Broadway, Suite 510
+Denver, CO 80202
+Frank.buczkowski@rtd‐fastracks.com
+Dear Frank,
+The City of Lakewood, West Metro Fire District and Jefferson County Emergency Communications
+Authority want to first extend our appreciation to you and the Regional Transportation District team
+for entertaining our request to work together on emergency communications systems.
+The three agencies want to leverage the opportunity during west corridor rail line construction to run
+fiber‐optic communication lines connecting Public Safety Answering Points (PSAP) in Lakewood and
+Jefferson County. In doing so, this line will serve as a backbone for communications in the region for
+other PSAPs extending up to Broomfield County. The agencies also propose that we extend the fiber
+communications to include the ability to connect to the City and County of Denver.
+After discussion with you and the RTD team this all appears possible. To understand the investment
+cost for us we are submitting a description of fiber line and junction points (hand hole access) along
+the way. A basic diagram depicts those as well as a list with some narrative descriptions.
+We would appreciate your attention to size the cost as a engineering change to the existing RTD
+communication system design. Please do not hesitate to call us with any questions or requests for
+clarification. Again thank you for your cooperation.
+Sincerely,
+_________________________________
+Boris Naschansky
+Information Technology
+Director
+
+_________________________________
+Patrick Purdy
+Information Technology
+Director
+
+_________________________________
+Jeffrey Irvin
+Executive Technical
+Director
+
+City of Lakewood
+Colorado
+
+West Metro Fire Rescue
+District
+
+Jefferson County Emergency
+Communications Authority
+
+Packet Pg. 4
+
+Attachment: Letter from Jefferson County Emergency Communications Authority (1630 : JCECA Recognition)
+
+P.O. Box 16184
+Golden, CO 80402-6003
+Office: 303 539 9410
+Fax: 303 539 9593
+www.jceca.org
+
+1.B.1.a
+
+Jefferson County Emergency Communications Authority
+
+Attachment: Letter from Jefferson County Emergency Communications Authority (1630 : JCECA Recognition)
+
+P.O. Box 16184
+Golden, CO 80402-6003
+Office: 303 539 9410
+Fax: 303 539 9593
+www.jceca.org
+
+ATTACHMENTS
+1. Map Depicting Fiber along Rail Line and Junction Points
+2. Diagram of Junction Point Hand Holes and dark Fiber spool
+3. Document listing E911 and RTD Shared Services Ideas
+(which we may jointly pursue at a later date)
+
+Packet Pg. 5
+
+NOTES:
+
+1.B.1.a
+
+18 Proposed Hand Holes at
+Major Intersections
+
+W 32ND AVE
+
+0
+
+SIMMS ST
+
+YOUNGFIELD ST
+
+W 20TH AVE
+FEDERAL
+STATION
+
+OAK
+STATION
+
+W COLFAX AVE
+
+CO
+
+LF
+AX
+
+AV
+E
+
+PERRY
+STATION
+
+W 10TH AVE
+
+W
+
+W 10TH AVE
+
+I-7
+
+GARRISON
+STATION
+
+LAMAR
+STATION
+
+WADSWORTH
+STATION
+
+W 6TH AVE
+
+DENVER FEDERAL
+CENTER
+
+FEDERAL AVE
+
+S SHERIDAN BLVD
+
+S HARLAN ST
+
+W ALAMEDA AVE
+
+S PIERCE ST
+
+CARR ST
+
+S WADSWORTH BLVD
+
+WILLIAM FREDERICK
+HAYDEN PARK
+
+S GARRISON ST
+
+Y
+PK
+W
+
+UNION
+STATION
+
+W
+
+AL
+AM
+ED
+A
+
+W 1ST AVE
+
+S KIPLING ST
+
+RED ROCKS CC
+STATION
+
+0
+
+UNION BLVD
+
+I-7
+
+KNOX
+STATION
+
+SHERIDAN
+STATION
+
+W 6TH AVE
+
+47
+C0
+
+JEFFERSON COUNTY EMERGENCY COMMUNICATIONS
+
+WA
+LAM
+EDA
+PKW
+Y
+
+Proposed Fiber Communications along
+RTD West Corridor Light Rail Line
+
+RR IS
+MO
+
+RD
+ON
+
+SHERIDAN BLVD
+
+C-470
+
+S KIPLING ST
+
+YA
+LE
+
+VD
+BL
+AR CREEK
+BE
+
+AV
+E
+
+Hand Hole Access
+
+W
+
+JEFFERSON COUNTY
+GOVERNMENT
+STATION
+
+DENVER WEST COLORADO MILLS BLVD
+
+I-7
+0
+
+W 26TH AVE
+
+Attachment: Letter from Jefferson County Emergency Communications Authority (1630 : JCECA
+
+11.08 Total Linear Miles of Fiber
+1.5 miles of the total stretches from
+Sheridan to Federal.
+
+Fiber Communications Line
+
+West Corridor Light Rail Line
+0
+
+0.125
+
+0.25
+Miles
+
+0.5
+
+Packet Pg. 6
+
+RTD MAIN CONDUIT UNDER CENTER OF RAIL LINE
+96 Strand Fiber (E911 Trunk)
+
+~30' x 4" Conduit to
+City Right of Way
+
+RTD Right of Way
+City Right of Way
+Jefferson County Emergency
+Communications Authority
+
+HAND HOLE
+
+100 Foot
+Fiber Slack Coil
+for future use
+(no splice case
+or electronics)
+
+PSAP
+ESINet
+TITLE:
+
+JUNCTION BOX BASIC
+DESIGN (HAND HOLES)
+SCALE: NONE
+
+SHEET: 1/1
+
+DRAWN BY: S.Cullingford
+
+HAND HOLES FOR ACCESS TO FIBER
+
+LAST MODIFIED BY: SC
+VERSION: 1.0
+
+DATE: 20090721
+
+City of Lakewood Information Technology Department
+
+Attachment: Letter from Jefferson County Emergency Communications Authority (1630 : JCECA Recognition)
+
+1.B.1.a
+
+Packet Pg. 7
+
+ORIGINAL DATE: 20090721
+
+1.B.1.a
+
+E911 PSAP and RTD Shared Services Ideas
+
+1. Instantaneous communications between Public Safety Answering Points (PSAP, E911 Call Centers)
+and RTD’s 24x7 Operations Center
+2. Access to RTD CAMs / CCTV at West Corridor Rail Stations and parking lots from PSAPs
+3. Access to RTD CAMs at Other Park and Ride Lots in the PSAP’s jurisdiction
+4. NICE Recording system interoperability / back‐up
+5. Radio Systems Interoperability
+
+Packet Pg. 8
+
+Attachment: Letter from Jefferson County Emergency Communications Authority (1630 : JCECA Recognition)
+
+July 23, 2009
+
+1.C.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: June 26, 2013
+
+From:
+
+William Van Meter, Assistant General Manager,
+Planning
+
+GM
+
+Date:
+
+June 21, 2013
+
+Board Meeting Date: July 2, 2013
+
+Subject:
+
+Northwest Area Mobility Study Board Update
+
+Information
+
+ATTACHMENTS:
+
+
+NAMS_BoardUpdate_July2013
+
+(PDF)
+
+Prepared by:
+Chris Quinn, Project Manager, Planning
+Approved by:
+
+Packet Pg. 9
+
+Attachment: NAMS_BoardUpdate_July2013 (1622 : NAMS Update)
+
+1.C.1.a
+
+Northwest Area Mobility Study
+Board Update
+July 2, 2013
+
+Packet Pg. 10
+
+1.C.1.a
+
+Background
+Attachment: NAMS_BoardUpdate_July2013 (1622 : NAMS Update)
+
+For stakeholders in North area, the Northwest Area
+Mobility Study (NAMS) will determine transit priorities
+in the region, taking into consideration conditions that
+have changed since approval of FasTracks program
+in 2004
+• HNTB selected as consultant in March
+• TAC / PAC established
+• Collaboration Summit held May 29th
+
+2
+
+Packet Pg. 11
+
+1.C.1.a
+
+Northwest Area Mobility Study
+Attachment: NAMS_BoardUpdate_July2013 (1622 : NAMS Update)
+
+Five Key Tasks:
+1. Determine remaining BRT funding priorities for US 36
+2. Evaluate feasibility and cost of constructing the Northwest
+Rail in segments
+3. Evaluate potential for extending North Metro Line to
+Longmont
+4. Evaluate potential mobility improvements in the area such
+as BRT on Diagonal and US 287
+5. For I-25 Downtown Express HOV lanes, analyze potential
+alternatives to facilitate reverse commute between
+downtown Denver and US 36
+
+3
+
+Packet Pg. 12
+
+Attachment: NAMS_BoardUpdate_July2013 (1622 : NAMS Update)
+
+1.C.1.a
+
+Overall Project Schedule
+
+4
+Packet Pg. 13
+
+1.C.1.a
+
+1. Determine remaining BRT Funding
+Priorities for US 36
+• Consultant Team working with RTD and
+stakeholders to:
+– Validate cost of remaining BRT items needed to
+complete US 36 BRT
+– Determine prioritization of remaining elements
+
+5
+
+Packet Pg. 14
+
+Attachment: NAMS_BoardUpdate_July2013 (1622 : NAMS Update)
+
+Status of Key Tasks
+
+1.C.1.a
+
+Status of Key Tasks
+
+• Sent letter requesting
+additional information to
+BNSF in May;
+• BNSF unable to respond
+until RTD can
+demonstrate funding
+• Project team evaluating
+potential phasing based
+on previously provided
+information
+6
+
+Attachment: NAMS_BoardUpdate_July2013 (1622 : NAMS Update)
+
+2. Evaluate feasibility of
+constructing the
+Northwest Rail in Phases
+
+Map of Potential
+Phasing Options
+
+Packet Pg. 15
+
+1.C.1.a
+
+Status of Key Tasks
+Attachment: NAMS_BoardUpdate_July2013 (1622 : NAMS Update)
+
+3. Evaluate feasibility of
+extending North Metro
+Corridor to Longmont
+• Currently evaluating
+alternatives that include
+using RTD-owned ROW
+from North Metro the:
+– I-25 North
+– County Road 7
+– US 287
+
+7
+
+Packet Pg. 16
+
+1.C.1.a
+
+4. Evaluate potential mobility improvements
+in the area such as arterial BRT:
+• Candidate corridors include:
+
+Attachment: NAMS_BoardUpdate_July2013 (1622 : NAMS Update)
+
+Status of Key Tasks
+
+– US 287: Longmont/Louisville/Lafayette/Broomfield
+– SH 119 (Diagonal Highway): Longmont/Boulder
+– South Boulder, Baseline or Arapahoe roads:
+Louisville, Lafayette, Boulder.
+
+• Consideration of alternative technologies
+
+8
+
+Packet Pg. 17
+
+1.C.1.a
+
+5. Reverse Commute Analysis. Potential
+solutions include:
+• Alternative routing on parallel arterial roadways
+such as Pecos or Washington
+• Bus on shoulder operations
+• Convert existing managed lane to allow bidirectional travel at all times (one lane each
+direction)
+• Addition of HOV/bus lane in each direction on
+main facility
+• Construct two new exclusive lanes similar to
+existing managed lanes
+9
+
+Packet Pg. 18
+
+Attachment: NAMS_BoardUpdate_July2013 (1622 : NAMS Update)
+
+Status of Key Tasks
+
+1.C.1.a
+
+• Finalize Evaluation Process
+– Goals, Objectives and Performance Measures
+
+Attachment: NAMS_BoardUpdate_July2013 (1622 : NAMS Update)
+
+Key Decisions by Mid-Summer
+
+• Identify Stand‐alone Alternatives to Be
+Evaluated
+• Northwest Rail ‐ Operational/Phasing
+Alternative(s)
+• North Metro Extension ‐ Alternate Alignment(s)
+10
+
+Packet Pg. 19
+
+1.C.1.a
+
+Public Involvement to Date
+Attachment: NAMS_BoardUpdate_July2013 (1622 : NAMS Update)
+
+• Telephone Town Hall Meeting held June 19, 2013
+– 48,073 phone calls made
+– 5,250 of those called participated at some level during
+meeting
+
+• Second Town Hall Meeting held June 27, 2013
+
+• Website, under the FasTracks section of www.rtddenver.com
+• Site includes opportunity to submit questions /
+comments and signup for newsletters
+
+11
+
+Packet Pg. 20
+
+Attachment: NAMS_BoardUpdate_July2013 (1622 : NAMS Update)
+
+1.C.1.a
+
+Questions?
+Chris Quinn
+Planning Project Manager
+chris.quinn@rtd-denver.com
+(303) 299-2439
+12
+
+Packet Pg. 21
+
+

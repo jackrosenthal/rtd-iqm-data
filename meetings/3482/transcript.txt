@@ -1,0 +1,532 @@
+2022-06-07
+Operations and Safety Committee
+KATE WILLIAMS: Good evening. The Wednesday, June 7th Operations and Safety Committee will now
+come to order. We are convened as of 5:30 PM. Attendees, please mute yourself unless you are recognized
+to speak. Thank you all for joining us this evening. Committee meetings of the RTD Board of Directors are
+being held remotely via Zoom until further notice and will be audio and video recorded. The meeting
+recordings, along with the unofficial minutes of the meetings, will be posted as soon as practicable on the
+Board's website. You can visit RTD-Denver.com to find those. A live stream of this meeting is also available
+via RTD's YouTube page.
+Directors and members of the staff, for the sake of the record, if you would like to be acknowledged during
+tonight's proceedings, please raise your virtual hand and wait for me to call you before proceeding to speak.
+There's [INAUDIBLE] staff participating by phone can also raise their virtual hands to indicate that they
+would like to speak by pressing star 9. To toggle your mute setting on the phone, press star 6. I know it's
+easier said than done, but it's supposed to work.
+I would now like to call the role for the committee members. Director Bouquet?
+JULIEN BOUQUET: Present.
+KATE WILLIAMS: Director Broom.
+BOB BROOM: Present.
+KATE WILLIAMS: Director Ruscha?
+JOYANN RUSCHA: Present.
+KATE WILLIAMS: Director Rosenthal did let me know that he is coming, but he will be a few minutes late.
+Director Sloan?
+MARJORIE SLOAN: Here.
+KATE WILLIAMS: Director Whitmore.
+TROY WHITMORE: Mic check, mic check. I'm present.
+[LAUGHTER]
+
+KATE WILLIAMS: You're OK. I hear you. I am having a hard time seeing who else is here. Are there other
+directors present? I see Director Catlin, Director Tisdale. Who else am I missing?
+MICHAEL GUZMAN: Director Guzman.
+KATE WILLIAMS: Director Guzman, good evening. OK, I think that's all of the extraneous directors who
+have joined us. We're now going to go to the public comment period, which is for anyone who would like to
+address the committee regarding any topic that is listed in the public meeting agenda for this month and for
+the immediately preceding month. If you wish to speak, please raise your virtual hand or press star 9 on
+your phone. Tai-Shrae or Jillian, whoever is running this from the background, are there any hands raised?
+TAI-SHRAE PARISH: We have one hand raised, M Scott Ramming.
+KATE WILLIAMS: Ah, Mr. Ramming, the staff will unmute you when it's your turn to speak. I just want to
+remind you that by participating in this process you are being recorded. If you do not wish to be recorded,
+your comments will need to be submitted in writing, and that can be done to the Board Office at
+RTD.BoardOffice@RTD-Denver.com.
+Please note also that during public comment, this committee will not offer comments or responses. Directors
+or staff may contact speakers following their comments if they raise matters that lend themselves to follow
+up. Speakers should begin their remarks by stating their name. Each speaker will have three minutes to
+speak. Mr. Ramming, if you would please state your name, you may proceed.
+AUDIENCE: Yes, are you able to hear me? I don't see settings where I start my camera.
+KATE WILLIAMS: I hear you just fine.
+AUDIENCE: OK, I'm Michael Scott Ramming. I'm a resident of the Eastside Call Neighborhood and District
+C, speaking on my own behalf. I just wanted to express my gratitude to the ADA Manager's Gabe Christie
+to Civil Rights Director Carl Green Jr. and a transit-oriented community Senior Manager Bill Sirois for
+opening the topic of bus stops and amenities there that, according to your RTDs 2021 National Transit
+Database submission, more than 64% of your boardings are onto buses.
+And so the bus stops are an opportunity to make a first impression as, if you've looked at the packet, that
+doesn't always happen. And as a frequent rider, I often feel frustration of if I will call the customer service
+line to just find out that, oh, this bus stop that I'm complaining about isn't managed by RTD. And I have to
+hunt through some local government structure to find who I should be talking to. So thank you for the
+commitment to do more coordination in the future.
+KATE WILLIAMS: Thank you, sir. Word office, do we have anyone else with their hand raised to speak?
+
+TAI-SHRAE PARISH: No, there are no additional hands raised, and there was one email from Andy
+Bazelon.
+KATE WILLIAMS: And that email will be added to the transcript if anybody who wants to look at that. With
+no other participants, we will close the public comment section at this time. The next part of tonight's agenda
+is information from external entities. Oh, Director Whitmore, I see your hand is up. I apologize.
+TROY WHITMORE: Just wanted to make note that Director Rosenthal joined us right after the roll call.
+Thank you.
+KATE WILLIAMS: Thank you for that. Good evening, Director Rosenthal. There's no information from
+external entities during this committee meeting. There are no recommended actions this month. But we do
+have two discussion items on the agenda this evening. The first discussion item is the 2022 safety
+performance review. I'd like to ask Leah Riley, our Chief Administration officer, and Dan McClain, our Chief
+Safety Officer and Senior Manager of Safety and Environmental-- nice title-- to give us some presentation
+on this item. Leah?
+LEAH RILEY: Great. Thank you so much. Let me share my screen so we can get going here. All right, can
+someone confirm you can see my screen? Perfect. All right, again, Leah Riley. I'm the Chief Administrative
+Officer, and I'm joined by Dan McClain. And tonight we're going to be providing you an overview of the
+safety programs and within the agency with a focus on regulatory requirements and our performance in
+2022.
+So first I'm going to cover federal requirements, and then I'm going to turn it over to Dan who will cover the
+2022 performance. And Dan's also going to briefly discuss the agency's approach to safety management
+systems. So in terms of the regulatory background, I'll share with you federal regulations both from the FDA
+and the FRA and give a very high-level overview of the specific requirements from each of those entities.
+So the FRA has regulatory oversight of our agency commuter rail operations. And the FRA was created in
+1966. In response to several fatal rail accidents that occurred between 2002 and 2008, Congress passed
+the Rail Safety Improvement Act, which included new safety regulations for rails, such as hours of service
+for railroad workers, positive train control implementation, their standards for track inspections, certification
+for conductors, and safety at highway rail grade crossings.
+In addition, to this act, the Office of Railroad Safety focuses on the following safety criteria. They look at
+grade crossings, hazardous materials, mode of power and equipment, operating practices, signal and train
+control, and track. The FRA has nine safety management teams, SMTs. And these liaise with the nation's
+railroads. So RTD commuter rail is assigned to SMT 7, which is also called Commuter West.
+
+In his role as the Chief Safety Officer, Dan McClain serves as our liaison to the FRA. Dan coordinates
+information requests, inspections, and he receives and ensures response of FRA inspection reports. And
+he also acts as a reporting officer for the railroad. And I'd like to point out that RTD's commuter rail
+operations are unique in that they're defined in a concessionary agreement with the Denver Transit
+Partners. Denver Transit Partners operate the A, B, and G lines, and RTD operates the N line.
+Title 49 CFR Part 270 requires the agency to have a system safety program plan, which we call the SSP.
+The purpose of the SSP is to improve Railroad Safety through structured and proactive processes and
+procedures that will support risk management and provide methods to evaluate and respond to all safety
+issues. It includes proactive hazard management methods that support continuous safety improvement and
+ensures that all applicable federal, state, and local safety regulations and safety requirements are identified
+in the plan and addressed. And it represents the railroad safety philosophy and cultivates a robust safety
+culture from the most senior officer throughout all levels of the organization.
+The SSP is applicable to all aspects of RTD commuter rail, including Denver Transit Partners. It also
+includes any contractor or subcontractor performing any function covered in the SSP. Regarding safety
+oversight, FRA regulations distinguish between reportable and recordable accidents or incidents. So
+recordable, there's three categories. There's a highway rail grade crossing incident, which is defined as any
+impact between on-track equipment and highway user to rail grade crossing. And this includes all modes
+of surface transportation, motorized and unmotorized.
+The next is train accidents, and that is any collision, derailment, fire, explosion, act of god, or any other
+event involving operating on-track equipment that results in recordable damages that are greater than the
+reporting threshold, which in 2023 is $11,500, so fairly low. Damages can be to on-track equipment, signals,
+track, track structures, and the roadbed.
+The last category is casualties to persons, and this means any death or injury of a railroad employee or any
+person or occupational illness of a railroad employee. And so the next level is recordable events. So the
+first that I described to you are reportable. Recordable events are ones that are memorialized at the agency
+level. And these are defined as a train accident or an incident that doesn't meet the reporting threshold or
+an employee injury that does not involve lost time or medical treatment.
+So we do investigate these events because they help us proactively identify gaps in procedures and
+processes. And we do keep a copy. They are all maintained at the agency level because we can be audited
+on them at any time.
+So next the FTA holds the regulatory authority for bus and light rail, and the FTA had delegated its
+responsibilities as the state safety oversight agency to the Colorado Public Utilities Commission. In July of
+2018, the FTA published the public transportation agency safety plan final rule, which requires operators of
+
+public transportation systems that receive federal funds under FTAs urbanized area formula grants, which
+that is RTD, to develop safety plans that include processes and procedures to implement safety
+management systems, so SMS on the FTA side.
+SMS is a comprehensive, collaborative approach to managing safety. It brings management and labor
+together. And together we control risk. We detect and correct safety problems earlier. We share and analyze
+safety data and measure our performance more precisely. So in 2023, the performance measures that are
+included in our PTAS are the mean distance between major mechanical failures by mode, the total number
+of reportable fatalities, injuries, and recordable events. And all of these are measured by mode at the rate
+per total vehicle revenue mile.
+Our targets for performance in the P-task are a 5% reduction of lost time, days due to on the job injuries,
+5% reduction of on-the-job injuries, 5% reduction of slip and fall injuries, 5% reduction of injuries from
+strains, and a preventable accident rate per 100,000 miles combined for bus and rail to be less than 1.0.
+So with that overview, I am now going to turn it over to Dan to go over our data. Take it away, Dan.
+DAN MCCLAIN: Thanks, Leah. We'll start with the on-the-job injury incident rates, and these are rates per
+100 employees. One thing I want to highlight here is the reason we had total cases in OSHA is total cases
+includes all reports of injuries that come into the agency. And we categorize those in three buckets. One is
+record only, the other is medical treatment, and the other is indemnity or loss time.
+So you can see there we have about 40%, and over the years it's ranged between 30% and 50% of record
+only, where people report something happened but don't seek medical treatment or don't lose time. So you
+can see the OSHA, which is medical injuries and lost time, decreased in 2022 versus 2021. The other two
+numbers at the bottom of the slide are just to give you some benchmarking data. The OSHA urban
+transportation data and the OSHA national average come from the Bureau of Labor Statistics. And those
+most recently were updated in 2021. Next slide, Leah.
+As for commuter rail, as Leah said, the reportable and recordable accidents, as they're defined for 2022,
+there was one reportable on G line and six reportables on A line. And as far as recordables, you can see
+there was 20 on A line, 0 on B line, 10 on G, and 7 on N line in 2022. Next slide.
+The 2022 rule violations and near-misses for commuter rail, again, segregated by line A, B, G, and N. The
+station overruns on A were the highest. And then the near misses, two are segregated by line, with most
+near-misses occurring in 2022. And you can see-- or on A line. You can see that there was an increase
+from 21 to 22 on the A line, G line, and N line of near misses. Next slide, Leah.
+These are the FRA inspection reports. As Leah says, RTDC, which is commuter rail, includes the N line
+and the Eagle lines. The violations you can see in 2021 the number for Eagles, which includes all three, A,
+
+B, and G. And then 2022, you can see there's decrease in all of the areas on 2022 except for the nondefects,
+which there was a minor-- 26% increase for the E line. So trending in the right direction there. Next slide.
+Now, we'll shift to bus. These are preventable and nonpreventable accidents, total accidents. And you can
+see in 2022 we had a total of 1,087 accidents, which 319 of those were determined preventable. And that's
+an increase over 2021. Again, I think there's an increase in service somewhat, but also increase in traffic
+in 2022 over the whole compared to 2021, and also an increase in downtown construction. Next slide.
+This is shifting to FTA and the PUC reportable events. As Leah described earlier, these events are up.
+Primarily, the driver of that number is grade crossing collisions. And 2022, it's up. Next slide. Good news. I
+will say I think it was five years ago we had over 70 red signal violations, and it was an issue with the FTA
+audit we had with the PUC.
+Since then, it's been diligent effort to drive the red signal violations. And red signal violations are when a
+train runs a stoplight. And what stoplight says or the red light says is that there's another train occupying
+the path in front of you. You can't go. So a significant reduction over the period of time by the light rail
+transportation chain. Next slide.
+The PUC, because of changes in some of the FTA regulations updated their program standard, and it came
+into effect in June 30, 2022. With that, they have required nine new hazard reporting requirements. One of
+the hazard reporting requirements were near-misses, and that's when a train operator has to suddenly
+brake or stop because there is a trespasser or a pedestrian or something in their path. And as you see, we
+reported from July to the end of the year, 54 additional hazards were reported under that. 52 of those were
+near-misses on the right of way. Next slide.
+At the end of the year on 2022 we did have a full DOT Federal Motor Carrier safety administrative audit. It
+was conducted by the Colorado State Patrol. They went through all of our records. They went through driver
+files, driver hours, qualification files, inspection records, maintenance records. They did inspections on over
+100 of our vehicles. We are the largest DOT fleet in the state of Colorado. And we ended up with some
+minor administrative findings.
+One of the findings was our crash register that is monitored by the Federal Motor Carrier Association was
+really high. And we investigated, and over 50% of the accidents that were-- crashes that were charged to
+us didn't belong to us. We just needed to maintain them and get them off. And then some minor
+administrative findings. But overall, the auditors were extremely impressed by our maintenance and
+operational processes that we had around complying with the DOT regulations and were happy with our
+participation. Next slide, Leah.
+In 2022, we implemented operational risk management. Again, this is a fundamental tool or a cornerstone
+to a safety management system. It allows us to manage risk and prioritize resources and efforts based on
+
+risk in the safety management system. It also allows us to have an equal gauge of what something is. The
+term we like to say is interrater reliability so that each person can look at the risk and have a very similar
+outcome of where it needs to be.
+It also sets a decision hierarchy, as you see there. When we get into the serious high, it's required
+management engagement or correction resolution. And this also mirrors what the PUC has put in place in
+their new program standard. But it really is a fundamental, a core fundamental tool to make the decisions
+of where we spend our money, where we spend our efforts, and how we improve our safety. And we're
+working to get more fluent in operational risk management throughout the agency. Next slide. Questions.
+KATE WILLIAMS: Thank you, Mr. McClain and Ms. Riley. If you all are finished, I will see if any of the
+committee members have questions. And I see Director Ruscha's hand up immediately. Director Ruscha?
+JOYANN RUSCHA: So first I just want to acknowledge that as a director I made inquiries about the report
+and asked for the supporting documentation that was referenced. And that was given to me promptly. So I
+just wanted to say thank you for that. I am a director who, if given the opportunity, would read 300 pages if
+you let her. And I had a general sense of wanting follow up but nothing that could be solved today. And
+what would be helpful for me is, I guess, a comment/question is, if we could continue the conversation,
+right?
+So I see that there are some things that we might need to improve or continue to improve, but I don't have
+the clarity in understanding what steps might be taken. And so my comment/question is can we-understanding this was a high level overview-- could staff commit to doing a little bit of a deeper dive,
+whether it's an agenda item or maybe a study session just because, for me personally, I feel that safety
+committee, this is like a core part of our oversight. Again, I am very satisfied with all the information that
+we've received thus far. Would just a little bit more follow up on some of the corrective action that was taken
+just to ensure safety of our staff and the public.
+KATE WILLIAMS: Thank you, Director Ruscha. I see our General Manager and CEO has some either
+questions or comments.
+DEBORAH JOHNSON: Thank you, Madam Chair, and thank you, Director Ruscha. I will confer with staff,
+and we'll discern the appropriate fashion in which to comply with the request, recognizing in short order that
+our public transportation agency safety plan will be brought to you all, which is a critical component of all of
+this. And that will be forthcoming in July. I want to caucus with them so we can figure out-- because we
+could use the P-task as the cornerstone as we go forward. So we will double back, I would say within about
+a month or so and figure out what might be most prudent to help you all understand. So thank you very
+much.
+KATE WILLIAMS: Super. Director Ruscha, more?
+
+JOYANN RUSCHA: No, I'm satisfied with that. I think that's wholly appropriate, and I appreciate the
+collaboration and dialogue. And then I had a question that is related to this but wasn't specifically in the
+report. So I hope it's OK I bring it up now instead of other business.
+KATE WILLIAMS: Yeah.
+JOYANN RUSCHA: So I know that we also get safety reports or some data as it relates to paratransit, but
+it's not a comprehensive-- or I haven't seen it yet. So I wanted to get clarification on when the committee
+will get a similar review. And then to piggyback on that, I'm not familiar when we contract, for example, on
+demand and we are utilizing TNCs, which are under a different set of regulations.
+If and when or where those contractors, and specifically TNCs, if they are going to fall under the same kind
+of regulations set forth either by the state or the feds. So the second was slightly a legal question. I'm happy
+with a follow up memo. But it would help me just to understand what our responsibility is in that regard and
+also just what kind of information we'll be receiving in the future. And that concludes my questions.
+KATE WILLIAMS: OK, that's been a big discussion nationally, how TNCs are regulated or not regulated,
+as the case may be. And I think, if we want to have a study session on paratransit and that kind of issues
+because we all know that the industry is moving toward more and different forms of mobility on demand. I
+think that's something that we can pursue but not tonight. How's that sound?
+OK, thank you. Anybody else have questions or comments on this very nice-- thank you, Mrs. Riley, Mr.
+McClain for this great presentation. Very well done. Mr. Guzman, I'm sorry, Director Guzman, I see your
+hand.
+MICHAEL GUZMAN: I just wanted to get clarification, if I could. There were three things listed, station
+overrun, rule violation, and near misses. Can you briefly, succinctly explain what that means for my
+understanding? Thank you.
+DAN MCCLAIN: So it's-KATE WILLIAMS: Go.
+DAN MCCLAIN: OK, Director Guzman. So it is kind of what it sounds like. A rule violation means that a lot
+of the operations that we have in commuter rail are designated. We have rules for operators. We have rules
+for mechanics. We have rules for all of our employees. And a rules violation would be ones when the rule
+isn't followed. The station overrun is when a train pulls into a station, and it's not aligned to where the normal
+boarding and deboarding areas are. So the train doesn't stop in time.
+
+And the others are near misses. The near misses are mostly related to trespassers on the right of way.
+Much like we said in the PUC or the FDA rules, most of those near misses are that. Is that helpful?
+KATE WILLIAMS: I see, Ms, Riley, you have your hand up if you'd like to add to this.
+LEAH RILEY: I just was going to add to give you an example of a rule violation so you understand what
+that might fall under. A typical example that we see is personnel not wearing the required PPE while they're
+in the right of way or a train engineer not obeying a verbal directive that was given by a dispatcher or not
+acknowledging that they got the order. That is a rule violation. And sometimes not following a speed
+restriction. So those are some tangible examples of a rule violation.
+MICHAEL GUZMAN: Great. Thank you.
+KATE WILLIAMS: I think everybody-- I see Director Ruscha.
+JOYANN RUSCHA: Hi, so this is part of the printout but not the presentation. And it was accidents or injuries
+for staff. And I was wondering if this would be an appropriate time to ask a follow up that was in the printout.
+We're in that part of the agenda still, right?
+KATE WILLIAMS: Yeah, this is discussion items. We're here to discuss.
+JOYANN RUSCHA: OK.
+[LAUGHTER]
+And I also ask you, I promised I wouldn't keep us from tip off either. And so again, I am appreciative that
+staff responded because I had asked a follow up, which was what's the breakdown of injuries by department
+or job type because we did see-- it looks like we saw an increase. And so what we've been given is the
+majority of the injuries-- I'm just quoting from the staff email-- are attributable, sorry, to slips, trips, falls on
+screen.
+And so on the bus, that was 250, light rail, that's 140, facilities 14, and so forth. And so I was just wondering
+if anyone can briefly touch on this. Is there something that we think as an agency we can do to reduce
+injury? I could see how, for example, in a maintenance facility, strains could be an issue if folks are lifting
+heavy tires or something. But if anyone could just touch on that and maybe just briefly highlight some of the
+actions that we're taking to ensure safety of staff and which might include training. I would appreciate that.
+KATE WILLIAMS: Dan McClain?
+DAN MCCLAIN: Yes, if I may. So let's take both the strain and the slip and fall. I'll start with the slip and fall.
+We have had significant decrease in slip and falls over the past three years. It started with identifying the
+
+areas where ice and snow would accumulate, identifying those high priority paths to be cleared when snow
+removal is coming. It also ended up having open houses, making people aware of the slips and falls. We
+also did a implementation of snow cleats, both on light rail side and the bus side.
+So we are making efforts each winter, and actually the efforts start in the fall, to make sure that we're
+prepared to address the issues that come from slip, trip, and fall, even identifying uneven concrete areas
+because we've had slip and falls on dry. We've done that. As for strains, we're working with Labor Relations
+and our health and wellness folks. We started in 2019, late 2019, and we continue to run through the work
+requirements that we have, the physical demands of the job.
+In 2019, we had made a commitment to try to minimize any lifting that was over 50 pounds to be compliant
+with an IOSH lifting equation. With that, we've went through all of these with our physical therapists. We
+have a strain gauge. We go out to the shops. We ask them what they do. What's the heaviest they lift?
+What's the awkwardness? And we try to redo how they have been in the past.
+In the past, it was accepted that, oh, this is just heavy work. We just got to do it. And we look at what are
+the alternatives? Where can we get lift assists? Where can we get-- if we have a two men requirement or
+two person requirement, we get that done. And we've been doing that sequentially in all of the job
+descriptions on the classified side, on the representative side.
+So we are taking those efforts with that. Additionally, overall, we have an initiative to-- we've just revised
+and updated our event investigation policy. And we are putting together a train the trainer program that will
+be completed this fall for all of the supervisors and managers to get more thoroughly to systematic causes
+of events that occur in RTD, including injuries.
+KATE WILLIAMS: Super. Director Ruscha?
+JOYANN RUSCHA: Thank you. That satisfies my question. I just want to express appreciation for our
+efforts. Accidents will happen. Of course, we want to prevent them when we can. And so thank you for that.
+And I also understand that, as part of our audit process, we will be looking at bus schedules and making
+sure that drivers can take breaks because that can also pose a health and safety risk as well. So thank you
+for that, and I appreciate all the staff work. Thank you.
+KATE WILLIAMS: OK, thank you. Director Broom.
+BOB BROOM: Thank you, Madam Chair. Even though we're operating at an 85% level, it seems like over
+the last several years, we've had more accidents than what I can recall when I first got on the board. Is this
+a function of having so many new employees?
+DAN MCCLAIN: Some--
+
+KATE WILLIAMS: Go ahead.
+DAN MCCLAIN: I would say somewhat. We do track the number of events that occur in different experience
+ranges, 0 to 1 year, 1 year to 5 years, and through that. And what we see the drivers with over 10 years
+experience have less accidents. So in the first five years, we tend to see more events occur with drivers.
+So to answer your question, Director Broom, the answer is, yes, we do thorough investigations with the
+events that occur.
+And the bus team, the training team takes lessons from those and includes those in their refreshers that
+occur quarterly throughout the year. So whether it's emphasizing a certain driving principle or sideswipes
+or tight locations or left-hand turns, they continue to take that data and adjust the training.
+BOB BROOM: Thanks. I guess we need to concentrate on retaining employees. Thank you.
+KATE WILLIAMS: Thank you, Director Broom. That's a goal I think we all aspire to. OK, I don't see any
+more hands up, so we're going to move on to the next item. And if I can get there, I'll tell you what it is. It is
+bus stops and customer amenities, which is a nice segue from our discussion so far. I'd like to ask Gabe
+Christie, who is our ADA Manager, and Carl Green, the Director of Civil Rights, and Bill Sirois, the Senior
+Manager of Transit-Oriented Communities to present this item. Mr. Ford, do you want to start off by
+indicating which staff would go first?
+MICHAEL FORD: I believe Carl Green was to go first on this presentation.
+KATE WILLIAMS: Thank you.
+CARL GREEN: Thank you, Madam Chair, and thank you, Mr. Ford. I'll go ahead and pull up the
+presentation. Right, how are we looking? Is the screen up?
+KATE WILLIAMS: It looks good.
+CARL GREEN: Perfect. Thank you, Madam Chair. So again, my name is Carl Green Jr., Director of Civil
+Rights. And joining me tonight in the presentation is Gabe Christie, ADA Manager, as well as Bill Sirois,
+Senior Manager of Transit-Oriented Communities.
+So similar to the comment made by Mr. Ramming, as well as other customer comments that we received
+over time, we share the same sentiment of moving forward with this endeavor. And the work behind the
+scenes to get us to this point by the direction of our General Manager and CEO, we have worked
+collaboratively with-- this has been a collaborative effort between Administration, Planning, Operations, and
+Capital Programs departments. So I just wanted to put that out there. I know Mr. Ramming mentioned us
+
+three as the presenters. But it's the many hands that make the work lighter. So it has been a collaborative
+effort.
+So as illustrated with this overview slide, the intent of this presentation is to educate and inform the Board
+of Directors regarding the current state of bus stops and amenities within the RTD service area, to share
+some of the associated challenges with infrastructure governance, and factors impacting bus stop
+accessibility, as well as to provide areas of opportunities to address these challenges through a systemwide bus stop assessment and through collaboration with jurisdictions, Colorado Department of
+Transportation, property owners, and other stakeholders. With that being said, I will now pass it over to Mr.
+Christie.
+KATE WILLIAMS: Can I jump in just for a second, you guys, to acknowledge that Chair Guissinger has
+joined the meeting. I don't know if I didn't see her earlier, but I see her now. Thanks, Gabe. You're up.
+GABE CHRISTIE: Thank you, Director Williams, and thank you, Carl. Again, my name is Gabe Christie. I'm
+the ADA Manager for RTD. And to get started, I would like to provide some context about the current state
+of RTD bus stops. Next slide, please.
+The RTD service area is 2,342 miles and contains 9,750 bus stops, of which 8,200 are active. Most active
+stops have the standard six-sided pole with a route flag. However, most are not equipped with amenities
+like benches, trash cans, or shelters. Many stops were installed prior to the passage of the Americans with
+Disabilities Act of 1990, or the ADA, meaning that they are legacied into ADA compliance.
+The large number of stops across such a wide service area makes it difficult to address bus stop
+infrastructure improvements, but this is not an issue that's endemic to RTD. Many transportation agencies
+across the nation face similar challenges related to bus stop infrastructure governance. RTD does,
+however, prioritize bus stop improvements based on feedback provided by our customers with
+consideration to available resources. Next slide, please.
+The infrastructure governance matrix on this slide identifies the parties responsible for the infrastructure
+right of way and maintenance of bus stops. Be it one of the 40 municipalities or the Colorado Department
+of Transportation, property owners are required to maintain the stops on their right of way. RTD is
+responsible for bus stop infrastructure only where the stop is located on RTD right of way. While CDOT,
+municipalities, and property owners are responsible for their respective rights of way.
+Furthermore, RTD is responsible for the installation and maintenance of only the sign pole and attached
+flag, while CDOT, municipalities, and property owners are responsible for the installation and maintenance
+of amenities beyond the sign pole and flag. Next slide, please. Next we're going to take some time to
+discuss the challenging factors RTD faces in efforts to improve bus stop accessibility. Next slide.
+
+One of the factors impacting bus stop accessibility is incongruent communication. As municipalities and
+other stakeholders add amenities, improve the public right of way, or generally alter the area around bus
+stops, they may alter the accessibility of the bus stops. Despite the impact of these changes, they may not
+be communicated to RTD by all municipalities. Inadequate maintenance and upkeep of stops and amenities
+is another challenging factor. The maintenance and upkeep standards for both the right of way and bus
+stops vary, sometimes greatly, across municipalities.
+One municipality may prioritize repairs to shelters, while another may prioritize the right of way. One
+municipality may complete sidewalk repairs itself, while another may make that the responsibility of an
+adjoining property owner. These differing standards and priorities, linked with those incongruent
+communication I mentioned earlier, result in the disjointed appearance of RTD bus stops throughout the
+service area.
+Furthermore, as a result of all of these conditions, RTD does not have complete data or a consistent
+inventory of all bus stop conditions and amenities throughout the service area. Next slide. Now, I'm going
+to pass it back to Carl to go over the next section. Back to you, Carl.
+CARL GREEN: Thank you, Gabe. So despite the inherent challenges, as spelled out by Mr. Christie, this
+also presents an opportunity. And it's a critical opportunity for RTD to lead this collaborative effort to improve
+bus stops all around, and this will need to be done in close partnership with local governments, CDOT, and
+other stakeholders. An initial first step is to ensure that all parties are operating on a common set of facts
+by developing a comprehensive system-wide strategy and one that works towards improving accessibility
+and equitable access of bus stops within the service area.
+To develop this comprehensive strategy for bus stop improvements, staff will formally conduct a systemwide bus stop assessment starting in 2024. A big part of this is to establish a comprehensive set of data in
+order to better understand the current state of our bus stops throughout our service area. Coupled with this
+is being able to examine the accessibility gaps around our stops.
+And lastly, being able to identify a sustainable funding strategy as well as other tasks related to
+improvements of RTD-owned bus stops. And last, but certainly not least, this is also going to take a big lift
+of doing customer engagement to ensure that our customers are being able to bring forth their concerns
+and so we better understand their pain points.
+Considering that an overwhelming majority of bus stops within the service area are outside of RTDs direct
+control, RTD will need to work hand in glove with various stakeholders to be successful in implementing
+this forthcoming bus stop improvement strategy. An existing example of a relationship that can serve as a
+model for interjurisdictional collaboration is with the city of Denver Department of Transportation and
+Infrastructure.
+
+They recently conducted a bus stop inventory of over 2,700 stops. And by leveraging this relationship, as
+well as establishing others across the region, will position us to reduce the amount of bus stops to be
+reviewed. And more importantly, this collaborative effort will be a driving factor to ensure we collectively
+create a dignified, equitable, and accessible experience for all of our customers. So with that being said,
+this concludes our presentation. And we'll now open up the floor for any questions.
+KATE WILLIAMS: Thank you, gentlemen. We appreciate all of that good information. I see Director
+Ruscha's hand up.
+JOYANN RUSCHA: Thank you, Madam Chair. So as you might have seen in the news today, there was a
+story in CPR Denverite where there was the bus stop on Lincoln and 1st was serviced by third party
+contractor, private entity. And I believe they sell advertisements. The stop was just-- it was filthy. It was
+constantly filled with trash. It might not have been properly maintained. And she advocated, and the
+response from that private entity was to remove the shelter and the amenities.
+And that concerns me. And I understand that our current system is very similar to what many, if not most,
+transit agencies do. But I know that our public doesn't really care who is responsible for maintenance, who
+is responsible for trash pickup, and who is responsible for making sure there's not black ice. So I just want
+to state, as a Director, I am 100% in support of this review, and I would be happy to help in any way I can
+and advocate for those resources. And I would also just challenge us as an agency to consider taking a
+fresh look on how we do handle maintenance because, again, that is a customer service issue. It's a public
+perception issue. It's a taxpayer issue.
+And I think that the public expects better even though, again, our challenges are not different than I think
+what a lot of agencies are facing. I just hate for us to get complacent. So thank you for this presentation. I
+wanted to flag that. I guess that was a comment more than a question. But again, I appreciate this, and I
+really appreciate everyone's work. And Mr. Green, I know we've talked about this before. I can really see
+your dedication to this project.
+And I'm not going to cry, but I am very, very appreciative because as a constituent and now a Director, for
+years, I have asked this agency to please engage in my communities, to please pay attention when we talk
+about concrete jungles and lack of tree lines or lack of amenities. And I will be honest that I think this is the
+first time in 10 years, maybe, I have felt like, not only myself as individual, but my community is being heard.
+So thank you.
+KATE WILLIAMS: Thank you, Director Ruscha, for that. Director Sloan.
+MARJORIE SLOAN: Thank you, Madam Chair. And like Director Ruscha and Mr. Ramming and Mr. Green
+and everyone involved with this, I'm really appreciative of the inventory project going forward. I think it's
+very ripe for completing the inventory. And then, as Mr. Greene said, looking for stakeholders. This is a
+
+much less capital-intensive project and could lend itself to help from individuals, service organizations,
+property owners, and municipalities, as well as RTD.
+And I know we have an adopt-a-bus-stop program, which, at best, gets the trash collected by the bus stops.
+But I think for a sponsor of a bus stop, it could be a matter of pride to point to, one with solar capabilities or
+lighting, whatever. And I think it would be terrific to incentivize investments of both capital improvement and
+commitment to maintenance after the inventory is completed. So thank you.
+KATE WILLIAMS: Thank you, Director Sloan. We appreciate that input. I see Director Guzman.
+MICHAEL GUZMAN: Hey, so I'm super excited about this. And if I can assist in any way here in Denver,
+please let me know. But also, just following up from our meeting last night with Finance and Planning, there
+are currently designs that have, to Director Sloan's point, solar panels that allow the ability to bring Wi-Fi
+and 5G services to bus benches that can be installed, which gives us the ability to integrate information
+systems on screens about when the next bus is arriving, also allow passengers who are from out of the
+country to connect on Wi-Fi services or 5G services on their phone.
+And so there's a lot of opportunity here, and I think working with cities and city councils and county
+commissioners, property owners, all the same things, there's a lot of great work that could be done here.
+And I'm excited to hear that. So thank you for that. And there are some grant opportunities for that too as
+far as funding sources go. And we can probably leverage monies with the different municipalities we operate
+in to be able to do some of this work. So I'm really excited to hear it. Thank you.
+KATE WILLIAMS: Thank you, Director Guzman. Director Ruscha, you have your hand up.
+JOYANN RUSCHA: Just had a clarifying question. I was looking back at the PowerPoint, and it said that
+the most active stops are not ADA accessible or were created pre-ADA. And does that mean that our most
+active, our most used stops are not ADA accessible? Or are we talking about active stops in terms of they're
+not a ghost stop? Does that make sense? I just wanted clarification on what that meant.
+KATE WILLIAMS: Can somebody answered that question?
+DEBORAH JOHNSON: Yes, I'll take that question, Madam Chair. Director Ruscha, what we mean by active
+stops are those that are currently stops in which somebody can stand or they're seated that actually have
+a bus servicing said stop. So recognizing that we don't have auspices over all of them, some of them may
+have been deactivated, but they're on other public rights of way. So we don't have the ability to remove
+them because they're not our property.
+KATE WILLIAMS: Thank you. Director Ruscha?
+
+JOYANN RUSCHA: Yeah, and even if this is a range and we don't have the exact data point, do we know
+approximately how many of our active stops are ADA accessible, even if it's a ballpark? Or is that something
+that is to be determined?
+DEBORAH JOHNSON: If I may, it's something that needs to be determined. Hence, that's why we're going
+forward with the assessment because we don't have a centralized database in order to share that
+information. And I think it's incumbent upon us as we look at various aspects of this through an equity lens.
+And Madam Chair, if I can just say something else, just collectively to manage everybody's expectations.
+So as we go forward with this assessment, it's critically important for us to have centralized information to
+the points that have been raised throughout the course of this discussion. But more so as we talk about
+customer amenities and things that of the like, recognizing that our bus stops are interwoven into a transit
+network.
+Optimally, what we want to do is provide specifications and things of the like. But we want to ensure that
+we're able to maintain said amenities. So when there have been discussions about solar and things of the
+like, recognizing some of that's within our purview. Some of it's outside of our purview. But that's collectively
+decisions that need to be made holistically about the direction in which we'll take. So I just wanted to put
+that out there. I've engaged with discussions just today with the Executive Director of Dottie, as we have a
+recurring meeting. And I shared with him we were bringing forth this presentation to educate and inform the
+Board. But as we go forward, there's a lot of work that needs to be done.
+And one other piece that I would like to share with this body just for your edification, that is, we look
+holistically at our service delivery model. It's incumbent upon us to create bus stop spacing policies because
+right now it's a little disparate because we may get a request where somebody is like, remove that stop.
+And I think Director Ruscha had talked about that. But when we talk about having an accessible transit
+system, in my experience, I'm accustomed to ensuring that everybody has an understanding within the
+central business district, perhaps there's a bus stop every two blocks. Or there's a bus stop every 1,000
+feet.
+Currently, we don't have that. So collectively, we are going to try to enhance the equity of our transit network
+by doing a myriad of different things. So I just wanted to share that in this forum since that question came
+up. Thank you very kindly, Madam Chair, for indulging me.
+KATE WILLIAMS: Thank you. We appreciate that. I'd just like to take Chair's privilege for a minute and point
+out to my fellow directors that this is a marvelous opportunity as elected officials to engage with others in
+your own individual district to find out who's responsible for what and to let them know that we would love
+to have their participation. There are 15 of us, and it looks like two of Carl and Gabe. So I think that we
+could probably help here, and I'm happy to talk about that further [AUDIO OUT] offline. Any other questions
+or comments here?
+
+OK, seeing no hands, I'd like to thank-- and we did not hear from Mr. Sirois. Mr. Sirois, do you have anything
+you want to add?
+BILL SIROIS: No, I think Gabe and Carl covered it, and our general manager followed up with some good
+information as well.
+KATE WILLIAMS: Super. Thank you, sir. OK, hearing nothing more on this subject, are there any other
+matters that anyone wants to discuss before we go to the Nuggets game? Oh, Director Whitmore.
+TROY WHITMORE: Thank you, Madam Chair. I just wanted to thank the board staff for these lovely little
+speakers. There's a noticeable sound improvement, at least with my connection. And I think that will make
+for better quality meetings. So if you haven't utilized them, please plug them in because I think you'll be
+very impressed, very helpful. So thank you, Tai-Shrae and Jillian and the rest of the gang, and Marie. She's
+here too. Appreciate it.
+KATE WILLIAMS: Thank you, Director Whitmore. I'd like to point out that my speaker is not faulty. It's just
+me with a really, really bad cold. So hopefully, next time I will sound better as well. With nothing else up,
+our next Operations and Safety Committee meeting is scheduled for Wednesday, July 12 at the same time
+and the same location. And seeing nothing further, we are a joined-- adjourned-- woo-- at 6:26 with four
+minutes to tip off.
+MICHAEL GUZMAN: Go Nuggets!
+TROY WHITMORE: Go Nuggets! Feel better, Chairwoman Sniffles.
+KATE WILLIAMS: Yeah, goodbye.
+JILLIAN KNAPP-RHODES: Bye
+
+

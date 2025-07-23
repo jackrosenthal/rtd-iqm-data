@@ -1,0 +1,619 @@
+02-02-2021
+PCPFT Committee Meetings
+SHELLEY COOK: OK, everybody. [CAT MEOWS] Pardon my cat.
+I'll call to order the Planning, Capital Programs, and FasTracks Committee. And would note the time we
+are convening is at 8:06 PM. Would note, for the record, that attendance has been taken and we had all
+members present.
+And then in case these are posted separately, these podcasts, I'll read into the record that under the
+current circumstances, the official meetings of the RTD Board of Directors are being held remotely in the
+interest of public health, safety, and welfare, that during this time, meetings will be primarily audio
+recorded, along with the unofficial minutes of the meetings, and they, along with the unofficial minutes of
+the meetings, will be posted as soon as practicable on the Board's website. Visit rtd-denver.com and
+scroll to the bottom of the page for the link to the Board of Directors page.
+OK. We have, first of all, two action items tonight. They're pretty exciting ones. I would, first of all, read,
+for the record, the recommended action on the first one, the approval of the 15L route improvements
+change order. And the action is that the Planning, Capital Programs, and FasTracks committee
+recommend to the Board of Directors that the Board of Directors authorize the General Manager or her
+designee to grant Jalisco International Inc. a time extension for the 15L route improvements contract until
+October 15, 2021 and increase the contract amount by $793,000, for a total amount not to exceed
+$9,969,050.36.
+Do I have a motion to approve?
+BOB BROOM: So moved, Bob Broom.
+SHELLEY COOK: OK.
+ANGIE RIVERA-MALPIEDE: Second, Rivera-Malpiede.
+SHELLEY COOK: OK. I have a motion and a second. Thank you.
+Henry Stopplecamp, are you on the line?
+HENRY STOPPLECAMP: Yes, I am. Thank you, Madam Chair.
+SHELLEY COOK: OK.
+HENRY STOPPLECAMP: Can everybody hear me OK?
+SHELLEY COOK: Yes, you're coming through loud and clear. Thank you.
+HENRY STOPPLECAMP: OK. So Henry Stopplecamp, AGM Capital Programs. And the action before
+you, as you noted, is a recommendation for a time extension and contract value increase to Jalisco, the
+Jalisco contract. So it's on page 36 of your Board packet and shared on the screen.
+On the call with me is Jyotsna Vishwakarma and Ashland Vaughn. And they can help me dive into more
+detail if we need to, Chief Engineer and Head of Construction.
+So the Board packet basically covers the improvements on the Colfax corridor. So I won't go into a whole
+lot of detail. The civil work is near completion. Shelters are on hand. But we needed to do some
+modifications to the monument cabinets. These monument houses are the brains of the shelters. Just
+think of it as a high end computer equipment storage site. It needs to be protected. You've got security
+
+feeds, cameras, recording equipments, the PIDs, fiber termination, along with communication feeds all
+come into the cabinet within the monuments.
+When the RTD staff saw the prototype this time last year, we didn't think it'd meet RTD's long-term needs.
+So we've redesigned and we've checked out a new prototype, and it's looking pretty good. The
+redesigned cabinets will be better to withstand the weather conditions we have here in Colorado, easier
+to maintain. They're going to be beefier. They'll hold up to the elements and vandalism. And the goal is to
+provide a safer cabinet for the electronics.
+We have a grant to build-- combination of state and federal, but the maintenance, long-term maintenance
+for the hardware belongs to RTD. So we want to make sure that the cabins will hold up.
+Our construction team was on site last month. The new cabinets will be manufactured-- and we didn't
+order cabinets, got them and rejected a bunch of prototypes, so we're building new cabinets-- we're
+building the cabins on a new design, and they'll be manufactured here in Colorado. And based on what
+we saw last month, we believe the design and material will accomplish the needs for RTD.
+So the grant is a, like I said, local and federal grant. RTD is providing a 24% match. Ongoing
+maintenance will belong to RTD. And with that, I'll open it up to questions.
+SHELLEY COOK: All righty. It looks like we've got a couple so far. I'll go from the top. Director Williams.
+KATE WILLIAMS: Thank you, Madam Chair. Henry, I know that in many cases, the shelters that are at
+bus stops are not ours. Some of them are ad shelters and some of them belong to the city. On Colfax, are
+the shelters that are being built now as part of this, are they ours or is just this box that you're talking
+about ours?
+HENRY STOPPLECAMP: No, the improvements are all RTD's. So we'll have the shelters, the
+monuments, the information screens, schedules, security cameras, recorders, all that will belong to RTD
+and we will be responsible for maintaining these shelters.
+The other thing, with a lot of these shelters that we're going to see out on the Colfax corridor will also be
+lit. And they won't look like our typical shelters. This has more of a BRT look. But the improvements will
+belong to RTD.
+KATE WILLIAMS: You very much. That was my only question.
+SHELLEY COOK: Thank you, Director. Director Dishell?
+BOBBY DISHELL: Thank you, Madam Chair. I have two questions. So I'll start with one and see if others
+have them, and so I'll put my hand down and put it back up.
+My question has to do with the security cameras and our policy on use of artificial intelligence in the
+security cameras. I know that our cameras get used to sometimes help solve crimes, or people make
+requests, whatever the case may be. But I do have some pretty serious concerns if we are allowing the
+use of AI in there, given the disproportionate impact that that has on marginalized populations.
+HENRY STOPPLECAMP: That's a great question. And I'm going to have to punt that one. We're putting
+the cameras in for safety and security. And I believe Mike Meader is on the call, and he may be able to
+talk a little bit about the artificial intelligence and what the cameras are hooked up into. Mr. Meader, are
+you available?
+SHELLEY COOK: Looks like he's still muted.
+HENRY STOPPLECAMP: Well, I'll tell you what, how about if we get back to you, since Mr. Meader-- or is
+there anybody else on the phone that has a better idea? Because that's, like I said, outside of my
+understanding.
+
+BOBBY DISHELL: Yep, that absolutely works.
+HENRY STOPPLECAMP: OK. We'll get back to you on that one.
+SHELLEY COOK: OK. Director Dishell, did you have any other questions?
+BOBBY DISHELL: I did, yeah. The other question is, what sort of happened, and what are we doing going
+forward, it looks like we're going to be spending an extra $800,000 because we selected an out-of-state
+manufacturer who wasn't familiar with Colorado's weather, is what I can assume based on your
+description. And now we went with someone local. And also, why we're being saddled with the cost
+overruns. Was it an issue in selection? What did we learn and how can we prevent this sort of error
+moving forward?
+HENRY STOPPLECAMP: Yeah, that's a great question. So a couple of things to cover. We spec'ed out,
+and unfortunately, low bids sometimes gives you-- it meets the minimum requirements, but when we
+started looking at the product, we believed that the gaskets, the welding, the material, and then what we
+saw last-- Colfax is a heavily used corridor. And with the damages we saw where the protests last year,
+we realized the cabinets that we were going to see probably wouldn't hold up. These may not hold up
+either but they're are a lot beefier. The electronics inside are sensitive.
+And so personally, I believe we could have gone with what we had. But with the long-term maintenance,
+we were replacing it quicker. And so for security and everything else, we figured it was better to take care
+of it right now. We have a grant that covers 76% of it. And the project is under the initial grant, so we
+figured it made sense to go ahead and do the improvements right now.
+BOBBY DISHELL: Got it. Thank you so much.
+SHELLEY COOK: OK. Thank you. Director Lewis.
+SHONTEL LEWIS: Thank you, Madam Chair. Thank you, Director Dishell for those questions. I really
+appreciate both of them, particularly the question around security.
+Henry, if you could, does this-- how does this change the timeline for implementation? And I know it
+references October. But is that when our patrons should see the completion of this project?
+HENRY STOPPLECAMP: Total completion project close out in October. So we've already done the civil
+improvements. The bus bulb outs are being taken care of. We have all the shelters in place. As soon as I
+get the authorization for the Board to go forward, we'll give the notice to proceed to the manufacturer to
+do the monuments. It'll take them a couple months to get the monuments put together. And then we'll
+start installing, probably 1st of May and through the summer.
+So we're not going to wait until the end to just throw it all in there. So as we get one shelter, one
+monument, we're going to start installing. So our patrons along Colfax should see, in the May time frame,
+these shelters going in. And the goal is to get it done by the end of the summer.
+SHONTEL LEWIS: Thank you. I appreciate that. I actually had a question from a constituent recently that
+went to a non-GMR, and the date was a bit earlier. And so we might update that, as we are maybe getting
+those constituent concerns, that that date is going to be a bit later.
+And the second part of my question is regarding the Colfax BRT. A question that came to me from a
+constituent was also, how does this project interface with the Colfax BRT? And so maybe if you could
+spend a little time briefly talking about that, I appreciate it.
+HENRY STOPPLECAMP: So this is a standalone project. It's not associated with the Colfax BRT. We
+have worked with the city on their project. You've got Bill Van Meter and his group has been really
+working really close with them. The goal is to incorporate where we can. But once the Colfax BRT gets
+
+put out there, then the question is, what do we do with the infrastructure we've built? Most of it can be
+relocated. But that project is still five to seven years out, in our opinion.
+They've moved it up, but we still don't have a design. We still don't have a fleet selected. So we've
+decided to go forward with our project. And it is wrapping up. And then we'll tie in what we can with the
+BRT, and that's kind of where we're at today.
+SHONTEL LEWIS: Thank you so much. I actually appreciate you sharing that, because I think that at
+least the constituents that I speak with, there's some confusion around what belongs to who in terms of
+our projects. And I think it's important for them to understand these improvements are of RTD, and the
+Colfax BRT belongs to the city and county of Denver.
+Thank you so much, Henry.
+HENRY STOPPLECAMP: No problem.
+SHELLEY COOK: Anything else, Director Lewis? No.
+SHONTEL LEWIS: Nope, that's it.
+SHELLEY COOK: OK. Thank you. Returning to the question that Director Dishell had for Mike Meader
+about AI and the cabinets. Do we have Mike Meader on board here?
+DEBRA JOHNSON: Madam Chair, if I may. I reached out. Mike Meader's having a problem unmuting his
+phone.
+SHELLEY COOK: OK.
+DEBRA JOHNSON: He's calling back in to try again.
+SHELLEY COOK: OK. It looks like there is a hand up by Mike Meader. So Mr. Meader, are you able to
+unmute yet? No?
+OK. You know what perhaps could happen, if Director Dishell is fine with it, is Mr. Meader could respond
+to us. We could all be copied, but get the answer to your question before we have final approval at the
+Board meeting. Would that be all right, Director Dishell?
+BOBBY DISHELL: Yep, that's fine with me.
+SHELLEY COOK: OK. Director-- or GM Johnson, will that be satisfactory?
+DEBRA JOHNSON: Madam Chair, yes. Thank you very kindly. We will adhere to our process where we
+actually cite the response and the agenda item and send that forward to the entire Board. So thank you
+very much.
+SHELLEY COOK: OK. Sure. I do show Jyotsna-- oh, she's taken her hand down. All righty.
+Well, let's proceed to a vote. We had a motion to approve the change order from Director Broom and a
+second from Chair Angie Rivera-Malpiede. And so let's go around and get votes, if we may. I'll just do it
+alphabetically.
+Director Broom, your vote on the change order motion?
+BOB BROOM: Yes.
+SHELLEY COOK: OK. Director Buzek?
+VINCE BUZEK: Yes.
+SHELLEY COOK: Director Catlin?
+PEGGY CATLIN: Yes.
+SHELLEY COOK: Director-- oh, got the wrong one here. So yep, I had an old script. Sorry about that,
+guys.
+Director Davidson?
+
+ERIK DAVIDSON: Yes.
+SHELLEY COOK: OK. Director Dishell?
+BOBBY DISHELL: Yes.
+SHELLEY COOK: Director Guissinger
+LYNN GUISSINGER: Yes.
+SHELLEY COOK: Director Lewis?
+SHONTEL LEWIS: Yes.
+SHELLEY COOK: Director Rosenthal?
+PAUL ROSENTHAL: Yes.
+SHELLEY COOK: Director Sloan?
+MARJORIE SLOAN: Yes.
+SHELLEY COOK: Director Tisdale?
+DOUG TISDALE: Yes.
+SHELLEY COOK: Director Whitmore?
+TROY WHITMORE. Yes.
+SHELLEY COOK: Director Williams?
+KATE WILLIAMS: Yes.
+SHELLEY COOK: OK. And Chair Rivera-Malpiede?
+ANGIE RIVERA-MALPIEDE: Yes.
+SHELLEY COOK: I'm a yes as well. That passes unanimously.
+JULIEN BOUQUET: Call to order, Madam Chair.
+SHELLEY COOK: Sure.
+JULIEN BOUQUET: I was not-SHELLEY COOK: Did I skip? OK, sorry about that. Bouquet came after I switched the script up.
+JULIEN BOUQUET: I am a yes. I am a yes.
+SHELLEY COOK: You're our new first guy. All righty. That seals the deal then. It's unanimous. And
+forgive me, Director Bouquet.
+All righty. Thank you. And then we'll look for that report back from the staff on the question on AI.
+All right. Our second item is the equitable transit oriented development policy. And we did have a nice
+introduction to the appeal of doing this earlier tonight, I would just say that.
+So I'll read the recommended action. It's recommended by the Planning, Capital Programs, and
+FasTracks Committee that the Board of Directors approve the attached resolution, and numbered not yet,
+but the Equitable Transit-Oriented Development Policy to permit and encourage the development of
+affordable housing on RTD real property.
+OK. And our staff representative is Chessy Brady. First, I'll see if we have a motion.
+ANGIE RIVERA-MALPIEDE: So moved.
+KATE WILLIAMS: So moved, Director Williams. Second, Director Williams.
+SHELLEY COOK: OK, who was my movant, please?
+ANGIE RIVERA-MALPIEDE: Rivera-Malpiede.
+SHELLEY COOK: OK. So we have a motion and a second. And with that, I'll turn it over to our
+representative. Chessy, are you on the line here?
+CHESSY BRADY: Yes, I'm here.
+
+SHELLEY COOK: OK, please proceed.
+CHESSY BRADY: Thank you. And Nikki, could you please scroll down to the PowerPoint? Thank you.
+So I'm Chessy Brady, the Transit-Oriented Development Manager in the Planning Department. And in
+TOD, what we are trying to do is facilitate private development both on RTD property and adjacent to
+stations. And we have a lot of stations. We don't have a ton of land. Most of the land that we own on
+which we could develop is active Park-n-Rides.
+And Nikki, I'm sorry, we haven't talked about it, but I will let you know when to change the slide. But thank
+you.
+And all of our land that's active Park-n-Rides, where people are parking to access the system, is difficult
+to develop for different reasons. Every piece has different challenges. But we do know that if developers
+want to develop on that land, especially residential development, it's more beneficial to RTD that that
+residential development be affordable. And we have processes existing to process dispositions, to go
+through RFPS or to process unsolicited proposals, all of which, by the way, comes back-- especially for
+the new Board members-- comes back to a Board approval.
+But what we don't have is guidance or tools that would allow us to encourage affordable housing over
+market rate housing. So what this policy is seeking to do is to create those tools and add some of the
+clarity, clarity of direction that staff need, and then we can disseminate to jurisdictions and developers in
+order to get more affordable housing going.
+So next slide, please, and I'll jump in to the policy itself. So again, our goal is to encourage the affordable
+residential development on our property. This will increase ridership. This will generate revenue through
+ground lease or sale. In the past, we have heard clear Board direction to prefer ground lease, so that's
+always the preference that we're taking.
+And this also gives us the opportunity to enhance community relationships. We heard a lot from the
+Accountability Committee this evening. We've heard about the state audit. There's a lot of opportunities
+for us to partner around the District. And this is one way that we can really move the needle and show our
+commitment.
+The policy itself empowers staff to negotiate, to push developers towards affordable housing and give
+them the cost reductions that will allow that to happen. And those cost reductions come from three
+different areas of tools, administrative, acquisition costs, and construction costs. So our goal is to reduce
+those. Go to the next slide, please.
+And of course, the reason that we're talking about this, and it's come up a few times this evening, is that
+affordable housing is a pervasive issue, or the lack thereof is a pervasive issue, in the Metro Denver
+region. And we're not going to pretend that we can solve it, but we can be a partner in it and we can
+maybe move the needle and we can also bring a level of commitment that other jurisdictions can help us
+with, can partner from their side.
+We've done our research, just ourselves in the Planning Department, showing that residents of affordable
+housing are more likely to use transit than market rate residents, meaning that building an affordable
+building at our transit station is going to generate more ridership than market rate. And this policy is also
+consistent with our statute of promoting public welfare, increasing transit use. It's also a best practice
+across the nation to have an equitable TOD practice. And I'll get into more detail on what some of our
+peers are doing. And I've already mentioned the enhancements to regional partnerships. And I think
+we've seen tonight how important that is that we have those connections. Next slide, please.
+
+So over the last year, we spoke to the Board a number of times about questions, trying to figure out if we
+wanted to go towards an equitable TOD policy, what would that look like. And we started by looking at
+some of our peer agencies. You see seven of them here, who set goals for affordability. And you can see
+the details here. But generally, where they all land is setting out a 20% to 35% goal for all units
+constructed on agency property at a 60% to 100% area medium income.
+And every agency is going to do it a little, differently depending on the financing available in that state
+from the partners, their real estate market, their affordability issues. And they're also going to decide how
+they apply that goal. So do they apply it to every project, every project must have 20% or 30% of
+affordable units, or is it per station, so every station has to have some representation of affordable
+housing, or is it on a portfolio basis? So they're spreading it around the district. So this is something that
+we started thinking about as we're coming up with the policy and talking to the Board, talking to the
+jurisdictions and the housing authority, et cetera. Next slide, please.
+And we also looked at what tools all of our peers were using. Again, you can see the seven across the
+top. And my color coding here is the green is the ones that are really applying these particular tools.
+Orange is usually a case by case basis or with some tweaks. And red is they explicitly don't do it. Many of
+these tools they just don't mention at all. And so there's no explicit policy.
+But what they look at in general is parking replacement, which we'll talk about, land discounts, which we,
+per statute, cannot do, we must receive fair market value for our land, and then other financial assistance.
+Some transit agencies are able to really subsidize affordable housing. We are not in a financial position to
+do that right now, or giving preference in RFPs.
+So we looked at all of these different ways that other agencies are encouraging affordable housing in their
+districts. And again, in conversations with our partners around the District and colleagues within RTD, we
+came up with what we think is a good policy that is both ambitious but also achievable. So next slide,
+please.
+So our policy has five elements. The first is the affordability goal, and then four tools that we suggest the
+Board clarify as being options in order to push this affordable goal forward. So next slide, please.
+So first, on the goal. We've landed, again, with much consultation, on a 35% goal portfolio-wide over 10
+years. And we see this as aspirational. It's also non-binding. Nobody's going to-- you might. I hope the
+Board will slap my hand if we don't reach it. But no other powers are going to be holding us accountable,
+or legally, in any way, to this goal. But we think it's possible and it will just take some doing.
+And the point is to have it apply across the portfolio. Because we have some stations, some Park-n-Rides
+that are surrounded by fields, might not be appropriate for affordable housing, might not be feasible for
+development at all, or certainly affordable development. We have parcels surrounded by mountains. And
+then we have parcels in densely developed areas. And the jurisdictions and their preferences and
+requirements and ability to partner also vary widely across our District. So having that be a portfolio goal,
+we saw as important.
+And the 10-year period gives us time to put different projects together in order to gradually meet that 35%
+goal, and we would report back to the Board annually to report on our progress for that.
+As far as an area medium income, we've designated affordable, or we've aligned our definition of
+affordable to CHFA's definition, or the local definition. We don't want to be in the business of defining it,
+because it's really going to come down to the financing. Currently, that it's going to be your 60% ANI. But
+we want to make sure that these projects can happen. And that means they have to be financed,
+
+generally through low income housing tax credits, generally through CHFA and with support from
+jurisdictions.
+And I mentioned the annual reports. Can I get the next slide, please.
+So just to illustrate what 35% looks like-- and again, we have properties across the District, some of them,
+I'll be perfectly honest with you, they're not going to develop anytime soon. Others are highly developable.
+But when it's going to happen, we don't know. We're working towards it, but a lot of it is out of our control.
+So not knowing what the universe of potential buildings is going to be, we just tried to look at, what are
+these numbers, what does 35% really get us. So if two sites are developed and they have 300 units each
+and we have a 35% goal, we're going to get something like 200 affordable units in the next 10 years. If 10
+sites are developed, which I would say is a best case scenario, it'll be more like 1,000 units. Again, we're
+not solving housing affordability with this policy, but we're moving things in the right direction and we're
+showing that we're coming to the table. Next slide, please.
+So there's been a lot of talk about parking this evening. Currently, if a developer approaches us seeking
+to develop on a Park-n-Ride, we tell them that they're going to have to replace our parking one to one. So
+if we have a 200-space surface lot, whether it's 100% utilized or 30% utilized, we're going to say, you
+probably are going to have to give us 200 spaces and a structure. At $25,000 a space, that pretty much
+kills the deal, or it kills our land value.
+And what we'd like to do here is clarify that the parking replacement will be based on future parking
+utilization. So if we anticipate the parking utilization will remain at 30%, we're not going to require the
+developer to build 100% replacement.
+And in the next slide, talk about shared parking. So similar idea that parking is expensive. Building it adds
+considerable cost to any development. So where there's ability for us to share parking between transit
+users and non-transit users, where it makes sense, and often it doesn't, but where it makes sense, then
+we'll be open to discussing that in a development proposal. Next slide.
+We're also open to expediting our administration, which really means prioritizing these projects and
+potentially waiving fees. These are not something that are a barrier at the moment, but we want to have
+the ability to do that if we want. And because we're trying to create certainty for affordable developers,
+who especially have difficult financial stacks that they're trying to hold together, we need to provide as
+much certainty and as much-- time really is money-- as much, limit the time that we spend deliberating. Of
+course, following our processes, making sure we're dotting all the I's and crossing all the T's, but making
+sure, ensuring the developers that we can get them to the finish line.
+We also would like to look more at potentially entitling property before a developer even steps into the
+picture, in order to remove some of those challenges that exist on different properties.
+All right. And then the last policy element-- next slide, please-- gets to negotiating land price, which,
+again, per the statute, we cannot discount land. It's not allowed. What we do have the flexibility to do is to,
+instead of taking fair market value as cash, we can take some of that value in services or capital
+improvements. So again, back to parking, what that means is that this clarifies that if a developer is going
+to build us a 200-space structure garage, with $25,000 a space is going to cost a lot of money, that we
+can make some accommodations in the fair market value, make some accommodations in the purchase
+price or the lease price in order to meet that fair market value.
+
+And again, the goal of this is to get the project done, to get a fair deal for RTD, to get affordable housing
+built at stations, to increase ridership. And this is just one of the tools that we would use if the financing is
+looking difficult.
+So last slide is just some of the organizations that we've talked to over the past year-ish, including many
+jurisdictions and their housing divisions. CHFA has certainly weighed in and been really helpful. We
+wanted to make sure that this was a policy that made sense to all the other parties who are going to be
+involved and that they were on board with. And we feel that this is a place where we can come to the
+table with a positive, forward thinking policy, even despite our financial issues at the moment, and still
+make a difference, show our commitment, and hopefully get some affordable housing built on RTD
+property.
+So I'll leave it at that. Happy to take questions.
+SHELLEY COOK: OK. Thank you for that presentation, and also for the very extensive staff report. It was
+really well put together, I thought. Lots of good information.
+So looked like we had Chair Rivera-Malpiede up first. Go ahead, Chair.
+ANGIE RIVERA-MALPIEDE: Thank you, Madam Chair. Chessy, this is a great report. And I think this is
+an absolutely great opportunity for RTD to really lead this issue, in partnership with nonprofit
+organizations all over the region, right. And I'm sitting here thinking about the GES Coalition. I'm thinking
+about how the city and county of Denver is landlocked. And I'm thinking about the great opportunities you
+have just presented to us in terms of working in collaboration to make sure that we do have affordable
+housing.
+One of the things that I was thinking about was when you're looking at 20% being affordable housing in
+some of these components is the need for two and three bedroom housing units, because of the families,
+particularly in my community. I'm really looking forward to learning more about this. But I would really
+encourage you to take a look at all of the organizations that are really trying to think outside of the box to
+look at housing components for community members who really struggle to make ends meet.
+And so I just want to say thank you. And I am so willing to sit down, if you need my input or not need my
+input or you need me to connect you with my community, I'm more willing to do that. So thank you so
+much, Chessy.
+CHESSY BRADY: Thank you.
+SHELLEY COOK: I'll just go down the line. Director Guissinger.
+LYNN GUISSINGER: Thank you from me too, Chessy. I've always been impressed with this project. You
+and your team have done a lot of work. And it's really good work. I think you heard from the Accountability
+Committee Chairs, it's really important to them and to their local jurisdictions. And I think our cities and
+our partners will appreciate it.
+I saw that one of the groups you talked with was the town of Superior. And I think I remember, but I don't
+remember the details. Is it the McCaslin Park-n-Ride, is that an area that's a potential for affordable
+housing?
+CHESSY BRADY: Yes, that would be the one. And it's been looked at before. And I hope we'll look at it
+again.
+LYNN GUISSINGER: Looks promising at this point? Or just a lot to-CHESSY BRADY: Comes down to the parking, like most of these.
+LYNN GUISSINGER: All right. Thanks.
+
+SHELLEY COOK: Thank you. Director Dishell?
+BOBBY DISHELL: Thank you, Madam Chair. And Chessy, thank you. This was a really great
+presentation.
+Two questions. I guess, the first one is, could you shed some light on the decision that went into
+presenting a non-binding goal as opposed to a floor of, say, 10% with an aspiration of hitting 35?
+CHESSY BRADY: Because we wanted to-- we felt that it was necessary to go portfolio-wide. And not
+knowing where buildings are going to pop up, we felt that we couldn't set a floor. Because if, I mean, God
+forbid, but because I'm the TOD Manager, I want more development. But if we only develop one building
+in the next 10 years and it's somewhere that doesn't want affordable housing, what are we going to do?
+And because so much of this is out of our control. So that's the primary reason.
+BOBBY DISHELL: OK. And the other question or comment I had is, I'm very-- for what it's worth-- against
+reducing our purchase prices for expensive parking spaces. Do we offer, in TOD, either free passes or
+fully discount our Live passes to our affordable folks, to folks who qualify who live there, just so that in
+addition to really getting that development, we're also giving the first residents, or the residents for the first
+5 to 10 years, a free pass to go use our system, so that we're building that habit and it's a part of that
+community even more so.
+CHESSY BRADY: That's something we always talk about with developers who are building, especially
+anywhere near our stations. As RTD, we don't have a program for giving free passes, but that's absolutely
+something we would-- I don't know if we'll require it of the developer, but we'd push strongly for it. And
+EcoPasses, NecoPasses, neighborhood EcoPasses, which can be applied to residential buildings, are
+very cost effective. And that's something we sell really hard to the developers building out our stations.
+And again, it's you get one or two years at a really reasonable price. And as you say, gets people hooked,
+or so we hope.
+BOBBY DISHELL: Great. Thank you so much.
+SHELLEY COOK: Thank you. Director Rosenthal.
+PAUL ROSENTHAL: Thank you, Madam Chair. And excellent presentation. And so I understand that you
+and your team put a lot of thought into the 35%. And I'm curious if there might be some allocation from 0
+to 35%, so that possibly some of the units might go to folks who are homeless or very low income.
+CHESSY BRADY: Right. So the 35% is, Say, if we build 100 units total over the next 10 years in two
+different buildings, we'll have 35 units total. So it's a 35% of all the units constructed will be affordable.
+And they will be affordable at what's typically a 60% area medium income. Or that's our floor, according
+to, per CHFA. So if the developer is able to finance them at lower than that, that would be excellent. We
+have people of all different incomes who need affordable housing. But it's not something that we could
+require. Because the financing gets more difficult and more complicated, and we didn't want to, there's
+potential for saying, OK, x percentage of all units must be between 80% and 100, and x percentage
+between 60 and 80, and so on, AMI.
+But we decided to simplify. And again, also if we have really good luck with this policy, we can make it
+more ambitious in coming years, or if the financing rules change also.
+PAUL ROSENTHAL: Thank you.
+MARJORIE SLOAN: Everyone has frozen on my computer. Was I called on?
+SHONTEL LEWIS: Shelley, you're on mute.
+ANGIE RIVERA-MALPIEDE: Yeah, Shelley, you're muted.
+
+SHELLEY COOK: I'm the one on mute. OK. So I was calling on Director Catlin. First of all, forgive me for
+that. And I didn't hear her because she didn't hear me. Director Catlin, are you there?
+PEGGY CATLIN: I am. Can you hear me?
+SHELLEY COOK: Yes, loud and clear.
+PEGGY CATLIN: OK. Chessy, I also wanted to thank you for all the work that you've put into this. And I
+very much appreciated the couple of meetings that you all took the time to have with me one-on-one, just
+to really delve into the details of this.
+I had a couple of things. I read an opinion piece, or an op ed piece, that was critical of your parking
+assumptions. And I think that we might need to be prepared to answer that particular assertion that they
+weren't correct and that they may have been, the data may have been within the COVID period and
+therefore it wasn't reliable, and some of those types of things. That, I just would like you to maybe speak
+to that and how you came up with your assumptions.
+The assumption that ridership would likely increase with affordable housing provided at our stations, I
+think, is a very, very sound argument. I just know that there had been a concern about the parking
+availability and that we had a surplus of parking that could be utilized. That was one thing.
+The other thing I really appreciate about this proposal is that it's aspirational. It's very flexible. I like that
+it's portfolio-wide. And I think we need to make sure that we don't overregulate it or overprescribe it to the
+point that we discourage developers coming in. And I think we just need to make sure that it's a win for
+them as well.
+So those are my comments. Thank you.
+CHESSY BRADY: I agree on that. I think there are so many challenges already with developing our
+property, that if we want to encourage affordable residential development over other types of
+development, then we have to play ball.
+I think the op ed, I think I read the same op ed, and I think it was in reference to our parking report, which
+we put out about a month ago, which looked at private residential buildings, not on RTD land, just private
+buildings, and counted how many cars were being used, or how many spaces were being used and how
+many spaces were open. And then the ultimate finding being that developers were building 50%, shall we
+say, too many parking spaces than were ever being used.
+And the op ed, and some readers, confused what we were counting. Because we were not counting RTD
+surface lots, or RTD structures, which is really the subject of our potential for affordable housing, but
+rather private buildings. And so I'm happy to talk to you about it offline, Peggy, or see, make sure we're
+talking about the same thing. Also happy to share that parking report. But it's a different question, I think.
+PEGGY CATLIN: If I might. I just know that there was some criticism and I just wanted us to be able to
+respond. Because I think this is a great plan. I really do, or a great policy. But I just know that there were
+some holes being poked in some of the assumptions. And I think you're right, it was more about the
+private sector, but it could also translate and the issue could get confused
+CHESSY BRADY: Yes. And if there are questions about what parking we can replace or should replace,
+that's certainly valid. And I think we wouldn't use current parking utilization as a representation of how
+many spaces could be removed from any given lot, for example.
+PEGGY CATLIN: Thank you. Appreciate that.
+SHELLEY COOK: Thank you, Director Catlin. Director Tisdale.
+
+DOUG TISDALE: Thank you very much, Madam Chair. Two points. First of all, for the benefit of the new
+Directors on the Board, Chessy and her staff did meet individually with each of the Directors to discuss
+this matter last year, and studied very closely the comments and recommendations that we made in
+coming up with this particular proposal. So this really is something that has gone through the crucible of
+Director involvement. And I think that's worthwhile to note.
+Secondly, one thing that we have talked about in regard to this is ensuring that our aspiration of creating
+this greater inventory of affordable housing is actually achieved and not merely an expedient for
+developers to say that they're going to do affordable housing, put someone in there for a short period of
+time, and then, when that person leaves, maybe pursuant to a lease after a year or two, that it goes to a
+market rate housing, and that developer, who may have, emphasize may, may have received a discount
+on the purchase price of the land all of a sudden is receiving an incredible return on investment. And so
+deed restrictions to keep those units as affordable units for people who qualify is something that is part of
+this plan as well.
+Am I correctly summarizing that, Chessy?
+CHESSY BRADY: Absolutely. That any agreement that we come to with a developer will require
+affordability for the long term.
+DOUG TISDALE: All right. And I thank you very much. And that's all I had, Madam Chair.
+SHELLEY COOK: OK. Thank you. Director Sloan.
+MARJORIE SLOAN: Yes. Thank you for bringing that to our attention. This was a fantastic project. And
+the Board's involvement with attainable housing kind of slipped under the radar, at least as far as I was
+concerned. So I congratulate everybody on working on it.
+One thing that did not slip under the radar is that every jurisdiction in the metro area is trying to work
+through attainable housing issues. And one of the things that Chessy referred to as that financing for an
+affordable project is kind of like a Jenga game, you know, it's multilayered, and sometimes you can pull
+out a piece. But one piece you cannot pull out is getting the nod from CHFA to get the tax credits. And I
+think RTD's contribution toward this can make a major difference for the CHFA approval of a project in
+what's a highly competitive process.
+So this is really exciting. And thank you, Chessy.
+CHESSY BRADY: Thank you.
+SHELLEY COOK: Thank you. Looks like Director Lewis, do you have a question?
+SHONTEL LEWIS: I do. Thank you, Madam Chair. I've grown so accustomed to you calling us all in order
+that I forget to raise my hand. So forgive me for that last minute hand raise.
+I had a quick question of clarity for you, Chessy. You mentioned to Director Rosenthal's question, or his
+inquiry about the Area Median Income, the AMI, not being able to, or not really wanting to go below the
+60% because it makes it a bit tougher to be able to execute on that. Is that correct?
+CHESSY BRADY: Not wanting to require it. Yes.
+SHONTEL LEWIS: Got it. OK. Well, that's helpful. I mean, it's-- sorry, Chessy. Of course, you know, it's
+hard not to-- it's hard to look at that number in the middle of a global pandemic when lots of folks are
+losing housing. But I don't have to tell you that, because I think I'm probably preaching to the choir in that
+regard. And so I won't.
+But what I will ask you, on packet page 45, number two, it says, the quantity of replacement parking
+based on projected future parking utilization. And over the weekend, I had a conversation with some
+
+constituents, and it seems like the goal is to figure out how to lower rents, to offer affordable housing,
+versus to project parking. And I just wonder how, if instead of having parking based on projecting future
+parking, if the goal isn't around parking but it's about housing. Does that make sense? I can repeat it.
+CHESSY BRADY: So the reason that we would project future utilization is, say, again, say we have a
+100-space parking lot that a developer is interested in. It's currently utilized at 30%. But our modelers are
+saying that in 25 years, it will be utilized at 50%. Then the 50% would be a more appropriate level of
+replacement, as opposed to 100%. But there's no need for the developer to build for RTD all those
+unused spaces. Does that help clarify?
+SHONTEL LEWIS: No, that totally makes sense. And maybe what I'm proposing is a bit more aggressive,
+and maybe that's not my intention. But I wondered, even if the projections were 50%, if we still kept that
+goal at 30% in order to encourage folks not to utilize those vehicles and to utilize public transportation.
+And so that's my thinking, but that's maybe not what's being presented here.
+CHESSY BRADY: I see your thinking. And that's not what we've presented here. Certainly, I think if the
+Board or RTD wanted to go that way in the future, we could certainly make that change.
+SHONTEL LEWIS: OK. Thank you. And I just wanted to underscore, I really appreciate Director Dishell
+bringing up the transit passes as a parking strategy. I just absolutely love that.
+And my last comment is, there was an ETOD report that I read out of Chicago. And one of the things that
+was a part of that was to have a evaluation criteria for projects. So like a-- oh, it just went out of my head.
+, Gosh I'm sorry, Chessy.
+CHESSY BRADY: Well, I could-- I'm not sure where you were going-- but I could say that what we're
+hoping to do with this policy is set general requirements. And then any individual project is going to be
+different. And we will put individual requirements on any RFP that goes out, for example, or any
+unsolicited proposal that comes in and then goes through a bid process, we'll make requirements. And so
+I think we have a lot of opportunity to, depending on the needs and/or requirements of any given property,
+we have the ability to alter what we're getting, what we want, and evaluate each one.
+SHONTEL LEWIS: Yes. That-- yes, OK. So the question that I had is could a portion of that evaluation, or
+could a part of that evaluation be a scorecard where our community partners or government partners
+could use it to assess future projects and programs so that there's specific criterion for which we are
+evaluating each project?
+CHESSY BRADY: I mean, I think where we've looked at this before with our jurisdiction partners,
+because usually we would be doing these developments in partnership with them, in some respect,
+whether financial or otherwise. So I think there are definitely opportunities to work with them to do those
+evaluations. I'm not sure if that answers your question.
+SHONTEL LEWIS: It does. Thank you.
+CHESSY BRADY: OK.
+SHELLEY COOK: Thank you. Chair Rivera-Malpiede.
+ANGIE RIVERA-MALPIEDE: Thank you, Madam Chair, for a second bite at the apple. So now I'm going
+to talk about TDM components with my TMA hat on. And you know, it seems to me, Chessy, that this is
+our opportunity to really kind of make a difference in how we move forward as an agency, and partnering
+with all the Transportation Management Association and organizations that RTD partners with who has
+their finger on the pulse of the community, number one.
+
+But number two, working with developers to provide TDM kinds of programming, whether it be transit
+passes, e-bike stations, different modes of transportation that community members can access at an
+affordable rate as part of their commitment to this affordable housing and being able to utilize our land, I
+think might be a really good thing to look at right now. Especially since we're setting it in terms of how we
+want to move forward as a community and partnering with a variety of collaborators, that could really
+provide different ways of accessing transit through different modes of transportation.
+CHESSY BRADY: Absolutely. And we always do and will connect any developers with their local TMA.
+Because they really know how transit works in that neighborhood and what will work best for the
+development. So there's lots of opportunities there.
+SHELLEY COOK: OK. Seeing no other hands up, I would point out a couple things. One, if I recall that
+parking study that you mentioned earlier in response to Director Catlin's question, that showed the largest
+reduction in parking use for not only the affordable housing programs, but those where all the residents
+had an EcoPass, correct? So it seems like to the extent you're negotiating around the parking
+requirements, that gives you some information and data. So would support the idea of really stressing
+that. Because there were only about 8% that were providing those for their residents, and that would have
+a beneficial impact.
+Director Tisdale, thank you for pointing out that we'd had other people, or in the past we'd had the
+chance, with the prior Board, to meet with Chessy and Bill Sirois and so forth. And Chessy, I know you
+would like to extend that offer as well. And I just wanted to underscore that. For new folks who'd like to
+get acquainted with what Chessy does, which is fabulous stuff, and/or just delve into this more deeply,
+she'd be happy to meet with you.
+And then I did want to say to Marjorie Sloan, that's a very good point about CHFA. That will help with
+CHFA's determination about whether to grant the tax credits. So thank you for that.
+And so all right. Well, we'll go ahead. We had a motion by Chair Rivera-Malpiede and a second by
+Director Williams. And what I'll do is I'll go around and get votes here.
+So Director Bouquet?
+JULIEN BOUQUET: Yes.
+SHELLEY COOK: Director Broom?
+BOB BROOM: Yes.
+SHELLEY COOK: Director Buzek?
+VINCE BUZEK: Yes.
+SHELLEY COOK: OK. Director Catlin?
+PEGGY CATLIN: Yes.
+SHELLEY COOK: OK. Director Davidson?
+ERIK DAVIDSON: Yes.
+SHELLEY COOK: Director Dishell?
+BOBBY DISHELL: Yes.
+SHELLEY COOK: Director Guissinger?
+LYNN GUISSINGER: Yes.
+SHELLEY COOK: Director Lewis?
+SHONTEL LEWIS: Yes.
+SHELLEY COOK: OK. Director Rosenthal?
+
+PAUL ROSENTHAL: Yes.
+SHELLEY COOK: Good. Director Sloan?
+MARJORIE SLOAN: Yes.
+SHELLEY COOK: Director Tisdale?
+DOUG TISDALE: Yes.
+SHELLEY COOK: Director Whitmore?
+TROY WHITMORE: Yes.
+SHELLEY COOK: Director Williams?
+KATE WILLIAMS: Yes. And thank you, Chessy.
+SHELLEY COOK: Thank you. And Chair Rivera-Malpiede?
+ANGIE RIVERA-MALPIEDE: Yes.
+SHELLEY COOK: And I am a yes as well. I like that we're getting this in place. And Chessy has
+emphasized that we'll have a chance to revisit, if the goals need to be better or more or whatnot. So it's
+really exciting.
+All right. That passes unanimously, everybody present voting yes. And so now on the agenda, we're on to
+Other Matters. Do we have any other matters for the Committee before we adjourn?
+OK. Well, our next meeting date is April 6, 2021. And I'll entertain a motion to adjourn.
+BOBBY DISHELL: So moved, Dishell.
+SHELLEY COOK: OK. Dishell moved, and who was the second?
+ANGIE RIVERA-MALPIEDE: Rivera-Malpiede.
+SHELLEY COOK: OK. We have a motion and a second. Anybody opposed to the adjournment, or to the
+motion to adjourn? All right. Thank you, everybody. Thanks very much.
+BOBBY DISHELL: Thank you.
+ERIK DAVIDSON: Thanks, guys. Have a good night.
+SHELLEY COOK: Thank you.
+
+

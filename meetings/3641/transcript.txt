@@ -1,0 +1,1299 @@
+2024-06-04
+Study Session
+ERIK DAVIDSON: Good evening. This is Erik Davidson speaking. The Tuesday, June 4th study session
+will now come to order. We are convened as of 5:31 PM Mountain Daylight Time. I would respectfully ask
+everyone attending this meeting to please mute yourself unless you are recognized to speak. Thank you
+for joining us.
+The meeting recordings, along with the unofficial minutes of the meetings, will be posted as soon as
+practicable on the Board's website. During tonight's meeting we are also providing communication access
+real time translation also known as CART. Anyone who would like to access this service should please
+send an email to the RTD Board Office at the following email address, rtd.boardoffice@rtd-denver.com and
+a link will be provided.
+Additionally, the CART transcript can be automatically translated into Spanish for anyone who would like
+access to a live transcript of this meeting in Spanish. A live stream of this meeting is also available via
+RTD's YouTube page. I would now like to call for the roll of the Board. Treasurer, Bouquet.
+JULIEN BOUQUET: Present.
+ERIK DAVIDSON: Director Broom.
+BOB BROOM: PRESENT.
+ERIK DAVIDSON: Director Buzek is absent. First Vice Chair, Caitlin. I believe she will be joining. We'll note
+that she is currently absent. Director Dishell.
+BOBBY DISHELL: Here.
+ERIK DAVIDSON: Second Vice Chair Guissinger.
+LYNN GUISSINGER: Here.
+ERIK DAVIDSON: Secretary Guzmán.
+MICHAEL GUZMÁN: Present.
+ERIK DAVIDSON: Director Harwick.
+IAN HARWICK: Here.
+ERIK DAVIDSON: Director Lewis is absent. Director Rosenthal is absent. Director Ruscha is absent.
+Director, Sloan.
+MARJORIE SLOAN: Here.
+
+ERIK DAVIDSON: Director Tisdale.
+DOUG TISDALE: Present.
+ERIK DAVIDSON: Director Whitmore.
+TROY WHITMORE: Present.
+ERIK DAVIDSON: And this is Chair Davidson speaking. I am present. That is 10 present and 5 absent. We
+have a quorum. Please note that this study session does not have a section for public comment. However,
+anyone who would like to address the board is invited to still offer their comments in person, by email, or
+by participating during the regularly scheduled June Committee and Board meetings.
+There is one discussion item on the agenda for our study session this evening, which is an update on the
+ongoing effort to develop a Facilities and Fleet Transition Plan. Mr. Fred Worthen-- actually, I think I'll first
+turn to our General Manager and CEO, Debra Johnson, who will then be handing off to Mr. Fred Worthen,
+our Assistant General Manager of Bus Operations, to please present this item.
+DEBRA JOHNSON: Thank you very much, Mr. Chair, and good evening to you, board members and to all
+who are assembled both here in the board room and virtually. I am Debra Johnson, as introduced, RTD's
+General Manager and CEO.
+This evening staff, the agency's Facility and Fleet Transition Plan consultant WSP USA and I will be
+presenting information regarding RTD's efforts in developing a Facilities and Fleet Transition Plan for low
+or no emissions technologies.
+I am joined by Fred Worthen, RTD's Assistant General Manager of Bus Operations, and consultant staff
+from WSP USA, Cliff Henke, who serves as the Senior Vice President and Senior Program Manager for
+Global Coordination with zero emissions and bus rapid transit, and Lance MacNevin, who is a Vice
+President at the National Zero Emissions Vehicle Planning Lead.
+And additionally, we have Charlie Stanfield, who has been serving as the project manager for this initiative.
+Before we delve into the presentation, I want to ground us and provide some historical context as well as
+current circumstances that will enable us to optimize the time that we have allotted this evening.
+Pertaining to the agency's low no emission vehicle history, RTD was an early adopter of low no emission
+technologies. The first steps toward a low no emission bus fleet transition occurred in 2000 with the
+deployment of hybrid electric compressed natural gas buses along the 16th Street Mall, followed by hybrid
+diesel electric fixed route buses in 2008.
+CNG-powered MallRide buses later replaced by a fleet of 36 zero emission battery electric buses, took
+place in 2017. Staff has garnered operational knowledge through deployment and maintenance of low no
+emissions vehicles. Also cognizant of industry best practices and lessons learned both by RTD and other
+public transit service providers through North America and globally, garnered in part through engagement
+with the American Public Transportation Association.
+Both Fred Worthen and myself have been engaged prior to coming to RTD in this arena. Fred Worthen
+serves as the subcommittee co-chair for Safety and Electrification within APTA's Committee, in addition to
+being part of ZEBRA, which stands for the Zero Emission Bus Resource Alliance, of which I was a founding
+member.
+
+And additionally, Fred is engaged with the National Renewable Energy Lab on fleet electrification. As you
+may recall, I was appointed to the APTA FTA Bus Manufacturing Task Force in October of 2023 to address
+challenges in bus procurements.
+This endeavor resulted in a successful White House roundtable event with the Biden-Harris administration,
+of which I participated in February on clean bus manufacturing. It was a remarkable and productive
+discussion augmented by the Federal Transit Administration's release of then former administrator Nuria
+Fernández's dear colleague letter validating the recommendations of the task force.
+Which included but are not limited to bus procurement best practices, managing customization, long term
+funding for transition to zero emissions. In my experience, it's very rare to have that level of engagement
+from across our industry, the FTA, as well as the White House.
+Focusing on the agency's efforts of its low no emission Facilities and Fleet Transition Plan, as a gentle
+reminder, in April of 2023, this board authorized a summary scope of work and authorized me in my capacity
+as the GM and CEO to engage with a consultancy to develop a holistic, low no emissions Facilities and
+Fleet Transition Plan compliant with the bipartisan infrastructure law provisions.
+WSP USA was selected in September of 2023 to facilitate plan development. This transition plan, which
+you will hear about momentarily, will not only be comprehensive, but also specific to the agency's needs
+and the operating environment. Across matrix project team of WSP consultants and RTD staff are currently
+engaged in facility and fleet analysis.
+Final recommendations related to the fleet mix and facilities transition will be submitted to this board by
+December 15th of this year. While staff and I look forward to receiving the transition plan in six months,
+there are some important elements of which I'd be remiss if I did not address.
+The US bus fleet is one of the smallest markets compared to other countries. For example, New York City
+transit operates 5,840 buses, compared to 8,643 for transport for London. Hence, London operates 1.5
+times as many buses as New York City transit, which is the largest operation in the United States.
+Annual bus sales in the European Union totaled about 27,000, more than five times as many as procured
+in the US each year. This information was compiled and provided by APTA. Thus, the small market of
+manufacturers in the US, there are currently only two original equipment manufacturers where there were
+10 just a decade ago.
+With that being said, I believe it's imperative that you engage in this session with that understanding.
+Moreover, I ask that you hold your questions until the conclusion of the presentation to ensure the full
+picture of this undertaking can be illustrated. So with that, Mr. Chair, I will yield the floor to Fred Worthen,
+Assistant General Manager of Bus Operations.
+ERIK DAVIDSON: Thank you, Miss Johnson, and pardon the interruption. I just wanted to note, for the sake
+of the record, we are joined by First Vice Chair Catlin. Thank you, Director Catlin. And Miss Johnson, thank
+you for the introduction. Mr. Worthen, the floor is yours, sir.
+FRED WORTHEN: Thank you, Chair Davidson and thank you, Madam CEO. I am Fred Worthen, Assistant
+General Manager of Bus Operations. So tonight, we're here to talk about our Fleet and Facilities Transition
+Plan. The transit industry is known for acronyms, and our team actually refers to this as the FFTP. But I will
+not use that acronym tonight.
+
+But if you do see FFTP in any notes or memos, that's referring to the Fleet and Facilities Transition Plan.
+And of course, you see a list of acronyms up there also that we will be discussing tonight. So this
+presentation will set the project context for the Fleet and Facilities Transition Plan, provide an overview of
+key concepts related to low and no emission facilities and fleets, discuss why it's important to approach this
+transition from a facilities first strategy, discuss transition plan considerations, and provide several case
+studies from other transit agencies that have implemented similar transition plans.
+Colorado's climate action plan, House Bill 19-1261. Formalized statewide greenhouse gas reduction goals.
+This bill states that Colorado shall have a statewide goal to reduce 2025 greenhouse gas emissions by at
+least 26%, 2030 greenhouse gas emissions by 50%, and 2050 greenhouse gas emissions by at least 90%
+of the levels of statewide greenhouse gas emissions that existed in 2005.
+The state of Colorado followed up with its first EV plan in 2020, which was updated in 2023 that outlines
+the state's strategy to meet transportation electrification goals, including policies and programs related to
+light, medium, and heavy-duty vehicles.
+This policy also has transit specific goals to convert transit fleets across the state to 100% zero emission
+vehicles no later than 2050, with an interim target of at least 1,000 zero emission transit vehicles by 2030.
+At the federal level, the FTA also released a zero emission transition guidance in 2021, which established
+criteria for what a zero emission transition plan must include and consist of.
+RTD is aiming to meet this guidance with a series of planning and policy efforts of our own, starting with
+the Reimagine RTD in 2022. Reimagine RTD was a multi-year effort to evaluate and forecast the changing
+mobility needs of our region, better position the Regional Transportation District to meet them, and
+collaborate with agency partners to build a cohesive vision for regional mobility.
+This included both the System Optimization Plan and the Mobility Plan for the Future. As part of the
+Reimagine RTD process, an assessment of the viability of expanding the agency's zero emission fleet, both
+in terms of actual fleet and of the facilities needed to support it over the next 30 years, was conducted.
+The study is also working towards meeting the RTD board zero emission policy goals adopted in 2023,
+which states the Regional Transportation District under the general manager and CEO'S leadership shall
+achieve net zero emissions by 2050 as measured by scope 1 and scope 2 emissions as defined by
+greenhouse gas protocol.
+As part of the discussion within the board zero emission subcommittee that worked on developing this
+policy, there was clearly a further need to study this goal and ways to meet this goal. Thus, the policy further
+states RTD's board shall reevaluate this policy after receiving an asset transition plan, or similar name plan,
+which details RTD's plans to transition to the zero emission fleet and no less than annually to measure
+progress towards the goal.
+This Facilities and Fleet Transition Plan and the subsequent transition blueprint for facilities and FTA fleet
+transition are efforts currently being undertaken to assist with meeting these adopted policies. During the
+early stages of the Fleet and Facilities Transition Plan work in the fall of 2023, a workshop was conducted
+with members of the internal RTD working group to develop a vision, goals, and parameters to guide the
+decision making for the process.
+The framework aligns with RTD's larger mission, vision strategic priorities, 2023 strategic initiatives, and
+the board's zero emission vehicle emission resolution and other related planning efforts. The internal
+
+working group that helped develop this framework consists of a cross-functional team of approximately 40
+members with a variety of backgrounds and disciplines that included operations, safety, security, asset
+management, planning, legal procurement, finance, human resources, and other administrative personnel
+supported by our consultant team led by WSP.
+This team also supported all of the work that will be discussed later in this presentation. The first element
+of the vision framework are the goals, which are to achieve net zero emissions from RTD facilities and fleet
+by 2050 and achieve and maintain a state of good repair as defined by the Federal Transit Administration
+for 100% of our RTD facilities.
+There are four guiding principles within the framework centered on enhancing community value through
+partnerships and developing sustainable programs stemming from the plan, striving for customer
+excellence through quality services and equity, supporting employee ownership by providing opportunities
+to learn new technologies, and enhance their professional development opportunities while ensuring a safe
+operating environment.
+And ensuring financial success by being good stewards of public funds and maintaining our assets in
+alignment with our asset management plan. There are also three major parameters that were adopted that
+centered on our facilities, bus fleet, and other overall factors necessary to maintain the sustainability of any
+adopted programs stemming from the Fleet and Facilities Transition Plan work.
+With regard to facilities, it is important that the RTD Transit Asset Management Plan is aligned with both
+programs and our plans stemming from the work, as well as agency financial plans. The infrastructure plans
+are compatible with future technologies and propulsion systems, that we leverage our facilities in a manner
+that they are flexible enough to meet the changing needs of future technologies adopted.
+And that they comply with local, state, and other regulatory agency requirements. Our goal is to keep the
+fleet as close as possible to the existing fleet size to control capital costs and minimize the impacts on our
+facilities, as well as to align with the board adopted system optimization plan and the DRCOG transportation
+plan.
+We're also striving to provide employee growth through adopted plans. It's also vital that any plans
+stemming from the work are fiscally constrained to ensure future sustainability of the plans and the agency.
+We're also striving to create a favorable customer experience as well as maintain and/or improve our
+operational efficiency and effectiveness.
+RTD has eight major bus operations and maintenance facilities. The Platte and district shops facilities, East
+Metro and boulder facilities are owned by RTD, while others are contract operated by Transdev that owns
+or leases the Longmont, Broadway, Commerce City and Englewood facilities.
+Currently there are 1,019 buses in RTD's fleet, which does not include our paratransit fleet. 983 of these
+buses are diesel fueled, while 36 are battery electric, which I believe most of you know, we refer to as the
+16th Street Mall fleet. Throughout the service area, RTD operates over 170 bus routes.
+The contracted facilities actually create a unique challenge for the facilities plan work that we're undergoing
+and RTD as a whole. Since RTD does not own these facilities, it's challenging to invest major dollars to
+improve them as our contract operated services are initially awarded a three-year contract with one year
+options.
+
+Since these contracts are short term and not owned by RTD, there is a possibility that a new contractor
+could be awarded a future contract that would operate from different facilities, which creates further
+challenges with regard to fiscal and operational sustainability. The working group is looking closely at
+alternatives to this challenge.
+The System Optimization Plan is a detailed evaluation of travel patterns, demographics, and transit routes
+in the district and includes recommended modifications to RTD's fixed route services to better meet the
+region's near-term mobility needs within existing workforce and financial constraints.
+This slide shows how RTD bus operations will adapt to meet SOP modifications, which means System
+Optimization Plans, sorry, I shouldn't be using acronyms, by 2026. The System Optimization Plan was
+developed over the course of two years and followed a five step process to inform decisions and
+recommendations, including a comprehensive assessment of existing services, review of current travel
+patterns and financial capacity, identification and discussion of goals and values, and iterative drafting of
+recommended network changes. There is a very difficult, very different set of considerations for a zero
+emission bus compared to a zero emission passenger vehicle. A bus is not a Tesla.
+This example compares two key characteristics of a battery electric bus and a battery electric Tesla Model
+3 to illustrate these differences. Buses have up to 10 times the battery capacity of a Tesla and weigh almost
+10 times as much. These large batteries take a large time to charge, anywhere from 1 and 1/2 to 4 hours,
+depending on charging and utility infrastructure installed at the facilities.
+These buses will average about 170 miles per day under the System Optimization Plan assumptions, which
+leads to range challenges and requires mitigation to meet these service block links. This includes examining
+options such as auxiliary heaters during cold weather and on route charging to ensure there is sufficient
+battery power for the bus to complete its daily service work.
+To put this in perspective, currently our clean diesel fleet does not have any of these challenges. A diesel
+bus can go in excess of 600 miles on a single tank of fuel. Just as a little background, when we talk about
+scope 1 and scope 2 emissions, I think it's important to understand the differences.
+For RTD, scope 1 emissions include direct emissions from our facilities and fleet. Scope 2 emissions are
+indirect emissions from energy produced to power these facilities and charge electric buses. And of course,
+I added this for director Harwick, since I know this is of interest to him.
+The top sources of greenhouse gas emissions include carbon dioxide, methane, nitrous oxide, fluorinated
+gases, including hydrofluorocarbons, perfluorocarbons, sulfur hexafluoride and nitrogen trifluoride. Local
+air pollutants consist of six pollutants. They are carbon monoxide, lead, nitrogen oxide, ground level ozone,
+particulate pollution, currently referred to as particulate matter, and sulfur oxide.
+The one thing that I really want to hit on here, though, is that most people think about emissions strictly
+from a tailpipe standpoint. When we look at emissions, we have to look at everything from what we call
+well-to-wheel.
+From the time an emission is actually generated, which in the state of Colorado, about 60% of our electricity
+is generated by burning coal and fossil fuel, all the way through the usage, consumption of the electricity
+and the output. So we look at things from a well-to-wheel perspective, but we're also looking at how our
+facilities are impacting our greenhouse gas footprint to boilers, electricity at a facility.
+
+All of those things add to greenhouse gases. So we're looking at this more holistically rather than just from
+a zero emissions tailpipe standpoint.
+A facilities first approach is critical to a successful transition plan. There are many important upstream
+considerations that need to be made to ensure that RTD's low emission bus fleet can serve customers
+effectively.
+Again, to put things in perspective, most of our facilities are 40 years of age or older, and were designed to
+support a diesel fleet. Over the years, these facilities have been upgraded or modified to continue to support
+our diesel fleet. However, these facilities are not designed to meet the needs of other alternative fuel
+vehicles. I'll elaborate further on this in a minute.
+To increase energy demand, RTD will also coordinate with Xcel and other local utility providers to ensure
+that all necessary utility upgrades are completed. Then a wide range of facility level upgrades are needed
+to properly fuel or charge buses. In addition, new fuels and technologies triggered require compliance with
+a number of new building energy code requirements, which I will talk about on the next slide.
+Using RTD's East Metro facility as an example of some facility-level upgrades that need to be undertaken.
+East Metro Division is an RTD facility near Colfax and I-225 in Aurora. This facility includes bus maintenance
+and repair bays, fueling stations, cleaning stations, and parking for approximately 250 buses.
+This graphic shows an aerial view of the facility with examples of necessary upgrades that would be required
+for different fuel types. For example, hydrogen is a lighter than air gas. The East Metro facility has a roof
+design that would collect gases between rafters during a hydrogen leak, which could create a major fire
+hazard.
+To mitigate this issue, RTD would have to put ventilation systems in every set of rafters to vent gases that
+would collect. There are well over 100 rows of rafters in the parking area in East Metro. Additionally, there
+would be a need to relocate fueling bays to an outside facility for certain technologies to mitigate chances
+for fire or other hazards.
+As an example, Pierce Transit in Tacoma, Washington had an explosion, I believe it was about 2013, while
+they were fueling a CNG bus. It completely destroyed the fueling facility. I believe one person was injured,
+not seriously, but they lost all of their fueling capacity for a year. And unfortunately there were no local
+fueling facilities that could handle 100 CNG buses. So Pierce actually had to borrow diesel buses from
+around the country and reduce their service to Saturday level services for a year while they rebuilt their
+facility.
+At a high level, diesel hybrid vehicles would not require significant facility upgrades as electric generation
+in a hybrid is done on board the vehicle. Thus, there's not a need for charging or other support infrastructure.
+However, there would be a need to upgrade fire protection systems in any diesel hybrid system with a
+lithium ion battery. CNG would require a connection to a natural gas pipeline for fueling. The key question
+is, how close or how far away are the nearest underground natural gas pipelines to connect to?
+There is also a need for a certain size and pressure pipeline, and indoor fueling with CNG is against local
+code, so a new outdoor fueling depot would have to be built. Extreme weather also needs to be considered
+as challenges to fueling transmissions continue to occur with outdoor fueling.
+
+With regard to battery electric buses, coordination with Xcel and other utility providers is required to ensure
+that new electrical line and utility infrastructure can be installed. New electrical lines will be needed to
+monitor all electricity use for charging separately than the electricity used for the facility itself.
+We actually have specialized meters in our plat facility that are hooked up straight to our battery electric
+bus fleet. We actually have a different electrical rate for those vehicles. So we have a need to have a
+completely different way to measure how those vehicles are used.
+Also, buses are charged overnight. It takes about four to five hours to charge buses, depending on the state
+of their charge when they are brought in. And also larger batteries. Charging cabinets and overhead
+pantographs or plugged in chargers will be required for all buses in the facilities.
+And just to put it in perspective, with each bus needing a pantograph, a pantograph weighs about 500
+pounds and one will need to be installed for each bus. Thus, this has impacts on the building's structural
+load itself. Fuel cell electric buses, commonly referred to as hydrogen buses, will have the same
+requirements as battery electric buses, plus requirements which are similar to CNG requirements.
+They are similarly essentially a combination of the key challenges for battery electric buses and CNG.
+Additionally, there would need to be facility-wide retrofits to meet 2024 International Building Code. This
+includes modifications to the buildings themselves related to any considerations with regard to lithium ion
+batteries, fire protection, reinforcement of bare steel and structural integrity issues, as well as increasing
+sprinkler overheads and ventilation.
+CNG and hydrogen gas require mechanical ventilation and sensors needed to eliminate air pockets where
+gas could group. Maintenance areas would also need to be completely enclosed to contain any gas leaks
+from the rest of the building.
+This is a complex decision with many different factors at play. First and foremost, there is no panacea for
+any alternative fuel or technology under consideration. Battery electric buses and fuel cell vehicles are still
+in their infancy from a technological standpoint. Each technology also has its own strengths and
+weaknesses.
+The industry has also seen a drastic reduction in the number of bus manufacturers. Over a decade ago,
+there were about 10 manufacturers. We're down to two that meet Buy America standards. APTA and many
+industry leaders, such as our CEO and General manager, Debra Johnson, have been working on these
+issues.
+Finally, a facilities first strategy is key to the work underway. As previously mentioned, any technology that
+is not a clean diesel will have significant impacts on our facilities. Planning for these facility change will take
+a significant amount of time and money to plan and implement.
+This technology needs to be seamless to our customers. Our customers be able to expect to be able to get
+to their key destination efficiently with safe and on time service. Continuing to provide a high level of service
+through Facilities and Fleet Transition Plan involves many factors that the customers do not see.
+This includes developing plans that do not impact services, that are supported by infrastructure and asset
+management plans, that are both fiscally sustainable and safeguard our assets, yet are flexible enough to
+meet changes in future technologies and have trained and knowledgeable workforce to support these
+technologies and assets chosen. At this point, I will turn the presentation over to Lance MacNiven, which
+Lance will discuss case studies and lessons learned from other transit systems.
+
+LANCE MACNIVEN: Thanks, Fred. So Cliff and I will give a brief overview of a few transit agencies across
+the US that are also undergoing some form of transition to a new fleet of fuel. We selected these few
+because they have similar operating profiles, goals, and general conditions as RTD select characteristics.
+So the four in the Midwest and Northeast, Metro Transit, IndyGo SEPTA and WMATA, were all selected
+because they also are considering some CE fuels and alternative fuels, and they also happen to operate in
+cold conditions. SFMTA, San Francisco was selected because of the elevations in topography that their
+buses traverse and they also are considering some CE fuels and technologies.
+And then lastly, OCTA, which operates over a fairly large service area across multiple jurisdictions. And so
+that's also relevant to RTD. At the very bottom is a small legend, and it just highlights some of the fuels that
+are being considered in RTD's Facilities and Fleet Transition Plan. And so you'll see some of those
+highlighted as we go through these next few agencies.
+CLIFF HENKE: Thank you, Lance. So I will begin by the first three of these. Lance will take the following
+three. I will say at the outset that most of the issues related to these technology transitions I won't touch on,
+but I'm happy to delve into in a question and answer which are programmatic related.
+Mr. Worthen touched on those issues, and they are significant in terms of schedule, potential impacts and
+disruptions to the existing fleet and to the existing service, as well as challenges related to funding and
+cost. They are not insignificant.
+And I will be happy to delve into them in the question and answer session, but I'll touch on other issues
+related to the technology transition itself in these three case studies that I'll present. The first of which is in
+Indianapolis. The fleet there goes by the acronym IndyGo. The original goal was a 2035 all-electric
+transition.
+But the range and manufacturing and supply chain issues that IndyGo experienced have made them reduce
+their ambition. Confined now to three bus rapid transit lines, I mean. Bus rapid transit is basically a bus
+service that behaves like a rail transit, light rail transit with space stops and higher technology vehicles, a
+branded service not unlike the 16th Street Mall, but more spaced out and rapid in its behavior. The first of
+these have been electrified already, with the second one to be electrified this autumn, and then the final
+one, because of the supply chain related issues and the reliability issues, will be diesel hybrid electric buses.
+The primary reliability issues center around range and availability. Typically across the country, the
+availability rate for battery electric buses is 50% or less. The range that was contracted for by the
+manufacturer at IndyGo was 250 miles by contract.
+Because the range was only 150 miles, they elected to have inductive chargers, which are these, they work
+like your cell phone. Inductive charger, a giant disk basically embedded into the ground. And these are able
+to be inductively charged at the end of the line. It takes about 10 minutes or so for the battery to be fully
+charged for them to go.
+And those range extenders were something that the manufacturer elected to take on with no charge
+because it could not meet the performance requirements. Other lessons learned are, in the future contracts,
+they are relying on basically performance-related criteria.
+It's one of the policy changes that's been recommended by the Federal Transit Administration to try to
+improve the health of bus manufacturers. But also there's a heavy reliance on industry standards because
+
+of the incompatibility of some of the inductive chargers. There's no one industry standard. And so they're
+trying to force an industry standard for future procurements.
+On the next slide is Minneapolis, St. Paul, goes by Metro Transit. Metro Transit is a much larger fleet than
+IndyGo. And it is committed to a longer term phased transition at Metro Transit pursuant to state law there.
+Minnesota Statute 4370, Section 3297 to be exact. And in the short term, between 2022 and 2027, the
+board committed to at least 20% of Metro Transit's 40-foot bus replacements be electric. In the medium
+term, that is between 2028 and 2032, and long term, which is 2033 and beyond, the percentage of bus
+procurements that are zero emission will be driven by basically the performance behaviors and the lessons
+learned under contract pursuant to the procurements. So in other words, as the range gets better and
+reliability gets better, the fleet will commit to larger bus procurements. And that's the primary lesson learned
+for Metro Transit.
+Again, cold weather. Again, to service area that's similar in the climate, similar in how big it is, and similar
+in multiple jurisdictions that one has to deal with in Minneapolis, St. Paul. Philadelphia, Southeast
+Pennsylvania Public Transportation Agency, or SEPTA is also undertaking a transition.
+It began in April 2024. They officially retired its last diesel bus, fully powered by diesel fuel that is.
+Reinforcing the authority's commitment that it made. Its mix, again, because of lessons learned and sort of
+too much of a commitment toward nascent, unproven technology.
+They are hedging their risks and going with a mix of battery electric bus and fuel cell technology in the
+future. The SEPTA board this month approved a contract for the purpose of the procurement of 10 fuel cell
+electric buses made by one of the two remaining manufacturers.
+And basically they're playing it by ear as they go forward and making decisions, based on the performance
+of that technology. And with that, I will turn it over to Lance for the final three.
+LANCE MACNIVEN: Thanks, Cliff. So I'll start off with WMATA, which operates in the Washington DC metro
+area. Fairly large fleet, 10 facilities, about 1,600 buses. And they plan on having an all zero emission fleet
+by 2045, Two board adopted policy. And you know, battery electric bus was largely what they wanted to
+have, but based off of range requirements and things like that, they also wanted to hedge their risk. And so
+they're also piloting fuel cell electric buses.
+And so as EV transition plan, a comprehensive plan was developed for them, which included vehicle
+procurement, facility construction, and things like that to help them meet their goal. And so as they've gone
+through this, there are a few things that they have to consider. They do operate in multiple counties and
+cities.
+They're dealing with different utilities. They even share a facility with a nearby Fairfax County, which is a
+little unique. And so that's something that has to be considered as they proceed as well in terms of facility
+construction, who owns the buses and things like that, because all this has to be done without any impacts
+to service and ops.
+They operate CNG buses right now. And so what their strategy was is to let technology mature and go as
+far as it can. And so they're going to hold on to their CNG buses as long as possible, as battery electric
+technology, for example, advances and batteries become better essentially, and as fuel cell or hydrogen
+suppliers and providers basically become more readily available in the region.
+
+And so they will be holding on to their CNG buses as long as possible. And so a phased construction is
+really important. They have several facilities, as you can see, 10 facilities. And so they may not have the
+luxury of shutting down a full facility and doing construction and moving around. So they may have to do
+partial construction as they move forward.
+And so this all has to be considered as they move forward with their goal. Next is SFMTA, which operates
+in the city and county of San Francisco. 30% of their fleet is zero emission because of their trolley buses.
+But it's a state mandate, as some of you are probably aware of.
+CARB requires all agencies in the state of California or doesn't allow them to buy any internal combustion
+engine buses past 2029. So beyond 2029, everything has to be zero emission with the goal of all agencies
+operating zero emission fleets by 2040. And so SFMTA has developed a zero emission plan pursuant to
+this state goal.
+They've already piloted this technology or they're currently piloting. They intend to go all battery electric.
+They've purchased three buses from four OEMs. But as has been mentioned a few times, that there's only
+two OEMs now. So a few of those OEMs are not making buses anymore. So that's something they have to
+think about.
+They also master planning. The importance of that has come to light. They basically purchased these
+battery electric buses, installed chargers along the wall of one of their facilities, Woods Facility. And now
+they have this master plan of doing pantographs and overhead charging. And so now they have to integrate
+these chargers into their master plan.
+And so it just highlights the importance of master planning and modular development as you transition to
+an alternative fuel technology. Utility coordination. It requires a lot of power to support these vehicles. And
+so Hetch Hetchy, which has provided clean energy and power to the city and county for a very long time,
+even though they're very experienced and have worked with them for a while, it's still going to be a challenge
+to get the amount of power.
+And just similar to RTD, their facilities are fairly old, and so retrofits are an important consideration. And
+lastly, OCTA, which operates in Orange County, California. They also are subject to the state mandate that
+was previously mentioned. They're actually technology neutral. They're pilot and battery electric and fuel
+cell electric buses.
+A few years ago they launched at the time the largest hydrogen storage facility for transit in America. It's a
+18,000 gallon storage tank for liquid hydrogen that would then be used to put gaseous hydrogen in their
+vehicles. And so what's unique about OCTA? Similar to RTD in many ways, is the fairly large service area,
+multiple counties and jurisdictions, which adds complexity when considering utilities and cross collaboration
+with agencies.
+Again, all of this while maintaining service and operations. They cannot shut down their service while this
+transition is going on. And so with that, their facility master plan addresses all of this. And it's similar to
+where we would like to go with RTD, with the facilities first, thinking about those facilities before the vehicle
+arrives, making sure that power and fuel is available. And so with that pass it back to Fred.
+FRED WORTHEN: Thank you, Lance. I think that it's very clear that moving to any technology other than
+diesel requires a lot of work, both from a supporting the technology, where each technology has its own
+strengths and weaknesses, to the supporting infrastructure that is needed.
+
+With regard to our transit bus manufacturing, I believe that the production challenges for these types of
+vehicles will continue to grow. And additionally, the cost for these vehicles will continue to grow too, due to
+demand. Right now a battery electric bus is well over twice the cost of a diesel vehicle.
+But I really want to hit the point of the facilities first strategy is key. I think we have a lot of lessons learned
+from our previous fleet electrification efforts. Not only are 16th Street Mall, but as many of you who are on
+the board will recall, we actually deferred purchases of 17 buses because we did not have supporting
+infrastructure and we needed significant enhancements to our facilities to support any non-diesel
+technology. We really have to look at this holistically in a staged approach, looking at our facilities first, but
+also considering all of the challenges with each one of the technologies and the manufacturing technologies
+that we face.
+Currently there are a number of initiatives under effect where we are doing screening reports, where we're
+looking at screening through a number of different lenses. However, there will be a technical workshop in
+late June where the RTD working group of technical experts will basically combine all the work of those
+screening efforts and consider all the fuel technology options assessed thus far in the process.
+Then a deep dive into additional considerations and an additional RTD working group workshop will be
+convened, which will result in our final transition report for our facilities and an FTA compliant fleet transition
+plan. And of course, I begged Debra to change the date on this since it is my 60th birthday. But December
+15, 2024, is when we are scheduled to deliver this.
+Before I turn this back over to Miss Johnson, I do want to acknowledge one other person who is not at the
+diocese tonight, but has also been critical. Jyotsna Vishwakarma has served as a co-executive sponsor
+with me. My expertise, of course, is in fleet and technology, but the infrastructure component is really critical.
+That is not my area of strength. Jyotsna has filled that gap very willingly and has been very helpful in the
+process. And although she's not at the podium, I do want to acknowledge the work she has done to help
+guide this process. With that being said, I'll turn it back over to Miss Johnson for closing remarks and then
+questions and answers.
+DEBRA JOHNSON: Yes. Thank you so much and thank you for the acknowledgment of Miss Vishwakarma,
+as she is currently acting as the Assistant General Manager of Capital Program. She is the agency's chief
+engineer, and it's critically important as we discern what our path forward is. So thank you for that
+acknowledgment, Fred.
+And thank you to Mr. Stanfield, as well as Mr. Henke, and Mr. MacNiven. And the interest of full disclosure,
+I've had the opportunity to work with both of these gentlemen as it relates to California with the California
+Air Resources Board. So as they're sitting here giving you these case studies, bringing up a lot of things
+from the past, especially the Woods Facility in San Francisco, recognizing the location and everything that
+has to be done there.
+But with that as a backdrop, we'd be happy to entertain questions. But I want to thank this board for
+supporting staff and trusting us. When I came before you last year and made the recommendation that we
+needed to cancel that contract because it was very important that we had a laser-like focus on facilities, I
+know there was some trepidation and angst with that as we were moving forward.
+But recognizing past experience and our engagement collectively at the national level, we knew that this
+would be problematic and that one could not just pull a plan from the internet to serve the needs of this
+
+region. And more specifically, as we look at the challenges that we have holistically in reference to the
+training aspect.
+Not training just for our frontline individuals, but how we do procurements going forward, all of that is
+paramount in ensuring that we have a successful plan that is sustainable. And one thing's for certain,
+recognizing that Mr. MacNiven spoke to OCTA about their hydrogen and all the different elements.
+All of those different case studies they showcased, for all intents and purposes, there are other transit
+agencies in their immediate region. I know when I was previously at Long Beach Transit, OCTA looked to
+us at Long Beach Transit to be part of the hydrogen fuel cell, where we already had the largest fleet in the
+country as it related to hybrid electric.
+We already had CNGs, we already had battery electrics, and we had diesel. There was no way we were
+going to take on a fifth technology. But the one thing's for certain that I know is when we had a problem
+with fueling our CNG, I called up my colleagues at LA Metro and we could fuel somewhere else.
+The reason I share that information with you all is I constantly say that we're the only intermodal transit
+agency in the state. And so that's what's critically important is we go down this path and we make decisions.
+We don't have a fueling station up the street that we could leverage with our partners in reference to a
+service delivery model.
+So I think that's critically important. So I want to thank the team for their diligence. We still have a lot more
+work to do to get us to Fred's 60th birthday. And so with that, I will yield the floor to you, Mr. Chair, to
+facilitate the discussion. Thank you very kindly.
+ERIK DAVIDSON: Thank you very much General Manager and CEO Johnson, and thank you for the
+leadership on initiating a plan like this rather than taking each contract one at a time. Mr. Worthen, thank
+you to you and your guests here for the presentation and very helpful update. Certainly open to changing
+the date so that you can enjoy your 60th. We'll work on that together.
+[LAUGHS]
+
+So with that, let's open up for some discussion and questions from directors. I'll go in order that I see on
+the screen here, starting with Director Broom, please.
+BOB BROOM: Thank you, Chair. Just a couple of questions. How much does a battery bus weigh compared
+to a diesel bus compared to a trash truck? And the reason I ask is I live just off of Hampden Avenue, and
+that road, if you go out east, it gets torn up periodically by the heavy trucks going out to the landfill.
+On the west lanes, it looks like a brand new road. And so have you talked with the public works directors
+and are they kind of in the loop as to what impact we're going to have on them and the roads? Because if
+we have to spend a fortune as taxpayers maintaining the roads in order to make this switch, then we need
+to be aware of that up front.
+FRED WORTHEN: Right, so thank you for the question, Director Broom. First and foremost, I would say
+that right now we are in the planning stages itself. We haven't selected a technology. So discussing impacts
+with our partners is a bit premature. That is part of the next steps, though. But with regard to the weight of
+
+the vehicles themselves, a battery electric bus is heavier. I don't have statistics, but I can provide them to
+you.
+DEBRA JOHNSON: If I may. Yes. So, Director Broom, thank you very kindly for the question. Information
+was just disseminated to this board relative to the weight of vehicles. And I believe a battery electric bus is
+65,000 pounds. As we look at where we are collectively, I could recirculate that document because the
+reason why we put those stats forward, it had to do with the rail reconstruction and the reason why we
+needed to redo those intersections.
+To the point you raised about conferring with public works director, just this morning I had the opportunity
+to have a conversation with the Executive Director of the Denver Department of Transportation and
+Infrastructure as they were talking about doing some improvements to various arterioles in which our buses
+traverse.
+And the first question I asked, I said, what about bus pads? And what a bus pad is, is basically having some
+reinforced concrete that can sustain the weight of a vehicle that's constantly stopping at a certain
+destination. So she was like, that's a very good point, Debra, I'm going to circle back with you.
+Just from previous experience, when I was in Southern California, there were a lot of different elements
+that came into play because the California Highway Patrol were citing vehicles specifically in the Santa
+Monica area, because you remember that, Cliff, they exceeded the weight limit. And so a lot of these laws
+have not caught up with the technologies of where we are.
+And so as we have these discussions, I want you to know that we're cognizant of them, and we are
+leveraging the lessons learned that we have garnered from across the country. And so to Mr. Worthen's
+point, we are not in a place right now where we'll have those discussions. But in reference to the weight,
+yes, the batteries could be heavier than your traditional combustible engine. The weight may vary by about
+4,000, 5,000 pounds.
+FRED WORTHEN: It's actually a little more than that. A typical 40-foot bus is about 38,000.
+DEBRA JOHNSON: 38,000 so, and then with the battery electric bus, our battery electric buses that were
+manufactured by the entity in which we currently have are 65,000, if I'm not mistaken. You send it to me.
+He sent me. OK, so I can answer the question now. I got a lifeline. OK, so here we are.
+OK, so an articulated bus weighs 65,000 pounds. A sanitation truck, garbage truck weighs 50,000 pounds.
+As it relates to our current battery electric buses, they're 45,000 pounds. And so the 40-foot bus, to Fred's
+point, we have it rounded here at 40,000 pounds. So when I said the difference with the batteries is about
+5,000 to 6,000, that would hold to be true.
+Delivery trucks, let's keep this in mind, there are about 12,000 pounds. And so in a single-occupant vehicle,
+just a standard car weighs about 3,000 pounds.
+BOB BROOM: Yeah.
+FRED WORTHEN: Thank you. I'm sorry. I'm not really good at memorizing statistics, so thanks for the
+lifeline.
+DEBRA JOHNSON: No, no, no, we just did this. So that's why it's just like, kind of sort of. And thanks to
+Stewart for ensuring that.
+
+CLIFF HENKE: Miss Johnson, if I wanted.
+DEBRA JOHNSON: Yes, please, Cliff.
+CLIFF HENKE: Yeah. The state of California, actually, because of their commitment to zero emission, they
+passed an exemption. I wouldn't say an exemption. It's actually a modification of weights, vehicle weights
+in state law to allow heavier buses than a traditional compressed natural gas or diesel bus.
+But it's controversial. This required a lot of compromise between a variety of entities, including state
+government, including the trucking industry, including the refuse truck industry. It was a significant issue in
+the state.
+FRED WORTHEN: And I'll add one other thing, too. When you start talking about vehicle weights, they look
+at gross vehicle weights. So it's not just the weight of the vehicle, it's the capacity of the vehicle. So what
+could end up happening is a heavier vehicle could limit the amount of people that we can carry on a vehicle
+as well.
+ERIK DAVIDSON: Thank you very much. Director Broom, does that answer? Any follow up?
+BOB BROOM: No.
+ERIK DAVIDSON: Director Dishell, please.
+BOBBY DISHELL: Thank you, Mr. Chair. I have a few, so let me know. I'll batch them in different spots. I
+think in terms of things that would be good to see as you all continue to pursue this path as we go forward,
+one is, is the eligibility of FasTracks dollars and therefore the FISA account.
+The FasTracks enabling ballot language, specifically said increased bus service, including the use of
+smaller buses and vans and alternative fueled vehicles. And so the question there is, are we limited to the
+procurement of just the vehicle or is the infrastructure that supports the vehicle also FasTracks dollars
+eligible?
+Don't need an answer today, but just would be good to as we do our planning. Unless you already have an
+answer.
+DEBRA JOHNSON: If I may, Mr. Chair.
+ERIK DAVIDSON: Yes.
+DEBRA JOHNSON: Quite interesting because those conversations have ensued at the federal level as
+well. And I share this because there are some time ago I wasn't at this agency, I was with another. And I
+went to meet with House Appropriations staff and people that didn't know what they didn't know, basically
+solely procured buses and never had the infrastructure.
+I know I was contacted when I was at a previous agency in California about a small jurisdiction that had
+procured buses, and they were calling around trying to see whose facility they could utilize. So I give you
+that information to say that people that don't know the nuances associated with it.
+Now it's become commonplace to utilize dollars for infrastructure. And most of the grant programs basically
+has a provision as we go forward to ensure that there's infrastructure, because if you're procuring a bus
+
+and you're stuck with it, the zero emission and you don't have any way to charge that vehicle, then it's for
+not and it's a wasted use of taxpayer dollars.
+So as we go forward, I would assume recognizing where we are with the FasTracks investment savings
+account, that would be something that this board could take into consideration quite naturally, since
+technologies have emerged since that savings account came to fruition.
+FRED WORTHEN: Mr. Chair, if I may add.
+ERIK DAVIDSON: Please.
+FRED WORTHEN: We also have a working group that is looking at ways to fund any technology that we
+adopt. We have a working group that is looking at various ways of financing this, anywhere from FasTracks,
+to grants, to other ways to pay for this. So that is one of the considerations that the subcommittee or working
+group is actually looking at.
+ERIK DAVIDSON: That's great. Thank you. Yeah, please continue, Director.
+BOBBY DISHELL: Yeah, I think the other consideration, right, is that it's a net zero policy. And so I think it
+would be good just to know as you guys are preparing the report is, what does it look like to have gas
+boilers and then offset with sleeved or bundled offsite power?
+And because I use an industry specific term, sleeved power or bundled power means that you receive both
+the renewable energy offsite as well as what's known as the REC, the renewable energy credit or renewable
+energy certificate, which allows you to make the claim that, yes, the renewable energy procured at this site
+is attributable to this building.
+Because once the electricity gets on the distribution or transmission grid, all electrons are the same. If you
+think about all of us having a cup of water, we all pour it into a bathtub. It's impossible for us each to take
+our cup of water back out. So that just would be curious to as we look at other options, is that an option that
+it would be more cost effective, but still achieve the net zero goal?
+And then similarly, on that same path is public private partnership with tax equity funding, whether it's a
+sale leaseback, or a partnership flip, or an inverted lease, what that would look like? Tax credit transfer I
+know is still very new and everyone is still figuring out what that looks like.
+But there's a lot of tax equity dollars that might be able to be at play here for public private partnership as
+the funding group is looking at how to do this. Similarly, on the net zero side, I believe there's a group out
+of Orlando using battery electric bus batteries to create a stacked battery system to harbor that renewable
+power or engage in energy arbitrage with the logic being for the benefit of the rest of the board.
+Which is there is a point at which the battery degrades to the point that it cannot be used for bus service,
+but it can still be used when you stack 16, or 30, or however many of them as backup power for the system.
+As far as offsite power goes, it's currently allowed in Xcel's territory. Longmont Power and Light I don't think
+allows it. And United would consider it if there was a facility out there.
+So those are things that would just be good to as you guys sort of prepare the report and looking at all
+those different avenues. As we're looking at cost, it would be really great to see the incremental cost of
+transition as opposed to just the, it's going to be $30 million, because if it's 25 to repair it anyway or it's 30
+to go net, we're really talking about a $5 million spend, not a $30 million spend.
+
+And similarly, to the extent we can write that ongoing O&M and those comparisons would be great to see
+as we're making these decisions through a phased approach. And now I have a question, which is on the
+chargers you noted in the sort of diagram that those needed to be one to one with our buses.
+But our fueling stations are, I don't believe are one to one on fuel pumps. And so why do they need to be
+one to one for that? Why do they have to be one to one? Why isn't it one to five or one to eight or?
+FRED WORTHEN: I'm not a technical expert on the structural issues themselves, but there are electrical
+limitations on how much like a plug-in charger can handle versus a pantograph itself. And most of our fleet
+is in all at the same time at night. We do actually have all of our fleet in at a certain period.
+It's a very small window, but we have to be able to provide charging to all of our fleet itself. We don't have
+the ability to move things around and charge incrementally itself at specific times. So part of it has to come
+into our charging strategy itself. But I will defer to my panel of experts.
+DEBRA JOHNSON: If I can just add something before we defer. To answer your question, there are a
+couple of things that can be done. And I have worked at an agency where we used inductive charging, and
+that gets back to how we actually do our blocks, right? So, you know, we utilize trippers.
+There are some elements that can be adjusted, but to Mr. Worthen's point, we'd have to restructure how
+we do business collectively and how we deploy service. And that may consist of facilities, since that's why
+we have a facility for strategy. In some instances, we're deadheading vehicles. In other instances, we use
+a third party that contracts out service.
+So as we look at what we're trying to do holistically, we have to discern what might be our best model going
+forward as well. Because basically when you do inductive charging, what I learned at a different agency,
+people were freaked out. It was just like, oh my gosh, what happens if I have, you know, my stroller and I,
+you know, roll over one of these with my infant?
+You know what I mean? So there's all this trepidation and angst around what this may mean. But for us,
+what it would be challenging in and of itself because we don't own any of the infrastructure. So working with
+jurisdictions to have those opportunity chargers is something in and of itself.
+But I just wanted to provide that context from lessons learned in different areas of which I worked. But I'll
+yield the floor to Mr. Henke and Mr. MacNiven.
+LANCE MACNIVEN: Yeah, I was going to say, to your point, and to Fred and Miss Johnson's point, we are
+evaluating different things. And the one to one, I know we mentioned one to one replacement ratio is a
+requirement. And when we talk charging cabinets, those distribute to certain amount of dispensers.
+And so that's when we're talking one to four, one to one. So I don't think we would be siloed to a one charger
+to one vehicle. It could be several dispensers. It's just to Miss Johnson's point, really depends on service.
+And that's something that we're still evaluating.
+FRED WORTHEN: The other thing to consider, though, too, is the fact that I can fuel a diesel vehicle in
+under 10 minutes, whereas it could take four to five hours to charge a vehicle. So I do need a lot more
+supporting infrastructure because of the length of time alone that's required to charge a vehicle.
+
+And it's not, I can do things when I'm servicing a vehicle with a diesel that I can't do with a charging vehicle.
+So there's a lot of considerations when we start talking about this, when you talk about the infrastructure
+itself.
+CLIFF HENKE: Yeah, each of these technology choices have implications in terms of cost, time, schedule
+impacts, operational impacts, space efficiencies within the infrastructure itself. You brought up some very
+interesting points about energy arbitrage. That's a possibility, particularly when you've got a private sector
+partner, such as Transdev, and some of the tax credits that might flow to them.
+All of those things will be considered in the next phase. But at this phase, we're evaluating those implications
+with respect to impacts to existing service, incremental impacts, schedule, et cetera.
+BOBBY DISHELL: Awesome. Thank you. One final note is just on packet page 17, slide 12, if we could just
+clean up the vehicle weight changes. I think it's just whenever this gets published again, gets republished,
+just so that we know our RTD fleet weights and they were not aligned with what's on the slide. And so if we
+could just clean that up, that would be great.
+DEBRA JOHNSON: Just a point of clarification. This isn't a general sense. We were talking about our
+specific fleet with those numbers I gave you. So that was manufactured by BYD that aren't manufactured.
+Well, when we say, Buy America. So basically what we have here is representative of what's available with
+the two OEMs.
+BOBBY DISHELL: So the 30 to 35 is the two OEMs, right? But we were just told that it was 60,000 for an
+electric vehicle on slide 12. But ours are-- we had a discussion earlier.
+DEBRA JOHNSON: No, I mean-BOBBY DISHELL: It was 40. Either way, as long as we can get the numbers, it was definitely not 30-DEBRA JOHNSON: The battery electric bus that we have that operates on the free MallRide is 45,000. The
+articulated bus is 65,000, which is a diesel.
+BOBBY DISHELL: But this says 30 to 35.
+DEBRA JOHNSON: OK.
+WOMAN: Where is that from?
+BOBBY DISHELL: On packet page 17, slide 12.
+LANCE MACNIVEN: Yeah, and I think the 30 and 35 is correct for a 40-foot standard vehicle. So we can
+specify, but the 65 is you're telling me, that's for an articulated 60-foot bus.
+BOBBY DISHELL: But you're showing an electric bus weighing 30 to 35. So does the electric bus weigh 30
+to 35 or does the-DEBRA JOHNSON: Well, there are some electric buses that are manufactured that are 35-feet in length.
+So we're talking about 45-feet. So correct me if I'm wrong, gentlemen, there's a myriad of different battery
+electric buses. So we could put a caveat there as we go forward. But we were giving a generalization as
+
+we go forward. And when the question was posed by Director Broom, I was talking more specific to our
+current fleet.
+BOBBY DISHELL: Awesome. Yeah, if we just clear it up, that would be awesome.
+DEBRA JOHNSON: Understand.
+ERIK DAVIDSON: Thank you, Director Dishell. Director Whitmore, please.
+TROY WHITMORE: Thank you, Mr. Chair. This goes directly to Director Dishell's comment. I got a little
+confused on the one to one bus fleet replacement. Is that all based upon charging or is it on actual vehicles?
+Because when I do the math, unless range greatly increase with battery electric anyway, it doesn't work.
+So help me with that, Fred.
+FRED WORTHEN: Sure. Thank you for the question, Director Whitmore. Our goal is to keep the fleet at
+one to one, which will more than likely mean that we will have a mixed fleet until the technology evolves.
+So, I mean, I don't want to come out and say exactly what the fleet mix will be, but as we talked, there will
+probably some be some level of transition possibly where we go from a diesel to a cleaner diesel burn to
+possibly hybrids and then on to electric vehicles.
+But if we were to do a full battery electric bus transition and convert everything to battery electric bus, you're
+right, there would be a significant fleet size. We don't have the capacity to handle that, both from an
+infrastructure standpoint and from a financial standpoint. So our goal is to try to keep the fleet at a one to
+one with whatever the final mix is. Hopefully that clarifies the question.
+TROY WHITMORE: Yes, that's very helpful. I just had visions of complete nightmare for Jessie Carter and
+others trying to rework the entire system to minimize range, anxiety issues, and so on and so forth. All right,
+one real simple question. Rule of thumb, a fuel cell bus comparable size to a battery electric bus. What's
+the weight differential? Are they comparable? And I'm just curious for wear and tear on city streets and
+things of that nature.
+CLIFF HENKE: I think it's roughly comparable because the batteries, you may not-- batteries are replaced
+by hydrogen fuel tanks, you know, with the fuel cell bus. So it's more or less within the comparable range.
+FRED WORTHEN: We'll get that answer for you.
+CLIFF HENKE: But yeah, we're happy to provide.
+TROY WHITMORE: Yeah, that can wait till your birthday, Fred.
+[LAUGHTER]
+Certainly not urgent. Thank you, Mr. Chair.
+ERIK DAVIDSON: Thank you, Director. Director Sloan, please.
+MARJORIE SLOAN: Yes. Thank you very much for this update. As Mr. Worthen's cover memo states in a
+moving fashion that the fleet and-- no, Facility and Fleet Transition Plan is an important commitment for the
+agency, the state, the federal government, and frankly, the planet. And I can tell you have done a lot of
+
+work on this. This is a distilled presentation. And with the questions, you know, it's obvious you're taking a
+deep dive into a lot of different areas.
+But this is our update time. So could you tell me at this interim point, what is the most important message
+you would like to convey now?
+FRED WORTHEN: Wow. That's a deep question since we're still in the process of really evaluating the
+different technologies and the impacts. There are so many things to consider. I think it's premature to say
+there's a key takeaway at this point, other than that the facilities component is going to be the big driver on
+all of this. You know, even if we have a goal of keeping our fleet at a one to one mix, the impact on our
+facilities and our infrastructure is going to be huge.
+I think that was a key lesson learned from, you know, even trying to bring in 17 electric buses, we were
+definitely going to have to be very strategic on how we approach this, and how we recommend
+implementation, and how we pay for this. I really-- that's the best that I can answer that at this point. But
+Miss Johnson, do you have anything you'd like to add? I'll put you on the spot.
+DEBRA JOHNSON: Thank you, Mr. Worthen. And thank you, Director Sloan, for the question. If anything,
+I would share this. This is my take and this is my response to your question.
+Regardless of the propulsion system, public transportation is a viable alternative if we're trying to sustain
+planet Earth for future generations. And so regardless of the fact, as it relates to where we are, the diesel
+that we talk about today is not the diesel we talked about when this organization was created 54 years ago
+come August. And so basically a public transport is taking single-occupant vehicles off the road. And as we
+look at what we're doing, the emissions aspect of that is really negligible in reference to what we're doing
+holistically as an industry.
+MARJORIE SLOAN: Thank you both. Most appreciated answers.
+FRED WORTHEN: Thank you.
+ERIK DAVIDSON: Thank you, Director. Director Tisdale, please.
+DOUG TISDALE: Thank you very much, Mr. Chairman. Actually, I too, like Councilor Dishell, have a number
+of questions that I'd like, if I can, to pose, but I think they're all relatively brief. My first question to the group
+is, in terms of the case studies, did you have occasion to consider using AC Transit?
+AC Transit, Alameda-Contra Costa and the Oakland area is one of the most vibrant in terms of having a
+comparison between hydrogen fuel cell and battery electric buses. And they've spoken to us at APTA on
+some of our Transit Board member meetings relative to their experience. And Stanford did that study where
+they compared all of the different propulsion technologies. And I was just wondering if you had considered
+using AC Transit as a case study as well?
+FRED WORTHEN: So thank you for the question, Director Tisdale. It's funny that you should say that. We
+actually utilize a member of AC Transit to actually develop the scope of work and to select the consulting
+team for this. So the 5 by 5 study that you speak of is very interesting. There are differences, though, and
+we tried to keep the case studies to what is comparable to our services and our service levels.
+
+But I would defer to our panel of experts on why the specific case studies were selected. But I think it's
+important to say, though, that we had somebody that was intimately knowledgeable of all of the different
+technologies and developing our scope of work and our selection.
+LANCE MACNIVEN: Yeah, sure. And so, yes, thank you. To your point, AC Transit super impressive and
+the 5 by 5 study with Stanford is very useful. We were considering them, but we really try to stick to operating
+environment. And so we really wanted to focus on the cold weather and the impacts to how that works.
+AC Transit, the 5 by 5 study, if those of you who aren't familiar, they've done a series of reports. AC Transit
+operates fuel cell battery, electric bus, diesel. I think everything but CNG. I think they have diesel hybrid.
+And they basically compared CapEx, OpEx, all these different factors and across several periods of time
+to basically tell you how these different technologies performed.
+And it is insightful, but at this stage, we didn't use it as a specific case study. But we definitely are watching
+what's going on there and considering them for, you know, cost assumptions and things like that with how
+they're paying for hydrogen, for example.
+DEBRA JOHNSON: And if I may, more specifically as it relates to leveraging Michael Hursh, who serves
+as the General Manager, and Sal Llamas, who is the Chief Operations Officer. Quite naturally, we engage
+often with them, especially as it relates to their training consortium. And they have offered to basically have
+no charge to us, when we get to that point, work in tandem with us.
+And I'd be remiss to say that Sal Llamas used to work for me down at LA Metro when he was a Maintenance
+Director at Division 5 in South LA. So of course I'm leveraging and we collectively are leveraging all of our
+relationships in the district-- or not in the district, I should say, in the industry. Thank you.
+DOUG TISDALE: That is good to know. Thank you. Mr. Chair, if I may proceed.
+ERIK DAVIDSON: Please.
+DOUG TISDALE: When we're talking about a facilities first strategy, isn't a facilities first strategy entirely
+contingent on the fuel choice that we make, the technology that we choose, that we would have to, in the
+first instance, say we're looking at a battery electric bus, we're looking at a hydrogen fuel cell, we're looking
+at something else? I mean, isn't that a decision that we make before we even get to facilities first?
+FRED WORTHEN: Thank you for the question, and yes, you are correct. And what we're trying to do in the
+early stages is compare apples to apples. So we are looking at battery electric buses, completely different
+from fuel cell buses, completely different from CNG. So we are comparing the technologies on an apple to
+apple basis.
+As we start transitioning though, into final plan, as I mentioned, we will more than likely have a mix of
+technologies that will be developed over time. And that comes into my point earlier about that we will have
+to look very strategically on how we implement this and how that impacts our facilities itself.
+So, you know, if we choose to transition incrementally to battery electric buses, for example, we will have
+to have a facilities transition plan that is looking at how do we do that incrementally, and based upon our
+financial and our facility needs itself. So yes, you are correct, but that will be the next stage. Right now,
+we're strictly screening all these technologies. The final report, though, will look at these more holistically.
+DOUG TISDALE: All right. Thank you. I appreciate that. And if I may, Mr. Chair?
+
+ERIK DAVIDSON: Yes.
+DOUG TISDALE: In terms of the battery electric buses, have we generally, as I recall, I believe that on the
+16th Street Mall buses, we use lithium-ion batteries rather than a nickel manganese battery, is that correct?
+FRED WORTHEN: Yes, it is correct.
+DOUG TISDALE: All right. And are we looking when we look at batteries, because my understanding is that
+there have not been the thermal runaway events with the lithium-ion batteries. They've principally been in
+the nickel manganese batteries. But I could be wrong on that, too. So if you can perhaps update me on
+that.
+FRED WORTHEN: So I don't want to get too far down into the weeds, but I will say that although the lithiumion has less issues with things like fire and things like that. There are range, whereas the other batteries
+are denser, so they have a longer range. So we're really looking more at-- the manufacturing is really
+moving more towards the nickel manganese. And we really have to consider because of the range issues
+that type of technology itself when we look at battery electric buses.
+DOUG TISDALE: That's useful information. I appreciate that. So it's due to the range capabilities of the
+nickel manganese that we would be looking at those. All right. And if I may, Mr. Chairman?
+DEBRA JOHNSON: Director Tisdale, if we could. Mr. Henke, did you have something further to add? And
+I ask him, because he's in the global space as it relates to this as well.
+CLIFF HENKE: I did. So one of the things that the industry is looking at very keenly is the advent of solidstate batteries for two reasons. One is, is that the energy density will be vastly greater with a solid-state
+battery than with the current chemistries. And the second is, it seems that thermal runaway events will be
+much more mitigated with a solid-state battery. And the general literature about solid-state batteries is that
+it's felt that this will start to enter commercialization in the late 2020s. And you will see a step change
+improvement in range and stability of the battery.
+FRED WORTHEN: And to add on to that, that is part of the reason why when we talked about the facilities
+first. That we need to build and modifier facilities to be able to grow with the technologies that we select so
+we aren't limited to where we are right now, but we are prepared to be able to adapt to those technologies
+as they grow.
+DOUG TISDALE: All right. Thank you. I appreciate that. Mr. Chair, I think just one or two more here.
+CLIFF HENKE: Since this is a hockey town, we need to learn how to skate where the puck is going to be
+as much as where the puck is now.
+DOUG TISDALE: And that's a very good and helpful comment. I was about to say, some of you know,
+nobody in this room remembers Gabriel Heatter, but Gabriel Heatter used to say, "there's good news
+tonight." He was a radio newscaster.
+But anyway, so there's the good news tonight, is that the solid-state battery is going to address thermal
+runaway events, which has been a consideration of mine for the past two years. And we've encountered
+information about those. As part of the facility's first plan, are we also including consideration of having
+induction end-of-line chargers if we were to use battery electric buses?
+
+FRED WORTHEN: Thank you for the question, Director Tisdale. Yes, we are looking at a number of
+mitigation factors. Of course, we're looking at onboard diesel heaters that would kick in when the
+temperature, the ambient temperature, hits a very specific temperature. You know, whether it's 40 degrees,
+30 degrees, whatever it happens to be.
+That helps extend the life of the battery significantly. But we're also looking at end-of-line charging
+capabilities, whether it is inductive or other types, to help extend the range also. So we're looking at a
+number of mitigation strategies to increase the range of our fleet, no matter whether it is, you know, the
+existing technology or future technologies.
+DOUG TISDALE: Thank you. I appreciate that very much. And my last question, if I may, Mr. Chair, is just
+to put this in context and to address people who might look at all this and say, well, you should have done
+this yesterday, and you have to have all these things in by tomorrow, and what's holding you up?
+We have a fleet of clean diesel buses currently. And can you, just for the sake of the record and whoever
+might ultimately review this, compare the emissions from our old diesel buses versus the clean diesel
+buses? Is it, I don't know, 50% less or 60% less?
+FRED WORTHEN: I actually have provided a slide in the past that I can send to the board itself that shows
+from prior to 2010, when the Clean Air Act was adopted, the emissions were quite a bit higher with
+particulate matter. Since the 2010 adoption of the Clean Air Act, those emissions have dropped very, very,
+very much. I can definitely provide that slide to the board, which will help illustrate that.
+But I think going back to Debra's point again, though, you know, when you really start talking about the
+emissions, our real opportunity to reduce emissions is getting single-occupant vehicles off the road. You
+know, our footprint in the region is very small compared to single-occupant vehicles, but I can definitely
+provide that slide from the past to the board.
+DOUG TISDALE: Thank you. And I do recall that slide. And that's where I was drawing my numbers from
+because I think it was actually north of 80% reduction.
+FRED WORTHEN: It's significant.
+DOUG TISDALE: In emissions that you talked about. And that's something I think people need to hear more
+than once, so that they understand that. And as you have added, as General Manager, CEO added, and
+as you have reiterated, we're not the source of particulate emissions in the Denver region. We're a tiny
+factor, but we're stepping to the plate and doing our part. Thank you, Mr. Chairman, for allowing me the
+extended colloquy.
+DEBRA JOHNSON: So, Director Tisdale, to address your question, Mr. Henke has some information
+relative to the question you posed about clean diesel. And I'd be remiss to state that you could put a near
+zero NOx engine in a diesel vehicle and basically emit 0.01 of a particulate. I know that from past
+experience. But Cliff, please.
+CLIFF HENKE: There was an interesting McKinsey Report that was done for the LA Metro staff that talked
+about some of this. That the emissions of LA Metro fleet was something like 3% or less of the entire
+emissions of the basin. And the impact of a modal split change is something like 8 or 8 and a 1/2 times the
+impact of making the fleet a zero emission fleet.
+
+So there's some significant work to be done as far as-- and some of this was tackled I think in some of the
+context that was raised in the Reimagine RTD work, which talked about fleet expansion, systems
+optimization, all those other things than just electrifying the fleet, which would have significant greenhouse
+gas impacts as well. Much greater, in fact.
+ERIK DAVIDSON: Thank you. Second Vice Chair Guissinger.
+LYNN GUISSINGER: Thank you, Mr. Chair. And thank you very much for the presentation. It's really
+interesting. Well, I guess there are two bus manufacturers left in the US, right? And somebody mentioned
+that the FTA referred to FTA recommendations to improve the health of bus manufacturers. Is there a lot
+being done? Is there hope to-- I think there was also a statement that the availability rate for bus for BEBs
+is 50% or less. Can you give me an update on that?
+DEBRA JOHNSON: Yes, I can. Thank you very much. And I'm taking the question, recognizing that I sit on
+that task force. So what is being done? What is being done is, first, understanding the pain points of the
+OEMs. And OEMs stands for Original Equipment Manufacturers.
+Quite naturally, as we look at where we are as a public sector entity doing business with a third party,
+oftentimes the risk is basically placed upon that third party. And we as an agency could change our mind
+and they have already invested their dollars and may not reap the benefit of having a contractual agreement
+with a public entity. So with that as a backdrop, some of the elements in which we have looked at through
+the task force and in addition to having conversations with the Federal Transit Administration and those
+focused on climate through the Biden-Harris administration, was chiefly this.
+That we could actually leverage joint procurement practices because there was this belief that we could not
+do that. Hence the Dear Colleague letter that was released by the Federal government in February talking
+about it is permissible to do that going forward. Additionally, it's the stepping away from the customization
+aspect.
+And what I mean by that is in some agencies that want to showcase their brand identity, there's one agency
+that doesn't need to be named that talked about they had 95 different windows or there were 14 different
+shades of gray that they were utilizing. That is very expensive for an OEM to have when you think about
+putting forward only maybe a 10 bus buy, right?
+Because where we are here in this country, we are not procuring the same level of buses whereby other
+cities are doing. And when we think about even like, you know, over a period of time, say, for instance,
+you're procuring 100 buses one year, and then there's an option for 50 more the second year, that's really
+a drop in the bucket. So what we're looking at is basically leveraging bus procurements for the betterment,
+steering away for customization.
+Now, if we're looking at the city and county of San Francisco, for instance, that's why they use trolley
+coaches to traverse the very steep grades and things of the like. We need to be in alignment with other
+agencies that have similar operating environments as we deal with weather.
+And so where we are with the APTA FTA Task Force. So the first step was leveraging the Dear Colleague
+letter so we could do collective procurements. The second piece of this is really what does that mean from
+the standardization and/or customization, because everybody wants something differently. There is a group
+that's working together, and I'm getting a little down in the weeds, because we utilize a book that guides us.
+We call it the APTA White Book.
+
+We are participating. When I say, we, I have asked members of our team from procurement, contract and
+procurement, to lean into this as we go forward. And so there are certain elements that are still coming full
+circle as we go forward, trying to ensure that we can have a greater emphasis as relates to the market.
+But let me be clear, as we talked about some of the examples, and having spoken with my kitchen cabinet
+relative to CEOs, as Mr. MacNiven had pointed out at WMATA, as we talk about them leveraging CNGs,
+their general manager is focused on ensuring that he can deliver service.
+So while there is a push for battery electric buses, the compressed natural gas buses are working better. I
+had a conversation with the Director of Transit at SFMTA, and when Mr. MacNiven was talking about the
+Woods Division, and they have, you know, charging infrastructure on the walls, they're going to have to
+step back from that. And so as we look at all of this, we have to be prudent, we have to be intentional, we
+have to be purposeful.
+So there has been some initial steps, but there's additional work to be done. Just had conversations on
+Sunday as well, because this is something that's plaguing us as it relates to the rail market as well. So
+there's a lot of work to be done to be an active player and having the procurements in a place where we
+need them to be without the trepidation and the angst that we're getting from the two OEMs that are still
+here.
+LYNN GUISSINGER: And those two-- thank you very much. That's helpful. Those two OEMs build all the
+different types of buses, the different fuel buses, the BEBs, and the CNGs, and the?
+DEBRA JOHNSON: So to answer your question, let me step back for a second. So when we look at these
+different technologies, yes, there are manufacturers that are producing zero emission technologies, but
+they have to ensure that they've been tested. According to FTA standards in Altoona, Pennsylvania, they
+have to ensure that they are leveraging Buy America. There's a component as it relates to disadvantaged
+business enterprise with suppliers, and they have to be listed as a TVM, in this instance, a transit vehicle
+manufacturer, on FTA's website. So currently there are two that meet all those requirements.
+LYNN GUISSINGER: Thank you.
+DEBRA JOHNSON: You're welcome.
+ERIK DAVIDSON: Thank you, Second Vice Chair. And First Vice Chair Catlin, please. Online.
+PEGGY CATLIN: Thank you, Mr. Chair, and thank you, Mr. Worthen and our consultants for your
+presentation on a very complex issue. And I appreciate Director Dishell and others, Director Tisdale, for
+your questions and comments. And I very much appreciate the facilities first approach, but recognize that
+this rather iterative process about how do you identify what facility requirements you need when you're not
+really sure about the mix of the technology that you will take going forward.
+So I do respect that and understand the challenges that you're facing. And this is probably a poor analogy,
+but back in my CDOT days, I was working on fiber optics and trying to delve into public private partnerships
+where we could avail some of our dark fiber to the private sector by way of a public private partnership. And
+I remember at one point what had taken, for example, 24 dark fiber that would be lit now only require one
+because of the frequency of light that's transmitted across those fibers.
+
+So my point in illustrating that is that technology is rapidly evolving. And it's my hope that this technology,
+while it's daunting right now, by the time we're ready to fully transition, we'll have evolved to the point where
+it will be a fairly simple solution. And I'm just hopeful for that.
+I would like to point out one thing, just in terms of the funding. As I was reading through Senate Bill 230 that
+passed and was signed by the governor, it seems to me that that would be a very good source of revenue
+that would apply with that bill's intent towards a facilities investment for such a program. So I'm just throwing
+that out because that was the first thing that came to mind when I read about the use of those Senate Bill
+230 funds.
+So that's all I have. Thanks again for all your hard work. It's definitely a challenge going forward, but I
+appreciate your very cautious and deliberate approach to this. Thank you.
+ERIK DAVIDSON: Thank you, First Vice Chair. Director Harwick. Online.
+IAN HARWICK: Thank you. Fred, my temperament has evolved in the last year. I just want to let you know.
+So I have a lot of questions, but I think most of them are pretty easy. Can you give me a reminder on, like,
+how far out is this plan looking? Like, do you have a sort of, we're here and we're sort of looking out over
+the next, like, 10 or 15 years? Or is there that built into this?
+FRED WORTHEN: Well, thanks for that question. We're looking at this through two phases. Part of it is
+short term, which is our System Optimization Plan itself, which would be adopted by 2027. But longer term,
+we are looking all the way out through to 2050. We do have a fleet plan that goes out to 2050 itself. So
+there are both short term and long term implementation considerations here.
+IAN HARWICK: And then so you just said 2027, because if I remember right, we're going to start the next
+round of buses that we're buying is 2028. Is that correct or did I make that up?
+FRED WORTHEN: We actually have-- I'd have to go back to the fleet plan, but we actually have some
+buses that we'll be purchasing as early as 2026 because of the Colfax BRT procurement itself. But we have
+several major purchases coming up, though, in outlying years.
+DEBRA JOHNSON: If I may just add to that. Director Harwick, so in reference to the Colfax BRT, as
+described by Mr. Henke when we talk about bus rapid transit, to qualify for that program, you have to have
+a dedicated fleet. So I just want to ensure that there is an understanding that those buses that are being
+procured for Colfax BRT are solely for that links line, as it will be named, going down Colfax. So as we
+relate to-- not relate. As we talk about our [AUDIO OUT] sorry. The mic went out.
+Relative to our replacement. This will help inform decisions. And it gets back to the, I believe, a question
+that Director Dishell or a statement he made. Generally, when you have a plan of this nature, you're going
+to look at a myriad of different things. The short term impacts from a financial vantage point and the point
+in time where you actually reap the benefits of the investment.
+And from my experience, which isn't all encompassing, but from my experience in the state of California,
+when we looked at the viable options of the emerging technologies, which were like four or five years ago,
+generally as we look far out, we're recouping costs maybe in the 15th to 20th year time frame, relative to
+the investments that we've made. Thank you.
+IAN HARWICK: Sorry. Part of this was such a long time ago when we started this. Is this study going to go,
+depending on the technology that you all see as the next stage in this, whether or not it's fuel cell, or battery,
+
+or diesel hybrids, will this look at a facility retrofit and a new facility build? Or are you just going to give us
+one recommendation versus the other, depending on what that cost is?
+FRED WORTHEN: Thank you for the question, Director Harwick. We're actually looking through both lenses
+itself. What would it take to upgrade our facilities versus what's that point of return on investment, as Miss
+Johnson alluded to, where it's actually better for us to look at building a new facility. We also have to look
+at, though, what's the future of our services themselves, you know, and what's the best strategy for service
+delivery.
+It's not just dependent upon the technology. It's dependent upon a lot of factors. You know, we're looking
+at the technology. We're looking at future services. We're looking at available properties themselves, both
+from what RTD owns, as well as what is publicly owned and available by other entities themselves.
+You know, we're trying to be creative. Can we swap properties or look through other lenses to try and build
+new facilities at a reduced cost? But we are looking at both. What do we need to do short term and long
+term? What's the best approach?
+DEBRA JOHNSON: And if I may just add on. It's critically important as we talk about a comprehensive
+operational analysis in this situation where we have branded that as the System Optimization Plan. That's
+why it's critically important that those are done with regular cadence because you have to factor in land
+use, you have to garner a better understanding of where activity centers are.
+Because what we know today as being our service delivery model can change, especially as we assign
+vehicles to what we call certain blocks, meaning a vehicle will be out on the road servicing different routes
+for a period of time. That may be altered by land use and the development that comes into play in the next
+coming years. So you can't look at it in a disparate fashion. It has to be done in a comprehensive fashion.
+IAN HARWICK: OK. I have two more questions, then I'll let-DEBRA JOHNSON: If Director Harwick, just one moment, if we can have Mr. MacNiven-- Mr. MacNiven,
+excuse me, add some more color to the conversation.
+LANCE MACNIVEN: Sorry. Just dovetailing Miss Johnson's point about, you know, the comprehensive
+nature of this and all these different changes over time. This is to meet this net zero goal by 2050. And, you
+know, in 25 years, there's going to be a lot of changes. Service is going to change. Hopefully we don't have
+another pandemic or something that changes service again. Technology is going to continue to change.
+And so we're trying to capture all these different things in this plan. We're trying to be optimistic with
+assumptions, you know, with solid-states and things like that, but we're also trying to be realistic. And so
+what all that highlights is the sort of living nature of this document. You know, it's meant to be revisited over
+time because, you know, if we're assuming a 450-kilowatt hour battery capacity with your service now, and
+next year, four new OEMs come out with a 1-megawatt battery, we have to go back to the drawing board.
+That's going to change everything. And so we're writing all of this in a sort of modular way so that we can
+continue to revisit it over time because just things are constantly changing.
+IAN HARWICK: I really appreciate that. OK, so just the last two. What are the two manufacturers? You all
+just say there are two, but can I just get the names of them? I just would be curious to look at the buses.
+
+DEBRA JOHNSON: Yes, I will share that with you. It's New Flyer Industries and it's Gillig. Gillig is out of
+the Bay Area in Livermore, California. And then you have New Flyer that's really North American, in
+reference to Canada, but they have operations in Minnesota.
+IAN HARWICK: And I was just reading in Ballard, they don't qualify?
+CLIFF HENKE: That's a fuel cell manufacturer.
+IAN HARWICK: It's just that they manufacture the fuel cells? OK, good to know. Thank you for that
+clarification.
+And then my last question is, I think a lot of people-- like, in my job, I work for the Office of Climate Action,
+my day job, and I get a lot of people that are like, we need to do the buses. I think part of it is just our buses
+look like-- I was born in 1980 and a lot of our buses look like they were also made in 1980.
+So as we evolve this fleet, I think part of it is just the aesthetics of our buses. Like, is that when we buy this
+next round of buses, obviously BRT looks, like they look God, I just can't come up with a good word. They
+look better. Is that I'm assuming these new buses will evolve. It won't be like our light rail trains that we
+have to keep the look the same ongoing. We could actually update the look of our buses, too, I'm hoping.
+DEBRA JOHNSON: So Director Harwick, or Mr. Chair, if I may, there's a couple of things. And it's really
+funny because I had the opportunity to work with someone who said, gosh, I hate, you know, the buses
+look like a breadbox. And for those of you that know, I'm talking about John Catoe when he left LA Metro
+and went to Ramada. And that was one of the first things, that sleek look because basically it's the
+perception, opinions, and attitudes.
+But oftentimes what we've done here, our buses aren't that old for all intents and purposes. But we basically,
+instead of getting the 2024, you know, Honda Accord, we've asked for the 1983 model Honda Accord. So
+as we go forward, and as we look at our livery and things of the like, livery meaning the paint scheme, those
+are all things that we could do within the specifications. As we go forward, we have to discern what that
+might be.
+So that's totally-- I'm with you on that front. I'm standing in my truth. I'm speaking as an individual. But I
+agree with that. Thank you.
+IAN HARWICK: All right. I'm done. Thank you so much, everybody. I really appreciate all your time. Thank
+you.
+ERIK DAVIDSON: Thank you, Director. Secretary Guzman.
+MICHAEL GUZMAN: Thank you, Mr. Chair.
+IAN HARWICK: Nice shirt.
+MICHAEL GUZMAN: I have a-- sorry, making sure that that's on. I have a couple of questions. One came
+from a constituent. So I don't need an answer right now, but something to consider or I know it was touched
+on briefly, but there's no mention of it in the report and I was waiting to hear the presentation.
+Trolley buses. I'm going to leave it there. I don't need to know anything more about it. But are we including
+that in looking at these different technologies?
+
+I do have a more important and pressing question. In terms of facilities approach, a facilities first approach,
+I'm pleased to hear that you're considering putting more facilities in. In your comparative studies, you're
+looking at service areas that would fit entirely within subdistricts of our regional transportation district. And
+so would we consider instead of a spoke-and-wheel approach where everything is housed in just one area,
+potentially building facilities to service smaller areas within the RTD? I'll stop there.
+FRED WORTHEN: No, I appreciate the question. And actually, a lot of our service delivery model is
+predicated on that right now. If you take a look at our current facilities, they are geographically located. But
+I will say that they are geographically located based upon service that was delivered years ago. And it's
+part of the reason why we want to look at our service delivery more holistically.
+But like our plat is more central to Denver. We have a facility in Boulder. We have one in Longmont. We
+have a Commerce City. We have an Englewood.
+So we actually have facilities that were designed to try to minimize impact and to deliver services where
+they were at the time. But as we start looking at this more holistically, again, we need to look at how we're
+delivering our services down the road.
+MICHAEL GUZMAN: I asked that for a couple of questions. One, I heard loud and clear what GM CEO
+Johnson said about really using the System Optimization Plan to create a plan that services where people
+need to go. That's a really important factor in all of this. And so I appreciate that you've stated that.
+The second reason I asked is because in WMATA, I was privileged to go last year on their inaugural first
+battery electric bus ride that was cleared by the FTA for use on their public streets with passengers. But
+the conversation on the bus was, we have to build two fleet centers because our batteries are dying and
+we don't want to have to use a diesel truck to come and pull this back to the main center.
+So if we can strategically place a facility here in these houses that doesn't look like anything but houses
+and over here in this area, it's the DC. It's weird, whatever. That was part of what they were going through
+in their transition, problems that they were facing, and their challenges that they were overcoming. And so
+taking the facilities approach first is really important to me.
+DEBRA JOHNSON: If I may go back to your first question. As you talk about trackless trolley, trolley
+coaches or trolleys, as you indicated, that's highly unlikely here in reference to the investment in
+infrastructure, recognizing the city and county of San Francisco has been running trolley coaches for 100plus years. We look at Boston, who has been running them probably [AUDIO OUT] look at Seattle.
+For all intents and purposes, the infrastructure with overhead wires and things of the like. That would not
+be a sound investment, especially in this region. And not to speak of, unlike the other areas that I just called
+out, the city and county of Denver-- sorry, the city and county of San Francisco is 49 square miles. They
+have auspices.
+SFMTA, for all intents and purposes, is the DOT in the city. As we look at Seattle, King County, it's just that
+it's within King County, within the greater Seattle region. So [AUDIO OUT] address that. Thank you.
+FRED WORTHEN: Mr. Chair.
+WOMAN: You got another answer here?
+
+CLIFF HENKE: Yeah, if I may, Director. I think some of what you're referring to is what they call opportunity
+charging, which is basically layover locations where you can actually charge the buses. And that is very
+much a strategy that is being looked at in this evaluation.
+MICHAEL GUZMAN: Thank you. The commitment to respecting Mother Earth, thinking in a seven
+generations manner, what will benefit my grandchildren's grandchildren and closing the cycles. The first
+thing that I saw on your slides when I opened it was we're not really reducing any kind of emissions. We're
+just pushing it down the line.
+We're taking, and we still haven't figured out a way to put back. And so I am deeply concerned that until we
+resolve the issue with our energy providers on how we create renewable energy that is sustainable, that
+doesn't just take coal and burn it and put it into the atmosphere, that just because a bus doesn't give off
+pollutants or GHGs, we're still faced with the same problem. All we're doing currently is pushing it out of the
+RTD to the area where those fuels are burned to create the energy that we need.
+I bring it up because I brought it up before, so I will bring it up again. Sustainability needs to be something
+that we need to consider in all of this. What gave me hope on your presentation was that you did include
+photovoltaic sources of energy that are more localized and specialized to it, something that I have
+considered and have been reprimanded for bringing up, but I'm going to bring it up again because I think
+it's important.
+We need to close those circles. And anything we can do to close those circles is really important. So thank
+you for that, but also for the public and the people listening or who may listen to this later, that is still a
+concern. Jumping to any of these sources is going to have unintended consequences later down the line if
+we do not close the cycle.
+FRED WORTHEN: Thank you for those comments.
+MICHAEL GUZMAN: How do we do that with some of these other technologies? I guess would be my
+question. And I don't need an immediate answer with it. But whether it's burning coal to provide electricity
+or using compressed natural gases, you know, what are the ramifications of doing that and storing it?
+Looking at the facilities and having to build all of this infrastructure, that's going to create its own set of
+issues, but it still doesn't close that loop, and that's what I'm looking for. Before I'll even consider telling you
+what kind of technology I think we should go for, if I don't understand that piece, it's for naught because I'm
+going to not know what to do with it.
+DEBRA JOHNSON: So with this juncture, I would say we hear you, Director Guzman, loudly and clearly.
+And as we go through this process, we will see what we yield from this going forward. But this is something
+that plagues us all as an industry, just holistically. And I would be remiss to say, as we look at ourselves as
+public transit entities, oftentimes this responsibility has been punted to us because we aren't generating
+great amounts of capital and those that really are creating more pollutants basically have the means in
+which to bypass the system.
+And I don't want to sound as if I'm politicizing this, but we hear you loudly and clearly, and it's bigger than
+us. It gets back to the discussion we had recognizing that we provide-- our core mission is delivering transit
+services. We are not basically mitigating all that plagues American society in the same vein. Thank you.
+MICHAEL GUZMAN: I also want to just mention the workforce training was something that was a learned
+lesson, but also just as important to all of this other work, because I don't know how we would maintain a
+
+working fleet anyway if we didn't have our frontline workers, and beyond the frontline workers, the behind
+of house frontline workers that keep things moving every day. So whatever comes out of these
+recommendations, my takeaways from this were how we're going to use our land and facilities, and do we
+need to create situations there.
+But also the workforce training that is going to be required as a beginning step to any of this, because we
+may not-- and I don't know, but my supposition would be as fast as technology is training, we may not have
+what we need right now. That doesn't mean that we don't have employees that are highly capable and
+ready to do those types of changes and learning. So I think that's something that we do need to consider
+in all of this transition. So thank you for pointing that out.
+DEBRA JOHNSON: If I may, Mr. Chair, I want to say as it relates to workforce training, I want to go on
+record saying that we are highly committed to training our workforce. When you think about someone who's
+worked at this agency tirelessly, we are not throwing them out with the bathwater. We have to ensure that
+we're investing in those individuals.
+And as we look at discretionary grant programs, there are different elements that are factored in because
+we have to focus on the people power behind that. And there are entities at the national level, including-what is it, the National Transit Workforce? It escapes me. It's an entity that's directly involved in this, and I
+have had the opportunity to engage with them.
+There's NTI, and even as we talk about AC Transit, as Director Tisdale broached, with their academy that's
+been leveraged going forward. And it's just more than the frontline operators as well, training them, you
+know, as it relates to regenerative braking and how they used to feather the brakes is a whole different
+component. But then you are taking a diesel mechanic and teaching them or training them how to use
+electronic devices to diagnose a problem.
+But more or less, as we look at contracting and procurement, it runs the gamut with our trainers and
+everything. This would be a whole scale approach in reference to changing our business model from an
+operational and administrative vantage point. Thank you.
+FRED WORTHEN: And if I could add too. I really appreciate the comments because when we're looking at
+the workforce impacts, we aren't just looking at the training impacts. We're also looking at the people power
+itself. You know, so like Director Whitmore alluded to, if you were to go to a full-scale battery electric bus
+without any type of mitigation whatsoever, I mean, realistically, you're talking about almost a two to one
+replacement.
+That would mean that we would have to have significant increases in our operator ranks, our service
+cleaning ranks, our general repair ranks. So we're trying to minimize those impacts through these plans.
+But the training component itself, depending upon the technology, can be significant.
+And then when we start talking about that again, even if we're adding hundreds of hours worth of training,
+that means I need more training. But that also means that I have to take people off the floor to train them,
+which means that I need more mechanics and other individuals just to supplement the time away from
+turning a wrench, so to speak.
+So it's a very complex issue. I appreciate your perspective on that. We have a very specialized component
+of this that we're focusing on the people power. Our Chief People Officer has been directly involved in that
+
+and has probably had some sticker shock as she's looked at some of the numbers and information we
+received. But I'm very, very cognizant of the issues you bring, and I appreciate that.
+ERIK DAVIDSON: Thank you. I've got two director's hands raised. I'll go back online to First Vice Chair
+Catlin.
+PEGGY CATLIN: Sorry. We are under a statewide goal for zero emissions by 2050. But I would say that
+other industries are facing similar challenges and mandates. And have we looked at some opportunities
+with facilities to maybe delve into public private partnerships? And this may sound a little bit far-fetched, but
+I'm thinking in terms of the trucking industry, they have heavy vehicles that they're looking at trying to
+modernize their fleets.
+And would there be some opportunities for some public private partnerships by way of the facilities so that
+the private sector, and RTD, and perhaps other local government entities could take advantage of
+leveraging resources to provide some of those facilities, rather than just siloing facilities exclusively for
+RTD's use? Just a thought. You don't have to answer it right now, but I just was positing that as perhaps
+an opportunity to look into. Thank you.
+ERIK DAVIDSON: Thank you, First Vice Chair. Director Whitmore, please.
+TROY WHITMORE: Thank you, Mr. Chair. Just a couple of added comments to Director Guzman's
+mentions. Just after spending 38 years in the electric utility industry, just want to reiterate how strong the
+commitments, mandates, statutes, guidelines, recommendations, a whole plethora of activities have been
+in the generation field for electricity. There will never be another coal plant built in Colorado. They're all
+going to be gone by 2030, if not before that.
+Xcel Energy has been the leading producer of electricity through wind for many, many years. So we are,
+as an industry, you know, under the same types of scrutiny that we are at RTD. And I think most have risen
+to the task. And two seats to my right we have a renewable expert right here that can visit with you about
+all the exciting things that are happening.
+So it is happening in the state. We're a leader in the Western United States, if not all over the country. And
+it's not just the big guys. It's small co-ops and small municipal electricities that are doing a lot of those kind
+of factors. So it is happening in tandem with the goals for, you know, building envelopes, and commercial
+industry, and industrial consumptions.
+And as Fred had mentioned, the emissions issues from office buildings and the residential market. I think,
+you know, we are in a trajectory that speaks well for us. Unfortunately, there's regions that aren't following
+quite the same expedited approach in our country, and certainly not in our world. But I just want to reiterate
+that there are partners out there that are doing, I think, good work.
+ERIK DAVIDSON: Thank you, Director.
+TROY WHITMORE: Thank you for your indulgence, Mr. Chair.
+ERIK DAVIDSON: Yeah, thank you, Director, for the comments. I'm not seeing other hands. I did have two
+questions. Just I'll keep them brief here.
+So back to the one to one replacement. The current bus fleet being 1,019 buses, but the System
+Optimization Plan calling for 563. And then looking at that one to one, would you mind just elaborating on
+
+this? There's quite a few unutilized buses. And wondering if you can just talk a little bit about as we consider
+the transition, whether it's a one to one on that 1,019 or we're trying to forecast what we'll actually need out
+into the future?
+FRED WORTHEN: So thank you for the question, Chair Davidson. To clarify, the 539 vehicles that is in the
+System Optimization Plan is strictly what is needed for peak service itself. That doesn't include our spare
+ratio. So we do have a 20% spare ratio that is needed. We do have a fleet downsizing program that we
+review on an annual basis. And that we are considering as part of this study though, too, what are our true
+needs.
+I do believe personally we're seeing that some of our System Optimization Plan vehicle needs were a little
+understated. So we're looking at those in depth, which is part of the reason why we're doing this on an
+annual basis itself, trying to make sure that we're right sized when we look at this. So that is why the
+numbers are a little different when we start talking about this.
+ERIK DAVIDSON: Thank you.
+DEBRA JOHNSON: If I can? I'm sorry. I didn't-- this works sometimes.
+So just to add some context to what Mr. Worthen said. Just for everyone's edification, when we talk about
+peak, and that's where we're like, how many buses do we need to deploy in the morning where we have
+the optimal levels of service available. That goes back to the traditional model pre-COVID where you had
+AM and PM peak, or the rush hours. And then more specifically when he talks about spare ratios, just for
+your edification, FTA requires a 20% spare ratio. So we have to ensure we have those vehicles readily
+available.
+But since COVID, recognizing that most transit agencies basically weren't leveraging all of their vehicles
+due to the nature of the service reduction because people were basically sequestered, we exceed our spare
+ratio and do have an exemption from the Federal Transit Administration, as most other transit agencies do
+as well. So I just wanted to manage your expectations around those numbers to let you know there's a lot
+of variables. And so when you look at these numbers, as they are today, it's not as if they were in February
+of 2020. Thank you.
+ERIK DAVIDSON: Thank you very much for the answers. And my last question is actually somewhat along
+the lines of what First Vice Chair Catlin was asking about. So speaking to the point of where the puck is
+going, to what extent does our valuation, as we're considering, you know, particularly the next decade, what
+other industries are doing, so looking at, you know, freight and agriculture and where there's going to be
+economies of scale and additional investment from just a broader standpoint, is that influencing the way
+we're looking at where the puck may be in terms of technologies available to us?
+CLIFF HENKE: You know, one of the things-- that's a very good question. And one of the things that I've
+found in my advising transit clients around the country, particularly when you look at electrification, is to
+look to the logical partnerships. And typically what happens when these implementation plans are
+undertaken is it's a facility by facility sort of relationship when really these should be programmatic at the
+highest levels of organization's relationships.
+So as to say, there should be a CEO to CEO ongoing dialogue about what Xcel is doing and what RTD is
+doing, because there are a number of facilities that are served by Xcel, right? Same thing goes for the city
+
+of Longmont and its municipal generator. And the same thing goes for a statewide advisory council because
+of the nature of the play, that all of transportation.
+There's a statistic in California that said if all of transportation is to be electrified, that grid, the independent
+system operator said, another 3-terawatts of power, grid power, are needed in California. At a time when
+the grid they were looking at optimizing and downsizing capacity at the grid because of efficiencies, they're
+looking at now an additional 2 to 3-terawatts of power. So those decisions and those discussions need to
+be had at the highest level, if that helps to answer your question at all.
+LANCE MACNIVEN: And it really depends on which fuel technology as well. I mean, we're speaking kind
+of solely to battery electric, but even, you know, hydrogen, I don't know if any of you are aware, the federal
+government injected about $7 billion into these different hubs. Unfortunately, Colorado wasn't a part of one
+of those, but there's one in Texas, and California there's arches. And it's basically all R&D.
+It's pulling all these industries together to see how can we get cheap hydrogen? You know, where should
+we make it? How can we use it for transportation? And it's not specific to any one type of mode. It's transit.
+It's freight, drayage. And so you are seeing it. It just depends on what sort of industry we're talking about or
+which fuel technology.
+ERIK DAVIDSON: Thank you very much for-- I just I guess I'll leave a comment that as we consider this,
+I'd love to hear more about that conversation since we are Transit, and we are, you know, only a portion of
+what's on the road and what's contributing. And there are substantial investments in new technologies and
+adjacencies that will potentially be highly relevant.
+And there's times to lead when you're in that position of strength and the spending authority to be the leader.
+And there's times to follow when you're not wanting to overcommit. So it sounds like some of that's factoring
+in. Thank you for the comments on that. And just a comment for consideration for the board as we
+contemplate plans and as we move forward. Thank you.
+I'm not seeing other hands at this time. Thank you very, very much for the presentation. This has been a
+very informative update and extremely helpful. And thank you for the leadership from staff and really driving
+this forward. With that being said, I will now ask, are there any other matters to discuss at this study session?
+All right. Well, thanks again, everybody, for being here. Seeing no other discussion, we will adjourn the
+meeting as of 7:40 PM Mountain Daylight Time. Thank you, everybody.
+IAN HARWICK: See you all.
+
+

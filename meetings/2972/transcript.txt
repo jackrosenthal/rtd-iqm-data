@@ -1,0 +1,1046 @@
+February 11, 2020
+Financial Administration & Audit Committee
+JEFF WALKER: --at July 1, 2020 would be a hang up in some other point in the future, after we
+acquire the new software, well, I guess when we're going off RFP, knowing that would be a better
+time.
+HEATHER MCKILLOP: That is correct.
+JEFF WALKER: Do you have a date or is it possible to give?
+HEATHER MCKILLOP: Do you know, Doug, when we'll be working on the selection of the
+vendor, when the requirements will be done?
+DOUG MACLEOD: We've got a draft of the requirements done at this point. So we have to go
+find an implementation vendor. We're looking at fall this year to try to select an implementation
+vendor that would do all the coordination with the actual software that we select. So there would
+probably be about a six-month process working with that implementation vendor before we
+actually start implementing the software itself, whichever software we choose.
+JEFF WALKER: OK. Thank you. So Madam Chair, it sounds to me like the Finance department
+isn't opposed to this. I'm wondering if the mover would consider changing the start date, the
+implementation date for this to coincide with the acquisition upload, et cetera, installation of the
+new software so that this could be done seamlessly and I'm sure for a lesser cost.
+SHELLY COOK: I'll ask her that. She can respond or somebody could make a motion and we
+could vote on that separately. But if you wish to comment, you're-- then let's move to-- we've got
+several speakers.
+NATALIE MENTEN: OK. So to be very clear, because this may be a little confusing for some in
+the audiences, this motion is simply saying there is an extract done, export on data, which can be
+currently done on Oracle, correct?
+DOUG MACLEOD: Yes. This is Doug MacLeod. The only thing I would add, so this process to
+create this report that you're asking for with the additional data is different than what we currently
+provide, because there is additional data that's not available on Oracle. And that has to do with our
+purchasing card. All of our purchasing card activity runs through Citibank.
+So what happens, if I have a Citi, if I have a purchasing card, as an employee, and I purchase items,
+I purchase those items with my card. All that activity gets recorded in Citibank. Then at the end of
+the month I submit an expense report form to our accounting department laying out, here's what I
+bought and here's where it should be coded.
+
+So if you go into the general ledger, all you see is that expense, well you see it in the individual
+accounts. What you're missing is some of the descriptions that would come through on the vendor
+portion of Citibank. So what we're asking for these 64 hours is our business intelligence folks to
+create a data warehouse that combine the two so we can provide each of the data elements that
+you're asking for.
+NATALIE MENTEN: Great. OK. So to be very clear, what this motion is doing is saying either
+in place of or in addition to the PDF, because this doesn't speak to getting rid of the PDF, that's
+open. It's simply saying that we are also going to offer a comma separated value, for the commonly
+folks out there, that means an Excel spreadsheet, OK, that includes these certain categories, which
+are payee, date, check number, or EFT, et cetera.
+That's all this motion is is just saying for somebody who wants more details, they would simply
+go to our Reports and Policies page, probably, and they can download that spreadsheet. So the
+whole talk about another platform in OpenGov or Socrates or one of these others, that's out in the
+future. This is just a very simple, simple, low cost, simple measure that will provide more
+transparency.
+And one benefit I absolutely have to mention is it will include more information for potential
+vendors to competitively bid in this District and to save us money. And just one of those will save,
+could say $5,000 like that.
+So that's what I wanted to clear up for you, Director Walker, that this motion right now, I do not
+want to amend. I want to make sure it goes forward. Because the CSV, that gives them room.
+Otherwise then I'm putting a date. It would turn around the other way, saying, now you've put a
+burden on them, as soon as they get the software, they need to do this. And I don't want to do that.
+The CSV is quite simple, to me, and a easy way for somebody to access the data. Thank you.
+SHELLY COOK: OK. Are you done, Director Walker?
+JEFF WALKER: Yeah. Thank you.
+SHELLY COOK: Thank you. Director Catlin.
+PEGGY CATLIN: I appreciate Director Walker's comments. And it seems to me that since we are
+going for another wholesale change of our system from the Oracle to the cloud that it would be
+important to include this particular scope of work in that. And also, I understand from my
+conversations that not only would we be able to get that information readily, but we could get so
+much more if we go there.
+So essentially, we will be going in that direction but that will not be until the end of 2021. So that's
+roughly 22 months. And it seems to me that even though it would be a $5,000 throwaway, at that
+point, that we are definitely under a microscope now to provide more transparency.
+
+And so ordinarily I would be inclined to agree that we should postpone this until we do the
+wholesale change. But in light of the fact that we really are trying to be more transparent now, I
+think that a $5,000 throwaway in 22 months is probably acceptable to provide additional
+information to the taxpayers today. So I will be in support of this motion.
+SHELLY COOK: Thank you. Director Mihalik.
+KEN MIHALIK: Thank you, Madam Chair. And yeah, I just wanted to restate what you said about
+these. The different platforms were simply an example of what other neighboring jurisdictions are
+providing. It wasn't at all mentioned in the motion. It's just the $5,000 one-time cost for the CSV
+macro, or whatever it ends up being.
+But I did have someone recently, not too long ago, just a couple months ago, ask how much does
+RTD spend on this particular service? I was like, gosh, I don't know. Because he happened to have
+the business that provided that service. So I think are people that are interested in this kind of
+detailed information. Thanks.
+SHELLY COOK: Thank you, Director. Director, or Chair, well, no, Director Tisdale.
+DOUG TISDALE: Thank you very much, Madam Chair. I want to echo the words of First Vice
+Chair Catlin. I think those were well said. And I think it bears repeating, for the benefit of the
+public, the media, and all, that RTD has been committed to transparency. And our Chief Financial
+Officer, now Acting Interim General Manager, has done a fantastic job of ensuring and providing
+transparency, along with Doug MacLeod, our Controller and others. And I want that understood.
+And that the only thing that I hear from our staff at this point is information so that we can make
+a truly informed decision and be aware that there is an additional cost but we are willing to absorb
+that cost now for the reasons stated and articulated in Ms. Menten's video that she put up on
+YouTube, which I understand is already under consideration for the Oscars for next year. Thank
+you very much.
+SHELLY COOK: Thank you, Director.
+All right. No other speakers in the queue. I'd just add that I agree with the voices expressing support
+for many of the same reasons. This is something we can do the near term, not overly expensive or
+onerous. And we look forward to being able to do the greater things that we've seen on these other
+websites and otherwise. And I'm glad that you're already starting to get your arms around what
+that entails and you're setting up meetings, too, in terms of different budgeting tools.
+So I just wanted to say thank you very much. You've been very busy and yet you're doing this as
+well.
+So if you would go ahead. We had a motion by Natalie Menten and a second by Kate Williams. If
+you would go ahead and vote, once your option is up there.
+
+OK. All votes are cast. We have 14 in favor and 1 opposed. That's Director Walker. Thank you
+all.
+We don't have any more recommended actions but we have several updates. The first is the General
+Manager contract review. And just to make clear, this relates to the prior General Manager's
+contract. But there is a requirement for a yearly update. So we can keep this very brief, is my guess,
+and just offer up questions. So go ahead, gentlemen.
+DOUG MACLEOD: Great. To keep it brief, this is Doug MacLeod, I will just introduce Matt
+Marino. He is the partner that works on our audit from RubinBrown, our external auditor. I'd also
+like to recognize Stephanie Simon and Max Haberkorn, who also worked on this project, as well
+as the next update item. Matt?
+MATT MARINO: Thank you. Thank you so much. As Doug said, we will keep it fairly brief
+because this does relate to the prior General Manager. But as has been customary for us to come
+in annually and update the Directors on the cost of the General Manager's contract.
+This report was produced by looking at the original contract as well as the amended contract. And
+we agreed all the data, the payroll data currently, as well as updated estimates of what the payout
+for the 2020 through Mr. Genova's retirement date was.
+And so the report was included in your packet and it was sent out earlier. So if there's specific
+questions you'd like me to speak to, I could speak to specific questions, or I can go through the
+report page by page. But it sounds like maybe specific questions is the preferred method.
+SHELLY COOK: Yeah. I think we're good with just taking questions if needed. OK.
+So I do have somebody in the queue. Director Menten, go ahead.
+NATALIE MENTEN: Thank you. I ask this question because it came up in last year's presentation
+and caught me after I was looking at it afterwards. So I'm on page 3.
+MATT MARINO: Yes.
+NATALIE MENTEN: The first paragraph, number 5.
+MATT MARINO: Yes.
+NATALIE MENTEN: And it is speaking to the pension. And towards the, it is the second to last
+sentence within that paragraph and states, for presentation purposes, the contribution for the GM
+has been estimated at 9% of wages in the absence of the availability as a per employee contribution.
+So the question was, from a member of the public, just to ensure that Mr. Genova was only part of
+the 9% pension package. I'm sorry, the defined benefit package, not also part of the defined
+contribution package.
+
+MATT MARINO: He was a participant in the salary defined benefit plan.
+NATALIE MENTEN: Yes. And that was it.
+MATT MARINO: Yes.
+NATALIE MENTEN: OK. All right. So that was all I needed to just make sure we had on the
+record. Thank you.
+SHELLY COOK: OK. Any other questions? We'll conclude that, except for I'm going to turn the
+microphone over to Chair Rivera-Malpiede for comments on [INAUDIBLE].
+ANGIE RIVERA-MALPIEDE: Thank you, Chair Cook. I would just like to say that this evening,
+the Board of Directors approved a contract for Mr. Ballard as the Agency's Interim Director and
+CEO. And he will begin his role no later than February 26. And in addition, the Board approved
+an annualized salary of $350,000 and customary RTD benefits, including relocation expenses, in
+alignment with RTD's policy for executive management. Thank you, Madam Chair.
+SHELLY COOK: Thank you very much. That was timely, given that we were just reviewing the
+prior contract. I would note that the 350 is, by and large, and folks in our legal department can
+elaborate, but that was all in. Because normally when you talk about a base salary, you carry in
+added amounts. And that wasn't the case so much in this one.
+OK. We have another update.
+HEATHER MCKILLOP: Madam Chair, can I ask you a question?
+SHELLY COOK: Sure.
+HEATHER MCKILLOP: This is Heather McKillop. So is their expectation that we do a review
+of the interim's contract with RubinBrown?
+SHELLY COOK: For this year, you mean?
+HEATHER MCKILLOP: Correct. Because that's what we would normally do. So if it was,
+whether it was the Interim or the General Manager, we would need to do that review of that
+contract. And our expectation is that's what we would be doing, based on this contract you just
+signed. But I wanted to make sure that there was that understanding.
+SHELLY COOK: Right. Go ahead.
+ANGIE RIVERA-MALPIEDE: Miss McKillop, it's a piece of this that we've not discussed at this
+point. We will sit down and look at that, and if we could get back to you on that.
+HEATHER MCKILLOP: Sure. I just wanted to bring that up. Because there, that would be our
+normal expectation to have to provide that to you.
+
+ANGIE RIVERA-MALPIEDE: OK.
+HEATHER MCKILLOP: But I just wanted to,
+ANGIE RIVERA-MALPIEDE: Thank you. Duly noted. We will be getting that to you.
+HEATHER MCKILLOP: Let me know.
+ANGIE RIVERA-MALPIEDE: All right.
+SHELLY COOK: OK. Mr. MacLeod, do you stay up here for this one? We're going on to the 2019
+Financial Audit, the auditor introductions.
+DOUG MACLEOD: Yes.
+SHELLY COOK: OK. Then please go.
+DOUG MACLEOD: Thank you, Chair. Doug MacLeod here, and Matt Marino from RubinBrown
+is still with me. He-BARBARA MCMANUS: You have a comment.
+DOUG MACLEOD: Excuse me. Each year we do a-SHELLY COOK: Were you on the prior item?
+NATALIE MENTEN: I wanted to follow up to Chair Rivera-Malpiede's.
+SHELLY COOK: Forgive me. I didn't catch it
+NATALIE MENTEN: No, that's no problem. So in that follow-up then, since the public may not
+be aware of what is customary employee benefits, my question is, since we will be making some
+small changes to the contract, whether that is now official public record? And will we be posting
+it on our RTD-Denver.com website?
+SHELLY COOK: Jenifer Ross-Amato?
+JENIFER ROSS-AMATO: Well, as soon as we get the final contract from our counsel and get it
+signed, yes, we will make it publicly available.
+NATALIE MENTEN: Great. And if I could get a copy so I can post that on my website, please?
+That would be wonderful. Thank you. Have it there just as a backup.
+SHELLY COOK: And just introducing our new Interim General Counsel, Jenifer Ross-Amato.
+We haven't formally welcomed you, but glad to have you.
+
+JENIFER ROSS-AMATO: [INAUDIBLE].
+SHELLY COOK: OK. So please continue with the introduction.
+DOUG MACLEOD: Thank you. Doug MacLeod here. So Matt Marino is still here with us for the
+second update item. And each year we like to bring our auditors in, our external auditors, before
+we begin the real serious work on the Financial Audit for 2019, in this case. And so Matt has some
+certain introductory comments that he'd like to make to the Board.
+MATT MARINO: Thank you, Doug. So as Doug mentioned, we like to engage with the Directors
+and get feedback when we're planning and performing our audit. We perform several different
+reviews and audits of the financial information of the District. We do a financial statement audit.
+So we're looking at the financial statements produced by District management.
+We also do what's called a single audit or a federal expenditures audit. Because the District receives
+federal expenditures, we do audit those federal expenditures and make sure they're being spent in
+accordance with the agreements and federal regulations and we issue a report on that.
+And then we also issue an agreed upon procedures report with regard to the National Transit
+Database reporting. And so those three things will be occurring over the next several months. And
+as part of this process, we like to engage the Directors and receive any feedback when we're
+planning our procedures.
+So are there any areas of interest or concern when you're looking either at financial operations or
+entity reporting or anything like that that you'd like to bring to our attention before we engage in
+our year-end fieldwork? We did do some initial planning back in October, but we want to receive
+any additional feedback in our risk assessment process when planning our upcoming audit that
+will happen in about a month.
+DOUG MACLEOD: And I would also just like to add, you don't have to make that decision
+tonight. Certainly we can discuss that. But Matt is also available if you'd like to contact him
+directly. I can get his contact information to you.
+SHELLY COOK: I think that'll be helpful. We haven't had a chance to really think that through, I
+don't believe. But thank you for the offer.
+Director Menten.
+NATALIE MENTEN: So could you just give me your contact info now?
+MATT MARINO: Yes. Best way to contact me is you can, phone or email preference for you?
+NATALIE MENTEN: Both, please.
+MATT MARINO: I can do a phone. 303-952-1221.
+
+NATALIE MENTEN: All right.
+MATT MARINO: And email is Matthew, M-A-T-T-H-E-W, dot, Marino, M-A-R-I-N-O, at
+Rubin, R-U-B-I-N, Brown, like the color brown, dot com.
+HEATHER MCKILLOP: And Madam Chair, I'll put this in the Friday memo, also.
+NATALIE MENTEN: One last question. You mentioned in your starter about the National Transit
+Database.
+MATT MARINO: Yes.
+NATALIE MENTEN: What do you tie in to there?
+MATT MARINO: We take the data that's reported as far as passenger miles and all that sort of
+data, and we perform an agreed upon procedures whereby we understand how the data is collected
+and then how it's reported to the National Transit Database, which ultimately has an impact on
+how the District receives funding in the long term, because that's how the Federal Transit
+Administration and Department of Transportation does dole out some funding.
+NATALIE MENTEN: All right. Thank you. That's all the questions I have.
+SHELLY COOK: OK. Nobody else in the queue. Thank you very much for both presentations.
+Appreciate that.
+MATT MARINO: Thank you.
+SHELLY COOK: So we have an update on the Pilot Fare Program.
+Bill Van Meter and Bill Sirois, welcome.
+BILL VAN METER: Thank you. May I, Chair?
+SHELLY COOK: Yes, please.
+BILL VAN METER: So this is Bill Van Meter, Assistant General Manager of Planning. We're
+here tonight to just give you a brief update on the progress that we're making on implementing the
+Board's action from last November to implement a Promotional Fare Pilot Program for the N line.
+Part of that due diligence on our part to make sure that we get that Promotional Fare Pilot program,
+doesn't just roll off the tongue, sorry, implemented was to check with the Federal Transit
+Administration, get their guidance, and make sure that we are running in accordance with their
+rules, regulations, and guidance. And so that provided us some interesting insights. That's what's
+presented and contained in this presentation. Bill Sirois is going to take you through that very
+quickly. And then we'd like to engage in a little bit of discussion to hear any feedback or thoughts
+the Board might have based on the information that he will present. So Bill.
+
+BILL SIROIS: Thank you, Bill. Again, this is Bill Sirois, Senior Manager of Transit-oriented
+Communities.
+A little bit of background, I'm not going to go over this, but this kind of outlines what was in what
+was passed by the Board in November, in terms of resolution for the PFPP pilot for the N line.
+You know, based upon that, we reached out to FTA just for some guidance in the areas that are on
+the screen there, but really understanding, since we have not done a promotional fare to date, what
+are the rules of the road from FTA standpoint.
+So in talking with them and getting their guidance, we did uncover some flexibility and some
+different options. So the three options that we have shown here outline what they had said that are
+feasible under the pilot program. In terms of the first, which is kind of as is, in terms of what we
+had-- what was originally proposed in the Board action, which is moving forward with the N line
+by itself, as proposed.
+The second option is a little bit more robust, in terms of moving forward with the N line and other
+corridors, which we would have to determine what those corridors would be at the same time. FTA
+said that that would be allowed under the promotional fare pilot if we did things concurrently,
+Then the third one, which I know is one, I think, that was discussed with the Board, which was
+what I call the rolling pilot, whereas there is a six-month period with the N line and there would
+be another six months on other corridors. So FTA did review that and said that would more than
+likely require, for equity analysis, kind of before initiating any corridors beyond the N line.
+So we wanted to present to you a pro and con of each alternative and get some feedback. Because
+obviously, initially we need to start working on some things associated with implementing the
+pilot fare. So we kind of wanted to have some discussion with the Board in terms of what the
+options are and the preferences.
+So just in terms of some pros and cons. Obviously, with the N line only, it's something that's
+already adopted. It does have the lowest potential for lost revenue, from our perspective, in terms
+of we're only focused on the one line. But there is, and this is a case with any option that we have,
+there is a potential for a Title VI action, meaning that under Title VI, just because we are in the
+promotional fare pilot, there is still potential for somebody to come and say there is a violation of
+their civil rights. And we can still do that. That's kind of under any condition.
+Option two, the N line plus other corridors being done concurrently. Obviously this is a more
+robust sample size than just the one corridor. Obviously as a result of that, we think there'd be
+broader [INAUDIBLE] of support. And FTA, this is one thing which was new to us, in terms of
+reaching out to them, was the idea that this was OK to do. But this does result in a higher loss of
+revenue. And we would have to determine how we would select other corridors.
+I think FTA did, in our conversations with them, make it clear that they would want to have some
+sort of criteria associated with how corridors were selected. It is more complicated to implement.
+Expanding it beyond one corridor does make it more complicated, from preparing for a fare change
+
+and how that is done. And again, similar to the one before, there is potential for a Title VI action
+of this without a fare equity analysis.
+And lastly, we call the rolling corridors alternative. Again, broader stakeholder support. This one,
+where we would do a Title VI analysis upfront. And you know, the idea here is that you would
+want to do that to understand what some of the implications are. Again here, another higher
+revenue loss than the original proposal. And again, potential for a Title VI finding, meaning that
+there could be a finding during the analysis. We don't know. We haven't done it yet. So that is just
+a potential risk out there that we wanted to make the Board is aware of.
+So with that, we just wanted to highlight some of the next steps, which is to get some direction and
+feedback from the Board on the options tonight. But as with any fare change, there are several
+steps that we have to go through. One of the ones that's probably more imminent is developing a
+communications plan, looking at changing how we're going to change all of our information,
+trailblazer, everything else, getting information to the general public about it.
+There are other things more on the operational side, in terms of training our fare inspectors. Those
+come a little bit later but still are necessary.
+So that just gives you a sense of the next steps and what we have to do to get there. I do not have
+costs for some of these things tonight. And we can get those to you in terms of some of those. But
+we can get those to you for your consideration after the meeting.
+And with that, we will open it up to questions.
+SHELLY COOK: OK. Directors, any questions about the three options? Director Folska.
+CLAUDIA FOLSKA: Thank you, Chair Cook. Mr. Sirois, what kind of impact on the cost of para
+transit to the eligible people using para transit just on the pilot for the North line, what would that
+be? And you may not have that information right now. But I would be curious to know.
+BILL SIROIS: We'll get that for you and get back to you.
+CLAUDIA FOLSKA: Thank you.
+SHELLY COOK: OK.
+Thank you, Director Folska. Director Catlin.
+PEGGY CATLIN: Thank you for this update. It's encouraging that from what we learned when
+we initially passed the N line pilot program. What I'm wondering-- this is very encouraging that
+we could do either option two or three, which is what some of us were pushing for, and even told
+our stakeholders that this might happen. But I was a little bit nervous that we might be over
+promising. So this is great news.
+
+And I would suggest that if we did a rolling program or-- I wouldn't advocate for a wholesale
+program, just because of the revenue loss potential. But if we could do a rolling program and select
+corridors and get actual data on ridership and that kind of thing, that it could really help in some
+of the-- well, like in my area, the Evergreen to Conifer route, or the 116X, which are all regional
+fares. And if we could look at some, or other examples, to see if we could boost ridership, I think
+that would be great.
+So I'm encouraged. Thank you.
+SHELLY COOK: OK. Director Broom.
+BOB BROOM: Thank you, Chair. Since you don't have a baseline, you don't have any data on the
+N line because it's not open, it's going to be difficult to determine what impact this fare proposal
+would have. So did you think about maybe doing two different lines, one existing line where you
+would have some base case that you could compare so that we would know something after we
+complete this exercise?
+Because I don't know if we just do the N line whether we'll really know whether it's effective or
+not to increase ridership. Thank you.
+SHELLY COOK: Any comment?
+BILL VAN METER: Chair, may I?
+SHELLY COOK: Go ahead, Mr. Van Meter.
+BILL VAN METER: Bill Van Meter, AGM Planning. So the intent with the N line is that at the
+end of the six-month period, we would be required to reinstitute, or institute, the regional fare
+consistent with our fare policy. So at the end of the six-month period, we will then see, kind of in
+reverse, what the impacts would be.
+BOB BROOM: How many quit riding?
+BILL VAN METER: You may quit riding because the cost is higher. Or you may have discovered
+that it's a very reliable service and that you're willing to pay a higher amount. And we'll be able to
+track where patrons go, at least in terms of how utilization at different stations changes, as well as
+where they park.
+And so we are basing our before and after analyses on that presumption that we will be required
+to re-- or not re, I keep wanting to say reinstate-- but instate a regional fare at that point. However,
+if the Board wanted to consider a program similar to what you just described, where we also looked
+at an existing corridor, it may behoove us to do it at the same time as we're doing the N line. That
+would be option two as presented tonight. Simply because it would, we believe and we understand
+from our guidance from FTA, forego the need for an equity analysis if we do it concurrently.
+
+Recall, if we did it in a rolling fashion, as was posited by many Board members last fall, it would
+likely require us to do equity analyses before we implement each one. If the equity analysis shows
+a disparate or disproportionate impact, then we would need to figure out how to mitigate that or
+we would not be able to proceed with future ones.
+There's also cost, time, and effort involved in doing equity analyses. So that's what is potentially
+interesting to you with this option number two. There are potential issues, as well, as Mr. Sirois
+noted, in terms of exposure to Title VI actions under any of these.
+SHELLY COOK: Thank you for that clarification. Mr. Broom?
+BOB BROOM: Thank you.
+SHELLY COOK: Director Lubow.
+JUDY LUBOW: Thank you, Chair. So I would think three is what, is you're saying that we would
+need to do a Title VI, whereas the other two there may be negative Title VI consequences if we
+don't anyway. But three, we would definitely do that.
+BILL SIROIS: That's correct.
+JUDY LUBOW: OK. I'm just wondering, I mean, on some level, the more the merrier. But I would
+imagine it could be very complicated. And I'm wondering what the staff feels about two, if they
+have the resources to do more than the pilot project as we set up.
+SHELLY COOK: Mr. Van Meter or Mr. Sirois? Or Heather McKillop, Miss McKillop.
+HEATHER MCKILLOP: Sorry, I'm over here. This is Heather McKillop. So there's several
+resource issues. One would be the financial resources that we might lose in this process. And the
+other would be the implementation of multiple corridors at one time.
+And so based on the feedback we get tonight, we'd like to take that back, digest it, and maybe look
+at the resource issues, both from a human resource as well as a financial resource, and then bring
+that back to you next month. And then you guys can digest that further and see if that leads you to
+a different conclusion than where you started back in November.
+We wanted to present this tonight because it is slightly different than what we expected and what
+you might have expected, and so wanted to give you the opportunity to look at that. And then,
+based on the comments we get from everyone tonight, we'll take that back, look at some
+alternatives, bring back more information for you next month so that might better inform a
+decision.
+JUDY LUBOW: Yeah. Thank you. Can I continue a little bit? Just, because I think we were
+thinking about number three anyway. And it seems to me, why not look at the additional cost,
+because it might be-- I know the stakeholders would really love more rather than less of this
+creative funding issue. So that's what I would suggest.
+
+But I wouldn't necessarily vote for it if it turns out to be very expensive. Thank you.
+SHELLY COOK: OK. Director Buzek.
+VINCE BUZEK: Thank you, Madam Chair. With regard to the option two, would you have to
+identify specific corridors or could you potentially move the fare zone, expand the zone, and that
+way pick up these lines that have orphan stations and more than just one-- Did you want to
+respond?
+SHELLY COOK: Yes, please.
+BILL VAN METER: May I? Bill Van Meter, AGM Planning.
+VINCE BUZEK: Please, yeah. Thanks.
+BILL VAN METER: Yeah. So that would certainly be a rational approach that I would suggest
+that we would want to look at. That is to say right now we have four zones, four fare zones, A, B,
+C, and airport. Travel between any two, excluding airport, any two zones is a local fare. Traveling
+between any three zones is a regional fare.
+If we were to expand the B-- and they're concentric circles out from Denver Union Station. If we
+were to expand the radius of Zone B consistently out throughout the region, that would be a
+significant revenue loss, likely. Our guesstimate last fall was in the $4 million range for half a year,
+$8 million for a full year. And in discussions I've had with Heather, she believes that guesstimate
+is probably on the low side. That's what we would be working on preparing for your edification
+and for your information next month.
+But I would propose that would be one of the more equitable approaches, rather than picking and
+choosing individual corridors, to consistently do a test of that style. And so that would be one of
+the approaches that I would propose, presenting to you next month in more detail, pros and cons.
+VINCE BUZEK: Thank you. And if I may continue. So when you talk about the revenue loss, that
+again presumes that the reduction of fare does not result in an increase in ridership to offset the
+loss of the higher fare. Is that right?
+BILL VAN METER: No, it doesn't-- Bill Van Meter, Assistant General Manager Planning-- it
+does assume the elasticity of demand observed for the region from our last fare studies. So it does
+assume that there would be a ridership response, a positive ridership response.
+Of course, ridership demand is relatively inelastic in this region, and for transit basically in North
+America. And so those forecasts do say there will be more ridership with the lower fare, but not
+enough to overcome, from a financial standpoint, the lost revenue. But all of that is, in theory,
+taken into account in our projections.
+
+VINCE BUZEK: And there's been discussion of potential service cuts coming up sometime soon.
+And if we vote on that as a Board to move that forward, what kind of savings will we realize from
+not running the routes that are proposed to be cut?
+BILL VAN METER: Yeah.
+VINCE BUZEK: What does that look like? $12 million?
+HEATHER MCKILLOP: This is Heather McKillop. Yes, for the base system, we're estimating at
+around $10 million, and for FasTracks, around $2 million to $2.5 million.
+VINCE BUZEK: Just a thought. Thanks. That's all I had.
+SHELLY COOK: OK. Director Walker.
+JEFF WALKER: Thanks. I'm wondering if we kept track of what happened in 2015 when we
+lowered the fares for the regional system. Do you know if we have that anywhere? And if we could
+look at that to see what happened.
+And what I'm thinking of is the Southwest line, the last few stations are in the regional zone.
+HEATHER MCKILLOP: Yeah, we can definitely go back and look at that.
+JEFF WALKER: Yeah, I think that would be interesting. I think it would be hard to identify the
+impacts on just one line, how it would affect the system. Because it's not a-- I do not know what
+the word is. But it's the observation on that one is separate from any other one, because that one
+line is just that one line. And it's-- anyway.
+CLAUDIA FOLSKA: Insignificant.
+JEFF WALKER: You know what I'm trying to say. And I think I heard you say that you'll come
+back to us with A cost of printing the materials, updating the software, et cetera, for each-- if we
+would do the rolling one. And also what it would be for-- well, I guess we already know that, what
+it is when we have a fare change every three years. I said fare change, not fare increase, because
+we change our fares.
+So I guess when I voted for this originally a few months ago, I did it with hesitation. I'm still not
+in favor of this program because there are the people out there who won't benefit from a discount,
+like everybody who's in a local fare. They won't get a discount, right, only people in a regional
+fare. That might be part of that Title VI, I would imagine.
+So I'll wait and see what you come back with. But I'm looking at the presentation, I'm starting to
+get nervous about this, along with the financial hit. We'd have to not just make up riders, we'd have
+to pretty much double the ridership, 60% or something like that increase over what's there now to
+make up the dollars, to make up the dollars that we would lose from the fare reduction.
+
+So anyway, OK, thank you. Thank you very much for the info. Appreciate it. That's all. Thanks.
+SHELLY COOK: Thank you, Director Walker.
+Director Folska. Can I ask Director Tisdale if he has a comment here?
+CLAUDIA FOLSKA: I haven't actually made a comment yet.
+SHELLY COOK: Oh, forgive me.
+CLAUDIA FOLSKA: Thank you. I was just wondering, maybe Director Walker was referring to
+statistically insignificant, because you just have one line and how you can extrapolate from that to
+generalize throughout the entire system.
+But I was wondering if, given SB 151, and they're going to, they're hoping, I guess, or removing
+that requirement that 20% of the fare box, just that whole formula be removed. I mean, it seems to
+me that it's possible that we could be charging nothing, sort of like in Kansas City, right? It's free
+now. But they have other regions. And so it's free in a certain area, but then you're going to have
+to pay when you get outside of that area. And I know that Denver City and County is very keen to
+do some innovative work. And I'm wondering how that might all fit together.
+But when you're doing your overall analysis, are you taking into account the fact that maybe some
+people on the Board are aware or not aware that increased ridership is positively correlated with
+decrease in gas, increase in gas price, increased ridership, right?
+BILL VAN METER: Correct.
+CLAUDIA FOLSKA: And right now, it's pretty low. But you know, with the Corona virus, maybe
+it's going to go up again. I don't know. That has an economic impact. There's so many different
+things. That's a little cynical.
+So can you comment about the gas price and maybe some people-- I mean, you could make
+everything free, and gas is so low, nobody is going to take advantage of it. You know what I'm
+saying? So you got a lot of variables that you're trying to juggle, and it's time sensitive. And there's
+a lot of other factors that go into account for this. So how are you going to control for that to-BILL VAN METER: Yeah, this is Bill Van Meter, AGM Planning. There are a number of other
+variables, as well. Our service levels and our service changes, whether they're large or small,
+because there is an elasticity related to levels of service and varying passenger response to that as
+well.
+We'll do our best to look at where gas prices were during the six-month trial period and then where
+they are afterwards. We'll do our best to also estimate if there were any kind of direct service level
+impacts or other impacts that we can observe. But as you're very aware, it's an inexact science at
+best. And the primary variable, however, that will be changing will be the fare. And so it will be
+primarily, whatever response there is will be primarily attributable to that.
+
+But we will take a look at some of those other key variables, as you noted. That makes a lot of
+sense.
+CLAUDIA FOLSKA: Exactly, what if we had no fare? It would only cost $150 million, right? If
+it was free, everything?
+HEATHER MCKILLOP: It's $162 million.
+CLAUDIA FOLSKA: OK. It would be-- I think it's important for the record to show we could
+make RTD free for everybody in the District and it would only cost $162 million a year to
+someone. Thank you.
+SHELLY COOK: OK. Thank you very much. And Director Tisdale.
+DOUG TISDALE: Thank you very much, Madam Chair. I am personally delighted to see that the
+FTA is open to this. When we came up with this proposal, it was considered something that would
+be extremely problematic with the FTA. And now to have an indication that these two additional
+options would be OK is fantastic.
+I have to tell you, I mean, seeing it used along the Southeast corridor, where we have six stations
+that are impacted by this, the Southwest corridor, where there are two stations that are impacted
+this, the W line, where there is one station that's impacted by this, I mean, we have history there.
+So we'll know. We have, the Southeast line is the busiest rail line that we have. And we have
+history. And we will know, by doing this, do we create even greater demand for that?
+The R line might be very dramatic. A line that has been anemic in terms of its ridership numbers
+might, in fact, be quite strong. And I have to tell you, at this particular point in time, looking at all
+the issues that we are addressing with the N line and with everything else that we face, I think
+being able to go out with a plan that would be system wide might be one of the best things that we
+ever chose to do.
+So I'm delighted. And I personally am in favor of option two. Thank you.
+SHELLEY COOK: Thank you, Director. Director Lewis.
+SHONTEL LEWIS: Thank you, Chair. I have a few questions.
+The first question is in the pros and cons for option two, it says the FTA indicates that this approach
+would be OK. Can you tell me a little bit more about that?
+BILL SIROIS: Well, the question, we asked the question about guidance for how we would
+implement a fare on the N line. And they said, you could do this concurrently with other corridors,
+with a six-month limit on that fare. And that would be OK under their promotional fare guidance.
+So that was their specific feedback to us on the implementation of the N line fare.
+SHONTEL LEWIS: OK. Thank you. A few more questions here for you all.
+
+You mentioned a criteria for selection to determine which of the corridors. What criteria did you
+all have in mind?
+BILL SIROIS: You know, we wanted feedback tonight to understand where the Board was going,
+if there was an interest in a specific direction. And then we could go back and talk about what that
+criteria would be and come back to you next month.
+SHONTEL LEWIS: OK. I'm curious as to how this, with-- I'm constantly trying to make the
+connections between what we're doing now and how that fits into Reimagine RTD. And so if you
+all could speak to that, I'd appreciate it.
+BILL SIROIS: The thing that we said, I think, and we said this, we are not specifically addressing
+fares in Reimagine in terms of looking at if we change fares are we doing the flat fares, are we
+doing special programs? We're not doing that in terms of what the impact is on ridership.
+What I think that we've said that we may discuss in Reimagine is overall approach to fares that
+may impact how we approach from a fiscal policy standpoint and from other standpoints, from a
+higher level. We could have a discussion as, for instance, about whether we do fare increases over
+three years or some things like that that may be part of the discussion. But I don't think we were
+ever intending to do any modeling associated with if you changed fares in this way, here would be
+the impact on ridership.
+SHONTEL LEWIS: OK. That's helpful to know.
+HEATHER MCKILLOP: Madam Chair, can I address that, though?
+SHELLY COOK: Yes, please.
+HEATHER MCKILLOP: I'm going to do a quick plug for some upcoming meetings, workshops.
+So not as part of Reimagine but separately, due to the requests we've had over the last several
+months at looking at flat fares, at looking at reduced fares, at looking at not doing fare increases
+in 2022 and 2025 in our mid-term financial plan. We will be having a workshop. It's in your twoweek calendar. Only it's not two weeks. It's longer than that.
+On March 10th we have a workshop from 3:30 to-- I think it's from 3:00 to 5:00, or 3-- it's in there.
+And then in that one we'll be discussing the purpose of fares, why we charge fares, the elasticity
+or inelasticity of fares, those type of things at that first meeting. And then in April we'll actually
+have modeled scenarios on a, not a free fare, but if you went to a flat fare, if you went to a flat fare
+and an airport fare, if you went to a fare by mode. So you had a different fare for bus, which is
+traditionally more local, light rail, which traditionally more regional, and then commuter rail,
+which might be more considered a higher fare. So we'll be looking at that then at the April
+workshop that we're going to be having.
+So I just wanted to do that plug for those meetings coming up. Those will then feed not only the
+Reimagine discussion, depending on where the Board wants to go with that and how formal we
+
+want to take that, but it'll also feed into our account-based ticketing conversion that we're going to
+be doing in 2020 and 2021.
+SHONTEL LEWIS: So that leads me to two questions that I have here, and you might want answer
+these, Heather.
+For each of these options, how are we considering our fare revenue targets? And what's the impact?
+HEATHER MCKILLOP: So what we're comparing them to is what our estimates will be,
+forecasted, if we did those fare increases and kept it as is, and then what ridership in those fare
+forecasts would look like if we made these adjustments.
+SHONTEL LEWIS: For these options specifically?
+HEATHER MCKILLOP: Correct.
+SHONTEL LEWIS: OK. That's helpful. And so you mentioned rail and bus. Are we considering
+any of these options that we would include any bus routes in the consideration of corridors?
+BILL SIROIS: That is one option that I think we could do, under either, under option two. You
+could even look at a different fare. You could look at the local fare. That is, I think that is allowed
+under there. But I think that we'd have to certainly look at that and get into more analysis of staff.
+SHONTEL LEWIS: OK. And I think you all talked about the A line. So of course, I have to say
+let's not discount the A line. We have workers who travel to the airport. And so I think let's not
+disregard it. We should at least consider it.
+And then finally, I was very vocal about not wanting to support this because I thought it created
+inequities. And my position doesn't change. And in fact, I would be more supportive of option
+three because it requires us first to do an equity analysis. And I would prefer that we know what
+the burdens or the disparate impact could potentially be prior to implementing and not learning
+that after. Because it's people's lives that we would be impacting. Thank you.
+SHELLY COOK: Thank you, Director. Director Guissinger. And then I hope to wrap up pretty
+quickly after Director Menten. OK, go ahead.
+LYNN GUISSINGER: Director Lewis answered one of my questions, which is that we're talking
+buses and trains. So when we talk a corridor, we could be talking a particular line, one or the other,
+and not the whole corridor. Is that right?
+Just an observation. The idea of expanding the B circle would leave out some of the examples like
+Director Catlin gave that are regional but aren't Denver centric. I'm not saying I'm against it. I like
+looking at number two. I learned yesterday, or I learned a few days ago, I guess, that DRCOG is
+looking at what free fares would look like. And I think that's really interesting. It's nice somebody
+else is looking at that for us.
+
+And I guess I would encourage, this is also a time to think about pass programs. For instance, what
+Director Lewis was saying, you know, free fares could be great, but they also could have a lot of
+problems. But pass programs that put people on buses and give people something more for their
+money are also a great way to go. And if we can work out a way to take care of the equity issues
+and to expand it everywhere, I think it could be a real income source for RTD.
+SHELLY COOK: Thank you. Director Menten.
+NATALIE MENTEN: Two of the previous speakers mentioned what my question mostly was,
+was whether regional routes for bus. I think about the Evergreen, the 116X. Do we need to request
+right now special that that be considered? Because I don't know what you came into the room
+considering. And you've heard it now from a couple Directors. But is that just automatically a part
+of the plan to consider those and do the pricing and all of the effects and all of that?
+BILL VAN METER: Bill Van Meter, AGM Planning. So there are potentially many dozens of
+iterations. And we don't have the time or resources to do all of those. But we can make some broad
+based assumptions. So expanding Zone B, for example, likely would expand-- making this up-it's currently about 9 and 1/2 mile radius circle, making it 11 or 12 miles. On the Flatiron Flyer
+route, what impact would that have and which stations would be impacted? On the West corridor,
+on North I-25, on bus services into the mountains, where might those lines change?
+For most of the Foothills routes, that sort of change isn't going to impact the fare. Because those
+runs are significantly longer. So we could then take a look at what the impact would be in an
+isolated case on one or two additional routes, I'm positing, sitting here right now, without kind of
+breaking our analytical capacity.
+So if you're following that direction, that's what I'm thinking I'm hearing from the Board. So the
+answer is a qualified yes, we would be able to look at some of those variations.
+NATALIE MENTEN: Yeah. Just in summary, I wouldn't want corridor to only mean rail.
+BILL VAN METER: Understood. And yeah, the Flatiron Flyer, North I-25, the pricing for those
+corridors and for all our services generally follow the same A, B, C distance space boundary. That
+is not a rail specific, or mode specific. It's a distance application that is applied pretty consistently
+among our premium bus services as well as rail.
+So not local services. You can ride long distance on a local bus if the local bus goes that distance
+on a local fare. But for our premium, nonstop, closed door-type service, commuter-type services,
+we use the same kind of A, B, C zone for the bus services as well.
+SHELLY COOK: So if I may, right here, just to try to help us wrap up-- and I will get back to you.
+I wanted to see if what we're talking about is getting more information about option two and
+including, perhaps, increasing zone B, and coming back with information that relates to, for
+example, how does that affect bus service, as well, the regional routes, as well, and looking at,
+considering that it's a one-time cost, looking at how we might fund that. So including, potentially,
+
+although we're not saying this is where we want to go at this point, using the service cuts, if they
+are approved.
+BILL VAN METER: Chair, that's how I am understanding the discussion.
+SHELLY COOK: OK. Go ahead, Director Menten. And then Director Lewis, yeah.
+NATALIE MENTEN: OK. So this is a lot of deja vu. 2015, talking about distance versus time
+versus flat. Maybe hopefully some of that modeling and that all that work that Lac-- was it Lacy
+Bell?
+BILL VAN METER: Lacy Bell.
+NATALIE MENTEN: --put into that. And I'll dig through my old archive emails, try and dig some
+of this up. But hopefully some of that has kind of been laid out.
+And then last item is if we did touch on one of the DTP lines, would that require any substantial
+contract modifications?
+HEATHER MCKILLOP: This is Heather. As it relates to fare, no. Because fares are within the
+control of the RTD on the fares.
+NATALIE MENTEN: OK.
+HEATHER MCKILLOP: Now if it generates a lot more traffic as far as passengers, we will have
+an issue there, because we're at capacity for rail cars. So that would be something we'd have to
+take into consideration. But as far as just setting the fare, that is within the purview of RTD.
+SHELLY COOK: We just doubled those. Are we actually already at capacity on the doubled
+consist?
+HEATHER MCKILLOP: Yes, that's as largest consist as we can get [INAUDIBLE] planner-BILL VAN METER: Clarification. Bill Van Meter. So those trains generally aren't at capacity in
+terms of passenger load. But we cannot expand the length of them to add additional. So if there is
+additional response beyond their capacity, we don't have the capacity to carry the additional
+passengers.
+SHELLY COOK: Thanks for that clarification. OK. Director Menten, may I move on to Director
+Lewis?
+NATALIE MENTEN: Yes.
+SHELLY COOK: OK. Thank you. Go ahead. And then we'll finish up, if that's OK.
+
+SHONTEL LEWIS: Thank you, Chair. I just want to clarify. Bill, in your example you were
+expanding zone A into B or B into C?
+BILL VAN METER: B into C.
+SHONTEL LEWIS: What would it look like to expand A into B? And why not consider that?
+HEATHER MCKILLOP: May I clarify? And that's to make the local bigger, right, is what you're
+saying? OK.
+BILL VAN METER: Well, travel between any two zones is still local. So-HEATHER MCKILLOP: I think she's saying travel between three zones would be a local. And
+outside of that would be something more.
+SHONTEL LEWIS: Yes.
+HEATHER MCKILLOP: That's what she's-BILL VAN METER: That would be a flat fare then.
+HEATHER MCKILLOP: It would get close to a flat fare.
+BILL VAN METER: That would devolve to a flat fare.
+SHONTEL LEWIS: Close to it. I just want to know all the scenarios.
+HEATHER MCKILLOP: With limited regional.
+SHONTEL LEWIS: I just want to know all the scenarios. If you all are going to come back with
+considerations that the Board should think about, I would personally like to think about that,
+maybe.
+BILL VAN METER: Got it.
+BILL SIROIS: OK.
+SHONTEL LEWIS: And then I would, just to clarify, Director Cook, I am one Director who is
+actually in support of option B, because I believe that we should not know that people may be
+experiencing harm based on our decisions after the fact, but I'd prefer to know that before we make
+a decision. That is all.
+SHELLY COOK: Great. OK. Are you good in terms of direction? And thank you all very much
+for all your good thinking in that.
+BILL VAN METER: Thank you.
+
+SHELLY COOK: OK, we have, quickly, a quarterly investment report. This is one we might be
+able to handle with just questions. OK, Mr. MacLeod, we're getting good at that.
+DOUG MACLEOD: Thank you, Chair. Doug MacLeod here. I'm joined by Brenden Morgan, our
+Senior Manager of Debt and Investments. And yes, questions would be great.
+SHELLY COOK: So following the good example of Director Williams when she chairs a meeting,
+I'm hoping that we've all looked at, and read in detail, all the returns. So, any questions? OK. Go
+ahead, Director Tisdale.
+DOUG TISDALE: Thank you very much, Madam Chair. I just had one question. Looking at packet
+page 28, I noticed that we've got just over 1-- almost 2% invested with Toyota Motor Credit Corp.
+I understand Freddie Mae, Fannie Mae and Freddie Mac, and some of the other ones. But I was
+just curious, how did we get into that investment?
+BRENDEN MORGAN: Good question. This is Brenden Morgan, Senior Manager of Debt and
+Investments.
+We own a handful of corporate credits, generally, in the portfolios. At year-end, I think we had
+about five. We owned Toyota, Exxon, Walmart, Apple, and Johnson & Johnson, I believe were
+the five that we owned, that you'll see in this report that we owned at the end of the year.
+Typically we do own some corporate credits. They pay a little bit of a spread above what we can
+earn in Treasuries and some of the agencies, like you mentioned, like Fannie Mae and Farmer Mac,
+et cetera. So they're all AAA-rated short-term corporate credits that pay a little bit extra than what
+we can earn on the federal securities.
+DOUG TISDALE: Thank you.
+BRENDEN MORGAN: Sure.
+SHELLY COOK: Good to know. Any other questions?
+OK. Then we're on to the 2019 monthly financial status report, please, Mr. MacLeod.
+DOUG MACLEOD: Thank you, Chair. You each should have a handout at your place. We did
+receive sales and use taxes yesterday. I'll just go through those very briefly.
+So you can see from the arrows, our year-to-date numbers, when you look at each of our items,
+sales and use tax, ridership, and fare revenue, we fell short of budget by just a little bit. But that
+continues the trend that we've seen all year.
+Good news is we had a really good month in December. So our sales and use taxes, we had a really
+good month there where we were up 4% over budget, which resulted in a year-to-date increase
+over last year of 4%, or $25 million more than last year but $3 million short of budget, which is
+pretty darn good when you think about a $662 million budget. We were only short by $3 million.
+
+Ridership continues on the same trends that we've seen, down 6/10 of a percent, mostly from bus.
+And then fare revenue we were short of budget by 5.2%, largely as a result of the lower ridership.
+One thing I would add is that these are unaudited preliminary financials. So while these dashboard
+numbers won't change for ridership, sales and use tax, and fare revenue, the income statement
+numbers will change as we go through the audit process and true things up and reconcile for the
+year. So we will come back in May with the audited financials. So you'll see a little bit of a change.
+And I'd be happy to take any questions now.
+SHELLY COOK: Director Broom, go ahead.
+BOB BROOM: Thank you, Chair. Am I right in reading this that ridership is up 4/10 of 1%?
+HEATHER MCKILLOP: Can you repeat the question?
+BOB BROOM: Yes, I'll repeat it. Am I correct that ridership went up 4/10 of 1% for the entire
+year? So this reverses the trend that we were on where ridership has been down year by year by
+year?
+DOUG MACLEOD: Yes, correct. The one thing I would say is that we did have an opening with
+the G line mid-year. So when you're comparing year over year, it's difficult to compare without
+looking at the ridership worksheet that breaks it down by-BOB BROOM: But we can say that for 2019, ridership was up over 2018.
+DOUG MACLEOD: Correct, yes.
+BOB BROOM: OK.
+SHELLY COOK: We'll take it. We'll take it.
+BOB BROOM: Then the other thing-- the other.
+SHELLY COOK: OK, Director Tisdale.
+DOUG TISDALE: Thank you very much. I just want you to say that again, that ridership in 2019
+was, in fact, up over 2018. Because remember, the footnote that you add is also in the media all
+the time saying, despite opening new lines, they've lost riders. You can now say, with the opening
+of new lines, we have increased riders. Am I correct?
+DOUG MACLEOD: Correct.
+DOUG TISDALE: Thank you. No more questions.
+[LAUGHTER]
+
+SHELLY COOK: Spoken like an attorney. OK, Director Lubow.
+JUDY LUBOW: Thank you, Chair, I have a question about ridership by line, which is on page 47.
+What interests me is that we have some lines that have significant decrease. And is there some way
+to inform us why particular lines did so badly whereas others did not?
+DOUG MACLEOD: Yes. And there's different situations for each one of those lines, obviously.
+So for instance, when the G line opened, that had some impact on the B line. It would be difficult
+to measure what that impact is, because we don't know which riders may have shifted between the
+two. Some of the others are due to service changes throughout the year.
+But if there was one in particular that you're particularly interested in, we could probably dig down.
+I would need Service Planning's help investigating those variances.
+JUDY LUBOW: Well, I'm just interested in the ones that had almost 18%. I guess that was L line.
+SHELLY COOK: The L line.
+HEATHER MCKILLOP: So this is Heather. Can I just speak to that one? I think one thing to keep
+in mind on that particular one that has the 17.8%, look at the ridership. In 2018, it was 841,000.
+And then it went down to 692,000. So it still carries a significant amount of passengers for that
+very short line that it is, the L line. But it shows a very large percentage because the numbers are
+so small compared to some of the other rider [INAUDIBLE]. So you got to keep that in mind, too,
+of looking what that comparison from year to year is.
+JUDY LUBOW: OK. Did any of those larger number declines raise a red flag?
+HEATHER MCKILLOP: Yes. So this is Heather again. So as we mentioned earlier in the year,
+we've been monitoring this pretty carefully. Because we had seen some quite large decreases on
+light rail, and we've been able to recover most of this. The L line decrease is very similar to what
+it was earlier in the year. So that really hasn't changed over the year's period of time, that decrease.
+Some of the others have actually done much better in the second half of the year than we did in
+the first half of the year. So we have been actively monitoring those and looking at potential
+reasons. We're still looking at the fact that perhaps our performance issues on light rail has
+contributed to some of the loss in ridership more recently.
+JUDY LUBOW: OK. Thank you very much.
+SHELLY COOK: Any other questions? Natalie Menten. Director Menten.
+NATALIE MENTEN: What is our ETA on getting our subsidy report for the year?
+HEATHER MCKILLOP: So our goal is to have that completely out and to the Board by July 1st,
+actually June 1st, for the report, July 1st, right?
+
+DOUG MACLEOD: Correct. June for the subsidy report, and then the county allocation is planned
+for July.
+NATALIE MENTEN: Thank you.
+DOUG MACLEOD: Yes.
+SHELLY COOK: OK, that looks like it for this item. And we have one more. Shall we just plow
+through on the LiVE program, get a very quick update on that, please.
+DOUG MACLEOD: Sure. Doug MacLeod. The LiVE program, so we've included this in your
+package Monika Treipl-Harnke is available, too, if you have specific questions. But we basically
+just updated the statistics that you see there as of Monday of last week. So we're a little over 3,600
+LiVE applications approved. That's going along well.
+The one thing I would add that's not on here is we had a productive discussion last week with
+Denver Human Services about providing a roving helper to go around and help folks at different
+locations apply for the program. And then I'd be happy to answer any questions that you might
+have.
+SHELLY COOK: We do have a couple. Director Folska, please.
+CLAUDIA FOLSKA: Thank you, Chair Cook.
+Thank you, Doug. So aside from the roving helper, is that what you called it?
+DOUG MACLEOD: Do we have an official term for that, Heather? No. It's a person that would
+work for DHS, an employee of theirs that we would pay for, but that person would be at specific
+locations, designated locations at different times of the week.
+CLAUDIA FOLSKA: Why don't we do-- like somebody from our own team? Why are we hiring
+someone from DHS to do that when we have so many people here?
+HEATHER MCKILLOP: Do you want me to answer that questions? So we don't have the expertise
+in social services and the PEAK system. DHS does. That's what they do for a living. And they
+assist people every day in applying for PEAK and our services. But they do it all at their particular
+office. So what this would provide is that same level of expertise, but at different locations.
+Because that is the feedback we've been getting is that we would like people to be able to go not
+down to Denver Human Services or Boulder Human Services but to get help at rather, say, the
+public library on Tuesday morning or a homeless shelter on Wednesday afternoon or something
+like that.
+But we do not have that expertise in-house.
+
+CLAUDIA FOLSKA: I'm really confused about that. So do you think that I would be able to fill
+that out? Can I fill out the PEAK thing myself? I mean, do you think I am competent to do that on
+my own?
+HEATHER MCKILLOP: Yes, I think you are. But there are some people that are not.
+CLAUDIA FOLSKA: Well, no, no, no, no. Let me finish where I'm headed with this. So I would
+say our own staff is probably competent enough to fill it out themselves. So why wouldn't they be
+able to teach or help somebody who needs help?
+HEATHER MCKILLOP: They could potentially do that piece of it. What we don't want them
+exposed to is HIPAA information or other information that our people are not bonded or insured
+to deal with.
+CLAUDIA FOLSKA: And DHS is?
+HEATHER MCKILLOP: Correct. That is what they do for a living.
+CLAUDIA FOLSKA: And you have to show HIPAA medical information to qualify for these
+PEAK services?
+HEATHER MCKILLOP: Potentially, yes. If you want to use your Medicaid card or something
+else to qualify, then that is the information. Or you may be giving them financial information if
+you want somebody to help you assist. So we just felt that we didn't want to put ourselves in that
+position when we had the expertise with Denver Human Services to do that already. And they're
+trained in how to ask those questions and request that information.
+CLAUDIA FOLSKA: And how much do we pay them for that?
+HEATHER MCKILLOP: I don't think we've come to an agreement on that. But as a person per
+year, what do you think, Monika, that we-- do you know off the top of your head? Or we can get
+back with that.
+MONIKA TREIPL-HARNKE: Monika Treipl-Harnke, Senior Manager of Revenue. I think we're
+looking at about a $50,000 a year salary, plus then the fringes and overhead.
+So I mean, I do want to add, because we talked about what that would be called. It's actually, they
+call it an outreach coordinator. They have a department that that's what they do. And this person
+would be hired from that department with some experience with working with the populations that
+we have in mind, especially the people who have the highest barriers. So there is some expertise
+that comes with it, not just with filling out an application but the people skills and soft skills that
+are included that a human services trained worker would be best at.
+HEATHER MCKILLOP: And if I might add, we're looking at doing that within our existing
+budget constraints that we have for the project.
+
+SHELLY COOK: OK.
+CLAUDIA FOLSKA: Well, yeah, I'm sorry. I really struggle with these kinds of expenditures,
+you know. I just think it's kind of ridiculous. I think we should be able to take someone from any
+one of our departments, like sales, and certainly communications, to give them the added expertise
+and bonding them. And it would be far less than $50,000 plus all these other fringe things. And I
+know that our people, our staff have all the human skills that they need to interact with people. I
+mean, that's what we do. We have people skills all day long here.
+So I'm sorry. I'm disappointed. But anyway, this idea of marketing, I think we do need to do more
+outreach in marketing and advertising. And you know, there's public service announcements we
+could be doing. And I'm wondering what has the communications department done for going out
+and doing proper sales and marketing of these and other past programs, quite frankly?
+SHELLY COOK: I think we're going to be getting an update on that, aren't we?
+CLAUDIA FOLSKA: Well, that kind of goes-- yeah, but it goes, you know, it slides in to that
+whole thing.
+And frankly, since I've been on this Board, that's been an issue. So I'd love to see that get resolved.
+SHELLY COOK: OK. Thank you very much. Director Williams.
+KATE WILLIAMS: Thank you, Chair. This is a program, you guys know, that's near and dear to
+me for a long time now. And I have also been hearing some things about we're not doing what we
+could be doing. And I think the point then that I have been hearing is that people believe that it is
+our program, when I think, in part, it's a partnership with the community. And so I'd like to see the
+community do more to promote the program.
+But I think we have all heard that it's hard. Director Folska's right, that the application is
+complicated and difficult. And that's not because of us. That's because of the PEAK program that
+has all kinds of other benefits, including housing benefits, food stamps, and all of those things.
+That's what makes the HIPAA issues and makes the thing hard to do.
+But I'm wondering, so people come in here to this building. And we have a department where they
+get special cards, right, on the ground floor by the back door? Can you go there to get a LiVE card?
+SHELLY COOK: Go ahead.
+HEATHER MCKILLOP: No. This is Heather. No, you have to apply online, and it will be sent to
+you through the mail. And the reason for that is sheer volume. We don't have the staffing to be
+able to accommodate the volume for that.
+KATE WILLIAMS: For the LiVE application.
+
+HEATHER MCKILLOP: For the LiVE application, or I was speaking specifically about being
+able to pick up or get your LiVE card at that time, if you're approved.
+KATE WILLIAMS: OK. But the problem that we're talking about now is that not enough people
+are applying for it. So we're like in a Catch-22. So if we help make the application easier and have
+more outreach, then we can't keep up with the demand?
+HEATHER MCKILLOP: No. I'm sorry if I wasn't clear. So the program was never designed for
+people to become able to come into this building and pick up their LiVE card, their discount card,
+like other discount cards. We are encouraging, just like we are in our other discount programs, to
+apply for that online. And then they can either pick them up or get mailed to us for our other
+discount cards.
+The amount of people that just even to date, what, we're up to, what, 3,500, 3,600 people. That
+would be a huge burden on the people here to be able to address that. We'd have to add additional
+staff. And so rather than do that, it was more economical to mail those out, based on who's
+approved through the PEAK application process.
+Now if we want additional assistance here for people to be able to come here to fill out their
+application, then we can look at that with the worker that we're anticipating being a kind of roving
+person could be here one day a week, too. The issue with this building is it's not very accessible
+and it's not very easy to get to. So we felt that that would actually be a hindrance than a help to
+most people.
+KATE WILLIAMS: So one of the suggestions that I heard was that we do it at Civic Center and
+that we allow people to go there. And I think this roving worker would be-- roving worker, is that
+what I just-- the moon lander.
+HEATHER MCKILLOP: An outreach, outreach coordinator. [INAUDIBLE] sorry. That sounds
+so much better. Sorry.
+KATE WILLIAMS: Thank you.
+HEATHER MCKILLOP: That working title, the roving [INAUDIBLE].
+KATE WILLIAMS: Just to think about possibly having that person one day a week at one of our
+facilities. And the other suggestion that was brought to me that I thought was kind of cool is that
+on the-- I never know what they're called-- the bent places up on the bus where we put the ads, that
+we could put some more information about the LiVE program up there, I think for not a lot of
+money. And that maybe we could talk to Denver Human Services, our PEAK partner, about
+helping us to put those up on our buses. Thank you.
+SHELLY COOK: Thank you. Director Williams. And I'm wanting really badly to turn over the
+meeting to you. So Director Lewis and Director Rivera-Malpiede next after that. And then we'll
+go.
+
+SHONTEL LEWIS: Thank you, Chair Heather, I'm curious, do you know if is it only access online
+that you would apply? Could someone call and speak to a representative that could help them-HEATHER MCKILLOP: So currently, yes, you can only apply online.
+SHONTEL LEWIS: OK. Sorry. John Denver.
+Is there any-- I think about computer literacy and social service programs. And I wonder if that
+could potentially be a barrier for folks and if we've had any conversations with the folks who run
+PEAK to have that as an option.
+HEATHER MCKILLOP: So we've not had the-- we had early on conversations about the ability
+to put paper applications in. But that creates all different kinds of problems about privacy issues
+and other things.
+SHONTEL LEWIS: Sure.
+HEATHER MCKILLOP: So this is why in working with the non-profits and particularly the
+homeless community that their recommendation was that we have somebody in the community at
+different locations, where people could know and it could be posted, right? So I know every
+Tuesday morning from 9:00 to noon, I can go to the Denver Public Library and get help.
+So that's what we're attempting to do now with this outreach worker is to be able to assist those
+people that may have issues with the computers or just not understand what they might need to
+load in there to be able to get proof of income or something else. They can go to those locations
+on a particular day and get that assistance.
+SHONTEL LEWIS: OK. Thank you.
+And I know we've had a lot of-- I know you all have heard quite a bit, and many Directors as well,
+from our partners, particularly our nonprofit partners, and I'm curious how we might be leveraging
+their interest in this program to better market this program to the clients that they may serve.
+HEATHER MCKILLOP: Do you want want me to address?
+MONIKA TREIPL-HARNKE: Yeah. Actually, can I-- I would like to say something about the
+last. Monika Treipl-Harnke again, about the last item, as well, the phone in, for example.
+There's also a photo required and potentially income verification. So an outreach coordinator, just
+like they do at Denver Human Services right now, can also take a picture of the person right then
+and there and load it into the system. So just from a logistical perspective, getting documentation
+through the phone, we can't do that. So it is easier. Then someone can just do the whole application,
+including photo, including maybe an image of a pay stub or something, at the same time right then
+and there. So that was to the phone question.
+
+We have been sending information to the nonprofit organizations that we work with in our
+nonprofit program. I know they were going to send out-- the program was going to send out more
+again. I don't know if that has happened yet. So we can check on that.
+So our existing contacts we've worked with, there is a-- I'm just looking at the communications
+plan that I think you all got a week or so ago. There's also, our marketing department will have
+some kind of social media posts and other communications that people can just, organizations can
+just take and plug into their channels, so send it to their email or, if they have a social media
+presence, post it there. So we want to provide canned messages that can just be plugged in.
+And we also have, I know we've been approached by some organizations that have offered help.
+So we do have the links, the brochures, all the information that we can provide there.
+We also will speak with Denver again to send something through their county network. It's been
+done before. But maybe this is a good time, you know, now that we're in almost half a year to kind
+of do another push and send all that information out again.
+SHONTEL LEWIS: Yeah. I appreciate all of that information and the work you all have done so
+far. And I would certainly be in support of a more aggressive approach. I think where we talk about
+transit equity as a goal of the agency. I can't remember the term that we coined. And I think if we
+have a program that folks who make 185%, they qualify at 185% of the federal poverty line, that
+is us moving more towards transit equity. And if we don't have metrics tied to that, or targets or
+goals, I think it's hard for us to one, obtain those things, but measure our success. And so I would
+encourage us to think about putting some values or some numbers on those things so that we can
+see and benchmark our success and really start getting more folks eligible in this-- not eligible,
+whatever that term is when they're in it. Enrolled, thanks, hon. Enrolled in this program.
+That's it. Thank you so much. I appreciate your time.
+SHELLY COOK: Good points. OK, Director Rivera-Malpiede.
+ANGIE RIVERA-MALPIEDE: Thank you, Madam Chair. Well, you all know that this is also a
+very, very deep piece of my soul. And you know, it has been just six months. That's the first thing
+I would say.
+The second thing that I would encourage us to look at is to think outside of the box and perhaps
+have this person go and train service agencies and communities to actually help their community
+members to participate. Northeast Transportation Connections received a grant from the North
+Denver Cornerstone for, it wasn't very much. And that grant, what it did, was it helped train one
+person in that agency to help members of their community to register for the LiVE program.
+And I think maybe if we did more of that where people gather organically. We don't have to go
+out and do that. We just go to work they're at, actually all the time. And so I would really encourage
+that we look at that. We have over 300 nonprofit partners that we could also train in blocks to go
+out and help other organizations get people to get registered.
+
+And it is a very personal, private thing to do. Because people are not, they're not confident in
+giving out any kind of information to a government or a, that they don't trust. We're really talking
+about trust here.
+And the other part of it is let's think about our partnerships, all the transportation management
+associations could probably get trained to go help nonprofits do this as well. We have so many
+resources available to us.
+But I guess now that we've been in this for six months, and we've really worked on this with several
+organizations in the Swansea, Globeville, Elyria neighborhoods is really partnering with La
+Clinica and where people go naturally might be the best way to do this.
+And I agree with you completely. The folks we're talking about can't take a morning off to come
+down and get their picture taken and pick up a card like other people have the opportunity to do.
+And I found that when I was doing a master eco pass program for the working poor, we would go
+to them and take their picture there and stuff.
+So I think we really just kind of think outside of the box. We can get this. We could really increase
+these numbers pretty drastically. So thank you for the work that you're doing. I would love to sit
+down with you and brainstorm and come up with some ideas and help move this forward. Thank
+you, Madam Chair.
+SHELLY COOK: You bet. Director Tisdale, wrap up?
+DOUG TISDALE: Thank you very much, Madam Chair. Let us not forget to celebrate. As we talk
+about the problems and the issues, it's actually been 210 days and is found on page 50 of our
+packet. Within those 210 days, there were almost 6,000 applications submitted. And only 100 were
+denied because they didn't qualify. I think we need to celebrate that. Thank you, Madam Chair.
+SHELLY COOK: Thank you very much. I think we're going to close. I would add, the request I'd
+had from a TSO. So maybe your person can take advantage of the contact with many or most on
+the commuter rail lines to just inform the TSOs, who are in a good position to hear from or learn
+about particular needs from folks, hey, who work for a halfway house or who are themselves
+having trouble paying the fare.
+So thank you very much.
+OK. Other matters? Director Whitmore.
+TROY WHITMORE: Thank you, Madam Chair. And I may not be appropriate. And so just use
+the gavel if you need to, as far as my announcement. But I just wanted to highlight very-- and this
+really dovetails with our last discussion-- but Energy Outreach Colorado, I serve on that Board as
+Vice Chair. It's a wonderful organization that helps with poverty and issues with heat sources and
+electricity and natural gas and propane, problems that many of our friends and neighbors have, has
+a wonderful event planned on Thursday the 27th of February at Union Station, of all places.
+
+So I'm sure Pauletta or others may know more about this. But it's a day-long event called Behind
+These Walls. And it's basically to spotlight the many struggles that people all across Colorado face
+and talks about the issues that are hidden behind walls from people that have faulty furnaces, using
+their ovens to heat the home, and so on and so forth.
+And it's a free event for the public, 8:00 to 6:00 at the south end of the plaza at Denver Union
+Station. I'm going to try and make an appearance, and I would hope that some of my fellow Board
+members would do so as well. Energy Outreach is a great partner, as most of you know. Thank
+you.
+SHELLY COOK: Great. Great to hear the good things going on at our facilities. Thank you very
+much.
+Anybody else? Then I'll go ahead and adjourn, noting that our next meeting is March 10. Thank
+you, everybody.
+[GAVEL POUNDS]
+We'll take a, what, five-, seven-minute break and then we'll reconvene as the Ops Committee here.
+
+

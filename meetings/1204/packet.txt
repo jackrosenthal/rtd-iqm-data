@@ -1,0 +1,4014 @@
+1600 Blake Street
+Denver, CO 80202-1399
+303-299-2303
+
+Regional Transportation District
+
+Board of Directors
+Chair – Lorraine Anderson, District L
+First Vice Chair – Kent Bagley, District H
+Second Vice Chair – Larry Hoy, District J
+Secretary – Bruce Daly, District N
+Treasurer – Jeff Walker, District D
+Barbara Deadwyler, District B
+Dr. Claudia Folska, District E
+Bill James, District A
+Gary Lasater, District G
+Judy Lubow, District I
+
+Natalie Menten, District M
+Angie Rivera-Malpiede, District C
+Chuck Sisk, District O
+Paul Daniel Solano, District K
+Tom Tobiassen, District F
+
+AGENDA
+Financial Administration & Audit
+Tuesday, August 13, 2013
+Rooms R, T, & D
+5:30 PM
+Conference Dial-in # 303-299-2663
+Conference ID: 15120
+
+Financial Administration and Audit Committee
+Chaired by Jeff Walker
+
+A. Call to Order
+B. Recommended Actions
+C. Updates
+
+• Second Quarter 2013 Internal Audit Report
+• Second Quarter 2013 Investment Report
+• Fiscal Sustainability Recommendations Update
+• June 2013 Monthly Financial Status Report
+
+D. Other Matters
+E. Next Meeting Date - September 10, 2013
+F. Adjourn
+
+The following communication assistance is available for public meetings:
+ Language Interpreters
+ Sign-language Interpreters
+ Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 hours in advance of a RTD
+meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+1.C.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: August 7, 2013
+
+From:
+
+Terry Howerter, Chief Financial Officer
+
+GM
+
+Date:
+
+July 31, 2013
+
+Board Meeting Date: August 13, 2013
+
+Subject:
+
+Second Quarter 2013 Internal Audit Report
+
+Information
+
+Attached are the summary statements of the audits that were completed in the Second quarter
+of 2013. They include:
+ Lamar Advertising Revenue
+ IT Access Controls
+ Intermountain Coach.
+If the Committee members have any questions regarding any of the above reports, we would be
+pleased to answer them.
+ATTACHMENTS:
+
+
+FAC Comm Report
+
+(DOCX)
+
+Prepared by:
+Ann Isaac-Heslop, Manager, Internal Audit
+Approved by:
+
+Packet Pg. 3
+
+1.C.1.a
+
+REPORT OF THE INTERNAL AUDITOR
+LAMAR ADVERTISING REVIEW
+AUDIT REPORT # 13-06-01
+
+RTD has contracted with the Lamar Advertising Company to sell advertising space
+on both the interior and exterior of RTD bus and light rail vehicles. The original
+contract was effective for three years from January 1, 2010 through December
+31, 2012. In late 2012, the contract was re-evaluated by RTD and resulted in a
+reduction to the minimum annual payments required from Lamar, because of fewer
+than expected bus and light rail vehicles operating in regular service. The revised
+annual minimums are $2.32 million for buses and $1.2 million for light rail vehicles,
+starting in 2012. The bus minimum annual is paid to RTD ‘up-front’ in January.
+The light rail minimum fees are received quarterly by RTD. At the same time, the
+contract was extended through December 31, 2014
+AUDIT SCOPE
+Our testing included a review of the contractual agreement with Lamar Advertising
+and an evaluation of the controls and procedures in place for calculating and
+remitting advertising revenue to the District, ensuring that all such funds are
+received.
+CONCLUSION
+We have recommended an internal meeting be arranged between appropriate RTD
+departments, including Procurement, Marketing, and Accounting to review current
+procedures and evaluate potential enhancements to ensure that all earned
+advertising revenue is received and accounted for.
+CURRENT STATUS
+Mutually agreed upon corrective action is underway as a meeting is being
+scheduled for late July. This will be subject to normal Internal Audit follow-up
+review.
+
+Packet Pg. 4
+
+Attachment: FAC Comm Report (1657 : Second Quarter 2013 Internal Audit Report)
+
+BACKGROUND SUMMARY
+
+1.C.1.a
+
+BACKGROUND SUMMARY
+RTD utilizes significant Information Technology (IT) resources, including personnel,
+hardware, and software, in the day to day operations of providing commuter
+transit services. Ensuring adequate security and confidentiality over a company’s
+information technology is critical in today’s public environment. Computer
+technology must be adequately controlled to ensure that systems are protected
+from both internal and external risks.
+AUDIT SCOPE
+Our testing primarily emphasized software access controls, particularly over
+selected Oracle modules after the recent upgrade to Release R12. In an effort to
+avoid duplication of effort, we limited our testing in selected areas that RTD’s
+external auditors, Rubin Brown, had recently reviewed. In addition, RTD has a
+representative on a new APTA ‘task force’ that is studying external ‘Cyber
+Threats’ against transportation companies. As such, we did not include this area
+in our current review as their report is due later this year.
+CONCLUSION
+We recommended that IT periodically provide department managers with a list of
+their employee’s software access permissions for review, including the use of
+Super User which allows permitted employees to enter or modify Oracle
+transactions. We also suggested that management consider creating the position
+of IT Security Administrator when internal head count allows for it.
+CURRENT STATUS
+
+Packet Pg. 5
+
+Attachment: FAC Comm Report (1657 : Second Quarter 2013 Internal Audit Report)
+
+REPORT OF THE INTERNAL AUDITOR
+IT ACCESS CONTROLS REVIEW
+AUDIT REPORT # 13-04-03
+
+1.C.1.a
+
+REPORT OF THE INTERNAL AUDITOR
+INTERMOUNTAIN COACH CONTRACT REVIEW
+AUDIT REPORT # 13-05-01
+BACKGROUND SUMMARY
+In June 2010 RTD issued an “Invitation for Bid” (IFB) in search for a firm to
+“Supply 32 Cutaway Buses, with an option to purchase 15 more over a five year
+period”. Intermountain Coach Inc. was justified as the winning provider and a
+contract was prepared to describe each party’s responsibilities.
+The agreement is ongoing at this time. The purchased vehicles are primarily utilized
+for RTD’s Access-a-Ride and Call-n-Ride services. An initial fixed price for these
+buses was just over $54,000 per unit. Future years’ price increases are tied to an
+agreed upon calculation utilizing a specified ‘Bureau of Labor Statistics Producer
+Price Index for Truck and Bus Bodies’. Recent purchases in the first quarter of
+2013 cost just over $57,000 per unit.
+AUDIT SCOPE
+Our review included the process to develop the IFB within RTD, solicit various
+firms, obtain and evaluate proposals from those expressing an interest in bidding
+on the specified vehicles, and selecting the winning firm. We also reviewed the
+controls over vendor invoices to ensure new vehicles were received and properly
+inspected, to validate they met RTD requirements before payment was approved.
+CONCLUSION
+We noted that the contract award process was appropriately followed and the
+selection of Intermountain Coach as the winning bidder was justified. Invoices
+
+Packet Pg. 6
+
+Attachment: FAC Comm Report (1657 : Second Quarter 2013 Internal Audit Report)
+
+Mutually agreed upon corrective action is underway and will be subject to normal
+Internal Audit follow-up review.
+
+1.C.1.a
+
+were properly supported, buses were adequately inspected and road tested, and
+management approved payment before checks were issued.
+CURRENT STATUS
+
+Attachment: FAC Comm Report (1657 : Second Quarter 2013 Internal Audit Report)
+
+As there were no reportable findings, there is no further activity required by
+Internal Audit.
+
+Packet Pg. 7
+
+1.C.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: August 7, 2013
+
+From:
+
+Terry Howerter, Chief Financial Officer
+
+GM
+
+Date:
+
+July 31, 2013
+
+Board Meeting Date: August 13, 2013
+
+Subject:
+
+Second Quarter 2013 Investment Report
+
+Information
+
+Discussion
+Please find RTD’s investment report for the second quarter of 2013 attached.
+The U.S. economy expanded modestly (1.7 percent) during the second quarter of 2013. The
+unemployment rate remained unchanged over the period but still remains elevated and general
+inflationary pressures remain tame.
+In order to promote economic recovery, the Federal Reserve chose to continue with its accommodative
+monetary policy and leave the federal funds target rate range (0.0% - 0.25%) unchanged during the
+second quarter noting that this level will continue to “be appropriate at least as long as unemployment
+remains above 6.5% and inflation expectations continue to be well anchored”.
+RTD’s Investment Policy (the “Policy”) is conservative in nature and seeks to satisfy the three primary
+objectives of: safety, liquidity and yield, in that order of importance.
+The Policy specifies that:
+“Quarterly reports shall outline the District’s total investment return and compare the portfolio’s
+performance to a publicly available index of securities having similar quality and duration characteristics
+to the portfolio or sub-portfolio being measured. For the liquidity tier of the portfolio (cash and cash
+equivalents), the specified index shall be the 3-month U.S. Treasury Bill Index as published by Bank of
+America Merrill Lynch for the period being measured. For the enhanced cash portion of the portfolio
+(securities maturing between 90 days and 5 years and with a target duration of 1 year), the designated
+performance benchmark will be the Merrill Lynch 1-year U.S. Treasury Note Index.”
+The total return on the liquidity and enhanced cash tiers of RTD’s unrestricted portfolio and investment
+benchmarks were as follows:
+Liquidity Tier:
+
+2nd Quarter
+
+Y-T-D
+
+RTD cash and cash equivalents:
+B of A/Merrill Lynch 3-month U.S. T-Bill Index
+
+0.032%
+0.023%
+
+0.065%
+0.039%
+
+0.042%
+0.039%
+
+0.116%
+0.114%
+
+Enhanced Cash Tier:
+RTD enhanced cash:
+B of A/Merrill Lynch 1-year U.S. Treasury Note Index:
+
+Packet Pg. 8
+
+1.C.2
+
+The yield of RTD’s unrestricted portfolio through the second quarter of 2013 was 0.70% which would
+produce annualized earnings of $2.067 million. The current return for the month of June was 0.47%.
+ATTACHMENTS:
+
+
+INV REPORT JUN 2013 (PDF)
+
+Prepared by:
+Brenden Morgan, Manager, Debt & Investments
+Approved by:
+
+Packet Pg. 9
+
+1.C.2.a
+
+PAGE 1
+
+Attachment: INV REPORT JUN 2013 (1658 : Second Quarter 2013 Investment Report)
+
+REGIONAL TRANSPORTATION DISTRICT
+2013 RETURN ON INVESTMENT REPORT
+UNRESTRICTED ONLY (BASE & FASTRACKS)
+YEAR-TO-DATE 2012 YIELD, AS OF JUNE 30, 2013
+
+TOTAL
+UNRESTRICTED INVESTMENTS
+WEIGHTED AVG BOOK VALUE AND/OR FAIR VALUE:
+
+2012
+
+2013
+
+JANUARY
+FEBRUARY
+MARCH
+APRIL
+MAY
+JUNE
+JULY
+AUGUST
+SEPTEMBER
+OCTOBER
+NOVEMBER
+DECEMBER
+
+469,199,244
+326,288,585
+333,630,746
+330,981,948
+312,652,908
+360,345,881
+379,299,549
+357,156,858
+343,700,234
+336,616,056
+338,154,581
+385,488,162
+
+415,468,420
+290,696,582
+295,961,746
+315,569,349
+253,404,784
+191,295,855
+
+ANNUALIZED WABV AND/OR WAFV
+
+356,429,501
+
+294,089,923
+
+YTD INVESTMENT EARNINGS BASE & FT
+
+4,284,220
+
+*
+
+1,024,856
+
+ANNUAL INVESTMENT EARNINGS
+
+4,284,220
+
+*
+
+2,066,699
+
+2012 YTD YIELD, 2013 YTD YIELD
+
+1.2
+
+*
+
+0.7
+
+Packet Pg. 10
+
+1.C.2.a
+
+PAGE 2
+REGIONAL TRANSPORTATION DISTRICT
+QUARTERLY INVESTMENT REPORT
+FOR THE QUARTER ENDING JUNE 30, 2013
+
+QUARTERLY
+EARNINGS
+PER G/L
+
+JUNE 30, 2013
+QUARTER YIELD ON
+WEIGHTED AVERAGE
+
+ADJUSTMENT TO
+FAIR VALUE
+
+JUNE 30, 2013
+UNREALIZED TOTAL
+RETURN ON
+WEIGHTED AVERAGE
+
+Attachment: INV REPORT JUN 2013 (1658 : Second Quarter 2013 Investment Report)
+
+QUARTERLY
+WEIGHTED AVERAGE
+FAIR VALUE
+BOOK VALUE
+RTD Unrestricted Portfolio:
+Cash Base Equivalents
+
+124,674,677
+
+39,870
+
+0.032%
+
+RTD BASE
+FASTRACKS
+
+15,118,460
+113,629,988
+
+39,382
+344,413
+
+0.260%
+0.303%
+
+(32,889)
+(297,104)
+
+0.043%
+0.042%
+
+TOTAL BASE AND FASTRACKS
+
+128,748,448
+
+383,795
+
+0.298%
+
+(329,993)
+
+0.042%
+
+June 30, 2013
+
+March 31, 2013
+
+December 31, 2012
+
+0.128%
+
+September 30, 2012
+
+767,589
+
+RTD Cash Base Equivalents
+ML 3-Month U.S. Treasury Bill index
+
+0.032%
+0.023%
+
+0.033%
+0.016%
+
+0.041%
+0.040%
+
+0.048%
+0.034%
+
+Total RTD Base and Fastracks
+ML 1-YEAR U.S. Treasury Note Index
+
+0.042%
+0.039%
+
+0.074%
+0.075%
+
+0.070%
+0.064%
+
+0.137%
+0.137%
+
+Packet Pg. 11
+
+1.C.2.a
+
+UNRESTRICTED
+JUNE 30, 2013
+
+Attachment: INV REPORT JUN 2013 (1658 : Second Quarter 2013 Investment Report)
+
+PAGE 3
+
+REGIONAL TRANSPORTATION DISTRICT
+UNRESTRICTED INVESTMENT YIELD FOR THE MONTH REPORT: JUNE 30, 2013
+WEIGHTED AVERAGE
+BOOK VALUE
+FAIR VALUE
+FOR JUNE 30, 2013
+
+JUNE
+EARNINGS
+
+JUNE
+G/L ON SALES
+G/L ON CALLS
+
+ANNUALIZED
+EARNINGS
+
+JUNE
+YIELD
+
+RTD INTERNAL PORTFOLIO
+
+CASH EQUIVALENTS
+
+75,260,831
+
+7,875
+
+95,810
+
+0.13 %
+
+RTD BASE
+
+15,059,582
+
+13,127
+
+0
+
+159,715
+
+1.06 %
+
+FASTRACKS
+
+100,975,442
+
+115,778
+
+(62,150)
+
+652,475
+
+0.65 %
+
+TOTAL UNRESTRICTED
+(CASH EQUIVALENTS\RTD BASE
+& FASTRACKS)
+
+191,295,855
+
+136,780
+
+(62,150)
+
+907,999
+
+0.47 %
+
+Packet Pg. 12
+
+1.C.3
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: August 7, 2013
+
+From:
+
+Terry Howerter, Chief Financial Officer
+
+GM
+
+Date:
+
+August 7, 2013
+
+Board Meeting Date: August 13, 2013
+
+Subject:
+
+Fiscal Sustainability Recommendations Update
+
+Information
+
+BACKGROUND
+A Fiscal Sustainability Task Force (Task Force) was formed in November 2010 for the purpose of making
+recommendations, through a written report to the RTD Board of Directors, detailing opportunities for
+operating efficiencies and revenue enhancement for the Base System to ensure RTD’s long-term fiscal
+sustainability. The Task Force consisted of 22 members with 12 of those members being external to
+RTD. The Task Force presented its recommendations to the Board of Directors in June 2011. The
+Board of Directors subsequently approved those recommendations and directed Staff to pursue
+implementation of each recommendation. The Task Force reconvened for a final meeting in July 2012
+to be briefed on the progress of their recommendations and provide an opportunity for feedback.
+
+DISCUSSION
+The Task Force made revenue enhancement, expense reduction and fiscal policy recommendations to
+the Board of Directors which were approved for further consideration and/or implementation. The status
+of those Task Force recommendations is as follows:
+Recommendations - Completed
+Removing the Volatility from Sales and Use Tax Projections
+RTD contracted with the University of Colorado, Leeds School of Business – Business Research Division
+(Leeds) to provide sales and use tax forecasts beginning in March 2011. Each quarter, Leeds provides a
+forecast containing short-term (one year by quarter), medium-term (six year SBP period) and long-term
+(30 year APE period) tax projections. This function was implemented to provide RTD with expert
+economic analysis and sales and use tax forecasts using sophisticated financial modeling techniques not
+available internally. These forecasts are intended to provide a better analysis of RTD’s expected sales
+and use tax collections which comprise approximately 2/3 of RTD’s recurring revenues.
+Service Optimization
+In January 2012, RTD implemented modifications and reductions in service representing approximately
+$10.7 million or an 8% net reduction in service. Service optimization was recommended by the Task
+Force and implemented with Board approval in order to match services provided with available funding
+sources.
+Fund Balance Policy
+Due to the volatility of RTD’s largest single revenue source, sales and use taxes, the Task Force
+recommended implementation of a more robust fiscal policy regarding fund balances. Fund balances
+represent financial assets that are available to RTD after allowing for obligations that have been incurred.
+Fund balances increase when fund sources exceed fund uses and vice versa. Fund balances therefore
+exist as a form of savings account to be used for specific purposes when needed and replenished when
+economic circumstances allow. In response to this recommendation, RTD implemented a fund balance
+
+Packet Pg. 13
+
+1.C.3
+
+policy with a target level of $90 million for the Base System, which is approximately three months of
+operating expenses. This target was established based on levels recommended by the Government
+Finance Officers Association (GFOA) best practices. The Fund Balance Policy further categorizes the
+available fund balances into the categories of a Board Restricted Fund, a Capital Replacement Fund and
+an Unrestricted Fund.
+Sales and Use Tax Exemptions
+In Colorado, legislation establishes products and services that are subject to sales and use taxation and
+those that are exempt from taxation. The state, cities, municipalities and special districts in Colorado
+each have different sales and use tax rates and often have differing items subject to taxation due to
+legislation establishing exemptions. RTD introduced legislation which was passed in May 2013 to
+establish parity with the state regarding items subject to sales and use taxation. Exemption parity was
+identified by the Task Force as providing a benefit to RTD during difficult economic conditions when the
+state implements exemption changes and vice versa. In addition, exemption parity removes the
+complexity to vendors of RTD having different taxable items than the state. Exemption parity will take
+effect January 1, 2014.
+Technology and Energy Innovation
+Regarding energy innovation, RTD conducted a comprehensive energy audit of the oldest and largest
+operating division (the Platte facility) to determine the potential scope of savings that may be available
+through equipment and lighting upgrades. The audit identified that facility lighting upgrades could result
+in potentially significant energy savings. Areas for minor energy savings were identified for other
+building systems, however, these have a very significant capital investment and long pay-back periods.
+Based on this information, RTD has budgeted for energy upgrades throughout the District in the strategic
+budget plan, and will address energy efficiency in building systems as on-going projects are completed.
+RTD has evaluated a variety of solar applications which also require significant capital investment with a
+relatively long-term pay-back period. RTD was successful in receiving a grant to install solar panels at
+East Metro and this project is underway.
+
+Recommendations – Ongoing
+Sales and Use Tax Compliance Reviews
+The Colorado Department of Revenue (DOR) collects and audits sales and use taxes for RTD. The Task
+Force identified an opportunity for revenue enhancement by performing additional sales and use tax
+compliance reviews based on the favorable collection experiences of Colorado cities and municipalities
+that implemented these reviews. Compliance reviews consist of RTD providing additional resources
+from a contracted provider to supplement the DOR’s audit function. Due to the complexity of sales and
+use tax filing requirements and tax boundaries in Colorado, this recommendation is intended to provide
+the DOR with the additional resources necessary to ensure complete and timely tax compliance by
+vendors. An Intergovernmental Agreement (IGA) between RTD and the DOR is substantially complete
+with the next step to finalize an RFP for compliance review services. RTD expects to initiate these
+services in late 2013.
+Naming Rights
+The Board approved RTD securing the services of a corporate sponsorship and naming rights consultant,
+and RTD entered into a contract with the internationally known firm IMG. Per their contract, IMG is
+conducting an inventory and financial analysis of RTD facilities, services and assets that may lend
+themselves to naming/sponsorship value-added contracts. The Board will be updated on this process the
+
+Packet Pg. 14
+
+1.C.3
+
+third and fourth quarters of 2013, and contract opportunities will be presented to the Board for their
+approval on a case-by-case basis.
+Partnerships and Privatization
+The Task Force described this recommendation as a broad area that could include items such as
+privatizing routes and administrative and operational functions to reduce expenses. RTD has undertaken
+some actions under this recommendation such as the lease of the DUS historic building, IGAs for
+improvements to US36 and the East Line, as well as TOD activities. RTD continues to look for
+partnership and privatization opportunities on an ongoing basis.
+
+Recommendations – Low Near-Term Priority
+Recommendations made by the Task Force and categorized at the 2012 Board Retreat as having lower
+near-term priority and their status are as follows:
+Charge for Parking
+RTD currently charges out-of-District patrons parking fees to use parking facilities as well as fees
+charged to in-District patrons parking for longer than 24 hours. The Task Force identified charging
+parking fees to all patrons as a possible revenue enhancement source. This recommendation could be
+perceived as a fare increase.
+Tolling and Managed Lanes
+The Task Force recommended investigating the possibility of RTD generating additional revenues through
+charges for tolling and managed lanes. Enacting this recommendation would require coordination with
+CDOT and other agencies.
+Home Rule Initiative
+The Task Force recommended that RTD consider becoming a “Home Rule” entity which would allow
+RTD to collect and audit its sales and use taxes instead of the DOR. This initiative would require
+legislation. RTD met several times with the DOR to discuss this initiative as well as sales and use tax
+compliance reviews. Although the DOR did not object to RTD performing these services itself, the
+Colorado Municipal League and other entities recommended against it.
+
+Prepared by:
+Doug MacLeod, Manager
+Approved by:
+
+Packet Pg. 15
+
+1.C.4
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: August 7, 2013
+
+From:
+
+Terry Howerter, Chief Financial Officer
+
+GM
+
+Date:
+
+August 7, 2013
+
+Board Meeting Date: August 13, 2013
+
+Subject:
+
+June 2013 Monthly Financial Status Report
+
+Information
+
+ATTACHMENTS:
+
+
+063013 RTD MFS
+
+(PDF)
+
+Prepared by:
+Doug MacLeod, Manager
+Approved by:
+
+Packet Pg. 16
+
+1.C.4.a
+
+BOARD OF DIRECTORS REPORT
+To: Phillip A. Washington, General Manager
+
+Date: August 13, 2013
+
+From: Terry L. Howerter, Chief Financial Officer
+Date: August 6, 2013
+
+Board Meeting Date:
+ACTION
+DISCUSSION
+
+Subject: June 2013 Monthly Financial Status Report
+
+INFO
+X
+
+DASHBOARD (in Thousands)
+
+Year-to-Date vs. Prior Year-toDate
+
+Ridership
+
+Sales & Use
+Tax
+
+Fare Revenue
+
+2.4%
+
+6.5%
+
+4.3%
+
+188
+
+$588
+
+$1,729
+
+Ridership
+Ridership
+
+Fare Revenue
+
+Sales
+&&
+Use
+Tax
+Sales
+Use
+Tax
+
+-0.4%
+
+4.3%
+
+2.7%
+
+(176)
+
+$2,442
+
+$5,817
+
+Attachment: 063013 RTD MFS (1660 : June 2013 Monthly Financial Status Report)
+
+Current Month vs. Prior Year
+Month
+
+RIDERSHIP (in Thousands)
+Actual vs. Prior Year
+Month
+Bus
+West Line
+Light Rail
+Revenue Service Boardings
+Mall Shuttle
+Other
+
+2013 Actual
+
+2012 Actual
+
+4,799
+350
+1,609
+6,758
+1,279
+91
+
+4,934
+1,693
+6,627
+1,215
+98
+
+(135)
+350
+(84)
+131
+64
+(7)
+
+Month System-Wide Boardings
+
+8,128
+
+7,940
+
+188
+
+2.4%
+
+Year-to-Date
+Bus
+West Line
+Light Rail
+Revenue Service Boardings
+Mall Shuttle
+Other
+Year-to-Date System-Wide Boardings
+
+31,436
+723
+10,119
+42,278
+6,939
+573
+49,790
+
+31,863
+10,633
+42,496
+6,886
+584
+49,966
+
+(427)
+723
+(514)
+(218)
+53
+(11)
+(176)
+
+-1.3%
+
+2013 Actual
+8,128
+49,790
+
+2013 Budget
+8,113
+50,132
+
+Actual vs. Budget
+Month
+Year-to-Date
+
+Variance
+
+Variance
+15
+(342)
+
+% Variance
+-2.7%
+-5.0%
+2.0%
+5.3%
+-7.1%
+
+-4.8%
+-0.5%
+0.8%
+-1.9%
+-0.4%
+% Variance
+0.2%
+-0.7%
+
+9.7
+
+9.2
+
+2013 Amended Budget
+2013 Actual
+
+(Millions)
+
+8.7
+
+8.2
+2012 Actual
+7.7
+
+7.2
+
+2013 Actual
+
+2013 Amended Budget
+
+2012 Actual
+
+* 2012 had one more day due to Leap Year
+** The West Line began it's first full month of revenue service in May 2013
+
+Packet Pg. 17
+
+1.C.4.a
+
+FARE REVENUE (in Thousands)
+Actual vs. Prior Year
+Month
+Year-to-Date
+
+2013 Actual
+$
+9,572
+58,783
+
+2012 Actual
+$
+8,984
+56,341
+
+Variance
+$
+588
+2,442
+
+% Variance
+6.5%
+4.3%
+
+Actual vs. Budget
+Month
+Year-to-Date
+
+2013 Actual
+$
+9,572
+58,783
+
+2013 Budget
+$
+9,638
+57,914
+
+Variance
+$
+(66)
+869
+
+% Variance
+-0.7%
+1.5%
+
+$11.5
+$11.0
+2013 Amended Budget
+
+(Millions)
+
+$10.5
+$10.0
+
+2013 Actual
+
+$9.5
+2012 Actual
+$9.0
+$8.5
+
+2013 Actual
+
+2013 Amended Budget
+
+Attachment: 063013 RTD MFS (1660 : June 2013 Monthly Financial Status Report)
+
+$8.0
+
+2012 Actual
+
+SALES & USE TAXES (in Thousands)
+Actual vs. Prior Year
+Month
+Year-to-Date
+
+2013 Actual
+$
+41,863
+223,976
+
+2012 Actual
+$
+40,134
+218,159
+
+Variance
+$
+1,729
+5,817
+
+% Variance
+4.3%
+2.7%
+
+Actual vs. Budget
+Month
+Year-to-Date
+
+2013 Actual
+$
+41,863
+223,976
+
+2013 Budget
+$
+41,858
+224,973
+
+Variance
+
+% Variance
+0.0%
+-0.4%
+
+$
+
+5
+(997)
+
+$48.0
+$46.0
+$44.0
+
+2013 Amended Budget
+
+(Millions)
+
+$42.0
+$40.0
+
+2013 Actual
+
+$38.0
+2012 Actual
+
+$36.0
+$34.0
+$32.0
+
+2013 Actual
+
+2013 Amended Budget
+
+2012 Actual
+
+Expenditures
+Total year-to-date operating expenditures were within the planned amounts included in the 2013 Amended Budget.
+
+Reviewed and verified by: Terry L. Howerter, Chief Financial Officer
+
+Packet Pg. 18
+
+1.C.4.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF POSITION
+As of June 30, 2013 (In Thousands)
+(UNAUDITED)
+2013
+Base System
+
+2013
+FasTracks Project
+
+2013
+Combined
+
+December 31, 2012
+Combined
+
+Change
+
+ASSETS
+CURRENT ASSETS:
+$
+
+92,541
+-
+
+$
+
+51,153
+39,656
+
+$
+
+143,802
+39,656
+
+$
+
+292,839
+144,344
+
+$
+
+(149,037)
+(104,688) (1)
+
+49,199
+16,448
+9,953
+
+32,800
+74,536
+71,708
+
+81,999
+90,984
+81,661
+
+80,237
+114,224
+14,551
+
+1,762
+(23,240) (2)
+67,110
+
+Total Net Receivables
+
+75,600
+
+179,044
+
+254,644
+
+209,012
+
+45,632
+
+Inventory
+Prepaid Expenses
+Restricted Debt Service/Project Funds
+Other Assets
+
+30,513
+2,440
+203,586
+2,483
+
+65,318
+606,179
+2,553
+
+30,513
+67,758
+809,765
+5,036
+
+30,369
+72,880
+753,502
+6,726
+
+144
+(5,122)
+56,263 (3)
+(1,690)
+
+TOTAL CURRENT ASSETS
+
+407,163
+
+943,903
+
+1,351,174
+
+1,509,672
+
+(158,498)
+
+Capital Assets:
+Land
+Land Improvements
+Buildings
+Revenue Earning Equipment
+Shop, Maintenance & Other Equipment
+Construction in Progress
+
+175,920
+1,283,982
+248,180
+555,857
+107,905
+120,582
+
+14,671
+634,309
+9,399
+258,459
+2,093
+2,174,668
+
+190,591
+1,918,291
+257,579
+814,316
+109,998
+2,295,250
+
+189,910
+1,366,950
+257,852
+785,534
+105,286
+2,458,498
+
+681
+551,341
+(273)
+28,782
+4,712
+(163,248)
+
+Total Capital Assets
+Accumulated Depreciation
+
+2,492,426
+(1,107,810)
+
+3,093,599
+(53,351)
+
+5,586,025
+(1,161,161)
+
+5,164,030
+(1,108,184)
+
+421,995
+(52,977)
+
+Net Capital Assets
+
+1,384,616
+
+3,040,248
+
+4,424,864
+
+4,055,846
+
+369,018
+
+TABOR Reserves
+Restricted Debt Service/Debt Service Reserves
+Deposits
+Other
+
+11,050
+27,016
+1,500
+3,798
+
+6,179
+27,595
+80,701
+
+17,229
+54,611
+1,500
+84,499
+
+17,566
+78,013
+1,500
+87,784
+
+(337)
+(23,402)
+(3,285)
+
+TOTAL NONCURRENT ASSETS
+
+1,427,980
+
+3,154,723
+
+4,582,703
+
+4,240,709
+
+341,994
+
+Attachment: 063013 RTD MFS (1660 : June 2013 Monthly Financial Status Report)
+
+Cash & Cash Equivalents
+Cash Reserved for Eagle P3 Payment
+Receivables:
+Sales Taxes
+Grants
+Other (less allowance for doubtful accts)
+
+NONCURRENT ASSETS:
+
+TOTAL ASSETS
+
+$
+
+1,835,143
+
+$
+
+4,098,626
+
+$
+
+5,933,877
+
+$
+
+5,750,381
+
+$
+
+183,496
+
+(1) Payment to Eagle P3 concessionnaire made in January
+(2) Collection of federal grant funds since year-end
+(3) Increase due to the issuance of COPs in 2013
+
+Packet Pg. 19
+
+1.C.4.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF POSITION
+As of June 30, 2013 (In Thousands)
+(UNAUDITED)
+2013
+Base System
+
+2013
+FasTracks Project
+
+2013
+Combined
+
+December 31, 2012
+Combined
+
+Change
+
+LIABILITIES
+CURRENT LIABILITIES:
+$
+
+TOTAL CURRENT LIABILITIES
+NONCURRENT LIABILITIES:
+Long Term Debt
+Other Long-Term Liabilities
+Net Pension Obligation
+TOTAL NONCURRENT LIABILITIES
+TOTAL LIABILITIES
+
+58,559
+40,900
+18,414
+3,391
+24,724
+
+$
+
+78,040
+8,042
+16,549
+7
+
+$
+
+136,707
+48,942
+18,414
+19,940
+24,731
+
+$
+
+278,317
+46,575
+17,537
+17,042
+23,511
+
+$
+
+(141,610) (4)
+2,367
+877
+2,898
+1,220
+
+145,988
+
+102,638
+
+248,734
+
+382,982
+
+(134,248)
+
+589,458
+50,899
+
+1,939,148
+132,607
+-
+
+2,528,606
+132,607
+50,899
+
+2,376,966
+120,819
+50,899
+
+151,640
+11,788
+-
+
+640,357
+
+2,071,755
+
+2,712,112
+
+2,548,684
+
+163,428
+
+Attachment: 063013 RTD MFS (1660 : June 2013 Monthly Financial Status Report)
+
+Accounts & Contracts Payable
+Current Portion of Long Term Debt
+Accrued Compensation
+Accrued Interest Payable
+Other
+
+(5)
+
+$
+
+786,345
+
+$
+
+2,174,393
+
+$
+
+2,960,846
+
+$
+
+2,931,666
+
+$
+
+29,180
+
+$
+
+946,052
+12,262
+38,808
+7,834
+5,563
+16,200
+9,000
+13,079
+
+$
+
+1,674,207
+6,042
+52,625
+83,254
+30,000
+64,019
+4,695
+4,695
+4,695
+
+$
+
+2,620,259
+18,304
+91,433
+91,088
+30,000
+64,019
+5,563
+20,895
+13,695
+17,774
+
+$
+
+2,348,683
+17,391
+115,136
+96,011
+30,000
+161,832
+5,614
+13,200
+6,000
+24,848
+
+$
+
+271,576
+913
+(23,703)
+(4,923)
+(97,813)
+5,563 (6)
+(5,614)
+7,695
+7,695
+(7,074)
+
+$
+
+1,048,798
+
+$
+
+1,924,232
+
+$
+
+2,973,030
+
+$
+
+2,818,715
+
+$
+
+154,315
+
+$
+
+1,835,143
+-
+
+$
+
+4,098,626
+-
+
+$
+
+5,933,877
+-
+
+$
+
+5,750,381
+-
+
+$
+
+183,496
+
+NET POSITION
+Invested in Capital Assets, Net of Related Debt
+TABOR Fund
+Debt Service Reserves
+Other Restricted Assets
+FasTracks Contingency Fund
+FasTracks Construction Fund
+FasTracks Internal Savings Account (FISA)
+Operating Reserve
+Board Appropriated Fund
+Capital Replacement Fund
+Unrestricted Fund Balance
+TOTAL NET POSITION
+TOTAL LIABILITIES & NET POSITION
+(4) Reduction due to January scheduled construction payment to DTP on Eagle P3
+(5) Increase due to the issuance of COPs in 2013
+(6) Sale of Civic Center Air Rights less cost of Northwest Area Mobility Study (NAMS)
+
+Packet Pg. 20
+
+1.C.4.a
+
+REGIONAL TRANSPORTATION DISTRICT - COMBINED
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION
+June 30, 2013 (In Thousands)
+(UNAUDITED)
+Month
+Combined
+Actual
+-----------------
+
+Month
+Combined
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+YTD
+Combined
+Actual
+-----------------
+
+YTD
+Combined
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+Passenger Fares
+Advertising, Rent and Other
+Total Operating Revenue
+
+9,572
+409
+
+9,638
+476
+
+(66)
+(67)
+
+-0.7%
+-14.1%
+0.0%
+
+58,783
+2,618
+
+57,914
+2,568
+
+869
+50
+
+1.5%
+1.9%
+0.0%
+
+9,981
+
+10,114
+
+(133)
+
+-1.3%
+
+61,401
+
+60,482
+
+919
+
+1.5%
+
+21,270
+3,555
+405
+1,034
+3,425
+677
+2,340
+941
+328
+68
+108
+9,846
+
+22,497
+4,526
+534
+1,932
+4,384
+763
+3,086
+1,201
+328
+80
+(220)
+9,420
+
+1,227
+971
+129
+898
+959
+86
+746
+260
+12
+(328)
+(426)
+
+5.5%
+21.5%
+24.2%
+46.5%
+21.9%
+11.3%
+24.2%
+21.6%
+0.0%
+15.0%
+149.1%
+0.0%
+-4.5%
+0.0%
+
+132,843
+20,103
+1,697
+5,749
+19,720
+4,145
+14,500
+4,994
+2,197
+326
+3,517
+54,494
+
+135,491
+25,036
+2,690
+8,446
+23,917
+4,365
+17,920
+5,915
+2,047
+501
+2,908
+54,628
+
+2,648
+4,933
+993
+2,697
+4,197
+220
+3,420
+921
+(150)
+175
+(609)
+134
+
+2.0% (1)
+19.7% (2)
+36.9% (3)
+31.9% (4)
+17.5% (5)
+5.0% (6)
+19.1% (7)
+15.6% (8)
+-7.3%
+34.9%
+-20.9%
+0.0%
+0.2%
+0.0%
+
+Total Operating Expenses
+
+43,997
+
+48,531
+
+4,534
+
+9.3%
+
+264,285
+
+283,864
+
+19,579
+
+6.9%
+
+OPERATING INCOME/(LOSS)
+
+(34,016)
+
+(38,417)
+
+4,401
+
+-11.5%
+
+(202,884)
+
+(223,382)
+
+20,498
+
+9.2%
+
+41,863
+4,403
+(1,163)
+510
+(4,923)
+
+41,858
+9,643
+226
+145
+(7,270)
+
+5
+(5,240)
+(1,389)
+365
+2,347
+
+0.0%
+-54.3%
+-614.6%
+251.7%
+0.0%
+-32.3%
+0.0%
+
+223,976
+28,528
+591
+11,547
+50
+(31,315)
+
+224,973
+52,487
+1,507
+11,783
+(29,878)
+
+(997)
+(23,959)
+(916)
+(236)
+50
+(1,437)
+
+-0.4%
+-45.6%
+-60.8%
+-2.0%
+0.0%
+-4.8%
+0.0%
+
+Net Nonoperating Revenue (Expense)
+
+40,690
+
+44,602
+
+(3,912)
+
+-8.8%
+
+233,377
+
+260,872
+
+(27,495)
+
+-10.5%
+
+INCOME BEFORE CAPITAL GRANTS
+
+6,674
+
+6,185
+
+489
+
+7.9%
+
+30,493
+
+37,490
+
+(6,997)
+
+-18.7%
+
+Capital Grants and Local Contributions
+
+24,000
+
+25,785
+
+(1,785)
+
+-6.9%
+
+126,438
+
+106,067
+
+20,371
+
+19.2%
+
+(1,296)
+
+-4.1%
+
+13,374
+
+9.3%
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Facilities
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+Other Non-Departmental Expenditures
+FasTracks Service Increase
+Depreciation
+
+Attachment: 063013 RTD MFS (1660 : June 2013 Monthly Financial Status Report)
+
+OPERATING REVENUE:
+
+NONOPERATING REVENUE (EXPENSES)
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+
+INCREASE/(DECREASE) IN NET POSITION
+
+$
+
+30,674
+
+$
+
+31,970
+
+$
+
+$
+
+156,931
+
+$
+
+143,557
+
+$
+
+(1) Positive variance on diesel fuel and purchased transportation due to invoice timing
+(2) Variance is primarily due to lower than anticipated costs on maintenance campaigns with additional variances from traction power and wages
+(3) Variance due to timing of invoices for East Colfax Transit Study and Northwest Area Mobilitiy Study (NAMS) costs
+(4) West Line pre-revenue service costs less than anticipated
+(5) Year end accrual reversals for grounds maintenance and security services
+(6) Variance due to lower outside legal fees and lower licenses, permits and penalties
+(7) Variance due to timing of low value computer and communication equipment purchases and data processing services
+(8) Variance from budgeted costs for schedule printing, SmartCard and grand opening events
+
+Packet Pg. 21
+
+1.C.4.a
+
+REGIONAL TRANSPORTATION DISTRICT - BASE SYSTEM
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION
+June 30, 2013 (In Thousands)
+(UNAUDITED)
+Month
+Base System
+Actual
+-----------------
+
+Month
+Base System
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+YTD
+Base System
+Actual
+-----------------
+
+YTD
+Base System
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+Passenger Fares
+Advertising, Rent and Other
+
+9,631
+
+9,713
+
+(82)
+
+-0.2%
+-14.1%
+0.0%
+-0.8%
+
+21,270
+2,657
+356
+281
+3,067
+677
+2,288
+814
+328
+68
+108
+(1,345)
+6,560
+
+22,497
+3,609
+497
+993
+4,021
+763
+3,027
+1,110
+328
+80
+(220)
+(1,345)
+6,421
+
+1,227
+952
+141
+712
+954
+86
+739
+296
+12
+(328)
+(139)
+
+Total Operating Expenses
+
+37,129
+
+41,781
+
+OPERATING INCOME/(LOSS)
+
+(27,498)
+
+Total Operating Revenue
+
+9,222
+409
+
+9,237
+476
+
+(15)
+(67)
+
+58,023
+2,618
+
+57,094
+2,568
+
+929
+50
+
+1.6%
+1.9%
+0.0%
+
+60,641
+
+59,662
+
+979
+
+1.6%
+
+5.5%
+26.4%
+28.4%
+71.7%
+23.7%
+11.3%
+24.4%
+26.7%
+0.0%
+15.0%
+149.1%
+0.0%
+-2.2%
+0.0%
+
+132,843
+16,280
+1,443
+1,795
+18,363
+4,145
+14,188
+4,109
+2,197
+326
+3,517
+(8,070)
+40,922
+
+135,491
+21,211
+2,477
+3,584
+22,552
+4,365
+17,564
+4,947
+2,047
+501
+2,908
+(8,070)
+41,857
+
+2,648
+4,931
+1,034
+1,789
+4,189
+220
+3,376
+838
+(150)
+175
+(609)
+935
+
+2.0%
+23.2%
+41.7%
+49.9%
+18.6%
+5.0%
+19.2%
+16.9%
+-7.3%
+34.9%
+-20.9%
+0.0%
+2.2%
+0.0%
+
+4,652
+
+11.1%
+
+232,058
+
+251,434
+
+19,376
+
+7.7%
+
+(32,068)
+
+4,570
+
+-14.3%
+
+(171,417)
+
+(191,772)
+
+20,355
+
+10.6%
+
+25,118
+4,403
+(310)
+119
+(639)
+
+25,115
+8,970
+50
+123
+(1,779)
+
+3
+(4,567)
+(360)
+(4)
+1,140
+
+0.0%
+-50.9%
+-720.0%
+-3.3%
+0.0%
+-64.1%
+0.0%
+
+134,386
+28,310
+(20)
+9,296
+50
+(9,268)
+
+134,984
+49,602
+301
+8,867
+(7,523)
+
+(598)
+(21,292)
+(321)
+429
+50
+(1,745)
+
+-0.4%
+-42.9%
+-106.6%
+4.8%
+0.0%
+-23.2%
+0.0%
+
+Net Nonoperating Revenue (Expense)
+
+28,691
+
+32,479
+
+(3,788)
+
+-11.7%
+
+162,754
+
+186,231
+
+(23,477)
+
+-12.6%
+
+INCOME BEFORE CAPITAL GRANTS
+
+1,193
+
+411
+
+782
+
+190.3%
+
+(8,663)
+
+(5,541)
+
+(3,122)
+
+-56.3%
+
+910
+
+2,894
+
+(1,984)
+
+-68.6%
+
+3,503
+
+12,406
+
+(8,903)
+
+-71.8%
+
+(1,202)
+
+-36.4%
+
+(12,025)
+
+-175.2%
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Facilities
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+Other Non-Departmental Expenditures
+FasTracks Service Increase
+Depreciation
+
+Attachment: 063013 RTD MFS (1660 : June 2013 Monthly Financial Status Report)
+
+OPERATING REVENUE:
+
+NONOPERATING REVENUE (EXPENSES)
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+
+Capital Grants and Local Contributions
+INCREASE/(DECREASE) IN NET POSITION
+
+$
+
+2,103
+
+$
+
+3,305
+
+$
+
+$
+
+(5,160)
+
+$
+
+6,865
+
+$
+
+Packet Pg. 22
+
+1.C.4.a
+
+REGIONAL TRANSPORTATION DISTRICT - FASTRACKS PROJECT
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION
+June 30, 2013 (In Thousands)
+(UNAUDITED)
+Month
+FasTracks Project
+Actual
+-----------------
+
+Month
+FasTracks Project
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+% Fav/
+(Unfav)
+-------------
+
+YTD
+FasTracks Project
+Actual
+-----------------
+
+YTD
+FasTracks Project
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+% Fav/
+(Unfav)
+-------------
+
+Passenger Fares
+Advertising, Rent and Other
+
+$
+
+Total Operating Revenue
+
+-
+
+$
+
+-
+
+$
+
+-
+
+0.0%
+0.0%
+0.0%
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+0.0%
+0.0%
+0.0%
+
+-
+
+-
+
+-
+
+0.0%
+
+-
+
+-
+
+-
+
+0.0%
+
+49
+678
+52
+40
+1,345
+3,286
+
+37
+866
+59
+38
+1,345
+2,999
+
+(12)
+188
+7
+(2)
+(287)
+
+0.0%
+0.0%
+-32.4%
+21.7%
+0.0%
+0.0%
+11.9%
+-5.3%
+0.0%
+0.0%
+0.0%
+0.0%
+-9.6%
+0.0%
+
+254
+3,789
+312
+229
+8,070
+13,572
+
+213
+4,716
+356
+230
+8,070
+12,771
+
+(41)
+927
+44
+1
+(801)
+
+0.0%
+0.0%
+-19.2%
+19.7%
+0.0%
+0.0%
+12.4%
+0.4%
+0.0%
+0.0%
+0.0%
+0.0%
+-6.3%
+0.0%
+
+Total Operating Expenses
+
+5,450
+
+5,344
+
+(106)
+
+-2.0%
+
+26,226
+
+26,356
+
+130
+
+0.5%
+
+OPERATING INCOME/(LOSS)
+
+(5,450)
+
+(5,344)
+
+(106)
+
+2.0%
+
+(26,226)
+
+(26,356)
+
+130
+
+-0.5%
+
+15,677
+(853)
+391
+(4,284)
+
+15,738
+673
+176
+22
+(5,491)
+
+(61)
+(673)
+(1,029)
+369
+1,207
+
+-0.4%
+-100.0%
+-584.7%
+1677.3%
+0.0%
+-22.0%
+0.0%
+
+84,349
+218
+611
+2,251
+(22,047)
+
+84,735
+2,885
+1,206
+2,916
+(22,355)
+
+(386)
+(2,667)
+(595)
+(665)
+308
+
+-0.5%
+-92.4%
+-49.3%
+-22.8%
+0.0%
+-1.4%
+0.0%
+
+Net Nonoperating Revenue (Expense)
+
+10,931
+
+11,118
+
+(187)
+
+-1.7%
+
+65,382
+
+69,387
+
+(4,005)
+
+-5.8%
+
+INCOME BEFORE CAPITAL GRANTS
+
+5,481
+
+5,774
+
+(293)
+
+-5.1%
+
+39,156
+
+43,031
+
+(3,875)
+
+-9.0%
+
+Capital Grants and Local Contributions
+
+23,090
+
+22,891
+
+199
+
+0.9%
+
+122,935
+
+93,661
+
+29,274
+
+31.3%
+
+(94)
+
+-0.3%
+
+25,399
+
+18.6%
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Facilities
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+Other Non-Departmental Expenditures
+FasTracks Service Increase
+Depreciation
+
+Attachment: 063013 RTD MFS (1660 : June 2013 Monthly Financial Status Report)
+
+OPERATING REVENUE:
+
+NONOPERATING REVENUE (EXPENSES)
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+
+INCREASE/(DECREASE) IN NET POSITION
+
+$
+
+28,571
+
+$
+
+28,665
+
+$
+
+$
+
+162,091
+
+$
+
+136,692
+
+$
+
+Packet Pg. 23
+
+1.C.4.a
+
+REGIONAL TRANSPORTATION DISTRICT - FASTRACKS OPERATIONS
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION
+June 30, 2013 (In Thousands)
+(UNAUDITED)
+Month
+FasTracks Ops
+Actual
+-----------------
+
+Month
+FasTracks Ops
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+YTD
+FasTracks Ops
+Actual
+-----------------
+
+YTD
+FasTracks Ops
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+Passenger Fares
+Advertising, Rent and Other
+Total Operating Revenue
+
+350
+-
+
+401
+-
+
+(51)
+-
+
+-12.7%
+0.0%
+0.0%
+
+760
+-
+
+820
+-
+
+(60)
+-
+
+-7.3%
+0.0%
+0.0%
+
+350
+
+401
+
+(51)
+
+-12.7%
+
+760
+
+820
+
+(60)
+
+-7.3%
+
+898
+75
+358
+87
+-
+
+917
+73
+363
+53
+-
+
+19
+(2)
+5
+(34)
+-
+
+0.0%
+2.1%
+0.0%
+-2.7%
+1.4%
+0.0%
+0.0%
+-64.2%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+
+3,823
+165
+1,357
+656
+-
+
+3,825
+146
+1,365
+738
+-
+
+2
+(19)
+8
+82
+-
+
+0.0%
+0.1%
+0.0%
+-13.0%
+0.6%
+0.0%
+0.0%
+11.1%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+
+Total Operating Expenses
+
+1,418
+
+1,406
+
+(12)
+
+-0.9%
+
+6,001
+
+6,074
+
+73
+
+1.2%
+
+OPERATING INCOME/(LOSS)
+
+(1,068)
+
+(1,005)
+
+(63)
+
+-11.9%
+
+(5,241)
+
+(5,254)
+
+13
+
+-8.5%
+
+1,068
+-
+
+1,005
+-
+
+63
+-
+
+6.3%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+
+5,241
+-
+
+5,254
+-
+
+(13)
+-
+
+-0.2%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+
+1,068
+
+1,005
+
+63
+
+6.3%
+
+5,241
+
+5,254
+
+(13)
+
+-0.2%
+
+INCOME BEFORE CAPITAL GRANTS
+
+-
+
+-
+
+-
+
+0.0%
+
+-
+
+-
+
+-
+
+0.0%
+
+Capital Grants and Local Contributions
+
+-
+
+-
+
+-
+
+0.0%
+
+-
+
+-
+
+-
+
+0.0%
+
+-
+
+0.0%
+
+-
+
+0.0%
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Facilities
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+Other Non-Departmental Expenditures
+Depreciation
+
+Attachment: 063013 RTD MFS (1660 : June 2013 Monthly Financial Status Report)
+
+OPERATING REVENUE:
+
+NONOPERATING REVENUE (EXPENSES)
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+Net Nonoperating Revenue (Expense)
+
+INCREASE/(DECREASE) IN NET POSITION
+
+$
+
+-
+
+$
+
+-
+
+$
+
+$
+
+-
+
+$
+
+-
+
+$
+
+Packet Pg. 24
+
+1.C.4.a
+
+January
+2012
+
+February
+2012
+
+March
+2012
+
+April
+2012
+
+May
+2012
+
+June
+2012
+
+July
+2012
+
+August
+2012
+
+September
+2012
+
+October
+2012
+
+November
+2012
+
+December
+2012
+
+Total Year
+To Date
+
+Sales Tax Collections
+Use Tax Collections
+Vendor Allowance
+Less Cost of Collections Fee
+Plus Interest Earned
+
+$ 29,967,067
+3,166,944
+364,430
+(39,560)
+21,999
+
+$ 29,337,195
+3,200,609
+357,872
+(39,560)
+19,635
+
+$ 33,109,532
+3,612,354
+403,889
+(39,560)
+22,164
+
+$ 32,850,700
+3,577,804
+400,665
+(39,560)
+19,700
+
+$ 33,941,600
+3,414,995
+415,493
+(39,560)
+17,671
+
+$ 35,440,481
+4,277,167
+441,753
+(41,009)
+15,824
+
+$ 33,626,601
+2,914,549
+406,423
+(41,009)
+19,695
+
+$ 34,457,627
+3,460,487
+421,738
+(41,009)
+16,666
+
+$ 35,055,538
+3,359,396
+427,264
+(41,009)
+17,902
+
+$ 33,775,579
+3,166,066
+410,878
+(41,009)
+18,713
+
+$ 32,468,514
+3,154,698
+396,214
+(41,009)
+16,454
+
+$ 39,201,688
+4,576,358
+486,915
+(41,009)
+18,457
+
+$ 403,232,122
+41,881,427
+4,933,534
+(484,863)
+224,881
+
+Net Sales & Use Tax Received
+
+$ 33,480,880
+
+$ 32,875,751
+
+$ 37,108,379
+
+$ 36,809,309
+
+$ 37,750,199
+
+$ 40,134,216
+
+$ 36,926,260
+
+$ 38,315,509
+
+$ 38,819,091
+
+$ 37,330,227
+
+$ 35,994,871
+
+$ 44,242,409
+
+$ 449,787,100
+
+Favorable/(Unfavorable) to Prior Year
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$ 34,606,693
+
+Actual
+
+3,276,993
+
+2,562,924
+
+1,605,410
+
+2,895,524
+
+3,388,016
+
+3,058,507
+
+2,751,961
+
+2,024,736
+
+3,651,913
+
+3,514,206
+
+1,785,281
+
+4,091,223
+
+Percent of Increase/(Decrease)
+
+10.8%
+
+8.5%
+
+4.5%
+
+8.5%
+
+9.9%
+
+8.2%
+
+8.1%
+
+5.6%
+
+10.4%
+
+10.4%
+
+5.2%
+
+10.2%
+
+Percent of Increase Year to Date
+
+10.8%
+
+9.7%
+
+7.8%
+
+8.0%
+
+8.4%
+
+8.3%
+
+8.3%
+
+7.9%
+
+8.2%
+
+8.4%
+
+8.1%
+
+8.3%
+
+January
+2013
+
+February
+2013
+
+March
+2013
+
+April
+2013
+
+May
+2013
+
+June
+2013
+
+Sales Tax Collections
+Use Tax Collections
+Vendor Allowance
+Less Cost of Collections Fee
+Plus Interest Earned
+
+$ 30,967,664
+3,092,679
+378,831
+(41,009)
+17,402
+
+$ 30,054,786
+3,036,477
+334,280
+(41,009)
+12,199
+
+$ 33,753,289
+3,515,962
+414,522
+(41,009)
+15,198
+
+$ 33,017,575
+3,116,175
+401,892
+(41,009)
+13,168
+
+$ 36,581,877
+3,139,815
+441,798
+(41,817)
+14,375
+
+$ 37,725,868
+3,701,092
+460,764
+(41,817)
+16,943
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+$ 202,101,060
+19,602,199
+2,432,087
+(247,670)
+89,285
+
+Net Sales & Use Tax Received
+
+$ 34,415,567
+
+$ 33,396,732
+
+$ 37,657,962
+
+$ 36,507,802
+
+$ 40,136,048
+
+$ 41,862,850
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+$ 223,976,961
+
+Favorable/(Unfavorable) to Prior Year
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+$
+
+Actual
+
+934,687
+
+520,981
+
+549,583
+
+(301,507)
+
+2,385,849
+
+July
+2013
+
+1,728,634
+
+August
+2013
+
+September
+2013
+
+October
+2013
+
+November
+2013
+
+December
+2013
+
+Total Year
+To Date
+
+Percent of Increase/(Decrease)
+
+2.8%
+
+1.6%
+
+1.5%
+
+-0.8%
+
+6.3%
+
+4.3%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+Percent of Increase Year to Date
+
+2.8%
+
+2.2%
+
+1.9%
+
+1.2%
+
+2.3%
+
+2.7%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+Actual
+
+5,818,227
+
+Forecast
+
+January
+2013
+
+February
+2013
+
+March
+2013
+
+April
+2013
+
+May
+2013
+
+June
+2013
+
+July
+2013
+
+August
+2013
+
+September
+2013
+
+October
+2013
+
+November
+2013
+
+December
+2013
+
+Total Year
+To Date
+
+Sales Tax Collections
+Use Tax Collections
+Vendor Allowance
+Less Cost of Collections Fee
+Plus Interest Earned
+
+$ 30,967,664
+3,092,679
+378,831
+(41,009)
+17,402
+
+$ 30,054,786
+3,036,477
+334,280
+(41,009)
+12,199
+
+$ 33,753,289
+3,515,962
+414,522
+(41,009)
+15,198
+
+$ 33,017,575
+3,116,175
+401,892
+(41,009)
+13,168
+
+$ 36,581,877
+3,139,815
+441,798
+(41,817)
+14,375
+
+$ 37,725,868
+3,701,092
+460,764
+(41,817)
+16,943
+
+$ 35,095,228
+3,041,793
+423,922
+(41,817)
+19,269
+
+$ 35,963,425
+3,609,529
+439,623
+(41,817)
+19,983
+
+$ 36,668,464
+3,499,801
+444,857
+(41,817)
+20,221
+
+$ 35,392,656
+3,327,113
+431,520
+(41,817)
+19,615
+
+$ 34,048,038
+3,308,413
+415,236
+(41,817)
+18,874
+
+$ 41,149,117
+4,797,889
+510,225
+(41,817)
+23,192
+
+$ 420,417,988
+41,186,737
+5,097,470
+(498,572)
+210,439
+
+Net Sales & Use Tax Received
+
+$ 34,415,567
+
+$ 33,396,732
+
+$ 37,657,962
+
+$ 36,507,802
+
+$ 40,136,048
+
+$ 41,862,850
+
+$ 38,538,395
+
+$ 39,990,743
+
+$ 40,591,526
+
+$ 39,129,087
+
+$ 37,748,744
+
+$ 46,438,606
+
+$ 466,414,062
+
+Favorable/(Unfavorable) to Prior Year
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$ 16,626,962
+
+Actual Plus CU-Leeds Forecast
+
+934,687
+
+520,981
+
+549,583
+
+(301,507)
+
+2,385,849
+
+1,728,634
+
+1,612,135
+
+1,675,234
+
+1,772,435
+
+1,798,860
+
+1,753,873
+
+2,196,197
+
+Percent of Increase/(Decrease)
+
+2.8%
+
+1.6%
+
+1.5%
+
+-0.8%
+
+6.3%
+
+4.3%
+
+4.4%
+
+4.4%
+
+4.6%
+
+4.8%
+
+4.9%
+
+5.0%
+
+Percent of Increase Year to Date
+
+2.8%
+
+2.2%
+
+1.9%
+
+1.2%
+
+2.3%
+
+2.7%
+
+2.9%
+
+3.1%
+
+3.3%
+
+3.4%
+
+3.6%
+
+3.7%
+
+January 2013 includes $1,852,714 for taxes that were due in January and will be paid in February due to a vendor filing incorrect tax forms from August-December 2012
+
+Packet Pg. 25
+
+Attachment: 063013 RTD MFS (1660 : June 2013 Monthly Financial Status Report)
+
+REGIONAL TRANSPORTATION DISTRICT
+SYSTEM 1% SALES & USE TAX INCLUDING VENDOR ALLOWANCE
+FISCAL YEARS 2012 AND 2013
+
+

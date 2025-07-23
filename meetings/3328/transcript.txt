@@ -1,0 +1,1403 @@
+2022-05-10
+Finance and Planning Committee
+ERIK DAVIDSON: Broom when he arrives. Good evening, everyone. The Finance and Planning Committee
+will now come to order. We are convened as of 5:32 PM Mountain Standard Time. I would respectfully ask
+that everyone attending this meeting to please mute yourself unless you are recognized to speak. Thank
+you for joining us this evening.
+Please note that under our current circumstances, as has been the case, the official meetings of the RTD
+Board of Directors are being held remotely in the interest of public health, safety, and welfare. For the
+immediate future, our official meetings of the Board of Directors will be held via Zoom and will be audio and
+video recorded. Please visit rtd-denver.com to access meeting recordings and unofficial meeting minutes.
+Directors and members of staff, for the sake of the record, if you would like to be acknowledged during
+tonight's proceedings, please raise your virtual hand and please wait to be called on before proceeding to
+speak. Directors and staff participating by phone, as always, you can raise your virtual hands to indicate
+you'd like to speak by pressing star 9 and toggle your mute settings with star 6.
+With that, I'll go ahead and call the roll of the committee starting with Director Broom. Don't yet have Director
+Broom here. Director Catlin.
+PEGGY CATLIN: Here.
+ERIK DAVIDSON: Director Cook.
+SHELLEY COOK: Here.
+ERIK DAVIDSON: Director Dishell.
+BOBBY DISHELL: Here.
+ERIK DAVIDSON: Director Guissinger.
+LYNN GUISSINGER: Here.
+ERIK DAVIDSON: And Director Whitmore.
+TROY WHITMORE: Present.
+ERIK DAVIDSON: Thank you. And I see that Director Broom has joined us as well.
+BOB BROOM: Present.
+ERIK DAVIDSON: Thank you, Director Broom. Welcome. So we have all committee members here. For
+the sake of the record, I would like to note that also joining us this evening are Director Sloan, Director
+
+Williams, Director Rivera-Malpiede, Chair Buzek, and Director Lewis. For the sake of the record, Miss
+McManus, have I missed any directors that are present?
+BARBARA MCMANUS: None that I see. Thank you.
+ERIK DAVIDSON: Thank you very much. With that, we'll go ahead and proceed to our public comment
+period this evening. As always, we'll open up the public comment to anyone who would like to address this
+committee regarding any topic that was listed in the published meeting agenda for the current and for the
+immediately preceding month.
+If you wish to speak and have not done so, you can raise your virtual hand on the phone by pressing star
+9. Staff will unmute you when it is your turn to speak. If you're dialed in, you may press star 6 to toggle your
+mute settings. Please bear in mind that if you do participate in this process, you are being recorded. If you
+do not wish to be recorded, then please submit your comments in writing. If any speaker has any
+documentation or reference materials to supply to the committee or any member of the public would like to
+submit written comments, please do so by emailing those materials to the Board Office at
+rtd.boardoffice@rtd-denver.com.
+During public comment, the committee will not offer comments or responses. Directors or staff may contact
+speakers following their comments if they raise matters that lend themselves to follow up. Speakers should
+begin their remarks by stating their names and each speaker will have three minutes to speak. With that,
+I'm going to go ahead and ask Miss McManus. I don't see any speakers in the queue, but am I missing
+anybody that might be in the queue or on the phone?
+BARBARA MCMANUS: No, I don't see anybody with their hand up.
+ERIK DAVIDSON: OK. Thank you very much. I appreciate it. With that, Barbara, are there any emailed
+comments for tonight's evening?
+BARBARA MCMANUS: We received one email, which will be responded to after the meeting and will
+become part of the packet for the record. And that came from Bob Denninger, Interim President ATU Local
+1772. Thank you.
+ERIK DAVIDSON: Thank you for summarizing that, Miss McManus, and for adding that into the record, and
+thank you for the public comment. Were there any other comments, Miss McManus?
+BARBARA MCMANUS: No.
+ERIK DAVIDSON: Great. Thank you. With no other comments that were submitted in writing or no other
+participants in the queue, we'll go ahead and close the public comment period at this time. This evening we
+have no information from external entities. So we are going to move forward.
+You'll notice a little bit of a difference in the agenda tonight. We're actually going to move to a discussion
+item. Our agenda was formatted slightly different this evening. We have two discussion items on our
+agenda, but one will be presented before our recommended actions. The other will be presented after in its
+
+usual place. For this discussion item, the committee will be updated on the account based ticketing
+implementation plan, which will be important for us to consider and hear the update on prior to our
+recommended action this evening concerning the My Ride stored value discount and the Title VI fare equity
+analysis that we'll be discussing in a moment. So with that, I will ask Mr. Doug MacLeod, Chief Financial
+Officer, and Ms. Tonya Anderson, Senior Product Manager, to present any pertinent information on this
+discussion item.
+DOUG MACLEOD: Thank you, Mr. Chair, and good evening. As you mentioned, Tonya Anderson's joining
+me. We have a short presentation. I'll be calling up that file shortly and Tonya will be working through those
+slides, walking us through those slides. The account based ticketing program, that is a new system that
+we've discussed with the Board previously and we wanted to give an update on the progress of that project
+tonight. So I'll go ahead and share my screen here. OK, Tonya, please go ahead when you're ready.
+TONYA ANDERSON: All right, fantastic, Thank you. Good evening I'm Tonya Anderson. I'm the Manager
+of Electronic Fair Operations. And tonight, as Doug mentioned, I'll be providing an update on the account
+based ticketing project. Account based ticketing is a fare collection modernization project where we are
+replacing our current conduit card based system with the Masabi account based system. Next slide.
+Today's presentation will provide an overview of account based ticketing, describe the project's key
+components, outline the communication plan and next steps. Next slide.
+ABT is a fare collection system that enables our customers to pay for their transit fare by tapping or scanning
+a smart card or a mobile barcode onto a validator. This new system is account based, meaning that instead
+of the card itself holding the cash balance, as our system does today, the customer has an online account.
+And customers will tap that transit card on new validators and the fare will be deducted from that customer's
+account, not their card.
+The ABT system will enhance customer experience by providing balance updates in near real time as
+opposed to a day or two, as it takes with our current system. Customers will have the option to use a mobile
+phone or a mobile device in addition to a smart card. And excitedly, we will be able to implement fare
+capping, ensuring that customers always get the best fare. The system will also simplify operations and
+maintenance by significantly reducing a lot of manual processes that we have today with our current system.
+And the new ABT system will also reduce risk by improving security around payment processing. Next slide.
+Our fare modernization journey began in 2016 with a fare collection visioning exercise. Then stakeholders
+came together to develop the next generation fare collection systems strategy and roadmap. And one of
+the vision exercise outcomes was to offer our customers a mobile app as a convenient way to purchase
+passes while we work on implementing and planning the new account based fare collection system. We
+are currently in the enablement phase where we are adding features to the RTD mobile tickets app and
+replacing validators.
+We will soon replace the existing retail network as well with a more elegant solution. Our current retail
+network has a pretty onerous process for our customers and retail partners. In the new retail network,
+customers will be able to purchase our transit cards from gift card racks and check out from any checkout
+
+line, making it easier for everyone. Looking beyond to 2023, we're considering integrating account based
+ticketing with our ticket vending machines as well. Next slide.
+The ABT project aligns with our strategic plan around customer value and customer excellence by offering
+a secure, flexible, and equitable fare purchasing options. It also aligns with employee ownership and
+financial success by continuing with a cloud based, mobile first, but not mobile only approach to fare
+collection, reducing capital and operating costs while maintaining pace with newer modern technologies.
+Next slide.
+The ABT project has four key program elements. First, an upgrade to the RTD mobile tickets app with a
+mobile barcode or QR code. This QR code will enable tap and ride and fare capping. Next, replacing all of
+our bus and rail platform validators with new validators that will accept these new tokens, the new QR code,
+and other tokens such as student IDs.
+Another critical program element is the new MyRide card. So this new card will keep the MyRide name, but
+it has been redesigned. It's intended to replace all of our existing MyRide suite of cards with a single design
+that allows for a more unified RTD branded card that doesn't differentiate our customer groups by programs
+or discounts. And this unified design does a really good job of aligning with a key system feature which
+allows our customers to seamlessly move between programs and discounts. So for instance, a college
+student, for instance, that's using a college pass card can move to participating in an EcoPass program
+while still using that same card.
+Finally, we are purchasing new fare inspection devices, replacing our current iPhones, which are very
+difficult to maintain and procure, and replacing them with a newer Android device along with upgrading the
+inspection app that will be able to read our new cards and the mobile QR code. Next slide.
+With many customer facing changes associated with the new ABT system, our communication plan will be
+robust, early, and often. We will target and speak to all RTD customers through a variety of channels and
+tactics to reach every audience. We will be employing a mix of both general and specialized messaging to
+ensure that all customers are aware of the details of the ABT launch and understand how that ABT launch
+affects them. And we'll be educating our customers and our staff on the benefits of ABT through the use of
+in system assets and signage, digital and social media, community outreach, partnering with our TMOs and
+TMAs, and utilizing internal RTD communication channels. Next slide.
+In addition to the changes I just recently mentioned in this presentation, the ABT system will also change
+the MyRide program by eliminating the MyRide discount, which Carl will be speaking to later tonight. We
+target validator installations to begin in late July of this year and optimistically believe that the installations
+will take anywhere from 9 to 12 weeks. As the project progresses and when it makes sense, we plan to
+provide regular updates to the Board. That concludes my presentation and I'm happy to take your questions.
+Thank you.
+ERIK DAVIDSON: Anderson, that was great. I'll open up the floor to any questions from Directors. I see-thank you for participating this evening. I'll call on committee members as well as non-committee members.
+Director Williams.
+
+KATE WILLIAMS: Wow. That's all I have to say. Fantastic. This is great. I'm excited.
+ERIK DAVIDSON: That was easy. Good comment. Director Cook?
+SHELLEY COOK: Yeah, thank you. Just verifying one thing or actually two things. The fare capping means
+that if somebody uses a card or I guess they'd load the card and then activate an amount that equals a
+monthly pass, then they would no longer have to-- I mean, that would be the extent of it, right? Am I
+understanding that correctly, Tonya?
+TONYA ANDERSON: Not quite. So fare capping is a feature that allows our customers to ride and earn
+their way towards a monthly pass. So we're moving away from the requirement for people to load the $200
+or all of that money onto their cards to ride. So the system automatically keeps track of the customer's ride
+and automatically upgrades them to a day pass. And then as that customer continues to ride, they to some
+extent get credit for all of their past rides and then they'll eventually earn their way to a monthly pass. When
+they've reached that cap, all of their rides are free beyond that.
+SHELLEY COOK: Yeah, that's what I meant. You just said it so much better.
+TONYA ANDERSON: OK, sorry.
+SHELLEY COOK: I really think that's helpful for folks in a cash flow way in some circumstances. So it's
+really great to see that. Second thing is so do we have all those validators? There must be hundreds and
+hundreds that we're going to have to install. Are they already in stock? Have we got them in a warehouse
+someplace? Or how sure are that we're going to start in July? And the corollary on that is are you going to
+install them in place of the existing validator? And what happens in that 9 to 12 week period when-- are
+they no longer going to be able to use any MyRide card until you get the new ones? I mean, how do you
+handle the conversion is the question.
+TONYA ANDERSON: Sure. Absolutely. So yes, we do have the bus validators in stock. We have received
+them. We are still working on receiving and finalizing on the platform validators. But the installation period
+for the platform validators is a little shorter. And so there is a little bit more time to finalize receiving those
+platform validators.
+To your second question about how sure are we about the end of July start date, that is an optimistic date.
+So it has all the hope in mind. But we believe that we will be installing at least this summer.
+SHELLEY COOK: OK. And will you continue to accept the MyRide cards we have validated on the old
+validators until all the new ones are-- how does that conversion period happen?
+TONYA ANDERSON: Sure. So for the transition period, we are able to accept all the eco, college, and
+Neco cards. The past program cards, we were able to do that with some development work with our partner
+Masabi. Unfortunately for MyRide program, because of the way that the technology works and the balances
+on the card, it was not feasible for us to in a timely manner and a fiscally responsible manner to be able to
+accept the MyRide cards. And so there is a transition period, a transition plan that we're finalizing which will
+
+provide our customers with the balance that's on their current MyRide card, transition that to the new
+MyRide account. But that's kind of high level what we're working on.
+We're still finalizing that plan and making sure that we can deliver the best experience that we can for our
+customers. There will be some disruption. There really is no way around that, because we're going from a
+very antiquated card based system to an account based system. But we're doing our best to make it as
+pleasing of an experience as we can for our customers. And without hopefully not segueing too much, the
+potential August free fare will most definitely spare the-- will definitely help our program.
+SHELLEY COOK: OK. Thanks so much. Thanks for what you're doing on this.
+ERIK DAVIDSON: Thank you, Director Cook. Thank you, Miss Anderson. Director Rivera-Malpiede.
+ANGIE RIVERA-MALPIEDE: Thank you, Mr. Chair. Tonya, could you again tell me about distribution of the
+cards? You said something like they'll be able to go and get gift cards. And in my mind, I'm thinking of when
+you go to the grocery store, you can pick up any card. So it doesn't matter what it is. So there would be an
+RTD card people could pick up at 7-Eleven or a grocery store. So it would be available to anyone in any
+community, correct?
+TONYA ANDERSON: Yes. That is the plan for a retail network, to take them out of the customer service
+desks so our customers don't have to stand in those lines. The customer service agents don't have to keep
+track of cards. It will be on gift card racks that you see at retail stores like 7-Eleven, as you mentioned, King
+Super, Safeway, right along there with Starbucks and Subway will be our cards. And so customers will be
+able to grab a card out of the gift card rack and then just check out and then ride.
+ANGIE RIVERA-MALPIEDE: That is absolutely fabulous, because that is such an inclusive process for any
+community member to access. Thank you. Thank you, Mr. Chair.
+ERIK DAVIDSON: Yes. Thank you very much. Seeing no other hands, I actually just had two questions I
+wanted to touch on. And thank you for the presentation. I think the first is for you, Tonya, which is would
+you mind just commenting on how this intersects-- how our current installation timeline intersects with
+operator training on this and where we are in terms of training our operators on the new system?
+TONYA ANDERSON: Correct. So we are still in the final stages of configuring and finalizing the system.
+So our plan is to do a robust training program with our operators. We want to try to time it so that we're not
+doing too much training too early, but we want to make sure that it's in time or just in time training. And
+we're working very closely with our operator training department.
+ERIK DAVIDSON: OK. Thank you. That makes sense. Yeah. And as you said, maybe August will actually
+give us some nice overlap and help here in that process with the disruption. The next question just I know
+we touched on this a little bit offline and perhaps this is more for you, Mr. MacLeod, or Miss Anderson,
+either of you could comment, but we have stored value on the MyRide cards. And given that I know some
+of those we had talked about are somewhat stale and haven't been used, would you mind just talking
+
+through the process of when we go to the new account based system how we will handle the remaining
+balance of the MyRide cards that may go unused?
+TONYA ANDERSON: Sure. So our hope is to transition all of the existing current users their balances from
+the old system to the new system. But as one of the other processes that it's not directly related to the
+project is the state of Colorado has an achievement program, the Colorado buyback payback program
+where customers or anyone in the state that has a gift card or a gift certificate that they haven't used,
+different companies they have to report those unused balances. You can't keep them. And so they're
+reported to the state. And then the state has a website that allows people to search to see if they have
+these unclaimed balances and then claim them.
+So we'll be working both programs to some extent simultaneously. And so there will be some customers
+that will fall either into that category of where they've contacted us and their balances will be transferred
+over. But if those balances are to some extent abandoned, we'll be reporting those to the states that the
+state can distribute those to those customers.
+ERIK DAVIDSON: OK, great. Do we effectively then transfer that balance to the state for those unclaimed
+fares?
+TONYA ANDERSON: Yes.
+ERIK DAVIDSON: Great. What's the timeline for that in terms of how long customers have to respond to
+us and react versus when we transfer the balance?
+TONYA ANDERSON: It's a five year period. So when an account has been dormant for five years, that is
+when we report to the state.
+ERIK DAVIDSON: OK. Thank you very much. Very much appreciated. Any other questions from other
+Directors? Wonderful. Well, thank you, Miss Anderson, Mr. MacLeod. Very much appreciated. And that will
+set us up for one of our recommended actions this evening. We're actually to move to recommended actions
+right now. But up first is going to be the 2022 Board travel expense reinstatement. This is for the Board of
+Directors to adopt a resolution concerning the reinstatement in the fiscal year of 2022 funding to be used
+for reimbursement for out of district travel related expenses in the amount of $3,000 for each Director other
+than the Board Chair and $3,750 for the Board Chair. Do we have a motion?
+LYNN GUISSINGER: So moved.
+ERIK DAVIDSON: Do I have a second? I have Director Guissinger is the mover and Director Cook as the
+second. I would now ask Chair Buzek to provide any pertinent information regarding this action item.
+VINCE BUZEK: Thank you, Mr. Chair. And we've talked about this in the past. And as you all are aware,
+the district travel and training expense has been suspended for the last two years as a result of the
+pandemic and the fact that there were no seminars or training to which we could travel. So that is now
+changing and there are seminars and other things that are opening up.
+
+I know there's an APTA seminar coming up or the Railvolution Seminar coming up down the road. So this
+action item is designed to reinstate the out of district travel and training expense budget for the second half
+of this year and hence the reduced sums, because it's only for a six month period. If anybody has any
+questions, I'm happy to take those.
+ERIK DAVIDSON: Great. Thank you, Chair Buzek. Any questions from Directors? All right, seeing no
+questions, we will move into the vote. I will ask it this way. Are there any no votes on this action? Being
+none and with seven committee members present, the motion passes with seven aye votes and 0 no votes
+and 0 abstentions.
+VINCE BUZEK: Thank you.
+ERIK DAVIDSON: Thank you very much, Chair Buzek. We're going to move to our second recommended
+action this evening. This is the MyRide stored value discount Title VI fair equity analysis. This is for the
+Board of Directors to adopt the Title VI fair equity analysis report for the MyRide smart card stored value
+discount elimination. This ensures compliance with federal laws, regulations, and guidelines related to Title
+VI of the Civil Rights Act of 1964. Do I have a motion?
+LYNN GUISSINGER: So moved.
+BOBBY DISHELL: 3
+ERIK DAVIDSON: Director Guissinger was the mover. I believe Director Whitmore was the second. With
+that, I'm now going to ask Mr. Carl Green Jr. Transit Equity Manager to present any pertinent information
+on this recommended action. The floor is yours.
+CARL GREEN JR: Thank you, Chair Davidson. I'll go ahead and share my screen and pull up the slide
+deck. That showing on the screen, Director?
+ERIK DAVIDSON: Yes it is. Thank you. Perfect.
+DEBRA JOHNSON: Mr. Green, it's not in presentation mode, though, just for your information.
+CARL GREEN JR: I appreciate that. All right. Thank you so much for the introduction, Director or Chair
+Davidson. And good evening, fellow RTD Board of Directors. Again, my name is Carl Green Jr. I am the
+Transit Equity Manager under or within the Civil Rights Division. Tonight I'll be presenting on the MyRide
+smart card stored value discount Title VI fare equity analysis.
+As noted in the Board report, the FTA Title VI Circular or the Federal Transit Administration Title VI Circular
+directs transit agencies of the requirement to perform a fare equity analysis in the event that there is any
+fare change to ensure that the changes do not unfairly impact people of color and low income populations.
+This analysis must be brought forward to the Board for their awareness, consideration, and ultimate
+approval.
+
+Specifically the elimination or the proposed fare changes are the elimination of the full cash fare and the
+discount MyRide stored value over the applicable three hour pass fare, which are the proposed fare
+changes. The discount specifically applies to seniors 65 and above, individuals with disabilities, as well as
+Medicare recipients. Please note that the youth and Live program customers receive no discount when
+utilizing the MyRide stored value.
+As Chair Davidson mentioned, this is in relation to Title VI or comports with Title VI of the Civil Rights Act
+of 1964. And specifically as it relates to the FTA and our Board adopted RTD Title VI program, we need to
+ensure that we are not only meeting compliance, but we're meeting the spirit of equity.
+All right. This slide provides an overview of RTD's equity analysis decision making process. The analysis
+includes the determination of whether there is a fare change. So this could be an increase or decrease in
+fare and an introduction to a new fare media type or even the discontinuation or the elimination of a fare
+product. If the answer to that question is yes, if it constitutes a major or a fare change rather, then we need
+to evaluate the possible impact specifically for people of color and low income populations. And during this
+process if there are possible impacts that would result in an adverse effect on Title VI or equity populations,
+then RTD would move forward with either avoiding, minimizing, or mitigating the proposed change to ensure
+that we are lessening or removing that impact.
+All right. Moving on. This slide, to measure the potential impacts on equity populations, RTD utilizes the
+disparate impact and disproportionate burden policies defined here as the difference in the adverse effects
+absorbed by minority and/or low income persons as a result of any fare change or the average of multiple
+fare changes shall not be greater than or less than 5% or impacts absorbed by the overall ridership.
+This slide here, just to make note and emphasize, this is for educational purposes. And this is an example
+to set the tone of what to expect of how we carried out this equity analysis. And what this slide presents is
+an evaluation of the possible impacts as it relates to Title VI population. So within this chart, if you look at
+the left, there is an existence of a disparate impact resulting from the proposed fare change to remove 10
+ride ticket book for customers for minorities, because they will absorb greater than 5% of the effects
+compared to the overall population.
+And as you make note that the 7% is called out to make note that it exceeds that 5% threshold. And if this
+were the case, again, this is for educational purposes. But if this was the result of an analysis, then RTD
+again would move forward with either avoiding, minimizing, or mitigating that said adverse effect. On the
+other hand, if you look to the right of the chart, there is no disproportionate burden since the effects are less
+than that 5% threshold here. So again, just to put that up there, here again the results here are not reflective
+of the current equity analysis for the MyRide stored value but is just here for illustrative purposes.
+All right. Now that we have a baseline understanding of how the Title VI policies are utilized in the analysis,
+I will now speak to the methodology and data sources as explained on pages 28 through 30 of the Board
+packet. So as the first bullet point reads, the average fare analysis was applied and what we're looking at
+here is it evaluates the potential impacts by comparing the average fare for minority and non-minority
+customers to all customers as well as the average fare independently for low income and higher income
+
+customers to all customers. This comparison is completed by calculating the absolute change and the
+percent change from the existing fare to the proposed change across the customer demographics,
+specifically looking at minority compared to overall ridership and low income compared to overall ridership.
+So now I'll move into the data sources. So we utilized calendar year 2019 ridership and revenue data, which
+allowed us to form the basis of the analysis. And then we also utilized the 2019 RTD customer satisfaction
+survey, which I'll refer to here as 2019 CSS for ease of explanation. But it was used directly-- this data was
+utilized because it directly comports with the FTA data requirements for conducting a fare equity analysis,
+essentially ensuring that we have-- there's specific questions that are asked that comport with the FTA
+requirements such as customer fair payment options, travel patterns, as well as being able to compare that
+across or utilizing cross tabs against Title VI populations and non Title VI populations.
+And then in addition to that, I'd also like to mention that the 2019 CSS allows for weighting survey responses
+with like data with the 2019 ridership and revenue data. So essentially keeping the data apple to apples as
+we're doing this analysis to ensure that we are keeping it similar.
+I would also like to emphasize or make note that the 2019 customer intercept surveys differs from the 2021
+customer experience survey that was completed in the fall of last year. And specifically that survey was
+designed as a net promoter score. So how likely a customer or, yes, a customer would recommend to their
+colleagues, to their friends, and their family members on utilizing RTD services. Whereas the 2019, as
+again, this differs from the 2019 customer satisfaction survey, because it allows for the analysis to take
+place and to determine whether minority and/or low income population would receive a greater impact
+compared to the overall ridership with respect to our thresholds of our disparate impact and disproportionate
+burden policies.
+All right. I will now briefly cover down on the average fare analysis results, which can be referred again here
+to y'all on pages 31 through 33 on the Board report, where as the first bullet point the notes, the fare change
+would not represent a negative impact for minority customers. Specifically the difference utilizing our
+threshold is the difference between minority and overall ridership is less than 5%. Specifically it's negative
+0.05%. And similarly too for low income customers, it would not represent a disproportionate burden given
+that the overall difference is less than 5%. And specifically as it's called out in red text, for both minority and
+low income it's 0.07%.
+So the conclusions as stated are the proposed fare changes are expected to have a lesser impact on Title
+VI customers and there's no Title VI equity concerns under our Board adopted and agency Title VI policies.
+Therefore, no mitigations are required. However, I would like to make note that staff across the agency was
+very proactive in their overall approach to smooth the transition and to ensure our customers are privy and
+well abreast to the changes that are taking place. So we have already implemented change or mitigation
+measures as well as we have planned measures in the bank, so to speak, to ensure that the overall
+customer experience will be streamlined and communicated that we are moving forward with this transition
+to eliminate these fare products once the Board approves the equity analysis.
+
+So with that being said, the recommendation, as noted in the Board report, is by virtue of the fare equity
+analysis and doing our due diligence and making certain that we have equity on top of mind is that the
+recommendation is to eliminate the MyRide store value discount following the Title VI fare equity analysis
+being presented to the Board, which you have all received today. I'll now open up the floor if there is any
+questions.
+ERIK DAVIDSON: Thank you very much, Mr. Green. And thank you for the extensive report that was
+provided as well, especially some of the details on the data and those mitigation measures as well. I'll call
+on Directors. Director Dishell.
+BOBBY DISHELL: Thank you, Mr. Green [INAUDIBLE] report. My only question, and I apologize if I have
+asked you this before, but the five percentage points while not applicable here, is that five percentage point
+difference between the overall population and minority or low income population or is it a difference of 5%?
+CARL GREEN JR: Five percentage points. Great question, Director Dishell.
+BOBBY DISHELL: Thank you.
+ERIK DAVIDSON: Thank you, Director Dishell. Other questions? All right. Seeing none, well, thank you, Mr
+Green. It's very helpful. Again, I think as we consider this, it was helpful for me to understand that this is
+1.5% of our total revenue that the usage of discount was declining. And also I think encouraging as we
+move to the ABT is that I think it was the largest number of surveyed folks responded that they would move
+towards a monthly pass, which as we learned with the fare capping I think we have a good plan for moving
+folks in that direction. So thank you for the report.
+With no further questions or discussion, I'll go ahead and call for the vote. Are there any no votes on this
+recommended action? All right. Seeing none, the recommended action, the motion passes with seven aye
+votes, 0 no votes, and 0 abstentions. Thank you very much.
+And the final item this evening for recommended actions is the Colorado 119 Bus Rapid Transit or BRT
+implementation. This is for the RTD Board of Directors to authorize General Manager CEO Debra Johnson
+or her designee to enter into all required contracts, IGAs, or inter-governmental agreements, and associated
+amendments to design, construct, operate, and maintain the RTD transit improvements along Colorado
+119 Bus Rapid Transit project within the Board approved budgets. Do we have a motion?
+LYNN GUISSINGER: So moved.
+ERIK DAVIDSON: I have Director Guissinger as the mover. And I'm sorry, the second was?
+BOBBY DISHELL: Dishell.
+ERIK DAVIDSON: Director Dishell. Thank you very much. I would like to ask Henry Stopplecamp, Assistant
+General Manager of Capital Programs, to please present any pertinent information on this recommended
+action.
+
+HENRY STOPPLECAMP: Thank you, Chair Davidson and Board members. I am Henry Stopplecamp,
+Assistant General Manager of Capital Programs. This topic should look familiar. We were before you last
+month with a update to the Board. And so before you tonight, as Chair Davidson read out, is the
+recommended action. Real quick, it's the BRT projects along the 119 corridor with BRT stops, stations, park
+and rides, and then enhanced stops in Boulder and Longmont with queue bypass lanes throughout the
+corridor.
+Current budget that's been approved as of so far is $5 million. We've identified $28 million, which is currently
+in the mid-term financial plan. The maximum value of the project at this point authorized by the Board or
+identified by the Board is $33 million. We are asking that you grant the General Manager or her designee
+to enter into the required contracts and IGAs to work with our partners along the corridor to help facilitate
+this project moving forward. The funds are, like I said, have been identified in the mid-term financial plan,
+but they do not become available for the project until they are approved by the Board in the appropriate
+year of budget. So with that, turn it over for questions. And thank you very much for your time.
+ERIK DAVIDSON: Thank you very much, Mr. Stopplecamp. Questions from Directors? Director Dishell.
+BOBBY DISHELL: I just have a clarifying amendment from before, which I apologize for not circulating
+earlier. But just upon reading the actual language of the recommended action. I'm happy to [INAUDIBLE]
+questions.
+ERIK DAVIDSON: Are there other-- sorry Director, Dishell. I kind of missed some of the audio there. Did
+you say that you had an amendment?
+BOBBY DISHELL: Yes, just a short clarifying amendment.
+ERIK DAVIDSON: OK. But you're opening the floor to some other discussion items or other discussions.
+So other questions from Directors? I just had one question just to clarify. So the immediate impact of this
+given our current approved budget is the $5 million that's in this year's approved budget, then the 33 that's
+allocated in the mid-term financial plan. Essentially we'll still be voting on these, the contracts, by way of
+approving the budget each year. 2023 and beyond. That's correct?
+HENRY STOPPLECAMP: That's correct. There's $5 million of the 33 that's already been approved by the
+Board. There is $28 million left identified in the mid-term financial plan going forward. We do not have the
+availability to pull that funds until the Board adopts next year's budget or the appropriate budgets that cover
+the continuation of the fund there.
+ERIK DAVIDSON: OK. Thank you very much. And I see that Director Guissinger, your hand is up.
+LYNN GUISSINGER: Just a quick follow up. Is that money identified in 2023, the rest of the money? Or is
+it spread out over other years at this point?
+
+HENRY STOPPLECAMP: I would look to Doug MacLeod. As of right now, it is in the '23 going to '24. But
+once again, when we do the budget this year and the mid-term financial plan going forward, moneys can
+slide back and forth that time. So Mr. MacLeod?
+DOUG MACLEOD: Thank you, Henry. Yes, that's true. And we will be bringing the mid-term financial plan
+for approval in the September Finance Committee meeting. So we'll work with Henry to get that in the right
+period. But yes, as he mentioned, it's currently the $20 million is spread over '23 and '24.
+LYNN GUISSINGER: Oh, it is both years?
+DOUG MACLEOD: Correct, yes.
+LYNN GUISSINGER: Thank you.
+ERIK DAVIDSON: Thank you, Director Guissinger. Thank you, Mr. MacLeod. Being no other hands are
+questions, Director Dishell, I'll open up the floor for your amendment.
+BOBBY DISHELL: Thank you. Am I coming through clearly? Yes?
+ERIK DAVIDSON: Yes.
+BOBBY DISHELL: Great. My amendment is just at the end of the sentence in the recommended action is
+to add the words for the CO 119 BRT project. Because without that language from a technical standpoint,
+the Board approved budget could be the entire budget. That is the logic.
+ERIK DAVIDSON: Thank you, Director Dishell. I think I understand. So this is to add for the Colorado 119
+Bus Rapid Transit or BRT project to the end of the recommended action.
+BOBBY DISHELL: Correct.
+ERIK DAVIDSON: All right. Do I have a motion for the amendment? I'm sorry, a second. Director
+Guissinger, you have a question on the amendment?
+LYNN GUISSINGER: Yes, I'm looking for it right now. Could you read the whole recommended action with
+the language please, Chair?
+ERIK DAVIDSON: Yes. Give me one moment, please. For some reason I'm not seeing the final language
+in this packet. Director Dishell, do you have the language in front of you that you might be able to read it
+with your amended addition?
+BOBBY DISHELL: Absolutely. For the RTD Board of Directors to authorize the General Manager, comma,
+or her designee to enter into all required contracts, comma, IGAs, and associated methods, comma, to
+design, comma, construct, comma, operate, comma, and maintain the RTD transit improvements along the
+CO 119 Bus Rapid Transit, paren, BRT, close paren, project within Board approved budgets for the CO
+119 BRT project, period.
+
+LYNN GUISSINGER: And the amendment is that last little language?
+BOBBY DISHELL: Yeah. The amendment is for the CO 119 BRT project.
+LYNN GUISSINGER: OK. Thank you.
+ERIK DAVIDSON: Do I have a second on the amendment? I believe I can second for the amendment. I
+understand the addition of the clarity. So I'll go ahead and second. General Counsel Snyder, am I able to
+do so?
+MELANIE SNYDER: Yes, Mr. Chair.
+ERIK DAVIDSON: Thank you very much. With that, I will call for the vote on the amendment. Or actually I
+see some further discussion. Director Cook?
+SHELLEY COOK: Yeah. I wanted to check with staff. I don't know if some ancillary improvements that are
+ordinarily included in the project, something associated with multimodal transport. I mean, are we
+inadvertently ruling something out by including the language in that very strict sense? So I wanted to get a
+read from the staff on that.
+ERIK DAVIDSON: Who from staff can comment?
+HENRY STOPPLECAMP: This is Henry Stopplecamp. Henry Stopplecamp, AGM of Capital Programs.
+That was the intent of this motion to start with. So it comes out of the approved budget. There may be
+auxiliary stuff on different projects that tie into this area, but the goal for staff was to get the approval of the
+General Manager or her designee to enter into contracts for this particular project. And currently we've got
+a cap to $33 million. So I do not believe a modification with this language changes the intent of the contract
+that the staff was putting forward.
+SHELLEY COOK: OK. Just wanted to double check. Thank you.
+ERIK DAVIDSON: Thank you for the clarifying question. Director Catlin?
+PEGGY CATLIN: Yes. I might be a little confused here. But do we not have a cap on the GM CEO
+authorization for contracts? And would not this-- isn't that on the order of $2 million? And would not this
+expand it to $5 million to simplify the process and not to have to come back to the Board for each additional
+piece of money up to the $5 million that has been budgeted? Am I misunderstanding that?
+ERIK DAVIDSON: I think that's a question on the main motion. But Miss Johnson, it looked like did you
+want to respond to that?
+DEBRA JOHNSON: Thank you very much, Director Davidson.
+PEGGY CATLIN: [INAUDIBLE] sorry.
+
+DEBRA JOHNSON: Do you have your answer? I'm sorry.
+PEGGY CATLIN: No, I timed my question appropriately. But we can park that-DEBRA JOHNSON: [INAUDIBLE] so we can adhere to parliamentary procedures.
+ERIK DAVIDSON: OK, let's go ahead. I'm going to call the vote on the amendment unless there's any other
+discussion on that, and then let's come back around for that question. Are there any no votes on the
+amendment? Great, seeing no no votes, we have seven ayes for the amendment, which passes. The
+language will now read as previously read into the record by Director Dishell. Director Catlin, you had asked
+a question on the main motion regarding whether or not this effectively extends the cap for the General
+Manager from the $2 million to the $5 million. I think General Manager Johnson, you had a comment on
+the matter. Please go ahead.
+DEBRA JOHNSON: Thank you very much, Chair Davidson, and thank you, Director Catlin, for the question.
+As a point of clarification, the delegation of authority for which the Board bestowed upon me, basically $2
+million in which I would not have to come to the Board of Directors. So this action here basically is enabling
+me with this policy body acting on this recommended action for me or my designee to go beyond the $2
+million, which would be $5 million in this case.
+PEGGY CATLIN: Thank you for that clarification. And I was aware of that. But what I'm comfortable with is
+because I just think that it simplifies matters for going forward in this project. And I hope we would do
+something similar in ensuing years. Thank you.
+ERIK DAVIDSON: Thank you, Director Catlin. And thank you, Miss Johnson, for commenting on this. Any
+further questions and/or discussion regarding the recommended action as amended? Great. So for
+returning to the main motion, I have Director Guissinger as the mover, Director Dishell as the second. Do I
+have any no votes on this recommended action? Seeing none, this recommended action will pass
+unanimously with seven aye, 0 nos and 0 abstentions.
+Thank you very much, everybody. That concludes our recommended actions this evening. We are going to
+return to discussion items. We do have a second discussion item this evening concerning the Reimagine
+RTD project. We'll be receiving an update. And I would like to ask Bill Van Meter, Assistant General
+Manager of Planning, to please present the item.
+WILLIAM VAN METER: Thank you, Chair Davidson. Good evening. As you just noted, this is Bill Van Meter,
+Assistant General Manager for Planning. Pleased to have the opportunity to have folks here in a virtual
+setting present this discussion item on Reimagine RTD. Specifically I have invited and we have invited Holly
+Buck, RTD's Consultant Project Manager to Reimagine RTD to provide this update on the SLP status and
+the plans for Board consideration, our long range financial picture, what to anticipate in the MP4F mobility
+plan for the future, some insights from the public and stakeholder outreach and the schedule from this point
+moving forward.
+
+So Holly is going to lead us through this presentation, and then we'll all be available for questions and
+answers including a key member of the RTD team. That's Doug Munro, RTD's Manager of Quarter Planning
+and Operation. So that was my attempt at an introduction. Now the tag to RTD's Consultant Project
+Manager and lead for the project, Holly Buck. Holly?
+HOLLY BUCK: Wonderful. Thanks, Bill. Is my screen showing up properly?
+WILLIAM VAN METER: It is.
+HOLLY BUCK: OK, great. Thank you so much. So we've identified-- we have not been with you and the
+Board for several months. So we have put this agenda together to start with a real high level overview
+reminding everyone what Reimagine RTD is. I think we've all been having conversations about it but not at
+that holistic level. So just a quick background and recollection of what the project is. Then we'll give you an
+update on the System Optimization Plan status and then a quick update on the fiscal and financial analysis.
+It's very brief today but more to come on that for sure. And then we'll spend a fair bit of time talking about
+the mobility plan for the future overview and then some next steps.
+So just at the real high level, the purpose of Reimagine RTD was to answer the question of what's next for
+RTD. And the two big top items that you see and the two first bullet points talk about looking again at RTD's
+fixed route bus service and making sure that those lines are optimized and the best they can be for your
+constituents. And providing an update also to RTD's existing rail system if there were some opportunities
+for that. We have done a lot of work on this. So we'll talk a little bit about that today.
+And then the remaining bullets really reflect what happens in the mobility plan for the future where we're
+talking about staffing related challenges and opportunities for improving that. Long term parking needs,
+determining the location and nature of the bus and maintenance facilities as you grow, looking at fleet
+electrification, a review of your boundaries, and how that is impacting the services that you're able to
+provide. And then looking at your financial planning process.
+So there are within all of those what's next for RTD, there's really three primary deliverables. And there's a
+whole bunch of subsets of deliverables within that as well. But there's three main categories. The first one
+is a System Optimization Plan. And that's what we've been talking about for the last couple of months.
+We've had a pretty big focus on that. And this is just really looking at your current services, trying to best
+meet your existing, your near term mobility needs within your workforce and financial constraints.
+The next big deliverable is the financial analysis. So this looks all the way. It looks at your long term costs
+and revenues and is trying to help inform what capacity you have to respond to growth in the region. So we
+know from DRCOG that you could see something like a 30% growth in the Denver metropolitan area
+population. Their estimates also indicate that we could have twice that much in growth by way of demand
+for RTD services. So we need to understand your financial capacity to understand how you might respond
+to that.
+And then the third deliverable that we have identified here is the mobility plan for the future. And this really
+identifies programs and policies that help set the stage for what RTD's role is in future mobility. So we're
+
+looking at it 2050. What does RTD look like in 2050 and what steps do you need to take to get yourself
+there?
+So starting with the System Optimization Plan, I think you've seen some of these before. So we'll go through
+them in a relatively quick fashion. But do ask questions if you have them. So why was the System
+Optimization Plan considered? Really here we're trying to increase ridership, make sure that you're
+performing efficiently, living within your budget, looking at those changing travel needs. And actually this
+we started this pre-pandemic, but we had an opportunity to look at our changing travel needs as well going
+into the pandemic. And so we've taken both pre and in pandemic travel needs and demands into account.
+Remaining competitive as a mobility service provider. And then improve your overall service quality.
+So we put together a draft System Optimization Plan. And I think you all have hopefully had an opportunity
+to review that and provide comments. These are some of the key metrics that are a result of implementing
+that Draft System Optimization Plan. Now, I don't have the final numbers for you here, but there are some
+edits that are being made to the System Optimization Plan as a result of feedback that we received from
+stakeholders and from the public.
+But this gives you an overview of what the System Optimization Plan does accomplish. And I think it has
+some really good categories here. We're increasing ridership. We're improving transit access. Over on the
+top right, we're improving service quality. And one that stands out to me is a 50% increase in access to 15
+minute or better service for social equity populations, which is something that I think really packs a punch
+when we're talking about delivering good service to your constituents. Optimizing your available resources
+and then improving reliability and competitiveness.
+So as part of the System Optimization Plan, we did a lot of outreach and tried to get as many people to look
+at it and comment and provide us feedback on the recommendations. We were able to receive or we
+received over 1,600 comments for consideration. Many of those, as you might imagine, comments were
+requesting additional service. They'd like more frequent service. They'd like service where potentially
+service isn't provided. But in some fashion, asking for more service or service that was beyond the current
+SOP resources.
+And then there were a fair number of comments that were not directly applicable to the System Optimization
+Plan, but we assembled those and provided them to RTD for their information moving forward. There are
+things that you would expect like safety at Union Station, for instance, comes up within the comments. And
+we know that that is something that RTD is actively working on. So we've provided a summary of those
+comments as well.
+So some of the changes that were made as a result of comments received are listed there on the right. We
+are still working on finalizing the System Optimization Plan, so we're not quite there. This list that was
+provided in your packet is already a little bit out of date as we continue to work through the process. There
+are three more routes that have been identified for some modifications based on input received. That was
+the 15L, the 24S, and 43. So we're still in action and we're hoping to have that back to you, present you the
+final SOP in June, and then ask for your approval in July.
+
+So at a very high level, the second deliverable is really around the fiscal and financial analysis. And a couple
+of things to just set the baseline for this. What we know when we started the project was that RTD was
+running more service than they were financially able to continue to do in 2019. So even pre-pandemic,
+there was service in excess of RTD's existing financial resources. So that was being addressed by deferring
+some of the state of good repair.
+So one of the things that's coming out of the Reimagine process is some recommendations around making
+sure that you have policies in place that you don't defer of state of good repair, because it ends up costing
+more later. And then operating services within your financial and workforce constraints.
+So long term, the projections right now, and I don't think that this is new news to people, but the initial
+projections if we don't have any additional funding over the sources that you have today that there's really
+limited or no capacity to grow bus or rail services to accommodate that extra demand that we're talking
+about when the population grows. There's also not a lot of financial capacity to make substantial capital
+investments in the region. And it will be challenging to complete any portion of fast tracks in the next years.
+We've had several conversations around that as we look to the Northwest Rail study that RTD is
+undertaking right now. So more to come as that information becomes available.
+So on the bottom here, what we flagged is I think this is not the best news. We would like to have more
+capacity, financial capacity, for the agency. But right now there's a pretty significant gap between what the
+public and stakeholders would like to see RTD accomplish and what RTD can actually afford to do.
+So what we're looking at, the next step for this, is we're going to provide you information about what kind
+of capacity and what RTD services might look like if you are not able to obtain more financial capacity. So
+that is scenario one and that's sort of the baseline. Scenario two we'll give you an indication of what RTD
+might be able to accomplish if you are able to acquire some new moderate levels of funding. So this might
+be things like debrucing, for instance. You get some additional funding through that.
+And then scenario three, what could RTD accomplish if you have some pretty substantial new influx of
+funding for the agency? So it's not an exercise of if we get to pick one through three, it's more of an
+informational exercise so that you all as the Board of Directors have enough information to make decisions
+to help guide the agency as you move forward.
+OK, so let's move into-- uh oh. Now I got overzealous, I think. The mobility plan for the future. So the mobility
+plan for the future is based on and built on that financial analysis that we just talked about. So we look at
+the current state of RTD. We look at future scenarios. And then we try and figure out how RTD will respond
+to those future scenarios and what makes the most sense to continue to be a real positive mobility provider
+in the region.
+So the goals of the mobility plan for the future, which is the third primary deliverable that we talked about,
+are to build on the System Optimization Plan. So from what we just talked about at the System Optimization
+Plan. Support equity populations and that financial sustainability. So we want to continue with those being
+very important sort of baseline policies for RTD, both in the System Optimization Plan and moving forward
+into that mobility plan for the future.
+
+Also looking to take some action to restore community trust, prepare for those evolving travel patterns. We
+know we have a lot of potential growth in ridership. And there's population growth anticipated in the Denver
+metropolitan area. The mobility plan for the future also looks to emerging technologies and making sure
+that you're prepared to integrate those into your services and then develop implementation strategies and
+look to identify performance measures so you know if you've achieved what you set out to do.
+So we've been working on the System Optimization Plan and the mobility plan for the future in tandem
+throughout this process. And the mobility plan for the future started right out of the gate when we went to
+our Technical Working Group and our Advisory Committee and we said, tell us what success looks like for
+RTD. So a lot of the recommendations that are coming together for the mobility plan for the future are based
+in what that success looks like and what steps you need to take to put in place to achieve that success.
+So back to the public engagement that is broader for all of Reimagine RTD as opposed to that first piece
+that we talked about that was very focused on System Optimization Plan. We've had over 181 meetings
+with 4,000 attendees. We've been meeting regularly other than a pause in the project sort of in the height
+of the pandemic with our Technical Working Group and our Advisory Committees. We've had several public
+meetings and focus groups. And we've had an opportunity to have some really productive outreach and
+input that has come in from the stakeholders in the public.
+So some of the key takeaways through that process. There is very strong support among all groups for
+serving social equity populations as a priority. Very important. We've heard that from the Board. We heard
+that from the committees. We heard that from the public input as well. The groups and the input we receive
+also favored RTD acting as a mobility integrator. So there was discussion about whether they were an
+integrator or not and then how far you went on the spectrum of integration. Are you the operator of scooter
+programs and bike share programs and car share programs or are you integrating all of those services?
+And people really landed on you, RTD, would be the ideal integrator but not the operator of all those
+services.
+The Technical Working Group and the Advisory Committee supported high frequency service with transport
+of land uses over a coverage based system. But when we came to you all as the Board of Directors, I'm
+not sure what the date was for that, but there was a little bit more leaning towards more of a coverage
+based system. There's general support for more service. Everybody wants more service. Strong support
+for reliable service. And then there was a lot of support for creating that regional transit backbone and
+working collaboratively with the local communities and partnerships to help operate and pay for those more
+localized services.
+So from all of that input and the analysis we did, we developed these statements. And I would say on this
+particular slide, it doesn't say draft, but these are draft. And I would love to hear your feedback on these
+and continue feedback. It doesn't have to just be tonight. Where we have identified these seven or so
+statements that we describe as if you were describing RTD to your spouse or your best friend what RTD
+looks like in 2050, what would you say about RTD? So these statements, and these come from the public
+input and the stakeholder input that we received. So these are an attempt to describe what RTD looks like
+
+in 2050. And then the intent of the mobility plan for the future is to identify those steps you need to take,
+policies, procedures, actions you need to take to get this to achieve this vision.
+So I'd love to hear from you all tonight about that. But I also wanted to flag that we do have a study session
+identified in June for more feedback on both that and strategies and policies you have put in place for the
+mobility plan for the future. We'll assemble a set of draft recommendations for you to provide us feedback
+on. And we'll be ready to have hopefully a real robust conversation about it in June.
+And then this just provides you some next steps on the schedule. So June 15th is that Board study session
+that I just referred to. July 26th we are hoping to bring this System Optimization Plan to the Board for its
+approval and adoption and then also receive the mobility plan for the future at that time as well.
+All right. So that's what we have for today. And I think Bill, are you going to help us through some questions?
+WILLIAM VAN METER: Indeed. Chair Davidson, this is again, this is-- thank you Holly. I should say thank
+you. And this is Bill Van Meter, Assistant General Manager for Planning again. We are certainly available
+for any questions the Board might have.
+I also have to add note and make a slight apology. The format of the presentation that Holly just made
+varied, and I recognize that from the information and the format that was contained in your packet. The
+content, the differences are substantially editorial. There are no real content differences between the two
+presentations. But I fear that may have caused a bit of confusion with some of the viewers and with the
+Board of Directors. So I wanted to note that right up front.
+HOLLY BUCK: Oh, I'm so sorry about that. Apologies.
+WILLIAM VAN METER: No problem. Thank you, Holly. No problem. We will provide this version to the
+Board of Directors so you have that as a reference following this meeting tomorrow. But again, the
+information in the two presentations from a substance standpoint is consistent. Chair Davidson, back to
+you.
+ERIK DAVIDSON: Thank you. Yes. Thank you, Mr. Van Meter. Thank you, Miss Buck, for a great
+presentation there. It's very helpful. And Mr. Van Meter, thanks for pointing out that the difference in just as
+we referenced the packet pages and slide numbers tonight. I'll go ahead and just call on some folks for
+questions and discussion. If you wouldn't mind just taking off the screen share and then we can see
+everybody on our Hollywood Squares here, that would be great. Thank you. I will call on Director Williams
+first.
+KATE WILLIAMS: Thank you, Chair. I'm sorry as not a formal member of the committee, I'm probably out
+of line. But I would just like everybody to think about what you would have said if somebody said 10 years
+ago to you that there would be scooters all over the sidewalks. So I have a really hard time doing planning
+for 2050, because I personally think we'll all be wearing solar powered jetpacks, and that is not included in
+any of this planning. So I just want us to be aware that there are things that are going to be available in
+mobility that we haven't even dreamed of yet. And as we are planning for who we think RTD is going to be,
+
+we need to really, really be wide open. And thank you, Holly, for all your work. You've heard this from me
+before. Goodbye.
+ERIK DAVIDSON: Thank you, Director Williams. Director Guissinger?
+LYNN GUISSINGER: Thank you. And thank you, Holly, for the great presentation and to all the team, our
+staff and your team for the good work. I'm wondering in the discussion of the SOP, one of the main goals
+was to increase ridership. Do we have a way to measure that given the pandemic and the fact that ridership
+is coming back anyhow? Is there a way to measure the effect of what we're doing?
+WILLIAM VAN METER: So this is Bill Van Meter. Holly or Brian Welch might be the folks best equipped to
+answer that question.
+HOLLY BUCK: Yeah, sure. Holly Buck, FHU. I love that question, and I think it's a great one for us to think
+about. I would suggest that there might be looking at what's happening in the rest of the country, which is
+pretty variable, and seeing what you're achieving. And let's set our goals to you outpacing what people in
+the rest of the country are doing would be one way for you to consider how well your SOP is actually
+achieving what you set out to achieve. Certainly you will see ridership come back as you point out because
+we're getting back to sort of normal. So that might be one way to do it. I don't know if Brian has any thoughts.
+BRIAN WELCH: Yeah, hi, this is Brian Welch, Senior Manager Planning Technical Services. That's a great
+question. And what we're going to do is look at some of the indicators that we have that we know are
+predictors and have been traditionally of our ridership. So we'll track office vacancies, for example, in the
+downtown and in the tech center. And if those are outpacing the rate at which our ridership increases, we'll
+know that the effect of the SOP has not overcome what has otherwise changed in travel behavior.
+We're watching vehicle miles traveled, which seem to be outpacing the rate at which our ridership is
+increasing. And that would tell us that as we add more service, if we don't keep up, then that's probably
+another indicator that the effect of the pandemic is still overshadowing our efforts to increase our service.
+And like Holly said, one of the things we do is we're watching some other 10 or so other agencies around
+the United States.
+And we're seeing the delta in their ridership comparing where they were before the pandemic if they've
+made changes, because there are some other agencies that we know about that have also done a system
+redesign. And so we'll see how well have they done after they did their system redesign and how well have
+we done. And I think that'll be, Director, another way that we can perhaps track that and make some
+assessments of that question. Thanks.
+LYNN GUISSINGER: Good. Thank you for those answers. Those are helpful. I'm really looking forward to
+seeing those financial scenarios. The first one I think is a sigh. But I appreciate you doing them. I think it's
+important for us to set out a vision and tell the region what it will take for us to get to their vision in terms of
+additional transit ridership. At one point it says the goal is ridership growth of 70%. I was trying to figure out
+how that fit with our three financial scenarios. Is that if we get all the money in the world or where does that
+come from?
+
+WILLIAM VAN METER: Holly?
+HOLLY BUCK: Yeah. Holly Buck, FHU. So that 70% is an interesting one. It is actually, just so we all have
+the same information here, it is an estimate that DRCOG made as part of their 2050 plan that was completed
+pre-pandemic. So it is associated with putting in some of your BRT lines that are in that DRCOG fiscally
+constrained plan as well as I think peak period Northwest Rail is in that plan.
+It's not as detailed as all what the buses each are. But it has a lot of ridership anticipated in it. So I think we
+need to be a little cautious about that. But I would say from the input we've received, there's a strong desire
+to get back to that and grow that. So that big item on the right, the scenario three of those financial ones,
+would be probably where you need to get to to actually achieve that kind of growth.
+LYNN GUISSINGER: And you'll be bringing us the financial, the details in June?
+HOLLY BUCK: Yes. Yes, we will.
+LYNN GUISSINGER: Thanks. It didn't mention greenhouse gas and air quality, but I think I saw it in the
+renewed scope of work. How does that play in?
+WILLIAM VAN METER: Holly, do you want to handle that one as well?
+HOLLY BUCK: Yes, happy to. So the greenhouse part of what that big-- I didn't call it out in the presentation,
+but part of that scenario three is around really hitting on how can RTD participate in some of those state
+initiatives and the goals for green and our regional initiatives for greenhouse gas reduction goals. And you
+can really start to pack a punch with how many boardings you're able to attract to your system when you
+get into that level. And that was part of what that scenario was trying to address is the bigger investment to
+help achieve some of those goals.
+LYNN GUISSINGER: Thank you. Mr. Chair, I've got two or three more questions, but I think what I'll do is,
+if you don't mind, let other people go and then see if my questions get answered. Thank you very much for
+the answers.
+ERIK DAVIDSON: Sure. Sure thing. Thank you, Director Guissinger. Director Dishell, please.
+BOBBY DISHELL: Thank you, Director Guissinger. Just to put a finer point on your question, [INAUDIBLE]
+beautifully, it would be really great to see when it comes back to the Board the greenhouse gas
+[INAUDIBLE]. The difference between plan one, plan two, and plan three. anecdotal conversation, that
+seems to be really critical to securing other funding.
+So not just how does RTD play a part in the [INAUDIBLE] but want to make sure we call it out explicitly,
+which is how much extra greenhouse gas are we getting? Or the difference between-- of course, there's a
+difference between removing a car from the road versus someone's just taking a trip they otherwise wouldn't
+have take taken or an additional trip they might not have taken.
+
+But seeing those numbers would be great. I think something that would also be great would be what I hope
+would be a decreased cost per ride. If we are optimizing and realizing efficiencies between current state
+plan one, plan two, and plan three, unless I'm missing something, our cost per ride should also be coming
+down. So it'd be great as we're talking with regional partners and things of that nature to be armed with that
+type of information so that we make that ask say look, yes, we need [INAUDIBLE]. But it's going to really
+bring down everyone's costs both in actual dollars but also from a greenhouse gas standpoint.
+WILLIAM VAN METER: Appreciate those thoughts and comments. This is Bill Van Meter, Assistant General
+Manager of Planning again. Director Dishell and those requests for information regarding greenhouse gas
+cost per ride. We'll take that under advisement. Do you have any initial information or additional information
+that you can share at this point regarding Director Dishell's queries, Holly?
+HOLLY BUCK: Yeah, I should come back to you on that. I want to make sure that we are well coordinated
+with the Denver Regional Council of Governments and they are the official modeler of greenhouse gases.
+So we can provide some high level looks. But before I make any promises, I want to make sure that we
+understand what they are able to provide in that broader detail that you have asked for.
+WILLIAM VAN METER: Appreciate it. Again, this is Bill Van Meter, AGM of Planning. Appreciate that note,
+Holly. Denver Regional Council of Governments in cooperation with the Regional Air Quality Council
+responsibilities for those sorts of projections. So we'll research it and we understand the interest and how
+important that is in terms of communicating the plan. Thank you.
+ERIK DAVIDSON: Thank you very much. Director Cook, please.
+SHELLEY COOK: Thank you. And thank you for the additional work that you're doing and also to our staff
+for accommodating those requests that we brought forward previously. I really wanted to start out with
+saying that. OK, so you characterized two approaches, coverage based versus looking at, say, social equity
+concerns and/or supportive land uses. But it's not a dichotomy, is it? I mean, it's really more a case of how
+much emphasis.
+When we had a chance to listen to Gerald Walker in 2019 I think it was, he talked about setting a percentage
+as a way to kind of figure where you want to be as an agency for your region. So first of all, I'm just saying
+I think you've simplified things in your PowerPoint maybe just for the purposes of being pithy. But where do
+you think we stand and how much have we shifted in one way or another direction? That's my first question.
+WILLIAM VAN METER: So Chair, this is Bill Van Meter, Assistant General Manager of Planning. And so
+exactly to Director Cook's point, it's not a dichotomy. It really is a continuum where you could go to one
+extreme or another. We've always recognized that we were not going to go to a coverage extreme at the
+cost of ridership and serving equity populations and that there were also pressures and other interests that
+precluded us from only allocating resources to a few select high performing routes, that we would end up
+somewhere in the middle in this continuum.
+And I think we've received good guidance and input in terms of ridership response through the pandemic
+in terms of information and guidance and input from you, the collective Board of Directors, from our key
+
+stakeholders, from our customers and customer base kind of informing that. And so just wanted to kind of
+set that context and understanding, that's how we came in and that's how we're thinking about it today.
+Before asking Holly if she has any additional insider information or response to Director Cook's question
+and my response.
+HOLLY BUCK: Yeah. That's great. So I would say that I could not agree with you more. It is absolutely not
+that simple, as you have a coverage based system or a high quality, high frequency based system. So I
+absolutely appreciate your comments.
+One thing that I would just put out as consideration when we think about the mobility plan for the future and
+how you might-- how your financial scenarios might impact you is that if funding, and this is no decisions
+made here. This is what we'll have to dialogue about in June. If no funding is identified, additional funding,
+as you move forward and have additional growth in the region, how do you decide to allocate some pretty
+limited resources?
+And one of the ways that you may do that is really focus on that regional backbone network that serves
+equity populations but maybe doesn't serve everybody as well as we would like it to. Or there may be other
+ways to do that. And you might need more partnerships certainly in place. So I throw that out to you. I think
+we need to have more conversation about it and talk about sort of the trade offs and how you invest in the
+system in a fiscally constrained time.
+WILLIAM VAN METER: And Chair and Director Cook, may I just ask Brian Welch if he has anything
+additional to add to that question before you continue?
+BRIAN WELCH: Yeah, thanks. Director Cook, part of the challenge that we have to present as a consultant
+team and staff to the Board of Directors in June is a vision for the district where you provide alternative
+solutions that achieve both coverage and ridership activities and goals and outcomes. So the district
+definitely needs to look differently than the way we do now and how we can provide mobility. Obviously
+we've got a district that includes the CBD of Denver and almost all the way to Rocky Mountain National
+Park. There isn't a single mobility solution that is optimal now, and it certainly won't be in 2050 or 2040.
+So what we're going to present to you is a future where you can envision maybe a 40 foot bus is not the
+right way to reach all of our customers. And maybe we really need to emphasize if we want to achieve
+service to everybody who needs it and wants it, there's got to be some different ways we can do it given
+worker, ridership, financial challenges, all of the things we face in a district that's so disparate in terms of
+the environments that we serve. So look forward to more articulation of how we can achieve all of the
+objectives from the Board of Directors, not just from what you see right now, but what we could envision
+more in the future. That's part of this whole notion of what's next.
+SHELLEY COOK: Two more if I may, Mr. Chair. The second thing. I may be repeating something that
+Director Dishell said. I couldn't hear everything he was talking about. But the greenhouse gas emissions. I
+believe that we got a memo from the General Manager that indicated that you would be modeling the
+impacts of these different scenarios. Is that in fact what you will be bringing forward in June? That's the first
+question about this.
+
+WILLIAM VAN METER: So Director Cook, was that regarding the scenarios for the System Optimization
+Plan in the near term or?
+SHELLEY COOK: Oh. Do we have a way of getting our arms around? If we're going to curtail our service
+to outlying areas, don't they by definition drive farther? And what does that do to greenhouse gas emissions
+relative to concentrating service more in the central business districts? So are we going to be able to know
+that?
+WILLIAM VAN METER: So again, this is AGM of Planning, Bill Van Meter. And so definitely our hearing
+and gathering and understanding the interest in greenhouse gas emissions, some of the limitations that we
+have, as Holly mentioned, are that the formal modeling is done by agencies other than RTD. And so we
+have some challenges around that. But definitely understand the interest in it. And so we're going to have
+to sharpen our pencils and come back with some good understanding and information for you, understand
+that. And thanks for the clarification regarding the level of interest for both the System Optimization Plan
+that is the nearer term analysis and also regarding the longer term. Holly, do you have anything to add to
+my answer, which anything more?
+HOLLY BUCK: This is Holly Buck, FHU. I think that's good. We really need to coordinate with DRCOG. We
+do have currently some high level modeling. But I think for what you're talking about, we really need to
+coordinate with DRCOG and make sure that we understand what can actually be provided.
+SHELLEY COOK: And then one last, Mr. Chair, if I may. So the scenario number two that you're going to
+be coming back to us for is the one that seems like we ought to aim for, because that represents meeting
+the commitment or meeting the standard that the region is counting on for us. Will you in that scenario help
+us identify likely or good prospects for additional revenue or areas that we might bolster our resources to
+address those needs? Or just checking with you on that.
+WILLIAM VAN METER: In short, the answer is yes. But I believe Holly can provide perhaps a little preview
+of some of the ideas and considerations that may come forward.
+HOLLY BUCK: Yes, absolutely. So we are working on that. We have the financial scenarios allow us to
+look at if you were to use a property tax, if you were to increase the sales tax, there are metrics in there for
+how you address parking and charging for parking as well. And it does allow you to vary the levels as well
+within there. So yes, we will be able to help you understand if you are trying to get to the sort of middle
+scenario what are some opportunities for you to acquire more funding.
+SHELLEY COOK: Super. And then just a comment. So I don't say this to be divisive. But back in 2018 or,
+yeah, it was for 2018, Heather McKillop had prepared a county by county operating gap analysis. And what
+that showed, and this is pre-pandemic and before we had kind of made this shift, however much it is, toward
+serving areas that are transit supportive and that meet social equity goals and things like that. Even then,
+the difference in the amount per capita, the amount of dollars per person in Denver above and beyond what
+they contributed was hundreds of dollars more than any other county. And that's a function of a lot of things,
+as you would know. It would be we've got a hub and spoke system. It's one of the major business districts
+for employment, et cetera, et cetera.
+
+But to the extent we are doing that more now, we're increasing the frequency of service in the central
+business district along Broadway and along Colfax, I would expect those numbers to shift so that you're
+seeing not just four times as much money per capita but more potentially. And at a certain point, that
+becomes untenable given our revenue base as a regional system. So I just am raising that because if we're
+looking at alternative revenues, we ought to be talking about getting some money from Denver or some
+assistance to help us address the needs that we have regionally, because they're getting so much more
+than what other areas are.
+And again, I'm not saying that to be provocative or anything. I just think at a certain point it'll become a
+critical issue for us. So just raising that piece right there. Thank you very much for allowing me all that extra
+time.
+ERIK DAVIDSON: Thank you very much, Director Cook. Thank you, Miss Buck and Mr. Van Meter for the
+answers. Director Catlin, please.
+BOBBY DISHELL: [INAUDIBLE] tired argument.
+ERIK DAVIDSON: If we could just start with Director-- I'll come to you, Director Dishell. Please, Director
+Catlin.
+PEGGY CATLIN: Thank you, Mr. Chair. You know what, I just would caution everybody on managing
+expectations. What I remember about DRCOG air quality modeling is that it's very regional and it doesn't
+get down to the granular level. So you would not be able to analyze specific rail corridors or bus routes and
+impact on the overall air quality of the region. That's just a comment. [INAUDIBLE] in the 12 years since
+I've been involved with that.
+My question is the three scenarios that you're looking at, I mean, the first one, obviously, is pretty sobering.
+It's kind of a dose of reality for us. But do those scenarios assume a static district boundary? Have you
+looked at whether the district would decrease geographically in size or conversely increase in geographic
+size or do all of those? Does the mobility plan for the future assume the boundaries as they are today?
+WILLIAM VAN METER: Chair, this is Bill Van Meter. I'd like to toss that one directly to Holly.
+HOLLY BUCK: Yes. So thanks Bill. The scenarios as they are, as they stand right now, I've lost you Peggy.
+Oh, there. The scenarios as they stand right now do assume a static boundary. Though we have done an
+analysis of both increasing the boundary and decreasing the boundary and the impact you have on
+revenues and costs loosely, because there depends on what kind of service you provide, obviously in the
+district. So I think it's a good point to bring those things together. And so we can help do that, at least for
+conversation purposes so that we understand the impact as we're talking about those financial scenarios.
+PEGGY CATLIN: And one more if I might, just in response to that. As Director Williams pointed out, we just
+don't know what things will look like in 2050. And so I just didn't know what impacts that could possibly
+have. So thank you. I'm glad that you did look at it.
+
+ERIK DAVIDSON: Thank you, Director Catlin. And Director Dishell, I know you had a response to a prior
+comment. Thank you for the patience. Hopefully when we get back in person, we can open up dynamic
+talking. But thanks for waiting while we manage the Zoom format here. Director Dishell.
+BOBBY DISHELL: No problem. Director [INAUDIBLE]. Or excuse me, Director [INAUDIBLE]. I hear what
+you're saying, but I don't know that it really moves the ball forward. Because this is a sales tax, as we all
+know, not a property tax. So when I go up to Boulder and I'm on South Pearl Street and I spend a bunch of
+money, I spent that money, did I not? But I'm a resident of Denver. And so it looks like Denver got all this
+money, but really Boulder's able to do that. And the same with Olde Town Arvada. And so it just really
+discourages, I think, that whole regional notion. It's a number that's really hard to track.
+Who actually spent those dollars? What about tourists? Should we be discouraging tourism because we
+want to nickel and dime? Our objective is to make lives better through connections. And if that's better done
+through now really focusing on equity populations for public transportation, then I think that's what we should
+do. But I think the idea that we keep trying to say, well, this area gets more because of on a per capita basis
+ignores the fact that people leave their county and that this is a sales tax collected on everyone. Tourists,
+unhoused, housed, single residents, second home.
+I mean, I don't know that it serves to improve making lives better through connections to drill down like that,
+because there are so many-- when I make a transaction in cash that's outside of my district, which I do,
+there's no way for anyone to know where that money came from, that source income. What are we really
+trying to gain other than perhaps better geographic coverage? And so for me if we're really trying to move
+forward, we're really trying to work regionally, we're really trying to look at alternative partnerships, what is
+drilling down in that way do [INAUDIBLE] about perceived inequality?
+ERIK DAVIDSON: Thank you, Director Dishell. I'm going to continue to move down the list here of hands
+raised. Director Broom, please.
+BOB BROOM: Thank you, Chair. I'm more worried about how is RTD going to survive over the next 20
+years or so. Unless we solve our personnel problem, we're going to lose all of our customers. Over the past
+number of months, each time I asked staff how are we coming with filling all of our vacancies, well, we're
+treading water. Well, maybe the 20% of our workforce is age 64 or older. We're going to have this treading
+water problem for an awful long period of time.
+And the one most important thing that people rely on is that the service is going to be reliable. That when
+they're out there at 4:30 in the morning going to work that there's going to be a 4:30 train to pick them up.
+And if it only picks them up three days a week because they don't have anybody to run it the other days,
+we're simply never going to get our ridership back. And we've got to solve this first before we worry about
+stuff 20 and 30 years out. That's just my two cents worth. Thank you.
+ERIK DAVIDSON: Thank you, Director Broom. Director Broom, are you looking for any comment or update
+on the matter here?
+BOB BROOM: Well, if it's different than we're treading water.
+
+ERIK DAVIDSON: I'm going to go ahead and move down. Yeah, go ahead, please.
+WILLIAM VAN METER: Chair, this is Bill Van Meter, AGM Planning. I was just going to note that that is one
+of the guiding principles the Board set for us as part of this study and that is addressing our workforce
+challenges and issues, which are not just existent today but will evolve and change over time as we get to
+a 2050 future that either looks like we're projecting here or has solar powered jet packs per Director
+Williams's previous comment additional challenges.
+So I appreciate Director Broom's comments, and he's direct, he's spot on, and we are working to address
+that under these auspices. And of course, as the Board knows, in the here and now in many different
+measures, which others have briefed the Board regularly on. So I just wanted to add that.
+ERIK DAVIDSON: Yeah, thank you, Mr. Van Meter. Actually, if I may just comment. I'm holding my
+questions and comments to the end here. But that item of workforce and its impact on the SOP I know has
+started to come up in some of the more recent stakeholder meetings that have come up. I understand that
+there's some modeling of how we'll return to service.
+Maybe just a follow up question to Director Broom's comment there. Is that something when we're looking
+at the SOP in the study session in June, in addition to looking at some of these financial scenarios in a little
+bit more detail, will we also look at some of those scenarios of how quickly or where we return, how SOP
+is impacted by workforce? Do those models exist and do we plan to go look at those in the June study
+session?
+WILLIAM VAN METER: Chair Davidson, that's a question beyond my capacity to respond to at this point.
+ERIK DAVIDSON: Yes. Thank you and apologies for drifting a little bit off topic there.
+WILLIAM VAN METER: But I understand-- yeah, I understand the import and interest.
+ERIK DAVIDSON: And then I see Mr. Sirois has raised his hand here. So Mr. Sirois, if you have a comment
+on this, please go ahead.
+BILL SIROIS: I was just going to relate in terms of my conversations with Jessie Carter as we've been
+talking about the subregional service councils and relation to the implementation of the SOP. I mean, it is
+completely resource driven. The one things that I would say related to that is we want to use those service
+councils as a model to have discussions and dialogue about service. And the idea that we can say where
+do people see the needs or the priorities for the different subdistricts and then use that to inform future run
+Boards. But what I think the challenge that we always had is typically when we have conversations with
+stakeholders that they want that immediate impact and it's the next run Board.
+One of the things that I think that we can do with them is talk about where the trends are in workforce, how
+the classes are going, where we're going in terms of retaining employees, and other things as we have that
+dialogue so we can give a better sense. Because I know there's a lot of concern about how is the SOP
+going to be phased? When are we going to see our routes? And really it is completely resource driven.
+
+And if you would talk to Jessie if he were here today, I'm sure he'd say, well, I don't know where January is
+going to be because I'm not sure where we're going to be in a couple of months with some of the workforce
+issue. So it really is going to be something that we hope to have continuous dialogue on with folks so that
+they can see where the trends are going so they can look further down the road than just that next run
+Board, which I think we always get caught up in in a conversation about what's the immediate impact that
+I can see in two months from now. It may be six, it may be eight, it may maybe a year from now depending
+on how we look at this.
+ERIK DAVIDSON: Thank you for commenting on that, Mr. Sirois. I appreciate it. Director Guissinger, please.
+LYNN GUISSINGER: Thanks very much. I guess I have a couple of comments. One is in terms of the
+conversation that Director Cook and Director Dishell have. Another way to think about this, and I'm with
+Director Broom that we got to be looking at how we keep the agency moving forward for the next 20 years
+or whatever. And that means we have to look at money from everywhere and anywhere. And that means
+that it doesn't just come from partnerships we haven't created or routes that we aren't serving but looking
+at partnerships that we are serving and what that means to those locations. So it's just a different way of
+looking at it rather than where the money was spent and all of that. It's a benefit that's being provided and
+the support we'll need.
+And I guess another comment. You've heard the interest in the greenhouse gas emissions and the air
+quality. And I really like the idea of the regional backbone network and partnerships. I think that's a
+promising look. And when you say regional backbone networks, I hear what we often calling BRT, whether
+people say it's BRT or BRT light or whatever. That's what I hear. And I'm not seeing-- we did the PRT study.
+There's an AM study, there's the different pieces out there that as I recall aren't fully incorporated, at least
+in the SOP.
+So when we say that if we don't have new money we're going to have the SOP till 2050, I'd like to think of
+the SOP as five years and then we look at do we need to be more in the regional backbone and more
+providing those regional options. I would not want to be adopting that through 2050 if we don't get more
+money. So two comments.
+One question, just procedural. I think you said that we'll be adopting the SOP in July and receiving the
+mobility plan for the future. Are we not adopting those together?
+WILLIAM VAN METER: Chair, this is Bill Van Meter, AGM Planning. No, the intent is for formal action on
+the System Optimization Plan and for a presentation to the Board of the mobility plan for the future as the
+final product for the Board's information and for the information of the citizens. Holly, any clarifying
+perspective that you can provide?
+HOLLY BUCK: That's my understanding as well.
+BRIAN WELCH: If I could just add to that. This is Brian Welch, Senior Manager Planning Technical
+Services. The primary focus of the Reimagine RTD will be follow up items for the Board to consider. For
+example, we will present to you a harmonization of the strategic plan that you adopted with some of the key
+
+actions of Reimagine RTD and how those would move forward. We'll have a series of follow up policy
+tactics, decisions, and strategies that the Board is going to have to pursue that really don't lend themselves
+to be adopted in the mobility plan for the future but will point you in the direction of where you need to go
+next.
+Because there will be a whole list of those. That will be the primary action related aspects of Reimagine
+RTD and the mobility plan for the future. It's not anticipated to be selecting a list of projects and corridors
+or anything like that. It's more a key policy document that will take you from where you are now to point you
+to where we need to get and how you could get there and the choices that you'll need to make. That's the
+real intent of it. You won't be picking, for example, a scenario. You'll be faced with subsequent decisions.
+For example, you're going to have to make decisions in the mid-term financial plan on how you want to
+move forward. You'll be making decisions in how you want to approach projects as they're presented to
+you in the RTP. These are all action oriented implementation steps that are going to be the heart of
+Reimagine RTD. And we'll give you a much better preview of that when we present to you at the study
+session so you get a better feel of that.
+And while I have the floor, I just wanted to really quickly, we've heard multiple comments about ozone and
+GHG. We concur with you. We understand the importance of that in our region. It's a key aspect of our
+lives. What I just want to frame for you, though, how we'll bring this back and not over promise and under
+deliver, but what we'll be able to do, I think you'll remember from the 2019 quality of life report if you were
+here for that, we documented that our RTD's impact on Denver metro area GHG is probably less than 4%.
+So when we were providing 350,000 boardings a day, we were less than 4% of all of the GHG emissions.
+So what we can do for you is tell you that the impact that our ability to provide additional diversion of people
+away from polluting cars to our services how that moves the needle. We're doing the best we can to make
+sure that our system is as clean and reliable and lead in all the good things that minimize our impact on the
+environment without question. But our primary focus when we come back in June is we have done some
+modeling and we do have a sense of how we can move the needle on ozone and GHG.
+But please understand that in the context of I think right now that, Holly, in the region there's about 84
+million miles of trips right now. On a daily basis, 15 million trips are made. We're providing-- you know how
+many trips we provide a day now. It's relatively small. It's very, very, very important, though. Don't get me
+wrong. And the extent to which we can ratchet that up. But please understand that particularly for something
+like the System Optimization Plan, it might be difficult to be too quantitative for you, but we will be qualitative.
+Does that make sense, Holly?
+HOLLY BUCK: Yes. I think that's a good description of what we'll be able to provide at this level.
+BRIAN WELCH: But we understand the importance, and we'll bring you back everything we possibly can.
+LYNN GUISSINGER: OK. Thanks very much.
+ERIK DAVIDSON: Thank you, everybody, for the questions. Yeah, Director Guissinger, please continue.
+
+LYNN GUISSINGER: Sorry about that. And I think some of you have heard me say before it would be really
+helpful to me to understand the effect, have a written statement of what the SOP is. That it's a plan. What
+happens if Jessie and his team start seeing different outcomes? And we have a certain percentage of this
+bus that's going to come back. And what's the direction to them? I would appreciate that. Thanks very
+much.
+ERIK DAVIDSON: Thank you, Director Guissinger. Director Williams, please.
+KATE WILLIAMS: Thanks. I see Director Broom still has his hand up. Director Guissinger too. I just wanted
+to be sure. Director Broom, you're ahead of me. You got something more or it's a lazy hand?
+BOB BROOM: Hand's up by mistake.
+ERIK DAVIDSON: Thank you, Director Broom. Director Williams?
+KATE WILLIAMS: Yes. Thank you, Chair Davidson. I just want to get on my soapbox again. I know that
+2050 is a long way out and we're doing the best we can do. But we need in this group to discuss more
+about the fact that people have to get out of their cars. That is the future. Not in six months maybe because
+we're Colorado and we're one gun and one car. But people have to get out of their cars. That's where CDOT
+is driving us. That's where DRCOG is driving us. That's where the governor is driving us. And when they
+get out of their cars, they still have to get around. And how are they going to get around? They're going to
+get around sooner or later on RTD even if they don't like us, because that is the future of the world.
+And if in fact the RTD Board of Directors is the governing body and we are looking at Reimagine RTD, we
+need to have that conversation every time we meet. And we need to put out to the public. I was chastised
+recently at a public meeting for saying, every time you get in your car, you're killing your grandchildren.
+Everybody went, oh, Director Williams.
+But I recently had a woman who is an elected public official tell me that every time she puts the key in her
+car now, she hears my voice saying that. And we need to be that voice. We need to say here we are. We
+are safe, clean, and mostly on time. Get out of your car and save the planet. And I don't hear us saying that
+enough. So I'm sorry. There's my soapbox. Again, it's not 2050 I'm looking at. It's 2025. And there you have
+it. Thanks.
+ERIK DAVIDSON: Thank you, Director Williams. Director Cook.
+SHELLEY COOK: Thanks for a second bite at the apple. I really appreciate it. And just briefly in response
+to Director Dishell, I offer that in the spirit that Director Guissinger spoke of, which is trying to find a way to
+make the pie bigger rather than just pointing a finger. To the extent we need to identify new revenue sources
+or in kind support or whatever can help us do more, I think it would bear having a conversation with our
+partners.
+And the second a couple of pieces of that too that I didn't talk about before is when we provide really
+frequent service, whether it's via train or bus rapid transit or otherwise, we add value. That's realizable
+
+money that the city and county of Denver or whatever entity has available to it. And so we don't currently
+benefit from any of that. That's another idea of a conversation.
+And then finally, just recognizing that all counties except for Denver became more diverse in the last census.
+And that reflects some of the migration that people are moving outward because they can't afford to live in
+city and county of Denver. And so to the extent we're focusing on social equity, that needs to be part of our
+conversation too. So thank you all so much for allowing me to speak again.
+ERIK DAVIDSON: Thank you, Director Cook. Thank you, everybody, for answering these questions and
+fielding these and Directors for the comments. I think it's safe to say we're going to have a robust discussion
+at the study session in June, which I think is good. I've saved my comments at the end, and I think I'm going
+to save some of my questions for that study session, because I've heard a lot tonight about the things that
+we'll get into in a little bit of detail.
+It really does strike me, though, I do want to point out, and I think we're all touching on this, that there does
+seem to be a pretty important contradiction in terms of where we are that the SOP is very much focused on
+and sets its vision on the ridership model. And then at the back end, we're talking about the mobility plan
+for the future. And there's a statement in the slides here that the preliminary Board results suggested
+whenever those took place that it was a coverage based model system.
+And then also there's this discussion about the regional transit backbone, which I know is something that's
+come up a lot and I know that some cities, for example the city and county of Broomfield, conducted its own
+survey on whether there would be an appetite to add additional funding to the local service where RTD
+would be a regional service, which came out generally favorable. Those are some major, major things that
+we have to decide.
+And when we look at these financial models, if we were to decide that we're going to be a regional backbone
+and we're going to look towards others to provide local service, that has a real impact on the finances.
+Because I have a hard time imagining that cities and counties would pass local taxes to augment the service
+and want that to be going to RTD to the extent that we're stepping back some of the local service.
+So all that to say I think we have a lot that we have to discuss because it does sound like we've got some
+misalignment in terms of the short term goal being on ridership, a long term goal the Technical Working
+Group had a coverage based focus, and or I'm sorry, also a ridership focus. But the Board is suggested as
+having a coverage based preference here. So recognizing it's a continuum. I think we have a lot to discuss
+there. So thanks for letting me comment on that. Certainly a lot to reflect on before we get together in June.
+And I think implied in this, there's some pretty strategic decisions that we're making with what we decide to
+move forward with on here.
+So any further questions or points to be made on this discussion item? Thank you very much and thank
+you for the robust discussion. I'll do my best to summarize some of that in the report later this month. Are
+there other matters to come before this committee? Yes, Director Sloan, please.
+
+MARJORIE SLOAN: Yes. First I appreciate the committee allowing me to speak and listen to this really
+thorough conversation. I think this committee has been making a significant contribution to RTD governance
+and I'm looking forward to the June study session.
+What I would like to raise is a resolution that came up at your last committee meeting about free fares on
+Election Day. And these free fares were to encourage voter turnout by making voting more accessible to
+our customers and others in the metro area. For the same policy reasons and with the same intent for that
+proposal, which as I understand it needs to come through this committee fairly quickly and soon to be
+scheduled meeting, I will be proposing an addition to the free fares.
+And that would be an inclusion in the resolution directing the installation of vote drop boxes on RTD,
+property deemed appropriate by both RTD and the county clerks under the county clerk laws. Now, I believe
+this is in line with the free fares and it may have a significant practical effect as well by making our customers
+have an accessible way to vote during their everyday interactions with RTD.
+So I believe that there is a connection between the RTD property and the financial aspect of this committee
+but also the planning aspect of this committee. Because as Director Dishell mentioned before, our entire
+purpose is to make connections through transit. And this would enable our customers to participate in the
+Democratic process more easily. So thank you, committee. You're doing a great job.
+ERIK DAVIDSON: Thank you, Director Sloan. And thank you for attending and making that comment. I
+understand that, and Miss Johnson if you wouldn't mind, I'm just going to ask you to comment briefly on
+this. I understand that we have done some work on considering drop boxes. And then also I know that as
+per the last committee meeting that you and your team took some next steps in terms of considering what
+proposals might be made regarding election free fare. So I'm wondering, Miss Johnson, if you wouldn't
+mind just commenting on the comments from Director Sloan and the potential impact to whatever proposals
+you may be considering and also just a brief update as to what staff has been discussing since the prior
+committee meeting.
+DEBRA JOHNSON: So thank you very much, Chair Davidson, and thank you to Director Sloan for
+broaching this issue as it relates to 0 fares. And I choose the word 0 because of course there's an underlying
+cost to somebody. There's no such thing as a free lunch or a free transit ride. With that as a backdrop, I did
+want to share in relationship to the comments that Director Sloan brought forward about drop boxes, we
+have engaged in a discussion. And I did share with Director Sloan that some activities have taken place in
+relationship to that. Want to acknowledge the immediate past year, Angie Rivera-Malpiede who brought
+this issue to me when I first joined the organization and we engaged. And we do have some drop boxes.
+I agree as we talk about equity and as we talk about the access to transit and our mission of making lives
+better through connections, it's paramount as we move forward. So to the point raised, we are in the process
+of coordinating with the County Parks Association and setting up meetings collectively recognizing that we
+already have some drop boxes at facilities. We had worked previously on this. So to the extent that this
+could be effectuated, I will bring that to the Board for its consideration from a policy vantage point.
+
+More so as relates to the status of [INAUDIBLE], I just received some communique about the status of our
+scheduling of that. Because there had been initial discussions relative to County Clerks Association of
+bringing people together collectively as we bring this forward. I recognize time is of the essence when we
+discussed this last month. That was put forward. But we are working in tandem with external entities. So
+recognizing trying to shore that up. But as soon as practicable, we will bring something back to this
+committee and we'll apprise you accordingly. So I wasn't prepared to discuss in great detail more intimate
+details of that, but I would be happy to provide that at the appropriate time. Thank you.
+ERIK DAVIDSON: Yeah. Thank you for the general update on that, Miss Johnson, for commenting on the
+drop box proposal. And Director Sloan, thank you for broaching this as an approach. I know when we had
+the discussion at the last committee meeting, we talked about what could have a material impact. And I
+think there's multiple ways to do that. So thank you very much.
+Other matters to come before the committee this evening? OK. Seeing no additional matters, we're going
+to just wrap up here. So the next meeting date is going to be Tuesday, June 14, 2022. That will be the next
+Finance and Planning Committee meeting. And seeing no other discussion, the meeting will be adjourned
+at 7:39 PM Mountain Standard Time. Thank you very much, everybody. Have a wonderful night.
+
+From:
+Sent:
+To:
+Subject:
+Attachments:
+
+ATU Local 1772
+Monday, May 09, 2022 7:16 PM
+Barbara McManus; RTD Board Office
+OSHA Ruling Against Transdev
+OSHA Decision Against Transdev_March_15_2022.pdf
+
+Good Evening,
+My name is Bob Dinegar, Interim President, ATU Local 1772.
+I’m writing at the suggestion of one of RTD’s Directors, to share with the Board some pressing information that
+concerns everyone's physical safety, within the region.
+The matter at hand is the treatment of Operators who report experiencing fatigue or illness, such that they deem it
+detrimental to their safe operation of RTD buses. As the attached OSHA Ruling from March 15th details, TransDev
+Services Inc. has been ordered to institute certain policy changes, expunge related disciplinary points from employees’
+records and institute related trainings at ALL of its properties in the U.S.
+At the recent April 7th Labor Management Conference between TransDev Englewood’s Management and Local 1772,
+we presented this March 15th OSHA Ruling to the General Manager of the Englewood Division, Saidel Sobrevilla. When
+asked if he’d been made aware of it previously, he replied that he had not.
+Subsequently, I directly asked Mr Sobrevilla when these policy changes will be implemented. He replied that no changes
+were currently planned, and that TransDev has filed an appeal. When asked for any verbiage from OSHA that permitted
+such delay, none was forthcoming.
+As one who's personally experienced fatigue while operating an RTD bus, I had no hesitation to contact RTD Dispatch for
+relief, immediately.
+This isn’t a chronic condition for me; sometimes at night, sleep is elusive and one’s mind just won’t shut down.
+It’s a terribly frightening feeling, though, knowing the potential consequences of falling asleep at any speed, behind the
+wheel of a 40’ vehicle weighing 14 tons.
+I was surprised to learn that I'd been assessed a disciplinary “point” on my record for this, although I was aware that
+this also happens when one is sick and "calls out".
+The current policy states that 12 points in a *rolling* year merits termination.
+I’ve since heard from other Operators in similar situations. One, who's been with TransDev for 14 years recently
+experienced sharp pain in his leg when applying the bus’s brake and called for relief, and later was assessed a point. I
+understand that, at first glance, these may seem like petty issues. But if the net effect is that Operators feel their jobs
+are at risk due to following the law, this is a serious concern.
+Perhaps RTD’s potential financial liability is “capped” by the legislature, but the ensuing moral and reputational liability
+should be motive enough to consider appropriate actions, both internally and externally.
+The shortage of front line Bus Operators will not ease, given the rate of pay, the current economy and skyrocketing cost
+of living within RTD’s footprint.
+
+1
+
+TransDev Englewood is offering $5000 signing bonuses, more than RTD. They have fewer Operators now than in January,
+shortly after those bonuses were first offered.
+Local 1772 has had a standing offer since January to Mr. Sobrevilla and his boss to jointly request necessary funding for
+livable wages from RTD.
+They declined. Reportedly they were “frightened of angering the client”.
+The strain on existing Operators will only increase over time, the pressure to work overtime to cover routes while trying
+to make ends meet will also increase.
+God forbid something tragic occurs. I felt the need to share this information, I couldn’t bear the thought of something
+happening.
+I sincerely hope the underlying issue doesn’t get *reasoned* away.
+Please see that this email and the attached OSHA Ruling is shared with GM Debra Johnson and the RTD Board of
+Directors.
+Thank you.
+Bob Dinegar
+Interim President
+ATU Local 1772
+
+2
+
+U.S. Department of Labor
+
+Occupational Safety and Health Administration
+San Francisco Federal Building
+90 7th Street, Suite 2650
+San Francisco, CA 94103
+
+Via Electronic Mail
+March 15, 2022
+Transdev Services Inc.
+c/o Johner T. Wilson III
+Dinsmore & Shohl LLP
+222 West Adams Street, Suite 3400
+Chicago, IL 60606
+jt.wilson@dinsmore.com
+Re: Transdev Inc/Ruiz/9-3290-21-600
+Dear Mr. Wilson:
+This is to advise you that we have completed our investigation of the above-referenced complaint
+filed on June 22, 2021, under the Surface Transportation Assistance Act (STAA), 49 U.S.C.
+§31105. In brief, the complaint alleged in the early morning of June 21, 2021, that Complainant,
+Ernesto Barriento-Ruiz, a bus driver, called Transdev Services, Inc., dispatch and stated he was too
+fatigued to drive. On June 22, 2021, Complainant was issued a verbal [written] warning and issued
+a “point” due to his calling off too fatigued to drive. In the recent past, Complainant has also called
+in too sick to drive and was issued “points.” This occurred May 20, 2021.
+Following an investigation by a duly authorized investigator, the Secretary of Labor, acting through
+his agent, the Regional Administrator for the Occupational Safety and Health Administration
+(OSHA), Region IX, finds there is reasonable cause to believe that Respondent violated the STAA
+and issues the following findings:
+Secretary’s Findings
+The complaint alleges that on or about June 22, 2021, Respondent issued Complainant a verbal
+[written] warning and issued Complainant a “point” due to Complainant calling off too fatigued to
+drive. On June 22, 2021, Complainant filed a complaint with the Secretary of Labor alleging
+retaliation in violation of STAA. As this complaint was filed within 180 days of the alleged adverse
+action, it is deemed timely.
+Respondent is covered under the STAA because Respondent is a person within the meaning of 1
+U.S.C. §1 and 49 U.S.C. §31105. Respondent is also an employer within the meaning of 49 U.S.C.
+§31101. Respondent is engaged in transporting passengers on the highways via commercial motor
+vehicle, that is, a vehicle designed to transport more than 10 passengers including the driver.
+Complainant is covered under the STAA because Complainant is an employee within the meaning
+of 49 U.S.C. §31101. In the course of her employment, Complainant directly affected commercial
+
+motor vehicle safety by driving Respondent’s commercial motor vehicles (buses) over highways in
+commerce to transport passengers.
+As a result of the investigation, OSHA has determined that reasonable cause exists to believe that a
+violation of STAA occurred. Specifically, after evaluating all the evidence provided by Respondent
+and Complainant, OSHA finds reasonable cause to believe that Complainant’s protected activity
+was a contributing factor in the adverse action. Complainant established that he engaged in a
+protected activity when he called Transdev Services, Inc.’s dispatch in the early morning of June
+21, 2021 and stated he was too fatigued to drive and refused to drive because driving would have
+violated 49 C.FR. 392.3, which prohibits driving while so fatigued that alertness could be impaired;
+that he contacted Operations Manager Tim Grensavitch the following day and inquired why he was
+issued a point and warning in violation of the Union rules and the law; that Respondent took an
+adverse action against Complainant when they issued a verbal [written] warning and issued a
+“point” on June 22, 2021; that the employer was aware of the Complainant’s protected activity; and
+that a causal link existed between Complainant’s protected activity and the adverse employment
+action because of the timing of the adverse actions relative to Complainant’s protected activity and
+because Respondent’s progressive disciplinary policy is to issue points for attendance, including at
+times when a driver calls off work when too fatigued and/or sick. Respondent issues the point prior
+to engaging in the “interactive process,” which demonstrates animus towards calling in sick and/or
+fatigued.
+Respondent has not clearly and convincingly established that it would have taken the same adverse
+actions in the absence of the Complainant’s protected activity. Respondent argues that the points are
+issued to all drivers in accordance with the Collective Bargaining Agreement. Respondent supplied
+two comparators. In both cases, Respondent issued points against both drivers for calling out
+ill/fatigued. This further demonstrated animus toward STAA protected activity.
+Based on these findings OSHA has reasonable cause to believe that Respondent violated 49 U.S.C.
+31105(a)(1)(B)(i), which prohibits retaliation, including discipline, against an employee for refusing
+to operate a commercial motor vehicle because operation would violate a federal commercial motor
+vehicle safety or security regulation.
+In light of the above, OSHA issues the following order:
+ORDER
+Respondent shall pay Complainant punitive damages in the amount of $50,000.
+Punitive damages are justified because Respondent as a common carrier, and Operations
+Manager Grensavitch, (who possesses a Commercial Driver’s License), knew or should
+have known that the company policy to issue points for ill and fatigued drivers is in direct
+violation of STAA. Transdev has received other STAA complaints. Additionally,
+Respondent’s attorney was provided information by OSHA and the Regional Solicitor’s
+Office regarding the STAA protections regarding ill and fatigued drivers, which could have
+mitigated the damages suffered by Complainant and removed the assessed point through
+early resolution. Respondent maintained that it had properly assessed the point to
+Complainant and its indifference to STAA justifies punitive damages. The chilling effect
+created by the policy also justifies punitive damages.
+
+Respondent shall expunge Complainant’s employment records of any reference to the exercise of
+his rights under STAA. This includes, but is not limited to, removal of any “points” issued to
+Complainant for calling out in accordance with 49 CFR §392.3 and in compliance with the STAA
+and removal of Complainant’s filing an OSHA complaint.
+Respondent shall not retaliate or discriminate against Complainant in any manner for instituting or
+causing to be instituted any proceeding under or related to STAA.
+Respondent shall post immediately in a conspicuous place in or about Respondent’s facility,
+including in all places where notices for employees are customarily posted, including Respondent’s
+internal web site for employees or e-mails, if Respondent customarily uses one or more of these
+electronic methods for communicating with employees, and maintain for a period of at least 60
+consecutive days from the date of posting, the attached notice to employees to be signed by a
+responsible official of Respondent, which will note the date of actual posting.
+Respondent shall notify all employees nationwide and in the union about their protections under 49
+CFR §392.3 (Ill/fatigued operator) and 49 U.S.C. §31105 (STAA).
+Respondent shall conduct a nationwide audit, in coordination with the union, of all current
+employee attendance/personnel records to correct for compliance with the STAA.
+Respondent shall revise company policy to comply with the Act (from a general non-retaliation
+policy to specific attendance policy that protects drivers and other employee’s under STAA.
+Respondent shall comply with STAA and train managers and supervisors about compliance with the
+STAA.
+Respondent and Complainant have 30 days from the receipt of these Findings to file objections and
+to request a hearing before an Administrative Law Judge (ALJ). If no objections are filed, these
+Findings will become final and not subject to review. Objections must be filed in writing with:
+Primary method - via email to: OALJ-Filings@dol.gov
+Secondary method - (if unable to file via email) via hard copy submission to:
+Chief Administrative Law Judge
+Office of Administrative Law Judges
+U.S. Department of Labor
+800 K Street NW, Suite 400 North
+Washington, D.C. 20001-8002
+Phone: (202) 693-7300
+Fax: (202) 693-7365
+With copies to:
+
+Ernesto Barrientos-Ruiz
+117 West Badillo St. Apt 06
+Covina, CA 91723
+Ernieruiz85@gmail.com
+
+Jim Wulff
+Acting Regional Administrator
+U.S. Department of Labor – OSHA
+90 7th Street, Suite 2650
+San Francisco, CA 94103
+Email: OSHA-REG09-WB@DOL.gov
+
+The hearing is an adversarial proceeding before an ALJ in which the parties are allowed an
+opportunity to present their evidence for the record Ordinarily OSHA, represented by the Regional
+Solicitor’s Office, is the prosecuting party when OSHA issues merit findings in STAA cases. The
+ALJ who conducts the hearing will issue a decision based on the evidence and arguments presented
+by the parties. Review of the ALJ’s decision may be sought from the Administrative Review Board
+(ARB), to which the Secretary of Labor has delegated responsibility for issuing final agency
+decisions under the Act; the Secretary may review ARB decisions. A copy of this letter has been
+sent to the Chief Administrative Law Judge along with a copy of the complaint.
+The rules and procedures for handling cases under the STAA can be found in Title 29 of the Code
+of Federal Regulations, Part 1978, and may be obtained at www.whistleblowers.gov.
+Sincerely,
+
+Ryan Himes
+Assistant Regional Administrator
+cc: Ernesto Barrientos-Ruiz
+Chief Administrative Law Judge, USDOL
+Federal Motor Carrier Safety Administration, USDOT
+
+

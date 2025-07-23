@@ -1,0 +1,153 @@
+### A. Call to Order
+
+Committee Chair Anderson called the meeting to order at 7:26 p.m.
+
+Directors Folska, Lasater and Lubow were absent.
+
+Staff Present:              Bruce Abel, Rolf Asphaug, Larry Buter, Gina Callahan, Jessie Carter, Carolyn Conover, Heather Copp, Nate Currey, Heather Deckard, Martell Dyles, Phil Eberl, Terry Emmons, David Genova, Adrina Gibson, Doug Gragg, Erin Klaas, Russ Larson, Marla Lien, Doug MacLeod, Barbara McManus, Doug Monroe, Brenden Morgan, Mike Nabhan, Paula Perdue, Jennifer Ross-Amato, Zamy Silva, Henry Stopplecamp, Mindy Swaney, John Tarbert, Monika Treipl-Harnke, Bill Van Meter
+
+Others Present:              Gary Forbes, Sherman Hamilton, Wendy Londa, Dan McKeehan, Brenda Mosby, Tom Peters, Susan Spry, Larry Tenenholz, Leslie Thompson, Joe Triplett, Gary Van Dorn, Greg Yates
+
+#### 1. Access-a-Ride Eligibility Assessments
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize the Interim General Manager, or his designee, to enter into a contract with Easter Seals Colorado for the provision of ADA paratransit eligibility functional assessments.  Performance under the contract is for a five year period and shall not exceed $2,490,070.
+
+Motion:              Director Bagley made the motion to move this item to the full Board at the February 16, 2016 Board Meeting.
+
+Chair Tobiassen seconded the motion.
+
+Discussion:               Bruce Abel, Assistant General Manager of Bus Operations, stated that RTD currently contracts with Easter Seals Colorado to provide the functional assessments for Access-a-Ride eligibility. The contract with Easter Seals Colorado will expire on March 31, 2016.  On November 6, 2015, RTD issued a Request for Proposals (RFP) soliciting technical and price proposals to provide eligibility assessments. Proposals were due on December 18, 2015. Only two firms submitted follow up questions, which were responded to by November 27th.  As a result, only one proposal from Easter Seals of Colorado was submitted.  He indicated that the evaluation committee deemed they were proficient and the price was reasonable.  Therefore, staff is recommended entering into a new five year contract.
+
+Director Solano asked staff how they compared the cost of the Easter Seals proposal with that of other competitors or what other non-profit agencies pay for similar service.  Bruce Abel explained that since there was only one proposal, staff compared the dollar amount proposed with what RTD pays today and what staff expected given inflation and additional tasks Easter Seals was asked to perform.
+
+Director Francone noted in the Financial Impact section of the Board report it reflected a higher proposed cost and asked for additional clarification.  Bruce Abel stated that the cost proposed by Easter Seals was slightly higher than what was originally budgeted.   He believes funds will be available through a transfer or staff will come back to the Board through the amended budget process.  Director Francone asked how much higher the Easter Seals costs were compared to the budget.  Larry Buter, Manager of Paratransit Services, said he would get back to the Board with that information.
+
+Committee Chair Anderson declared the motion PASSED.
+
+#### 1. Final Gold & Northwest Corridors Service Plan
+
+Bruce Abel, Assistant General Manager of Bus Operations, explained we have a number of commuter rail services opening in the Denver region.  The first milestone was the Flatiron Flyer that opened in January of 2016.  Last year the Board approved the rail line service between DIA and Denver Union Station (DUS). However, tonight’s focus will be on the upcoming Gold Line (G Line) and Northwest Line (B Line) corridors.  He mentioned to the Board that the information provided in tonight’s Board packet was not the full plan but focused on the changes made to the plan since the last Board meeting as a result of the stakeholder and public input process.
+
+Doug Monroe, Service Planner and Scheduler, started with the Northwest Line (B Line) rail service.  Doug stated his team expected the commute time to be 11 minutes from Westminster to DUS.   He said peak period service would be every 30 minutes, which is slightly different from other rail lines which have 15 minute frequencies.    The Gold Line (G Line) line will run from DUS to Wheat Ridge/Ward in approximately 25 minutes.  Doug stated the two main bus services being replaced by the Gold Line are the 55L and 72L.  Currently, there are no plans to replace any bus routes with the Northwest Line.
+
+Doug Monroe explained that new bus routes were also being introduced to enhance the mobility in both corridors upon the opening of the Gold and Northwest rail lines.  These routes are:
+
+- Route 53 – replaces Route 51 north of US 36 & Sheridan Station
+
+- Route 55 – new service to operate between Olde Town Arvada Station and Arvada Ridge Station
+
+- Route 99 – replaces alignment previously served by Route 100 south of Federal Center Station
+
+- Route 125 – new service from Federal Center Station to 64th/Quaker via Wheat Ridge-Ward Station
+
+Public Hearings were scheduled in November at Blake Street, South Westminster, Arvada, and West Arvada.  Overall the feedback was positive but there were concerns about discontinuance of Route 92 west of Sheridan and Route 72L.
+
+Doug stated the Gold and Northwest Resources Plan is revenue neutral and the change in service hours is less than 1%.
+
+Doug updated the Board on the timeline.  He explained that most of the steps had been complete.  Staff will be asking the Board to approve the final service plans in March with implementation of the Northwest Line in summer followed by the Gold Line in fall of 2016.
+
+Bruce added his team has briefed the Board periodically to keep them up-to-date on the service plan revisions.  He plans to seek Board approval at the March Board of Directors meeting.
+
+Committee Chair Anderson commented on the process and how the G Line plan has been thoroughly vetted with all the transportation committees in Arvada and through the public hearings.  She said she is very enthusiastic about this plan because it is going to serve people who have not been served before.    Committee Chair Anderson noted there was some angst about the changes in the community, but she believes once people get used to the new plan they will see   it serves the area better than previous plans.
+
+Director Hoy wanted to know if staff had discussed the changes with the City of Westminster.  Doug said they met with Barbara Opie, Assistant City Manager, last September and she is aware of the changes.
+
+Director Francone asked how many parking spaces are at the 41st and Fox and Arvada Ridge Park—Rides as she anticipates the majority of people will access those stations by car.  Jessie stated he did not have this information tonight, but would provide to the Board tomorrow.
+
+Chair Tobiassen was curious about the Paratransit service and wanted to know if there would be a negative impact to existing riders because of changes to the current service.  Bruce said the new service up in the Northwest area may add some Paratransit service that is not currently provided.  Doug explained that the coverage area is actually about the same. There is the discontinuous of a small area of fixed-route service but only one Paratransit rider used Access-a-Ride during the previous year.    The changes to the overall plan are not increasing or decreasing, but rather are strengthening the core routes.
+
+Committee Chair Anderson stated there are some at risk populations and now we will provide them with more transit service.  She feels this is a huge and positive change.  In her mind, it will provide a safer and better way to access the bus services and is much more convenient.
+
+Chair Tobiassen thanked Committee Chair Anderson for her feedback.
+
+Director Solano asked if Route 92 was discontinued in conjunction with the Flatiron Flyer opening.  Doug stated that it was not actually discontinued.  In developing the Gold Line service staff reviewed the entire Northwest area in Jefferson and Adams County.  He said that because of Route 92’s proximity of the Westminster station staff initially proposed cancelling it but has since revised the proposal.  Jessie Carter asked everyone to keep in mind Route 92 has a lot of turns, which provides challenges.  He explained that staff had wanted to streamline it but has since decided to see how it performs with the G Line opening before making changes.
+
+Director Solano asked why staff decided to keep Route 92.  He wondered if it was due to pressure from the constituents.  Doug stated that was correct.
+
+Director James wondered what the expected ridership was for the Northwest Line and Gold Line.  Doug said it would be between 700-800 for the Northwest Line and on the Gold Line to be roughly 12,000.
+
+Committee Chair Anderson stated this will provide great connections not just north and south but east and west as well.
+
+##### a. Final Gold & Northwest Corridors Service Plan
+
+##### b. Final Gold and Northwest Corridor Service Plan Power Point
+
+#### 2. CCDC Settlement Agreement Annual Report
+
+Bruce Abel stated in 2014 RTD entered into a Settlement Agreement with Colorado Cross Disability Coalition (CCDC).  This agreement related to concerns with access to our fixed-route buses for those using mobility aids.  Part of the settlement was implementation of a tracking mechanism for when a person with a mobility aid was denied access to our fixed-route services and provide the Board with this information annually.
+
+Carolyn Conover, Senior Manager of Contracted Services, stated 2015 data showed 83% of passengers with mobility aids trying to utilize our buses were passed up due to the securement area being full with other passengers using mobility aids.  She went on to say we are seeing improvements with our bus operators showing more empathy toward passengers with mobility devices.  Carolyn Conover stated operators are required to complete paperwork to track these passengers who are passed up. To ensure that operators understand the importance of completing the paperwork, every operator is required to meet with management for each incident where a form is not completed or turned in, and the operator is addressed as needed. For the private contractors, RTD issues Liquidated Damages if the paperwork is not provided to RTD.
+
+RTD’s bus operators went through an ADA refresher training.  The training served to raise operators’ awareness of the needs of passengers with a variety of disabilities and mobility challenges.  Additional ADA refresher training will be given to all operators in 2016.
+
+Carolyn Conover stated last year we noticed several bus mobility device lifts were inoperable.  One positive thing is the majority of these busses with the lifts will being retired and replaced with low-floor ramp equipped buses.  Overall, from what the data states our new procedures are having a positive impact on our bus operators.
+
+Committee Chair Anderson thanked staff for providing them with this annual report.  She thought it was very easy to read and understand.
+
+Chair Tobiassen asked if, as part of the original settlement agreement, RTD would pay a fee per incident or violation.  Bruce Abel stated we would if we did not follow policy.  A recent analysis found RTD has not had any policy violations.
+
+##### a. 2015 CCDC Settlement Agreement Securement Area Report- Final
+
+#### 3. Recruitment and Hiring Update
+
+Bruce Abel stated in the last Committee meeting the Board requested an update on where we are with Recruiting and Hiring.  He mentioned training has been put in place to occur every other week.  He provided two spreadsheets outlining information such as the number or people schedule to start training, number who actually started, people who began driving, etc. for both bus and rail.  The training is a six week program.  There is a seventh week added if the person will be driving the Mall Shuttle or mountain routes.  Bruce Abel pointed out that entering 2015 the number of people entering a training class was in the single digits to low double digits.  He mentioned three years ago we were losing about 15 people a month.  He said over the past year it has gone up to about 25.  Over the next 3-4 months staff wants to hire 20 people every two weeks, meaning we need to put 30 people in each training session.
+
+Bruce Abel mentioned on the retention side, we are offering referral bonuses and implemented hiring bonuses to be paid out over an 18 month period.  Staff also introduced a split-shift differential for employees working shift splits.  His thought was, if we can keep an employee for a year, this should increase our odds in retaining the employee long term.
+
+Director Hoy wanted to know if all RTD bus drivers start at the same hourly wage.  Bruce Abel said yes, they all start at $15.64 an hour.
+
+Director Solano asked what the average age of new hire was.  Bruce Abel indicated he could not provide an average age; however, he can say we are not appealing to the younger folks.  He said there are many people who are coming to RTD as a second career.
+
+Director Menten asked if there was a difference between the starting pay for RTD employees and contractors.  Bruce Abel said there was.  He indicated that contractors start in the vicinity of $12 per hour.
+
+##### a. Class Tracking Report for 2015 - 2016
+
+##### b. Copy of Class Tracking Report 2015 -2016 Rail Operations
+
+#### 4. Lost Service Update
+
+Bruce Abel stated at the last Committee meeting there were questions about lost service.  He indicated that detailed information was provided to the Board in the February 9, 2016 Operations and Customer Service Committee Agenda Packet.  He reminded the Board that late in 2014 to early 2015 we were missing around 10 hours of service per day out of over 10,200 total hours.  In the summer it was up to 40 or 50 and in November of 2015 it went all the way up to over 500 hours.  He pointed out that since December this figure has been trending down but is not sure what February will hold with the recent snowstorm.
+
+Bruce Abel noted that the Board was provided with an analysis of dropped service by route.  He explained that this information is also broken down by operating division.  He said from his experience this seems to be cyclical as even though First Transit Commerce City is one of the divisions with the highest lost service last month, back in April they were helping us to pick up our dropped runs.  He stated that this is analyzed as one complete system (RTD and contractors) as everyone deploys resources as best we can to best serve our customers.
+
+Committee Chair Anderson thanked staff for this detailed report.
+
+Director Menten commended Gina Callahan, Acting Deputy Assistant General Manager of Bus Operations for her assistance with customers that have experienced hardships.
+
+##### a. Lost Service Update
+
+##### b. Dropped Runs By Route-Jan-16
+
+### D. Other Matters
+
+Director Bagley stated the Board should recognize the extraordinary work our staff provided to our customers during the recent blizzard.  He is really pleased with the efforts with the staff across the board.
+
+Committee Chair Anderson also thanked RTD for their efforts today because of their efforts for the Denver Broncos parade even though there were long waits.
+
+Director Sisk stated we performed in a spectacular way, stepping up and providing services for our passengers.
+
+Several members of the Board stated David Genova, Interim General Manager and CEO, made a great decision to provide free service on buses and light rails until 8:00 p.m.  Interim General Manager Genova stated it was a combined effort and kudos went out to the entire team.  Today was an extreme special event situation.  Bruce Abel mentioned there were between 750-800K people lining the streets today for the Bronco Parade and we were operating at maximum capacity.
+
+Director Deadwyler extended Kudos to the RTD staff and stated the crowds were a mess. She was disappointed we did not get mentioned by any of the local news channels regarding RTD’s efforts.
+
+Director Solano extended his Kudos out to all of RTD staff.
+
+### F. Motion to Move into Executive Session
+
+C.R.S. 24-6-402(4)(b) conference with an attorney for the local public body for the purpose of receiving legal advice on specific legal questions - pending litigation.
+
+Motion:               Committee Chair Anderson made the motion to move into executive session for the purpose to discuss C.R.S. 24-6-402(4)(b) conference with an attorney for the local public body for the purpose of receiving legal advice on specific legal questions - pending litigation.
+
+Director Sisk seconded the motion.
+
+Committee Chair Anderson declared the motion PASSED unanimously.
+
+The Board moved into executive session at 8:20 p.m.
+
+### G. Adjourn from Executive Session
+
+The Board adjourned from executive session at 8:54 p.m.
+
+### H. Adjourn
+
+The meeting adjourned at 8:55 p.m.

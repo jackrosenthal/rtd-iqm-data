@@ -1,0 +1,1040 @@
+Jul 10 2018 0530 PM Financial Administration &
+Audit Committee Committee SD 480
+KEN MIHALIK: Financial Administration and Audit Committee. And I'll call this meeting to
+order. Tonight we have two recommended actions and several updates.
+The first recommended action reads as follows. It is recommended by the Financial
+Administration and Audit Committee that the Board of Directors authorize the General Manager
+or his designee to execute all documents necessary to award a contract to Mythics for licenses for
+the ERP replacement program for an amount not to exceed $2 million over five years.
+Subscriptions for the ERP replacement program will be paid annually.
+And this recommendation addresses two of the GM's 2018 goals, core goal number three, strong
+financial management and task goal number one, fiscal sustainability. Do I have a motion?
+LORRAINE ANDERSON: Move approval.
+KATE WILLIAMS: Second.
+KEN MIHALIK: That's Director Anderson and seconded by Director Williams. Miss McKillop,
+do you have any additional information for us?
+HEATHER MCKILLOP: Yes, just real quick. This is Heather, and I wanted to introduce Rahul
+Sood. He is in charge of our Enterprise Resource Planning (ERP) program. So he's here to
+answer any questions that you might have of a technical nature. But Rahul has been working on
+this project with our business process groups mainly in the procurement area and in our
+budgeting area, so Jeannette's group and Brian Iacono.
+This is our first phase of moving from a different platform. And I'll let Rahul describe what that
+looks like. But as we mentioned, we're looking at phasing out our current Oracle reliance in the
+current form that it's in. And the first stage was to look at public sector budgeting and inventory
+because those are one, we don't have inventory right now electronically. And the second piece of
+it is the public sector budget budgeting will no longer be supported, so we would not be able to
+do our budget in an automated format going forward.
+So we chose to focus on those first. The next one will be the HR modules, and then after that, the
+backbone, the financial backbone. We'll be looking at moving that. Probably we will be staying
+with Oracle, but moving that to more of a software as a solution or a Cloud-based system. So this
+is a three-year-long plus process. This is the first one, of buying licenses, so that we can move
+forward and implement the public sector by budgeting and the inventory control.
+So with that, I'll just ask you Rahul to mention if I missed out on anything there.
+RAHUL SOOD: This is Rahul. The three-phased approach is basically just to get us from where
+we are. Our current support for existing licenses expire in December 2022. So hence we are
+
+starting this year to migrate all of our other modules into a more subscription-based approach
+rather than an on premise that we have to keep on supporting every year. So that's where we are
+heading.
+HEATHER MCKILLOP: And I just want to say this money, we have set aside $10 million over
+two years. This is part of that budget. And then we also a have maintenance money program that
+the money would come out of ongoing in the mid-term financial plan and the long range plan.
+KEN MIHALIK: OK. I see we have a number of speakers. Director Menten, you have the floor.
+NATALIE MENTEN: Thank you. So I believe we have one or two individuals who work for the
+agency, at one other ERP developers.
+HEATHER MCKILLOP: You have ERP developers.
+RAHUL SOOD: Yes. We have three developers currently in-house for ERP developers.
+NATALIE MENTEN: And so in those, when we're buying these new modules, I assume they
+work on integrating the system into these modules that we're purchasing.
+RAHUL SOOD: That is correct.
+NATALIE MENTEN: OK. And is that best suited for somebody in-house, or would that be
+better contracted?
+RAHUL SOOD: It will be better suited with somebody in house because they understand the
+existing system and integrate it into the new system.
+HEATHER MCKILLOP: Can I add something to that, though? We have contracted with outside
+vendors, too, to supplement staff in various areas of this implementation over the next few years.
+So their services will be supplemented with outside staff. And I forgot who that vendor is.
+RAHUL SOOD: I was focusing more on the integration side. But the implementation of the
+software will be done by a third party consulting company that we're going to hire.
+NATALIE MENTEN: And that would be outside this contract license.
+RAHUL SOOD: That will be outside of this contract license, correct.
+NATALIE MENTEN: Will that be substantial cost?
+RAHUL SOOD: For this planning and budgeting, we have estimated a budget of $600,000 for
+implementation.
+NATALIE MENTEN: OK. All right. That answers my questions for now. Thank you very much.
+
+KEN MIHALIK: OK, thank you. Director Folska.
+CLAUDIA FOLSKA: Thank you, Chairman Mihalik. Can you remind me when we changed to
+the Oracle system?
+RAHUL SOOD: 2006.
+CLAUDIA FOLSKA: And how long did that integration take?
+RAHUL SOOD: The implementation took about three years.
+CLAUDIA FOLSKA: And how much was that?
+RAHUL SOOD: I'll have to get the numbers, but we can get back to you.
+CLAUDIA FOLSKA: OK. Thank you.
+KEN MIHALIK: OK. Thank you. Director Williams.
+KATE WILLIAMS: Thank you, Chair Mihalik. Good evening, ladies and gentlemen. So the
+pricing that we have on this is based on our size. Or is it a flat fee across the industry?
+RAHUL SOOD: So different modules are priced differently. Planning and budgeting is priced
+for 100 users within the district to be able to use the planning and budgeting application. For the
+procurement, sourcing, and contract management, we have the entire district licensed to be able
+to use that module. For inventory planning, we have 25 users licensed. And the licenses is based
+on the number of parts that we reorder every year, so it's based on that parts.
+KATE WILLIAMS: Thank you. That's what I wanted to know.
+KEN MIHALIK: Thank you. Director Broom.
+BOB BROOM: Thank you, Chair. A couple of comments. One, I get alphabet fatigue after a
+while. You know, I'm wondering what is ERP?
+RAHUL SOOD: Enterprise Resource Planning.
+BOB BROOM: So I would suggest when you do memos like this, the first time you use that in a
+memo, to put that behind it just so you don't cause me all that heartburn trying to figure out what
+that is.
+RAHUL SOOD: We'll take that into consideration, definitely.
+BOB BROOM: The other thing is that I've seen time and time again, when major software
+systems are implemented by large governmental units, that it ends up a godawful mess. And the
+
+things don't work right and so on and so forth. So we'll keep our fingers crossed. I don't have any
+experience with RTD, but I've had experience with other organizations. Thank you.
+HEATHER MCKILLOP: Well, this will be my fourth one. So we hope it isn't a godawful mess.
+But I think we're taking a totally different approach on this one. There are a lot more options
+available to us than there have been in the past. And one of the big moves is moving off of it
+being on premise and us having to support all the servers, having to deal with the updates, the
+patches-- thank you-- and those type of things, which is basically what we're paying them to do.
+Hopefully we'll not get in a situation where we are now 12 years later and we've done what, one
+upgrade in that whole 12-year period when we probably should have done three or four but didn't
+because of the expense. So this is a different way of looking at it. We hope it will be successful.
+And we've been planning this since I started, so three years now. So there's been about three
+years of planning going into it. I don't know if that ensures success, but we're going to make it
+that way. Rahul's job-- no, just kidding. I was going to say Rahul's job is dependent on that. But
+no pressure, Rahul.
+And we'll keep regular updates because we'll be coming back to you at periodic times when we
+go for the next set of licensing, when we go for the implementation cost, those type of things. So
+over the next few years, you'll have multiple updates on how the progress is going.
+BOB BROOM: Thank you very much.
+KEN MIHALIK: Thank you. Director Folska, before I get to you, I'm going to interject real fast.
+What would the equivalent licenses have been, the ones that these are meant to replace or
+upgrade?
+RAHUL SOOD: So the current license model differs from this license model because we bought
+it as a suite of tools, and we licensed different modules based on different user need at that time
+of the implementation timeline. So for example, let's say inventory planning, currently we have
+15 users licensed. So we are going from 15 to 25 just to accommodate for the growth. So
+different modules are licensed differently in the current system, and they're licensed differently
+when we are going to the new subscription model.
+HEATHER MCKILLOP: I think what you're asking, though, is what would the cost difference
+be if we had gone the old methodology of implementation versus this methodology. And we can
+get you some comparisons of those numbers, but probably in the tens of millions of dollar
+difference.
+KEN MIHALIK: I'm sure there's a substantial cost avoidance, essentially, or at least a still a
+trade-off.
+HEATHER MCKILLOP: And there is a trade-off because what you're paying for the old way of
+doing is you're funding all those costs up front, and then you're kind of amortizing them over
+time. This way we're paying for it every year. So in the end, I'm not sure, if you did it over a
+five- or 10-year process, that it would be that much different.
+
+The problem that we've seen in this organization is we've never funded the expensive upgrades.
+And this prevents that issue from happening in that you have a kind of a constant price that you
+know over time, which includes all those patches and upgrades and things that you need to do to
+stay current.
+BOB BROOM: So cost of good repair or state of good repair for the software.
+HEATHER MCKILLOP: Exactly. And all the hardware piece is on the vendor instead of us.
+KEN MIHALIK: OK, thank you. Director Folska, you have the floor.
+CLAUDIA FOLSKA: Thank you, Chair. Heather, I'm sure you guys have done a cost benefit
+analysis with the present value.
+HEATHER MCKILLOP: So we've done something similar to that when we presented it to our
+internal IT governance committee back in 2017, early '17. I don't have that handy, but we can get
+that for you.
+CLAUDIA FOLSKA: I'd be real interested in that. And then just out of curiosity, do you go to
+your user groups and ask them what they need and what's going to work best for them?
+RAHUL SOOD: Yes. It has been a two-year-long process looking at different products, different
+demos with the user community, with us, within all these three different module space. So all of
+the users have been 100% involved during the entire selection process for the product.
+CLAUDIA FOLSKA: OK, thank you.
+KEN MIHALIK: And real quickly on the check with Director Deadwyler to see if she's-- oh,
+you're with us.
+BARBARA DEADWYLER: Thank you for that. I have nothing, thanks.
+KEN MIHALIK: OK. Thank you. I did forget about you, and thankfully I was reminded that you
+were still on the phone. So apologize for that. Director Menten.
+NATALIE MENTEN: Yes. Forgot that I did definitely want to ask about one issue that's very,
+very important to me. And that is with our financial transparency on the website right now, we
+have a PDF of our purchases and PDF of purchase orders, which is present on the policies page
+of financial. Looking at other governments, we're way, way-- I appreciate it because before I
+came here we didn't have either of those. But now we got the PDF, which you can convert it in
+the Adobe converter, put it in a spreadsheet.
+But looking at other governments, we're really, really behind. So what I'm wondering is if this
+will make it easier for us to include a check register and purchase order in a searchable type of
+format, with the main focus being that vendors would be able to see what we buy, including
+when it says payee, or check made out to ABC Corp it includes the description, so that anybody
+
+who is a competitor with ABC Corp could say, ah, that's what they bought. Oh, we supply it.
+Let's submit our interest to be included in the bid proposals.
+RAHUL SOOD: Yes. As part of the sourcing and contract management module that we are
+getting as part of the ERP Cloud subscription, vendors will have access to come in and not only
+take a look at what solicitations are out there, apply for solicitations online, work with the
+procurement department in a much more collaborative online perspective. All of the Request for
+Proposals (RFP), Request for Qualifications (RFQ) will be available online for anybody to look
+at any given time.
+Once the RFP, RFQ is awarded to a vendor, that award will be available on the same website.
+Who the vendor is, what the selection criteria was, all of that will be available online, yes.
+NATALIE MENTEN: And our check register?
+RAHUL SOOD: So that's part of the phase three with finance. When we move finance over into
+this new solution, they will have access to that information.
+NATALIE MENTEN: And when would phase three approximately be, do you plan on?
+RAHUL SOOD: We need to finish it before 2022.
+NATALIE MENTEN: OK. Well, we only got a certain amount of time.
+HEATHER MCKILLOP: We would expect it to start around 2020, and then implementation, be
+done prior to 2022. That's the biggest piece that were moving.
+NATALIE MENTEN: OK. Offline, I'd like to have some more conversation because it is very,
+very important, I think, to our financial and vendors and all above. OK. Thank you very much.
+That's all.
+KEN MIHALIK: And thank you one more time. Back to Director Folska.
+CLAUDIA FOLSKA: Thank you, Chair. I'm so sorry for doing this, but I do think this is an
+opportunity that I would be remiss to not ask. And that is that when agencies purchase ERP
+systems, that they are accessible, that they are compliant with all of those accessible codes. Have
+you looked into that? And do you have the expertise to do that?
+RAHUL SOOD: Yeah. So we are looking at anything customer facing or vendor facing that will
+be part of the ERP will be accessible friendly. So part of that going to the Cloud approach, all of
+these Cloud vendors certified in a certain-- I'm forgetting the codes-- but 508 compliance, they
+do certify those external facing competence that the customers and vendors are going to use in
+that format, yes.
+CLAUDIA FOLSKA: My hope is that the people internally would have access to that as well
+because someday you may hire somebody with a disability who could be needing an accessible--
+
+RAHUL SOOD: Definitely. And current system that we currently have is not even accessible
+friendly.
+CLAUDIA FOLSKA: I know. Mine isn't right here.
+RAHUL SOOD: The new one, the vendors that we are looking at, all of those vendors basically
+have HTML5 capabilities within that browser, where they make it much more accessible
+friendly. Whether they are 508 compliance for the entire solution or not, that we will have to
+evaluate.
+CLAUDIA FOLSKA: All right. Well, I think that should be a requirement, and it's their job to
+build that into their architecture.
+RAHUL SOOD: We can work that out.
+CLAUDIA FOLSKA: Great. Thank you.
+RAHUL SOOD: Thank you.
+KEN MIHALIK: OK. Thank you. Seeing no other speakers, we'll move to a vote. And the mover
+was Director Anderson and the second was Director Williams.
+BARBARA DEADWYLER: I vote yes.
+KEN MIHALIK: Oh, yes, thank you, Director Deadwyler. With Director Deadwyler's yes, that's
+13 yeses. Passes unanimously. It's move to the unanimous consent agenda. Thank you very
+much.
+And the second of two recommended actions tonight reads as follows. It is recommended by the
+Financial Administration and Audit Committee that the Board of Directors authorized the
+General Manager or his designee to award a five-year contract to active navigation in a total not
+to exceed amount of $869,539 for a data and content analysis software or record crawler. This
+recommended action addresses the GM's 2018 goals, task goal number one, fiscal sustainability,
+and task goal number three, asset management state of good repair.
+BOB BROOM: So moved.
+LORRAINE ANDERSON: Second.
+KEN MIHALIK: I've got Director Broom as a mover and Director Anderson as the second.
+Thank you very much.
+ROLF ASPHAUG: Yes, Chair Mihalik? This is Rolf Asphaug, General Counsel. To speak on
+this recommended action, I'd like to introduce our Senior Manager for the Information
+Governance and Management Division at RTD, Linda Buss. Linda will explain the purpose of
+this procurement and how it fits into RTD's overall information management strategy.
+
+KEN MIHALIK: Thank you very much.
+LINDA BUSS: Thank you for this opportunity. So I'd like to give you folks a little background
+on this particular procurement. In 2016 we hired an information governance consultant, IQBG, to
+go through the current state of the records management and information governance capabilities
+at RTD.
+What they recommended is that we proceed to purchase a data and information analytics tool,
+which is also called a crawler. It's not really a very attractive name. But it certainly describes
+what it's designed to do, which is to look at electronic files in a folder on a share drive and
+identify duplicates, near duplicates, and the official record copy. So the crawler is really key to
+implement a strategy to remove duplicates within the file systems that we are currently using.
+Now the procurement can seem a little expensive at this point. But this is for five years for the
+support and the licensing of this product. The purchase has already been vetted by the
+information technology governance board to confirm our need for the purchase, as well as
+sufficient internal resources to support it. It has also undergone review through the budget
+process.
+IGM's goal-- Information Governance Management-- is to reduce storage of information in
+unauthorized locations, identify and remove duplicates-- a technical term we use is deduping-reduce storage costs, identify the most current version to preserve as the record copy, and also to
+improve current processes and practices when it comes to managing information as an
+organization.
+So what kind of an impact would this type of product have for RTD? Roughly 40% of the total
+content in a prior pilot scan, nearly 1/2 the electronic data that's currently stored on our systems
+was identified as being obsolete or with no significant value to RTD. In technical terms, in the
+records management field, it's called ROT, redundant, obsolete, and trivial.
+Some of the content that was contained in the pilots also appeared to be credit card information
+and social security numbers. So that's another reason we need to move forward, identify this
+information, and to get it off of the share drives and into the correct repositories where it can be
+accessed controlled and dispositioned or deleted at the end of its retention.
+Reducing the volume of files on the share drives, makes it easier for RTD employees to locate
+the information that's necessary to perform their jobs, helps IT manage the storage space, and
+encourages RTD employees to use the repositories that were designed to protect this information.
+KEN MIHALIK: OK. Thank you for that description. We've got two speakers. Director
+Williams.
+KATE WILLIAMS: Thank you, Chair. I have a question probably just for my own knowledge.
+The crawler does remove data that is time dated? Are we required to maintain those records for a
+certain period of time? And does this help to remove outdated stuff?
+
+LINDA BUSS: So crawler is actually designed to allow us to create rules that we will compare
+against the content of a file. So it may be 15 years old. The content is identified as non-record
+material, and so that file would be flagged as ready to remove. Content that is part of the records
+retention schedule would be flagged for someone from the Information Governance and
+Management division to actually put eyes on and make a determination whether yes, this is ready
+to disposition, or no, we need to keep this a little longer until it's reached the end of its retention.
+So it's very flexible. It's a very sophisticated software application. And we can configure it to do
+a number of the different things that we really need it to do.
+KATE WILLIAMS: Thank you. That was a great answer.
+KEN MIHALIK: Thank you. I'm going to check in with Director Deadwyler, see if she has any
+questions.
+BARBARA DEADWYLER: No, I don't. Thank you, Chair.
+KEN MIHALIK: OK, thank you. And Director Folska, you have the floor.
+CLAUDIA FOLSKA: Thank you, Chair. I don't know where I've been lately, but I have never
+heard about this IT governance board until recently. And I'm wondering if you could tell me
+what this body is and who is on this board, and where are they, and what do they do?
+DAVE GENOVA: Rolf or Heather?
+CLAUDIA FOLSKA: What's the policy behind having them?
+ROLF ASPHAUG: Heather is coming up because that board, Director Folska-- this is Rolf
+Asphaug again-- is chaired by the IT division. But it is a group that evaluates anything that is ITrelated, software, hardware, anything that has an information technology component, to
+essentially make sure that the purchase is sound, that we have the resources not only to buy some
+shiny new item, but to actually support it over the years, and that it fits into our overall business
+plan and business needs. Heather's up at the table and can provide more information on that.
+HEATHER MCKILLOP: Well, he did a great job of explaining. It's made up of the SLT, Senior
+Leadership Team members, as well as procurement, quite a few from the IT staff. So we have
+various individuals across the organizations that might be impacted both from a budgetary
+standpoint, but also a resource standpoint.
+We had a point several years ago before it was created that we had a backlog of IT projects, and
+there were lots of complaints about not having transparency in the organization into when those
+projects would be completed or the resources available. Through implementation of this
+governance committee, we've been able to eliminate that backlog and provide transparency into
+when projects would be done.
+
+And that group actually makes decisions about prioritization of those projects within the existing
+budget and the resources that we have available to us in IT and the different business groups that
+might have to do the testing and other things related to those type of projects. So it's been very
+effective, I think. Of course, it's my committee, so I thought it was very effective. But I think it's
+been a great way to bring some transparency to the process, and I think it's improved the
+relationship between all of the other divisions and IT within RTD.
+CLAUDIA FOLSKA: So it's been referred to as an IT governance board, and it seems to me that
+the only governance board we have is this board that's been elected. And I'd like to see a policy
+around this if there is one. And I think it's a governance board, it's appropriate to have some
+board members on that governance board.
+HEATHER MCKILLOP: It's an internal governance committee regarding IT projects. So it's not
+designed to be a policy committee. It's not designed to replace the board. It's designed to be an
+internal makeup to be able to address the prioritization of projects that the board has adopted
+through the budget process.
+CLAUDIA FOLSKA: Like I said, I'd like to see a policy on that. You called it a governance
+committee, governance board. This is the governance committee, board, whatever. And I think
+it's important that we have a view into it. It's not been transparent, to me, at least. And it could be
+my fault. Maybe I missed it. But this is new to me. Thank you.
+KEN MIHALIK: OK. Thank you, Director Folska. Thank you, ladies. Seeing no other speakers,
+we'll go to vote. And I have Director Broom as the first and Director Anderson as a second. Yes,
+Director Deadwyler, what was your-BARBARA DEADWYLER: I vote yes.
+KEN MIHALIK: OK. Thank you. And same as before. 13 yeses, no no's. This will move to the
+unanimous consent agenda.
+Now we move on to a series of updates, first being an update from the audit department. Miss
+Isaac-Heslop, Mr. Parker, thank you very much. Were you looking to display it on the-- well, if
+you've got it, we've each got it on our packet. Maybe it'll pop up there here in a second.
+Director Deadwyler, we're just trying to get squared away here.
+ANN MARIE ISAAC-HESLOP: Hi, Chair and Vice Chair, ladies and gentlemen. Ann Marie
+Isaac-Heslop here, Manager of Internal and IT Audit. And Kevin Parker is the Senior Auditor.
+We're going to do a short, smooth update. I know you guys heard the word short up a lot today.
+But how about if we just said, questions?
+So what we've presented, we have put together a short slide show which has a list of completed
+audits that we've done. Some of these we've been working on for quite a while. But we've
+managed to come to a final report on some of them. We also have listed a lot of in progress
+audits. This isn't everything that we're doing, but it's a lot of the audit work that we're currently
+
+doing. We have a lot of follow-up audits, and we have some further information on the final slide
+there.
+We have put together a package and sent it to each of you with all of the completed audits. And
+basically when we come to these meetings, we're coming to see if there are any questions on
+anything that we have done, have in audit plan, or have in progress. So with that, I will open it up
+to questions.
+KEN MIHALIK: Well, that was short. I'm looking around. I see one. Director Menten, you have
+the floor.
+NATALIE MENTEN: Thank you. I will start with, first, the items that are in the presentation
+that was on our screen-- and is on our screen, I should say-- and taking a look at a couple of
+these. These will be some comments and then a couple of questions.
+One was civil rights. I do appreciate the findings that there needs to be a closer eye on the
+functions. I am concerned when this organization goes to events where the ticket prices are $80,
+$100, or more for a dinner, what that looks like to the community. And I don't believe that it falls
+within the reaching out to the common person. So I'm going to agree with the findings in the
+civil rights audit.
+I will then move to the FasTracks staffing audit, which you had provided the paper document
+here. And in noting there's a couple of items that I appreciate you bringing to attention. And
+specifically on the recommendations there that we right now have 38 vacancies showing in the
+organizational chart, and the recommendation is that those should be removed immediately.
+I would have to agree with that, as we have completed buildout on a big chunk and we won't be
+able to move forward into anything else with the buildout for a substantial amount of years. So I
+will look forward to that progressing in the follow-up. Since that is completed, you will still have
+the follow-up, so I'll look forward to that. Would that be something we could expect in the next
+quarterly report, or might that take a little bit longer?
+ANN MARIE ISAAC-HESLOP: First of all I want to say that the 38 vacancies were in the
+FasTracks reorg org chart. So it wasn't under Capital Programs. It was in the FasTracks reorg org
+chart. So I think sometimes it gets a little bit confusing whether it's 38 vacancies showing up
+under Capital Programs or whether it's under FasTracks.
+We did have a management response on it that says that Heather will actually be working with
+Capital Programs/ FasTracks with Henry to remove those. So it kind of just depends on not just
+audit, but basically on the timing for both of them, when we would be able to come back with
+anything on it.
+NATALIE MENTEN: OK. So on the follow-up, then, it may be a better number than on where
+the split is between O&M versus the build. Would that be an accurate way to put that? Yeah,
+OK. Great. I'll look forward to that one, then.
+
+Then I know in the past with the audits regarding salaried positions and salary increases, and also
+what we would call promotions or lateral changes, in the last couple of weeks I had requested
+some more information on how we address what we would call job comparisons. And there's two
+different levels because Heather, you and I had talked after the meeting last time. And I'm not
+sure where we are on going through with having an independent evaluation.
+And I know there's some other board directors, at least a couple, that are interested in knowing-we're getting a point where we are stretching our dollar further and further. And keeping a closer
+eye on the promotions, the salary increases, the positions that are being filled, and how we
+accurately look at the job descriptions of the agency compared to an independent private sector
+because we already do it somewhat with the government.
+But we don't do it, really, as far as I'm understanding, as much with the private sector, and
+especially tying in pensions, which is a problem with this agency throughout the country. And it
+seems hard to compare apples to apples in that with private versus public. So could you explain a
+little bit on how we are addressing that independent evaluation of our FTEs and filling the
+positions for me, please?
+HEATHER MCKILLOP: Sure. This is Heather. And that was a lot of questions there, but I will
+try to take them. And then you'll have to remind me if I missed something.
+So in a previous audit that I believe was early 2015-- it was right after I got here, so sometime
+early to mid-2015-- there was an audit finding that came out that said that perhaps that we
+needed to do a classification study. So there is a difference between a classification study and a
+salary survey. So I'll talk about what a classification study is first. The recommendation is that
+we might want to use an outside firm to do that. And again, I believe that was sometime mid2015.
+Classification study really looks at all the job descriptions you have within the organization. And
+are there jobs that are similar, or like, that can be grouped together and perhaps renamed or
+called something that's more relevant to what it's being called in the industry today. And industry
+could mean private or public sector. Typically that does not deal with salary per se in that
+somebody might have a salary adjustment as they get moved into a different classification title.
+But it doesn't look at, necessarily, the salaries for each classification. But it does look at overall.
+An example I use is that one time when I first came, we had 15 different job descriptions for
+budget analysts, and we consolidated that into four. So that's what a classification study does.
+Rather than doing that externally, we have looked at doing that internally piece by piece.
+My experience is if you do that all at one time, it can be very chaotic for the organization. But if
+you look at it on an individual basis, that might produce better results. We have looked at the
+budget analyst series. We're looking at the administrative assistant series now. And we'll
+continue through the organization to do that.
+That doesn't happen very often. Typically that happens on a, maybe, five-year, seven-year basis
+that you do something like that. It would probably cost several hundred thousand dollars if we
+
+went externally to do that. It's still an option, but we've chosen not to pursue that option at this
+time.
+The second piece of it is the salary survey. And that's done on a regular annual basis, where you
+go out-- and we use Mountain States, we pay Mountain States-- to look at both public and private
+sector and see where our positions fall. And we compare through job descriptions and some other
+criteria, where do our positions fall within similar positions throughout the Denver metropolitan
+area, state of Colorado, and then nationally.
+We have paid more attention recently specifically to the Denver metropolitan area because that's
+who we compete with for positions. And this happens to be an area that tends to have higher
+wages than a lot of the rest of the country. And that salary survey, we do that annually. We look
+at how we compare. We try to stay around the mid-range for most positions. There are going to
+be some positions that are slightly above the mid-range just because they don't fall exactly into
+what a comparison is. And there'll be some that'll be low. But if we look at all of our positions,
+we try to keep those around the mid-range.
+You may have heard of progression pay that was mentioned in some previous audits. That was
+done to move people up so that they met close to the mid-range. Last year we had 51% of the
+people slightly above and 49% slightly below. That's an equilibrium for us. So we discontinued
+progression pay the last two years. So 2017 there was no progression pay and 2018 there was no
+progression pay.
+We continue to look at that on an annual basis because we don't want to get too far behind the
+market. Otherwise, we have to do significantly larger pay increases. That happened in 2013-14, I
+believe, which is what the audit found, because we had had four or five years with no pay
+increases whatsoever. So that's kind of done on a global level every year.
+And then on an individual basis, as positions become vacant, we have the hiring manager
+reviewed it to make sure that the job description is still accurate for the particular position that's
+vacant. Do they still need the position? Does the job description need to change? If it doesn't
+need to change, then we use whatever the market is compared to, and we use Mountain States for
+that comparison.
+If it does change, then we go out and do an analysis through Mountain States as to what are
+comparable positions with that job description look like. And then we use that salary range as
+our salary range. So there are several different ways of doing that, different methodologies over
+time. But on an annual basis we do look at salary compared to what's out there in the market. We
+make adjustments--and again, we haven't done that for the last two years. But we do consider
+that every year when we look at it.
+The last part of your question was how do we factor in those other benefits piece of it? So each
+year our employees get a statement that shows how we equate the dollar amount of the benefits
+that they receive on top of their salary. So it's a total compensation package, we call it, and it's a
+total compensation letter that we get. That is the information that we also use to compare on
+another basis.
+
+So maybe in Company B, they don't have a pension plan, but they match all their 401Ks. Or they
+don't have as good of a health care plan, but they offer a much better 401K or something like
+that. So we do it on a money comparison basis. So we don't look at do you have a pension plan?
+We look at, OK, we have a pension plan. This is what we contribute from a dollar perspective.
+What does that whole compensation package look like compared to the other industry segments
+that we're looking at? I hope I addressed most of those questions.
+NATALIE MENTEN: Yeah, I think we got pretty close. Will I be able to get the Mountain
+States report in full?
+HEATHER MCKILLOP: So we're still discussing that. I'll talk to you offline about that.
+NATALIE MENTEN: All right. I will also follow up, then, with one other question. And this
+will be more directed, whoever would like the answer. In the past we had a recommendation
+from the audit department to put our audit reports online for public transparency. My
+understanding is that was nixed at a higher level. And I would like to know an answer about
+putting our audit reports for the agency online for the public to review.
+DAVE GENOVA: I have no problem putting them online. They're public documents. I don't
+recall the conversation about previously putting them online and who said no to that. I don't even
+recall the conversation.
+NATALIE MENTEN: OK. I remember I had that with you in one of the meetings that was after
+one of our executive committee meetings upstairs, where you were going to talk to Anne Marie
+after I brought up what was mentioned. So if we are good putting that online, then I would love
+to see that proceed because I think that would be a great asset in our statement of being very
+visible and serving the public.
+DAVE GENOVA: Certainly we put a lot of our publicly available reports online, and I don't see
+an issue with these.
+NATALIE MENTEN: OK. Thank you. That's all my questions.
+KEN MIHALIK: Thank you. And looking through some of the P-Card audits, I think RTD
+should be proud to put this online. They seem to be really tight controls.
+NATALIE MENTEN: Oh, I'm sorry.
+KEN MIHALIK: Yes. One more question, Director Menten.
+NATALIE MENTEN: Kudos for the paper here, Rolf. I think you had the best one out of here.
+ROLF ASPHAUG: Well, thank you, Director Menten. We still had a finding, and we've gone
+ahead and communicated to all of our staff to make sure that we do what was recommended to
+do.
+
+NATALIE MENTEN: You have the least amount of paper in your stack. Very good.
+KEN MIHALIK: OK, thank you. Director Folska.
+CLAUDIA FOLSKA: Thank you, Chair. I know that, Ann Marie, a few years ago, actually, we
+were talking about all the audits that you do. And it's been somewhat contentious on the board
+who gets to ask for audits and so on and so forth. Can you tell me how many audits you do
+annually?
+ANN MARIE ISAAC-HESLOP: Around 2016, we sort of got away from the idea that we
+needed to do a number of audits each year, the reason being some of the audits take a really long
+time. According to the Association of Local Government Auditors, a team of less than five
+people do approximately four audits per year. Since I've been here in five years, Kevin and
+myself have done up to 21 audits and more in one year. So I try to stay clear of a particular
+number because if we went for a number, I would really like to go for the four audits a year.
+CLAUDIA FOLSKA: Right. And so what does it take? What I find so incredibly impressive
+about auditing is that you have to have a deep knowledge of a broad breadth of different
+disciplines throughout this agency, whether it's the P-Cards or the bus operations or
+administrative. Every single thing in IT is so complicated, and there are layers and layers and
+layers.
+And I know that one of the things that I had asked for is that we find a way to enhance your
+department by providing you the necessary resources, i.e. budget, to support the efforts that this
+agency has asked you to do. Has that been done yet?
+ANN MARIE ISAAC-HESLOP: For 2018, we actually got some money, $100,000 a year for
+five consecutive years, which we've spoken to the General Manager today about. This is what I
+want to say, that between Kevin and myself, we have more experience than the years that I've
+been on this, and that's a considerable long time.
+So basically, between the two of us, we have a lot of experience. It allows us to be able to get in
+there and actually do the work in less time than someone else who was newer to auditing.
+However, now that we have this money, we've been doing some research into trying to figure out
+how we can get a contractor and how many hours we can get.
+And we've kind of been sort of really on a high. We got the money and then put in a low. And
+we realized that when we go out to conferences, et cetera, and we meet contractors who can do
+the work, they are telling us, well, you can probably have two months, but I won't be able to stay
+in your office. We can probably do a couple of audits for you for the $100,000, which we don't
+feel that's OK.
+And we know the market is very active. Everybody has a lot of work. I sit on a roundtable with
+chief executives like myself from other mostly private sector, and they just laugh. They're like,
+$100,000, don't even come near us. But for us it's fantastic. So basically we have to really think
+
+about how we can use this resource to get the most out of it at the moment, rather than just taking
+the 60 hours or whatever some contractor is willing to provide for us.
+CLAUDIA FOLSKA: So it sounds to me that your department is inadequately funded to do the
+job that the people in this agency have asked you to do. Is that correct?
+ANN MARIE ISAAC-HESLOP: We've asked for resources for several years. And we were
+speaking today about it to the General Manager.
+DAVE GENOVA: So if I may, Chair Mihalik, so every year the board approves the audit plan.
+And so I think that that would be the timing. And historically it's run around, up until the last
+couple of years, around 20 audits or so including some follow-up audits and things.
+So typically internal audit will bring that to the board and in the fall as far as a proposed audit
+plan after audit has reached out to the board of directors and then also staff about suggestions for
+audit areas and audit types. And then they put together an audit plan. And the resources over the
+last years historically have been able to accomplish that audit plan.
+So if we wanted to do additional audits or additional things into the audit plan, then we probably
+would have to bring on some additional resources to do that. But it just depends on the breadth
+and scope of the audit plan.
+CLAUDIA FOLSKA: OK. And with the new technology that we just voted to purchase, were
+you part of that user group, Ann Marie?
+ANN MARIE ISAAC-HESLOP: No. This is for the ERP stuff?
+CLAUDIA FOLSKA: We're purchasing a new ERP system that will be live in 2020, 2022. So
+were you part of the user group to see how that will help you automate your activities?
+ANN MARIE ISAAC-HESLOP: We were not a part of it.
+CLAUDIA FOLSKA: OK, because they just told me, this board, that they had everybody
+throughout this agency. It's an enterprise-wide system. What kind of automated system do you
+use to perform your duties?
+ANN MARIE ISAAC-HESLOP: We use absolute manual system, including writing on the
+coordinates of the white paper with a red pen.
+CLAUDIA FOLSKA: So I think, then, it is quite fair to say you are inadequately equipped to do
+your job as highest and best use of your time and ability. And I would ask that this agency and
+you, Mr. Genova, put it in the budget that this department is better funded for this automation.
+This, I think it's appalling. I'm sorry. That's all I have to say.
+HEATHER MCKILLOP: So Mr. Chair, if I could address that one.
+
+KEN MIHALIK: Sure.
+HEATHER MCKILLOP: So remember the licenses you were approved for public sector
+budgeting and inventory control. We have not started the process on the financial management
+system for Oracle, which is where they derived most of their information. So that is not two
+areas that they would be affected by, inventory control or public sector budgeting.
+CLAUDIA FOLSKA: Well, the fact that everything we do here is using a computer except for
+the auditing department, again, I say is appalling. This needs to be electronic. This is not the best
+use of anybody's time to be shuffling papers around and writing it down by hand.
+KEN MIHALIK: Thank you, Director Folska. If you care to follow up with them later on, please
+do. Director Anderson.
+LORRAINE ANDERSON: You know, I thought it took eight people to [INAUDIBLE] what to
+do. Thank you.
+KEN MIHALIK: OK. I see one more. Director Lubow.
+JUDY LUBOW: Thank you, Chair. I just want to chime in because it seems to me that the audit
+department is essential in terms of quality control for any organization. And perhaps there's
+enough people. Perhaps there could be a significant improvement if there were additional people.
+I don't know. I'm just hoping that there is a review of the audit department, a recent review to see
+if a significant improvement of the agency could happen if there were additional staff. I'd be
+interested in seeing a result of that review, and just moving forward, for the benefit of the
+agency. That's all. Thank you.
+KEN MIHALIK: OK. Thank you for that. So no other commenters? Thank you both. Oh, sorry,
+hang tight. Let me see if Director Deadwyler, are you still with us? And do you have any
+comments or questions for the audit committee or the audit department? I don't think she's with
+us anymore. OK. Thank you both.
+HEATHER MCKILLOP: Thank you. So we'll try to keep these next two as brief as possible.
+The mid-term financial plan, this is the third time, I believe, that you have seen that plan. So
+we'll be a little more brief. The long-term financial plan is the first time you'll be seeing it. The
+good news is that both of the plans are balanced. They are both in a better situation than they've
+been for years that I've been here, so that's good news.
+And so with that we're going to go on the mid-term financial plan. Jannette's going to go through
+some of the differences from the last time you've seen them. Unless there are changes tonight,
+we will not be bringing them back again until September.
+We're in a wait mode right now to find out how the fare structure meetings go and what the
+recommendations will be back to this board in September. Depending on what those
+recommendations are and how it impacts these plans, we may or may not have to make changes
+
+to it. So that's kind of where we are in a nutshell. And with that, I'm going to turn it over to
+Jannette to walk through some changes since the last time you were here.
+JANNETTE SCARPINO: Thank you. The mid-term financial plan is made up of the Strategic
+Budget (SBP) and the Annual Program Evaluation (APE). These two plans are integrated into
+one through the year 2024. We also do a long-term financial plan through 2040 in a separate
+document, which we will speak about shortly.
+The components include fiscal management, continued building of reserves. With respect to that,
+we are looking at a steady increase to the board-appropriated fund and the operating reserve. The
+capital replacement fund will be used by the base system through 2021, and then it will be
+funded again in 2022. We want to maintain service levels. We will budget for operations and
+maintenance of completed projects, state of good repair. We may have an opportunity to lock our
+diesel fuel. We are currently budgeting $2.20 a gallon. The futures market is roughly $2.36 a
+gallon for 2019.
+And I think the biggest change is here, and that is that we have closed the previous gap, which
+you saw in our first draft, of $65 million. And we've done this by identifying our highest priority
+projects. So we have eliminated many of them or reduced them or deferred them. We are still
+making these decisions about our projects. But the current plan, this version, is balanced. That
+includes a planned fleet expansion, which we will pay for with previously issued COPs or local
+funds.
+You know our uncontrollable and controllable variables. We've been through this before. Our
+revenue assumptions are essentially the same. We are using the March 2018 forecast from the
+University of Colorado Leeds School. I do want to point out that while the Leeds School was
+forecasting a 4.1% increase in 2018 over 2017, our current run rate is something north of 6%.
+We saw an April increase year over year of 6.8%. In May our year over year increase was 6.2%,
+so we're a little ahead of the curve. CU forecasted a bit of a slowdown in 2018 because they
+thought that the Colorado economy is at capacity. In our plan we've also reinstated the marijuana
+sales tax, and we will see that in the CU Leeds September forecast.
+We've shown you this chart before. But just to remind you, upward slope. Our revenue
+assumptions also include grants, local and third party revenues, largely on the FasTracks side,
+and we are not assuming any new debt coming into the plan over the six-year period.
+Our expenditures, suffice to say-- you've seen this before-- essentially we are inflating our O&M
+costs at the CPI rate. I talked about fuel just seconds ago. Debt service, again, no new debt is
+assumed in the plan. And with respect to project and capital expenditures, as I said, the base
+system will be drawing down the capital replacement fund in 2019. But we will resume funding
+of it in 2022. And more importantly, we do not anticipate the system needing to transfer any
+dollars to FasTracks over the mid-term plan.
+Our reserves assumptions, we talk about this all the time. We strive for a combined three months
+of O&M cost in our three reserve funds, the board-appropriated fund, the operating reserve, and
+
+the unrestricted fund balance. We believe this will be sufficient to withstand economic
+fluctuations.
+With respect to the FasTracks Internal Savings Account (FISA), we expect that it will build
+rather significantly. We will use it in the short term, but it will build rather significantly through
+2024.
+This is the summary cash flow for the base system. I'm not going to belabor this either other than
+saying that note the adjustment to balance line, which is the red noted line right after line five.
+There is no need for an adjusting entry here. We have the plan balanced at this time. And that is
+noted by line 33, which is the unrestricted year end fund balance. It is positive in all years.
+I will point out that years 2019 through 2021 are a little bit skinny. Those are our tight years.
+That took some work. But after that, the plan generates cash flow rather nicely.
+This is a graph of our projected sources of funds for 2019. Note our largest sources, sales and use
+tax, revenue, and passenger fares. And similarly, a pie chart of our uses of funds, our major uses
+being operating expenses, capital expenditures, and debt payments.
+And finally, for my part, we just want to graph the base system reserve balances. And this is kind
+of interesting because the blue line represents our unrestricted year end fund balance. And as I
+said, it is projected to increase as the plan generates strong cash flow in the years 2022 through
+2024.
+But in the first three years, 2019 through 2021, it's a little bit tight. We are looking for steady
+plan growth of our other funds at $3 million in each fund each year. However, in the final plan,
+we may change these contributions and push more into the board-appropriated fund and
+operating reserve. But the point of this chart is to see how the cash flow is generated after those
+early years.
+So with regard to FasTracks, Susan will take it from here.
+SUSAN COHEN: OK. This is Susan Cohen talking about FasTracks. The assumptions are
+basically what you saw last month. We will be completing our ongoing projects closing out US
+36, Eagle, and I-225, in completion of the committed segment of North Metro through 124th
+Avenue and the Southeast Rail Extension.
+And we have assumptions for state of good repair for all the corridors except Eagle. Eagle's cost
+of state of good repair is actually included in the Concession Agreement, so we don't budget a
+separate allowance for that. We begin that allowance at 3/10 of a percent seven years after the
+corridor's open. So in the current mid-term plan, we would be starting allowances for the West
+Rail Denver Union Station, US 36-BRT, I-225 by 2024.
+And next page is the summary cash flow, which, as Jannette said earlier, is completely balanced.
+We have fully funded reserves. And the end of the period in 2024, at the end of line 27, the
+
+unrestricted fund balance is $39.2 million forecast. And the FISA, which is line 33, is fully
+funded at $179.6 million.
+Next steps. We had spoken about the second draft presentation here. August 14 is tentative.
+Unless we have changes, we will not be back on the 14th. We will see what happens after that
+fare hearings that are coming up the next couple of weeks. We're anticipating coming back at the
+committee meeting on September 11 with presentation of this mid-term plan and the long range
+financial plan, which you'll see in the next presentation, for adoption, and the first presentation of
+the 2019 requested budget.
+We are expecting to bring back the mid-term and long range financial plans for adoption at the
+board meeting on the 18th of September and bringing back the budget for adoption on November
+13. Now I'd like to entertain any questions.
+KEN MIHALIK: I know there's one. Director Broom, you can lead us off.
+BOB BROOM: Thank you, Chair. I assume this plan doesn't include any revenue projections
+from the recent US Supreme Court ruling that reversed the collection of sales tax on internet
+sales.
+HEATHER MCKILLOP: So I will attempt to answer that. So it does include a portion of that
+because we have had nexus with Amazon for the last year and a half. And we have steadily seen
+those revenues increase. But no, it does not include any assumptions for all the other online
+vendors and what those would mean. We will be having that conversation with the CU Leeds
+School of Business. As we progress into the September forecast, we typically meet with them
+and discuss any legislative changes both on the state and federal level, and how that might
+impact their forecasting, and what methodology they might be using to do that.
+BOB BROOM: Can I continue?
+KEN MIHALIK: Please.
+BOB BROOM: As I understand it, it's going to take a bill in the legislature to implement this,
+and that a lot of states have already preempted this and put legislation on the books in the event
+this happens so that they can take advantage of it.
+What I get concerned about, I guess, given our experience with marijuana, is that somehow RTD
+will get lost in the drafting down at the state legislature. And so I just want us to go on record
+early on that we don't want to see a repeat of that and put our lobbyists on notice that they need
+to really watch the bills carefully to make sure that we're not disadvantaged when this process
+takes place.
+And the reality of it is that, after listening to this discussion for many years at National League of
+Cities is that some states had adopted something where there was a single sales tax, and then they
+would distribute from the state level back. Obviously in Colorado, the problem is that there's
+hundreds of different jurisdictions with different sales tax rates.
+
+Now Amazon and Walmart and some of these others have the ability, with their software, to be
+pretty good about, when they charge sales tax, that they are remitting back to the proper entities,
+whether it's the cities, the special districts, or the state and so forth. So I don't know what kind of
+approach that the state's going to take, whether they're going to try to have some software that
+they'll make available to firms to use, or if they're going to try to come up with some kind of a
+singular amount and then have a formula. But that's something we should certainly keep our eye
+on to make sure that we're not disadvantaged in that process because you'll get one bite at that
+apple, probably.
+HEATHER MCKILLOP: Well, and it's very complicated, as I can tell you from my years at
+Department of Revenue, this issue about online vendors and collection. So the Department of
+Revenue does have some options available. They are currently collecting from some online
+vendors now. And the issue of the multiple jurisdictions within the state of Colorado has been an
+ongoing issue, especially for small businesses, for years and years and years, especially when
+you have the ability for home rule cities to opt in and out of different exemptions that aren't
+consistent with the states.
+So I'm sure it will be worked out. And yes, we'll have to keep a careful eye to make sure that we
+don't end up being excluded or accidentally omitted from that conversation. I think there are
+varying opinions on whether there needs to be a state additional legislation on this or not. My
+guess is whether there needs to be or not, something will get introduced. So we will definitely
+keep an eye on that.
+KEN MIHALIK: Thank you. Director Lubow.
+JUDY LUBOW: Thank you, Chair Mihalik. I have a few little questions. One of the assumptions
+in the mid-year plan, financial plan, is that the service levels will be maintained. But we've
+dropped service levels a little bit, and so I'm wondering how that fits in with that idea of service
+levels being maintained. We've just dropped a little, but we're not going to drop any more terms
+of our assumptions.
+HEATHER MCKILLOP: So there's two ways of looking at it. We constantly adjust service
+levels three times a year. So we do not, on an annual basis, adjust for those because usually, over
+the course of the year, they balance each other out with all the plus and minuses three times a
+year.
+For planning purposes, we had to make an assumption not knowing what for future service levels
+would look like, but knowing that overall, there's not an intent at this time to cut service
+significantly across the region. And if anything, we'll be increasing service with the onset of the
+North Line and the southeast corridor extension.
+So though we've had to build in those assumptions already through FasTracks, but overall, on the
+base system, we have made the assumption that those numbers would be stagnant. So no
+increases or decreases. Over time we'll adjust that on an annual basis. But at this time it's almost
+impossible to figure out what that will look like even a year from now, let alone between now
+and 2024.
+
+JUDY LUBOW: OK, thank you. Complicated, yes. Another couple of questions. There was also
+some statement about the planned fleet expansion was funded by previously issued Certificates
+of Participation (COPs). So does that mean that we issued it a couple of years ago in the
+assumption that three years later it was going to be bought?
+HEATHER MCKILLOP: Yeah. So because of the long lead time, especially for rail cars, we
+have to budget all that money up front. So the COPs were issued at that time multiple years ago.
+I believe it was 2015 is when they were issued. And then we're just now starting to see those rail
+cars come in. So the actual payment-- we have to have the money in the bank to order them-- but
+as they come in, we make payment, and they come in over a series of time. So yes, those were
+issued previously.
+JUDY LUBOW: Thank you. And then just one more. I didn't understand. There was a little chart
+with the fluctuating percentages and marijuana adjustments. Can you explain that?
+SUSAN COHEN: The chart was meant to compare the rates that were presented last month,
+which was done before we had heard about the Supreme Court decision to the adjusted growth
+rates with the marijuana reinstatement. And if you look at the chart, the growth rates are pretty
+much the same over time, with the exception of 2019, which is when the actual change is
+expected to take place.
+And we expect to see that bump in 2019. From 2020 to '24, the overall growth rate is pretty
+much the same. So we're expecting marijuana sales tax, once it's in place, to grow at pretty much
+the same as everything else.
+JUDY LUBOW: OK, thank you. I just didn't understand it. Thank you very much.
+HEATHER MCKILLOP: And that should have gone in place July 1. So we'll start seeing in two
+months from now, 60 days, that money coming in.
+KEN MIHALIK: On to the long term.
+HEATHER MCKILLOP: On to the long term.
+KEN MIHALIK: Long range financial plan.
+HEATHER MCKILLOP: The really long term, 2040. So this is the first time you'll be seeing
+this. It looks significantly better than last year. A good portion of that change is due to the
+reinstatement of marijuana, as well as significantly higher growth rates in the sales and use tax
+revenue. But it did afford us a little bit of a cushion in that we didn't have to draw down money
+from the base system, as well as we did not have to use all the FISA. So there is an ending FISA
+balance in 2040. And with that, I'm going to let Susan walk through the presentation and give
+you some update on that.
+SUSAN COHEN: I'm going to start with an overview of the long range financial plan and what it
+is and what it does. It includes both FasTracks and the base system. It's essentially an extension
+
+of the mid-term financial plan. It springs off at the end of 2024, when the mid-term financial plan
+ends. And it's the plan we submit to Denver Regional Council of Governments (DRCOG) for
+incorporation in the regional transportation plan. It's required for anyone in the region, not only
+RTD, but anyone in the region who wants to receive federal funding to have an adopted Regional
+Transportation Plan (RTP).
+The time horizon is 2040, which is the time horizon for the RTP, and that's what you will be
+asked to adopt. And you'll see the charts extended to 2040. The major elements of the financial
+plan include FasTracks corridor construction, which includes post-opening projects through
+2040, which is the time horizon of the RTP, ongoing operations and maintenance of the base
+system and FasTracks, including O&M costs, capital replacement and rehabilitation, and
+ridership and fare box revenue, revenue sources, primarily sales and use tax and federal grants,
+and reserves.
+Let's go into each one of those elements in a little more detail, starting with the fast tracks
+corridor construction. The future construction includes commitments that were included in the
+environmental documents for the federally funded corridors, and we are required to complete
+them by 2040. And the East Corridor, Gold Line, and Southeast Rail Extension environmental
+documents all included projected needs for additional parking to meet horizon year demand.
+We had remaining post-opening scope items for the Flatiron Flyer that were adopted by the
+board in 2013. They include additional vehicles and additional parking. We still, at this point,
+have we have not identified the funding at this time. Those include the Central Rail Extension,
+Southwest Rail Extension, the North Metro completion from 124th to 162nd Avenue and
+completion of Northwest Rail from Westminster to Longmont.
+For operating and maintenance costs, we project our base system costs based on the ongoing
+expenditures from the final year of the mid-term plan. FasTracks we've assumed operation and
+maintenance of all projects that are completed. We have Eagle Class from the Concession
+Agreement.
+We forecast light rail and bus costs using our O&M cost model of forecast service levels and
+projects included at the end of the mid-range plan. We have also projected North Metro
+Commuter Rail costs based on RTD operating the system. We escalate all costs to the actual year
+expenditure using forecasts of the Denver Boulder Consumer Price Index (CPI).
+For capital replacement and rehabilitation, we've included capital replacement based on our
+current asset inventory and replacement schedules for the assets we currently own and adjust
+those schedules based on major assets that are included in the mid-term plan. So we make sure
+that if we buy it, we replace it when it's needed. We also have an annual allowance for major
+rehabilitation. For the base system, we budget every year 1/2 a percent of the installed cost of the
+existing asset inventory.
+For FasTracks, as I mentioned before, we start with an allowance of 3/10 of a percent for the
+corridors that increases to 5/10 of a percent as the assets get older and in more need of
+rehabilitation, and escalate all those costs to future year dollars at CPI.
+
+For revenues for sales and use tax, we use the same CU Leeds School March 2018 forecast that
+you saw in the mid-range plan, just it's extended out to 2040. And it's been adjusted for the
+marijuana sales tax reinstatement. For grants, we've forecast our formula grants based on historic
+appropriations adjusted for inflation at CPI. We also receive fixed guideway grants, and those are
+forecast to increase based on mileage to be added to the rail system through FasTracks.
+We forecast that the funding begins nine years after lines into revenue service, which includes
+the Federal Transportation Administration (FTA) time period at which they're eligible, plus the
+lag for actually reporting statistics. And we do not assume discretionary grants in the long term.
+We're conservative and don't want to be forecasting projects out that we can't guarantee being
+funded.
+As you can see, this is the sales tax forecast from 2025 to 2040. This picks up on the mid-term
+forecast that you saw before.
+For ridership and fare box revenue, we've been forecasting base system ridership and fare box
+revenue based on our fare model. FasTracks ridership for long term is forecasted using the
+regional travel model in cooperation with DRCOG. Fare increases are assumed in conjunction
+with board adopted policy. We tie our fare increases to the Denver Boulder CPI and assume a
+fare increase every three years after the mid-range plan period.
+So we'll talk about changes from what you saw when we last adopted this plan in 2017. We
+mentioned earlier sales and use tax forecasts have increased over 2017 forecasts. The fare box
+revenue forecasts are stable. The only differences between this year's forecast and last year's
+forecast are adjustments to CPI. We're still assuming the same fare increase every three years at
+the end of the mid-range plan.
+We've had some minor changes in operating costs. The totals are fairly close to what you saw
+last year. The distribution between the base system and FasTracks has changed. As a result, we
+were able to move the maintenance facility replacement that was the long range plan in 2026 up
+to 2025. We've also, at this point, been able to balance the mid-range financial plan without
+issuing any additional COPs. That's a big change from last year given the increases in forecast
+sales and use tax, we are able to pay for everything on a pay as you go basis without additional
+debt.
+HEATHER MCKILLOP: And can I just add one thing here? I do want to mention our goal is to
+ultimately move that maintenance facility replacement even closer to the State Highway 119
+implementation because there will be a nexus there between needing some additional facilities
+on that particular project. Because we're not sure of the final cost because we haven't made it
+through the EIS and the preliminary engineering on the 119, we're not sure where we are with
+that. And we're really not sure what that maintenance facility would actually look like. We're
+exploring a lot of different options, and that will also come out through the system optimization
+process that we're embarking on that we talked about before.
+So we decided to move it up as much as we could right now. And then our intent next year
+would be to bring that closer together and see what that looks like.
+
+SUSAN COHEN: This chart here shows the difference in the sales and use tax forecasts between
+last year's plan, which is in the blue, and this year's forecast, which is in the orange. As you can
+see, the orange line is consistently higher than the blue line, which represents approximately a
+$1.5 billion increase in the forecast covering both base and FasTracks between 2018 and 2040.
+O&M cost, same. This is the total. And overall blue for the 2017 adopted plan, 18 for current
+forecast. They are fairly close. They switch places over time. Some years the current forecast is
+higher than it was for last year, other years it's lower.
+HEATHER MCKILLOP: But they pretty much mirror each other.
+SUSAN COHEN: They're pretty much over time.
+HEATHER MCKILLOP: So where you see the bumps in O&M cost forecast comparison is due
+to the Concession Agreement. And there's one other. The Concession Agreement.
+SUSAN COHEN: Yeah. The Concession Agreement includes major maintenance on the vehicles
+every five years, and that's why there's a bump in the cost every five years.
+Talking about the FISA, the FISA continues to grow over the period of the long range plan. We
+have to use a small amount of it between 2025 and 2027 to cover FasTracks operations.
+However, the full balance is restored to the FISA by 2029. And FISA is fully funded through the
+terminal long range plan and is forecast balanced at just under $559 billion by year end 2040.
+Long range plan. See the summary here. We've got forecasts over five- to six-year time
+increments through 2040. And we have positive balances in every year. By the end of the plan in
+2040 on the base system, we're looking at forecasting about a $1.4 billion year end balance.
+On FasTracks, same setup. If you look at the year end balance at year end 2040, we're looking at
+just under $1.1 billion in unrestricted fund balance and about $559 million in the FISA.
+Another chart to look at our net revenue coverage, which would represent ability to pay debt. In
+the first four years, which are basically this year and the first three years of the mid-range plan,
+we're somewhat challenged in meeting a 1.2 net coverage. We do, however, go above it in 2022
+and stay above the 1.2 board policy through 2040.
+HEATHER MCKILLOP: And I would just like to add this is a considerable change from last
+year. We were below one in many of our years starting this year. So we're hoping that this is a
+good story for us to tell the rating agencies, and that we'll be able to maintain our credit ratings,
+which we were very concerned about based on last year's long range plan.
+SUSAN COHEN: And also in last year's long range plan, to go back to the discretion of the
+maintenance facility, the major reason the maintenance facility had to be deferred to 2026 was
+that we didn't have pay as you go cash to pay for it and we didn't have net revenue coverage to
+issue COPs until 2026. This is a much better story than we had at this time last year.
+
+We also have the RTD cash flow graph.
+HEATHER MCKILLOP: Whoop, I'm going the wrong way. We're so excited to get to this
+graph. This is the graph that a board member loves. Well, loves this year, perhaps, compared to
+last year. If
+SUSAN COHEN: Right. Right.
+HEATHER MCKILLOP: And if I could just say, last year at this time, if you remember, the
+green, which includes the debt service-- I believe the green is the debt service coverage. I can't
+see without my glasses that part. But we had years and years where that line was below that
+number. So if you compare it against last year, it's amazing what $1.5 billion over 30 years will
+do to help out the situation.
+So I was going say these are just the same challenges and opportunities that we've had. Of
+course, one of our big challenges that are both on the base system and FasTracks, and in
+particular FasTracks' construction and completion, and then ongoing operation of the unfunded
+FasTracks corridors. As we said, you can just see the volatility that we see in sales tax, O&M
+cost variability varied very little from last year, but the sales and use tax was huge. So that
+continues to be one of those many challenges that we just have to deal with on an ongoing basis.
+And with that, we'd be glad to take any questions.
+KEN MIHALIK: Director Catlin, you have the floor.
+PEGGY CATLIN: Thank you, Chair Mihalik. I confess I've forgotten a lot about my National
+Environmental Policy Act (NEPA) training. But the projects with funding not identified at this
+time, the four projects noted, does the Environmental Impact Statement (EIS), or do the
+environmental documents expire? And will they have to be redone?
+HEATHER MCKILLOP: So my understanding is we haven't moved through that process with
+the environmental documents on those four corridors. Is that correct, Bill? Or do you want to add
+to that?
+PEGGY CATLIN: OK. So they're not at risk.
+HEATHER MCKILLOP: Correct. And the one that is in process right now is on the base system,
+and that's State Highway 119. And we're trying to get that funding as close to that.
+PEGGY CATLIN: And there has to be a reasonable expectation of funding in order to get a
+finding of no significant impact for Finding of No Significant Impact (FONSI).
+HEATHER MCKILLOP: Or ROD, probably, is what we'd be going through, Record of Decision
+on some of these projects because we'd be doing an EIS.
+PEGGY CATLIN: OK, thank you.
+
+KEN MIHALIK: OK, thank you. Director Folska, you have the floor.
+CLAUDIA FOLSKA: Thank you, Chair Mihalik. Can you elaborate, please, a little bit about the
+grants that you anticipate getting?
+HEATHER MCKILLOP: I'll let Susan talk about that.
+SUSAN COHEN: We're primarily anticipating formula grants. We have preventive maintenance
+formula grants from FTA. There are formula grants from the bus and bus facilities, formula
+grants also from FTA. and some state grants. There's also the fixed guideway program. And
+those are based for segments that have been in operation for seven years or more. So as
+FasTracks corridors open, we're anticipating getting more money out of that formula program.
+We anticipate that the money comes nine years after opening rather than seven because we report
+the statistics to the National Transit Database after the corridor's been open seven years. And
+there is a lag time between when we start reporting statistics and when they're calculated in the
+formula.
+PEGGY CATLIN: So have you made adjustments to your expectations based on the changes that
+the federal government has put in place before this?
+SUSAN COHEN: Yes. We our forecast on the current year appropriations.
+PEGGY CATLIN: OK. Thank you.
+KEN MIHALIK: I see that's all. Director Lubow.
+JUDY LUBOW: Thank you, Chair Mihalik. And I'm very excited about the cash flow graph.
+Like, yay. But it's not real money, so I can't get too excited. But nonetheless, it's interesting to
+note that the increase that's projected, I believe in the sales and use tax, over the 30 years is $1.5
+billion, which just happens by coincidence to be the projected cost of the Northwest Corridor. So
+anyway, offline I would like to talk with you about ways we could use that information and
+hopefully get some money for the corridor. Thank you.
+HEATHER MCKILLOP: I don't want to burst your bubble. But remember 1.5 is today's dollars,
+and those dollars are out in 2030 and beyond. But yes, we can have that conversation. It's
+definitely a slightly brighter picture than the last two years.
+JUDY LUBOW: Right. OK. Thank you very much.
+KEN MIHALIK: You can be happy for a year. Seeing no other comments or questions, we'll
+move on to the May financial status report.
+HEATHER MCKILLOP: So I just wanted to give you a brief update on that because-- and I'll be
+brief-- but this particular report was estimated because we had to have it in the packet due to the
+
+holiday on the third. We did not get the numbers until Friday the 5th. I believe that was the 5th.
+And so-- no. Thursday. Sorry. I was on vacation Thursday and Friday.
+So with that, we just have estimated numbers in there. So I wanted to give you an update. They
+don't vary much. But this will be just sales and use tax. So the May month numbers, so the first
+number where it says May 2018 actual versus budget is 0.3%. And that number, May, the month
+is actually 6.4%. So we're considerably up in the May time frame. The year to date number,
+which is the 2008 actual versus budget, we're at 1.2% over budget.
+The month which is the May 2018 versus 2017, we're up 4%. And the year to date number, we're
+up 6.2%. So that number didn't change. And that's the number that Jannette mentioned we had
+originally budgeted around 4% for 2018. And year to date over last year, we are up significantly
+from what they thought that original amount would be.
+So we're doing OK with sales and use tax. We probably won't see the marijuana money for
+another couple of months because it takes two months, 60 days, a reporting cycle to go through.
+But we should start seeing those in the next few months. So we're expecting right now, mid-year
+through with one month to go to get to our six months here on this report, that we're going to end
+the year in a positive manner for sales and use tax. And at this time fare revenue looks that way
+also. That's all I have to report. I'll take any questions.
+KEN MIHALIK: Well, I think you've done enough tonight, looks like. We'll move on to any
+other matters from anyone. Director Menten.
+NATALIE MENTEN: I had a question that I talked to you about on the phone a little bit,
+Heather. And now that we've got this fare review book, which is a little bit different than the one
+I'd worked on. But going to the options with 70% discount for youth, and which right now, at the
+figures when it was like $0.87, something like that.
+HEATHER MCKILLOP: Yes, for the local. Like 85 or 87, somewhere in there.
+NATALIE MENTEN: Right. So we would round it to the 90.
+HEATHER MCKILLOP: Most likely, yes.
+NATALIE MENTEN: And my question-- and I know you'd stated to me the reason that that was
+used versus a flat rate is because it would be easier to graduate as the years go on. Right. But I'm
+just curious, if we did bump the youth to $1.00, round up to $1.00, what kind of fiscal financial
+impact would that be?
+HEATHER MCKILLOP: We have not run that scenario. We would look at that when we looked
+at the other options that we get out of the public feedback that we get. And we can look at that as
+one of the potential options that we consider is a flat rate versus a percentage. And that came up
+in the past working group also. There was a lot of discussion at the beginning of whether we do a
+flat amount or percentage, and it was decided that a percentage would make more sense and be a
+better methodology over time.
+
+NATALIE MENTEN: OK.
+HEATHER MCKILLOP: But yes. We have noted in that that that is a comment.
+NATALIE MENTEN: Because that's one-- you know we always get the argument oh, you're
+making me carry around change. So there are counters that. And then stating within the three
+years, then it goes to $1.25 or something like that.
+HEATHER MCKILLOP: Seattle does a flat rate. But they do a changing flat rate throughout the
+day. So at one point it's $1.00. Sometimes it's $1.25 during-- so they have a peak pricing, too. So
+there's some various different ways that we looked at doing that. But yes. And I do not believe
+we modeled the flat number, so we'd have to do that. And the hope is that we will do one more
+set of modeling after we get all the feedback from all the meetings. And then we'll be able to do
+one final model set that we bring forward to this group.
+NATALIE MENTEN: And just curious with the modeling for that specific item that I just asked
+about. Would that be an intense process or relatively easy?
+HEATHER MCKILLOP: Right now would be pretty intense because we're having them work on
+a lot of information around the EcoPass, NECOPass, and college in the Service Level Areas
+(SLAs). So they're doing a considerable amount of work gearing up to the meetings next week
+that we have start on July 16.
+So right now it would be very time consuming for them. I'd have to check after that, after we're
+past the period in the next couple of weeks, and what that would look like. I can say they're at
+capacity right now in generating these different options for us to take out regarding what those
+ranges would be in the SLAs related to Eco, and NECO, and college.
+NATALIE MENTEN: OK. And on that line, then, the SLA discussion, the background
+information will be ready by the 16th for the first estimating.
+HEATHER MCKILLOP: That is what we are planning on, as close to that as we can get.
+NATALIE MENTEN: OK. And then I'm guessing that we have email addresses for the main
+contacts at the firms, public and private, for those who buy the EcoPass.
+HEATHER MCKILLOP: For the EcoPass coordinators, we do.
+NATALIE MENTEN: And they've been sent this list of all of the dates.
+HEATHER MCKILLOP: We are currently drafting a memo to them to describe the dates and the
+changes that we are proposing.
+NATALIE MENTEN: Thank you. That's all my questions.
+KEN MIHALIK: OK, thank you. And Director Lubow, I think you'll have the last word.
+
+JUDY LUBOW: Thank you. I just wanted to know if the board members want to participate in
+the telephone town hall, or at least just hear it. Do we just call the number that we were sent?
+HEATHER MCKILLOP: Is that correct? OK, yes, that is correct.
+JUDY LUBOW: Thank you, that's it.
+KEN MIHALIK: Saying yes, OK. That is it. Next meeting, August 14th. We are adjourned.
+Thank you.
+
+

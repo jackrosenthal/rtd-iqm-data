@@ -1,0 +1,900 @@
+2023-07-12
+Operations and Safety Committee Meeting
+KATE WILLIAMS: Good evening. The Wednesday, July 12, Operations and Safety Committee will now
+come to order. We are convened as of 5:30, like we're supposed to be. Please mute yourself unless you
+are recognized to speak.
+Thank you all for joining us this evening. The committee meetings of the RTD Board of Directors may be
+held remotely via Zoom. They will be audio and video recorded. The meeting recordings, along with the
+unofficial minutes of the meeting, will be posted as soon as possible on the Board's website. You can visit
+rtd-denver.com. A live stream of this meeting is also available on RTD's YouTube page.
+Directors and members of the staff, if you would like to be acknowledged during tonight's proceedings,
+please raise your virtual hand and wait for me or whoever is assisting me to call you before proceeding to
+speak. Directors and staff participating by phone can also raise their virtual hands to indicate they would
+like to speak by pressing star 9. To toggle your mute setting on the phone, press star 6.
+Let's call the roll now for the committee members. Director Bouquet.
+JULIEN BOUQUET: Present.
+KATE WILLIAMS: Director Bob Broom. I do not see Director Broom. Director Ruscha.
+JOYANN RUSCHA: Present.
+KATE WILLIAMS: Director Rosenthal.
+PAUL ROSENTHAL: I'm here.
+KATE WILLIAMS: Director Sloan.
+MARJORIE SLOAN: Here.
+KATE WILLIAMS: Director Whitmore.
+TROY WHITMORE: Present.
+KATE WILLIAMS: I am here also. Let's see who else we have. Do we have other Board members? I see
+a bunch of staff. I don't see any other-- oh, Director Tisdale. I'm sorry.
+ERIK DAVIDSON: I am here, Director Williams. This is Director Davidson.
+KATE WILLIAMS: Ah, Director Davidson. Thank you. OK. I think that's all. Public comment is what's next
+on our agenda, and it's open to anyone who would like to address the committee regarding any topic
+listed in the published meeting agenda for the current month and the immediately preceding month. If you
+wish to speak, please raise your virtual hand or press star 9 on your phone.
+
+During this time, the committee will not offer any direct response or comments. However, if you would like
+to be contacted regarding your public comment, please email the Board Office at rtd.boardoffice@rtddenver.com after the meeting. Jillian, are there any hands raised for public comment at the moment?
+JILLIAN KNAPP-RHODES: There is. We have phone number ending in 2733.
+KATE WILLIAMS: Whoever is attached to that phone number, staff will unmute you in just a moment.
+Please bear in mind that by participating in this process, you are being recorded. If you do not wish to be
+recorded, your comments will need to be submitted in writing. Comments can be submitted to the Board
+Office at the same address I gave earlier. Speakers, please begin your remarks by stating your name.
+Each speaker will have three minutes to speak. And our first speaker is whoever is attached to that phone
+number.
+Jillian, are they unmuted at that phone number?
+JILLIAN KNAPP-RHODES: They are unmute. They can go ahead.
+KATE WILLIAMS: We'll wait just a minute. Sometimes technology is not our friend. OK, is that the only
+speaker we have tonight, Jillian?
+JILLIAN KNAPP-RHODES: That is all that we have. We did receive one email from Richard Bamber.
+KATE WILLIAMS: I did read that email and take note of it. OK, with no other participants in the queue, we
+will close the public comment period at this time. There are no information items from external entities at
+this meeting. There are four recommended actions on the agenda this evening.
+The first action is related to the September 2023 Title VI service equity analysis. And the action calls for
+the Board of Directors to adopt the Title VI service equity analysis report for the September 2023 service
+changes to comply with federal laws, regulations, and guidelines related to Title VI of the Civil Rights Act
+of 1964. Do we have a motion?
+JULIEN BOUQUET: So moved. Bouquet.
+MARJORIE SLOAN: Second. Sloan.
+KATE WILLIAMS: Thank you. I think, at this time, that Carl Green, the Director of Civil Rights, and Jessie
+Carter, the Senior Manager of Service Planning and Scheduling, will present this item. Gentlemen, the
+floor is yours.
+CARL GREEN: Madam Chair, thank you. I'll go ahead and pull up the screen here. All right, how are we
+looking? Good to go?
+KATE WILLIAMS: Yes, sir.
+CARL GREEN: Again, thank you so much, Madam Chair and fellow Board of Directors. My name, again,
+is Carl Green Jr., Director of the Civil Rights Division. And tonight I'll be presenting on the Title VI service
+equity analysis as it relates to the September 2023 proposed runboard changes.
+So just to give you an overview of what to expect, similar to yesterday, I will be providing an overview of
+the proposed service changes. I'll get into the FTA requirements. From there, I'll get into the Title VI and
+
+Service Equity Analysis Overview, and then spell out the Title VI policies, and then the methodology
+associated with the analysis, and then get into the results of the route and network level analysis, and
+then briefly go over the public outreach overview, and then end with the recommendation.
+So just to give you a sneak peek and our COO Michael Ford and Senior Manager Jessie Carter of-Senior Manager of Service Development Jessie Carter will be presenting more finer detail the associated
+changes. But just to give you an overview, there are 26 proposed changes and 8 of which are modified
+services. We have 12 seasonal adjustments. And then we have 6 services that fall under on time
+performance adjustment category.
+So just briefly, based on federal requirements, RTD must conduct a service equity analysis. And as
+Madam Chair denoted, before the service proposal changes are approved, the Board of Directors must
+be made aware, consider, and approve of the Title VI analysis before the agency takes action.
+And the authority that sets the precedent is the Civil Rights Act of 1964, which was signed by President
+Lyndon B. Johnson about 59 years and 10 days today. So we're on the 50-year anniversary. So
+essentially, specifically, Title VI sets up the non-discrimination requirements as it relates to agencies or
+entities receiving federal financial assistance. And then we have the FTA circular, which provides the
+policies and procedures and the framework for carrying out this type of analyses at the staff level. And
+then we have the Board adopted Title VI program, which sets and tones the policies and the way in which
+we carry out our analysis.
+So just to give you an overview of the analyses specifically as it relates to service changes, step 1 is
+identifying or making the determination of whether the proposed change meets the major service change
+threshold policy, which I'll go over in finer detail in the presentation. Step 2 is evaluating the potential
+impacts with respect to Title VI populations, specifically minorities. So we have a disparate impact policy
+as well as a disproportionate burden policy, which covers low income. And by definition, again, that is at
+or below 150% of the federal poverty level.
+If we identify that there is a potential impact, then n we move to step 3, which is about evaluating
+alternatives that will meet the intent and purpose of the proposed service changes or we will look to either
+change course or address the negative impact by a mitigation or avoiding that potential impact.
+And from here on out, I'll probably refer to minority and low-income populations as either equity or Title VI
+populations. But just for the Board's edification, just want to make certain that I will be utilizing those
+synonymously.
+All right, so now I'll be getting into the Title VI policies, specifically the major service change as well as
+disparate impact and disproportionate burden policies. Again, I'll refer to just for-- to simplify the language,
+I will refer to it as DI and DB policies But yeah, just to give y'all a heads up.
+So as far as our major service change policy, that is a 25% increase or decrease in the service hours of
+any route that would remain in effect 12 or more months. And then, by virtue of the major service change
+results, there is one increase or major-- one major service increase out of the 26 changes.
+And then getting into the DI/DB policies-- so we have established thresholds within those two particular
+policies, and the threshold is 10%. So as we test for disparate impact at the route or system level, we are
+looking at the delta between the comparator groups from minority versus non-minority and low income
+versus non-low income.
+
+And just to illustrate what the methodology and how the analysis is conducted, we can see that the blue
+graph or the blue bar in this diagram-- it shows that 25% of the non-minority population will be impacted
+by this service increase, where if we take that threshold of 10%, we then apply that for major service
+increases. And that is 22.5%.
+So what we're looking at here is if the percent of minority populations is below that 22.5%, then that would
+be considered a potential disparate impact. And then, on the inverse, if we're looking at major service
+reductions, we were flipping it around. We're adding 2.5% to the 25% because that is 10% of the 25%, so
+2.5%. And if it's a major service reduction, if anything falls above that, then that-- above the 27.5-- then
+that would be considered a potential impact. And the similar computation is applied for the low income or
+the disproportionate burden threshold of 10%.
+So taking a deeper dive, just to explain the methodology, as some of the Board of Directors are well
+aware, dating back to June of '22 last year, prior to that date, we would complete a route-level analysis.
+But looking at being able to take a deeper dive on the associated impacts that are potentially proposed,
+we have moved in the direction of doing a network-level analysis.
+So essentially the difference between the two, for the route level, we're just looking at individual routes
+and utilizing GIS or ArcGIS, which is a geospatial database system, where we're looking at the
+demographics a quarter mile buffer around that particular route. And then, in comparison when we're
+looking at the network level, it's an aggregate of all the major service changes.
+And looking at it in totality or from a holistic standpoint, what is the potential benefits or burdens as it
+relates to the proposed service changes? And one thing that I just wanted to highlight here is the way in
+which we do our analyses is-- the tip of the spear, so to speak, as we think about different transit
+properties and just to give a selfless plug the Transit Equity Office, we've done a lot of different consults
+across the nation of how do we carry out our analysis. So I just wanted to emphasize to the Board that we
+take a robust effort as it relates to assessing the way in which we put out service. So I just wanted to
+highlight that here.
+So as I mentioned earlier, there was only one line that met the major service change threshold, and that
+was Route GIS. So just as you all can probably see that because there was only one service change and
+looking at the demographics around that particular route, there was a potential disparate impact but no
+disproportionate burden. And I'll get to it a little bit later in the presentation, but there's minimal concerns
+from a Title VI perspective, and I'll identify why.
+So by virtue of the way in which we do our analyses, again, another best practice that we've implemented
+is looking at key public service destinations. And I know that is some of by direction of our General
+Manager and CEO Debra Johnson, as well as feedback from the community, is it's not just looking at
+where people live, the neighborhoods that people live, but it's also are we increasing access to these key
+destinations, which includes retail and convenience stores, academic institutions, social service agencies,
+senior housing, and, of course, jobs or places of employment.
+So looking at the GS specifically, it creates a lot of new access by this reinstatement. So if we look at this
+table here, you can see it increases jobs by about 34,000; grocery stores, 179; and then just looking-social service centers, 24; senior housing, 12; and then academic institutions is 14. And the specific
+names of these institutions are in the Board report, or rather the attachment, Attachment b, of the
+recommended action item where it spells out specifically the names of these different entities.
+
+So moving on with the public outreach overview, as the Board is well aware, there were three open
+houses that took place May 15 through the 16th of this year. And just wanted to highlight the additional
+efforts provided by the Transit Equity Office where we identified community-based organizations and the
+key destinations around this particular stop and did some additional outreach to communicate the
+associated changes with the reinstatement of the GS.
+So to give the network level results, just wanted to highlight here that minority populations receive a
+slightly lower increase in service or were positively impacted compared to non-minority populations. And
+just doing the math here, it's less than 1% less for minority groups, and you can see it's 0.47% versus
+1.07% for non-minority. But the difference does meet the disparate impact threshold, which is at 0.96%.
+Whereas as we look at low-income populations, they do receive a greater increase in service and they
+were positively more positively impacted compared to non low-income populations. And there is no
+disproportionate burden.
+So the conclusion, as we look at the overall everything that went into this assessment, the GS
+reinstatement, it does serve above average low-income populations compared to the overall Service
+District average. And the GS reinstatement increases access to those key public service destinations
+which I mentioned earlier.
+But if we think about-- this third bullet point is something that I do want to highlight, which is baked into
+this assessment, is if we look at the 25 minor changes of the proposed changes, comparing equity
+populations versus non-equity populations, they're more positively impacted in total with those minor
+changes that are being proposed. So again, just ending with just wanted to let you all know that there is
+minimal Title VI concerns at the route and network level, which then brings me to the tail end of this
+presentation, is to-- for the Board of Directors to approve the September 2023 Title VI service equity
+analysis. So with that being said, I'll now open up the floor to any questions.
+KATE WILLIAMS: Thank you. Mr. Green, I owe you an apology. I was talking to your dad instead of to
+you.
+CARL GREEN: No worries.
+KATE WILLIAMS: [INAUDIBLE] that said Junior. That's really great work. And so, directors, if you have
+questions or comments, please raise your hand and I will call on you.
+OK, I don't see any hands up. Am I missing any, Jillian? OK, we're going to go to the vote then. I heard
+the mover was Director Bouquet, and the second was Director Sloan. And I'm going to make this simple.
+Are there any no votes on moving this action forward?
+No. You all are a very quiet group tonight. OK, with-- Director Guzman, I neglected to acknowledge you
+earlier, and I apologize. And did Director Broom join us? No. So-JILLIAN KNAPP-RHODES: Yes, he did.
+KATE WILLIAMS: He did? Director Broom, you're here?
+BOB BROOM: I'm here.
+
+KATE WILLIAMS: 1, 2, 3, 4, 5, 6, 7 yes votes and no no votes. The motion passes. And we will move on
+to the next part.
+OK, we got to go through a bunch of these tonight. The second action is for service change for the Board
+of Directors to approve the September 2023 service changes as revised and summarized in the
+Attachment A and to authorize the General Manager and CEO or her designee to execute contract
+amendments as necessary for private operators impacted by these changes. Do we have a motion?
+TROY WHITMORE: So moved. Whitmore.
+KATE WILLIAMS: Thank you. Second?
+MARJORIE SLOAN: Sloan. Second.
+KATE WILLIAMS: Thank you, ma'am. I heard Director Whitmore, Director Sloan. Michael Ford, who is our
+Chief Operations Officer, and Jessie Carter, the Senior Manager of Service Planning and Scheduling, will
+present this item. Gentlemen, you have the floor.
+MICHAEL FORD: Thank you, Madam Chair. I'm Michael Ford, Chief Operations Officer, and I would like
+to provide you an update on the September 2023 service change proposal. As you know, staff brings to
+you three service change proposals over the course of a year's time for discussion and subsequent
+recommendations, which is in alignment with the collective bargaining agreement known as the CBA with
+the ATU local 1001 for frontline operator selection of work.
+Ridership levels are currently at 175,000 boardings on the transit network and commensurate with RTD's
+System Optimization Plan, which facilitates an interest in increasing service. This exercise is done in
+conjunction with RTD's resources, which then dictates the level of service increases, modifications, and/or
+adjustments needing to be executed for the coming service change.
+Efforts to increase staffing levels have continued, resulting in a positive increase in both recruitment and
+retention. However, our rail and bus operations staff levels remain lower than budgeted headcount, which
+limits the capacity to increase service as proposed in the System Optimization Plan. By way of
+discussion, the guidelines contained in the strategic plan most directly relate to addressing customer
+excellence, thus improving on time performance, maintaining contractual compliance, and adjusting
+service levels to match service and ridership demand.
+Staff is guided by the Board adopted service change principles. And in your Board packet, you will see a
+breakdown of summary of proposed service changes, service improvements, service reductions, and
+seasonal adjustments to account for travel patterns. Also in your Board packet is a complete breakdown
+of the public hearings slash meetings that were conducted on Monday, May 15, at 12:00 PM. That was
+virtual. There was another one conducted at 5:30 the same day at 1660 Blake in rooms T and D and,
+finally, Tuesday, May 16, at 5:30, which was virtual. So at this time, I'm happy to take on any questions
+that you may have. And I would invite Jessie Carter, our Senior Manager of Service Development, to join
+me. Thank you.
+JESSIE CARTER: Madam Chair, you are muted.
+KATE WILLIAMS: That's a nice change, isn't it? I will ask anybody who has questions or comments at this
+time to raise their hand. OK, we are a cooperative group. You gentlemen have given us information, and
+we have digested it, and we do not have questions or comments. I think that we will now call for the vote.
+
+I have Director Whitmore as the movement and Director Sloan as the second. I'm going to make this easy
+again. Is there anybody who is opposed to moving this forward to the full Board?
+OK, seeing no one. We then have seven yes votes, no no votes, and no abstentions. And that motion
+passes.
+JOYANN RUSCHA: Madam Chair?
+KATE WILLIAMS: Yes, Director Ruscha.
+JOYANN RUSCHA: I raised my hand as a no vote.
+KATE WILLIAMS: Oh, I apologize. I missed it. Now I see it.
+JOYANN RUSCHA: That's all right.
+KATE WILLIAMS: Thank you for that. So then we have six yes votes, one no vote, and no abstentions.
+And the motion passes and moves forward. Thank you, Director Ruscha, for helping me with that.
+OK, we are going to go on to the third action, which is for the Access-a-Ride call center contract. The
+auction states for the Board of Directors to authorize the General Manager and CEO or her designee to
+enter into a contract with First Transit, Inc., for the provision of Access-a-Ride call center services for
+three years with two one-year options for a total of five years at a not to exceed cost of $22,908,566.35.
+Do we have a motion?
+BOB BROOM: Move approval.
+KATE WILLIAMS: Director Broom. Somebody like to second that? I can second it.
+JULIEN BOUQUET: I'll second it.
+KATE WILLIAMS: OK. Thank you, Director Bouquet. With those, we will now have Michael Ford, Chief
+Operations officer, and Paul Hamilton, the Director of Paratransit Services, to give us some information
+on this item. Gentlemen.
+JILLIAN KNAPP-RHODES: Thank you, Madam Chair. Michael Ford, Chief Operations Officer. I'm
+presenting information related to the Access-a-Ride call center contract renewal and award
+recommendations. RTD seeks a five-year contract, three years with two one-year options, for a call center
+service delivered to customers in the RTD district. Call center services are provided at Civic Center Plaza,
+utilizing RTD's facility, space, hardware, software, and utilities. These services include Access-a-Ride
+reservations, dispatch and scheduling, and access on demand concierge service for paratransit
+customers unable to utilize and Access-on-Demand app to book their trips.
+By way of context, Access-a-Ride is RTD's federally-mandated paratransit service complying with the
+Americans with Disabilities Act, known as the ADA. Also, Access-on-Demand is RTD's opt-in choice
+program comprised of two taxi and two TNC providers offering curb-to-curb service to access on-demand
+customers within RTD's district. Access-a-Ride services comprise approximately 60% of service provided
+to paratransit customers, with the remaining 40% provided by Access-on-Demand service providers.
+
+After a one-month open solicitation period, proposals were received from two vendors, CXperts and First
+Transit slash Transdev. A panel of subject matter experts reviewed all proposals, ranked each proposal
+using objective criteria, which include service approach, technical, and staff expertise, implementation of
+offsite call center as overflow, and cost. Based on the scoring criteria, the panel recommends awarding
+the Access-a-Ride call center service provisions to First Transit Transdev. That concludes my portion of
+this, and I would invite Paul Hamilton, Director of Paratransit Services, to join me if there are any other
+questions.
+KATE WILLIAMS: Mr. Hamilton, do you have anything you want to add? Or are you just going to wait for
+questions?
+PAUL HAMILTON: I will wait for questions. I think he has covered it well.
+KATE WILLIAMS: OK. Directors, if you have any questions on this topic-- I'll look harder to see if I see
+any hands. Thank you, Mr. Ford. That was well done. OK nobody has any questions or comments. We
+will count the votes. Are there any no votes on moving this action forward? Director Ruscha, I see your
+hand. I will count you as a no vote. Anybody else? OK, so that makes six yes votes, one no vote, and no
+abstentions. And the motion passes with Director Broom as the mover and Director Bouquet as the
+second.
+The final action for this evening's meeting is regarding the 2024 Public Transportation Agency Safety
+Plan, PTASP. I can say that part. The motion is for the Board of Directors to approve the 2024 Public
+Transportation Agency Safety Plan as is required by 49 CFR, parts 674 and 673, and 4 CCR-723-7 rule
+7345. Do I have a motion.
+MARJORIE SLOAN: So moved. Sloane.
+PAUL ROSENTHAL: Second. Rosenthal.
+KATE WILLIAMS: Thank you. I heard Director Sloan and Director Rosenthal. And at this time, I'm going
+to ask Dan McClain our Chief Safety Officer and Senior Manager of Safety and Environmental
+Compliance, to talk to us about this item. Dan.
+DAN MCCLAIN: Yes. I'm Dan McClain, Chief Safety Officer. Let me share my screen. I got a short
+presentation I'd like to share.
+So this is a submittal of the 2024 Public Transportation Agency Safety Plan. Kind of the background is we
+are aligned with the strategic plan. We made those efforts two years ago such that we didn't have
+separate diverging priorities and competing objectives. They're all aligned and incorporated in the
+strategic plan. So it helps us all pull in one direction.
+It aligns with our values, our shared values, really focusing on employee, contractor, and customer safety.
+We're required to have this in place, as the Chair indicated, by several federal regulations and state
+regulations that require us to do that. Some of the changes that occurred in this version were driven by
+the bipartisan infrastructure law that was passed in 2021.
+So what is the PTASP? It's an annual snapshot of the safety management systems. And it documents
+what safety management systems and processes we have in place, the activities, the policies and
+procedures. It includes safety performance targets. And it's required to be reviewed, updated, and
+
+approved annually. We have added layers of approval because of the bipartisan infrastructure bill, and I'll
+get to that.
+What is a Safety Management System? It is a formal, top-down, agency-wide, data-driven, safety
+management approach. It's a set of interconnected and interdependent processes that enable safe and
+healthy workplaces, prevent work-related injuries and illness, and continually work to improve the safety
+performance. The Plan, Do, Check Act is the continuous improvement cycle that's associated with all
+management systems, and it's really driven by the leadership and management commitment.
+The 2024 PTASP-- what's new? The largest thing is we do have and have formed a charter and are
+having meetings with our Joint Labor-Management Safety Committee. In fact, they have to approve this
+PTASP before it comes to the Board of Directors, and that's in place. It's the-- charter is one of the
+exhibits that's attached in the packet. We have included three-year rolling average and targets for the
+safety performance indicators indicated in the National Transit Database and required by the National
+Public Transportation Safety Plan, as required by the bipartisan infrastructure law.
+And also we have incorporated by reference-- and it is in the exhibit-- the Emergency Operations Base
+Plan, which has been, one, an outstanding issue corrective action plan for the Public Utilities
+Commission. And we were required to update that for the last two years. And it was called out in our last
+submittal that we would have it done before we resubmitted.
+What are the performance targets in the National Public Transportation Safety Plan? It includes fatalities,
+which is the total number of fatalities and the rate per vehicle revenue miles by mode, injuries, total
+number and rate per vehicle revenue mile, safety events, number of reportable and the rate per vehicle
+mile, and system reliability, which is the mean distance between mechanical failures by mode. Those
+have their unique definitions in NTD and in the Public Transportation Safety Matrix. And we are now
+tracking those and have a 5% goal reduction or improvement on reliability.
+These are the other safety performance targets that are included in the 2024 PTASP, focusing on on-thejob injuries, the number of lost days. The two highest categories we've had historically has been slip and
+falls and strain injuries, and we're looking to maintain the system reliability. But again, I said we're looking
+for a 5% improvement in system reliability.
+So the activities is continuous improvement, which would be the continued implementation of operational
+risk management. That framework went into place in May of 2022. And we're applying it across the
+organization, maturing that processes as we go. Continue to implement event notification reporting and
+investigation policy and procedure. We've got several activities around that going to happen this year.
+Leadership and employee safety skills training, pre-job safety briefings, and high risk-- for high risk and
+non-routine activities. We have had some requests out of our two productive Union Joint Labor
+Management Committees around this very topic.
+Next steps-- today is Wednesday, July 12. It's to the Operations and Safety Committee for review and
+discussion. Hopefully, it's pushed forward for the Board to approve it. Once it's approved, we will submit it
+to the PUC for approval. This 2024 Public Transportation Agency Safety Plan will be in effect from the
+remainder of 2023 and the full calendar year of 2024. Questions?
+KATE WILLIAMS: Great job, Dan. Thank you very much. Directors, if you have any questions or
+comments, now would be the time to raise your hand. Director Broom, I see your hand up.
+
+BOB BROOM: Thank you, Chair. I was going to inquire, since we're talking about safety, is there anything
+that the Board should be aware of that should be put in the budget for next year to carry out the goals of
+this particular plan?
+DAN MCCLAIN: Debra, you want-- I mean-DEBRA JOHNSON: If I may-- if I may-DAN MCCLAIN: Yes, please.
+DEBRA JOHNSON: Thank you very kindly. And thank you for the question, Director Broom and Madam
+Chair. Thank you for indulging me. We collectively have been talking about the need to improve the state
+of our assets to a state of good repair. You have heard me say in various forums that we have constantly
+been building, building, building, and we are now at a place where we need to ensure we're maintaining
+our assets.
+With that as the backdrop as we go forward-- and I've been in conversations with our Leadership Safety
+Committee, in addition to the Joint Labor Safety Management Committee of which Dan co-chairs with the
+Union Vice President, is that we are going to focus on improving and enhancing our infrastructure. Quite
+naturally, we will be including in the budget work to repair the downtown loop. For those of you that may
+not be familiar, I'm talking about the original light rail track that was placed there when the system opened
+in 1994. So that's one such example.
+As we look at going forward with our Safety Management Systems Plans, how we can better capture
+various elements so we know how to better assess and close out certain actions that may require
+corrective action. So when we bring this forward to you collectively in the budget upon which you
+appropriate items, more specifically, we'll have to double back with you so you can delegate authority to
+me relative to safety initiatives that are underway.
+So that's a broad overview as we're in the midst of developing the budget now, and respective divisions
+and departments are putting together their line item requests relative to the alignment with our strategic
+plan. Thank you.
+KATE WILLIAMS: Thank you.
+BOB BROOM: Thank you.
+KATE WILLIAMS: GNCO. Director Broom, does that work for you?
+BOB BROOM: That works for me. Thanks.
+KATE WILLIAMS: Director Ruscha, I see your hand.
+JOYANN RUSCHA: Thank you, Madam Chair. My question relates to the Joint Labor Management Safety
+Committee. So does-- so I understand that it-- I mean, the joint group has to approve this plan before it
+comes before us. Does that have to be a unanimous approval? What is the threshold? And could you
+share what-- how many members were in support of this plan?
+DAN MCCLAIN: So I can--
+
+DEBRA JOHNSON: So I'll start, and I'll yield the floor to Dan. So just for everyone's edification, as written
+in statute in the bipartisan infrastructure law, it talks about there needs to be a Joint Labor Management
+Safety Committee. It's not prescribed relative to how many members and things of the like. It's up to the
+organization. Hence, we went forward and we were intentional in reference to our composition relative to
+where might there be safety elements that are critical to our day-to-day core business, which is service
+delivery.
+So there is representation from RTD's management side as it relates to the modalities. Specifically, we
+have representation from rail operations, bus operations. We have representation from what we know is
+our Capital Programs because they oversee our facilities. And we have Dan McClain, who is the co-chair
+along with the Vice Present of ATU 1001.
+More specifically, as it relates to the various Union stewards that are overseeing the various divisions that
+have those modalities are also represented. So as it relates to the unan-- I can't say the word-unanimous-- I can't say that today. It's been a long day, but you guys get what I'm talking about-- if it's
+everybody. Basically, that's not stipulated, but there is concurrence as we go forward because
+recognizing that there are some subject matter expertise on the side of management, and then there's the
+experience that we have from our Union brethren. So with that as a backdrop, I will yield the floor to Dan
+to explain how we have worked it out for our RTD's Joint Labor Management Safety Committee. Dan?
+DAN MCCLAIN: Yeah so we started this over a year ago, trying to form the committee. We've had several
+discussions. Again, the committee is to work collaboratively to improve safety throughout the
+organization. So hopefully there aren't any discussions where we don't agree because we all are listening.
+There's good selection. It's been good conversation.
+To answer your question directly, everyone-- it was unanimous to approve the PTASP. My team spent
+four or five sessions with the ATU, basically educate them in the six-- whatever we have-- 451 pages in
+this packet, and probably 425 of them are mine for the PTASP and the exhibits. It's a lot of information to
+digest. We have a lot of systems. We have a lot of regulations and requirements.
+And even understanding the role as their committee it's not a tactical committee. It's not doing
+inspections. It's not to do investigation. They are designed to do oversight and make sure that what we
+say we do and what we say and do works. And that's kind of the approach we've taken-- very
+cooperative, collaborative, and they're very suggested. And right now it's been a very-- we've had several
+meetings but two official meetings, and they've been very successful.
+KATE WILLIAMS: Super. Thank you, Mr. McClain. Director Ruscha, does that answer your question?
+JOYANN RUSCHA: Yes. And if I may make a comment, I have worked with labor organizations and for
+labor organizations in previous roles, and a joint labor management structure can really be effective in
+any industry. And so I'm very pleased to see the representation that the GNCO described and what I see
+here in the packet and also to hear that there was consensus and it was unanimous. And so if the local
+gives it a thumbs up, this director will give it a thumbs up. And I thank you for staff's efforts in that
+collaboration.
+KATE WILLIAMS: Thank you, Director Ruscha. OK, so now-- I don't see any other hands up. Not missing
+anybody? OK. Let's go to the vote. We have Director Sloan as the movement and Director Rosenthal as
+the second. And again, I'm going to ask, are there any no votes on moving this action forward to the
+Board as a whole?
+
+Seeing none, we have seven yes votes, no no votes, no abstentions. And that motion passes. So we're
+doing good work here tonight, ladies and gentlemen. Thank you again, Dan. Appreciate it.
+OK, there's one discussion item on the agenda this evening, and that item is a human resources update.
+And I believe Charlene-- boy, I can't say it. How do I say it? "Po-ledge?" No. Is that right? No.
+JULIEN BOUQUET: "Po-leg-ee."
+KATE WILLIAMS: Polege. Polege. You know, you guys always trick me every time with that. Charlene,
+are you here to present this item?
+DEBRA JOHNSON: You're muted, Charlene.
+CHARLENE POLEGE: I'm using my desk, so I want to make sure-- can you hear me now?
+KATE WILLIAMS: Now we can hear you, yes. You have the floor.
+CHARLENE POLEGE: Wonderful. So I'm going to work on sharing my screen. You may recall from my
+very first presentation to the Operations and Safety Committee, it didn't work. So I will start by saying,
+Charlene Polege, Chief People Officer. My pronouns are she and her. And I am here to provide a human
+resources update for Q1 of 2023.
+I'll go ahead and look at sharing my screen here, if you just bear with me. I even have John here to help
+in case I mess it up. All right, I'm looking at-- let's see. Here we go. Are you seeing everything or just the
+screen?
+DEBRA JOHNSON: You got it!
+KATE WILLIAMS: We got-- we're seeing what we're supposed to see, which is good.
+CHARLENE POLEGE: I had John come in beforehand to make sure that I didn't mess it up. So thank
+you, Madam Chair and members of the Operations and Safety Committee and additional members of the
+Board who are in attendance this evening. As said, we're going to go-- I'm going to present. I'll be
+providing regular updates at the request of this committee. They'll be quarterly. I appreciate that we are in
+July and this is for Q1. We will expedite. We will catch up for Q2, and then these will-- my preference
+would be to have them be on a very regular cadence.
+So we get started. The first thing that we're here to talk about today are three things-- people power,
+talent acquisition, and retention. And what we're looking to cover in people power, effectively, are our
+metrics for the quarter. And then, as we talked about at the end of 2022, we're also just really focused on
+talent acquisition and retention. Those are the two core areas for HR. It's not to say that any other areas
+are not important. But the criticality of retaining and attracting talent into RTD is paramount.
+Again, this is for Q1 only. So the stats that I'll be providing with our people power are for January 1, 2023,
+to March 31, 2023. I would like to just point of reference call out to the committee that in the discussion
+item report under people power, the second line, it reports the total number of employees for RTD as of
+March 31, 2023. There is a typo. In the report, it indicates 2,685. In fact, you'll see in the presentation that
+was also included, it's 2,675. The correct number is 2,675, and that was a typo. And I apologize. I just
+wanted to call it to your attention.
+
+So looking at people power, if we compare-- we're comparing the same quarter to 2022. So in Q1 of
+2022, the agency had hired full-time and part-time employees-- this excludes contractors-- 74 new hires.
+And in 2023, we've-- in the same quarter in 2023, we've doubled that number. There's a total of 148 in the
+first three months of 2023.
+Conversely, we have seen a decrease in the number of departures within the agency. In 2022 Q1, we
+had 100 departures during that three-month period. And in the correlating three-month period in 2023,
+there have been 82.
+As you've heard me say before, ensuring that we have the right people in the right roles, doing the right
+work at the right time, is critical to the agency's success. And in many respects, it is-- as I said, it's the
+primary and sole focus of the Human Resources Department at this time.
+While we're seeing a positive trend over from the same quarter in 2022, we still have more work to do.
+When we dive deeper into these numbers and we explore the vacancy rates across key positions within
+the agency, we see that while the agency has an overall vacancy rate of 16%, which is a 2% reduction
+from 2022 year end, we have significant vacancies upwards of, as you'll see with transit police officers,
+75%, maintenance of way at 40%, maintenance general repair and body shop under bus operations at
+33%.
+To just highlight this graph, it's the first time that I've brought this graph to the committee. At the
+committee's request, I was reporting on bus operations and rail operations. As you see, we have included
+transit police. And we will continue to build out a broader, more in depth HR dashboard capturing other
+areas where we have high vacancies. But we're piecemealing that together. What's important is we have
+the accurate representation and we have great partnership with bus operations, rail operations, and
+transit police and HR, and we're continually engaging.
+So with that, when you look at this slide, how to read it-- I appreciate there's a legend there. But if we look
+at bus operators, you'll see a 20% vacancy rate. The arrow is red because it has gone up. It's gone up 2
+percentage points from the end of 2022, and it's greater than a 15% vacancy rate.
+Conversely, if there is a yellow arrow, that yellow arrow is pointing down as in light rail vehicle
+maintenance at 32%. However, 32% vacancy rate, while it's an improvement, it's not where we need to
+be. And so yellow is to reflect that we've made some improvement. But there is still a greater than 15%
+overall vacancy rate for that position. So-- and then, conversely, if it's a green arrow, that means that it
+had a drop over the previous reporting period and that it is 15% or less overall vacancy rate.
+So a few things that I would like to highlight here. When we're looking at our recruitment process,
+certainly with our bus operators, we have significant resources in HR and the talent acquisition team
+working actively on increasing our bus operator filling those positions. So while we've seen an increase of
+the 2%, we'll see later in the presentation that there were a number of retirements for our bus operators.
+And so, again, as I talk later in the presentation, it's one of the areas that we need to be developing
+strategies on forecasting those retirements and building out retention programs.
+So talent acquisition-- what are we doing? Those are our metrics. We know we've made some
+improvements. We're gaining some traction. But we still have a ways to go in some key areas. One of the
+ways that we're addressing that is with our applicant traffic.
+
+So here we're comparing, again-- you'll see throughout comparison in 2022 Q1 to 2023 Q1. And in 2022,
+our applications received for open, active RTD positions were 1,822. That number in the same period in
+2023 has increased by just shy of 1,000 applications. So in the first three months, we received over 2,800
+applications for open positions within RTD. Pardon me.
+That said, as we know, the competition fr talent remains fierce. As I stated in the 2022 year end, our focus
+remains steadfast. We need to attract significant numbers of talent who have specialized skill sets in a
+short period of time. And then once we hire them, we need to provide an employee experience that
+makes them choose to stay.
+With respect to that talent acquisition and the ability to attract traffic-- or to attract applicants-- pardon me- an increase of 55% is significant. When we look at to explore deeper, we want to look at, where are we
+sourcing these applicants from?
+In comparison to 2022, in 2023, the majority-- the solid majority of those applicants are coming directly
+through the RTD website. When we look at that traffic coming through our website, that demonstrates a
+clear link between-- a direct link to the work and collaboration within the Communications and
+Engagement team. It is increasing RTD's profile within the Denver Metro area.
+And it is drawing a key thing. What gets me excited about our traffic, going through our RTD website, is
+because I might be interested or have an interest in a bus operator position or a service and cleaning
+position. But when I get to the RTD website, I now see all the positions that we have available. And so
+instead of just being a sole focus applying through a LinkedIn ad or an Indeed ad, when they get into our
+website, they see and have opportunity for all positions.
+Additionally, when we're looking at this, employee referrals continues to be a solid resource for
+applicants. As I said previously, I'm a big fan of employee referrals because our employees know that-they know the expectations. They know the culture. They know who we are and what RTD has to offer.
+They understand the mission, the vision, and we are more likely to recommend and encourage our
+colleagues, family, friends to join an organization. And those individuals will often be alike.
+And so we're seeing an increase in employee referrals, and we're also working on a deeper dive to see if
+that conversion rate-- to use an HR term-- if that conversion rate of an employee referral actually returns a
+longer retention. So as we're looking at turnover, are our employee referrals, referees, are we retaining
+them?
+Why is all this important? Why is applicant traffic important? Well, this slide is to reflect that, according to
+the US Department of Transportation-- now these are May stats because things are not getting better.
+They're actually-- the competition is getting worse. It's becoming more intense. Unemployment rate fell
+0.9 percentage points from 4.5% in May 2022.
+Additionally, the May 2023 rate is below the pre-pandemic rate of 4.5%. And that date was May of 2019.
+So to put this in context, in May 2020, the unemployment in the transportation sector reached its highest
+level during the COVID-19 pandemic. And that actually was 15.7%.
+I do want to highlight that, given the volatility of the labor statistics in 2020 and 2021, because of the
+impact of the pandemic, for our purposes, for benchmarking purposes, we will be using 2022, or we are
+using 2022, in the Human Resources Department to assess progress and to assess-- to get a more
+accurate picture of what's actually happening in the market.
+
+The transit-- it's clear that the transportation sector-- pardon me-- as a whole is feeling a significant
+impact. We're not alone in this challenge. What it means, though, is that we are competing for talent
+across sectors, across industries, and even within ourselves. And what I mean by that, as we saw in the
+prior slide, we have had some great success at promoting within. However, when we promote within,
+which we fully support and encourage for employee growth and development, we then now need to fill
+their position.
+And so it doesn't change our overall vacancy rate, and it doesn't change where we are competing for
+talent. So it's really critical that we reach applicants in real time and that we have an understanding of the
+genesis of that applicant traffic, where is it coming from, because that allows us to do work with the
+communications and engagement team to target, to specifically target, specific outreach activities. And
+then we also need to be able to, what I say, respond in kind. We have to be able to create an applicant
+traffic flow, once they get into our system, that is consistent, it's expedient, but it doesn't diminish the
+quality of our hires.
+So what are some of the process improvements that we're putting in place to try to attract and try to get
+that talent? We have increased community outreach through career fairs, community engagement, and,
+as I said, targeted marketing efforts. In Q1, there was-- we held a three-day RTD career fair in Boulder.
+Some of you will recall or be familiar with that. We've also engaged an event at a local high school in
+Denver and events in Westminster and Aurora.
+Additionally, to address the increased applicant traffic and the agency's ability, as I said, to move potential
+applicants through the process, we have added additional resources. That additional talent acquisition
+specialist, in fact, has already started, and they are working directly. We've added them to the bus
+operations recruitment activities. And we are continuing our process and are hopeful, pending a decision
+shortly in the coming weeks, on being able to have a dedicated police recruiter.
+Currently, our recruiter for police also manages other non-represented recruitments. And if you're not
+aware recruitment process for police officers is very lengthy, it's really complex, and it's quite stringent.
+And so it's very difficult. You can't cut corners, first off. You would not want to do so anywhere. But it's as
+streamlined as it possibly can be. So having a dedicated recruiter just focused on that would be extremely
+beneficial.
+Additionally, we're looking to reduce our time to hire and fill. So one of the areas we've identified is
+through our assessments. As I've mentioned before, we have a highly specialized and highly skilled
+workforce. And in the recruitment process, we engage in pre-recruitment assessments. We are looking at
+those assessments currently, and we've identified some to be updated that may be unnecessarily a
+stringent, which is potentially excluding solid applicants. But if they can't pass the assessment, then they
+don't qualify to move on in the process.
+And so we need to look at our assessments and make sure that we are actually assessing what we need
+and making room, so that when we bring people on, even though they're highly skilled and specialized,
+they're not going to know every single thing about RTD and that we have the accurate assessment. So if
+we're recruiting a mechanic and it's an entry-level mechanic position, then the assessment should be for
+an entry-level mechanic position and not a senior mechanic, as an example.
+Additionally, we were working on-- we were exploring utilizing technology to get those assessments in
+real time and to have them being passed through as opposed-- it's a very manual process right now, and
+we're exploring avenues for technology to move that through. While we're looking to reduce the time to
+
+hire, as I said previously, we are not looking to reduce the quality. But we also do not want to be
+unnecessarily excluding potential applicants.
+So moving on to retention, as previously noted, the number of separations, compared from Q1 of 2022 to
+Q1 of 2023, has dropped. And this is good. We want to continue to see this trend. These are all positive
+trends. But we need to understand and explore more. So we're looking at voluntary turnover.
+Of the 82 separations in Q1, the majority were voluntary. And of those, when we are looking at well over-I think it's 67% were voluntary turnovers. If we push on that, as I said previously, retirement is-- the top
+26% of voluntary turnovers is retirement. That shouldn't be surprising because we would hope that all
+people, they're retiring, not choosing to go elsewhere but retiring. They've fulfilled their career with RTD.
+We are going to be working on building out models so that we can predict this and then adjust our
+recruitment activities accordingly. However, pushing a little bit deeper, what's also really interesting that
+we are exploring is that nearly 50% of the voluntary separations were either other employment-- so they
+chose to depart RTD for other employment-- family reasons, or job abandonment. And just for
+clarification, job abandonment is they just stop coming into work. So we don't know-- they haven't given
+us a reason. We don't know why. And so we've had in that quarter, for those three reasons, almost 50%
+of the voluntary turnover.
+So taking a deeper dive into those numbers, what we're looking and what we're building-- and certainly
+we'll be happy to provide further information and future briefings. As I said, the retirement-- modeling out
+that retirement so we can start looking forward. I appreciate that we are in a sprint to try to fill the many
+vacancies we have. But it can't preclude us from doing the strategic work of looking forward and
+forecasting and modeling what you would normally do when you're not trying to so actively fill numerous
+positions.
+Additionally, with the tight labor market, we need to really take an internal look forward-- inward, pardon
+me-- because there isn't just an abundance of individuals just sitting out there looking for employment.
+When you consider the unemployment rate, that equates to roughly 1.6 jobs for every individual looking
+for employment, every individual who's active in the employment market.
+So we need to be looking at how we deliver our employee experience, things like our work-life balance,
+what growth opportunities are available. So when we're thinking of people who have left for other
+employment, the HR business partners are exploring those conversations and trying to understand why
+did you leave other employment, what's driving that desire to go elsewhere. Is it work-life balance?
+We do hear things relative to the scheduling, and in particular with bus operators and our rail operators,
+it's a very challenging schedule, coming in with no seniority, and how do they achieve a work-life balance
+and/or a set schedule? So we need to be looking at that and, of course, working with our partners at ATU.
+But not suggesting there's anything there, but we need to take that deeper dive and push through, and we
+are starting that work.
+I will note that-- and I know that-- I think there's been a question asked before. Consistently, we're seeing
+3% in this quarter-- only 3% were dissatisfied with the pay. And I believe that is two or three people who
+left said that they were dissatisfied with pay, which is good. But we still need to find out what else so that
+we can build the appropriate retention programs.
+
+So in closing, what I would like to just say is that we will be exploring this information, and we are
+continuing to push deeper into what's happening with our retention. We're adding resources in our
+acquisition side. We're seeing great movement and presence in the market and interest in RTD. So how
+are we going to get them in quicker without diminishing quality, and how are we going to retain them?
+So I know I said that we're in a bit of a sprint. But this work is actually a marathon. We're not going to turn
+everything over in a quarter. But we are seeing positive trends-- although small, we are seeing positive
+trends moving in the right direction. And so with that, I would just summarize that, as I said, it's not a
+marathon, but we are working as we can and as diligent as we can in a very focused way to attract
+people into the roles and to retain them. Thank you.
+KATE WILLIAMS: Thank you, Ms. Polege.
+CHARLENE POLEGE: You got it.
+KATE WILLIAMS: I got it. OK. I'll forget it again next time. I see that there are several directors with their
+hands up. It was a great presentation with a lot of very relevant information. Director Rosenthal, I see
+your hand first.
+PAUL ROSENTHAL: Thank you, Madam Chair. And thank you, Ms. Polege. Very good presentation.
+Drilling down a little bit on the abandonment category, I'm wondering, what were the warning signs? Were
+there any? And tied to that is, do you, as part of the departure-- or I guess, if they're abandoning, then you
+really weren't able to talk with the former employees. But perhaps you were able to talk with their
+supervisors and say, hey, do you know why they left, or was there any warning signs, that sort of thing.
+Thanks.
+CHARLENE POLEGE: Yeah, great question. So just for clarification, as well, these numbers come from
+the supervisors directly. They're the ones who advise us what has happened, and they're having those
+conversations. I would say that's some of the work, Director Rosenthal, that we're doing. So we're having
+the conversations. We have data. We need to now analyze it and follow up and try to find those trends or
+themes where , if we see a spike, if you will, if we see a spike, what's driving that spike?
+So why people are leaving, we don't necessarily know with the job abandonment. But if someone's
+leaving for family reasons or for the other categories, maybe those very individuals may have left because
+they got other employment, and they should be categorized there. They just didn't choose to tell us. It
+could be for a variety of reasons. But, yes, those conversations are happening, and that's part of the work
+that we're doing in HR is to get that data, and then what are we going to do with it?
+I'm a big fan of data-- a little bit of a geek around it. But more importantly, now that you have it and you
+know, what are you going to do with it? And that's the phase where we're gathering the data right now,
+and then we have to do that analysis.
+KATE WILLIAMS: Thank you. Are you good, Director Rosenthal? OK, Director Bouquet, I saw you next.
+JULIEN BOUQUET: Thank you very much, Madam Chair. And thank you very much, Ms. Polege, for that
+presentation. I actually have a couple questions. I'll try to make them as brief as possible to respect
+others' time. So my first question is regarding the collect-- [AUDIO OUT] for those who actually were able
+to understand why they leave-- obviously those who abandoned, we're probably not going to get the
+clearest information-- how are we collecting the information? Is it through an exit interview or an exit
+survey? For those, why they're choosing to leave, how are we collecting that?
+
+CHARLENE POLEGE: Yeah. And so think-- I just want to be clear because you broke up a bit for myself
+initially. So how we're collecting that, first off, except for the job abandonment, as we've already
+discussed, we do two things. So we do a stay interview, first off, when people come on Board so we can
+get information about what drew them to RTD, what's working well, how was their onboarding. And then
+where possible, we do do exit interviews.
+So the HR business partners do engage. Now, I say where possible because it's not mandated. So if
+someone has chose to depart and they don't want to participate in an exit interview, we don't mandate
+them to do so. And so we are a bit restricted to the willingness of the employee who's chose to leave. The
+exit interviews are done by HR, the reasons, and there's also the information that comes from the
+supervisors.
+JULIEN BOUQUET: I'm going to turn off my camera, just based on my internet connection. So assuming
+it's an exit interview, it wouldn't be anonymous then, would it? OK.
+CHARLENE POLEGE: So it's not anonymous. But we do-- as an HR entity, we don't share that
+information because that is personal to that employee. So that is their personal information. And we do
+create an environment because we want them to share things or feel comfortable to share things that
+maybe we wouldn't want to hear but it's important that we do hear. So the aggregate-- as I said, when
+we're looking at this information, we're looking for the trends and themes. And then that would be reported
+as an aggregate.
+JULIEN BOUQUET: OK, yeah, I guess my question would be looking from an employee standpoint of, in
+an exit interview, I know that we respect your ideas and opinions and everything, but-- sorry, I'm watching
+dogs, too, so pardon me for extra noise. But I guess the overall theme would be, oh, are people being
+truthful in an exit interview, ultimately, I guess would just kind of be the overall thing that I would look at.
+Do we collect how long each employee was with RTD before exiting?
+CHARLENE POLEGE: We do. We do. And I can tell you that the group greatest at risk is one to three
+years of service.
+JULIEN BOUQUET: OK, that's exactly information that, if possible for the Q2 report or Q3 report, that'd be
+excellent for us as a Board of Directors to look at. I'm looking at it a lens as a public school teacher where
+I think it's very similar. It is one to three years when it comes down to exiting the profession or exiting your
+job that you're at. And so pinpointing what that correlation is and kind of identifying would be pretty
+important.
+Next one is going to be-- so the obvious one is that 75% vacancy when it comes to transit police officers.
+Is that because of our new goal of adding 40 new officers in a year?
+CHARLENE POLEGE: Yes and no. So yes, that does include that. So it does increase the numbers. But
+additionally, as I indicated, it's a very lengthy process. And while that is for Q1, I can tell you that I think
+last conversation I had there were over 45 applicants in the, quote, unquote, "queue" who were going
+through the process. And the process-- the length and duration and extent of the process is predicated
+often on whether you're already post-certified or not. So is it a lateral move from another police
+department or are you a new recruit? It takes a bit longer.
+But those numbers have shifted already. There's significant traction being made. And as noted in that, I
+just want to highlight in the presentation, like the commander, that's one position, that 10%. I don't have it
+
+up in front of me anymore. But that's one position. Chief Fitzgerald has been diligently focused, as well,
+on ensuring that he has the leadership in place in order to lead all of these officers when we bring them
+on board. So it's shifting regularly. I can't give you another number other than those 45. But we are
+projecting in future months to bring on bundles of 10, hopefully, in a given month.
+JULIEN BOUQUET: Thank you very much. This is my last question for now. I'm going to respect anyone
+else if others get to my question. So I'm actually looking at our Workday website because you said, based
+on the quarter 1 information, that RTD website I'm assuming is that Workday website. Correct? Of-CHARLENE POLEGE: Are you looking at the-- is it the-- I'm not sure which website you're looking at. Is it
+the HR-JULIEN BOUQUET: It's rtd-denver.com/careers. Is that what you're referring to in your presentation?
+CHARLENE POLEGE: Yeah.
+JULIEN BOUQUET: OK, so when you actually hit onto it and you hit onto Careers, it will post the amount
+of careers we have in each of what's classified on this website as job family. So for instance, if I look at
+security, it says there's currently two jobs. And it says the posting is 30 plus days ago. I'm just curious-and I'm obviously not an HR expert.
+But I'm curious if we've talked or explored options of listing the true amount of jobs or officers, for
+example, in that needed compared to, oh, hey, we have a position-- we have multiple positions for transit
+police officer. And then we have a lateral transit police officer position. That's what's listed on the website
+currently.
+As someone who might be looking for employment, I might look at that and say, this has been posted 30
+days ago. They're probably already in the hiring process. These are the only two transit police officer jobs
+they're looking for. That, again, is coming from me as a different lens as an educator where it'll post, hey,
+there's 16 social studies jobs needed in our district. I just make that comment. I'm just curious if it has
+been explored of, hey, maybe if that's a technique to potentially look into of, hey, this is the amount of
+officers we need or transit police officers we need. We are posting it as in real time. I guess that would be
+my comment slash kind of question. But thank you again for answering everything.
+CHARLENE POLEGE: So if I may, Madam Chair, just add one piece there. So thank you for the
+comment. There's a lot in there, and there's a couple things I'd want to explore. So there is a job family,
+and you are correct. There could be-- as we see here with the police officers, there's a number-- there's
+dozens of available positions. I would want to step back and have an opportunity to look, as well, at the
+posting itself. Often the postings have language that will show the number of positions. I'm not familiar. I
+haven't looked at it specifically, but I certainly will go and look.
+And/or additionally, there's language often that's included, something to the effect that says the position
+will remain open until all-- or the posting will remain open until all positions are filled. But again, I'd like to
+step away. I'll definitely take a look at that and see. And any improvement that we can make to your point
+of somebody might not apply if they think that it's 30 days and/or they think, well, there's only two
+positions. They may not choose to put their hat into the proverbial ring. But certainly, we'll take a look at
+that. Thank you.
+JULIEN BOUQUET: Thank you very much.
+
+KATE WILLIAMS: OK, thank you for that discussion. Director Ruscha, I see your hand next.
+JOYANN RUSCHA: Thank you, Madam Chair. I have a few questions, as well. So the first is about
+custodial staff and cleaning. I anecdotally-- and I guess I've heard this from folks, too. I don't feel like we
+keep our system as clean as we used to, particularly on some of our light rail lines. And I was wondering
+if you had any insight if that is a staffing issue or a contractor issue. I'm just not familiar where that
+responsibility falls, if those are internal jobs or if that's an external contractor.
+CHARLENE POLEGE: If I may, Director Ruscha. First off, I would point out that there has been a
+significant increase or decrease-- decrease in vacancy rate, increase of full-time, part-time RTD staff who
+have been hired within the service cleaning and category. And in fact, that vacancy rate is now sitting at
+14%. I would have to dig deeper on the actual numbers. I don't have that there.
+That said, I do recall, at the end of 2022, that position itself-- that's a more than half decrease. So there's
+been significant efforts in the first quarter to hire service and cleaning staff. With respect to your comment
+on the cleaning from an HR perspective, our role is to be hiring the staff to step in. And I wouldn't feel
+equipped or appropriate for me to step in and comment on that. But I can say that there has been a
+significant increase in RTD full-time and part-time staff in those roles in particular. That was-- when I
+joined in late December, that was, along with bus operators and rail operators, a primary focus of the
+talent acquisition team.
+JOYANN RUSCHA: If-- well, I guess a way to rephrase it or another way to ask, any of these-- is that
+lowered vacancy rate, that green arrow on custodial, due to outsourcing? I didn't ask you to make a
+comment about the state of our-- if our facilities are clean. But rather, I was just trying to figure out if
+staffing might be a reason as to why we are potentially having issues maintaining. But I can-- it doesn't
+seem like that's-DEBRA JOHNSON: If I can address this, I'd appreciate it, Madam Chair.
+KATE WILLIAMS: Yes, absolutely.
+DEBRA JOHNSON: Director Ruscha, there's multiple factors as it relates to the cleanliness of our
+system. First and foremost, at this agency, traditionally, we have done something differently than most
+transit agencies of which I'm familiar with in the industry as a whole whereby we were utilizing service and
+cleaning staff to also move rail cars. In order to move rail cars, you have to know how to operate a rail
+car.
+So when you're thinking about the option, do I want to be a car cleaner-- or since I basically received
+certification to operate a rail car, I may opt to operate a rail car because operating a rail car yields higher
+pay. That's one of the issues at hand. Secondly, as it relates to contracted staff, recognizing that we, as a
+leadership team, have had conversations because we recognize that we are dealing with a myriad of
+different factors that basically did not germinate from our own doing as a regional transportation provider
+but are byproducts of the community as a whole.
+So when somebody is cleaning a rail consist before it pulls out into service delivery, there could be a
+multitude of different issues that happen while that train is in service, thereby limiting the ability to clean
+such rail car. While we've asked our light rail operators to walk through the consists and pick up trash and
+debris and things of that nature, that's not really clearly incorporated into their job description.
+
+But there has been a willingness on the behalf of our team members to do that. But recognizing some of
+the behaviors-- and this was clearly called out and specified during the public comment period at the June
+27 meeting. One could clearly understand how there could be some trepidation and reluctance on behalf
+of our train operators to actually engage in that activity.
+So moreover, the other aspect that I would like to broach is that, as a team, we have looked to see what
+might be within our purview that does not hinder our collective bargaining agreement relative to
+contracting out some elements of service to keep our cars in a state of good repair. So rounding that all
+out, recognizing that we do not have what we call a yard master to move around rail car consists in the
+yard, that we oftentimes use people that are doing service and cleaning to do that, that position is hard to
+recruit for, recognizing the requirements and the pay that's required. So we are taking steps to see what
+might we do going forward.
+And then, secondly, recognizing we want to adhere to a collective bargaining agreement because we
+pride ourselves on being good partners of labor. We have to, in turn, look at what is permissible within the
+confines and work in tandem with our Union partners. So thank you very kindly, Madam Chair, for the
+opportunity to address that question.
+KATE WILLIAMS: Thank you. Director Ruscha, did that answer your question?
+JOYANN RUSCHA: That did. That was a more thorough answer. I appreciate it. I had a few more related
+to the other slides. So the first was the-- and I don't remember what slide we were on, but where it says
+"Deeper Dive," so page 450 in the packet, 14 on the presentation.
+On the turnover percentages-- so this adds up to 78%. And from my understanding, unless I
+midunderstood, folks were only given the opportunity to select one of these options. Is that correct? Or
+they could select multiple?
+CHARLENE POLEGE: They could select multiple. There's a primary reason, and then there's a
+secondary. However, individuals don't always provide a secondary.
+JOYANN RUSCHA: OK thanks, because I wasn't sure if it wasn't adding up to 100% because not
+everyone filled it out or if it wasn't adding up to 100% because there were multiple options selected. And
+then the other comment-- question, I guess, had is that I've heard-- and I've heard this for years, but even
+more recently that they've applied for jobs and haven't heard back, that we don't-- they don't get even a
+confirmation email. And I was wondering if that is something that we have changed yet in terms of
+communications or if there's a plan for that, even just like an automated email or-- if you could address
+that.
+CHARLENE POLEGE: So thank you, Director Ruscha. I will follow up with our talent acquisition manager.
+First off, yes, it does take a long time. It takes longer-- when say long time, it takes longer than we would
+like-- there's no hiding that-- to get back to candidates. And that's why adding additional resources-- and
+as you can see, if we've had an increase of nearly 1,000 applicants in one month, that's great. But we
+have to be able to-- to use an HR term, we have to be able to process and to review and assess those
+candidates.
+So we are working on that, and we are not where we need to be. And I will own the state of where we're
+at today. With respect to if they receive a confirmation email or not, I will follow up and respond back if
+
+that permits yourself and yourself, Madam Chair, because I believe that the system does provide an
+automatic response that your application has been received.
+If they do get something-- now, if you're asking-- I want to affirm that happens. I believe that that does. I'm
+pretty certain that happens every time automatically. If it is the ask of I've applied for position A, and I've
+got that email, and then it's three weeks to three months later, and I still haven't heard anything, that's
+likely because that position is still being recruited to. Once a position is closed is when all notifications
+would happen. So I just want to clarify. Is it they're getting zero response or they're not getting the
+response that says, we regret to inform you that you were not the selected applicant?
+JOYANN RUSCHA: Well, what I'd heard from one person is that they didn't get a confirmation email. So I
+don't know if it's a bug in the system or maybe just certain job postings. But I wanted to flag that. And then
+I have a clarifying question based on what you just said. Did you say that when a job closes, does that
+applicant get a notification that they were not selected for that position?
+CHARLENE POLEGE: My understanding-JOYANN RUSCHA: What I'm trying to ascertain is, what automatic communications go out from
+Workday? Not manual, but the automatic ones.
+CHARLENE POLEGE: Right. I will confirm. Thank you for the flag on the confirmation email because
+certainly we want to make sure that we are responding and that the system is doing what it's designed to
+do. And yes, when a position closes, anyone who applied on that should be receiving a confirmation
+email. Now, I will double check. And I will report back and affirm.
+JOYANN RUSCHA: OK, thank you.
+KATE WILLIAMS: Thank you. I see Director Broom's hand next.
+BOB BROOM: Thank you, Chair. I had a question about leave of absence. Do we have a policy that deals
+with that? I know from time to time, people will leave to finish up a degree or something like that or even
+somebody returning from pregnancy leave. What is our policy on that?
+CHARLENE POLEGE: So to answer your question, Director Broom, do we have a policy on leave of
+absence, yes, we have policy and procedure on leave of absence. Respectfully, I have not myself
+personally read every policy, so it would be difficult and not prudent for me to actually respond. But I'm
+happy to follow up with the committee. I mean no disrespect to the question, I just-- we have hundreds of
+policies, and I'm not fully breadth at the top of my head with all of them. But we do have an approval
+process for when people need to take a leave of absence for specific reasons, whether that are parental
+leave, whether it be an education leave. There is a process in place for that.
+BOB BROOM: Thank you.
+KATE WILLIAMS: OK. Director Davidson, I see your hand.
+ERIK DAVIDSON: Yeah. Thanks, Chair Williams. Thanks for letting me participate. I'll be brief. I just
+wanted to say, Ms. Polege, not just thank you for an incredibly helpful and data-rich presentation that was
+as simple as it was data rich, which is hard to do. I also just want to thank you for going on this journey
+with us. I appreciated the comments you made about the difficulty of competing, not just in transit but also
+
+at large right now. And in order to act smart and compete smart, we need the right people on the job, and
+we need to be very data rich. So thank you for doing that.
+And it dawns on me that the last two audit risk assessments that we did internal management flagged
+twice that the absence of data within RTD and the difficulty of obtaining and acting on it was a risk to the
+agency. And what you showed tonight shows tremendous improvement in this area and helps us really
+manage and act on things. I think it's tempting and easy to say, oh, we got to increase pay or we got to
+change this benefit or that benefit or tweak this or do this job fair or this website. And it's really hard to do
+that without the type of information you shared, and it's, I think, very helpful for the committee and the
+Board to be able to see that the way you presented it. And so thank you for going on this journey with
+RTD. That's all.
+CHARLENE POLEGE: Thank you.
+KATE WILLIAMS: Thank you, Director Davidson. I can only echo that. I thought that was good
+information presented in a way that we could get a hold of. And I might have some additional questions.
+But I think I'm going to wait and email them to you afterwards. And I want to note that Mr. Kroll has been
+great about sharing with all of the directors when he gets a question that might be relevant to everybody.
+So maybe we'll go down that path. OK, I see leftover hands. I believe Director Davidson and Director
+Broom have leftover hands, unless either one of you have an additional question.
+ERIK DAVIDSON: That is correct. My apologies. Thank you.
+KATE WILLIAMS: That's OK. I'm good at reading those. OK, seeing nobody else, thank you, Ms. Polege.
+That was nice. There are not any other matters that I am aware of to discuss this evening. And so I would
+like to remind everyone that this committee is not scheduled to meet in the month of August. The next
+Operations and Safety Committee meeting is scheduled for Wednesday, September 13. It will be at the
+same time and the same location. Unless anyone has anything else, I'm going to call this meeting
+adjourned at 7:00-- oh, I see-- Director Ruscha, I see your hand.
+JOYANN RUSCHA: Thank you, Madam Chair. Just briefly, I was wondering-- and I think this is the right
+committee-- if staff could give maybe a brief update and some context on the status of the downtown
+Boulder station as it's been shut down for six months. And I think it's not clear to some folks as to why it's
+taking so long. And I would appreciate any broader context if possible.
+KATE WILLIAMS: I'm not sure if there's anybody at this meeting that is ready to speak to that.
+JULIEN BOUQUET: Director Kroll has his hand up.
+KATE WILLIAMS: OK.
+JACK KROLL: All I was going to say, Director Ruscha, is that I've seen a great deal of email traffic on this
+issue today. And I believe the administration is formulating a very detailed response that will be out to the
+Board in some time-- in relatively soon. I don't know, CEO Johnson, if you wanted to add to that-DEBRA JOHNSON: Yes, if I may. Keeping in mind that as it relates to what's happening at Boulder, we
+had provided communique relative to what we needed to do in reference to replacing the HVAC systems
+and things of the like very analogous to what we did when we encountered the issue with our elevator
+due to the rainwater and all of the implications. Some of these elements are beyond our control.
+
+So recognizing that we are working on getting information, and once we have that available, we will
+disseminate that. We have been in communication with members of the Boulder County Commission and
+the representatives, specifically the chair, and we have participated in meetings, and we have had
+discussions, and we are providing a report that will be disseminated going forward.
+And we're in the process of doing that. Quite naturally, we want to ensure that there is information that will
+be useful. We have been communicating with our customers and working with our partners within the city
+of Boulder as well. And all of our operations around that we have been communicated. So yes. I just was
+made aware of the inquiry just this afternoon, as I was not copied on that transmittal, and received the
+information. So recognizing that information just came to my attention maybe a couple hours ago we. Will
+do our best to disseminate information to this full body. Thank you very kindly for the opportunity, Madam
+Chair, to address.
+KATE WILLIAMS: Absolutely. Director Ruscha, are you good waiting until we all get an answer?
+JOYANN RUSCHA: Yes, of course, as long as the answer is coming. Thank you.
+KATE WILLIAMS: Yes, ma'am. OK, one more time. All right, let's see. What do we get now? We've gone
+to 7:05, and I'm going to call this meeting adjourned. And I'll see you all in September. Thank you.
+
+

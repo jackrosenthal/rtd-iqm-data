@@ -1,0 +1,604 @@
+2022-09-13
+Finance and Planning Committee Part 2
+ERIK DAVIDSON: All right, it is 8:45, so hopefully everybody is back from break here and able to get
+back on. We're going to go ahead and get started again. Thank you for taking the break. I think we're
+making up for August right now. So thanks, everybody, for the patience.
+Let's move to our third recommended action. That is going to be the bank signature authorization. This is
+for the Board of Directors to approve the attached bank account signature authorization to authorize
+certain staff members to sign payments exceeding certain thresholds regarding checks, automated
+clearinghouse payments, and wire transfers to remove requirements that the Board officers provide wet
+signatures for certain payments. Do we have a motion?
+PEGGY CATLIN: So moved.
+SHELLEY COOK: I'll second.
+ERIK DAVIDSON: All right. I have the mover as Director Catlin and the second as Director Cook. So with
+that, I'm going to hand it over to Mr. Doug MacLeod, Chief Financial Officer, as well as Brenden Morgan,
+who's joining us this evening as Senior Manager of Debt and Investments to present this item to the
+Board. Thank you to the committee.
+DOUG MACLEOD: Thank you Mr. Chair. So yes, this item-- I'll give you a little bit of background about
+how our control process works in terms of making payments from RTD. So essentially the way things
+work is the Board appropriates a budget. That budget is very detailed, so it's appropriated for projects,
+specific uses such as salaries and wages, benefits, et cetera.
+So that budget that's appropriated is actually loaded into Oracle. And we have several budgetary controls
+within there. So in order for me to procure a service as an employee or otherwise, I go through
+Procurement. One of the checks is to make sure that amount was actually budgeted in order to issue a
+purchase requisition. So it goes through an approval process. And the whole chain of approval processes
+is depending on the type of purchase requisition. One of those is a budget check to make sure there's
+budgeted funds before we go forward with a procurement.
+So I say this because we have several budgetary controls in place. And really there's no payments that
+go out that haven't been approved by the Board and go through a very rigorous control process in terms
+of separation of duties, approvals, et cetera. And in fact, our external auditors, Plante & Moran, and prior
+to that, Rubin Brown, part of their financial statement audit is to review our internal controls.
+One of the items that we've had in place for quite a while is any payments that go out, with the exception
+of certain payments such as debt service and payroll payments, any accounts payable, generally those
+types of payments to pay our vendors, any payments exceeding $25,000 require a second signature. So
+all payments that go out have General Manager Johnson's electronic signature because they're
+considered low value, low amount.
+Anything $25,000 up to just below $100,000 requires a second signature by an authorized signatory staff
+member. And that's shown in the signature authorization that comes to the Board for approval in January.
+
+And it comes in January because we have new executive officers on the Board, and those are the ones
+that are authorized to sign off on checks.
+The third level is anything $100,000 and above requires a wet signature from a Board member. And
+Director Whitmore has been fabulous coming in on a weekly basis, sometimes more often as necessary
+to sign off on those checks.
+But essentially what happens is Accounts Payable, they do two check runs per week. And I refer to
+checks, but a lot of our payments are ACH, so they're debits to bank accounts. All of those payments are
+controlled by the bank through Positive Pay.
+So when we have a check run, we send a file to the bank. And the bank knows exactly what those
+payments are and those authorize payments that have been appropriated by the Board. So no payments
+go outside of that. So if I do a fraudulent check and try to submit it, the bank will reject it because it's not
+part of that Positive Pay file. So we have lots of controls in that manner.
+The signatures, it's a relic of days past. Signatures are still required on payments, on checks, in particular,
+but the banks-- and our bank-- we've checked with them several times on this. They don't verify
+signatures. They do keep on record a signature block, which shows the individuals who are authorized to
+sign checks just so they have it on their records, if they need to do a double check.
+But they don't actually look at the signatures themselves. So there's almost really no control purpose for
+those signatures in and of themselves. So what this item is asking, because we have those two check
+runs per week, any of those checks that are $25,000 and above come over twice a week, Tuesdays and
+Thursdays, through a check bag.
+We separate out the checks that are 100,000 or above. Director Whitmore comes in once a week to sign
+those. It can cause delays in payments. We have some pretty critical tight turnarounds in some of those
+payments.
+And I'm not saying this is a Board issue. It's part of the process and why we have so many layers and why
+we would like to eliminate the Board wet signature from this process. But it's an administrative exercise
+that really provides no value to the organization, both our auditor, Plante & Moran, and the banks. There's
+really no reason to have a third signature or a Board signature on those checks.
+It doesn't add any value to our control process. One of the things we also do for information to both the
+public and the Board is we produce an Accounts Payable check register on a monthly basis and post it on
+the website, on the Financials page. So it shows every payment that goes out the door with the exception
+of payroll or any confidential payments, but it's all the accounts payable payments. We already have that
+method of being transparent.
+So to summarize what we're asking for is to remove an administratively burdensome item with requiring
+an additional signature from a Board member, not requiring that Board member to make the trek to Blake
+at least once a week to sign checks or in emergencies, and really just leave it [INAUDIBLE] from staff. So
+that would summarize my comments, Mr Chair. And I'd be happy to answer any questions.
+ERIK DAVIDSON: Thank you very much, Mr. MacLeod, much appreciated. We'll go ahead and do
+questions and discussion. Director Catlin, please.
+
+PEGGY CATLIN: Thank you, Mr. Chair. In our pre-meeting, Doug, we talked about providing a summary
+of those checks over-- what-- 100-- whatever-DOUG MACLEOD: 100,000, yes.
+PEGGY CATLIN: 100,000. Provide a summary, so the Board doesn't have to go through each and every
+one of the check register items. And you said that you could do that, just provide a summary to the Board
+so it would be available.
+DOUG MACLEOD: Absolutely. And because we have that check register that we post out there monthly,
+what I could do, so we don't duplicate efforts, what we can do is sort that biggest to smallest. So if
+somebody were to go in there and look, they could see not only the 100,000 and above, but they can see
+everything if that's acceptable. I think that would be a great place to refer to, and also not confuse people
+with multiple different sources.
+PEGGY CATLIN: Sure. Whatever makes sense, but I just think that it would be nice for updates to the
+Board in that fashion. Thank you.
+ERIK DAVIDSON: Thank you very much. Yeah, it'd be nice if we have that register and not have to
+duplicate efforts to do a sort. I think that's a great idea.
+I'm wondering if Treasurer Whitmore, I saw you chuckling a little bit, and whether this provides value. But
+I'm wondering, since you're currently in the seat there, if you wouldn't mind commenting on if you have
+anything to share with the discussion item at hand.
+TROY WHITMORE: No not a great deal. My feelings are a little hurt with the lack of my job going away-not at all. Yeah, I think this is a move to modernize since the security is all there. And I don't mind doing
+the chore, but there could be a day where it would be very difficult to have an Executive Committee
+member that could make it to Blake every Thursday or Friday morning. So even though I'm sad, I think
+the time has come. So I support the recommendation. Thank you.
+ERIK DAVIDSON: Great, thank you. Thank you for sharing that. Excellent. OK, well, seeing no further
+discussion or hands up, I'll go ahead and call for the vote.
+I do see, and I'm just going through here, I don't see Director Dishell. So just to be sure, I'm going to go
+ahead and do a roll call vote to make sure I get the numbers correctly.
+So Director Broom, please?
+BOB BROOM: Yes.
+ERIK DAVIDSON: Director Catlin?
+PEGGY CATLIN: Yes.
+ERIK DAVIDSON: Director Cook?
+SHELLEY COOK: Yes.
+ERIK DAVIDSON: Director Dishell? Director Guissinger?
+
+LYNN GUISSINGER: Yes.
+ERIK DAVIDSON: Director Whitmore?
+TROY WHITMORE: Yes.
+ERIK DAVIDSON: And I am a yes. So that will be six yes votes with one hesitant one, and one absent,
+zero no votes. And the recommended action will pass. Thank you very much, Mr. MacLeod for that. And
+thank you Directors for-- as Director Whitmore, like he put that-- modernizing the system since we have
+the controls in place.
+OK. So at this time we're going to move forward to our final recommended action for the evening, which is
+the Salaried Trustee Appointment. This is for the Board of Directors to approve a resolution appointing
+Mr. Bill Sirois, Senior Manager, Transit-Oriented Communities, to a term expiring December 31, 2023, as
+a trustee for the Salaried Employee Defined Benefit Pension Plan, a.k.a. the Pension Plan, and Salaried
+Employment Defined Contribution Retirement Plan, a.k.a. DC Plan, effective October 1, 2022. Do I have
+a motion?
+PEGGY CATLIN: So moved.
+BOB BROOM: Second.
+ERIK DAVIDSON: I Have the mover as Director Catlin, the second as Director Broom. And I'll go ahead
+and again call on Mr. Doug MacLeod, chief financial officer, to present this item to the committee.
+DOUG MACLEOD: Thank you, Mr. Chair. Just very quickly-- so we have a vacancy on the trustee
+appointments due to Bill Van Meter's retirement, who's served admirably over the years. General
+Manager Johnson selected Bill Sirois as the candidate to replace Bill Van Meter.
+Just wanted to point out that one of the things that we've tried to do on that trust, we have five members
+from staff and two Board members-- Director Catlin and Director Broom. The five staff members, we've
+tried to keep it balanced to have representation for both the DC Plan participants that are in that plan, like
+myself that are newer, and then veterans like Bill Sirois and Bill Weidenaar, who've been in the Defined
+Benefit Pension Plan.
+So we're looking for if the committee approves Bill. We're looking forward to having him serve with us.
+And I think that's all I have to say. I'd be happy to answer any questions. Thank you.
+ERIK DAVIDSON: Thank you very much, sir. Any questions or discussion from Directors? All right, just to
+make sure I'm not missing anyone, I will do the roll vote again. Director Broom?
+BOB BROOM: Yes.
+ERIK DAVIDSON: Director Catlin?
+PEGGY CATLIN: Yes.
+ERIK DAVIDSON: Director Cook?
+SHELLEY COOK: Yes.
+
+ERIK DAVIDSON: Director Dishell? Director Guissinger?
+LYNN GUISSINGER: Yes.
+ERIK DAVIDSON: Director Whitmore?
+TROY WHITMORE: Well, I lost a job and Bill gained one. Yes.
+ERIK DAVIDSON: And I am a yes. So again, we have a motion passing with six aye votes, one absent,
+and zero no votes. Thank you very much. And congratulations, Mr. Sirois. And thank you for being willing
+to serve in the post. Much appreciated. Important post. Thank you.
+All right, that concludes our recommended actions for the evening. We do have three discussion items
+this evening to continue with. The first is regarding the Family and Medical Leave Insurance, or FAMLI
+program participation consideration.
+So I'm going to go ahead and ask Ms. Leah Riley, our chief administrative officer-- excuse me-- to please
+present this item.
+LEAH RILEY: Great. Thank you, Mr. Chair, members of the committee. Again, Leah Riley, chief
+administrative officer. And I'm going to talk briefly tonight about FAMLI. FAMLI is an abbreviation for
+Family and Medical Leave Insurance, which is a state-run paid leave program that builds upon the
+Federal Family Medical Leave Act, otherwise known as F-M-L-A, or FMLA.
+In November 2020, Colorado voters approved Proposition 118, which paved the way for this program.
+And it was designed to ensure all Colorado workers have access to paid leave in order to take care of
+themselves and their family during life circumstances that would require them to take leave for. The
+program is funded by a 0.9% premium on employee wages that will begin January of 2023.
+So similar to FMLA, FAMLI provides 12 weeks of paid leave per year, but FAMLI goes beyond FMLA by
+covering a percentage of employee salary during their leave. It also extends the definition of a family
+member beyond immediate family to grandparents, grandchildren, siblings, and any other individual with
+whom the employee has a significant personal bond.
+It also provides safe leaves for the employee if they or a family member are a victim of domestic violence,
+stalking, sexual assault, or abuse. And it provides an additional four weeks of leave for complications that
+are due to pregnancy or childbirth. Under this new law, any family leave that also qualifies for FMLA has
+to run concurrently. However, FAMLI provides income to the employee during that leave, whereas FMLA
+does not.
+And should an employee take a family leave for a circumstance that does not qualify for FMLA, the
+employee is still eligible for up to 12 weeks of FMLA leave subsequently. Employers are not allowed to
+require their employees to first use paid time off or sick and vacation leave to be paid under FAMLI.
+The eligibility for FAMLI is based on earnings. An employee must have earned at least $2,500 within the
+previous four quarters. They have to have been employed by the same employer for 12 months. And they
+have to have worked a minimum of 1,250 hours.
+
+And the benefits that are paid under FAMLI are determined by the state average weekly wage, or SAW,
+in addition to the employee's wages. So an employee is eligible to receive weekly payment equal to 90%
+of the SAW, plus 50% of their wages above the SAW. Payments can not exceed $1,100 weekly.
+Again, the program is funded by a premium of 0.9% on employee wages. And that premium is split
+between the employer and the employee. And the premium applies to all wages up to the Social Security
+max, which is currently $147,000 annually. Again, premium collections began on January 2023. And
+employees become eligible for paid benefits on January 2024.
+FAMLI affects local governments differently than private businesses. And RTD falls under the definition of
+the local government. The statute was written to give local governments options to participate. They can
+participate fully, they can decline full participation, or they can decline employer participation.
+And if a local government chooses to opt out, it has to do so before the end of calendar year 2022. And
+its governing authority must hold a public vote to do so. Any local government that elects to fully
+participate in FAMLI has to remain in the program and agree to pay premiums for a minimum of three
+years.
+If RTD chooses to participate in FAMLI, the estimated financial impact is just over $2 million annually.
+That would be split equally between the agency and employees.
+And as I previously mentioned, the Board is required to take testimony prior to any FAMLI vote. And
+notice that the vote has to be provided to employees and the public.
+And the Board's vote is not permanent. It has to be reconsidered every eight years. And the Board's vote
+is all or nothing. It is not an option to opt out certain groups and opt in others.
+So in order to act in good faith and allow our employees time to understand and ask questions about this
+program, we're going to begin providing notice to employees regarding the parameters of FAMLI in the
+upcoming discussion with the Board. And at this time, staff is assessing the various options. And we're
+going to return to the committee, and subsequently to the Board with the staff for recommendation in
+October.
+That's the end of my discussion item. And I will welcome any questions. Thank you.
+ERIK DAVIDSON: Thank you, Ms. Riley. Much appreciated. A lot to consider here. Appreciate this and
+look forward to the further guidance as I understand these costs better and implications. Director Broom,
+please.
+BOB BROOM: Would this apply to Board members?
+LEAH RILEY: Good question. If you are technically employees of the agency-- I'm sorry, Debra's shaking
+her head. Go ahead, Debra.
+DEBRA JOHNSON: So, no, no, please. I was just saying, it's for employees and not members of the
+Board. That's all.
+LEAH RILEY: Thank you.
+BOB BROOM: Thank you.
+
+ERIK DAVIDSON: Thank you. Ms. Johnson, you have your hand up. Did you want to comment further on
+that? OK, no problem. Director Catlin, please.
+PEGGY CATLIN: Yes, thank you, Leah. In our pre-meeting you mentioned the fact that if the agency opts
+out, the employees still can opt in. And regardless of the agency participation, the employee still is eligible
+for 100% of the benefits. Is that the way I understood it?
+LEAH RILEY: That is accurate. The employees that could voluntarily opt into the program would
+voluntarily choose to have 0.45% of their wage annually submitted to the state. And they would be eligible
+for 100% of the benefits of the FAMLI program.
+PEGGY CATLIN: And if I might ask another question. You had given us some data regarding actions
+taken by some of the local governments. And could you share that with us, please?
+LEAH RILEY: Sure. But I guess at a high level at this time, there is not a local government that has opted
+in to the program. So at this time, I can tell you that the City and County of Denver has opted out, the City
+of Golden, City of Lafayette, the City of Loveland, City of Wheat Ridge, City of Black Hawk, City of
+Greenwood Village, City of Louisville, the towns of Silverthorne and Frisco, and Denver Public Schools
+have opted out.
+PEGGY CATLIN: Thank you.
+ERIK DAVIDSON: Thank you, Director Catlin, for asking those questions. Thank you. Ms. Riley, the
+important consideration on there.
+And one of the things we talked about in the pre-meeting, just for the benefit of everyone. And Ms. Riley,
+if you'd like to expound upon this please. Is the question of the cost of administering this, since this is
+relatively new, it sounds like a number of entities are still trying to understand even how to determine that.
+So something. I'd would imagine we'll hear more when we get the update and when this comes to the
+Board for a vote, but anything you'd want to add to that as well, Ms. Riley.
+LEAH RILEY: Thank you, Mr. Chair. We are exploring as the agency the option to provide the
+administrative benefits to our employees as the employer. So there are brokerages that are trying to
+scramble and get together to be able to provide administrative insurance, options to employers who want
+to be able to collect the employee wage premium to report to the Department of Labor and wages, et
+cetera, on behalf of their employees who're voluntarily opting into the program. So hopefully we'll have
+some administrative costs to share with you prior to in the October meetings.
+ERIK DAVIDSON: OK, wonderful. Thank you for expounding on that. Any further questions or comments
+from Directors? OK, wonderful. Well, thank you very much for the presentation. Certainly a lot to
+understand here and unwind now that this has been passed and is rolling out. So thank you.
+All right, we're going to move to our next discussion item this evening. This is regarding an update on our
+Transit-Oriented Development. So I will ask Ms. Chessy Brady, Manager of Transit-Oriented
+Development to please present the update.
+CHESSY BRADY: All right, good evening. I will keep it quick, as it's late. Thank you for having me. First of
+all, I want to talk about how the-- make sure I get to my next screen there. There we go.
+
+The Transit-Oriented Development program strongly supports the new strategic plan. And very
+specifically in the Planning Department our scorecard requires that we increase revenue from transitoriented development and joint development on our RTD-owned land, which is a mandate I'm very happy
+to work towards every day.
+I want to give a quick update on where we are on three current projects. The first is 29th and Welton. So
+this project was brought to the Board about a year ago. And the Board approved disposition prior to us,
+going out with an RFQ. We did release that RFQ and select Shanahan Development with Elevation
+Community Land Trust.
+And that partnership has allowed them to propose a 100% affordable condo project, which goes above
+and beyond the Board's requirements or our requirements for the site as far as affordability goes. So over
+the next couple of years you'll be hearing updates from me as we negotiate that deal with them with the
+closing. Hoping to get to a closing in 2024. So that's moving along and we're really excited about the
+Land Trust Partnership and 100% affordable condos. It's a very innovative space.
+Next, 38th and Blake-- this park and ride was acquired for the A Line. And the idea is that it will continue
+to serve as a park and ride, but with development above. Portman Holdings is an Atlanta firm that
+submitted an unsolicited proposal in August 2021.
+Here we are a year later having gone through our unsolicited proposal procedure. And after releasing an
+RFQ and reviewing alternate proposals, we have selected Portman Holdings to continue with that to
+pursue that project. So we do expect to come back to the Board in the next month or two to request your
+authorization to enter into an exclusive negotiation agreement. So you should expect to hear much more
+about this project in the near future.
+Sheridan Parcel, we also talked about around a year ago, as we released it from the certificates of
+participation that financed the parcel. Since in the past year as the financial and legal requirements
+around that were worked out, we've now moved into the planning phase where we're working through the
+City and County of Denver's processes to do entitlements-- not entitlements, but survey work and zone lot
+amendments and other wonky planning things. So again, plan to come back to you with that in the near
+future.
+Some past projects-- I know it's late, but I'd like to take some time to celebrate some successes, because
+we don't do this very often. So a couple of projects.
+The first is Sheridan Station Apartments, which I think this Board is familiar with. RTD leased parking
+spaces to this 100% affordable building at Sheridan Station on the W Line. And there was never any fear
+of those residents overrunning this enormous park and ride that doesn't have very high utilization.
+And in fact, only about 60 residents actually use parking spaces. So this is just a great example of RTD
+supporting a local development project and helping people live near transit while meeting zoning
+requirements. And there's more development coming there soon.
+And then Alameda Station-- so in 2015 the Denizen Project replaced the park and ride right at Alameda
+Station. And it wasn't necessarily the perfect project. It wasn't the densest. It didn't have the least parking.
+It didn't generate quite the revenue that we wanted.
+But we believed at the time that that development would catalyze development across the sea of parking
+that you see going from the station over to Broadway and Alameda to the south and big box stores. And
+
+in fact, that's really what we've seen. So there have been almost 1,000 residential units built, another 500
+under construction, office and residential planned.
+And so that investment, so to speak, that RTD made right at the station has yielded positive
+repercussions that over time will lead to greater density and a more transit friendly and transit supportive
+area, not only for the rail lines but also for the Zero and other bus lines that go through these corridors.
+And then lastly, Olde Town Arvada, which was executed around the same time as the Denizen Project
+was going on and involved many stakeholders, much negotiation, and is finally yielding residential units.
+So again, not to go into detail but Trammell Crow is constructing 252 residential units, as well as hotel
+and restaurants on land that was originally slated to be surfaced parking lot for RTD, so really positive
+move. And it takes time, but these things do happen.
+And then a few quick updates on some TOD topics. Last year, this Board approved the equitable TOD
+policy. And not only are we on track to meet those goals that we set with 29th and Welton, 38th and
+Blake, and other sites, but what this policy really has done is raise the stature of affordable housing and
+its relationship to RTD property.
+So that when we do receive unsolicited proposals now, they always include some affordable housing and
+our often 100% affordable, which is very consistent with what the policy was aiming for and also what
+supports transit and supports the economics of the region.
+So a reminder on how that unsolicited proposal procedure works-- developers submit more and more
+detailed proposals as the process goes on. 38th and Blake, for example, is currently step 6, or will be
+when we come to it soon to get that approval.
+13th Avenue Station has a lot of interest from Aurora. Many other sites are elsewhere in the process. And
+if anyone wants to circle back, I'm happy to get into more detail.
+And lastly, we have published our 2021 TOD Status Report online. There's a link here-- I'm happy to send
+it separately as well-- continuing to show a high level of development around our station that in time will
+lead to higher ridership and transit supporter.
+So that's all I've got. I'm happy to take any questions.
+ERIK DAVIDSON: Thank you, Ms. Brady. Much appreciated, impressive presentation. And $0.02, there's
+a lot of information in a quick period of time, and then also really, really great information. And thanks for
+taking the time to celebrate victories. That is really cool that all of our unsolicited proposals are including
+affordable housing components. That's our huge victory, so well done and thank you for sharing that.
+I see that Ms. Johnson has her hand up, so please. Yep.
+DEBRA JOHNSON: Of course. I had to do it at least once. So thank you very much, Chair Davidson, for
+giving me the opportunity. I wanted to echo what Ms. Brady said and acknowledge that we need to
+celebrate victories and successes. And I wanted to publicly acknowledge Chessy Brady for being one of
+the 40 honorees by Mass Transit, which is an industry-based publication.
+This is the 14th year. And what this program is all about-- since 2008 Mass Transit has compiled a list of
+emerging leaders within the transit industry to showcase the drive, ambition, entrepreneurship, and cando attitude of individuals who will be tasked with carrying the industry forward. It's my understanding that
+
+this year brought a record number of nominations. And the result is a group of professionals who
+represent the breadth of specialties.
+And so with that as the backdrop, I wanted to acknowledge Ms. Chessy Brady for being in the 2022 class.
+And I think as you all clearly have seen that you know her talents. And I just wanted to take this
+opportunity and acknowledge her and say congratulations. I'm so honored to be on the same team.
+LYNN GUISSINGER: Bravo.
+CHESSY BRADY: Thank you so much.
+DEBRA JOHNSON: You're welcome.
+CHESSY BRADY: Thank you.
+ERIK DAVIDSON: Yeah, it's great. Thank you, Ms. Johnson for bringing that up and congratulations. That
+is super, super cool and, yeah, easy to see why.
+Any questions or discussion items from Board members? All right, well that's awesome. Well, thanks for
+hanging out this long and thank you for a great presentation.
+Also, piling on the accolades, thanks for a great presentation to APTA at the Board conference. I know
+you had to zip right out of there, but a lot of great feedback after that from folks there from other agencies.
+So thank you for that.
+CHESSY BRADY: Thank you.
+ERIK DAVIDSON: Wonderful. Well, thank you, everybody. We're going to move on to our final item of the
+evening. So very much thank you to those of you that stayed to present this.
+So the System-Wide Fair Study and Equity Analysis is our final discussion item. And I'll call upon Mr.
+Chris Quinn, Planning Project Manager, and Mr. Carl Green, Jr., Acting Director of Civil Rights, to please
+present this item and declare victory on staying here to be the last item. So go ahead.
+TROY WHITMORE: It's after 9:00. You can take your tie off.
+[LAUGHING]
+CHRIS QUINN: Thank you, Director. I'm going to share my screen, and let's see. Is that showing?
+ERIK DAVIDSON: Yes, it is.
+CHRIS QUINN: Oh, excellent, great. So again, I am Chris Quinn, a Planning Project Manager. And both
+Carl Green, Jr. and I are co-project managers for this process. We last provided an update to the Board
+back in June. So we wanted to provide yet another update on progress that's been made.
+Oh, I realize I'm not at the beginning. Sorry. I wanted to provide an update of where we stand in the study
+right now, provide information on what has happened since the last update, community input that we've
+received, the alternatives that we're currently proposing for consideration, and then go over what our next
+steps are going to be. And Carl next is going to provide just a little bit of a reminder on some of the
+
+background of where we are as well as some of the community input that we have received to date. So
+Carl?
+CARL GREEN, JR.: All right, thank you, Chris. So just this slide here is the study overview, goals, and
+schedule. Next slide, please.
+So just as a refresh to the Board of Directors and other attendees here at the Board meeting, the study
+goals-- there are three. And leading, the first of three, is equity. And as you can see, the sub-bullets
+underneath that is to support transit reliant financially burdened customers, and to provide equitable fair
+access to fares, products, and discounts, regardless of race, color, national origin, income status, and
+other marginalized communities.
+The second goal is affordability. And the bullet underneath there is to align fares with the service
+received. And then the last is simplicity-- making fares easier to understand. And this pertains to
+standardized discounts and streamlining fare payment options. Next slide, please.
+So as far as the project schedule, really the project started in earnest in January. But as far as this
+timeline before you all tonight, we're capturing the engagement milestones, so to speak, so dating back to
+April. That's when we started gathering feedback on our current fare structure. And we provided an
+update to the Board this past June on the feedback that we received from engagement milestone 2.
+Right now, summer of 2022, we shared and gathered feedback on the conceptual fare options, which
+we'll be doing tonight, as well as looking at some of the alternatives that we've compiled. Right now at this
+stage in the game, we're about 40%, 42% in respect to the project timeline.
+And as you move from left to right looking at early 2023, that's when we'll move forward with the formal
+public comment and hearing. And then spring of 2023, we'll get into the new fare structure decision by the
+Board. And then as far as implementation, that's to be determined. Next slide, please.
+All right, so I'll give an overview of the engagement activities. So really this is centered on engagement
+milestone number 2, so first of which we had customer and community meetings, which were held in
+Zoom, both Spanish and English. And we had over 100 attendees.
+Based off of the feedback that we received from those meetings, we compiled, along with our consultants,
+the feedback that we received and then presented it to the three feedback panels, which were Equity,
+Pass Programs, and Jurisdiction. And that provided the opportunity to garner more feedback and to make
+tweaks and fine tuning of the information that we received.
+And equally as important of receiving our customer and community feedback, we also took it in-house to
+garner and solicit information from our staff, both operations and on the back-end. And we communicated
+it broadly through our Inside Connections, which is our inside or internal newsletter, as well as presented
+three times use it utilizing our Facts and Snacks, which is our internal presentation. And then we
+formulated our questions and answers. Next slide.
+All right, so as far as our customer and community meetings from June 23 and June 29, the biggest piece
+or takeaways that I wanted to present to the Board today is the input themes that we received. First and
+foremost, equity is important. People with lower income should pay less. You should have free fares,
+expand EcoPass access. Bottom line-- all of our pass programs and our discount fares is being able to
+provide access and remove those barriers. And then the last piece is just to communicate better the
+relationship between fares and RTD operational costs.
+
+Another highlight that I wanted to showcase with the Board tonight is the polling results. As you can see
+based off of the representation on the different counties, we had great representation considering the
+amount of time and effort that our consultants and community partners were able to recruit folks across
+the district. And this also provided another opportunity as we forge ahead in October with engagement
+milestone 3, where we need to make a more concerted effort to bring upon more representation, as you
+can see here the dashed lines with Broomfield, Weld, and some lower percentages. So we're taking a
+concerted effort and a multifaceted approach to ensure that we have greater representation across the
+service district.
+And then the last note that I wanted to make on this slide here is just the increase in interest of folks that
+didn't necessarily attend the first customer and community meeting, so knowing that there are more
+representation from folks. So this basically broadly communicates that we're getting them the message
+and our communications out regarding our System-Wide Fair Study and Equity Analysis.
+So again, the point to drive home is-- and this is something that we've mentioned early on, that it's a
+customer and community-centric approach. And we're double downing on our effort to ensure that we are
+having the broadest reach with respect to our engagement. Next slide.
+And then in July 13, July 14, we conducted our feedback panels. And essentially we provided a content
+update, making sure that as we're moving throughout this Fair Study and Equity Analysis Project, that
+they are in the position to serve in coveted roles and positions with respect to these three feedback
+panels, and ensuring that they have the ample information that they need in order to help inform
+decisions and the like.
+And as far as prioritization of alternatives, specifically thinking about the Equity and Jurisdiction panels, is
+the identification of lowering fares as the highest priority. And the Pass Program panel identified flattening
+fare structure and reducing the monthly pass pricing as their highest priority. And then last but not least is
+that there is no consensus reached between the panels on questions of the discount. Next slide.
+All right, so moving into the alternatives evaluation. Next slide. So a key driver as we're thinking about this
+copious amount of information and feedback that we're receiving from our customers and community,
+ranging from the multiple different methods that we're deploying, is how are we looking to evaluate these
+fares or the structures that we're going to be moving forward with or making a decision on how we should
+proceed from what is the best direction for our new fare structure in 2023.
+So there are five key elements to that. Again, one of which is the customer and community feedback on
+the fare alternatives, utilizing our three goals-- equity, affordability, and simplicity. Again, thinking about
+CFO Doug MacLeod mentioning with the MTFP as it relates to fare revenue and ridership is the fare
+modeling to determine pricing.
+And then the fourth one that I like to highlight is the fare equity analysis. We've been presenting a lot
+today on the fare study portion of it. But equally as important is the equity analysis portion. And what I
+wanted to highlight is being able to identify the potential adverse effects and the benefits on minority and
+low-income populations as it relates to Title VI of the Civil Rights Act of 1964 and FTA regulations.
+One thing that I wanted to highlight that I did not mention before is the way that we structured this project
+is to perform a preliminary Title VI fair equity analysis. This is considered a best practice in the sense that
+we're doing it ahead versus after once we've already have the alternatives displayed. So this is just the
+best practice, so I wanted to highlight that.
+
+And then the last piece as far as the evaluation of the alternatives is consideration of operational,
+technological, and capital impacts. So with that being said, I'll now pass it back over to Chris.
+CHRIS QUINN: So I'm going to talk about the concepts that we have under consideration, beginning with
+the key components that make up those alternatives. And first is lowering the actual fare, simplifying the
+fare structure. As we've heard a lot, as we've been out in the public, the fare structure is rather
+complicated.
+Also looking at what are the ways that we can reward our frequent customers. And given the complexity
+that we have related to our discount fares, can we simplify the fare system and the Pass Program. And
+then also, are there ways that we can leverage technology to simplify the fare payment system?
+Now I want to note also on the right side of the slide, you do see that we currently have underway the
+implementation of fare capping. And I know the Board has been apprised of that, but want to make sure
+that that's also known that that's in the background as we move forward with the alternatives.
+Now some specific items that are not under consideration at this point are going with the Zero Fare
+Program. Also, as part of this study, we are not looking at identifying any kind of new fare revenues. That
+was one of the tasks of Reimagine, so we're not duplicating that in any way.
+And we also want to be cognizant as we're running the models, the financial model, making sure that any
+recommendations that we come up with don't have such an adverse effect to our finances that we would
+have to implement some kind of service cut in order to make it work. And lastly, we're not looking either at
+broadening any of the discount eligible categories. So we would stay still with just youth, low income, and
+elderly.
+So the conceptual models that we're looking at to model are as follows-- and before I get into them, I do
+want to note-- these are four concepts. As we move forward, our intent is to probably merge some of the
+components of these so that we lower the number of alternatives when we move forward to the public.
+But I'll talk a little bit more about that a little bit later in the presentation after we go through the actual
+alternatives.
+First alternative being lower fares. Pretty much speaks for itself. In this particular case, we would keep the
+existing fare structure so that we would still have local regional airport fares, but the intent would be all of
+the fares would in fact be lower than what they are right now. And the highest priority would be to lower
+the fares for the local services.
+Also, right now the LIVE discount is currently a 40% discount. And we would like to as part of this
+alternative increase that to be a 50% discount so that it also aligns with the senior and disabled discount.
+And then lastly, this would include lowering the monthly pass multiple. And what we mean by this is
+currently if you buy a monthly pass for say the local service, that cost is 38 times of what a three-hour
+pass would be. So if you were say a typical commuter, you would have to use that 19 times round trip, or
+38 total, in order to get your money's worth or to break even on that pass. So we'd like to propose a lower
+multiple for that. And some of the other alternatives include this same bullet as well.
+Second alternative focuses on mobility and access. So here we keep the same general fare structure for
+the customers, but instead this one focuses on discounts for say our low-income fares. So as an
+example, we would flatten fares for discount customers. So if you were to buy a local pass, you would be
+able to use that pass on all of the services.
+
+We'd also as part of this alternative try to improve access to the LIVE program. One of the things that we
+have heard is the whole application process is rather complicated and tedious. And then are there ways
+that we could also introduce new pass options for those most in need, such as non-profit programs,
+affordable housing programs, or even expanding the school pass? And then, similar to the first alternative
+also, here again, lowering the monthly pass multiple from 38 to a lower number.
+Alternative 3 focuses on simplicity. This one would be what we refer to as a flat fare with an airport
+premium so that whether you get on a local bus or a regional bus, you pay the exact same fare, the
+exception being if you are traveling to the airport.
+Here again, we would align the discounts. So 50% for a three-hour and day pass for discount customers.
+And then also we would propose increasing the discount to 70% from 50% for a monthly pass, but also
+introduce bulk purchase discounts.
+And then with the EcoPass, right now we have a rather complicated structure of what we call SLAs, or
+Service Level Areas. They're basically zones in which if your business is located in specific zone, then
+you pay a different rate than a business that's located in another zone or SLA. What we'd like to do is
+consolidate the number of SLAs and also consolidate the employer size groups so that it would be easier
+for the public, if they're interested in pursuing an EcoPass, or businesses interested in pursuing an
+EcoPass, easier for them to understand what they would actually be paying based on their business size
+and their location, but also, like here again, to reduce the monthly pass multiple consistent with all of
+these.
+And then the last alternative that we'd be looking at would be a complete flat fare. And that would include
+a flat fare, even for the airport. So no matter what RTD service you get on-- bus, light rail, train-- you
+would pay the exact same fare. Similar to the previous alternative, here again aligning the discounts for
+senior/disabled at 50%, simplifying the Pass Program and EcoPass again, along with all of the previous
+alternatives lowering the monthly pass multiple.
+So our next steps, what we'd like to do is take the alternatives that we're presenting tonight and start to
+refine those, possibly consolidate those so that when we go out to the public we have a reduced number
+of alternatives that are picking up the key elements of the alternatives that we're presenting tonight. We
+are now working on modeling these alternatives, see what the impacts are to both revenue and ridership,
+and working out how we best communicate to the public exactly how these alternatives work, since
+obviously there's quite a bit of nuances in how each one performs for individual customers.
+As Carl noted, we are at what we're calling milestone number 3. So this is where we will be going back to
+the public for our community meetings. Similar to our previous outreach, we will again be doing a meeting
+in English, and then followed by a meeting in Spanish.
+Our hope is to have those meetings scheduled for sometime late October. We are right now working on
+dates for those meetings. And then along with those meetings, we are working with our community
+partners to conduct focus groups and see if we can partner on outreach events.
+So that's our path moving forward. And happy to try to address any comments, questions, concerns that
+you may have.
+
+ERIK DAVIDSON: Great, thank you very much, Mr. Quinn and Mr. Green for a great presentation and
+great progress. Much appreciated. Go ahead and call on Directors for comments and questions. Director
+Guissinger, please.
+LYNN GUISSINGER: Bravo. It looks like you're doing some great work. And I really like looking at the
+non-profits and the affordable housing. Like a neighborhood, I think both of those-- our LIVE program is
+great, but people have to go through a whole process. And I think enabling our non-profits to help people
+as they come in is a really important thing. And the affordable housing just seems like a great thing.
+Are the alternatives all separate? Or will you maybe end up picking up pieces of various ones?
+CHRIS QUINN: So right now we have them all separate, but our intent when we go to the public is to
+have these consolidated so that we would in a perfect world go forward with say two alternatives that pull
+out, for lack of a better way to say it, what we believe to be the best components of those concepts.
+LYNN GUISSINGER: OK. And just one more question, Chris. Are you looking at any changes to the
+neighborhoods to make those more attractive than neighborhood EcoPasses?
+CHRIS QUINN: Yeah, so we're looking at both the Eco and the NECO Pass, any way to make it for either
+of them to simplify the process-LYNN GUISSINGER: Thank you.
+CHRIS QUINN: Recognizing again that it is a complicated structure right now.
+LYNN GUISSINGER: Yeah, no, I think that there's some really interesting ideas. And I look forward to
+following it in the future. Thanks.
+ERIK DAVIDSON: Very much, Director Guissinger. Director Cook, please.
+SHELLEY COOK: Thanks. So the flat fare on its face is so attractive, because it does a couple of things.
+It makes it more affordable for a swath of the ridership, but also simplifies.
+However, I wanted to ask you. Does that assume or do we think then that the flat fare will be higher than
+what we have as local fare now, but somewhat less than the regional fare? Is that what the assumption
+would be? And do we know what percentage of tickets purchased or rides are local versus regional?
+CHRIS QUINN: We are in the process of modeling right now to see what we-- I don't want to say could
+get away with in terms of the lowest fare for that. But we are working through determining what that would
+be, whether that would be higher than the current local fare or whether, in fact, we could go lower than
+that, but not sure yet.
+And then, Carl, I don't know if you happen to know. I can say that we do have our highest percentage of
+ridership is customers using the local fare. I don't know percentage-wise though what that is. And we can
+certainly follow up with you to that.
+SHELLEY COOK: The second question is I think this is implied. When somebody qualifies for the LIVE
+program or the senior citizen discount, do they then have that same percentage discount applied to the
+monthly pass? It sounded like it did. I just wanted to verify that.
+
+CHRIS QUINN: Yes.
+SHELLEY COOK: All right, thank you so much for what you're doing.
+CHRIS QUINN: Thank you.
+ERIK DAVIDSON: Thank you. And I see that Mr. Bill Sirois raised his hand. So I wondered if you had
+something to chime in on those questions.
+BILL SIROIS: Yeah, I just wanted to add a little bit to what Chris was saying in terms of the consolidation
+alternatives. Another factor that we're looking out of these is equity and how equity plays into the different
+alternatives. So as we look at consolidation and other things, that's going to be a factor that we'll be
+looking at as we pull out things or keep things in.
+ERIK DAVIDSON: Great. Thank you very much. Director Whitmore, please.
+TROY WHITMORE: Thank you, Mr. Chair. Earlier this evening, Director Cook eloquently talked about
+some things we're celebrating, things that we've done that we don't get a lot of recognition from the
+general public-- the pension plan changes for our employees and state of good repair movement and
+three months operating reserves and partnership potentialities. And then we hear from Mr. Brady on the
+great news on the transit-oriented development.
+But I just continue to marvel at the actions we're taking. And I just want to give kudos on this study, Fair
+and Equity Study. It's been needed for a long time.
+I love the presentation. I need to go back over it again. But I appreciate you gentlemen hanging with us till
+9:30 to present it. So thank you all for the good input.
+And as Chessy or Debra said, we do need to celebrate. I know this is not all, but it's moving in the right
+direction. So thank you all.
+ERIK DAVIDSON: I couldn't agree more. Thank you, Director Whitmore, for that. Really great work and
+really exciting. And I think things that we all hear about quite often and also live with-- I think I know many
+of us have lived in very different areas and used very different systems and have seen lots of
+opportunities for improvement here. And this team is really taking that on and biting that off. That's really
+exciting. It's really cool. Thank you.
+Are there any more questions or comments from Directors or anything else that the team wants to add?
+All right. Well, with that, thank you very much for the presentations and to everybody for all of the
+discussion items.
+We're going to go ahead and move to our other matters. Are there any other matters to discuss at the
+committee this evening? Shockingly, I don't see any hands at the moment. So we will have no other
+matters this evening.
+With that, our next meeting of this committee, the Finance and Planning Committee, will be held on
+Tuesday, October 11, 2022. And with that, seeing no other discussion, we will adjourn the meeting at
+9:43 PM Mountain time.
+Thank you so much, everybody. Great work. Good to see you all.
+
+

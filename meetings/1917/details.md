@@ -1,0 +1,133 @@
+## I. Call to Order
+
+Chair Pro Tem Hoy called the meeting to order at 12:03 p.m.
+
+#### 1. Roll Call
+
+Committee Members in attendance:              Chair Pro Tem Hoy, 2nd Vice-Chair James, Treasurer Tobiassen, Chair Sisk via phone
+
+Committee members Absent:              Director Walker
+
+Other Board Members Present:              Directors Bagley and Folska
+
+Others Present:              Dave Genova for GM Washington, Paula Perdue
+
+## II. Action Item: Motion to Approve Amended Board Operating Guidelines
+
+Motion:              Director Tobiassen made the motion to approve the amended Board Operating Guidelines.
+
+Director James seconded the motion.
+
+Discussion:              Chair Sisk (via phone) shared that this was a guideline that had been previously approved by the Board in 2008.  We had added language in here regarding the use of electronic devices at committee and Board meetings.  We had also solicited feedback from the full Board and had tried to incorporate salient comments into this document; however, the goal is to keep it broad enough that it can represent the diversity of the Board.
+
+Director Folska indicated she felt it was appropriate to recognize the contribution of Director Tobiassen to the successful implementation of the paperless packets.
+
+Director Bagley expressed a concern around making personal references in the Bylaws and that including names may be inappropriate.  Paula Perdue clarified this action was a resolution and we have established precedent for recognizing groups, or individuals for their efforts in resolutions that are already on the books.
+
+Director Bagley shared his opinion that personal vendettas have no place in Board or committee minutes.  He had left the meeting to escort two of our important guests out when the discussion around use of electronic devices occurred.  He feels it should have been discussed offline.
+
+Chair Sisk indicated he felt the guidelines were appropriate as stated.  He called for the question.
+
+Vote on the Motion:              The motion passed with the committee members present.
+
+Chair Pro Tem Hoy declared the motion PASSED.
+
+#### 1. Resolution No. ____, Series of 2014 Amended RTD Board Operating Guidelines
+
+##### a. 2008 Redlined RTD Board Operating Guidelines
+
+## III. May Board Meeting Agenda Review
+
+Chair Pro Tem Hoy began a review of the agenda for the May 27 Board meeting and requested an update from GM Oversight and Performance Management Committee Chair Bagley.
+
+GM Committee Chair Bagley indicated that he will be reporting out for a couple of minutes before the Board.  He indicated that the committee had met on May 20, 2014 to begin the goal setting for the GM 2015 goals.  They had reviewed the 4 task goals which were established at the joint Board-staff strategic planning advance in March of this year.  The committee feels these goals were well articulated.  A follow-up meeting with the General Manager will be held sometime in early June.  This document will be adopted by the full Board at the July 15 Board meeting for the General Manager’s 2015 goals.
+
+Chair Sisk indicated he will be acknowledging the work of GM Oversight Committee Chair Bagley and the full committee for their efforts.
+
+Motion:              Director Tobiassen made the motion to approve moving the Board agenda to the Board meeting on May 27, 2014.
+
+Director James seconded the motion.
+
+Vote on the Motion:              The committee voted to approve moving the Board agenda forward on May 27, 2014.
+
+Chair Pro Tem Hoy declared the motion PASSED.
+
+#### A. Approval of the 2014 Annual Program Evaluation (APE)
+
+It is recommended by the FasTracks Monitoring Committee the Board of Directors approve the 2014 Annual Program Evaluation (APE).  The APE provides a comprehensive financial blueprint for all FasTracks capital projects completed, underway or planned through the year 2019.
+
+##### a. 2014 APE Status Report Update given April 1 to FMC
+
+#### B. Approval of August 2014 Service Change
+
+It is recommended by the Operations and Customer Services Committee that the Board of Directors approve the August 2014 Service Change package as revised and summarized in Attachment A and, further, to authorize the General Manager or his designee to execute contract amendments as necessary for private operators whose service is impacted by these changes.
+
+##### a. Board Report August 2014 Service Change Attachment A
+
+##### b. Attachment B - Brdrpt - August 2014 - Meeting summary
+
+#### C. Longmont fare Buy Up Program
+
+It is recommended by the Operations and Customer Service Committee that the RTD Board of Directors authorize the General Manager, or his designee, to enter into a contract with Boulder County to allow the County to buy up fares on all four of the Longmont local fixed route services, herein referenced as “The 300 series.”  Specifically the 300 series are routes 323, 324, 326 and 327 and complementary Access-a-Ride services for an initial period of 6 months with options to extend the buy-up period up to two years.
+
+#### D. Acceptance of 2013 Comprehensive Annual Financial Report
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors accept and enter into the record the District’s audited financial reports relating to the year ended December 31, 2013 as prepared by Staff and  audited by the District's independent auditor, RubinBrown, LLP.
+
+#### A. Recommendation for Contract Award to Triunity-Hill Joint Venture for the FasTracks Construction Management Support Consultant Contract
+
+It is recommended by the FasTracks Monitoring Committee that the RTD Board of Directors authorize the General Manager to award a contract to the Triunity-Hill Joint Venture, the most qualified firm based on the application of the evaluation criteria, in the amount not to exceed $15,150,000 for Construction Management Support Consulting work for FasTracks for the years 2014-2020.  Funds for the award are contained in the RTD FasTracks capital budget for each project to which they will be assigned.
+
+#### B. State Legislative Liaison Services Contract
+
+It is recommended by the Government Relations Committee that the Board of Directors authorize the General Manager to enter into an agreement for state legislative liaison services with Brandeberry~McKenna Public Affairs (BMPA) to exercise a one-year option (June 30, 2014 through June 29, 2015) to extend Contract No. 13-DX-001, at a cost of $112,000, pursuant to the Contract Award agreement.
+
+#### C. Resolution No.___, Series of 2014 Related to the Issuance of RTD Certificates of Participation
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors approve the attached Resolution Number __ (the “Resolution”), authorizing the issuance of Regional Transportation District Certificates of Participation, Series 2014A.
+
+##### a. RTD Resolution - 2014A COPs
+
+## IV. Other Matters
+
+- Chair Sisk shared that a contractor doing work on the 16 St Mall project had contacted some Board members.  He perceives this is a staff issue and staff will advise the Board if necessary.  Paula Perdue indicated that Rick Clarke, AGM of Capital Programs, is preparing a memo to go to the full Board.
+
+- Chair Pro Tem Hoy shared that he had met with Marla Lien, general counsel, regarding his questions about the Certificate of Participation (COP).  The COP is a complicated process with many parts.  He encouraged anyone who may have questions about COPs to discuss with Marla Lien offline.
+
+Director James recommended a reminder be sent to all of the Board members reinforcing the importance of talking to staff on questions they may have about COPs prior to the Board meeting.
+
+- Chair Sisk indicated that he had also discussed the COP with Marla Lien. He feels it is important that staff explains the reason why the scope of the area covered under the COP for North Metro was pared down from 124th to 104th.
+
+- Dave Genova, Acting GM, reminded the Board of the DUS Plaque unveiling scheduled for Tuesday, May 27 at 4:00 p.m. in the DUS bus concourse.  Chair Pro Tem Hoy inquired about the West Corridor plaque dedication and if it followed the same process.  Paula Perdue shared that DUS used the West Corridor as a model with all current Board members on the plaque and using a notice to proceed date of November, 2010 for the former Board members.
+
+- Director Bagley inquired about the DUSPA plaques and if they will be put up at the same time.  Dave Genova explained that they had about three plaques that are under discussion.  We have provided the process to them for submitting their request.  This is an ongoing discussion.
+
+- Director Bagley commented about the importance of the collaborative effort between CDOT, City of Denver and DRCOG relative to DUSPA and suggested that a letter is written from RTD to these entities thanking them for their efforts.  He offered to reach out to them and personally deliver this message to each of them.
+
+- Chair Sisk indicated he thought this was a noteworthy gesture and to have Director Bagley visit with them will be outstanding.
+
+- Director Folska commented she thinks this is a wonderful idea and suggested other Board members who are our liaisons to these various entities (i.e. DRCOG, CDOT) be invited to participate. She feels the appreciation should be done in a collaborative and open manner.
+
+- Director James expressed he thinks a formal letter is a great idea; he asked for procedural clarification from Director Bagley related to the delivery of the message.
+
+- Chair Pro Tem Hoy reflected on the fact that we often have one person representing the agency; he does not think it is inappropriate to have only one person relaying out thanks.  Chair Sisk indicated that he agreed and finds this no different from other functions where a person represented or spoke on behalf of the agency.  Chair Pro Tem Hoy stated that ultimately it will be up to the Chair of the Board to make this decision.
+
+- Director Folska inquired about the lack of accessible push doors at DUS.  Dave Genova responded they are looking at this but we comply with the ADA requirements relative to the 15 pounds of resistance for the doors.  We will continue to monitor these items and others they have placed on a list as time evolves.
+
+- Director Bagley noted this was a critical issue and shared that DUSPA has elected to retain Trammel Crow through April of 2015 to work such issues as provided under the 1-year warranty.
+
+- Chair Sisk offered up two comments for consideration:
+
+o        He thanked Paula for the email about the July 11 Crawford Hotel grand opening and reiterated there are no free rides.
+
+o        He wondered if we should begin including on our Board agendas for the recommended action, how the voting went and who voted for or against.  Paula Perdue asked a clarifying question around this issue and indicated that currently we provide that information to the Board members and the public from the Committee minutes.  She also expressed concerned about how massive this could get if we elect to include the voting on the Board agenda.
+
+Director James asked the question who would benefit from this and if it is necessary.
+
+Director Tobiassen concurred with these points.  Chair Sisk chose to accept the feedback and closed the discussion for now.
+
+- Chair Pro Tem Hoy shared that he had participated in a NATA meeting this morning along with representatives from CDOT.  CDOT is very excited to have their busses using the DUS concourse and enthusiastic about partnering with RTD.
+
+## V. Adjourn
+
+The meeting adjourned at 12:55 p.m.

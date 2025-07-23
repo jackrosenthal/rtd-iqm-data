@@ -1,0 +1,1156 @@
+2024-05-15
+Operations, Safety, and Security Committee
+TROY WHITMORE: Good evening and welcome to the meeting. This is the May 15 meeting of the
+Regional Transportation District Operations, Safety, and Security Committee. It will come to order. I'm the
+Chair of the Committee, Troy Whitmore. We are convened as of 5:31 PM. I would respectfully ask all in
+attendance to please mute yourself unless you are recognized to speak.
+Thank you all for joining us this evening. Please note that the committee meetings of the RTD Board of
+Directors will be held remotely via Zoom and will be audio and video-recorded. The meeting recordings,
+along with the unofficial minutes of the meetings, will be posted as soon as practicable on the Board's
+website. During today's meeting, we are also providing Communication Access Real-Time translation,
+also known as CART. Anyone who would like to access this service should send an email to the RTD
+Board Office at rtd.boardoffice@rtd-denver.com and a link will be provided. Also, a livestream of this
+meeting is available via RTD's YouTube page.
+At this time, I'd like to call the role of the committee members. Vice Chair Julien Bouquet
+JULIEN BOUQUET: Present.
+TROY WHITMORE: Director Ian Harwick.
+IAN HARWICK: I'm here.
+TROY WHITMORE: Director Jaime Lewis
+JAIME LEWIS: Present.
+TROY WHITMORE: Director Paul Rosenthal.
+PAUL ROSENTHAL: Present.
+TROY WHITMORE: Director JoyAnn Ruscha. She will not be joining us tonight due to a meeting conflict.
+Director Marjorie Sloan.
+MARJORIE SLOAN: Here.
+TROY WHITMORE: Thank you very much. And I'm Troy Whitmore, also present. So for the record, I see
+that we have six directors present. And I'd like to now open up the meeting to public comment for anyone
+who would like to address the committee regarding any topic listed in the published meeting agenda for
+the current and immediately preceding month. If you wish to speak and have not already done so, please
+either raise your virtual hand or press star-9 on your phone.
+During this time, the Committee will not offer any direct comments or responses. However, if you'd like to
+be contacted regarding your public comment, feel free once again to email the RTD Board Office. Again,
+rtd.boardoffice@rtd-denver.com. Staff will unmute you when it's your turn to speak, and if you're dialed in,
+
+press star-6 to toggle your mute settings. So, Mr. Kroll, do you see any hands raised from our audience
+that would like to speak during the public hearing portion of the meeting?
+JACK KROLL: Yes, Director Whitmore. At this time, and this is Jack Kroll, Executive Manager of the
+Board Office, we have one individual who has raised their hand indicating a desire to provide public
+comment, and that is Richard Bamber.
+TROY WHITMORE: All right, thank you, Mr. Kroll. Richard Bamber, the floor is yours for three minutes.
+Proceed, sir.
+RICHARD BAMBER: Hi there. Good evening, everybody. Richard Bamber, Greater Denver Transit.
+Really good to see in the agenda tonight a piece from staff about how we're finally going to make
+improvements to our digital displays, signage, something that's been sorely lacking on the system for a
+number of years. I'd like you to-- I mean, I'm going to listen to the presentation with much interest, follow
+this. It's a very, very key part to having a great transit system.
+But I'd like to point out one thing. Nobody ever said, do you know what? Singapore, Berlin, Tokyo has a
+great transport system because of the adverts. I'm not going to stand here today and say we should get
+rid of them. I understand they're a necessary evil. I understand that when you're trying to balance books,
+they do contribute.
+But all I would say is everybody, be really, really careful when you mix them in the environment. It is very
+easy to get wrong and difficult to get right. And, yeah. It can be done, but please, please pay a lot of
+attention because if it's done badly, the rider experience can actually be made worse even though you've
+spent all this money and resources on these nice signs. Thank you very much.
+TROY WHITMORE: Thank you, Mr. Bamber. As always, we appreciate your comments. Mr Kroll, any
+other additional speakers for public comment?
+JACK KROLL: Yes. Committee Chair Whitmore, i do not see any further individuals present who have
+indicated a desire to provide public comment.
+TROY WHITMORE: Thank you very much, Mr. Kroll. Secondly, in regard to public comment, I do believe
+we have received two emails for the committee and perhaps the whole board. If you'd like to just mention
+who they came from and the general topic, please, I would appreciate that.
+JACK KROLL: Of course. Committee Chair Whitmore. So the Board received two emailed public
+comments this evening. One is from Chris Nicholson, who is a candidate for RTD Director in District A,
+and he had some comments around the public-facing signage conversation you all will have later this
+evening. The second was from Greater Denver Transit, who was represented previously by Richard
+Bamber here. And that letter contains comments on all of the items on this evening's agenda.
+TROY WHITMORE: All right. Thank you, Mr. Kroll. So with no other participants in the queue and no
+other emails, I will declare that the public comment portion of the meeting is concluded. Item C,
+Information From External Entities. There are no external entity reports this evening. Recommended
+Actions, Item D. There are no recommended actions on the agenda this evening.
+However, we move to Item E, Discussion Items, and we have three very important discussion items for
+Committee consideration this evening. And we look forward to that very much. And as mentioned just a
+few moments ago, the first item is our customer-facing signage and schedule information. We're really
+
+excited to hear from Stuart Summers, our Chief Communications and Engagement Officer, in regard to
+this program. So, Mr. Summers, the floor is yours for your presentation. Please proceed.
+STUART SUMMERS: Thank you, Committee Chair Whitmore. I'm going to share my screen. Just want to
+confirm that everyone's able to see my screen. Awesome. Good evening, Committee Chair Whitmore,
+members of the Operation Safety and Security Committee and other Board Members present this
+evening. As mentioned, my name is Stuart Summers. I'm the Chief Communications and Engagement
+Officer here at RTD.
+And tonight, I'm going to provide an informational update about RTD's customer-facing signage and
+schedule information and some enhancements that have been made recently, and some near-term
+projects that are underway to continually improve the customer experience. I'm also joined this evening
+by my colleagues in Bus and Rail Operations and Capital Programs, all of whom play a role in RTD's
+signage efforts.
+So for the outline of my presentation this evening, four different things we'll talk about. First, I want to give
+an overview of RTD signage. Secondly, talk about some of those improvement projects that are
+underway. Provide an update about service alerts and mobile apps and some changes that we've made
+and some enhancements. And then lastly, provide the Board with an update about some bus station-- or
+rail station and bus stop assessments that we also have underway here at RTD.
+So I think it's important to first start out with the goals of our customer-facing signage at RTD. First and
+foremost is wayfinding and navigation. We want to make sure that people can identify the station or stop,
+understand the entrances and exits, connections to points of interest in the area. Secondly, and also just
+as important, service information. The schedules, disruptions, fares, the prices, boarding instructions.
+Third is personal safety and security. The goal of ensuring that everyone understands the Customer Code
+of Conduct. Respect the ride, any emergency notices, safety instructions. And then lastly, I put this on
+here as a goal as well, is promoting our own agency. So things like zero fare for youth, our service
+changes, that we're hiring operators. We have a lot of different promotions that we use our signage to
+also promote RTD's efforts, partnerships, and events that we have underway as an agency.
+There's three categories of signs at RTD. The first are static signs, shelter boards, and then digital signs,
+and I'll explain all three. So static signs are meant to be mostly permanent. And I use permanent not in a
+forever sense, but they're not meant to change often. These identify the rail station, a bus stop, provide
+that wayfinding that I mentioned previously, connections to points of interest, share some of those
+conduct guidelines. And then communicate accessibility options and safety instructions for customers.
+Shelter boards are the print schedules that we put into the display cases updated three times a year as
+part of our service changes. We currently have about 1,050 shelter board locations across the district.
+Mostly at rail stations, but we also have them at select bus stops and park-n-rides. They display
+schedules. So you can walk up-- if you don't have a mobile device or access to the schedule in a digital
+format, you can walk up and get that schedule information. Also, the rail system maps. And then at select
+bus stops, we have some of the route maps as well.
+They also communicate fares, discount programs, provide language access information. And then contact
+information for our police dispatch, customer care, and civil rights. And we use QR codes, URLs, and
+phone numbers to communicate this information.
+
+And then the last category are digital signs, and I'm going to take probably majority of tonight's
+presentation to provide that update about the digital signs. And we further break this down into three
+subcategories. Variable Message Signs, or VMS, Public Information Displays, or PIDs, and then
+Universal Advertising Totems, or UATs.
+So the VMS are the things that RTD owns and operates and maintains. Installed at light rail and
+commuter rail platforms. These are those scrolling things of text that have one to three lines of text with
+the schedule information or service disruptions. The PIDs are installed at predominantly a lot of our bus
+facilities. So underground bus concourse. They display bus information, schedule information. We also
+have a number of these that are employee-facing as well in a lot of our divisions and operational facilities.
+And then lastly, new to the system are our totems. And so these are at rail platforms, select bus stops
+coming soon. And then they have schedule Information, agency promotions, and advertising as well. This
+is just some examples of some of the PIDs at some of our bus facilities. So in the Underground Bus
+Concourse, we're all very familiar. There's dozens of these-- excuse me-- screens above the different
+gates providing schedule information. As well as Civic Center and the Downtown Boulder stations.
+And now some exciting updates about some improvement projects underway. So on light rail, this is
+where I want to focus on the VMS. So the information that's displayed, as you can see in this picture, is
+the same schedule information that a customer would find in the Next Ride app. And at RTD, we use
+predicted times, if available. And then the backup option, if the predicted times are not available, it
+defaults to schedule times of what's been the schedule.
+Predicted times utilize tracks sensors. This is a less reliable form of the schedule information. So
+essentially, there's little sensors in the rail. And when the wheels or the tires of the light rail make contact
+with those sensors, it sends a signal to say a train has just passed this point on the track.
+Now as you can imagine, these sensors are not frequent enough that you could have reliable GPS
+understanding of where the vehicle is at. We're transitioning now to GPS. So Global Positioning System.
+It's currently being installed on our light rail vehicles. This will greatly enhance a lot of this real-time
+information about where our vehicles are at-- where our rail vehicles are at.
+Last fall in 2023, we also updated our VMS to start showing service alerts. So if you've been on the
+system recently, you can look up at the screen and see cancellations, station closures, bus shuttles that
+are underway. And then all of these VMS also have the text-to-speech option. And so if we have a major
+disruption or something larger, more significant, they can actually utilize a text-to-speech and speak out
+what that disruption may be.
+Commuter rail VMS use predicted countdown in minutes to the next departure. So light rail uses a
+schedule and commuter rail uses a countdown. And so if a predicted feed is not available, it also reverts
+to the scheduled countdown. And then if a trip is canceled, it just goes to the next trip and just adds that
+time to when the next train will be arriving. And then also, similar to light rail, we have that text-to-speech
+audio announcement capability on our commuter rail platforms.
+Now something I know this board is very familiar with, we hear this a lot, especially in public comment,
+are VMS that are not operational, ones that are not working and it causes frustration for customers. And
+we hear that often and we understand. The variable message signs are original to our light rail system.
+We know that in October of this year, we'll be celebrating the 30th anniversary of light rail, and that tells
+you how old this technology is.
+
+Many of these signs are beyond their useful life. They're often out of service. It's very difficult to source
+parts to find replacements. And so when we learn about one that's not working, the challenge is we either
+have to take parts from another one to get it operational or we have to just take it out of service.
+Happy to report that in March of this year, we received our first shipment of 30 new VMS. We've
+prioritized installing those new VMS along all of the light rail platforms that will be impacted by the
+upcoming maintenance projects. So downtown rail reconstruction, as well as the coping panels. Our goal
+before the May service change is to have one working VMS at every platform by May 27.
+Then we have an additional order of new VMS as well-- so addition to these 30 that we received in
+March. Additional, that are on their way so we can continue to replace across the entire system.
+We are-- we've set a goal for April of next year to have every VMS replaced and operational. And there's
+about 110 across the system. So that gives you an idea that we have 30 new ones in March and we have
+to get to about 110 by next April.
+And then the totems, the UATs. So all the costs associated with these walk-up screens rest with our
+vendor and our system advertising agreement. It's a 10-year agreement that was signed in 2022. As part
+of that agreement, they install and maintain and operate these walk-up totems. They provide schedule
+information at this point, but similar to what we have under works, we also want to roll out later this
+summer real-time information on them.
+I was in a meeting yesterday and we were talking about the font size on these walk-up totems. I know that
+was something that came in public comment. And we've already sent in a request to have the font size
+improved and to make some adjustments to make sure that customers are able to easily see that
+schedule information, and so the font will be adjusted.
+50% of the screen's content is reserved for agency information. So we have a share of voice in 10-second
+rotations. As well as we also get a share of the advertising in the sense that we can use it to promote
+some of our campaigns like hiring, zero fare for youth, and service changes.
+The first totem was installed on May 9 of last year. It was our pilot installation. As of last month, we have
+61 that have been installed at rail platforms. 45 additional are in the planning stage just waiting final
+approval to be installed. By the end of the year, our goal is to have 130 UATs installed across the system.
+And then depending on the location, some platforms will include multiple double-sided screens.
+Depending on the size of the platform, we'll have some different parameters.
+The vendor submits a separate installation proposal for each location, and that's really important for us
+because we want to make sure when we're thinking about our customer experience, that we're very
+closely involved with, where are we going to put these totems that make the most sense, that don't block
+traffic flow, customers can walk up and get the information they need to have a successful trip. So they
+have to receive staff approval prior to any of the installations going in the ground.
+And then the next three slides just show you some of the locations we currently have, those UATs
+installed or those totems. So you can see on the D line, the E line, and the H line, the colored-in dots
+indicate where we have these totems currently in the ground. L, R, and W, you can see, we have a
+significant number along the R line that have gone in the ground, and then working our way through the
+W Line as well.
+
+And then for the A, B, and G, as we all know, this is part of our concessionaire agreement. And so we're
+just working with DTO. We have a request into them of where we want to do the installations and just
+working through that process prior to installation. But we have plans for the A, B, and G, which also
+includes Denver Union Station, to have a number of them deployed across the commuter and light rail
+platforms. And then you can see on the end line, all but Denver Union Station currently has a totem
+installed at it.
+Next, I want to talk about service alerts and some of our updates to our mobile applications. So our Next
+Ride app, this is our web-based app that's available in multiple languages. You can see service alerts by
+bus route, rail line, station facility. Commute section, you can display predicted arrival times for the
+different modes. And so if we don't have a predicted time like I mentioned earlier, it defaults to schedule.
+The other thing that's handy that I know a lot of customers use is in that commute section, you can
+actually see where the vehicle is in as close to real-time as possible. So our buses have GPS. You can
+see where they at if they're coming around the corner, coming down the street. And then also, like I
+mentioned, with the light rail, those track sensors, where that light rail last made contact with the sensor.
+We currently have more than 300,000 unique users a month on the Next Ride app planning more than a
+million trips. And I think this is quite impressive thing to think about, that we have a significant number of
+people using this Next Ride app. I don't have this in my slide, but I'm going to pause and say, we
+recognize also that we have a lot of apps that can cause confusion for customers. We have MyRide, Next
+Ride, Transit Watch.
+And so we have a project also underway to have one app to rule all apps. And so we're going through a
+scope of work right now to combine them all together because we want to try and make this as easy as
+possible for all customers.
+We've made some upgrades to our trip planning functionality. And so later this month, we will be adding,
+embedded on the home screen, the option to plan a trip right off RTD's website. Currently you have to
+click off the website to go to the Next Ride app. We're going to embed that into the home page so you
+don't have to leave rtd-denver.com.
+You can also plan trips for future dates and times. And so all of the schedules for the upcoming May
+service change and the disruptions have been loaded. So we've been encouraging customers to start
+thinking ahead, planning their trip for a future date to see what mode would be best for them.
+We also recently rolled out an option to purchase fare through the Next Ride. And so you can see the
+total cost of your trip and you can click in to purchase your fare. When it's planning a trip, obviously it
+takes into consideration the trip status and any disruptions. And so it's planning your total trip time. And
+then I know a number of people listening to this call will be happy to know that later this year, we'll be
+upgrading to Open Trip Planner 2.X, which allows us to factor in bus shuttles for our rail trips.
+And so if we have a bus bridge or a bus shuttle in place, you can actually plan your trip and understand
+what impact that will have on your total trip time, especially if you're trying to make a connection or get out
+to the airport, especially.
+And then lastly, I want to just talk about some assessments we have underway. So in March of this year,
+we launched a Customer Amenities and Experience Review is what we're calling it. And we're starting
+
+with the 25 light rail stations that have the highest customer boardings excluding Denver Union Station
+and anything in the Downtown Loop just because we know that there'll be some disruptions this summer.
+So we're starting with the 25 that have the highest customer boardings. And we have staff going out to
+look at all of the amenities, including signage, and really try to understand what is this portray, how does
+this impact the customer experience? So we're looking at things like benches and trash cans and lighting
+and audio equipment and the branding and the paint colors and all these different things because right
+now we're focused on all of the different customer profiles that we're building out.
+So if you're a first-time user of the system, a first-time customer, and you go up to that platform, what
+does that tell you? If you are a daily commuter and you use that platform regularly, you go up to that
+station regularly, what does that tell you. If you have a customer in need of language assistance, what
+does that tell you as well when you walk up? Or a customer with disabilities.
+So we want to make sure that we are thinking about the customer journey from multiple lenses as part of
+this assessment. And the goal is to identify some potential improvements that we can use to enhance this
+customer journey, this customer experience, and implement it across the entire system. So this is
+underway right now.
+There's also an assessment of DUS wayfinding. We all know that DUS is challenging to navigate if you're
+a first-time customer, especially with light rail and commuter rail and understanding the difference. And so
+in 2016, an assessment was done. This is going to update that and build upon it. So we have a contractor
+that is going through this with us, assessing our wayfinding elements, helping us understand the
+customer journey, where these different decision points happen across the different platforms.
+Use an iconography in our signage so that people that maybe have limited English can see identifiable
+symbols to understand how to get to the airport or how to get to additional trains or the bus concourse. All
+this, in addition, is to just support that welcoming transit environment and support our customers at what
+should be and what is our crown jewel of RTD.
+And then lastly, in relation to our bus stops. So we know that we have 9,700-plus bus stops in the eightcounty service area. Currently, about 8,200 are active. Most of these stops are simply a pole and
+signage, or what we call a flag. And RTD owns and maintains approximately 300 of these.
+So we have the challenge and the opportunity to work with local municipalities-- CDOT, adjacent property
+owners-- for the vast majority of these stops to understand, how can we create a welcoming transit
+environment across the entire district? And so we have this Infrastructure and Accessibility Assessment
+that will soon get underway.
+An active solicitation is currently underway right now that kicked off last month. We're expecting a notice
+to proceed later this month here in May. And this will be a review of all 9,700-plus bus stops trying to set-establish that comprehensive set of data, review some of those amenities, we have understand some of
+the accessibility gaps, and really just trying to identify some strategies so we can tackle, how do we
+improve the entire transit experience for all customers, both bus and rail? And that concludes my
+prepared presentation. I'm happy to take questions.
+TROY WHITMORE: Thank you so much, Mr. Summers. I really appreciate-- a good presentation. I know
+there's a lot of interest. And certainly, we'll be calling on Committee Members, but I was neglectful at the
+
+beginning of the meeting. I apologize to the four other directors that were not introduced that are with us,
+and some of them had a very long meeting last night from what I understand.
+So I appreciate you guys being here as well. Certainly welcome to ask-- answer-- ask questions or ask for
+clarification. So we have Chair Davidson with us, First Vice Chair Peggy Catlin with us, Finance and
+Planning Committee Chair Tisdale, and Director Broom. Have I left off-- oh yes, and I just see that
+Director Guzman has come on camera. So welcome all five of you to the meeting, and I apologize for not
+following proper protocol. So with that, Mr. Summers, first question comes from Director Lewis. The floor
+is yours, sir.
+JAIME LEWIS: Thank you. Stewart, thank you for your work. I've got four quick questions-- hopefully
+they'll be quick. On the UATs, or the totems, that you guys have, was there any option for audio on those
+for our blind community?
+STUART SUMMERS: I don't believe these-- the current ones we have any audio option. That's something
+I can check into. I learned recently they have a camera feature in them, but I don't know much beyond the
+technology of the audio option, but it's something I'm happy to check into.
+JAIME LEWIS: OK. Second question. I know when you go on the light rail platform, we have those prerecorded announcements. Have we ever gone as far as having real-time announcements on that? Or do
+we have that technology yet.
+STUART SUMMERS: So I'm going to I'll start this answer. I know that Ms. Johnson can provide some
+additional content. Part of our assessment of these platforms and these stations is we're trying to
+understand which ones even have working speakers, trying to get some of that comprehensive data first
+before we start to venture into what improvements need to be made, but I'll let Ms. Johnson also provide
+some additional information about audio announcements.
+DEBRA JOHNSON: Thank you very much, Mr. Chair, if I may.
+TROY WHITMORE: Please.
+DEBRA JOHNSON: Yes, thank you. So Mr. Summers iterated in his presentation that some of the
+technologies we have are very antiquated. While it is commonplace that we could possibly have a system
+that can be overridden whereby announcements could come through our Operations Control Center,
+traditionally we don't have that. There are some elements within commuter rail. I know Mr. Jensen is on
+screen. I would like him to speak to this.
+But what we're trying to do is ensure that we can provide state-of-the-art technology through intelligent
+transportation systems, and we are just in the process of being able to build that up as a large emphasis
+was not placed on those components in previous years. So with that, Mr. Jensen, would you like to add
+some more color to the discussion?
+DAVE JENSEN: Yes, if I can. It's really not adding much color to it other than to say that what you said
+was exactly right. The technology is limited at best, the speakers. So we don't have the capacity on light
+rail-- commuter rail is limited at best-- capacity for the-- which would be the control center to the station
+announcements, which is what I'm hearing you ask about. But we are working in that direction, and one
+day we hope to be able to have that.
+JAIME LEWIS: Thank you.
+
+TROY WHITMORE: All right, thank you. Continue, Director Lewis.
+JAIME LEWIS: Thank you, Mr. Chair. The other two are more comments on your review of apps and the
+light rail station assessment. I'm hoping that you're including users with disabilities that can probably see
+or hear things that maybe the regular person may not observe on the platform. So I hope you're including
+somebody from ACPD or APAC on these tours to help identify those spots that maybe our staff wouldn't
+be privy to. So thank you.
+STUART SUMMERS: Thank you.
+TROY WHITMORE: All right. Thank you, Director Lewis. Director Rosenthal, the floor is yours.
+PAUL ROSENTHAL: Thank you, Mr. Chair, and Thank you, Mr. Summers for that excellent presentation
+and for all the work that you and your team are doing on this to upgrade our system to make it more userfriendly. So a couple questions. Well, first, an observation. One of the areas that I consistently hear a lot
+about our bus stops, whether they're operated by RTD or not, is garbage cans, needing shelters, needing
+benches to the point that some in the community actually put out their own benches and garbage cans.
+So just making sure that that's all part of the study that's going to be done. Is that correct?
+STUART SUMMERS: Mr. Chair, if I may?
+TROY WHITMORE: Please.
+STUART SUMMERS: Yeah, so part of this assessment, we really need to get some of that just base
+understanding of all of the parameters we have, which stops and stations have amenities and which ones
+do not.
+The other thing that we've been trying really hard to do-- and I can speak for Aurora specifically-- I meet
+with Aurora regularly-- is trying to understand some of those bus stops they have in Aurora that are city
+owned that maybe have some challenges, and then working with our team in collaboration with Aurora to
+address some of those challenges and help them understand when we need a garbage to be dumped or
+there's graffiti or there's some sort of challenging situation that's springing up at a stop, how we can
+collaboratively address that to ensure that even if it's not our own stop, we have some ownership in that
+and making sure it's addressed properly.
+DEBRA JOHNSON: So, Mr. Chair, if I may just add some more context.
+TROY WHITMORE: Proceed.
+DEBRA JOHNSON: Yes. Thank you very kindly. Thank you, Director Rosenthal, for the question. I think
+it's important to note, as we look at customer amenities at transit stops, the critical factors that traditional
+transit agencies take into consideration.
+So when we talk about customer amenities and we talk about the level of trash receptacles or whether or
+not there are seating or leaning posts is contingent upon whether it's a transfer stop, what's the
+throughput relative to how many buses are servicing the area. So I just wanted to provide that context.
+And then more specifically, as we talk about who has auspices over the infrastructure, it's critically
+important to note that some of the infrastructure has not been adjusted in some municipalities because
+they've been grandparented in due to the American with Disabilities Act. So not saying it's good, bad, or
+
+indifferent, but I'm just trying to manage expectations as we go forward because oftentimes there's a
+reluctance to put in a curb cut because there's other elements that need to be made to that specific area.
+So getting back to what Mr. Summers said and working on the assessment of the holistic network relative
+to the customer amenities and the stops and things of the like, we will be identifying what would be
+optimal within the parameters of boardings per hour and the throughput with routes. Thank you.
+PAUL ROSENTHAL: Thank you, General Manager, for those additional details. I think that those are all
+very critical that a lot of people don't to keep in mind. And thank you, Mr. Summers, for reaching out to
+Aurora. I did hear from a couple of city council members out there about some garbage at some bus
+stops. So this is certainly topical that you're doing this presentation and this analysis and these updates.
+The other question or request is bathrooms. I know that's a difficult one. That's probably cost quite a bit.
+You have maintenance costs and staffing costs, et cetera. But how might they also be included in the light
+rail station assessment?
+TROY WHITMORE: Go ahead, GM, CEO Johnson, or Mr. Summers.
+DEBRA JOHNSON: Can you repeat the question? Something popped up on my screen and I wasn't able
+to hear the entirety of the question.
+PAUL ROSENTHAL: That's quite all right. So something I do hear about also is the issue of bathrooms at
+our light rail stations particularly, and whether that might be something that could be included in light rail
+station assessment that is currently going to be done.
+DEBRA JOHNSON: Thank you very much, Director Rosenthal, for the question. Mr. Chair, I will proceed.
+Recognizing the configuration of our light rail stations, most of them don't lend themselves to have an
+active restroom. With that being said as a backdrop, what's more importantly, as we look at where we are
+as a country from the vantage point of having restrooms and with the advent of 9/11, most transit
+agencies did not provide access thereafter due to heightened security and things of the.
+As we go forward, I can commit to assessing, but I want to keep in mind that as we look at the
+configuration of these stations and the way they were constructed and limited spacing, they're not a true
+transit station because light rail is a lot different than heavy rail or a subterranean station that may lend
+itself having all the support mechanisms in place relative to utilities and plumbing and things of the like.
+So as the team and progress, we can assess that. When I say "assess that," assess the feasibility of that.
+But I can assure you, having worked in a different area of the country whereby questions have come up
+about increasing the envelopes for light rail stations and if we could put in faregates, oftentimes there
+could be some limitations.
+But I'm just sharing that information not to say that I'm not amenable to doing it, but letting you know we
+are working with what we have, and expanding any further would require additional real estate from other
+municipalities relative to infrastructure and throughput from a safety compliance vantage point as well.
+TROY WHITMORE: Is that all. Director Rosenthal? OK, thank you very much. Director Sloan, the floor is
+yours.
+
+MARJORIE SLOAN: Thank you so much. And great report. Exciting things are happening at our stops
+and stations. And I would like to affirm Director Rosenthal's comments about the bus stops, but I have a
+couple of questions directed to the rail stations and the rail station assessments.
+First, I know it's not within the scope of this discussion, but I can't help saying, again, that we need to
+have signage to lead people to the light rail stations. And it's inadequate. In some spaces, I know it
+requires dealing with CDOT. But it's important for people to be able to find the light rail stations. That's
+one thing.
+The other is, will the assessment also review the art at the station? Some-- it's old and it's getting tattered.
+Maybe it doesn't even work. There are some that have movement to them. So will that be included in the
+assessment as well?
+STUART SUMMERS: Mr. Chair, if I may?
+TROY WHITMORE: Please proceed.
+STUART SUMMERS: Yeah, thanks, Director Sloan, for that question. So this light rail assessment we
+have underway has approximately 50 questions that staff are going through. And they're taking pictures
+for each of these questions. And one of the questions is related to art at stations. And if that station has
+art, what's the-- how does it look? Is it in need of some attention?
+And so they're really trying to go through, and right now we're just collecting information. We have no
+plans to do anything at this point other than we're collecting information, putting it all into one final report
+to then say, if we needed to start to address some of these things, what would that look like? But we need
+to have some of those common set of facts first. But art at stations is part of that assessment that they're
+doing, and taking pictures so we can start to catalog it.
+MARJORIE SLOAN: Great, thank you. And one final thing. Again, having to do with light rail stations.
+There was a program of little libraries at some of the stations. Is that going to be allowed to continue or
+just assessed in the current program?
+STUART SUMMERS: That's part of the-- Mr. Chair, if I may. Thank you. Director Sloan, that is part of the
+assessment looking at all of the amenities we have. So if they have the little lending library, trying to
+understand some of those things that just may be part of that platform experience. And then looking at
+really trying to say, how do we ensure that the experience is consistent across the entire network?
+We have a lot of disparate experiences depending on the station and the alignment. And so really trying
+to say, how do we ensure that the customer experience is similar across all of RTD?
+MARJORIE SLOAN: Thank you. That's it, and I appreciate all your work on this.
+TROY WHITMORE: Thank you, Director Sloan. Next in the queue, Director Harwick.
+IAN HARWICK: Hey, I'm just getting situated at home, so if somebody else wants to go ahead. If not, I'll
+just sit in the driveway and pull my questions from here.
+TROY WHITMORE: We will go to Committee Vice Chair Bouquet and buy you some time, Director
+Harwick.
+
+IAN HARWICK: Thank you.
+TROY WHITMORE: All right. Vice Chair Bouquet, I am not surprised that you were in queue, and I'm glad
+to see that. Proceed.
+JULIEN BOUQUET: Thank you, Chair. And I actually-- am I coming in OK? My internet's been a battle.
+Cool. So first off, thank you, Mr. Summers, for the presentation. I've been barking up this tree, I think, for
+two years now. So I'm really, really happy to see that we have a presentation. Really excited about the
+progress we've made. My questions are more just clear-- like some clarification notes based on the
+presentation itself.
+So when it comes to the VMS displays, have those new ones already been installed?
+TROY WHITMORE: Please-STUART SUMMERS: If I may, I'm going to ask Dave Jensen, AGM of Rail Operations, to answer that
+question.
+TROY WHITMORE: Go ahead, Mr. Jensen.
+DAVE JENSEN: So yes and no. We were in the process of installing them. We were just recently
+receiving them. And so we've begun installing them. As Mr. Summers indicated, the first ones we will be
+doing were the ones that will be impacted by this summer's work. So yes, we've got them. Yes, we're
+beginning to install them. No, it's not complete yet.
+JULIEN BOUQUET: OK. And sorry if I'm OK with dialoguing. Most of my questions are revolving around
+potentially you, Mr. Jensen, answering these questions as well. So if I heard correctly, we did get a
+shipment of 30. And then by April of 2025, all 110 VMSs would be installed. And then if I also looked at
+the timeline correctly, I see summer of 2024 is the goal to have GPS hardware on each of our light rails,
+is that correct?
+DAVE JENSEN: Almost all correct, yes. Mr. Chair, if I may dialogue back and back and forth? Yes, almost
+all correct. So the GPS-- the sign information that you indicated is correct. The GPS is-- the GPS is
+connected-- or it exists. It's the communication link and getting that all functional, that's where the
+challenge is. So we have on the trains right now, but it is-- again, like I said, that communication link that
+needs to be completed.
+JULIEN BOUQUET: OK. And as Mr. Summers presented, it should be more efficient and it should be
+more real-time if it is GPS, which I heard-- which I heard correctly. I guess the-- I guess the other question
+is-- so it sounded like the 30 new ones, the goal of these being installed specifically on stations that are
+going to be impacted by projects going on in the summer. After that, what involves the prioritization of the
+next-- my mouth, I'm sorry. The next 80 or so of those that are going to be installed next, what is kind of
+the prioritization of where do we install or is there even a plan going into the future of where those are
+going to be ultimately put?
+DAVE JENSEN: Yeah. I don't have that list in front of me, so please give me room for some variance in
+that. Essentially, it will be based on usage or line corridors and staff availability. So if I've got a
+maintenance of way group, that's who's going to be doing that installing. And they'll be working in the
+Southeast Corridor for-- because they've got other projects, we may want to complete the Southeast
+Corridor.
+
+But we know that we've got heavy use stations. Broadway should get done. Union Station obviously is
+one. The West Corridor W Line is a priority for us. The downtown stations, we're working right now with
+our Capital Programs Group and some of our advertising groups to determine which ones we do
+downtown knowing that we've got extended period of work going on there. So the Welton Corridor, for
+instance, may be last, it could be downtown. So we do have a plan. We do have a list. It will be based on
+usage and our employee availability.
+JULIEN BOUQUET: Perfect. Thank you so much, Chair, for allowing me to dialogue, and Thank you, Mr.
+Jensen, for answering the questions. Last statement and then I'll be done. Why this matters so much is
+it's very much a choice rider district when it comes down to District G down here in the Southeastern
+Corridor. A lot of folks-- I don't have evidence behind this, but anecdotally speaking, will either turn to our
+online schedule and then we'll show up to the light rail and will immediately look at these VMS systems.
+They will immediately look at these VMs signs and they'll say, that is going to be determining when my
+ride is coming. And there is frustration when these are not in operation.
+So with folks-- so I do believe this does create a more welcoming transit rider environment for first-time
+riders in the Southeast Corridor specifically. I think of my Lincoln Stations and my Ridgegate Stations
+where folks are trying the light rail for the first time. So I'm very excited for this project. Thank you, Mr.
+Summers, for you and your team's effort, and thank you for all involved. I'm excited for the future. Thank
+you.
+TROY WHITMORE: Thank you, Mr. Vice Chair. Before I allow a second bite at the apple with Director
+Lewis, I just had a numbers question for Mr. Summers or others. So the VMS is the oldest technology,
+correct? OK, that's original to the light rail. So I know we've had some issues with that technology, and
+certainly the supply chain is maybe not even available for Mr. Summers' presentation. How many of those
+that are still hanging-- or upright are theoretically just inoperable, not working? Do you have a number,
+Mr. Summers?
+STUART SUMMERS: I'm looking to Mr. Jensen because I know he's trying to do some math in his head
+right now.
+TROY WHITMORE: OK.
+DAVE JENSEN: Mr. Chair, if I may, I don't have that number and I don't want to misspeak. My-- I would
+estimate-- I'm a little reluctant to be overly-DEBRA JOHNSON: So Mr. Jensen, why don't we-- if we can, Mr. Chair, why don't we circle back. This is
+a public meeting and want to ensure that you all receive the information in which you're seeking, and I
+would much prefer that we do our due diligence and provide that information to you in a manner which
+could be useful as a point of reference.
+TROY WHITMORE: Certainly. That's more than reasonable. I appreciate that.
+DEBRA JOHNSON: Thank you.
+DAVE JENSEN: Mr. Chair, if I may jump in, one more bit of information. What I can say is that every
+station has working signs. So that's the objective for us when we're going through which signs do work
+and which ones don't. If there were to be a station where none of the signs worked, we could take signs
+from another station and put them in the station that didn't work. So what I'm confident about is that at
+
+least we've got functional signs for every station, and if there is a case where there were none of them are
+working, we can repair that and get that switched out pretty quickly.
+TROY WHITMORE: And theoretically that is a short-term fix because we are doing complete renovation
+of those over the next-- what was it, 12, 14 months?
+DAVE JENSEN: Yes, it is. And what we are taking antiquated signage from one station and putting it into
+another station. We're literally taking the whole sign and swapping them out.
+TROY WHITMORE: OK.
+DAVE JENSEN: --short-term.
+TROY WHITMORE: All right. Thank you very much. All right. I see Director Harwick is in queue and
+ready. So the floor is yours, Director Harwick.
+IAN HARWICK: Thank you. Mr. Summers, I've got a few questions for you. So do we have a time-- like-so obviously, I represent the riders that ride the G Line. Do we have any time frame with DTO? Do you
+have a sense of what we're looking at with them?
+STUART SUMMERS: Mr. Chair, if I may.
+TROY WHITMORE: Yes, and feel free to dialogue Director Harwick with the necessary staff.
+IAN HARWICK: Thank you.
+STUART SUMMERS: Yes. So, Director Harwick, I can tell you that we've submitted all of the proposals
+for the A, B, and G. It's in the hands of DTO right now and they're just going through doing their due
+diligence to just understand the placement and anything that may impact things on their side of operation.
+So I feel very positive. I heard as of last week that movement is happening. And they know that there's a
+sense of optimism and urgency to get this completed. So they understand that and they feel the need to
+also help us get this done.
+IAN HARWICK: Cool. I'm just going to stay on commuter rail. So we're doing an amenities study on the
+light rail. Will that allow us to skip doing an-- not being a turd. I just-- will that allow us to skip doing an
+amenity study on commuter rail or will we then later on do a commuter rail amenity study?
+STUART SUMMERS: So Director Harwick, the goal right now is to start with these 25 light rail platforms,
+recognizing that many of these are some of the oldest in the system and probably in need of some of the
+greatest enhancements and just an understanding of where we have some gaps and challenges.
+Eventually we will then scale this to go across all 70-plus rail stations we have in the system.
+So right now we're just focused on 25. It's also part of-- I don't want to call it a pilot, but really just trying to
+say if we do this assessment across the whole district, what kind of information would we gather? And so
+that's why we started with these 25 at this point. Also recognizing the N Line's new. A, B, and G is fairly
+new. And so really trying to start with some of those that may have been forgotten along the way.
+
+IAN HARWICK: That makes perfect sense. On the totems, is there a way-- because obviously we're
+pulling in some revenue from the ads. And I would not expect this like right away, but as a person that
+works for the City of Denver and interfaces with DOTI a lot, we're very aware of who owns the bus stops.
+But I'm wondering like, is there the opportunity to take this technology with the totems and then integrate
+it with future bus stop improvements? So saying like, hey, we've built a new shelter and we've included a
+totem built into the shelter. Is that something you know an answer to?
+STUART SUMMERS: So as you're probably very familiar, some of our bus stops do have public
+information displays built into them, especially along the 15. And so those are all going through an update
+as well. Along the Flatiron Flyer and some of our routes that do have those screens at them, and those
+are going to be part of the same system eventually. So that's part of the plans as well. In addition to the
+totems, having some of these PIDs that would be added to some of the bus stops.
+IAN HARWICK: Cool. And then my last question deals with the totems again. I was approached by a
+constituent the other day who-- I think may or may not have been emailing with you. He was really
+looking-- he was thinking about how we are sometimes the first line of defense for those that are truly
+most in need. And the idea that he brought up to me was potentially using these totems to be able to
+provide contacts to DHS or harm reduction or whatever-- the various things that are fitting that.
+And I just want to take this where he had said that. And the thought that also came to my mind is also, as
+we are heading into very likely a very hot summer, is that also that opportunity to utilize these totems to
+share information about we're in a heat wave, and if you need to seek out a cooling center in the summer
+or a warming shelter in the winter-- like I understand this technology is probably not as malleable as I
+would like it to be, but I guess just more want to put that out there and say if we could be thinking about
+how to really approach this from the most holistic standpoint, that would be really great. I'm done. Thank
+you, everybody, for letting me talk.
+TROY WHITMORE: You're welcome. Good question-- good questions. All right, let's-- since Director
+Lewis has had the first bite, I'm going to switch over. It looks like we have a committee member that has
+joined us. Director Ruscha, we will give the floor to you. And then Director Tisdale, you'll be next. Director
+Ruscha, the floor is yours.
+JOYANN RUSCHA: Hey, everyone. I'm in my car, but parked and car turned off. Director Harwick did not
+phone a friend. I was just tracking along via stream text after I got out of my meeting earlier. I just wanted
+to add that relative to digital displays, which we consider an amenity, we have fewer in equity
+neighborhoods than we do in non-equity neighborhoods, and that is particularly the case in Denver, which
+we identify as nest neighborhoods.
+So I just wanted to support what Director Harwick just said and also flag that for staff's consideration as
+we move through this project. And that's it. That was my comment.
+TROY WHITMORE: Thank you very much. All right, let's move to-- oh. Mr. Summers, did you have a
+comment?
+STUART SUMMERS: Yeah, if I may, Chair, I was just going to mention that I do have a meeting set up
+with the individual that Director Harwick referenced. And so he and I will be meeting to talk about maybe
+some of these connections to resources and outreach with our staff. So that meeting is going to be
+coming up.
+
+TROY WHITMORE: All right. Thank you for that factoid. Let's move to Director Doug Tisdale. The floor is
+yours, sir.
+DOUG TISDALE: Thank you very much, Mr. Chairman. I have three questions that I'd like to ask, and I
+might just pose them all together to avoid dialoguing on this and allow Mr. Summers or whomever to
+respond.
+But the first one, relative to the VMS, I note on packet page 18, it says that the goal is to have one
+working PMS-- VMS, excuse me, at every platform. And I guess my question is, how are we supposed to
+know which is the one that's working as opposed to the ones that are not working? So is there some kind
+of indication that will be provided relative to that?
+Second question. Relative to the totems, which I happen to love and think are a great, great adjunct to
+what we're doing here, the discussion appeared to be that the ads are essentially just our own
+promotional ads as opposed to third-party ads. And I know we have an advertising policy that would
+control what can go on there. And I'm equally aware that there is a revenue stream, speaking of revenue
+diversification, that is available from the sale of ads. And so I'd like to know if we have a ratio relative to
+the totems on ads or whether we are simply using all of that ad time for ourselves.
+The third question is, all of us have traveled around the country and have been to agencies where they
+have in their bus stops, let alone at their train stations, digital maps, real-time displays, creative, even
+humorous ads on these things and so forth. So my question is, are you jealous? So those are my three
+questions that I pose. And I thank you, Mr. Chairman.
+TROY WHITMORE: Thank you very much. Mr. Summers or Mr. Jensen, please tackle those three
+questions or others as needed.
+STUART SUMMERS: Yeah, Mr. Chair, if I may, I'll start with the first one, and maybe ask Mr. Jensen just
+to add in. So that goal of having one working for every station, that was the goal prior to submitting this
+packet. I think we've now achieved that goal of having the one working that Mr. Jensen referenced earlier,
+of one VMS working at every rail platform.
+So prior when we were putting this packet together, I don't think we'd firmed that up, but we now have that
+completed. And the way to tell if it's working is it's displaying text. So the ones that aren't working just look
+like they've been turned off. Yep. And so that's how that they're working. Is there anything else, Mr.
+Jensen, to add to that? So customers that walk up to a platform can look up, and if it's displaying text, it's
+an operable VMS.
+You did note correctly, Director Tisdale, about the Minimum Annual Guarantee, or MAG, that we have
+with our system advertising. It provides that MAG every year to as part of that is this digital advertising,
+including the totems and our vehicle wraps and other advertising at stations and stops. We have that
+minimum annual guarantee, and then an additional 70/30 split above it.
+And so we also have advertising space that's held back for RTD as well in that rotation. So in addition to
+the 50/50 share of voice, we also have advertising that's set aside for us to do things like zero fare for
+youth, the hiring operators, things of that nature. And then, yes, we're jealous when somebody does
+something creative.
+
+TROY WHITMORE: All right, thank you for your questioning format, Director Tisdale. All right. Well, I see
+Secretary Guzman has raised his hand, and we'll get back to Director Lewis and Director Ruscha after
+Director Guzman makes his comments or questions. Floor is yours, sir.
+MICHAEL GUZMAN: Thank you, Mr. Chair. Just a question on the ones that we have tested out. I'm
+particularly thinking of the one at Federal and Decatur. Have we noticed how they are treated as an asset
+in terms of what we see at bus stops, damage to the maps, damage to the flat signage? Just a reality,
+right? Like, are we replacing these every three months? Are they in good operating condition? Are they
+protected in such a way that it's unlikely that they'll be damaged?
+And I might have misunderstood, but it sounded like, because this is through a vendor, it's their
+responsibility to fix it if it goes down. I'm specifically thinking of the UAT. Sorry, Mr. Jensen, not the VMSs,
+but thank you for getting those done because we've had many conversations about that before. But with
+the UATs, what does that look like?
+TROY WHITMORE: Mr. Jensen or Mr. Summers, would you like to comment, please?
+STUART SUMMERS: Yeah, I would like to. So for example, the one at Federal-Decatur, the UAT. So
+we've had some damage done to some of these walk-up totems. Probably not as much as some people
+anticipated. Anytime you have an amenity out in the public, it's at the risk of being damaged or broken. All
+of that responsibility is with the vendor, though. So they are in charge of replacing, maintaining, installing
+all of that. So it's on them if there is damage done to it.
+And so we've reported a couple that have had some challenges, screens that have cracks in them or
+color that's not clearly displaying and they've come out and replaced them very quickly.
+TROY WHITMORE: All right. That's all for Secretary Guzman, it appears. All right, we will move back to
+Director Lewis. The floor is yours.
+JAIME LEWIS: Thank you, Mr. Director. I had a question on the bus stop inventory. And I apologize
+because I've only been on a few months, but I'm just curious, is this a precursor to a cost analysis? And
+the reason why I bring that up, taking on this type of project is going to be very costly. And having the
+numbers and what it's going to cost to maybe have some of these amenities needs to be in a cost-sharing
+approach with our local municipalities, state and local governments. So am I making a true statement
+here that this is like a precursor to a cost analysis?
+DEBRA JOHNSON: If I may, Mr. Chair.
+TROY WHITMORE: Proceed.
+DEBRA JOHNSON: Yes. So basically, the intent of this bus stop assessment is to garner an
+understanding of what we currently have holistically. This is an assessment so we can have an informed
+set of facts. And this is a study that we undertook by utilizing federal dollars in which to do so. Our intent
+is to share this with our partners in various municipalities as we move forward so we can garner a better
+understanding of what might be optimal.
+Recognizing that we are in an active solicitation period, I don't want to delve too deeply into what it is that
+we would hope to ascertain as people are formulating their submittals, but keeping in mind that we want
+to ensure that the consultant that's elected can look at optimal models that we can leverage and what
+might be ideal for our service area as a whole.
+
+It is customary when one provides transit services to a Metropolitan area that is comprised of multiple
+jurisdictions, that the ownership of the assets does not rest with the public transit agency, and that's
+critically important for us to understand so we can set a path forward on what we may be able to do,
+recognizing that there is going to be costs involved. So that would be something that should come full
+circle. And sorry, I'm being a little cagey, but as I said, we're in an active solicitation process.
+JAIME LEWIS: Thank you, CEO Johnson, I appreciate the answer.
+DEBRA JOHNSON: You're welcome. Mr. Sirois, I see you on camera. Is there anything else that you
+wanted to elaborate on?
+BILL SIROIS: Just going to add, because it is in the scope and it is advertised, so it's out there, but we
+are going to have part of it is the extensive coordination with local jurisdictions and developing a
+framework for future investment in bus stops. So those two things are going to be addressed as part of
+this effort.
+TROY WHITMORE: Thank you very much. Appreciate the answers to Director Lewis' question. All right,
+Director Ruscha, you are up next.
+JOYANN RUSCHA: Thank you, sir. I just had a clarifying question regarding Mr. Summers' comment in
+terms of the split and how much we control. Was it 30% or was there an additional percent? Can I just get
+clarification? Like what I'm trying to get at is under our existing contracts, like how much of that
+advertising space can RTD use for what we deem is an appropriate purpose? I just want a clarification on
+that,
+TROY WHITMORE: Mr. Summers?
+STUART SUMMERS: Thank you. Thanks, Director Ruscha, for the question. So let me have-- we're
+going to provide back a memo because I don't want to misspeak about the exact percentage because it's
+very prescriptive, but the share of voice or those 50-50-10-second rotations, and then additionally, RTD
+has an additional amount of content-- promotional materials-- that we can provide in the rotation outside
+that 50-50 scheduling. So we can provide back what those breakdowns are and how it's prescripted out,
+but yeah, we definitely utilize all the space that we have available to us.
+JOYANN RUSCHA: If I may, Mr. Chair, to-TROY WHITMORE: Go ahead.
+JOYANN RUSCHA: So the context behind that, and I think it's also-- it might have been what Director
+Harwick was getting at, but again, if there are other partners, whether it's like city, mental health, et
+cetera, it would be nice if we considered using our resources to, again, provide resources to the
+community. And I know that's something we talked about in our Vision Zero group.
+And Mr. Summers, I believe you were there during that conversation, but that was the-- that was the
+context behind my question, just to understand how much of that space has been contracted away. And I
+say space because I don't have a better word for i-- or a usage and what we might have. So I would also
+just encourage staff, if we're not currently doing that, I think that that's something that the agency could
+certainly work toward or maybe partner with particularly as our area is suffering some pretty severe social
+challenges.
+
+As a rider, I'm jealous of when other agencies come up with cool creative stuff, too, but that is something
+that I have seen at other agencies, and I would be happy to follow up with our GM, CEO, or you, Mr.
+Summers, with some examples that I've seen where that advertising space was also used to-- for
+essentially PSAs or public service or how to access resources. Thank you.
+TROY WHITMORE: All right, thank you. I see no further hands raised. Going once, going twice, and
+gone. All right. Let's transition to the second discussion item, which is a Group 33 Fixed Route Service
+Contract. And here to present that to us is Fred Worthen, Assistant General Manager, Bus Ops. Fred, the
+floor is yours.
+FRED WORTHEN: Thank you, Chair Whitmore. Good evening. Honorable Board Members. I am Fred
+Worthen, Assistant General Manager of Bus Operations. Next month, we expect to bring to the Board an
+approval for a recommendation to authorize the General Manager and CEO to enter into contract
+negotiations for Group 33. And I have a short presentation that I will put up on the screen. I always have
+problems or have fun sharing content, so let me just make sure I do this correctly. And in Presentation
+mode. All right.
+So as a bit of background, the district's legislative authority allows our fixed route paratransit and flex
+route services to be contracted by operations by qualified private business, non-profit organizations, and
+local governments. The legislation caps the amount of service that can be delivered by a qualified third
+party at 58%. At this time, approximately 45% of our fixed route services and 100% of our Access-a-Ride
+and FlexRide services are contract-operated.
+These contracts represent approximately 56% of allowable contracted services. I should mention that
+contracting these services saves the district operational expenses as our contractors own or rent their
+own facilities, have greater flexibility in work rules, and have consolidated overhead costs such as human
+resources, payroll, and other support services that are managed through regional and national offices.
+Currently, our Group 29 contract is in the final year of our service options. Group 33 will replace the
+services currently operated as part of the Group 29 contract. Just for your edification, I really don't know
+how this started, but fixed route contracts have been historically referenced by numbers, starting with
+Group 1, all the way to the current Group 33 contract series. Fixed route contracts have historically been
+three base years with two one-year options.
+The current service contract up for bid operates approximately 285,000 revenue hours of service per year
+and maintains about 106 buses. Most services operated within the service package are in the North and
+Northwestern section of our service area. There are not specific routes associated with our service
+packages as our routes and hours operated are rebalanced regularly to ensure we stay within the 58%
+statutory service cap and to ensure that we deliver the most efficient service as possible.
+Today's discussion is in preparation for a recommended action to authorize the CEO and GM to enter into
+a contract for provision of Group 33 fixed route services. This recommended action is anticipated to be
+brought to the Operations Safety and Security Committee on June 12. If passed by the Committee, it will
+come to the full Board for consideration on June 26. With that, I am happy to take any questions you may
+have.
+TROY WHITMORE: Thank you, Mr. Worthen. I appreciate the very factual, but brief presentation as well.
+Always helps to get recentered on the numbers, so very much appreciated. Any questions for Fred in
+regard to Group 33? I do you want to say, I appreciate having the one month ahead lead time. And if
+
+there are questions and items that we can cover, I think that's a good maneuver that we talked about with
+planning for the work plan. So hear, hear.
+All right, I see no hands raised. Let's move to Item 3 under the discussion category. And we have the
+September 24 Service Changes to talk about already. And again, we have Fred Worthen with us, and we
+also have Jessie Carter, our Senior Manager of Service Development. So gentlemen, please present-JULIEN BOUQUET: Chair Whitmore-- Chair Whitmore, i see Director Ruscha's hand. I'm not sure if it was
+a delayed hand from the last discussion item.
+TROY WHITMORE: All right. Go ahead, Director Ruscha.
+JOYANN RUSCHA: Thank you, Mr. Chair. I apologize. I've been transit for my appointment, couldn't find
+the button. I just wanted just to request of staff before this comes to a vote on Group 33. Would we be
+able to get a list of the routes that this contract covers, as well as cost increases similar to what the Board
+would have seen in the-- well, the preceding contract, the one that this is following. Is that information that
+we would be able to get and digest before we vote on this next month? And I'm more than happy to send
+a old Board packet as a point of reference if needed.
+FRED WORTHEN: Mr. Chair, if I may?
+TROY WHITMORE: Please proceed, Fred.
+FRED WORTHEN: As I mentioned during the presentation, there are not specific routes associated with
+the service package. We move our routes around from service providers and operating garages based
+upon our service needs. So the routes are subject to change, but the jurisdiction and areas that they
+operate generally don't. With regard to providing other information, I'd have to defer to our legal counsel
+on what we can and can't provide with regard to cost and cost increases.
+TROY WHITMORE: Ms. Snyder, can you assist with furthering answering that question?
+MELANIE SNYDER: Yes, thank you, Mr. Chair. Could I make the recommendation that perhaps Director
+Ruscha submits a request in writing so we're really clear exactly what she's asking for and then staff can
+appropriately respond to each one of those requests?
+TROY WHITMORE: I think that would be reasonable. Plus, Director Russia, you could provide the
+example that you mentioned just a few moments ago.
+JOYANN RUSCHA: OK-- yeah, I-- if I may, Mr. Chair, I will just forward a previous Board packet, and that
+is essentially the request if we get the same type of information. So if that works. And then if a council-- if
+there's a reason why we can't provide that information anymore in the response, then it would-- I think I
+would-- if you could just explain why not if it was a previous practice so that we have an understanding of
+what might have changed. But yeah, I'll just forward the-- I'll forward the packet. I think it's whatever the
+preceding contract would have been. So maybe 2019 or 2018. Thank you.
+TROY WHITMORE: All right, thank you very much. All right. Now let's move to Item 3. Back to the Fred
+and Jessie show, Mr. Worthen. Mr. Carter, the floor is yours.
+FRED WORTHEN: Thank you, Chair Whitmore. Once again. Fred Worthen, AGM of Bus Operations. It
+does feel strange for me to have more than one item on the agenda. But tonight, I will have Jessie Carter,
+
+our Senior Manager of Service Development, who will be discussing the September service changes.
+And with that, I'll turn it over to Mr. Carter.
+JESSIE CARTER: Thank you, Mr Worthen. This is Jessie Carter, Senior Manager of Service
+Development. As is customary with the fall service change, it's kind of a reverse of what we typically do in
+May. So we are proposing to-- or recommending that we return to the level of services that include
+additional tripper services to serve return to schools and other seasonal changes.
+Also included-- and this is a little bit exciting for me, but not as exciting as the last portion of it, and that is
+the return of service that was detoured during the Rail Reconstruction Project and the Coping Panel
+Project. So we'll be returning to the service levels on the E and H Line on the Southeast corridors,
+returning to the 15-minute frequency. And also, we'll be returning the L Line into service along with
+returning the D and H Lines to the Central Corridor Loop.
+Along with that, there are a number of other services that we are doing some running time analysis and
+minor service changes on-- or minor schedule changes on. But most notable are some of the changes
+that we are happy to actually present, and that is those that are reflect changes that are already in the
+Systems Optimization Plan.
+So the first one being on the W Line. We are proposing or recommending that the W Line be extended-short-term trips be extended from Federal Center Station all the way out to the Jeffco County Center. And
+that will return that level of service to every 15 minutes. At the same time, we're also-- a new portion that
+we haven't done in quite some time, and that is adding 15-minute service frequency on the Route 40
+Colorado Boulevard service. And that service would be all day on weekday.
+The final service change that we're proposing that is related to the SOP is with the 0 and 0B. And if I
+could-- we did provide some information in your packet that shows the 0/0B, and that's a breaking of the
+Route 0, which currently operates from the Highlands Ranch area all the way to Civic Center. We are
+proposing to break that service into two different services. The 0 would continue from Inglewood Station
+to Civic Center Station, whereas the 0B would be a lower-frequency service that would operate between
+Highlands Ranch, Town Center, and Inglewood.
+So with that, I also should mention that with the return to service-- or after the Rail Reconstruction
+Program, we're also proposing to discontinue the midday service on the 0L and to return the level of
+service frequency of five minutes-- four and a half, five-minute service frequency on the Free Mall by
+discontinuing the Free MetroRide. So with that, I want to open to any questions unless, Fred, you have
+something else to add.
+FRED WORTHEN: No, sir. Thank you, Mr. Carter.
+JESSIE CARTER: OK.
+FRED WORTHEN: Chair Whitmore?
+TROY WHITMORE: Gentlemen, thank you both. Director Lewis, the floor is yours.
+JAIME LEWIS: Yeah. A few weeks ago I had the opportunity to be involved at a function for Earth Day at
+1670 Broadway, and I was able to meet a majority of the people that work in that building. I asked them if
+they used RTD, and I would say about 90% of them said they did. When I mentioned that the MetroRide
+
+was going to be reinstated, they were ecstatic because their main purpose is to get-- I call it like Wall
+Street there, all the banks and everything near the 16th and Broadway intersection there.
+And I'm just curious, can we put an asterisk next to taking away the MetroRide there in September if we
+see that it's a success? We have two types of riders, ones that are the tourists and may want to go down
+the 16th Street Mall, and stop at every block. But we also have a working class there on Broadway that
+want to get to Union Station quickly. So I'm just curious if we can keep the MetroRide if it's a proven
+success.
+JESSIE CARTER: Committee Chair, if I may?
+TROY WHITMORE: Please proceed.
+JESSIE CARTER: Director Lewis, that's a great observation, and we do recognize California Street, Stout
+Street, that whole area, 18th and 19th, as the banking area of the CBD. And that is part of the reason why
+in 2014, that service, the Free MetroRide was started, was to serve better serve that community as well
+because that-- and we were quite successful. We were-- I think the last place we ended up was about
+almost 70 boardings per hour on the Free MetroRide.
+So we're excited about having that service turned on. And it is in the SOP currently that the return of the
+MetroRide is something that we are hoping to do by the completion of the SOP.
+However, right now, I have to look to what resources we have because. I believe we dedicated an
+additional 10 vehicles to actually run the Free MetroRide and taking that service away from the Free Mall
+Ride, but we're very, very interested in seeing what level of ridership we actually gain from the Free
+MetroRide, and actually very curious as to see what that demand looks like in the face of how things are
+going in the Downtown area. So it's something we certainly should consider and it's something we are
+looking at long-term. Like I said, it is a part of the SOP. And I hope that answers your question.
+JAIME LEWIS: You. Like, whether the SOP or sooner. Thanks.
+TROY WHITMORE: All right, thank you, Director Lewis, and to you, Mr. Carter, as well. Director Ruscha,
+the floor is yours.
+JOYANN RUSCHA: Thank you, sir. So this is for Mr. Carter. So as I understood it, our last changes had
+permanent changes, and that included the R Line, and those early morning runs is-- first, I just want to
+confirm that it's accurate, that that is considered permanent. So I'll stop and let you-- yeah.
+JESSIE CARTER: OK. OK, Committee Chair, if I may?
+TROY WHITMORE: Yes, I'm sorry. I thought I gave you permission. You always have permission, Carter.
+JESSIE CARTER: OK, I appreciate that. All right, we'll say, Director Ruscha, thanks for that question, and
+it should be clear. I really have no power to say whether something is permanent. We are always making
+changes at any given time, and I do believe it is our wish to offer as much service as is well-utilized and
+as is warranted.
+The trips that were discontinued, the early morning service, was to make way for the maintenance of way
+schedule. And that currently is still in need. So I would say that we're not proposing in the September
+
+service change to return that level of service, but it's something that's still open for future consideration as
+our situation changes.
+DEBRA JOHNSON: And Mr. Chair, if I may, please?
+TROY WHITMORE: Go ahead.
+DEBRA JOHNSON: So to provide greater context, as we talk about utilizing the word "permanent,"
+recognizing that we're offering transit service delivery, and when one offered transit service delivery, you
+have to take in consideration a myriad of different factors. The changing environment, land use and
+development, and things of the like, that's why it's so imperative that this organization do a
+comprehensive operational analysis with frequency every three to five years.
+And we collectively made a commitment with the Board's action in which to do that so we can double
+back and ascertain where is the potential for ridership. So with that as a backdrop, as we move forward,
+it's also important to note, as we look at the cost of delivering transit services, the bulk of one's budget is
+within a schedule.
+So as we go forward, to Mr. Carter's point, I want to reemphasize that it is our desire to provide as much
+service as possible. However, when we talk about where we are as an agency with the lack of investment
+in state of good repair and our preventative maintenance schedules, hence that's why we have antiquated
+PIDs on our platforms because we weren't investing in our technology systems.
+And so as we go forward, we do want to endeavor to get to that place, but once again, as we need to do
+work relative to our maintenance of our right-of-way, that will be front and center as we move forward. So
+Director Ruscha, as we proceed, we will assess the options to provide that service, but recognizing
+oftentimes people constantly reference the difficulty we have in recruiting operators. Once again, we have
+difficulty in recruiting maintenance of way personnel, recognizing that we are the only light rail entity
+within the State of Colorado.
+So provide all that to say, I wouldn't qualify it as permanent. We will assess as we go forward with each
+service change to discern what might be optimal from a service delivery vantage point. Thank you.
+TROY WHITMORE: Thank you, Madam Chair-- or Madam CEO. Go ahead, Director Ruscha.
+JOYANN RUSCHA: I could be Chair for the evening, if you like.
+TROY WHITMORE: It might be up for grabs.
+[LAUGHTER]
+
+JOYANN RUSCHA: Just a closing comment. The R Line is not even in kindergarten yet, and it does serve
+a lot of lower-income populations. But it also is an essential connection to DIA and Anschutz for a lot of
+essential workers. I know it does share track with some of our older infrastructure. But I do have a
+concern that we are looking at reinstating even light rail service elsewhere from an equity standpoint
+when the R Line is struggling as much as it is. It's also, I think, our lowest-performing in terms of dropped
+runs and on-time performance.
+
+So if maybe like a follow-up memo that is very explicit and explains as to why the R Line is not in
+immediate or long-term consideration in terms of restoring that service, I think I would appreciate that,
+and can't speak for other directors who also share the R line, but I know it's something I hear about every
+week. So if we could just get some more information and rationale, that would definitely be appreciated
+from this director's perspective.
+DEBRA JOHNSON: Mr. Chair, if I may?
+TROY WHITMORE: Proceed.
+DEBRA JOHNSON: When we bring back our service changes relative for this Board's consideration, we
+can include information relative to what it is that we're doing going forward. Thank you.
+TROY WHITMORE: Very good, that would be helpful. Is that all, Director Ruscha.
+JOYANN RUSCHA: Yes, sir.
+TROY WHITMORE: All right. Director Sloan, the floor is yours next.
+MARJORIE SLOAN: Thank you, sir. And thank you, Mr. Carter. I think the idea of having the W Line with
+15-minute headways on the whole trip will be of great benefit to people on the entire W Line. And I would
+just like to show my appreciation for that, so thank you.
+JESSIE CARTER: Thank you.
+TROY WHITMORE: Thank you, Director Sloan. Director Rosenthal.
+PAUL ROSENTHAL: Thank you, Mr. Chair. Thank you, Mr. Carter and your entire team. So what I-- first
+of all, I take the AT bus, by the way, to go from 9 Mile to the airport when I do fly, and I absolutely love it.
+So thank you and kudos to everybody who operates that line.
+However, my question is about the AB, although I don't take that bus because I don't live in Boulder. But I
+have heard-- first of all, congratulations to everybody on the 90% on-time weekday performance. And it is
+popular from what I hear, to the extent that sometimes it is, quote, "full." And so I was wondering how that
+also plays into the frequency and how your analysis goes forward about how many buses are put on that
+route and when.
+TROY WHITMORE: Mr. Carter.
+JESSIE CARTER: Thank you, Chair. Actually, I'm looking at the Route AB and the Route AT. One thing
+that I would share is that their actual performance in terms of boardings per day and boardings per hour
+are quite similar. Both those routes are doing well and have historically done well. With the AB, when we
+see that we are going to be in a situation where we have overloads, there are times where we put on
+extra service as when school is released in CU and Boulder. Extra service is provided. But we are
+carefully tracking ridership trends on the AB and on the AT4 additional service.
+At this point, we haven't seen the level of ridership that suggests that we should go above our current
+policy headway, but that is something that we are-- we're certainly monitoring it. It should be noted that
+our SkyRide services, when we first began, had a very high fare, which was clearly identifiable as being
+
+much higher than even our regional services. And one of the common questions we had was, why is it so
+high?
+And it's because the amount-- or the span of service that we actually operate our SkyRide services is very
+wide. So that's another challenge to the number of vehicles and operators that actually takes to operate
+the AT and AB. So we have to be very, very careful in looking at adding services to it. At the moment right
+now, I'd say, give it a B-plus in terms of its ridership and its productivity, but I don't want to move it down
+to a C or D by adding too many trips at this point, but we're certainly monitoring that. And I'm hoping that
+answers your question.
+PAUL ROSENTHAL: It does. Thank you. And perhaps this may be more of a question for Mr. Summers
+or Mr. Davies, but also intersects what you work on, which is, as we have new developments going into-particularly as we see more TOD around the district, is that something where RTD is in touch-- and I'm
+sure you are, but I'm just maybe for the public to know a bit more-- about how RTD is in touch with
+different municipalities, different developers, about those different developments going in, some of which
+have quite substantial number of apartments, let's just say. And how does that impact our service
+changes? Thank you.
+DEBRA JOHNSON: So if I may, Mr. Chair?
+TROY WHITMORE: Proceed.
+DEBRA JOHNSON: Recognizing, statutorily speaking, that our transit agency has to work in conjunction
+with the MPO, which is designated as DRCOG. And statutorily, we have a seat at the table as it relates to
+the Regional Transit Committee. And more specifically, utilizing the MPO for long-range planning as we
+have to work in partnership.
+So with that as context, as we move forward, that's a critical piece as it relates to how we plan and what
+we do going forward. And then more specifically, when we talk about a comprehensive operations
+analysis, when we leverage those, that is exactly what we're doing. We're working with the MPO and
+looking at other municipalities as they have the inside information relative to what is on the horizon as it
+relates for development.
+Will the agency do one-off set as relates to one construction project? Typically not. But as we go forward,
+what we're doing, leveraging our engagement with municipalities and working with various municipal
+planning departments within local governments, that's how we ensure that we have an understanding of
+who's on first. So thank you very much for the question, sir.
+PAUL ROSENTHAL: And thank you, General Manager. I really appreciate that. I just want to end by
+saying thank you so much to you, to Mr. Carter, to everyone involved in this new service change. I think it
+clearly shows that RTD is responsive to input that we do get, and so thank you all very much. And that is
+all I have.
+TROY WHITMORE: Thank you, Director Rosenthal. Board Chair Davidson, the floor is finally yours.
+ERIK DAVIDSON: Thank you, Committee Chair Whitmore. Thank you, Mr. Carter and Mr. Worthen for the
+presentation. Great to see the progress against the SOP. That's awesome in increasing headways. Thank
+you to our people in Operations. That's a big contributor here.
+
+I'm curious how close, based on the progress we're making on our people power problem and as we're
+looking at these service changes, Mr. Carter, how close are we getting to the LX restoration.
+TROY WHITMORE: Mr. Carter.
+JESSIE CARTER: I'd like to dial a friend at this point. In actuality, the LX is high on the list. However, the
+number of employees we need to actually pull off substantial increases in plans is something that's still-that is still challenged. However, we are doing better, but the LX remains very high with our North team
+and looking at changes, along with FF4 and some other items that are very high on the list.
+However, unfortunately, we weren't able to put it in the September at this point in time, but we'll watch
+what our resources will allow us to do in the future. But the LX is one of those services that-- it has a
+strong following, but we're going to have to be very, very careful as we implement it because it's one of
+those types of services that has a high cost from the number of vehicles necessary as it relates to the
+number of riders that we have.
+But it's still up there, very high because we see on a regular basis requests for that service coming
+through our sales force and via phone calls. So it's high on the list. We'll certainly-- it's in the SOP, we
+certainly want to do it, but it's going to take a point where we have a clear gain in the number of operators
+available for us to do that.
+TROY WHITMORE: And I see that we have CEO/GM Johnson with her hand raised, so proceed.
+DEBRA JOHNSON: Yes, thank you so much, Chair Whitmore, and thank you, Chair Davidson, for the
+question and Mr. Carter for his response. I just wanted to share with this body that it is our intent to have
+a presentation on the progress relative to our comprehensive operational analysis and what we perceive.
+And that should be in the fall because it is a cross-matrix team that is working on this, and we will be
+better situated to address the questions which have been put forward relative to what is what and how we
+can deliver on that, recognizing that we must look at revenue cost per hour as we go forward because we
+wouldn't be good fiduciaries if we expended a lot of money to yield only one boarding per hour. It's not
+that situation with the LX, but holistically we want to provide that information to this body, so thank you.
+ERIK DAVIDSON: Thank you.
+TROY WHITMORE: Sorry about that, Chair Davidson. Any further comments or questions? All right.
+ERIK DAVIDSON: No. Thank you, sir.
+TROY WHITMORE: OK. Thank you all very much. All right. I see that we have no further hands raised, so
+let's move to Item F, Other Matters. Are there other matters to discuss tonight? And no, I do not have any
+as chair. There may be a few, including one from Director Marjorie Sloan.
+MARJORIE SLOAN: Right. And I'm hoping this is an appropriate way to bring this up. I did attend the
+Finance Committee last night and was interested in their dashboard proposal. And I know it's not purely a
+Committee matter of getting the dashboard put together.
+But it appears to me that the Finance Committee is proposing this return on investment dashboard. But I
+believe the operations aspect of-- maybe the entire operations, safety, and security has information that
+
+would really lend itself to the dashboard. And I don't know how that is working its way through the system.
+I know a dashboard is at the top of the mind of staff as well.
+TROY WHITMORE: Appreciate the comment. I think it would be a worthy tool that we need to continue to
+flush out, and it'll be very extensive depending on the range that we want to capture anything from HR
+needs to performance and all the other things that we typically discuss. GM/CEO Johnson, do you have
+any comments in that regard, or Mr. Worthen as well?
+DEBRA JOHNSON: I do, thank you very much, Mr. Chair, and thank you so much, Director Sloan, for the
+question. This was slightly touched upon last night, but recognizing there has been robust conversation
+around performance metrics and recognizing that we are trying to consolidate the information in a publicfacing manner that is easily digestible. The conversations are ensuing that the Performance Committee.
+That the Performance Committee and I may be overstepping somewhat, but will share that we have been
+working with the dashboard.
+And it's important that there is alignment amongst the Board as well as myself and members of my team
+that we garner a better understanding of what needs to be showcased. There's a myriad of statistics and
+data that we can put forward, but recognizing the emphasis as we go forward. So there'll be a point in
+time where we'll be providing information to the Board for you all to discern what might be optimal to help
+you better address the questions that you receive from your constituents.
+So just share that to say not lost upon us because collectively, we received feedback from a myriad of
+different conduits and we are addressing that collectively, and we'll have an opportunity to showcase the-what am I trying to say? Had a loss of words just now. Showcase our test page as relates to our
+dashboard at the Performance Committee that's taking place next week. So just gave you a little preview
+of what's to come once the packet is agendized. Thank you.
+TROY WHITMORE: Thank you, Ms. Johnson. Appreciate that update. OK, I see a hand raised. Director
+Ruscha?
+JOYANN RUSCHA: Thank you, Mr. Chair. Just here fighting for the R Line again. I recognize that we
+have a people-powered problem. We have a shortage of staff and we have a shortage of light rail
+operators. But the R Line is one of our worst-performing lines in terms of dropped runs and-- or
+cancellations and on-time performance.
+And so at this-- I mean, I guess at this juncture, I would just ask-- like I feel like we need to answer for
+that. We need to have a plan or a new plan. And as it relates to our system as a whole I worry that we are
+overpromising and underdelivering. If we do not have the operators that we need to deliver the service
+that we're promising, the community and stakeholders are only going to become more and more
+frustrated.
+As much as I want more frequency and more-- and restoring or looking at the original SOP, it is equally, if
+not as important to a rider that you know your bus or your train is going to show up when we say it's going
+to show up.
+So just-- I don't have a specific question, but I just wanted to bring this-- to bring this to the Committee's
+attention and also implore staff. If we need to make cuts, but our buses and trains are running on time, I
+think that's a consideration that we need to make. It would frustrate some folks. But for people who
+
+actually use the system, knowing your bus or train is coming is pretty critical, particularly if you're like me
+and your bus only comes one half hour.
+But if 15% to 20% of the time it's very late or not coming, well, you can imagine. So I just want to put that
+out there because I don't think it's fair to our staff or our GM/CEO either if we put folks in the position of,
+like I said, overpromising and underdelivering. Thank you.
+TROY WHITMORE: Thank you, Director Ruscha, for your comments. Director Rosenthal.
+PAUL ROSENTHAL: Thank you, Mr. Chair. And I don't see it on this concept on the Finance Committee's
+agenda for last night, and perhaps it was brought up in other matters. And I'm hearing a lot of discussion
+in the community and on social media about potential funds that RTD may be getting in the future,
+whether it's short, medium, and long-term, to cover various projects, various services, potential services,
+whether it's in our region or how we interface with Front Range Passenger Rail, et cetera.
+And I'm sure that folks are working on that at the agency, but it's sort of concerning to me that folks are
+already spending our money before we've even anticipated receiving. And we don't even know how much
+it's going to be and, oftentimes, when we'll get it. So I guess that's my concern.
+And I was wondering, maybe a little bit of information from General Manager about the process of the
+review of some of those bills and how we might be updated about some of the planning that we can do in
+anticipation of, as I said, short, medium, and long-term. When we will get funds, for what purpose, and
+approximately how much we might be seeing. Thank you.
+TROY WHITMORE: GM/CEO, do you have any comments in that regard?
+DEBRA JOHNSON: Thank you very much, Mr. Chair, and thank you very much, Director Rosenthal. Yes,
+I've engaged with staff as we talk about what lies ahead, recognizing that the Governor is in the process
+of signing these bills. We do have a plan in place whereby we're going to look and ascertain what the
+deliverables are, who might we be working with, and that information will be conveyed to the Board, so
+you guys are clearly aware of what's happening, recognizing that we're on the hook to deliver a report as
+relates to what we're going to do about FasTracks.
+So there's a myriad of different things that we are tracking that as that's part of the core business duties
+that we have, so we will ensure that you all are apprised. Thank you so much for the question.
+TROY WHITMORE: All right. Thank you very much as well. Secretary Guzman, the floor is yours.
+MICHAEL GUZMAN: I'll actually defer to Chair Erikson. Or, sorry-- [LAUGHS] I did it again! Chair
+Davidson because he might have something more important to say than I do.
+TROY WHITMORE: Go ahead, Mr. Chair.
+ERIK DAVIDSON: Thank you, Mr. Chair. Thank you, Secretary. I am often David Erikson in my life, so no
+worries. I just wanted to address Director Rosenthal, thank you for the question. General Manager/CEO
+Johnson, thanks for addressing that. Also, I just wanted to-- since there were a number of bills that did
+discuss funding, I thought it might be good to highlight, our Government Relations Officer, Michael
+Davies, sent us a helpful email on Thursday, May 9, that it contains some information. SB 24-032 is one
+that was notable, around the $5 million.
+
+Initially we had gone for $14 million, 7 for Zero Fare for Better Air, 7 for Zero Fare for Better Use. What
+was in the bill ultimately is 5 for a grant program we'd be applying to. And then as General Manager and
+CEO Johnson was mentioning, it's a bit too early to determine some of the other impacts that SB 24-230
+with the oil and gas fees, there's some helpful information out there around the formula funding that's
+been speculated, but a lot of that still has yet to be ironed out as well. So I just wanted to put a finer point
+on a little early to know the formula funds, but the SB 32 bill did have the $5 million. Thank you, that's all.
+TROY WHITMORE: All right. Thank you, Mr. Chair. All right, back to Secretary Guzman.
+MICHAEL GUZMAN: So Director Tisdale, please correct me if I get any of this wrong, but last night we
+did discuss the upcoming fiscal policy discussions that we are going to need to have as a Board. We
+began talking about some of them in our Committee so that we can work towards bringing fuller, more
+fleshed-out recommendations to the Board through the agency.
+And so Director Rosenthal, I would really recommend watching that video or getting on that transcript
+because there was a lot discussed in our packet last night. It was a very long meeting with a lot of detail.
+However, it's really important as it-- with respect to the idea that people want to spend the money that we
+are responsible for. And in particular with our fiscal responsibility as a Board, that we are the body that
+decides what happens with this money as of right now.
+And so we have to make the decisions that are best for the people that we serve without regard to what
+any person, single authority in any other department of government wants because we have to serve the
+public that pays us to be here and elected us to do our job.
+I want to say that because I also made a comment last night about that very same thing, which is, we're
+the ones that decide. And nobody likes it, but they all want to tell us exactly how they think we should be
+spending this money, and they're not sitting in these meetings going through details on routes, on
+changes, on service changes, on bus information, wayfinding, getting the barrage of comments that we
+get, trying to figure out how to get people to the light rail, how to make all of this work.
+And when they presume to think they know better than we do and they don't have the slightest clue about
+what they're talking about, it's really frustrating. But that comes from our fiscal policy. So being mindful
+that those conversations are forthcoming. I just would invite everybody to pay real close attention to what
+our fiscal policy says and get real comfortable with it because we're going to have to make some tough
+decisions.
+TROY WHITMORE: All right, thank you, Secretary Guzman. Back to Director Rosenthal.
+PAUL ROSENTHAL: Thank you. Sorry for the second bite at the apple there. Perhaps Madam General
+Manager, you are an ex-officio member of the Front Range Passenger Rail. Is there anything you might
+be able to report to us about any meetings that you've attended, that-- anything that may not be
+something that we've been reading about in public or what have you? Something that is germane to, as
+we're going forward, anything from Front Range Passenger Rail?
+DEBRA JOHNSON: Mr. Chair, if I may?
+TROY WHITMORE: Proceed.
+DEBRA JOHNSON: So recognizing that I do have regular meetings with the General Manager of Front
+Range Passenger Rail, and I engage with members of the Board, I do have a meeting slated to take
+
+place in the next couple of days recognizing the legislation that will be signed by the Governor tomorrow
+relative to us working in tandem about optimizing the operational efficiencies.
+And so at this time I don't have anything to report because that meeting has yet to be had, but quite
+naturally, when a session concluded, we coordinated because the joint letter in which Chair Davidson and
+I sent to the General Manager of Front Range Passenger Rail and to the Board put forward our
+willingness to ensure that we were leveraging opportunities for those efficiencies. And we are still
+committed to doing that.
+And then more so, recognizing that all of this rests on the Northwest Rail Feasibility Study, which is the
+basic foundation of making any kind of determination as it relates to a path forward. So that's all I've got
+for you.
+PAUL ROSENTHAL: Thank you. Appreciate it very much.
+TROY WHITMORE: Thank you both. Director Tisdale.
+DOUG TISDALE: Thank you very much, Mr. Chair. Just because my name was invoked, I wanted to ratify
+and reaffirm the comments made by Finance Committee Vice Chair Guzman relative to the discussion
+and encourage people, as he mentioned, to follow closely the finance policy discussions that will be
+coming before the Board next month-- or the month after, I believe, somewhere in there. And that's
+important.
+The other thing is to clarify for the record my understanding, which I would like to have some affirmation
+on. As I understand it, the way the legislature ended their session, we did receive the funding for Free
+Fare for Youth, which I think was earlier described as Free Fare for Better Youth, which I like that. That's
+a good line. I'm going to remember that one.
+But Free Fare for Youth I think, was approved in the amount of 5 million. Whereas the Free Fare for
+Better Air, as I understand it, did not end up getting funding through the legislature, leaving us with a
+decision point at some point. I suppose not making a decision answers the question, but I just wanted to
+clarify that that's how I understood the session ended. And I think I'm getting some head nods, but I defer
+to the Chair. Thank you very much.
+TROY WHITMORE: Ms. Johnson or Chair Davidson.
+DEBRA JOHNSON: If I may, Chair Whitmore, to address Director Tisdale's question. So as it relates to
+Zero Fare for Youths, yes, there is that $5 million. That is eligible for reimbursement as long as the
+program takes place for an entire year. So I just wanted to provide that context because it's not as if we
+just get it. We would proceed and I'll keep my opinions to myself. You know I'm really excited about that
+program. Thanks. Bye.
+TROY WHITMORE: [LAUGHS] All right. Thank you, Ms. Johnson. Anything to add, Chair Davidson?
+ERIK DAVIDSON: No, that covered it beautifully. Thank you.
+TROY WHITMORE: OK. Thank you all very much. I do not see any more raised hands. So we will
+conclude Other Matters. Our next meeting will be Wednesday, June 12, 2024. And Operation Safety and
+Security Committee Meeting will be considering a number of items on our work plan. Slated so far as
+
+recommended action on the Group 33 contract services that we discussed earlier this evening. And also,
+funding action required, and also, obviously to be discussed for access on demand.
+Additionally, we have two discussion items. First is update on the Vision Zero Working Group that
+Directors Ruscha, Harwick, and Guzman have been working diligently on for a number of months. And
+leading that effort. And the second is the Semiannual RTD PD update. So with that, and seeing no other
+action, I will declare this meeting adjourned at 7:23 PM. Thank you all, and we'll see you soon.
+
+

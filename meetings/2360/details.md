@@ -1,0 +1,153 @@
+## I. Planning and Development Committee
+
+Chaired by Bill James
+
+### A. Call to Order
+
+Committee Chair James called the meeting to order at 6:21 p.m.
+
+Director Solano left before the beginning of the Planning and Development Committee Meeting.  Director Lasater was absent.
+
+Staff Present:          Bruce Abel, Garrett Christnacht, Heather Copp, Ignacio Correa-Ortiz, Chuck Culig, Kevin Diviness, Sherry Ellebracht, Terry Emmons, David Genova, Adrina Gibson, Kate Iverson, Tina Jaquez, Jim Kelley, Erin Klaas, Marla Lien, Adrian Mabry, Barbara McManus, Vivian Morales, Tom Papadinoff, Paula Perdue, Scott Reed, Pranaya Shrestha, Zamy Silva, Bill Sirois, Yong Song, Henry Stopplecamp, Lisa Trujillo, Mike Turner, Bill Van Meter, Jyotsna Vishwakarma
+
+Others Present:        Eric Anderson, GB Arrington, Mike Dino, Sherman Hamilton, Eugene Howard, Lorna Moritz, Steve Price, Bob Rizzuto, Dave Sachs, Danielle Smith, Arleen Taniwaki, Joe Triplett
+
+### B. Recommended Actions
+
+There were no Recommended Actions.
+
+#### 1. Sustainability Program
+
+Henry Stopplecamp, Acting Assistant General Manager for Capital Programs, introduced Ignacio Correa-Ortiz, Senior Architect and Urban Designer, and Garrett Christnacht, Senior Architect, who reviewed a Power Point presentation with the Board that is available in the October 13, 2015 Planning and Development Committee Meeting Agenda Packet.
+
+Ignacio Correa-Ortiz explained that the Sustainability Policy was established through a Board Resolution that was passed in 2006 with a goal of incorporating sustainability in all RTD activities.  The Sustainability Committee was formed to provide input and suggestions in meeting that goal.  He noted the following indicators show that the Sustainability Program is doing quite well:
+
+- Environmental Footprint
+
+o        Greenhouse Gases Emitted
+
+o        Energy Consumption
+
+o        Water Usage
+
+- Service Footprint
+
+o        Bus Passenger-Miles Traveled
+
+o        Light Rail Passenger-Miles Traveled
+
+He said that the Sustainability Committee came up with a Service Effectiveness standard as a measure for how RTD is doing in terms of our Service Footprint, which was to take the number of boardings divided by the vehicle revenue miles.  He stated that this is not necessarily the same as cost effectiveness of our service.
+
+Garrett Christnacht shared that there have been accomplishments in sustainability across the entire organization including bus operations, rail operations, Eagle P3, West Line, East Metro, US 36 Bus Rapid Transit, and Denver Union Station.  There have also been accomplishments made in energy use reduction and recycling.  He believes it will be important moving forward to update the RTD Sustainability policy and guidelines, establish a green procurement policy, monitor sustainability metrics to evaluate the program, measure walkability within our community and develop sustainability standards for landscape, recycling, lighting, etc.
+
+Director Folska stated that she was very impressed with the presentation.  She thought it was loaded with great information that is exactly the type of information that Communications should be leveraging.
+
+Director Folska asked for further information regarding RTD’s water usage.  Ignacio Correa-Ortiz said that Safety, Security and Facilities and Rail Operations monitor RTD’s water consumption.  Sustainability measures, such as rain sensors, have led to a reduction in water consumption by RTD.  Director Folska shared that she recently toured the Elati Light Rail Facility and learned that they recycle 90% of the water used, which is very impressive.
+
+Director Folska noted that the idea of walkability was very important to her.  She pointed out that Downtown Denver is considered to be very walkable; however, from her perspective walking Downtown is becoming more challenging due to intersection crossings.  She believes it is more important than ever to have audible signals at every crossing Downtown.  She asked staff to speak with the City of Denver about this.  Ignacio Correa-Ortiz said that the Sustainability Committee would begin the conversation but he thinks the leadership of the Board is more effective in contributing to those conversations.  Director Folska expressed that she would love to be involved in the conversations.
+
+Director Menten noted there were several Park-n-Rides that had been configured for solar panels and charging of electric vehicles but it was noted that RTD would not receive any revenue from this.  She wondered what the capital cost was in adding this to the Park-n-Rides.  Henry Stopplecamp explained that the only cost was to run conduit to the boxes for the solar panels and charging stations, which were otherwise left empty.  Since the conduits needed to be run anyway the cost was very minor.  Garrett Christnacht pointed out that to add this later would be far more expensive then when a Park-n-Ride was under construction.
+
+Director Menten asked staff to have a discussion about the cleanup of the brownfields that was done along the East Line offline; specifically she is interested in the high and low value of the cost per acre for cleanup.  Director Menten also inquired how RTD recycles oil.  She wondered if we were able to sell it.  Interim General Manager Genova said that it is picked up by a recycler but he would need to confirm if RTD sold it.  He noted there have been various contracts over the years depending on the market.
+
+Director Lubow expressed her delight at the wonderful work being done by the Sustainability Committee.  She shared that she has a background at the Environmental Protection Agency and is very supportive of sustainability.  Director Lubow wondered if the Sustainability Committee had determined the savings to RTD for the various efficiency measures.  She thinks that figure would have some real value.  Ignacio Correa-Ortiz stated that it was not something the Committee had done to-date but would begin an analysis.
+
+Director Lubow commented that while she appreciated looking at the trends for various efficiencies she also felt like it was presented in a vacuum.  She thought it would be helpful to also include how RTD compares to other transit agencies.  Ignacio Correa-Ortiz explained that the Sustainability Committee did look at and work with other agencies but it is not necessarily easy to compare from one to the other.  Director Lubow believes there are some things that must be comparable and hopes to see more information about this in the future.  She thanked the Committee for all of their work.
+
+Director Francone asked for a copy of the Sustainability Policy and Guidelines.  Garrett Christnacht noted that the information is available on the website in an accessible format.  Ignacio Correa-Ortiz said that staff would send the link to the Directors.
+
+Director Francone asked for a further explanation of the meaning of Service Effectiveness.  Ignacio Correa-Ortiz explained that this was the metric the Sustainability Committee decided to use in terms of determining performance of bus and light rail service overall.  The figure is determined by taking the number of boardings divided by the number of vehicle revenue miles traveled throughout the year.  Director Francone believes a metric related to savings would be a helpful way for the Board to understand the work of the Sustainability Committee and how it is saving RTD money.  She thinks this is something the constituents would be very interested to hear as well.
+
+Committee Chair James noted that on the Service Effectiveness trend line the performance dropped between 2012 and 2013.  He wondered if this was because the capacity of the light rail fleet was increased by a large amount in that timeframe with the opening of the West Line.  He expects that while there is not an immediate increase in ridership the service effectiveness would increase in the future.  Ignacio Correa-Ortiz stated that was correct.  Committee Chair James encouraged the Sustainability Committee to try to compare the Service Effectiveness standard to other agencies.  He thinks it would be an interesting comparison.  Ignacio Correa-Ortiz said that the Sustainability Committee would continue to investigate such a comparison.
+
+Chair Sisk asked if natural gas vehicles were something that the Sustainability Committee had considered.  He shared that he has been receiving feedback that RTD is behind the times using diesel vehicles.  Bruce Abel, Assistant General Manager for Bus Operations, explained that during the most recent bus procurement staff did an analysis of Compressed Natural Gas (CNG) versus clean diesel vehicles.  He noted that while there would be operational savings using CNG the capital costs far outweigh those savings.  Additionally, since we are purchasing clean diesel vehicles the emissions are very comparable.  Chair Sisk indicated that RTD needed to get better about getting the message out about our clean diesel vehicle emissions.
+
+##### a. BoD Sustainability Update Oct-13-2015-v3
+
+#### 2. Transit Oriented Development Assessment
+
+Bill Sirois, Transit Oriented Communities Senior Manager, noted that this is the third presentation from the Transit Oriented Development (TOD) Consultants.   He reminded the Board that the team is comprised of GB Arrington of GB Place Making, Lorna Morita of TRA, and Arleen Taniwaki of ArLand.  They reviewed a Power Point presentation that is available in the October 13, 2015 Planning and Development Committee Agenda Packet.  The presentation focused on an overview of material covered in past briefings, Board interviews, key recommendations, a short-term action agenda, and creating a proactive TOD pipeline.
+
+GB Arrington noted that the six themes for this presentation were:
+
+- RTD is on track with TOD
+
+- There is more to do to be ready for 2016
+
+- RTD needs to strengthen tools and decisions making for the TOD department
+
+- RTD needs an updated TOD Strategic Plan
+
+- RTD needs to move to a proactive TOD pipeline
+
+GB Arrington outlined for major recommendations that the consultants were suggesting the Board and staff consider as:
+
+- Elevating TOD within RTD
+
+- Complementing and augmenting RTD’s TOD Tool Box
+
+- Strengthening internal processes for developing and managing TOD
+
+- Updating the TOD strategy and resolving some key issues
+
+GB Arrington reviewed the Short Term Action Agenda they created to help address some of the recommendations and findings.  He said that the RTD Board needs to provide clear policy direction on TOD and how it should be considered in making agency decisions.  He believes it is very important that the TOD Strategic Plan be updated; at a minimum the mission, parking, consolidated functions and communications need to be evaluated.  GB Arrington stated that RTD should also:
+
+- Strengthen internal TOD decision-making and transparency
+
+- Adopt an unsolicited proposals policy
+
+- Create an internal TOD Swat Team
+
+- Establish TOD group as the point of contact for TOD
+
+- Act as an ombudsman for development partners
+
+GB Arrington explained that it is also very important for RTD to be ready for 2016.  The TOD toolbox needs to be complemented and augmented to include access to appraisals, real estate expertise and real estate legal counsel as well as sufficient permanent staffing.  He commented that a digital real estate inventory system would also be beneficial.  There should also be a clear framework for a TOD portfolio analysis to determine and assess promising stations.  GB Arrington thinks it is important that the TOD Pilot Lessons Learned report is completed.
+
+Committee Chair James thanked the TOD Consultants for the comprehensive report.  He commended them for acknowledging the good things that staff and the Board have done in the TOD arena as it is ever evolving.  He asked if the staff had any comments before he opened it up to the Board.
+
+Bill Van Meter, Assistant General Manager for Planning, reminded the Board that this is an outside assessment that reflects back what the Consultants heard from internal and external parties as well as the Consultants recommendations.  He explained that some of the action items are ones that can be acted upon by staff while some are policy level decisions that will require Board action.
+
+Interim General Manager Genova said he appreciates the comment that RTD compares well with national best practices.  He noted that Denver Union Station is the national model for TOD.  He thinks the TOD staff is empowered but often have to come back to have multi-department meetings.  He believes that RTD already has a lot of tools and documents used for design criteria.  Interim General Manager Genova thinks that RTD needs to formalize some of the things we already do.
+
+Committee Chair James asked the Consultants to explain how the TOD Swat Team differs from the TOD staff.  GB Arrington explained that the TOD Swat Seam needs to involve all the different groups at RTD at the start of a TOD.  This allows the full agency to identify any issues and work through them collaboratively.
+
+Committee Chair James shared that one of the things he has learned in working outside RTD is that you have to be patient.  Real estate markets evolve very slowly.  He said it is very easy to have expectations that are greater than the reality.
+
+Director Bagley pointed out that time kills real estate deals.  He believes anything that can be done to facilitate TOD projects not taking vast amounts of extra time is critical.  He expressed his excitement at receiving the Consultants’ report and recommendations.  He recognized how hard the TOD team works.  He said he was happy to hear that staff planned to work on the short term action agenda.  Director Bagley noted that there are five new corridors opening in 2016.  He hopes that RTD will be proactive and challenged staff to be more aggressive.  He stated that Denver Union Station is a great example of what can be done.  Director Bagley thinks that TOD should be a primary focus, not tertiary.  He expressed concern over the issues between TOD and Real Property.
+
+Director Lubow said she was very excited about the study.  She believes this is a very special time in Denver with the construction of FasTracks and RTD could change the face of the Denver metro area.  She agrees with Director Bagley that TOD is very important and now is the time to act.  She thanked the consultants and staff for the candor of the report.  She asked that staff keep the Board updated as to the progress of implementing the recommendations.  Director Lubow wondered how one elevates TOD.  She thinks it is a nice phrase but is not sure how that is done.  Director Lubow also expressed concern about being ombudsmen for developers.  She does not think of them as shrinking violets that need a lot of help.  Director Lubow said that RTD needs to be careful about not being too supportive.
+
+Committee Chair James believes one way of elevating TOD is to create the TOD Swat Team.  He asked staff to prepare a plan for the Board outlining how to accomplish each recommendation or if a recommendation might not be feasible.
+
+Director Walker asked if any of the tools recommended by the Consultants were included in next year’s budget.  He thinks it would be a shame to put all this work in a high profile area but not fund it.  Bill Sirois said that obviously he would like more funding just like every department but that TOD is getting resources.  He said that the process had been started to hire an additional person.  The team would use this report to determine what resources are the most important.
+
+Director Walker wondered if the station area plans made by various cities were helpful.  Bill Sirois acknowledged that there are over 50 station area plans.  He said that some have higher expectations than they should, which creates challenges.  He believes it will be important to evaluate those station area plans to determine what ones are most viable and perhaps nudge them forward.  GB Arrington explained that station area plans are helpful to indicate who your neighbors will be but do not address RTD’s land; so RTD needs to use those plans to determine how to be the partner with what is planned to be around RTD’s property.
+
+Director Francone said she found the report very helpful.  She appreciated that it outlined the good parts of RTD’s TOD as well as showing where there is room for improvement, which she knows staff will take to heart.  She asked if the Consultants could give examples of the types of decisions the TOD team should be empowered to make.   GB Arrington said that TOD at RTD involves many different departments.  He explained that with the swat team decisions should be vetted internally so that there is one answer; however, that does not happen today.  He stated that there are multiple answers with multiple people speaking.  He recognized that RTD has established itself as a leader in building things but not as a partner with the development community.  He noted that there are some question marks surrounding RTD and those need to be removed so they developer understands the implications of working with RTD.
+
+Director Francone wondered how GB Arrington would measure success for RTD.  He believes that success means RTD has a clear and transparent decision making process with well-defined rules of engagement.  He hopes that RTD will move from being reactive to proactive.  He said that in the full report this would be outlined in much more detail that the Directors would be getting soon.
+
+Director Francone commented that to her RTD’s mission is transportation and not necessarily land development or low income housing; however, RTD is tasked with being good stewards of the real estate and properties that RTD does own.  She expressed concern that there is not documentation of the land holdings that can be leveraged.  Director Francone said her goal is to leverage RTD’s land in a profitable way.  Marla Lien, General Counsel, said she wanted to provide some examples of conflicts that have come up that needed to be resolved.  She shared that there was a piece of property that RTD owned next to one of our light rail maintenance facilities that staff wanted to use to expand operations; however, there was tremendous pressure from the municipalities that wanted RTD to give up the land for development.  She shared that Denver Union Station was another project that had conflict.  Initially Bus Operations was getting tremendous pressure from the City of Denver to not layover buses on the City streets.  She explained that plans were made to widen the facility to layover buses underground; however, this would have given up land for development that was paying for the development.  She noted that the conflicts between operations and developers are very real and getting them on the table right away is critical.
+
+Committee Chair James agreed that conflicts do arise.  He said the TOD report from the Consultants encouragement to minimize conflicts by leveraging the resources RTD has.
+
+Director Folska thinks that perhaps TOD should be its own department within RTD but then a business case would need to be made that it was a sustainable department.  She said she is very interested in the inventory of RTD’s real estate assets along with the opportunities for each of those assets.  She believes it is important to be able to show what makes a successful TOD.
+
+Director Bagley pointed out that everyone wants to have first and last mile connectivity around stations as well as better pedestrian activity.  He stated that requires RTD to work with our partners.  He commented that without Denver Union Station as RTD’s transit hub the FasTracks project would not be functional, so the compromises made there were very important.  He said that Boulder Junction is another example of a TOD that RTD has been involved with.  He shared that there is a ULI forum he will be attending on Boulder Junction.  He reiterated that it is not just moving people from A to B but working with the community to make the TOD functional.
+
+Director Bagley suggested creating something similar to the Fiscal Sustainability Task Force where RTD involves people from the development community, municipalities, etc.  He believes acting as an ombudsman is very important as there needs to be someone who can cut through the tape and help the developers navigate the bureaucratic maze of the government.   Director Bagley does not believe the TOD division needs to make money as that is not the purpose of TOD.
+
+Committee Chair James thanked the team for the report.  He thinks they have made great progress.  He hopes RTD can use the leverage we have to be a catalyst for good TOD.
+
+##### a. TOD Assessment 10.13.15
+
+##### b. ExecutiveSummary_9.3.15
+
+### D. Other Matters
+
+Interim General Manager Genova announced that Jyotsna Vishwakarma had been names as the Acting Senior Manager of Engineering/Chief Engineer while Henry Stopplecamp filled in as the Acting Assistant General Manager of Capital Programs.   He shared that she had been with RTD a number of year and completed the Leadership Academy.
+
+### F. Adjourn
+
+Committee Chair James adjourned the meeting at 7:58 p.m.

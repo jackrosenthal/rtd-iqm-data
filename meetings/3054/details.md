@@ -1,0 +1,291 @@
+## I. Call to Order
+
+Chair Rivera-Malpiede called the meeting to order at 5:30 p.m.
+
+## II. Pledge of Allegiance
+
+## III. Roll Call - Determination of Quorum
+
+### A. Roll Call
+
+Chair Rivera-Malpiede called roll. There were 15 Directors present at roll call.
+
+In addition to Directors and senior staff, there were 55 additional participants connected to the call.
+
+## IV. Retiree Awards
+
+None.
+
+## V. Public Participation
+
+None.
+
+## VI. Committee Reports
+
+Planning/Capital Programs & FasTracks Committee – Chaired by Director Lubow
+
+Communications & Government Relations Committee – Chaired by Director Guissinger
+
+Civil Rights Committee – Chaired by Director Lewis
+
+Operations & Customer Services Committee – Chaired by Director Williams
+
+Financial Administration & Audit Committee – Chaired by Director Cook
+
+GM Oversight & Performance Management – Chaired by Director Catlin
+
+### A. Minutes of Oct 28, 2020 8:00 AM
+
+### B. Minutes of Nov 4, 2020 8:00 AM
+
+### C. Minutes of Nov 5, 2020 8:00 AM
+
+### D. Minutes of Nov 10, 2020 5:30 PM
+
+### E. Minutes of Nov 10, 2020 5:30 PM
+
+### F. Minutes of Nov 11, 2020 8:00 AM
+
+### G. Minutes of Nov 12, 2020 8:00 AM
+
+### H. Minutes of Nov 12, 2020 11:30 AM
+
+## VII. General Manager Oversight and Performance Management Update
+
+Presented by Committee Chair Catlin.
+
+## VIII. Approval of Board Meeting Minutes of October 27, 2020
+
+Motion:               Director Broom made the motion to approve the Board Meeting Minutes of October 27, 2020
+
+Director Lewis seconded the motion.
+
+Vote on
+
+the Motion:              The motion passed by acclamation with 15 in favor (Broom, Buzek, Catlin, Cook, Folska, Guissinger Lewis, Lubow, Menten, Mihalik, Rivera-Malpiede, Tisdale, Walker, Whitmore, and Williams) and 0 against.
+
+Chair Rivera-Malpiede declared the motion PASSED unanimously.
+
+### A. Minutes of Oct 27, 2020 5:30 PM
+
+## IX. Chair's Report
+
+Presented by Chair Rivera-Malpiede.
+
+## X. General Manager's Report
+
+Presented by Debra Johnson, RTD CEO & General Manager.
+
+## XI. Public Hearing for 2021 Budget
+
+### A. 2020-012 : Adoption of the 2021 Budget
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors adopt Resolution No. ___, Series of 2020 for the adoption of the 2021 Budget, Resolution No. ___, Series of 2020 for the 2021 Budget Appropriation and Resolution No. ___, Series of 2020 for the appropriation of 2021 Previously Appropriated Capital.
+
+This recommended action supports the following General Manager’s Goals:
+
+Mission-Oriented Goal #1 – Successful Delivery of Transit Services
+
+Mission-Oriented Goal #3 – Strong Financial Management
+
+Strategic Priority #6 – Move RTD Toward Stable Financial Situation
+
+Motion:               Director Williams made the motion to adopt the 2021 Budget.
+
+Director Cook seconded the motion.
+
+Vote on
+
+the Motion:              The motion passed with 11 in favor (Broom, Buzek, Catlin, Cook, Guissinger Lubow, Rivera-Malpiede, Tisdale, Walker, Whitmore, and Williams) and 4 against (Folska, Lewis. Menten, and Mihalik).
+
+Chair Rivera-Malpiede declared the motion PASSED.
+
+##### a. 2. Exhibit I
+
+##### b. 3. Program Capital
+
+##### c. 4. Attachment A
+
+##### d. 5. Attachment B
+
+##### e. 6. Attachment C
+
+##### f. Board Resolutions 12, 13, & 14 -2021 Adopted Budget
+
+## XII. Unanimous Consent
+
+Motion:               Director Broom made the motion to approve the unanimous consent items B through E.
+
+Director Buzek seconded the motion.
+
+Vote on
+
+the Motion:              The motion passed with 15 in favor (Broom, Buzek, Catlin, Cook, Folska, Guissinger, Lewis, Lubow, Menten, Mihalik, Rivera-Malpiede, Tisdale, Walker, Whitmore, and Williams) and 0 against.
+
+Chair Rivera-Malpiede declared the motion PASSED unanimously.
+
+### B. Construction Award for IFB 320 FD-002 – Platte Roof Replacement
+
+It is recommended by the Operations/Customer Service Committee that the Board of Directors authorize the General Manager & CEO or her designee to award a contract to Flynn Companies in the amount not-to-exceed of $3,015,642 for the Platte Roof Replacement project. Funding for this contract is included in the 2020 Amended Budget.
+
+This Recommended Action supports the following General Manager’s 2020 goals:
+
+Core Goal #1 – Successful Delivery of Transit Service.
+
+### C. Adoption of the Investment Policy
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors adopt the attached Investment Policy which contains recommended changes to reflect a change in ownership of the indices used to benchmark return and risk of the district’s investments.
+
+This recommended action supports the following General Manager’s Goals:
+
+Mission-Oriented Goal #3:  Strong Financial Management
+
+##### a. Recommended Investment Policy - REDLINE
+
+##### b. Recommended Investment Policy - For Signature
+
+### D. 2020-015 : PABs Refinancing Documents
+
+It is recommended by the Financial Administration and Audit Committee that the RTD Board of Directors adopts the attached Resolution Number __ (the “Bond Resolution”), authorizing the issuance of Tax – Exempt and Taxable Refunding Private Activity Bonds, Series 2020 (Denver Transit Partners Eagle P3 Project).
+
+This recommended action supports the following General Manager’s Goals:
+
+Mission-Oriented Goal #3:  Strong Financial Management
+
+COVID-19 Financial Goal:  Identify Funding Sources
+
+2020 Strategic Priority #6:  Move RTD Toward Stable Financial Condition
+
+##### a. 2020 Resolution - 015 PABs Refinancing Documents
+
+### E. Bank Signature Authorization to Add Debra Johnson
+
+It is recommended that the Board of Directors approve the attached Bank Account Signature Authorization Agreement (the “Agreement”).
+
+This recommended action supports the following General Manager’s Goals:
+
+Mission-oriented Goal #3 – Strong Financial Management
+
+##### a. Bank Account and Signature Authorization Agreement 2020-11-17
+
+## XIII. Recommended Action
+
+### F. Adoption of 2021 Fiscal Policy
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors approves and adopts the revised Fiscal Policy Statement for 2021.
+
+This recommended action supports the following General Manager’s Goals:
+
+Mission-Oriented Goal #3 - Strong Financial Management
+
+Strategic Priority #6 – Move RTD Toward Stable Financial Situation
+
+Motion:               Director Whitmore made the motion to adopts the revised Fiscal Policy Statement for 2021.
+
+Director Cook seconded the motion.
+
+Vote on
+
+the Motion:              The motion passed with 12 in favor (Broom, Buzek, Catlin, Cook, Folska, Guissinger, Lubow, Rivera-Malpiede, Tisdale, Walker, Whitmore, and Williams) and 3 against (Lewis, Menten, and Mihalik).
+
+Chair Rivera-Malpiede declared the motion PASSED.
+
+##### a. 2021 Fiscal Policy Statement-markup
+
+##### b. 2021 Fiscal Policy Statement-Final
+
+### G. Adoption of the 2021 & 2022 Modified Mid-Term Financial Plan
+
+It is recommended by the Financial Administration and Audit Committee that the RTD Board of Directors adopts the 2021 & 2022 Modified Mid-term Financial Plan.
+
+This recommended action supports the following General Manager’s Goals:
+
+Mission-Oriented Goal #3:  Strong Financial Management
+
+COVID-19 Financial Goal:  Identify Funding Sources
+
+2020 Strategic Priority #6:  Move RTD Toward Stable Financial Condition
+
+Motion:               Director Broom made the motion to adopts the 2021 & 2022 Modified Mid-term Financial Plan.
+
+Director Williams seconded the motion.
+
+Vote on
+
+the Motion:              The motion passed with 11 in favor (Broom, Buzek, Catlin, Cook, Guissinger, Lubow, Rivera-Malpiede, Tisdale, Walker, Whitmore, and Williams) and 4 against (Folska, Lewis, Menten, and Mihalik).
+
+Chair Rivera-Malpiede declared the motion PASSED.
+
+##### a. Exhibit A - Base 2021-2026 Cash Flow
+
+##### b. Exhibit B - FasTracks 2021-2026 Cash Flow
+
+##### c. Exhibit C - Line by Line Narrative of Base Cash and FasTracks Cash Flows
+
+##### d. Exhibit D - 2020 Estimated Year End Reserves for Base and FasTracks
+
+##### e. Exhibit E - Asset Management Plan 2021-2026
+
+### H. Masabi Contract Amendment
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors approves an increase to the contract with RTD’s mobile ticketing vendor, Masabi (contract #16DH050), to a Not-to-Exceed (NTE) value from $1,450,000 to $8,867,000 (difference of $7,417,000), and expansion of the Scope of Work to include Masabi’s Account-Based Ticketing (ABT) feature for the remainder of that contract.
+
+This recommended action supports the following General Manager’s Goals:
+
+Mission-Oriented Goal #1 – Successful Delivery of Transit Services
+
+Mission-Oriented Goal #3 – Strong Financial Management
+
+2020 Strategic Priority #3 – Enhance Current and Future Transportation Methods
+
+2021 Strategic Priority #4 – Increase Ridership and Improve Rider Experience (Implement Account-Based Ticketing System)
+
+Motion:               Director Tisdale made the motion to increase to the contract with RTD’s mobile ticketing vendor, Masabi (contract #16DH050), to a Not-to-Exceed (NTE) value from $1,450,000 to $8,867,000 (difference of $7,417,000), and expansion of the Scope of Work to include Masabi’s Account-Based Ticketing (ABT) feature for the remainder of that contract..
+
+Director Cook seconded the motion.
+
+Vote on
+
+the Motion:              The motion passed with 13 in favor (Broom, Buzek, Catlin, Cook, Guissinger, Folska, Lubow, Menten, Mihalik Rivera-Malpiede, Tisdale, Walker, Whitmore, and Williams) and 2 against (Lewis, Lubow).
+
+Chair Rivera-Malpiede declared the motion PASSED.
+
+##### a. Attachment A - Total Cost of Ownership Report by Four Nines Technologies
+
+##### b. Attachment B - Masabi Account Based Ticketing Functionality  Sole Source Justification
+
+## I. Authorization of Fiscal Authority to the GM for the North Metro Rail Line Project
+
+It is recommended by the Financial Administration and Audit Committee that the RTD Board of Directors (“Board”) increase the authority granted to the General Manager or designee to enter into all contracts, real property transactions and intergovernmental agreements for the North Metro Rail Line Project by $35.2 million to a total authorization of $757.5 million. This authority shall include the ability to negotiate and execute all contracts; work orders; change orders and contract modifications; agreements for the acquisition and conveyance of property interests; and intergovernmental agreements that are necessary or advisable to complete the North Metro Rail Line within the scope of the North Metro Rail Line Project budget.
+
+This recommended action supports the following General Manager’s Goals:
+
+Strategic Priority #4:  Increase Ridership, Improve Rider Experience.
+
+Motion:               Director Lubow made the motion to approve increase the authority granted to the General Manager or designee to enter into all contracts, real property transactions and intergovernmental agreements for the North Metro Rail Line Project by $35.2 million to a total authorization of $757.5 million. This authority shall include the ability to negotiate and execute all contracts; work orders; change orders and contract modifications; agreements for the acquisition and conveyance of property interests; and intergovernmental agreements that are necessary or advisable to complete the North Metro Rail Line within the scope of the North Metro Rail Line Project budget.
+
+Director Buzek seconded the motion.
+
+Vote on
+
+the Motion:              The motion passed by acclamation with 13 in favor (Broom, Buzek, Catlin, Cook, Folska, Guissinger, Lewis, Lubow, Rivera-Malpiede, Tisdale, Walker, Whitmore, and Williams) and 2 against (Menten, Mihalik).
+
+Chair Rivera-Malpiede declared the motion PASSED.
+
+## XIV. Executive Session
+
+None
+
+## XV. Old Business
+
+### A. Accountability Committee
+
+Presented by Committee Chair Guissinger and Committee Vice-Chair Whitmore.
+
+## XVI. New Business
+
+Directors Broom, Folska, and Menten spoke.
+
+## XVII. Adjourn
+
+Chair Rivera-Malpiede adjourned the meeting at 7:15 p.m.

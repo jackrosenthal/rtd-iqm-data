@@ -1,0 +1,67 @@
+## I. Operations and Customer Service Committee
+
+Chaired by Kate Williams
+
+### A. Call to Order
+
+Committee Chair Williams called the meeting to order at 8:23 p.m.
+
+Staff Present:                       Bruce Abel, Caitlin Arnold, Rolf Asphaug, Gina Callahan, Nicole Carey, Jessie Carter, Susan Cohen, Joey Davidson, Jeet Desai, Steve Eubanks, Michael Ford, David Genova, Greg Goldman, Bob Grado, Paul Hamilton, Nataly Handlos, Janet Huhn, Dave Jensen, Jillian Knapp-Rhodes, Doug MacLeod, John McKay, Heather McKillop, Barbara McManus, Armando Martinez, Mike Meader, Allen Miller, Vivian Morales, Tai-Shrae Parish, Tegan Rice, Beverly Riley, Kathleen Rinkel, Jannette Scarpino, Carolyn Schieren, Zamy Silva, Luke Sinclare, Bill Sirois, Greg Smith, Henry Stopplecamp, Maux Sullivan, Sage Thornbrugh, Pauletta Tonilas, Monika Treipl-Harnke, Bill Van Meter, Erin Vallejos, Jyotsna Vishwakarma, Brian Welch, Fred Worthen
+
+Others Present:                    Dick Alexander, Debra Baskett, Doug Brockwell, Alisha Cook, Josh Hazlett, Anne Herzenberg, Ricky Jenkins, Matt Jones, Ian Perry, Adam Steininger, Matt Steininger, Dan Stitt, Joe Triplett
+
+### B. Recommended Actions
+
+#### 1. Award of “Group 29” Contracted Fixed-Route Services
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize the General Manager, or his designee, to enter into a contract with Transdev for the provision of contracted fixed-route transit services “Group 29.”   This contract is for three years, with two one-year options for a total of 5-years.  The initial 3-year contract amount for service is $85,326,407.00; the option year 1 amount is $30,560,167.00; and the option year 2 amount is $31,742,845.00.  The total 5-year not-to-exceed amount for service is $147,629,420.00.  In addition, RTD will reimburse the contractor’s direct fuel costs in an amount estimated to be $9,614,906.00 for the initial 3-year contract term; $3,356,141.00 for option year 1; and $3,435,828.00 for option year 2.  The total 5-year not-to-exceed amount for fuel is $16,406,875.00.  The total 5-year not-to-exceed amount for the contracted fixed route transit service and fuel is $164,036,295.00.
+
+This recommended action supports the following General Manager’s Goals:
+
+Core Goal #1 – Successful Delivery of Transit Services
+
+Task Goal #3 – Ensure Fiscal Sustainability
+
+Motion:               Director Broom made the motion to move this item to the full Board at the July 18, 2019 Board Meeting.
+
+Director Rivera-Malpiede seconded the motion.
+
+Committee Chair Williams declared the motion PASSED unanimously.
+
+##### a. Group 29 Attachment A
+
+##### b. Group 29 Attachment B
+
+### C. Updates
+
+#### 1. North Metro Corridor Bus Operations Service Plan
+
+Presented by Michael Ford, Chief Operations Officer, Nataly Handlos, Sr. Service Planner/Scheduler, and Jessie Carter, Manager of Service Planning & Scheduling.
+
+##### a. DRAFT_NM Rail Line_Bus Ops_Opening Day_Recommendations (2) (002)
+
+##### b. Proposed North Metro Line Corridor Bus Operations Plan_Ops Cmt 070919
+
+#### 2. Service Availability June 2019
+
+Presented by Michael Ford, Fred Worthen, Assistant General Manager of Bus Operations, and Dave Jensen, Assistant General Manager of Rail Operations.
+
+##### a. Service Availability Memo - June 2019
+
+##### b. Update Lost Hours 2019
+
+#### 3. Rail Operations May 2019 Update
+
+Presented by Michael Ford, Fred Worthen, and Dave Jensen.
+
+##### a. Service Availability - Rail Operations May 2019
+
+### D. Other Matters
+
+There were no Other Matters.
+
+### E. Next Meeting Date - August 13, 2019
+
+### F. Adjourn
+
+Committee Chair Williams adjourned the meeting at 8:51 p.m.

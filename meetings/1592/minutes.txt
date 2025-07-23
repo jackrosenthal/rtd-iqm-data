@@ -1,0 +1,239 @@
+Summary of the Financial/Administration Committee held on Tuesday, May 13, 2008,
+Page 1 of 5
+
+Regional Transportation District
+Memorandum
+
+To:
+
+All Board Members/Staff
+
+From:
+
+Caitlin Magee, Board Office Assistant
+
+Date:
+Subject:
+
+Board Members
+Present:
+
+Board Members
+Absent:
+
+Summary of the Financial/Administration Committee meeting held on Tuesday,
+May 13, 2008 at 5:30 p.m. in Rooms, R, T & D
+***
+Chair John Tayer, Vice-Chair Bill Christopher, Juanita Chacon, Bruce Daly,
+Bill Elfenbein, Lee Kemp, Daryl Kinton, Bill McMullen, Wally Pulliam, O’Neill
+Quinlan, Dave Ruchman, Barbara Yamrick
+Barbara Brohl, Noel Busck, Chris Martinez
+
+Staff Present:
+
+Bruce Abel, David Genova, Phil Washington, Bob Lewis, Brian Matthews,
+Jeff Becker, John Dawson, Tony McCaulay, Bill Porter, Daria Serna, Scott
+Reed, Robert Merriman, John Tarbert, Paula Perdue, Teresa Sedmak
+
+Others Present:
+
+Kevin Flynn, Roger Sherman
+
+Call to Order:
+
+Chair Tayer called the meeting to order at 5:36 p.m.
+
+I. Recommended Actions – Phil Washington, Assistant General Manager, Administration
+introduced these action items.
+Database Administration Operational Systems Support – Bob Lewis, Senior Manager,
+Information Technology introduced this item. This is a renewal of the contract for the
+second year. This contract supports support maintenance on databases.
+It is recommended by the Financial Administration Committee that the Board of Directors
+authorize the General Manager to execute all documents necessary to initiate the secondyear contract option with Dataman USA for time and materials Oracle DBA support
+contract was originally awarded on July 1, 2007 through the competitive bid process.
+Within the contract, Article 6.0, allows for an initial year plus three one-year options to
+renew based on positive performance by the vendor. The annual limit is not to exceed
+$160,000. The second year option is to begin on July 1, 2008 and remain in effect for
+365 calendar days until June 31, 2009. The Board is being asked to approve this contract
+because Legal has determined it to be a personal services contract.
+Motion: Director Christopher made a motion for
+full approval before the Board
+
+Summary of the Financial/Administration Committee held on Tuesday, May 13, 2008,
+Page 2 of 5
+at the May 20, 2008 Board
+meeting.
+Second: Director Ruchman seconded the
+motion.
+Vote
+On Motion: The motion passed unanimously.
+TripPlanner On-Call Support Services – Bob Lewis spoke about this action. This
+contract is for support for the old trip planner. When the trip planner went down
+earlier this year, RTD staff could not fix it and had to bring in outside help. Their
+contract expires this month and staff would like to renew it for the rest of the year to
+ensure maintenance for the old system. Staff also wants to see if the Google Trip
+Planner can handle the load of the public requests.
+Director Ruchman asked about the software that crashed. Bob Lewis responded that it
+was built for a time when the website had 25,000 page hits a month. Today the web
+site has over 4,000,000 page hits per month. The software that supports it, Forte, is
+no longer supported by Sun Microsystems. The person on this contract is one of the
+premier Forte people in the metro area.
+The Google software is still being tested. Three out of five people like it. There are
+still some issues with it.
+Director Tayer asked about some of the problems with the Google software.
+Phil Washington asked Scott Reed to speak about Google from the TIC experience.
+The initial page is confusing if you are not familiar with Google. Problems with one
+mile walk distance and Google will tell you it is o.k. to walk across places that it is not
+safe to walk across. Need more input from customers actually using Google to plan
+trips. Chair Tayer stated he was satisfied that this was merely a bridge investment
+toward a long term plan of relying on an enhanced Google system.
+Director Quinlan asked about what kind of situations trigger action on the Trip Planner.
+Bob Lewis said that the Trip Planner currently handles about 170,000 trips a month.
+Bob Lewis expects Google to solve the problems with the Trip Planner by next fall.
+Director Kinton spoke about watching the evolution of the Trip Planner. It has come a
+long way and supported holding on to the old Trip Planner until the issues with the
+Google Trip Planner are worked out. Director Kinton praised staff for their hard work
+on the Trip Planner.
+It is recommended by the Financial Administration Committee that the Board of Directors
+authorize the General Manager to execute all documents necessary to award a contract in
+the amount of $100,000 for Personal Services of TripPlanner One-Call Support Services.
+The contract is to be awarded to Object Designs, LLC as a sole source vendor. The sole
+
+Summary of the Financial/Administration Committee held on Tuesday, May 13, 2008,
+Page 3 of 5
+source vendor was selected a competitive bid and award of general Forte support services
+contract that proved insufficient in support of the TripPlanner application. The TripPlanner
+application was off-line for 10 days in January 2008 and required an emergency contract
+engagement with Object Designs, LLC. This has been determined to be a personal service
+contract by RTD Legal.
+The contract allows for an initial year plus one additional one-year option to renew based
+on positive performance by the vendor. The annual limit is not to exceed $100,000. The
+second year option is to begin on January 1, 2009 and remain in effect for one year until
+December 31, 2009.
+Motion: Director Pulliam made a motion for
+full approval before the Board
+at the May 20, 2008 Board
+meeting.
+Second: Director McMullen seconded the
+motion.
+Vote
+On Motion: The motion passed unanimously.
+
+II.
+
+Sales and Use Tax Forecast RFP Follow up – John Dawson spoke to this item. Back in
+February based on Board feedback, staff developed a RFP for sales tax forecasting specific
+to RTD. Six firms were solicited, but there were no responses.
+Three firms were not
+interested; the other three firms did not have the time to do this. Mr. Dawson tried some
+other sources and could not get any response. Based on this, staff could send out proposal
+to these two firms that are interested but then there would be a higher cost and longer time
+frame; or the Scope of Work could completely be redone but again, the time factor would be
+greatly increased.
+Director Elfenbein asked if Mr. Dawson had checked with the Stadium District or SCFD
+to see if they have done any work on this. Director Christopher said that the District can
+not afford a $70-100,000 item that is not budgeted. Director Christopher said he was a
+proponent of this but given the dire financial sales tax situation, he was not supportive
+of pursuing a new RFP. Director Chacon agreed with Director Christopher. Director
+Quinlan said it is expensive but he felt it could be money well spent.
+Director Ruchman agreed with Director Elfenbein’s suggestion and echoed Director
+Christopher’s concern about a non-budgeted item. He suggested looking for creative
+options such as colleges to develop a model.
+Director Yamrick said she was disheartened with this report.
+Director Pulliam said he was concerned about the cost as well. Chair Tayer said the
+Board needs a better handle on budgeting and a better type of forecasting. Chair Tayer
+suggested pursuing some creative ideas within the parameters that are already budgeted
+
+Summary of the Financial/Administration Committee held on Tuesday, May 13, 2008,
+Page 4 of 5
+for this. He asked that staff e-mail the RFP materials to the Board so they can check
+with their own contacts on opportunities for pursing this goal.
+Director Elfenbein echoed Chair Tayer’s sentiment about continuing to look to see if
+someone would be interested in doing this forecasting model.
+Staff is to check with the Stadium District and SCFD and provide the Board with the RFP
+materials so that the Board might be able to solicit the work.
+III.
+
+First Quarter 2008 Investment Report – Teresa Sedmak, Manager of Debts and Investments
+gave this report. The first quarter of 2008 was a new reporting mechanism due to the
+change in the Investment Policy approved by the Board at the end of 2007. The Investment
+portfolio is broken into three tiers: Liquidity Tier, Enhanced cash Tier, and Short-Term Tier.
+The Liquidity Tier outperformed its benchmark significantly. The Enhanced Cash Tier and
+Short-Term Tier did not perform to their benchmarks. The Committee commended Ms.
+Sedmak on her report.
+
+IV.
+
+Fixed Spread Basis SWAP
+- Teresa Sedmak presented this item. The District received a
+proposal from CitiBank and RBC Capital. Staff wanted the Board to be aware of this
+proposal. The District encourages unsolicited proposals that can benefit the District. Staff
+is not recommending that this be pursued based on the risks. Right now the District can not
+pursue this SWAP on a legal basis. It would require changes in the State Legislation.
+Director Elfenbein said that he was uncomfortable with the word “speculative” and
+supported the staff recommendation. Director Pulliam said that this would be a very
+difficult change in the legislature and supported the staff recommendation.
+
+V.
+
+2008 Performance Report - First Quarter – Robert Merriman, Manager of Budget and
+Financial Analysis, reviewed this report. During the First Quarter there were three
+performance measures that were out of line at the end of 2007 that came into line during
+the first quarter of 2008. Goal 1.4 – light rail/auto accidents, 3.1 – on time performance
+and 6.6 - headcount for bus operators and mechanics. Challenges – vehicle accident
+involvement, mostly non preventable accidents. Staff is breaking down accidents into
+categories, non preventable (something hits the bus) and preventable (the bus hit
+something). The financial ratios were on target and the District exceeded its goal on Eco
+Pass revenue, Fare box revenue, and ridership.
+Director Daly asked about Goal 1.1 – the accidents. Director Daly wanted to know what
+the corrective actions would be for this goal. Phil Washington said that this is only the first
+quarter and that Ron Dodsworth, Assistant General Manager, Bus Operations has a plan but
+was ill and could not attend the meeting.
+Director Ruchman commented on the Operating Cost Recovery Ration and was happy to see
+it up.
+Director Yamrick asked about training and where we go down the path towards correction,
+she wanted to see a report on this. Bruce Abel responded that this was being worked on.
+
+Summary of the Financial/Administration Committee held on Tuesday, May 13, 2008,
+Page 5 of 5
+
+Director Quinlan spoke about the ridership increase. Is the District looking at any budget
+shortfall because of the increase in ridership? Phil Washington responded that yes, this is
+affecting the budget. There are pressures to increase service. There will have to be service
+adjustments to be able to stay within budget.
+Director Daly asked about the preventative maintenance issue for First Transit Longmont
+and it being at only 87.1% and why it is so low. Bruce Abel said that the Longmont
+Maintenance shop has undergone some personal changes and now there is a new
+maintenance manager in Longmont and in the interim some slips may have occurred.
+Director Tayer asked about the “Overdue Bus Interior Cleaning per month” being over the
+goal and Robert Merriman explained that there were some incidents at Platte and corrective
+action has been taken.
+Director Tayer also spoke about the issues of increased ridership and how we can inform the
+public as to the budget impact of the ridership increase in the current economic situation.
+Director Elfenbein said this could be an opportunity to educate the community on what a
+transit service really costs.
+Director Daly spoke about miles between road calls and he was concerned about the
+articulated buses and the smaller coaches. Bruce Abel responded that smaller coaches are a
+greater maintenance challenge because they are not as heavy-duty in terms of service cycle.
+Mr. Abel also said the smaller coaches are the ones that will be replaced with the new bus
+order.
+Director Quinlan spoke about the difficulty in cutting service. He proposed forming a subcommittee to bring a “take it or leave it” proposal to the Board. After some discussion, the
+Committee decided to continue with the staff process for service change proposals.
+VI.
+
+March 2008 Financial Status Report – Robert Merriman gave this report. System wide
+boardings are up 8% over last year, 4.8% above goal. Farebox revenue is up, ridership is up
+and sales tax revenue is down.
+
+VII. 2009 Budget Preparation Update – Phil Washington gave a brief overview of the 2009
+budget preparation packet. This item will be discussed in the May 29 Board retreat.
+VIII. Other Matters – Chair Kemp said that the facilitators will put out a web based questionnaire
+regarding what budget items the Board would like to see.
+VI.
+
+Next Meeting Date – The next meeting date of the Financial Administration Committee will
+be June 10, 2008.
+
+VII. Adjourn - Hearing no objections, Chair Tayer adjourned the meeting at 7:01 p.m.
+
+

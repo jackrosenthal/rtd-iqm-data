@@ -1,0 +1,85 @@
+## I. Government Relations Committee
+
+Chaired by Claudia Folska
+
+### A. Call to Order
+
+Committee Chair Folska called the meeting to order at 5:30 p.m.
+
+Directors Deadwyler and Solano participated via phone.  Directors Lasater and Rivera-Malpiede were absent.
+
+Staff Present:              Bruce Abel, Susan Altes, Mike Barnes, Mark Baudermann, Tara Bettale, Frank Buczkowski, Rick Clarke, Lee Cryer, Robert Downes, Martell Dyles, John Elias, Sherry Ellebracht, Terry Emmons, Terry Howerter, Ali Imansepahi, Tina Jaquez, Austin Jenkins, Jim Kelley, Erin Klaas, Russ Larson, Jim Maguire, Brian Matthews, Doug MacLeod, Barbara McManus, Vivian Morales, Tom Papadinoff, Mace Pemberton, Paula Perdue, Scott Reed, Bill Sirois, Henry Stopplecamp, Greg Straight, Kirk Strand, John Tarbert, Pauletta Tonilas, Phil Washington, Brian Welch, Nikita Zanichkowsky
+
+Others Present:              Marion Combs, Heather Cronenberg, Mike Dino, Patricia Doersch, Jane Donovan, Aaron Epstein, Jared Fleisher, Tina Francone, Eugene Howard, Ken Kolano, Brian Middleton, Kevin O’Neill, Laura Rinker, Roger Sherman, Joe Triplett, Gary Van Dorn
+
+### B. Recommended Actions
+
+There were no recommended actions presented.
+
+#### 1. Annual Squire Patton Boggs Report
+
+Scott Reed, Assistant General Manager for Communications, informed the Directors that the members of Squire Patton Boggs were running late due to a meeting with staff.  Committee Chair Folska used the opportunity to encourage the Directors to review the agenda and ask questions after the presentation.
+
+Chair Sisk reminded the Directors that the events honoring the art contest winners would happen on Monday, December 8 and Tuesday, December 9.  He commended the efforts of Committee Chair Folska and Paula Perdue, Executive Director of the Board Office on the art contest.  Chair Sisk asked Committee Chair Folska to explain the details of the events.  Committee Chair Folska said that the I Heart My RTD contest came from how she feels about RTD.  She compared the contest participants to the Commuter Rail ribbon cutting before the Government Relations Committee Meeting as they are both the future of RTD.  She said the contest combined art and community engagement.  Committee Chair Folska expressed that she got teary-eyed when meeting the participants and winners at their schools.  She noted that the events of December 8 and 9 have quite a list of public and elected officials attending.  She said that the wrapped bus will be at the RTD Administrative Offices on December 16th prior to the Board Meeting.  The winners will be recognized during this meeting.  She pointed out that the winners asked that each design wrapped one side of the same bus, creating unity.  Committee Chair Folska finalized her remarks by commending RTD’s marketing team on their flawless job.  She expressed her gratitude to Georgann Van Gemert, Marketing Account Executive, and Steve Reilly, Manager for Marketing Communications.
+
+Kevin O’Neill, Partner at Squire Patton Boggs, introduced Patricia Doersch, Of Counsel for Squire Patton Boggs, Jared Fleisher, Attorney for Squire Patton Boggs, and Mike Dino, Senior Public Policy Advisor for Squire Patton Boggs.  The Squire Patton Boggs team presented their briefing for the RTD Board of Directors included in the Government Relations Committee Meeting packet for December 2, 2014.  The presentation covered RTD’s Recent Achievements, Federal Priorities for 2015 and the 2015 Congressional Visit Plan.
+
+Committee Chair Folska asked Kevin O’Neill who from RTD the Squire Patton Boggs team consulted when creating the presentation.  Kevin O’Neill replied that the team consulted with Sherry Ellebracht, RTD’s Government Relations Officer, as they have done in previous years.  Committee Chair Folska said that the discussion during this presentation was the opportunity for the Board to provide their feedback.
+
+During the RTD’s Recent Achievements discussion, Kevin O’Neill said that it was great to be part of the commuter rail ceremony.  He added that his team has worked with RTD throughout the years and remembers the pre-construction site.  He noted that it was great to see how RTD has influenced the region.
+
+Patricia Doersch said that RTD has had great success in securing funding from different sources, including Transportation Infrastructure Finance and Innovation Act (TIFIA) for New Starts.  She mentioned that RTD has the national distinction of making itself available as a resource to other agencies.
+
+Kevin O’Neill added that part of RTD’s success can be attributed to its strong relationship with the Colorado Congressional delegation throughout the years.
+
+During the Federal Priorities discussion, the Squire Patton Boggs team emphasized the following as priorities:
+
+- Securing New Starts funding for EAGLE P3 FasTracks projects, including Southeast extension
+
+- MPA-21 Reauthorization including funding levels, policy battles for transit versus other modes, and definitions of transit elements that impact RTD future operations
+
+- Maintaining Stakeholder Engagement, including keeping federal policymakers informed and on-board
+
+Kevin O’Neill noted that Congress is in the midst of a lame duck session.  He said that one of the processes being worked out is separating the Department of Homeland Security into a short-term continuing resolution (CR) instead of it being part of the long-term omnibus bill in order to address immigration separately.
+
+Director Solano addressed the immigration subject.  He stated that transportation will offer new mobility to these new Americans.  This mobility will transport them to their means of employment.  He stressed that it must be a fair rate that is affordable in order to accommodate society as a whole.
+
+The Squire Patton Boggs team continued with the presentation.  They discussed stakeholder engagement, the new transportation leaders in Congress for 2015-2016, and the Directors’ visit to Congress and the Department of Transportation.  Mike Dino pointed out that during APTA’s Legislative Conference the Senate will be in session while the House will be in recess.  He said that Squire Patton Boggs will manage the Directors’ time responsibly.
+
+Director Solano inquired regarding the repatriation tax.  He noted that most corporations get a tax break for doing businesses out of the country.  He asked about the likelihood of passing a repatriation tax given the new makeup of Congress.  Kevin O’Neill answered that repatriation is very popular on a bipartisan basis.  He said that the United States is one of the few countries that taxes its corporations for income made abroad.  He noted that there are diverse opinions on how the repatriation tax funds should be used.  Patricia Doersch noted that Representative Dave Camp has proposed a retroactive tax payable over 8 years.  She said that Senator Michael Bennet has proposed low interest long term bonds as a way to transfer those funds to the country.  Director Solano expressed his agreement with Senator Bennet’s proposal.
+
+Director Bagley asked about the chances of RTD receiving the $150 million for the Eagle P3 project in 2015.  He also inquired about the possibility of the SE extension being funded.  He reminded the Directors that RTD is funding $65 million of the SE extension and that the private sector and local community are funding $25-$40 million.  Jared Fleisher replied that the appropriation should be somewhere between $1.9 and $2 billion.  He said that would allow the Federal Transit Agency (FTA) to come very close to the scheduled $150 million.  Funding beyond 2015 will need to be figured out.  Kevin O’Neill added that the Squire Patton Boggs team will remind the members of Congress of RTD’s excellent track record as well as the extraordinary local and private sector match for the SE extension.
+
+Director Walker asked if the Vehicles Miles Traveled (VMT) tax was still being discussed.  Kevin O’Neill replied that it was still part of the conversation.  He added that due to privacy concerns it would most likely not be included in the next bill.
+
+Director Tobiassen pointed out that the conversation every year seems to follow the same cycle of “the sky is falling due to lack of funding” and every year RTD and municipalities manage to find funding and move forward.  He said that solutions are only found when it becomes a burning problem.  He acknowledged that local and state governments are doing a great job of making the system work.  Patricia Doersch agreed with Director Tobiassen.  She added that we cannot keep crying wolf and that a more permanent solution needs to be found.  Jared Fleisher noted that the reason transportation has been muddling through was due to the $62 million transfer to the Highway Trust Fund.  He wondered how long that would be sustainable.
+
+Director Lubow said that the MAP21 criteria that had put BRT restrictions on RTD was created to benefit the “winners” and “losers” at the time.  She noted that she sensed the new political composition would change who the “winners” and “losers” are and that this shift on politics may benefit RTD.  Jared Fleisher pointed out that this was a more articulate way of saying what he was trying to say.  Kevin O’Neill added that changes may happen because the “long term winners” are looking at a much smaller pot of gold and their objective is to shrink the pool of eligibility.
+
+Director Lubow asked if anyone was following Oregon’s VMT pilot program.  Patricia Doersch said that Transportation and Infrastructure Committee Chairman Shuster was following the pilot program, which includes creative ways of tracking VMT while providing privacy.  She said that we may see lessons learned implemented in future transportation bills.
+
+Director Lubow wondered if any further funding for the Northwest Area Mobility Study (NAMS) Bus Rapid Transit (BRT) were washed out.  Jared Fleisher said that Transportation Investment Generating Economic Recovery (TIGER) grants were challenging for RTD since the FTA has funded so much through the New Starts program that the FTA feels they need to spread the wealth.  He pointed out that the Office of the Secretary of Transportation is very cognizant of the amounts granted to RTD and Denver.  Kevin O’Neill added that RTD has picked every pocket available.  He noted that the staffing review process includes reviewing the projects and a degree of politics.  Director Lubow wondered if the situation would then be doom and gloom for the small grant applications.  Jared Fleisher replied that planning projects have a better outlook than capital projects under TIGER grants.
+
+Director Lubow expressed that she represents the Northwest area which has no funding.  North Metro and the Central Corridor are depending on future funding as well.  She asked the Squire Patton Boggs team to address the FasTracks areas lacking funding.  Kevin O’Neill replied that FasTracks has succeeded because it has a commitment with realism.  He said that every success is a new opportunity to partner with the Federal Government.
+
+Chair Sisk said he was pleased that Squire Patton Boggs was retained for the next few years.
+
+Chair Sisk agreed with Director Bagley’s two points and added a third: arterial BRT as part of the conversation towards implementing NAMS.
+
+Chair Sisk wondered how to maximize the Director’s presence during the APTA Legislative Conference since the House would be on recess.  He asked if it would be necessary for so many Directors to attend.  He said that this could be discussed offline sooner rather than later as the timeline for reservations was approaching.  Kevin O’Neill suggested maybe planning a trip while the full Congress is in session.
+
+Director Daly noted that former Secretary of Transportation Ray LaHood was on 60 Minutes demonstrating infrastructure failures.  Director Daly wondered if Secretary LaHood had any traction with Congress anymore.  Kevin O’Neill replied that many have criticized Secretary LaHood for not speaking when he had the President’s attention and speaking now on tax increases when he is no longer the Secretary of Transportation.  Kevin O’Neill said that he now has different interests as he has people paying him to promote an increase in funding for infrastructure.
+
+Director James said that it was great to have the all-stars of the Squire Patton Boggs on our team.  He noted that funding is not so much about RTD’s relationship with Congress but with the voters.  If RTD gets something done the voters will notice.  Kevin O’Neill added that the new Congress will be very inexperienced and controlled by the opposing party of the White House.  He noted that infrastructure is not political in nature thus providing an opportunity to work together.
+
+Director Hoy said that it was good to hear that the Federal Government has never failed to pay a Full Funding Grant Agreement.  He asked about the $15 million IOU received about 2 years ago from the Federal Government in conjunction with a $135 million check.  He wondered if RTD would ever see the $15 million.  Kevin O’Neill said that RTD will see the money.  The Full Funding Grant Agreements are paid over a period of time, usually five years with maybe a sixth year for the overage.  Squire Patton Boggs will keep pressing for early funding.
+
+##### a. Squire Patton Boggs PowerPoint
+
+### D. Other Matters
+
+No other matters were presented.
+
+### F. Adjourn
+
+Committee Chair Folska adjourned to the FasTracks Monitoring Committee at 7:02 p.m.

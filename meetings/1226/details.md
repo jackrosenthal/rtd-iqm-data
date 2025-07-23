@@ -1,0 +1,131 @@
+## I. Financial Administration and Audit Committee
+
+Chaired by Jeff Walker
+
+### A. Call to Order
+
+Committee Chair Walker called the meeting to order at 5:31 p.m.
+
+Staff Present:              Bruce Abel, Martha Bembry, Shirley Bennett, Jessie Carter, Susan Cohen, Carolyn Conover, John Elias, Heather Ellerbrock, Eric Farrington, David Genova, Mike Gil, Kenn Hardin, George Hovey, Terry Howerter, Erin Klaas, Marla Lien, Barbara McManus, Judy McMurphy, Don Merritt, Alice Osner, Paula Perdue, Trent Ratcliff, Scott Reed, Susan Sandoval, Jannette Scarpino, Cal Shankster, Cherie Sprague, John Tarbert, Bill Van Meter, Judy Vialpando, Phil Washington
+
+Others Present:               Dawn Bembry, Dylan Grabonski, Doug Gragg, Stan Gronek, Joe Triplett, Gary Van Dorn, Bob Wilson
+
+#### 1. Approval of Contactless Card Contract for SmartCard
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors authorizes the General Manager to execute all documents necessary to execute a contract with Giesecke & Devrient to provide contactless smart cards (Contract 13DH023).  This award is for a three-year contract followed by two one-year options.  The award amount is not-to-exceed two million dollars ($2,000,000.00).
+
+Motion:              Director Bagley made the motion to move this item to the full Board at the October 29th, 2013 Board Meeting.
+
+Director Folska seconded the motion.
+
+Discussion:              Terry Howerter, Assistant General Manager of Finance and Administration, explained that this is a request to purchase the SmartCard media to be used in RTD’s various fare programs over the next five years.
+
+Sue Sandoval, Accounting Manager, stated that this is a major part of the SmartCard program.  The cards are currently being utilized for the EcoPasses and CollegePasses as part of Phase I.  In Phase II it will be expanded to include all media.  She said that an RFP was issued on July 15th, 2013.  Sue Sandoval explained that Giesecke & Devrient was selected out of five firms that submitted proposals.  Giesecke & Devrient’s proposal demonstrated a strong and experienced team in the transportation industry.  She noted they also had high recommendations from the Massachusetts Bay Transportation Authority.  She informed the Board that the average cost per card would be $1.05 and have a useful life of 5 years.
+
+Director Hoy asked for clarification if this was just for the card itself or if it included any processing.  Terry Howerter explained that it was just for the plastic card and storage that is inside the card; RTD staff does all the processing.
+
+Director Solano wondered if you had to touch the card to anything to get it to register a trip.  Terry Howerter stated that these will be like the current Eco and CollegePasses that you tap on the validators.  General Manager Washington stated that you do not need to touch the cards to the validators, just get them in close proximity.
+
+Committee Chair Walker declared the motion PASSED unanimously.
+
+#### 2. 2014 Salaried Benefit Plans
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors approve the 2014 Plan Year Salaried Insured Benefits Budget and authorize the CEO/General Manager to enter into an agreement with the Insurance Carriers.
+
+Motion:              Director Rivera-Malpiede made the motion to move this item to the full Board at the October 29th, 2013 Board Meeting.
+
+Director Lasater seconded the motion.
+
+Discussion:              Cherie Sprague, Human Resource Manager, explained that annually staff brings the proposal for the benefit plan to the Board for approval.  She stated that staff’s goal are to 1) achieve the 2014 budget, 2) continued focus on containing cost, 3) maintain market competitiveness and emphasis on improving health and wellness consumerism, and 4) insure compliance with PPACA – Patient Protection and Affordable Care Act.
+
+Cherie Sprague shared that RTD offers two health insurance vendors.  With Cigna there are two plans offered: PPO (Preferred Provider Organization) and HDHP (High Deductible Health Plan).  These are self-funded plans with a $150 thousand individual stop-loss limit.  She noted that the administrative cost will increase by 0.1% in 2014 for these plans and there are approximately 460 employees enrolled.  Cherie Sprague shared that the other provider is Kaiser.  With Kaiser there are three plans offered: HMO (Health Maintenance Organization), DHMO (HMO Plan with deductibles), and HDHP (High Deductible Health Plan).  She explained that these are fully insured plans that have approximately 200 employees enrolled.  She noted there is a proposed 3.5% blended increase in 2014.
+
+Cherie Sprague stated that dental insurance will be through Delta Dental.  This is a self-funded plan with a projected 5% increase in expected claims exposure.  She did point out that there is an increase of 12.5% for the life insurance rates while the rates for Short Term Disability, Long Term Disability, Accidental Death and Dismemberment, and Voluntary Insurance products have no increase in premium rates.  She shared that vision insurance will remain through Anthem Blue Cross – Blue Shield and there will be no increase as the rate is guaranteed until 2015.
+
+Cherie Sprague explained that the total projection is a 2.9% increase overall in benefit costs over 2013.  She
+
+Director Solano wondered if the rates increase would be paid for by the employee or RTD.  Cherie Sprague stated that because RTD has had 5 years of salary freezes the recommendation of staff is to continue to hold cost sharing at the current level.  There will be no increase to the employees and RTD will pick up the difference.
+
+Director Sisk congratulated staff for the minimal cost increase.  He asked what RTD does when an employee has benefits through a spouse.  Director Sisk also asked what each employee receives in life insurance and if this will go out to a competitive bid as it was the largest increase.  Cherie Sprague explained that RTD has an opt-out provision for those employees who are able to provide proof of other insurance; they are then eligible to receive a $150 per month stipend.  She stated that life insurance is fully provided by RTD and pay 1.5 times the employee’s annual salary.  She said that RTD did do a Request for Proposal (RFP) this year and found that retaining our insurance through Lincoln National made the most sense from a cost perspective.
+
+Director Menten asked how the new healthcare legislation was affecting RTD.  She wondered if as a government entity we were exempt from some of the new regulations.  Cherie Sprague stated that RTD is not exempt from the Affordable are Act.  She shared that staff has been proactive in ensuring RTD is fully compliant; all our plans meet the minimum standards for funding as well as benefit provisions of the act.  Cherie Sprague explained that RTD already offers benefits to our part-time workers so we also meet the requirements for part-time workers as part of the Act.
+
+Committee Chair Walker declared the motion PASSED unanimously.
+
+#### 3. Proposed 2014 Fiscal Policy Statement
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors accepts the modifications to the 2014 Fiscal Policy Statement.
+
+Motion:               Director Bagley made the motion to move this item to the full Board at the October 29th, 2013 Board Meeting.
+
+Director Sisk seconded the motion.
+
+Discussion:              Terry Howerter noted that there was a red-lined copy of the Fiscal Policy in the October 15th, 2013 Operations and Customer Service Committee Packet.
+
+Director Menten wondered when the Board began including the annual review of fare increases.  She believed this had been put in place several years ago.  Director Menten expressed concern in the amount of time it would take for the Board to conduct an annual review of fare.  Terry Howerter stated that in 2008-2009 there was a period of time where in order to balance the Strategic Budget Plan (SBP) there were two years in a row when the Board had to increase fares.  He explained that the goal was to clarify that staff would plan fare adjustments every 3 years but the Board has the option to consider potential fare adjustments every year.  Terry Howerter said that the fare review has always been in the Fiscal Policy and happens as part of the SBP process.
+
+Director Solano wondered why the statement regarding expenditures for Denver Unions Station (DUS) was removed from the fund balance policies section.  Marla Lien, General Counsel, stated that after RTD acquired DUS, we entered into an Intergovernmental Agreement (IGA) with CDOT, DRCOG, and the City and County of Denver.  RTD was paying all the operating costs but other entities wanted us to be accountable for the revenue and know that it was dedicated to the redevelopment of DUS.  She explained that DUS is fully funded so the statement is moot.
+
+Committee Chair Walker declared the motion PASSED.
+
+##### a. 2014 Fiscal Policy Statement Final
+
+#### 4. Certification of the 2014 Contribution for the RTD Salaried Employees' Retirement Plans
+
+It is recommended by the Financial Administration and Audit Committee that the RTD Board of Directors certifies a 2014 contribution to RTD’s Salaried Employees’ Defined Benefit Pension Trust (the “DB Plan”), which pays a specified monthly benefit at retirement, at the actuarial recommended amount of $3.1 million.  It is also recommended that the RTD Board of Directors certifies a 2014 contribution to the Salaried Employees’ Defined Contribution Plan Trust (the “DC Plan”), which contributes a specified amount to the plan for each year of employment, at a rate of 9% of each participant’s eligible compensation.
+
+Motion:              Director Tobiassen made the motion to move this item to the full Board at the October 29th Board Meeting.
+
+Director Rivera-Malpiede seconded the motion.
+
+Discussion:              Terry Howerter stated that the Defined Benefit Pension Trust (DB Plan) was closed in 2007; new employees now go into the Defined Contribution Plan Trust (DC Plan).  He explained that in 2013 the Board set the contribution for the DB Plan at a fixed annual amount of $3.1 million as recommended by the actuaries.  That contribution should fund the plan through the exit of the last employee in the plan.  He noted that staff was requesting the same contribution for 2014.  Terry Howerter said that the DC Plan contribution rate has been set at 9% since it first began; it was equal to the DB Plan contribution at that time.  He stated that the recommendation is 9% for the DC Plan for 2014.
+
+Committee Chair Walker declared the motion PASSED.
+
+#### 1. 2014 Budget Update
+
+Jannette Scarpino, Budget and Financial Analysis Manager, reviewed a Power Point presentation with the Board that is available in the October 15th, 2013 Financial Administration and Audit Committee Agenda packet.
+
+Director Folska wondered if when finished FasTracks projects begin operations, like the West Line, they are included in Base operations going forward.  Jannette Scarpino stated that staff reports on the West Line operations separately; it is budgeted for separately, costs are allocated separately, etc.  She explained that the budget includes the Base System, FasTracks Construction and FasTracks Operations.
+
+Director Tobiassen asked for a breakdown of the $11 million budget for Denver Union Station Operations.  He also noticed a cap of 400K and wondered why this was removed.  Jannette Scarpino stated that she would provide the breakdown.  Terry Howerter explained that the $11 million budget was from the sale of Lot A; the proceeds were used to fund DUS along with $1 million from Base sales tax.  He said that there is $10 million anticipated form the sale of Lot B in 2014.
+
+Director Bagley shared with the Board that he had a 45 minute tutorial with Jannette Scarpino.  He thought it was very helpful for him to understand the budget more thoroughly.  He suggested that every member of the Board take Jannette Scarpino up on her offer to meet.  Director Bagley feels that it is very helpful from the perspective of terminology.  He noted that most of the Board members, including himself, do not have degrees in finance.  He stated that the Board members are stewards of RTD’s assets so the budget is one of the most critical items the Board approves.  Director Bagley thanked Jannette Scarpino for her time.
+
+Director Sisk said that he too spent time with Jannette Scarpino and it was very helpful.  He noted that he looks forward to seeing a list of projects that are carried forward when it is available.  Director Sisk expressed concern that we are budgeting for projects and then not getting them finished.  He commended staff for the rainy day fund.  Jannette Scarpino stated that a list of projects would be presented to the Board when staff brought the budget for approval in November.
+
+Director Hoy stated that he does not believe the sales tax forecast accounts for the potential to work with the State of Colorado on sales tax audits.  He wondered if it did include the new goods RTD can now tax.  Janette Scarpino stated that Director Hoy was correct.  It did not include the audits but did take into account the sales tax parity.
+
+Director Folska commented that she agrees with Director Bagley.  The budget is very complicated and a huge piece of information to review and understand.  She noted that MBAs and business degrees really do not teach finance.  She thanked Jannette Scarpino for her time meeting with her.  Director Folska stated that many of our projects happen in spurts and fits because of how the Federal Government gives RTD funding.  She believes that is what makes it very difficult to understand the budget.  Jannette Scarpino stated that is correct; that is why staff delays capital carry forward to the end of the year because they want to be as accurate as possible.
+
+Director Bagley asked if the full amount of a project is put into the budget when it is started.  Jannette Scarpino stated that the full amount for that year is included in the budget, not the entire cost of the project.   Terry Howerter highlighted that staff makes sure we have the funds available before they ever ask the Board to contract for something.  He stated that staff does not want to begin a project they cannot completed.
+
+General Manager Washington stated that the strategic objectives that the Board and staff agreed on at the retreat in March drive the 2014 budget; those strategic goals are reflective of the 2014 budget going forward.  General Manager Washington pointed out that in 2009 there was a 10% drop in sales tax.  He noted that this is what lead to RTD not being able to get as much done on FasTracks as was first projected.  General Manager Washington stated that even though we have had some good figures since that time it is very difficult to recoup that kind of a loss.
+
+##### a. 2014 Requested Budget 101513 benker
+
+##### b. 2014 Requested Budget - FAC101513
+
+#### 2. August 2013 Monthly Financial Status Report
+
+Terry Howerter noted that everything on the dashboard is green.  Year-to-date ridership is up 1.0%, fare revenue is up 4.9% and Sales and Use Tax is up 3.8%.  He explained that the fare revenue increase is still being attributed to the change in media for the federal agencies that moved out of the EcoPass program to the FlexPass.  He said that the primary drivers to Sales and Use Tax are new car sales, car parts and repair, full service restaurants and electronic sales.  Terry Howerter stated that bus service was down 445K, West Line ridership is at 1.412 million, and other light rail ridership is down 442K.
+
+Terry Howerter commented that when you look at the actual Sales and Use Tax for August it shows an increase over the prior year of $2.268 million or 5.9%.  He pointed out that staff tries to take the actuals and tie them into the CU-Leeds forecast.  Terry Howerter explained that in order to meet the Leeds forecast of 5.8% year-to-date RTD has to have pretty good months of about 9.5% increases over 2012.  He stated that he is cautiously optimistic but he hopes to see the revenues come in at those levels.
+
+General Manager Washington stated that cautious optimism is the theme of RTD.  He said that staff is studying what impacts will come out of the flood as well.  General Manager Washington noted that there will be a lot of purchasing of materials to rebuild so staff is monitoring that to see the impact it has on the Sales Tax revenue.
+
+Director Folska asked where the 1% increase in riders was coming from.  She wondered if this was riders moving from but to light rail or actual new riders.  Terry Howerter stated that it is new ridership.  He said that while bus and light rail outside of the West line are down, overall the West line is up so there is a growth factor.
+
+##### a. 083113 RTD MFS
+
+### D. Other Matters
+
+Chair Anderson shared that she attended the US 36 Uptown Avenue Ribbon Cutting Ceremony.  Director Lubow gave remarks on behalf of RTD and Directors Sisk and Lasater were in attendance.  She stated that this bridge has taken over 20 years to get done so she was very excited.  Chair Anderson said that she also attended the East Corridor Open House along with Director Walker and former Director McMullen.  She stated that this was really a fun event with over 400 people attending.
+
+Director Bagley noted that he called-in to the October 8th, 2013 FasTracks Monitoring and Planning and Development Committee meetings.  He shared that he thought the system worked very well.  Director Bagley also reminded the Board that the 3rd quarter General Manager survey was sent to them on October 14th, 2013.  He said that the survey will be open until October 28th, 2013.  Director Bagley expects that all members of the Board respond and complete the survey.  The General Manager Oversight and Performance Management Committee will review the results in November.
+
+Committee Chair Walker commented that the East Corridor Open House was a fantastic event.  He said the residents were very engaged and asked great, well thought-out questions.  He hopes to see a lot more of these types of events.
+
+### F. Adjourn
+
+Committee Chair Walker adjourned the meeting at 6:39 p.m. to the Operations and Customer Service Committee.

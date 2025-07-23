@@ -1,0 +1,1433 @@
+2024-09-18 - Study Session(1)
+ERIK DAVIDSON: Start the recording. Good evening, everyone. This is Erik Davidson speaking, Chair of
+the RTD Board of Directors. It is Wednesday, September 8th, and our study session will now come to order.
+We are convened as of 5:32 PM Mountain Daylight Time. I would respectfully ask everyone attending this
+meeting to please mute yourself unless you are recognized to speak.
+Thank you for joining us this evening. The meeting recordings, along with the unofficial minutes of the
+meetings, will be posted as soon as practicable to the Board's website. During tonight's meeting, we are
+also providing communication access real-time translation also known as CART. Anyone who would like to
+access this service should send an email to the RTD Board Office at the email address rtd.boardoffice@rtddenver.com and a link will be provided.
+Additionally, the CART transcript can be automatically translated into Spanish for anyone who would like
+to access the live transcript of this meeting in Spanish. A live stream of this meeting is also available via
+the RTD's YouTube page. At this time, I will now call for the roll of the board. Treasurer Bouquet?
+JULIEN BOUQUET: Present.
+ERIK DAVIDSON: Director Broom?
+BOB BROOM: Present.
+ERIK DAVIDSON: Director Buzek is absent.
+VINCE BUZEK: Here.
+ERIK DAVIDSON: Oh, Director Buzek, I apologize. Director Buzek is here. First Vice Chair Catlin?
+PEGGY CATLIN: Here.
+ERIK DAVIDSON: Director Dishell? Director Dishell is an excused absence, but I believe he'll be joining us
+later. If the Board Office could help me note, please, when he arrives. Second Vice Chair Guissinger?
+LYNN GUISSINGER: Here.
+ERIK DAVIDSON: Secretary Guzman?
+MICHAEL GUZMAN: Present.
+ERIK DAVIDSON: Director Harwick?
+
+IAN HARWICK: Here.
+ERIK DAVIDSON: Director Lewis?
+JAIME LEWIS: Present.
+ERIK DAVIDSON: Director Rosenthal?
+PAUL ROSENTHAL: Present.
+ERIK DAVIDSON: Director Ruscha? Director Ruscha is absent. Director Sloan? Director Sloan is also
+absent. Director Tisdale?
+DOUG TISDALE: Present.
+ERIK DAVIDSON: Director Whitmore?
+TROY WHITMORE: Present.
+ERIK DAVIDSON: And this is Erik Davidson, I am present. I have 12 directors present and three absent.
+We have a quorum. Please note that the study session does not have a section for public comment this
+evening. However, anyone who would like to address the Board can still offer their comments in person, by
+email, or by participating during the regularly scheduled September Board Meeting, which will be held here
+in this room and via Zoom on Tuesday, September 24th at 5:30 PM.
+We'll now move to the discussion item this evening. There is one discussion item on the agenda, which will
+be followed by an external entity report. The discussion item on the agenda this evening is the ongoing
+Northwest Rail Peak Service Feasibility Study. Before I yield the floor to our General Manager and CEO to
+further introduce this item, I would like to set some board level background as to how we got here.
+On August 24, 2021, the RTD Board of Directors authorized the budget and contract authorities to execute
+the Northwest Rail Peak Service Feasibility Study. That evening, we shared with each other a variety of
+perspectives with respect to where we stand on the B Line, or as we refer to it, Northwest Rail, that would
+provide service ultimately between Denver Union Station and Longmont. Ultimately, the Board that evening
+decided to proceed with conducting the study that resulted in this evening's presentation.
+That evening, the Board rallied around a framing offered by General Manager and CEO Johnson at the
+time that we needed to develop a common set of facts before we could reasonably determine a path
+forward. Given that a peak service plan had previously been proposed as part of the Unfinished Corridors
+Report as a potentially lower cost starting point for providing service, but that no formal analysis had been
+
+done on the cost and ridership models, it was this plan that was decided deserved rigorous study in
+developing that common set of facts.
+That evening I personally offered two additional perspectives for consideration among the board members.
+One was that we needed to work with and not on behalf of the cities and stakeholders involved in this
+corridor. The other was that the then Southwest Chief and Front Range Passenger Rail Commission, now
+the Front Range Passenger Rail District, was beginning to explore its own project that may overlap with the
+Northwest Rail alignment.
+And while RTD may or may not be able to complete a Northwest Rail project on its own, it certainly needed
+to understand the current costs for the models it had considered so that it may share those findings with
+potential RTD partners. Notably, against that backdrop, that same evening, the Board also authorized the
+RTD General Manager and CEO Debra Johnson to enter into a cooperation memorandum of understanding
+between the Southwest Chief and Front Range Passenger Rail Commission, RTD, and the Colorado
+Department of Transportation.
+Tonight, we have reached the culmination of the efforts that resulted from the work that began in August
+2021. I'd like to thank our General Manager and CEO and especially our staff, who has worked diligently
+on developing this common set of facts. I'd like to thank our staff and all of our city partners and stakeholders
+who really leaned into this project to work together on owning these facts. And I'd like to thank our partner
+as part of that memorandum of understanding, the Front Range Passenger Rail District, for sending its
+general manager, Andy Karsian, here.
+And I understand we will later be joined by the Front Range Passenger Rail's Board Chair, Chris Nevitt, to
+listen in on the findings of this. So I thank everybody for working together on answering those perspectives
+that were called for in August 2021. With that being a backdrop as to how we got here, I will now yield the
+floor to General Manager and CEO Johnson to further introduce the item, provide additional context, begin
+the presentation in conjunction with staff. General Manager, the floor is yours.
+DEBRA JOHNSON: Yes, thank you very kindly, Mr. Chair. As introduced, I'm Debra Johnson, serving as
+the General Manager and Chief Executive Officer. Greetings to all that are assembled here as well as those
+that are virtually joining us. Thank you so much, Mr. Chair, for providing that context. I am just going to take
+it further back into time, recognizing that I want to acknowledge the Board's support.
+When I first assumed the responsibilities of leading this organization in November of 2020, quite naturally,
+I was bombarded with a myriad of questions about what are you going to do to finish FasTracks.
+Recognizing I did not know what I did not know, I engaged with a myriad of different stakeholders, with
+staff, with elected officials, many of you that are currently serving on the board and had conversations
+relative to why are we here.
+
+Recognizing that there was a lot of information that I needed, I conducted an information session, listening
+sessions, more or less, I should qualify those as. And it was clear to me that we did need a common set of
+facts. And I can remember vividly during Snowmageddon in 2021 in the early part of March, whereby I was
+literally in this office having virtual meetings with members of the Corridors Alignment and trying to
+understand what those pain points are.
+And I believe that was the genesis for me to come forward to all of you and suggest that we embark upon
+this feasibility study and ensure that we did it with intention and due diligence by involving those individuals
+along the Corridor, recognizing that we wanted to showcase a true level of partnership, that we weren't
+trying to play fast and loose, and that everybody had a stake in this endeavor going forward.
+And I think in reference to what you said, culminates in tonight, regarding the Peak Feasibility Study, and
+understanding where we are, that's foundational. And that really amplifies what you just stated, Mr. Chair,
+relative to working in tandem with the Front Range Passenger Rail District. And more specifically, as it
+relates to the correspondence that we sent to General Manager Karsian at Front Range Passenger Rail
+and Chair Nevitt explaining that we would share our information and do it with intention and purpose.
+So with that, I am proud to say that we have concluded the Peak Feasibility Study. Patrick Stanley, in
+addition to others, have done yeoman's work in reference to shepherding this along the way. He will do the
+bulk of the presentation, joined by Brenden Morgan, who is our Senior Manager of Debt and Investments.
+Because we could not basically have this discussion without understanding what might the estimated cost
+projections be and what would our path forward entail.
+Additionally, sitting at the table not to acknowledge Jyotsna Vishwakarma, who is serving as the Assistant
+General Manager of Capital Programs in an acting capacity. Patrick is on her team. And I want to ensure
+that they know that I appreciate the efforts put forward over the course of these past 18 months. And with
+that, I will yield the floor now to Mr. Stanley to commence with the presentation. Thank you very much for
+the opportunity to introduce this item and provide that context.
+PATRICK STANLEY: Can everybody hear me OK? Good. All right, thank you, Ms. Johnson. I appreciate
+the introduction. And thank you, Mr. Chair and Directors, for the opportunity to present our findings here
+tonight. My name is Patrick Stanley. I am the Manager of Engineering Programs at RTD and I serve as the
+Project Manager for the Northwest Rail Peak Service Study.
+Presenting with me today is Brenden Morgan, Senior Manager of Debt and Investments. And again, we'll
+just jump right into it here and get going. I guess I got to do this, right? So in today's presentation, we're
+going to provide you with an orientation of the Northwest Rail Peak Service Study, just some background,
+again, of what this is all about and what the intent was.
+
+I wanted to provide you a summary of the efforts that we've gone through with the BNSF Railway, also
+review the findings, a summary of the findings that we've discovered over the course of this endeavor, and
+also provide considerations for project funding and kind of a basic financial outlook as it pertains to the
+Northwest Rail, and then provide an overview of potential partnership opportunities on the corridor.
+So real quick, I'd like to start with a quick overview of the refresher about the Northwest Rail. The Northwest
+Rail was included in the FasTracks vote, which was approved by voters in 2004. In total, the rail line would
+include 45 miles that runs between Denver Union Station and Longmont. The first six miles, a little over the
+first six miles, which is known as the B Line, was completed in 2016 as part of the Eagle P3 project.
+The B Line actually operates on an overhead electrified segment of track, operates on an RTD control track.
+And then the remaining 39 miles from Westminster Station, which is where the B Line ends, would actually
+operate on existing BNSF tracks. This is a unique condition to RTD. We don't have any other rail corridors
+in our system that actually operate directly on freight tracks.
+So following the passage of FasTracks Program, we did an environmental evaluation that was completed
+in 2010. That environmental evaluation looked at a full service scenario. That full service scenario included
+55 round trips per day, full double tracking of the entire corridor, and 11 stations. But due to lack of funding
+at the time, we weren't able to implement the project. So as a continued effort in 2013, 2014, RTD conducted
+the Northwest Area Mobility Study or what's called NAMS.
+And NAMS looked at again, it was the full service concept, but it was looking at it by building out segments,
+kind of moving from the south up to the north, kind of a segment at a time as we move forward. After careful
+consideration, RTD, along with the northwest area stakeholders, determined that the Northwest Rail, while
+important, was a longer-term goal. And RTD agreed to continue investigation of the Northwest Rail and
+periodic updates.
+So in 2017 is when the concept of this initial peak service was proposed really by the Northwest area
+stakeholders. And from that time until 2021, really, RTD worked with the stakeholders to identify and refine
+the peak service concept. Also during that time, we re-engaged with the BNSF to start talking to them about
+the feasibility of potential peak service.
+So the study is assessing the feasibility of an initial peak period service, which consists of three weekday
+morning trips and three weekday evening trips. The morning trips coming in from Longmont to Denver and
+then the evening trips returning from Denver back to Longmont. We're partnering with local jurisdictions to
+plan six new stations along the extended 39-mile section of the corridor controlled by the BNSF.
+Additionally, we're looking at feasible locations for a maintenance facility up in Longmont. Because the
+vehicle fleet that we would get for this corridor is different from the existing commuter rail fleet that we
+currently have. The study is looking at obviously working with the BNSF since they own the track. It's pretty
+
+critical for us to understand what's required for us to operate on that corridor. We're also looking at potential
+train types and technologies that meet our operational requirements for the corridor.
+One thing I would like to note and I mentioned earlier, the overhead electrified segment of the B Line has
+the overhead catenary system that powers the trains. We cannot run that overhead catenary system on the
+BNSF freight. We have some clearance issues along the way. So that's the main reason why we're going
+to have to have a different fleet.
+We need a self-propelled vehicle in order to operate on the peak service on the BNSF section of the corridor.
+And then, of course, throughout the study, we've been engaging with potential partners and FRPR. It's been
+a great relationship. I appreciate Andy and his team working with us throughout this entire process.
+So as I mentioned earlier, there are six new stations along the extended portion of the corridor. These, from
+north to south, are Downtown Longmont, Boulder Junction at Depot Square, Downtown Louisville, Flatiron,
+Broomfield-116th, and Downtown Westminster. I would also like to note that there are four existing stops
+on the B Line right now. And the Northwest Rail would still serve those stations as well. So obviously Union
+Station being one of those, 41st and Fox, Pecos Junction, and the existing Westminster Station.
+As mentioned earlier by others, RTD is leading the study, but we're not doing this by ourselves. We're
+working through a collaborative effort along with our local transportation partners, BNSF Railway, CDOT,
+and the Front Range Passenger Rail District. The organizations that you see up on this slide right now form
+the Study Advisory Team or the SAT, as we call them. All through this process, this team has provided us
+with insight, guidance, and feedback throughout the process. Collectively, really, the goal is to provide a
+safe, reliable, and connected, multi-modal transportation network for the Northwest area.
+All right, so now I'll touch on what our conversations have been with the BNSF. So since the Northwest Rail
+Peak Service would run on BNSF tracks, it's important for us to understand the implications of running
+passenger rail on the freight track. In order for us to get a better handle on that, we actually contracted with
+the BNSF to provide 30% engineering plans.
+The 30% design set included improvements of railway, drainage, crossings, and structural components. It
+was also part of the BNSF scope to provide us with a cost estimate based on that 30% set of plans. RTD
+has received those preliminary plans and we have received the cost estimate for the infrastructure based
+on the 30% plan set.
+So in addition to the required infrastructure, working with the BNSF, RTD identified the major agreements
+needed to operate on the freight tracks. Some of these agreements are a one-time expenditure, as is the
+case for the BNSF provided infrastructure improvements. Those are anticipated to be built by BNSF, so we
+would have to have an agreement to basically pay them for those services. The access easement is also a
+one-time agreement, which is securing real property interests on the corridor.
+
+Other agreements are perpetual arrangements for maintenance of way costs or the cost of maintaining the
+track and dispatching. So I'd also like to note that there is a possibility that the BNSF could potentially be
+the train operators for the service. The train operators could be RTD, could be BNSF, or it could even
+potentially be another third party, as long as they meet safety requirements for the BNSF and the BNSF
+agrees that they meet those requirements.
+So now we'll touch a little bit, we'll get into the meat here that I'm sure everybody's looking forward to
+hearing. We'll go through the findings here for the next few slides of what we discovered. So during the
+study, the team has been working to identify the common set of facts, which was referenced a couple of
+times before I started speaking, to inform the board regarding peak service feasibility. And that's not a bad
+thing. I'm sorry. It's good that everybody is saying the same thing.
+The common set of facts include the BNSF requirements, really, to allow peak service commuter rail on the
+corridor. We also wanted to look at the operating specifications that really dictate how the service would
+actually run. What are the parameters around that operation? We need to find and discover what the
+required infrastructure is needed in order to stand up the service-- track work, stations, et cetera. We also
+put together some ridership projections and capital and operating cost estimates. So in the next few slides,
+I'm going to break down each one of those categories in a little bit more detail.
+So when we refer to the BNSF requirements, there are several agreements that would be required between
+RTD and the BNSF to operate passenger service on the corridor. I've mentioned a couple of these earlier,
+but the first one is the infrastructure improvements identified in the BNSF design. That would require onetime agreement between RTD and the BNSF to do the design and construction of those improvements.
+These track improvements would include rail improvements for station, freight sidings, along with speedrelated improvements to meet the desired travel times on the corridor. Rail signaling, rail communications
+would also need to be upgraded on the corridor. This includes positive train control, or PTC, which is a
+federally required safety system for commuter rail.
+PTC systems are designed really to do things such as prevent collisions, derailments, incursions of trains
+in work zones, et cetera. It's really all about safety on the corridor. Structures such as bridges and walls
+and drainage improvements are also required. And I would just like to make a note that the BNSF-specific
+requirements are really for BNSF track work. It doesn't include things that are kind outside of the right of
+way or outside of the track work.
+The access easement is a one-time capital cost for a real property acquisition. The easement would secure
+operating time blocks is the concept, for RTD to operate unimpeded by freight trains during those peak
+period windows. This is estimated based on a percentage of the trackway and a percentage of the time of
+day for those time blocks that we would operate.
+
+RTD would also be required to pay a percentage of the track maintenance costs. This would reflect an
+agreed to allocation of train miles and weight to apportion the share of maintenance between RTD and the
+BNSF. Sometimes you'll hear it referred to as a gross ton mileage calculation. The track maintenance or
+maintenance of way is an ongoing annual operating cost to RTD. Similar to the maintenance of way, a
+proportionate amount of train dispatching and passenger train operations management would also be part
+of those ongoing costs.
+So touching on the next category, the operating specifications, these would include basic service
+parameters associated with the peak period concept. As I mentioned earlier in the presentation, the peak
+service would consist of six total trains a day, three in the weekday morning peak period and three in the
+weekday evening peak period. RTD early in the project contracted with a consultant to do an initial modeling
+to identify an achievable, realistic travel time to go from DUS to Longmont. And as a result of that study,
+RTD provided to the BNSF, a 65-minute plus or minus two-minute criteria.
+And we wanted to give that to the BNSF so that when they did their design, we would know all the
+infrastructure required in order to hit that goal. One main premise of the study was to avoid conflicts,
+obviously between freight trains and passenger trains. So in order to achieve this, RTD would secure these
+operational time blocks when passenger trains would have priority.
+And during that time, the freight trains would either be outside of the corridor limits or they would actually
+be staged on siding tracks. For those that maybe are not familiar with siding tracks, they're basically a
+parallel set of tracks where the BNSF train can pull over and stop during that peak period window and
+resume once we are finished running our passenger rail service for that peak period window.
+Dispatching of trains on the corridor is unique. The B Line, as many of you know, is operated by Denver
+Transit Operators, our RTD concessionaire. So DTO would control the dispatching through their segment
+of the corridor. The remaining set of the corridor is obviously operated by BNSF. And they would control
+the dispatching for their segment of the corridor.
+So it's anticipated that there would be a handoff at the existing Westminster Station of one train dispatching.
+Control would be passed over to the other organizations dispatching control at the Westminster Station. A
+similar handoff is also anticipated for the positive train control system. Because the BNSF positive train
+control system is different than the DTO train control system.
+So the infrastructure needed for the project, these are really the component pieces that would be built in
+order to support peak service operations. These include the station platforms and the associated siding
+tracks and the park and ride facilities, among others. RTD does recommend level boarding at stations to
+provide equitable service and meet accessibility requirements. But due to the clearance requirements on
+
+freight tracks, station siding tracks are needed to accommodate a high platform like we have in our current
+existing commuter rail system.
+The current commuter rail system we have right now has the high platforms that are 50.5 inches above top
+of rail. That height of platform would come into the freight clearance envelope on a freight train. So in order
+to provide that level boarding, we actually have to provide a dedicated track at the stations in order for us
+to do our level boarding.
+Additionally, in order to allow the freight trains to stage while the peak service trains are operating in that
+time block, the BNSF has identified the need for siding tracks. This allows them to pull their trains over
+while we're operating, as I described earlier. There are three freight sidings total for the corridor. They total
+about 8.2 miles in total length. Siding number one is located between Old Wadsworth and US 36 in
+Westminster area. And it's approximately 1.8 miles in length.
+Siding number two, which runs between Baseline Road and 55th Street in Boulder, is approximately 4.8
+miles long. But it is sufficient in length to allow the staging of two freight trains. The original BNSF request
+was actually for four sidings, so we basically just combined two of them. And the third siding is between
+North 55th Street and North 63rd Street. And it's approximately 1.5 miles in length.
+The biggest concern that we had when we were looking at the siding track locations really was, how do we
+minimize the impact to the communities? And one of the most challenging portions of that was, if you think
+about a freight train staging on one of these sidings, a train is stopped on the siding. And so obviously, we
+don't want to block roadways, was one of the biggest pieces. So we had to try to figure out places where
+we could make that happen.
+So after the morning peak period runs, the trains will need to be stored somewhere while they're awaiting
+their return trips in the evening, so the midday storage facility. So this study identified that the preferred
+location for the midday storage of the trains was actually in Westminster. And the concept of that is that in
+the morning when the Longmont train comes in, we would actually be at the Westminster Station and depart
+at the same time that the B Line currently does now.
+So we would take over that run from DTO from Westminster into DUS. And then we would turn that train
+back around and we would fulfill the return trip from DUS to Westminster that DUS is currently running now
+as well. And then we would stage the trains in Westminster. And then in the evening, that motion would
+reverse and we would go back the other direction. But in order to stage those trains, we do need to do
+some track improvements, probably build a small building for crew check-in and some light maintenance
+and cleaning activities on the rail.
+Other requirements associated with the track work include the drainage improvements and capacity
+upgrades. There's a lot of drainage in the area that's been there for a really long time and it hasn't been
+
+upgraded in quite some time and would affect the reliability of the service. Bridges and wall structures,
+crossing upgrades such as medians, crossing gates, pedestrian treatments, and then train signaling and
+PTC, as we discussed earlier in the BNSF requirements.
+I would like to note that the PUC, the Colorado Public Utilities Commission, actually regulates crossings in
+the state of Colorado. And if this were to move forward for any crossing, there would be a diagnostics in
+the field with the PUC to identify what is needed in those particular crossings. And finally, as I mentioned
+earlier, the fleet type would be different from the current RTD commuter rail fleet. And that would require a
+maintenance facility near the end of the line up in Longmont.
+The projected ridership for the peak period service is 1,100 daily boardings in the year 2030. RTD calculated
+the ridership demand based upon the 2019 Denver Regional Council of Governments, or DRCOG, This is
+the travel demand model. This is the latest current accepted travel demand model. It should be noted that
+the post-pandemic travel patterns have shifted. And DRCOG is currently in the process of updating that
+travel demand model.
+On the vehicles, while the city is not identifying a specific fleet to utilize for the service, we did need to put
+something in that was a basis for our cost estimate. So we selected a vehicle that we know meets all the
+criteria. The consists can meet-- a consist being, for those that don't know, the collection of all the cars on
+the train. It's kind of the entire train length is referred to as a consist.
+So we selected a consist that can meet specific requirements for the corridor for boarding height, that meets
+Buy America requirements, is self-powered. And we selected one that we believe would be compatible
+potentially with the intercity rail service. The proposed train that we are proposing, the basis of our cost
+estimate is a locomotive hauled coach train consist. It would be made up of one locomotive unit, one coach
+car, which is for passengers only, and one cab car, which is mostly for passengers.
+But there is a control cab for an operator on that train. So that control cab allows bi-directional movement
+of the train so that the locomotive can be in a push or pull configuration. But you do have to have an operator
+at the front of the train so you can see what's out ahead of you there. So our recommendation for the team
+is five total trainsets of this configuration. This would include the three trainsets that would run on the three
+peak trips as well as one that is on standby in case there's an issue and one that's potentially being repaired.
+All right, the total estimated capital cost for peak service is $650 million. And that is in 2024 dollars. So if
+the peak service were to move forward, the number would need to be escalated depending upon the year
+of implementation. I would note that the BNSF access easement estimate is included in the capital costs.
+Our original intent from the BNSF was to get that number from the BNSF.
+But ultimately, what ended up happening is they couldn't give us that number because they weren't sure
+about the total traffic of passenger trains on the corridor. They were hearing a lot of conversations about
+
+intercity rail and RTD, et cetera. So our team actually estimated it based on a similar project, which is a
+peak service project, peak service alignment in the Minneapolis Metropolitan area. It's called Northstar. And
+that is a peak service operation of commuter rail on the BNSF tracks.
+And we did confirm with the BNSF that was a realistic model to potentially use for the RTD peak service.
+But unfortunately, we weren't able to secure that number directly from the BNSF. As I mentioned earlier,
+the capital costs, it includes stations, accessibility features, all the vertical circulation, high-level platforms,
+track improvements, including the sidings, structures, trains, and the maintenance facility.
+So this pie chart that you see on the screen now provides an approximate breakdown of the capital costs.
+A little bit less than half of the cost is for the station's track work and associated infrastructure and crossings,
+the civil work. Vehicles make up the next largest segment, with approximately 140 million or approximately
+22% of the total cost. And then the design costs and the rail maintenance facility round out the rest of the
+costs at $100 million and $90 million respectively.
+The estimated annual operating cost for peak service is 12 to 16 million. This is estimated utilizing the
+National Transit Database, which records the financial data of American transit systems across the country.
+It's an FTA document. And it collects operational data and cost data, et cetera, with a goal to support local,
+state, and regional planning efforts, just like ours here, with planning.
+Included in the estimate for operating costs are the train maintenance, which would be an RTD cost, we're
+assuming in this study; station maintenance, which would also be an RTD cost; train control and dispatch,
+which as I mentioned earlier, would be a proportionate share between BNSF and RTD. Track maintenance
+would also be a proportionate share between BNSF and RTD. And then train operators, which could be
+RTD, BNSF, or a qualified third party, as I discussed earlier.
+So before I turn it over to my colleague Brenden, I would like to note a few things on grants. I just wanted
+to note that discretionary grant opportunities for the peak service are very limited. Due to the ridership cost
+ratio, really, the project would fall below the threshold for capital investment grant funding. These are things
+like your new starts and fast starts type grants, which are designed to cover a majority or a large portion of
+a project.
+The bipartisan infrastructure law, or the BIL, includes funding for rail programs, but contains more funding
+for intercity rail than it does for commuter rail. And we'd like to note that the funding available for the BIL is
+actually rapidly depleting at this point. It's starting to be awarded out to systems across the country.
+Consolidated Rail Infrastructure and Safety Improvements grants, which are CRISI grants, they're
+administrated by the FRA towards the improvements of safety, efficiency, and reliability of intercity
+passenger rail and freight rail.
+
+And commuter rail priorities are not eligible for direct funding under CRISI grants. There is no existing
+specific US Department of Transportation program that is focused on commuter rail infrastructure and
+rolling stock. So with that, I would like to turn it over to my colleague Brenden, who will give you an overview
+of funding considerations and RTD financial outlook.
+BRENDEN MORGAN: All right. Thank you, Patrick. Good evening. I'm Brenden Morgan, Senior Manager
+of Debt and Investment Management here at RTD. And as Patrick mentioned, I'm going to talk a little bit
+about some financing considerations in relation to this potential service.
+I think a good place to start is taking a quick look at our 2025 through 2029 five year financial forecast, or
+FYFF, as we refer to it. The good news is that the FYFF shows available funding for current levels of
+operations and maintenance, as well as state of good repair efforts through 2029. It also expects that fund
+balances will continue to meet requirements set forth by the RTD fiscal policy.
+So this is a good starting point. However, it also shows that above and beyond current service levels and
+current expected needs for maintenance and state of good repair, there's really no additional funding
+available for major new capital or operations expansion. So with that being said, we took a look at what
+other potential opportunities might we have thinking about potentially a new debt issuance for capital and
+what would that look like. We'll talk about that a little bit more on the next slide.
+But I think the place we have to start is realizing that we'll need to find some committed ongoing funding
+from the state or some source to pay for the debt service and the ongoing operations and maintenance that
+Patrick was discussing. And this is again because the five year financial forecast simply does not have
+extra free cash flow to afford principal interest payments for a capital borrowing of $650 million, plus the
+O&M costs of 12 to 16 million annually that Patrick discussed. So we'll keep working through this a little bit.
+Next slide, looking at capital costs and considerations around capital costs. So historically, RTD has been
+done very well in the bond market when we've sold sales tax revenue bonds. That's always been our lowest
+cost of capital. We can only do that when we have voter authorization to do so.
+The voter authorization that was granted to RTD through T-REX and FasTracks has all been issued at this
+point. All of that debt that was authorized has been issued at this point. So we can no longer issue sales
+tax revenue bonds. So we move down the credit scale and go to our next highest, next most expensive, or
+the next least cheap borrowing that we can do.
+And that would be Certificates of Participation. Certificates of Participation are essentially leases that get
+securitized, turned into a financial security, and then traded on the bond market just like any other municipal
+bond. The downside is they have a slightly higher expense, interest expense to RTD than, say, the sales
+tax revenue bonds would. But it's not the end of the world.
+
+We do use these. Historically, we've used them anyway to purchase things like fleet refreshments when
+our bus fleet needs to be renewed. Or if we need to buy more rail cars, we will use these Certificates of
+Participation. We also used them back in 2014 to fund a major portion of the North Metro rail corridor. We
+do think this is a viable tool to borrow up to $650 million. However, the question still remains, how do you
+afford to repay that debt? That's really still the hang up here.
+The viability of this, while we think this is viable, we would certainly involve our bond counsel for further
+discussions to help us put together a detailed plan of finance. If we were to head in this direction, we would
+involve underwriters to help us sell the bonds. We'd work with our financial advisor, et cetera. So we think
+we have a viable way to raise the money. However, just to highlight the fact one more time, repayment of
+the debt is really the question at issue here.
+So the final bullet on this slide here, the final two are looking at, what would it look like if we borrowed $650
+million through the issuance of Certificates of Participation? So if we did that and assumed a 30-year
+repayment period, the annual principal and interest payments would be in the neighborhood of $40 million
+annually.
+So that's the annual cash flow that we would need to find to repay a debt like this. To put the size of that
+financing in perspective, RTD currently has approximately $370 million worth of Certificates of Participation
+outstanding. So this would be an additional 650 on top of that 370. So I think it's reasonable to expect that
+our credit ratings would be under pressure.
+We may end up with one or two or more credit rating downgrades for these hypothetical Certificates of
+Participation. And that just means that the interest rate we pay gets incrementally higher each time we get
+a downgrade. That would impact the financing for this potential service as well as any financing we might
+need to do with Certificates of Participation in the near future to refresh our fleet, et cetera.
+So moving on to considerations about O&M costs, operations and maintenance costs. Patrick mentioned
+the $12 to $16 million range for the annual operating cost for this potential service. Again, unfortunately that
+is not included in the five year financial forecast. So that's another $12 to $16 million annually that we would
+need to solve for that would have to come from somewhere like a reduction in service somewhere else in
+the RTD system or some new revenue source that does not exist today.
+Another consideration a little further out but worth mentioning and worth thinking through is the future asset
+renewals and replacements. These major infrastructure projects that we have require all the things we've
+discussed tonight, including the maintenance of these assets. But eventually those assets do wear out.
+Bridges need to be torn down and rebuilt. So there are future expenses just to at least have in the back of
+your mind that there are some major costs that would be incurred in the future.
+
+And lastly, we looked at this through an interesting lens of cost per rider. We used as a base case RTD's
+2023 light rail and commuter rail combined cost, what does it cost us per rider for anybody that rides an
+RTD rail. And that price is approximately $7.86 per rider. Comparing that cost to these O&M costs that
+we're looking at today, that cost is approximately $42 to $57 per rider. So very different looking when you
+look through a cost per rider lens. And with that, I'm going to hand it back to Patrick.
+PATRICK STANLEY: Thank you, Brenden. Let's see, next, OK. I'd like to touch real quick on some of the
+passenger rail opportunities that have been kicked around in the area. And as I'm sure many of you are
+aware, the Front Range Passenger Rail District is currently studying the potential to bring intercity rail
+service to the Front Range between Pueblo and Fort Collins. Front Range Passenger Rail District has
+determined that the intercity rail would operate on the same alignment as the Northwest Rail between DUS
+and Longmont.
+One thing I would like to note is the presence of the intercity rail in the conversation is unique to where we
+are right now. This is not something that's been in the conversation in all the previous Northwest Rail
+studies. And an opportunity exists now that was not present before to look at a broader rail service to the
+Northwest area. Just a little bit about commuter rail in general, and the difference may be between
+commuter rail and intercity.
+Commuter rail serves one metropolitan area and connects to an urban core, while intercity rail really
+connects cities within a state. Station distances for intercity rail are generally much further apart than
+commuter rail. Intercity rail tends to operate at slightly higher speeds and will run for longer distances. The
+RTD and Front Range Passenger Rail efforts, they're separate studies with different purposes.
+And while neither study was established to specifically look at joint service opportunities and configurations,
+the information that we discovered between our study and the Front Range Passenger Rail District study
+provide foundational insight towards a joint operations conversation. Throughout the process, we have
+been mindful to make sure how we plan out the peak service does not preclude a potential joint operations
+or separate services on the corridor.
+Recent legislation, specifically SB24-184, supports the development of transit and rail by facilitating
+agreements among state agencies towards the realization of rail service in the Northwest Rail, or really
+more specifically, the northern section of intercity rail between Denver Union Station and Fort Collins. You
+will hear more about the specifics of SB24-184 following our presentation here tonight.
+So to sum everything up here a little bit, the Peak Service Feasibility Study was really designed to provide
+that common set of facts for implementation of the peak operations for RTD if we're on our own. It was
+really focused on RTD delivering the peak period service. The estimated capital costs are more than what
+
+RTD currently has in the FISA. And discretionary federal grant funding opportunities are limited for the
+corridor.
+The introduction of intercity rail to the Northwest Rail equation provides the possibility of delivering a joint
+operation solution on the corridor. Working collaboratively towards a larger rail service would likely result in
+cost sharing arrangements and operational efficiencies. And with much of the discretionary grant funding
+allocated towards intercity rail over commuter rail, a cooperative agreement between parties could increase
+the chances of securing grant funding based upon the issuances of notice of funding opportunities, or
+NOFOs.
+So with that, I would like to thank everybody's time here tonight. I would like to extend a special thanks to
+the board members who have supported us during this whole process, particularly those that have helped
+us out with community engagement over the last couple of years. We'd like to also, as we did earlier, give
+a shout-out to our SAT, our Study Advisory Team. They've committed a lot of time to this and put a lot of
+effort into it as well, as well as our HDR consulting partners and our internal stakeholders for this. So with
+that, I would like to open up to any questions that you all may have.
+ERIK DAVIDSON: Thank you very much for the presentation, Mr. Stanley, Mr. Morgan. General Manager
+CEO Johnson, is there anything further you'd like to add before I open up for discussion and questions from
+Directors?
+DEBRA JOHNSON: Yes, thank you very much, Mr. Chair. And thank you to the team for that presentation,
+basically laying out the common set of facts. As we proceed, I would say recognizing that there is
+opportunities for joint service. The intent here was to lay the foundational aspects going forward. And we
+are happy to field questions, recognizing that we are in a process or a place, I should say, where we are
+deducing what might be most practical, practicable, and probable. So, thank you.
+ERIK DAVIDSON: Thank you, General Manager and CEO. Once again, thank you for the presentation and
+for all who are involved in this. I'll open up the floor for discussion and most importantly, questions to get to
+our common set of facts from directors. We're obviously taking no action this evening.
+It's a pretty large report that we're all digesting here. But this is our opportunity to ask questions to make
+sure that we do have that common set of facts understood. So with that being said, I'll start calling on
+directors in the order that I see the hands go up, both in person and online, starting with Director Broom,
+please.
+BOB BROOM: Thank you, Chair. Does the operating costs of 12 to 16 million, is that net of fare revenue?
+PATRICK STANLEY: There we go. Sorry about that. It does not include the fare revenue.
+
+BOB BROOM: It what?
+PATRICK STANLEY: It does not include the fare revenue. It is just the straight operations costs. So fare
+revenue would-BOB BROOM: What is some comparable fares that you might see for service similar to this in other
+metropolitan areas?
+ERIK DAVIDSON: I see General Manager CEO.
+DEBRA JOHNSON: Yes, thank you very kindly. For further context, I do want to provide, as it relates to
+your question, Director Broom, where we talk about $12 to $16 million for operating costs, I'd be remiss not
+to state that we're not talking about rail insurance premiums. You've heard us have conversations relative
+to that where we have to go to Bermuda outside of the US.
+Because that's critically important as we talk about service delivery and utilizing PTC to minimize various
+aspects of incidents that could be catastrophic. So I did want to qualify that because that wasn't touched
+upon. And relative to the question about fares, it's contingent upon a myriad of different factors, as we talk
+about what a commuter fare could be. It could be based on distance. But that would be up to us to discern
+what the fare structure would be, very analogous to how we determine our current fare structure going
+forward.
+ERIK DAVIDSON: Director.
+BOB BROOM: [INAUDIBLE]
+ERIK DAVIDSON: Please go ahead.
+BOB BROOM: There's a projection of ridership. And if you divide that ridership into the operating costs, you
+could come up with a fare. And all I was trying to do is get a feel for how does that figure compare with
+other services, primarily back east.
+DEBRA JOHNSON: Thank you very kindly. If I may, I understand your question. You're asking what the
+fare recovery ratio would be as it relates to operating costs. So I'll yield the floor to Mr. Morgan. I interpreted
+your question differently.
+ERIK DAVIDSON: Mr. Morgan?
+BRENDEN MORGAN: Yes, thank you. Good question, Director Broom. So I don't know the exact number
+for this potential service. However, if we were to look at RTD across our entire system and look at what our
+farebox recovery ratio is today, I believe that percentage is right around 5% of our O&M costs are being
+
+recovered by our fare revenue today. So it may or may not be exactly that same range, but I think that
+would be a good starting point, at least, to think about without that calculation in hand.
+BOB BROOM: Thank you.
+ERIK DAVIDSON: Thank you, Director. Thank you, Mr. Morgan. I see a hand online came up next. Director
+Buzek, please.
+VINCE BUZEK: Thank you, Mr. Chair and Mr. Stanley and team. Thanks so much for all your hard work on
+this. I've always thought that the feasibility of this service is going to live and die on the ridership projections.
+And 1,100 riders a day is pretty low. And that is based on a 2019 pre-COVID model from DRCOG.
+And as we all know, since COVID, our services have been used much less frequently and people just aren't
+traveling downtown to go to work as they used to. So that's very interesting. Question about the access
+easement. So if we were to, let's just say perfect world, we find a pot of gold, we are going to build this line.
+We get the access easement from Burlington Northern.
+And that's going to dedicate blocks of time for this peak service plan. And let's say, five years down the
+road, things are going incredibly well. We now have, I don't know, 1,200 daily boardings, and we want to
+increase the service. Can't Burlington Northern just say no at some point in the future, we can't give you
+any more capacity, you're stuck with this service forever?
+PATRICK STANLEY: Mr. Chair, if I may.
+ERIK DAVIDSON: Mr. Stanley, please go ahead.
+PATRICK STANLEY: I do believe that that is a potential. Any agreement, I think, outside the initial
+agreement could require probably a renegotiation with the BNSF. The three-hour time window that we were
+looking at, just for everybody's information, actually provides a pretty good safe buffer time for the amount
+of time that we actually need to operate down the corridor. And we do believe that the time buffer itself or
+the time window itself is sufficient to probably provide some expansion of service.
+Depending on what size window we get, we may not have to renegotiate that portion of an agreement.
+However, the more service you add on the corridor, you will have to incur additional operational costs and
+potentially additional infrastructure costs. Because if you did a reverse commute, as an example right now,
+the entire corridor is single tracked, with the exception of the sidings that we're putting in.
+Those are for freight staging. They're not meant to help out with any kind of passing along the corridor. So
+if you had a reverse commute, we may have to build an additional siding somewhere so that we could
+
+bypass trains. So it kind of depends a little bit on, I think, and we might be able to do a little bit within the
+time window that we negotiate to allow for a little bit of flexibility in there.
+But our agreement, in the way we set up the agreements, we could try to be a little bit strategic in how we
+do that to allow for some maybe relatively small expansion items here and there. But if it's a significant
+change, I think we'll have to renegotiate with the BNSF. And that possibility that capacity is not there could
+be a reality. Maybe not likely, but it could be.
+VINCE BUZEK: Thanks for that. That's all I have, Mr. Chair. Thank you.
+PATRICK STANLEY: Sure.
+ERIK DAVIDSON: Thank you, Director. Thank you, Mr. Stanley. Director-[AUDIO OUT]
+
+BOBBY DISHELL: Anyone else on Zoom lose?
+JULIEN BOUQUET: Yeah, I just lost it.
+MIKE SMITH: Yes, I'm contacting you now.
+BOBBY DISHELL: Thank you.
+PAUL ROSENTHAL: Sorry, why is it not going both directions? You did mention that we do share the tracks
+for much of the way with BNSF traffic. And so is there a way to time some of these, at least a few of the
+routes that we can still have southbound-northbound, which also, by the way, might cut down on the number
+of trains we need to buy because the train is going to go back and forth.
+PATRICK STANLEY: Mr. Chair?
+ERIK DAVIDSON: Mr. Stanley, please.
+PATRICK STANLEY: Yeah, that's a very excellent question. And one of the things that we did hear from
+our public engagement was exactly the question about the service itself and the limited availability of single
+direction running. And so if you look at our Milestone 4 Report-- you probably haven't had a chance to read
+it because I know it's a mountain of documents that came over-- we do look at, like I mentioned a second
+ago, the potential for doing maybe up to two reverse commutes in that time window.
+
+Again, there would be an infrastructure cost and some increased maintenance and operations costs
+associated with that. But it could, and I think that could also probably increase the ridership a little bit as
+well in order to do that. Yeah, so the reason we did that Milestone 4 Report is we wanted to address what
+we did hear from the community about that potential for, hey, it would be helpful if we could go the other
+direction.
+So there is a possibility. We do think it could be done. I think we identified that we would probably need an
+additional siding somewhere in the vicinity of Broomfield in order to have that bypass. Does that answer
+your question?
+PAUL ROSENTHAL: It does, thank you. And to follow up on director Buzek's question about the average
+number of passengers per day, my question has always been and my question is about the Flatiron Flyer,
+whether that would actually, this potential service would take passengers away from the Flatiron Flyer to
+where now we're going to have less passengers on the Flatiron Flyer and now people will take the train.
+And did you look at that potential concern?
+ERIK DAVIDSON: Mr. Stanley?
+PATRICK STANLEY: Thank you. Yeah, we really looked at, what we thought about when we were doing
+the study is that it serves a little bit different functions, we think, the peak service. It's really from end to end.
+It goes at a broader area than what the Flatiron Flyer does. But we've kind of looked at them really as
+complimentary-type services that did expand your options and your flexibility so that maybe you take the
+train in the morning, but the return trip doesn't work out well for you in the evening.
+So maybe you take the Flatiron Flyer back as an example. You could say that there's probably a similar
+concern potentially on the State Highway 119 project as well. But we have looked at it, I think, more as
+providing additional mobility options, really to enhance people's potential to move around the region.
+PAUL ROSENTHAL: And potentially how fast or how long would it take to go from Denver to Longmont on
+the potential commuter rail versus the Flatiron Flyer?
+PATRICK STANLEY: Well, the Flatiron Flyer doesn't go to Longmont, so we couldn't do that full calculation.
+I'll tell you that it's 65 minutes for the Front Range Passenger Rail plus or minus a couple. I'm sorry, not
+Front Range Passenger Rail. Sorry, Andy, I plugged you there wrong.
+[LAUGHTER]
+Northwest Rail, 65 minutes is what we think we can do. I don't recall exactly. I can get that information for
+you on what the travel time would be from Longmont. It depends on which bus service you potentially run.
+But it is fairly competitive. In some locations, the rail is faster. In some locations, it's not quite as fast.
+
+I think if you look at Louisville is an example, which is off of the US 36 corridor. It does take longer to get
+from Louisville into downtown just because you're not able to just jump right on the Flatiron Flyer and head
+right in downtown. So if you're interested, we can find those numbers for you.
+PAUL ROSENTHAL: Thanks. And then my final question is for that PTC handoff system, has that been
+done in either RTD or somewhere around the country where that's been done, so now there's a model that
+we can look at, and how complex? I guess I'm looking for is that yet another opportunity for a hiccup or a
+breakdown of some sort between the two systems?
+DEBRA JOHNSON: Mr. Chair, if I may, with that question, I would say that Dave Jensen is better suited to
+address that, as he's over operations relative to the question that's being posed about operability. Thank
+you.
+ERIK DAVIDSON: AGM Jensen, thank you for joining us. The floor is yours.
+DAVE JENSEN: So good evening, I am Dave Jensen, Assistant General Manager of Rail Operations. And
+this seat is warmer than the other ones.
+[LAUGHTER]
+What you're asking is done-SPEAKER: Put him on the hot seat.
+[LAUGHTER]
+DAVE JENSEN: What you're asking is done in other parts of the country. And it does create quite a complex
+issue. I would say that the PTC complexity just the way we're doing it now is challenging. And then to add
+another element alongside that would create a challenge for us. It's not insurmountable. And it can be done,
+it is being done again. But it wouldn't be easy.
+ERIK DAVIDSON: Thank you, Director.
+DEBRA JOHNSON: And then if I may further to the point, I'd be remiss not to state that there is only one
+active supplier of Positive Train Control in the United States.
+ERIK DAVIDSON: Thank you, Ms. Johnson. Director Harwick, please.
+IAN HARWICK: Thank you, and thank you all for the work that you did. I have a few questions. So now that
+we've done this and there's been some conversations about increasing service. And then we need another
+to double track or potentially triple track, depending on where it's at.
+
+How easy is it to make updates to this? This took two years to look at this plan. It took two years to get us
+here. If we need to look at other things, how complicated is that? And is this all back to the drawing board
+again for another two years?
+DEBRA JOHNSON: So, Mr. Chair, if I may?
+ERIK DAVIDSON: Please go ahead.
+DEBRA JOHNSON: Thank you. I think the critical factor here is what Mr. Stanley introduced early on,
+recognizing that we have been at a standstill relative to the ability to acquire data due to the fact that we
+are in COVID. And when you do modeling you need to ensure that it's going to be viable and can project
+accordingly. So with that as a backdrop as we go forward, to update it, I think it would be in our best interest
+to do so utilizing what is a common playing field now with a myriad of different factors.
+People are still utilizing public transport, but in different ways to access activity centers. We do know that
+oftentimes with the introduction of different work models, i.e. remote work, hybrid work and things of the
+like, that could be indicators. So relative to that, I believe, if I were putting forward my recommendation and
+my professional opinion, I would say yes, it would be something that would be quite necessary to do.
+And the aspect of how difficult that would be, we'd have to get the band back together. We'd have to engage
+with Burlington North for them to give us different information, quite naturally, because things change. And
+then more specifically, as it relates to different technologies and things of the like, there could be regulations
+that come into play from the Federal Railroad Administration because that is constant when you look at
+regulatory entities. So I wanted to provide that context. But Mr. Stanley, please add any other context you
+see fit. Thanks.
+PATRICK STANLEY: Sure, Mr. Chair?
+ERIK DAVIDSON: Please go ahead.
+PATRICK STANLEY: Yeah, thank you for that. I would say my answer would probably be, it depends a little
+bit on what we're talking about actually modifying. One thing I would say that's interesting about the peak
+service has a very specific way that we're proposing to deal with the BNSF, securing the time window. And
+depending on what the operations is, if we're talking about round trips that are sprinkled throughout the
+day, that's a totally different arrangement with the BNSF than what our concept is.
+And so it depends a little bit on what we're talking about just a little bit. And I will say just for context, the
+30% engineering plans and cost estimates from the BNSF took about a year to get that from them. So I
+used to make a joke. It's kind of like water skiing behind the Nimitz. You fall down, it's going to take a long
+time for that boat to come back around.
+
+They're not necessarily a fast moving organization. And obviously, we have our challenges, I think,
+sometimes with that as well. If it's updates like Ms. Johnson is talking about for ridership, that's probably
+relatively easy. But if we're looking at wholesale concept changes to the actual operating, that's kind of a
+different animal.
+ERIK DAVIDSON: Thank you. Director Harwick, just a request. I noticed some things got a little out of sync
+with the order here. Would you mind if we yield to Director Dishell, who's traveling and has a moment to
+ask his question? Thank you. I'll come right back to you, Director. Director Dishell, thank you for joining us.
+Please go ahead.
+BOBBY DISHELL: Yeah, thank you, Director Davidson and Director Harwick as well. A question just on the
+calculation on the numbers. Cost overruns are not atypical in public or private major capital projects like
+this one. And projections somewhat publicly for RTD have been off on FasTracks projects, which is part of
+why we're all here today. And so how should we be, as a board who has a fiduciary duty in evaluating this,
+how should we be viewing that $650 million number?
+What are typical public project cost overruns? Generally specific to transit, as we're calculating, the number
+you gave us, which I know is based on, look, we really think this is what it's going to be, but also recognizing
+the reality that cost overruns happen all the time. And we, as a board, should probably be prepared for how
+we evaluate that when looking at this cost. Thanks.
+ERIK DAVIDSON: Ms. Johnson, please go ahead.
+DEBRA JOHNSON: Yes, thank you very much. I'll start and then I'll yield the floor. Just for context, having
+been involved in a conversation at the national level about a myriad of different projects that have been
+impacted by several reasons. We're talking about the availability of trades. We're talking about supply chain.
+And we're just talking about not having adequate-- when I say adequate in the sense of having appropriate
+numbers of entities that can bid on projects because of the nature of the competitiveness. And with that as
+a backdrop going forward, I do know firsthand of some significant projects across the country, i.e. as it
+relates to the Trans-Hudson and a new Amtrak tunnel that was being put forward.
+There were cost overruns year to year. It was like cost increases. I wouldn't say necessarily overruns. It
+has run the gamut between 30% and 55%. And that was information that was provided to the Federal
+Highway Administration. And Mr. Chair, you may recall that I provided you with some of that information
+that was done by a former administrator with USDOT that's working in a consulting capacity.
+So it's hard to speculate as we go forward. It's contingent upon if there's entities readily available to work.
+But then again, as we talk about the $650 million, that is a cost estimate Mr. Stanley put forward. We did
+get 30% cost as it relates to what we needed from the BNSF. But we did not get all the information. Hence,
+
+he made reference to using costs in the Greater Minneapolis St. Paul area so we could go forward with
+this, as we had been holding in a pattern waiting to get that data from BNSF.
+So we weren't able to retrieve that. And then more specifically, as I did indicate, that those numbers don't
+include the necessary requirements relative to commuter rail insurance and things of the like that we incur
+on an annual basis that could be exorbitant in the sense that it alters each and every year where we get
+direction relative to the amount of insurance that we need. So that was a long winded way of saying $650
+million is a projection going forward. So with anything, there could be pluses and minuses. But with that,
+Mr. Stanley, I'll yield the floor to you.
+PATRICK STANLEY: Thank you, Mr Chair. One thing I'll say that hopefully will help you a little bit here.
+This is not what we consider the perfect scenario, the number that we threw up-- not threw up, but put
+together. Sorry.
+We could estimate this thing, assuming that nothing happens, nothing goes wrong. That number is lower
+than what we provided for the 650. The 650 is also not the scenario that covers any potential unforeseen
+circumstance that comes up. It's somewhere in the middle. So it includes some level of unexpected in that
+estimate. It's kind of in a middle ground.
+Like I said, it's not a perfect scenario, the Goldilocks where everything goes just according to plan, which
+we have never seen. And it's not the one that just kind of covers everything. So hopefully that helps with a
+little bit of context. The number does account for some unforeseen-type circumstances that might come up.
+ERIK DAVIDSON: Thank you. Director, does that answer your question?
+BOBBY DISHELL: Yeah, thank you. I just felt it appropriate just knowing that people will fixate on a number
+despite the amount of times we caveat it for them. So I just wanted to make sure we had a discussion on
+what sort of range we're looking at. So thank you all.
+ERIK DAVIDSON: Thank you, Director, and thank you for joining us this evening. Director Harwick, thank
+you for yielding the floor there. The floor is yours again.
+IAN HARWICK: Yeah, anytime. So thinking about this, if there are 1,100 riders, we have three going south
+first and then three going north back. So a little under 200 people per train car, in theory. How many people
+could be on a train car?
+PATRICK STANLEY: Mr. Chair?
+ERIK DAVIDSON: Mr. Stanley, please.
+
+PATRICK STANLEY: Yeah, that's a good question. I would say in general, it depends on the configuration
+of the car. Amtrak gives you very ample room because they tend to run pretty far. But I would say in general,
+rule of thumb is you're probably looking at about 100 or so seated on a car. And that would be roughly the
+same between the coach car and the cab car. So we are looking at probably approximately 200 or so, give
+or take, maybe 20 for the train consist seated.
+IAN HARWICK: OK, if we were going to get our service, if we were going to get it down-- so when we looked
+at the numbers to do a typical rail line right now is about $8 per person. And this is showing up at about,
+what was it? 45 to 52 per person? I mean, just rough, rough math. So we need like an eight times increase
+in ridership to get to the same level, hypothetically, to the same level as what we're paying or what the cost
+is per rider right now?
+ERIK DAVIDSON: Mr. Stanley?
+PATRICK STANLEY: Yeah, I'm trying to do the math in my head, which is usually not a good thing for me.
+IAN HARWICK: I did it beforehand, so I'm sorry.
+PATRICK STANLEY: So I would agree with you there on that. What I would say on the train capacity, one
+nice thing about the locomotive hauled coach train scenario is for relatively-- I say relatively inexpensive,
+all vehicles are pretty expensive when it comes to these train vehicles. But adding a coach car, as an
+example, is the least expensive probably of all the cars. And that's the nice thing about the locomotive
+hauled coach is it is upgradeable on the train.
+Now obviously we're going to be restricted at some point by the length of the platform. The platform right
+now that we've designed is 400 feet long, with the exception of what we've talked to with the Front Range
+Passenger Rail. At the stops that we know that they're going to stop at, we are looking at more of a 700
+foot long platform for that location. So you could expand platforms, but you could definitely potentially
+expand the train consist.
+IAN HARWICK: OK, but on a large scale to be going back and forth, we'd probably have to do still a pretty
+substantial reagreement with BNSF?
+PATRICK STANLEY: More than likely.
+IAN HARWICK: To really get up to those-PATRICK STANLEY: If it's a substantial-IAN HARWICK: To get up to those numbers?
+
+PATRICK STANLEY: If it's a substantial change, yeah, I believe so. And in order to do that, my guess is
+you'd be limited to some extent for what you can do on the trains and the platform. At some point, you'd
+have to start looking at frequency. And that's where I think some of that change would come into play.
+IAN HARWICK: Right, OK. And then my last question, I know the answer, but I'm just curious anyhow. Did
+we look at any other alignments for this or did we only look at this one?
+PATRICK STANLEY: Mr. Chair?
+ERIK DAVIDSON: Please go ahead.
+PATRICK STANLEY: For the Northwest Rail, we only looked at this alignment. This was a pretty clear
+direction from the board as to what we wanted to look at here. During the environmental evaluation, there
+was an evaluation of other alignments. And this particular one is the one that was found that actually goes
+through really where the people are. And so this was the one that was selected back then. We did not revisit
+this as part of the peak service. We considered that kind of water under the bridge that that had been
+determined in previous studies.
+ERIK DAVIDSON: Thank you. Appreciate it. Director-- I'm sorry, General Manager CEO.
+DEBRA JOHNSON: Yes, thank you very much. I just wanted to share that I was thrown a lifeline. So I can
+answer the question about the travel time on the flat Flatiron Flyer from Boulder to DUS. It's 54 minutes.
+ERIK DAVIDSON: Thank you. Director Lewis, please.
+JAIME LEWIS: Yeah, and I think we touched on it briefly already. It seems like the only room for capacity
+building in the future is by adding other trains to the current, I think it's three configuration, configuration of
+three?
+ERIK DAVIDSON: Yes.
+DEBRA JOHNSON: Yes, sir.
+JAIME LEWIS: So if we wanted to go to four to six, we would have to have that particular length of platform
+to accommodate that. Is that in the current plans to go to that particular length for the new and the old ones?
+I know you touched on it briefly, so.
+ERIK DAVIDSON: Mr. Stanley?
+PATRICK STANLEY: Yeah, if you wouldn't mind clarifying the new versus the old? I'm not sure exactly--
+
+JAIME LEWIS: Right. We have already stopped going up to Westminster. Plus, we got the new stops. Do
+we have plans to make them consistently large enough to accommodate four to six trains? So in the future,
+when we have that, I'm hoping we get more riders that all of a sudden, we could just add a train without
+worrying, oh my God, we don't have the platform for that.
+DEBRA JOHNSON: What do you mean car?
+JAIME LEWIS: Yeah, car, the train, yeah.
+DEBRA JOHNSON: The length of consist, is that what you're saying? Thank you.
+JAIME LEWIS: So I want to make sure the platform-DEBRA JOHNSON: Can accommodate if we had a four-car consist? OK, because when you said trains, I
+was thinking more availability of trains, as opposed to cars.
+PATRICK STANLEY: And this is going back to my days on the Eagle Project. But that platform and that
+track geometry is designed for some expansion of that particular platform on the B Line. I'm trying to
+remember the exact length of them. I believe they are 200 feet long right now with the expansion capability
+for 300 feet. A train car is approximately 85 feet. So that would be the limitation. I would say that a
+locomotive, depending on the configuration of the platform, does not necessarily have to be at the platform.
+However, if it's at a platform like, say, 41st and Fox, which is a center platform, the locomotive could block
+the pedestrian crossing so that you have to take that into consideration. So roundabout question, there are
+plans in the track geometry to expand that platform on the B Line platforms. It is more limited, I would say,
+than what the northern segment that we're looking at for peak service expansion capabilities are.
+JAIME LEWIS: And you may or may not know this off the top of your head, the train stops we have now,
+are there any that would pigeonhole us where there's no room for expansion or there's no property to
+expand to? You can see my issue if all of a sudden we go to four to six and we've got one, stop that-PATRICK STANLEY: Well, yeah. Well, I'm sorry, Mr. Chair? OK. I'd say I'd say the biggest constraint is
+probably Denver Union Station is probably the hardest one to try to do any infrastructure modifications to.
+But we have a fairly decent length, at least for RTD commuter rail. If we start getting into conversation about
+Front Range Passenger Rail, that's where really some of those challenges might come in.
+I'm trying to think, I think again, it depends on how far you want to go. I think there is expansion capability
+on every one of them. I think Westminster is probably the easiest to expand. The two more challenging
+ones are probably 41st and Fox and Pecos Junction, and it's going to be limited because of the track
+
+geometry. Now, that doesn't mean we can't necessarily modify track geometry, but that comes with its own
+set of difficulties as well.
+ERIK DAVIDSON: Director, please.
+JAIME LEWIS: Yeah, one more question. On the PTC, and please educate me on this because I don't
+know much about it, but I presume there's infrastructure on the rail itself and then the train itself. Does
+BNSF have their infrastructure on the rail already or are we doing both?
+ERIK DAVIDSON: Mr. Stanley?
+PATRICK STANLEY: The corridor that BNSF currently operates right now that we're talking about running
+here is what we call dark territory. It does not have PTC in that particular corridor. So we would have to
+install it because it is a requirement that we have to have if we're going to run commuter rail. So that's one
+of those things that I would consider a but for. But for us being on the corridor, BNSF would not be installing
+PTC likely on that corridor.
+JAIME LEWIS: They're not required to have it?
+PATRICK STANLEY: They are for certain elements. I believe they're below the threshold right now for
+installing PTC.
+JAIME LEWIS: Thank you. I appreciate it.
+ERIK DAVIDSON: Thank you. Thank you, Director. Director Tisdale?
+DOUG TISDALE: Thank you very much, Mr. Chairman. I've actually got five questions, comments that I'd
+like to run through, I think, quickly. The first one actually was already very articulately stated by Director
+Buzek when he noted that the estimate of 1,100 riders per day was based upon DRCOG's 2019 model,
+which is a pre-COVID model, and that we have not had an opportunity to go back to see how those numbers
+would be impacted by the change in commuting patterns that we have experienced from 2020 forward.
+Next, relative to the capital cost estimate for the peak rail service, we say that it's $650 million. And actually
+at packet page 723, you have a nice breakdown with the detail relative to that. Compare that to our latest
+estimate for full service capital costs, which is found at page 78 of the packet. And that was around $1.2
+billion.
+And I'm just curious, this is just the CapEx, not the operating cost, does just changing the number of trains
+that you're operating reduce the capital cost to build that infrastructure and system and cut it in half?
+Because that's what we're seeing. We went from just around 1.2 billion or a little more down to 650 million.
+
+And all we've done is change the number of trains that run, which is more of an operational issue than an
+infrastructure or CapEx issue. How did the cost get cut in half?
+ERIK DAVIDSON: Mr. Stanley?
+PATRICK STANLEY: Mr. Chair, if I may.
+ERIK DAVIDSON: Yeah.
+PATRICK STANLEY: Yeah, excellent question. And I would say it's a little more than just adding the
+additional trains. Obviously, the full service included double tracking of the entire corridor. It also included
+double the stations. And if you think about the access easement as well, it's potentially a larger percentage
+of that access easement with more track than what we were talking about. That's what I would say is the
+biggest piece. One of the other biggest pieces, I would say, is a factor in there is that a lot of the previousDOUG TISDALE: Hold on just a second. CART has shut down, so I can't follow all of this. I'm just wondering,
+it's frozen.
+ERIK DAVIDSON: We'll take a brief-- Mr. [? Kroll, ?] can you-- OK. Director Tisdale, would you like to hold
+for CART to come back online?
+DOUG TISDALE: OK, now it looks like at least I can read you and I can read me. So maybe I can also read
+Mr. Stanley.
+ERIK DAVIDSON: Thank you, Director. Mr. Stanley, please continue.
+PATRICK STANLEY: OK. Do you want me to back up? Did you catch everything? OK. The other thing that
+I think is an advantage to the study that we just did is we got real infrastructure numbers from the BNSF. A
+lot of the previous studies that we've done, we've done them without the benefit of having their review and
+their approval of those cost estimates. We've kind of done them on their behalf.
+What we've found is that the BNSF is actually able to complete some of this work cheaper than we could if
+we actually went out and contracted it. The BNSF would use internal forces for this work. So a lot of the
+overhead profit, et cetera, that you would get if we were to go out and build with federal requirements, et
+cetera, really does make a difference on the cost.
+So that would be my guess. I was not involved with the estimates for the 1.2 billion. But those we know are
+factors that if you're comparing that, it's kind of apples to oranges a little bit. But those are significant factors
+that would add fairly significant costs.
+
+DOUG TISDALE: All right, thank you. And then thirdly, regarding cost per rider on page 28, that $57.04
+estimate on the high side for cost per rider, that is just taking into account O&M. It does not take into account
+debt service or the CapEx. Is that correct?
+PATRICK STANLEY: Yes, that is correct. And actually that number is based on, just for clarity, not 365
+days a year, because it's just weekday service. It's based on 255 days per year.
+DOUG TISDALE: Business days?
+PATRICK STANLEY: Yeah.
+DOUG TISDALE: OK. All right. And then just an observation correction relative to the timeline that was
+mentioned about peak rail service, when it was mentioned that in 2017, stakeholders brought this forward.
+Actually, peak rail service was brought to the board by Director Judy Lubow in a resolution that I drafted,
+as requested by Chair Larry Hoy. And that's why we started the whole peak rail service discussion.
+Lastly, the train type, it gets a little glossed over perhaps. And I shouldn't say that, I'm sorry. It becomes a
+little confusing to me. Am I correct in understanding that what we will be doing with this is effectively
+decommissioning the B Line trains that we have and replacing them with locomotive-pulling cars that will
+go from Denver Union Station up to the end of line? Is that correct?
+ERIK DAVIDSON: Mr. Stanley?
+PATRICK STANLEY: That's an excellent question. And I'm glad you're bringing that up so I can provide
+some clarity on that. We are not talking about replacing them for the entire day. The concept is we would
+replace those, the B Line runs during the window, during the peak period window. One of the concerns,
+obviously, if you look at the DUS and the throat-- going into the DUS and the traffic, that's where it really
+kind of led to the concept of, we would just really take over that run.
+So basically, DTO would not be running any trains during that three hour window for the B Line, and that
+we would assume the schedules essentially that the DTO runs. So I don't know if that clears it up for you
+or not. But it's basically, we would replace those runs with the diesel train for the Northwest Rail during
+those three-hour peak period windows.
+DOUG TISDALE: And would it also be that RTD would run those trains during those three-hour windows,
+morning and evening? Or does DTO run those trains?
+PATRICK STANLEY: Mr. Chair. I think we could talk to DTO about running those trains. The concept that
+we moved forward with is that either RTD, BNSF, or a third party that's actually running from the segment
+on Longmont all the way down to Westminster Station, we wouldn't need to change those crews over at
+
+that point. They would just continue into DUS and continue back to Westminster. So we've run with the
+assumption that it would be a non-DTO operator for those trains during that peak period time frame. Does
+that answer your question?
+DOUG TISDALE: OK, so it would be a non-DTO operator running that train for the full length of the train
+during the three hour and five minute windows?
+PATRICK STANLEY: Yes, sir. Yes, sir.
+DOUG TISDALE: All right, thank you. Those are all the questions I had right now. Thank you, Mr. Chairman.
+ERIK DAVIDSON: Thank you, Director Tisdale. I see two additional hands raised at this time, starting with
+Director Catlin, please.
+PEGGY CATLIN: Thank you, Mr. Chair, and thank you for the presentation. Director Tisdale actually
+touched on a couple of the points that I was going to ask. One of them was with the train technology. And
+I was curious as to whether the difference in operations and maintenance for that particular technology was
+factored into the costs. That's part one of my question.
+The second one was, I was actually quite surprised by the $650 million estimate, given that back in 2020,
+early in 2020 when I accompanied former AGM of Capital Programs, Henry Stopplecamp and Judy Lubow,
+among others, down to the BNSF, we were kind of presented with a $1.2 billion price tag. So I'm pleasantly
+surprised by the reduced cost.
+That being said, I am cautious because this agency has been accused of or probably been guilty of
+underestimating capital costs to get projects done. And I'm a little bit concerned about that $650 million
+price tag, when we've seen that the original cost estimate for that Northwest Rail was set at one price. And
+then it has been exceeded by quite a bit over the ensuing years.
+So it's more of a comment than a question. But I would like an answer to the first part, which is the extra
+cost associated with technology and training and staff associated with running yet a different technology on
+our system. Thank you.
+ERIK DAVIDSON: Thank you. Mr. Stanley?
+PATRICK STANLEY: Yes, thank you, Director, good question. Given the fact that we've got a dedicated
+maintenance facility for this particular project, we factored that. That train that would be maintained would
+be the same train that the facility is built for.
+
+And those would all be people that we would have to hire, they're not in the system right now, to maintain
+those trains. So that being said, that's the assumption in the number is that it would be for the trains that
+we've identified would be maintained at that facility by people that are trained for that technology.
+PEGGY CATLIN: If I might, Mr. Chair.
+ERIK DAVIDSON: Please go ahead.
+PEGGY CATLIN: Is that included in the $90 million estimate?
+ERIK DAVIDSON: Mr. Stanley?
+PATRICK STANLEY: Yeah, the $90 million estimate is really the facility and the right of way and the track
+yard, et cetera. It's the physical, the physical pieces, the capital cost. The O&M cost is where the actual
+operations, training, maintenance, et cetera, is covered. So that's in the 12 to 16 million annual cost.
+PEGGY CATLIN: Thank you.
+ERIK DAVIDSON: Thank you, Director. Director Guissinger, please.
+LYNN GUISSINGER: Thank you, Mr. Chair, and thank you, team. I know you've put in a lot of great work.
+And we appreciate it. And I know you've worked very closely with the advisory committee, the local
+governments. I assume you don't have formal responses from them at this point. But can you give us a
+sense of where they are on this at this point, after hearing the numbers?
+ERIK DAVIDSON: Please go ahead.
+PATRICK STANLEY: Well, I hesitate to speculate on somebody else's behalf. What I can say is they've
+been very supportive of where we've been trying to go. We have shared this information with them. Because
+obviously, we need to share information with them to get good feedback and guidance from them.
+I think one of the biggest issues that we heard recently from them is that they really want to know how they
+can advocate for some sort of solution here, whether or not it's an advocacy for peak service itself or if it's
+for a joint service potentially with Front Range Passenger Rail. They're still very interested, obviously, in
+getting a rail service in this particular area. And I think they're still engaged. And we plan on, I think, still
+keeping them engaged, especially through this 184 conversation.
+So I don't want to speak to necessarily what their mood is. I mean, I think when we concluded the study, I
+would like to say nobody was yelling at us about anything. But I think they understand. They understand
+the facts. They understand where we are. And it's really just a matter of, OK, how do we keep the
+
+conversation going? How do we be involved as the SAT in any future conversations? So I don't know if that
+completely answers your question.
+LYNN GUISSINGER: That's helpful. I know you couldn't speak for them and all of that. But that is helpful.
+And following up on some of the questions from Director Catlin and Director Tisdale, we do have these
+previous numbers in the NAMS and before that, 2010. I think at least in 2010, we got a number from BNSF
+for the part that we're projecting this year. Have you looked at all of those? Do they make sense how they
+fit together?
+PATRICK STANLEY: Yeah, I believe they do. I'm sorry.
+ERIK DAVIDSON: No, go ahead.
+PATRICK STANLEY: I believe they do. One of the things that I think we need to be very careful about here,
+because we've done so many studies and we've done so many numbers over the years, it's really easy to,
+I think, comparing apples to oranges.
+LYNN GUISSINGER: Right.
+PATRICK STANLEY: The EE was full service. And that's a significant different thing than what we're talking
+about with peak service. And the NAMS was too. So the NAMS was full service as well. It was just being
+considered building by segment instead of. So the numbers in there are for full service as opposed to the
+peak service.
+Really, the best probably comparison number that does give me some confidence in where we ended up
+with is in the 2019 Unfinished Corridors Report. The peak service was estimated to be $708 million. And,
+that's pretty close. That was 2018 dollars. And also it said in that Unfinished Corridors Report that that was
+a conservative number. And it also said in there that that did not have the benefit of the BNSF review and
+approval in there.
+And like I said, I think what we found is that the BNSF was pretty competitive from a cost perspective. So I
+feel pretty comfortable based on that that there is some consistency. If you look at the full service numbers,
+they went from 1 million basically, or $1 billion in the EE, to 1.2 to 1.4 in the NAMS. And I think it ended up
+being 1.5, I believe, in the Unfinished Corridors Report. So it's kind of on a fairly consistent trajectory,
+escalation of costs that you might expect.
+LYNN GUISSINGER: Thank you very much. Yeah, thanks.
+
+ERIK DAVIDSON: Thank you, Director. Mr. Stanley, I see one more hand raised. I have a question or two
+myself. We will be taking a brief break between this and our external entities, which thank you for your
+patience here. I'll go next to the next hand, Secretary Guzman, please.
+MICHAEL GUZMAN: Thank you. First question, do we have the real estate to do this? Sorry, it's a little bit
+out of left field. Everything that we need to get up to this point we own so we can actually continue this
+track? Does that make sense?
+Do we have a corridor on which to run track to meet the Burlington Northern Santa Fe Railroad and get to
+Longmont in this plan? Because I'm a little confused. We own right of way to the 72nd Westminster stop
+that our train runs on with our partners. But do we own what we need in terms of real estate beyond that to
+finish the connection to get to Longmont?
+PATRICK STANLEY: Mr. Chair?
+ERIK DAVIDSON: Please, go ahead.
+PATRICK STANLEY: Yeah, you're correct. We do own the right of way up to just past the Westminster
+Station, but not all the way to Lowell. The remaining portion of the corridor, it's not a property that we would
+own. We would operate on the BNSF. And we would secure real property rights. So basically, we would
+have an easement to utilize their right of way.
+MICHAEL GUZMAN: Thank you.
+PATRICK STANLEY: So we're not purchasing that. Now, for stations maintenance facility, there are some
+right of way that we would need to acquire potentially for some of those. But for the trackway itself, it really
+stays mostly within the BNSF corridor.
+MICHAEL GUZMAN: Thank you. Sorry, for context, I just don't want it to end up like the L Line that doesn't
+actually get all the way there. It's supposed to be connected, and there's a city block that's not connected
+for some reason. So that's why I'm asking.
+PATRICK STANLEY: OK.
+MICHAEL GUZMAN: Second thing, assumptions about the FYFF and the financial forecast that we work
+on in the financial committee all the time are definitely relevant to this conversation. And so I hope you can
+address them. And please correct me if I'm wrong. But the current FYFF that we are utilizing and the one
+that is going to come before this body at the end of the month for conversation has some very serious
+assumptions, given current state, based on our current fiscal policy, which tends to be more conservative.
+
+And so those numbers exactly line up with what I'm seeing here. But that includes the contemplation of
+having to deal with the TABOR restriction, number one. And so if we really want to get this project moving
+forward and keep things going in the direction that I do believe our communities in the Northwest area really
+expect, that's one part of the equation that needs to be dealt with, correct? OK. I'm seeing a head nod, so
+I will accept that as a yes, unless you want to say it.
+ERIK DAVIDSON: Mr. Morgan?
+BRENDEN MORGAN: That was a head nod. I'd be happy to respond with an answer. But, yes, the current
+FYFF, I think our fiscal policy is conservative, as you mentioned. And the FYFF assumptions are relatively
+conservative, but within the realm of reality, I believe, as well. barring any external exogenous events that
+we can't forecast, I think it's reasonably conservative.
+MICHAEL GUZMAN: I would refer the community to the Finance and Planning Committee Meeting to
+review that because there was a more robust conversation there. I won't go into it here.
+So it's like taking an ice bath for me, as I am coming into this in my second year. And I wasn't here when
+these decisions were made long ago. And so I want to make sure that we don't just walk away with our
+heads down. We can walk away that there's some good news. Our legislators and our governor have
+created a path forward working with our partners.
+And so I think that all of the people in our district, all of the taxpayers, all of those who voted in 2004 to
+approve this process and make it go forward to this point, I see a hope and a path forward. It's not
+completely hopeless. This is what I would assess it as. Please feel free to chime in if I'm misstating this.
+But alone, we can't do this by ourselves. But we have partners and we have friends. So we can work well
+with FRPRD. We can work well with CDOT, which is currently in legislation and required by law. And we
+follow the law at RTD, which is a good thing. And we do seem to have some support from some very mighty
+municipalities and counties that will push us in this direction.
+Even though it seems like it's just always slightly out of reach, I think we can get there. And it's frustrating.
+It's frustrating to sit on this end. Because I'm one of those people that finds it really difficult to understand
+what happened between 2004 and now 20 years later that we're barely having this conversation.
+So thank you for the hard work. I think for the community more than anybody and for all of us, when we
+walk out of this room, we have to figure out how to get forward on this. And it's not going to be easy. And
+it's going to take the time it takes. But I don't think that means we have to sit down and act like we can't
+push things forward. We do have to rely on our partners. And we do have to push on them and lean on
+them, but they have to push on us and lean on us.
+
+And just looking at the numbers, if we gave every penny, every penny of tax money and sales money that
+we have set aside into an account for FasTracks projects, it still probably would not be enough to bring
+down, if we even had the ability to, an 80/20 grant match to start this work. So we have no choice but to
+work with our partners. And I think that that gives us some leverage in that conversation and a responsibility
+to do right by our taxpayers. That's all I got.
+ERIK DAVIDSON: Thank you very much, Secretary. Many of my questions have been asked. There were
+a few things I wanted to touch on. Some of them might be best handled in follow up. And I'd certainly
+encourage all of my fellow Directors here as this conversation continues and as we transition to looking at
+our partners to follow up with staff and ask follow-up questions. This is obviously quite the big topic.
+So recognizing our time, I'll keep this very brief. One question I do have just is with respect to our ridership
+projections, given that things have so dramatically changed after COVID. Specifically looking at this region
+and development patterns, did we look at how other services in the area, most notably the N Line, the
+Flatiron Flyer, and the B Line itself, performed against or are performing against original projections,
+whether they are ahead, behind, and to what extent? Again, happy for this to be a follow up with respect to
+numbers. Is that something that we looked at? Please.
+PATRICK STANLEY: Asking you.
+ERIK DAVIDSON: Yeah.
+PATRICK STANLEY: I would say that we didn't necessarily specifically do that particular comparison. What
+I would say is, we used the DRCOG 2019 model because that is the accepted adopted travel demand
+model that's out there right now. I think possibly we could. That would be something we'd have to talk to
+our planning group about a little bit.
+ERIK DAVIDSON: OK. Thank you very much. And then thank you for helping us with the cost per rider and
+certain level setting. Fully understand the combined commuter rail, light rail, $7.86. Do we have a number
+for our combined commuter rail?
+PATRICK STANLEY: I don't have it handy. Do you?
+BRENDEN MORGAN: If I may.
+ERIK DAVIDSON: Please go ahead, Mr. Morgan.
+BRENDEN MORGAN: That is not a number I have handy. I suspect it's something we could track down for
+you.
+
+ERIK DAVIDSON: No problem. Thank you. I really appreciate that. And then, yeah, I just would leave,
+again, I have a number of questions, but happy to take that in follow up. But thank you, Secretary, for the
+sentiment. I believe that is the case. I really, truly appreciate, again, staff not just working. Mr. Stanley,
+getting to see you out there and working in the communities was a lot of fun.
+And not just the willingness to work with the communities and really engage with them, but also to be
+working with our partners in Front Range Passenger Rail and CDOT. I know that creates kind of somewhat
+of a moving target effect. I know there's often a lot of changing energy around that. It's a difficult thing to
+navigate when you're working on something that's technical that has to stand on its own. And in fact, this
+does stand on its own.
+I truly appreciate the efforts in making that happen, which I think will have a great transition to our second
+item of the evening, which we've had extremely patient folks here waiting for that. Seeing no further
+questions or hands raised at this time, thank you, everybody, for the time and engagement, the questions,
+the answers. This is the beginning, not the end. This was a great and lengthy project that was appreciated.
+But there's obviously a lot of policy decisions that will roll out from here. So I look forward to seeing that
+conversation continue. At this time, I am going to go ahead and call for a 10-minute break before our
+external entities report. Again, thank you for the patience. We will reconvene at 7:30 PM Mountain Daylight
+Time. Thank you very much.
+ERIK DAVIDSON: Recording, please. Thank you, everybody. This is Erik Davidson, Chair of the RTD Board
+speaking. It is 7:30 PM Mountain Daylight Time. And we are reconvened after a 10-minute break. We have
+now moved to the next and final portion of our agenda this evening, which is an external entity report. There
+is one.
+We are a little out of order having our external entities go second tonight. So again, we thank our guests
+for their patience. This is by design. This is because this is a presentation regarding our joint rail planning
+efforts. We are joined by Berrick Abramson, the President of Confluence Policy and Strategy Group, as
+well as Diane Barrett.
+While the Peak Service Feasibility Study results that we just reviewed in our discussion item are intended
+to and indeed do stand on their own. RTD, as we heard many times, is not working in a vacuum here and
+do have some partners. Several months ago, we heard a presentation from the Front Range Passenger
+Rail District, specifically its General Manager, Andy Karsian, regarding their efforts.
+Now we'll be hearing from Berrick Abramson with the support of Diane Barrett about joint planning efforts
+they are leading in response to and pursuant to Senate Bill 24-184, which calls for multi-jurisdictional
+reporting on the possibility of joint rail planning. So at this time, I will now yield the floor and ask Berrick
+Abramson to please introduce himself and proceed with the presentation.
+
+BERRICK ABRAMSON: Thank you, Mr Chair, Director. We appreciate the opportunity to be here.
+[AUDIO OUT]
+
+DIANE BARRETT: [INAUDIBLE]
+
+I served under three [INAUDIBLE], two big-time ones [INAUDIBLE]. Oh, I'm sorry.
+ERIK DAVIDSON: Sorry about that. Thank you, Mr. [? Kroll. ?]
+DIANE BARRETT: I have a booming voice anyway. Thank you.
+ERIK DAVIDSON: Thank you.
+DIANE BARRETT: And in that role, I was able to work quite a few projects that were involving more than
+one governmental agency. And having done that, when I was offered the opportunity to come work with
+this one, I thought, how exciting and how difficult, but I need something to do that's exciting and difficult. So
+that's where I am. And we're going to tell you about where we are right now.
+BERRICK ABRAMSON: Thanks, Diane. And I do want to set the expectation and a little bit of context for
+the presentation we're doing here today. There's two parallel work streams going on right now, one that
+Diane is driving every day, which is the meeting and work and collaboration among RTD, Front Range
+Passenger Rail District, and the executive branch of state government. They're digging into things like
+questions around governance, questions around financing.
+How do we get all of these entities to work together to deliver on this vision of Front Range Passenger Rail?
+At the same time, we're also starting some stakeholder engagement. In the coming weeks, we'll be talking
+with folks, particularly in the counties along that northern corridor from Broomfield and Boulder, through
+Larimer and Adams County. Before we got out in front of all-[AUDIO OUT]
+
+--that Diane is leading. We don't like that one? I'll go with this mic. The first piece, I think you all are quite
+aware of that in 2004, the voters approved FasTracks, which is something much different than what we're
+talking about today. That original plan envisioned 55 trains a day from Denver up to Longmont along those
+BNSF lines and looked at seven different stations.
+
+Jump forward to the spring of 2021, and our state legislature created the Front Range Passenger Rail
+District. And then as we look forward, obviously there was the Peak Rail Study that kicked off in 2022 that
+we just spent the evening hearing about. Then going into the winter of 2024, all of those joint partners, the
+Front Range Passenger Rail District, RTD, CDOT, and CTIO authored and published a white paper looking
+jointly at joint service.
+That ultimately led to several pieces of legislation that I know you're all familiar with. What I'm here to talk
+about is some of the things that came out of that. There was number one, some funds that were sent over
+to CDOT enterprises. And number two, there were a lot of requirements and reports sent in that report,
+which is what led to us bringing these groups together. And that's what I want to talk about today. I think
+I'm scrolling the wrong way. There we go.
+There's four key moments or milestones that I want to touch on. And particularly, I'm going to focus on the
+upcoming reports that this collaborative needs to put together. The first one, we are now ticking down the
+days. I think we're at 12 days. I know. September 30th, they'll be reporting to the committee and to the
+governor with an initial implementation plan.
+And I'll go through the details of that in just a minute. But it starts talking about what does operation look
+like. Who will be operating it and how are we going to get these agencies to work together? One of the key
+things is looking forward to an end of year, the end of December, when there needs to be that determination
+of, will this be a new rail entity, a new legal entity altogether or will this be through an intergovernmental
+agreement between the entities?
+Looking forward then in March of next year will be the opportunity and the requirement to report back to the
+legislature and the governor with what will be the service plan for Front Range Passenger Rail. Number 4
+is not one that I need to brief you all on, and that is RTD's Northwest Rail and FasTracks completion plan.
+What I do want to do is talk a little bit about what is in this implementation plan coming up in September
+that needs to get submitted and that Diane is leading all of this group to prepare.
+It needs to identify all of the ongoing or completed studies to be leveraged to accelerate the approval. It
+requires Front Range Passenger Rail District and CDOT to use existing contracts to conduct the modeling
+from Denver Union Station up to Fort Collins. And they're directed to do two types of modeling, one with
+three round trips and one with five. I'll share what their initial thinking is on that.
+It also, as I mentioned, requires that they identify and evaluate all options for who will operate this and
+whether that's creating a new standalone rail authority, such as Colorado Rail Authority, an entirely separate
+legal entity, or a standalone IGA, with the goal of creating that entity or agreement no later than December
+31st of this year. I can share, although I don't want to make any promise or commitment on this, but the
+
+conversations among the governance committee of these three entities that are working together has been
+very much driven towards an IGA.
+Certainly the devil will be in the details. But there's been a lot of alignment that that's the best path forward
+to really take a strengths-based approach and draw on the unique assets and the expertise of the different
+entities in place. And part of that also will be getting to the financing, which I'll talk about in just a minute.
+Among the things that they're directed to do in this plan, it must be completed by September 30th. It must
+determine that next actionable item that I mentioned, whether it will be the standalone entity. And then that
+needs to be done by December 31st. All of this, the goal of this implementation plan is to pursue the
+completion of construction and operation of the Northwest Fixed Guideway Corridor Phase I of Front Range
+Passenger Rail from Denver Union Station to Fort Collins by extending that service from Longmont up to
+Fort Collins.
+I do want to emphasize that point of Phase I. Because the vision for this, obviously, is we work now on this
+goal of getting from Denver up to Fort Collins. And in the future, we're continuing this down in the southern
+direction, down to Pueblo. As I mentioned, actionable item number 2 out of the legislation is the
+implementation plan itself. And this authorizes RTD, Front Range Passenger Rail, CDOT, and CTIO to
+implement the completion of and construction of the Northwest Fixed Guideway.
+We are directed, though, to develop the plan for using their joint authorities and funding streams to deliver
+the first phase of Front Range Passenger Rail. They also declared that train service is not limited, as I
+mentioned, to Denver to Fort Collins, but a daily service from Trinidad to Pueblo to Fort Collins. There we
+go. I didn't know if there was a 7:40 hard cutoff suddenly.
+In this upcoming report, the Front Range Passenger Rail District must provide a report including-- this is by
+the March 1st deadline-- a plan to begin providing Front Range Passenger Rail service no later than January
+1, 2029.
+That includes the following in that report-- steps taken to maximize the chances of securing federal grant
+assistance, including the policies and strategies for reducing climate impacts, providing for all hazard
+resilience, benefits to underserved communities, as well as workforce development programs associated;
+an assessment of whether additional revenue is in fact needed to support such service, and if so, the
+recommended sources of those funding.
+And the plan must be submitted to the House Transportation, housing and local government, the Senate
+Transportation and Energy Committee and the governor no later than March 1st of 2025. I think I'm one
+ahead here. Here we go. And I know it's a little small up there, so I'm reading some of this out to you.
+
+The legislative declaration that directed these reports to be completed directed that the report to the General
+Assembly regarding a plan and an expeditious timeline by which the district will implement the whole front
+range rail train service from Fort Collins to Trinidad and to report periodically to the General Assembly
+regarding its planning and implementation progress and the barriers and challenges it faces for extending
+service to the southern portion of the district.
+I'm going to skip over some of the things that are already well in your purview and expertise and get to the
+work that's going on with these collaboratives. Although, I'm happy to come back to any of this that would
+be of interest. When we're talking about the common ground to explore the opportunities, as I said at the
+top, this is really about taking a strengths-based approach, looking at each entity, what their capabilities,
+capacity, expertise, and capacities are to contribute to this joint operation.
+It may in fact offer an opportunity to streamline the planning process, to reduce the cost of delivering service,
+and accelerate the timeline to deliver starter service from Denver Union Station to Fort Collins on that BNSF
+line. The legislature has mandated, though, that the agencies jointly study the possibility and report back
+to them.
+Some of our baseline assumptions-- again that each agency has some assets and some ability to provide
+service. But as it stands today, no one agency can deliver alone in the near term. Joint service will neither
+be the exact service being considered for Front Range Passenger Rail, nor what voters approved back in
+2004.
+I do want to get to what we are contemplating now. The joint service, as I said, may not be exactly what
+was considered to date. And it won't be the exact service that FasTracks contemplated in 2004. The
+question then is, what is an acceptable hybrid service that uses existing resources and constraints to get
+starter service running by the 2029 deadline set by our legislatures?
+I am going to skip this primer here on the passenger rail versus commuter rail, with the exception that I
+want to note that there are distinct and different sources of revenues that Congress has authorized when it
+comes to funding and grant programs for each the commuter rail and the intercity passenger rail. That said,
+the federal rail authority does acknowledge there are some gray areas when we're talking about what is
+that commuter rail.
+As I mentioned earlier in this, the legislature directed this group to do some modeling, looking at both three
+and five round trips. To do so, we had to put some basic assumptions in place. For the purpose of modeling,
+we approached it assuming that there would be a single operator, that there would be a single one-access
+agreement with BNSF, that the route from Denver Union Station would be on RTD's B Line up to
+Westminster, then switching to the BNSF freight lines beyond and going up to Fort Collins.
+
+In terms of the stops, the FRA approved intercity passenger rail stops are the baseline with DUS, Boulder,
+Longmont, Loveland, and Fort Collins. The intention is that we'll continue to model additional stops and
+maintain intercity passenger rail classification, including Westminster, Broomfield, and Downtown
+Louisville. As I share these maps, I do want to emphasize there has been no determination on which specific
+stations in some of our locations as we look up to places like Broomfield.
+Again, in all of this, I want to emphasize that we're looking at a strengths-based approach. There's not an
+intention to put additional burdens on any of the agencies. But we do need to look at things like the finance
+stack, which is going to include RTD "only for your service area;" the CTIO 184 rental car fees that I
+mentioned at the top; Clean Transit Enterprise, those SB 23 O&G fees; the IIJA federal funds; the Farebox
+Collections; RRIF or other debt financing.
+And I think all of you are aware that we had the Federal Rail Administrator out here earlier this year. And
+our governor has been in active conversations with our federal leaders about all of this. When it comes to
+the governance, I have more to share on what are the assumptions and what we are continuing to work on
+than I do in the absolute agreements at this point. But in terms of the governance, we go into this assuming
+that this does not intend to impose additional powers or authorities or burdens on any of the agencies.
+It's intended to share powers and capacity as needed to run the joint service and that the governance
+structure would reflect the representation of each of those contributing agencies. I know you had some
+conversations earlier about some of the round trips, some of the timing and performance data to date, so I
+won't dwell on these. What I do want to talk about is the modeling going on and, frankly, what are the things
+that we are still working to answer.
+In terms of the model and what we hope to learn from it or will learn from it, you all know that it is a complex
+computer model simulating all of the trains on the rail system, both freight and passenger, to understand
+how we can share that space. It can determine how passenger operations can be effectively added to
+existing and to the future expected freight operations. We intend to use this to develop better schedules
+and the capital needs for ensuring no harm to the freight operations on BNSF lines.
+It is critical for informing access agreements with host railroads, including the agreements on needed capital
+improvements such as sidings, crossovers, or additional track. These improvements will then inform the
+engineering, financial, and environmental analysis for added service. All of that said, we're sitting here with
+a couple of things from our legislature. At the very top, I said, they've given us some specific directives.
+We need to report-- Diane gets nervous when I count down the days like this-- in 12 days what the initial
+thinking is on the structure and the operational agreement between the entities. We're looking at December
+31st for some definitive decisions and filing of, will this be a new entity or will it be the IGA? As I said right
+now, Diane and the group are very confident that an IGA will come together. I think we all know there will
+
+be the devil in the details in sorting out the specific roles, the contributions, and the governance structure
+of that. Then there are those funds that the legislature directed over to CDOT enterprises.
+So what is not known right now? Frankly, it's what and the how, some of the very specific items. How will
+the agencies be coordinated or jointly govern the service? How will the capital construction be financed?
+How will ongoing operations and maintenance be funded? What exactly will be the stations for joint service?
+And as we continue all of that, we're continuing to keep a focus on how stakeholders and the public can
+weigh in on the implications, the considerations, the pros or cons of joint service versus a solo service of
+peak rail and passenger rail. With that, I'm going to pause and hand it to my colleague, Diane, to add any
+color that I may have missed. And then we welcome the opportunity to address any questions you have
+about what the scope of inquiry is and the intended process that we intend to pursue in the coming weeks
+and months.
+DIANE BARRETT: Thank you, Berrick. The only thing I think I might add is, we skimmed off this a little bit,
+and maybe make the point a little stronger that the legislature was very interested in doing this right now
+because they're very interested in trying to access some of the large amounts of money that are available
+under the IIJA. And the reason that they think that this is important is that the agencies themselves don't
+have huge amounts of money available.
+But if they are grouped together and become a consortium in which their funding is combined as well as
+their expertise and their powers and authority, then that money can be available for Local Match. And under
+the IIJA, a lot of the money that's available is at 80%. So the localities only have to come up with 20% of
+the funding. So it's a really good deal.
+And the legislature wanted to make sure that we could take full advantage of that in this state. And so that
+really is fundamental. And we're going to really try to make that work. I think that's the only thing I wanted
+to add. Good job, Berrick.
+BERRICK ABRAMSON: Thank you, Diane.
+ERIK DAVIDSON: Thank you very much for the presentation, Ms. Barrett, Mr. Abramson, that's really
+helpful. I appreciate it. I think, first things first, obviously, this first report is coming up very quickly. But I just
+want to double check before opening up for questions to Directors.
+I believe where we are right now is an information gathering phase from all of the agencies involved and all
+of the staff members that are contributing this information is kind of being gathered into a report of what
+might be possible. And that December 31st report really starts to represent the substance of what policies
+those agencies may align around. Is that a fair characterization or summary?
+
+DIANE BARRETT: That's exactly correct. Thank you, Erik. The way we're operating is we have committees
+that are made up of staff and principals of the three agencies. And those committees are working together
+to gather all the information that is required. As you heard from Berrick, there's a lot of very specific
+information that the legislature has asked us to put together.
+And so we're following that pattern very carefully. And a lot of what we're saying is where we are today.
+And we're measuring the small amount of real progress that we've had, and we have had that, but also
+talking about the direction and how we're going to get where we want to go.
+BERRICK ABRAMSON: The one thing that I would add, I want to emphasize, there's this really important
+and meaty piece of work going on, figuring out how the agencies are going to work together. At the same
+time, we know we need to bring the public along. And we need to make sure that the communities who will
+benefit and be impacted by passenger rail are contributing to the conversation and our thinking.
+So as I said, this is one of our first conversations. We're having a number of one-offs with folks like Metro
+Mayors, with DRCOG. As I said, next week, we'll be doing some listening sessions. So we're getting the
+input from mayors, from city council members, from commissioners, from local chambers.
+As part of that, we'll also be putting a survey out in the field that I'm happy to share with all of you as well,
+to understand from those who will hopefully be our users, our riders, as well as those who will benefit from
+this, to ask them how they envision their constituents and their communities utilizing this and benefiting
+from it. What concerns do they have, what opportunities do they see in this, and what do they want all of
+us thinking as we get down into some of the details of the stops and the service itself?
+ERIK DAVIDSON: Thank you very much to you both for the question. Helpful to understand where we are
+on the map here. And just briefly here now before opening up, I would suggest to our General Manager
+and CEO, it does sound like we'll arrive at some sort of moment to have a discussion with our board here
+around what policy implications there might be once we get past the information gathering stage, before
+we decide how we might agree to proceed. General Manager CEO, just with that being said, is there
+anything you would like to share, perspective on the report at this time? If not, I'll open up to Directors.
+DEBRA JOHNSON: No, thank you very much, Chair Davidson. And thank you both Berrick and Diane for
+your presentation. I am comfortable with the characterization of where we are with the myriad of working
+groups. Quite naturally, it'll take all hands on deck.
+Leveraging the presentation that Patrick Stanley just provided, we don't know what we don't know at this
+juncture. But there is alignment around a path forward and optimizing efficiencies. And I think that's in
+everybody's best interest, as we want to ensure that we're being good fiduciaries. So with that, I'll yield the
+floor, Mr. Chair. Thank you.
+
+ERIK DAVIDSON: Thank you, General Manager. All right, I'll open up for questions from Directors. I'll start
+with Second Vice Chair Guissinger. Please go ahead.
+LYNN GUISSINGER: Thank you very much. And thanks for the report. Actually, my biggest question was
+answered, which is I wanted you to talk about the working groups, the committees. Because it seems like
+just from the outside, that seems like where a lot of real good work is being done. And I think if I'm right, a
+lot of that technical work is from our staff and coming out of their study. Because it's the only study that's
+been completed so far. Is that right?
+DIANE BARRETT: Your group, your staff are rock stars. They are just really digging in and working hard
+and being a tremendous amount of help. So you should be very proud of them.
+LYNN GUISSINGER: That's great. I think that we have a lot of reason to be proud of them. And the report
+that's due in March talks about the next step in the plan. Is the Service Development Plan for Front Range
+Passenger Rail due to be done by then? What is the schedule for that?
+DIANE BARRETT: I think it's the spring, yeah. Is that right?
+ANDY KARSIAN: The end of 2025.
+DIANE BARRETT: The end of 2025? I'm sorry, I couldn't hear you, Andy.
+ERIK DAVIDSON: I'll just state for the record, just given that was off microphone, that was Mr. Andy Karsian,
+General Manager of Front Range Passenger Rail, answering that it was end of 2025. And Ms. Barrett,
+sorry, I'll yield the floor back.
+DIANE BARRETT: Thank you.
+LYNN GUISSINGER: Thank you. That's all I have.
+ERIK DAVIDSON: Thank you very much. I'll go to Director Tisdale.
+DOUG TISDALE: Thank you very much, Mr. Chairman. I appreciate the kind words about our staff and their
+commitment and energy going into this process. Because it is the first time that we've had something from
+the legislature and the governor that really gives us a vision toward the future that can be mutually beneficial
+and provide some necessary funding. And I just want to say with Diane Barrett and Chris Nevitt involved,
+we're going to do fine. Thank you.
+ERIK DAVIDSON: Thank you, Director Tisdale. Director Rosenthal, please.
+
+PAUL ROSENTHAL: Thank you. I appreciate it, Berrick and Diane and Chris and Andy and everybody on
+your team. So just confirming so we all know and the public knows that while RTD is solely responsible for
+our part, for Denver, Boulder, and Longmont, in terms of we will not be building beyond that unless we
+specifically agree.
+But we are not the only entity that will be working on Denver, Boulder, Longmont. We will not be the only
+entity that is going to be working, that we will be working with others, the Front Range Passenger Rail, with
+CTIO. We'll be looking for federal funds from the FRA. We'll be looking for state funds from the legislature.
+And I just want to make sure everybody understands we will not be the only ones working Denver, Boulder,
+Longmont route.
+DIANE BARRETT: I'm a little bit confused by your question, but let me try. I believe that in the legislation
+there is permission granted. And I'm going to say this incorrectly. I'm sorry. Debra, maybe you should say
+it for me.
+[LAUGHTER]
+To work outside your area, if you are not spending the tax money that came from a different area. That's
+not well said. Say it right, Debra.
+DEBRA JOHNSON: Mr. Chair, if I may.
+ERIK DAVIDSON: Please go ahead.
+DEBRA JOHNSON: So RTD cannot expend any dollars that were collected on behalf of FasTracks outside
+of the designated area. Moreover, as we talk about leveraging partnerships potentially through an
+intergovernmental agreement, we have to discern what that path would be. But for all intents and purposes,
+we cannot operate outside of the Regional Transportation District, 2,342 square miles.
+DIANE BARRETT: I apologize for making a hatch top of that. And I will learn it and say it correctly the next
+time.
+ERIK DAVIDSON: No, that's great. Thank you very much. Director?
+PAUL ROSENTHAL: Perhaps I wasn't clear.
+DIANE BARRETT: No, you were clear.
+PAUL ROSENTHAL: RTD is not the only entity funding Denver, Boulder, Longmont.
+
+DIANE BARRETT: If we are successful in creating a consortium that can act together and everybody has
+agreed to certain provisions that allow for the action and the financing to happen together, then you are
+correct.
+ERIK DAVIDSON: Thank you, Director. Any further questions? Secretary Guzman?
+MICHAEL GUZMAN: This is a bit internal, and I apologize because we're working with our external entity.
+It occurs to me that we'll need to have some sort of resolution for a delegation of authority potentially
+prepared for this report in December. Am I understanding this correctly, if that's the direction we go in?
+ERIK DAVIDSON: I believe, Secretary, we'll have to have some discussion between the September 30th
+report and December 31st as to how we might approach any direction that might be required for policy
+decisions as it relates to the report.
+MICHAEL GUZMAN: Thank you.
+ERIK DAVIDSON: So not commenting on the specific mechanics of that, but understood where you're
+coming from, sir. Thank you. Other questions? Yes, I see First Vice Chair Catlin online, please.
+PEGGY CATLIN: Thank you, Mr Chair. Diane, so nice to see you again. It's been 14 years. I just wanted
+to reiterate my confidence in this team. Diane was instrumental in the very complex negotiations that
+created the Denver Union Station Project Authority that was responsible for development and subsequent
+financing of the whole Denver Union Station. So she has put together consortiums of a variety of interests.
+And I'm just thrilled that she has agreed to take on this task. And I know that we're in good hands. And I
+look forward to the reports that are forthcoming. Thank you.
+ERIK DAVIDSON: Thank you, First Vice Chair. Well, with that, thank you. I think there's been a theme this
+evening that the agency here has some unfinished projects, most notably Northwest Rail, as we've been
+talking about this evening. As we talked about from the outset of our Peak Service Feasibility Study, it does
+not appear that we can go it alone. So we thank you for being here and engaging with us.
+Again, Mr. Nevitt, Mr. Karsian, thank you for being here as well to participate and listen in on the information
+we have to share. Ms. Barrett, thank you for highlighting the work of our staff and the working groups. I
+know many people from Ms. Johnson, Mr. Millage, and Mr Jensen, Mr Davies, many to name, have been
+involved in quickly sharing information on a compressed timeline to get you all the information that you
+need in order to generate that report.
+So thank you for highlighting that. And thank you to our team for working that together. We look forward to
+seeing the results. Please let us know how we can be helpful. And we look forward to discussing some of
+
+the decision points that we face prior to that December 31st report. So with that, thank you very much for
+being here. Because you presented, is there anything else you'd like to add to conclude?
+DIANE BARRETT: That's it.
+ERIK DAVIDSON: OK. Wonderful. Well, thank you very much. At that time, we'll end our External Entities
+Portion of the agenda. Are there any other matters to come before the Board this evening? I'm seeing none.
+We will adjourn as of 8:02 PM Mountain Daylight Time. Thank you very much.
+
+

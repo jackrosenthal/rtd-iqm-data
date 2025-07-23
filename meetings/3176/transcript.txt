@@ -1,0 +1,1119 @@
+Financial Administration _ Audit Committee - 413-2021
+PEGGY CAITLIN: All right, good evening. I'd like to call to order the Financial Administration and Audit
+Committee of April 13th, 2021. We are convened as of 5:32 PM Mountain Daylight Time. I would
+respectfully ask everyone attending this meeting to mute yourself unless you are recognized to speak.
+Thank you all for joining us this evening. Please note that under the current circumstances, which has
+been going on for a year now, the official meetings of the RTD Board of Directors are being held remotely
+in the interest of public health safety and welfare.
+For the immediate future the official meetings of the Board of Directors will be held via Zoom, and will be
+audio and video record. The meeting recordings, along with the unofficial minutes of the meetings, will be
+posted as soon as practical on the Board's website. Please visit RTD-Denver.com. Scroll to the bottom of
+the page for the link to the Board of Directors page.
+Directors and members of staff, for the sake of the record, if you would like to be acknowledged during
+tonight's proceedings, I would ask you to please raise your virtual hand. Wait for me to call on you before
+proceeding to speak. Speaking out of turn will only add confusion to the record and to the proceedings.
+Directors and staff participating by phone can also raise their virtual hands to indicate that they would like
+to speak by pressing star nine. To toggle your mute setting on the phone, press star six.
+Please note that we will not be taking public commentary during this meeting. Members of the public
+interested in speaking directly to the Board are encouraged to do so during the monthly Board meeting.
+For future meeting dates please refer to the Board's meeting portal, located at RTD.iqm2.com
+At RTD safety is our core value. I'd like to begin this meeting with a safety briefing. It says short, but it's a
+little bit lengthy, so bear with me. As more and more people become fully vaccinated many are wondering
+when life will return to normal. Before you throw away your face masks, experts warn that we'll need to
+continue wearing them a while longer, especially in public settings.
+Face masks and physical distancing will still need to continue into the foreseeable future, explain
+Infectious Disease Specialists with the CDC. Unfortunately, getting vaccinated does not instantly mean
+we can go back to how life was before. Until we have some level of herd immunity, and some more
+evidence and research into this, the vaccine is just Another layer of protection against COVID-19.
+To reach herd immunity 50% to 80% of the population will need to be vaccinated. And since it takes time
+to ramp up production and distribution of the vaccines, and as we saw lately the little hiccup with the
+Johnson & Johnson vaccine, CDC urges folks to manage their expectations about a quick return to
+normal.
+The CDC also says fully vaccinated people can now gather safely indoors in small gatherings with other
+people who are fully vaccinated, with no mask requirement. It's important to note that fully vaccinated
+people should continue to wear face masks-- masks-- and maintain physical distance while in public
+spaces.
+The vaccines are certainly a step in the right direction and a reason to celebrate. But we're not quite yet
+out of the woods. There are five reasons to still wear a face mask and social distance after you've been
+vaccinated. As I said briefly, it does take time for the vaccine to kick in. You won't reach the 90% plus
+
+effectiveness rate until two weeks after your second dose of either the Pfizer or Moderna vaccine.
+Although the Johnson & Johnson vaccine, you're considered fully vaccinated two weeks after your single
+dose, there's still some research to be done on that.
+The vaccines do not provide 100% protection. No vaccine does. They're incredibly effective, up to 94 or
+95%. There is still some risk for getting COVID-19, but the CDC assures folks that even if you do contact
+it with the vaccine, your symptoms will not be as extreme.
+Those who have been vaccinated might be asymptomatic spreaders, and experts are concerned that
+vaccinated people can still become infected without symptoms but spread it to others who have not been
+vaccinated yet. And some of those may be those with compromised immune systems and those who
+can't be vaccinated. So even if you are fully vaccinated, it's recommended to steer clear of those
+considered high risk.
+There are still some limited doses of the vaccine. So be patient in trying to get yours If you have not done
+so yet. That concludes the safety briefing.
+At this point, I'd like to determine if we have all Directors. Have we been able to reach Director Broom?
+Chair?
+ANGIE RIVERA-MALPIEDE: Madam Chair, I left a voicemail. There was no answer.
+PEGGY CAITLIN: OK. So it appears that we have 14 directors in attendance, those being Bouquet,
+Buzek, myself, Cook, Davidson, Dishell, Guissinger, Lewis, Rosenthal, Sloan, Tisdale, Whitmore,
+Williams, and Chair Rivera-Malpiede.
+So we have three recommended actions on the agenda tonight. Let me pull up my agenda, to see
+[AUDIO OUT] The first recommended action is approval of a contract to purchase validators for accountbased ticketing. I'd like to read it-- the recommended action.
+"For the Board of Directors to authorize the General Manager, or her designee, to enter into a contract
+with Mesabi to purchase new bus and rail platform fare validators for the account-based ticketing ABT
+system."
+Do I have a motion?
+SHELLEY COOK: So moved, Cook.
+PEGGY CAITLIN: Director Cook is there-BOBBY DISHELL: Second.
+PEGGY CAITLIN: That was Director Dishell. OK, so Directors Cook and Dishell. We have a brief staff
+presentation. Michael Ford?
+MICHAEL FORD: Yes, thank you. This is Michael Ford, COO. I'll just give a little background and then
+have others weigh in if there are additional questions.
+Back in November 2020, the RTD Board approved the funding needed to advance this account-based
+ticketing system, known as the ABT system, forwarded with the goals of replacing the cumbersome and
+obsolete existing smartcard fare technology and equipment used by MyRide card, and College, and
+EcoPass.
+The existing card system is a card-based system, in which customer balances and transactions are
+stored on individual cards.
+This causes several delays-- up to 24 to 72 hours for our customers, and managing card balances,
+hampering the ability to perform stored value transactions, limited locations, card management limited to
+
+the types of fare availability, and requires more intensive on-going system maintenance, coding payment
+card industry compliance PCI.
+In contrast, based on the fare system, such as the ABT stored information, the account allowing for such
+benefits for real time information, the ability for more widespread varied means to load the fare value,
+more fare offerings, flexibility and changes, and less maintenance. This is an overall focus for our
+customers that will be an improvement. In consideration of the replacement of the card with the ABT, RTD
+has contracted with Masabi to provide the back office technology to be consistent and compatible with the
+RTD existing mobile ticketing platform-- that is also provided by Masabi. The current target date for the
+completion of this is at the end of the year, December 20-- excuse me, December 31st, 2020.
+And one other component to this-- the second component of the ABT implementation is a replacement of
+existing fare validators that were purchased in 2010, prior to the smartcard system. The existing
+validators have obsolete proprietary technology specific to the smartcard system, which necessitates
+replacement of the validators.
+So, we need to obviously make some changes here. These new validators would bring RTD into the
+modern age while providing RTD customers with improved, eased method for transit payments. And
+additional, new APT fare validators will be compatible for processing open payments, thereby providing
+additional fare payment options for our customers.
+In order to acquire this, the ABT of fare validators, RTD issued a request for proposal for the back office
+for the software procurement. The RFP was a separate one, so it was open and competitive process for
+the validators. They would be required to be compatible with most of the ABT systems.
+After a thorough RFP evaluation, the scoring procurement process, Wasabi was selected as preferred
+vendor-- validated vendor-- for negotiations.
+The funds needed to complete the work around $4,054,504, of which $1,813,084 comes from federal
+funding. If approved, will allow RTD to work towards achieving the planned ABT system go live-- again,
+December 31st 2020-- with a phase in validator replacement as well.
+The period of performance for fare validator replacements is tentatively planned for October through
+December. Some of the criteria used in the making the selection-- 40% technical specifications and the
+ability to meet stated requirements, 20% overall cost, 20% experience of the vendor and the project team,
+10% timeline and the ability to meet deadlines, and the 10% for the DBE.
+So, that kind of rounds out the focus, the rationale, what we need to do. This is essential to the operation
+and to improve customer service and how we interact with our public. With that, I'm happy to take
+questions, but there are others that also are available to answer more detailed questions. Thank you,
+Madam Chair.
+PEGGY CAITLIN: Thank you, Mr. Ford. I would like to remind Directors that this action and the
+information was included in the packet, and you all have had some opportunity to talk to staff offline. But if
+there are some new questions that you have, or have not had answered previously, I'd like to call on you
+to speak.
+So I believe that the first Director to have his hand raised was Director Rosenthal.
+PAUL ROSENTHAL: Thank you, Madam Chair. Just a quick question-- in terms of the transition from the
+card-based to the ABT-based-- if somebody has a card with a ticket that has money on it, would that be
+basically invalid as of December 31st as it transitioned to the new system?
+MICHAEL FORD: I'm going to defer that question to either Tanya Anderson or Paul Snyder. If they're on.
+
+[INTERPOSING VOICES]
+KATE WILLIAMS: All of you are muted, we can't hear you.
+PAUL SNYDER: Can you hear me now?
+KATE WILLIAMS: We can hear you now.
+PAUL SNYDER: Thank you very much. Thank you for the opportunity to answer that question. We are in
+the process of working on plans for transitioning the MyRide customers' account balances to alternative
+means. There are several options that we will be working to present to our customers.
+One of them may be giving the customer the option to simply move their MyRide account balance over to
+a balance in the new account system. Another potential option is having that customer MyRide account
+balance be moved to a different potential product, whether that be a paper pass, or some sort of passes.
+Or a third option, probably, would be to refund the customer's money until we had the new system up and
+running. We're trying to give our customers as many options as possible so that they have options for
+moving forward with their fare payments, and are not just stuck come December 31st, when we are
+transitioned over to the new system.
+PEGGY CAITLIN: Did that answer your question, Director Rosenthal?
+PAUL ROSENTHAL: Yes. Just real quick, also, how do people put money into the account? Is that
+through credit card or automatic transfer?
+PAUL SNYDER: So, the initial customer migration from the existing smartcard system to the new
+account-based system will be a manual effort on the part of RTD to get those customers moved over,
+based on their desire. However, if you're asking what happens post go live-- how does a customer get
+money onto their account? There are a variety of means in which that could occur.
+Certainly one of them is through a credit card-- can be done directly through the app-- the mobile ticketing
+app on the phone. And we are also working on-- you also will be able to go to our sales outlets, and be
+able to load value at the sales outlets, for those folks that do wish to use cash for loading of the value.
+And we're also working on a separate work stream of this project that will potentially allow you to go to a
+retail partner, for example a Safeway, or King Soopers, or something to that effect. And also use cash
+there to be able to load value. That's a separate stream.
+PAUL ROSENTHAL: Thank you.
+PAUL SNYDER: You're welcome.
+PEGGY CAITLIN: Thank you, Mr Snyder, I appreciate it. Next we have Director Cook.
+SHELLEY COOK: Hi there, thanks. And just right quick, I saw a transit center webinar tomorrow about
+privacy. Do we have policies in place-- just remind me-- as we're increasing the number of people on
+account-based ticketing, to protect their information? Especially with the private companies having
+access-- do we have policies that protect their sharing of that information? And also, as regards our own
+use.
+PEGGY CAITLIN: Mr. Ford?
+MICHAEL FORD: Yes, we do have policies in place. I would also again defer to either Tanya Anderson or
+Paul Snyder in terms of protecting our clients or customers through various means. But I would like them
+to provide maybe even more detail than that.
+DEBRA JOHNSON: Mr. Ford, if I may, this is General Manager Debra Johnson. As it relates to that, I
+would like to have a General Counsel speak to that, recognizing that we do have other forms, i.e. my
+card-- MyRide, excuse me-- where we leverage and we do not release that information. Somebody would
+
+have to enable us to do that. So we don't provide or disseminate information without their
+acknowledgment. So I will defer to Melanie Snyder to address the question in more detail from a legal
+standpoint. Thank you.
+PEGGY CAITLIN: Thank you. Ms. Snyder?
+MELANIE SNYDER: Yes. Thank you, Madam Chair. And thank you, General Manager and CEO
+Johnson. Yes, we do have policies and procedures in place. We also have provisions in our contracts, as
+well as contacts with our members. There is actually an internal Working Group right now that's going
+through and taking a look at those policies to see to what extent we want to update those.
+SHELLEY COOK: Excellent. Thanks so much.
+MELANIE SNYDER: You're welcome.
+PEGGY CAITLIN: That answers your question, Director Cook? OK. If you would put your hand down, that
+would be great. Director Dishell, please.
+BOBBY DISHELL: Back to you, Madam Chair. This is also on the data privacy standpoint. This, though,
+stems from our receiving federal funding to convert to this system. And really the concern here is are folks
+who are undocumented-- is documentation or immigration status really stored anywhere in our system?
+And how can we make sure that those riders feel safe using a MyRide card? Do we have any
+requirements to turn data over to the federal government?
+PEGGY CAITLIN: General Manager CEO Johnson, would you like to respond?
+DEBRA JOHNSON: Yes, I would. Thank you very much for the opportunity, Madam Chair, and to you,
+Director Dishell. No, we do not have any obligation to turn over that information to the federal
+government. Quite naturally, when we go through these processes, I don't even believe we collect that
+information. But recognizing that the whole intent is to provide equity and access to the system, that that
+isn't customarily a portion of information of which would be required. Thank you.
+BOBBY DISHELL: Great, thank you.
+PEGGY CAITLIN: Thank you. Are there any other questions before we go to a vote? Seeing none. In
+order to streamline our process here, I'm just going to ask if there are any no votes-- if you would raise
+your hand at this time. Seeing none, the motion passes. 14 in favor, one absent.
+So the next recommended action is for the Board of Directors to authorize the General Manager, or her
+designee to authorize, a budget transfer of $400,000 to fund increased commuter rail liability insurance
+coverage and premiums for the N Line. I believe the staff representative that will be presenting this is
+Melanie Snyder, our General Counsel. Ms Snyder?
+DOUG MACLEOD: actually, Ma'am-KATE WILLIAMS: You need a motion first, I think, Peggy?
+PEGGY CAITLIN: Oh, yes, I do. I apologize. Is there a motion?
+[INTERPOSING VOICES]
+Was the mover Chair Rivera Malpiede?
+KATE WILLIAMS: Yeah.
+PEGGY CAITLIN: And the second?
+ANGIE RIVERA-MALPIEDE: Director Williams.
+PEGGY CAITLIN: Thank you. Now we can have our presentation.
+
+DOUG MACLEOD: Madam Chair, this is Doug MacLeod, acting Chief Financial Officer. So, I'd like to start
+off this item, and Melanie's available for additional questions. So, thank you. Good evening. This item is
+seeking additional funding for additional premium costs that RTD will incur. So in February of 2021, the
+US Department of Transportation raised the claims liability limits for railroad providers from $294 million
+up to $323 million.
+So along with that, RTD insures itself for railroad liability claims through insurers. And in doing so, we had
+to go back out to our insurers-- RTD did to get additional insurance coverage to meet these new limits.
+This insurance covers the North Metro Line Railroad commuter rail.
+And in relation to that, we also have contractual agreements with the Suncor Refinery along the N Line
+corridor, as well as Burlington Northern Santa Fe.
+So in seeking this insurance through our broker, Marsh, we were able to find insurers that would provide
+these higher limits. Along with that comes higher insurance premiums. So we, each year, RTD,
+establishes a General Manager contingency fund, and the Board appropriates the funding for the budget
+for the year.
+This fund is used exactly for this purpose, for unforeseen items that arise. What this would cause is that
+our current insurance premiums for the North Metro Line for liability insurance, before this increase, is
+about $2.9 million annually. The increased insurance premiums Add about $362,000 to those premiums
+through September 30th of this year.
+So we are asking to transfer $400,000 of the General Manager contingency funds to those insurance
+premium project funds. This is coming to the Board because it exceeds the General Manager's authority
+of a $250,000 budget transfer, which is why we are asking for this approval. And with that, we would ask
+for any questions.
+PEGGY CAITLIN: Are there any questions for Mr. MacLeod or Ms. Snyder? I don't see any hands raised
+at this point. I know that when this was brought to my attention-- it just flagged it that we may have an
+additional discussion after September-- is that right Doug-- as this budget increases.
+DOUG MACLEOD: Yes, Madam Chair. And in fact, what we don't know is what the insurance premiums
+will be at that renewal period on October 1st going forward. The insurance broker, Marsh, has indicated
+they think we could see up to a 30% increase in the current $3.3 million that we'd be spending annually.
+Yet that remains to be seen and we won't know until we get to that point.
+What our intention would be would be to come back to the Board when that's known to ask for additional
+authority, or to inform the Board when we develop the amended budget-- if we develop an amended
+budget for 2021, and include that as a discussion item.
+PEGGY CAITLIN: Thank you, Mr. MacLeod I think that's important to keep in mind as we move forward
+with our Northwest corridor studies and look at operation cost.
+Director Tisdale, I see your hand is raised.
+DOUG TISDALE: Thank you very much, Madam Chair. Just for the sake of the record I wanted to confirm
+my understanding, and please disabuse me of any incorrect understanding, as to Bus Operations, we are
+self-insured, and we do not go out to third party agencies for that insurance. Is that correct?
+PEGGY CAITLIN: Mr. MacLeod, would you like to answer that?
+DOUG MACLEOD: Thank you, Madam Chair. I'd like to refer that question to Melanie Snyder.
+PEGGY CAITLIN: OK.
+
+MELANIE SNYDER: I will have to double check. One thing to note is that we are self-insured, but we
+also, as a governmental entity, have immunity under the Governmental Entity Act-- the Colorado
+Governmental Entity Act. And so when you're talking about bus operations, there is a waived area there
+for us. And so we are liable up to the caps in the state statute there. But we can get additional information
+about the specific levels of coverage.
+DOUG TISDALE: And while you're doing that, the discussion has focused on the N Line. Am I correct in
+understanding that for the other commuter rail lines-- the University of Colorado A Line-- it's still the
+Colorado A Line for another month or so-- and the B Line, and the G Line, are those coverages for those
+lines provided for by Denver Transit Operators, and we're a named third-party beneficiary for those
+policies?
+DOUG MACLEOD: Madam Chair?
+PEGGY CAITLIN: Yes, please.
+DOUG MACLEOD: Yes, that's correct. Denver Transit Partners does pay for their own insurance since
+going into Revenue Service. Prior to that, RTD did provide OSIP insurance to cover their portion.
+Currently, my understanding is that Denver Transit Partners insurance for those rail lines under the Eagle
+P3 project is approximately $7.1 million in premiums per year.
+So it's a significant cost to both of us to operate those lines.
+DOUG TISDALE: Thank you.
+PEGGY CAITLIN: Did that answer your question?
+DOUG TISDALE: Yes, Madam Chair.
+PEGGY CAITLIN: Mr. MacLeod, am I correct in saying that this is a requirement of the FRA, and for the
+rail lines themselves, and not for bus service? So as General Counsel Snyder mentioned, we are covered
+under the Governmental Immunity Act for our bus service operations. So we have limited liability. Is that
+correct?
+DOUG MACLEOD: Again, Melanie Snyder, would you please help me answer that question? I think I may
+have confused items when I spoke to the Chair earlier about where the coverages begin and end, and
+who's responsible.
+PEGGY CAITLIN: Thank you.
+MELANIE SNYDER: Yes. Thank you, Madam Chair. This is Melanie Snyder, General Counsel. So, yes.
+Just to be clear, the federal law that we're talking about right now is a liability cap.
+So it's setting a cap on the amount that for which we would be liable. The reason that we have to get
+insurance is because, under the state Governmental Immunity Act, there's a provision in there that says-to the extent the government entity obtains insurance for a railroad, we have to insure up to the cap limits
+in the federal statute.
+So that's what's in place. So, yes, Greg-- excuse me, Madam Chair-- we are only talking about our liability
+as to our commuter rail. And specifically, as to the N Line, as acting CFO Doug MacLeod [AUDIO OUT]
+PEGGY CAITLIN: Thank you for clarifying that. I appreciate it. Any other questions before we proceed?
+Oh I see one. Director Dishell, please.
+BOBBY DISHELL: This is a quick logistical question. I noticed that our start date is March 26th. Today is
+April 13th. We won't have our April Board meeting until later this month. Is there a need to suspend the
+rules or do anything special to ensure that we can get this money out the door and make sure we're in
+compliance?
+
+DOUG MACLEOD: Yes, this is Doug McLeod. So those premium rates are good until April 26th. And the
+way that the broker found the insurers was through their brokerage services. They found two insurers to
+cover these limits and they're both based in Bermuda, which many insurance companies are. And so we
+do have until the end of the month.
+One of the things we need to do is also account for any foreign currency translations because both those
+insurance companies deal in British pounds. But yeah, we do believe we have plenty of time to get this
+through, after, presumably, the Board would approve this item.
+BOBBY DISHELL: All right, thank you.
+PEGGY CAITLIN: Good question Director Dishell, thank you. OK now I'd like to go to a vote. If there is
+anyone opposed to this motion, instead of raising your virtual hand, could, you please articulate that you
+are opposed, verbally? Hearing no opposition, the motion passes. 14 in favor, one absent. Thank you.
+The third recommended action that we have this evening is for the Board of Directors to authorize the
+General Manager, or her designee to authorize, a budget transfer of up to $4 million to fund activities for
+the upcoming paratransit software replacement contract. Do I have a motion?
+ANGIE RIVERA-MALPIEDE: So moved.
+PEGGY CAITLIN: Chair Rivera-Malpiede. Is there a second?
+LYNN GUISSINGER: Second.
+PEGGY CAITLIN: Director Guissinger? Vice Chair Guissinger? OK. We have Michael Ford. Would you
+like to introduce this ? Thank you.
+MICHAEL FORD: Thank you very much. Michael Ford, COO. We've been with Route Match since 2008.
+So scheduling paratransit software-- still in existence, but it's outdated. The software doesn't work the way
+it needs to. Software does not offer mobility, web portal, trip-booking, and management customers.
+IT has developed some portals, but there are shortcomings. And as it stands right now, the software lacks
+basic modern functionality needed to optimize-- to fully support the agency's paratransit customer base.
+So, additionally, Route Match has developed a new cloud-based product that will cease to be supported
+by their representatives. Thus, the system requires a replacement due to obsolescence. So again, it's old.
+It's not worked the way it needs to. We feel that we can go out and retain a new software which would
+improve productivity over the current system, thereby saving RTD approximately $2 million to $4 million
+annually.
+These savings can be leveraged to offset the cost for a vendor to implement new technology, and pay for
+the selected contractor. RTD is really seeking a proposal with a provider at risk. So we believe that there
+are enough of vendors out there that can sign up for something like this, and help us move and navigate
+forward with the new system. So due to the budget forecasting for 2021, we want to make sure that we
+are able to move and transfer this money. Whereby budget savings were identified, staff is now seeking
+the authorization to provide funding through the budget transfer up to $4 million.
+The estimated unfunded cost for contract replacement software on-board hardware is less than $4
+million. And the funding is available through the existing operations funding currently designated for
+Access-A-Ride, through the fuel and transportation. This is anticipated that these proceeds will not be
+needed for the original intent, due to the reduction in fuel and operation costs, due to increased AccessA-Ride productivity.
+So this is a real long overdue need for the paratransit area to help improve time performance, the ability
+to carry more people, and just to be more productive altogether.
+
+So with that, I'll conclude my remarks and I'm happy to take questions. Thank you.
+PEGGY CAITLIN: Are there any questions of Mr. Ford or his staff, either Paul Hamilton or Eric
+Farrington? I don't see any hands raised. I think this has long been requested by a number of our
+customers in the paratransit community.
+So at this time, I'd like to ask if there are any directors who are opposed to this motion-- to speak up?
+Seeing none, the motion passes with 14 affirmative votes and one absent.
+Moving on to discussion items. We have two discussion items this evening. The first is an update on our
+COVID-19 relief funding and the RTD financial update. I have Debra Johnson and acting CFO Doug
+MacLeod on to make this presentation.
+DEBRA JOHNSON: Thank you very much, Madam Chair. You're welcome. Good evening to you, and
+committee members, and to all who are virtually assembled. I'm Debra Johnson, General Manager and
+CEO. I am before you this evening to introduce the discussion item pertaining to COVID-19 relief funding.
+As of late, there has been a myriad of conjecture and speculation pertaining to RTD's current financial
+status. And how these apportionments of these federal dollars can level-set the agency's budget. As an
+agency, it was not our collective understanding that this funding would come to fruition, recognizing these
+were unknown variables several months ago.
+Doug MacLeod, RTD's acting Chief Financial Officer, will discuss the apportionments and how that
+parlays the agency's financial outlook, including the mid-term financial plan. Moreover, as you know, the
+agency received notification on March 29th of 2021 of an apportionment from the American Rescue Plan
+Act, which we're referring to as ARPA.
+However, the agency has yet to receive the guidance from the Federal Transit Administration. As a point
+of reference, on January 11th, 2021 RTD received notice of its CRRSAA apportionment of $203 million.
+Yesterday, which was Monday, April 12th, 2021, nearly three months later, the agency learned that the
+Federal Transit Administration had executed the CRRSAA grant award.
+Moreover, the grant application that was approved stated the following project description, for which RTD
+will draw grant funds from these eligible expenditures. And it reads, and I quote,
+"RTD plans to use 5307 CRRSAA funds for operating, maintaining, and managing bus and rail lines in the
+Denver area, which can include salaries, utilities, and fuel for the period of January 1st 2021 through
+February 28th, 2022. "
+I share this information to ensure that there is mutual understanding of timelines. Thus, it may be summer
+before the agency understands where it stands with this ARPA funding. As you are aware, the CRRSAA
+funding utilization plan will vastly be used for the restoration of service, and will be leveraged
+incrementally for service change.
+I will now yield the floor to acting CFO, Doug MacLeod who will present the financial outlook and speak
+more directly to the application of funds for the elements I outlined. Thank you very much, Madam Chair.
+And I turn it over to you, Mr. MacLeod.
+PEGGY CAITLIN: Thank you, General Manager. Mr. MacLeod.
+DOUG MACLEOD: Thank you Chair, and thank you, General Manager Johnson. And I would ask the
+Board Office if they could allow me to share my screen for the presentation? Or if the Board office could
+call up the presentation materials?
+PEGGY CAITLIN: I believe for directors it begins on page 15. If you're able to follow online.
+
+DOUG MACLEOD: Correct. Thank you, Madam Chair. And hopefully, you can see the screen. Great. So
+as General Manager Johnson discussed, we would like to give the Board an update on the three
+apportionments that RTD has been notified of for federal COVID relief funding, and then also discuss,
+towards the end, what that means for RTD In terms of its financial condition.
+So tonight we will discuss the federal COVID relief funding update. We'll talk also about the fiscal policy in
+the Board's funding priorities, also which could be referred to as the guiding principles, and then finish up
+with an update on the mid-term financial plan numbers,
+As General Manager Johnson mentioned-- you see on this slide-- we have received apportionment
+notifications for a total of $774.1 million from the federal government for COVID relief funding. So that
+consists of the three apportionments.
+One for the CARES Act, in 2020, which was $232.3 million, the second apportionment was from January
+2021, $203.4 million. And then in March of 2021, on March 29th-- as General Manager Johnson
+indicated-- we were notified of the ARPA funding, $338.4 million.
+So I'll talk a little bit briefly about each one of those apportionments, what they consist of, what they are
+designated for, and what the limitations are, to the extent that we know so far from the FTA.
+So beginning with the CARES Act-- this slide should look very familiar because we've had many
+discussions about the CARES Act that was apportioned in 2020. That funding was fully drawn down in
+2020 and it was a total of $232.3 million.
+Each of these apportionments is a grant in which eligible expenditures are drawn down against the
+funding. So we do not get the funding up front. We have to incur eligible expenditures, draw the funding
+down-- and for each one of these apportionments, they are all 100% government funded, unlike many of
+our other grants, in which it requires a local match, or a match from RTD.
+Typically it's 80-20, where the federal government provides 80% of the funding if RTD provides 20% of
+the funding from local funds.
+So as you can see-- and this will be consistent probably for the other two apportionments in the manner
+of which we draw down funding-- we will draw that down as quickly as possible. And as General Manager
+Johnson indicated, the guidance provided so far by the FTA on the CRRSAA in the ARPA funding has
+been pretty specific about what types of expenditures. They have to do with operations.
+In the case of CARES we drew down wages and benefits for represented and non-represented
+employees. And we also drew down funds from our contracted bus and rail services.
+The CRRSAA Grant. We did just receive the notification that RTD CRRSAA application was executed.
+Again, just to reiterate what General Manager Johnson said earlier, those funding monies are also to be
+used for operations, particularly salaries, fuel, and utilities.
+So it's fairly narrow in what we can use that funding for. So we intend to draw down those funds in the
+same manner as we did for CARES, rapidly, using our existing expenditures as they occur. That
+application goes back to January of 2021 so we can already start drawing immediately for expenses
+incurred year-to-date.
+Initially, back in February, we did talk to the Board about the planned expenditures for uses of those
+funds. So we will draw those funds down using ongoing operating expenses and replace those funds with
+this CRRSAA funding.
+You may recall that the largest portion of that, almost 90% of the CRRSAA funding, was $180 million,
+which we intend to spread over six run boards, starting in June. So that would-- six run boards takes us
+
+through two years. So what we're trying to do there is stretch that funding as long as possible to maintain
+operations.
+The other items you see here were really changes and eliminations of certain actions that were taken for
+funding cuts before we knew about the CRRSAA funding. So we restored extra shift pay and overtime
+pay, eliminated furlough days that were planned for 2021, and pay reductions as well.
+And then we allowed-- we reinstated the ability of employees to cash out excess balances of paid time
+off, vacation and sick.
+The one item that we have out there that's been designated but not specifically encumbered is almost $14
+million, $13.9 million. But we have several uses identified, potentially, with Accountability Committee
+recommendations. They have to peer review, which have already largely taken place. As well as state
+performance audit recommendations-- the responses to those-- there will be some costs associated with
+that.
+So that rounds out the full $203.3 million of CRRSAA funding with intended expenditures.
+So the most recent funding notice that we received at RTD was the ARPA grant, the American Rescue
+Plan Act. Our apportionments for the ARPA grant was $338.4 million. There's a couple of more unique
+items attached to this, although we are still awaiting specific guidance for the use of these funds.
+But those specific items in particular-- are that-- they can be used for payroll, operating costs, and
+personal protective equipment, similar to other fundings, but there is a timeline associated with this,
+where the other ones were open-ended. The CRRSAA and the CARES Act were more open-ended
+without a final date to do draws.
+With the CRRS-- or with the ARPA funding, the funds must be obligated by September 30th of 2024, so
+we need to obligate and draw those funds down by September 30th of 2024. Or-- sorry, we need to draw
+them down by September 30th 2029, but we need to notify FTA of our intended obligations that we're
+going to use to draw those funds by 2024.
+So it's a significant amount of money. But again, there are some limitations as to its usage. And we are
+still awaiting notification as to the specifics on that one.
+So just to circle back a little bit, what does all this mean to RTD? Circling back to our fiscal policy that the
+Board approved in November 2020 for the fiscal year of 2021, the Board did include in there a new
+section on our fiscal policies, discussing the COVID-19 fiscal policies, and guiding principles, and
+guidance for restoration if more funding were to be found at a later time.
+And those are restore reserves to three months. The current RTD policy is to strive to maintain three
+months of operating reserves, which is the equivalent of $150 million. At the time that the midterm
+financial plan was approved, and the fiscal policy was approved, we were not at that level. We were at
+approximately 1 and 1/2 months on the base system and about 2 and 1/2 months on FasTracks.
+Secondly, the Board's guiding principles directed that we do not use existing FISA balances. And then we
+also limit, or do not use, future rubber tire contributions for the FISA, which is FasTracks internal savings
+account. The FISA is intended to be used for additional FasTracks projects.
+The fourth bullet there is restored deferred projects related to compliance or safety. That item was
+particularly important because in the mid-term financial plan we have an asset management plan, which
+directs us towards a state of good repair and schedules out when certain items need to be repaired or
+replaced.
+
+What we did in the mid-term financial plan is we delayed all new capital spending in 2021. So there's no
+new capital spending in the budget in 2021. And then we deferred all of the rest of the projects out one
+year, and then we only included 70% of those projects that are required to be replaced according to our
+asset management team.
+So there's a big need there in terms of maintaining our state of good repair. And then finally, restore
+services ridership allows.
+So before we get into the numbers, just a couple of background items here. In November 2020 the
+Finance staff presented to the Board the mid-term financial plan. The mid-term financial plan is our six
+year plan at RTD. The first year is the budget, and the remaining five years are forecasted out.
+At the time there was a great deal of uncertainty. So the Board agreed to only approve the first two years
+of that mid-term financial plan, 2021 and 2022. However we did present the full six years, and what was
+evident in those six years, at the time, was that the base system was in pretty good shape from a
+balanced budget standpoint, even before we knew about CRRSAA and ARPA funding.
+So they were in pretty good shape but there were some uncertainties built in there that we'll discuss here
+shortly. The big area of concern at the time was FasTracks. FasTracks has a significant amount of debt,
+and a significant amount of their funding goes towards paying the debt service on that debt that's been
+issued to build out FasTracks.
+So in the mid-term financial plan, what was contemplated is that with the reduced revenues that were
+projected due to COVID for those six years, it was contemplated that we would have to use all the
+FasTracks reserves that they had, and we would use all those reserves through 2026 and still end up with
+a $28.8 million.
+So why it's problematic is that there would be nothing left. And then if you go out further past that point
+there's not enough money to fund ongoing operations. So that was a big concern at the time.
+So where does that leave us now? So just summarize some of the items that we've discovered, or that
+have happened since the time of that midterm financial plan. This first slide shows some of those positive
+items that we've recognized-- or we will be able to recognize.
+Number one is additional beginning reserves. As we've been able to close out 2020, and we're still
+working on the financial audit there but we've gotten a better picture of how we finished up last year. We
+actually had a better year than what was anticipated in the mid-term financial plan due to a combination of
+slightly better sales and use tax reserves and reduced expenditures.
+So what that allowed us to do was finish the year with an additional $118 million in reserves. And when
+I'm talking about numbers here, I'm talking consolidated, rather than the FasTracks and base system
+break out.
+In addition, we will have a presentation after this board item about the sales and use tax forecast. The last
+sales and use tax forecast was used for the mid-term financial plan that was received in September.
+Since then, our partners at CU Leads have gotten additional information and revised their forecast, and
+provided us with the forecast for March 2021. That shows an increase in sales and use tax forecasted at
+$114 million. So a slightly better improvement than what we anticipated earlier.
+We've spoken about the debt refinancing interest savings. The largest one was the one that the Board
+approved just a couple of months ago and was closed out in March. That refinancing saved $127 million.
+We also had a refinancing in December, with the private activity bonds. And then we have a potential for
+another smaller refinancing, about $5 million.
+
+So $140 million in savings from that. Then we also have the CRRSAA funding and the ARPA grant
+funding. So all told those items accumulate to $915 million that we did not know about back in November.
+So that's great news on the funding standpoint.
+So this next slide shows some of the other items, some of the challenges that have arisen since we did
+that mid-term financial plan. The top line is just a summarization of what we looked at on the prior slide,
+with a total of $915 million positive new funding and reduced expenses.
+So walking through the usage of this funding, the CRRSAA funding, as we saw in that previous slide, has
+already been designated for certain uses. $180 million towards six run boards and then the other items
+totaling $203 million.
+So the $915, $203 million has already been designated for specific uses. One of the items that was very
+uncertain, and still remains uncertain, when we did the mid-term financial plan, is our fares. So we were
+still about midway through to where we are now in the COVID process, and it was really uncertain as to
+when fares would recover, when riders would return, and it's still very uncertain.
+So at the time, certain assumptions were made that we would recover ridership within a two to three year
+time period and get back to where we were pre-COVID.
+So this line item is put in here and it sums to $356 million because we wanted to bring this to the Board,
+just so that you're aware that if the new future state of our RTD's ridership is the current state, which is
+about 60% lower in ridership, then there will be an impact of the fares that were contemplated in the
+forecast.
+If we just keep the fares at the current state going forward, that means a loss of an additional $356 million
+in fares that was included in the mid-term financial plan. So that's a very big number and a very big
+concern.
+I guess the good news is, right now, the CRRSAA funding and the ARPA funding have given us a little bit
+of time to see how things develop. But this is probably a potential worst case scenario that we want to be
+planning for if that does really materialize.
+So that leaves us-- if those do materialize, that leaves us with $356 million of the $915 from this funding.
+And I would like to reiterate that it is one time funding so some of these items are ongoing, obviously, with
+fares and reserve usage.
+We have a line item in here for possible DTP, Denver Transit Partners, legal costs associated with the
+litigation. We still don't know what the outcome is from that. We're waiting for the judge's decision on that.
+Nothing has been budgeted for that. So that's an outstanding item that we don't know what that may
+result in.
+I also put a line item in here for the TABOR effect. So we've had a few discussions with the Board about
+TABOR. Taxpayer's bill of rights. Under TABOR, governmental entities have to seek authorization to
+collect taxes and issue debt. So for RTD, what that means is we have the Base System and we have
+FasTracks.
+Under the Base System, we are exempt from some of the provisions of TABOR, in terms of this ratchet
+down effect. And what the ratchet down effect is, is that year over year, a government agency cannot
+collect an additional amount of taxes from taxpayers more than, for us, the growth in population and
+property taxes within the district.
+So as an example, if we weren't exempt from TABOR currently, year over year, when we had the
+decrease in sales and use tax revenues of about $30 million in 2020, that would reset our baseline. And
+
+that's our new baseline, and we cannot collect more than the growth of population and property taxes in
+2021. Any excess has to be returned to the taxpayers.
+So why this is in here is that in 2025, the Base System debt is paid off, and then the Base System then
+becomes subject to this ratcheting down effect. So there could be some potential negative impacts to
+what was shown in the mid-term financial plan where we are budgeted to be balanced in the Base
+System.
+I also included a line item here, eliminate use of FasTracks reserves. So when I spoke to the fact that the
+midterm financial plan, we were using up all of our reserves to stay balanced on the FasTracks books,
+that total is $238 million through 2026.
+So if we want to maintain the three months of operating reserves, and maintain our financial footing in
+terms of our foundation, we would not use those reserves and then instead would save some of the
+funding that we've received.
+Finally, I have a line item in here for the ARPA grant fund use. And it's blank because with the $915 if
+these items do materialize, we're only left with $78.9 million at the end of 2026. So essentially, what this is
+saying is that we are using the ARPA funding to help subsidize the loss of fare revenue and some of
+these other items, if we continue on the same path in terms of our expenditures.
+So that kind of rounds out what we're currently looking at. And we will continue to update the Board in
+terms of additional items that come forward. We do plan later in the year to bring a new forecast forward
+as well as more budget information. But that's where we are currently.
+So just to summarize some of these items. So these are our staff's financial concerns at the current time.
+So we do have the great news that we've gotten this funding. This federal COVID relief funding has been
+amazingly helpful but it's only one-time funding that doesn't last.
+So one of the items in this came from the Board guiding principles was to solidify RTD's financial
+foundation, which is really establishing reserves and preparing for the rainy days, and then really setting a
+path forward in terms of knowing what our expenditures will be, and matching our expenditures to
+anticipated revenues.
+I mentioned the supplemental funding is one time, so some of the costs that we are incurring will be
+recurring costs, service costs. If those aren't adjusted, those are recurring costs going on into the future,
+obviously.
+And then fare recovery post-COVID, that was a really big line item as you saw on that that one slide.
+$356 million if we stay in the current state of fare collections. So that remains to be seen if customers
+return, where they return, what our fare policies are at that time. A lot of unknowns on that end, but it's a
+big number.
+Maintaining efficient levels of expenditures. Again, we do have-- and the final bullet too-- state of good
+repair and some of these projects. So along with our funding of operations, we do have a lot of concerns
+going forward since we've delayed a lot of projects, a lot of asset replacement and repair. We've been
+doing that long before COVID. We've been kind of kicking the can down the road. So we have several
+items that are becoming more critical and they're building up. So another concern on that end is just
+maintaining what we do have. So Madam Chair, that wraps up my presentation, and we'd be happy to
+answer any questions.
+PEGGY CAITLIN: Thank you Mr MacLeod. There's a lot of information there. I do see Chair RiveraMalpiede's hand is raised.
+
+ANGIE RIVERA-MALPIEDE: Thank you. And Mr. MacLeod, thank you so much for the presentation. This
+was very, very good. I have two questions. The first one has to do with really addressing our asset state
+of good repair. what is that price tag? That's my first question.
+And my second question is solidifying RTD's financial foundation. You were saying three months of
+research. What is the price tag of that as well, please.
+DOUG MACLEOD: Thank you. Great questions. Yes. So on the three months' reserve, so the price tag of
+that for both Base and FasTracks-- currently-- in 2020 we were averaging about $51 million per month in
+operating expenditures, excluding depreciation. So just maintaining that same level is for three months at
+$51 million per month is $153 million. So that would be the ideal level that we want to get at.
+Now obviously, that can change over time because we'd want to use those reserves when we ran into
+difficulties, economically. Say if we had a recession loss in sales taxes, that kind of smooths out the
+bumps in the road. So that was the idea behind the 3 months and $150 million. So at least at the end of
+2020, we were right there because of that additional funding that we were able to keep in reserves, the
+$118 million. We were right at three months' reserves so it really depends on how things look going
+forward.
+In terms of the state of good repair costs, I don't recall the exact cost right offhand, but it was significant.
+It's in the $150-$200 million range. And a large portion of that is some of our fleet replacement. So we
+have a need, we've been pushing off bus purchases for quite a while. I just had a discussion today about
+our fleet replacement plan. We've got a large number of buses that are reaching 15, 16, 17 year lives that
+we've delayed replacing just due to our previous financial challenges. So it's a significant number. And I
+can follow up and get you an exact number of what that looks like.
+ANGIE RIVERA-MALPIEDE: And if I might Madam Chair, what is the average life expectancy for buses? I
+know we're over a lot.
+DOUG MACLEOD: Yeah, and if anybody else wants to weigh in, please do.
+DEBRA JOHNSON: I would. General Manager Debra Johnson, CEO. Basically, in reference to our
+assets, as we look to the Federal Transit Administration we're required to hold on to that asset from 12 to
+15 years, contingent upon the mileage, which can go up to 500,000 miles.
+ANGIE RIVERA-MALPIEDE: OK. Thank you.
+DEBRA JOHNSON: You're welcome.
+PEGGY CAITLIN: Is that all, Chair Rivera-Malpiede?
+ANGIE RIVERA-MALPIEDE: Yes Madam Chair. Thank you.
+PEGGY CAITLIN: Thank you. Director Dishell, I see your hand is up, Please.
+BOBBY DISHELL: Thank you, Madam Chair, and thank you Doug MacLeod, and for you and your staff,
+and GM CEO Johnson for putting this together. I want to make sure that I'm reading this graph correctly
+which is that in 2023 if we do not-- assuming the worst case scenario, in 2023 we are looking at $103
+million deficit. Am I reading that right?
+PEGGY CAITLIN: Mr. MacLeod?
+DOUG MACLEOD: I'm sorry. Let me refer to that slide. So that is a slide on page-DEBRA JOHNSON: Page 25.5.
+DOUG MACLEOD: Thank you. So page 25. So we broke this down by year just so we can see the effects
+by year. So that's true. For that particular year, it would be a deficit of $103 million. You can see in the
+
+prior years, we actually have a positive balance, so technically that amount will be carried forward and
+used to pay for some of that deficit.
+BOBBY DISHELL: Got it. Thank you.
+PEGGY CAITLIN: Thank you. Director Tisdale, please.
+DOUG TISDALE: Thank you very much, Madam Chair. A quick question for our acting CFO. Do your
+projections take into account the Leeds School of Business forecast that is a later part of this
+presentation, this evening.
+DOUG MACLEOD: Yes, we did not have that most recent forecast when we did the last mid-term
+financial plan. So yes, we did include that. During the mid-term financial plan period of 2021 through
+2026, that's an additional $114 million.
+However, what I would point out is what you'll see in this forecast. If you get past that point, when you
+compare the latest forecast to the September forecast, basically the positive impact has all been brought
+forward into these earlier years. The gentlemen from CU Leeds will explain that. They're seeing some
+different activity where they think some of the spending will occur earlier, which results in the later years is
+actually going to be lower than their September forecast.
+DOUG TISDALE: All right. Thank you, I appreciate that. I just wanted to say, and I know [AUDIO OUT] for
+a little bit when Rich Wobbekind and the others speak. Thank you.
+PEGGY CAITLIN: Thank you, Director Tisdale. Are there any other questions? I have one. And I think I
+may have missed something earlier, so I apologize if you already said it. So when you look at operating
+expenditures, does that assume going to pre-COVID service levels, or does it mean reinstatement of
+service, or does it maintain the service levels that we have right now?
+DOUG MACLEOD: In the mid-term financial plan, the assumption that was made was that it would
+maintain the current level of service, with slight increases going forward. So the costs associated with that
+would increase according to inflation. So that's the idea that happened behind that expense and the
+expenses. The other thing that would be important to know, is that those expenses weren't significantly
+reduced, because the thought was that we would maintain service based on the CARES funding, and
+then that was carried forward. So the expenses that we have in there are really current state that we're
+carrying forward.
+PEGGY CATLIN: OK. And those were also taking into account that we had to double-up on buses to
+maintain social distancing.
+DOUG MACLEOD: Correct.
+PEGGY CATLIN: OK. I think Director Lewis was next.
+SHONTEL LEWIS: Thank you, Madam Chair. Thank you, Doug, for this presentation. It's actually quite
+thorough and super easy to follow along. I'll say at the beginning I really appreciate seeing the debt
+refinancing, so thank you all for your work in that. I do have a few questions from the-- I actually don't
+know what side this was-- where you talked about the reversal of the furloughs, the tiered pay reductions,
+and then the PTO payouts, and I was just kind of curious as to the thinking around the reversal of those
+decisions.
+DEBRA JOHNSON: If I may, Madame Chair, if I can direct the response to Director Lewis. So recognizing
+when we receive the legislative text, as related to the CARES Act-- excuse me, Carissa Act, it specifically
+cited that these monies were being allocated for those who had been placed on furlough. Recognizing
+that furlough days were instituted for non-representative employees, we leveraged this going forward,
+
+looking at what was done and the sacrifices that had been made-- holistically throughout the entire
+organization-- hence, we are redoing a rescission with those that have been laid-off in the front-line
+operator and mechanics ranks. And in relationship to the furloughs, those were only geared toward that
+classification of employee. Hence, that was the rationale recognizing the intent of the legislation as put
+forward.
+SHONTEL LEWIS: I see. So if I might follow up, General Manager, with the representing employees, was
+there a revisit there, or was it not necessary because you had already had that information going into the
+re-negotiation of contracts?
+DEBRA JOHNSON: So with the represented employees, they never were impacted by furlough days.
+What was done instead was eliminating positions, i.e. some that were vacant. Hence, when we received
+the money, that's why a rescission was done of the layoffs, and doing a recall of said positions.
+SHONTEL LEWIS: OK. Thank you so much, I appreciate that.
+DEBRA JOHNSON: You're welcome, ma'am. And so Director Rivera-Malpiede actually asked this
+question, but I had an additional follow up for the deferred projects list. I know we tend to receive that
+deferred projects list as a Board, and I'm curious if we've made any headway, or been able to prioritize
+projects based on the funding that we have recently received, or are in a position to receive.
+PEGGY CATLIN: General Manager Johnson?
+DEBRA JOHNSON: Thank you very much. And I will have acting CFO MacLeod address this as well. But
+as we look at what's happening-- recognizing we just received information pursuant to what the Carissa
+money actually can be leveraged for-- and as cited, we're talking about salary, utilities, fuel, and salaries,
+utilities, and fuel, and the operation of the bus and rail lines. Recognizing that there could be some
+implications relative to safety, we're going to reconvene and have a discussion around that, since we now
+understand the parameters.
+SHONTEL LEWIS: OK. And if I might ask-- Oh, Mr. MacLeod go ahead.
+DOUG MACLEOD: No, thank you. I was just agreeing. General Manager Johnson covered it all. Thank
+you.
+SHONTEL LEWIS: OK. Thank you. And if I might-- and this may be coming to the Board. I'd be curious as
+to-- as you all revisit that conversation-- where we might be in terms of being able to get some of those
+projects off of that deferred projects list, and begin to address some of those. And so if that might come
+back to the Board, I'd be interested in it. You can also send that via email. You don't have to bring it as a
+Board report.
+DEBRA JOHNSON: Thank you. Appreciate that, Director Lewis. And recognizing we want to ensure that
+we are operating in a state of good repair, so anything that is past the typical preventative maintenance
+aspect, or whatever else there is, that we need to ensure that we're meeting the threshold relative to the
+operability of our service. Those will be top of mind, and we can most definitely do a communicate to the
+Board outlining what that is. So thank you.
+SHONTEL LEWIS: Thank you so much. I'd love to be able to talk about those things. And then finally, Mr.
+MacLeod you spoke about the fares trending downward, and I was curious. In terms of the services that
+we weren't offering during the pandemic service, were there any cost savings at all? Or because we were
+having those followers, that maybe we might have broken even?
+DOUG MACLEOD: Yeah, that's a great question. Thank you, Doug MacLeod here. So, yes. And that's a
+really good question. So that slide was intended to show that in the original mid-term financial plan-- we
+
+had contemplated a fairly significant recovery over those six years, getting back to almost a pre-COVID
+normality, in terms of fair collections and ridership. What that line-item of $356 million was intended to
+demonstrate that this is the new normal. We don't make that recovery to pre-COVID levels. That's what
+our exposure is on the revenue side.
+And to answer the second part of your question, definitely, there were some significant measures taken
+towards the end of 2020 that saved quite a bit of money, which also contributed to the additional fund
+balance that we were left with at the end of the year. Which was great, that we had a good starting point
+for this year. Then for 2021, the budget contemplated a lot of those reductions in force, and some of
+those other cost reductions that were necessary to meet what was anticipated back in November for a
+loss in revenue.
+So the great news is-- after the first two months-- is that we're trending right at budget. So we have been
+successful in reducing our costs to this point this year. So that was going to be one concern. With all the
+changes that were happening, it's difficult to tell what that really looks like until you actually see it
+happening. So I think we're in decent shape on the expense side, but it's a very cautious position that we
+don't have much wiggle room, given that the additional funding is really temporary in nature.
+SHONTEL LEWIS: Yeah. Thank you for that. I-PEGGY CATLIN: Does that answer your questions, Director Lewis?
+SHONTEL LEWIS: I was actually in the middle of a sentence. So it does beg for me the discussion that
+we've been having with the state legislature and the Accountability Committee, and this conversation
+around providing more flexibility for RTD and I think the dialogue naturally going to, hey, now, you can
+offer RTD for free-- fair free-- and now we're talking about fairs trending downward, and not really seeing
+an increase in ridership. And so it's definitely an interesting conversation to be had in the future. But thank
+you so much, Mr. MacLeod I really appreciate your work on this. And with that, those concludes my
+remarks.
+PEGGY CATLIN: Thank you. I guess I just misunderstood when you said, finally. I didn't know you were
+going to continue, so I apologize. I wanted to acknowledge that Director Broom has joined us. And he
+does have his hand up, but prior to Director Broom, I see that Director Davidson has his hand raised.
+ERIC DAVIDSON: Hi. Thank you, Madam Chair. Thank you, Mr. MacLeod. Thanks for the conversation
+today-- the presentation. I just want to make sure I understand, from a cash flow standpoint, and a
+mechanics standpoint-- recognizing that we did just get the final guidance on the Carissa funding for
+salary, utility, fuel, operation, and bus and rail today. This may be a little bit premature, but do I
+understand correctly that the Carissa funds need to be dispersed-- not obligated-- but dispersed by
+February 2022? That's kind of part one to my question.
+PEGGY CATLIN: Mr. MacLeod
+DOUG MACLEOD: Thank you, Madam Chair. No. Sorry, the Carissa funds-- I'm trying to recall-- yes,
+those do have to be dispersed by 2022. And that has not been a concern for us necessarily, because we
+have the expenditures that we can draw that down long before. And we intend to take the same approach
+that we did with the CARES funding, to draw that money down as quickly as possible, get it in our bank
+accounts to earn interest, and then use it to fund operations or other options going forward.
+ERIC DAVIDSON: OK, great. Thank you. And I know we've talked a little bit about that, but that's kind of
+part two to my question. Do we have yet to identify all of the expenditures now that we just have the
+guidance of what we'll actually obligate, and then disperse the funds to. I know we're doing the run board,
+
+but we're just basically pulling forward some expenses in the categories that qualify, and then extending
+out other money forward from a cash flow standpoint. Have we identified what we'll draw against yet, or is
+that an ongoing process now that we have the guidance?
+DOUG MACLEOD: Our approach with the Carissa funding, the second round of funding, was going to be
+the same approach that we used with the CARES funding. So we would use those same categories of
+expenses, mainly costs associated with operating. In terms of wages-- salaries, wages, and benefits, and
+then also purchase transportation.
+One of the balancing acts that we have to do, is we also receive on an annual basis an apportionment for
+preventive maintenance grants that are 5307. Those are approximately $65 to $70 million annually. We
+can't mix up the expenditures for each one. You can only draw on one, obviously, using a certain
+expenditure. So we're being very careful in how we administer that, but our intent is to use those same
+types of expenditures to draw.
+ERIC DAVIDSON: OK. Thank you.
+PEGGY CATLIN: Thank you, Director Davidson. We have Director Broom.
+BOB BROOM: Thank you, Madam Chair. Can you hear me?
+PEGGY CATLIN: Yes. Thank you.
+BOB BROOM: My question is this for staff. How confident are you in all the information that you've
+provided to us here tonight? I've never seen such wild swings before in anybody's set of municipal books.
+And so, I'm concerned that you really haven't had a chance to study these numbers and make sure that
+they're firm. And going forward, we need to have firm numbers in order to make good decisions. But that's
+just an observation. Thank you.
+PEGGY CATLIN: Thank you, Director Broom. Would CEO General Manager Johnson, or Mr. MacLeod
+like to respond to that?
+DEBRA JOHNSON: I appreciate Director Broom's comments, and I support those of-- I had a
+conversation very similar to that with Director Guissinger, as relates to where we are-- recognizing we are
+getting guidance, and these are one-time expenditures. And as we go forward, we have to make informed
+decisions. So I appreciate him acknowledging that. Thank you.
+PEGGY CATLIN: Thank you. OK. Director Cook.
+SHELLEY COOK: Just quickly, one thing the numbers really drive home for me is the need to focus on
+ridership, and building that back up. I also think that's where the Accountability Committee is coming in,
+too. I mean, I've heard several times that the aim-- our aim should be to build ridership. And that would
+address that yawning gap in fare revenues that we see coming in, too, even if it means lowering fares at
+some point to build ridership in order to have that happen. Thank you, Madam Chair.
+PEGGY CATLIN: Thank you. Director Guissinger.
+LYNN GUISSINGER: Thank you. One question I had is about TABOR. You mentioned that it may hit the
+ratchet down where we know more than growth in population and property tax in the district, what actually
+triggers that ratchet down? Is it the lowering of property values? That was my understanding at one point,
+which seems weird, but do you know, Doug?
+DOUG MACLEOD: Yeah, this is Doug MacLeod, and Melanie may have a little more background. So
+Tabor is notoriously vague on some of these items. So we've actually tried to go and look at what that
+means for RTD, and how we could calculate that. And it's very, very difficult, as you can imagine, trying to
+assess property values within the district But yeah, that's really the intent. It would drop us down to a
+
+lower level and we would only be able to collect on that basis. And I'm sorry, I'm probably not answering
+your question, if I'm missing a portion of that.
+[INTERPOSING VOICES]
+LYNN GUISSINGER: I'm sorry, was somebody else saying something?
+PEGGY CATLIN: No, I just asked you to go ahead and follow up.
+LYNN GUISSINGER: Thank you. I'm not exactly sure what my question is, and you sort of answered it,
+because I was trying to figure out how we calculated the $19 million each of those years. Because it does
+seem like it's hard to-- it's something we have to keep an eye on, I think, as we move forward, and
+whether we need to take action on that-DOUG MACLEOD: Yeah, definitely.
+LYNN GUISSINGER: Go ahead.
+DOUG MACLEOD: I'm sorry. Those numbers were just-- basically what we did is we eliminated the
+growth in sales, and we used taxes for those years on the base system. So those two $19 million
+numbers were what were projected for growth in sales and use tax. And if we were to remain flat, that's
+what we'd be giving up.
+LYNN GUISSINGER: OK. And then you talked about the CARES Act funds, and that the $125.6 million
+went to represented employees' wages and benefits, and about $21.3 million went to non-represented
+employees. Are those are the numbers going forward? We're non-representing may have changed, I
+guess. But are those essentially the numbers that we expect, going forward?
+DOUG MACLEOD: Yeah, probably. This is Doug MacLeod. Probably about that same ratio. And as I
+mentioned, we do have-- what we have to do, is when we gather those expenditures to draw down on the
+CARES or the Carissa funding, is we have to separate out what we're going to use to draw down on
+preventive maintenance. So the ratio between represented and non-represented is a little misleading,
+because a lot of the preventive maintenance costs that we would draw on the 5307 annual grants funding
+are not included in this COVID relief funding. So mechanic costs-- costs of mechanics-- those types of
+preventive maintenance costs actually get drawn on a separate grant.
+LYNN GUISSINGER: Great. Thanks. Just one last question. The $30 million each of the next six run
+boards that we're putting, is that largely wages, salaries, additions to service-- or I guess it would be all of
+the costs of service. Is that what's there?
+DEBRA JOHNSON: If I may, Director Guissinger, yes, that's everything from soup to nut when we talk
+about deploying service. So it's all the aspects that we're outlining. CRRSSA, i.e. salaries, the operation
+of bus and rail lines, fuel, all of it.
+LYNN GUISSINGER: Thank you.
+DEBRA JOHNSON: Thank you
+PEGGY CATLIN: Looks like Director Rosenthal has his hand up.
+PAUL ROSENTHAL: Thank you, Madam Chair. This is another question down for down the road, but with
+Tabor, if there were to be a fix to allow RTD to escape that revenue pressure, to where we'd have to
+return money to the taxpayers, would that be a legislative fix, or would that be a constitutional fix? To
+where we could address that-- and that's probably best for General Counsel Snyder, or whomever would
+like to answer it
+PEGGY CATLIN: General Counsel?
+
+MELANIE SNYDER: Yes. Thank you, Madam Chair. If I'm understanding the question, I think you're
+referring to the fact that we lose our de-Bruce'ing in 2024. And so, that hasn't been budgeted for as I
+understand it. So we would have to go back to the voters to be able to either collect, or impose new
+taxes, or to be able to retain tax revenue beyond that point, if it's been collected.
+PAUL ROSENTHAL: I'm sorry. I guess what I was saying is, is there an act of the legislature, so we could
+actually avoid doing that? Or would we have to go to the voters with a constitutional amendment to say,
+can we, as RTD, avoid doing this?
+MELANIE SNYDER: Yes, Director Rosenthal. RTD would need to go to the polls. It wouldn't be a
+constitutional amendment, but we would be voting on the resolution.
+PAUL ROSENTHAL: And then one last question, which is-- so the reserves being at three months-- and I
+know this sounds counterintuitive, but if we do see, potentially, any additional revenues as the economy
+recovers, would we potentially see putting more money into the reserves above the three months? Maybe
+getting to four months, or five months, and would that be helpful? Would that be something that would be
+good for RTD to do?
+DOUG MACLEOD: This is Doug MacLeod. Yeah, that's really a policy discussion that needs to be had.
+What level do we as an agency feel comfortable? Obviously, the more we have, the more security we
+have for our future-- for future surprises. On the flip side, there's also the obligation to taxpayers to
+provide an efficient service, and an efficient level of service, in return for their taxpayer dollars. So it's
+striking that balance that I think is kind of a policy decision that would need to be discussed-- if that does
+materialize.
+PEGGY CATLIN: Thank you, Mr. MacLeod Does that answer your question, Mr. Rosenthal? That that
+would be part of a fiscal policy discussion that this Board might have, if it chose to change that three
+months of operating. That could materialize in the future, I believe. I don't see any other hands raised. We
+have one more discussion item for this committee tonight. It was alluded to in this earlier presentation,
+and I'm just going to refer again to Acting CFO Doug MacLeod to introduce our guests. Doug?
+DOUG MACLEOD: Thank you, Madam Chair. So in September and March of each year, the team from
+the University of Colorado-- the School of Business Business Research Division, who we have contracted
+with to prepare our sales and use tax forecasts-- come to the Board to present an economic forecast
+update. In the Board package, this item starts on page 28. There is a presentation that the gentleman will
+walk through. But I also want to point out that we did attach the actual forecast report in the back. It's a
+lengthy report, and if you have any questions about that, you can certainly contact me at the time that's
+convenient for you.
+So tonight, we have Rich Wobbekind, Robert McNown, and Brian Lewandowsky, I believe, who are going
+to do the presentation. So gentlemen, please take it away. You may be on mute.
+RICHARD WOBBEKIND: Thank you. Sorry. There's a lot of new faces on the Board, and I just wanted to
+make a couple of very quick introductory comments holding to the concept of brevity that was requested.
+So we will move through the presentation rapidly and hopefully have time for questions.
+We've been involved in the forecast with RTD for the past 10 years, and just recently signed a new
+contract. And going back to Director Broom's comment, and also Director Tisdale's, we've seen volatility
+like you can't imagine. You're all living it, so I don't need to describe that to you. And during the past year,
+for a period of time we were producing monthly forecasts for the staff, just to help them sort of get through
+this, because the volatility was so dramatic in so many of the indicators.
+
+Realizing that, and realizing changes, I very much appreciate the comments about how can you be sure?
+We'll talk a little bit about that. But when I look at the economy going forward-- and you'll get that sense, I
+think one of the biggest unknowns, now with all the things that have happened, is that ridership piece.
+And we're not forecasting that ridership piece, but I'll address that very briefly in just a little bit.
+Along with renewing the model, we also updated a lot of pieces, changed the report, so you're seeing a
+new product, if you will, as it came out of the most recent contract. So I'm going to talk about the sort of
+background information that we're using to forecast the economy, and then my colleague, Robert
+McNown, is going to pick it up and talk about the actual model results for RTD. And really, part of the
+reason here is this is what we're using to drive the forecast, so I want to just make a few comments about
+that. But also, to reinforce some of the conversation that you've been having over the last hour and 15
+minutes or so, in terms of the fluctuations, and the things you're paying attention to.
+So you look at the GDP output, and I won't go through the three stimulus bills-- because you've heard so
+much about them with respect to specific funding for RTD-- but every time one of those stimulus bills
+passed, it dramatically affected the level of personal income, tax rebates, and unemployment insurance
+increases, and that affected all of the sort of modeling. And you'll see the effects of that as we go through.
+So before the December bill was passed, we were saying that GDP would get back to its previous peak
+by the end of this year. When the December supplemental was passed, we were saying it would happen
+in the fourth quarter-- beginning of the fourth quarter. Now with the most recent Act that was passed, the
+American Rescue Plan, it is likely to hit the same level of GDP by the third quarter. So in terms of the
+output recovering, that's in place. The employment is doing-- especially in the last couple of months-- is
+doing well. As the vaccines have rolled out-- as we're all witnessing-- things are getting a little bit closer to
+normal.
+But if you look at this graphic, you can see what we've been talking about for the last year and a half.
+Recovering from that kind of a collapse in employment takes awhile. And even with the last couple of
+months having very strong employment data, we're still down about eight million jobs. And so, this is one
+of the concern areas-- getting that employment all the way back. That's not likely to happen until probably
+the end of next year, or into 2023. So that's one of the things we have to sort of build into the forecast as
+we're looking at the pieces.
+Until the last two months, we were still down a higher percentage-wise of employment than we were in
+any of the recessions, basically since World War II. So we were down over 6.5% until the last two months
+of employment data. And you can see the Great Recession that you all lived through in 2008 and 2009.
+That bottomed out at 6.3%. But you can also see that that took over six years to recover, to get back to
+the same level of employment. And as I'm suggesting to you, we're going to see this get back to the same
+level of employment at probably 30 months, somewhere in that range. So much more rapid recovery to
+full employment.
+Colorado has fared OK in the recovery, in terms of year over year growth. We went into this February a
+year ago, and February 2020, we were fifth in the nation, so we were really doing well. Now we're in the
+middle, so the recovery has been a little slower. There's lots of reasons that we can sort of conjecture. Is
+it a different pattern of rollout? Is it a different pattern of industry mix? Being a heavy tourism state, for
+example. So there's pieces that are involved there.
+But what's clearly known-- and what you're seeing in terms of part of your ridership, and so on-- is it's
+becoming very much a K-shaped recovery, the haves and the have-nots. And that's, I think, one of the
+
+greatest areas of concern that we have going forward. How do we make sure that the have-nots, the
+people who have been sort of left behind in this recovery, ultimately get assimilated back into the
+workforce? Not just additional stimulus checks and additional unemployment benefits, but actually getting
+them back as fully functioning members of the economy?
+This sort of shows you the relative strength or weakness, if you wish. All of them negative year over year
+through February, but you can see Boulder and Greeley out there at the end, having the weakest job-- or
+the greatest job loss, if you will. The Denver sort of in the middle for Colorado. So you can sort of see the
+impact has been sort of spread out throughout the state.
+So going back to my comment about stimulus, just very quickly, when we look at this particular graphic,
+the red line on the bottom is the savings that's occurring in the economy, the blue line in the middle is
+consumption, and the tan line at the top is personal income. So what we've seen is, with every one of the
+spikes in personal income-- the tan line-- and those spikes in personal income are being driven by
+transfer payments and unemployment insurance. Not by higher levels of wages, but by higher levels of
+transfers.
+So we had the transfers in April of 2020, we saw a big surge in consumption. We had the transfers in
+December of 2020, we saw January's numbers jump up. We have transfers now that are-- as I
+understand from looking at the information today-- the IRS checks are hitting right now. We would
+anticipate that April is going to see a surge in retail sales again. And of course, that's hugely important,
+when you're talking about that revenue stream for the state, but obviously for the RTD district.
+So you can see here that February-- 6.3%. Again, year-over-year, but minus 3% from the prior month. So
+we had this January surge from the December stimulus, we had February fall-off, and now when you see
+the April numbers-- March isn't out yet either-- but when you see the April numbers, we're really
+anticipating a stimulus hit from that.
+So this is through December, and again this is just sales tax. This is not sales and use, so I want to make
+sure that's clear. But to give you an idea of how you're faring, RTD district is down 2.6%. All the way at
+the bottom, you can see Colorado-- through December-- is up 2.3%. But you can see all the variation inbetween. The city of Boulder is down 8.8%. Lone Tree is down 23%. Superior is up 18.1%. So our view
+on this is you're not doing all that badly in this particular regard. In fact, you've got a balanced portfolio.
+You've got some of those really good spots, and some of those really bad spots. And by having that
+diversity in RTD district portfolio, overall it's helping pretty nicely in the overall picture of things.
+But again, you probably have read this, so I don't want to take too much time, but the areas that had
+open-air types of retail, that had big box types of retail, have fared much better. Main Street still
+struggling, and many, many places in terms of retail. And part of why I bring that up is, when does that
+Main Street retail come back? Well, part of it comes back when you have a thriving downtown Denver
+area-- people living there, and as the restaurants reopen at higher capacities, and so on.
+But you also have a lunch business, and maybe a after-business business happy hour, or whatever you
+want to call it. And that's driven by occupancies in those buildings. The other piece of this, which relates
+back to the main question that came out of the earlier presentation, if more telework occurs, does that
+impact the level of public transportation that's used? And you can see the various sectors-- this is the
+most recent month that we have from the Bureau of Labor statistics-- but this is showing roughly the
+percent of telework on a month-to-month basis, and then the different types of industries-- how they're
+being impacted.
+
+So this is, I think, the key uncertainty, vis a vis public ridership of RTD. Sure, there's concerns about the
+spread of the virus, but people are going to get over that, and all of that stuff is going to be in the rear
+view mirror at some point in the not-too-distant future. But if people are commuting to work three days a
+week instead of five, or four days a week instead of five, I think that's a bigger question.
+So with that, I am passing the baton to my colleague, Robert McNown. I'm going to still be controlling the
+slides, but you're going to hear Professor McNown-- Dr. McNown-- talk about the RTD model and give
+you more detail.
+ROBERT MCNOWN: Right. Thank you, Rich. And thank you to the Board of Directors for inviting us to
+give this presentation. Rich has set the background, both at the state and the national level, in terms of
+the key economic indicators that are driving our forecast ultimately. And this little chart on the left traces
+the general modeling strategy that we use, where the national economy is driving the Colorado economy,
+which in turn drives the district economy. And together, those last two economies determine these sales,
+and use tax revenues for RTD.
+So we obtain our forecasts from Moody's Analytics for the national variables. And then we've developed a
+model for the Colorado economy that's extended now to the Regional Transportation District, and
+ultimately, the equations that provide forecasts of the sales and use tax revenues for RTD. So in some
+sense, it is the national economy that lies behind our forecasts, but we do allow for some independence
+in the Colorado economy. In some periods, the Colorado economy is stronger than the national one, and
+that's reflected in our model as well.
+But you can see sort of anticipating the forecast here, if you look at the row for 2021, and reading across
+to the second entry. After that date, the percentage change in retail sales at the National level projected
+by Moody's to be over 9%. And so, you can see that's a remarkable boost in this key variable that's going
+to be ultimately driving the sales and use tax revenues for RTD.
+Now I want to mention that we've been working with the staff of RTD over 10 years, particularly with Doug
+MacLeod and with Monika Treipl-Harnke. And more recently, we've been provided with some really
+valuable data by Todd Nikkel, who has provided data on key components of RTD sales tax revenues,
+which we didn't have before in our previous updates. We simply worked directly with total sales tax
+revenues.
+But in the current situation, during the pandemic, and now during the recovery as well, some of the most
+important components of retail sales-- or sales tax revenues for RTD have been moving in opposite
+directions. And in such a situation, it's really valuable for us to be able to make a more nuanced and
+informative analysis of these individual components. Take, for example, the sales of hotels and
+restaurants, which of course, we know have really been depressed. And you contrast that with ecommerce, which has been soaring. So to be able to treat those now separately, I think, has really
+enhanced our modeling capability.
+So on the next slide, you can see that the strength in the US economy is going to carry over to the state,
+and ultimately to RTD revenues. So again, focus on the row-- probably looking at the right panel there,
+where it's the percentage changed year to year in RTD revenues, and you can see for 2021 we're
+anticipating an 8% growth in RTD revenues-- really, a remarkable turnaround. And that reflects that very
+high expected retail sales growth, at both the national and state-level, too.
+And what you see here, this slide displays the forecast out to 2027. So this presents in both our shortterm and medium-term forecasts, which I know goes into your medium-term planning. And so going out to
+
+2027, all these numbers here-- kind of overwhelming. But just to summarize that in one statistic here,
+these forecasts call for a 41% increase in RTD tax revenues between 2020 and 2027. So it's a strong
+sustained growth over this period of time.
+Now of course, we recognize-- and you'll see in the next slide-- that all these future projections are
+subject to some degree of uncertainty. And we always try to capture the range of uncertainty-- first of all,
+with alternative national economic scenarios. And you can see those in the green line where it says
+optimistic, and the red line, pessimistic. These are two alternative scenarios that are provided by Moody's
+in addition to the baseline scenario, which we take as the most likely outcome. But this is one possible
+way of viewing the range of uncertainty generated by the different possible outcomes at the national level.
+But in addition to that, we also present a more extreme range of uncertainty-- what we call the high
+forecast, and the low forecast-- at the top and the bottom lines. And those are statistically based bounds
+on the possible outcomes. And in this particular case, what we present are abounds with a 67%
+probability will contain the actual outcome. That is, the expectation is that RTD tax revenues will fall
+between those most extreme upper and lower bounds with a 67% probability.
+Now we ought to do this-- you'll see in the next slide. For the long-range forecast, we're charged with
+developing a forecast that goes out 40-- I'm sorry 30 years. And so now carrying out to 2050. And for this
+purpose, we've developed a separate model that focuses really on future demographic change-- about
+which we have some reasonable expectations, because so much of fertility and mortality rates are going
+to be very slow to change. And even so, as they do change, their impact on actual populations is not
+going to change so dramatically. There's a lot of momentum-- or inertia, I should say-- in demographic
+projections.
+And so, this is a reasonable basis, I think, for making some intelligent projections about what's likely to
+happen to the national economy, and then ultimately, of course, RTD revenues. So demographic change
+features in importantly in two ways. First of all, there will be a slowing in population growth in total, and
+secondly, in aging of that population. And both of those factors will tend to retard overall economic
+growth, and consequently, overall levels of expenditures by households, and therefore a slower growth in
+RTD tax revenues.
+And you can see that in the table of numbers there on the right. And what you'll notice is that in each
+subsequent decade, the average annual rate of growth of first, Colorado retail sales, and ultimately RTD
+taxable sales, declines as we go from the 20s, to the 30s, to the 40s. And so the long-run prospects for
+growth in RTD revenues are pretty modest, I'd have to say, to be kind of polite about it. But we think this
+is a pretty reasonable way to look at what's likely to happen in this very long run.
+And so finally, our last slide-- which, we just want to emphasize that we're trying to present forecasts that
+have integrity-- that are not biased. We don't have a political stake with RTD, or in the particular forecast
+that we're making. We do try to update, as Rich mentioned. Particularly over the past year, we provided
+frequent updates at least to the staff, because of the rapidly changing economic situation. And as some of
+the slides have emphasized, the forecasts may be too high, or too low. We always have emphasized-from early on-- the uncertainty in the economy that is generating uncertainty about our forecasts as well.
+But I would also point out that our forecast record, at least up until 2020, I think was very good, with an
+average forecast error of approximately 1% of total RTD revenues. And the forecasts are unbiased in the
+sense that approximately many are overstated as understated. And I think that's a good outcome as well.
+
+So thank you for your attention to this, and we would be happy to take any questions you have about the
+forecast or presentation.
+PEGGY CATLIN: Thank you, Misters Wobbekind and McNown. Really appreciate your presentation, as
+always. I did notice that Director Williams had her hand raised, and if there are other Directors who have
+questions of our guests, please raise your hand and I'll call on you. Dr. Williams.
+KATE WILLIAMS: Thank you, Madam Chair. I'm just wondering if the recent move toward employeeemployer trip reduction planning was included. That's been a big deal here, and I wonder if that affected
+the projections in any way.
+ROBERT MCNOWN: No. So of course, we have to keep in mind that we're only forecasting the sales and
+use tax revenues, so we're not dealing with fare-box revenues. I don't know if you were suggesting that
+this change in policy could be having wider economic effects that are not incorporated in our forecasts. If
+so, I would have to admit that no, we've not considered that in our equations.
+KATE WILLIAMS: It's a policy that requires employers in Colorado to reduce their employees commute by
+40% upcoming, and that I think that that will also have all kinds of effects on people eating out, and
+people buying things, and that we are not-- in many ways-- let us hope we are not going back to the world
+that we used to live in. And that I am glad that you guys do this for a living, and not me. I think that
+projecting the future is a nice role about now. So, that's all. Thank you gentlemen.
+ROBERT MCNOWN: Thank you for that insight. That's certainly something we should keep our eyes on.
+PEGGY CATLIN: Thank you, Director Williams. And is that not for employers with more than 100
+employees?
+KATE WILLIAMS: Yes, it is. For now, it is, yes.
+PEGGY CATLIN: Are there any other questions from Board members? Seeing none. Let's move on-- and
+thank you again, gentlemen, for your presentation. We really appreciate it.
+RICHARD WOBBEKIND: Our pleasure. Thank you.
+PEGGY CATLIN: Are you going to be-- typically, the cycle is you would be presenting again in
+September, is that correct?
+RICHARD WOBBEKIND: That's correct, and I certainly hope it's live.
+PEGGY CATLIN: OK. So do we. So do we.
+RICHARD WOBBEKIND: My colleague, Professor McNown, rides the RTD bus from Boulder down, so-[LAUGHTER]
+PEGGY CATLIN: Well, let's keep our fingers crossed. Thank you.
+ROBERT MCNOWN: I'm missing that ride.
+PEGGY CATLIN: OK, are there any other matters to discuss? Director Dishell?
+BOBBY DISHELL: This is the other matter section of the agenda, correct? I wasn't just-PEGGY CATLIN: Correct.
+BOBBY DISHELL: --rhetorical. Yeah, I just wanted to ask-- and I think I might have brought this up last
+month as well. We're now in mid-April. The state audit had us-- by December-- really updating our audit
+function. And this is the Audit Committee. So I would ask if we have an update on-- how we're
+progressing on meeting that December deadline for updating our internal audit practices, and how the
+Board can or should be involved with that?
+PEGGY CATLIN: I might start, and then I would like to turn it over to CEO General Manager Johnson. As
+you are aware, the APTA Peer Review Committee has been working on a peer review of our internal
+
+audit. But there have also been some really good strides made in terms of our reporting for personnel
+actions. I mean with the training that we've all gone through, with our logging time, and Debra, if you want
+to add anything to that? But I think there are some opportunities to make progress, and when we
+reconvene with the audit portion of this committee, I think that would be a good agenda item. General
+Manager CEO Johnson, do you want to-DEBRA JOHNSON: Yes. Thank you, Madam Chair. So what I would share, Director Dishell, recognizing
+that we are, I would say, in the process of our APTA peer review, because they've done their due
+diligence and are preparing a report. That report is anticipated to be received within 30 days-- I was just
+briefed last week. So recognizing we're more or less looking at early May, the intent would be to brief this
+Board in executive session as relates to what those recommendations are, understanding the nature of
+internal audit, and what the purpose is, and what would be disclosed.
+So at that juncture, that would be steps we're making. I am going to work in-tandem with Chair Catlin and
+Vice Chair Davidson, as there are auspices of which the Board has relative to the internal audit function
+outside of the General Manager CEO'S purview. So that's why we will be working in-tandem and having
+discussions in that appropriate form, being in closed-session to deduce what the path forward is relative
+to what it is that you all collectively decide as a policy body. Thank you.
+PEGGY CATLIN: Thank you, General Manager CEO. I also was a little bit disjointed in my response, but
+there was more than the internal audit as part of the state audit, and I thought maybe some of those
+aspects could be brought forward in terms of progress at our next meeting. And particularly, the tools that
+we're starting to employ for employee retention, which includes things like exit interviews-- some of those
+things that are automated.
+The main focus of this committee is to really focus on internal audit, but I think that there could be an
+opportunity at next month's meeting to discuss those other elements of the state audit as well. And we
+can work with Director Guissinger to see how we might structure that so that we can report out our
+progress as an agency for the other components of the audit.
+BOBBY DISHELL: Great. Thank you all so much.
+PEGGY CATLIN: Any other comments? Our next meeting date will be May 4, 2021, and seeing no other
+discussion, this meeting is adjourned at 7:26. And I suggest that we take a five-minute break, and
+reconvene in our next committee meeting at 7:31. Thank you.
+
+

@@ -1,0 +1,161 @@
+## I. Operations and Customer Service Committee
+
+Chaired by Judy Lubow
+
+### A. Call to Order
+
+Committee Chair Lubow called the meeting to order at 6:55 p.m.
+
+Director Lasater was absent and Director Deadwyler left early.
+
+Staff Present:              Rolf Asphaug, Mike Barnes, Lacy Bell, Jessie Carter, Carolyn Conover, Lee Cryer, Terry Emmons, Eric Farrington, Mike Gil, Doug Gragg, Kim Heldman, George Hovey, Jim Kelley, Erin Klaas, Brian Matthews, Doug MacLeod, Barbara McManus, Paula Perdue, Scott Reed, Jannette Scarpino, Bob Mickelson, Bill Van Meter
+
+Others Present:              Dave Bata, Terry Bright, Shelley Cook, Eugene Howard, Leslie Thompson, Joe Triplett, Gary Van Dorn, Dace West, Monte Whaley
+
+#### 1. City of Boulder Hop Cost Share Agreement
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize the General Manager, or his designee, to execute all documents necessary to enter into a Cost Sharing Agreement with the City of Boulder to provide RTD financial support for the operation of the HOP circulator bus service in the commercial areas of the City of Boulder, the University of Colorado at Boulder and adjacent business and residential areas. This agreement is for calendar year 2015 and is for an amount not to exceed $1,459,687.00.
+
+Motion:              Director Solano made the motion to move this item to the full Board at the January 20, 2015 Board Meeting.
+
+Director Anderson seconded the motion.
+
+Discussion:              Mike Gil, Deputy Assistant General Manager of Bus Operations, noted that Bruce Abel, Assistant General Manager of Bus Operations, was out of town on a peer review so he would be filling in.  He introduced Brian Matthews, Manager of Special Services, to review the action.
+
+Brian Matthews explained that this is really a housekeeping item that is brought to the Board every year.  This is an agreement that RTD has had with the City of Boulder (Boulder) for numerous years to operate the HOP.  He believes it is really a win-win for RTD and Boulder as this service carries a tremendous amount of people.
+
+Director Bagley pointed out that this agreement would be for a not to exceed amount of about $1.46 million.  He asked if staff could provide the requested not to exceed amount for the agreement in 2014 versus the actual cost RTD paid.  Brian Matthews stated that he did not have the final December numbers but would provide as much information as possible.
+
+Director Folska asked what Boulder pays as part of the agreement.  She also wondered if any other entities contributed to funding.  Brian Matthews said that RTD only contributes support to a portion of the HOP service; the total budget for the portion that RTD supports is $2.5 million.  The City of Boulder is the only other contributor at about $1 million.
+
+Director James inquired as to Boulder’s motivation for supporting RTD in a greater way than other cities in the Metro area.  Brian Matthews explained that the City of Boulder actually started this service.  He said that the HOP has a very high ridership level, and carrying passengers is RTD’s goal so it makes sense to partner with Boulder.
+
+Director Hoy commented that there are over 50K students at the University of Colorado.  These students all pay a bus fare whether they use the bus or not so he thinks this is a good service to support.
+
+Director Folska wondered if the HOP is a free service or if there is a fare charged.  Brian Matthews stated that the HOP charges a fare and is based on RTD’s fare structure.  Mike Gil noted that they also take and issue RTD transfers so it is a very seamless service.
+
+Committee Chair Lubow declared the motion PASSED unanimously.
+
+#### 2. 5311 Cost Share Agreements
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize the General Manager, or his designee, to execute all documents necessary to enter into funding agreements with Via Mobility Services and the Seniors’ Resource Center to provide RTD financial support for the provision of FTA Section 5311 (non-urbanized) services for Boulder County, Adams County and Jefferson County.  These Agreements are for calendar year 2015 and for amounts not to exceed $353,990.00 for Boulder County, $348,398.00 for Adams County and $107,948.00 for Jefferson County.
+
+Motion:              Director Folska made the motion to move this item to the full Board at the January 20, 2015 Board Meeting.
+
+Chair Sisk seconded the motion.
+
+Discussion:              Mike Gil stated that this is another cost share agreement for services that have been operating since 1991 and 1993.  Brian Matthews explained that the services are provided by two non-profits, Via Mobility Services and the Seniors’ Resource Center.  These companies provide services that would otherwise be provided by Access-a-Ride.  He believes this is another win-win cost share because without these non-profits RTD would have a significant increase in the request for Access-a-Ride service.
+
+Director Folska said that she wanted to ensure the new Directors had a good understanding of RTD’s paratransit service.  RTD is required to provide Access-a-Ride service within a ¾ of a mile radius of RTD’s fixed route service to all people within the District who qualify.  Director Folska pointed out that the cost to RTD for each Access-a-Ride trip is roughly $57 per trip and for Access-a-Cab it is $12.  She noted the significant cost savings in RTD’s subsidy per passenger boarding through this program with subsidies of approximately $2.01 to $4.63.  She believes that when you think about providing accessible transportation for people in rural communities this agreement is a big win.
+
+Director Bagley asked for information on the 2014 not to exceed amount as compared to the actual cost prior to the Board Meeting.  He also asked for the actual subsidy per passenger boarding, not just RTD’s contribution.  He believes that is critical information for the Board to put this recommendation into perspective when comparing it to RTD services, especially the Call-n-Ride that typically boards more passengers per hour.  Brian Matthews stated he would work on providing the information.
+
+Director Francone inquired if there were any performance statistics available for Via Mobility and Seniors’ Resource Center.  Brian Matthews said he did have the information available and would send it to her.  Director Folska expressed that she is interested in the information as well and asked that it be sent to all Directors.
+
+Committee Chair Lubow declared the motion PASSED.
+
+#### 3. Denver Regional Council of Governments Vanpool Cost Share Agreement
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize the General Manager, or his designee, to execute all documents necessary to enter into an  Agreement with the Denver Regional Council of Governments (DRCOG) to provide RTD support and expansion of the DRCOG Way to Go vanpool program in the Denver metropolitan area. This agreement is for calendar year 2015 and shall be in an amount not to exceed $760,000.00.
+
+Motion:              Director Anderson made the motion to move this item to the full Board at the January 20, 2014 Board Meeting.
+
+Director Bagley seconded the motion.
+
+Discussion:              Brian Matthews indicated that this is another housekeeping item.  RTD has been in a relationship with the Denver Regional Council of Governments (DRCOG) for numerous years supporting the Way to Go vanpool program (vanpool).  He said when this program first began there were a total of 13 vans; now it is operating with 105 vans in the area.  He explained that this is really just a car share type program.  Brian Matthews stated that the program was very successful in taking people off the roads.  He noted that DRCOG contributes about $360K annually in addition to providing a staff person dedicated to managing the program and all the marketing efforts.
+
+Director Folska asked several questions regarding the service:
+
+Do the users of the vanpool pay a fee?  Brian Matthews explained that they do pay a fee.  This fee varies depending on various factors like the length of the trip but it is in-line with a Regional bus pass.  What is the dollar amount?  Brian Matthews stated that the cost is typically around $100 per month.  Is this a door-to-door service?  Brian Matthews said that the pick-up and drop-off structure is decided by each vanpool.  Are the drivers RTD employees?  Brian Matthews shared that each van is assigned to one of the riders of the vanpool who becomes the established driver.  The drivers are given an incentive of being able to use the van for personal business up to a certain number of miles per month.How many vans are wheelchair accessible?  Brian Matthews said he would get back to Director Folska with an exact number but he believed there were two.What is the process for signing up for a vanpool?  Brian Matthews shared there was a DRCOG website where people could sign up, an employee of DRCOG goes to large employment centers to recruit vanpool participants, and the TMOs in the Denver Metro area are offered an incentive for each vanpool they form.Is there a link from RTD’s website to the DRCOG vanpool page?  Scott Reed, Assistant General Manager of Communications, said there was.
+
+Director Anderson commented that the North Area Transportation Alliance has set up a very good process for encouraging vanpooling along the I-25 corridor during construction.  She believes this is a very great program and noted that DRCOG has been operating it for over 30 years.
+
+Director Walker shared that he knows several people who have participated in a vanpool over the years and really enjoyed it.  He noted they only had good things to say about the program.
+
+Committee Chair Lubow declared the motion PASSED.
+
+#### 1. A-Line Cost Share
+
+Brian Matthews explained that this was an update on another housekeeping item.  He believes this is another win-win for RTD.  He shared that when the AS was discontinued between the Olde Town Arvada Park-n-Ride and Denver International Airport, the City of Arvada and Ride Provide, headed by Executive Director Shelley Cook, developed a business plan to implement scheduled shuttle van service.  He said that RTD has committed to support this service through 2016 when the Gold Line is running.
+
+Director Menten wondered if there has been an increase in ridership form the West corridor since the AF service was discontinued with the opening of the West Line.  Shelley Cook indicated that there has been an increase in ridership from the Golden and Lakewood areas.
+
+Shelley Cook thanked the Board and staff at RTD for their support of this partnership.
+
+#### 2. Cost Shares
+
+Brian Matthews stated that this was an update regarding the following cost share agreements that RTD entered into for 2015:
+
+1.       Littleton Shopping Cart - $29,375. This service was originated to serve portions of certain routes previously served by RTD in Littleton
+
+2.       Focus Points Family Resource Center - $50676. This is an agreement with FPFRC, a local non-profit, to provide a new community based service as an alternative to the discontinued Route 47
+
+3.       Longmont Coordination of Services – $10,600.  This is to support a grant obtained by Via Mobility to coordinate services provided by Via Mobility and RTD in the City of Longmont.
+
+Director Hoy wondered why RTD does not deploy a coordination of services program in other areas we offer service.  Brian Matthews explained that there have been many challenges with this program.  He stated that currently this is not a model that can be replicated.
+
+Director Francone inquired as to the ridership numbers of the Route 47 when it was discontinued in 2004.  Jessie Carter, Manager of Service Planning and Scheduling, said that it was about 7 passenger boardings per hour, which is very low for an urban area.  Director Francone noted that the passenger boardings per hour are now at 3.  She wonders if this cost share makes sense to continue since it has such low ridership.  She thinks this is something to consider next year.
+
+#### 3. Proposed May 2015 Service Change
+
+Mike Gil reminded the Board that there was no action required for the May Service Changes at this time.  Staff is briefing the Board before the proposal is taken to the public for comment.
+
+Jessie Carter, Senior Manager of Service Planning and Scheduling, pointed out that there were three notable recommendations within the service changes as follows:
+
+1.       Cancellation of the Route DD along Colorado Boulevard due to low ridership.
+
+2.       Reduction in frequency on the West Line to a peak period frequency of 7.5 minutes as well as the addition of a third car to the busiest West Line peak period trips.
+
+3.       Reintroduction of service along Morrison Road between Alameda Avenue and Sheridan Boulevard in the Westwood neighborhood.
+
+Jessie Carter commented that the remainder of the recommendations were typical adjustments for school letting out for the summer as well as service improvements.  He said the base system financial impact contained in this proposal is estimated to be about $637K annualized with an estimated $2,405 savings attributable to FasTracks.
+
+Jessie Carter shared that there are 5 public hearings.  There is one scheduled in Broomfield, one in Lakewood, one in West Denver and two at the Blake Administration Building.
+
+Director Menten inquired if we really need to add a third car to the West Line.  Jessie Carter explained that with the current practice of doing turnarounds using a holster, the additional train is necessary.  If service is delayed for any reason it diminishes reliability of the turnaround and then cascades through the entire Light Rail system.  Director Menten indicated she would contact Jessie Carter offline for further information.
+
+Director Folska asked for clarification if the operating costs for the West Line come from the FasTracks budget; it was her understanding that now that it was in operations it was budgeted through base systems.  Jessie Carter stated that all FasTracks corridors will come from the FasTracks operating budget, not base systems.
+
+##### a. Attach A May 2015 Service Changes
+
+##### b. Attachment B Route4 Map
+
+#### 4. Fare Task Force Update
+
+Lacy Bell, Planning Project Manager, reviewed a Power Point Presentation with the Board that is available in the January 13, 2015 Operations and Customer Service Committee Agenda Packet.  She indicated that staff had just completed the public outreach process on the fare structure.  They were presented with a pay per boarding and a pay for time option with four types of service (local, regional, rail and airport).  She said some things they heard from the public were:
+
+1.       Keep monthly and other pass programs
+
+2.       Expand Smart Card program
+
+3.       Desire for a low-income pass
+
+4.       Why are fares necessary if the public already pays for RTD with taxes
+
+5.       Desire for a day pass
+
+6.       Difficult to evaluate fare structures without knowing pricing
+
+Lacy Bell explained that based on public feedback regarding the difficulty in evaluating the fare structure without fare levels, staff has modified the project schedule.  She said that the Board decision on fare structure will be combined with pricing levels; the Board will be asked to approve a fare structure and levels for public hearings in March, with final approval of the structure and levels in May.
+
+Director Folska reminded the Board and staff that when a Request for Proposal was issued for the fare study, one of the really important items to consider was the cost of parking.  She said that so far she has not heard any discussion about parking in the equation, which she finds very troubling and concerning.  Lacy Bell recognized that paying for parking increases a rider’s overall transportation costs.  She said that while this has not been included directly in the revenue model it is something staff has asked CH2M Hill to take into account.  Director Folska stated that she is not concerned about people having to pay for parking in our parking structures; she is concerned about the transit dependent, economically challenged people who are subsidizing the high cost of parking for people who can afford to drive.  Bill Van Meter, Assistant General Manager of Planning, said that he understood her concern and would make sure it was conveyed to CH2M Hill.
+
+Director Hoy asked for clarification on the timeline for Board approval.  He also wondered when the new fare would be implemented.  Lacy Bell said that the Board would be presented with another update in February showing some price modeling.  In March staff will ask the Board for approval to take a proposed fare structure and levels out for public comment and final approval will be requested in May.  She stated that the goal for implementation is January 2016 to coincide with the opening of the new rail lines.
+
+Director Walker noted that staff was considering installing a ticket printing device in our vehicles similar to those used by TriMet.  He wondered how those devices were working.  Lacy Bell stated that while staff needed to get more specific details, overall TriMet has been very happy with the printers.
+
+Director Walker inquired if staff had been provided with any kind of structure from the public as to what they would like to see in an income based fare.  Lacy Bell said she had not been given a definition or detailed description of what that would be.
+
+Committee Chair Lubow asked if a peer analysis of other low income programs would be part of the study.  Lacy Bell stated that staff had received a draft memo from CH2M Hill of this analysis that they were in the process of reviewing.  She said she would provide it to the Board once staff’s review was complete.
+
+##### a. Fare Study -Jan Board Update 010615 Final
+
+### D. Other Matters
+
+Director Bagley said that he would like to provide a brief update on the activities of the Denver Union Station Project Authority Board (DUSPA).  He shared that for those Directors who were unaware, he is the RTD Board of Director representative on the DUSPA Board and Director James is his alternate.  He stated that the level of activity for the DUSPA Board has been greatly reduced now that Denver Union Station (DUS) is approximately 99.9% complete.  He noted that there are some issues related to cell phone service availability in the bus box that RTD staff is addressing in conjunction with Verizon Wireless.  Director Bagley informed the Board that RTD is taking over many of the financial accounting and reporting requirements related to the RIFF and TIFIA loans.  He shared that it appears as that many as 10 years could be shaved off those payments.  Director Bagley noted that there are some questions about the estimates of future development around DUS, partly because of what is happening with the price of oil and future employment outlooks, but it is too early to speculate.
+
+Director James invited everyone to attend the annual Transportation Solutions Road Ahead event.  It will be held on April 2, 2015, at Infinity Park in Glendale.
+
+### F. Adjourn
+
+Committee Chair Lubow adjourned the meeting at 8:03 p.m.

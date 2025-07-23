@@ -1,0 +1,89 @@
+## I. Planning and Development Committee
+
+Chaired by Bill James
+
+### A. Call to Order
+
+Committee Chair James called the meeting to order at 6:47 p.m.
+
+Director Lasater was absent.
+
+Staff Present:              Bruce Abel, Mike Barnes, Shirley Bennett, Rick Clarke, Susan Cohen, Ignacio Correa-Ortiz, Lou Cripps, Kevin Diviness, Robert Downes, Martell Dyles, John Elias, Sherry Ellebracht, Terry Emmons, Ron Enserro, Ken Fleck, David Genova, Doug Gragg, Cory Granrud, Nathan Herman, Janet Huhn, Jim Kelley, Erin Klaas, Mitch Kuharski, Marla Lien, Barbara McManus, Jeff Miessel, Vivian Morales, Amanda Murray, Andy Mutz, Paula Perdue, Scott Reed, Roger Sherman, Pranaya Shrestha, Bill Sirois, Henry Stopplecamp, Kirk Strand, Stan Szabelak, John Tarbert, Brenda Tierney, Pauletta Tonilas, Gary Turnquist, Bill Van Meter, Jyotsna Vishwakarma, Ashland Vaughn, Phil Washington, Brian Welch, Susan Wood, Nikita Zanichkowsky
+
+Others Present:              Suzanne Arkle, Brain Bellfi, Mike Dino, Joni Goheen, Sherman Hamilton, Larry Holbert, Tina Jaquez, Jim Maguire, Michele Martinson, Tim Mordz, Dan Pearsall, Mike Peek, Shawn Plichta, Eric Rolle, Mike Salmon, Marta Sipeki, Carl Smith, Lindsey Smith, Former USDOT Secretary Rodney Slater, Joe Tlacosky, Les Townsend, Hadley Trent, Joe Triplett, Gary Van Dorn, Hortensia Villa, Monte Whaley, Darcy Wilson, Emaan Wilson
+
+#### 1. 16th Street Mall Reconstruction Update
+
+Committee Chair James noted that this evening’s meeting would take place in a different order than normal, with Updates being presented first.  He explained that the 16th Street Mall Reconstruction Update would provide some valuable background for the Recommended Action the Board would be voting on.
+
+Stan Szabelak, Manager of Civil Engineering, reviewed a Power Point presentation with the Board that is available in the February 3, 2015 Planning and Development Committee Agenda Packet.  He said that the presentation will consist of an update on the annual maintenance followed by the upcoming reconstruction plan.  Stan Szabelak commented that the maintenance activity occurs within the entire granite paver portion of the 16th Street Mall while the reconstruction is scheduled to occur on blocks 1, 2 and 13.
+
+Stan Szabelak stated that future annual expenses for RTD’s maintenance are projected to exceed $1 million.  He explained that the walkway elements and pavers are maintained by the Downtown Denver Partnership while RTD only maintains the transitway pavers.  He stressed that annual maintenance costs will only continue to increase.
+
+Stan Szabelak shared that the reconstruction cost estimate in 2011 was projected to be $63 million for 15.5 blocks or $4.07 million per block.  He explained that based on this estimate RTD and the City and County of Denver (CCD) applied for an FTA grant requesting $16.1 million to reconstruct 3.5 blocks.  RTD and CCD were approved for $10 million with 80% coming from the FTA ($8 million) and a 20% local match ($2 million) being shared between RTD and CCD.
+
+Stan Szabelak commented that reconstruction of the intersecting streets was not included in the initial FTA grant application; however, CCD has since approached RTD about entering into an Intergovernmental Agreement (IGA) to use the same contractor for both projects.  He said that RTD was able to include the intersection reconstruction in with our design portion but do not have enough funds for the actual construction.  He explained that CCD would be paying for this, which is what the IGA the Board will be asked to vote on tonight will outline.
+
+Director Lubow noted a settlement that was referenced on slide 4.  She asked if staff could provide further details related to the settlement.  Stan Szabelak explained that back in the mid-80s it was determined that there were problems with the original design.  The case eventually went to court where it was confirmed that there were some issues; as a result of the court determination, RTD received funding of about $120K per year through 2012 to offset the maintenance costs.  He pointed out the settlement has barely scratched the surface in the maintenance costs since about the mid-90s.
+
+Director Lubow commented that the FTA request was originally for about $16 million and we only received around $10 million.  She wonders how we accommodate being $6 million short for funding.  Stan Szabelak said that the design was completed for the full 3.5 block reconstruction and we will try to reconstruct as much as the $10 million will allow.  Rick Clarke, Assistant General Manager of Capital Programs, noted that we actually need a great deal more than just the $6 million we were not awarded as part of the grant application since reconstruction of the entire 16th Street Mall granite pavers was project to cost around $63 million in 2011.  He stated that staff continues to look for grant opportunities and funding partners.
+
+Director Lubow expressed concern that the reconstruction needs to be completed within a few years for safety reasons.  Rick Clarke explained that it was really due to the continued, escalating maintenance costs more so than safety.
+
+Director Lubow observed that the IGA stated that CCD would reimburse RTD for all direct costs associated with the construction of the intersections.  She wondered what would be considered an indirect cost.  Stan Szabelak said that direct costs would be all costs related to the construction of the intersections; the indirect costs are the costs related to the design work that were absorbed through the design activity that we were already engaged in to reconstruct the granite pavers.
+
+Director Solano shared a conversation he had with a gentleman who previously had a contract with RTD to maintain the granite pavers.  He said this gentleman expressed that really the transitway should be a continuous concrete surface to avoid the constant maintenance.  Stan Szabelak said that was Mr. Montoya; he stated that Mr. Montoya was correct.  He explained that staff tried to advocate for replacing the transitway with concrete that would be aesthetically pleasing but there was tremendous pushback from a variety of sources, especially those that wanted to maintain the historic and archeological aspect of the mall.  He pointed out that even with concrete there would still be maintenance costs as that is just the nature of roads.
+
+Committee Chair James informed the Board that there is a 16th Street Mall Steering Committee.  This committee is a good example of collaboration with CCD, the Downtown Denver Partnership (DDP) and RTD working together to use the 16th Street Mall as effectively as possibly.  He shared that he has been a Co-Chair of the Steering Committee so is very familiar with the discussion that have taken place.  In 2010 there was a very large amount of stakeholder input that was obtained and the historic value of the Mall’s design was very important; that is one of the big reasons for the reconstruction having such a large budget.
+
+Director Francone inquired if the maintenance costs were escalating due to the age of the Mall as opposed to something else.  She also asked for a more detailed explanation of the bulbouts referenced on slide 10 related to RTD’s responsibility.  Stan Szabelak noted RTD’s contribution would be the darker grey area of the drawing which is funded by the grant plus local match.  This does include construction of the bulbouts.  CCD would be responsible for the typical intersection, which is light grey in the drawing.
+
+Committee Chair James expressed that it was his understanding that the 16th Street Mall reconstruction and intersection reconstruction would be through a single contractor.  Stan Szabelak stated that was the plan.  Staff and CCD would like to have the construction be done through one contract to take advantage of economies of scale; that is why staff will be asking for the approval of the IGA with CCD next.  Rick Clarke noted that having the construction occur under one contract would also minimize the traffic impact.
+
+Director Bagley inquired what type of grant was awarded for the reconstruction efforts.  He wondered if perhaps RTD should begin to look at submitting another grant application as there is still about another $48 million needed to complete the entire reconstruction Project.  Stan Szabelak said the grant was an FTA “Bus & Bus Facilities Livability Grant.”  Rick Clarke stated that staff is always looking for grant opportunities that this project might qualify for.  Stan Szabelak shared that there is a new grant application that staff is currently working on and should be submitted in the near future.
+
+Director Hoy commented that in a sense, RTD is its own worst enemy because our vehicles are what are causing a lot of this maintenance.  He wondered if having new vehicles with dual tires will have a positive impact on the amount of pavers that need to be repaired, replaced, etc.  Stan Szabelak said it would lessen the impact but it is difficult to analyze and have a definitive answer as to how much.  He does not believe it will have enough of an impact to significantly extend the life of the 16th Street Mall in any way.
+
+Director Menten stated that she has never been happy with this program.  She believes maintaining the granite pavers is a tremendous waste of money, especially when RTD is cutting service in areas that really need it.  She said that she would be voting no on the IGA but would like to get further information on what it would cost to pave the Mall with concrete instead of the granite pavers.  Henry Stopplecamp reminded the Board that the approval of the IGA with CCD is not related to the reconstruction of the 16th Street Mall or the maintenance of the granite pavers.  The action this evening would be an IGA to tie CCD’s work into RTD’s construction contract. Director Menten stated she understood the details related to the request to enter into the IGA with CCD.  Rick Clarke said that staff would provide Director Menten with a rough estimate of reconstructing the Mall with concrete.
+
+Director Folska recognized that the 16th Street Mall is an area that brings a great deal of pride and joy to not only people in the District, but tourists as well.  Director Folska believes that it is a very pretty architectural piece designed by I.M. Pei; however, it is also very dysfunctional.  The pavers are very slippery and dangerous.  She asked for clarification as to RTD’s responsibility and what other organizations might be contributing to the Mall.  She also wonders if the Mall was really designed for the amount of traffic we are running on it now.  Stan Szabelak stated that RTD’s responsibility by agreement is to maintain the transitway lanes to the extent of keeping the pavers repaired, replaced, etc.  He said that we are not responsible for snow removal or any maintenance of the sidewalk area.  Rick Clarke noted that RTD recently entered into an agreement with CCD in which they will contribute up to $300K per year to support transitway maintenance.
+
+Director Folska asked for information about who was responsible for the cost of the reconstruction of the 16th Street Mall, not the maintenance.  She said that based on the information presented it was her understanding that the Downtown Denver Partnership has not contributed any funding.  Rick Clarke explained that for the reconstruction there is a $10 million grant with RTD contributing one-third of the required 20% local match.  Henry Stopplecamp stated that would be about $660K.  Stan Szabelak reiterated that the $10 million grant would only build about 2.5 to 3.5 blocks, not the entire length of the Mall.
+
+General Manager Washington stated that in regards to if the Mall was designed to sustain its current traffic levels the answer is no.  This is the same thing being experienced with infrastructure across the country.
+
+Director Solano inquired again why the Mall was not being reconstructed with concrete.  He recognized that there are many stamped concrete options that can be just as aesthetically pleasing but last longer than granite pavers.  He wondered if perhaps this had really been considered.  Stan Szabelak reiterated that staff had tried to approach the switch to stamped concrete from a technical perspective but the community wanted to continue to use granite pavers from a historical perspective.  He believes that until there is a politically willed transition there will be no change in the pavers.
+
+Committee Chair James stressed that a major reason for continuing to use the granite pavers is historic preservation since the 16th Street Mall is considered a historic landmark.
+
+Director Menten thanked staff and Committee Chair James for providing her with information on the groups that want to keep the granite pavers.  She said that she would be directing constituents who had concerns about fares and eliminated routes to these organizations in the future.
+
+##### a. 16th Street Mall combined presentation 02-03-15
+
+#### 1. 16th Street Mall Intersection Improvements, Funding Intergovernmental Agreement with the City and County of Denver
+
+It is recommended by the Planning and Development Committee that the RTD Board of Directors authorizes the General Manager, or designee, to execute an Intergovernmental Agreement (IGA) between the City and County of Denver (CCD) and the Regional Transportation District. The purpose of the IGA is to set forth the rights, duties and obligations of CCD and RTD to construct intersection improvements within the CCD Right-of-Way in conjunction with the 16th Street Mall Reconstruction Project. The intersection improvements will be funded by CCD, and the construction managed by RTD. CCD will pay any and all invoices submitted to RTD by the contractor directly associated with the intersection improvements on or before the due date of said invoices.
+
+Motion:              Director Anderson made the motion to move this item to the full Board at the February 17, 2015 Board Meeting.
+
+Director Walker seconded the motion.
+
+Discussion:              Director Anderson stated that what RTD is working with is the built environment; if the 16th Street Mall were to be designed today it would be completely different.  She reiterated that the community has spent a great deal of time working with RTD, the City and County of Denver (CCD) and the historical society and communities.  She believes that all RTD can do today is work to reconstruct the Mall while keeping in line with its historical preservation until there is a political change.  She said she supports this motion because RTD cannot redesign the mall today or in the near future but it still needs to be maintained.
+
+Rick Clarke reminded the Board that this IGA allows RTD to enter into an agreement with CCD so that RTD can use CCD’s funds to reconstruct the intersections.  Stan Szabelak informed the Board that once all the bids are received, staff will come back to the Board for approval of the construction contract.
+
+Director Walker explained that he supports this motion because it is combining efforts.  Instead of having to disrupt traffic and impact businesses and commuters multiple times, this completes everything at once.  He said that he also supports the bulbouts as they make it much safer for pedestrians to cross the street.
+
+Director Francone stated that she does not want to belabor the point, but the community is interested in preserving the historical value of the 16th Street Mall while RTD’s commitment is to preserve the roadway.  She believes that, when looking at the soaring maintenance costs, RTD should have the political will to redesign the Mall in a manner that will not require these large amounts of money for maintenance.  Director Francone wondered if the construction proposed could be integrated into any future projects.  Stan Szabelak explained that the lessons learned from this project could be implemented at another intersection down the road.
+
+Committee Chair James commented that the granite pavers within the Mall are really what cause the large reconstruction expense.  The intersection reconstruction does not consist of granite pavers so it will not be as expensive.  He inquired if the design of the intersection was a result of collaboration with RTD, CCD and the Downtown Denver Partnership and therefore the Mall design and intersection design will complement each other.  Stan Szabelak stated that was correct.
+
+Committee Chair James declared the motion PASSED.
+
+### D. Other Matters
+
+There were no other matters.
+
+### F. Adjourn
+
+Committee Chair James declared the meeting adjourned at 7:36 p.m. to the FasTracks Monitoring Committee.

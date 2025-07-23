@@ -1,0 +1,499 @@
+## I. Call to Order
+
+Chair Pro Tem Francone called the meeting to order at 5:30 p.m.
+
+## II. Pledge of Allegiance
+
+Chair Pro Tem Francone asked everyone to stand and join her in the Pledge of Allegiance.
+
+## III. Roll Call - Determination of Quorum
+
+Barbara McManus called roll. There were thirteen (13) members present at roll call. Chair Hoy and Director Sisk were absent.
+
+### A. Roll Call
+
+Staff Present:               Rolf Asphaug, Gina Callahan, Jessie Carter, Ignacio Correa-Ortiz, Lou Cripps, Lee Cryer, Nate Currey, Terry Emmons, Steve Gieske, David Genova, George Hovey, Brian Iacono, John Hersey, Ali Imansepahi, Michelle Madrid, Heather McKillop, Barbara McManus, Scott Reed, Henry Stopplecamp, Bill Van Meter
+
+Others Present:               Carla Abad, Caprice Agassounom, Kilian Agassounom, Jennifer Aggrey, Jessica Aggrey, Phoebe Amoako, Leticia Anaya, Homer Anderson, Rev. Nelson Bock, Gloria Borunda, Benedict Botchey, Sharon Bridgeworth, Miguel Caballo, Meghan Carrier, Elvia Chavez, Marcos Cortes, Chris DeWitt, Maria Diego, Mayra Gonzalez, Eva Gonzalez, Paul Gosdl, Brit Harvey, Diane Isler, Tony Lewis, Janiece Machey, Celeste Martinez, Nora Miguel, Meyah Neur, Victoria Okine, Sabina Padilla, Gercon Padilla, Juana Rivera, Hadyn Roberts, Miguel Salgado, Maria Soto, Vivian Stovall, Frank Tapy, Daniella, Torres, Joe Tripplett, Gary Van Dorn, Felipe Vieyra, Leticia Zuniga
+
+## IV. Retiree Awards
+
+Chair Pro Tem Francone noted there were two retirees this month though neither was in attendance.  She recognized Louie Archuleta, Mechanic, for his 22 years of service and Tony McCaulay, Senior Marketing Manager, for his 20 years of service.  She congratulated them on their years of service and a job well done.
+
+## V. Public Participation
+
+Chair Pro Tem Francone stated public participation was open to anyone that wanted to address the Board. She reminded the audience that each speaker is allowed three minutes.
+
+Frank Tapy from Denver stated that he was a long-time resident of the Park Hill neighborhood.   Mr. Tapy informed the Board that he was the Treasurer of Together Colorado.  He summarized Together Colorado as a state-wide, multi-faith, racially inclusive, non-partisan, non-profit organization that is affiliated with People Improving Communities through Organizing (PICO) National Network.  Mr. Tapy explained that Together Colorado is involved in national issues that include: education, mass incarceration, immigration, health care, and economic justice.
+
+Mr. Tapy mentioned the fact that he was a teacher for several decades teaching art and coaching basketball.  He emphasized the importance of extra-curricular opportunities for students.  He stated that lack of affordable transportation often means that some students cannot participate. He stated that the situation has become more problematic with continued economic disparity and the increase in school choice options that require longer travel distances.  He stated that if students possessed an Eco Pass, then it would allow him or her to have greater access to more activities.
+
+Mr. Tapy concluded by saying that statistics state that children that participate in a wide range of activities typically have better attendance, high academic performance and better graduation rates.  He stressed that the education of our youth must be the highest priority in Colorado and in the Denver Metro Area.  He said as a community servant, RTD can play an important role in the educational experience for students.
+
+Daniella Torres, Denver, stated that she was a freshman at Colorado Academy.  Ms. Torres said that if she had a bus pass she wouldn’t need to worry having money to get to school and her soccer games.  She explained that transportation should not discourage a student’s desire to learn and do extra-curricular activities.
+
+Tony Lewis of Denver, the Executive Director of the Donnell-Kay Foundation, stated that his organization’s core focus is to improve education and a key piece of that objective is providing transportation.  He said that high school students need access to after-school programs, summer programs, jobs, and access to school of choice.  Mr. Lewis explained that two years ago the Donnell-Kay Foundation started researching transportation policies of Denver Public Schools (DPS), City and County of Denver (CCD) and RTD.  It became apparent after the study that most students lack transportation resources and need public transit.  He said that the Donnell-Kay Foundation, along with DPS and the CCD, have tried to engage in pass conversations with RTD but have failed on many occasions.  He explained that all the parties involved created a pilot program that would link up with the My Denver card and Eco Pass.  Through this pilot, Denver Public Schools would purchase 10,000 Eco Passes.  Mr. Lewis stated DPS does not want free passes only access to the Eco Pass program.  He explained that RTD has denied this request and he believes it’s a big mistake.  He asked the Board to overturn this decision and allow DPS to purchase 10,000 passes for the pilot program and in turn RTD will get valuable ridership data on high school students for the pass study task force.
+
+Miguel Ceballos, Denver, stated that he remembered when DPS provided buses to take kids to school.  He followed up by saying that he does not see that as a growing priority in his Montbello neighborhood.  He said students need to get to activities after school and they need access to get there. He said that he used to go to school to Emily Griffith School growing up and had to travel to and from Montbello every day.  He said he didn’t know how he would have afforded the transit fares if he did not have a reduced rate pass.  He asked the Board to consider the people that their decision that if effects.
+
+Marcos Cortes, Denver, stated that an Eco Pass would benefit him, his friends and it would also help out his parents.  He said that most of his friends’ parents do not drive them to school because the distance is too far.  Mr. Cortes said that once he starts East High School next year he will need to take RTD to and from school.  He said that it is too hard for his mom to transport all of his siblings to various schools each morning.  He asked the Board to let DPS and CCD purchase Eco Passes the same way RTD allows corporations to purchase passes.
+
+Jennifer Agrray, Denver, from Young Aspiring Americans for Social and Political Activision (YAASPA), stated that, if all students had access to an RTD pass, they would have access to more quality schools.  She asked RTD to step up and let DPS buy RTD passes.
+
+Benedict Botchi, Denver, YAASPA and Together Colorado, said it is vital for students to have access to bus passes.  He explained and example of how his brother missed a very important test because he chose to save money for other things instead of using it for the bus.  He urged the Board to prioritize figuring out a solution to this problem.
+
+Jessica Agrray, Denver, stated that a lot of her friends miss school because they do not have money for the bus.  She pleaded with the Board to allow CCD to purchase bus passes.
+
+Phoebe Amoako, Denver, YAASPA, stated that parents are paying $50/month for their child to access a bus pass.  She said that she is considering going to a school far from where she lives; however, she may not be able to afford to get there.  Ms. Amoako said that there are a lot of kids who do not receive the education they deserve because of transportation issues.  DPS has the money to purchase 10,000 passes from RTD from their Eco Pass program, the same program corporations purchase passes for their employees.
+
+Reverend Nelson Bock, Denver, Together Colorado, stated that he has lived in Denver for over 30 years.   He cited that a large percentage of students from Denver Public Schools come from low-income families and are on the free and reduced lunch program.  Rev. Bock said that transportation to and from school for these families can be a very large financial burden.  He said that parents want to allow their children to have every opportunity to thrive and extracurricular activities teach them very important values.  He explained how extracurricular activities help young people to fully develop their potential and become productive members to our society.  Rev. Bock plead with the Board to break the barriers and support the request for RTD to negotiate a bulk purchase of Eco Passes for DPS students.
+
+Victoria Okane, Denver, YAASPA, said that she believes that RTD passes cost too much for students and families.  She stated that she would redirect that money to purchase swim equipment.  She urged the Board to work with DPS and CCD in the purchase agreement of 10,000 Eco Passes.
+
+Caprice Agassounom, Denver, YAASPA and Together Colorado, stated that transportation is essential to all students.  In order to go her school of choice she would have to take two buses and one train.  The amount of money needed to do this every day to and from school would greatly affect her family.  Ms. Agassounom asked the Board to consider working with DPS and CCD in the purchase of the bus passes.
+
+Myra Gonzales, Denver, stated that she was representing the Montbello Organizing Committee on behalf of the Montbello students that could not attend.  She noted that out of 4,965 high school students residing in Montbello, 1,174 have opted to attend out of district schools; therefore they need reliable transportation.  Ms. Gonzales stated that Director Deadwyler has told that she would support a plan if it was cost neutral. She encouraged the Board to work with DPS, CCD, and Together Colorado to provide bus passes for students.
+
+Nola Miguel, Denver, Director of Globeville Elyria-Swansea Live Well, and former Together Colorado.   Ms. Miguel said that she was involved in forming the Success Express program, which operates the little yellow buses that transport parents and students in Northeast Denver.  She said that this program originated when a group of 8th grade students and their parents formed a committee to find transportation for their children transitioning into high school.  She said the children of the Globeville and Elyria-Swansea neighborhoods are required to walk far to attend schools near them, and are faced with safety elements that can make it dangerous for them such as the highway crossings and train tracks.  She mentioned a mother who was faced with paying for numerous fares for her children and stated tha receiving passes for her high school students would help tremendously.  Ms. Miguel encouraged the Board to be part of the pilot bus pass effort.
+
+Miguel Salgado, Denver, Youth Leader with Together Colorado, stated that receiving an education is a gift. He said the true colors of modern society shows when a student‘s education is compromised by how the student gets to school.  He explained that he has been riding RTD for a long time and sees how modern day technology has manipulated and taken advantage of all people standing before the Board.  He then explained that a child paying $1.10 to get to and from school every day would pay approximately $66 a month.  Mr. Salgado said that he cannot speak for other students but he stated he has rarely received an allowance and never had a job, so getting money to travel on the bus is a hardship for him and his family.  He stressed that he does not understand how society expects them to succeed if they continually set up obstacles.  He asked the Board to let DPS, CCD and Together Colorado negotiate a year around pass program for students.
+
+Hadyn Roberts, Denver, explained the importance of the bus to persons of all economic levels and backgrounds.  He referenced a Fox 31 report by Kevin Torres, which stated that, according to RTD sources, an increase to bus and rail fares is necessary to keep up with inflation and rail expansion projects.  He agreed that the increase made sense but highlighted RTD’s mission statement, to provide safe, clean, reliable, courteous, accessible, and cost-effective service.  He emphasized to the Board that bus fares are not cost effective to students.  He stated that a student’s bus fare increased by $0.20 and with approximately 180 school days a year times two trips a day, a student is paying out of pocket approximately $2.60 day or $468 a year, whereas an Eco Pass is $600 a year.   He explained that in order for a person to break even using the Eco Pass, the person would have to ride the bus 102 times. He asked the Board if they would commit to working with DPS and the City of Denver to expand transportation options for students.
+
+Vivian Stovall, Denver, Alliance for Retired Americans, stated that she’s been taking transit since 1974 and has a passion for advocating for seniors and people with disabilities.  She said that she has watched RTD grow and appreciates the services they offer to the community.  Ms. Stovall said her main concern is advocating for citizens that are transit dependent.  She stated that she has a concern that there are so many committees with the same goals not communicating with each other.  She mentioned that she is on the Citizens Advisory Committee and she visits a lot of senior living committees where she frequently answers RTD-related questions.  Ms. Stovall suggested that she would not mind being an advocate for RTD to assist with the communication barriers with citizens.
+
+Paul Garrett, Denver, an Episcopal Priest and Director of the Episcopal Church of Colorado.  He stated that he grew up in Denver and went to East High School.  He listed his different means of transportation used to get to school every day and one of them was the bus.  He noted that his church is five blocks away from East High School and driving to school will be hazardous to students because of the ever-growing neighborhood.   He suggested that it would be safer for students to bus to school instead.  Mr. Garrett asked to the Board to make Eco Passes available to DPS students.
+
+## VI. Committee Reports
+
+Civil Rights Committee – Chaired by Director Solano
+
+Executive Committee – Chaired by Chair Hoy
+
+Financial Administration & Audit Committee – Chaired by Director Menten
+
+GM Oversight & Performance Management – Chaired by Director Francone
+
+Government Relations Committee – Chaired by Director Walker
+
+Operations & Customer Services Committee – Chaired by Director Anderson
+
+Planning/Capital Programs & FasTracks Committee – Chaired by Director Lubow
+
+Chair Pro Tem Francone asked for a motion to approve the Committee Reports.  The Board was unanimous.  There were no changes to the committee reports.
+
+### A. Minutes of Mar 7, 2017 5:30 PM
+
+### B. Minutes of Mar 7, 2017 5:30 PM
+
+### C. Minutes of Mar 7, 2017 5:30 PM
+
+### D. Minutes of Mar 21, 2017 5:30 PM
+
+### E. Minutes of Mar 21, 2017 5:30 PM
+
+### F. Minutes of Mar 23, 2017 12:00 PM
+
+### G. Motion
+
+## VII. General Manager Oversight and Performance Management Update
+
+There was no update from the General Manager Oversight and Performance Management Committee.
+
+## VIII. Approval of Board Meeting Minutes of February 28, 2017
+
+Motion:               Director Tisdale made the motion to approve the Board Meeting minutes of February 28, 2017.
+
+Director Broom seconded the motion.
+
+Vote on the
+
+Motion:               The motion passed with 13 in favor (Anderson, Archuleta, Broom, Deadwyler, Folska, Francone, Lubow, Menten, Mihalik, Solano, Tisdale, Tobiassen, Walker, Williams) and 0 opposed. Directors Hoy and Sisk were absent.
+
+Chair Pro Tem Francone declared the motion PASSED unanimously.
+
+### A. Minutes of Feb 28, 2017 5:30 PM
+
+## IX. Chair's Report
+
+Chair Pro Tem Francone provided the following report:
+
+ATTENDED EVENTS AND AWARDS
+
+- March 3rd – The Shine event held in Denver was attended by Directors Solano and Tisdale.
+
+- March 4th – The Board of Directors and the Senior Leadership Team participated in the annual Strategic Planning Session held at the Denver Athletic Club.
+
+- March 10th – The Aurora Chamber of Commerce held its 62nd Annual Awards and Silent Auction. Former Chair Tom Tobiassen and former Director Barry Gore were honored. Chair Hoy and Directors Broom, Folska, Sisk, and Williams attended.
+
+- March 12-14th – The APTA Legislative Conference was held in Washington D.C.  Chair Hoy and Directors Folska, Mihalik, Solano, Tisdale, Walker, and I attended.
+
+- March 14th – Commuting Solutions held its Membership Meeting in Broomfield.  Directors Anderson, Lubow, and Sisk attended.
+
+- March 16th
+
+o        Arapahoe County’s Local Coordinating Council met, and Director Tisdale attended.
+
+o        The Colorado Smart Cities Forum took place, and Director Tisdale and I attended.
+
+- March 21st – RTD staff conducted a Finance Workshop on the Strategic Budget Plan. Directors Broom, Solano, Walker, and I attended.
+
+- March 23rd – Director Anderson and I attended the Jefferson County Economic Development Corporation’s 24th Annual Industry Appreciation Awards Breakfast.
+
+ONGOING AND UPCOMING EVENTS
+
+- April 3rd – The memorial plaque recognizing former General Manager Cal Marsella will be unveiled at Denver Union Station.
+
+- April 5th – The Denver Regional Mobility Access Council (DRMAC) will hold a Transit and Accessibility Task Force (TATF) meeting in this room at 5:30 p.m.
+
+- April 12th – The monthly Jefferson County Transportation Action and Advocacy Group (JEFFTAAG) meeting will be held in Golden.
+
+- April 14th – The South Metro Denver Chamber Economic Development Group will be holding a breakfast meeting in Centennial, and Director Tisdale will attend.
+
+- April 18th – The DRCOG Regional Transportation Committee Meeting.  There are multiple Local Coordinating Council meetings scheduled in the district.
+
+## X. General Manager's Report
+
+General Manager Genova briefed the Board on the following activities:
+
+- Met with Congressman Ed Perlmutter’s staff on Thursday, March 2nd
+
+- Attended meeting in Washington, D.C. at Federal Railroad Administration Headquarters with Steve Fender, Karl Alexy, Bob Lauby, Thomas Herrmann, and David Blackmore of Federal Railroad Administration; Denver Transit Partners Personnel; Henry Stopplecamp and Greg Straight on Thursday, March 2nd
+
+- Interviewed by Mile High Connects regarding the development of their Strategic Plan on Friday, March 3rd
+
+- Participated in a conference call with DTP Board on Monday, March 6th
+
+- Attended the US 36 Mayors and Commissioners Coalition quarterly meeting with US 36 Commuting Solutions on Tuesday, March 7th
+
+- Participated in the Operating Division Walk-Throughs; East Metro on Thursday, March 9th, Elati on Friday, March 17th, and Boulder on Monday, March 20th
+
+- Attended a quarterly meeting with Herman Malone of Business Action Coalition (BAC) on Thursday, March 9th
+
+- Attended the APTA Legislative Conference in Washington, DC, March 11th through 16th
+
+- Met with Matt Welbes, Federal Transit Administration, Acting Administrator, on Monday, March 13th
+
+- Participated in a Federal Transit Administration conference call regarding President Trump’s budget blueprint on Thursday, March 16th
+
+- Provided the opening words at the Rail-Volution National Steering Committee Reception on Thursday, March 16th
+
+- Met with Denver City Councilwoman Stacie Gilmore on Friday, March 17th
+
+- Met with John Tayer, President and CEO of the Boulder Chamber of Commerce on Monday, March 20th
+
+- Met with Cynthia Patton, City and County of Denver Parks and Planning Manager, Dionne Williams, Deputy Director of Denver Office of Children’s Affairs and Erin Brown Executive Director fo Denver Office of Children’s Affairs, regarding the My Denver Pass proposal on Wednesday, March 22nd
+
+- Attended North Area Transportation Alliance meeting on Thursday, March 23rd
+
+- Met with Greg Fulton, President of the Colorado Motor Carriers Association on Friday, March 24th
+
+- Met with Cindy Terwilliger, FTA Region VIII Administrator on Friday, March 24th
+
+- Met with Senator Jim Smallwood on Friday, March 24th
+
+- Interviewed by Denver Post TV on Friday, March 24th
+
+- Met with the Colorado Public Utilities Commission on Tuesday, March 28th
+
+General Manager Genova stated that he has been meeting diligently with staff at the City and County of Denver (CCD) regarding the bus passes for Denver Public School (DPS) students.  He said that in these meetings with CCD he explains the different pass programs in detail.  He explained to CCD that the sale of our Eco Passes to high schools is outside of the Eco Pass policy.  He also pointed out that in his quarterly meeting with Mayor Hancock he has been discussing the My Denver card and how RTD might be able to use that card as a transit pass.
+
+General Manager Genova also mentioned his discussion with the Executive Committee regarding the non-profit pass.  He said that non-profit organizations can buy fare media at a 50% discount and then it is up to that organization to do the means testing for their participants.  He explained how the Board approved an increase of value fare media sales by $1 Million dollars in 2016, which raised the face value of media available under the program to $6.8 Million dollars.  He said that the study performed in 2015 helped convince the Board to increase sales to nonprofit organizations.  Towards the end of 2016 sales peaked and RTD exceeded the $6.8 Million dollar threshold by $700,000.  He stated that in monitoring sales since the beginning of this year there has been a significant spike.  He explained that two temporary actions will be implemented in order to not exceed sales of available media in 2017.  He said the first measure would put any new agencies on a waiting list.  The second measure would limit purchases to what agencies have purchased historically.
+
+General Manager Genova stated that his team would come back to the Board next month during a committee meeting and present a better analysis of the program and more information on purchasing.  He said during this presentation staff will identify some options for the program.  He affirmed that through the Board’s input staff will create a Recommended Action for May.
+
+General Manager Genova also explained how some schools purchase passes from the non-profit pool of passes and can also capturing an additional 50% discount if they conduct their own means reporting.  He said he met with the Mayor and the Superintendent from DPS regarding their pass request and talked about creating a pass that is similar to the college pass, which would be based on use.  He noted that RTD is awaiting demographic information from DPS showing where students that qualify are located.
+
+Director Folska asked General Manager Genova for more detail on where RTD is with the FRA extension, which is set to expire on April 30th.  She asked what the reasonable expectation beyond April 30th is and when the opening of the G Line will occur.
+
+General Manager Genova stated that he met with the FRA in March and talked about doing a variance to the equation on how we calculate the warning times. He reported that the FRA stated that RTD is on a good path moving forward and suggested meeting with the public utilities commission.  He explained that, since the waiver’s expiration date is set for April 30th, RTD will need to ask for an extension during their visit to Washington D.C. on Monday, April 3rd.  He asserted that the FRA stands firm that, until RTD has a solid plan on the completion of the University of Colorado A Line crossings, they will not allow RTD to test the G Line.  He stated that Denver Transit Partners (DTP) said that once testing is approved for the G Line it would take them approximately 8 weeks for testing.  He said that the FRA asked RTD to set a revenue service date and they requested the end of October 2017.  He stressed that October 31, 2017, is not the opening date; it is simply a response to their request.
+
+Director Tisdale said that he appreciated hearing all of the students’ desires to participate in extracurricular activities.  He stated that he too grew up on transit and he appreciates and empathizes with them.  He asked General Manager Genova to give the Board assurance that the temporary measures adopted by the Executive Committee will remain in place until there is a report to the Board.  He also requested an explanation on why the program was oversold by $700,000.  Lastly, he requested a process that will prevent some non-profits from buying up all the passes, and said there needs to be a fair purchasing mechanism.
+
+Director Lubow asked why there was a huge purchasing spike in December.
+
+Heather McKillop, Chief Financial Officer/Assistant General Manager of Finance and Administration, stated that agencies were spending their end-of-year budgets in December, which accounted for the spike in sales.  She also stated that there were 35 new agencies that joined the program in 2016.  She noted that the program went over budget because the purchasing process is a manual process and not electronic, therefore staff was unable calculate numbers while processing orders.
+
+Scott Reed, Assistant General Manager of Communications, said he has a long history working with these individual agencies but RTD did not anticipate the level of interest.  He said that there was not a tracking mechanism in place prior to accepting the orders, so the orders received had to be honored.  Mr. Reed explained that the new temporary actions, capping sales and establishing a waitlist, will allow staff to monitor sales more closely until a revised procedure is put into place.
+
+Director Lubow asked General Manager Genova to explain how school districts can get an additional 50% off of their purchases through the non-profit pass option.
+
+General Manager Genova explained that school districts can purchase passes at the 50% student discount rate and then request another 50% off for being a non-profit organization; however they will need to conduct a means test on the student to make sure they qualify for the discount.
+
+Director Lubow asked if that same type of scenario would work for the Denver Public Schools’ students.
+
+General Manager replied that some DPS schools currently go through this program and RTD has discussed all the different options with DPS.
+
+Director Lubow said that she is getting feedback that staff is not interested in discussing the mechanics of RTD’s different pass programs. She stressed that RTD needs to have a “Getting to Yes” attitude when assisting our customers.
+
+General Manager Genova said that he has been having conversations with DPS however, RTD has not said yes to the Eco Pass request because it is outside the policy guidelines.  He said staff continues to discuss how RTD can help DPS.
+
+Ms. McKillop stated that Denver and Aurora purchase passes through the non-profit program and on a school-to-school basis, based on the budgets they have available. She said the means testing is based on whether or not the child qualifies for free lunch not reduced lunch.
+
+Director Lubow asked if the school districts have money to purchase the passes, could RTD sell DPS passes through the non-profit program.
+
+Ms. McKillop replied that DPS wants bus passes on a much broader basis which would exclude the means testing.  The volume that they want doesn’t fit into any of the programs RTD currently has. She stated that RTD would not be able to afford the volume.
+
+General Manger Genova said that DPS currently wants 10,000 Eco Passes at $2 Million dollars per year.  10,000 local passes at the student discount rate would cost $6 Million dollars and 10,000 regional passes would be double that amount.
+
+Mr. Reed stated that RTD has in place a Board-adopted policy to sell Student Passes, College Passes, and Eco Passes.  The Eco Pass program is set up where every employee signs up for the program but not every employee is going to utilize the pass.  He continued by saying that DPS will actually be using all 10,000 passes, so it doesn’t qualify as an Eco Pass purchase.  He emphasized that RTD has had numerous discussions with the parties involved.  He stated that DPS want the Eco Pass price but everyone will use their pass and you will not be able to account for the reduction in usage which levels out the very low price.
+
+Director Williams stated that there are a lot of other groups that could benefit from discounted programs.  She said that there needs to be equity when offering discounted rates.
+
+Director Broom asked General Manager Genova if the FRA’s request that RTD consult with the Public Utilities Commission (PUC) means that RTD has covered all of their bases and the software issues are fixed.
+
+General Manager Genova stated he was encouraged by the last meeting with FRA and today’s meeting with the PUC as well.
+
+Chair Pro Tem Francone stated that if RTD is going to give discounted rates to Denver Public School students then we need to accommodate all students in all regions.  She calculated that the face value of 10,000 passes worth $49 per month over a period of 12 months would cost $5,880,000, which would result in a $3,880,000 taxpayer subsidy for the program.  She stated that she has had conversations with the Together Colorado representatives and they were astonished by the numbers she presented them.
+
+Chair Pro Tem Francone asked General Manager Genova if he could explain what was going on with the definition of cohort.
+
+General Manager Genova stated that RTD does not believe it is part of a cohort, and has applied for a collateral refund.
+
+Ms. McKillop explained that when the Denver Union Station Project Authority (DUSPA), Denver Transit Partners (DDP) and RTD applied for the Railroad Rehabilitation & Improvement Financing (RRIF) Loan, RTD was required to put up a $28 million credit risk premium/collateral on the loan.  Those funds have been sitting in Washington, D.C. as RTD was considered high risk even though DUSPA applied for the loan.  Since that time, RTD has argued to get that money back.  The only people that have been successful in getting that money refunded were those that had paid off the loan, and had smaller credit risk premiums.  Between the Moving Ahead for Progress in the 21st Century Act (MAP-21) and the new Fixing America’s Surface Transportation (FAST) Act, there was a piece of legislation that said anyone that had paid off their loans as of 12/31/2015, could get their credit premiums back.  RTD paid off both the Transportation Infrastructure Finance and Innovation Act (TIFIA) and RRIF loans on February 3, 2017.  At that time, RTD sent a notice to the people in office indicating that RTD planned to get that money refunded.  RTD has now sent official letters through DUSPA indicating that the loans have been paid off, RTD is not part of a cohort, and RTD is applying the previous bill language written to our set of circumstances.  That letter was sent on March 22, 2017 and staff is waiting for a response.  She added that RTD will use whatever political mechanisms it can to help get that money refunded, and noted that the $28 million would be split between the City of Denver and RTD.
+
+Director Deadwyler stated that she can relate to many of the students because she too had to travel back and forth to school each day on buses.  She said that she loved hearing the students speak out; however, she realizes that they are millennials and they do not like to spend money on anything. She said that she believes the students should be required to pay for a portion of the pass.
+
+## XI. Unanimous Consent
+
+Chair Pro Tem Francone moved unanimous consent item D, Purchase of 15-Gillig 40' Transit Buses, to Recommended Actions per Director Menten’s request.  She asked for a motion to approve items A through C.
+
+Motion:               Director Folska made the motion to approve the unanimous consent agenda.
+
+Director Tisdale seconded the motion.
+
+Vote on the
+
+Motion:               The motion passed with 13 in favor (Archuleta, Broom, Deadwyler, Folska, Francone, Lubow, Menten, Mihalik, Solano, Tisdale, Walker, Williams) and 0 opposed. Directors Hoy and Sisk were absent.
+
+Chair Pro Tem Francone declared the motion PASSED unanimously.
+
+### A. Budget Transfer for Increased Access-a-Ride Contract Costs
+
+It is recommended by the Finance, Administration, and Audit Committee that the Board of Directors authorize a budget transfer from the Board Appropriated Reserve to the Access-a-Ride contracts for MV Transportation (Contract 13-DH-053 in the amount of $1,700,000) and Via Mobility Services (Contract 13-DH-055 in the amount of $810,000) to cover the additional costs associated with increased driver wages.  The total dollar amount of the budget transfer is $2,510,000.
+
+### B. Budget Transfer for Increased Call-n-Ride Contract Costs
+
+It is recommended by the Finance, Administration, and Audit Committee that the Board of Directors authorize a budget transfer from the Board Appropriated Reserve to the Call-n-Ride contracts to cover the additional costs associated with increased driver wages.  The total dollar amount of the budget transfer is $176,000.
+
+### C. Proposed May 2017 Service Changes
+
+RECOMMENDED ACTION
+
+It is recommended by the Operations and Customer Services Committee that the Board of Directors approve the May 2017 Service Change package as revised and summarized in Attachment A resulting in an annualized cost of approximately $221,300 and, further, to authorize the General Manager or his designee to execute contract amendments as necessary for private operators whose service is impacted by these changes.
+
+DISCUSSION
+
+To meet the diverse travel needs of the citizens of the District and maintain a high-performance, sustainable transit system, RTD has developed a networked family of services for which the different classes of service have different expectations of performance.  We will continue adjusting services in response to changes in ridership and operational performance of the transit system as a whole. It is also our responsibility to identify services that are underperforming and recommend modifications, curtailment or cancellation of service as warranted. The proposals herein include a mix of service improvements, adjustments and reductions. Based upon current and past ridership performance a number of services will have minor service reductions. The Route 40-Colorado Boulevard will see the largest reduction during the peak period. The 41st-Fox and Pecos Junction Stations are proposed to open to provide access to the B-Line and consequentially, Routes 8 and 19 are proposed to be realigned to serve the new stations.  We will monitor customer response to the implementation of these service changes and propose adjustments and service alternatives as appropriate in future service change recommendations.
+
+The guiding principles for proposed service changes continue to be:
+
+- Service performance evaluation based on the RTD Service Standards;
+
+- The effects on the overall integrity of the transit network and on transit dependent markets;
+
+- The availability of alternative services to affected riders;
+
+- Cost-effective distribution throughout the District and Family of Services and the ability to enhance service when possible;
+
+- Title VI of the Civil Rights Act: benefits and services are provided without regard to race, color or national origin; also disparate effects on low income and minority populations; and
+
+- Response to changes in the communities where services are provided
+
+SUMMARY OF PUBLIC HEARINGS
+
+Five public hearings were conducted in Arvada, Denver (3) and Westminster between February 14th and February 27th. Comments and further details from these meetings and the service change website are summarized in Attachment B of this report.
+
+CHANGES TO INITIAL RECOMMENDATION
+
+Staff receives input during the public comment process and continues to conduct additional analysis after the initial service recommendations are communicated to the Board of Directors. Depending on the outcome of the public comment process and continued analysis, staff may or may not propose modifications to these initial recommendations. The following proposals have been significantly modified:
+
+A Line: schedule adjustment to improve on-time performance and transit connections
+
+R Line: schedule adjustments to improve on-time performance and reduce service delay
+
+Route 105 - Havana Crosstown: schedule adjustments requiring additional resources to be added to the evening peak schedule
+
+Route 131- Iliff: extends current detour to 9 Mile Station to become regular route
+
+Route AT – Arapahoe County/DIA: Schedule adjustments are proposed to improve service reliability. Deferred to August.
+
+SUMMARY OF PROPOSED SERVICE CHANGES
+
+Routes proposed for service improvements:
+
+Route 3 – Alameda Avenue: extend 30 minute service frequency in peak periods and re-route westbound trips to serve Alameda Station northbound on Cherokee Street
+
+Route 4 - Morrison Road: reroute to serve Alameda Station northbound on Cherokee Street Route 8 – North Broadway/Huron: reroute the Route 8 to serve the 41st/Fox Station
+
+Route 19 – North Pecos: reroute Route 19 to serve the Pecos Junction Station
+
+Route 105 – Havana:  extend northbound evening service 30 minutes later and discontinue 3:08am northbound trip
+
+Route 131- Iliff: extends current detour to 9 Mile Station to become regular route
+
+Route 133 – Hampden/Tower:  extend evening service one hour later until approximately 12:00 midnight
+
+Route 135 – Smoky Hill Road: add 10:26pm eastbound trip from Nine Mile Station
+
+Route AB – Boulder/DIA: add 2 AM peak and 2 PM peak trips to create a 30 minute frequency,
+
+Route BOLT – Boulder/Longmont: initiate Board approved BOLT Ltd trips via Boulder Junction at Depot Square Station.
+
+B Line -  Westminster/DUS:  add stops at the 41st and Fox Station and the Pecos Junction Station to all trips.
+
+Routes proposed for service reductions:
+
+Route 40 – Colorado Boulevard: reduce peak frequency from 10 to 15 minutes
+
+Route 55S – Olde Town/DUS: recommend pm peak schedule adjustments to combine with 55L. Consolidate with and rename as 55L.
+
+Route 121 – Peoria Street:  discontinue the 3:07am northbound operating from Peoria/Albrook  and 12:45am southbound trip operating from 40th & Airport
+
+Route 153 – Chambers Road: discontinue 3:35am northbound trip from Sable/Colfax
+
+Route 157 – CCA/Buckley AFB: discontinue service after 7:00pm due to low ridership
+
+BroncosRide: (contingent on the G-Line opening) prior to the start of Broncos season, service to the OldeTown Arvada and Ward Road Park-n-Rides will be discontinued
+
+Routes proposed for mixed service improvements/service reductions:
+
+Route 21 - Evans Avenue:  move the 7:15pm trip leaving Federal Center 6 minutes later
+
+Route 37 – Smith Road Industrial: reroutes via 33rd Place between Sable and Chambers
+
+Routes proposed for routine running time analysis/schedule adjustments:
+
+Route 43 – Martin Luther King Blvd: Schedule adjustments are proposed between 8:00am and 9:30am.
+
+Route 44 – 44th Avenue: Schedule adjustments are proposed due to new routing near Clayton/43rd
+
+Route 45 – Montbello via 51st/Green Valley Ranch: schedule adjustments for on-time performance improvement.
+
+Route 73 – Quebec Street: schedule adjustments for on-time performance improvement.
+
+Route 105 – Havana Crosstown:  schedule adjustments for on-time performance improvement.
+
+Route 205/205T – 28th Street/ Gunbarrel/Heatherwood: schedule adjustments for on-time performance improvement.
+
+Applewood Village Interlines: minor weekday schedule adjustments are proposed to improve on-time performance.
+
+Changing to summer service levels for routes BOUND, DASH, JUMP, SKIP, and STAMPEDE Other route related interline changes as result of a change to summer service levels: (204, 225,206/206F,  208/208F  and Y.
+
+Route L – Longmont/Denver: schedule adjustments due to interline changes with route BOLT/BOLT Ltd
+
+FINANCIAL IMPACT
+
+The overall financial impact contained in this proposal includes a net base system cost increase of $221,300.
+
+EQUITY ANALYSIS
+
+The Federal Transit Administration’s (FTA) Circular 4702.1B provides its recipients of FTA financial assistance with instructions for achieving compliance with Title VI of the Civil Rights Act of 1964 and Executive Order 12898 regarding Environmental Justice. In this circular, the FTA requires RTD to evaluate, prior to implementation, any and all service changes that exceed the established major service change threshold, to determine whether those changes will have a disproportionately negative impact on minority or low-income populations. Our evaluation of the proposed May 2017 service changes does not reveal any disparities in impacts absorbed by minority or low-income populations.
+
+A Look Ahead – August 2017
+
+L – Line
+
+As previously discussed with the Board, a proposed solution to D Line on-time performance issues and consequentially, overall light rail system performance, this concept introduces a modification to current D Line operations. The L Line adds a new 30th& Downing to 14th Street Loop (Downtown) movement, replacing the D Line service between 30th & Downing Station and 19th Street. More extensive information regarding this proposal will be made available in a future update to the Board of Directors.
+
+##### a. Atch A May 2017 Service  Change
+
+##### b. Atch B – Summary of Electronically Received Comments and Public Hearings – May Service Changes
+
+### D. Approve Contract Amendment for the Supply of 15 - 40' Transit Buses
+
+It is recommended by the Operations and Customer Service Committee that the RTD Board of Directors authorize the General Manager, or his designee, to exercise the contract option and amend contract 13-FH-053 with Gillig LLC. for the purchase of 15 additional 40’ transit buses and associated spare components in an amount not to exceed $6,598,000.
+
+Motion:               Director Anderson made the motion to approve the Contract Amendment for the Supply of 15-40’ Transit Buses.
+
+Director Folska seconded the motion.
+
+Discussion:               Director Menten asked if the placement of the wheelchair area will allow for open access on the aisle and if the buses getting the modifications were the buses that she had been hearing about.
+
+Steve Gieske, Assistant General Superintendent, replied
+
+that it is the current set of buses and RTD has been
+
+working with Colorado Cross-Disability Coalition (CCDC) on issues of accessibility and securement for different mobility devices.  He explained that the current configuration has the wheelchairs facing each other and now they will be lined up parallel on the curbside of the bus.  He stated that the buses will have a thinner flip up seat which will provide 4 more inches to the aisle.  He added that there will be additional space for priority seating and  extra space securement area.
+
+Director Menten asked if CCDC will be happy with the arrangements that are being made.
+
+Mr. Gieske stated that staff met with CCDC on March 6 and they were appreciative of the changes being made.
+
+General Manager Genova stated that RTD was exceeding the minimal ADA requirements, and staff worked with the ADA community on the design of the buses.  He noted that RTD does the best to accommodate what we can, that is practical.
+
+Gina Callahan, Deputy Assistant General Manager of Bus Operations, added that the seating arrangements that were designed addressed many of the concerns; such as the ease of maneuvering through the aisle without little blocking the aisle.  She stated that the changes made will allow easier mobility while maintaining the seating on the bus.
+
+Director Menten asked if a lot of money was spent to accommodate this request.
+
+Mr. Gieske stated that it cost $2,000 per bus, but the money was in the budget.  He stated that staff believed in the changes so much that they modified an additional 40 new buses that RTD has purchased.
+
+Director Williams stated that RTD has ADA Design Committee and that committee reviewed this layout as well. She noted that she was a member of that committee.
+
+Director Deadwyler stated that she cannot fit on the train or the bus with her mobility device because the areas are too tight.  She stated that even if additional inches were removed, she still would not be able to park parallel.
+
+Mr. Gieske stated that the flip up seats and mobility device space on the curbside exceeds 57 inches, unfortunately, due to the engineering of the vehicle, staff could not reconfigure the street side of the vehicle.
+
+Director Deadwyler stated that when she rode the R Line her chair was backed up against the door and she didn’t feel secure.  She asked General Manager Genova is staff would apply this configuration to the light rail trains as well.
+
+General Manager Genova stated that RTD is waiting for the approval of the modifications.
+
+Rolf Asphaug, General Counsel, advised the Board that as soon as the settlement agreement between CCDC and RTD has been approved by the court then the adjustments will be made.
+
+General Manager Genova stated that RTD is ready to retrofit the light rail trains.  He said staff currently has one rail car at Mariposa that is ready.  The removal of 8 seats on each side of the rail car, for a total of 16 seats, has been removed to make the modifications.  He noted that staff will provide pictures and diagrams of the modifications.
+
+Vote on
+
+the Motion:               The motion passed with 13 in favor (Anderson, Archuleta, Broom, Deadwyler, Folska, Francone, Lubow, Menten, Mihalik, Solano, Tisdale, Walker, Williams) and 0 against.  Directors Hoy and Sisk were absent.
+
+Chair Pro Tem Francone declared the motion PASSED unanimously.
+
+### E. Modeling On-Call Contract Amendment
+
+It is recommended by the Planning/Capital Programs & FasTracks Committee that the RTD Board of Directors authorize the General Manager to execute all documents necessary to amend the contract with AECOM for travel modeling services. The current contract value is $355,706.62. This amendment increases the value by $535,000 to a total of $890,706.62. Funding is included in the 2017 expense budget and the budget for the SH 119 BRT Environmental Clearance project.
+
+Motion:               Director Archuleta made the motion to approve the Modeling On-Call Contract Amendment.
+
+Director Tisdale seconded the motion.
+
+Vote on
+
+the Motion:               The motion passed with 12 in favor (Anderson, Archuleta, Broom, Deadwyler, Folska, Francone, Lubow, Mihalik, Solano, Tisdale, Walker, Williams) and 1 opposed (Menten). Directors Hoy and Sisk were absent.
+
+Chair Pro Tem Francone declared the motion PASSED.
+
+### F. Approval of Router Contract
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors authorize the General Manager or his designee to enter into a sole source contract not to exceed $2,500,000 with Sierra Wireless America, Inc. (Sierra Wireless) for upgrade of existing onboard routers and purchase of new onboard wireless routers and associated equipment (Contract Number 17DH004). This contract will include upgrading existing routers with new integrated cellular data modems, purchase of new onboard routers with associated equipment, documentation and training.
+
+Motion:               Director Tisdale made the motion for the approval of Router Contract.
+
+Director Archuleta seconded the motion.
+
+Vote on
+
+the Motion:               The motion passed with 12 in favor (Anderson, Archuleta, Broom, Deadwyler, Folska, Francone, Lubow, Menten, Mihalik, Solano, Tisdale, Walker) and 1 opposed (Williams). Directors Hoy and Sisk were absent.
+
+Chair Pro Tem Francone declared the motion PASSED.
+
+## XIII. Executive Session
+
+There was no Executive Session.
+
+## XIV. Old Business
+
+There was no old business.
+
+## XV. New Business
+
+There was no new business.
+
+## XVI. Adjourn
+
+Pro Tem Chair Francone adjourned the meeting at 7:30 p.m
+
+Prepared and Transcribed by:
+
+__________________________________________________________________
+
+Barbara McManus, Executive Manager to the Board of Directors

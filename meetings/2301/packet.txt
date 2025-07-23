@@ -1,0 +1,6706 @@
+Regional Transportation District
+
+1600 Blake Street
+Denver, CO 80202-1399
+303-299-2303
+
+Board of Directors
+Chair – Chuck Sisk, District 0
+First Vice Chair – Tom Tobiassen, District F
+Second Vice Chair – Natalie Menten, District M
+Secretary – Jeff Walker, District D
+Treasurer – Larry Hoy, District J
+Lorraine Anderson, District L
+Ernest Archuleta, District C
+Kent Bagley, District H
+Barbara Deadwyler, District B
+Dr. Claudia Folska, District E
+
+Tina Francone, District N
+Bill James, District A
+Gary Lasater, District G
+Judy Lubow, District I
+Paul Daniel Solano, District K
+
+AGENDA
+Financial Administration & Audit Committee
+Tuesday, June 9, 2015
+Rooms R, T, & D
+5:30 PM
+Conference Dial-in # 303-299-2663
+Conference ID: 15120
+
+Financial Administration and Audit Committee
+Chaired by Tom Tobiassen
+
+A. Call to Order
+B. Recommended Actions
+
+• Authorization to Enter Into Contract with INIT for Purchase of Day Pass
+Printers
+
+• Approval of Contract for External Audit Services
+• Approval of 2015 Amended Budget
+C. Updates
+
+• 2016-2021 Strategic Budget Plan Update
+• April 2015 Monthly Financials
+• Smart Media Technology (SMT) and Day Pass Printer Status
+
+D. Other Matters
+E. Next Meeting Date - July 7, 2015
+F. Adjourn
+
+The following communication assistance is available for public meetings:
+ Language Interpreters
+ Sign-language Interpreters
+ Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 business hours in advance of a
+RTD meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+1.B.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, Interim General Manager and
+CEO
+
+Date: June 3, 2015
+
+From:
+
+Heather
+Copp,
+Administration
+
+GM
+
+Date:
+
+June 3, 2015
+
+Subject:
+
+Authorization to Enter Into Contract with INIT
+for Purchase of Day Pass Printers
+
+CFO/AGM,
+
+Finance
+
+&
+
+Board Meeting Date: June 16, 2015
+
+RECOMMENDED ACTION
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors
+authorize the Interim General Manager or his designee to enter into a $2,700,000 sole source contract
+with INIT Innovations in Transportation, Inc. (INIT) for purchase, integration and installation of equipment
+and software necessary to accommodate the sale of day-pass fare media under the newly adopted fare
+structure (Contract Number 15DH072). This contract will include integration with the Computer Aided
+Dispatch/ Automatic Vehicle Location (CAD/AVL) system, interface changes for the new fare structure,
+parking pass validation and a 3-year extended warranty.
+BACKGROUND
+RTD recently adopted a modified and simplified fare structure to be enacted in January 2016. Under the
+new fare structure, many transfers are eliminated and a day pass will be offered to customers for
+purchase on board RTD buses. The day passes are priced at two times the single fare and would allow
+a customer to have unlimited rides during a service day, thereby not requiring a rider to purchase a fare
+at each transfer. Paper transfers would no longer be needed.
+DISCUSSION
+In order to make the day pass widely available to RTD’s patrons, the ability to purchase day passes is
+needed at the location where a patron accesses RTD’s services either on buses or at rail platforms. RTD
+currently has the ability to sell day passes at rail platforms through ticket vending machines (TVMs) and
+at sales outlets but currently does not have the ability to offer day passes to patrons who purchase their
+first fare upon entering a bus. In order to offer a day pass on buses, a printer would be installed in each
+bus whereby a customer would pay for the day pass through the farebox and the operator would
+produce a day pass from the onboard printer. The day pass will be printed on watermarked paper and
+would clearly indicate the service day for which it is valid.
+In addition to the Day Pass Printer and software, the scope of work for this procurement includes having
+the Day Pass Printer also function as a Parking Pass Validation printer. The scope of work includes
+driver interface changes to activate the printer and Smart Media Technology (SMT) driver interface
+changes required for the new fare structure.
+INIT is the company providing our CAD/AVL system. They have onboard printer and software that
+meets our needs and integrates with the existing system. These printers are in use by Tri-Met in
+Portland, OR and RTD staff saw them in use during their visit to Portland. A sole source justification
+memo for this procurement has been prepared and approved by Legal Counsel. This procurement meets
+the sole source criteria in the RTD "Procurement Standards Manual" revised September 2014.
+Soul Source Criteria: Unique Capability
+
+Packet Pg. 3
+
+1.B.1
+
+With multiple types of Day Passes anticipated and a need for a daily security code printed on each ticket
+that is known to all drivers, but not passengers, customized and centralized pass printing software will
+be needed for whatever printer is chosen. INIT has already developed printer software that is
+programmable through the central system. No other vendor would be able to provide this type of central
+system interface and remote reprogramming of the onboard system. Any other vendor would require
+that new ticket information be reprogrammed by visiting each of RTD’s 1045 onboard computers with a
+new data file. This level of labor effort is substantial and not properly staffed to be available for this
+purpose.
+Sole Source Criteria: Duplication of Costs
+An onboard computer is needed to create and send a file to print. This computer is already available
+onboard from the INIT CAD/AVL system. Providing an additional onboard computer would cost over
+$2,200,000 to furnish and install an onboard computer, hardened to operate in a transit environment.
+Additionally, a different onboard computer would require information that is available in the current INIT
+CAD/AVL system. So, a different onboard computer would need to have an interface developed to the
+INIT system. This would require customized software and interface development assistance from INIT.
+Past experience indicates that onboard interface development is about 3 months of development work,
+which is duplication of cost that is not needed with this sole source.
+Sole Source Criteria: Prevention of Acceptable Delay
+This is one of the most compelling justifications for a sole source for this project. The Board directs
+starting the new fare structure on January 1, 2016. This is only seven (7) months after the Board made
+its decision on the new fare structure. Going to a competitive procurement will take at least three (3)
+months, and likely longer, to select a contractor, negotiate and execute a contract. Manufacturing and
+shipping 1043 printers will take over five (5) months. Even with pre-wiring, installation of 1043 printers
+will take an additional month. So, with only 7 months to procure and implement this six-month project,
+a competitive procurement is not feasible.
+
+FINANCIAL IMPACT
+The estimated cost of installing thermal printers on each of the 1,043 revenue buses currently in the
+RTD fleet is $1,900,000. This cost includes required software and equipment, as well as the
+connections and installation necessary to tie the printers into the RTD network and a 3-year extended
+warranty. The estimate for Parking Pass Validation is $20,000 and the estimate for the driver interface
+changes is $450,000.
+Budget Source
+Board Funded from Certificate of Participation transfer authorized May 2015
+CAD/AVL funds for interface, integration and new fare policy changes
+Facility Maintenance funds for Parking validation
+Operating Expenses: spare hardware, 3-year extended warranty and software
+maintenance
+
+Amount
+$1,900,000
+$450,000
+$20,000
+$330,000
+$2,700,000
+
+The Board previously authorized the funding necessary for the purchase of the thermal printer units by
+transferring a portion of the Certificate of Participation (COP) proceeds issued in 2013 for the
+
+Packet Pg. 4
+
+1.B.1
+
+replacement of Mall Shuttles – those Mall Shuttle funds will be backfilled with the 2015 COP issuance
+expected to occur in August. Funding for parking validation requirements will come from the Facilities
+Maintenance budget. Interfaces changes with the CAD/AVL system will be funded with remaining
+budget from the Radio and CAD/AVL Replacement Project. Extended warranty funding will come from
+2017 through 2019 Operational Budget. Therefore, there is no need to seek additional funding for this
+procurement and no budgetary impact other than the transfer of funds from one project to another.
+ALTERNATIVES
+1. Authorize the Interim General Manager or his designee to execute a contract with INIT in order
+to purchase and install the equipment necessary to accommodate the sale of day passes
+under the proposed 2016 fare structure. This is the recommended action.
+2. Do not authorize the Interim General Manager or his designee to execute a contract with INIT
+to purchase and install the equipment necessary to accommodate the sale of the day pass.
+This action would result in RTD’s inability to procure needed day pass printer equipment in
+time to provide the ability for patrons to purchase day passes on buses and avoid multiple fare
+payments for transfers. This is not the recommended action.
+
+Prepared by:
+Heather Copp, CFO/AGM, Finance & Administration
+Bruce Abel, Assistant General Manager
+Approved by:
+
+Packet Pg. 5
+
+1.B.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, Interim General Manager and
+CEO
+
+Date: June 3, 2015
+
+From:
+
+Heather
+Copp,
+Administration
+
+GM
+
+Date:
+
+June 3, 2015
+
+Subject:
+
+Approval
+Services
+
+of
+
+CFO/AGM,
+
+Finance
+
+&
+
+Board Meeting Date: June 16, 2015
+Contract
+
+for
+
+External
+
+Audit
+
+RECOMMENDED ACTION
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors
+authorizes the General Manager to execute all documents necessary to award a contract to RubinBrown,
+LLP to perform RTD’s annual external audit services. The contract is awarded for audit services for
+calendar years 2015, 2016 and 2017 in the amount of $333,500. There is an option to extend the
+contract for two additional one year periods, at RTD’s discretion, in the amount of $239,500.
+BACKGROUND
+According to Section 12 of Article VII of the RTD Bylaws, “The Board of Directors shall cause an
+examination of the District’s financial statements to be made in accordance with generally accepted
+auditing standards following the end of each fiscal year. One certified copy of said audit shall be filed
+with the office of the State Auditor. The audit shall be performed by an independent Certified Public
+Accountant retained by the Board of Directors at the sole discretion for this or any other purpose they
+deem necessary. The auditor shall provide a signed auditor’s opinion as to the fair presentation of the
+financial position of the District, the results of RTD operations and changes in its financial position for
+the fiscal year ended. The Board of Directors shall cause such other audits to be made as it deems
+necessary, utilizing the Internal Audit staff or independent auditor as it alone shall determine.” In
+addition, the District is required by the Single Audit Act of 1984 and certain debt and lease covenants to
+have an independent audit of other selected information. Additional external audit services include an
+annual review of information provided for the National Transit Database as well as a review of the
+General Manager’s contract.
+DISCUSSION
+The current RTD contract for external audit services expires on June 30, 2015. RubinBrown is the
+incumbent firm and has provided external audit services to RTD for the past four years after an
+acquisition of the preceding contractor, Bondi and Co. RubinBrown will continue to rotate audit
+engagement partners, managers and staff on a periodic basis in keeping with auditing best practices.
+RTD issued a best value request for proposals to provide external audit services and received five
+proposals from the following firms:
+ BKD
+ Clifton Larson
+ Crowe Horwath
+ McGladrey
+ RubinBrown
+
+Packet Pg. 6
+
+1.B.2
+
+The proposals were evaluated with the following criteria:
+40% - Qualifications of individuals proposed for key positions and disciplines
+30% - Overall experience of the firm
+30% - Cost
+The proposal evaluation committee determined that RubinBrown had the best overall proposal.
+
+FINANCIAL IMPACT
+Funding of $108,000 for the 2015 fiscal year audit will be included in the 2016 Budget. Funding for
+external audit services is an annual recurring expenditure that is regularly included in the budget and SBP
+process.
+
+ALTERNATIVES
+1) Approve the recommendation to the Financial Administration and Audit Committee that the
+Board of Directors authorizes the General Manager to execute all documents necessary to
+award a contract to RubinBrown, LLP to perform RTD’s annual external audit services. This is
+the recommended action.
+2) Do not approve the recommendation to the Financial Administration and Audit Committee that
+the Board of Directors authorizes the General Manager to execute all documents necessary to
+award a contract to RubinBrown, LLP to perform RTD’s annual external audit services. This is
+not the recommended action because it will delay having an external auditor available and
+staff has found RubinBrown, LLP to have the best overall proposal.
+
+Prepared by:
+Heather Copp, CFO/AGM, Finance & Administration
+Doug MacLeod, Controller
+Approved by:
+
+Packet Pg. 7
+
+1.B.3
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, Interim General Manager and
+CEO
+
+Date: June 3, 2015
+
+From:
+
+Heather
+Copp,
+Administration
+
+GM
+
+Date:
+
+June 3, 2015
+
+Subject:
+
+Approval of 2015 Amended Budget
+
+CFO/AGM,
+
+Finance
+
+&
+
+Board Meeting Date: June 16, 2015
+
+RECOMMENDED ACTION
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors
+adopt Resolution No. ___, Series of 2015 to amend and appropriate funds for the proposed 2015
+Amended Budget, to increase the appropriation by $134.670 million to $1,520.186 million as detailed
+below in the overview of the 2015 Amended Budget, and to decrease the appropriation of Capital
+Carryforward (previously approved capital funds) by $315.917 million to $987.198 million.
+This action item meets policy requirements and the General Manager’s
+Sustainability/Financial Plan by effecting current budgeting in a timely manner.
+
+goals
+
+of
+
+Fiscal
+
+The 2015 Amended Budget appropriation includes the amounts in the Amended Budget column below
+(in thousands), which is a summary of relevant data from Exhibit I.
+
+Operating Expenses, Debt Service, Capital Expenditures, Fund Balances
+2015 Adopted
+Budget
+$000s
+
+BASE SYSTEM (0.6%)
+Operating Expense
+
+$
+
+Interest Expense
+
+2015 Amended
+Budget
+$000s
+
+443,366
+
+$
+
+26,465
+
+Capitalized Interest
+
+Change
+
+447,565
+
+$
+
+24,136
+
+4,199
+(2,329)
+
+-
+
+-
+
+-
+
+New Capital
+
+94,548
+
+107,232
+
+12,684
+
+Debt Payments
+
+53,733
+
+49,982
+
+(3,751)
+
+FasTracks Internal Savings Account
+
+5,563
+
+5,563
+
+-
+
+Board Appropriated Fund
+
+22,200
+
+22,200
+
+-
+
+Capital Replacement Fund
+
+15,000
+
+15,000
+
+-
+
+Unrestricted Funds
+
+8,555
+
+10,012
+
+1,457
+
+Base System (0.6%) Appropriation
+
+$
+
+669,430
+
+$
+
+681,690
+
+$
+
+12,260
+
+Base System Previously Approved Capital
+
+$
+
+237,738
+
+$
+
+169,860
+
+$
+
+(67,878)
+
+Total Base System Appropriation
+
+$
+
+907,168
+
+$
+
+851,550
+
+Packet Pg. 8
+
+1.B.3
+2015 Adopted
+Budget
+$000s
+
+FASTRACKS PROJECT (0.4%)
+Operating Expense
+
+$
+
+Interest Expense
+
+2015 Amended
+Budget
+$000s
+
+56,730
+
+$
+
+71,007
+
+Change
+
+88,819
+
+$
+
+71,229
+
+32,089
+222
+
+Capitalized Interest
+
+45,002
+
+45,002
+
+-
+
+New Capital
+
+460,872
+
+547,644
+
+86,772
+
+Debt Payments
+
+8,738
+
+8,960
+
+222
+
+FasTracks Contingency Reserve
+
+30,000
+
+30,000
+
+-
+
+FasTracks Internal Savings Account
+
+12,810
+
+9,674
+
+(3,136)
+
+Board Appropriated Fund
+
+3,154
+
+4,937
+
+1,783
+
+Capital Replacement Fund
+
+3,154
+
+4,937
+
+1,783
+
+Unrestricted Funds
+
+3,154
+
+4,937
+
+1,783
+
+FasTracks Project (0.4%) Appropriation
+
+$
+
+694,621
+
+$
+
+816,139
+
+$
+
+FasTracks Project Previously Approved Capital
+
+$
+
+1,065,377
+
+$
+
+817,338
+
+$ (248,039)
+
+Total FasTracks Project Appropriation
+
+$
+
+1,759,998
+
+$
+
+1,633,477
+
+2015 Adopted
+Budget
+$000s
+
+FASTRACKS OPERATIONS
+Operating Expense
+
+$
+
+2015 Amended
+Budget
+$000s
+
+18,399
+
+$
+
+121,518
+
+Change
+
+19,162
+
+$
+
+763
+
+Interest Expense
+
+-
+
+-
+
+-
+
+Capitalized Interest
+
+-
+
+-
+
+-
+
+New Capital
+
+-
+
+-
+
+-
+
+Debt Payments
+
+-
+
+-
+
+-
+
+Board Appropriated Fund
+
+1,022
+
+1,065
+
+43
+
+Capital Replacement Fund
+
+1,022
+
+1,065
+
+43
+
+Unrestricted Funds
+
+1,022
+
+1,065
+
+43
+
+FasTracks Operations Appropriation
+
+$
+
+21,465
+
+$
+
+22,357
+
+FasTracks Operations Previously Approved Cap.
+
+$
+
+-
+
+$
+
+-
+
+Total FasTracks Operations Appropriation
+
+$
+
+21,465
+
+$
+
+22,357
+
+$
+
+892
+-
+
+Packet Pg. 9
+
+1.B.3
+2015 Adopted
+Budget
+$000s
+
+DISTRICT-WIDE
+Operating Expense
+
+$
+
+2015 Amended
+Budget
+$000s
+
+518,495
+
+$
+
+Change
+
+555,546
+
+$
+
+37,051
+
+Interest Expense
+
+97,472
+
+95,365
+
+(2,107)
+
+Capitalized Interest
+
+45,002
+
+45,002
+
+-
+
+New Capital
+
+555,420
+
+654,876
+
+99,456
+
+Debt Payments
+
+62,471
+
+58,942
+
+(3,529)
+
+FasTracks Contingency Reserve
+
+30,000
+
+30,000
+
+-
+
+FasTracks Internal Savings Account
+
+18,373
+
+15,237
+
+(3,136)
+
+Board Appropriated Fund
+
+26,376
+
+28,202
+
+1,826
+
+Capital Replacement Fund
+
+19,176
+
+21,002
+
+1,826
+
+Unrestricted Funds
+
+12,731
+
+16,014
+
+$
+
+3,283
+
+$
+
+134,670
+
+District-Wide Appropriation
+
+$
+
+1,385,516
+
+$
+
+1,520,186
+
+District-Wide Previously Approved Capital
+
+$
+
+1,303,115
+
+$
+
+987,198
+
+Total District-Wide Appropriation
+
+$
+
+2,688,631
+
+$
+
+2,507,384
+
+$ (315,917)
+
+The 2015 Amended Budget also includes operating revenue and non-operating revenue which are
+estimated, not appropriated, below (in thousands), which is a summary of relevant data from Exhibit I.
+
+Operating Revenue, Non-Operating Revenue
+2015 Adopted
+Budget
+$000s
+
+BASE SYSTEM (0.6%)
+Farebox Revenue
+
+$
+
+Other Operating Revenue
+
+119,342
+
+2015 Amended
+Budget
+$000s
+$
+
+119,342
+
+Change
+$
+
+-
+
+5,195
+
+5,245
+
+Sales/Use Tax
+
+321,088
+
+330,821
+
+9,733
+
+Grant Revenue
+
+119,584
+
+106,627
+
+(12,957)
+
+Investment Income
+
+1,160
+
+1,160
+
+-
+
+Other Income
+
+2,843
+
+2,843
+
+-
+
+Base System Revenue
+
+$
+
+569,212
+
+$
+
+566,038
+
+50
+
+$
+
+(3,174)
+
+Packet Pg. 10
+
+1.B.3
+2015 Adopted
+Budget
+$000s
+
+FASTRACKS PROJECT (0.4%)
+Farebox Revenue
+
+$
+
+2015 Amended
+Budget
+$000s
+-
+
+Other Operating Revenue
+
+$
+
+Change
+-
+
+$
+
+-
+
+-
+
+-
+
+Sales/Use Tax
+
+199,681
+
+205,416
+
+5,735
+
+Grant Revenue
+
+165,245
+
+178,656
+
+13,411
+
+Investment Income
+
+3,150
+
+3,150
+
+-
+
+Other Income
+
+8,177
+
+8,177
+
+-
+
+FasTracks Project Revenue
+
+$
+
+$
+
+2015 Adopted
+Budget
+$000s
+
+FASTRACKS OPERATIONS
+Farebox Revenue
+
+376,253
+
+$
+
+$
+
+2015 Amended
+Budget
+$000s
+
+4,022
+
+Other Operating Revenue
+
+395,399
+
+-
+
+$
+
+19,146
+
+Change
+
+4,031
+
+$
+
+9
+
+-
+
+-
+
+-
+
+Sales/Use Tax
+
+14,377
+
+15,131
+
+754
+
+Grant Revenue
+
+-
+
+-
+
+-
+
+Investment Income
+
+-
+
+-
+
+-
+
+Other Income
+
+-
+
+-
+
+-
+
+FasTracks Operations Revenue
+
+$
+
+$
+
+2015 Adopted
+Budget
+$000s
+
+DISTRICT-WIDE
+Farebox Revenue
+
+18,399
+
+$
+
+Other Operating Revenue
+
+123,364
+
+19,162
+
+$
+
+2015 Amended
+Budget
+$000s
+$
+
+123,373
+
+763
+
+Change
+$
+
+9
+
+5,195
+
+5,245
+
+50
+
+Sales/Use Tax
+
+535,146
+
+551,368
+
+16,222
+
+Grant Revenue
+
+284,829
+
+285,283
+
+454
+
+Investment Income
+
+4,310
+
+4,310
+
+-
+
+Other Income
+
+11,020
+
+11,020
+
+-
+
+District-Wide Revenue
+
+$
+
+963,864
+
+$
+
+980,599
+
+$
+
+16,735
+
+BACKGROUND
+The purpose of this memorandum is to request an amendment to the 2015 Adopted Budget. This
+amendment will account for capital carryforward adjustments from year-end 2014 to 2015. The
+amendment also will detail other adjustments to the capital budget and adjustments to the operating and
+administrative budget.
+
+Packet Pg. 11
+
+1.B.3
+
+DISCUSSION
+Overview of the 2015 Budget Amendment
+The total proposed appropriation for the 2015 Amended Budget and the changes from the 2015
+Adopted Budget are summarized in the first set of tables above.
+2015 Operating Expense Adjustments
+The operating and administrative expense portion of the proposed budget amendment reflects an
+increase of $37.0 million from the 2015 Adopted Budget. This increase consists of $4.2 million on the
+Base System, $32.1 million in FasTracks Project/Construction, and $0.8 million in FasTracks Operations
+(West Line, Denver Union Station, and Free MetroRide). Of the total increase, $13.7 million is attributed
+to previously approved transfers primarily for the FasTracks Eagle and I-225 Rail Line projects, and
+$17.3 million is attributed to third-party betterments on I-225 and North Metro projects (funded by
+capital contributions). On the Base System, the true increase to operating expenses is less than 1% net
+of previously approved transfers and one-time expenses.
+Shown in detail on the attached Amendment A, major changes are summarized below.
+Base System
+Bus Operations
+ Net increase of $1.0 million for increases in operator overtime, salaried overtime, operator wages,
+expanded DRCOG VanPool Program, and the addition of four adjunct equipment supervisors, one
+division supervisor, and one rail scheduler/planner.
+Private Carrier Operations
+ Net increase of $.067 million for expanded DRCOG VanPool Program.
+Rail Operations
+ Net increase of $1.0 million for increases in operator overtime, salaried overtime, simulator training
+software, repair parts, MOW and SCADA materials and supplies, and SCADA hardware (2015 SBP
+project).
+Planning-Base
+ Net increase of $1.5 million from previously-approved transfers, the addition of one Title VI position
+and one TOD Analyst position, TOD assessment incorrectly budgeted in Finance and Administration,
+RTD parking study, Continuous Improvement project, and grant-funded STAMP projects (offset by
+grant funds).
+Capital Programs-Base
+ Net increase of $0.639 million from previously approved transfers, Jacobs engineering support, and
+Stray Current project.
+
+Safety, Security & Facilities-Base
+ Net increase of $0.443 million from increased funding for East Metro Controls project, District Shops
+HVAC project, District Shops Mezzanine-Asset Management project, environmental clean-up of
+
+Packet Pg. 12
+
+1.B.3
+
+Alameda, snow removal, an emergency project for Security Command Center electrical work, offset
+by decreased funding for East Metro Supply Air Units project, and previously approved transfers.
+General Counsel
+ Net increase of $0.045 million for additional funds for legal services for aviation fuel tax matter
+offset by previously approved transfers.
+Finance and Administration-Base
+ Net increase of $1.3 million from increased IT costs due to conversion of 9 temporary IT employees
+to full-time, increased funding for various IT projects and the State audit, funding for Smart Media
+RPOS modems, various fees, addition of one Senior Budget Analyst and one Senior Finance Analyst,
+offset by elimination of two Senior Accountant position, TOD assessment incorrectly budgeted, and
+previously approved transfers.
+Communications-Base
+ Net increase of $0.496 million for increased funds for Fare Study public meetings and public
+awareness advertising, service change advertising, system-wide safety campaign, temporary web
+developer for real-time information, and previously approved transfers.
+Executive Office
+ Net increase of $0.135 million for conversion of temporary employee to permanent in Civil Rights,
+additional funds for WIN program training, upgrade of compliance software in Civil Rights.
+Board Office
+ Net increase of $0.390 million for funds needed for GM search and previously approved transfers.
+Non-Departmental-Base
+ Net decrease of $2.2 million for over-budget of union bonus.
+FasTracks Project/Construction
+Capital Programs-FasTracks Construction
+ Net increase of $31.4 million for previously approved transfers on Eagle and I-225 Rail Line projects,
+third-party betterments on I-225 and North Metro, and additional expense funds on Eagle project.
+Finance and Administration-FasTracks Construction
+ Net increase of $0.027 million for previously approved transfers.
+FasTracks Operations
+Rail Operations-FasTracks Operations
+ Net increase of $0.763 million for two supervisors for I-225 Rail Line, 20 operators for I-225 Rail
+Line, two positions for Commuter Rail.
+
+Debt Service
+Interest expense is projected to decline $2.1 million on a combined basis from the Adopted Budget due
+to unused debt proceeds from previous debt issues available for use in 2015 on the Base system that
+will reduce the amount of planned debt issuance and budgeted interest expense. Principal payments on
+debt are projected to decrease $3.5 million for the same reason. Interest expense and principal
+payments on FasTracks will remain stable. Capitalized interest is expected to show no change.
+
+Packet Pg. 13
+
+1.B.3
+
+2015 New Capital
+The new capital portion of the proposed amended budget reflects a net increase of $99.4 million over
+the 2015 Adopted Budget. These changes result from program changes that have occurred since the
+2015 Budget was adopted, and include the following significant changes:
+Base System
+New capital changes consist of an increase in Base of $12.7 million. Additions to new capital funding
+include $3.8 million added for SmartCard stored value card implementation work and $1.9 million added
+for thermal printers for buses, and $5.7 million in restoration of funding for the mall shuttles purchase
+that was subject of a budget transfer for the SmartCard activity and thermal printers. Other changes
+include $1.2 million in Disaster Recovery funds (budget transfer approved by the Board in April 2015).
+Please see Attachment B for detail.
+FasTracks
+New capital changes to FasTracks consist of an increase of $86.8 million. This results from updated
+project schedules for the Eagle and I-225 projects that changed the projected expenditures in 2015,
+adjustments for grant funding, changes in cost estimates, and corrections to the Adopted Budget.
+Additions to new capital funding include $11.9 million for the East Corridor, $6.9 million for the Gold
+Line, $63.6 million for the I-225 Rail Line, $3.4 million for Northwest Rail, and $7.0 million for two new
+light rail vehicles for I-225. Please see Attachment B for detail and Program Capital attached.
+Previously Approved Capital Carryforward Adjustments
+For the 2015 Adopted Budget, year-to-date actual expenditures as of 9/30/14 were used to compute the
+estimate of the carryforward. This methodology is used to accommodate the timing of the adoption of
+the annual budget. For the 2015 Amended Budget, year-to-date actual expenditures as of 12/31/14
+were used to compute the estimate of the carryforward. This takes into account expenditures that were
+made in the last quarter of 2014.
+Previously approved capital carryforward is decreased by $315.9 million from the 2015 Adopted Budget
+to reflect fourth quarter 2014 actual expenditures, transfers to reclassify certain capital projects as
+expense projects, previously approved transfers, completion of projects, and project scope changes.
+The Base System portion is a decrease of $67.9 million and the FasTracks decrease is $248.0 million.
+Please see Attachment C for detail and Program Capital attached.
+Revenue Changes
+In the Amended Budget, revenues are projected to increase $16.7 million on a combined basis from the
+2015 Adopted Budget.
+
+
+
+Sales and Use Tax revenues are projected to decrease $16.2 million based on the CU-Leeds
+School March forecast of 7.1% vs. 5.9% in the Adopted Budget.
+Federal grant revenues, including operating grants, capital grants, capital maintenance, FASTER
+grants, CMAQ grants, and other grants are projected to remain stable over amounts projected in
+the 2015 Adopted Budget. This reflects a decrease of $12.9 million in allocations on the Base
+System in capital maintenance, fixed guideway, CMAQ grants, and carryforward grants from the
+
+Packet Pg. 14
+
+1.B.3
+
+
+
+
+2015 Adopted Budget, offset by increases in Bus Facilities funding, FTA Ladders of Opportunity
+grants, and certain CDOT grants. FasTracks allocated grants are expected to increase $13.4
+million due to increases in CMAQ grants for the Eagle project, STAMPS grants, and FASTER
+grants for the US36 project.
+Fare revenue is projected to remain flat in the Amended Budget over the Adopted Budget based
+on current year actuals run rate.
+Other income is projected to remain stable at $11.0 million.
+
+Unrestricted Year-End Fund Balance
+
+The Unrestricted Year-End Fund Balance is projected to increase $3.3 million from the Adopted
+Budget to $16.0 million reflecting amended budget increases offset by increases in revenue.
+FasTracks Contingency Reserve
+The proposed 2015 Amended Budget reflects continued maintenance of the FasTracks Contingency
+Reserve at a balance of $30 million. This reserve is appropriated annually, and is used to fund any
+changes in the FasTracks schedule that could not be forecast at the time of adoption of the annual
+budget. The purpose of this reserve is to allow the District to accommodate minor changes to the
+FasTracks schedule without requiring frequent budget amendments to draw funds from the FasTracks
+Future Construction Reserve. The Reserve has been carried at $30 million since 2010 and remains at
+that level in both this Amended Budget and the 2015 Adopted Budget.
+The FasTracks Construction Reserve at $100 million is split between the Construction Reserve at $60
+million and a Start-up Operations Reserve at $40 million. The Start-up Operations Reserve was
+established in the FasTracks Annual Program Evaluation for the years 2015-2016 in order to meet the
+1.2x debt service coverage if needed.
+Budget Transfers
+The proposed 2015 Amended Budget reflects year-to-date budget transfers executed within the General
+Manager’s authority or by prior authorization of the Board of Directors. The District’s budget transfer
+policy was adopted by the Board of Directors on 2/26/85 and further amended on 1/1/93, 5/15/08 and
+4/1/10. The policy states that cumulative transfers between projects in amounts exceeding $250,000
+require prior approval of the Board of Directors.
+Cost Recovery Ratio
+The proposed 2015 Amended Budget meets the cost recovery ratio mandated by the Colorado General
+Assembly. The estimated SB154 recovery ratio (all nontax revenue except ADA farebox revenues
+divided by all expenditures, including depreciation, except ADA expenditures and expenditures incurred
+for long-term planning and development of rapid transit infrastructure) exceeds the annual target of 30%
+mandated by the General Assembly. The RTD operating revenue recovery ratio (operating revenues
+except ADA farebox revenues divided by the same cost basis as the Colorado General Assembly) is
+estimated to exceed the 20% target established by the Board of Directors.
+
+Packet Pg. 15
+
+1.B.3
+
+Fund Balance Policy
+The proposed 2014 Amended Budget includes a reserve of 3% of annual spending as defined in Article
+X, Section 20 of the Colorado Constitution (the TABOR reserve). The proposed 2015 Amended Budget
+maintains a Board-Appropriated Fund, Capital Replacement Fund, and Unrestricted Year-End Fund
+balance in the District's working capital. The objective is for the total of these three funds to equal
+approximately three months of operating expenses excluding depreciation for the Base System and two
+months of same for FasTracks. The contributions to the Board-Appropriated Fund and Capital
+Replacement Fund on the Base System will continue at $3.0 million to each fund in 2015.
+Basis of Accounting and Budgeting
+The accounts of the District are reported using the accrual basis of accounting. Revenues are
+recognized when earned and expenses are recognized when incurred. The District’s basis of budgeting
+follows the accrual basis of accounting except (1) capital outlays and payments of principal are treated
+as expenditures, and (2) depreciation and gains and losses on disposal of property and equipment are
+excluded.
+
+ALTERNATIVES
+1. Amend the 2015 Budget to reflect the capital project changes and the adjustments to the operating
+budget. This is the recommended action.
+2. Request staff to revise the proposed amendments to the 2015 Budget and amend the budget with
+revisions.
+3. Do not amend the 2015 Budget. This is not recommended, because the 2015 Adopted Budget does
+not reflect the capital carryforward adjustments, capital budget adjustments, and material changes to
+the operating and administrative budget.
+ATTACHMENTS:
+
+
+I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (PDF)
+
+
+
+I. c. (2nd Attachment) 2015 amended resolution 060915
+
+(DOCX)
+
+Prepared by:
+Heather Copp, CFO/AGM, Finance & Administration
+Jannette Scarpino, Senior Manager, Budget and Financial Analysis
+Approved by:
+
+Packet Pg. 16
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 17
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 18
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 19
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 20
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 21
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 22
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 23
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 24
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 25
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 26
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 27
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 28
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 29
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 30
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 31
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 32
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 33
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 34
+
+Attachment: I. c. (1st Attachment) Exhibit I, Attach A-B-C, Program Capital (2385 : Approval of 2015 Amended Budget)
+
+1.B.3.a
+
+Packet Pg. 35
+
+1.B.3.b
+
+REGIONAL TRANSPORTATION DISTRICT
+
+(Amendment to 2015 Budget and Appropriations)
+WHEREAS, a number of changes have occurred in the anticipated revenues and
+expenditures as shown in the Resolutions adopting the 2015 Budget and Appropriation, an
+amendment and supplement to the Appropriation Resolutions are necessary; and
+WHEREAS, the projected revenues of the Regional Transportation District have increased
+by $16.7 million due to adjustments in sales and use tax revenue, grant revenue and other
+income since the budget was adopted; and
+WHEREAS, the projected operating expenditures (excluding interest expense) have
+increased $37.0 million primarily due to transfers of capital to expense, one-time operating
+expenses, third-party betterments, and additions to operating expenses; and
+WHEREAS, the projected new capital expenditures have increased $99.4 million due to
+alignment of FasTracks corridor funding with updated timing, adjustments for grant
+funding, changes in cost estimates, corrections, and restored funding for the fleet plan;
+and
+WHEREAS, the projected interest payments have decreased $2.1 million due to the use of
+available funding from previous debt issuances; and
+WHEREAS, the projected debt principal payments have decreased $3.5 million due to the
+use of available funding from previous debt issuances; and
+WHEREAS, the projected the FasTracks Internal Savings Account has decreased $3.1
+million due to updated calculation; and
+WHEREAS, the projected the Board-Appropriated Fund has increased $1.8 million due to
+updated calculation; and
+WHEREAS, the projected Capital Replacement Fund has increased $1.8 million due to
+updated calculation; and
+WHEREAS, the projected unrestricted fund balance has increased $3.3 million due to
+amended budget increases offset by increases in revenue; and
+WHEREAS, the projected previously approved capital has decreased $315.9 million to
+reflect the fourth quarter 2014 actual expenditures, transfers to reclassify certain capital
+projects as expense projects, previously approved transfers, completion of projects, and
+project scope changes; and
+NOW, THEREFORE, BE IT RESOLVED by the Board of Directors of the Regional
+
+Packet Pg. 36
+
+Attachment: I. c. (2nd Attachment) 2015 amended resolution 060915 (2385 : Approval of 2015 Amended Budget)
+
+RESOLUTION NO. ___, SERIES OF 2015
+
+1.B.3.b
+
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+h.
+i.
+j.
+
+Revenues be increased by $16.7 million for a new total of $980.6 million.
+Operating expenditures be increased by $37.0 million for a new total of
+$555.5 million.
+New capital expenditures be increased by $99.4 million for a new total of
+$654.9 million.
+Interest payments on debt be decreased by $2.1 million for a new total of
+$95.4 million.
+Principal payments on debt be decreased by $3.5 million for a new total of
+$58.9 million.
+The FasTracks Internal Savings Account be decreased by $3.1 million for a
+new total of $15.2 million.
+The Board-Appropriated Fund be increased by $1.8 million for a new total of
+$28.2 million.
+The Capital Replacement Fund be increased by $1.8 million for a new total
+of $21.0 million.
+The unrestricted fund balance be increased $3.3 million for a new total of
+$16.0 million.
+Previously approved capital expenditures be decreased by $315.9 million for
+a new total of $987.2 million.
+
+BE IT FURTHER RESOLVED that the 2015 Appropriation of the District shall be
+supplemented, modified, and amended as set forth herein to defray the expenses and
+liabilities of the District and be appropriated for the corporate purpose of the Regional
+Transportation District:
+
+(In Thousands)
+Operating Expense
+Interest Expense
+Capitalized Interest
+New Capital
+Debt Payments
+FasTracks Contingency Reserve
+FasTracks Internal Savings Account
+Board Appropriated Fund
+Capital Replacement Fund
+Unrestricted Fund Balance
+Current Year Appropriation
+
+$
+
+$
+
+555,546
+95,365
+45,002
+654,876
+58,942
+30,000
+15,237
+28,202
+21,002
+16,014
+1,520,186
+
+BE IT FURTHER RESOLVED that the 2015 Previously Appropriated Capital of the
+District shall be amended as set forth herein to defray the expenses and liabilities of the
+District and be appropriated for the corporate purpose of the Regional Transportation
+District:
+
+Packet Pg. 37
+
+Attachment: I. c. (2nd Attachment) 2015 amended resolution 060915 (2385 : Approval of 2015 Amended Budget)
+
+Transportation District that the following adjustments be made to the 2015 Budget;
+
+1.B.3.b
+
+$
+
+987,198
+
+Passed and adopted by the Board of Directors of the Regional Transportation
+District on the _______ day of June, 2015.
+
+Charles Sisk
+Chair
+
+Jeff Walker
+Secretary
+
+Packet Pg. 38
+
+Attachment: I. c. (2nd Attachment) 2015 amended resolution 060915 (2385 : Approval of 2015 Amended Budget)
+
+(In Thousands)
+Previously Appropriated Capital
+
+1.C.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, Interim General Manager and
+CEO
+
+Date: June 4, 2015
+
+From:
+
+Heather
+Copp,
+Administration
+
+GM
+
+Date:
+
+June 4, 2015
+
+Subject:
+
+2016-2021 Strategic Budget Plan Update
+
+CFO/AGM,
+
+Finance
+
+&
+
+Board Meeting Date: June 9, 2015
+
+ATTACHMENTS:
+
+
+2016-2021 SBP
+
+(PDF)
+
+Prepared by:
+Heather Copp, CFO/AGM, Finance & Administration
+Jannette Scarpino, Senior Manager, Budget and Financial Analysis
+Approved by:
+
+Packet Pg. 39
+
+2016 – 2021 Strategic Budget Plan
+Update
+Financial Administration & Audit Committee
+June 9, 2015
+
+1.C.1.a
+
+Packet Pg. 40
+Attachment: 2016-2021 SBP (2386 : 2016 - 2021 Strategic Budget Plan Update)
+
+Strategic Budget Plan (SBP)
+•
+
+SBP includes only service and
+projects funded from the Base
+System 0.6% sales and use tax, and
+operating activity from FasTracks
+Operations funded by 0.4% tax
+
+•
+
+FasTracks future expense and
+projects are included separately in
+the FasTracks Annual Program
+Evaluation (APE) financial plan
+
+Attachment: 2016-2021 SBP (2386 : 2016 - 2021 Strategic Budget Plan Update)
+
+1.C.1.a
+
+Packet Pg. 41
+
+2
+
+SBP Variables
+Uncontrollable
+• Sales/use tax revenue
+• Fuel price volatility
+• Inflation rate
+• Nature/speed of economic growth
+• Interest rates on debt
+Controllable
+• Fare rate increases/decreases
+• Service levels
+• Operating/expense projects
+• Capital investment in projects
+• Fund balance development
+
+Attachment: 2016-2021 SBP (2386 : 2016 - 2021 Strategic Budget Plan Update)
+
+1.C.1.a
+
+Packet Pg. 42
+
+3
+
+2016-2021 SBP Revenue Assumptions
+•
+
+Passenger Fares
+–
+–
+
+•
+
+Sales and Use taxes
+–
+–
+–
+
+•
+
+Assume 10% fare rate increase in 2016
+Aligns with new fare structure
+2016-2021 SBP includes forecasted data from CU Leeds School of
+Business based on the March 2015 forecast, hope to incorporate
+June 2015
+Actual year-to-date March collections: 8.8% over prior year
+Annual sales and use tax growth rates per CU-Leeds
+Current
+Year SBP
+
+Prior Year
+SBP
+
+$ Change
+Millions
+
+2015
+
+7.1%
+
+2.6%
+
+14.6
+
+2016
+
+4.8%
+
+5.4%
+
+13.5
+
+2017
+
+6.8%
+
+5.2%
+
+19.8
+
+2018
+
+5.5%
+
+3.7%
+
+27.3
+
+2019
+
+3.8%
+
+2.9%
+
+31.6
+
+2020
+
+3.2%
+
+2.7%
+
+34.7
+
+2021
+
+3.5%
+
+-
+
+-
+
+Federal Grants
+–
+
+141.5
+
+4
+Attachment: 2016-2021 SBP (2386 : 2016 - 2021 Strategic Budget Plan Update)
+
+1.C.1.a
+
+Packet Pg. 43
+
+Recognized as awarded and assumed to increase at rate of
+inflation or as identified
+
+2016-2021 SBP Expenditures Assumptions
+•
+
+Operating and Maintenance Costs
+–
+–
+–
+–
+
+•
+
+Inflated at Moody’s Denver-Boulder CPI rates (3.1% in 2016)
+National Moody’s CPI rate applied to fuel costs (2.6% in 2016)
+Includes one-time expense projects
+Includes CBA
+
+Fuel Costs
+–
+
+Diesel budgeted at $2.95 gallon (2015 lock price) and escalated at national
+CPI
+
+–
+
+Gasoline budgeted at $3.40/gallon, same as 2015 Amended Budget, and
+escalated at national CPI
+
+•
+
+•
+
+Debt Service
+–
+–
+–
+
+•
+
+Futures estimate for 2016 is $2.18/gallon at this time
+
+Interest and debt payments based on debt amortization schedules
+Proposed interest payments on future debt issues based on municipal rate
+forward curves
+Debt issuance based on rolling stock COPs, both bus and rail, and facilities
+construction (RTD offices, bus maintenance, LRV maintenance)
+
+Capital Expenditures
+–
+
+Based on replacement schedule and prioritization/scoring methodology
+
+Attachment: 2016-2021 SBP (2386 : 2016 - 2021 Strategic Budget Plan Update)
+
+1.C.1.a
+
+Packet Pg. 44
+
+5
+
+SBP Reduced/Eliminated/Deferred Projects
+•
+•
+
+Initial project requests totaled over $850M
+Projects eliminated, reduced and deferred to balance the SBP at this
+date:
+Capital Projects
+$78.8M
+
+•
+•
+•
+•
+
+Expense Projects
+$97.6M
+
+Projects are being deferred from 2016 to 2017 when adequate funds are
+forecast to resolve SBP funding gap in 2016
+Projects affected across the board and include facilities maintenance and
+upgrades, infrastructure repair, IT projects, reduction in rail cars
+Continued deferral may have an impact on state of good repair and
+maintenance costs
+Projects may be restored to the SBP if
+
+
+
+sales tax revenue improves to support the project expenditures, or
+excess fund balance at year-end
+
+Attachment: 2016-2021 SBP (2386 : 2016 - 2021 Strategic Budget Plan Update)
+
+1.C.1.a
+
+Packet Pg. 45
+
+6
+
+SBP Projects Deferred from 2016 to 2017
+to Date: $8,537,000
+Capital Projects
+Training/E‐Learning System for LRV Maintenance
+Major Spare Components for Denver VII LRV Fleet
+SCADA Light Rail Communication Houses (3) Replacement
+Old MOW Buildings Upgrade + 1 FTE
+Boil‐off Tank in Radiator Shop @ District Shops
+Enterprise Storage
+Web Content Management System for RTD Website
+Bike Parking and Accessibility Plan Implementation
+Total
+
+$
+50,000
+$ 2,500,000
+$
+440,000
+$
+250,000
+$
+80,000
+$
+700,000
+$
+150,000
+$
+80,000
+4,250,000
+
+Expense Projects
+Second Floor Mezzanine Addition for Training @ Elati
+Floor Replacement / SD‐100 LRVs
+Roof Replacement @ Mariposa
+Overhead Rubber Doors (55) Replacement @ Platte
+House Compressors (3) Replacement @ District Shops
+3 FTE: Safety Staff Conversion
+Hoist in Small Engine Bay Replacement @ District Shops
+Parts Washer Replacement @ District Shops
+Inspection Pit Repairs @ Boulder
+HVAC Upgrade in Safety Building @ District Shops
+Grade Perimeter of Building Repair for Positive Drainage @ East Metro
+1 FTE: Environmental Staff Conversion
+Air Handling Units (4) Replacement @ District Shops
+Wheel Set Turntable in Wash Bay Replacement/Removal
+Makeup Air Units (4) Replacement @ Platte
+Caulking Replacement in Exterior Wall Panel Joints @ East Metro
+Atrium Skylight @ Blake Street
+IT Managed Services ‐ Tier 1 Support
+Smart Media Technology (SMT) Internal ADA Audit of the Web Portal
+I‐25 Bus Lanes Extension
+First and Final Mile Strategic Plan
+Denver Multi‐Modal Access Plan 2.0
+TOD Pre‐Development Due Diligence
+
+$
+220,000
+$
+260,000
+$
+20,000
+$
+400,000
+$
+250,000
+$
+270,000
+$
+40,000
+$
+40,000
+$
+25,000
+$
+30,000
+$
+35,000
+$
+137,000
+$
+300,000
+$
+25,000
+$ 1,000,000
+$
+80,000
+$
+30,000
+$
+200,000
+$
+100,000
+$
+375,000
+$
+100,000
+$
+150,000
+$
+200,000
+$ 4,287,000
+
+Attachment: 2016-2021 SBP (2386 : 2016 - 2021 Strategic Budget Plan Update)
+
+1.C.1.a
+
+Packet Pg. 46
+
+7
+
+SBP Summary Cash Flow - Base
+Regional Transportation District
+Strategic Budget Plan Cash Flow
+Base System Capital and Operations
+2016-2021 (Rounded Millions)
+SECOND DRAFT
+CU-Leeds baseline forecast (Mar-15)
+
+7.12%
+
+4.84%
+
+Amended
+Budget
+2015
+Line
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+Revenue and Other Income
+Fare Revenue
+Sales and Use Tax
+Grant Revenue
+Other Income
+Total Revenue and Other Income
+
+$
+
+$
+
+119.3
+330.8
+106.6
+8.1
+564.9
+
+6.83%
+
+2016
+$
+
+$
+
+Adjustment to Balance
+
+131.3
+346.8
+108.9
+8.3
+595.3
+
+5.47%
+
+2017
+$
+
+$
+
+131.3
+370.5
+113.0
+8.6
+623.4
+
+3.80%
+
+2018
+$
+
+3.19%
+
+2019
+
+$
+
+131.3
+390.8
+118.0
+8.9
+648.9
+
+$
+
+(340.6)
+23.6
+(111.4)
+(38.0)
+(29.6)
+17.8
+(478.2)
+
+$
+
+3.50%
+
+2020
+
+$
+
+144.4
+405.6
+119.1
+9.1
+678.2
+
+$
+
+(354.0)
+26.6
+(115.1)
+(39.0)
+(34.1)
+18.4
+(497.2)
+
+$
+
+2021
+
+$
+
+144.4
+418.6
+122.4
+9.4
+694.8
+
+$
+
+(364.8)
+27.4
+(118.6)
+(40.0)
+(23.9)
+19.0
+(500.8)
+
+$
+
+$
+
+144.4
+433.2
+125.8
+9.6
+713.1
+
+$
+
+(375.1)
+28.2
+(122.0)
+(40.9)
+(18.5)
+19.5
+(508.7)
+
+$
+
+(385.8)
+29.0
+(125.3)
+(41.8)
+(16.9)
+20.0
+(520.7)
+
+12.0
+
+Operating Expenses Excluding Depreciation
+FT Operations Allocation
+CBA - Bus/Rail
+Fuel Adjustment (diesel + gasoline)
+Expense Projects (O&M) One-Time
+Expense Projects Carryforward
+FT Service Increase
+Total Operating Expenses
+
+$
+
+(315.1)
+19.2
+(109.3)
+(36.0)
+(23.1)
+16.9
+(447.5)
+
+$
+
+(327.8)
+21.4
+(108.1)
+(37.0)
+(16.0)
+17.2
+(450.3)
+
+15
+
+Income Before Interest Income / (Expense)
+
+$
+
+117.4
+
+$
+
+157.0
+
+$
+
+145.2
+
+$
+
+151.7
+
+$
+
+177.5
+
+$
+
+186.1
+
+$
+
+192.4
+
+16
+17
+18
+
+Interest Income / (Expense)
+Interest Income
+Interest Expense
+Total Interest Income / (Expense)
+
+$
+
+1.2
+(24.1)
+(23.0)
+
+$
+
+1.1
+(30.8)
+(29.7)
+
+$
+
+3.1
+(26.0)
+(23.0)
+
+$
+
+5.1
+(29.6)
+(24.4)
+
+$
+
+6.0
+(28.7)
+(22.7)
+
+$
+
+6.6
+(28.4)
+(21.8)
+
+$
+
+7.6
+(25.0)
+(17.5)
+
+19
+
+Change in Net Assets / Income
+
+$
+
+94.4
+
+$
+
+127.3
+
+$
+
+122.2
+
+$
+
+127.3
+
+$
+
+154.8
+
+$
+
+164.2
+
+$
+
+174.9
+
+20
+21
+
+Capital Expenditures
+Carryforward Capital Expenditures
+
+22
+23
+24
+25
+26
+
+Use of / (Increase to) Funds
+Operating Reserve
+FISA contribution
+Board Appropriated Fund
+Capital Replacement Fund
+Total Funds Change
+
+27
+28
+29
+
+Debt Issued
+Debt Payments
+Net Increase / (Decrease) to Debt Balance
+Increase / (Decrease) Fund Balance
+Beginning Unrestricted Net Assets / Fund Balance
+Non-Cash Items
+Unsued Project Reserves and Restricted Reserves
+Unrestricted Year-End Fund Balance / (Deficit)
+
+35
+36
+
+Cumulative Fund Balance - Board Appropriated Fund
+Cumulative Fund Balance - Capital Replacement Fund
+
+(167.9)
+(42.5)
+
+(81.6)
+-
+
+$
+
+(3.0)
+(3.0)
+(6.0)
+
+$
+
+(3.0)
+(3.0)
+(6.0)
+
+$
+
+(3.0)
+(3.0)
+(6.0)
+
+$
+
+-
+
+$
+
+48.3
+(49.0)
+(0.7)
+
+$
+
+117.2
+(61.6)
+55.6
+
+$
+
+47.7
+(60.1)
+(12.4)
+
+$
+
+159.8
+(75.3)
+84.5
+
+$
+
+(146.9)
+
+$
+
+(33.5)
+
+$
+
+22.2
+
+$
+
+21.0
+
+$
+
+42.4
+10.0
+104.5
+10.0
+
+$
+
+10.0
+25.9
+2.5
+
+$
+
+2.5
+24.6
+
+$
+
+24.6
+45.7
+
+22.2
+15.0
+
+25.2
+18.0
+
+28.2
+21.0
+
+(190.7)
+-
+
+(74.5)
+-
+
+(84.4)
+-
+
+(21.5)
+-
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+$
+
+57.8
+(74.1)
+(16.4)
+
+$
+
+76.8
+(83.8)
+(7.1)
+
+$
+
+1.0
+(79.5)
+(78.5)
+
+$
+
+63.9
+
+$
+
+72.7
+
+$
+
+74.9
+
+$
+
+45.7
+109.5
+
+$
+
+109.5
+182.3
+
+$
+
+182.3
+257.2
+
+28.2
+21.0
+
+28.2
+21.0
+
+28.2
+21.0
+
+28.2
+21.0
+
+8
+Attachment: 2016-2021 SBP (2386 : 2016 - 2021 Strategic Budget Plan Update)
+
+1.C.1.a
+
+Packet Pg. 47
+
+30
+31
+32
+33
+34
+
+(107.2)
+(127.4)
+
+2016 Base Sources of Funds = $751.5M
+
+Attachment: 2016-2021 SBP (2386 : 2016 - 2021 Strategic Budget Plan Update)
+
+1.C.1.a
+
+Packet Pg. 48
+
+9
+
+2016 Base Uses of Funds = $ 753.1 M
+
+Attachment: 2016-2021 SBP (2386 : 2016 - 2021 Strategic Budget Plan Update)
+
+1.C.1.a
+
+Packet Pg. 49
+
+10
+
+SBP Opportunities and Challenges
+Opportunities
+•
+•
+•
+
+Fiscal Sustainability Task Force recommendations
+Board strategic goals and GM tactical plans
+Sales/use tax compliance reviews
+
+Challenges
+•
+•
+•
+•
+•
+•
+•
+
+Sales/use tax volatility
+Fuel price uncertainty
+State of Good Repair commitments and needs
+Project prioritization, project deferrals/eliminations
+Financing capacity
+Continued development of fund balances
+FasTracks corridors in-service costs and cost allocation
+
+Attachment: 2016-2021 SBP (2386 : 2016 - 2021 Strategic Budget Plan Update)
+
+1.C.1.a
+
+Packet Pg. 50
+
+11
+
+Next Steps
+
+•
+
+June 16 – Board Adoption of 2015 Amended
+Budget
+
+•
+
+July 14 – Presentation of final SBP to FAAC for
+Board adoption
+
+•
+
+July 28 – Board adoption of 2016-2021 SBP
+
+•
+
+August 25 – 2016 Budget Study Session
+
+Attachment: 2016-2021 SBP (2386 : 2016 - 2021 Strategic Budget Plan Update)
+
+1.C.1.a
+
+Packet Pg. 51
+
+12
+
+1.C.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, Interim General Manager and
+CEO
+
+Date: June 4, 2015
+
+From:
+
+Heather
+Copp,
+Administration
+
+GM
+
+Date:
+
+June 4, 2015
+
+Subject:
+
+April 2015 Monthly Financials
+
+CFO/AGM,
+
+Finance
+
+&
+
+Board Meeting Date: June 9, 2015
+
+ATTACHMENTS:
+
+
+III. 043015 RTD MFS
+
+(PDF)
+
+Prepared by:
+Heather Copp, CFO/AGM, Finance & Administration
+Doug MacLeod, Controller
+Approved by:
+
+Packet Pg. 52
+
+1.C.2.a
+
+BOARD OF DIRECTORS REPORT
+April 2015 Monthly Financial Status
+JUNE 9, 2015
+
+APRIL 2015
+ACTUAL VS.
+BUDGET
+
+ACTION
+
+YTD 2015
+ACTUAL VS.
+BUDGET
+
+APRIL 2015
+2015 VS. 2014
+
+DISCUSSION
+
+INFO
+x
+
+YEAR TO DATE
+2015 VS. 2014
+
+S&U TAX
+4.2%
+
+S&U TAX
+4.0%
+
+S&U TAX
+3.9%
+
+S&U TAX
+7.50%
+
+RIDERSHIP
+-2.0%
+
+RIDERSHIP
+-1.8%
+
+RIDERSHIP
+0.62%
+
+RIDERSHIP
+0.76%
+
+FARE
+REVENUE
+
+FARE
+REVENUE
+
+FARE
+REVENUE
+
+FARE
+REVENUE
+
+-0.7%
+
+-1.1%
+
+1.91%
+
+1.59%
+
+SALES AND USE TAX
+APRIL 2015
+(In Thousands)
+
+MONTH
+YTD
+
+2015
+ACTUAL
+
+2015
+BUDGET
+
+42,964
+168,247
+
+41,236
+161,814
+
+VARIANCE VARIANCE %
+1,728
+6,432
+
+FARE REVENUE
+
+FARE REVENUE
+
+40,000
+
+38,000
+
+APRIL 2015
+
+VARIANCE %
+2014
+
+41,360
+156,513
+
+1,604
+11,734
+
+3.88%
+7.50%
+
+GROSS S&U TAX
+YTD
+ACTUAL VS. BUDGET
+
+46,000
+
+42,000
+
+VARIANCE
+TO 2014
+
+4.2%
+4.0%
+
+GROSS S&U TAX
+APRIL 2015
+ACTUAL VS. BUDGET
+44,000
+
+2014
+ACTUAL
+
+170,000
+168,000
+166,000
+164,000
+162,000
+160,000
+158,000
+156,000
+154,000
+152,000
+150,000
+
+JANUARY-APRIL 2015
+
+2015 ACTUAL
+
+42,964
+
+2015 ACTUAL
+
+168,247
+
+2015 BUDGET
+
+41,236
+
+2015 BUDGET
+
+161,814
+
+2014 ACTUAL
+
+41,360
+
+2014 ACTUAL
+
+156,513
+
+SALES AND USE TAX TRENDS
+$52.0
+
+2015 Budget
+
+(Millions)
+
+$48.0
+$44.0
+$40.0
+
+2015 Actual
+
+2014 Actual
+
+$36.0
+$32.0
+
+Packet Pg. 53
+
+Attachment: III. 043015 RTD MFS (2388 : April 2015 Monthly Financials Status)
+
+To: Dave Genova, Interim General Manager and CEO
+From: Heather Copp, Chief Financial Officer
+Date:
+
+1.C.2.a
+
+RIDERSHIP
+APRIL 2015
+(In Thousands)
+
+MONTH
+YEAR TO DATE
+
+2015
+BUDGET
+9,228
+35,542
+
+VARIANCE VARIANCE %
+(183)
+(653)
+
+-2.0%
+-1.8%
+
+9,300
+9,200
+9,100
+9,000
+8,900
+8,800
+
+VARIANCE %
+to 2014
+0.62%
+0.76%
+
+GROSS RIDERSHIP
+YTD
+ACTUAL VS. BUDGET
+TOTAL RIDERSHIP
+
+TOTAL RIDERSHIP
+
+GROSS RIDERSHIP
+APRIL 2015
+ACTUAL VS. BUDGET
+
+2014
+ACTUAL
+8,990
+34,625
+
+APRIL 2015
+
+35,700
+35,400
+35,100
+34,800
+34,500
+34,200
+33,900
+
+JANUARY-APRIL2015
+
+2015 ACTUAL
+
+9,045
+
+2015 ACTUAL
+
+34,889
+
+2015 BUDGET
+
+9,228
+
+2015 BUDGET
+
+35,542
+
+2014 ACTUAL
+
+8,990
+
+2014 ACTUAL
+
+34,625
+
+RIDERSHIP APRIL 2015
+
+RIDERSHIP YTD
+
+6,000
+
+25,000
+
+5,000
+
+20,000
+
+4,000
+
+15,000
+
+3,000
+10,000
+
+2,000
+
+5,000
+
+1,000
+-
+
+-
+
+Bus
+
+West
+Line
+
+Light
+Rail
+
+Mall
+Ride
+
+Metro
+Ride*
+
+Other
+
+Bus
+
+West
+Line
+
+Light
+Rail
+
+Mall
+Ride
+
+Metro
+Ride*
+
+Other
+
+APRIL 2015 ACTUAL 5,421
+
+363
+
+1,931
+
+1,156
+
+55
+
+119
+
+2015 ACTUAL YTD 21,047
+
+1,372
+
+7,327
+
+4,456
+
+213
+
+469
+
+APRIL 2014 ACTUAL 5,543
+
+358
+
+1,823
+
+1,162
+
+-
+
+104
+
+2014 ACTUAL YTD 21,176
+
+1,383
+
+7,152
+
+4,488
+
+-
+
+427
+
+RIDERSHIP TRENDS
+10.2
+
+(Millions)
+
+9.7
+
+2015 Budget
+
+2015 Actual
+
+9.2
+8.7
+
+8.2
+
+2014 Actual
+
+7.7
+7.2
+
+Packet Pg. 54
+
+Attachment: III. 043015 RTD MFS (2388 : April 2015 Monthly Financials Status)
+
+2015
+ACTUAL
+9,045
+34,889
+
+1.C.2.a
+
+FARE REVENUE
+APRIL 2015
+(In Thousands)
+2015
+BUDGET
+10,498
+40,513
+
+VARIANCE VARIANCE %
+(76)
+-0.7%
+(430)
+-1.1%
+
+10,600
+10,500
+10,400
+10,300
+10,200
+10,100
+10,000
+
+VARIANCE %
+to 2014
+1.91%
+1.59%
+
+GROSS FARE REVENUE
+YTD
+ACTUAL VS. BUDGET
+40,800
+
+FARE REVENUE
+
+FARE REVENUE
+
+GROSS FARE REVENUE
+APRIL 2015
+ACTUAL VS. BUDGET
+
+2014
+ACTUAL
+10,227
+39,455
+
+40,400
+
+40,000
+39,600
+39,200
+
+38,800
+
+APRIL 2015
+
+JANUARY-APRIL 2015
+
+2015 ACTUAL
+
+10,422
+
+2015 ACTUAL
+
+40,083
+
+2015 BUDGET
+
+10,498
+
+2015 BUDGET
+
+40,513
+
+2014 ACTUAL
+
+10,227
+
+2014 ACTUAL
+
+39,455
+
+FARE REVENUE APRIL 2015
+4,500
+4,000
+3,500
+3,000
+2,500
+2,000
+1,500
+1,000
+500
+-
+
+FARE REVENUE YTD
+
+FARE
+BOX
+
+PASSES
+
+ECO
+PASSES
+
+LIGHT
+RAIL
+
+SPECIAL
+SVCS
+
+APRIL 2015 ACTUAL
+
+3,761
+
+3,701
+
+2,013
+
+932
+
+15
+
+APRIL 2014 ACTUAL
+
+3,554
+
+3,830
+
+1,891
+
+923
+
+21
+
+18,000
+16,000
+14,000
+12,000
+10,000
+8,000
+6,000
+4,000
+2,000
+-
+
+FARE
+BOX
+
+PASSES
+
+ECO
+PASSES
+
+LIGHT
+RAIL
+
+SPECIAL
+SVCS
+
+2015 ACTUAL YTD
+
+14,599
+
+14,682
+
+7,322
+
+3,396
+
+85
+
+2014 ACTUAL YTD
+
+13,877
+
+15,658
+
+6,683
+
+3,092
+
+144
+
+FARE REVENUE TRENDS
+$11.5
+
+(Millions)
+
+$11.0
+
+$10.5
+$10.0
+
+2015 Actual
+
+2015 Budget
+
+2014 Actual
+
+$9.5
+$9.0
+
+Packet Pg. 55
+
+Attachment: III. 043015 RTD MFS (2388 : April 2015 Monthly Financials Status)
+
+MONTH
+YEAR TO DATE
+
+2015
+ACTUAL
+10,422
+40,083
+
+1.C.2.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF NET POSITION - COMBINED
+(UNAUDITED)
+(In Thousands)
+
+2015
+Base System
+
+2015
+FasTracks Project
+
+2015
+FasTracks Ops
+
+$
+
+$
+
+2015
+Combined
+
+December 31, 2014
+Combined
+
+Change
+
+ASSETS
+CURRENT ASSETS:
+Cash & Cash Equivalents
+Receivables:
+Sales Taxes
+Grants
+Other (less allowance for doubtful accts)
+Total Net Receivables
+
+$
+
+116,961
+
+82,930
+
+2,771
+
+$
+
+202,662
+
+$
+
+343,489
+
+$
+
+(140,827)
+
+53,352
+20,704
+8,249
+82,305
+
+35,568
+97,689
+12,799
+146,055
+
+-
+
+88,920
+118,393
+21,048
+228,360
+
+93,385
+13,895
+24,988
+132,268
+
+(4,465)
+104,498
+(3,940)
+96,093
+
+32,848
+130,318
+2,143
+364,575
+
+678,421
+35,152
+942,558
+
+295
+3,066
+
+32,848
+808,739
+37,590
+1,310,199
+
+33,123
+776,134
+40,780
+1,325,794
+
+(275)
+32,605
+(3,190)
+(15,594)
+
+Capital Assets:
+Land
+Land Improvements
+Buildings
+Revenue Earning Equipment
+Shop, Maintenance & Other Equipment
+Construction in Progress
+Total Capital Assets
+Accumulated Depreciation
+Net Capital Assets
+
+172,284
+1,303,147
+252,872
+593,057
+126,103
+112,539
+2,560,002
+(1,188,033)
+1,371,969
+
+132,029
+882,396
+227,602
+282,235
+3,225
+2,843,382
+4,370,869
+(150,651)
+4,220,218
+
+-
+
+304,313
+2,185,543
+480,474
+875,292
+129,328
+2,955,921
+6,930,871
+(1,338,684)
+5,592,187
+
+303,432
+2,183,870
+480,330
+857,745
+148,138
+2,754,062
+6,727,577
+(1,314,122)
+5,413,455
+
+881
+1,673
+144
+17,547
+(18,810)
+201,859
+203,294
+(24,562)
+178,732
+
+TABOR Reserves
+Restricted Debt Service/Debt Service Reserves
+Deposits
+TOTAL NONCURRENT ASSETS
+
+11,246
+25,839
+1,500
+1,410,554
+
+6,427
+61,190
+4,287,835
+
+-
+
+17,673
+87,029
+1,500
+5,698,389
+
+19,345
+86,541
+1,500
+5,520,841
+
+(1,672)
+488
+177,548
+
+Inventory
+Restricted Debt Service/Project Funds
+Other Assets
+TOTAL CURRENT ASSETS
+
+(1)
+
+(2)
+
+NONCURRENT ASSETS:
+
+TOTAL ASSETS
+
+$
+
+1,775,129
+
+$
+
+5,230,393
+
+$
+
+3,066
+
+$
+
+7,008,588
+
+$
+
+6,846,635
+
+$
+
+161,953
+
+(1) Cash and cash equivalent balances were high in December 2014 due to year end draws on project funds
+(2) FFGA funds of $82 million have been recorded and will be received in late May and early June
+
+Packet Pg. 56
+
+Attachment: III. 043015 RTD MFS (2388 : April 2015 Monthly Financials Status)
+
+APRIL 30, 2015
+
+1.C.2.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF NET POSITION - COMBINED
+(UNAUDITED)
+(In Thousands)
+
+2015
+Base System
+
+2015
+FasTracks Project
+
+2015
+FasTracks Ops
+
+$
+
+$
+
+2015
+Combined
+
+December 31, 2014
+Combined
+
+Change
+
+LIABILITIES
+CURRENT LIABILITIES:
+Accounts & Contracts Payable
+Current Portion of Long Term Debt
+Accrued Compensation
+Accrued Interest Payable
+Other
+TOTAL CURRENT LIABILITIES
+
+$
+
+NONCURRENT LIABILITIES:
+Long Term Debt
+Other Long-Term Liabilities
+Net Pension Obligation
+TOTAL NONCURRENT LIABILITIES
+TOTAL LIABILITIES
+
+72,510
+45,610
+21,294
+10,064
+32,830
+182,308
+
+504,629
+75,923
+580,552
+
+40,737
+8,903
+52,604
+102,244
+
+2,694,657
+151,832
+2,846,489
+
+-
+
+$
+
+-
+
+113,247
+54,513
+21,294
+62,668
+32,830
+284,552
+
+$
+
+3,199,286
+151,832
+75,923
+3,427,041
+
+191,381
+54,348
+20,809
+20,934
+26,215
+313,687
+
+$
+
+3,125,765
+150,186
+75,923
+3,351,874
+
+(78,134)
+165
+485
+41,734
+6,615
+(29,135)
+
+(3)
+
+73,521
+1,646
+75,167
+
+(5)
+
+$
+
+762,860
+
+$
+
+2,948,733
+
+$
+
+-
+
+$
+
+3,711,593
+
+$
+
+3,665,561
+
+$
+
+46,032
+
+Net Investment in Capital Assets
+TABOR Fund
+Debt Service Reserves
+Other Restricted Assets - Deposits
+FasTracks Contingency Fund
+FasTracks Construction Fund
+FasTracks Internal Savings Account (FISA)
+Assets Held for Sale
+Board Appropriated Fund
+Capital Replacement Fund
+Unrestricted Fund
+Net Pension Obligation - Represented
+TOTAL NET POSITION
+
+$
+
+$
+
+$
+
+2,971,177
+19,193
+86,541
+1,500
+30,000
+(14,883)
+21,509
+2,418
+19,200
+12,000
+100,767
+(68,348)
+3,181,074
+
+$
+
+$
+
+3,077,982
+19,193
+139,649
+1,500
+30,000
+(18,861)
+18,373
+2,418
+26,376
+19,176
+49,537
+(68,348)
+3,296,995
+
+$
+
+$
+
+1,022
+1,022
+1,022
+3,066
+
+$
+
+$
+
+2,140,336
+6,088
+99,407
+30,000
+(18,861)
+12,810
+2,418
+3,154
+3,154
+3,154
+2,281,660
+
+$
+
+$
+
+937,646
+13,105
+40,242
+1,500
+5,563
+22,200
+15,000
+45,361
+(68,348)
+1,012,269
+
+$
+
+106,805
+53,108
+(3,978)
+(3,136)
+7,176
+7,176
+(51,230)
+115,921
+
+TOTAL LIABILITIES & NET POSITION
+
+$
+
+1,775,129
+
+$
+
+5,230,393
+
+$
+
+3,066
+
+$
+
+7,008,588
+
+$
+
+6,846,635
+
+$
+
+161,953
+
+(4)
+
+NET POSITION
+
+-
+
+-
+
+-
+
+-
+
+(6)
+
+(7)
+(7)
+(8)
+(8)
+
+-
+
+(3) December 2014 was high due to the year-end accrual of expenses which were paid in 2015
+(4) Interest expense is paid twice during the year, in June and in December. The increase relates to the monthly interest accrual to be paid in June.
+(5) Increase due to drawing funds from the TIFIA loan
+(6) Increase is due to funds being set aside for semi-annual debt service payments
+(7) Increase is due to the increase to fund balances per the 2015 adopted budget
+(8) Unrestricted fund balance at year-end restated to break out the Net Pension Obligation for the represeted employees
+
+Packet Pg. 57
+
+Attachment: III. 043015 RTD MFS (2388 : April 2015 Monthly Financials Status)
+
+APRIL 30, 2015
+
+1.C.2.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION - COMBINED
+(UNAUDITED)
+(In Thousands)
+
+Month
+Combined
+Actual
+
+Month
+Combined
+Budget
+
+Fav/
+(Unfav)
+
+% Fav/
+(Unfav)
+
+YTD
+Combined
+Actual
+
+YTD
+Combined
+Budget
+
+Fav/
+(Unfav)
+
+% Fav/
+(Unfav)
+
+-----------------
+
+-----------------
+
+-----------------
+
+-------------
+
+-----------------
+
+-----------------
+
+-----------------
+
+-------------
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+OPERATING REVENUE:
+Passenger Fares
+Advertising, Rent and Other
+Total Operating Revenue
+
+10,422
+334
+10,756
+
+10,498
+433
+10,931
+
+(76)
+(99)
+(175)
+
+-0.7%
+-22.9%
+0.0%
+-1.6%
+
+40,083
+1,558
+41,641
+
+40,513
+1,732
+42,244
+
+(430)
+(174)
+(603)
+
+-1.1%
+-10.0%
+-1.4%
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Facilities
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+Other Non-Departmental Expenditures
+FasTracks Service Increase
+Depreciation
+Total Operating Expenses
+
+23,105
+3,902
+274
+2,174
+3,717
+1,720
+2,719
+805
+559
+81
+55
+11,905
+51,016
+
+22,962
+3,944
+215
+1,171
+4,021
+665
+4,002
+924
+418
+218
+(10)
+10,500
+49,030
+
+(143)
+42
+(59)
+(1,003)
+304
+(1,055)
+1,283
+119
+(141)
+137
+(65)
+(1,405)
+(1,986)
+
+-0.6%
+1.1%
+-27.4%
+-85.7%
+7.6%
+-158.6%
+32.1%
+12.9%
+-33.7%
+62.8%
+650.0%
+0.0%
+-13.4%
+0.0%
+-4.1%
+
+88,141
+15,051
+1,101
+5,490
+14,565
+3,877
+9,546
+3,249
+2,188
+244
+1,715
+47,658
+192,825
+
+91,906
+15,778
+1,152
+18,697
+15,730
+2,789
+15,326
+3,962
+1,711
+584
+3,136
+42,000
+212,771
+
+3,765
+727
+51
+13,207
+1,165
+(1,088)
+5,780
+713
+(477)
+340
+1,421
+(5,658)
+19,946
+
+4.1% (1)
+4.6% (2)
+4.4%
+70.6% (3)
+7.4% (4)
+-39.0% (5)
+37.7% (6)
+18.0% (7)
+-27.9% (8)
+58.2%
+45.3% (9)
+0.0%
+-13.5%
+0.0%
+9.4%
+
+OPERATING INCOME/(LOSS)
+
+(40,260)
+
+(38,099)
+
+(2,161)
+
+5.7%
+
+(151,184)
+
+(170,527)
+
+19,343
+
+11.3%
+
+42,964
+5,049
+598
+898
+731
+(6,569)
+43,671
+
+41,236
+6,698
+360
+916
+(7,813)
+41,397
+
+1,728
+(1,649)
+238
+(18)
+731
+1,244
+2,274
+
+4.2%
+-24.6%
+66.1%
+-2.0%
+0.0%
+-15.9%
+0.0%
+5.5%
+
+168,247
+20,910
+2,871
+2,946
+804
+(26,344)
+169,433
+
+161,814
+27,725
+1,437
+3,661
+(31,253)
+163,384
+
+6,432
+(6,815)
+1,434
+(715)
+804
+4,909
+6,050
+
+4.0%
+-24.6%
+99.8%
+-19.5%
+0.0%
+15.7%
+0.0%
+3.7%
+-355.5%
+
+NONOPERATING REVENUE (EXPENSES)
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+Net Nonoperating Revenue (Expense)
+INCOME BEFORE CAPITAL GRANTS
+
+3,411
+
+3,298
+
+113
+
+3.4%
+
+18,249
+
+(7,143)
+
+25,392
+
+Capital Grants and Local Contributions
+INCREASE/(DECREASE) IN NET POSITION
+
+10,582
+
+13,922
+
+(3,340)
+
+-24.0%
+
+97,671
+
+31,822
+
+65,849
+
+206.9%
+
+(3,227)
+
+-18.7%
+
+91,241
+
+369.7%
+
+$
+
+13,993
+
+$
+
+17,220
+
+$
+
+$
+
+115,921
+
+$
+
+24,680
+
+$
+
+(1) Variance is due to the timing of invoices for diesel, gasoline and parts
+(2) Variance is due to the timing of traction power invoices
+(3) Variance is due to the timing of payments on Eagle, I-225 and US-36
+(4) Variance is primarily due to timing of security and contracted services payments
+(5) Variance is due to recording of year-end claims reserve accruals in current year. Those accruals will be adjusted back to 2014.
+(6) Variance is primarily due to the timing of IT project invoicing for computer hardware, data processing and software maintenance costs
+(7) Variance is due to lower outside processing services for printing and marketing
+(8) Variance is due to the temporary coding of purchasing card expenses in this department until coding to the correct departments is recorded
+(9) Variance is due to union lump sum final year payment in which long-term employees received a wage adjustment rather than a lump sum. This will be recoded in the Amended Budget.
+
+Packet Pg. 58
+
+Attachment: III. 043015 RTD MFS (2388 : April 2015 Monthly Financials Status)
+
+APRIL 30, 2015
+
+1.C.2.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION - BASE SYSTEM
+(UNAUDITED)
+(In Thousands)
+
+Month
+Base System
+Actual
+-----------------
+
+Month
+Base System
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+YTD
+Base System
+Actual
+-----------------
+
+YTD
+Base System
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+OPERATING REVENUE:
+Passenger Fares
+Advertising, Rent and Other
+Total Operating Revenue
+
+10,072
+334
+10,406
+
+10,150
+433
+10,583
+
+(78)
+(99)
+(177)
+
+-0.8%
+-22.9%
+0.0%
+-1.7%
+
+38,869
+1,558
+40,427
+
+39,187
+1,732
+40,919
+
+(318)
+(174)
+(492)
+
+-0.8%
+-10.0%
+-1.2%
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Facilities
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+Other Non-Departmental Expenditures
+FasTracks Service Increase
+Depreciation
+Total Operating Expenses
+
+23,066
+3,014
+213
+515
+3,420
+1,720
+2,658
+803
+559
+81
+55
+(1,411)
+7,063
+41,756
+
+22,923
+3,056
+208
+540
+3,683
+665
+3,889
+818
+418
+218
+(10)
+(1,411)
+6,750
+41,747
+
+(143)
+42
+(5)
+25
+263
+(1,055)
+1,231
+15
+(141)
+137
+(65)
+(313)
+(9)
+
+-0.6%
+1.4%
+-2.4%
+4.6%
+7.1%
+-158.6%
+31.7%
+1.8%
+-33.7%
+62.8%
+650.0%
+0.0%
+-4.6%
+0.0%
+0.0%
+
+87,983
+11,500
+887
+1,572
+13,338
+3,877
+9,275
+3,213
+2,188
+244
+1,715
+(5,644)
+28,266
+158,414
+
+91,748
+12,227
+1,125
+2,474
+14,379
+2,789
+14,956
+3,678
+1,711
+584
+3,136
+(5,644)
+27,000
+170,163
+
+3,765
+727
+238
+902
+1,041
+(1,088)
+5,681
+465
+(477)
+340
+1,421
+(1,266)
+11,749
+
+4.1%
+5.9%
+21.2%
+36.5%
+7.2%
+-39.0%
+38.0%
+12.6%
+-27.9%
+58.2%
+45.3%
+0.0%
+-4.7%
+0.0%
+6.9%
+
+OPERATING INCOME/(LOSS)
+
+(31,350)
+
+(31,164)
+
+(186)
+
+0.6%
+
+(117,987)
+
+(129,244)
+
+11,257
+
+8.7%
+
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+Net Nonoperating Revenue (Expense)
+
+25,779
+5,027
+93
+215
+731
+(1,550)
+30,295
+
+24,723
+6,644
+97
+225
+(1,896)
+29,793
+
+1,056
+(1,617)
+(4)
+(10)
+731
+346
+502
+
+4.3%
+-24.3%
+-4.1%
+-4.4%
+0.0%
+-18.2%
+0.0%
+1.7%
+
+100,948
+19,476
+378
+262
+804
+(6,201)
+115,667
+
+97,070
+27,603
+387
+905
+(7,584)
+118,380
+
+3,878
+(8,127)
+(9)
+(643)
+804
+1,384
+(2,713)
+
+4.0%
+-29.4%
+-2.3%
+-71.0%
+0.0%
+18.2%
+0.0%
+-2.3%
+
+INCOME BEFORE CAPITAL GRANTS
+
+(1,055)
+
+(1,371)
+
+316
+
+-23.0%
+
+(2,320)
+
+(10,864)
+
+8,544
+
+78.6%
+
+48
+
+2,409
+
+(2,361)
+
+-98.0%
+
+612
+
+5,506
+
+(4,894)
+
+-88.9%
+
+(2,045)
+
+-197.0%
+
+3,651
+
+-68.1%
+
+NONOPERATING REVENUE (EXPENSES)
+
+Capital Grants and Local Contributions
+INCREASE/(DECREASE) IN NET POSITION
+
+$
+
+(1,007)
+
+$
+
+1,038
+
+$
+
+$
+
+(1,708)
+
+$
+
+(5,358)
+
+$
+
+Packet Pg. 59
+
+Attachment: III. 043015 RTD MFS (2388 : April 2015 Monthly Financials Status)
+
+APRIL 30, 2015
+
+1.C.2.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION - FasTracks PROJECT
+(UNAUDITED)
+(In Thousands)
+
+Month
+FasTracks
+Project
+Actual
+-----------------
+
+Month
+FasTracks
+Project
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+YTD
+FasTracks
+Project
+Actual
+-----------------
+
+YTD
+FasTracks
+Project
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+OPERATING REVENUE:
+Passenger Fares
+Advertising, Rent and Other
+Total Operating Revenue
+
+-
+
+-
+
+-
+
+0.0%
+0.0%
+0.0%
+0.0%
+
+-
+
+-
+
+-
+
+0.0%
+0.0%
+0.0%
+0.0%
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Facilities
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+Other Non-Departmental Expenditures
+FasTracks Service Increase
+Depreciation
+Total Operating Expenses
+
+61
+1,600
+61
+2
+1,411
+4,842
+7,977
+
+7
+631
+113
+106
+1,411
+3,750
+6,018
+
+(54)
+(969)
+52
+104
+(1,092)
+(1,959)
+
+0.0%
+0.0%
+-771.4%
+-153.6%
+0.0%
+0.0%
+46.0%
+98.1%
+0.0%
+0.0%
+0.0%
+0.0%
+-29.1%
+0.0%
+-32.6%
+
+214
+3,682
+271
+36
+5,644
+19,392
+29,239
+
+27
+16,223
+370
+284
+5,644
+15,000
+37,548
+
+(187)
+12,541
+99
+248
+(4,392)
+8,309
+
+0.0%
+0.0%
+-692.6%
+77.3%
+0.0%
+0.0%
+26.8%
+87.3%
+0.0%
+0.0%
+0.0%
+0.0%
+-29.3%
+0.0%
+22.1%
+
+OPERATING INCOME/(LOSS)
+
+(7,977)
+
+(6,018)
+
+(1,959)
+
+32.6%
+
+(29,239)
+
+(37,548)
+
+8,309
+
+-22.1%
+
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+Net Nonoperating Revenue (Expense)
+
+16,252
+22
+505
+683
+(5,019)
+12,443
+
+15,596
+54
+263
+681
+(5,917)
+10,677
+
+656
+(32)
+242
+2
+898
+1,766
+
+4.2%
+-59.3%
+92.0%
+0.3%
+0.0%
+-15.2%
+0.0%
+16.5%
+
+63,091
+1,435
+2,493
+2,684
+(20,143)
+49,559
+
+60,537
+123
+1,050
+2,726
+(23,669)
+40,766
+
+2,554
+1,312
+1,443
+(42)
+3,525
+8,792
+
+4.2%
+1070.2%
+137.4%
+-1.5%
+0.0%
+-14.9%
+0.0%
+21.6%
+
+INCOME BEFORE CAPITAL GRANTS
+
+4,466
+
+4,659
+
+(193)
+
+-4.1%
+
+20,320
+
+3,218
+
+17,101
+
+531.4%
+
+NONOPERATING REVENUE (EXPENSES)
+
+Capital Grants and Local Contributions
+INCREASE/(DECREASE) IN NET POSITION
+
+10,534
+$
+
+15,000
+
+11,513
+$
+
+16,172
+
+$
+
+(979)
+
+-8.5%
+
+(1,172)
+
+-7.2%
+
+97,059
+$
+
+117,379
+
+26,317
+$
+
+29,535
+
+$
+
+70,742
+
+268.8%
+
+87,844
+
+297.4%
+
+Packet Pg. 60
+
+Attachment: III. 043015 RTD MFS (2388 : April 2015 Monthly Financials Status)
+
+APRIL 30, 2015
+
+1.C.2.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION - FasTracks OPERATIONS
+(UNAUDITED)
+(In Thousands)
+
+Month
+FasTracks Ops
+Actual
+-----------------
+
+Month
+FasTracks Ops
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+YTD
+FasTracks Ops
+Actual
+-----------------
+
+YTD
+FasTracks Ops
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+OPERATING REVENUE:
+Passenger Fares
+Advertising, Rent and Other
+Total Operating Revenue
+
+350
+350
+
+348
+348
+
+2
+2
+
+0.6%
+0.0%
+0.0%
+0.6%
+
+1,214
+1,214
+
+1,326
+1,326
+
+(112)
+(112)
+
+-8.4%
+0.0%
+0.0%
+-8.4%
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Facilities
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+Other Non-Departmental Expenditures
+Depreciation
+Total Operating Expenses
+
+39
+888
+59
+297
+1,283
+
+39
+888
+338
+1,265
+
+(59)
+41
+(18)
+
+0.0%
+0.0%
+0.0%
+0.0%
+12.1%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+-1.4%
+
+158
+3,551
+236
+1,227
+5,172
+
+158
+3,551
+1,351
+5,060
+
+(236)
+124
+(112)
+
+0.0%
+0.0%
+0.0%
+0.0%
+9.2%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+-2.2%
+
+OPERATING INCOME/(LOSS)
+
+(933)
+
+(917)
+
+(16)
+
+2.0%
+
+(3,958)
+
+(3,734)
+
+(224)
+
+-6.2%
+
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+Net Nonoperating Revenue (Expense)
+
+933
+933
+
+917
+917
+
+16
+16
+
+1.7%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+1.7%
+
+4,208
+4,208
+
+4,208
+4,208
+
+-
+
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+
+INCOME BEFORE CAPITAL GRANTS
+
+-
+
+-
+
+-
+
+0.0%
+
+250
+
+473
+
+(224)
+
+-47.2%
+
+Capital Grants and Local Contributions
+INCREASE/(DECREASE) IN NET POSITION
+
+-
+
+-
+
+-
+
+0.0%
+
+-
+
+-
+
+-
+
+0.0%
+
+-
+
+0.0%
+
+(224)
+
+-47.2%
+
+NONOPERATING REVENUE (EXPENSES)
+
+-
+
+$
+
+-
+
+$
+
+$
+
+250
+
+$
+
+473
+
+$
+
+Packet Pg. 61
+
+Attachment: III. 043015 RTD MFS (2388 : April 2015 Monthly Financials Status)
+
+APRIL 30, 2015
+
+1.C.2.a
+
+REGIONAL TRANSPORTATION DISTRICT
+FASTRACKS INTERNAL SAVINGS ACCOUNT (FISA)
+(In Thousands)
+
+Estimated
+Risk Level
+-------------
+
+2013
+-----------------
+
+2014
+-----------------
+
+2015
+-----------------
+
+2016
+-----------------
+
+2017
+-----------------
+
+Medium
+Medium
+Medium
+Low
+Low
+
+$
+
+$
+
+$
+
+$
+
+$
+
+Identified
+Funds*
+-------------
+
+2013-2017
+-----------------
+
+IDENTIFIED SOURCES:
+Limit Fastracks funding increases for bus and paratransit expansion to CPI
+Reduce FasTracks Minimum Unrestricted Fund Balance from $150 million
+Reduce FasTracks Operating and Maintenance Fund Balance from 3 to 2 months
+UPRR relocation to coincide with the completion of the SW Rail extension project
+Achieve project underruns on FasTracks projects currently under contract
+Sales and lease opportunities for all RTD properties1
+Request local financial participation in projects above the current 2.5%
+Sales and use tax compliance reviews
+Refinance existing debt2
+Sales and use tax exemption parity3
+Subtotal
+
+700
+2,500
+9,000
+-
+
+2,600
+-
+
+-
+
+Low
+
+-
+
+-
+
+-
+
+-
+
+Low
+
+12,200
+
+1,100
+3,700
+
+1,200
+42,400
+
+1,200
+47,600
+
+$
+
+35,600
+
+6,800
+2,500
+-
+
+Low
+Low
+Low
+
+$
+
+-
+
+4,600
+1,000
+-
+
+$
+
+37,100
+
+$
+
+9,300
+3,000
+-
+
+$
+
+38,600
+
+24,000
+72,000
+9,000
+9,000
+15,000
+
+$
+
+4,371
+5,481
+9,000
+-
+
+20,000
+TBD
+111,300
+
+5,563
+-
+
+-
+
+TBD
+
+-
+
+1,200
+52,100
+
+4,700
+265,000
+
+$
+
+24,415
+
+Less: amounts encumbered for U.S. 36 BRT
+Total
+
+$
+
+(6,042)
+18,373
+
+$
+
+$
+
+*DETAIL OF IDENTIFIED FISA FUNDS
+Limit FasTracks funding increases for bus and paratransit to the Consumer Price Index (CPI) : FY 2014 difference between the CPI and the compounded 1% growth in bus service
+Fiscal year 2014 budgeted difference between 3 months and 2 months of operating expenses per Fiscal Policy Statement to reduce FasTracks Operating and Maintenance fund balance
+UPRR relocation to coincide with the completion of the SW Rail extension project. This project was delayed until additional funding for the SW rail extension is available.
+Sales and lease opportunities for all RTD properties. Balance is comprised of Base System Civic Center air rights sale of $8,063 less $2,500 for the NAMS study
+
+IDENTIFIED SOURCES NOTES:
+1
+
+Sale of Civic Center Air Rights has resulted in net proceeds of $5.6 million
+
+2
+
+Refinancing debt will not extend final maturity dates or increase the amounts outstanding
+
+3
+
+The initial estimate as presented to the RTD Board of Directors was $16 million
+
+Attachment: III. 043015 RTD MFS (2388 : April 2015 Monthly Financials Status)
+
+APRIL 30, 2015
+
+$
+
+Less: amounts encumbered for U.S. 36 BRT
+Total
+
+$
+
+4,371
+5,481
+9,000
+5,563
+24,415
+
+$
+
+(6,042)
+18,373
+
+Packet Pg. 62
+
+1.C.2.a
+
+REGIONAL TRANSPORTATION DISTRICT
+1% SALES AND USE TAX REVENUE - SYSTEM WIDE
+(In Thousands)
+
+2015 ACTUALS
+January
+2015
+
+February
+2015
+
+March
+2015
+
+April
+2015
+
+May
+2015
+
+Net Sales & Use Tax Received
+
+$
+
+40,879
+
+$
+
+38,448
+
+$
+
+45,956
+
+$
+
+42,964
+
+Change from to 2014
+
+$
+
+3,997
+
+$
+
+2,887
+
+$
+
+3,246
+
+$
+
+1,604
+
+% Increase/(Decrease) by Month to 2014
+
+10.8%
+
+8.1%
+
+7.6%
+
+3.9%
+
+% Increase YTD 2014 to 2015
+
+10.8%
+
+9.5%
+
+8.8%
+
+7.5%
+
+$
+
+June
+2015
+-
+
+$
+
+July
+2015
+-
+
+$
+
+August
+2015
+-
+
+$
+
+September
+2015
+-
+
+$
+
+-
+
+October
+2015
+$
+
+-
+
+November
+2015
+
+December
+2015
+
+Total Year
+To Date
+
+$
+
+$
+
+$
+
+168,247
+
+$
+
+11,734
+
+-
+
+-
+
+2015 ACTUAL VS. BUDGET
+
+Actual
+Budget
+Favorable/(Unfavorable)
+
+January
+2015
+$ 40,879
+39,365
+
+February
+2015
+$ 38,448
+38,111
+
+March
+2015
+$ 45,956
+43,102
+
+April
+2015
+$ 42,964
+41,236
+
+$
+
+$
+
+$
+
+$
+
+1,514
+
+337
+
+2,854
+
+May
+2015
+$
+
+45,086
+
+June
+2015
+$
+
+47,388
+
+July
+2015
+$
+
+45,526
+
+August
+2015
+$
+
+46,483
+
+September
+2015
+$
+45,686
+
+October
+2015
+$
+
+November
+2015
+$
+45,062
+
+December
+2015
+$
+52,583
+
+Total Year
+To Date
+$ 168,247
+535,145
+
+46,393
+
+November
+2015
+$
+43,465
+
+December
+2015
+$
+56,568
+
+Total Year
+To Date
+$ 168,247
+551,364
+
+October
+2014
+
+November
+2014
+
+December
+2014
+
+Total Year
+To Date
+
+45,517
+
+1,728
+
+% Favorable/(Unfavorable) - Month
+
+3.8%
+
+0.9%
+
+6.6%
+
+4.2%
+
+% Favorable/(Unfavorable) - YTD
+
+3.8%
+
+2.4%
+
+3.9%
+
+4.0%
+
+January
+2015
+$ 40,879
+39,508
+
+February
+2015
+$ 38,448
+38,093
+
+March
+2015
+$ 45,956
+45,751
+
+April
+2015
+$ 42,964
+44,304
+
+$
+
+$
+
+$
+
+$
+
+2015 ACTUAL VS. CU-LEEDS FORECAST
+
+Actual
+Forecast
+Favorable/(Unfavorable)
+
+1,371
+
+355
+
+205
+
+May
+2015
+$
+
+45,734
+
+June
+2015
+$
+
+47,777
+
+July
+2015
+$
+
+46,870
+
+August
+2015
+$
+
+47,686
+
+September
+2015
+$
+49,215
+
+October
+2015
+$
+
+(1,340)
+
+% Favorable/(Unfavorable) - Month
+
+3.5%
+
+0.9%
+
+0.4%
+
+-3.0%
+
+% Favorable/(Unfavorable) - YTD
+
+3.5%
+
+2.2%
+
+1.6%
+
+0.4%
+
+2014 ACTUALS
+January
+2014
+
+February
+2014
+
+March
+2014
+
+April
+2014
+
+May
+2014
+
+June
+2014
+
+July
+2014
+
+August
+2014
+
+September
+2014
+
+Net Sales & Use Tax Received
+
+$
+
+36,882
+
+$
+
+35,561
+
+$
+
+42,710
+
+$
+
+41,360
+
+$
+
+42,695
+
+$
+
+44,602
+
+$
+
+43,755
+
+$
+
+44,517
+
+$
+
+45,944
+
+$
+
+43,310
+
+$
+
+40,576
+
+$
+
+52,809
+
+$
+
+514,721
+
+Change from to 2013
+
+$
+
+2,466
+
+$
+
+2,164
+
+$
+
+5,052
+
+$
+
+4,852
+
+$
+
+2,559
+
+$
+
+2,739
+
+$
+
+3,868
+
+$
+
+3,933
+
+$
+
+5,811
+
+$
+
+3,902
+
+$
+
+1,511
+
+$
+
+7,277
+
+$
+
+38,857
+
+% Increase/(Decrease) by Month to 2013
+
+7.2%
+
+6.5%
+
+13.4%
+
+13.3%
+
+6.4%
+
+6.5%
+
+9.7%
+
+9.7%
+
+14.5%
+
+9.9%
+
+3.9%
+
+16.0%
+
+% Increase YTD 2013 to 2014
+
+7.2%
+
+6.8%
+
+9.2%
+
+10.2%
+
+9.4%
+
+8.9%
+
+9.0%
+
+9.1%
+
+9.7%
+
+9.7%
+
+9.2%
+
+9.8%
+
+Packet Pg. 63
+
+Attachment: III. 043015 RTD MFS (2388 : April 2015 Monthly Financials Status)
+
+APRIL 30, 2015
+
+1.C.3
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, Interim General Manager and
+CEO
+
+Date: June 4, 2015
+
+From:
+
+Heather
+Copp,
+Administration
+
+GM
+
+Date:
+
+June 4, 2015
+
+Subject:
+
+Smart Media Technology (SMT) and Day Pass
+Printer Status
+
+CFO/AGM,
+
+Finance
+
+&
+
+Board Meeting Date: June 9, 2015
+
+Stored Value is a product that can be purchased by the general public to pay for transit fares on fixed
+route buses and rail platforms. Stored Value is provided on reloadable plastic cards encoded with chips.
+These cards can be loaded with certain dollar amounts and used much like a debit card. Once the card is
+loaded, it can be used to board bus or rail until the dollar amount on the card is less than the fare
+needed. Additional value can be loaded onto the card.
+We are targeting January 1, 2016 for the Stored Value soft launch go-live which will include:
+
+
+
+
+
+Stored Value available for purchase at RTD sales outlets only
+Changes to the web portal that focus on Customer Care functionality
+Changes to the SMT System to accommodate the new fare structure
+Day Pass Printers installed and functioning on RTD fixed route buses
+
+There are a considerable number of related efforts underway for the January 1 soft launch of Stored
+Value involving several departments within RTD including:
+
+
+
+
+
+
+
+
+
+Technology changes
+Card distribution and logistics
+Merchant arrangements
+Training
+Marketing campaigns
+Updates to the ticket vending machines and platform validators
+Changes to financial systems to accommodate fare changes
+Other related activities
+
+Until such time we have a sufficiently robust smart card distribution network in place, we anticipate
+continuing to sell ten ride ticket books and accepting one ride tickets, and will also continue to issue and
+accept paper transfers.
+Additional phases of the SMT project will go live by June 30, 2016 including:
+
+
+
+
+Stored value available for purchase at retail outlets
+Period passes
+Customer facing web portal changes
+
+Packet Pg. 64
+
+1.C.3
+
+Smart Media Technology Systems
+(Budget and Expenditures - Inception to Date As of 05/18/2015)
+Budget
+Capital Projects:
+Original
+Smartcard
+Project
+SMT Stored
+Value
+Implementation
+FasTracks Smart
+Card Projects
+Subtotal Capital
+Projects
+
+Remaining Budget
+
+15,816,673.00
+
+$ 12,351,488.64
+
+5,724,325.00
+
+1,616,824.95
+
+4,107,500.05
+
+1,132,628.28
+
+167,830.88
+
+964,797.40
+
+$
+
+22,673,626.28
+
+$ 14,136,144.47
+
+$
+
+8,537,481.81
+
+Expense
+Projects
+
+$
+
+3,767,079.29
+
+$
+
+2,737,722.79
+
+$
+
+1,029,356.50
+
+Total
+
+$
+
+26,440,705.57
+
+$ 16,873,867.26
+
+$
+
+9,566,838.31
+
+21,889,000.53
+
+$ 13,892,213.61
+
+$
+
+7,996,786.92
+
+Xerox Contract
+*
+
+$
+
+Actual Expenditures
+
+$
+
+$
+
+3,465,184.36
+
+* The Xerox contract is
+included in the amounts above.
+
+Element
+
+Status
+
+Prior Period Activities
+
+Next Period
+Activities
+
+Program Components
+Stabilization and
+Enhancement of
+Current Operating
+Pass System (ECO,
+College and
+Neighborhood)
+
+
+Green
+
+Currently
+there
+are
+approximately 257,000 active
+cards in the pass programs. For
+a variety of reasons, there are a
+small percentage of these cards
+that require an administrative
+action to extend their usability.
+Xerox continues their root cause
+analysis and mitigation steps.
+
+Xerox is actively
+addressing these
+anomalies and
+appropriate resolution is
+being made. At this
+time impact to the rider
+community is not
+major.
+
+Packet Pg. 65
+
+1.C.3
+
+Element
+
+Status
+
+Prior Period Activities
+
+Next Period
+Activities
+
+Program Components
+
+Stored Valued
+
+
+Yellow
+
+New Fare
+Structure
+
+
+Green
+
+Card Provisions
+and Distribution
+
+
+Green
+
+Stored Value
+Internal Portal /
+Back-Office
+Enhancements
+
+Stored Value
+Public Facing
+Portal
+Enhancements
+
+
+Yellow
+
+
+Green
+
+The SOW has been submitted to
+Xerox for the required changes.
+RTD awaits the final proposal
+from Xerox. The yellow rating is
+due to the length of time to
+complete the procurement and
+potential timing of availability of
+Xerox personnel to make the
+changes.
+The most critical item to
+advance
+the
+January
+1st
+deployment is procurement and
+deployment of the day pass
+printers.
+The procurement is
+advancing and the recommended
+Board action is being presented
+at this June meeting.
+Cards from third party are in the
+final phases of testing to assure
+they are compatible with SMT
+system.
+Business
+process,
+customer
+response practices, and general
+financial element improvements
+have been identified. The SOW
+has been submitted to Xerox to
+make these modifications. The
+yellow rating is due to the length
+of time to complete the
+procurement and potential timing
+of availability of Xerox personnel
+to make the changes.
+The requirements to improve the
+public navigation, branding and
+overall enhancements have been
+developed. In negotiations with
+Xerox
+to
+make
+these
+modifications.
+
+Continue to target
+technology elements
+for January 1st go live.
+
+Target contract to be
+executed by July 1st
+with a January 1st go
+live.
+
+Card order will be
+placed in anticipation of
+a late summer delivery.
+
+Finalize contract
+negotiations and initiate
+software development.
+These elements will be
+deployed for the
+January 1st go live.
+
+Finalize contract
+negotiations and initiate
+software development.
+These enhancements
+will be deployed
+throughout 2016.
+
+Packet Pg. 66
+
+1.C.3
+
+Element
+
+Status
+
+Prior Period Activities
+
+Next Period
+Activities
+
+Program Components
+
+Merchant Retail
+Point of Sale
+(RPOS)
+
+RTD Retail Point of
+Sale (RPOS)
+
+
+Yellow
+
+An initial meeting was held with
+King Soopers and they were
+receptive to the sale of the fare
+products.
+The negotiations
+continue. This element is shown
+as yellow because negotiations
+have not been completed and
+Safeway is currently being
+acquired by Albertsons so this
+may slow acceptance and
+approvals.
+
+
+Green
+
+Continue training,
+The RTD Retail Point of Sale
+testing and finalize
+equipment has been installed at
+associated business
+RTD customer service locations.
+processes.
+
+External Hosting
+
+
+Green
+
+Cybersecurity
+
+
+Green
+
+Friends and Family
+Proof of Concept
+Operational Test
+
+
+Green
+
+Since stored value functions
+similar to a debit card, IT is
+pursuing two options to have
+these
+services
+hosted
+externally.
+This path offers
+better High Availability, Disaster
+Recovery
+(DR)
+provisions,
+addresses
+Payment
+Card
+Industry (PCI) data security
+compliance and handles other
+cybersecurity issues. The SOW
+is completed and in the
+procurement process.
+The third-party cybersecurity
+audit is complete and the report
+is to be released within a few
+weeks.
+Preparation is underway for a
+summer Friends and Family
+proof of concept operational
+test. It’s anticipated this will
+include a few hundred RTD staff
+members performing the test.
+Conducted user group review of
+stored value functionality.
+
+Continue negotiations
+with King Soopers and
+make overtures to other
+merchants. Because of
+constraints set by the
+merchant, this go live
+will be sometime after
+the Jan 1
+implementation of the
+new fare structure.
+
+Anticipate receiving
+proposals within the
+next few weeks.
+
+Advance necessary
+remediation.
+
+Finalize test plan,
+organize test group and
+initiate test.
+
+Packet Pg. 67
+
+1.C.3
+
+Element
+
+Status
+
+Prior Period Activities
+
+Next Period
+Activities
+
+Program Components
+ADA Reviews
+
+
+Green
+
+Follow-up audits will be
+Xerox is performing their own conducted as new
+ADA audit.
+systems and portals are
+developed.
+
+Status Indicator Legend
+(Green) No current or anticipated issues impacting scope, budget or schedule
+(Yellow) Current or anticipated issue with minor variance in scope, possible increase in budget or
+possible delay
+(Red) Project is at risk in one or more areas (cost, schedule, resources) and progress is delayed.
+Action must be taken to remediate the problem.
+
+Prepared by:
+Heather Copp, CFO/AGM, Finance & Administration
+Kim Heldman, Business Relationship Manager
+Approved by:
+
+Packet Pg. 68
+
+

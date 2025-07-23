@@ -1,0 +1,763 @@
+2021 – 03 – 09
+Financial Administration Audit Committee
+PEGGY CATLIN: So we will begin in about one minute.
+OK. I'd like to call to order the Financial, Administration, and Audit Committee at 8:01 PM on March 9, 2021.
+And I think that since Chair Rivera-Malpiede and Director Williams have already talked about the protocols
+for this, I will suspend with that in the interest of time, just reminding Directors to silence their phones, and
+also, if they're on the phone, to use star 9 and star 6 to mute and unmute. And if you would also raise your
+virtual hand if you would like to speak.
+The safety briefing has already been done, as you know. We have no recommended actions this evening.
+So we will move on to discussion items, and we have two of those this evening.
+The first one is the Represented Defined Benefit Pension Plan. And our acting CFO and Controller, Doug
+McLeod, will now introduce our guests. Please state your name and your titles for the record for this
+evening. Mr. MacLeod, the floor is yours. Thank you.
+DOUG MACLEOD: Great. Thank you, Madam Chair. This is Doug MacLeod, Acting Chief Financial Officer
+and Controller.
+Once a year, we ask the actuaries from each of the Defined Benefit Pension plans to make a presentation
+to the Board of Directors to give an update on the financial status of those plans as well as the outlook for
+their funding. Back in October of 2020, an update was given to the Board regarding the salaried employee,
+non-represented employee Defined Benefit Pension plan. Tonight we will be speaking about the
+represented employee pension plan.
+With me tonight from Gabriel, Roeder, Smith, the actuarial firm that's contracted with the Amalgamated
+Transit Union Pension Trust, is Thomas Lyle, as well as Paul Wood. They are both actuaries with the firm.
+I would like to mention a few things before Thomas gets started on his presentation. First of all, thanking
+ATU President Longenbohn for allowing the actuaries to come to present and give an update on that
+pension plan to the Board of Directors.
+And then a few other items. As Mr. Lyle goes through this presentation, you will notice there are some
+technical terms, actuarial terms that are included in that presentation. And Mr. Lyle will give, will translate
+into layman terms as we go. So just wanted to mention that, since you had the presentation in advance.
+You also notice that the actuarial valuation date for the financial evaluation of this plan by the actuaries is
+dated January 1st, 2020. That is not a typo. That is how actuaries look at things. So they use the prior year
+closing data and then they project forward, using demographic data and a lot of statistical information. So
+it is current data that you will be viewing tonight.
+The final thing I'd like to mention is that the projections that you will see are all predicated upon the funding
+of the plan that's established through the collective bargaining agreement. So you will see two things
+primarily. You will see the current funded status and you will also projections going out.
+What I'd like to point out with those projections going forward is that we've only included in the analysis
+those funding requirements that have been established through the collective bargaining agreement and
+haven't carried those forward. So as a reminder, currently RTD contributes 13% of represented employees
+
+wages to the pension plan. The employee contributes 5%. And then RTD also contributes a lump sum each
+year of $6.2 million.
+As you're aware, the most recent collective bargaining agreement expired on February 28th of this year.
+That was extended for another year. Those same terms apply as far as the pension funding goes, 5%
+employee, 13% employer, plus $6.2 million. So I point that out because the projections going forward only
+include that $6.2 million lump sum assumption in the current year of 2021, and then it falls off after that, to
+be determined at a later time through negotiations with the Amalgamated Transit Union.
+So with that groundwork set, Thomas, please go ahead and walk us through your presentation. Thank you.
+THOMAS LYLE: Hi. Thanks for the introduction, Doug. And so my name is Thomas Lyle. I'm a consultant
+with Gabriel, Roeder, Smith and Company as an actuary on this plan. I'm joined today by Paul Wood. He's
+here to help out with some questions as needed.
+I'll go ahead try to share my screen. Can you guys see my screen?
+KATE WILLIAMS: We can.
+THOMAS LYLE: Awesome. Thank you.
+So just to give you a brief overview of what we're going to talk about, I just wanted to point out some
+demographic information for you, followed by the January 1, 2020 valuation results, talk about your
+contribution amounts, and then introduce to you some information from the Public Funds Survey that was
+asked from prior meetings.
+So to start out, we just want to look at the demographic information. So from our 2019 valuation to our 2020
+valuation, you'll notice that our population remained fairly stable and our payroll growed. This is kind of what
+we expected. But you'll notice that the people who are invested in the plan grows faster, while the people
+are not vested in the plan decreases. These are people who are entitled to a benefit once they terminate.
+This unvested group essentially makes up those one percenters. So that's about 2/3 of the population is
+currently only earning a 1% multiplier, versus the people hired before January 1, 2011, they're earning
+2.5%. So this will give you a basic idea on how that's working now.
+So next here, just your summary of some valuation results. And I won't go over all these numbers. I just
+want to point out a couple of highlights. First of all, the accrued liability continues to grow. And we expect
+that to happen as the plan members accrue benefits and time moves into the future. But also, 2019 had a
+really good asset return. So you'll see that there was an approximately $36 million increase in the liability,
+or the assets on a market value basis. And it's also important to note that the plan did see a good asset
+return for the year of 2020, a little over, I believe it was around 14% or so.
+But noting that even with a really good percent return here, and for 2019, it was around 19%, so even with
+a 19% return, the plan only moved from about 44% funded to just under 50% funded. So that kind of gives
+you an idea in a year which the asset return was 2 and 1/2 times the size it was expected to be, the plan
+only increased in 6%. So let's just say the point is that the plan is not going to be able to invest its way out
+of-- it's not going to be able to invest its way to full funding.
+And that's one I want-- I've got to kind of go over a little history of how we got to where we are today. So
+over the past 20 years, just shows the funded ratios. The blue line really is your market value. And the
+green line is your actuarial value. The green line is just a smooth version of the blue line, essentially. So
+the blue line is kind of where we're more focused.
+So the plan was well funded back in the early 2000s. And then the dot com bubble happened. You had a
+big drop. Then there was a smaller recovery and the plan kind of stagnated around 90% for a while. And
+
+the Great Recession happened. And then around 2011-2012, the plan lowered its discount rate from 8% to
+7%. This is the rate at which we value the liabilities. And since then, the plan has not gone above 50%
+funded since 2012. And there's a couple reasons for that. And I want to dive into one of them at the moment.
+So first of all, I just want to kind of define what an actuarial determined contribution is. Or we'll just for short
+call it an actuarial contribution. It's made up of three components. And this is like a number that we would- the actuary calculates and use as a measurement of how sufficient the contribution rate is that the plan is
+making in order to meet the plan's obligations.
+So there are three components to that. First is your normal cost. And the normal cost is the cost of accruing
+one years of benefits. So that's approximately 8.34%. So every year that passes, approximately 8% of the
+salary is the value of the service accrued in that year. You'll notice that from the prior year, it has gone down
+a little bit. And that's because you have members with higher benefit multipliers terminating and new
+members being hired who are earning a lower multiplier.
+So next is your amortization component. This is essentially the payment towards that unfunded liability. So
+your plan is only about 50% funded. So there's a payment towards that unfunded liability to help get it to a
+full funding level. That estimate is around 17.3%. You'll notice that this number also went down since the
+prior year, and that was due to those strong asset returns.
+And the last piece is your administration expense. So the cost of accruing service, the cost of administrating
+the plan, and the cost of paying down your liabilities. So all this together is what we call our actuarial
+contribution. So that's about 26% for this plan.
+Now when you compare that to what's being contributed per the collectively bargained agreement, it's about
+23%. So we're short by about 2.25% or so. And this is just a combination of the contribution rates just put
+in the percentage of payroll. That's the 13%, the 5%, and the $6.2 million expressed as a percentage of
+payroll.
+So I mentioned before, we haven't made a lot of, much progress over the past 12 years. And so a part of
+the reason is when we compare the actual contributions towards what was our actuarial contribution versus
+what is actually contributed to the plan, the purple lines represent what was calculated as the actuarial
+contribution and the green lines represent what is actually contributed. And you see that over time, while
+the actual contributions are increasing, they haven't been keeping up with what we've calculated from the
+actuarial perspective.
+For this last line, we haven't filled in that number yet, but we would expect it to be a little bit short. But
+depending on how payroll worked out, it may or may not be higher or lower.
+Next, I want to talk about the public funds survey. Last time I was here, there were some questions about
+how the RTD plan compares to other plans. So just wanted to kind of point out a couple of things. So this
+is the public fund survey that's established by NASRA. And this graph here shows the distribution of funded
+ratios by each of these plans. So RTD being just below 50% is in the nine percentile down here. The majority
+of plans we see in the public sector are between
+60% to 70% to 90% to 100%. So this is where the majority of plans are. So RTD is lagging a little behind
+on that.
+Next, this was-- I believe this was the question specifically that was asked last year is how does the
+contribution amount compare to other plans? And you'll see that 26% is almost right in the middle of the
+pack on this, for what is contributed for a plan. So you're right in this neighborhood here, which is where
+the bulk of people, bulk of the plans are.
+
+And lastly, this is your normal cost. Again, the normal cost is the cost of accruing a benefit in any given
+year. And RTD's in this group.
+So this just gives you a basic summary and the numbers, for those who like to see numbers instead of
+graphs.
+Next, I just want to talk about a couple of things related to COVID-19. And these are just things that may or
+may not happen. And I'm just going to give you an idea of how it impacts the plans. So currently, there was
+some ideas the returns could be potentially lower than expected moving forward. And this would be
+potentially some continued market volatility. Lower returns than expected would put upward pressure on
+the contributions needed. Additionally, if you had smaller than expected population or if you had lower than
+expected payroll growth, there would be upward pressure on that needed contribution as well.
+So in summary, even though the plan has been getting good assets returns over the past couple years,
+they're still going to need additional contribution in order to achieve that full funding goal.
+And with that, I'll open it up to anybody that has any questions.
+PEGGY CATLIN: Thank you very much. Appreciate your presentation. I'd like to open it up to Directors, if
+they have any questions. I see Director Cook has a question.
+SHELLEY COOK: A couple quick ones. You had a slide where you showed the discount rate. And I took
+that to mean that that's the rate we assume the investments will earn over time. So when you lowered it,
+which seemed reasonable to me, that increased our, that decreased our coverage at that point. Is that
+correct, Mr. Wood? Is that what you showed there?
+THOMAS LYLE: Correct. So when we lower the discount rate, it increases the liability to the plan, because
+we're essentially discounting expected benefit payments in the future. So that lowers our funded ratio, when
+you lower the discount rate.
+SHELLEY COOK: Right. That's just verifying what I thought was true.
+You had a slide where you showed the differences between 2019 and 2020. I thought that-- is that 0.23,
+should that be a negative, showing the change from 2019 to 2020?
+THOMAS LYLE: Yeah. So it did go down 0.23, correct.
+SHELLEY COOK: OK. No worries. I don't mean to point it out as an error, just wanted to double check.
+So Doug MacLeod, didn't we have a sort of schedule that Heather would show us about where we'd be
+going forward year after year after year, and we'd finally be on top of it by about 2040-something? Can you
+refresh my memory? Is that still our plan?
+DOUG MACLEOD: Yes, this is Doug MacLeod. So one of the goals that the trustees had set on the
+represented plan was to be at least 70% funded in this plan in 30 years. And I believe that time horizon was
+in the 2040s, mid 2040s is how it projected out. The 70% number was arrived at because 70% or above is
+considered to be in that yellow area, still caution but not obviously as bad as a 50% funded ratio.
+One of the things, though, that I think is important is if you were to look at that projection going forward, is
+that, as Mr. Lyle had pointed out, we have a population of the employees that were hired after a certain
+date that only vest at 1% per year. So that means that after 30 years, they would be entitled to 30% of their
+pay once they retire. The other group who preceded them continues to vest at 2.5%. So after 30 years,
+they would get 75%. Both groups are contributing the same 5% of their payroll.
+So what's happening over time is those older grandfathered employees terminate, the newer employees
+are actually bringing back the health of the plan, to a certain extent. So if you were to look at it over time,
+the funding requirements actually drop down because the benefit payments decrease significantly.
+
+So we kind of have this hump in terms of being underfunded for a period of time and then if we were to
+continue contributing at the rate we're contributing, we'd become overfunded. So what we've tried to do is
+balance those two so that we have a target of getting to a certain percentage funding over time without
+unduly burdening the agency with additional outflows of cash.
+SHELLEY COOK: For what it's worth, I wouldn't mind seeing alternative scenarios for bringing that date
+forward, different contribution rates and the effect of that going forward. So thank you. Thanks, all.
+PEGGY CATLIN: Thank you, Director Cook. I don't see who got their hand up first. But in my order, it looks
+like Director Dishell is next.
+BOBBY DISHELL: Thank you, Madam Chair. And thank you for the great presentation. Really appreciate
+it.
+I'm wondering, maybe I'm just missing this, but what percentage of our employees actually convert from
+non-vested to vested, and how does that impact our modeling, and are we seeing any general trends sort
+of over time of the amount of employees who end up vesting? Is that going up or down?
+THOMAS LYLE: So I would speculate-- and Doug may have more information on that-- that you're seeing
+that number go down. Because that newer group has a 10-year vesting versus a 5-year vesting. So I would
+just speculate that purely based on that alone, you're seeing fewer people over time. However, we are
+going to do an experience study this year, and we can have more information on that for you when next
+time we come.
+PEGGY CATLIN: Does that answer your question, Director Dishell?
+BOBBY DISHELL: Got it. Thanks.
+PEGGY CATLIN: OK.
+BOBBY DISHELL: Well, I mean, the answer is they don't-- we don't have the answer. But we're getting it.
+PEGGY CATLIN: Right.
+PAUL WOOD: A little bit of color to that, if you don't mind.
+PEGGY CATLIN: Sure.
+PAUL WOOD: Paul Wood with GRS. You know, as Doug alluded to, you've got this benefit tier that is 1%.
+And it's significantly lower than the benefit tier for those folks who are already vested or who are in that
+2.5%. So one of the things that we would expect to see when the benefit level is around that point is a fair
+amount of turnover earlier in the career. And so that's something we're going to be keeping an eye on for
+the experience study to see if those termination rates that we're currently using are doing a good job of
+modeling your population.
+So when we do all these projections, we have these rates that are built in there that say, x% of the population
+that has one year of service is going to leave after that year. And then if you survive the second year, then
+there's another percent that's going to leave after that time. And so we develop these tables of rates to
+model that population to get a sense of what that churn is. And we see a lot of that churn usually within the
+first few years of service.
+And in particular, with a plan who's vesting is extended, like this plan, where you've got 10 years vesting,
+we might even see more churn all the way up until that 10-year period, until they reach that point at which
+they are vested in their benefit. And then maybe after that point, the likelihood of them sticking around within
+the plan is a little bit higher.
+
+But that's something that we're going to keep a serious eye on, because that benefit level is going to help
+inform that decision, not only the experience that's played out in the last couple of years but also what do
+we think is going to happen in the future as we have new members coming in accruing that benefit level.
+PEGGY CATLIN: Thank you, Mr. Wood. Director Dishell, did that answer your question? I do have a
+comment to that point, though. And then I'll go to Director Lewis.
+One of the-BOBBY DISHELL: I'm all set. Thanks.
+PEGGY CATLIN: OK. One of the state audit findings was that we have a difficult time retaining new
+operators, represented employees. And this might be another one of those factors where we're not able to
+retain operators for much more than a couple years.
+I would actually be interested to understand what-- and I don't know if it would be too much trouble-- what
+the difference in a 5 year vesting period would be versus 10 year, even if the rate is the same. That was
+something I was familiar with at the state of Colorado. So it was just, rather than waiting the whole 10 years
+to become vested, if there might be some incentive to be vested at a 5-year milestone. Just curious.
+And you don't have to answer that today. And I can talk to Mr. MacLeod about that a little bit later.
+Director Lewis, please.
+SHONTEL LEWIS: Thank you, Madam Chair. I appreciate your question, because I had the same question.
+It's my understanding that non-represented folks are vested in five years. And so I was curious of that exact
+same thing, understanding that represented employees are vested in 10 years.
+I have a question. And I tried to jot it down so that I can ask it succinctly. But I don't know if it's going to
+happen. And so Thomas, I hope you just, you stay with me. You spoke-- I guess I'm curious as to the folks
+that we anticipate will be near retirement age in the next-- I think it said 2040-- but like in the next 10 years,
+20 years, 30 years. And what does that mean like for actual people, in their actual lives, beyond the
+numbers?
+THOMAS LYLE: I'm not exactly sure what you're asking. But as far as what we're looking at from an
+actuarial perspective, there'll be money in the plan, at least based on our projections, there'll be money
+around to pay the benefits. So from a consumer perspective, like the participant in the plan, they're
+concerned about getting their benefit, right, getting paid when they retire. So there's currently $246 million
+in the plan as of January 1, 2020. And there's $490 million in liability.
+But if you look at the benefit flows, the benefits aren't going to draw that down. So when the contribution's
+coming in, and there's going to be plenty of money in the plan. It's just a matter of, well, can we fully fund
+that liability, and how do we get there?
+SHONTEL LEWIS: So there would never be a scenario in which someone who is fully vested would not
+have access to their benefits, based on the projections that you all have presented today.
+THOMAS LYLE: We do not expect the plan to run out of funds based on this current financial situation and
+our assumptions. However, that doesn't mean there isn't a scenario that does exist. So-SHONTEL LEWIS: I'll accept that. Thank you. I appreciate that.
+THOMAS LYLE: Too many actuarial words.
+SHONTEL LEWIS: OK, fair enough. One more question for you. So if the contributions would have been
+made over the years-- OK, let me make sure I'm asking this correctly-- If the contributions would have been
+made over the years, would the fund be fully funded today?
+
+THOMAS LYLE: It's hard to say exactly where the fund would be. However, it's important to say that every
+plan in the public sector experienced these same three major events that we pointed out that impacted this
+plan's funded ratio. Every plan had that drop off in the early 2000s, every plan had felt the Great Recession,
+and there's been downward pressure on the discount rate for all plans across the board.
+But if we look at this slide, we show where all the peer group of RTD is. So you'll see that not many of them
+are fully funded. You only have a handful of them that are over 100% funded. But they're further along
+because they were making those contributions.
+SHONTEL LEWIS: I see. So what would it take to get us into-- oh, you can't see me pointing at my
+computer-THOMAS LYLE: You pointed at something, though.
+SHONTEL LEWIS: I am pointing at something-- to get us into that 60%, 70% range, or 70% to 80% range
+that other agencies might be doing.
+THOMAS LYLE: Well, I think the answer to that is always the same thing, time and money. I don't have a
+contribution amount off the top my head that would answer that question. But essentially it would be
+continued contributions to the plan and a commitment to set that goal and achieve it.
+SHONTEL LEWIS: Got it. But at a higher rate. But you just don't know what that would be. Is that-- am I
+understanding-THOMAS LYLE: Right. I don't have that number off the top of my head to say what does it get to this level.
+But it would be additional contributions for sure.
+SHONTEL LEWIS: Yeah. I would be curious to know what some scenarios might look like for us to get
+closer to being fully funded and not 2040, but maybe a bit sooner. I'd just be curious to know what it would
+take, as one individual Board Director. Thank you, Thomas and Paul, so much for this presentation. I really
+appreciate it.
+THOMAS LYLE: Thank you.
+PEGGY CATLIN: Thank you, Director Lewis. I also see that Director Davidson would like to speak.
+Another thing that occurred to me, I would actually like to see what percentage of our operating costs are
+attributable to these pension funds and what, if any, has been the growth over time in that percentage as it
+relates to operating. I'm just curious about that.
+The other thing I wanted to point out, before I call on Director Davidson, is that this committee meeting is
+not open for public comment, and if you would like to provide a comment to a Director after the meeting or
+send an email to staff, you're welcome to do so. But that I do see one person on the attendee list who has
+his hand up. And we're not taking public comment on this at the time. Thank you.
+OK, Director Davidson.
+ERIK DAVIDSON: Yeah, thank you, Madam Chair. And thank you very much for the presentation here. I
+had two related questions, just historical, and I apologize for backing up here. But did the change in the
+benefit multiplier from 2.%% to 1%, that was 2011, I believe, did that coincide with the vesting change from
+5 to 10 years as well?
+THOMAS LYLE: Yes, that's a part of, I believe, was Amendment 22, the vesting change and the multiplier.
+And then there was a handful of other things that I don't recall off the top of my head.
+ERIK DAVIDSON: OK. Thank you. And then just also just a little more history. At one point-- and Mr.
+MacLeod, you had explained this to me-- we were at a 2% benefit multiplier. We increased to a 2.5%.
+Where did that happen in our chart on packet page 69 there?
+
+PEGGY CATLIN: Mr. MacLeod, go ahead.
+DOUG MACLEOD: Thank you, Madam Chair. So it's, I believe it was right around 2000. I don't know,
+Thomas, we both weren't here, but I believe during that time. So you can see where we start out in 2000,
+we were over 100% funded in this plan. If you were to look back in prior years, it was still at that level.
+So what the thought process was at the time is that the plan is well funded, we can probably offer additional
+benefits. So it was agreed to to increase that multiplier from 2% to 2.5%. And that has obviously contributed
+to some of the shortfalls that we have going forward, because we weren't funding it effectively to match that
+2.5% with the combination of the market returns decreasing.
+A couple things I like to point out is one of the things that you see it to the far right on this slide is that the
+reason why that line is flattened and hasn't continued to decrease, particularly in the years, well, beginning
+in 2013, the collective bargaining agreement required additional contributions. So I believe the ratio used
+to be the employer contributed 8% and the employee contributed 3%. Each successive year, up through
+2018, that increased by a few percentage points each year, until we reached 2018 and we've stayed at that
+level of, excuse me, 13% and 5%. And then we also added in the $6.2 million kicker in 2018.
+What that's accomplished, as Tom had showed in the prior slide, is that the required funding is about 26%
+of wages. And we're funding it at about 23%. So they're very close. There is still some net outflows to pay
+benefits, that difference between the 23% and the 26%. Most of that is being paid through investment
+earnings. So that's allowed the plan to maintain this flat status in spite of the fact that we've had additional
+retirees, et cetera, and other changes throughout.
+So we're encouraged by that fact that we've stopped the bleeding, but there's obviously more work to do in
+terms of getting this funding back in a better position.
+ERIK DAVIDSON: So thank you very much for that. That's extremely helpful. So if I understand, prior to
+adding that kicker in 2018, we were looking at an eventual fund depletion, 30 years out or somewhere
+around there.
+THOMAS LYLE: Yeah, absolutely. I believe it was actually, if you went back and looked at some of those
+projections a couple of years ago, before we instituted this additional funding, I believe it ran out of money
+in 2032.
+ERIK DAVIDSON: OK. Thank you very much. Appreciate that.
+PEGGY CATLIN: Thank you, Director Davidson. Director Broom.
+BOB BROOM: Thank you, Madam Chair. When somebody leaves RTD before they vest, what are they
+paid back?
+THOMAS LYLE: Doug, you're probably best to answer to that question.
+PEGGY CATLIN: Go ahead, Mr. MacLeod.
+DOUG MACLEOD: Thank you, Madam Chair. Yes, Director Broom. So if an employee leaves before they
+fully vest, they're entitled to receive back their 5% contributions plus a small interest earning each year, I
+believe it's 3%. So they get back what they put in plus a little bit of interest. And they can cash that out. I
+believe they have the opportunity to leave that in as well and wait till their retirement eligibility date and take
+those benefits, as long as they're vested.
+So if they work 10 years, leave, they're not 60. I believe it's 60 is the eligible retirement date, maybe 65.
+They could leave their money in the plan and still draw benefits once they reach that retirement age. But if
+they're not vested, they get cashed out with interest.
+
+BOB BROOM: Thank you. You know, it's ironic, but a lot of new employees are more interested in getting
+up front cash in their paychecks, rather than paying more into their pension plans to improve the actuarial
+soundness of the plan or to improve benefits. So you've got a lot of give and take between the membership
+of a pension plan, because the ones closer to retirement obviously have other thoughts about that. Thanks.
+DOUG MACLEOD: Madam Chair, may I?
+PEGGY CATLIN: Yes, please, Mr. MacLeod.
+DOUG MACLEOD: Thank you. One thing else I'd like to just remind the Board of is that all employees for
+RTD, whether they're in the Defined Benefit Pension Plan or just the retirement plans, where RTD
+contributes money, all employees contribute to Social Security. So that is kind of a unique occurrence with
+a governmental agency.
+So for instance, if you're a state employee in PERA, you do not contribute to Social Security but you do
+qualify for the PERA benefits. In our case, not only are we and the employees contributing the 13% and
+5% and $6.2 million towards the benefit, the Defined Benefit Pension Plan, but the employee also must pay
+the, what is it, 6.2% of their wages towards Social Security, and then the employer matches that with 6.2%
+into Social Security as well.
+In the past, with prior General Counsel, we did look into that to see if there were any options perhaps that
+we could discontinue participating in Social Security for those Defined Benefit Pension Plans and take that
+funding and contribute it towards their pension plan. The ruling from our General Counsel was that that was
+not an option.
+So unfortunately, we're contributing-- there's a significant amount of money going towards both plans. But
+I just wanted to point that out.
+BOB BROOM: Yeah, that train left-- that train left the station probably in the early '80s. Because
+municipalities did have the option of being able to drop out of Social Security, and then that was stopped.
+PEGGY CATLIN: So Director Broom, was your question answered?
+BOB BROOM: Yeah. That's all I had. Thank you.
+PEGGY CATLIN: Well, to reiterate what Mr. MacLeod said, if you look at the collective contribution of both
+employees and RTD, it is pretty considerable, especially when you factor in the $6.2 million cash
+contribution. That's why I was interested in the percentage of the overall contribution.
+Are there any other Board members who would like to pose a question or-- Director Broom, did you still
+want to pose a question? I see [INTERPOSING VOICES].
+BOB BROOM: No, I'm finished.
+PEGGY CATLIN: OK. I just saw your hand was raised and I didn't know if that-- OK, any other questions?
+Well, thank you, Mr. Lyons and Mr. MacLeod, we really appreciate it.
+Moving on, our second discussion item is internal audit activities. And our Manager of Internal Audit, Ann
+Marie Isaac-Heslop, will be giving a presentation. But I wanted to point out to Board members that we are
+taking the state audit recommendations very seriously. And one of the things that was pointed out was that
+there wasn't regular interaction with Internal Audit and the Board. And this is our first step at trying to do
+regular updates and status reports and everything, where we are, not only with implementing the state audit
+recommendations, but also just so the Board is aware on a regular basis during this committee what our
+Internal Audit group is doing.
+
+And I'll turn the meeting over to Ann Marie, to Ms. Isaac-Heslop, but I also, at some point, would like to call
+on Vice Chair Erik Davidson, as well as General Manager CEO Debra Johnson to maybe add any
+comments that they would like to add.
+So Ann Marie, the floor is yours. Thank you.
+ANN MARIE ISAAC-HESLOP: So Madam Chair, members of the Board, ladies and gentlemen, this is Ann
+Marie Isaac-Heslop, Manager of Internal Audit. I am going to attempt to share my screen. I tried it earlier,
+so hopefully it'll work. And is it working?
+PEGGY CATLIN: Not quite.
+ANN MARIE ISAAC-HESLOP: There we go, I think.
+PEGGY CATLIN: There you go.
+ANN MARIE ISAAC-HESLOP: Now one kind of thing that I need to figure out is how do I forward to the
+next page of my presentation.
+PEGGY CATLIN: I believe you could probably do an arrow key.
+SHONTEL LEWIS: Yeah.
+ANN MARIE ISAAC-HESLOP: So I'm not really-- oops.
+PEGGY CATLIN: There you go.
+ANN MARIE ISAAC-HESLOP: Oh, OK. So let me start. So I'm doing a brief update on internal audit
+activities. What we're going to touch on today, we're going to touch on the standards, we're going to touch
+in current activities, and then we're going to do next steps. And I know that it's late and this presentation
+isn't-- it's not very long.
+Why are we doing standards? Well, the standards were mentioned, basically, in the state audit, and it was
+also mentioned in the peer review. Now there are two different sets of standards here. One, the first one is
+the International Standards for the Professional Practice of Internal Audit. Now these provide a framework
+for performing and promoting internal audit services and they foster improved organizational processes and
+standards. These standards are from the IIA and they provide mandatory guidance, the internal audit
+definition, and code of ethics.
+The second set of standards that I have is the Information Technology Audit framework. And these are for
+IT audit. Now these address IT audit and assurance roles and responsibilities, ethics, professional and
+personal conduct, and required knowledge and skills. They also define all the IT terms and concepts, and
+they provide guidance and techniques for planning, performing, and reporting on IT audit and assurance
+engagements.
+Now the current activities. The 2020 state audit, completed in January 2021, that fulfilled the requirements
+of the RTD audit every five years by the state. The audit section of the report could be found using the link
+that is in the presentation. There were several recommendations, because it was found that RTD had not
+utilized its internal audit unit to effectively address and respond to organizational risks. It was
+recommended, therefore, that the agency improve the internal audit unit's effectiveness and compliance
+with internal audit standards and also establish procedures and expectations for the unit to be utilized,
+supervised, and evaluated.
+There were recommendations in the state audit, several recommendations on risk assessment,
+independence, Board communication with Internal Audit, audit time frames, internal and external quality
+assessments. And all these were agreed by the Board and with a completion date for implementing the
+recommendations by December, 2021.
+
+Now because of the state audit and in view of improving internal audit, I believe it was General Manager
+Johnson asked for a peer review. And that peer review is being conducted by APTA currently. The
+objectives of the peer review-- and I want to read them out-- are assessing the efficacy of fulfilling the Boardapproved charter goals, compliance with audit standards and practices, division reporting structure
+compared to other agencies, internal audit division functions in comparison to similar agencies, current
+employee knowledge, skills, and abilities and technical knowledge, adequacy of report documents, and
+audit recommendations follow-up practices.
+Now this is currently taking place, and we expect the report from the peer reviewers-- and I have it in like
+weeks, but within the next month, I would say. So currently, what Internal Audit is doing, we are still working
+on the approved 2020 audit plan. We have some audits at the top that we are working on. And we're also
+monitoring, still continuously monitoring cyber security. We have some audits that will come up fairly soon,
+in March, and then another couple that we're working on that would be finalized in May, 2021.
+The next steps, we are-- this is the steps that we are working on. But we will be working on this with basically
+the Board, the General Manager and CEO, and the SLT, for the most part, for all of it, assessing the peer
+review corrective actions and recommendations and implementation. We expect that by quarter 2 of this
+year. We are looking at draft risk assessment and having a final risk assessment, again with collaboration
+from the Board, the General Manager and CEO, and SLT. And we will also develop a risk-based annual
+audit plan for 2021 and 2022, with input from, again, the Board, the General Manager, and SLT.
+And so all through the presentation, we're reiterating what Director Catlin said. We are working together
+with the Board, the General Manager, and SLT in putting some of the recommendations in place and
+eventually improving the activity for Internal Audit.
+With that, I would say I would be happy to answer any questions that anyone would have.
+PEGGY CATLIN: Thank you, Ann Marie. I really appreciate your brief presentation. And I would mention to
+the Board that we will be doing these on a much more regular basis. And we'll have opportunity to
+communicate all of this back and forth.
+And I think I might yield to General Manager CEO Debra Johnson to talk about how this particular activity
+will be iterative and will integrate with the-- just a minute. I got a text message-- will iterate with, or iterate
+and we can discuss how we move forward to develop a really, really robust audit plan. And I am going to
+implore upon all of you, as Directors, that we do need to engage. And as we go through our strategic
+planning process that is planned for later this spring, that we utilize the information that we glean from that
+to really provide meaningful input to Ms. Isaac-Heslop so that we can develop a meaningful audit plan as
+we move forward.
+Ann Marie, would you mind turning on your video, so that we can see you as you respond to some of the
+questions? We appreciate that. Right now, you're just a gray square. OK. Thank you.
+I do see that there are a couple of Directors-ANN MARIE ISAAC-HESLOP: Am I there now?
+PEGGY CATLIN: There you are Thank you.
+ANN MARIE ISAAC-HESLOP: OK.
+PEGGY CATLIN: Thanks for joining us. I appreciate it. I'd first like to-ANN MARIE ISAAC-HESLOP: I forgot.
+PEGGY CATLIN: That's OK. You know what, as we move forward with these more regularly scheduled
+meetings, we'll all become a little bit more comfortable.
+
+I would like CEO GM Debra Johnson to make a few comments, as well as Director Erik Davidson. And then
+I see that Director Broom has his hand up. And I noticed that Director Lewis did as well, but she took it
+down. So let's first go to Ms. Johnson.
+DEBRA JOHNSON: Well, thank you very much, Madam Chair. And thank you, Ms. Isaac-Heslop, for your
+presentation. I appreciate the opportunity to address you all pertaining to our internal auditing functions.
+And just as you heard from the chair of our committee, as it relates to the internal auditing function, I think
+basically this is an opportunity for us to have a jump-off point relative to being more engaged with Ms. IsaacHeslop as it relates to leveraging the opportunity to look at our internal operations and garnering whether
+or not we are capitalizing on efficiencies.
+Recognizing that there were some recommendations set forward by the State auditor, I believe that this is
+in our best interest as we're leveraging the American Public Transportation Association's peer review
+capabilities, leveraging our internal auditing functions. I think this sets us on a trajectory whereby we can
+enhance what we're doing now and, in relationship to the ongoing peer review, be able to garner some
+valuable input that will assist you all collectively on discerning what our path forward is.
+And so with that as a backdrop , having Ms. Isaac-Heslop incorporate into her normal activities and
+incorporating into her normal activities an opportunity for her to come before this committee on a recurring
+basis will better enable all of you to have an understanding of what's happening and then shape things as
+we go forward. So in that regard, I have been meeting with Miss Isaac-Heslop on a more frequent basis, in
+tandem with Director Katelin-- Catlin, excuse me, I apologize-- and Director Davidson. It's late.
+I think we have an opportunity to go forward and make some steps toward capitalizing on what we have
+here. So that's what I wanted to share. And I will yield the floor to the Vice Chair of the committee, Mr.
+Davidson, to put forward any comments that he has. So thank you very much.
+PEGGY CATLIN: Thank you, Ms. Johnson. Director Davidson.
+ERIK DAVIDSON: Thank you, Madam Chair. And thank you for the comments, Ms. Johnson. And thank
+you for the presentation, Ms. Isaac-Heslop. Very much appreciate the opportunity to get this started and
+move through this.
+I do want to point out to the Board, to me, this has become a very serious issue on my mind, just looking at
+this as a Board function. Audit and risk assessment is a Board function. And the 2020 state audit, I would
+really encourage all Board members to really particularly read through pages 58 through 70, which go into
+the internal audit and recommendations. Alarmingly, there's some similarities to the 2010 audit. And I think
+we have some very serious problems in terms of the engagement of this Board on the audit function.
+One of the recommendations-- I won't go through all of these-- that I would call attention to is reporting
+structure. And the audit function, as Ms. Isaac-Heslop has noted for us, needs to be independent and free
+of influence. And while there can be the administrative line into the CEO and General Manager, or potential
+other avenues within an organization, the functional reporting should come into the Board of Directors,
+which is something that has been called out by the audit.
+So I appreciate the opportunity to speak about it, Madam Chair. I just would like to point out to the Board
+the seriousness of this. Obviously, there are some issues that the Board needs to be involved in to be
+looking at where we can be better and optimize as an organization. But there are some things that are
+functions that are owned by a Board of Directors. And this is one of them. This is one of the biggies. And
+we've gone 10 years now from an audit and having another audit that said something similar.
+
+So I look forward to seeing the APTA audit. I just would also like to stress I'd like to work with all of you to
+find a good solution here. And let's make 2021 the year that we solve this problem and get a good function
+going. And again, Ms. Isaac-Heslop, thank you for the presentation. I appreciate it. I know this is a tough
+function, in that there are kind of these different actors. So that's certainly not lost on me. Thank you for
+walking us through that. I'll yield the floor back. Thank you, Madam Chair.
+PEGGY CATLIN: Thank you, Director Davidson. I completely agree with the seriousness of this Board
+responsibility. And I've been trying to beat the drum for about three years. And I think that we finally turned
+the corner and have an opportunity here to really move this responsibility and this obligation of the Board
+forward.
+I know Director Dishell had some questions about the credentials of the peer review team. And they will be
+providing their respective credentials included in their report. But I have every confidence in the capabilities
+of these folks. They are just stellar individuals in the industry. And we, I think we really got a great team,
+and they're working very hard on this.
+And to that point, when we talk about the reporting structure and some of the governance issues, that peer
+review team will be coming up with some options for us to consider. And Director Davidson and I have
+talked about perhaps coming forward with some sort of a resolution that would memorialize that a little bit
+more. But we wanted to wait until we got the recommendations from the APTA peer review committee.
+So I won't dominate this conversation anymore. But I do see Director Cook has her hand up. Director Cook.
+SHELLEY COOK: Yeah. Thank you very much. And mostly I just want to say thanks. And I really appreciate
+the level of attention to detail and seriousness being lent to this by everybody, including General Manager
+Johnson. I think it's really needed and important. And I feel so good about what you're doing. So thank you.
+I did want to hark back to the audit recommendations, which entail, or may entail, a modification to our
+bylaws and/or committee charters. And we committed to doing that by the end of the year. So I just, I know
+you are. But in terms of time frame, I didn't see how that's laid out. I want to make sure we're keeping that
+in mind, to the extent that the findings call for that. Then we'd need to allow enough time to go through that
+process toward the end of the year.
+So thank you. Thank you all very much.
+PEGGY CATLIN: Thank you, Director Cook. That's a good point. Director Dishell.
+BOBBY DISHELL: Thank you so much. I really appreciate it. And after speaking with General Manager and
+CEO Johnson, just learning more about the APTA peer review process, I am-- on a different APTA peer
+review matter-- I am confident as well in the APTA peer review credentials.
+I also really want to emphasize the importance of audit. It's one of the first things we learn in corporate
+compliance at school. It's one of the first things we tell clients in private practice, which is audit need to be
+independent. And I think it is-- I appreciate those who have been beating the drum before I got here. And
+it's past time that we are really serious not only about making sure audit is independent, but also that we
+put some more-- not to try and not mix metaphors here-- but try to ensure compliance with audit
+recommendations and do what we can as a Board to make sure that those get implemented. Because from
+what I heard in the past that there's a lack in implementation, from recommendation to implementation of
+internal audit in the way that that gets rolled out.
+PEGGY CATLIN: Good point. Director Lewis.
+
+SHONTEL LEWIS: Thank you, Madam Chair. I am actually really excited about this renewed energy. I think
+it's going to be great. I really appreciate our General Manager and her leadership, and also the two cochairs in this work.
+I wanted to go back to the comment about our strategic plan. Because I just wanted to level set that. To
+Director Cook's point, we talked about a commitment to the end of the year. But I just want to make sure
+that we're managing our own expectations that we aren't going to be held to a 2021, December 31 deadline,
+but rather that we get it right and we do it the right way and however long that takes. And so just wanted to
+say that, because I think it's important that we keep saying that, as we're building out our strategic plan,
+and we're not binding ourself to arbitrary deadlines that might cause us to not have the best outcomes in
+terms of a strategic plan.
+And then the second, I actually had a question regarding the contracting process. And this one, I have a
+question. Because this recently came up as a concern, and so I was just curious as to what that might entail
+in terms of the contracting process, like what are you looking for in terms of maybe efficiencies or outcomes
+or recommendations?
+PEGGY CATLIN: I'm not sure I quite understand the question. Are you talking about our external contracts
+and how those are audited?
+SHONTEL LEWIS: Well, so on packet page 85, it says, RTD contracting process in progress, final report,
+end of May, 2021. And so I'm just curious as to what that entails.
+PEGGY CATLIN: Miss Marie? Yes. Ms. Isaac-Heslop.
+ANN MARIE ISAAC-HESLOP: OK. So Ann Marie Isaac-Heslop here, Manager of Internal Audit. In the 2020
+audit plan, the overall objective reads as follows. Review for compliance by both parties with the terms of
+the contract, review of invoice approval process.
+So basically, what we are going to be looking at, we're going to be looking at our own internal contracting
+process and the way we adhere to our contracting process, as it is written.
+SHONTEL LEWIS: Got it. Is there-- with any of the current activities, what opportunity will the Board have
+in terms of input?
+Maybe I can connect with you offline. I'm thinking of a specific thing that someone recently brought to me
+as it pertains to contract. But the process of contracting, but I would just be curious as like what, when
+would the Board have any opportunity to provide some input, individual Board members or collectively?
+PEGGY CATLIN: If I might respond. Excuse me, Ms. Isaac-Heslop. That, I would think, Director Lewis, that
+we could, if that was of concern to you, that we could maybe incorporate that into an audit plan going
+forward, if it was of great interest to the rest of the Board. And we don't want to get, as you said, too far
+down the road. So it's our hope that the results of this peer review, which should happen in the next couple
+of months, that we can then incorporate that into our strategic planning process and then develop a very,
+very specific audit plan that prioritizes those audits that would align with the goals of the agency, and then
+along with that, provide necessary resources and budget to achieve that.
+And one of the reasons that the 2021-2022 time frame was put in there was because we're not going to be
+completing these activities probably until later in the summer, which would not give a lot of time to complete
+a substantial number of audits. And so that was kind of why there was a carryover to 2022.
+SHONTEL LEWIS: Sure. Thank you for that clarity, Director Catlin. If I might ask you a follow-up question.
+What would be different as we move forward as a collective in ensuring that we are adhering to, or
+implementing, or executing on, the recommendations that might come from our audit department?
+
+PEGGY CATLIN: Well, I think that as far as Ann Marie Isaac-Heslop indicated, this is an iterative process
+with the SLT and the Board. And so it's not going to be just a one and done, here's our recommendation.
+We're going to have a discussion to make sure that aligns with the strategic priorities.
+I might want to yield to General Manager CEO Debra Johnson, if she wants to add to that a little bit.
+DEBRA JOHNSON: Thank you-[INTERPOSING VOICES]
+PEGGY CATLIN: No, your thoughts about how that all meshes together.
+DEBRA JOHNSON: Yeah. Thank you very much, Madam Chair. And a couple of thoughts. As it relates to
+the question you posed, Director Lewis, there is a myriad of different things that could happen. And what I
+mean by that, recognizing that there needs to be input garnered from the Board relative to what risks are
+associated with this agency, there's a couple of steps that need to be taken, i.e., a risk assessment to
+discern what we should have a laser focus on as we go forward to ensure that we are maximizing the
+efficiencies from the agencies and being good stewards of taxpayer dollars.
+So with that as a backdrop in reference to soliciting that input, there could be one-on-one interviews done
+with each Board member, very analogous to what the peer review is doing. There could be surveys that
+are leveraged as well. And that information could be shared collectively, and then basically get consensus
+among the Board about what those elements should be based upon the aforementioned, i.e., the risk
+assessment and how we came to that and what's a higher risk for the agency as a whole.
+In reference to the senior leadership team, I think if anything, it's basically with me being the General
+Manager CEO having an opportunity to confer with all of you all collectively, looking at what the risks are,
+of course, with input from the senior leadership team. But right now, from my understanding, that was done
+previously. Ms. Isaac-Heslop was doing it independently by getting information, by disseminating emails,
+and there could be something that one individual put forward but it wasn't synthesized in such a way that
+would be of the betterment for the agency as a whole.
+So I think as we go forward, we have to have a methodology, we have to be intentional about what it is that
+we're doing. And getting to the point that Director Lewis raised relative to having strategic priorities, that's
+one thing for certain, doing a risk assessment, if we identify those, as I envision going forward, then we
+could say this falls underneath the auspices of exercising financial accountability or it falls under the
+auspices of improving safety and service quality, if those were things-- and I'm just using this for discussion
+purposes-- relative to what strategic priorities could consist of, and that would be a determining factor to
+help lay out what the plan is that would be adopted by this body. Thank you.
+SHONTEL LEWIS: Thank you so much. I really appreciate that specificity and that level of detail. Thank
+you.
+PEGGY CATLIN: I agree. Did that answer all your questions, Director Lewis? Good. Perfect.
+Director Sloan, you've been very patient.
+MARJORIE SLOAN: Not at all. I really feel privileged to follow CEO GM Debra Johnson. Because I just
+wanted to point out not only is the audit process inextricably missed with strategic planning, it's also part of
+the Board's responsibility to do the evaluation of the General Manager. So this is sort of a coming attractions
+teaser that the Board will also be dealing with the recommendations from the Oversight Committee, and
+the Oversight Committee will be seeking the Board's guidance on the evaluation process.
+PEGGY CATLIN: Thank you for those comments, Director Sloan. Are there any other comments?
+
+Well, I think that we're off to a good start here. And I'm really encouraged that we're embracing this and
+moving forward deliberately with our improvements to our internal auditing function. So thank you, Ms.
+Isaac-Heslop, for your presentation and for the thoughtful comments from Board members, or committee
+members.
+Are there any other matters to bring before this committee? Oh, Director Broom?
+BOB BROOM: Thank you, Madam Chair. I just had a question for Ms. Johnson.
+The new COVID relief bill contains funds for transit. And the question is, is that just a list of earmarks or is
+that money going to be distributed based on former existing formulas?
+DEBRA JOHNSON: Thank you so much, Director Broom. That is a good question. And that's what folks
+have been talking about, waiting to see how it all folds out as it relates to tomorrow. But basically, as it
+shakes out-- and Director Guissinger's smiling, as we've been having conversations around this-- we're not
+too certain. It looks as if, as you know, it's amongst party lines right now. The Democrats are trying to bring
+back the earmarks. So we will soon have an understanding, because you're talking about this latest round
+in reference to the 30.5, correct, sir? Yeah, OK.
+Yeah, we will apprise you once we actually know. Once there is a bill that's signed by the president and we
+have an understanding of what that is, I will ensure that we disseminate information to all of you all,
+recognizing what it will be going forward.
+BOB BROOM: OK. Thank you. That's all I have.
+DEBRA JOHNSON: OK. Thank you, sir.
+PEGGY CATLIN: Thank you. I believe Director Guissinger was next.
+LYNN GUISSINGER: Thank you, Chair Catlin. Very quickly, just wanted to give a quick update on the
+Accountability Committee. They're moving along apace now. And we've had some really interesting
+meetings in the last couple of weeks, especially the subcommittee meetings. The governance
+subcommittee was looking at our partnerships. And people from Denver, from Boulder County, from VIA,
+Lonetree, there are a couple of others that spoke about-- and some of our staff spoke about some of our
+partnerships. Very interesting.
+And all of these are available, if you haven't seen them. I know a number of you do try to attend. But that
+one I think is worth listening to. We might try to-- I would love to try to bring some of those in over time to
+the Communication and Government Relations Committee, start back up where we were bringing outside
+people in for 10 or 15 minutes at the beginning again.
+The Finance Committee took a first shot at Northwest Rail, had an interesting discussion. And there were
+no conclusions. I think they're a long way from-- I mean, we'd love to have them find conclusions, right? But
+they did, several people did say that they like the idea of moving forward with the design work.
+And then the Operations Committee, there was an interesting, I think a very good discussion that Paul
+Hamilton helped with part of, and Kristin Trestman, who is on the Accountability Committee, helped with
+talking about Access-A-Ride and paratransit and some of those services and some of the things that we're
+doing and how we compare with other agencies.
+So I think, although we thought it was happening before and it got bumped, I haven't seen the agendas for
+next week, but I think the Governance Committee is going to be talking about these potential local service
+councils or subregional councils that we sent the draft out on. So just giving you the update, if you have
+questions or comments. Several of you did send comments, so I appreciate it. We haven't gotten to that
+topic yet on the subregional councils. So that's coming up.
+
+And just one other thing that I would highlight is an interesting thing, and again, maybe something we could
+bring somebody in on in the future. The Regional Air Quality Control Council, Regional Air Quality Council- I got those confused. This morning, Erik and I, and I think several others were in the Commuting Solutions
+meeting. And they are finalizing, in the next few months, near future, few months, an employee trip reduction
+program, or traffic reduction program, that's going to be working with large employers, either over 250 over
+100, requiring, as I understand it, plans for their employees to reduce trips, which I think seems like it offers
+a lot of opportunity potentially for us. And I'm looking forward to hopefully finding out more about that. Maybe
+we'll be able to bring someone in.
+That's all I have. Thanks.
+PEGGY CATLIN: Thank you, Director Guissinger. I believe that Director Tisdale was next.
+DOUG TISDALE: Thank you very much, Madam Chair. Appreciate that. I just wanted to respond further to
+Director Broom's comment regarding the $30.5 billion that is in the current legislation for transportation.
+Understand, that is $30.5 billion that is to be spread out over three years. That was the request that we
+made through APTA to Congress relative to that, with about $11.5 billion being targeted for 2021 and the
+balance to be spread out over the next two years.
+The intent, and the current language in that bill, is for a formulaic distribution as the CRRSA (Coronavirus
+Response and Relief Supplemental Appropriation Act) funds were distributed. So the same formula that
+applied there that the FTA is responsible for administering. We've been in Zoom conferences for the last
+number of days with members of the Transit Board Member Legislative Committee, which I chair, and then
+our lobbyists at APTA, to explain all this and to make sure that we're getting it out right.
+But that's the current statement of where it stands, although I haven't seen whatever last minute
+amendments might have been thrown into it. Thank you.
+PEGGY CATLIN: Thank you, Director Tisdale. We appreciate your involvement in that effort.
+Director Lewis.
+SHONTEL LEWIS: Thank you, Madam Chair. I actually just had a question to Director Guissinger about
+the Accountability Committee, specifically regarding the input for some of the recommendations that might
+come out of the Accountability Committee. And I think this is probably more of a process question, but I'm
+curious as to how the input that you receive from other Directors, I guess you and Director Whitmore, is
+used as you all go back and have conversations with the folks as representatives of the Board for the
+Accountability Committee?
+LYNN GUISSINGER: You know, thank you for the question, Director Lewis. And it really depends on the
+issue. General Manager Johnson is attending all of these meetings and is doing a lot of the updates and
+responses. And I think in particular on that issue that you gave us some feedback, which I appreciate, the
+subregional forums, I know that-- and she can speak too, but she's got some thoughts-- I've got some
+thoughts. I did have a conversation with Director Dishell, who sent some feedback. And I intend to follow
+up with you and Director Cook, who both gave me comments. I was kind of waiting to see when it's going
+to get scheduled, and we will follow up.
+PEGGY CATLIN: Does that answer your question, Director Lewis?
+SHONTEL LEWIS: Slightly. I guess I'm just curious of what the feedback loops are, like what is it, when
+Directors give feedback or input, how is that taken to the Accountability Committee for consideration? And
+also, how is that communicated to other Board members as well?
+
+LYNN GUISSINGER: Well, there's been very little of that in terms of something written up. This is one of
+the few times that we've gotten some feedback. And it's not, we're not giving them individual Directors'
+feedback. I think it's been more of a conversation that we've been having.
+And so I don't have a set approach, but it does go into our conversations. I've had several conversations
+with Ms. Johnson about the local councils or the subregional forums. Why don't we-- I'm happy to talk to
+you about the specific feedback, if you want. Like I say, there's just, it's sort of a process of getting good
+ideas and seeing how they seem to fit with where we're going with the agency with Ms. Johnson.
+PEGGY CATLIN: Does that answer your question, Director Lewis?
+SHONTEL LEWIS: Yeah. I think that makes sense in terms of next steps. I guess I'm thinking about us
+potentially taking a position as a Board collectively and just thinking, and wanting to know what the process
+is for actually taking back feedback to the Accountability Committee to ensure that what is being presented
+is indeed representative of the collection of the Board. So yeah. But we can chat offline. Thank you, Chair.
+PEGGY CATLIN: And I would encourage other Board members, if they have feedback as well, if they
+participate or participated or listened in on those committee meetings and subcommittee meetings, if they
+have comments to provide to Directors Guissinger and Whitmore, please do so.
+I see Director Williams. Were you finished, Director Lewis? OK. Take your hand down.
+KATE WILLIAMS: I just want to point out in terms of this discussion-- and I've pointed it out before-- that
+when it comes to subregional councils, there are already seven local coordinating councils whose specific
+purpose is to deal with transit. They have been around for years. And a lot of them have some great ground
+rules.
+There are also about the same number of transit management associations, TMAs. The TMAs are projects
+of DRCOG and the LCCs, local coordinating councils, that are projects of CDOT. It seems to me that it
+would be a shame to have a third set of local councils.
+And the only other comment I would have on that is I wonder if there's been any discussion about having
+those councils sorted the same way our districts are sorted. That's all. Thank you.
+PEGGY CATLIN: Thank you, Director Williams.
+Director Rosenthal.
+PAUL ROSENTHAL: Thank you, Madam Chair. So I noticed in today's Denver Gazette an article about
+how RTD is going to be coordinating its FlexRide with Metro Taxi, and wondering what would that do
+financially. Is this a net positive? Is this an expense for RTD? Is this a wash financially for RTD?
+PEGGY CATLIN: General Manager CEO Johnson, do you have a response to that, or is that something
+we should get back to the Board with?
+DEBRA JOHNSON: Well, I think we could answer in a general sense. I think if anything, it optimizes our
+service delivery options as it relates to capitalizing on efficiencies from a financial standpoint. But I will let
+Michael Ford speak to that more specifically, as he and his team have been working on this endeavor to
+bring it to fruition. It had been in play prior to me coming to the organization. So Mr. Ford?
+MICHAEL FORD: Yes. Thank you. It's Michael Ford, COO. We're looking at opportunities where we can
+deliver service more efficiently and at less cost. And these are one of the examples that we've rendered as
+a pilot program to determine that. In terms of the total cost and everything else, I'll need to get back to you
+on.
+But again, we launched a couple of different pilot programs with the goal to make sure that the service is
+efficient as possible, that we change the trajectory of how we deliver the service, and we also do it at a
+
+lower cost, while continuing with the quality of service. To get back to you on your specific point, I can follow
+up on the cost implications. I just don't have that in front of me right now.
+PAUL ROSENTHAL: Thank you, Mr. Ford. And I happen to think this is a wonderful idea. And I look forward
+to hopefully the program being a success and to expanding it, particularly, I believe, on some of our major
+routes, major bus routes particularly. And so thank you very much and look forward to the information.
+Good job to the team-MICHAEL FORD: No problem. Thanks
+PAUL ROSENTHAL: --for putting this together.
+PEGGY CATLIN: Thank you, Director Rosenthal.
+Are there any other matters to come before the Board-- for this committee? I don't see any other hands
+raised.
+Our next meeting date is April 13, 2021. And this committee will be adjourned at 9:18 PM. Thank you all
+and good evening.
+DOUG TISDALE: Thank you and good evening.
+ERIK DAVIDSON: Thank you.
+
+

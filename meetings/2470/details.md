@@ -1,0 +1,135 @@
+## I. Planning and Development Committee
+
+Chaired by Bill James
+
+### A. Call to Order
+
+Committee Chair James called the meeting to order at 6:30 p.m.
+
+Director Anderson participated via phone.  Director Sisk arrived late and Director Lasater left early.  Directors Deadwyler and Folska were absent.
+
+Staff Present :                Rolf Asphaug, Shirley Bennett, Heather Copp, Ignacio Correa-Ortiz, Sherry Ellebracht, Terry Emmons, David Genova, Cory Granrud, Sherman Hamilton, Erin Klaas, Russ Larson, Adrian Mabry, Doug MacLeod, Barbara McManus, Ray McNamara, Thomas Papadinoff, Mace Pemberton, Michael Peters, Scott Reed, Henry Stopplecamp, John Tarbert, Bill Van Meter, Jyotsna Vishwakarma, Michael Washington.
+
+Others Present:                Jenifer Brandeberry, Mike Dino, Jill Marcy, Julie McKenna, Joe Triplett, Gary Van Dorn, Megan Wagner
+
+#### 1. Pass Program Working Group
+
+It is recommended by the Planning and Development Committee that the Board of Directors approves and adopts the Pass Program Working Group objective, commitments and guiding principles.
+
+Motion:              Director Lasater made the motion to move this item to the full Board at the May 31, 2016 Board Meeting.
+
+Chair Tobiassen seconded the motion.
+
+Discussion:              Bill Van Meter, Assistant General Manager of Planning, said he had Michael Washington, Title VI Manager, with him this evening.  He explained that the purpose of this recommendation was to set the Pass Program Working Group’s objective, commitments and guiding principles.  He stated this is a spate discussion from those that staff has been having with Mile High Connects and the Affordable Fare Task Force.  The Pass Program Working Group (Working Group) will be focused on RTD’s existing pass programs.  He indicated the dialog with the Affordable Fare Task force has continued and staff will be briefing the Board on that status in the near future.
+
+Michael Washington reviewed a Power Point presentation with the Board that is available in the May 10, 2016 Planning and Development Committee Agenda Packet.  He reminded the Board that the Working Group came at the request of the Board when the EcoPass pricing changes were made in September of 2015.  He stated the objective of the Working Group is to improve RTD’s pass programs to better serve customers of the District.  To achieve this objective, the Working Group will fulfill the following commitments: (1) revisit and refine goals for each individual pass program, (2) refine pricing and administration of each pass program, and (3) recommend pass program policy revisions to the Board of Directors.
+
+Michael Washington outlined the Guiding Principles for the Working Group as follows:
+
+- Cost Effective Administration
+
+- Equitable Access
+
+- Improve Customer Convenience
+
+- Increase Ridership
+
+- Meet Strategic Budget Plan Revenue Targets
+
+- Promote Greater Brand Loyalty
+
+- Provide RTD Revenue Certainty
+
+- Simplify Passenger-Operator Interaction
+
+Michael Washington indicated after the Board approval of the objective, commitments and guiding principles, staff hopes to begin Working Group interviews over the summer with initiation of Stakeholder Meetings in the fall.
+
+Director Lubow noted that she thinks it is great that the Working Group is being created.  She remembered seeing that this evaluation would be a fairly long process as we acquire data from Smart Cards and asked if that was accurate.  Michael Washington stated the Working Group would begin meeting in the fall and continue throughout 2017.
+
+Director Lubow stressed the importance of Title VI and equity issues.  She stated it is extremely important to make sure everyone is treated fairly.  She hopes people from the Affordable Fares Task Force and low income community will be incorporated into this Working Group.
+
+Director Bagley recognized that the purpose of this discussion is not a focus on specific pass programs, but as he is receiving many questions, he wonders about the availability of the Neighborhood and Community EcoPass programs in other locations besides Boulder.  It is his understanding that these programs are only available in Boulder.  Michael Washington stated that was not correct.  Currently the apartment complex near the University Station participates in the Neighborhood EcoPass Program.  He said additionally, there were more communities participating but have since dropped out; however, staff has also heard concern about being eligible to participate in those programs so it is something the Working Group will address.  Director Bagley believes it needs to be more robustly available because 99.9% of the program is focused on Boulder.
+
+Committee Chair James asked if it was a correct statement that the Working Group will be comprehensive enough to visit the EcoPasses and their functionality, cost effectiveness, etc.  Michael Washington said that was absolutely correct.
+
+Director Menten noted that some time ago she suggested putting stickers on light rail vehicles informing riders that they need to tap their Smart Cards.  She wondered if anything further had been done with that idea as people are not tapping like they should.  She stated without taps RTD does not have accurate ridership data.  Michael Washington said one of the things the Working Group would be looking at was fare enforcement.  General Manager Genova explained that staff’s collective thought is that we need to work on methods to get people to tap before they get to the train.  If riders see the stickers as they are boarding the train they are not going to go back to tap.  Director Menten believes it is still an inexpensive way to remind riders to tap.
+
+Director Menten asked how many trains have automatic passenger counters (APC).  General Manager Genova indicated 40 out of 172 trains currently have APC.
+
+Director Menten asked for more details about what was meant by promoting greater brand loyalty as a guiding principle.  Michael Washington explained that many of the pass programs afford riders some savings if they use the pass at a higher frequency.  He believes it is important for the passengers to see this benefit and hopefully become more loyal to RTD.
+
+Director Francone said she was pleased to see this review of the pass programs.  She commented that RTD can have the greatest pass program in the world, but if no one knows about it, it is not going to be very effective.  She would like to see a concerted marketing and public information effort to ensure people know about these programs.
+
+Director Francone stated she would be looking for real ridership data when it came to evaluation of the pass program pricing.  She shared that she has received comments from several universities who were considering offering the CollegePasses for the summer but were very disappointed to learn we did not have ridership data.  She acknowledged there is an issue with data collection but thinks it is key for the Working Group to move forward.
+
+Chair Tobiassen asked staff how they plan to ensure a diverse composition for the Working Group so the stakeholders are not all from Boulder.  He wondered how they will reach riders that are not currently represented through the EcoPass programs such as those along the Colfax corridor.  Michael Washington stated that staff would be looking for a diverse geographic representation as well as a diverse group of existing and potential EcoPass customers.
+
+Chair Tobiassen shared he was recently in Amsterdam and got to ride their public transportation system.  He pointed out that on their system riders need to tap on and tap off.  He said if a rider forgets to tap off 6 times the card is disabled.  He commented that the price of the day pass was pretty good compared to ours.  Michael Washington indicated the Working Group would be looking at different enforcement options and considering the tradeoffs of each to determine if changes need to be made.
+
+Director Hoy pointed out that the EcoPass is predominately focused on large employers.  His understanding is that 80% of the employers in Colorado have around 15 employees.  He does not believe RTD reaches out to small employers.  He wonders if there is any potential for aggregating employers based on industry, business association, etc. to reach companies that could not qualify on their own.  General Manager Genova stated there are employers of all different sizes that participate in the program.
+
+General Manager Genova shared that staff has been having ongoing meetings with various individuals at DIA about making the EcoPass available to all employees.  He noted there are a lot of complexities to this, especially on the airport side.  He said staff has also been approached by Boulder County about doing a county wide EcoPass and wondered how it might be priced.  He noted while that is a short question it is very complicated to come up with an answer and staff is currently analyzing how that might work.  He said the City of Lafayette has asked staff to consider something similar as well as something comparable to the fare buy-up in Longmont.  He stated staff gets many different questions about how pass programs could work in different ways so it is something that needs to be considered moving forward.
+
+Committee Chair James noted that all methodologies are on the table at least for examination.  General Manager Genova stated that was correct if it was an existing pass program.  The Working Group will not be looking at new forms of passes.
+
+Director Walker shared that he has participated in three of the pass programs offered by RTD.  He noted many of the guiding principles focused on the customer; however, in his experience part of the success of the pass programs will fall on the employers to promote them as well.  He has worked for one employer that had very high ridership while another employer did not.  He explained that the employer with high ridership really encouraged participation.
+
+Director Bagley believes any information garnered in considering EcoPasses for Boulder County and the City of Lafayette should also be made available to every county, local government, etc. within the District so they can understand what it would take should they want to do an EcoPass program.  He believes this would be received very well by our jurisdictions.
+
+Director Anderson agreed with Director Bagley that this information should be made available to everyone.  She noted that the City of Arvada is very interested in EcoPasses with the upcoming Gold Line opening.  She wants this to be a fair and open discussion and hopes staff will find a way to be more inclusive of all communities.
+
+Committee Chair James declared the motion PASSED unanimously.
+
+##### a. Pass Program Working Group  P&D Committee (05102016)
+
+#### 1. Regional Air Quality Council (RAQC) Grant Summary
+
+Ignacio Correa-Ortiz, Senior Architect, reviewed a Power Point presentation with the Board that is available in the May 10, 2016 Planning and Development Committee Meeting Agenda Packet.  He shared with the Board that in 2014 RTD was awarded a Regional Air Quality Council (RAQC) Grant for the purchase of Plugin Hybrid-Electric Vehicles (PHEVs) and Electric Vehicle Supply Equipment (EVSE).  Through direction from the Senior Leadership Team a pilot program was created to establish a baseline for EVSE usage at the Central Park Park-n-Ride (Central Park) as well as to incorporate two PHEVs and one EVSE at the Elati Light Rail Facility.  As part of the pilot at Central Park, there would be no changes to the Parking Management Plan, no additional parking fees and no electricity resale.  He said staff hopes to use the pilot program to make recommendations to the Board for future policy approval.
+
+Ignacio Correa-Ortiz noted there were 410,000 PHEVs sold between 2008 and 2015 with the United States representing 33% of the global stock.  He indicated as PHEVs become more popular RTD will see a demand for charging stations at our Park-n-Rides.  The goal of the pilot program is to develop a policy that makes sense for RTD to address this need.
+
+Director Archuleta inquired if there was a universal standard for the plug-in interface.  Ignacio Correa-Ortiz explained there were two types of plugs.  One is called the universal plug and the other type is specific to Tesla vehicles; however, Tesla also includes an adapter that will fit into the universal plug.
+
+Director Francone asked for the amount of the grant.  Ignacio Correa-Ortiz stated it was a little under $30K.
+
+Director Francone wondered why staff did not plan to resell the electricity at the charging stations.  Henry Stopplecamp explained that the projected cost of the electricity was only $2K per year.  Putting in the infrastructure for credit card processing would end up costing more than $2K.  He said after the pilot program staff would determine what it would entail to charge for electricity and how to structure the pricing.
+
+Director Francone inquired as to the number of PHEVs in Colorado.  Ignacio Correa-Ortiz stated he did not have an exact number.  The most prolific state is California, then Oregon, then Washington.  Colorado is very close behind Washington and there are many charging stations currently throughout the district.
+
+Director Lubow expressed that this pilot program was very appealing to her.  She is very glad RTD is involved in trying to help this emerging technology.
+
+Chair Tobiassen noted there are two spots for charging.  He wondered how it was determined who gets to uses the spaces.  Ignacio Correa-Ortiz stated it was on a first-come-first-served basis.  There will be signs indicating that there is a time limit for using the spots of 10 hours.  He said in Los Angeles they have found the average car is plugged in for 4.5 hours.  Chair Tobiassen expressed concern about this policy.  He wonders what someone will do if they have driven to the station expecting to plug-in and it is not available.  He suggested that perhaps in lieu of charging for electricity we charge $45 per month, similar to our other reserved spaces.  Henry Stopplecamp pointed out that would provide charging for just a few individuals within the District.  The goal of the pilot program is to see how the public uses the plug-ins on a wider scale.
+
+Chair Tobiassen wondered what happens if a non-PHEV parks in the spots.  Henry Stopplecamp indicated people would be encouraged not to do that.  Ignacio Correa-Ortiz explained that was one of the reasons the pilot program was implemented.  It is staff’s hope that there will be enough information gathered during the pilot to develop a parking management plan for the charging stations.  Chair Tobiassen commented that he already receives complaints about the reserved parking space program and worries we are just muddying the water more with the charging stations.
+
+Director Sisk wondered how the location for the charging stations was chosen.  He thinks it would make sense to have them where there are the most PHEVs in the District and wonders where that might be.  Henry Stopplecamp explained that the Central Park Park-n-Ride is brand new so it was easy to put in the necessary infrastructure for a low dollar value.  He said it would be very expensive to put in the infrastructure in an existing Park-n-Ride.  Ignacio Correa-Ortiz noted that the Stapleton area is also a bit of a desert for charging stations.
+
+Director Menten wondered if it will be possible to measure how many different, unique vehicles use the charging stations.  Ignacio Correa-Ortiz stated there would be license plate recognition technology that will identify individual users, the length of time parked at the charging station and how much electricity they receive.  Each user has a key fob or card registered to them to be able to get electricity.  Director Menten noted that means there is the opportunity to charge people to use the charging stations.  Ignacio Correa-Ortiz stated that was correct.
+
+Director Hoy expressed concern that it will be hard to begin charging for something that was initially given away.  He wondered how staff plans to deal with users who plug in and then go to work all day.  He does not see any incentive for these users to move their vehicles unless they are charged a per-hour fee.  He said there will be all sorts of problems that will need to be ironed out but this seems like an obvious one.  Ignacio Correa-Ortiz stated Director Hoy has hit the nail on the head and this is one of the reasons staff plans to come up with a recommendation for an hourly charge.  He believes this will be an issue that comes up during the pilot program.  Henry Stopplecamp commented that another goal of the pilot program is to look at the behavior patterns of our patrons.  After the pilot program if staff cannot find solutions to the problems RTD is not out a lot of money and we will have saved money on our own fleet so it is really a win-win.
+
+Chair Tobiassen suggested that, as the program moves forward, staff considers charging stations for electric bikes and scooters.
+
+Director Menten noted the RAQC grant requires a five year duration.  She wondered if that means the pilot program had to continue for five years.  Henry Stopplecamp explained that RTD just needed to use the charging stations for five years but there was no stipulation as to where we had to put them.  If the pilot program is deemed unsuccessful the charging stations could be moved to another RTD facility.
+
+Director Menten asked if the RAQC grant restricted RTD from charging for electricity.  Henry Stopplecamp stated it did not.
+
+Committee Chair James commented that this pilot program suggests PHEVs are the next big thing; however, the National Renewable Energy Laboratory (NREL) is experimenting with hydrogen fuel cells, so perhaps that will be the next big thing.
+
+##### a. Regional Air Quality Council (RAQC) Grant Summary
+
+### D. Other Matters
+
+General Manager Genova shared that Ignacio Correa-Ortiz was just appointed to the Denver Planning Board.  He said he was looking forward to Ignacio’s service in this role.  Committee Chair James congratulated Ignacio on his appointment.
+
+Bill Van Meter reminded the Board that Denver is one of seven finalists for the Smart City Challenge.  The United States Department of Transportation (USDOT) has pledged up to $40 million to help one city define what it means to be a “Smart City” and become the country’s first city to fully integrate innovative technologies such as self-driving cars, connected vehicles and smart sensors, into their transportation network.  He shared that Denver is taking the lead on the project and RTD staff is supporting their efforts.  He indicated RTD would benefit from some of the funds if Denver is successful.  He said applications are due at the end of the month and he expects the USDOT to select the winner in late summer.
+
+Committee Chair James shared that recently the Rocky Mountain Institute had a similar competition with Denver and Austin as finalists.  He does not think Austin looks very good because of a recent voter action causing Uber and Lyft to say they were no longer going to operate there.  He said it is easy to be optimistic about the possibility that Denver will compete very well.
+
+Director Archuleta said he recently attended a meeting in Sunnyside and the commuters were very unhappy that the B-Line would not stop at the Elati Station.  Bill Van Meter explained that the Elati station would be served by much more frequent service from the G-Line.  He stated current models do not show a demand for that connection until the line gets extended further north.
+
+Director Francone thanked Director Menten, Henry Stopplecamp, Terry Emmons and their staff for attending a meeting with Jeffco County Commissioner Rosier about concerns over traffic issues that were created by the W-Line.  She said it was quite clear during the meeting that it was not an RTD issue but appreciated staff’s professionalism.
+
+### F. Adjourn
+
+Committee Chair James adjourned the meeting at 7:39 p.m.

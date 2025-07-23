@@ -1,0 +1,165 @@
+## I. Operations and Customer Service Committee
+
+Chaired by Tom Tobiassen
+
+### A. Call to Order
+
+Committee Chair Tobiassen called the meeting to order at 6:35 p.m.
+
+Director Anderson participated for a portion of the meeting via conference call.  Director Bagley and Deadwyler left early.
+
+Staff Present:               Bruce Abel, Larry Buter, Jessie Carter, Carolyn Conover, Sherry Ellebracht, Heather Ellerbrock, David Genova, Terry Howerter, Austin Jenkins, Erin Klaas, Nadine Lee, Marla Lien, Barbara McManus, Tony McCaulay, Robin McIntosh, Jr., Doug MacLeod, Paula Perdue, Scott Reed, Jannette Scarpino, Dean Shaklee, Cherie Sprague, Errol Stevens, Walt Stringer, John Tarbert, Bill Van Meter, Dennis Yaklich
+
+Others Present:              Celina Benavidez, Terry Bright, Audrey DeBarros – 36 Commuting Solutions, Cecelia Garcia, Doug Gragg,  Elise Jones – Boulder County Commissioner, Andrew Muckle – Mayor of Superior, Joe Triplett, Leslie Thompson, Gary Van Dorn, Stephen Weinstein, Monte Whaley
+
+#### 1. TMD Contract Amendment
+
+It is recommended by the Operations and Customer Services Committee that the Board of Directors authorize the General Manager to approve an amendment to the Transportation Management & Design, Inc. (TMD) Contract 10DO024 to exercise the remaining two option periods and to increase the contract amount by $215,368 from $384,682 to an new Not to Exceed (NTE) total of $600,000. TMD provides service planning by task order over a five year period and the anticipated NTE total dollar amount will exceed the General Manager’s authority of $500,000 in 2014.
+
+Motion:               Chair Sisk made the motion to move this item to the full Board at the January 21, 2014 Board meeting.
+
+Director Folska seconded the motion.
+
+Discussion:               Bruce Abel, Assistant General Manager of Bus Operations, stated that this is really a housekeeping item.  He explained that Transportation Management & Design, Inc. (TMD) is a task order on-call company that supplements RTD’s Service Planning Department during one-time major restructuring.  Bruce Abel noted that RTD has done two Requests for Proposals (RFPs) over the last 10 years and TMD was selected both times.  He explained that normally staff would not exceed the General Manager’s signature authority of 500k but given the number of corridors they will be working on (Gold, I-225 and East) staff wants to be prepared.
+
+Committee Chair Tobiassen asked if TMD does bus planning in conjunction with rail planning.  Bruce Abel stated that they will assist with the reconfiguration of bus service to tie in with our new rail lines.
+
+Committee Chair Tobiassen declared the motion PASSED unanimously.
+
+#### 2. Purchase of up to 59 Buses for US 36 Bus Rapid Transit
+
+It is recommended by the Operations and Customer Service Committee that the RTD Board of Directors authorize the General Manager or his designee, to exercise the option of Contract 12FK002 with Motor Coach Industries (MCI) for the purchase of up to 59, 45-foot heavy duty intercity buses to replace the existing Neoplan intercity coaches at a price not to exceed $35,036,000 and to authorize the use of existing COP proceeds to finance the cost of such acquisition. Funding for 18 vehicles is provided in the 2014 FasTracks capital budget for the US 36 BRT project, and funding for the remaining 41 vehicles will be provided through a budget transfer.
+
+It is further recommended that the Board of Directors authorize transfers of $9.351 million from the articulated bus replacement project and $14.996 million from the transit bus replacement project to cover the cost of the remaining 41 vehicles.  Funding for these projects will be restored in the 2014 Amended Budget.
+
+Motion:              Director Bagley made the motion to move this item to the full Board at the January 21, 2014 Board meeting.
+
+Director Hoy seconded the motion.
+
+Discussion:              Committee Chair Tobiassen recognized that Director Anderson had joined the meeting via conference call for this item.
+
+Chair Sisk recognized Boulder County Commissioner Lacy Jones, Superior Mayor Andrew Muckel, and 36 Commuting Solution Executive Director Audrey DeBarros who came to the meeting in support of this action.  He stated that they have been great in their collaboration with RTD in terms of making efforts to seek common ground.  He thanked them for all their hard work and dedication.  Chair Sisk noted there are some issues remaining that everyone is working through so he will be voting no but advocated for the rest of the Board to overwhelmingly vote yes.
+
+Bruce Abel echoed Chair Sisk’s thanks.  He informed the Board that there have been some very substantive and productive conversations as to how to approach the vehicles.  He stated that staff is recommending authorizing an amendment with Motor Coach Industries (MCI) to acquire 59, 45-foot heavy duty intercity buses to replace the existing Neoplan intercity coaches.  He explained that the strategy behind this is that Bus Rapid Transit (BRT) along the US 36 corridor is both express and all-stop service.  This recommendation comes from extensive analysis of vehicles, surveys with customer, and extensive stakeholder workshops.
+
+Bruce Abel said that staff would also like to move forward with a continuing dialog with the industry to see if vehicles that might not currently be available but are more desirable may come online in the upcoming years.  He explained that if they do then RTD will issue an RFP; staff can then take these MCIs and put them into regional service as part of our continuing replacement schedules.  Bruce Abel stressed that the MCIs are the best match in terms of vehicles that are currently on the market.
+
+Director Folska asked what percentage of this purchase will be funded by Certificates of Participation (COPS).  She also expressed concern about MCIs longevity in light of what happened with DesignLine.  Bruce Abel stated that the entire acquisition will be financed through COPs.  Terry Howerter, Chief Financial Officer, informed the Board that in early 2013 staff took advantage of the low interest rates and borrowed the money for these buses.  Bruce Abel explained that MCI is a very solid company with a long history in bus manufacturing.  He said that due to our history with MCI it is the expectation that they will be around for quite some time.
+
+Director Daly shared with the Board that when we first started discussing BRT he had visions of articulated buses with low-floor and 4 doors.  He noted there was even a tour and ride of a New Flyer bus and he was very disappointed.  He explained that the bus did not have the power to climb the hill to get out of Boulder.  Director Daly said that this is not Bogota or Shanghai; this is foothills country and we need the correct bus for this type of corridor.  He stated this is the correct but for US 36.
+
+Director Lubow stated the she loves the fact that RTD staff has worked so intensely with stakeholders.  She inquired about the status of a response to Boulder City Councilman Macon Cowles regarding the bike capacity.  Nadine Lee stated that a formal response was sent to Sue Prant and forwarded to Mr. Cowles.
+
+Director Lubow said she still has the impression that there is concern that there is a better bus than we are ending up with.  She noted that General Manager Washington told the Board that RTD would be issuing a Request for Information.  She wonders if that could have been issued 8 months ago so RTD would have all the information in time for this purchase.  Dean Shaklee, General Superintendent of Maintenance, stated that there is not a better bus out there at this time; that is something staff is hoping is developed in the future.  He said that staff is in contact with the major manufacturers on a regular basis but they just do not have what we are looking for right now.  Nadine Lee, Project Manager for US 36, commented that we do not want to go with an unproven technology or company; it would take at least 4 years to develop, test, manufacture, etc.  Marla Lien also noted that if we had done that we might be in the same position that we are now with DesignLine.
+
+Director Hoy thanked the stakeholders for coming to the meeting.  He thinks is shows a great deal of interest on their part.  He noted that RTD and the stakeholders have been working on this a long time with a tremendous amount of ongoing dialog.  Director Hoy stated that he does not get a lot of input from his constituents on very many things but in the last week he has had many constituents encouraging him to move forward with this action.  He said for that reason he is voting yes but does want staff to continue to explore the possibilities.
+
+Director Bagley stated that BRT is not like a street car, it is not like a light rail and it is not like commuter rail.  BRT has to be related to the application.  He noted that US 36 is a specialized location and that is the number one factor when determining the vehicle choice.
+
+Director Daly noted that the reason for loss of space for bikes is due to the new wheelchair lift.  He believes the disabled community is very happy with these new lifts as they are much sturdier and put the passenger right in the bus.
+
+Director Folska wondered if we could increase the bike capacity at the front of the bus.   She also wondered about the availability of B-Cycles.  Dean Shaklee stated that we are limited to two in the front; there are manufacturers that do three but they do not meet FTA standards so MCI will not put them on their buses.  Nadine Lee stated that the B-Cycle program is available in Denver and Boulder but not necessarily at every stop.
+
+Director Hoy commented that the buses that are being discussed this evening are the same buses in the corridor now; this bus does not hold fewer bikes than the present day buses we are buying.  He does not think the bike capacity affects the Board’s decision tonight.  He also noted that he’s been along the corridor many times with 36 commuting solutions and he does not believe anyone has been left behind because there was not room for their bike.  He thinks that the drivers and the bikers get along great.
+
+Director Anderson said she will be voting in favor of this action.  She complimented the staff and stakeholders for all their hard working in getting to this point.  She noted how important it is for the Board to approve this action so RTD can have an opening day with a complete bus fleet.
+
+#### 3. Contract Amendment, Central Parking, Contract No. 13-DO-002
+
+It is recommended by the Operations and Customer Services Committee that the Board of Directors authorize the General Manager to amend the existing contract with Central Parking to include the West Line parking facilities in the contract, to extend the term of the contract through December 31, 2018, to change termination provisions, to modify financial arrangements, to agree that RTD has an obligation to reimburse Central Parking for unrecovered expenses at the end of the contract term, and to provide for upgrade to smart pay stations and stationary cameras at selected facilities.
+
+Motion:               Director Folska made the motion to move this item to the full Board at the January 21, 2014 Board meeting.
+
+Director Sisk seconded the motion.
+
+Discussion:              Errol Stevens, Manager of Parking Management, reviewed a Power Point presentation with the Board that is available in the January 14, 2014 Operations and Customer Service Committee Agenda Packet.
+
+Director Daly asked what stations would be added for the West Line.  He commented that he rides the corridor frequently and he does not see many of the parking facilities anywhere near capacity.  He believes adding the West Line may be premature.  Director Daly does not believe these facilities should be added until the parking is full.  He also does not believe that many out-of-district people are riding the West Line so RTD will not see a lot of revenue from adding it.  Errol Stevens said it would be Federal-Decatur, Sheridan, Wadsworth, Oak and the Federal Center.  He said that on the West Line out-of-district usage has actually been much higher than expected.  Errol Stevens said that in the five years RTD has done this program there has not been an issue where there was a significant impact on ridership except with Pine Junction.
+
+Director Lasater stated that there is a great deal of confusion as to who needs to pay and for what days.  He believes the signs need to be clear to eliminate this confusion.  He wants staff to work to make the signage better so things run more smoothly.  Errol Stevens said that there is room for improvement and staff will be working with marketing on this.
+
+Director James requested to speak with Errol Stevens offline to get more information about where the $7.69 per space per year amount comes from; however, he noted that it does seem like staff is working to improve the program.
+
+Director Folska asked how much Central Parking collects a year and how much is remitted to RTD.  She recommended that RTD’s parking staff read three books: Signs, The High Cost of Free Parking, and Sustainable Transportation.  She stated that she supports charging for parking but she believes it needs to happen in a more thoughtful, seamless, integrated approach.  Director Folska requested that the issue of parking fees be looked at in conjunction with the Fare Task Force.  Robin McIntosh, Senior Manager of Facilities, state that currently RTD does not receive any funds from Central Parking; RTD’s surplus is being used to accelerate paying off equipment and start-up costs.  Bruce Abel stated that staff would look at parking during the Fare Task Force.
+
+Director Rivera-Malpiede asked if there was any way that when a person put in their license plate number the machine could tell them if they were in- or out-of-district.  Dave Genova, Assistant General Manager of Planning, said that while the machine may not tell them on the screen, it will be connected to a database that will determine this and then calculate their parking accordingly.
+
+Chair Sisk stated that he could not agree more with Director Lasater’s statement.  He shared that he has heard many complaints that RTD is heavy handed in debt collection.   Chair Sisk wondered why RTD was worrying about allowing Central Parking to recover past operating deficiencies.  Errol Stevens stated that these deficiencies came early in the program while all the details were still being worked out.  He explained that RTD never intended for Central Parking to lose money so staff thought this was fair.  Additionally, this is tied to reduction of operating expenses and risk management so it benefits RTD as well.
+
+Director Hoy noted that the single biggest source of complaints he hears are related to parking.  He said in his personal experience Central Parking is terrible at answering phones but efficient in giving tickets.  He hopes RTD can work with them on the various issues related to customer service to make this an even better program.
+
+Committee Chair Tobiassen declared the motion PASSED.
+
+##### a. January 2014 Bd Update 2
+
+#### 1. May 2014 Service Plan
+
+No action required, for information only.
+
+Bruce Abel reminded the Board that this is just an update so they are informed about what will be presented for public comment.  The Board will be asked to approve the changes at a later date.  He turned it over to Jessie Carter, Manager of Service Planning and Scheduling, to answer any questions.  Jessie Carter stated that the changes were outlined in the January 14, 2014 Operations and Customer Service Committee Agenda Packet.
+
+Director Bagley asked for the patronage on the trips that were being cancelled late in the evening, Monday through Thursday, on the D-Line.  Jessie Carter stated that the highest trip they had seen was 61 people.  Bruce Abel explained that one of the driving factors behind cancelling some late night and early morning trips Monday through Thursday has to do with expanding our timeframe for Maintenance-of-Way activities.
+
+Director Menten shared with the Board that she has been receiving petitions with no way possible to contact the petitioners.  She wondered if other Directors had been receiving this and if anyone had success in contacting the people.  Jessie Carter stated that staff had spoken with the originator of the petition but not the others.  He is not sure if some of the petitioners also participated in our public hearing related to Denver Union Station.  He noted that due to feedback received at the public hearing staff has made changes to reduce bus traffic on 18th as staff felt the public had a valid point.
+
+Director Folska asked how many signatures a petition needs for RTD to take action.  Jessie Carter stated that it is not related to the number of signatures but the subject of the petition.  It is more important if they petitioners have a valid point than a lot of signatures.  Marla Lien stated that there is no regulatory process that applies to petitions.  It is up to staff and the Board to decide if it has merit.
+
+Director James reminded everyone that with the Free Metro Ride we were forced to cutback service due to budget.  He wonders if there is a dollar amount associated with that cutback and if it really was cost effective.  Jessie Carter stated that it saved RTD have to purchase one vehicle for peak hour service.  He explained that additionally, if you look at 6 hours of service at the local rate cost it would be about 50k annualized that RTD was saving.  Jessie Carter noted that there would be more to learn though once it was in service.
+
+Director Daly asked why the 15L was being rerouted to have the Federal-Decatur station as its terminus.  Jessie Carter said this is the change he referenced was made due to the public hearing comments related to 18th Street.  This changes reduces the number of buses going down 18th by 30%.
+
+Committee Chair Tobiassen expressed concern that the changes to the 15L could lead to overcrowding as this is one of the busiest routes RTD has.  He also asked for confirmation that we are not reducing early morning service on the H-Line.  Jessie Carter stated that this will really bring new customers who would likely be riding only in the new service area so that is not a concern.  He said that we are reducing service around 1:00 a.m. but not around 4:30-5:00 a.m. on the H-Line.
+
+##### a. May 2014 Service Change Attachment A
+
+##### b. Map r15L Attachment B
+
+##### c. Map r16 Attachment C
+
+##### d. MetroRide Map_Vert Attachment D
+
+##### e. UnionStation Map-Close UpV2 Attachment E
+
+##### f. May14_Late_Night_Service Attachment F
+
+#### 2. Access-a-Ride 3rd Quarter Performance Report
+
+Bruce Abel stated that the Access-a-Ride 3rd Quarter Report was included in the January 14, 2014 Operations and Customer Service Committee Agenda Packet.  He asked if there were any questions.
+
+Director Folska asked for an update on Global Transportation.  She wondered if RTD ever issued a statement regarding the owner’s guilty plea to charges of failing to properly withhold taxes for employees.  Bruce Abel stated that Global’s contract with RTD’s expired on December 31, 2013.  It was extended through March 31 to allow time to transition to our two contractors moving forward.  He said that RTD is working to transition Global’s workers to our other providers.  Bruce Abel stated that the guilty plea was not a surprise for RTD as we participated in the investigation as the Board was advised several months ago.  Scott Reed said that RTD has not issued a statement because the issue has passed.
+
+Committee Chair Tobiassen thanked the entire Access-a-Ride staff.  He stated that he gets very few complaints and the few he gets are addressed by the staff right away.
+
+##### a. AAR Qrtly Board Statistics Qtr 3 2013
+
+##### b. RouteMatch Metrics QTR 3 2013
+
+##### c. Monitoring Report 3rd Qtr 2013 rev 2014-01-07
+
+##### d. Complaint Summary AaR - 3rd Qtr 2013
+
+##### e. Complaint Summary AaC - 3rd Qtr 2013
+
+#### 3. Fare Task Force Update - No Backup
+
+Bruce Abel provided the Board with a handout outlining the objectives, process and desired accomplishments that is available in the January 14, 2014 Operations and Customer Service Committee Agenda Packet.
+
+Director Folska expressed that she is so glad staff is looking at this.  She believes the simplification and clarification will be very helpful.  She reiterated her hope that the Task Force will also include parking in the mix.  She stressed that it is very important for fares and parking to be complimentary.
+
+Director Rivera-Malpiede stated that she wants to make sure we address the entire fare process for the working poor.  She has been hearing that people on the end of the West Line are unable to use it to get Downtown because it is too expensive.
+
+#### 1. Fare Task Force Update
+
+##### a. Fare Task Force Summary
+
+### D. Other Matters
+
+Director Rivera-Malpiede encouraged everyone to go to a new website, mywaytogo.org.  This is a website that was launched by DRCOG and the TMAs.  She said it is really amazing and they are trying to bring awareness to it.
+
+Director Menten stated that she has received several phone calls from people who applied to the Customer Panel but have not yet heard if they were selected.  She asked for an update on that process.  Scott Reed said he would look into it.
+
+Committee Chair Tobiassen noted that this was probably his last time as the Operations and Customer Service Committee Chair.  He thanked Bruce Abel for his support.  He said it had been a great pleasure working with the entire team.
+
+### F. Adjourn
+
+Committee Chair Tobiassen adjourned the meeting at 8:20 p.m.

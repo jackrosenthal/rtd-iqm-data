@@ -1,0 +1,182 @@
+Summary of the Operations/Customer Service Committee meeting held on November 13, 2008
+Page 1 of 4
+
+Regional Transportation District
+Memorandum
+To:
+
+All Board Members
+
+From:
+
+Caitlin Magee, Board Office Assistant
+
+Date:
+
+November 14, 2008
+
+Subject:
+
+Summary of the Operations/Customer Service Committee Meeting held on
+November 13, 2008 in Rooms R, T and D
+****
+
+Board
+Members Present:
+
+Board
+Members Absent:
+
+Chair Bruce Daly, Vice-Chair Barbara Yamrick, Noel Busck, Bill Elfenbein,
+Lee Kemp, Daryl Kinton, Chris Martinez, Bill McMullen, Wally Pulliam,
+Dave Ruchman, John Tayer
+Barbara Brohl, Juanita Chacon, William Christopher, Neill Quinlan
+
+Staff Present:
+
+Cal Marsella, Bruce Abel, Larry Buter, Rick Clarke, Carolyn Conover, Ron
+Dodsworth, David Genova, Gary Googins, Terry Howerter, Caitlin
+Magee, Brian Matthews, Robert Merriman, Paula Perdue, Todd Nikkel,
+Teresa Sedmak, Cal Shankster, John Tarbert, Scott Reed, Phil
+Washington
+
+Others Present:
+
+Bruce Behnke (Veolia), Caleb Buter, Jeff Leib (The Denver Post), Kevin
+Flynn (Rocky Mountain News), Tom Coogan (Route Match), Tim Quinn
+(Route Match), Don Robinett (Route Match)
+
+Call to Order:
+
+I.
+
+****
+Chair Daly called the meeting to order at 5:31 pm.
+
+Presentation of Award - John Tarbert presented an award from Homeland Security to
+the District for their support during the Democratic National Convention.
+
+II. Recommended Action
+
+
+Fare Adjustments for Special Services – Bruce Abel, Assistant General
+Manager, Customer and Contracted Services introduced this item and
+explained that this action is in keeping with the FTA’s charter regulations.
+It is recommended by the Operations/Customer Services Committee that RTD’s
+fare structure for Special Services (RockiesRide, BroncosRIde, BuffRide, CU/CSU
+Football games at Invesco Field and Race for the Cure) and for all seniorRide
+
+Summary of the Operations/Customer Service Committee meeting held on October 14,
+2008
+Page 2 of 4
+services be adjusted as indicated in Attachment A in order to be consistent with
+the January 2009 fare structure and to remain in compliance with the Federal
+Transit Administration regulations regarding the provision of charter services. It
+is also recommended that all future Special Services fares be linked to the RTD
+fare structure so that in all future fare changes, all Special Services fares will be
+changed to reflect the comparable fixed route fares for similar services.
+Motion:
+
+Director Pulliam made the motion to
+forward this item to the November
+18, 2008 Board Meeting agenda.
+
+Second:
+
+Director Busck seconded the
+motion.
+
+Vote On
+Motion:
+
+III.
+
+The motion passed unanimously.
+
+ADA – Route Match Update – Bruce Abel spoke to this item. A Route match update
+was distributed to the Committee. Complaints have returned to the pre-transition level.
+Call service is operating better than before implementation. Dispatch is matching preperformance implementation but the District would like to improve this. Productivity is
+being sustained at 1.4 passengers per hour which is an improvement of 4.7%.
+Tom Coogan and Don Robinett from RouteMatch gave a demonstration of the AVL
+system that showed how the vehicles can be tracked, how long they stopped, and when
+they arrived at their stops. The view from the dispatcher’s point of view was displayed
+as well as the mobile data terminals themselves. Once this is implemented fleet wide,
+dispatchers will have lots of information to help with productivity and performance.
+Director Martinez asked about the type of complaints that are being received. Bruce
+Abel said the majority of the complaints are regarding late vehicles. With the new
+technology, dispatch will be able to tell precisely where the vehicle is. Director Martinez
+also wanted to know if the District lost passengers during implementation. Mr. Abel
+responded that the District is trying to find this data.
+Cal Marsella asked the Route Match team if there was a way for the system to flag
+dispatch if a trip is outside the window so that the District does not have to wait for a
+complaint to come in from the passenger. The mobile data terminals will allow dispatch
+to work more proactively then reactively.
+Director Kemp commented that he was pleased with the increase in productivity.
+There was a discussion about the tools and management information available using this
+system.
+
+Summary of the Operations/Customer Service Committee meeting held on October 14,
+2008
+Page 3 of 4
+Director Yamrick had several questions regarding the Route Match system and
+comparisons of ADA service from four years ago to present day. Bruce Abel said he
+would write up a response to her questions.
+IV.
+
+Group 20 Evaluation Criteria – Bruce Abel spoke to the item. Staff is looking for the
+Committee’s concurrence with the RFP evaluation criteria as listed in the memo that
+was distributed in the Friday packet.
+Mr. Abel mentioned that Director Chacon had asked about why there was no DBE/SBE
+goal in the evaluative criteria. All contracts are reviewed by the DBE/SBE office and
+they did not feel there were enough opportunities for DBE/SBE subcontracting for this
+type of contract.
+Director Ruchman wanted to know what other peer agencies do in terms of evaluative
+criteria for these types of contracts.
+Director McMullen had further questions on the DBE/SBE contracting and State
+legislation and he wanted a response from staff.
+Director Daly had a question about the evaluation criteria of 40% titled Understanding
+Approach and Organization and the “Appropriateness of labor distribution among
+activities.” Bruce Abel clarified that this is the business plan and covers assigning the
+right number of drivers, mechanics, and supervisors.
+
+V.
+
+Update on VMS System on Southeast Light Rail – Rick Clarke gave this update. The
+overall SCADA system is working very well and the only element that is not working is
+the Public Address variable message signs (PAVMS). The ad hoc part of the system
+that gives emergency information messages is working well. PAVMS was working well
+through the summer in terms of getting the right train but the timing was not working
+right. A full QA test was done in September 2008. The contractor passed the test and
+a letter was sent to the contractor asking for some corrections at six stations. One was
+the Louisiana/Pearl station where the system was consistently off and that has been
+corrected. The other five stations are all downtown stations. The issue here is with the
+timing of traffic lights that can delay the train. The District has asked the vendor to
+change the software to just announce the train instead of announcing the train and time.
+The system will not be turned on until everything is complete. The other part of the
+VMS is the parking lot management. Rick Clarke felt that they were close to being
+ready on this part of the system.
+Director McMullen asked about alternating voices, one voice for trains going North and
+one voice going for South. He also asked if the sign and voice were supposed to be in
+synch and he hasn’t seen that yet. Rick Clarke said it is supposed to work that way and
+if it is not working that way, it is a fault.
+
+Summary of the Operations/Customer Service Committee meeting held on October 14,
+2008
+Page 4 of 4
+Director Yamrick wanted to know if the District had paid any more money on this
+system and Mr. Clarke responded that the District is still withholding $5 million on this
+contract and has not spent any additional money.
+VI.
+
+Other Matters – There were no other matters discussed.
+
+VII.
+
+Next Meeting Date - This next meeting of the Operations/Customer Service
+Committee will be December 9, 2008
+
+VIII.
+
+Adjournment - Hearing no objection, Chair Daly adjourned the meeting at 7:09 p.m.
+
+

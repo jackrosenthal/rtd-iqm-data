@@ -1,0 +1,858 @@
+2021-08-25
+GM Oversight and Performance Management
+VINCE BUZEK: --everyone here. OK. Thanks, everybody, for being here. My camera's not working. So you
+won't see me but you'll be hearing me.
+I'm going to call to order the Wednesday, August 25, 2021 meeting of the GM Oversight and Performance
+Management Committee. I'll take the roll quickly. Buzek is here. Vice Chair Sloan? I see you, but I didn't
+hear you. So I'll take it as a yes. Director Lewis? Director Catlin.
+PEGGY CATLIN: Here.
+VINCE BUZEK: Director Dishell.
+BOBBY DISHELL: Here.
+VINCE BUZEK: Chair Rivera-Malpiede.
+ANGIE RIVERA-MALPIEDE: Here.
+VINCE BUZEK: Director Bouquet.
+JULIEN BOUQUET: Present.
+VINCE BUZEK: So we've got all present, with the exception of Directors Lewis and Dishell. If they pop in,
+someone let me know who is present.
+OK, let's start our agenda. I'm sorry?
+BOBBY DISHELL: --Buzek, I'm here.
+VINCE BUZEK: Oh, Director Dishell.
+BARBARA MCMANUS: Director Dishell is here.
+VINCE BUZEK: Thanks. OK.
+PAUL ROSENTHAL: Rosenthal is on the line too.
+VINCE BUZEK: Oh, I'm sorry, Paul. You're right.
+
+PAUL ROSENTHAL: It's all good.
+VINCE BUZEK: [INAUDIBLE] also here. Any other Directors that I'm missing.
+SHELLEY COOK: Shelley Cook is here.
+VINCE BUZEK: Yeah. OK. Saw you there. Thank you, Shelley.
+OK. So let's just get the ball rolling. I'm going to turn it over to Mr. Aesch and his team to talk about the rest
+of the agenda, which has to do with the net promoter score survey question, the sampling process, the GM
+survey validation plan, compensation analysis overview. So Mr. Aesch, do you want to-DEBRA JOHNSON: So Director Buzek, if I may indulge and actually introduce the item in such a way with
+the additional people, sir.
+VINCE BUZEK: Thanks, General Manager Johnson. Please go right ahead.
+DEBRA JOHNSON: Thank you so much, Mr. Chair.
+So basically for all that is simple, Debra Johnson, General Manager and CEO. This afternoon we have
+TransPro that are with us. And basically, in recognizing that we have an adopted strategic plan, of which
+you took action on August 10, some of the preliminary elements in ensuring that this plan comes to fruition
+in the sense that we can effectuate it boils down to establishing baseline understanding of where we stand
+as it relates to our strategic priorities, primarily as we look at our community value and additionally as relates
+to customer excellence.
+Some time ago, during the course of having a conversation with this body assembled here today, we had
+a conversation that ensued relative to ascertaining how will that come to fruition. In the course of moving
+forward, we collectively acted on a recommendation put forward by members of the General Manager
+Oversight in the sense of basically garnering an understanding of how we get there.
+One thing that's important to note, I have talked about ad nauseum in addition with the Chair, where we
+talk about the importance of going to where the people are. And that came to fruition during the course of
+leveraging a discussion of our Road to Recovery back in May during the course of actually talking about
+being empathetic to our customer pain points. So with that, the TransPro team, which is headed up by Marc
+Aesch, but specifically we'll be hearing from Chris Browning and Jason Pearl, who have been working in
+tandem with our market research staff. And we have Palmo O'Neil that's present to orient you about the
+process that is mainstream relative to seeing how we stack up to other entities from a customer service
+vantage point.
+In turn, while we do have demarcated on this agenda that there would be a GM survey validation plan, this
+was all incorporated in the presentation, which they will put forth, that's customarily when you leverage
+something of this caliber using a third party going forward to do the engagements that intercepts as I
+
+proscribed a few moments ago. So with that, I thank you for your attention. And now I will yield the floor to
+Mr. Aesch to formally introduced his team members, who are quite capable in this area of market research.
+Thank you very kindly for the opportunity to introduce.
+MARK AESCH: Thank you kindly, Madam CEO. And I'll just add three quick points. So it's very much a yes
+and, so beautifully set up. As part of the strategic plan, which the Board recently adopted at the CEO's
+recommendation, there were four outcomes by which you are evaluating the performance of the
+organization. We're here today to talk about two of them, customer satisfaction and community value.
+The second point that I would highlight to the Board as you're listening to the presentation is the process
+that we utilize with clients nationally is distincting between customer service, which are the inputs that the
+management team employs to drive the outcome of customer satisfaction. So the presentation you're going
+to see today is how we measure customer satisfaction.
+And it really is the third point that I would make is how you empower your customers to pick and prioritize
+the elements of service that are the most important to them to drive their satisfaction level, that higher net
+promoter score by which you're evaluating your CEO. The Board thinks about the net promoter score,
+whereas the customers are empowered to identify which elements of service drive that experience for them.
+So with that, let me turn to Christopher Browning from our team, who actually leads this work nationally
+with other agencies and how you'll be able to use the results specific to RTD, both to evaluate your CEO
+but also to be able to compare, [AUDIO OUT] I guess the industry as a whole.
+Christopher.
+CHRISTOPHER BROWNING: Thanks, Mark. Mr. Chairman and committee members, thank you so much
+for the opportunity to be with you today. You all can see my screen, correct? Just want to confirm that
+before I move forward.
+DEBRA JOHNSON: We can. Can I suggest you put it in slide show mode, please?
+CHRISTOPHER BROWNING: Yes, ma'am.
+DEBRA JOHNSON: Thank you.
+CHRISTOPHER BROWNING: All right. Well, as Mark said, I'm Christopher Browning. I'm with TransPro.
+I'm a principal with the firm and I've led numerous projects around the country around customer satisfaction
+and community value. And our role today here is to walk through this process with you all as we've
+established in a national capacity and how we can bring the same thinking to the Denver community as
+well.
+
+As I said, we've conducted this work around the country in communities such as Austin, Charlotte, Las
+Vegas, Tampa, and others, in a way that really helps us understand what is the baseline for these
+communities and then how can we improve in a consistent methodology.
+And today I'm going to walk through these areas as you see on the screen. I'll walk through a little bit of
+context and background that both Madam CEO and General Manager and Mark alluded to. I'll talk about
+the process that we use, the instrument design, the sampling methodology, so how we come to survey the
+number of people that we do, the analysis and recommendations after the survey is completed, and then
+ultimately, the overall project timeline.
+So as we've already heard this morning, or this afternoon, the Board adopted, unanimously adopted a
+strategic plan on August 10. Two of those areas of highest importance, the strategic priorities, are
+community value and customer excellence. So as we think about how do we measure that, your CEO began
+a process to implement information systems to identify how we're going to measure those outcomes. So
+as the Board is focused on that outcome level, what's the most important thing in these four areas, the
+outcome that the Board seeks to see, understand, is how is the management team going to actually deliver
+that.
+In this case, two information systems that are put in place are for these two surveys, the customer survey,
+the customer experience survey, and the community value survey. Ultimately, where both of these will lead
+in this current edition is to establish the baseline. So as we think about both the performance of the agency
+and measuring the performance of your General Manager and establishing the baseline today so that a
+year from now we have something to compare it to.
+There's kind of a four-step process that we use as part of our survey tool. We develop an instrument, and
+that is a industry standard instrument that we use so that we can compare your agency to others around
+the country. We use sampling methodology and survey execution in a way that's independent and make
+sure that it's statistically valid so that there are a clear understanding of what's available and what the
+impressions of the community and the customers are true.
+Third, as we think about the results and analysis component-- so again, we take the results and what are
+the industry, how do you all compare to other industry transit agencies, what does that look like? And then
+lastly, taking the results, the industry benchmarks, and what are some clear actionable recommendations
+that the management team could think about and incorporate into the operations to drive change and
+increase the outcomes that the Board seeks to have.
+So I'll move into the first piece of the process, and that's the instrument design. I'm going to narrate this in
+a two-piece capacity. I'll start with the customer excellence survey on each of these sections and follow up
+with the community values survey.
+Excuse me. In this particular case, the instrument is consistent with other agencies so that we can
+benchmark RTD's performance and impressions against others in the transit agency. We've also worked
+
+with your market research team to make sure that we're focused on the right questions here so that there
+is consistency with previous surveys that have been done on the customer side. We capture key
+demographic information as we think about our population and make sure that we have a multilingual
+approach to ensure that all of our customers are able to participate in the survey.
+One of the most important components, as you all have identified in your strategic plan, is an outcome
+around the net promoter score. The net promoter score, founded about 50 years ago, was created by the
+Harvard Business Schools to really measure loyalty in service industries. So what is the ultimate loyalty
+question? It is, how likely are you to recommend using RTD services to a friend or neighbor? And there's a
+calculation behind that. We ask the question on a scale of 0 to 10, how likely are you to recommend using
+RTD services to a friend or neighbor? Anyone who answers a 9 or a 10, as you can see on the right hand
+side, is a promoter. They're people that are very loyal and are willing to recommend.
+In the middle, you have your passive, customers that may say, maybe, maybe not. And then you have on
+the left hand side from 0 to 6, you have your detractors. And those customers are against the service. We
+calculate the score, the net promoter score, from the percent promoters minus the percent detractors. And
+that gives us our NPS score. And that score can range from anywhere from a negative 100 to a positive
+100.
+There are agencies that excel at this. You think about the Costcos, the Disneys, the Apples of the world,
+who just have a powerful NPS score in the 70s to 80s. On the flip side, you have organizations that have
+terrible NPS scores, net promoter scores, such as internet service providers or banks, again, those that
+have a disloyal customer base. And in the middle, for reference, the industry simple average for transit
+agencies is 34%.
+Mr. Chairman, I see a hand up. I just want to make sure that I'm responsive. Would you like me to take
+questions throughout or would you like me to continue through?
+VINCE BUZEK: Yeah, let's take them throughout. I think it might help if there's a question on this, so they
+won't forget the question. So Director Catlin, go ahead.
+PEGGY CATLIN: Thank you, Mr. Chair. Yeah, Christopher, I just am curious why the range of detractors is
+so big, the range of positive, or whatever, it's just the previous slice, the promoters is small, and then that,
+the neutral, or the passives, is rather small. I just was wondering why the detractors is such a broad range.
+And I'm not an expert at all in this, but my instincts would tell me that you would have more passives in that
+middle range and then have maybe three or four in the detractors. I just was curious how that plays out.
+And then the second part of my question is, you have percent of promoters minus percent of detractors.
+Are those weighted? So for example, if you have a lot of zeros, does that weigh more heavily than if you
+have 4s or 5s? Thank you.
+
+CHRISTOPHER BROWNING: Mr. Chairman, if I may. Director Catlin, to your first question, this is an
+industry standard. We didn't create it. Harvard Business School did. So the reason, my understanding is
+that there is a heavier weight on those that are against your service and that takes away the bias from
+potentially overweighting on the positive side. So it weights against you just a little bit, but it makes sure
+that the customer really is passionate and is loyal to your service. So that's why those passives and
+promoters are such a small component of that.
+And to your second question, the scoring is not weighted. So a detractor who indicates a 0 is the same
+weight as a detractor who indicates a 6.
+PEGGY CATLIN: If I might, just to follow up to that, I fill out these surveys for other industries regularly. And
+when I fill them out, if I do something on the 4, 5, or 6 range, that means I'm relatively passive, in my mind.
+And that's just why I asked the question. So I'd really be interested to see some of the logic behind that, I
+guess. I'm not doubting it. And I appreciate that you're using the industry standard. I'm just really kind of
+curious how that Harvard study came about with those numbers, so-- Thank you.
+MARK AESCH: There's a terrific book on the topic, which people like me enjoy. There's a book called The
+Ultimate Question. And to the point, and I would want to be clear for the Board's benefit that this isn't unique
+to transit, this is for service industries. So Ritz Carlton uses this, restaurants. It was built at Harvard back in
+the '60s. But there's a great book-- I was actually looking on my bookshelf to see if I had it here-- called The
+Ultimate Question, built by the Harvard team that, written by the Harvard team that designed this. And so
+again, not unique to transit and certainly not ours, but it's the model that is used for service industries
+globally.
+PEGGY CATLIN: Thanks, Mark. I wrote that down. That's helpful.
+MARK AESCH: Yup. The Ultimate Question.
+VINCE BUZEK: Does that answer your question, Director Catlin?
+PEGGY CATLIN: It sure does. Thank you.
+VINCE BUZEK: You bet. Director Dishell.
+BOBBY DISHELL: Thank you, Mr. Chair. This question may be more appropriate for General Manager
+Johnson. But if I recall our sort of Board conversations correctly, the concerns that we had for the market
+research team were sort of two-fold, that there were concerns about methodology, which, Christopher, it
+sounds like you grasped. But there were also concerns that I, and, it sounds like, others had about our
+ability or inability to get a sizable sample, statistically balanced sample, and to get people to actually answer
+those questions. Is that included in your guys' scope? Or Ms. Johnson, is there-- how are we addressing
+sort of the full--
+
+DEBRA JOHNSON: Yes. Thank you very much. Mr. Chair, if I may?
+VINCE BUZEK: Go right ahead.
+DEBRA JOHNSON: So Director Dishell, upcoming in the presentation we will speak to that. We are going
+to ensure that we do a sampling that is reflective of our ridership. It may take some time. And we have
+strategies that we will employ. One thing that I will speak, having worked at other transit agencies, we did
+leverage multitude of different ways so we can ensure that we are getting the accurate voice as we look at
+going about this. And I don't want to take any of Christopher's thunder. But as I said before, we're going to
+go to where the people are. So we will frame it around that. And if, in fact, Christopher gets to that slide and
+your question isn't answered, I'll be more than happy to delve deeper in.
+So with that, I will yield the floor back to Christopher, if there are no more questions. Thank you, sir.
+CHRISTOPHER BROWNING: Thank you, Ms. Johnson.
+So now I would like to turn our attention to the Community Value Survey. So it follows the same pattern,
+where we want to understand the perception of the value that RTD brings to the community in a number of
+different areas. So what's the perception there? And as you think about that, we want to make sure we're
+talking to the investors of RTD, the entire community. It's not just the people who ride. It's not just the people
+who don't ride. So we want to make sure that we're delivering measurable value to the entire RTD
+community and service area. And so we do that using this survey. Again, we capture key demographic
+information and we ensure that it is accessible to multilingual populations as well.
+One of the ways that we ensure, on the Community Survey, because it is such a large population area, we
+want to make sure that we're talking to-- since we're focused on customers in the Customer Satisfaction
+Survey, the Customer Experience Survey, on the vehicles, when we do the Community Survey, we will talk
+to everyone, but we also want to make sure we're capturing those who are both aware of the RTD system
+and the public transportation service, as well as those that, whether they use the service or do not. And that
+allows us to understand that, for those that are aware of the service but do not use the service will have
+one set of answers, and those that have an awareness and do use the system have another set of answers.
+And we're able to look at those in tandem. And that, again, is something for the management team to use
+as it thinks about how it wants to reach the community and really display and deliver the message of the
+community's value.
+So ultimately, as we think about both the Customer Excellence Survey and the Community Value Survey,
+we start with core questions facilitating industry-wide benchmarking, so again, allows us to compare RTD
+to both itself as well as other transit agencies around the country. The instrument is informed by the strategic
+plan and the scorecards that were created as a part of that process by the management team. And
+ultimately, the findings will allow us from multiple survey waves to drive improvement and change on the
+operational side to deliver greater value and greater level of success around the outcomes.
+
+I'll move on. I'd like to move on next to the sampling methodology, the second part of this process. And the
+way that we define a sample is it's a standard practice about how to draw conclusions from a broader
+population. And the Customer Excellence Survey and the Community Value Survey are similar in nature.
+They each have their own distinct populations. So the distinct population for the Customer Excellence
+Survey is the ridership, everyone who is a customer of the service. On the Community Value Side, it is
+everyone within the service area. So it's making sure that we understand who the population is. And then
+we gather a subset of that population. So we use a statistically valid sample size of that population. And I'll
+talk about each one of those in just a minute.
+Focusing on the fixed route and rail customer experience surveys. How we've executed this nationally and
+the model that we'll use here for RTD is, one, we weight the survey based on how your customers use the
+service from a both day and time perspective. So as we think about who the customers are, where they're
+riding, and when they're riding, that's what we use to define our survey methodology.
+Second, we talk to customers on the vehicles. So whether we're on the bus, on the fixture outside, or on a
+rail car, on the other side of a train, we get on the vehicle. Our surveyors get on the vehicle to talk to those
+customers. We use a third party survey team. So TransPro oversees all of the modes of survey, but we
+have other people going on. So there's a separation even between TransPro and who's collecting the
+surveys to ensure that independent data collection.
+Thirdly, we intercept every fourth customer. So we get on the vehicles, we intercept a customer, and our
+surveyors talk to every fourth customer to prevent bias. So that means that if the fourth person to get on
+the vehicle chooses not to take the survey, we wait for the next fourth person to enter the vehicle before
+we ask them to participate in the survey. And that really allows us to have the understanding that this is
+free of bias and there's clarity around how we're sampling.
+One of the things that we've talked about as a part of this process is establishing baselines. And in staying
+in the customer experience survey realm, your CEO asked us to also conduct a baseline for the paratransit
+system, in addition to the fixed and rail. So this one looks about the same. It's a very similar survey. Because
+the agency knows who All of the paratransit customers are, we use your data, we use your customer list,
+and we randomize that list and do the same thing, where we reach out to the customer, we call the customer
+to make sure, and we talk to either the customer or the personal care assistant to ensure that statistical
+validity as well.
+For paratransit that, specifically due to the population, we do administer these surveys over the phone
+during service periods on weekdays, so that they know, they can be aware of that the surveys are coming.
+DEBRA JOHNSON: Christopher, if I may. Mr. Chair, Director Sloan has her hand raised.
+VINCE BUZEK: Thanks. I appreciate that. Vice Chair Sloan, do you have question?
+
+MARJORIE SLOAN: I do. Thank you, Mr. Chair. My question is, I understand you can get the sample size,
+but do you also randomize the bus routes? Because it seems like the easy way to do the survey would be
+to reach the sample size by just stay on Colfax, Broadway, Alameda. So how do you get to other parts of
+town and make sure you're getting different types of riders?
+CHRISTOPHER BROWNING: That's a great question. Mr. Chairman, if I may.
+Director Sloan, we use the ridership of the system to help us identify where we need to be surveying. So if
+most of your-- if 3% of your ridership comes on a particular route, that's where we're going to do about 3%
+of the surveys. So it's based on where your customers are. And that allows us to make sure we're not-- with
+the TransPro team and the leadership team, we're not picking and choosing where we want to survey,
+where we don't want to survey. We let the data tell us where we need to be surveying, to make sure that
+we're reaching the entire service area, a sample of the entire service area.
+MARK AESCH: It's important to note, I'll add to Christopher's comment, so we do, in a statistically valid
+way, allocate surveys by routes. We also do it by day parts. So we will equal a certain percentage of
+interviews in morning rush and evening rush, tied to the percentage of customers during that time, as well
+as mid part of the days as well. So all of those are tied to a system, of which we don't get to have an opinion
+around, the data decides how many surveys we need in each place.
+MARJORIE SLOAN: Great answers. Thank you very much.
+VINCE BUZEK: Does that take care of everything for you, Vice Chair Sloan?
+MARJORIE SLOAN: It does. Thank you.
+VINCE BUZEK: And thanks for that question. Very good question.
+CHRISTOPHER BROWNING: Moving to the sampling methodology for the Community Value Survey. We
+use a third-party call center of the total population and we weight the data based on the gender and age to
+represent the community demographics. So we use the independent study, the American Community
+Survey of 2019 five-year estimates for the Denver area. And we used the sample size population to reweight that data. So that way, you have a better understanding of what the entire population believes.
+So again, on the Community Value Survey side, it's all focused on-- we use an independent, nationally
+recognized third-party call center. And they reach out to community members, so that, again, this is a
+random sampling. We make sure we define the service area or the population area correctly. And then they
+reach out to the customer- or to the community member, excuse me, to the investor, and then they're
+offered the survey at that point.
+We do have a quality assurance process in place both for the Customer Excellence Surveys and the
+Community Value Survey, to make sure that we have valid results. We also have systems in place that
+
+allow us to really make sure that we disqualify any incomplete or unacceptable responses. And when I say
+unacceptable, I don't mean, what we want the answer to be. I mean that if there are things such as straight
+lining, a customer has, or a community surveyor has gone all the way down on a particular answer, generally
+we will weed those out.
+Additionally, another example is unrealistic completion time. So if we estimate the survey to be six to eight
+minutes, if it only takes two, we're going to look a lot more closely at that survey to ensure its validity and
+go from there. So we do have a quality assurance process in place.
+Once we've done the sampling and the execution, so we've actually gone on the buses, on the vehicles,
+we've called the paratransit customers, and our third-party call center has conducted the survey with the
+community, we get to the results and recommendations. So here-- and after we made sure that we have
+that quality data-- we move to the final step, where we provide actionable results to the management team
+to make those operational improvements. We look at existing trends. We identify what was most important
+to the customers and the community separately, based on each survey. And we start to show where can
+the agency move forward, where can it increase its NPS score, or its customer satisfaction or community
+value, compared to what the customer or the community respectively found most important.
+And so as we think about establishing the benchmarks in this initial survey, how do we begin to think about
+making improvements to increase those outcomes. So as the Board is focused on those outcomes that
+you've identified in the strategic plan, what is the management team going to focus on operationally to make
+changes to positively impact those outcomes in the strategic plan that the Board is so passionate about.
+What I'd like to do on the next several slides is show you an example of another agency. So these are not
+RTD numbers. It's not RTD data. But it's really an example for you all to see what you as a Board and the
+management team will see as a result of this.
+VINCE BUZEK: Christopher, we're going to stop you here real quick. I just want to ask if there's any
+questions so far up to this part of the presentation. No hands raised. Thanks. Go right ahead. I'm sorry for
+the interruption.
+CHRISTOPHER BROWNING: No. Thank you, Mr. Chairman.
+So this is the NPS. And as you can see here, this particular agency, which is a real agency, they had
+particularly high promoters. Their customers are passionate about their service. They love it. And you can
+see they have relatively few detractors. That results in, quite honestly, an industry leading net promoter
+score of 53%. And you can see that's compared to the sampled average of 34%. This is the slide that you
+as Board members will focus on. So as you think about what's most important for you all to keep track of,
+this is it. This is one of the slides that is most important for you to be keenly aware of and keenly focused
+on.
+
+The management team will focused on the next several slides. In this particular agency, the customers
+identified-- we ask the customers to rank their most important elements of service. What are your top three
+elements of service? This particular agency focused on-- the customers identified frequency, hours of
+operation, and travel time as the most important factors, the most important elements of service.
+And you'll see this on the next slide, but as we think about what's going to drive the NPS, what's going to
+drive that net promoter score up, it's going to be focusing on what's on the left side of the screen. If the
+management team is focused on the trip planning tools and making sure that they're offering detour
+notifications real time, that's great, that's good. But it's not going to move the needle. Because the
+customers have said clearly, far and away, the three most important things for this management team to
+focus on are the frequency, the hours of operation, and the travel time. So it really allows the opportunity
+for the management team, and ultimately, the Board, to say, the customer says this is the most important
+thing, let's focus on this to increase our net promoter score, our customer satisfaction, and our community
+value.
+VINCE BUZEK: Christopher, I'd like to have you pause there. Director Dishell, do you have a question,
+please?
+BOBBY DISHELL: Yeah. And this more of a probably ask for your anecdotal advice, and maybe Ms.
+Johnson has answers as well. But those three in particular, more so frequency and hours of operation, cost
+real dollars. You can't solve to reorganize your way, I don't think, to more hours of operation without more
+money, or more frequency without more money. Maybe you can with shifting operators and recruiting and
+retaining operators. It's all interrelated. But I ask that to say, so it's these three things. OK, the budget reality
+is we can't. We do not have enough operators to increase frequency or increase hours of operation. How
+do we continue to move forward, as opposed to just, what is the next step, knowing that there's real
+budgetary constraints here?
+DEBRA JOHNSON: So if I may, Mr. Chairman?
+So Director Dishell, from my past experience, what I would offer up, we see what the top important factors
+are. And basically, when we look to manage our service delivery model, we basically utilize the opinions,
+perception, and attitudes of the respondents to help make informed decisions. So recognizing you called
+out some elements, there could be some factors we do that could be cost saving, right. So from my
+experience at a different property, there's travel time. We could interline some routes in certain areas that
+may not have the requisite number of boardings per revenue hour.
+So there's a lot of different things creatively that could be done relative to delving a little deeper in
+relationship to what's happening. And to the point that Christopher has raised, there is different waves as
+we go forward. So hours of operation, what does that really mean in reference to what it is we're putting
+forward? There could be follow-ons and there could be other techniques that we leverage. In past
+experiences, I did mystery customer rides in reference to garnering a better perspective of what we could
+be doing through the eyes of a third party who's giving direction or information directly to me and the
+
+management team about their experiences. So everything isn't cut and dry in reference to being black or
+white. They're shades of gray when you look at these different factors holistically.
+BOBBY DISHELL: Got it. Thank you.
+DEBRA JOHNSON: You're welcome.
+VINCE BUZEK: Thanks.
+[INTERPOSING VOICES]
+Go ahead.
+CHRISTOPHER BROWNING: And Mr. Chairman, if I may, the only thing I would add to that is these are
+examples of an agency. For RTD, the answers could be on-time performance, bus cleanliness, and safety,
+right? So some items are certainly easier to implement change on from a management team and a decisionmaking perspective and not just a monetary, route service changes. Some things are. So I just want to
+make sure I made that clear, that there are some distinctions based on the different agencies of where the
+customers identify the priority.
+MARK AESCH: I think it'll be fascinating, to Director Dishell's comment, there's one community, a large
+community where we've worked for a number of years, and the number two metric that drives their customer
+satisfaction-- it's unwavering, it hasn't moved in five years-- is the fare price. And it's the only community
+that we see fare price being one of the top elements of customer satisfaction. And what that tells the Board
+and the management team is fares just have to be off the table as they think about how to handle their
+financial position because it's such a critical driver of customer satisfaction.
+So this will tell us, once we establish the first several waves, and how we shouldn't lock in on what the first
+wave tells us. But after we have several waves of data, we'll have a clear understanding of what are the
+most important elements to drive customer satisfaction uniquely to your customer.
+VINCE BUZEK: Thanks, Mark. And Director Cook, before I go to you, I have a quick question.
+So obviously, some of the things that scored lower in the middle, safety on the bus and bus cleanliness,
+are important factors. How do you tell whether the score is low because people don't care or the score is
+low because the buses are clean and safe?
+CHRISTOPHER BROWNING: Director Buzek, that's a great question. So what we're not showing as a part
+of in this example are the results of the customer's actual satisfaction with these areas. So in this case, bus
+cleanliness over the last year and a half or so, almost every agency has been hyper focused, hyperaware
+on ensuring that buses are clean and safe, largely around bus cleanliness. And so I don't know the numbers
+off the top-- for this agency, they might have extremely high marks in customer satisfaction, or excuse me,
+around bus cleanliness.
+
+So as you think about what's most important, it could be that those areas are scored lower, as well as it just
+may not be an issue. So in this case, trip planning tools, they might have a system in place that works and
+it doesn't, it's just not going to move the needle on what the management team needs to do to make
+improvements there. It's where the priority of the customer. They say, these are the three things that are
+most important to us. If you want us to like your service more and be more willing to recommend it, then
+these are the things we want to see you make improvements on.
+MARK AESCH: One more piece to add to that, Mr. Chair, which I think will specifically speak to your point,
+is when you begin to look at the cross tabs here-- we didn't take you to this level of depth for this
+presentation-- but as you look at the cross tabs, clearly someone ranked bus cleanliness as one of the most
+important parts of their experience. Clearly, someone rated trip planning tools in regards to this. We'll be
+able to see their level of satisfaction, their net promoter score, with those topics that they specifically ranked
+as important to them.
+This just takes everyone in a statistically valid way to be able to drive satisfaction of all of your customers.
+But you're able to pull these apart and look at cross tabs for each of these.
+VINCE BUZEK: Got it. So the underlying data is going to give us more insight as to why we have these
+scores. OK.
+Director Cook, you're up.
+SHELLEY COOK: Thanks, everybody. And I'm running around bagging veggies. So forgive me for not
+being present all the time. But a quick question that kind of pulls in what Marjorie Sloan had talked about,
+but also this recent question from Bobby Dishell. If, in effect, we're sampling some routes more heavily
+because they have higher ridership, and I think for those routes that she talked about, it's pretty significant.
+So it feels like it would have the effect of weighting the views or the concerns or the priorities of the people
+along that route. Do you then implement the improvements targeted to those areas or do you implement it
+across the Board, General Manager?
+DEBRA JOHNSON: Thank you very much. Director Cook. So to the point that both Christopher and Mark
+raised, it's looking at the cross tabulation to make an informed decision. And so this could also generate
+further exploration by us with a targeted approach to garner a better understanding of what that may be.
+So it's contingent upon the type of information we receive, and more so, what I will share in my past
+experience is, when we saw something with certain routes, we could actually do a targeted approach to
+that specific route or line to garner a better understanding of what might be due for that customer segment,
+recognizing that we have a vast demographic area in which we serve relative to the service area being
+2,342 square miles. While it's broad and it's unwieldy, there's different demographics associated with such.
+So to the point that was raised, for example, when the TransPro team alluded to the one transit property
+that has great fares, when we look at our fare study and equity analysis, and I use that, we'll be doing some
+
+exploration as relates to what might work across the board. So compounded with all this information, we
+can then tune in to what may be best for our customer segments relative to what we glean from this
+experience here.
+And specifically, as we speak about the certain waves, we want to ensure that we're improving aspects
+going along so we can heighten that customer experience and then netting a better promoter score, but in
+turn, we have to do some more in-depth analysis about the perceptions and attitudes. And there's different
+elements we could use, mystery customers. We could use telephone town halls and things of the like as
+we go forward. So this isn't the one all, be all. It gives us a snapshot about what we might do to enhance
+the service collectively.
+Does that address your question?
+SHELLEY COOK: It does. And since I've got the floor, Mr. Chair, can I ask one other quick question aboutVINCE BUZEK: Yes, please do. Go ahead.
+SHELLEY COOK: When you're doing every fourth person, are they within earshot of the driver? I mean, I
+don't know what psychological effect it might have if they know they are saying, oh, it's a crappy service, or
+it's a great service. Is that influenced by being in the presence of a driver they may see every day? I meanDEBRA JOHNSON: I will yield the floor to Chris, but keeping in mind there's different elements with the
+intercepts. They could be on a station platform. You could be on a light rail vehicle, a commuter rail car,
+where an operator is within a cab. Or recognizing we have bus operators as well, it's contingent upon that.
+But I'll yield the floor to the expert that has more in-depth experience as opposed to me just having
+experience from the periphery. Chris?
+CHRISTOPHER BROWNING: Thank you, Madam CEO and Mr Chairman.
+Director Cook, so we ask our surveyors to move throughout the vehicle. So there may be an occasion
+where, if in a bus, that the surveyor is within earshot of a driver. I believe, Madam CEO Johnson, that I think
+your drivers have the safety shields. And so that provides a layer of separation, if you will. So there is a
+potential for that. However, in all of the agencies that we've done this before, we sure the operators are
+aware that these surveyor surveyors are on the vehicles. And we've not had complaints from customers
+taking the survey or from operators about there being an issue.
+So certainly, if there is an uncomfort level with being too close to an operator, we would ask that customer
+to shift or something. We would make accommodations for that.
+
+SHELLEY COOK: So in other words, you don't think it's influencing the answers in any significant way. OK,
+great. Thank you. That's all.
+VINCE BUZEK: That's it? Great. And I just have a quick follow-up.
+So when we're doing these surveys on our conveyances, is there any chance we can post notices that say,
+we're doing a survey, we'd really love for you to participate, so that-- you don't want to do that? OK, tell me
+why.
+CHRISTOPHER BROWNING: So the reason we don't do that is because we want to make sure we're
+reaching out to the customer. So by having that every fourth customer, it eliminates the opportunity for bias.
+So if I'm a surveyor and Mark and Ms. Johnson were to get on the vehicle together, and one of them, Ms.
+Johnson was the fourth customer that's on my list, I'm only going to ask questions to Ms. Johnson. I am not
+going to ask Mr. Aesch his questions. If he would like to respond through her, I guess that's OK. But the
+point is, they both don't get to take the survey. It's one survey. It's one response. And then the next fourth
+person, so there's only one survey. So that's-- we want to make sure that we are approaching the customer.
+That is key in making sure that we eliminate that bias.
+VINCE BUZEK: I get that. But I think my point was not that you get odd answers, but that you validate that
+the person on the bus is a legitimate surveyor that is working with RTD. That's the only reason I wondered
+if you notice it. RTD's conducting a customer satisfaction survey. You may see people on the bus. They are
+legitimate, that kind of a thing.
+CHRISTOPHER BROWNING: I think that's a great point, Mr. Chairman. And we certainly use identification
+badges for those surveyors. We'll work with Miss Johnson to ensure that the right notices and they're
+wearing the right things to make sure customers know who they are.
+VINCE BUZEK: I could imagine the cost getting out of hand.
+DEBRA JOHNSON: And if I could, Mr. Chair, as I said before, having done something similar, there is a
+way in which we could be highly communicative. Because going forward, apprising people, but I concede
+the point that's been raised, we don't want this to be biased. We want to ensure that we're receiving true
+data that's reflective of our ridership going forward. And recognizing there's always a chance for anything
+to happen, in my experience being in this space, at least with surveying of this magnitude over the past 10,
+15 years, I've never had that encountered.
+But there is a way that we could have conversations. I would not support noticing on the vehicle, but
+ensuring that we have our personnel that's apprise, i.e. through service delivery, that we will have
+individuals on the buses and things of the like. So thank you very much for that question.
+VINCE BUZEK: Thanks so much. Director Cook, are you done? Your hand's still up. I think she is. Director
+Catlin, you're next.
+
+PEGGY CATLIN: Thank you, Mr. Chair. I was curious what ridership numbers you'll be using. And the
+reason for my question is because most of the routes in my region were eliminated due to COVID. And so
+I believe that the area that I represent would not really factor into this survey because they haven't had any
+routes. Even though they were low ridership routes, I just was curious what year you're going to be using
+as your baseline for ridership.
+CHRISTOPHER BROWNING: Mr. Chairman, Director Catlin, that's a great question. We're working with
+your data team now to pull the information. Right now, we're planning to use-- we use recent data. So we're
+using the month of June for 2021. We want to make sure we have an understanding of who the customer
+is today. Certainly understand that if you're in an area that has been impacted by COVID, this is a baseline,
+right? So we're capturing the snapshot of the ridership today. We know in the future, as the agency conducts
+another customer satisfaction survey, that that will be a new baseline, or it will be a new survey, right? So
+there may be a slightly different modification based on service changes and the like.
+So we survey based on the ridership that's in place to make sure that, again, talking to real customers.
+PEGGY CATLIN: Well, for the record, that means that my district will have zero representation on the
+survey.
+DEBRA JOHNSON: So if I may, Mr. Chair. Director Catlin, thank you very much for your comment. But as
+we talk more specifically, recognizing that we do have the community value, the investors as well, that's
+another component recognizing the understanding of the services that we provide. And this will garner
+additional input that will be helpful to us about the perceptions, opinions, and attitudes of the service that
+we deploy throughout the entire district. Because from that could spawn the need to say, oh, well, what I
+do know about the service is I don't have any service in this area. So that will in turn allow us to delve more
+deeply. So there are two different approaches in which we can garner feedback from the district wide.
+PEGGY CATLIN: And I understand that. And I recognize that prior to posing my question and my rather
+snarky response. But I think that there are a number of the factors that you've listed here that I received
+feedback in the past from my constituents that they're not going to have an opportunity to comment on now.
+So it's just a comment for the record. And I understand that next year there'll be another opportunity, since
+some service will be reinstated in September. Thank you.
+VINCE BUZEK: Thanks, Director Catlin. No further questions right now. So Christopher, if you could
+continue, that'd be great.
+CHRISTOPHER BROWNING: Yes, sir. Thank you.
+So just as a follow up to the previous slides, where the Board's focused on the outcome of the net promoter
+score, the management team sees what's most important to the customer. And this slide is really designed
+for the management team to really be thinking about what's going to move that needle to increase the net
+promoter score. So I just want to orient you to the slide a little bit. You can see on the x-axis is the
+
+importance, the weighted importance ranking of the factors. On the y-axis, the vertical axis, is the
+satisfaction.
+So Director Buzek, as you were asking a question about, well, how do they actually perform in bus
+cleanliness, you can see here, looking for L, this particular agency, it was a low priority, and it's up in that
+upper left quadrant of, it's nice to have. So they had a net-- or excuse me, a bus cleanliness satisfaction of,
+looks like, about 83%. That's pretty good. So it's a nice to have, right. It's a low priority so it doesn't really
+matter. Whereas the management team is really focused on that bottom left quadrant, the areas of
+opportunity, because they know that the things that are most important but have the lowest satisfaction,
+those are the things that are going to-- those are the items, the elements of service that are going to drive
+the increase in customer satisfaction and the net promoter score.
+So again, as the Board thinks about the net promoter score, the management team looks at this and says,
+OK, we want to increase that net promoter score and overall satisfaction, these are the areas that we need
+to focus on. It may not be a one-month change, right? To Director Dishell's point, it might be changing the
+hours of operation might be a bigger lift. It might take a longer term approach. But it's thinking about what
+are we going to do to impact, positively impact the NPS and overall customer satisfaction.
+We'd just like to quickly take you through a timeline of the process that we've discussed. The agency, the
+Board of Directors adopted the strategic plan on August 10. At your direction, the CEO and General
+Manager has implemented information systems for two of the success outcome areas, strategic priority
+areas of customer excellence and community value. We'll be on site the week of September 7 to conduct
+the Customer Excellence Survey for fixed route and rail. We'll also be conducting the paratransit survey
+that week. In mid-September, we'll be working with our call center vendor to conduct the Community Value
+Survey, and present the results to the management team the week of October 25.
+Ultimately, what this leads is the establishment of baseline today so that there's time to begin making
+changes. Ultimately, as the Board and the management team decides to measure again next year, and the
+frequency that you choose next year, allows you to begin to measure against your baseline that we're
+establishing today and begin making improvements based on that. So again, I just want to make sure that
+we're clear, this is a progression or an outflow of the strategic plan, the information systems to develop and
+define the outcomes, as the Board identified. Using these data points allows us to the baseline today to
+work on improvements as we move forward, and as you begin to think about measuring your CEO/General
+Manager against these items, and the items in the strategic plan, over the next year.
+VINCE BUZEK: Christopher, can I stop you real quick? I've got a question. The Community Value Survey,
+is that performed telephonically?
+CHRISTOPHER BROWNING: Yes, sir. It's both telephone and web panel.
+
+VINCE BUZEK: OK. So I know we've had this problem in the past with our telephone town halls in that
+there's some kind of an issue that we only use landlines. And because no one has a landline, is that an
+issue here or not?
+CHRISTOPHER BROWNING: No, sir. We'll use both cell, landlines, and a web panel.
+VINCE BUZEK: OK. That's great.
+Chair Rivera-Malpiede, I see that your hand is raised.
+ANGIE RIVERA-MALPIEDE: Yes. thank you, Mr. Chair. You made me think of something. On all of these,
+will these also be available different languages?
+CHRISTOPHER BROWNING: Yes, ma'am. We've been working with your-- I'm going to get the name
+wrong-- but your Diversity-ANGIE RIVERA-MALPIEDE: Transit Equity-DEBRA JOHNSON: If I may-- if I may, Chris. Madam Chair, we have basically linked TransPro up with our
+Transit Equity Manager. For certain, we're looking at Spanish. I'm looking at having them assess-- and Carl
+is going to double back, we didn't get that information in time for this presentation-- to leverage any other
+safe harbor language that has the percentage that would warrant us going further. So right now, for certain
+English and Spanish. And prior to this commencing, we'll have more in-depth information relative to any
+other languages that are germane for the demographic.
+ANGIE RIVERA-MALPIEDE: All right. Thank you. [AUDIO OUT]
+DEBRA JOHNSON: Madam Chair, we can't hear you.
+VINCE BUZEK: You're cutting in and out, Angie.
+ANGIE RIVERA-MALPIEDE: --sign language or TTY, just to make sure, up here. Is this better?
+DEBRA JOHNSON: Yes, it is. And to the point that you raise, Madam Chair, that goes into our language
+assistant program, which is part of Title VI, hence my comments as it relates to them linking up with our
+Transit Equity Manager to make that determination as we go forward, because we do leverage those
+services when necessary across the board. So in the absence of having Carl Green present, I can share
+with you that that is the direction in which I provided to the TransPro team just last week when we met.
+ANGIE RIVERA-MALPIEDE: Thank you.
+DEBRA JOHNSON: You're welcome, ma'am.
+
+VINCE BUZEK: Great question.
+ANGIE RIVERA-MALPIEDE: [INAUDIBLE].
+VINCE BUZEK: Great question, Madam Chair. Thanks.
+Director Cook, your hand's back up. [INAUDIBLE]
+SHELLEY COOK: Yes. Thank you. And I had hoped to wait through the end to see if my question was
+answered, but I've got to get going here. So we are using these surveys for a couple of different reasons.
+We're using them to drive performance excellence, and then also it's directly linked to our evaluation of the
+GM/CEO and her salary. And because of that, I think that, so that there wouldn't be any question that it was
+all aboveboard, we've asked for greater Board engagement. So along those lines, in terms of the
+community-VINCE BUZEK: Director Cook, we lost you.
+SHELLEY COOK: Blame Freddie. He's all over the keyboard.
+VINCE BUZEK: OK. In terms of-SHELLEY COOK: Yeah.
+VINCE BUZEK: --then we lost you.
+SHELLEY COOK: Yeah, OK. Is there a way that we can get copies or we can preview the questions,
+especially for community value, because that's a piece that is more, I don't know, subjective, I guess, or
+values laden. It's not a matter of having some pretty well defined and accepted metrics that define customer
+excellence. It's more a matter of local priority or regional goals and so forth, as well as what the agency
+hopes to provide us as a benefit to the community.
+So just for the purposes of making sure people can't criticize this process as being out of the purview of the
+Board, that the Board has appropriate engagement on it, can you provide us with the questions, allow the
+GMOC to have some input into those?
+DEBRA JOHNSON: Mr. Chair, I think that question is better suited for me, as opposed to the consultant.
+And I would defer to you. If that's the desire of the collective body, recognizing that the surveys holistically
+are being generated based upon the data that we have that is indigenous to this organization and the
+timeline before us, I would yield to you all, referencing what we did relative to the timeline. So I'm not certain
+if I really understand the question regarding what we've done holistically in relationship to the strategic plan
+and the other exercises that we have undertaken. So I will yield to you all.
+
+VINCE BUZEK: Sure. And I had mentioned this earlier on, I would love to see some of these questions.
+And I think what Director Cook is getting at, just to ensure that people looking at us from the outside can
+say, yeah, the Board was involved in this. I do not want this to interfere with our timeline, because the
+timeline is critical. But if there's any chance we can get those survey questions just to look at them and so
+we can tell people that the survey doesn't consist of questions that say, do you love RTD or would you
+rather be poked in the eye with a stick? We'd like to be able to say, we've looked at these, we've digested
+them, we agree they look good. So if that's possible, I would support that request by Director Cook.
+Director Cook, do you have anything further?
+SHELLEY COOK: Yeah. Just a-- it really is to protect you, as well, Debra. Because I think we don't-- if it
+was purely your performance management system, that's your purview. That's all in your control. But if it
+remains in your control and is what is used to set your salary, I think that creates a perception of a problem,
+potentially. I don't want to leave you open to that kind of an illusion. So I just want to make sure we're seen
+to be doing this in a way that's appropriate, given the dollars, given the salary setting, and the fact that this
+is the Board's evaluation of you as well. So thank you.
+DEBRA JOHNSON: Thank you very much, Director Cook. And I would just say, as relates to that, please
+recognize my comments recognizing you're one member of 15. I was yielding to the Chairman to see what
+the direction of the body. And I do recognize that there will be a classification and compensation analysis
+as it relates to the position in which I hold. So as I was saying, relative to the timeline, if it is the desire of
+this body to have those questions, so be it. I appreciate the earnest and open dialogue relative to protecting
+me.
+So with that, I will yield the floor. Thank you.
+VINCE BUZEK: Thanks. Director Dishell.
+BOBBY DISHELL: Yeah. I actually, I think it's one thing for us to look at the questions. I think it's another
+thing for us to opine on that and edit and approve them or not approve them. I think, looking at that for our
+own situational awareness so that we're not caught flat footed when someone says, have you seen the
+survey, absolutely, totally fine. When we get into our management of these survey questions, to me that
+goes beyond the scope of the Board. And frankly, I have concern about if someone were to release the
+survey, is there a concern about the validity of the survey, right, if we were to release all the questions out
+into the world, right, what does all that look like?
+So I don't necessarily agree that we should be so involved in the survey questions, versus just seeing that.
+And maybe that's not the intent here. But I would caution us on becoming statisticians and surveyors.
+VINCE BUZEK: Great. Thanks for those comments.
+
+Chair Rivera-Malpiede.
+ANGIE RIVERA-MALPIEDE: Thank you. I'm turning my camera off so that you can hear me. I want to thank
+Director Dishell. I can not agree with you more. I think to look at the survey questions is one thing, but that
+is not our area of expertise. That's why we hire outside folks, to help us put together the best data driven
+types of questions. They're the experts. And then we work from there.
+So I absolutely agree. If the Board feels like they need to look at it to feel more comfortable, that's one thing.
+But we'll have to do it on a very, very short timeline, because we have too much work to get done in a short
+period of time. But I absolutely agree, we should not be delving into any kind of edit or any of those things.
+VINCE BUZEK: Great. Thanks for those comments. Vice Chair Sloan.
+MARJORIE SLOAN: Yes. Thank you, Mr. Chair Buzek. I am interested in whether or not these questions
+will be specifically crafted to RTD, particular the community value issues. For instance, the Denver metro
+area is a non-attainment area on ozone, so people are very conscious of climate change and sustainability.
+I know not every area, according to Mark at our retreat, is that focused on sustainability, but the Denver
+area is. So I don't think we should be editing the questions, but we might comment on the content, on the
+targets of the questions. You're specifically getting the right survey population, but if you're not asking the
+right questions, the answers won't be that valuable for Denver.
+VINCE BUZEK: Mr. Chairman, if I may. Director Sloan, we certainly use a broad benchmark list of questions
+for the majority of our questions. There are others where we are actually reaching out to community leaders
+in Denver and we have one-on-one sessions with them to help us identify what are the key areas that the
+community sees as value and where RTD could improve, or they're doing, where is RTD already doing
+well. So we use that to help us form the specific questions for the Denver community as well.
+So from the TransPro side-- and I'll let CEO Johnson respond, if she would like, in a moment-- we use that
+benchmarking questions across the Board. So there's clarity on what we're asking, with input from some of
+those community members to ensure we're asking things that are relevant to the community as well.
+MARJORIE SLOAN: Thank you. I just raised my hand by mistake.
+VINCE BUZEK: Director Sloan, does that-- yeah, and that's a great question, because it is a big deal in the
+Denver metro area. And we are a non-attainment area and greenhouse gas emissions are a real problem
+and transit is a big solution.
+Who's up next? Chair Rivera-Malpiede, your hand's still up. You good? Director Catlin.
+PEGGY CATLIN: Thank you, Chair. I could not agree more with Directors Dishell and Chair RiveraMalpiede. We are not experts in survey instruments. And I just wanted to reiterate my appreciation for those
+comments. But I also recognize Director Sloan's concern about having some questions that are particularly
+
+tailored to this community, and you all answered it to my satisfaction about your outreach to the community
+leaders. So thank you very much.
+VINCE BUZEK: Thanks, Director Catlin. Director Dishell.
+BOBBY DISHELL: Apologize. Back. I know we had discussed a third-party validation or peer review or audit
+of whatever language is used for someone else validating the results of the survey. Do we have an RFP
+out, or RFU, or RFI, or whatever is the appropriate? And what is our plan to make sure that that piece also
+gets done? Because I know that that came up a lot on our retreat. And I am satisfied personally, but I know
+that it's important to other directors as well, the piece of survey validation.
+VINCE BUZEK: Yeah. Director Dishell, that's next on the agenda. So I think we'll be talking about that a
+little bit more in just a minute, if that's OK.
+BOBBY DISHELL: Great.
+VINCE BUZEK: Any other questions or comments with regard to getting the questions out to the Board?
+And I guess I have a question for General Counsel Snyder. One of the comments that was raised was that- and I think it might have been Director Dishell-- that does releasing the questions ahead of time impact
+the validity of the survey? And if so, the question that I would have to our General Counsel is that, can we
+mark these as confidential and request the Board not disseminate them, as they do other confidential
+matters?
+MELANIE SNYDER: Mr. Chair. So I'll defer to the experts on whether there's any impact on [INAUDIBLE]
+or outcomes of the survey in doing that. But I think that there are options to be able to protect those
+documents, particularly when they're in draft form, or, as one example, we have the ability under provisions
+related to elected official work product, when things are in draft form. So that's just one example of potential
+places to protect that information.
+Can you hear me?
+VINCE BUZEK: No, your microphone is-- you're warbling, I guess. But I guess I'll just leave it at this. If
+there's any way we can mark the questions as confidential in some fashion to help protect their
+dissemination, I think we should just go ahead with that.
+DEBRA JOHNSON: So Director, Mr. Chair, I will work and ensure that happens in reference to getting those
+out to you in a timely fashion, recognizing that we are targeting our kickoff date soon. And we will work
+expeditiously to disseminate that and work with counsel so we can protect the work product to ensure that
+this is a valid survey. Thank you.
+VINCE BUZEK: Appreciate it.
+Christopher, was there anything more you had on your presentation? Is that it?
+
+CHRISTOPHER BROWNING: No, sir. That's it. I appreciate your time and your questions. Looking forward
+to continuing this process and working with your leadership team and ultimately to provide you the results.
+VINCE BUZEK: Great. And thanks to you and the team for your presentation.
+So as I alluded to in my prior comment, next on our agenda is the GM survey validation plan. Who will be
+presenting on that?
+DEBRA JOHNSON: So, Mr. Chair, if I can ask for a point of clarification? Because as I shared with some
+others, I saw it said General Manager survey validation plan. And I'm slightly confused by that topic when
+we had discussed previously, we were going to go through the net promoter score and talk about how that
+information is compiled. We're looking at a baseline as we go forward. And recognizing that we have
+contracted with TransPro for a limited period of time-- getting to Director Dishell's question-- we have our
+internal staff that's on this call, from a market research perspective, that has been working in tandem.
+Typically, in this realm of utilizing third-party entities, in reference to what Christopher has outlined in the
+presentation, we're creating a baseline going forward. And as we look at validation and leveraging any type
+of solicitation, that would come out of RTD to garner a different element relative to having resources on
+hand to complete that going forward.
+So I think I'm seeking from you clarification in reference to what it is with this item C, regarding the validation
+plan as it relates to the General Manager.
+VINCE BUZEK: Sure. I recall at one of our retreats, there was discussion about a third-party validation of
+sort of, I think Director Dishell talked about it as well, and the thinking being that we're happy with TransPro
+doing all this work, but it might make sense to have a third party look at the results, validate them as
+appropriate and statistically valid.
+DEBRA JOHNSON: OK. So with that as the backdrop, what I did ask TransPro at a high level to talk about,
+recognizing that they may not be the entity to do this, but to frame it for everybody so they understand. But
+when Director Dishell asked, do we have a solicitation in place? No, we do not. Because it was the direction
+of this body early on, when we talked about creating a baseline, that we would go down this route. But it is
+my intent, I will say in this forum, ultimately recognizing that we do have some gaps, to create a bench
+whereby we have these things readily available if we need performance management, project management,
+things of the like, that we would have that we could issue on a task order basis.
+So with that as the backdrop, Mark, I don't know if you all are prepared to speak at a high level about thirdparty validation?
+MARK AESCH: Sure. Happy to share thoughts. And I think as we have talked about at the retreat, Mr.
+Chair, is with a number of our clients that have outcomes by which they are evaluating their CEO's
+performance, and even more so when there is compensation tied to those results, by definition if only the
+
+management team presents the results of those outcomes, there's a conflict that's built in, right? They are,
+by definition, presenting the results of those outcomes of which there is compensation that's directly
+connected to that.
+What we have found for most of those boards, in particular, is they benefit from a third party validating that
+those outcomes are indeed true, that the customer satisfaction score really is whatever is presented as,
+that the financial results truly are what they are presented as, that the employee engagement score is
+added up to exactly what management has presented it as.
+So we do that for a number of our clients. And happy to have conversation if that makes sense here. You
+could certainly think about an accounting firm. You could certainly think about a law firm, potentially. I think
+the key point is that it's in the Board's interest, and really in the management team's interests, to ensure
+that a third party has validated those outcomes at the end of the year as being true and actual.
+VINCE BUZEK: Yeah. I think that was kind of the discussion. And my recollection of our discussion on this
+topic is that we were thinking a third party might be better than having TransPro validate their own results.
+It might give it a little more a little more credibility and separate you from that and not have people raising
+any kind of questions.
+My understanding was that that was what we were going to do when we had results. Any other Directors
+want to weigh in on this? Is this what the GMOC would want to have happen? So let's weigh in on that. I'll
+ask that question.
+Vice Chair Sloan.
+MARJORIE SLOAN: Yes. I believe you correctly summarized some statements that were made at the
+retreat, that there was concern about validating a survey conducted by the same party.
+VINCE BUZEK: So would you be in favor of retaining a third party independent to validate the survey
+results?
+MARJORIE SLOAN: I would. I believe it's a more conservative approach.
+VINCE BUZEK: Director Dishell.
+BOBBY DISHELL: Also in favor. And I'm assuming, and please correct me if I'm wrong, that should we be
+in favor within the committee, it'll go to the Board to decide whether they are in favor. Yeah, I would be in
+favor, certainly at least for the first-- I don't know that we need to validate multiple times, but certainly at
+least the first outset.
+VINCE BUZEK: First time around, sure.
+
+Director Bouquet?
+JULIEN BOUQUET: Yeah, I think it would be a safe option and I would be in favor of it.
+VINCE BUZEK: Great. Chair Rivera-Malpiede?
+ANGIE RIVERA-MALPIEDE: Yeah, you know what? I also would be in favor it. And I think that, you know,
+the other thing I keep going back to is that we are doing this process. It's unprecedented the way that we've
+gone to this point with a strategic plan that has been really open and inclusive and transparent. So it does
+make sense to do it on this. So I am OK for this to go to the Board to make sure that they're OK with that
+as well.
+I think it does cover everybody. And I think that that's not a bad thing to do. But we're setting the basis for
+going forward. So I think that that's really important to state, that we're doing a lot of things for the first time
+under this General Manager's leadership. And so I just want to make sure that that's on the record. Thank
+you.
+VINCE BUZEK: Thanks for those comments.
+Director Catlin.
+PEGGY CATLIN: Thank you, Mr. Chair. I recall, as did Director Sloan, that this was raised at the retreat,
+but I don't believe there was consensus among the Board. So I would be comfortable with having a neutral
+third party validate the results for this first go around, but I also am in favor of having that, and then having
+this committee take it to the Board before coming back to us.
+VINCE BUZEK: Appreciate it. So it sounds like consensus, Madam General Manager, from the General
+Manager Oversight Committee to get this moving through the process, to get it before the Board. Is that
+something you all could take care of?
+DEBRA JOHNSON: Yes, sir. And I would say, yes, I will defer to Ms. McManus in reference to agendizing
+this going forward appropriately, since there's no recommended action coming. It was no recommended
+action that was agendized. So I would assume that we would have to bring this back to this committee and
+then basically take it out of this committee and forward onto the Board.
+But yes, I support what you all have said. I'm just clarifying in reference to our parliamentary procedure
+aspect, because this is not agendized. So this action wouldn't stand. That's my only-VINCE BUZEK: No, I understand. So we've got a meeting scheduled for September 2. We talk about
+whether we're going to have a need for that or not. We have a need for it now. So let's get that on the
+agenda for September 2. Great.
+
+BOBBY DISHELL: [INAUDIBLE] procedure. But could we also just do a Director, with the five of us who
+are on the committee signing on to a Director action that just goes on and that everyone doesn't have to be
+here on the 2nd? Not that I don't enjoy spending Thursday afternoon with you all, but-VINCE BUZEK: So the question is, yeah, can we do a Board initiated action item and not have it come out
+of a committee? Is that doable?
+BARBARA MCMANUS: Well, yes. But it still should come through committee, through a committee at some
+point, unless we were going to have a special Board meeting, which we don't have scheduled.
+VINCE BUZEK: Yeah. No, I understand what Director Dishell's trying to do. He's trying to get out-- he's
+trying not to have us meet on the 2nd for one issue. But I think it's probably better procedurally to do it the
+standard method to come through technical review, if that's OK. Well, I like the idea. Always thinking.
+BOBBY DISHELL: Oh, good. Yeah, just trying to think creatively here.
+VINCE BUZEK: No, that's good. OK. So we're good on that? Ms. McManus?
+BARBARA MCMANUS: Yes.
+VINCE BUZEK: Cool? OK, thanks. Let's move on. Compensation analysis overview. Who's presenting on
+that?
+MELANIE SNYDER: Mr. Chair, I'm happy to do so.
+VINCE BUZEK: OK.
+MELANIE SNYDER: Can you all hear me? I left and came back. Did that make a difference?
+DEBRA JOHNSON: It's an echo. It's an echo, Melanie.
+VINCE BUZEK: Like you cut in and out, and maybe get closer to your computer.
+MELANIE SNYDER: OK. [INAUDIBLE]
+VINCE BUZEK: Closer. Closer.
+MELANIE SNYDER: Yeah, I've been in meetings on this all day and haven't had any mic issues. But
+hopefully, you can hear me now.
+On a high level, as you may recall, the Board did adopt a third amendment to the contract with the General
+Manager and CEO that included a provision that would require that RTD will engage a third party through
+
+a competitive solicitation to conduct a compensation and benchmarking analysis, and that that would be
+used by the Board going forward to set the GM/CEO's base salary and incentive compensation starting in
+January of 2023.
+So I will be working with staff to put together the solicitation, statement of work documents. Of course, we're
+not going to go into detail on those parameters here in this public forum. But I will be consulting with you,
+Chair Buzek. And certainly, as we've discussed, my understanding is that Chair Buzek will be participating
+on that selection panel to ensure that the Board does have a voice in that selection, as it is made based on
+the established solicitation criteria.
+And then we'll aim at having that selection and hopefully a contract in place by the end of this year. So that
+should allow plenty of time for the analysis, as well as for the Board to review that analysis so we're ready
+to go, or you all are ready to go in 2023.
+VINCE BUZEK: Great. Thanks for that.
+MELANIE SNYDER: [INAUDIBLE].
+VINCE BUZEK: Yeah. Thanks for the update. Are there any questions for General Counsel Snyder on that?
+Great. Thanks, Melanie. That's terrific.
+MELANIE SNYDER: You're welcome.
+VINCE BUZEK: Go ahead. I'm sorry. Oh, gotcha.
+OK, so moving down the agenda, Other Matters. Are there any other matters to come before this
+committee? Seeing none, our next meeting date, September 2, 2021, 3:00 PM. Any questions or comments
+on that?
+OK. Who would like to adjourn? We are adjourned. Unanimous consent. Thanks, everybody. Thanks, Mark
+and your team. Thanks, Debra, and all of your peeps. We appreciate it.
+BOBBY DISHELL: Thanks, everyone.
+DEBRA JOHNSON: Thank you guys. Appreciate the dialogue. Bye.
+
+

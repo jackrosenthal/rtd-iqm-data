@@ -1,0 +1,360 @@
+2023-01-18
+Audit Committee Meeting
+PEGGY CATLIN: I'll get started here. The Wednesday, January 18 Audit Committee will now come to order.
+We are convened as of 2 o'clock PM. And I would respectfully ask anyone attending this meeting to mute
+yourself unless you are recognized to speak. Thank you for joining this afternoon.
+Please note that until further notice, the official meetings of the RTD Board of Directors will be held remotely
+via Zoom and will be audio and video recorded. The meeting recordings along with the unofficial minutes
+of the meetings will be posted as soon as practicable on the Board's website. Please visit rtd-denver.com,
+and a live stream of this meeting is also available via RTD's YouTube page.
+Directors and members of staff, for the sake of the record, if you would like to be acknowledged during
+today's proceedings, I would ask you to please raise your virtual hand and wait for me to call you before
+proceeding to speak. Directors and staff participating by phone can also raise their virtual hands to indicate
+that they would like to speak by pressing star 9. To toggle your mute setting on the phone, plus press star
+6. I'd like to now call the roll for the committee members. Director Davidson?
+ERIK DAVIDSON: Here.
+PEGGY CATLIN: Director Dishell.
+BOBBY DISHELL: Here.
+PEGGY CATLIN: Jim Brendel?
+JIM BRENDEL: Here.
+PEGGY CATLIN: And John Olenberger.
+JOHN OLENBERGER: Here.
+PEGGY CATLIN: I see for the record that we have five members of the Audit Committee present. We're
+starting out here because I was Chair of the Ad Hoc Committee, of which Directors Davidson and Dishell
+were participants with support from our capable RubinBrown staff. We just decided to kick this off and
+transition to our full committee meeting by first electing officers.
+But first, because we are kind of new and this is a hybrid committee, I would like to take a moment to have
+each Director introduce themselves and say a few minutes about themselves. And also, I'd like to have
+Matt Marino and Dave Haronik from RubinBrown do the same. For the record, we also have Director
+Tisdale, who's the Chair of our Finance and Planning Committee meeting joining us.
+We have the Chair of our Board, Lynn Guissinger, joining us. And then we have staff. We have Melanie
+Snyder, our General Counsel. We have Jillian Knapp-Rhodes from the Board Office. We have Tai-Shrae
+Parish. We have Brandy Hunter. We have Marie Snell. And we have Doug MacLeod-- excuse me, Doug.
+So we have quite a few people on the call today, and I think that will help. And I would like to say that as
+we move forward in the discussion, those Directors who are not members of this Audit Committee-- but that
+
+may want to weigh in-- certainly, we'll take your comments. So going around the horn here, Erik Davidson,
+would you like to start?
+ERIK DAVIDSON: Yeah. Thank you, Director Catlin. Much appreciated. So for the sake of Jim and John,
+first of all, it's great to meet you here. Thank you for joining this committee and embarking on what's going
+to be a very new endeavor for the agency. This has been quite the work in process, and we're glad to have
+you here. So for your purposes and for the sake of the record, I'll give just a brief introduction to myself.
+I am the RTD Director for District I. District I is in the northern region of the RTD. It includes Broomfield. It
+includes Longmont. It includes Lafayette, the part of Erie that is within the district, as well as a small part of
+Thornton and some unincorporated Adams and Boulder County-- so kind of a large area up here. I like to
+say my district is actually shaped like the letter it is. It's kind of an I up here.
+I have been on the Board for two years now going into my third year. I had started off heavily involved in
+our Finance and Planning Committee, which I had the opportunity to Chair last year. Also worked very
+closely with Director Catlin here in the capacity of the Ad Hoc Audit Committee to reconstruct our audit
+function and Audit Committee, which is why we're getting started here.
+And this year, I'm serving on the Executive Committee of the Board as our Second Vice Chair. So with that,
+it's wonderful to meet the both of you. And we're very grateful for your service and joining us here. I know
+you've been given a background in terms of why we're here, and we went through the process of
+interviewing and selection. But for the sake of the record, great to have you joining us here on the Audit
+Committee. So with that, I'll hand back to Director Catlin here.
+PEGGY CATLIN: Thanks, Director Davidson. I'm going to call on Director Dishell next. And I believe that
+he is out of state and unable to join us via video. But he is present via audio. So Director Dishell?
+BOBBY DISHELL: Thank you, Director Catlin. I really appreciate the opportunity to be here today. Bobby
+Dishell-- I am the Director for District D. I actually moved to the district because it matched my last name.
+That was a joke-- not really. That's not why I picked the neighborhood. South Denver, northern part of
+Littleton, a little sliver of Lakewood, Sheridan, Bow Mar, Englewood-- and so that is where I am.
+I spent the last year on the Ad Hoc Audit Committee with Directors Davidson and Catlin, really focusing on
+the internal IIA standards-- Institute of Internal Auditors-- which we used to help craft both the Audit
+Committee charter as well as the Internal Audit Committee charter. I'm working with RubinBrown as well.
+And I'm very happy to be here with you all. I spend my day in private practice as an attorney, primarily in
+the corporate real estate and renewable spaces.
+PEGGY CATLIN: Thank you, Director Dishell. Now, let's move on to our new committee members. I'll start
+with-- let's see. Who would like to go first? Let's go with John Olenberger first.
+JOHN OLENBERGER: Sure. So I'm John Olenberger. I am the President of CICM. We are an internal audit
+and business process consulting firm. Just a brief background on me. I started my career at Arthur Andersen
+in Boston in their external audit practice. I am a CPA originally licensed in Massachusetts and now licensed
+in Colorado, worked external audit, then transitioned into internal audit with Arthur Andersen before leaving
+to do three years of internal audit with Waste Management, and then left to join KPMG's business process
+for its consulting group doing internal audit with KPMG.
+
+And then I broke off and started my own firm doing internal audit. And have been doing that for 14 years.
+In that capacity, I sometimes serve as the Chief Audit Executive for various organizations which we are the
+outsourced internal audit function for. And currently, I hold that role for Poudre School District up in Fort
+Collins. And happy to be on the Audit Committee. I also live-- as I mentioned before we started, I live in
+Central Park. So I'm fairly close to downtown and the RTD's offices.
+PEGGY CATLIN: Well, welcome, John. Jim Brendel.
+JIM BRENDEL: Sure, thank you. I've been in the Denver area since 1979 and in the public accounting
+practice all of that time-- started with what was then Coopers & Lybrand, which is now part of PWC. Then I
+went to a local firm, Hein & Associates-- spent about 30 years there, and then we merged with regional firm
+Moss Adams five years ago.
+My client service role was as an audit partner. So I worked on audit engagements with various types of
+clients, spent a lot of time interfacing with audit committees, which is one of the reasons that, when I retired
+about a year and a half ago, I thought this might be a good place for me to give back working on audit
+committees. So I'm on a couple of not-for-profit audit committees, as well as other board seats for not-forprofit entities, and very much looking forward to getting this Audit Committee going and working with all of
+you.
+PEGGY CATLIN: Thank you. I'm going to go to our consultants and our internal audit function staff, for lack
+of a better description Matt, would you like to start out?
+MATT MARINO: Sure. I'm Matt Marino. I'm the Engagement Partner with RubinBrown. I'm in the Denver
+office, and so I lead the outsourced internal audit function for RTD as part of the contract with RTD. And
+I'm joined by Dave Haronik. And he's the main Manager that's been serving on the engagement. And he's
+out of our Chicago office. And we've worked with RTD for a little bit over a year and a half from a consulting
+role and then transitioned into the outsourced internal audit and have worked very integrally with both the
+Directors and management to get to where we are now with a new sitting Audit Committee.
+PEGGY CATLIN: Thank you, Matt. Dave, you're up next.
+DAVE HARONIK: Hi. Good afternoon. Yeah, Dave Haronik-- as Matt mentioned, I'm in the Chicago office- Manager. Came on to RubinBrown about a year and a half ago, and prior to that, I was with a company
+that I actually stood up the internal audit function at. So, good experience there, and hope to bring that to
+RTD. And really love internal auditing. I consider myself an internal audit geek. I think I've said it before.
+I've done it my whole career, even as an internship in college-- even joined the Institute of Internal Auditors
+in college. So I don't know who could say that they did that. But looking forward to working with you all.
+PEGGY CATLIN: Thanks, Dave. I guess I'll conclude these introductions. I'm Peggy Catlin. I was Chair of
+the Ad Hoc Audit Committee. And I represent District N, which is the largest geographic district in all of
+RTD. Next month, I guess, it will be that I will have had five years of experience on the RTD Board having
+been appointed to fill a vacancy and subsequently being elected in 2018.
+And very early on as a new Director, I started delving into the internal audit function of RTD. And I became- I guess concerned would be the best phrase to say-- and really pushed. I called myself the Don Quixote
+of internal audit for RTD because just really trying to get some movement in making this audit function as
+a function that was adhering to standards and best practices.
+
+And I'm just really, really pleased to say that we are getting started now after a long, uphill battle. So
+welcome, all of you. I neglected to say that I'm probably the senior person of this group. I know Jim said he
+was retired. I have lived in Jefferson County for 39 years in the same neighborhood and have really seen
+changes in the Denver Metro area.
+I did, however, grow up in Fort Collins and was a byproduct of the Poudre R-1 School District, having
+graduated from Fort Collins High School. And I would add that Director Davidson spent a little bit of time in
+the same school district. So we have that in common, the three of us.
+So thank you all for the introductions. It's nice that we can get to know each other. I'm going to turn this
+over to Matt Marino from RubinBrown, who is going to discuss the conflict-of-interest statements. Matt,
+you're on mute.
+MATT MARINO: See, I muted myself inadvertently. Sorry about that. So I just wanted to discuss conflictof-interest statements. We'll collect signed conflict-of-interest statements from all the members of the Audit
+Committee. But at this time, we want to make sure there were no conflicts of interest that we need to be
+aware of. I'm not aware of any conflicts of interest.
+So conflicts of interest being defined as you have a personal interest in a business, whether it be ownership
+or investment in a business, that does business with RTD or thereof. And then I want to make sure there
+are no matters that need to be disclosed. And we'll collect signed conflict-of-interest statements from each
+Audit Committee member.
+PEGGY CATLIN: Matt, when do you anticipate administering those or sending those out?
+MATT MARINO: I'll send those out right after this meeting. And we'll get those collected in time for future
+meetings. So if a matter were to come up in the future where there is a conflict of interest, that member of
+the Audit Committee could either abstain from discussion, and we would be aware of that conflict of interest.
+PEGGY CATLIN: Very similar to what we do as Board Directors for RTD. Any questions about that topic?
+Good, thank you. Moving on to Item D, we're going to select the Committee Chair and Vice Chair. As I
+mentioned earlier, since I was last year's Ad Hoc Committee Chair, I'll facilitate this election. And once both
+seats are filled, I'll turn the meeting over to the new Committee Chair.
+Unlike our Executive Committee election process, which Board members are familiar with-- but I'm not sure
+our new Audit Committee members are-- that uses a secret ballot for election of Board offices. But for this
+committee leadership, we'll proceed with open nominations, discussions, and a vote by all five members of
+the committee. We'll begin with selection of the Chair and then Vice Chair.
+And we do allow up to three minutes for those Board members who nominate a candidate, and also if there
+are any seconds to the nominations and any other members who wish to speak regarding the candidates.
+I'll then call for a vote. And the candidate with the most votes will be appointed. So if only one Director is
+nominated, we may proceed by acclamation and that Director will be appointed.
+I'm going to take some Acting Chair privilege here and open up the nomination with my nomination of
+Director Bobby Dishell. And my reasons for nominating Bobby-- they are numerous. But when we started
+the Ad Hoc Committee, the Chair of the Board of Directors of RTD at the time really only wanted two on the
+Ad Hoc Committee. And I pushed to have three.
+
+And Director Dishell had expressed some very, very thoughtful concerns and issues about our internal
+audit, primarily because of the state's audit that came out. And I thought he had really taken this seriously,
+and I wanted him to apply his talents to Ad Hoc Audit Committee. And he exceeded my personal
+expectations of really delving into the issues and providing thoughtful comment and input as we moved
+forward on this.
+And I'm very grateful for all of the work that he put in. And I appreciate his intellect and his integrity. And I
+just really would hope that he would accept this nomination. Do I hear a second?
+BOBBY DISHELL: Thank you. Second.
+PEGGY CATLIN: Director Davidson.
+ERIK DAVIDSON: Couldn't agree more.
+PEGGY CATLIN: What?
+ERIK DAVIDSON: Couldn't agree more.
+PEGGY CATLIN: Are there any-- is there any discussion about this? I might ask if there are any objections
+to having Director Dishell serve as our Chair? I don't see anything. One of the things that I would comment
+on is that the three of us RTD Directors have worked together in concert on this effort.
+And throughout our 12-month process, I think we've really built up a collaborative group, and we've really
+operated under a model of trust. And I look forward to establishing that trust with our two new members as
+well. But I just wanted to make that comment that I'm really looking forward to this collaborative and collegial
+effort. So congratulations, Director Dishell. You are our new Audit Committee Chair. I'll also open up the
+floor for nominations for Vice Chair.
+I am to understand that our outside committee members in this first year, until they become comfortable
+with how we proceed with this Audit Committee, would not be comfortable serving as either Chair or Vice
+Chair. It had been our thought that we could alternate-- have one Board member and one outside committee
+member serve as Chair and Vice Chair and then swap the following year.
+But given this is the first year, and we're trying new things, I guess we can go ahead and have two Directors
+as Chair and Vice Chair. And for that reason I would-- oh, Mr. Brendel, please feel free to chime in.
+JIM BRENDEL: Thank you, Director Catlin. So my opinion was, being new, I wouldn't be comfortable as
+Chair. And I'm really happy with the Chair you've selected. I'm not volunteering, but if you would like to split
+that up, I would be comfortable being Vice Chair if that's what you would like to do. I'm also happy waiting
+a year.
+PEGGY CATLIN: Thank you. I really appreciate that. Directors Dishell and Davidson, your thoughts on
+that?
+ERIK DAVIDSON: Yes. Thank you, Dr. Catlin. I think there's benefit, given that we are doing this new
+structure, with having an internal Director and an outside committee member serve in having one of each
+in terms of Chair/Vice Chair. So I would just offer those thoughts. And if Mr. Brendel is interested in this, I
+think this is service. And I'm all too happy to nominate someone who's willing to step up. So those are my
+thoughts on the matter and happy to defer to Committee Chair Dishell as well.
+
+PEGGY CATLIN: Director Dishell?
+BOBBY DISHELL: Thank you. Thank you. Yep, I agree all around. I think it'd be great to have you. I think
+providing an outside committee member voice is important, I think, for two reasons. One, Directors Catlin,
+Davidson, and I have been sort of deep in it in both a narrow and broad scope-- but sort or mile deep in a
+lot of small holes. And it'd be great to have, especially at the Vice Chair level, leadership that has not been
+so narrowly focused and can come into it with fresh eyes. So to the extent you're willing, I would be happy
+to nominate you.
+PEGGY CATLIN: Well, I will take that as a nomination. And I would gladly second that. And this makes me
+extremely happy that we can proceed along these lines. So thank you for your willingness to serve-JIM BRENDEL: Thank you.
+PEGGY CATLIN: --Mr. Brendel. Do I hear any objections? Well, it looks like we have our Vice Chair by
+acclamation. So congratulations to both of you. And now, I will turn the meeting over to Director Dishell to
+proceed. Thank you.
+BOBBY DISHELL: Thank you, Director Catlin. And thank you all for the confidence to help lead this
+committee. I'm going to turn it over to Matt Marino to lead the discussion around the Audit Committee
+calendar-- Item B on our agenda.
+MATT MARINO: Thank you, Chair Dishell. And I appreciate the time to talk to you all about the calendar.
+So at this time, the calendar is not necessarily set other than we know there are several meetings that we
+do want to achieve throughout the year. So per our charter we are bound to meet at least five times. We
+can meet more if we'd like. But there's a couple of key things that we need to make sure we get on our
+calendar and schedule out.
+Because this is the Audit Committee for RTD, the Audit Committee not only monitors the internal audit
+function but also is responsible for monitoring the external audit function of RTD. And so the external auditor
+for RTD, Plante Moran, has asked to present to the Audit Committee their pre-audit discussion. And so
+we're looking to achieve that in February of 2023. So we'll work on coming to an agreement with the Audit
+Committee members to find a date that works not only with the Directors and the committee members but
+also Plante Moran.
+And also at that February meeting, we're hoping to present a updated risk universe and proposed 2023
+internal audit plan. We are in the process of updating the risk universe surveys and responses from
+management and Directors. And we are hoping to bring that back to the committee for approval of an audit
+plan in, hopefully, mid-to-late February so that we can proceed with some audits throughout the year and
+provide those reports back to the committee throughout the year.
+The other item under that-- we are proposing something that was on the preliminary audit plan. We had
+originally in the first risk assessment looked at the ITGC, or IT general controls. And so we are going to ask
+for preliminary permission to proceed with scoping out the IT general controls internal audit and bring that
+back to you all in February for a final approval to proceed with completing that audit and reporting back to
+you as well.
+
+So that kind of fits under that risk universe proposed internal audit plan. Why is ITGC being selected? RTD
+is in the process of evaluating their accounting software or their enterprise software. Currently, they use
+Oracle. And in the next 12 to 24 to maybe even 36 months, a new software vendor will be selected.
+And in discussions with management and the Audit Committee members, it sounded like it was a good idea
+to understand where we stand from an IT general controls perspective with the current system so that we
+can scope out the requirements for some future system and make sure that we understand where our areas
+that we might want to have enhancements to controls and where our areas that we have some as far as
+must-haves in the controls realm. And so that's why we thought scoping out an audit and presenting it to
+you in February would be a good place to start with auditing because IT general controls is important to all
+organizations, and it continues to be important for RTD.
+Starting in April and May, we'll need to be prepared to check back in with the external auditor for RTD in
+order for RTD to meet its Annual Comprehensive Financial Report filing deadline of June 30, 2023, as well
+as getting the results for the financial audit and single audit. That would be done in April or May in time for
+the Audit Committee to be able to report to the Finance and Planning Committee and the Finance and
+Planning Committee to report to the full Board and accept the audit process in concert with the normal
+calendar that RTD is accustomed to with their audit process.
+And then we're looking to schedule some additional meetings in July or August of '23 as well as October of
+'23 to report on any internal audit matters as well as any other audit matters that might come up throughout
+the year, whether we receive results from different agencies that are monitoring RTD throughout the year.
+Really, all items audit related will route through this Audit Committee. And the Audit Committee will be the
+venue to discuss those matters in detail and make recommendations to the Board and management on
+what would be some good ways to proceed based on audit results that are achieved.
+And so we will be sending out a poll to make sure we get all those dates set, and so that we can adhere to
+the public notice requirements through this Audit Committee as well as providing agendas and so on well
+in advance of the meetings. So those are the kind of dates we're looking at and the rationale why we need
+to have some certain meetings at certain times in order to fit into the needs for RTD. Any questions with
+regard to that calendar or any other matters I discussed?
+Yes, Director Davidson. I think I saw your hand first.
+ERIK DAVIDSON: Yeah, thanks, Matt. Thank you for going through all that. It makes sense. And I know
+we've had a chance to discuss this. I know one thing we had been discussing was the refreshed risk
+universe. And you're going through those interviews with management and Board. How at risk are we in
+terms of having that by February? I know you mentioned that we'd like to have that, if possible, by then. But
+just curious where we are in the process, and if you wouldn't mind, just clicking into that a little bit.
+MATT MARINO: Yes. So we're in the process of scheduling the interviews with management and the Board.
+We do have a little bit of control because we put deadlines on when we want the responses back by. So
+we are intending to set that early enough in February as to provide enough time to provide their feedback,
+but also give us the time to accumulate the results and present it to you all. Dave, did you have anything
+that I missed on that response?
+DAVE HARONIK: Yeah, I think that the biggest time frame that would make that be at risk would be the
+timing of the survey. So once we have interviews-- conducted the interviews-- we would update that risk
+
+universe, have people rank where they feel certain risks are in their opinion, and then we would compile all
+that.
+So I think if we kept it open for a week, which I believe is a reasonable time frame, we'll be able to get
+similar results as far as survey completion as we did with management and the Board last time. And if we're
+able to keep it to a week, I think we can meet these deadlines.
+ERIK DAVIDSON: Great. Thank you for the additional details. That's all.
+MATT MARINO: Yes, Director Catlin. I think you might be on mute now.
+PEGGY CATLIN: I just realized that. I didn't my fingers. Along those lines, to encourage both management
+and other Directors for their participation in this, I would ask staff, particularly Doug MacLeod. And you can
+work with GM/CEO Johnson to encourage prompt participation from staff.
+And similarly, I would impose upon Chair Guissinger from our Board, as well as Director Dishell as Chair of
+this committee, to maybe put out a memo to encourage our fellow Board members to participate and
+stressing the importance of this activity. That's just a comment I had.
+And then one other thing-- and maybe Doug MacLeod could help me with this-- I'm not sure if we're going
+to be asked to give any kind of presentation to the State Legislative Audit Committee this year on any of
+our initiatives or our progress to date. But we may well want to hold that in the background as something
+we may need to do during this session. It may well wait till next session, but that's a possibility.
+DOUG MACLEOD: Mr. Chair, Doug MacLeod. May I respond?
+PEGGY CATLIN: Bobby?
+BOBBY DISHELL: Yes.
+PEGGY CATLIN: OK.
+DOUG MACLEOD: Good, thank you. Thank you for the question, Director Catlin. Yes, my discussions with
+the Office of the State Auditor was that RTD is done making any formal responses based on that audit.
+There will be occasional follow-ups from the OSA to just check on the status of our progress. However,
+there will be no more formal responses to the State Legislative Audit Committee or otherwise regarding this
+issue unless something were to occur.
+We are slated, I believe-- the OSA has to do a performance or financial audit of RTD every five years. And
+I think we've got another one probably coming up in 2024. So nothing on the books yet. We also have-- we
+will have a triennial audit from the FTA in 2024. Those are the only unusual or non-recurring, so to speak,
+audits that I'm aware of at this point.
+PEGGY CATLIN: Thank you. I appreciate that.
+BOBBY DISHELL: Director Davidson.
+ERIK DAVIDSON: Thank you, Chair. Just to follow up on that, Doug, so if the Office of the State Auditor
+has some check-ins, as you said, just for some basic follow-up, who has accountability in terms of
+responding or fielding questions right now? As liaison of the function, are you planning to do that, Doug?
+Do you need the committee to be involved and the Chair to prepare a statement? How would you like to
+proceed with that?
+
+DOUG MACLEOD: Thank you, Director Davidson-- great question. And up to this point, since the Audit
+Committee wasn't fully formed-- so I was the point person that was collecting information or responding
+back to the Office of the State Auditor. I think that's a great point that going forward that it should come
+through the Audit Committee-- any of those communications. Previously, obviously, those responses went
+through our General Manager and CEO, Debra Johnson. But it makes sense that if we have anything like
+that that would have to do with audits that we bring it through the Audit Committee. And I can coordinate
+that through our General Manager.
+ERIK DAVIDSON: That sounds great, Doug. Thank you. That's great. I guess we'll take that as it comes on
+an ad hoc basis. But I think that sounds like a good procedure. Thanks.
+BOBBY DISHELL: And I just have a quick question for Doug as well. If I understand this correctly, it's the
+state has to audit us at least every five years, which means there's a world in which they restart in next
+month-- they restart in 2024. Do you happen to know how much notice they give us prior to instituting one
+of those audits that this committee, should we need to, can come together and address that?
+DOUG MACLEOD: Yes, thank you for the question, Chair. And I'll have to refer to my notes. I know that
+the lead of the State Auditor gave us a tentative year of when they would do that. And they usually give us
+about six-months notice. I believe it is 2024, but I'm not sure because I believe most of these audits get
+scheduled through the State Legislative Audit Committee.
+And the OSA actually recommends when those audits should occur. And so this particular lead auditor just
+gave me a heads-up that they thought the cycle would be, I believe, in 2024. But I can, through the Board
+office, provide that information back to this body, if that's OK.
+BOBBY DISHELL: Absolutely. That's great. And I think it's something for us to think through as we get
+towards the tail end of this year prepping for what appears to be a 2024 audit-- external audit. Director
+Catlin.
+PEGGY CATLIN: Thank you, Chair Dishell. I just recall when we did present to the State Legislative Audit
+Committee back-- I think it was 2019 or '20-- 2019-- there was one legislator who expressed a desire to
+have an interim update given the audit findings.
+So that's all I was trying to be prepared for, in the event that-- I don't know if that legislator is still on the
+Audit Committee. But I know there had been some interest in at least getting an update from us. That was
+the only reason I brought that up. Thank you.
+DOUG MACLEOD: Mr. Chair, Doug MacLeod. May I respond quickly?
+BOBBY DISHELL: Please.
+DOUG MACLEOD: Thank you. Yes, Director Catlin, that is true. We did provide a written update. And then
+the OSA actually provided that update to the Legislative Audit Committee on our progress. As you may
+recall, for each recommendation we had set certain milestones and dates of when we were going to
+accomplish certain things. We did report back on that. It's been a year or so, I believe. I believe General
+Manager Johnson shared that response. And I have that if you are interested in seeing that again. The
+response from the OSA was that there was no further action needed-- that the Legislative Audit Committee
+was satisfied with our progress.
+
+PEGGY CATLIN: If I might ask for you to redistribute that response. I do recall reading it and seeing it. But
+our new committee members-- our outside committee members-- may not have seen that. So I would
+appreciate that. Thank you.
+DOUG MACLEOD: Will do. Thank you.
+BOBBY DISHELL: Anything else on schedule before we move on to other matters? And just to tie a nice
+neat bow on this-- yeah, Matt, go ahead. I saw you came off mute.
+MATT MARINO: I was just going to respond, Director Dishell, that I had no further matters. But please
+watch your email for the survey response so that we can get those dates firmed up and get all those out on
+the calendar.
+BOBBY DISHELL: Perfect. Thank you. Are there any other matters to discuss for this committee? The next
+committee meeting is to be scheduled and will be posted in accordance with Colorado Open Meetings Act
+once it is scheduled. Seeing no discussion, this meeting is adjourned at 2:37 PM. Thank you.
+ERIK DAVIDSON: Thank you very much. Welcome, Jim and John. Thanks.
+JOHN OLENBERGER: Thank you, everyone. We'll see you next meeting.
+JIM BRENDEL: Thank you.
+ERIK DAVIDSON: See you in February. Bye.
+
+

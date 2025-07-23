@@ -1,0 +1,83 @@
+## I. Government Relations Committee
+
+Chaired by Bruce Daly
+
+### A. Call to Order
+
+Committee Chair Daly called the meeting to order at 7:16 p.m.
+
+Staff Present:              Bruce Abel, Susan Altes, Rick Clarke, Sherry Ellebracht, David Genova, Terry Howerter, Austin Jenkins, Lacy Bell, Kate Iverson, Tina Jaquez, Erin Klaas, Marla Lien, Doug MacLeod, Barbara McManus, Deborah Mendez-Wilson, Tara Miller, Paula Perdue, Scott Reed, Bill Sirois, Henry Stopplecamp, John Tarbert, Pauletta Tonilas, Mike Turner, Bill Van Meter, Phil Washington, Brian Welch, Susan Woods, Julia Yugel
+
+Others Present:               J. Brandsen, Michelle Brier, M. Combs, Z. J. Czupor, Melissa Dubinsky, Joni Goheen, Doug Gragg, Stanley Gronek, James Gross, Tom Grushka, Sherman Hamilton, David Lewis, Roger Sherman, Marta Sipeki, Joe Triplett, Gary Van Dorn
+
+### B. Recommended Actions
+
+There were no recommended actions.
+
+### C. Updates
+
+Director Daly, Chair of the Government Relations Committee, introduced Sherry Ellebracht, Government Relations Officer.  She indicated that our local liaison, Roger Sherman, was present along with Jenifer Brandeberry for our state update.  Sherry Ellebracht said that she would be presenting an update from Patton Boggs as Mike Dino was out of town.
+
+Local Government Update – CRL Associates
+
+Roger Sherman thanked the Directors for participating on the FasTracks Citizens Advisory Committee (CAC) member meetings that were discussed by David Lewis during the FasTracks Committee Meeting.  He recognized the time commitment this takes from the Board members.  Roger Sherman stated that these meetings were very appreciated and positive.  He reiterated that the next CAC quarterly meeting will be on May 26th from 12:00 – 2:00 p.m.
+
+Roger Sherman shared that his team is continuing to work with the region on long range funding options.  He joined Mayor Appelbaum from Boulder at the US 36 Commuting Solutions Meeting on May 14th to present on Impact 64.  Roger Sherman stated that Impact 64 continues to progress.  He feels that if we had suggested two years ago that the local elected officials across the State would consider a sales tax for transportation we would have been laughed at.  He thinks the progress continues to be very positive.
+
+Roger Sherman said that Colorado Counties, Inc (CCI) and Colorado Municipal League’s (CML) annual conferences are in June which they will be attending.  This is a good opportunity for CRL to interact with local elected officials.  Roger Sherman also shared that Kim Kuccera from CRL is also attending Accelerate Colorado.  He noted that Directors Folska, Lubow and Tobiassen are attending as well and this is a way for CRL and RTD to continue to connect with our elected officials.
+
+Roger Sherman stated that CRL has been speaking with Liz Rao, Chris Quinn and Nadine Lee about the Northwest Area Mobility Study (NAMS).  He explained that CRL wants to stay up-to-date on the timeline and process as they are out in the community.
+
+Roger Sherman stated that he is beginning the process of putting together a snapshot for this year’s municipal elections.  He said that there are a lot of announced candidates already.  There is typically an August deadline for candidates for formally file with their municipality.  He explained that CRL will work with Board members as to how we interface with the candidates, monitor the election, and then work with the winners after the election.
+
+Director Menten asked for additional information on the status of the sales tax increase.  It was her understanding that some of the mountain communities had some issues with this increase.  She also said that she was interested in attending the CCI and CML conferences and asked if that was possible.  Roger Sherman stated that the initiative was titled Impact 64.  He explained that the group is meeting on a monthly basis but this initiative is just being circulated and discussed.  It is a long way off from going to election.  Roger Sherman said he would work with Director Menten on the conferences.
+
+Committee Chair Daly asked Roger Sherman to explain further about Impact 64.  Roger Sherman explained that it is a group that was organized to bring all the counties in Colorado together to discuss transportation funding.
+
+State Government Update – Brandeberry~McKenna
+
+Jenifer Brandeberry stated that the 2013 legislative session concluded Wednesday May 8th.  She said that in 15 years of state lobbying this session had very substantial and prolific legislation.
+
+Jenifer Brandeberry reiterated that there were 32 new members out of 100.  In addition there was new leadership in the House and Senate on the majority and minority sides.  She said that she cannot remember a session in which there were so many meetings up-to, and going past, midnight.
+
+Jenifer Brandeberry shared that we were successful in getting two pieces of legislation passed.  The bill regarding RTD and third party parking was signed by Governor Hickenlooper at the West Line Opening; the sales tax parity bill is on its way to be signed by the Governor.
+
+Jenifer Brandeberry thanked the Board and staff for working with her team.  She feels there is a strong relationship between RTD and Brandeberry~McKenna.
+
+Jenifer Brandeberry explained that while it is not legislation, they are also working with RTD and the Department of Revenue to look at ways RTD can help support the Department of Revenue in collecting sales tax more efficiently.
+
+Director Hoy asked for an accounting of the votes of the representatives from his District.  Jenifer Brandeberry said that her team would provide the Board members with that information.
+
+Director Bagley thanked Jenifer and Brandeberry~McKenna for all their efforts.  He believes it has been an outstanding year for RTD at the legislature.  He thinks without Brandeberry~McKenna’s shepherding we would not have been as successful.  Director Bagley asked that he be kept updated on Senate Bill 13-052 regarding Transit Oriented Development Claims.
+
+General Manager Washington commented that as we look at what we did late last year through present it was very textbook.  Staff put together the Risk Allocation Matrix (RAM) and FasTracks Internal Savings Account (FISA) for Board approval in the fall; we then had our State lobbyists take the ball and run with those approved items was very textbook.  He shared that he has asked RTD’s District Historian to capture what occurred because what we did in identifying how much money we could realize and then to have that come to fruition is incredible.  General Manager said that the RAM and FISA have trickled their way to Washington with our federal delegation.  He thinks it is very incredible when you have Congressmen and Senators talking to him about the RAM.  General Manager believes the RAM is something we should all be proud of.
+
+Committee Chair Daly noted that the Board had wanted to conduct a tour of Denver Union Station with our legislators.  He asked why that did not happen.  Jenifer Brandeberry explained that since the legislators were so overwhelmed during the session they did not want to take time away from the building.  She said that many did participate in the West Line Opening.  Jenifer Brandeberry believes the legislators really appreciated the attention that RTD gave them.
+
+Federal Update
+
+Sherry Ellebracht stated that Mike Dino from Patton Boggs was unable to attend the meeting so she would cover the update.
+
+Sherry Ellebracht shared that as many of the Board members are aware, the President nominated Anthony Foxx as the new Transportation Secretary.  The confirmation hearings will be held very soon but the date has not been set.
+
+Sherry Ellebracht said that the Internet Sales Tax legislation was passed on May 6th in the Senate.  She explained that the House has a parallel bill.  She believes that while this legislation passed easily in the Senate the House will be another issue as many of the members look at it as a sales tax increase.
+
+Sherry Ellebracht stated that the Department of Transportation (DOT) announced $474 million in funding for the TIGER V grant.  She explained that this grant is different because there is a very shot application and obligation period.  To be approved your project has to be ready to be built.  She believes this is because the DOT is seeing funds that are allocated to projects but then the funds are not being used.
+
+Sherry Ellebracht informed the Board that the MAP-21 reauthorization expires a year from September 2013.  The House Transportation Committee is starting to work on the next authorization.  She said that we hope to have the reauthorization be for at least 5 to 6 years.
+
+Sherry Ellebracht shared that both the House and Senate are working on Fiscal Year 2014 appropriations.  She said that the debt ceiling will most likely become an issue by summer.  Sherry Ellebracht explained that the House would like to see tax reform rolled in with the ceiling issue.
+
+Director Hoy commented that he believes RTD lost a friend with Ray LaHood resigning as the Transportation Secretary.  It is his understanding the Anthony Foxx may already be acquainted with RTD.  General Manager Washington said that we do know Anthony Foxx as the Mayor of Charlotte.  He shared that RTD has already gone through our channels to invite him to Denver.  General Manager Washington explained that Mr. Foxx is very pro-transit.  Staff feels Mr. Foxx is a good choice; he is very familiar with our projects and expansion.  Sherry Ellebracht stated that Charlotte has many of the modes of transit that we are interested in.  She feels Mr. Foxx has a broad concept of multi-modal transportation which bodes well for RTD.
+
+Jenifer Brandeberry highlighted that Colorado passed the Marketplace Fairness Act.  She explained that this bill is a bill that proactively anticipates the Federal Government passing their Internet Sales Tax legislation.
+
+#### 1. Legislative Update--Local, State, and Federal
+
+### D. Other Matters
+
+Director James wanted to make sure the other Board members are aware that Roger Sherman is running for Denver City Council to replace Councilwoman Jeanne Robb.
+
+### F. Adjourn
+
+Committee Chair Daly adjourned the meeting at 7:46 p.m.

@@ -1,0 +1,177 @@
+## I. Planning and Development Committee
+
+Chaired by Bill James
+
+### A. Call to Order
+
+Committee Chair James called the meeting to order at 8:10 p.m.
+
+Directors Lasater and Solano left early.
+
+Staff Present:               Bruce Abel, Mark Baudermann, Frank Buczkowski, Rick Clarke, Susan Cohen, Heather Copp, John Dawson, Kevin Diviness, John Elias, Sherry Ellebracht, Terry Emmons, Anthony Forrester, David Genova, John Gonzales, Cory Granrud, Nate Herman, Kate Iverson, Tina Jaquez, Erin Klaas, Marla Lien, Adrian Mabry, Tony McCaulay, Robin McIntosh Jr., Patrick McLaughlin, Barbara McManus, Vivian Morales, Andy Mutz, Tom Papadinoff, Paula Perdue, Mike Peters, Scott Reed, Steve Reilly, Pranaya Shrestha, Bill Sirois, Karen Stanley, Henry Stopplecamp, Kirk Strand, Liz Telford, Mike Turner, Bill Van Meter, Ashland Vaughn, Jyotsna Vishwakarma, Brian Welch, Susan Wood, C. Scott Woodruff
+
+Others Present:               GB Arrington, Greg Barber, Chris Barker, Barbara Brodman, Sarah Camacho, Sarah Clark, Karen Creamer, Jane Donovan, Joni Goheen, Art Griffith, The Honorable Jim Gunning – Mayor of the City of Lone Tree, Sherman Hamilton, Scott Hoffman, Eugene Howard,  Negar Karimi, Kelley Kneib, Anders Lindgren, Frank Marigold, Julie McCabe, Lorna Moritz, Roger Partidge,  Joe Reed, Dave Sachs, Roger Sherman, Jeanne Shreve, Karen Stuart, Arleen Taniwaki, Gary Van Dorn, Molly Vega, Megan Wagner, Roger Wilson
+
+#### 1. 2015-2020 Strategic Plan
+
+It is recommended by the Planning and Development Committee that the Board of Directors adopt the 2015-2020 RTD Strategic Plan.
+
+Motion:               Director Tobiassen made the motion to move this item to the full Board at the July 28, 2015 Board Meeting.
+
+Director Lasater seconded the motion.
+
+Discussion:              Bill Van Meter, Assistant General Manager of Planning, reminded the Board that this item was reviewed at the June 30, 2015 Study Session.  Staff has since made some modifications; he asked Brian Welch, Senior Manager of Planning Technical Services, to review the changes with the Board.
+
+Brian Welch reiterated that changes were made based on the feedback staff heard at the Study Session.  He said that the first change was related to the Strategic Planning Process Flow.  Per Board direction to make sure this plan really addressed RTD’s long-term vision, staff added a sentence that reads: “Some of the initiatives involve actions that may not come to fruition until beyond the five-year time frame, but warrant action now”.
+
+The next change relates to an initiative that staff flushed out further to increase equity and accessibility.  One of the initiatives now reads: “Work with private and non-profit partners to collaborate on new technologies such as car and bicycle sharing, autonomous vehicles and other transportation innovations”.  He said staff heard pretty clearly from the Board that this needs to be a forward looking document and anticipate activities over the next five years that will position the District to deal with emerging technologies so this was added to address that need.
+
+Additionally, the Board expressed a great deal of interest in the integration of the RTD investment with the State of Colorado.  As a result, the initiative was changed from simply: “Partner with other agencies to integrate transit services throughout the State of Colorado” to read: “Establish a leadership role with other agencies to integrate transit services throughout the State of Colorado”.  This signifies that RTD would have a leadership role in that activity.
+
+Finally, based on a number of comments from the Board related to the interest in fostering enhanced communication between Board and staff, the initiative was changed from: “Foster a two-way communication culture with every level of the organization” to read: “Foster a two-way communication culture with every level of the organization, including enhanced opportunities for Board/staff interaction.”
+
+He said that if the Board approves the Strategic Plan, staff will come back later in the year with performance metrics that would be associated with the initiatives so progress could be monitored by the Board.  Staff believes the Board’s preference would be to visit the Strategic Plan once a year while performance measures would become part of the Board and Senior Leadership Team Advance.
+
+Committee Chair James feels that the process by which the Board is looking at this document and having the opportunity for changes is good.  He thanked Brian Welch for outlining the changes since the last iteration of the Strategic Plan.
+
+Director Folska expressed her appreciation for all the effort that has gone into preparing the Strategic Plan.  To her it is a memorialization of what RTD is already doing and what we have decided to do for the next year.  She stated that is has always been her belief that doing a strategic plan is what the Board was elected to do.  She recognized that there are some boards that have staff create the plans but that is not her preference so she will not be supporting the approval of the Strategic Plan this evening.
+
+Director Lubow echoed Director Folska’s comments.  She appreciates the work that staff has put into revisions to address specific Board concerns.  She said she very much appreciates being listened to and feeling like she was heard; however, she still feels that a retreat driven strategic plan that the Board does once a year should be done also for a five year plan.  She said that personally she would like to consider this document suggestions for moving forward as opposed to having it be associated with specific strategic goals.  Director Lubow noted that although she appreciated the work she would be voting against the Strategic Plan.
+
+Director Solano said that he also appreciated the work but he thinks a Board driven plan is more in-line with what the constituents want.  He believes that the timeframe for the Strategic Plan should be one where the Board can establish this policy.  He stated that he will vote no.
+
+Director Walker stated that he will be supporting the Strategic Plan.  He expressed his confusion about the sentiment that this is not Board driven.  He noted that the Board gave input and the Strategic Plan was changed as a result.  He shared that in his experience it is usually staff that creates the items for the Board to vote on.  Staff comes up with the concepts, develops the plans, writes the reports, etc. and the Board either approves them or asks for changes.  He thinks this is a Board driven Strategic Plan even though staff did the bulk of the work.  Director Walker thanked the staff for listening to the Board’s concerns.  He thinks they did a great job.
+
+Director Bagley echoed the comments made by Director Walker.  He shared that he spent a great deal of time with Brian Welch discussing the issues that he thought were most important for the agency.  He sees several of those issues (customer service, safety and workforce) being right at the top of the items the Strategic Plan addresses.  He recognized that Brian Welch and his team spent countless hours interviewing and having conversations with 14 members of the Board.  He expressed his shock that one member did not participate.
+
+Director Deadwyler thanked staff for all the hard work they have put in on the Strategic Plan.  She recognized that the Directors and Senior Leadership Team have an advance once a year to discuss a one year plan, not a five year plan.  She would like to see the Board have a full discussion on the Strategic Plan.  She said that she expressed what she thought was most important but it did not appear in the plan until recently; therefore, she will be voting no.  Director Deadwyler believes that the Board needs more involvement in developing the Strategic Plan.  She thinks that perhaps having something similar to the Fiscal Sustainability Task Force might be valuable in further developing this plan.
+
+Committee Chair James shared that he agrees with Director Bagley and Director Walker.  This Strategic Plan is one that has had plenty of Board input.  He believes it is consistent with RTD’s mission as articulated by the Board and does a good job describing how to achieve the desired outcomes.
+
+Committee Chair James declared the motion PASSED.
+
+##### a. RTD_Stategic_Plan_layout_v10
+
+#### 2. Contract Amendment; 2nd Optional Year of 
+2013-2015 Street Improvements & Shelter Installations Contract; # 33DM005
+
+It is recommended by the Planning & Development Committee that the RTD Board of Directors authorize the General Manager or his designee to execute all documents necessary to award a contract amendment to initiate the second optional year of a three-year contract for the annual Street Improvements & Shelter Installation contract with Manion Construction, Inc. for $390,318.35.  Funding for this contract amendment is provided by the annual 2015 – 2016 Engineering Expense Budgets.
+
+Motion:              Director Folska made the motion to move this item to the full Board at the July 28, 2015 Board Meeting.
+
+Director Tobiassen seconded the motion.
+
+Discussion:              Henry Stopplecamp, Senior Manager of Engineering, explained that currently RTD uses Manion Construction to perform day-to-day repair work for things like bus pads, curbs, shelters, etc. as well as work on the West Corridor.  He said that this is a really straightforward contract.  Ordinarily staff would come back in September but we have been using them quite a bit on the West Corridor.
+
+Cory Granrud, Project Manager, noted that Manion did 34 projects from 2013 to 2014 while this year they are already going on 52.  He said that Manion is a small business contractor and has been very good to work with.  They do a great job so staff wishes to extend the contract.
+
+Director Menten said that she was in support of the contract.  She asked if staff could send her the email contact for the different governing bodies that would be responsible for the non-RTD bus benches, shelters, etc.  She has wanted to reach out to them for several years as she sees broken bus benches, graffiti, etc.  She knows this is not RTD’s responsibility so she would like to reach out to the responsible parties.  Henry Stopplecamp recognized that it might take some time to find the information for every county in Director Menten’s district but staff would work on that.
+
+Director Francone asked how the base contract value was determined.  Henry Stopplecamp explained that staff looked at the ongoing projects and then did an estimate.  He said that it was a lot of guess work.  The last two years the cost ended up being over the initial base contract value and staff had to come back to the Board to request approval of amendments for additional funding.
+
+Committee Chair James declared the motion PASSED unanimously.
+
+#### 1. RTD TOD Assessment
+Status Report to the Board of Directors
+
+Bill Sirois, Senior Manager of Transit Oriented Development and Planning Coordination, reminded the Board that this is the second briefing as part of the Transit Oriented Development (TOD) Assessment.  The team is comprised of GM Arrington of GB Place Making, Lorna Morita of TRA, and Arleen Taniwaki of ArLand.   They reviewed a Power Point presentation that was included in the July 14, 2015 Planning and Development Committee Agenda Packet.  The presentation focused on the Peer Reviews, 360 TOD Interviews and Internal Assessments that the team conducted.
+
+GB Arrington noted that there are six big themes to focus on which are:
+
+- RTD compared well to peers
+
+- Pilots raised RTD’s competency
+
+- Decision-making is a challenge
+
+- TOD group is not empowered
+
+- Build processes, become more systematic and be more proactive
+
+- Think more about TOD during operations
+
+The Peer Agency TOD Review key findings were:
+
+- RTD’s TOD program has evolved and grown since the 2010 TOD Strategic Plan
+
+- RTD compared well with national best practices
+
+- RTD should selectively borrow from its peers – help take the program to the next level
+
+The External Interviews revealed important observations related to RTD TOD Decision-making as follows:
+
+- RTD departmental interests compete
+
+- Decision-makings often contradict each other
+
+- TOD projects impact almost every department without sufficient coordination
+
+- RTD TOD Projects lack sufficient priority
+
+- TOD group is not enabled or empowered
+
+The External Interviews also indicated that the TOD staff had learned from the TOD pilot programs, which was their purpose but interested parties felt RTD learned by doing at their expense.  Those interviewed also felt that the timelines and schedules were impacted by RTD delays as decisions took too long and there was inconsistent RTD guidance.
+
+The Internal Assessment key themes were:
+
+- Recognized the value of the TOC  Division
+
+- Build processes, become more systematic and be more proactive
+
+- Is TOD a core function of RTD
+
+- TOD is an evolving process at RTD
+
+- RTD departmental interests compete
+
+- Was money left on the table with TOD and DUS
+
+- Residual baggage with TOD
+
+- TOD during construction versus during operations
+
+- Does TOD have the authority to negotiate
+
+GB Arrington stated that his team would be back in the fall.  At that time they would prepare specific recommendations for policies, processes, staffing and follow-up work.
+
+Committee Chair James thanked the team for their candor and insights.
+
+Director Folska thanked them for all their work.  She thinks it is incredibly useful, meaningful and informative.
+
+Director Deadwyler shared that one of the things most relevant in her District is that we evaluate everything except the customer needs.  She said that she is not disappointed in the work done so far but is concerned that a big piece missing is discussions with the users.  She hopes that they can capture some of that feedback when they come back in the fall.
+
+Director Walker wondered how much of the TOD program struggles were due to unclear legislation at the state or local level.  He asked if there was something beyond our control that was contributing to some of the difficulties.  Bill Sirois noted that the Board really received an unfiltered version of the comments.  He thinks that the process has been a learning experience for staff.  He pointed out that the report did acknowledge that the TOD staff has evolved form 2010 when our TOD Pilots began.  Bill Sirois stated that it is a challenge, especially as staff interfaces with developers that are not used to dealing with a public agency.
+
+Director Walker commented that there are things that RTD cannot control.  Transit Oriented Development is really a choice; there are some people and communities that want it and some that do not.  Director Walker stated that when most people voted for FasTracks in 2004 they said that transportation was something they wanted.  He believes this is a good step toward helping us find a path towards Transit Oriented Development.
+
+GB Arrington noted that if his team were making this presentation to other peer agencies they would be saying many of the same things; these are normal challenges when trying to balance the needs of users, developers, cities, etc.  He said if there are no internal fights then it means nothing is happening.  He recognized that his team is not surprised there are tensions at RTD but the goal is to find ways to make the process more predictable to work through.
+
+Interim General Manager Genova noted that the change in legislation for parking management has already helped RTD.  Several examples are the unsolicited proposal received and the City of Aurora’s plans for the Iliff Parking Garage.
+
+Director Lubow said she was very happy with having a TOD Analysis because it is such a large and all-encompassing subject that it is easy to get lost.  She believes that anything RTD can do to clarify our mission and goals is a big plus.  She is very excited for their final presentation.
+
+Director Bagley thinks it is important for the Board to remember where we came from.  Back in 2009 RTD was simply the ‘T’ in Transit Oriented Development.  He believes the agency has come a long way in seven years.  He hears from the development community that they would like RTD’s TOD group to act as a facilitator and ombudsman.  Director Bagley thinks that RTD is constrained by State Legislation in regards to our involvement in TOD.  He wonders if perhaps the TOD Department needs to stand on its own and have a bigger voice than just being under the Planning Department.
+
+Director Menten thinks that the communities along the West Corridor did not envision high density development when they approved the FasTracks plan.  The West Line goes right through well-established neighborhoods.  She said that many of those larger homesteads have been in families for generations; they do not want to move and they do not want a seven story housing community next to them.  Director Menten stated that she would want notifications of any zoning changes in her area and what that would mean for the community.
+
+Director Francone asked the TOD Assessment team to keep in mind Director Walker’s earlier comment as they come back to the Board in the fall that “this is how we live and this is how we want to live”.  She also asked them to keep in mind Director Menten’s sentiments that not all communities want Transit Oriented Development.   Her community members chose to live in her area because there are single family homes on larger lots.  She believes her constituency would be sensitive to issues around density in their community.  Director Francone wondered if the focus of the TOD Assessment was only related to FasTracks projects or if it would include bus transit centers as well.  Bill Sirois explained that RTD would be deferring to local jurisdictions to create the vision for their community.  If the local jurisdiction decides that they want to be a large lot, single family home community then RTD will not do anything to conflict with that vision.  He said that there are some beginning stages of TOD happening around bus service and in the future he expects this to expand.
+
+Bill Sirois pointed out that Transit Oriented Development is really context sensitive; transit is an amenity that helps development but just because there is a transit center does not mean development will automatically happen.  Other factors like location, local jurisdictions commitment, etc. need to be there to make development happen.
+
+Lorna Moritz commented that when they review TOD programs that are somewhat more mature, the way those program prioritize their stations is to look to where they have willing partners such as local jurisdictions, neighborhood associations, developers, etc.   She said no one will shove a TOD down a community’s throat that does not want it there because it is too hard to do even when people are interested.
+
+Committee Chair James noted that the fundamental mission of RTD is mobility but RTD also exists to contribute to the livability of the Metro area.  He believes that livability is contributed to by TOD.  The challenge is the coordination of these two goals.  Committee Chair James thinks it is great that RTD is in the process of conducting a TOD assessment.  He looks forward to finishing the study and implementing some of the recommendations.
+
+##### a. RTDJulyBoard.Final.Assessible
+
+### D. Other Matters
+
+Director Bagley shared that he recently had the opportunity to give Anthony Graves from the Mayor Hancock’s office a tour of District H.  Director Bagley said that he has known Anthony Graves since his time with Visit Denver.  He thought they had a very valuable conversation about RTD.  He suggested that it might be worthwhile for those Directors that have not yet met with him to do so.
+
+Committee Chair James noted that he has known Anthony Graves for a similar period of time as Director Bagley.  He said that Anthony Graves has reached out to all Board members; he asked those Directors that had not yet taken the opportunity to meet with Anthony Graves to please do so.
+
+Director Menten shared that she had her meeting with Anthony Graves several weeks ago.  They met at the Sheridan Station with their bikes to take the West Line to the Jeffco Government Center and had some difficulties getting on the train.   They missed the first train and then Anthony Graves got on the next train and it ended up leaving Director Menten behind.  He said if anyone said the W-Line does not run on time they were wrong.
+
+### F. Adjourn
+
+Committee Chair James adjourned the meeting at 9:18 p.m. to the Government Relations Committee Meeting.

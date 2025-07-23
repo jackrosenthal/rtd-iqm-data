@@ -1,0 +1,71 @@
+## I. Call to Order
+
+Chair Anderson called the Executive Committee to order at 12:03 p.m.  In attendance were Chair Anderson, 1st Vice-Chair Bagley, 2nd Vice-Chair Hoy, Secretary Daly and Treasurer Walker.
+
+Other Board members in attendance: Director James and Director Tobiassen (via phone)
+
+Others in attendance:  General Manager Washington, Paula Perdue
+
+## II. May Board Meeting Agenda Review
+
+Chair Anderson  reviewed the Board agenda for the May 28 Board meeting.  She asked for any comments or questions.
+
+Motion:                Director Bagley made the motion to approve the May 28 Board agenda.
+
+Director Hoy seconded the motion.
+
+Vote on the
+
+Motion:              The motion PASSED.
+
+#### A. Presentation of 2012 RTD Comprehensive Annual Financial Report and Report to Governance
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors accept and enter into the record the District’s audited financial reports relating to the year ended December 31, 2012 as prepared by Staff and  audited by the District's independent auditor, RubinBrown, LLP.
+
+##### a. 2012 CAFR Final
+
+#### B. RTD Drug and Alcohol Policy
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors approve the revised RTD Drug and Alcohol Policy mandated by the Federal Transit Administration of the United States Department of Transportation.
+
+##### a. 2013 Drug and Alcohol Policy
+
+#### C. Approval of the Downtown Denver Circulator Fare-Free Service Plan
+
+It is recommended by the FasTracks Monitoring Committee that the Board of Directors approve the Downtown Denver Circulator bus service plan including fare-free operations beginning in 2014.
+
+##### a. downtowncirculator_short_May2013
+
+#### D. August 2013 Service Plan
+
+It is recommended by the Operations/Customer Services Committee that the Board of Directors approve moving the proposed August 2013 Service Change as summarized below and described in Attachment A on to public review and comment.
+
+##### a. Attachment A
+
+##### b. West Corridor Fix r16
+
+##### c. West Corridor Fix Kipling
+
+##### d. West Corridor Fix Simms Ken Caryl
+
+##### e. West Corridor Fix Wadsworth
+
+## III. Other Matters
+
+Other Matters:
+
+- Director James expressed his appreciation to the Board members for their review and responsiveness to the organizational membership update request.
+
+- Director Daly shared that he had attended the Implementing PPP Workshop that was held yesterday.  General Manager Washington was one of the speakers and did a great job.  He found this workshop quite informative.  Director James asked General Manager Washington his opinion on if he is seeing a type of “C-Change evolution” that is taking place.  General Manager Washington responded it depends. He noted there appears to be some fear/hesitation by the international companies to deal with the government on PPP’s due to a lack of knowledge pool within the government. RTD is sought after as speakers or for knowledge due to our experience with PPP’s.  Director James asked the General Manager if he sees any strategic opportunity for RTD.  General Manager Washington responded that hopefully we can influence transportation on a national level and the industry including APTA. He also shared that part of his discussion has been creating a national priority project list where opportunities could be leveraged.  He believes the future financial opportunities will be a three legged stool involving privates, government and others to have major impacts.
+
+- General Manager Washington briefed the Executive committee on some new developments related to the I-225 project specific to the Anschutz campus alignment.  He shared there are numerous discussions that are in progress with the city and the University.  UC has expressed continued concerns on possible impact of EMI and vibrations on its biomedical operation.  They are reviewing possible options for re-alignment but further information is needed to understand the full impact of the re-alignment on ridership, costs, community, schedule and other variables. RTD remains neutral on a number of these issues.  He will come back to brief the Board soon as more information around implications and unintended consequences becomes available.
+
+- Chair Anderson shared with the Executive Committee a detailed request from staff from Director Menten relative to the West Corridor and traffic counts.  General Manager Washington indicated that staff will prepare a response to what information RTD has and will direct Director Menten to the appropriate sources for where some of the other requested data may be obtained.
+
+- Director Hoy indicated the committee needs to be focusing on a succession plan for the General Manager.  General Manager commented this discussion has already occurred and they have a succession plan in place.
+
+- Director Hoy would like to schedule a discussion around the Board travel policy.  He and Chair Anderson will meet to have an initial discussion.
+
+## IV. Adjourn
+
+The meeting adjourned at 1:35 p.m.

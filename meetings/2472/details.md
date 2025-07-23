@@ -1,0 +1,265 @@
+## I. Operations and Customer Service Committee
+
+Chaired by Lorraine Anderson
+
+### A. Call to Order
+
+Committee Chair Anderson called the meeting to order at 7:16 p.m.
+
+Directors Deadwyler, Lasater and Sisk were absent.
+
+Staff Present:               Tonya Anderson, Rolf Asphaug, Tim Barlow, Shirley Bennett, Gina Callahan, Sarah Camacho, Rachel Carson, Jessie Carter, Carolyn Conover, Heather Copp, Lou Cripps, Heather Deckard, John Elias, Terry Emmons, Eric Farrington, Anthony Forrester, Doug Gragg, Kim Heldman, Adrian Mabry, Doug MacLeod, Robin McIntosh, Barbara McManus, Allen Miller, Brenden Morgan, Sue Sandoval, Tai-Shrae Parish, Jannette Scarpino, Rahul Sood, Errol Stevens, Henry Stopplecamp, Greg Straight, Walt Stringer, John Tarbert, Monika Treipl-Harnke, Mike Turner, Bill Van Meter
+
+Public Present:               Morgan Bassey, Chris Elmore, Aaron Epstein, John Karner, Mike Newman, Pedro Ramos, Anita Solano, John Thompson, Joe Triplett, Gary Van Dorn, Cheryl Wallace, Dee Wisor
+
+#### 1. Authorization to Enter into a Contract with Motorola Solutions for Purchase of Radios (56DH012)
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize the General Manager or his designee to enter into a $940,000 sole source contract with Motorola Solutions(Motorola) for purchase of mobile, portable and tower radios and associated equipment (Contract Number 56DH012).  This contract will include an option for a 3-year extended warranty.
+
+Motion:              Director Bagley made the motion to move this item to the full Board at the May 31, 2016 Board Meeting.
+
+Director Folska seconded the motion.
+
+Discussion:              Terry Emmons, Assistant General Manager of Rail Operations, indicated this request is for additional radios for security personnel and operators on light rail vehicles and associated equipment.
+
+Chair Tobiassen inquired as to the life expectancy of the radios.  He wondered if these were to replace some of the radios originally purchased or if these were to supplement those radios.  Eric Farrington, IT Program Manager, indicated these were in addition to the originally purchased radios.  These radios have a life expectancy of 15 years and many are lasting 20 or longer.  He stated the original radios are still going strong.
+
+Committee Chair Anderson declared the motion PASSED unanimously.
+
+#### 2. Parking Management Extended to New Facilities
+
+It is recommended by the Operations and Customer Services Committee that the Board of Directors approve adding to the RTD Parking Management Program all of RTD’s parking facilities along the University of Colorado A Line, B Line, G Line and R Line, except for Iliff Station and Olde Town Arvada Station; and to authorize the General Manager to amend RTD’s parking management Contract #13D0002 as necessary to include and manage the added facilities.
+
+Motion:              Chair Tobiassen made the motion to move this item to the full Board at the May 31, 2016 Board Meeting.
+
+Director Bagley seconded the motion.
+
+Motion to
+
+Postpone to
+
+a Time
+
+Certain:              Chair Tobiassen made the motion to postpone this item until the August 9, 2016 Operations and Customer Service Committee Meeting.
+
+Director Walker seconded the motion.  Director Walker later withdrew his second and Director Folska seconded the motion.
+
+Discussion:              Chair Tobiassen explained that the Parking Management Program (Program) was adopted by the Board in 2008, which was quite some time ago.  There has been a great deal of progress since then on the FasTracks program.  He stated this is a new world with new parking opportunities.  Additionally, the State Legislature has also changed RTD’s ability to partner as it relates to parking.  Chair Tobiassen thinks this is the time to evaluate the Program and make it more inclusive in terms of how RTD works with other jurisdictions as it relates to parking.
+
+Director Menten recognized that Chair Tobiassen gave a high level explanation for his reasons for wanting to postpone this item but asked for specifics.  Committee Chair Anderson reminded the Board that the City of Arvada has invested $30 million into the parking structure at the Olde Town station.  She would like to see RTD work with our partners that are making these huge investments in our parking structures to come up with a more up-to-date Parking Management Program rather than use something from 2008 that did not anticipate these scenarios.  She hopes there can be a more inclusive process.
+
+Director Folska thanked Chair Tobiassen for taking the initiative to postpone this recommendation until August.  She does not think it is at all ready for primetime so she will be supporting the motion.
+
+Director Hoy noted the irony in this item being on the agenda tonight as he was still wearing his steel toed boots from an earlier tour at the Westminster Station, including the new parking structure.  He does not know if anyone has talked to Westminster or if Westminster has any plans but he thinks it would be a good idea to at least have a discussion with them.
+
+Chair Tobiassen commented that there is a similar situation in Aurora where RTD and Aurora partnered to build the parking garage at Iliff Station.  He stated the negotiations related to managing that structure and parking around the station were still ongoing.  He reiterated that postponing this item gives RTD a chance to step back and make sure input from other jurisdictions is included in the Program.  He pointed out that there is also a parking study in-progress that the Board should be seeing soon and believes it is important to have this information before moving forward.
+
+General Manager Genova indicated staff would be bringing the initial report from the parking study analysis to the Board in July.  He said staff would not be asking the Board to take any action but would be reviewing the findings and information to consider as the parking dialog continues.
+
+General Manager Genova stated that with regards to the Olde Town Arvada, Westminster, Iliff and Boulder Junction at Depot Square stations, staff has had very specific conversations with those parties.  He clarified that this action would have no impact on parking facilities where RTD has an agreement or Intergovernmental Agreement (IGA) with a municipality.  He explained this action would allow RTD to move forward with the current Parking Management Program on the new corridors, particularly the University of Colorado A-Line.  He thinks there is a great opportunity for increased revenue as staff anticipates parking along that line to increase.  He stated delaying approval until August would delay implementation as he cannot authorize the vendor to undergo installation of necessary equipment without Board approval.  He believes it will take approximately 30 to 60 days to implement after approval.
+
+Chair Tobiassen reiterated that there is an opportunity to look at the parking study in conjunction with the Parking Management Program to evaluate what really make sense and ensure our jurisdictions understand how RTD does business from a parking perspective.
+
+Director Menten expressed concern that RTD would be giving up revenue by holding off on this action as the garages mentioned by other Directors would not be affected.  General Manager Genova explained that RTD currently charges for parking at the Central Park and 40th and Pena stations along the University of Colorado A-Line and stated that Director Menten was correct that we would be giving up revenue at the other stations along that line.  The recommendation to include the new parking facilities in the Parking Management Program would not include facilities for which there was already an IGA in place such as the Iliff and Westminster stations.  He indicated that staff is currently having ongoing conversations/negotiations with the respective municipalities about how those facilities would be managed.
+
+Errol Stevens, Parking Management Administrator, pointed out that a 90 day notice must be posted prior to charging for parking, which has been done along the University of Colorado A-Line facilities.  He said this means RTD could begin charging for parking at the remaining University of Colorado A-Line Park-n-Rides beginning July 25, 2016.  He believes RTD would capture more revenue as staff is seeing more travelers on that line.  Director Menten stated she would prefer to get the additional revenue and people into the groove if it will not affect the stations other Directors were concerned about.
+
+Robin McIntosh, Senior Manager of Facilities, apologized for not providing the Board with the option to just approve adding the Park-n-Rides along the University of Colorado A-Line.  He explained staff’s intent had been to approve adding all the facilities so they did not have to bother the Board on a continuing basis as new lines opened.
+
+Rolf Asphaug, Acting General Council, suggested that the Board could defeat the motion to postpone and then move to amend the pending motion to narrow it down or change the wording to allow certain stations to be excluded.  Committee Chair Anderson agreed that sounded like a fairly good plan and asked Chair Tobiassen and Director Walker how they wanted to proceed.
+
+Chair Tobiassen stated he preferred to move forward with postponing the item.  He understands the negotiations with Aurora are not going well and the IGA is up in the air, to put it mildly, which he finds disturbing.  He explained that is his reason behind wanting to ensure the Parking Management Program is really evaluated.  He stated with the situation on the University of Colorado A-Line over the past few days it might not be bad to delay charging until things are stabilized and operating consistently.
+
+Director Hoy asked if his understanding was correct that regardless of tonight’s decision, the Westminster station would be independent of the Parking Management Program and thus not be affected either positively or negatively.  Robin McIntosh stated that was correct.
+
+Director Bagley pointed out that parking is the elephant in the room, for the entire District.  He stated parking is a very critical issue.  He believes RTD needs to start setting parameters about how we deal with parking management so it is not one-off situations all the time.
+
+Director Walker wondered if there would be anything precluding another jurisdiction from approaching RTD about entering into an IGA if the staff recommendation was passed this evening.  General Manager Genova indicated an agreement could be entered into with a municipality, jurisdiction, etc. should we want to do something differently.
+
+Committee Chair Anderson stated her objection is that this is a policy from 2008.  She said she has been hearing from cities that say the program is not working and there is no negotiating.  She believes with more time it would be possible to come up with a good plan.  She agrees with Director Menten’s concern about losing revenue but it is only a period of a few months.
+
+Director Lubow wondered if it would be possible to just deal with the University of Colorado A-Line and allow for a more thorough discussion on the other lines to continue.  She thinks it would be good to do something that will generate revenue while still allowing the Board to look at the broader issues.  Henry Stopplecamp stated it would be possible to make an amendment to the original motion.
+
+Henry Stopplecamp noted that there were really two issues on the table: locations where RTD owns the property completely and sites where we have teamed up with other local municipalities and have an IGA.  He stated locations where there is an IGA are really different than RTD surface Park-n-Rides.  He explained the intent of staff’s recommendation was to cover anything not already covered through an IGA.  He said staff is more than happy to work with the various municipalities going forward.
+
+Errol Stevens said his sense is if the four facilities of concern could be disconnected from the other new parking facilities staff’s recommendation could advance; however, a postponement would tie up both items as it stands now.  He questioned if the Board could find a way to separate the two issues to approve the Parking Management Program for those facilities that are solely owned and operated by RTD.
+
+Director James thinks the idea of segmenting the two issues is interesting.  He wondered if passing staff’s recommendation this evening would preclude the Board from making future changes based on the results of the parking study.  Errol Stevens explained this action just established what facilities were including the Parking Management Program; if the Board voted to approve a new program these facilities would then be covered by that program.
+
+General Manager Genova reminded the Board that staff moved forward with a parking study due to an unsolicited proposal that was received related to monetizing parking District-wide.  It was determined the proposal had merit but there were many questions surrounding the concept.  He explained that even if the Board wanted to move forward with a different program down the road the facilities covered by IGAs would still have to be bifurcated out of the new program.  He said another item to consider is how to deal with the contract currently in place with our Parking Management provider that is good through 2018.  If the Board were to fundamentally change how the program is managed we would have to negotiate closing out our contract with the provider.
+
+Director James asked if staff had an estimate as to how much revenue would be generated from the additional University of Colorado A-Line facilities.  Errol Stevens stated it would be difficult to provide a figure with all the changes in travel patterns with the opening of the line.  He said overall the program produces $1.3 million in gross revenue per year so he does not anticipate it will be a large figure.
+
+Director James indicated he would vote against the motion to postpone.
+
+Director Walker commented that the reason several Directors want to postpone the recommendation is to give our partners more time to evaluate the program.  He indicated after hearing more from staff and the fact that the facilities of concern will not be included, he is going to withdraw his second.  He believes there is the opportunity for discussion but will provide some revenue and stability for the University of Colorado A-Line.
+
+Director Folska stated she would second the motion to postpone this recommendation to a date certain.
+
+Director Folska said she had similar concerns to those expressed by other Directors.  She feels that the current Program is just patchwork.  There is not a program that is clear and ubiquitous for the entire District.  She believes effort should be put into doing something thoughtful and consistent.  Director Folska also thinks there are bigger fish to fry like why the University of Colorado A-Line is not working like it should.
+
+Director Lubow noted that whether the Board approved the recommendation this evening or not, staff understands that they need to go forward and do a thorough review of the current Program.  She does not want RTD to lose revenue which is why she will vote against postponing; however, she reiterated that it is important to continue to have discussions about where parking is going.
+
+Committee Chair Anderson expressed that in reading the recommendation she did not feel it exempted anything.  She does not think staff has listened to our partners so she will be voting in favor of postponing.
+
+Rolf Asphaug pointed out that since there were 12 Directors at the meeting the motion to postpone to a time certain would require 7 in favor to pass.
+
+Committee Chair Anderson declared the motion PASSED.
+
+#### 4. 2016 Title VI Program Update
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors adopt the 2016 Title VI Program Update to comply with federal laws, regulations and guidelines related to Title VI of the Civil Rights Act of 1964.
+
+Motion:              Director Solano made the motion to move this item to the full Board at the May 31, 2016 Board Meeting.
+
+Director Walker seconded the motion.
+
+Discussion:              Bill Van Meter, Assistant General Manager of Planning, introduced Michael Washington, Title VI Manager, and Shontel Lewis, Title VI Specialist, who reviewed a Power Point presentation that is included in the May 24, 2016 Operations and Customer Service Committee Agenda Packet.
+
+Michael Washington reminded the Board that a Title VI Program Update must be submitted to the Federal Transit Administration every three years as a condition of federal financial assistance.  He said that as the Board was probably aware, Title VI prohibits discrimination on the basis of race, color and national origin.  The FTA prescribes the following measures to guide recipients of federal funds in the promotion of socially equitable transit:
+
+- Equity Analyses
+
+- System-Wide Service Standards and Policies
+
+- Service Monitoring
+
+- Public Engagement
+
+Michael Washington explained that an equity analyses must take place for any fare changes as well as any major service changes and all new openings.  He noted that public engagement was a very important part of the process.  He asked Shontel Lewis to review the recent public engagement process during the equity analyses for the University of Colorado A-Line Service Changes.
+
+Shontel Lewis outlined the philosophy related to public engagement as follows:
+
+- Meet the Community Where They Are
+
+- Identify Generalizable Concerns
+
+- Build Rapport with the Community
+
+- Partner with the Community
+
+She explained as part of the process the environmental justice communities first had to be identified.  These are communities within the affected area that have an above average proportion of minority and low-income households.
+
+Shontel Lewis noted there were many challenges during the public engagement process such as circulation of misinformation, trust and transparency.  Staff’s goals were to illustrate the benefits of the service changes, remediate misunderstandings and listen to community concerns.  She said there were four strategies used during the public engagement process which included having volunteers ride routes within the effected communities, having tables and volunteers at Park-n-Rides and bus stops, driver outreach, and public meetings called “Know Your Routes”.
+
+Shontel Lewis stated this was really a great opportunity to engage with the community.  The team made contact with over 1,000 riders who really appreciated the efforts made by RTD.
+
+Michael Washington highlighted the importance of understanding the level of effort that went into making sure our riders would not be negatively impacted by the large amount of changes that were happening with the University of Colorado A-Line opening.  It was incredibly important to make sure everyone was aware of the changes and how to take advantage of them.
+
+Director Francone thanked the team for doing such a good job.  She requested an electronic copy of the full update that would be submitted to the FTA.  Michael Washington said he would make it available.
+
+Committee Chair Anderson declared the motion PASSED unanimously.
+
+##### a. 2016 Title VI Update Board Presentation (May 2016
+
+##### b. 2016 Title VI Program Update  - Executive Summary
+
+#### 5. August 2016 Service Change Final
+
+It is recommended by the Operations and Customer Services Committee that the Board of Directors approve the August 2016 Service Change package as revised and summarized in Attachment A resulting in an annualized cost of approximately $537,935 and, further, to authorize the General Manager or his designee to execute contract amendments as necessary for private operators whose service is impacted by these changes.
+
+Motion:              Director Bagley made the motion to move this item to the full Board at the May 31, 2016 Board Meeting.
+
+Director Folska seconded the motion.
+
+Discussion:              Bruce Abel, Assistant General Manager of Bus Operations, shared with the Board that staff received a letter from Commerce City requesting that Route 62 be removed from the August Service Changes.  He explained that originally this route was to be funded through a grant received by Commerce City; however, there was supposed to be a new roadway constructed for the route that is not yet complete.  Bruce Abel said per Commerce City’s request staff was asking for an amendment to remove Route 62 from the August Service Changes.
+
+Motion to
+
+Amend:              Director Solano made the motion to remove Route 62 from the August Service Changes.
+
+Director Folska seconded a motion.
+
+Rolf Asphaug indicated the Board could approve this amendment via a unanimous voice vote.  Hearing no objections, Committee Chair Anderson declared the amendment passed.
+
+Discussion:              Jessie Carter, Manager of Service Planning and Scheduling, reminded the Board that in August there is the reimplementation of school service, which accounts for a majority of the changes.  He noted the increase in service of the Free Metro Ride but pointed out this was entirely funded through a Congestion Mitigation and Air Quality Improvement Grant.  He explained that August Service Changes will now have an annualized cost of approximately $549,600 versus $1,085,400 when Route 62 was included.
+
+Chair Tobiassen stated there were several minor service changes along Route 43 that were needed in his District related to bus stop placement.  Jessie Carter explained this is something that staff is working on but per new Federal Transit Administration Guidelines all new bus stops must be 100% ADA compliant.  Bruce Abel shared that staff would be briefing the Board on these changes next month with more detail as staff is evaluating how they impact our operations.
+
+Director Francone asked staff to speak to the proposed Route CV/CS/CX.  She wondered if it negatively affected any riders.  Jessie Carter explained that the proposal is to convert the last Route CV trip to a Route CS trip so it also served the Federal Center Station.  He said there were four people that provided comments and believe it would be better to add a trip than convert the last trip.  He noted adding a trip would cost money so at this time staff is standing with the current proposal.  He stated the four people that provided comments believe this negatively impacts them.
+
+Director Francone wondered if the Lockheed Martin Call-n-Ride was still operating or if it has been folded into the South Jeffco Call-n-Ride service.  Bruce Abel stated there were no recommendations at this time to eliminate the Lockheed Martin service.  Director Francone said it would be interesting to see if ridership has been improving.  Bruce Abel commented that ridership has not improved and the service is currently under review.
+
+Director Hoy asked for clarification about the differences between Route 72 and 72W.  Jessie Carter explained that Route 72W goes to Westminster High School while Route 72 ties into the B-Line at the Westminster Station.
+
+Director Hoy also asked for further information about Route 31 as he found the explanation confusing.  Jessie Carter explained that staff would be using an interline change to provide a trip further north at no cost.
+
+Committee Chair Anderson declared the motion PASSED.
+
+##### a. Atch A - August 2016 Service Change
+
+##### b. Attch B Summary of Electronically Received Comments August Service Change
+
+##### c. Atch C - Map Route 62
+
+#### 1. University of Colorado A Line Update (no back-up)
+
+Bruce Abel explained that staff wanted to provide a brief update on ridership numbers after the first four weeks of operations on the University of Colorado A-Line.  He said ridership averages were 15,860 for the first week, 16,900 for the second week, 17,640 for the third week and 16,700 for the fourth week.  He shared that ridership data has been gathered from the automatic passenger counters that were installed on all commuter rail vehicles.
+
+#### 2. RTD Commuter Rail Oversight
+
+Terry Emmons, Assistant General Manager of Rail Operations, introduced Walt Stringer, Senior Manager of Commuter Rail, Henry Stopplecamp, Acting Assistant General Manager of Capital Programs, and Greg Straight, Engineering Project Manager.  He asked Walt Stringer to review the Power Point presentation that was included in the May 24, 2016 Operations and Customer Service Committee Agenda Packet.
+
+Walt Stringer explained that since service began on the University of Colorado A-Line, staff wanted to ensure the Board understood how RTD oversees Denver Transit Partners (DTP) and the commuter rail performance, the metrics that must be met, and the invoice process.  He said RTD staff utilizes a comprehensive Oversight Plan with Concession Agreement (CA) specific forms to record observations.  He stated that Availability Payments are pre-set payments outlined by the Concession Agreement that may include a performance adjustment if certain metrics are not met.  Invoices are submitted by DTP that capture all required performance elements.  These invoices are then reviewed by RTD staff to confirm accuracy of the information submitted by DTP versus the observations made by RTD staff.
+
+Director Lubow inquired if RTD or DTP was responsible for collection of fares.  Walt Stringer stated RTD provides the Ticket Vending Machines and fare collection is RTD’s responsibility.
+
+Chair Tobiassen asked staff for an update on current operations of the University of Colorado A-Line and the recent issues.  General Manager Genova stated during the first few weeks of operations on-time performance was very good averaging above 95%.  He said the first major problem occurred last Monday when power was lost to a train resulting in passengers being stuck on the train for a very long time.  Subsequently the University of Colorado A-Line has been experiencing a number of power outages that have been traumatic for our passengers, especially if they are stuck on a train.  General Manager Genova indicated the most recent issue happened this afternoon with a train getting stuck on the bridge over Peña Boulevard resulting in the ultimate evacuation of the train.
+
+General Manager Genova explained that while the team was able to determine the cause of most of the power outages, there are still some that the reason has not been determined which is concerning.  He recognized Aaron Epstein and John Thompson from DTP who were here this evening to answer any questions.  He shared that RTD and DTP staff have regular meetings regarding operations.  He also has a monthly call with the DTP Board of Directors, which he just had this morning.  He indicated he was able to have a very frank conversation with the Board discussing the incidents of the past week.  He said he made it very clear that this is not satisfactory to RTD but recognized it is not satisfactory for DTP either.  General Manager Genova shared he asked the DTP Board what they planned to do for the patrons that missed flights.  They are working diligently to provide safe, reliable service.  He stated no one was taking these issues lightly and everyone was concerned.
+
+Director Folska feels bewildered that there are these types of problems after the extensive testing that was done.  She wonders what has changed from when testing was occurring to cause the current events to happen.   General Manager Genova stated that to his knowledge there were no power issues during testing and training so everyone was very surprised when this became an issue last week.  He explained whenever there was an issue the team looked at everting to drill down to the root cause.  He shared that the cause of each power outage has been different so there was not a specific issue that could be identified as the problem.  Today a messenger wire broke, impacting power along the entire line until the issue was isolated.
+
+Terry Emmons noted that just because this is a new line it does not mean it is perfect.  He has dealt with several openings and there are always nuances and issues that must be addressed.
+
+Director Lubow stated this seems to be an anomaly or “black swan” that engineers did not predict being an issue.  She wonders what we do in this situation.  She asked if buses are standing by to pick people up if there are problems.  General Manager Genova stated that just like on light rail, if there is a service interruption that staff expects to be for a significant period of time a bus bridge is put in place.
+
+Henry Stopplecamp commented this was not an issue of a “black swan” but the process that happens when new service begins.  The service starts small and gets expanded as there are lessons learned.  He said there had been issues over the 22 years light rail had been in operations but staff dealt with them.  He shared that last Monday the power outage was due to a phase break issue that has already been resolved in a way so that it physically cannot happen again at that section.  He stated unfortunately things happen but the question is how quickly staff can respond to an issue.
+
+Director Lubow said it seems like issues are happening in an order of magnitude more than we should be experiencing.  Henry Stopplecamp pointed out that the trains had been running since November and last week is the first time there was a loss of power.
+
+Greg Straight emphasized that the project team is not making excuses.  No one involved finds recent performance acceptable.  The entire team is doing everything to get service to the level expected based on existing light rail.  He said generally the issues have been one-off type issues that are quickly identified, fixed, tested and then perform stably.  He stated that it is not a scenario where the same issue is happening repeatedly.
+
+Director Menten asked staff to compile information on how many times the University of Colorado A-Line has broken down, how long those instances were in duration and if it required an evacuation.  She stated she needs to be prepared with this information when she is asked questions from the public.  General Manager Genova said he would send a write-up to the entire Board.
+
+Director Menten noted General Manager Genova mentioned asking DTP what they planned to do for people that missed flights but did not recall hearing their response.  She said it is one thing to give someone $9 back but what about their flight costs.  General Manager Genova stated for those patrons contacting RTD we are giving them a free ride coupon or refund of their fare; however, it has not been RTD’s policy to make larger reimbursements and he does not plan to do so now.  He said DTP’s Board asked if they could put some thought into their response and get back to us.
+
+Director Bagley reiterated that while we have had light rail for 22 years it was done very incrementally.  There has never been commuter rail in Denver and commuter rail has not yet been operated during the spring.  He suggested that perhaps the spring thunder storms over the last week could be the issue.  He stated that stuff happens and we address it.  If a burned out wire caused an issue this week then we need to figure out what to do so it does not happen again.  He said he is very satisfied with where RTD and DTP are going.  He commented that when something is developed that is so technologically complex you cannot expect that nothing will ever happen.  He thanked everyone for all their efforts.
+
+Chair Tobiassen concurred with Director Bagley.  He thinks it is important for the Board to keep an eye on recurring events and have good answers for constituents.  He appreciates everyone’s hard work.  He asked for daily updates that included details so the Board could stay informed.  Chair Tobiassen also requested information on the cybersecurity of the system.
+
+Director James thanked DTP for being present and recognized that it was a challenging time.  He suggested in the short term staff prepare something that quickly describes what happened so the Board is prepared to speak with the public.  In the longer term he would appreciate something in-depth about what happened.  He asked if this in-depth document could also outline what the consequences to DTP’s payment would be, if any, as being helpful to put everything in perspective.  He also asked staff to prepare an update on the at-grade crossings.  General Manager Genova indicated staff would prepare the information.
+
+Director Hoy thought it would be good to receive information on the status of the at-grade crossings as well because it is a real issue.  He shared that he recently took a radio personality on a trip along the University of Colorado A-Line and it took about an hour to get to DIA.  On the return trip the gentleman timed it and the train was within 10 seconds of 37 minutes.  As to the reports on issues that are occurring, he asked staff to be sure and indicate if something is a repeat of a previous or similar failure.   He believes it is important for the Board to know if there is something that keeps breaking.
+
+Director Hoy inquired if he was correct that the B-Line is powered from the same power source as the University of Colorado A-Line.  He wonders if it an accurate assumption that if the University of Colorado A-Line goes down so does the B-Line.  Henry Stopplecamp stated all power comes from Xcel and goes into two substations.  He said if one substation goes down the other one should pick up the slack so the B-Line should still have power in most instances.
+
+Director Hoy pointed out that the B-Line is in testing right now.  He asked if the B-Line was still able to operate around the time of the University of Colorado A-Line power failure.  Arron Epstein stated he did not know what operations were actually running at that time but knows they would be able to run it.
+
+Director Hoy asked for a more in-depth review of the Concession Agreement invoice process from staff offline.
+
+Committee Chair Anderson thanked everyone for their time this evening.  She recognized that everyone wants the same thing which is a robust transit system that works 100% pf the time.  She acknowledged it has been a tough week but everyone is working together.
+
+Henry Stopplecamp stated it was a fantastic team from rail operations to construction to engineering to finance.  He said everyone wants the University of Colorado A-Line to run well.  The entire team is very dedicated.
+
+##### a. 2016 05 24 RTD Board Update Ops and Customer Service Committee
+
+#### 3. Lost Service Hours Update
+
+Bruce Abel indicated the Lost Service Hours and Hiring Update reports were included in the May 25, 2016 Operations and Customer Service Committee Agenda Packet.  He highlighted that the lost hours of service was down to 178 hours for April as compared to 800-900 hours over the winter.  He believes they are making progress and noted that forced overtime was beginning to be reduced.
+
+##### a. Lost Service Hours Update 5 24 16
+
+#### 4. Hiring Update
+
+##### a. Hiring Update 5 24 16
+
+### D. Other Matters
+
+Director Bagley shared he attended the APTA Bus and Paratransit Conference Last week.  He said the conference was very informative with great presentations.  He had the opportunity to see the Gillig and MCI buses and interact with the people that build them.  He attended an outstanding Bus Rapid Transit (BRT) presentation that related to BRT across the country.  He encouraged his fellow Board members to attend these types of conferences as it is a great learning opportunity.
+
+Committee Chair Anderson shared that she attended the APTA Transit Board Member Seminar in San Antonio with Directors Hoy and Walker.  She said there were some excellent sessions on new Board member orientation.  She further commended the RTD Board staff for the great job they do.
+
+### F. Adjourn
+
+Committee Chair Anderson adjourned the meeting at 9:18 p.m.

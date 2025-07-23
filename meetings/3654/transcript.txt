@@ -1,0 +1,848 @@
+2024-10-07
+Performance Committee
+PEGGY CATLIN: Good morning. The Monday, October 7 Performance Committee will now come to
+order. We are convened as of 8:31 AM Mountain Daylight Time. I would respectfully ask anyone
+attending this meeting to mute yourself unless you are recognized to speak.
+Thank you all for joining us this morning. Please note that committee meetings of the RTD Board of
+Directors will be held remotely via Zoom and will be audio and video recorded. The meeting recordings,
+along with the unofficial minutes of the meetings, will be posted as soon as practicable on the Board's
+website.
+During today's meeting, we are also providing communication access real-time translation, also known as
+CART. Anyone who would like to access this service should send an email to the RTD Board Office at
+rtd.boardoffice@rtd-denver.com and a link will be provided. Additionally, the CART transcript can be
+automatically translated into Spanish for anyone who would like access to a live transcript of this meeting
+in Spanish. A live stream of this meeting is also available via RTD's YouTube page.
+I'd now like to call the roll of the committee members. Director Buzek.
+VINCE BUZEK: Here.
+PEGGY CATLIN: Director Davidson.
+ERIK DAVIDSON: Here.
+PEGGY CATLIN: Director Guissinger.
+LYNN GUISSINGER: Here.
+PEGGY CATLIN: Director Guzman.
+MICHAEL GUZMAN: I'm here.
+PEGGY CATLIN: Director Lewis.
+JACK KROLL: He'll be joining soon, it seems.
+PEGGY CATLIN: Director Tisdale.
+DOUG TISDALE: Present.
+PEGGY CATLIN: And I am Chair Catlin and I am present. So at this point, we have six committee
+members in attendance and one pending. Will you let me know, Jack, when, for the record, Director
+Lewis has joined us? Thank you.
+And maybe I will wait. I was going to acknowledge Director Lewis, who was appointed, but I'd like to wait
+until he comes.
+
+I'd like to open up public comment to anyone who would like to address the committee regarding any
+topic listed in the published meeting agenda for the current and immediately preceding month. If you wish
+to speak and have not already done so, please raise your virtual hand or press star 9 on your phone.
+During this time, the committee will not offer any direct comments or responses. However, if you would
+like to be contacted regarding your public comment, please email the RTD Board Office at
+rtd.boardoffice@rtd-denver.com.
+Mr. Kroll, are there any hands raised for public comment?
+JACK KROLL: Committee Chair Catlin, at this time, there are no hands raised.
+PEGGY CATLIN: OK. So at this point, then we will close the public comment period. Were there any
+email comments received, Mr. Kroll?
+JACK KROLL: Committee Chair Catlin, there were no email comments received in advance of this
+meeting.
+PEGGY CATLIN: OK. We'll then close the public comment period at this time.
+We do have one recommended action on the agenda, and this is for the strategic plan scorecard, the
+financial metrics portion. This is for the Board of Directors to adopt to the strategic plan agency
+performance scorecard, thereby incorporating revisions to metrics related to the strategic priority of
+financial success. Do we have a motion?
+VINCE BUZEK: Buzek, so moved.
+MICHAEL GUZMAN: Second, Guzman.
+PEGGY CATLIN: I have the mover as Director Buzek and a second by Director Guzman.
+Now I would like to ask Debra Johnson, our GM and CEO, and Doug MacLeod, Chief Financial Officer, to
+present this item to the committee. Ms. Johnson.
+DEBRA A. JOHNSON: Yes. Thank you very much, Madam Chair. Good morning to all that are
+assembled. I'm Debra Johnson, serve as the General Manager and CEO.
+At last month's Performance Committee, there was a discussion item in which we talked about various
+metrics that we were going to incorporate to our strategic scorecards to ensure transparency and to
+leverage implementation strategies that we agreed to pursuant to the Office of the State Auditor's audit
+that just took place.
+With that being said, we walked through those elements. And here I will yield the floor to Doug McLeod to
+speak in more specificity to refresh those that weren't in attendance at last month's meeting in relationship
+to what we're doing going forward. With that, Mr. Cloud, I yield the floor to you. Thank you.
+DOUG MACLEOD: Madam Chair.
+PEGGY CATLIN: Mr. MacLeod, please. Thank you.
+
+DOUG MACLEOD: Thank you. Good morning. Doug MacLeod, Chief Financial Officer. Yes, and as
+General Manager Johnson mentioned, there are nine financial metrics that are used consistently
+throughout the state audits by the Office of the State Auditor to evaluate the financial adequacy and, I
+guess, fiscal sustainability of agencies. Those were looked at with the audit that concluded, the
+performance audit of RTD that concluded on August 5th of this year.
+Those nine metrics are listed within the board memo-- excuse me, the Performance Committee memo.
+Each of those metrics, I feel, are very good measures of financial position as well as fiscal sustainability.
+We would report those measures on a regular basis. Some of those measures don't lend themselves
+necessarily to monthly reporting because they do have some volatility in them. But each of those
+measures, the data used to support and calculate those measures are audited numbers. So we can have
+some trust that those numbers will tie back to our financial statements and also be audited.
+So there are those nine financial metrics that are used by the state. That would be 50% of the weighting
+of this financial measure or financial metric. Standard and Poor's bond rating, 20% weighting. Standard
+and Poor's was chosen out of the two credit rating agencies that RTD utilizes for refinancings. The other
+one being Fitch. Standard and Poor's is more widely recognized, perhaps, as a credit rating agency. So
+that would be tracked as well. That would be reported on more of an annual basis or on basis of any
+changes that occur with that rating.
+And then average community survey responses would be the final 30% of that weighting totaling 100%.
+And those would be generated from community survey responses. So those would happen periodically.
+The combination of all those weighted would provide a metric and an index that could be used by the
+Performance Committee to evaluate the performance of the agency and the general manager.
+So with that, Madam Chair, I conclude my comments. Thank you.
+PEGGY CATLIN: --MacLeod. Are there any directors who have any comments or questions? If so, I will
+call on you to speak. Chair Davidson, please.
+ERIK DAVIDSON: Yeah. Thanks, Madam Chair. I'll just keep it brief. Thank you for putting these forward
+for consideration and to measure. I think having these come before us regularly is, it's a maturing and an
+improvement. So yeah. Thank you very much. Appreciate it.
+PEGGY CATLIN: Thank you, Chair Davidson. Director Guzman, please.
+MICHAEL GUZMAN: Just a general question on the second bullet point there, which is the Standard and
+Poor's bond rating. It's 20% of the rating. If we've already achieved the maximum bond rating, that only
+looks to go down. How are we rating that if it continues to remain where we currently are? Does that
+make sense? If you already have an A-plus, you can't get an A-plus-plus is what I'm trying to say. So is
+that considered at all in this?
+PEGGY CATLIN: Mr. MacLeod, would you like to respond?
+DOUG MACLEOD: Yes. And thank you, Director Guzman, great question. Periodically, the credit rating
+agencies not only will issue a letter rating, so in our case, we have the highest rating for RTD at AAA,
+they will also issue ratings for negative outlooks, positive outlooks, et cetera, that kind of inform on a
+regular basis regarding the outlook going forward.
+
+So for instance, during COVID, virtually every transit agency was put on negative outlook and a watch list,
+perhaps, without getting their rating needs or without getting their credit rating agency, credit ratings
+changed per se. So that would certainly go into the calculation.
+So, yes, the goal would certainly be to maintain that credit rating agency, the highest credit rating agency
+going forward, which lends itself to the prospect of trying to maintain fiscal sustainability and how we are
+viewed as an agency. Very important to not only project how we're seen to the public and community
+value for our financial wherewithal, but also, if we do need to borrow, it lowers RTD's rating costs, or
+borrowing costs. So essentially, yeah, we would take into account any of those types of adjustments that
+happen along the way. Hopefully, that answers your question.
+PEGGY CATLIN: Did that answer your question, Director Guzman?
+MICHAEL GUZMAN: Yes, Madam Chair.
+PEGGY CATLIN: Thank you. Are there any other questions? Comments. I would like to point out that the
+audit that was done by the state was very favorable for these metrics. So I think it's really important that
+we continue to report them. So well done. Excuse me.
+Sorry, I just lost my place. Oh, OK. Are there any no votes on this item? Seeing none, we have six votes
+in favor and one absent. So the action item passes.
+There are two discussion items this morning. The first item is for the General Manager and CEO 360
+degree assessment tool and final assessment tool project check in. Jack Kroll, Executive Manager, Board
+Office, and Charlene Polege, Chief People Officer, will you present this item to the committee and
+introduce our guests from RKL?
+JACK KROLL: Yes. Good morning, Committee Chair Catlin. This is Executive Manager of the Board
+Office, Jack Kroll. Real quickly, I just want to update everyone that Director Lewis has been trying
+diligently to join the meeting. He apologizes that he's not here. He's having some internet issues at his
+house and we expect him to join over the phone at some point here, at which point we'll let everybody
+know.
+Getting to the discussion item at hand, we're going to try and cover two things today. Let me say it this
+way. The first is to provide you all with an update on the 360 assessment tool. And then the second is to
+provide you all with an update on the final board assessment form that you all will complete.
+As a reminder, these are two distinct things. The 360 will be completed by, as you'll see in the
+presentation, a series of external raters/peers, direct reports, and then three Board members. The second
+project that we're going to go over is the final assessment form, the board assessment, if you will. That's
+going to be completed by all 15 directors, or rather, all 15 directors will have an opportunity to complete
+that.
+The 360 form will be sent out shortly to the agreed upon raters, whereas the final Board assessment
+form, as you'll see in the presentation, is not going to go out to the board until the end of this month. And
+that is very much still a work in progress. And we're looking for final consensus on the 360 today and
+some additional input on the draft board assessment.
+And with that, I'll yield the floor to CPO Polege to see if she has anything else she wants to add.
+
+CHARLENE POLEGE: Thank you, Jack. Charlene Polege, Chief People Officer. At this time, you have
+covered everything. I have nothing further to add.
+JACK KROLL: Great. Then if I could, Committee Chair Catlin, hand the floor over to Lauren Stricker from
+RKL.
+PEGGY CATLIN: Yes. Welcome, Lauren.
+LAUREN STRICKER: Good morning, everyone. Thank you, Committee Chair Catlin. As always, I've
+prepared a presentation here, just to, visual person, just to walk us through today's discussion. So I'm just
+going to share my screen and get that queued up.
+All right. Can everyone see the presentation?
+JACK KROLL: Yes.
+LAUREN STRICKER: Great. Thank you.
+PEGGY CATLIN: And information, it starts on packet page 11.
+LAUREN STRICKER: Thank you, Committee Chair Catlin.
+OK. For the record, my name is Lauren Stricker. I am a senior analyst with the Workforce Strategies team
+at RKL Virtual Management Solutions. And today I'll be providing an update on the 360 performance tool,
+as well as the Board assessment tool, as Mr. Jack Kroll mentioned.
+Today's agenda. We're just going to do a very quick overview of the scope. That should look pretty
+familiar with all of those who have regularly attended the Performance Committee meetings over the last
+few sessions. Then we'll dive into the 360 assessment tool. We'll stop there to open the floor for any
+additional feedback or comments related to the 360. We'll move on to just a quick snapshot of the
+process from the Board perspective to provide an outline of timeline and the tasks associated with each
+one of those major milestones. And then we'll move on to the discussion of the Board assessment tool.
+There will be time for questions at the end, but please feel free to pause or stop me at any time with any
+questions or comments.
+Again, this should look pretty familiar to you if you've been regularly attending these meetings. The key
+objective of this project, as Jack mentioned, is twofold. First, to create a custom 360 assessment to
+evaluate the performance of the General Manager and CEO over the past year. And this assessment,
+obviously, to be used moving forward. And the second, to develop a Board assessment tool that will be
+completed by the directors of the board, or everyone would have opportunity to complete that, again, to
+assess the performance of the GM and CEO over the past year.
+There should be a more detailed project plan and timeline enclosed in the committee meeting packets,
+but just have a few key dates there. We'll be going through the key dates throughout this presentation, so
+I'm not going to, for the sake of redundancy, I'm not going to review them right now.
+All right. Beginning with the 360 degree assessment. The objective of this assessment was to be utilized
+as a methodology to collect feedback from external stakeholders, direct reports, and directors to inform
+the Board's evaluation of the General Manager and CEO's performance over the past year. The benefit
+being that this type of feedback being collected from unique perspectives and being offered to the board,
+
+but inform the board especially in areas where they may not have regular observation on a day-to-day
+basis about certain performance areas of the GM and CEO's position.
+Additional benefits, the GM and CEO, include gaining feedback from different perspectives that could be,
+again, utilized to provide more context to the Board's evaluation and just self-informed on strengths and
+opportunity areas. The 360 assessment was designed to measure role responsibilities and values or core
+base job responsibilities and values. Core base job responsibilities have been categorized into three
+major job functions, general transit management and internal relationships, Board interaction, and
+external relationships. Values have been interwoven amongst those within the 360 as far as organization.
+Now, one thing to review is that the items of the 360 will be evaluated on a Likert scale, a 7-point Likert
+scale, with an NA option, so folks can decide to select NA if they feel like they do not have enough
+information to adequately rate on that item. So every item will be assigned a quantitative value. However,
+the 360 final value will not hold any point value in the overall performance process. Again, this
+assessment is to be used to inform the Board's evaluation. There will be 12-PEGGY CATLIN: Excuse me for interrupting, Lauren. For the record, I wanted to note that Director Lewis
+has arrived by phone. Welcome, Director Lewis.
+OK, Lauren. I'm sorry to interrupt. Please proceed.
+LAUREN STRICKER: No problem. Thank you, Chair Catlin.
+There will be 12 raters. There'll be 5 direct report raters, 4 external stakeholder raters, and 3 directors
+from the Board GM and CEO Johnson will also provide a self-evaluation along the same 360 assessment
+tool. We have selected all raters at this time.
+As far as the process, where we're at, we did send out a draft form of the 360 assessment to the Board,
+CPO Polege, as well as GM and CEO Johnson. Everyone had the opportunity to provide feedback on the
+360 assessment items. And as a result of that feedback, we did make some modifications to the
+terminology used. So we made some language tweaks to the items. We removed redundant items. There
+was some changes to identification of which raters would receive which items. And the rating scale now
+does include definitions for each one of the seven points as well as the NA option.
+As far as timeline goes, we have asked GM and CEO Johnson to send out an initial communication to all
+raters, explaining that an assessment will be conducted on her behalf to collect data of her performance
+and to invite them to participate. We've asked that she send that out today or tomorrow to the raters just
+to give them a heads up. Again, we found that this helps to get buy-in in the process, that the individual
+receiving the feedback wants them to submit feedback. And then we hope that this process does the
+same to get their buy-in and participation.
+We will then follow up that communication on Wednesday, October 9 by distributing the survey link, the
+assessment link via email to all raters. We will provide them with instruction of the assessment, do a very
+short recap of the purpose of the assessment, and provide them with our contact information, RKL's
+contact information, should they need any support or have any questions as they complete the
+assessment through the secure online platform. All responses will be collected electronically. So
+everyone will be completing the form electronically through the secure platform.
+They will have until October 23. So all raters will have until October 23 to submit their responses. At that
+time, the 360 assessment will close.
+
+We will be putting together, analyzing that data, preparing a report, and that will be presented, the results
+of the 360 will be presented to the Board during the Executive Session that will be held on November 18.
+Before I move on, any comments, questions, additional feedback related to the 360.
+PEGGY CATLIN: Thank you, Lauren. Are there any directors who have questions or comments? And
+General Manager/CEO Johnson, do you have any comments that you would like to add?
+DEBRA A. JOHNSON: Madam Chair, at this time, I do not. I believe Ms. Stricker covered all the elements
+that are germane to this discussion. Thank you.
+PEGGY CATLIN: Thank you. I would like to send thanks to all those who provided input into the 360 tool.
+I know there was quite a bit of back and forth and work that was done. I'd like to thank Mr. Kroll. I'd like to
+thank Chair Davidson, Director Guissinger, Ms. Johnson, and Ms. Polege for all of your input. I think it
+was very helpful. And as we move forward, I think this is a process and a document that we can use now
+and into the future.
+So I wanted to thank everybody for all your efforts. And Lauren, thank you for your patience in dealing
+with all of us. But I think at the end of the day, it's a much better process.
+I don't see any hands raised. We can move on to the second item, which is for the Board assessment
+tool.
+LAUREN STRICKER: Great.
+PEGGY CATLIN: Go ahead.
+LAUREN STRICKER: Thank you, Committee Chair Catlin. And again, I will second Committee Chair
+Catlin's statement, the collaborative process for which you've all shown and your patience and working
+with our team to develop this product, I think, has just made it a better 360. So again, very appreciative of
+all the feedback that we have received.
+Before we move on to the details of the Board assessment, I do want to just quickly outline some of the
+major milestones as far as timeline and tasks. And again, this is from the Board's perspective. So these
+would be tasks that the Board would be involved in and/or should be noting.
+So the first would be October 28. The on October 28, all directors of the board will receive an invitation to
+complete the Board assessment evaluation of the GM and CEO's performance. At that time, when we
+send over the Board assessment, all directors will receive GM and CEO's Johnson's self-evaluation. So
+that, along with the Board assessment, on October 28. All Board of Directors will receive an email with a
+link to access the Board assessment. Again, just as the 360, the Board members will have opportunity to
+complete the assessment electronically through our secure platform.
+The directors will have until November 6 to complete the Board assessment of the GM and CEO's
+performance. After November 6, the Board assessment will close so that we can start preparing the
+results and the report that we will be sharing on November 18. So November 18, during Executive
+Session, we'll be presenting the results of the 360 assessment as well as the Board assessment.
+
+The date, as far as the fourth item there, I don't believe has been solidified at this time. But towards the
+end of November, beginning of December, the Board will set or take formal action to adopt the final
+assessment score.
+Again, because I'm a visual person, just to explain how all of this is working together, because there is
+some various components here. On the 28th, the Board will receive the evaluation form to provide
+GM/CEO feedback on her performance. At the same time, GM and CEO Johnson will also be providing
+her self-evaluation to the Board so that they can utilize that while they are completing their performance
+evaluation of GM and CEO. The Board will not receive the 360 assessment results at that time. They will
+receive the results during the Executive Session on November 18.
+One thing to note is the GM and CEO Johnson's self-evaluation that shall be providing to the Board on
+the 28th is not her self-evaluation. Using the 360 assessment tool, that will be included in the results that
+are shared during the Executive Session.
+The Board evaluation form-- I'm sorry. At that time, at the Executive Session, the Board will have all
+results from all evaluations. So that way they could use the 360 assessment tool in their final
+determination that would occur towards the end of November, early December.
+Now moving on to the specifics regarding the Board assessment tool. The Board assessment tool is a
+separate assessment that will be distributed to all Directors in order to collect their feedback on of GM
+and CEO's performance over the past year. So again, that is separate than the 360.
+The Board assessment as it currently is is in draft format. We are still working through finalizing that. As it
+currently is, there are three sections. The first section is evaluating or has assessment items related to the
+core job base functions of the GM and CEO role. The second section is related to the short-term goals.
+And the third has open ended feedback items. There are point values assigned to each one of these, or
+to sections 1 and section 2, per the framework that was approved earlier this year.
+In section 1, which, again, is core job and base responsibilities or functions, there is a total maximum
+point value of 64 points allocated to those items. And then those 64 points are broken into the three major
+job functional areas, which is general management, transit, and internal relationships being the first, the
+second being external relationships, and third being Board interactions. Short-term goals is allocated 36
+points, maximum of 36 points. Open ended feedback is just to provide context or additional feedback
+opportunity. There's no points allocated to open ended feedback.
+We are currently working towards, in accordance with the framework that was approved, we're working on
+incorporating values into this assessment. So that's to come.
+Again, the items that were created reflects the framework that the Board approved earlier this year. The
+timeline for distribution, just to really hammer this home, because I know that we've mentioned this
+multiple times, or I've mentioned it multiple times, but the assessment will open October 28, close
+November 6, and the Board will receive the results in Executive Session November 18.
+As far as process or the status of where we currently are, we did send out a draft assessment to the
+Board, CPO Polege, and GM and CEO Johnson in September, earlier in mid-September, and asked that
+everyone provide feedback by October 2. We are currently working through that feedback in collaboration
+with Jack and Performance Committee Chair Catlin to evaluate how we can improve the assessment
+moving forward and finalize for distribution later this month.
+
+Thank you to all who have submitted feedback so far. I did want to provide some opportunity for Board
+members and Performance Committee directors that are attending today, if they wanted to provide any
+additional feedback for me to note. I can open the floor now for that feedback.
+PEGGY CATLIN: Thank you, Lauren. Are there any comments from Directors regarding the assessment
+tool? I see Director Tisdale's hand is raised.
+DOUG TISDALE: Thank you very much, Madam Chair. I am curious. I note that the 360 degree
+assessment reviewers are accorded two weeks to provide responses. The Directors have one week to
+provide their responses. And I was just wondering if there was some particular reason that we gave the
+360 degree reviewers twice as long as the Directors.
+PEGGY CATLIN: Lauren, would you like to respond to that? I have some observations about that. But
+first of all, we have outside or external reviewers and we have direct reports. And they were actually
+selected randomly out of a slate of potential candidates. And I would suggest that just out of respect for
+their time, we would afford them some additional time to complete the 360 review. I know they were
+taking this job seriously, and I really appreciate their willingness to participate in this process.
+Jack or Lauren, do you have any comments about the difference in the one week and the two week?
+JACK KROLL: Sure. Committee Chair Catlin, this is Jack Kroll, Executive Manager of the Board Office. I
+think that's primarily a function of the timeline that RKL needs to get the results in, analyze them, and put
+them together in the final report.
+One thing to note here is there was some initial confusion on all sides' parts, I would say, and we had to
+get back on the same page. Originally, there was some thought of using the 360 in a broader sense, so
+using the 360 as a way to drive at some of the performance outputs, so the final ratings. It was ultimately
+decided, however, that wasn't the route that was going to go and there would be a need to have a final
+assessment form created by RKL. And so in some senses, we're inputting that process back. We're
+inputting a new form and a new assessment and an analysis process for RKL, and we had to fit that into
+the timeline.
+PEGGY CATLIN: Thank you. I know we have a tendency, on occasion, to overcomplicate things. And we
+did this. But I also believe that in the process it's making it better.
+I noticed that Director Guzman had his hand up, but it's down now, except that I do see GM/CEO
+Johnson with her hand raised.
+Director Tisdale, did your question get answered?
+DOUG TISDALE: Well, it's addressed, and I would like to hear General Manager's thoughts on that, too,
+because I assume that's why she's raised her hand. And I do have another question that I wanted to
+pursue as well before we proceed with Director Guzman, with his kind permission. But I would yield to the
+General Manager/CEO first.
+PEGGY CATLIN: Ms. Johnson, please.
+DEBRA A. JOHNSON: Madam Chair, thank you so much. I was just listening to the dialogue and I had
+the same question as Director Tisdale. From my perspective, I don't think that really matters. These are
+all raters and it's all feeding into the same 360. And so I'm just offering that up. I had no understanding
+
+that the timeline was different because everybody's doing the same rating. And as I'm in the process of
+doing performance reviews externally as well. Traditionally, you try to give people as much time as
+possible and alert them.
+So on the face of it, I don't have a problem with it. And I just wanted to state that for the record. So there
+you have it. Thanks.
+PEGGY CATLIN: Thank you, Ms. Johnson. Director Tisdale?
+DOUG TISDALE: Thank you very much. Just one other thought, and that was I'd like to get a further
+expansion on the thoughts regarding the fact that we will not have, as Directors, the benefit of the 360
+while we're doing our evaluations. I know that the timing is such that all of it, our evaluations and the 360,
+will be reported in Executive Session on November 18.
+And I was just wondering if there was a thought about, we don't want Directors to see the 360 evaluation
+while they're doing their own evaluations, perhaps for fear that it might color or taint how they come up
+with their ratings, as opposed to if it's an informational function, isn't that beneficial for everyone? So I
+don't have strong feelings on it. I would just like to hear from the experts, and particularly from Lauren,
+what the thoughts are on that. Thank you.
+PEGGY CATLIN: Lauren?
+LAUREN STRICKER: Thank you, Committee Chair Catlin. And thank you, Director Tisdale. It's an
+excellent question.
+So I think that the function of the 360, as we're currently discussing, the timeline still remains the same.
+The Board of Directors will receive the results of the Board assessment, as you mentioned, not tainted by
+the results of the 360. Alongside the results of the 360, at that time, they will be afforded the opportunity
+to compare and contrast the results from the various perspectives that the 360 provides, but also from the
+deeper assessment or the deeper perspective of the Board. And then the Board will have the discretion to
+make any changes to the ratings Based. On the 360 assessment, or not, in order to inform the final
+performance rating.
+Does that answer your question?
+DOUG TISDALE: It does. And I thank you. And I think it's a perfectly appropriate approach. I just wanted
+to have something expressed further for the sake of the record so that we had a contemplation of why
+we're doing it this way. So I appreciate your comments. Thank you.
+LAUREN STRICKER: Yeah.
+PEGGY CATLIN: Thank you for the opportunity to clarify that, Director Tisdale.
+Are there any other questions? Director Guzman, did you have anything to add?
+MICHAEL GUZMAN: Director Tisdale asked the question that was on my mind, and the answer would
+have been my follow-up, which is, will we have an opportunity to adjust scores, if we need to, once we are
+better informed from the responses, if something is not in alignment. So I feel confident we can proceed.
+PEGGY CATLIN: Thank you. Mr. Kroll.
+
+JACK KROLL: Yes. I just wanted to clarify and remind everyone, too. A couple years ago, the Board had
+provided feedback anonymously. It was determined last year that that was really not a best practice in
+assessing and providing employee feedback. And so last year there was no option to provide anonymous
+feedback. And that is going to be the case moving forward as well. All responses will be tied to the
+directors who shared that feedback. So I just wanted to make sure that that was clarified for everyone and
+they knew that going in.
+PEGGY CATLIN: Thank you, Mr. Kroll. Director Tisdale, please.
+DOUG TISDALE: Thank you very much. And our Executive Manager's comments actually triggered
+another question in my mind. The 360 evaluations, will those be rendered anonymously or will they be
+ascribed to the various reviewers?
+JACK KROLL: To that, Committee Chair Caitlin, I'd have to yield to Lauren for her insights on that.
+PEGGY CATLIN: Yes. Lauren?
+LAUREN STRICKER: Thank you all. They will be anonymous. So the results will be aggregated amongst
+the rater groups.
+DOUG TISDALE: All right. Thank you. I appreciate that. And I think it is appropriate, because we're telling
+people going in and doing the Board evaluations, that these are not anonymous, that they will be credited
+to whomever makes the comment. And I think that's fair. We're all grownups and we're used to dealing
+with these issues. As long as it's made clear going in that that's the case. I think the problem we had last
+year or the year before was that it was not particularly understood in advance.
+So I appreciate that. And I just wanted to make sure that we all understood how it's being done so that
+people will be comfortable going forward. Thank you. Sorry for going on so long.
+PEGGY CATLIN: Not a problem. Thank you, Director Tisdale. And think we will have opportunities to
+remind Board members in subsequent meetings that that would be the case, as we go forward. OK. Are
+there any other questions regarding this process or the questions.
+Seeing none, We will move to our second discussion item. And that is for-- thank you, Lauren, by the
+way-- that is for the 2024 customer excellence survey results for bus and rail. John McKay, Executive
+Business Partner, would you please present this item?
+JOHN MCKAY: Thank you, Madam Chair. As introduced, I am John McKay, Executive Business Partner,
+and with us is Chris Tatham. He is the CEO of the ETC Institute. ETC is our contractor partner for
+conducting rail and bus intercept survey results here. So he will be-- sorry. He will be going over the
+results.
+There are no surprises in this particular presentation. I think we are all anticipating some impacts from the
+preventative maintenance and state of good repair efforts that went on downtown this year. So we will
+see those in the presentation. Not to bury the lede here, but Chris will give a fulsome overview of all of the
+things that we've learned from our customers. And there'll be plenty of opportunity for questions and
+comments after.
+So Chris, with that, I will yield the floor to you.
+
+CHRIS TATHAM: Great. Thanks, John. Madam Chair and Directors, it's great to be back with you. You
+might remember I was here last month and gave you some really positive news about the overall trends
+with paratransit satisfaction. And the regional perceptions that just the community has of RTD have
+improved significantly compared to year ago.
+Today, I'm going to walk you through what we learned from the onboard customer satisfaction surveys.
+I'm going to start off on just giving you what I'd say are the high level takeaways. So there's lots and lots
+of data here, but kind of what themes should you probably carry with you forward. Then I'm going to walk
+you through some specific aspects of each of the two surveys that we did for bus customers and rail
+customers. I'll walk you through things like their overall satisfaction, net promoter score, and perhaps
+most importantly, what are the things to really focus on to keep satisfaction ratings high. And then at the
+end, if there's any questions, I'll be happy to answer them.
+So as far as the big level takeaways, is overall satisfaction for RTD customers continues to set the
+standard for both bus and rail performance. I'm going to show you a number of benchmarks how your
+ratings compare to national averages. And if you don't recall, ETC Institute actually does work for more
+than 50 transit agencies across the country. We have more than 1,000 local governmental clients, and we
+do our own annual national surveys on a wide range of topics, including satisfaction with rail and bus
+services. So I'm going to share some of those comparisons to you, how you stack up.
+The overall satisfaction decreased slightly on the rail service because it was negatively impacted by some
+of the rail reconstruction projects that's been going on. But overall, bus improved and the overall net
+promoter score for the entire system is actually higher as well. So there's some really good findings in the
+midst of all the work that was taking place.
+Keep things and continue to meet the expectations of your customers for both bus and light rail. It was
+focusing on travel time, how long it takes people to get to their destinations. And commuter rail service, it
+was the frequency of service that topped the list of things to focus on. So that's where we're going to
+head. I'm going to just start off with the high level overall satisfaction ratings.
+First of all, when it comes to the way that we collected the data, we actually put teams who randomly
+select customers on all routes in the system. And the sample's designed to make sure that the distribution
+of the surveys, both for the rail and the bus system, are pretty much done in proportion to the actual
+ridership. Our goal was to get approximately 1,200 completed surveys. We actually ended up with over, I
+guess, it was 1,274. So the data is not perfect, but the way the survey is designed, it has an accuracy of
+plus or minus 2.8% at the 95% level of confidence. And all that means if we did the survey the same way
+100 times, we'd probably get the same results within about plus or minus 3% or less 95 times out of 100.
+So it's very good sample similar to what we've done in the past. And there were no real surprises in that
+regard.
+One of the things that's always nice, though, is to take a look at the demographic characteristics of your
+ridership to see if it's changing. But in today's era, it's also important to see, are all types of people being
+included in the service that you provide. So one of the things that we took a look at, you'll see on the left,
+you'll see the bus-- anytime you see the little blue bus logo, those are the bus survey results. And then
+you'll see the train or the rail survey results with the little green logo. And you can see there's a lot of
+similarities between the two.
+One of the things that struck me is that you have, the overall distribution of your ridership is actually pretty
+similar to the region's population. We have about one in five people in the region are Hispanic. About one
+
+in five riders are Hispanic. We have slightly higher percentages of Black and African-Americans, a little
+lower with whites and Caucasians. But overall, you do have good representation when you look at the
+actual census data for the region. The one distinction is is riders tend to have lower incomes. You can
+see almost two out of three folks who use the bus or so ride a bus had incomes of less than $50,000,
+compared to about half of those who use rail.
+But when we look at some of the other things is the frequency of use. You can see bus and rail is being
+used by people very regularly. Three out of four said they used bus or rail at least three or more days a
+week. Two out, or three out of four also reliant on the services that they use. And more than half use it to
+commute to and from work. And I think that's one of the things it's important to remember is that the
+region's transit system is helping lots and lots of people get to and from work. And that's actually one of
+the number one people, reasons they're using it. And you can see, last month I shared some of the data
+from the paratransit customer survey.
+As far as overall customer satisfaction, you can see this chart is for the ratings for the survey respondents
+on bus. The green is the satisfaction ratings. A neutral is OK. And then if you look at the orange and
+yellow on the far right, those are people who are dissatisfied. Nationally, you can see that about 58% of
+riders give positive ratings for their system. You can see for RTD at the top this year, we actually had
+68%. So you're 10% above the national average, a little bit lower overall compared to last year but about
+where it was two years ago.
+When we looked at the rail service, you can see the combined is at the top, with 25% giving very satisfied
+and 38% satisfied. You can see that the overall commuter rail average was a little higher than light rail,
+but altogether the combined rating is higher than the national average of 61% there in the middle. And
+this year, the rail ratings are where we saw some of the decreases. And a lot of that has to do with some
+of the reconstruction that was going on downtown, as John mentioned at the beginning of the
+presentation.
+One of the most important tools that we use is called the net promoter score. And part of this is to really
+assess, are people likely to keep riding and are they going to actually invite other people who they might
+know to ride as well. And the way it's calculated is we take a look at the people who are what you're
+called promoters. And this is a really high standard, because it means that you're giving a 9 or a 10 on a
+10-point scale, and that number is then actually, the number of people who are called your detractors, or
+give a rating from 0 to 6, are subtracted from that. So oftentimes, this can be a negative rating even if a
+lot of people are kind of in the middle, giving you 4, 5s, 6s.
+But we look at RTD's scores this year compared to last year. You can see the overall combined score is
+actually up two points from 2023, from 11 to 13, and it's higher than it was two years ago. So we did see
+some decreases, as I mentioned, a little bit with rail. But the overall system is higher because of the
+improvements in bus and also your paratransit component.
+When you see the bus changes, you see last year, it was at 7, that dark blue in 2023. This year it's up to
+13, which again is higher than it was two years ago. What's really unique about RTD is your ratings are
+40 points above the national average. Most systems actually have a negative net promoter score, you
+can see at negative 27 nationally. So again, moving in the right direction compared to last year and
+definitely setting a standard compared to the rest of the nation.
+
+When it comes to rail, you can see that decrease slightly. Again, some of the impact of the reconstruction
+that you're doing. It's about where it was back in 2022, from 14 to 12. But again, compared to national
+averages, you're 29 points above the national average. So still a lot to be proud of.
+And then we looked at things across the board, the differences between light rail and commuter rail. You
+see the main difference that we saw this year was the decrease in commuter rail from 47 to 15-- excuse
+me, [INAUDIBLE]. 47 to 15 is the light rail, on the other hand, actually improved from negative 2 to 8,
+which was a 10-point increase. All in all, some really good findings there.
+As far as how you stack up nationally, I'm going to go through a lot of things, but hopefully I'll do it at a
+pace that you can keep up because we have lots of statistics. The big-- excuse me-- the big takeaway
+here is that when you see how you stack up nationally, which is the gray bar, you're generally significantly
+higher. When it comes to performance-related items, you'll see the bus usually running on time for RTD's
+at 57%. Nationally is at 48. And you can see when it comes to the items on the right, which are your rail,
+you can see the combined average is 53 compared to 50.
+Getting people to their destination in a reasonable amount of time, almost 20 points above the national
+average when it comes to your bus service. And you can see 7% above the national average when it
+comes to rail service. And even the frequency of service is better, you can see, both for the rail, or the
+bus on the left is four points above the national average, one point above the national average when it
+comes to rail.
+When it comes to access issues, you can see the fare price being reasonable significantly above in both
+areas. Also, bus stops being conveniently located are significantly higher, as well as your train stops
+compared to what we see in the rest of the country. So a lot of this may seem like a broken record, but it's
+something to be proud of.
+When you look at safety and comfort, feeling safe and secure for buses and also for waiting for trains, you
+can see, are both about 20 points above the national average. Feeling safe and secure on buses, again,
+similar, 20% or more above the national average. And the buses being clean, you can see 50%, 54% for
+RTD compared to 37% nationally. Again, very similar numbers, 54 to 39, for the rail system. So lots of
+good findings as we go through the data.
+When it comes to information, this is a bit more on average. It's not necessarily bad, but not standing
+heads and shoulders above other systems. Being easy to find out if buses are running or rail and trains
+are running on schedule is about average. Same thing with being aware of RTD, if they experience
+disruptions, people feeling they're adequately informed is about average across the board compared to
+other systems.
+One of the highlights, I think, and strengths for RTD, and I mentioned this when we talked last month with
+your paratransit service, which we see here in the rail and the bus service, is that your employees, the
+ratings that you get for operator behavior are extremely good. And these tend to be areas that rate better
+in most systems. But you're really doing exceptionally well when you see how your customers rate your
+bus and train operators, perceptions that they operate the system safely, both nearly 10 or more than
+10% above the national average.
+The courtesy of your drivers, significantly better. And particularly if you look at your train drivers, almost
+20 points above the national average. And even the perception that bus drivers and train drivers are
+
+helpful also rates above the national average. So I think your employees and the work that they're doing
+is certainly adding to the overall positive perception that your employees have.
+And another great finding, too, is just that, like the community as a whole, your current customers are
+using rail and train service. Both think that RTD provides value to the community. You can see it's 87%
+for bus customers, over 80% for your rail customers. And in both cases, it's significantly above the
+national average.
+When it comes to service information, we don't have national benchmarks for all of these. But you can at
+least see how the overall score is rated. People feeling that RTD has provided adequate information
+about the services provided is about three out of four of your customers for both bus and rail. And then
+feeling that people, the scheduled service changes, how they feel about them is a little over half. And so
+that's one of the things we have that information. We don't necessarily know how to interpret it because
+we don't have any benchmarks, but at least we don't have a lot of negativity in those areas.
+As far as information about routes, schedules, and maps being easily available, information about
+schedules is accurate and overall RTD's communication materials, all of those received 2/3 or more of the
+customers that were rated gave them positive ratings for both the rail services and for bus services. And
+when it comes to your mobile applications and social media, you can see that the perception that they're
+easy to use and they provide useful content on social media is a majority of the people gave those
+positive ratings for both the bus and rail customers who were assessed.
+And then finally, on the customer questions related to customer service, about half the people, a little over
+half the people feel like if whatever complaint or concern they had was resolved. We don't necessarily
+have a national average for this, but we do ask this question for local governmental clients when people
+interact with their call centers or ask for help resolving a problem or complaint. And nationally that runs
+around 32% to 33%. So usually when people call him with a problem, they don't always get resolution.
+When you get the majority of the people giving positive ratings, that's actually positive. But we don't have
+a direct head to head when it comes to transit riders.
+The resolutions being timely resolved. Your customer service people are certainly responding well. You
+can see over 90%, particularly on the bus, gave positive ratings. And the overall perception that your
+people who are working in customer service are courteous. You can see over two out of three, nearly
+three out of four of both your bus and rail customers who had contact felt that way.
+And when it comes to perceptions of your buses being safe, the trains being safe, the trains and buses
+operating on the days that people need them, and the overall perception that buses operate at the times
+that people need them, all of those areas had ratings of 70% or more across the board. And when we ask
+people about their ability to get to destinations and the funding that's provided, you can see that 80% or
+more of both the bus and the rail passengers thought that RTD provides access to key public service
+destinations and also felt good about private entities, nonprofits, and local governments should consider
+increasing funding.
+So in other words, usually when people feel better about funding increases, they believe you're using the
+resources you have wisely. And that was very consistent on the community value survey that we did last
+month, or I shared last month, is that residents feel that they're getting good value for the money that's
+being invested in transit in the region. So I think that's a lot of things there to feel real good about.
+
+What impresses me about RTD is that you're willing to go and ask the hard questions from your
+customers when things maybe aren't going so well. I've been doing this for 30 years, and oftentimes when
+there's a big project going on or something that might disrupt normal service, a lot of times people say,
+let's not ask the customers now. Let's wait until we're done. But your survey was scheduled and you went
+ahead and did the survey of your customers while you had reconstruction going on. And I thought that it
+was very bold and knowing that it would probably have some negative impact.
+But we did ask them what kind of impact it did have. And so people who are riding the bus, you can see
+about 31% of them said it was negative. You can see the percentage that actually had a positive impact
+was 19%. So just because the reconstruction efforts were going on, they did impact people who used the
+bus, a rather significant number of them. People generally were not that negatively affected as a result.
+You'll see when it comes to the rail construction had a bigger impact. For the light rail riders, about 41%
+said they were negatively impacted. For commuter rails, it was 33%. But you can still see there were
+some people who felt better and think that has to do a lot with some of the changes that RTD made in its
+service to help people get around some of the challenges that were caused by the reconstruction. So
+again, the fact that your ratings for bus, light rail have generally improved, commuter rail went down
+slightly in the midst of a project that affected a lot of people, I think is something to be really, really proud
+of.
+We asked those people who were affected what adjustments they had to make. And for bus customers,
+you can see they started using more buses more often. That was one out of four people who were
+affected. One in five people didn't make any adjustments at all. Others were walking more often. We had
+about 1 in 10 who were either riding their scooter or using Uber and Lyft-type services more than they
+had previously as a result of the construction.
+For light rail customers, you can see 1 in 4 started using RTD buses more often. About the same number
+didn't make any adjustments. And you can see a higher percentage, 1 in 8 were walking, perhaps even
+driving their own vehicle more and using Uber or Lyft rideshare-type services.
+And when it comes to commuter rail services, about 1 in 4 people didn't have to make adjustments, but
+we had about 1 in 5 use buses more, and then 1 in 7 walk more. Others who were driving more and
+traveling just less as a result of it. But all in all, it appears that you got through the construction very, very
+well, given some of the disruptions and changes it caused many of your customers.
+In addition to assessing satisfaction, another important part of this analysis is really to identify what are
+the key drivers, what are perhaps the most important things to be focusing on moving forward so you can
+sustain high ratings and even improve in the future. So we asked the respondents to the survey for both
+the bus and rail what the most important attributes are of all the areas they rate.
+So I've showed you the satisfaction scores. Now I'm going to show the importance for each of those
+services that were assessed. And last year, you can see for the bus, the top five were frequency, hours of
+operation, personal security, fare, price, and travel time. And you can see the other 20 items are listed in
+descending order to the right. This year, frequency and fare price, hours of operation, convenience of the
+stops, and then travel time were the top five. You'll notice that personal security actually dropped to seven
+this year. Last year, it was in the top five when we looked at the bus ratings.
+And one of the tools that we use that I've shared with you before is our matrix that shows from left to right
+the overall importance of items, and from the bottom to top, the overall satisfaction ratings. And typically
+
+what we're taking a look at are items that are in the bottom right. These are more important. They get
+slightly lower ratings. And then we also do regression analysis to see which factors are actually most
+correlated with the overall satisfaction ratings that people give. And you can see the items that are there
+in blue are those that are more important than average.
+When we actually look at which factors actually are the best predictors of satisfaction, right now, it's travel
+time and personal security on bus is still important, though it's less important than it was in the past. It's
+still-- excuse me, this is from last year, I was reading [INAUDIBLE]. These were where it was for last year
+in 2023. 2024, you'll see the personal security is still in the list as an important driver.
+But this year, the only item that was strongly correlated with the overall satisfaction rating is travel time.
+And you can see that's at item E. So again, the overall ratings and factors, their importance didn't change
+a whole lot, but travel time is now the number one thing to focus on as far as bus customer satisfaction.
+In 2023, we did the same thing for light rail. You can see that frequency, fare price, hours of operation,
+convenience of train stops, and travel time were the top five items. This year, in 2024, you can see
+frequency's at the top, and it's a very similar rating. In this case, personal security was a little bit higher
+this year than last year. But overall, the top items are pretty much the same as they were for 2023 to
+2024.
+And you can see last year for the key drivers, it was frequency of service was the number one thing for
+light rail. You can see the A that's over to the far right. But those other items that were important, fare
+price, hours of operation, convenience of stops, and also the travel time. This year, in 2024, you can see
+travel time is again at the top of the list, the most strongly correlated when it comes to the regression
+analysis. And we have a similar list of items that are still important to folks to focus on. So no radical
+changes in what those priorities are for either bus or light rail compared to a year ago.
+Last items I'll share with you are just for commuter rail. You can see the things that were most important
+to people last year were frequency, fare price, travel time, hours of operation, and the convenience of
+locations. This year, you can see it's a very similar list. You can see personal security again for commuter
+rail was slightly higher this year. So while it dropped on bus, it went up a little bit on rail. But the overall
+sequence of items from first to last didn't change that radically from 2023 to 2024.
+And when we looked at the key driver analysis in 2023, travel time was the number one factor for
+commuter rail. This year, it's actually frequency of service. So we've seen a little bit of change there. You
+can see travel time's still one of the most important factors, those items in blue. But the frequency of
+service has actually become a bigger deal this year compared to last year.
+So all in all, the ratings are very good. RTD continues to set the standard. I went through I'm not sure how
+many dozens of items and you were above the national average in just about every single one of them for
+both your bus and rail performance. I think the result of this survey, having been done during a period
+when you had a lot of construction going on that impacted people, many of which were impacted
+negatively, really shows your commitment to customer satisfaction. And the overall net promoter score,
+even though you had that actually improve system-wide, that was down slightly for commuter rail. It was
+up for light rail, bus, and also your paratransit service.
+But to continue doing well, I encourage you to continue focusing on travel time for bus and light rail and
+looking at the frequency of service for commuter rail.
+
+So with that, I don't know if anyone has any questions, but it's great to be with you again this month.
+PEGGY CATLIN: Thank you, Chris. I see John McKay has his hand raised.
+JOHN MCKAY: I think I'm going to yield to our General Manager and CEO first, if I could.
+DEBRA A. JOHNSON: Thank you very kindly, Madam Chair. Thank you, Mr. McKay. Just for point of
+clarification, Chris, in your closing comments, you said that the commuter rail NPS was down. IT'S
+actually the light rail that was down, due to the fact that we had the near term real reconstruction on light
+rail, not commuter rail. So I just wanted to ensure that I clarified that for all assembled.
+Thank you very much and I'll yield the floor back to the Chair. Thanks.
+PEGGY CATLIN: Thank you. Mr. McKay. And then I see Director Lewis has a comment.
+JOHN MCKAY: Thank you, Madam Chair. Just a couple things. I wanted to call out the tie between some
+of these survey results and our agency performance scorecard and the annual scorecard, which is we
+use these data to inform how we adjust from year to year. So, Chris, if I could have you go back to slide
+21 briefly. Thank you very much.
+I just wanted to call out that the price of fares is reasonable is one of the items that we are calling out for
+the agency performance scorecard with respect to the financial metrics. This is just showing that
+customers find that our fares are reasonable. That's something we're tracking year over year. And just to
+note that we weren't cherry picking this number. It went from 74 to 76, I believe, this year, compared to
+the national average of 63. I think RTD is doing spectacularly well in that area.
+And just to note that this is something we'll be tracking year over year and making decisions based upon.
+Also, if you could now fast forward to slide 47. Actually, one less, it's 46. And one more, 45. Apologies.
+That's what I was looking for. Thank you.
+So travel time, we see by far and away there's no clear indicator that people are interested, based on the
+satisfaction rating people are saying to us that they're not satisfied with the timely arrival of trains in item
+B there. I just wanted to note that the coping panels project was actually one of the factors that impacted
+the timely arrival of trains more so even than the downtown rail reconstruction.
+So we know that in 2025, we're probably not going to be experiencing that same level of thing. So that's
+something we'll keep taking, keeping an eye on. But just noting that, as Chris pointed out, that the key
+driver of travel time is important to people and it's about mean importance right there and it's mean
+satisfaction. So we do know that that's something that we will take a look at. As we adjust our strategic
+initiatives for 2025, that's something we'll be monitoring.
+And just to note that these data, as I said, do factor into when we do strategic planning for the year, that
+we're taking a look at what people are telling us are the important things to them so that we know where
+to adjust our efforts. And with that, I will yield the floor.
+PEGGY CATLIN: Thank you, Mr. McKay. Director Lewis, please.
+JAIME LEWIS: Thank you. It might take away from this report is that our riders are very resilient. They're
+committed. And it just seems there's this unspoken partnership between our riders and our service. I
+
+would hope our marketing department would pick up on that and maybe use that as a tool for more
+recruitment. Thank you.
+PEGGY CATLIN: Thank you, Director Lewis. Director Tisdale.
+DOUG TISDALE: Thank you very much, Madam Chair. A couple of observations relative to the customer
+satisfaction survey. If you look at page 83 of the packet, the conclusion that I draw from those data is that
+47% of the people who took the survey say that our rail is late. That's 40. That's almost half. Now it's
+better than 50%, which is the national average, of people who say that the rail is late. But I hardly view it
+as a brag point when we have 47% of our customers saying that rail is late.
+And then on page 85, 45% of our customers who took the survey said that they feel unsafe. Again, that's
+better than the national average, but it's hardly a brag point. And I think we need to be aware of those
+observations as we look at these data.
+And then relative to the Net Promoter Scores on rail, I am a little confused, because I hear General
+Manager/CEO's observations, and I heard what Chris said, and looking at page 81, the light rail net
+promoter score actually is up by 10 points, but the commuter rail is down by 32 points. So I'm just trying to
+put that into context in looking at page 81 of the report. So I suppose the last one is a question. The first
+two were observations. And this is a question relative to the Net Promoter Score. Am I reading that
+correctly?
+CHRIS TATHAM: Yeah, the Net Promoter Score did actually go up for the light rail, though it was more
+heavily impacted by the construction. And I think that's the CEO's comment is the takeaway from that is
+your light rail folks were highly impacted, but you managed it really, really well. But there were a lot of
+commuter rail people who were impacted as well. It wasn't just affecting light rail and the impact on
+people who probably were not in the area as much or at least perhaps weren't using the light rail service
+as their primary method. They actually were hit perhaps harder as a result.
+So the impact of the construction had wider ramifications than just the one place that it was happening.
+And I think that's what my takeaway was. There's a lot of times, you did a really good job of managing
+light rail, and so it did actually go up 10 points, but there were some negative impacts on commuter rail
+and other customers as well that may not have been ready for the construction and how it would affect
+them as much. Hopefully that makes sense.
+And the other thing I would commend is that your high standards. I mean, sometimes just being above
+the national average isn't what you want to be, especially when you're striving to be one of the best transit
+services in the country. And so I think that's one of the reasons RTD does well, is you're not settling just
+to be above average.
+PEGGY CATLIN: GM/CEO Johnson, would you like to respond to that?
+DEBRA A. JOHNSON: Yes. Thank you so much. And thank you, Chris, for clarifying that. And that's
+exactly the point I was trying to make, Director Tisdale. But what's more important, as we talk about
+commuter rail, just as a gentle reminder for all of you, that we endured some unfortunate circumstances
+relative to copper wire theft that impeded our signalization on the rail network. And we were working with
+the concessionaire as well. So that feeds into the commuter rail, especially when you think about the
+transferability.
+
+And in light of what you said, Director Tisdale, with your observations, they're spot on. We leaned into the
+moment and we continued to basically ascertain the opinions, perceptions, and attitudes, recognizing that
+there was single tracking. So yes, our trains were late because we were doing that manually and not
+doing that by our automated system. So of course, we knew we were going to lose trips. And we all were
+very cognizant of that going forward.
+With that as a backdrop, piggybacking on what Director Lewis said, that, yes, for those that are utilizing
+our service, we do have this partnership with them in reference to being highly communicative. And as
+referenced to safety, security, one's personal safety and security, we're interwoven in the fabric of the
+communities that we're serving. So if people are utilizing illicit drugs or they're having other
+circumstances, it's going to spill over to transit. And we're trying to do the best that we can regarding our
+opportunity to enhance our system. But of course, we're going to have to rely on third parties.
+Thank you so much for the opportunity to explain my comments.
+PEGGY CATLIN: Thank you, Ms. Johnson. Mr. McKay, please.
+JOHN MCKAY: Thank you. Just a quick note. I think these data indicate that RTD's customers are
+consumers of all of our modes. You can see that there are similar impacts across commuter rail, light rail,
+and bus. And these were conducted via intercept. So what happens is the ETC team, they have folks who
+go out on the system and contact folks who are using the system. You can see that based on the
+impacts, because of how similar they are in terms of impact for each of the different modes, you can see
+that something that, like I said, for commuter rail to have about the same level of impact as rail with
+respect to the downtown rail reconstruction, we can see that somebody who's on a bus may transfer to a
+commuter rail or vice versa, or even light rail. So it's encouraging to see that there is a similar level of
+impact in that we are servicing people who use all of our modes.
+PEGGY CATLIN: Thank you, Mr. McKay. Director Guissinger.
+LYNN GUISSINGER: Thank you very much. And thank you, Chris. This is super interesting and helpful.
+And I believe that I noticed that 75% of the respondents use RTD more than three times a week. Is that
+right?
+CHRIS TATHAM: Yeah, it's about 3/4 of the folks.
+LYNN GUISSINGER: And I was just curious, does that say anything to you? Is that what you would see in
+other agencies that you've worked for?
+CHRIS TATHAM: It occurs when you have a high percentage of your ridership using it for work. That
+tends to be the key, because oftentimes some systems are more social service oriented. People are
+trying to get to the hospital, go run errands. But this is not that uncommon for systems that are highly
+geared to getting people to and from work. And you can see that here, where three out of four of both
+your rail and bus customers are using it three or more times a week. So that's a really good, healthy
+indicator.
+LYNN GUISSINGER: Great. Thanks.
+PEGGY CATLIN: Are there any other questions from Directors? Director Guzman.
+
+MICHAEL GUZMAN: Thank you. We're at the end of our current strategic plan. So this is top of mind for
+me generally. When we talk about doing a comprehensive operational analysis, which we've branded as
+the strategic operating optimization, the System Optimization Plan. Thank you. Sorry. This is what I'm
+thinking, based on this information.
+Debra has quite a few times stated this, that transit is the great societal equalizer. Education, food,
+medicine, shelter, and employment. This is telling us that the hotspot on our map that we really have to
+pay attention to, and something that I've heard discussed in multiple arenas, is that public transit to
+employers is going to be something that we need to keep our eye on. So when and how are we going to
+have that conversation going forward, knowing that this is what people are using it for, especially folks
+that are making less than $50,000 a year, which in Denver puts us at an extreme poverty category, based
+on the current numbers given to us by the mayor and the city council?
+It is a key factor in whatever service development and service provision that we go forward with to ensure
+that we can get people to work and home. And that frequency and the hours of operation did not slide
+past me in that top category for all of the modes, because people work when they work. It's not an 8 to 5
+job for everybody in the system, especially hourly employees that are most likely making less than
+$50,000 a year.
+So I put that out to everybody to say, we need to consider that going forward. And I don't know as a-we're coming to the end of the 2026 System Optimization Plan, when we start planning for the new
+comprehensive operational analysis. But I think that needs to be a top of mind factor for everybody going
+forward. It's adjacent to this conversation, Madam Chair. Thank you for indulging my opportunity to say
+that.
+PEGGY CATLIN: Thank you for your observation. Ms. Johnson, would you like to reply?
+DEBRA A. JOHNSON: Yes. Thank you very much, Madam Chair. And thank you very much, Secretary
+Guzman, for your observations and your comments.
+One thing that's gravely important is when we talk about a comprehensive operational analysis, one thing
+that takes place when you do one and create a scope is to try to discern where people are trying to go,
+looking at land use and development and things along those lines. So quite naturally, we have a laser-like
+focus on that. As we look at these data and we're intentional relative to the individual performance goals,
+division, departmental goals, we're looking at how people are getting to employment sites, and that's
+incorporate into the departmental work plans. And there's been discussion around that.
+And chiefly speaking, as we look at leveraging a CoA, which we're already in the process of discussing as
+we move forward, it's very intentional relative to ensuring that we from an operability vantage point what
+needs to happen. And so we'll be very focused utilizing these data points as we scope out where we're
+going.
+So thank you for those observations. I'm glad you broached it because it brings it full circle, because
+we're not just using this information idly. It's very intentional and focused throughout the organization.
+Thanks.
+PEGGY CATLIN: Thank you, Ms. Johnson. I see John McKay has his hand raised. And I wanted to
+acknowledge that he was providing the nexus between our annual scorecard and our strategic goals and
+
+setting those for the future with these data to inform. So I think, Director Guzman, you were spot on in
+your tying those together.
+But Mr. McKay, please.
+JOHN MCKAY: Thank you. Just one last comment, just a note that these are the last surveys that we're
+doing in relation to the strategic plan for 2024. Moving into 2025, we'll be doing surveys earlier in the year.
+So the employee survey, bus and rail, paratransit, and community surveys will all be conducted in the
+spring time so that we can take those results and take action on them earlier in the year. We'll be able to
+incorporate those into our strategic planning process for 2025 into 2026.
+And these can also be factored into the budget moving forward. Whereas right now, since we're just
+getting these survey data now, we can't really actually put them into action for the 2025 fiscal year
+budget. So we'll be a lot more nimble, a lot more flexible once we're able to move our surveys early in the
+year and look forward to working with ETC in the coming year. So thank you, Chris.
+CHRIS TATHAM: Thank you.
+PEGGY CATLIN: Thank you, Mr. McKay. That's good news moving forward. Are there any other
+comments from Directors? Seeing none, are there any other matters to discuss? I guess we don't have
+any other matters to discuss.
+So for this month, this Performance Committee meet will be meeting twice. Our next meeting is scheduled
+for Monday, October 21 at 8:30 AM. And at that meeting, we're going to have further discussion around
+the data this committee wishes to share, see shared regularly by staff. We had talked about having a
+cadence for some of these reporting. I know that Mr. McKay has worked really hard on developing the
+scorecard, and I think we can look at those results and develop priorities for discussing with this
+committee.
+I wanted to acknowledge the work that Board Chair Davidson, who had to drop off this call, Committee
+Vice Chair Guissinger, GM and CEO Johnson, and Executive Business Partner John McKay have put in
+over the past year to move this conversation forward. I think we're making a lot of progress. Any
+comments on that?
+OK. Well, with no further discussion or agenda items, I'd like to adjourn this meeting as of 9:53 AM
+Mountain Daylight Time. Thank you all. Good discussion.
+JACK KROLL: Bye, everyone.
+PEGGY CATLIN: Bye-bye.
+
+

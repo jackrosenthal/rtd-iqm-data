@@ -1,0 +1,271 @@
+## I. Call to Order
+
+Chair Sisk called the meeting to order at 5:30 p.m.
+
+## II. Pledge of Allegiance
+
+Chair Sisk asked everyone to please stand for the pledge of allegiance.
+
+### 1. Roll Call
+
+Paula Perdue called roll.  There were 13 Board members available at roll call.  Directors Lasater and Menten arrived after roll call.
+
+Staff Present:               Bruce Abel, Jessie Carter, Rick Clarke, Sherry Ellebracht, David Genova, Mike Gil, Terry Howerter, Austin Jenkins, Erin Klaas, Marla Lien, Doug MacLeod, Robin McIntosh Jr., Barbara McManus, Anthony Menendez, Paula Perdue, John Perry, Scott Reed, Dean Shaklee, Errol Stevens, Henry Stopplecamp, Kirk Strand, Walt Stringer, John Tarbert, Pauletta Tonilas, Bill Van Meter, Phil Washington, Bill Weidenaar
+
+Others Present:               Andy Abramorres, Mary Beth Archer, Mark Burns, Mark Carlen, Audrey DeBarros, Lori Frasier, David Foster, Doug Gragg, Barbara Henderson, Steve Hindes, Chris Jarrett, Elise Jones – Boulder County Commissioner, Ruth Kahn, Kirstan Marks, Matt Morino, Lee Ann Nielsen, Brigid O’Connor, Lisa Olsen, Steve Olsen, Bob Reposa, Emily Rickert, Tom Rickert, Steven Romero, Carol Rothman, Paul Rothman, Amanda Sandoval, Marta Sipeki, David Thomas, Cat Tatman, Terri Tiemann, Joe Triplett, Gary Van Dorn, Cheryl Wallace, Monte Whaley, Bob Wilson
+
+## IV. Retiree Awards
+
+Chair Sisk indicated there were retirees tonight and turned it over to General Manager Washington for introductions.  General Manager Washington asked Assistant General Manager of Bus Operations, Bruce Abel, to do the honors.  Bruce read off the list of retirees and indicated that while most were unable to be here tonight, RTD would like to acknowledge all of their contributions and work effort for making this a strong transit agency.
+
+Donald R. Anderson – Mechanic – 21 years
+
+Holman Carter – Bus Operator – 33 years
+
+Ruth Ann Conca – Maintenance Clerk – 29 years
+
+John D. Lentsch – Body Mechanic – 29 years
+
+Manuel J. Martinez – Body Mechanic – 29 years
+
+Medardo Miera – Parts Clerk – 25 years
+
+John E. Parmley – Mechanic – 34 years
+
+Robert G. Reposa – Senior Equipment Engineer – 37 years
+
+Ronnie R. Robles – Certified Mechanic – 32 years
+
+William M. Shearer – Facilities Maintenance Technician – 31 years
+
+Art Stephens – Certified Mechanic – 21 years
+
+Henry Torri – Technical Service Supervisor – 35 years
+
+Robert G. Reposa, senior equipment engineer with over 37 years at RTD, was present to receive his award.  Dean Shaklee, Maintenance Superintendent, introduced Mr. Reposa.  He stated that Mr. Reposa had been here for about 38 years having started as a mechanic helper and advanced through the ranks to become senior equipment engineer.  He has provided support for every support vehicle on the property today.  He has done an outstanding job as snow commander.  He has 3 children and 4 grandchildren.  Bob enjoys skiing and hunting.
+
+Mr. Reposa spoke and thanked RTD for 38 years.  He has had a wonderful time on the job and always looked forward to coming to work.  He has had a history here at RTD of a lot of firsts-moved from mechanic helper to first certified mechanic; awarded first master mechanic coordinator position; appointed first quality control inspector; in engineering had several firsts such as modification of first bus to natural gas, installation of video camera on buses and first bus for access-r-ride.  This has been a joy.  He has had a great career and he is sorry to go.
+
+The Board and audience gave Mr. Reposa a standing ovation.
+
+## V. Public Participation
+
+Chair Sisk opened up public participation and asked participants to please stat their name and address.  They would have 3 minutes and he encouraged the speakers in the interest of brevity to please speak to additional information if someone else has already spoken on the subject.
+
+- Elise Jones, Boulder County Commissioner, thanked RTD for the delivery of FasTracks but noted the promise has still not been fully realized along the US 36 corridor.  The BRT is a part of that promise and the MCC/US 36 corridor wants to work with RTD to make sure the vehicles selected will work for their needs. The MCC would like to encourage modifications on the MCI vehicles to make wider entrance aisles, add a door in the back and enhance bike carriage capacity.
+
+- Brigid O’Connor stated that she and her family are residents in LODO and love the lifestyle.  She had a simple request.  DO NOT load any more buses by their home-no 15L, or O or anything.  Their backyard is being bombarded with buses.  This is their neighborhood where they live, work and play.  The buses and the increased traffic create safety issues. She cited concerns around (1) equitable routing solutions (2) Free Metro Ride using diesel fuel and (3) no consideration for alternative fuel options.  RTD should be reasonable and not try to route all this traffic onto one street.
+
+- Steve Romero with Blackfeet Lighting indicated they were a subcontractor on card readers for our fleeted buses and platform.  He indicated there were up to $1/2M in change orders that did not get paid.  He feels his company was dismissed from the project without reasonable cause.  They have been trying to meet with the General Manager and the Civil Rights Division but without prevail.  He has over four years of documentation that he can provide. RTD’s legal or DBE office is not helping and will not meet with them.  He has exhausted all options and would like to know how he can get a meeting.
+
+- Lori Frasier, past chair of the US 36 Commuting Solutions, indicated that she supports the Board action for the 59 MCI buses.  She also supports the resolution that had been submitted to RTD to retrofit the buses so that our BRT investment will provide a high quality solutions to the needs of the corridor.  She has witnessed the effect of good public transportation on revitalization and believes it is vital for the US 36 corridor.  She expressed there is a lack of equity up north and that RTD may be taking a status quo position on BRT.  She encouraged RTD to step up to a true BRT technology and honor our commitments for this corridor.
+
+- Mary Beth Archer, also representing the US 36 Commuting Solutions, provided her support on the purchase of the MCI buses.  She shared that she works for Hunter Douglas which has over 600 employees who travel to work using public transit and also bikes. She advocated for sufficient bike storage on the buses and at the facilities, noting that a dedicated bike way will open about the same time as the BRT.  She believes the BRT solution should be an integration of bikes along with public transportation.  RTD needs to think outside of the box for possible solutions.
+
+- Doug Gragg shared that he was not happy to read about the lawsuit between DIA and RTD and what happened to trigger this after two years.  He also expressed sympathy for the bikes on buses issues coming from Boulder but reminded the Board that other districts/people have concerns about bikes on buses also.  He also asked what do we know about the company we are purchasing these buses from.  Is it a US Company?
+
+- David Foster, Denver, identified himself as a lawyer hired to represent the interest of the residents along the 18 St corridor.  These people are true urban dwellers.  They are looking for a true process that will allow them to participate in the decision making process. They will be appealing the decision of public works for a 2-way street. He has not been able to find any order approving the two-way street conversion.  The RTD rerouting of bus traffic to 18th Street is relevant to the issue at hand.  Is 18th Street the appropriate place to reroute these buses and traffic which create safety issues and affect the quality of life.
+
+- Amanda Sandoval, aid to City Council Woman Judy Montero, read a letter from Judy expressing concerns from the residents in LODO. For a copy of the letter, please refer to the minutes notebook located in the Board office.
+
+- Kirsten Marks shared her concern on the impact of buses being routed on the 18th Street.  She cited this is a Historic district which needs to be preserved.
+
+- Terri Tiemann indicated that she now lives in the IceHouse Lofts where she wanted to be in the heart of LODO.  This is a wonderful area to live, work and play.  She works from home and is concerned about the impact of the buses and noise level on her business and quality of life.  She is concerned about how she will get in and out of her parking garage if we have about 30 buses per hour coming through that area. She had just moved into the area from Brooks Towers where she had experienced buses below her apartment and knows the impact of the noise and pollution which is the reason that she moved.
+
+- Andy Abramorres shared that he is the president of the Franklin Lofts HOA.  They are concerned about the rerouting of the bus line and that we are not offering any green solution.  He is concerned about the safety of the neighborhood.
+
+### 1. Public Participation Letters
+
+##### a. 2014-01-21 Denver Council Letter - Montero
+
+## VI. Committee Reports
+
+Planning & Development Committee – Chaired by Director James
+
+Government Relations Committee – Chaired by Director Daly
+
+FasTracks Monitoring Committee – Chaired by Director Hoy
+
+Civil Rights Committee – Chaired by Director Malpiede/Director Deadwyler
+
+Operations & Customer Services Committee – Chaired by Director Tobiassen
+
+Financial Administration & Audit Committee – Chaired by Director Walker
+
+GM Oversight & Performance Management – Chaired by Director Bagley
+
+Fiscal Sustainability Task Force Committee – Chaired by Director James
+
+CDOT – Director Walker
+
+E-470 – Director Tobiassen
+
+ACED – Director Solano/Director Hoy
+
+Northwest Parkway – Director Sisk
+
+Pension Committee – Director Lubow/Director Tobiassen
+
+Chair Sisk asked if there were any corrections to the minutes.  Some typographical errors were identified.  Chair Sisk asked the Board members to please communicate these errors to Paula Perdue, Executive Director for the Board office in advance so they can be corrected in the records.
+
+### A. Minutes of Jan 7, 2014 5:30 PM
+
+### B. Minutes of Jan 7, 2014 5:30 PM
+
+### C. Minutes of Jan 14, 2014 5:30 PM
+
+### D. Minutes of Jan 14, 2014 5:30 PM
+
+### E. Minutes of Jan 16, 2014 12:00 PM
+
+## VII. General Manager Oversight and Performance Management Update
+
+Director Bagley indicated that the work of the General Manager Oversight and Performance Management Committee was completed in 2013.  As part of the audit requirement to look at the salary and compensation for compliance, RubinBrown, independent audit firm, will provide their comments.  Terry Howerter, CFO, then introduced Cheryle Wallace and Matt Morino who provided their review.
+
+Matt shared the assumptions of this report, noting that the 2013 compensation was in line with the contract. The only difference was a vacation sellback.  The Board authorized a discretionary performance payout for 2014.
+
+Director Bagley thanked RubinBrown for what he thought was a thorough report.
+
+## VIII. Approval of Board Meeting Minutes of December 17, 2013
+
+Motion:              Director Rivera-Malpiede made the motion to approve the Board meeting Minute from December 17, 2013.
+
+Director Folska seconded the motion.
+
+Vote on
+
+Motion:              The Board member voted 15 in favor and 0 against.
+
+Chair Sisk declared the motion PASSED Unanimously.
+
+### 1. Minutes of Dec 17, 2013 5:30 PM
+
+## IX. Approval of Special Board Meeting Minutes of January 7, 2014
+
+Motion:              Director James made the motion to approve the special Board meeting Minutes of January 7, 2014.
+
+Director Rivera-Malpiede seconded the motion.
+
+Vote on
+
+Motion:                            The motion passed 15 in favor and 0 against.
+
+Chair Sisk declared the motion PASSED Unanimously.
+
+### 1. Minutes of Jan 7, 2014 5:30 PM
+
+## X. Chair's Report
+
+- Chair Sisk thanked the Board for responding to his request on committee assignments.  He hopes to have the final assignments available by this Thursday.  This has been a hard decision but he tried to take everyone’s recommendations into consideration.   He thanked the Board members who participated in the Executive Committee. There may be a few disappointments but he is confident they will be able to work together in their shared goal to move this agency forward.
+
+- Chair Sisk indicated his understanding from the MPACT 64 polls that this issue is off the table.  The voters do not have an appetite at this time for a tax.
+
+- Chair Sisk thanked Directors Anderson and Solano for their participation at the Hispanic Chamber Legislative Breakfast.
+
+- Chair Sisk thanked General Manager Washington who was a speaker at the US 36 Commuting Solutions Legislative Breakfast.  He also thanked Directors Lasater, Lubow and himself who attended.
+
+- Chair Sisk thanked Board members Deadwyler, Anderson, Folska, Lasater and himself for their attendance at the Denver Business Journal State of the Cities.  He shared that Honorable Mayor Hancock and Honorable Mayor Hogan spoke at this event.  CSU provided an economic forecast which project sales tax revenue decreasing.  He would like to see this report shared with the staff and the CU Leeds.
+
+- Chair Sisk spoke to the upcoming APTA Legislative conference in Washington DC March 9-11.  He is working with Sherry Ellebracht and hope to have some good and productive meetings lined up with Congress and others.  Director Bagley added that due to some of these additional activities, he understands the time will be expanded to March 12.
+
+## XI. General Manager's Report
+
+- General Manager Washington commented on a couple of items:
+
+o        US 36 BRT Vehicles—Staff is working with the US 36 stakeholders.  He had received a resolution last Tuesday that they have been reviewing and had hoped to have a response.  They were not able to have a response by this Board meeting. There are 5 issues they are looking at:
+
+1.       Widening of the entrance of the MCI buses.  They have also been requested to look at the possibility for a second door on the bus.  They are in discussion with the manufacturer about these requests.
+
+2.       As customary when we roll out a new corridor, we want to roll out with brand new buses.  These buses will be branded specific for BRT.  This process takes about 26 months and right now it is a concern over timing issues should we delay.
+
+3.       RFP/RFI—RTD has agreed to issue a RFI to see what vehicles may be in the market.  This will probably be 6-8 months out.  They are willing to have someone from the US 36/MCC to be part of the evaluation team for this RFP/RFI.  This is consistent with our process.
+
+4.       Bike capacity issues—RTD believes we are increasing our capacity rather than reducing it through increased service frequencies. It is true that the bike capacity per vehicle went down due to lift requirements; however, if you add up the frequencies of the buses that will be traveling along the BRT, the capacity to carry more buses per hour greatly increases.
+
+5.       Pertaining to the issue of bikes on the front of the buses, the staff does not recommend 3 or 4 due to concerns around safety.
+
+o        Staff has been willing to engage with everyone about these vehicles and bikes on buses; however, they understood that the representatives who had met with them were speaking on behalf of everyone and was reporting back to the whole community.  Staff will continue to work these issues but it is very important that we have these new, branded vehicles for opening day.
+
+- 18 St Bus Service—There has been extensive public input opportunities and there will be upcoming public hearing.  Staff will take the comments from tonight along with other feedback and provide that to the Board.
+
+- General Manager Washington attended the Transportation Research Board annual meeting which was held in Washington DC January 14-16.  This is a committee that researches all issues related to multi-modal forms of transportation.  He is a member of the Executive Committee.  They have published a list of the critical issues in transportation for 2013-2014.  One of the hot items is the positive train control which has surfaced as a result of the accidents in other locations.  RTD is implementing positive train control on our Eagle System from the ground up.  Other agencies are having to retrofit which is much more difficult to accomplish. AGMs Rick Clarke and Dave Genova presented at this meeting.
+
+- RTD just celebrated the 2014 Leadership Academy kickoff which is the 3rd class. This is our next generation of transportation leaders.
+
+- While out east, he and Rick Clarke visited the Hyundai Rotem Plant which will be supplying the commuter rail cars for DIA and Arvada.  We have 20 vehicles in the production shop.  People will be surprised related to the difference in size and capacity from the light rail vehicles.
+
+- Washington and FTA have recently made leadership changes.  Peter Rogoff, former FTA Administrator, will assume role as understudy Secretary; Therese McMillian who we know well is now FTA.  We hope to be able to have a meeting with these officials, including the USDOT Anthony Foxx, while in Washington DC.
+
+- Proposed Public Private Partnership (P3) Roundtable May 9—In concurrence with the grand opening of DUS, Patton Boggs has proposed a P3 roundtable event which will lead into the DUS grand opening activities.  We are looking at three panels: (1)  federal policies (2) Denver Success Story (3) Privates
+
+- RTD-DIA legal dispute—The issue of the legal dispute that appeared in the papers is not unusual especially when you are under construction for $Billion dollar projects.  This is an issue that surfaced about two years ago and the RTD Board was advised about it at that time.  The newspaper account was pretty accurate.  The arbitrator had provided a ruling consistent with the position of RTD which is being appealed by DIA.  He believes it is business as usual while this issue is being worked and it should not have an impact on our construction timeline.
+
+## XIII. Unanimous Consent
+
+Motion:              Director Anderson made the motion to approve Items A&B of the unanimous consent.
+
+Director Deadwyler seconded the motion.
+
+Vote on
+
+Motion:              The motion passed 15 in favor and 0 against.
+
+Chair Sisk declared the motion PASSED Unanimously.
+
+### A. 2014 - 001 : Resolution No. ____, Series of 2014 Appointment of Trustees to the RTD Pension Trust and Defined Contribution Plan
+
+##### a. 2014 Resolution  - 001 Appointment of Trustees to the RTD Trust and Defined Contribution Plan
+
+### B. TMD Contract Amendment
+
+It is recommended by the Operations and Customer Services Committee that the Board of Directors authorize the General Manager to approve an amendment to the Transportation Management & Design, Inc. (TMD) Contract 10DO024 to exercise the remaining two option periods and to increase the contract amount by $215,368 from $384,682 to an new Not to Exceed (NTE) total of $600,000. TMD provides service planning by task order over a five year period and the anticipated NTE total dollar amount will exceed the General Manager’s authority of $500,000 in 2014.
+
+### C. Purchase of up to 59 Buses for US 36 Bus Rapid Transit
+
+It is recommended by the Operations and Customer Service Committee that the RTD Board of Directors authorize the General Manager or his designee, to exercise the option of Contract 12FK002 with Motor Coach Industries (MCI) for the purchase of up to 59, 45-foot heavy duty intercity buses to replace the existing Neoplan intercity coaches at a price not to exceed $35,036,000 and to authorize the use of existing COP proceeds to finance the cost of such acquisition. Funding for 18 vehicles is provided in the 2014 FasTracks capital budget for the US 36 BRT project, and funding for the remaining 41 vehicles will be provided through a budget transfer.
+
+It is further recommended that the Board of Directors authorize transfers of $9.351 million from the articulated bus replacement project and $14.996 million from the transit bus replacement project to cover the cost of the remaining 41 vehicles.  Funding for these projects will be restored in the 2014 Amended Budget.
+
+Motion:              Director Hoy made the motion to approve the purchase of up to 59 buses for US 36 Bus Rapid Transit.
+
+Director Anderson seconded the motion.
+
+Vote on
+
+The motion:              The motion passed 15 in favor and 0 against.
+
+Chair Sisk declared the motion PASSED Unanimously.
+
+### D. Contract Amendment, Central Parking, Contract No. 13-DO-002
+
+It is recommended by the Operations and Customer Services Committee that the Board of Directors authorize the General Manager to amend the existing contract with Central Parking to include the West Line parking facilities in the contract, to extend the term of the contract through December 31, 2018, to change termination provisions, to modify financial arrangements, to agree that RTD has an obligation to reimburse Central Parking for unrecovered expenses at the end of the contract term, and to provide for upgrade to smart pay stations and stationary cameras at selected facilities.
+
+Motion:              Director Tobiassen made the motion to approve contract amendment, central Parking, Contract No 13-DO-002.
+
+Director Bagley seconded the motion.
+
+Discussion:              Director James shared that he had spoken to AGM Genova, Robin McIntosh and Errol Stevens pertaining to this contract and had discovered some history around how the projections were made.  He was pleased with their response and knows this is a complex and challenging agreement.  He also heard that only 10% of our ridership uses the parking facility.  They have put together a business plan that makes sense and puts operations in a position to generate sufficient revenue for the future.
+
+Director Daly commented that in looking at the parking structures on the West Line, there is still a lot of parking structure with little usage (11% in Sheridan and 29% in Wadsworth).  He thinks they should consider charging for the surface parking first until the parking structure capacity starts to fill up.
+
+Director Lasater commented that he has heard the same complaints whether in-district or out-of-district.  The complaint is Central Parking enforces what is said but the signage is poor and confusing so often times people are not clear on what they should do.  We need to work on signage, and make it clear and concise.  Chair Sisk concurred.
+
+Vote on
+
+Motion:              The motion passed with 12 Board members in favor (Anderson, Bagley, Hoy, James, Lasater, Lubow, Menten, Rivera-Malpiede, Sisk, Solano, Tobiassen and Walker) and 3 opposed (Daly, Deadwyler and Folska).
+
+Chair Sisk declared the motion PASSED.
+
+##### a. January 2014 Bd Update 2
+
+## XV. Old Business
+
+- Director Walker shared that he had attended some of the NAMS events and had a chance to talk to a few of the people there.  He was asked a question about how would the decision be made if all the votes turn out to be the same.  The real question is what are the characteristics of the different corridors and how do we best support their needs.
+
+- Director Tobiassen thanked General Manager Washington for speaking at the Aurora Chamber of Commerce Legislative Breakfast.  He and Director Folska were there as well as good representation by City Council members in Aurora.  Senator Nancy Todd was present.
+
+- Chair Sisk reminded the Board of the NAMS session going on and the next meeting will be January 27 in Longmont.
+
+## XVIII. Adjourn
+
+The meeting adjourned at 7:20 p.m.

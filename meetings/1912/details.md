@@ -1,0 +1,155 @@
+## I. Planning and Development Committee
+
+Chaired by Bill James
+
+### A. Call to Order
+
+Committee Chair James called the meeting to order at 5:30 P.M.
+
+Director Folska participated via telephone.
+
+Staff Present:              Bruce Abel, Joseph Christie, Rick Clarke, Susan Cohen, Kevin Diviness, John Elias, Sherry Ellebracht, Kevin Flynn, David Genova, Svetlana Grechka, Kenn Hardin, Genevieve Hutchison, Terry Howerter, Kate Iverson, Austin Jenkins, Erin Klaas, Marla Lien, Patrick McLaughlin, Barbara McManus, Doug MacLeod, Vivian Morales, Paula Perdue, Chris Quinn, Scott Reed, Pranaya Shrestha, Bill Sirois, Greg Straight, Walt Stringer, John Tarbert, Pauletta Tonilas, Mike Turner, Bill Van Meter, Jyotsna Vishwakarma, Phil Washington
+
+Others Present:               Zack Alexander, Greg Amparano, Jenifer Brandeberry, Dan Cohen, Marion Combs, Audrey DeBarros, Mike Dino, Aaron Epstein,  Sherman Hamilton, Dan Heilig, Julie McKenna, EJ Meade, Daniel Pearsall, Laura Rinker, Marta Sipeki, Johnnie Solo, Cindy Stovall, Jonnie Thomas, George Thorn, Joe Triplett, Gary Van Dorn, Sean Vonfeldt, Monte Whaley, Christina Zazueta
+
+### B. Updates
+
+Committee Chair James indicated there would be a small change in the agenda.  The Citizens Advisory Committee (CAC) which normally reports out in the FasTracks Monitoring Committee would provide an update first on the agenda.
+
+- CAC Update
+
+Cindy Stovall shared that the last CAC meeting was April 16, 2014.  The agenda consisted of updates on the Central Rail Line Mobility Study, the I-225 rail line, and the CAC members/RTD Directors one-on-one meetings.  She pointed out that a few one-on-one meetings have been rescheduled.  She expressed her appreciation to the Directors for taking time to meet with the CAC members.  She shared that sixteen out of the seventeen CAC members attended the DUS Gala on May 8, 2014 and that many attended the Grand Opening on May 9, 2014.  The CAC looks forward to touring the East Rail Line at the end of May.
+
+#### 1. Bike Parking and Accessibility Plan
+
+Bill Van Meter, Assistant General Manager for Planning, and Genevieve Hutchison, Transportation Planner, presented the Bike Parking and Accessibility Plan starting on page 4 of the Planning & Development/FasTracks Monitoring/Government Relations Committee Meetings Packet for May 13, 2014.  Genevieve Hutchison stated the purpose of the update as:
+
+- background on RTD’s bike parking
+
+- explain why RTD is doing the study
+
+- discuss completed elements
+
+- discuss next steps
+
+She emphasized that the purpose of the online survey was to study bike rider behavior.  The survey identified safety and security as the top concerns for bike riders when using RTD bike parking facilities.
+
+Director Tobiassen stated that he had sent the Bike Parking and Accessibility Plan presentation to various leaders in the bicycle community and sent their feedback to Genevieve Hutchison via email.  He noted one of the comments identified Denver and RTD as innovators and asked RTD to be bold, brave, and to continue to be leaders in this aspect.  Director Tobiassen recommended reaching out to experts in the cycling field to expand creativity and innovation.  He also suggested expanding the Smart Card technology to the bicycle locker system at the light rail stations.  He suggested a “Bike Tool Tree” inside secure areas such as Boulder’s Bus-then-Bike Shelters.  He encouraged Staff to improve the bike parking experience and expressed his gratitude for all their work.
+
+Director Bagley asked Staff where most of the survey responses came from within the District.  Genevieve Hutchison replied that the responses represented the overall District with an emphasis on Boulder and the US-36 Corridor.  She mentioned the survey collected location data for specific replies and will forward the raw results available to Directors Bagley.
+
+Director Walker encouraged Genevieve Hutchison and her team to work with city and/or jurisdiction bike coordinators to make the last mile, trails, and bike lanes safe and accessible for all riders.
+
+Chair Sisk noted Boulder has a high percentage of ridership among bike riders.  He challenged Staff to consider how to increase ridership in the entire District by using bike parking and accessibility to the last mile.  He encouraged Staff to challenge the unchallenged and to use other transit authorities, such as Portland’s TriMet, as an example.
+
+Director Hoy asked Staff for feedback on the low rental rate of RTD bike lockers, currently at 40%.  He also asked Staff to monitor Boulder’s Bus-then-Bike Shelters program, owned and administered by Boulder County, to explore their success rate.
+
+Director Lasater asked Staff to consider alternative rail options for heavier frame/cruiser style bikes.  He also inquired about bike storage in regional and local buses as bike season approaches and at times bike riders are passed up due to full capacity.  Genevieve Hutchison noted that 2 bikes fit in each of the 2 or 3 baggage compartments of the regional buses, for a total of 4 to 6 bikes per bus.  In local buses, she said it is at the discretion of the bus operator to allow bikes inside the bus.  She mentioned that her team has looked into 3-bike racks for local buses but has not moved forward due to safety concerns.
+
+Director Solano asked if Staff has looked into stops and stations that could be suited for a pilot study on shelters similar to Boulder’s Bus-then-Bike program.  Genevieve Hutchison said she is working with Boulder County to get more information on their program as well as studying area density and connections in order to identify pilot stations.
+
+Director Rivera-Malpiede thanked Staff for their work and encouraged them to meet with leaders from Transportation Management Associations (TMA), Transportation Management Organizations (TMO), Denver Regional Council of Government (DRCOG) and Colorado Department of Transportation (CDOT) to explore bike programs and expand the collaborative model for the region.
+
+Committee Chair James echoed Director Rivera-Malpiede’s recommendation.
+
+##### a. RTD Bike Parking and Accessibility Plan RTD Board Meeting May2014 _accessible
+
+#### 2. NAMS Update
+
+Bill Van Meter and Chris Quinn, Project Manager for Planning, presented the Northwest Area Mobility Study (NAMS) Update starting on page 19 of the Planning & Development/FasTracks Monitoring/Government Relations Committee Meetings Packet for May 13, 2014.  The NAMS update presented 5 Key Tasks that reflect the general consensus of the Policy Advisory Committee (PAC) on April 18, 2014:
+
+- for I-25 Downtown Express HOV lanes, analyze potential alternatives to facilitate reverse commute between downtown Denver and US 36
+
+- determine remaining FasTracks Bus Rapid Transit (BRT) funding/scope commitments for US 36 BRT Corridor
+
+- evaluate feasibility and cost of constructing the Northwest Rail in segments
+
+- evaluate potential for extending North Metro Line to Longmont
+
+- Evaluate potential mobility improvements in the area such as arterial BRT on Diagonal and US 287
+
+It also presented the parameter agreed upon by PAC:
+
+“Northwest area remains committed to NW Rail as envisioned by FasTracks and given the projected timing of the NW Rail’s implementation, NW stakeholders want to see benefits sooner.”
+
+Chris Quinn also noted two upcoming Telephone Town Hall meetings on May 19, 2014 and May 21, 2014.
+
+Director Anderson expressed her concern over Senate Bill 197 and any effects it would have on the reverse commute.  Marla Lien, General Counsel, said Senate Bill 197 is not signed yet.  If it is signed, then it would affect future projects and not any already signed contracts.  Director Anderson asked if RTD would have to work with DRCOG on any long term BRT routes outside of NAMS.  Chris Quinn confirmed her assertion.
+
+Director Bagley asked why Staff recommends Route 119, with a 2035 projected ridership of 5,000 boardings as presented by Staff, as priority over Highway 287, with a 2035 projected ridership of 9,000 boardings.  Chris Quinn answered that Route 119 connects the communities and job centers in Boulder and Longmont.  Bill Van Meter noted the presentation is an update and not a recommendation, though he anticipates Staff will recommend the study suggestions at the June 3, 2014 Planning & Development Committee Meeting.  Director Bagley asked for the cost and mileage for each corridor.  Chris Quinn answered Route 119 is 18.5 miles and HWY 287 is 21.8 miles. Each corridor has a similar cost averaging $55 million.
+
+Chair Sisk thanked Directors Anderson, Hoy, and Lubow for participating in the 13 month NAMS process and commended each entity on their participation.  He hopes the Directors would see the collective nature of the stakeholders as they came together to leverage the opportunity to make a difference in the NW area.
+
+Director Lubow commended HNTB as consultants and Staff for their excellent work on NAMS.  She reiterated the sentiment of the taxpayer and stakeholders regarding the desire for rail and asked RTD to pursue annual efforts to move forward with that plan.
+
+Director Hoy emphasized that Route 119 was the consensus of all stakeholders, even those who would not benefit by the route. Stakeholders could not reach a consensus on option #2 and allowed Staff to decide.  Staff chose HWY 287.  Director Hoy asked Staff to not abandon the rail option or HWY 7, as it provides an east/west connection.
+
+Director Solano noted the Financial Analysis’ Issues and Variables portion alludes to assumptions that would affect the projections.  Chris Quinn explained the projections would change if the performance of the economy and tax revenue changes.  Director Solano asked why the remaining corridors could not be financed by Certificate of Operations.  Chris Quinn answered that RTD has no ownership of the underlying property.
+
+Director Bagley pointed out the rail component for the NW was voted for in 2004 and could only be removed by a vote.  Using the SW corridor as an example, he noted that investments are made only when full funding for a segment is available.  He also noted that RTD consistently works in areas where there is ridership and revenue.  He understood the collaborative piece of NAMS and challenged the statement of Route 119 connecting two communities as HWY 287 connects 5 communities.
+
+Director Lubow shared her experience commuting on both Route 119 and HWY 287 and noted how Route 119 is already at capacity thus a better option for a BRT.  She also emphasized the strength of the communities it connects.
+
+##### a. NAMS Update Presentation 05.13.14-accessible
+
+#### 3. TOD Report
+
+Bill Sirois, Manager for Transit-Oriented Development (TOD) & Planning Coordination, and Patrick McLaughlin, Associate for TOD, presented the TOD report starting on page 47 of the Planning & Development/FasTracks Monitoring/Government Relations Committee Meetings Packet for May 13, 2014.
+
+Bill Sirois pointed out the report’s new format as compact and graphically pleasing.  He noted the ground breaking for the Alameda Station Pilot Project and the closing on the 26th and Welton property as 2014 events since the report covers the year 2013.
+
+Patrick McLaughlin noted the report has been released annually since 2005.  The report includes the internal database of all new real estate development within a half a mile from transit as well as existing and future planning activities related to TOD.
+
+Director Lasater asked for clarification on the meaning of current and future stops.  Patrick McLaughlin used the East Rail as an example, as those stations are under constructions.  Director Lasater then asked about the activity in the SE corridor since new developments, such as Kaiser Permanente’s and Skyridge Medical new facilities, seem to not be included.  Patrick McLaughlin said that he could make the exact figures available.  He mentioned that both Kaiser Permanente and Skyridge are included in the database and that perhaps were included in the “office” category.
+
+Director Anderson was struck by the “cookie-cutter” style of most new development along transit.  Aware that RTD does not do land use planning, she encouraged Staff to communicate the need for variety with developers.
+
+Director Bagley thanked Staff for the report and pointed out the increase in retail activity in 2006 due to FlatIrons Crossing as a great example of retail and transit.
+
+Director Solano asked for clarification on the “cultural” category.  Patrick McLaughlin said the category included museums, performance spaces, and art galleries.  He also noted the database includes development along planned stations.  Director Solano asked for an explanation on the cultural development component along the North Metro line.  Patrick McLaughlin said it is concentrated in the Stock Show area and around 104th Avenue.
+
+Director Tobiassen appreciated Director Anderson’s comment on the similarity of residential development along transit.  He asked Staff for data regarding property value changes along transit and TOD vs. away from transit.  He also inquired about the residential demographics and RTD pass ownership along the corridors.  This data, he mentioned, would be useful to promote TOD future development.  Patrick McLaughlin answered that throughout the economic cycles, value on properties closer to transit reduced less than those further from transit.  He also mentioned he is working with Dennis Yaklich, Market Research Manager, to develop new surveys to give statistical snapshots on how people access stations and what kind of transportation they are using, among other data.  The findings will be reported to the Board.
+
+Director Lubow had a recent conversation with Bill Sirois in which he mentioned other ideas that were not included on the update and asked him to briefly mention them.  Bill Sirois said future ideas deal with process, how to move forward, creation of more pilots, perhaps changing the way RTD does business, etc.  He mentioned that research is being conducted internally and externally and his team will come to the Board later in the year with more information.
+
+Director James thanked the Staff for the new TOD report format.  He agreed with Director Tobiassen on promoting TOD’s value creation with our partners in the community.
+
+Director Bagley pointed out that all corridors are different.  He also noted the Millennial Generation as the one mostly attracted to TOD, the one better positioned after the recession, and the necessity to cater projects to that market.
+
+Director Solano asked about educational development along transit.  Patrick McLaughlin referred him to the second slide of the overview which included the education category.  Director Solano noted his concern regarding gentrification in certain Districts and wondered how to discourage the practice.
+
+Director Folska congratulated Phil Washington on his vision and mentioned how I-225 and North Metro are a result of the 2010 Industry Forum vision casting.  She also congratulated Marla Lien and her team.  She asked Staff why commercial real estate development would be surprising since they have to go through the planning, zoning, and permit processes.  She encouraged Staff to work with permit agencies in order to maximize TOD research and development.
+
+Director Folska expressed her confusion on the University development numbers. Bill Sirois explained the numbers were reached by ongoing conversation with developers and trying to price them in relation to the pay for parking program.  He also said that the final price is not determined because marketing is still working on the survey.  Director Folska asked for a deadline for the final price.  Committee Chair James asked Director Folska to address these questions offline with Staff.  Director Folska replied that she tried to ask the questions prior to the meeting and said she will contact Bill Sirois for further clarification.
+
+##### a. TOD Status Report Presentation  5-13-14_accessible
+
+##### b. RTD_TOD_2013_Status_Report_FNL2
+
+#### 4. University Retail Space
+
+Bill Sirois presented the University Retail Space Update starting on page 82 of the Planning & Development/FasTracks Monitoring/Government Relations Committee Meetings Packet for May 13, 2014.  The update includes University Station Apartments and the University Station Garage (USG).
+
+Bill Sirois noted how in 2006, when the USG opened, RTD thought it was a great idea to build a retail front.  Today, the approach would be different.
+
+Committee Chair James thanked Staff for acknowledging USG retail front as a “lessons learned” process.  He asked Staff if there was any research on how the parking was to be structured and/or distributed.  Bill Sirois said there has been some discussion on angled parking but the City and County of Denver was not very supportive.
+
+Director Tobiassen noted that one of the rejected Request for Proposal (RFP) from 2012 is close to the current RTD proposal.  He expressed his disappointment on the repetition and missing on the opportunity of working then with a well-known developer.
+
+Director Lubow asked for copies of the 2012 RFPs and the responses.
+
+Committee Chair James asked if any entity has the option, interest, and/or first buyer right of refusal on the USG other than RTD or the Federal Transit Administration.  Bill Sirois answered no.
+
+Director Folska asked about property rights to adjacent property owners.  Marla Lien answered that RTD has never had a policy of giving property rights to adjacent owners.  Director Folska was pleased the RFP was an open process.  She also noted the importance of RTD marketing its properties to their highest use and developing public trust with the taxpayers RTD serves.
+
+Phil Washington noted that RTD uses all mechanisms available to promote properties.  In 2012, RFP responses were deemed unresponsive when compared to the requested specifications.  The new RFP has additions from lessons learned and Staff believes it will get responses.
+
+##### a. University Retail Presentation 5-13-14_accessible
+
+### C. Other Matters
+
+Committee Chair James asked the Directors to log out and close E-Boardroom.  Staff will assist with launching the program for the FasTracks Monitoring Committee Meeting.
+
+### E. Adjourn
+
+Committee Chair James adjourned to FasTracks Monitoring Committee at 7:24 P.M.

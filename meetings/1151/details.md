@@ -1,0 +1,109 @@
+## I. FasTracks Monitoring Committee
+
+Chaired by Larry Hoy
+
+### A. Call to Order
+
+Committee Chair Hoy called the meeting to order at 5:53p.m.
+
+Director Rivera-Malpiede left early.
+
+Staff Present:              Bruce Abel, Shirley Bennett, Lee Cryer, Chuck Culig, John Elias, Sherry Ellebracht, David Genova, Terry Howerter, Kate Iverson, Tina Jaquez, Austin Jenkins, Erin Klaas, Nadine Lee, Marla Lien, Patrick McLaughlin, Barbara McManus, Paula Perdue, Scott Reed, Pranaya Shrestha, Bill Sirois, Henry Stopplecamp, Walt Stringer, John Tarbert, Mike Turner, Bill Van Meter, Phil Washington, Brian Welch
+
+Others Present:               Edie Bryan, Mike Dino, Stan Gronek, Sherman Hamilton, Miller Hudson, David Lewis, Darien O'Brian, Joe Racosky, Jacob Riger, Marta Sipeki, Jo Triplett, Gary Van Dorn, Hugh Wilson
+
+#### 1. Citizens Advisory Committee Update
+
+David Lewis, CAC Co-Chair introduced Hugh Wilson, CAC Co-chair for 2013.  Hugh Wilson stated that they held their quarterly community outreach meeting on March 20th in Highlands Ranch.  He thanked Director Bagley for attending and answering questions.  The constituents attending had concerns about the last mile of connectivity and specifically issues about parking on the Southwest Corridor.  Some people were very vocal about parking being problematic along the corridor, particularly at Mineral.  They voiced issues about bus connections in terms of timing, people getting off the train are seeing their bus leave.  He thinks that maybe some educational meetings for those constituents would be helpful.  He stated that the staff mentioned a task force that will be looking at the Southwest extension, as another issue of concern is the delay in its construction, which is not a priority at this point.   Citizens feel that they are having parking problems, trains are full and there doesn’t seem to be any relief in the short term.  Susan Woods took the names of those residents and she will follow up with them.  There is a great deal of support for FasTracks, but they are concerned for when they are going to get what they need.
+
+David Lewis spoke specifically to the parking issue.  They have been trying to do their job and are delighted about the outcome of SB27 and will continue their focus on public education.  He also mentioned that they are having one-on-one meetings with the Board members and he encourages the Directors to make the time to meet the committee members and help them understand their priorities and concerns.  The CAC will continue to work on being a conduit for RTD in the communities.
+
+Director Bagley thanked the CAC for coming to Highlands Ranch.  They had representatives from different parts of the district.  It is very important for members of the CAC as well as the Board Members to go to the different areas of the district and hear the concerns of the community’s. It was worthwhile to list the comments made by the citizens and have the CAC members understand the issues and bring them to the Board.
+
+Director Daly thanked Roger and the CAC members for the one-on-one meetings with the Board members.  His meeting was very rewarding, he learned from the CAC members and they took away a couple pieces of information from him.
+
+Director Tobiassen thanked the CAC members for their ongoing support on the I-225 Corridor.  They are always involved with the different events supporting the FasTracks program.
+
+Director Sisk thanked the CAC for the breakfast.  He thinks that the Board and RTD have a great opportunity in utilizing the CAC to reach out, hear the citizens’ concerns and be a think tank in terms of possibilities for RTD.  He is very enthusiastic about the potential of the CAC.
+
+Director Solano thanked the CAC for directing their interest in the South Corridor.  However, he is an advocate for the North Corridor and the tide has shifted north and they need to stay on that focus and get the North Corridor done before talking about any extensions.
+
+Director Folska also had the opportunity to meet with CAC members and she feels that there is a lot of common ground between what we do as the Board and how the CAC is an extension of the Board to reach the community.  The challenge for the Board and the CAC is to have a productive, constructive and positive dialogue with the staff.  She acknowledged that there is a lot going on at RTD and the Directors need to be patient and work with the staff, as she believes that they do want to move forward with outreach.  A patient long term dialogue and interaction between the CAC, the Board and the staff would be best.
+
+Director Lasater also thanked Roger and the CAC members. He suggested having these meetings in a bi-yearly basis.  This is a great starting point and he would like to continue meeting various members of the CAC and getting their input.
+
+Chair Anderson thanked them for the hard work and she also enjoyed the meeting and appreciates all the work they do for furthering FasTracks.
+
+Director Hoy stated that the one-on-one process was great and shows the CAC’s commitment and the Board enjoys the dialogue.   He also mentioned that the Board has an opportunity to meet together with the CAC every year in December.
+
+#### 1. US 36 Bus Rapid Transit – Use of Contingency Funds from Phase I and II Commitments
+
+It is recommended by the FasTracks Monitoring Committee that the RTD Board of Directors modify the formal actions taken on August 23, 2011 and July 24, 2012 concerning RTD funding provided to the Colorado Department of Transportation (CDOT) and the Colorado High Performance Toll Enterprise (HPTE) for Phase I and Phase II of the US 36 Managed Lanes Project. Specifically, it is recommended that the RTD Board of Directors allow the following actions:
+
+- Any RTD funding left over after completion of Phase I may be used for the Phase II project; and
+
+- Any RTD funding left over after the completion of both Phase I and Phase II will be used for acquisition of Bus Rapid Transit (BRT) vehicles for the corridor.
+
+Motion:              Director Sisk made the motion to move this item to the full Board at the April 16th, 2013 Board meeting.
+
+Director Rivera-Malpiede seconded the motion.
+
+Discussion:              Bill Van Meter, Assistant General Manager stated that staff is bringing this action because the previous Board action allocating $120 million of FasTracks funds to Phase I of US36 and $15 million for Phase II did not address the use of excess revenue from those commitments if any.  They have been advised that there might be some money left from Phase I and CDOT has requested to keep the funding in the corridor to support Phase II implementation.  Also, if there is any money left after Phase II, they were asked to keep that money in the corridor as well.  In this case, the RTD funds would be used to purchase additional vehicles for US36 BRT.
+
+Director Folska asked Bill if he was presenting because Rick Clarke was not here.   Bill Van Meter stated that the Planning and Department has shared responsibilities with both the Base System and FasTracks.  Rick Clark as head of Capital Programs also has shared responsibilities with the base system.  They both bring issues through either FasTracks or Planning and Development as it pertains to the planning and programming of the different Base and FasTracks projects.
+
+Director Hoy stated that this will always happen, as there are some projects that are dealt with in different committees.
+
+Director Lubow stated that her impression is that the Board did not want funds from Phase I to be used in Phase II.  Bill stated that the Board was silent.
+
+Director Deadwyler asked if they are expecting any leftovers from Phase I and if that includes contingency funds.  Bill Van Meter stated that completion of Phase I is scheduled for next year.  There are potential unforeseen issues that might arise and that are not included in the current contract which might require using the contingency funds; however the current projection is that there will be some money left over.   Director Deadwyler asked if they know what the amount of money is and if this means that we overstated what this project would cost.  Marla Lien stated that they have about $7-8 million in contingency funds.  What would be left over will depend on   what happens in the next few years, including any immediate repairs after opening.   They have to hold on to the contingency and if there is anything left over they would roll over to Phase II.  Director Deadwyler asked if the $7-8 million were additional to the $120 million.  Marla Lien stated that the money went into the $350 total amount and from that they allocated the contingency funds.  Director Deadwyler stated that she has more questions and will address them offline with the staff.
+
+Director Solano asked if Phase I and II overlap with the Northwest Area Mobility Study.  Bill Van Meter stated that the study has just been given notice to proceed and it will address elements in the Northwest and North Metro potential extensions beyond the US36 construction project.  This report is not looking at the US36 BRT.  They do touch on each other, as they would be able to build out on the infrastructure that the US36 will provide.
+
+Director Lasater stated that CDOT and HPTE are infrastructure builders and he doesn’t understand what they have to do with BRT vehicles and asking RTD for the funds.  He doesn’t like being mandated and doesn’t understand why they are asking RTD to commit to buy buses.  Bill Van Meter stated that it is not a request from CDOT; this is the staff’s recommendation to keep the dollar commitment that has already been established.  Director Lasater stated that he understands that they want to build the corridor, but doesn’t understand the connectivity to the buses.  General Manager Phil Washington stated that the project has the infrastructure part, the building of the managed lanes and that RTD has a remaining commitment of about $77 million, which much of it will go to the BRT vehicles that will run on those lanes.  This is part of the FasTracks plan.   If there is money left over, the money from our share of this should go to satisfy our remaining commitment.  Director Lasater asked if given that we already have the $77 million in the budget, would this mean that if there are $3 million left from the Phase I and II, we are going to spend 80 million.  GM Washington stated that whatever the amount leftover is, it will be subtracted from RTD’s $77 million commitment.
+
+Director Sisk appreciates the questions and the concerns.  However, if we build the lanes but don’t have the BRT buses in place we will not have the system we want.  This keeps the money in the corridor to assure that by its opening in 2015 we have a BRT system that we will be proud of.  Also, we are trying to get money from them.  Staff has made presentation to DRCOG to get money for the cars.   Phil Washington has done a wonderful job in bringing people together.
+
+Director Walker asked if the CDOT commission has already voted on this.  Bill Van Meter stated that they have not, and that RTD is trying to set a precedent and have made request for DRCOG and CDOT to keep their money in the project.  Director Walker asked if they would need to vote.  Marla Lien stated that DRCOG has to vote, but by statue HPTE and CDOT money needs to stay in the corridor.  Director Walker stated that it sounds that all the money allocated would stay in the corridor.  GM Washington stated that even though CDOT and HPTE don’t have to go back to their boards, the staff recommendations from all the agencies is consistent with what the staff is asking tonight from our Board.
+
+Director Solano stated that he knows there is a lot of dialogue about rail versus BRT in the Northwest and wants to know how this would balance out.  Bill Van Meter stated that this is a follow through with the core commitment from all stakeholders to complete the US36 BRT.  This is not in question included in the NAMS.  The question is about the Northwest Rail additional BRT beyond what is on the US36 North Metro extension.  Director Solano asked if this means that BRT is taking priority over the Northwest Mobility Study.  GM Washington stated that it is not, and that there is no correlation between them.  The US36 corridor is a standalone project that has always been in the FasTracks plan and has no link to extending BRT or rail in the North area.
+
+Committee Chair Hoy declared the motion PASSED to the Recommended Action.
+
+#### 1. I-225 Rail Line Update
+
+Chuck Culig, Project Manager and Tina Jaquez from the PI Team stated that this is the first time they provide an update since the approval.  The I-225 Rail Line project includes a 10.5 mile light rail extension, starting at the existing Nine Mile Station and adding 8 new stations.  It serves the Aurora City Center, Anschutz/Fitzsimons Campus and the new VA Hospital.  It also provides connectivity to East Rail Line at the Peoria Station and is expected to open in 2016.
+
+Tina stated that the project includes a Public Information and Outreach component, which held a public meeting with over 150-200 attendees on January 30th, covering several issues including CDOT widening.  On March 1st they conducted the groundbreaking ceremony with over 250 attendees and on March 22nd they held an elected officials briefing.  Their next briefing will be on June 14th.  RTD message is what we are providing to the community.  Aurora provides information on how the city will look.  They have established a construction information line and email (720-863-8505, [I-225@rtd-fastracks.com](mailto:I-225@rtd-fastracks.com)) and have also created different panels that will be displayed at the Aurora History Museum’s “Green revolution” exhibit from April 9 to June 20.
+
+They provided an overview of the construction process and schedule.  RTD and Aurora staff are reviewing design packages.  The joint project with CDOT is ongoing and they also coordinate with SEMA and Kiewit.  Construction will continue down the corridor.  They’ve held several task force meetings with all the different stakeholders with a lot of coordination efforts for the Montview Station which would be located in the center of the Anschutz/Fitzsimons Medical Campus.  Staff is identifying properties that will need to be acquired and going through the ROW process.  Though start dates and areas might change during the design process, they are working under the following targets: Segment 1(9 Mile to Iliff Ave) and Area A: (Iliff Ave to Exposition Ave) starting in the spring of 2013; Area C (2nd & Abilene Station to South Toll Gate Bridge) and Area D (South Toll Gate Bridge to North Toll Gate Bridge) in the summer of 2013.  During the Fall of 2013 they expect to begin Areas B (Exposition Ave to 2nd & Abilene Station) and E (Fitzsimmons Parkway) with the Areas G (Peoria St) and F (Montview Blvd) by spring of 2014.  All work is expected to be completed by October 2015 for RTD testing.
+
+I-225 highway traffic shifts are planned for spring/summer phase 1c estimated to begin in early May will shift SSB traffic to new SB pavement.    Phase 2 estimated to begin in late June.
+
+Kiewit has provided several SBE opportunities, as of January they have 40 SBE subs with a $14 million commitment.  The SBE goal for this project is 25.
+
+Kiewit was also committed to about 30 WIN participants in the project ranging from admin staff to control crew and engineering staff.  They have embraced that program.  They are also requesting their subs to have this in their contract.
+
+Director Tobiassen commended the I-225 PI and project team for their hard work, as well as the East Corridor team.  Both teams have been stellar.  He thanked the CAC for supporting this project on the outreach activities.  They are working with the City of Aurora to unify the message.  Sometimes it is a struggle because of the many PI teams involved, but the project is moving forward.  There will be some challenges but the team is working very hard to stay ahead.
+
+Director Daly asked where the VA hospital is located from the station.  Chuck stated that it is west of I-225 and Colfax.
+
+Director Solano asked how they do the utility coordination when we move an arch.  Chuck stated that they coordinate with the utilities companies and they move their own lines.
+
+Director Folska agreed with Director Tobiassen and this is just a huge enterprise and she knows that it will continue to be a lot of work.  She thinks that Tina’s numbers are low for the people they reached out.  She recalls a couple of events with almost 250 participants each.  She asked if it is possible to keep the display longer at the museum.  Tina stated that she will check with the museum.  Director Folska asked if building a pedestrian bridge over the Regata Plaza across Parker is something that we could do as part of the joint project with the City of Aurora and if we can we put a similar bridge to have access to the VA hospital.   She also mentioned that the Congressman Coffman is concerned and he would like his Chief of Staff Dustin to attend the meetings with the VA.  She wonders if a Tiger grant would be something that can be used for that.
+
+Director Bagley stated that he is excited to see that this corridor is moving forward.  Part of the reason that this corridor makes sense to be developed was the economic development driven by the three new hospitals.  It is important to recognize that the area north of Colfax is all in Director Deadwyler’s district.
+
+Director Menten asked how does RTD deal with expansive soils such as bentonite, and who is responsible.  Chuck stated that the contractor is responsible for that kind of elements.  It is a problem in Colorado, but we make the studies to try to avoid that.  It is part of the contract and has a one year warranty.  Director Menten asked if one year covers very well and if there have been issues in other lines.  Chuck stated there has been some, but they have asked Kiewit and they have come back and fix the problem.  After that, it is primary our staff’s job to provide maintenance and do proper inspections.
+
+Director Hoy stated that it is exciting to see it underway.
+
+##### a. Final I-225 Board Update 4 2 13
+
+### E. Other Matters
+
+There were no other matters.
+
+### G. Adjourn
+
+Committee Chair Hoy adjourned the meeting at 6:55p.m. to the Planning and Development Committee Meeting

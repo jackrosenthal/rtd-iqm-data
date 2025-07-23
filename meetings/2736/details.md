@@ -1,0 +1,274 @@
+## I. Call to Order
+
+Chair Tisdale called the meeting to order at 5:31 p.m.
+
+## II. Pledge of Allegiance
+
+Chair Tisdale stated that the Board was privileged to be joined by Girl Scouts from Troop 66512 located in Jefferson County in District L to lead the pledge of allegiance, He introduced
+
+- Emma Martin
+
+- Jaycee Thomas
+
+- Alyrah Thomas
+
+- Kyael Voye
+
+- Ayda Voye
+
+- Eleanor Lucier
+
+- Madeline Woolworth
+
+Chair Tisdale asked everyone to stand and join him in the Pledge of Allegiance. After the pledge, he thanked the scouts, Eryn Grover, Administrative Assistant for North Metro, and parents for taking the time to lead the Board in the pledge.
+
+### A. Roll Call
+
+Barbara McManus called roll. There were 12 Board members present at roll call. Directors Broom and Catlin were absent. Director Anderson participated via phone.
+
+Staff Present:                       Bruce Abel, Rolf Asphaug, Susan Cohen, Lou Cripps, Sherry Ellebracht, Steve Eubanks, Jill Fontaine, Michael Ford, Anthony Forrester, David Genova, Bob Grado, Eryn Grover, Dave Jensen, Doug MacLeod, John McKay, Robin McIntosh, Barbara McManus, Mike Meader, Allen Miller, Scott Reed, Richard Rost, Ruth Seleske, Henry Stopplecamp, Mark Tieman, Bill Van Meter, Jyotsna Vishwakarma, Luke Westlund
+
+Others Present:                    We Bux, Megan Byrd, Deborah Byrne, Myong Chang, Shelly Cook, Jenee Elise Donelson, Joel Fontaine, William Gross, Lynn Guissiniger, Meo Han, Anne Herzenberg, Hony Hongao, JianLu Hu, Jen Jo, Jacquie Koewler, Jonathan Lovato, Steven Meyer, Kristen Seidel, Paolo Solorzado, Dan Stitt, John Thompson, Joe Triplett, Joann Trudel, Gary Van Dorn, Xiao Wang, XV Wang, Bing Wen, Bob Wilson
+
+## IV. Retiree Awards
+
+Chair Tisdale noted there were three retirees this month with one in attendance:
+
+Bruce Abel, Assistant General Manager of Bus Operations, introduced Gary Fontaine, Sign Maintainer, and stated that he was retiring after 25 years of service to RTD in the sign shop as well as a number of other positions with the district. He added that his wife, an RTD dispatcher, was in attendance. Mr. Abel thanked Mr. Fontaine for his service to RTD and the community.
+
+Mr. Fontaine thanked RTD for all the great years and for providing for his family.
+
+Chair Tisdale announced that Gary Schear, Capital Programs Construction Inspector, was not able to attend, however, Henry Stopplecamp, Assistant General Manager of Capital Programs, would say a few words on Mr. Schear’s behalf.
+
+Mr. Stopplecamp stated that Mr. Schear had worked in the construction group for past 17 years and that his role as an inspector was very valuable to ensure that the district was being provided the best possible construction and exactly what was required for a project.  He added that Mr. Schear was visible and volunteered for many investigations during the night to ensure proper operations and regulations. Mr. Stopplecamp thanked Mr. Schear for his dedication.
+
+Chair Tisdale recognized Jim Sutton for his 27 years of exemplary service to RTD as the Manager of Asset Management.
+
+## V. Public Participation
+
+Chair Tisdale stated that the public participation period was open to anyone who wanted to speak. He explained that elected officials were invited to speak first, and others would be called in the order they signed up, and then additional speakers would be invited at the end of the list. He reminded the audience that each speaker was allowed three minutes and to approach the lectern when called and state their name and address. Chair Tisdale asked that if any speaker had documentation or reference materials for the Board to give those materials to the Board staff prior to speaking.
+
+Steven Meyer, Denver, stated that the residents of Sunset Park Apartments object to the removal of Bus Stop Number 17750 that was proposed to be eliminated for the May 20, 2018 Service Changes. He added that the bus stop was valuable to RTD ridership and accommodates the senior, disabled, severely disabled and non-English speaking residents at Sunset Park. Mr. Meyers explained that the residents were a mix of seniors from varied backgrounds and needs who depended on the close proximity of the bus stop to allow routes 9, 38, and 52 that transport the residents to shopping, work, doctors, and other important destinations, because 99% of the residents did not drive cars. He asked the Board to reconsider the decision to eliminate the bus stop that currently served the 270 residents and asked for RTD to provide a presentation to inform the residents of RTD services in order to improve ridership at that location.
+
+Joann Trudell, Denver, on behalf of the people that unable to attend from the Sunset Park Apartments, stated that the residents needed the bus stop directly outside the apartments and asked RTD not to not eliminate the stop.
+
+Jacquie Koewler, Denver, Board Member of The Gathering Place, encouraged the Board to accept the recommendations of the Pass Program Working Group (PPWG) to implement a low-income bus pass program and to keep the 50% discount for non-profits organizations that maximized the number of passes that would be provided to those in need. She added that many people relied on the bus as a lifeline to work, education, shelters, and affordable housing. Ms. Koewler asked the Board to take into consideration the population that really needed the bus in order to survive.
+
+Reagan Bird, Denver, a former RTD candidate, asked the Board to consider the public outcry regarding service changes and providing a low-income pass. She urged the Board to take affordability and access seriously. Ms. Byrd asked that RTD develop a forum so that citizens did not have to continue to come to the Board to express concerns. She added that she advocated for the PPWG recommendations for a low-income pass. Ms. Byrd stated that she was surprised about the bill at the state level that would limit RTD’s ability to implement a low-income pass. She asked that RTD, the Board, and the community be involved in strategizing how to do better.
+
+Will Anderson, Denver, stated that there were many people in the district that needed an income based bus pass because they cannot afford a bus pass increase and relied on RTD buses. He urged RTD to keep an income-based pass and make sure the State Senate does not take that power away from RTD.
+
+Jenee Elise Donelson, 9to5, and Rocky Mountain Bus Riders Union, stated that in July 2016, before the PPWG was created, the RTD senior staff and Board discussed raising fares by 10%. She added that the message presented by the staff regarding the income based pass was damaging and false. Ms. Donelson stated that the discounts discussed were not handouts and should not become an excuse to raise fares. She added that RTD money woes were not the fault of the public that depend on RTD service. Ms. Donelson stated that during Director Anderson’s town hall Heather McKillop, Chief Financial Officer, discussed that a fare increase was to be discussed in the near future. She added that a fare increase should not be imposed without public input. Ms. Donelson stated that cutting service and adding more light rail lines that do not service neighborhoods was a civil rights issue. She asked that RTD hold a diversity training meeting for staff and to find other ways to increase revenue than to reduce service and increase fares to the people that rely on transit and keep the city running.
+
+Kristen Siedel, Denver, on behalf of Woman’s Collaborative for Colorado (WCC), stated that many clients used the current discount fares provided by RTD. She added that the fare programs were essential to WCC work and how the groups assisted clients to get to work, school, and other programs. Ms. Siedel stated that WCC supported the income-based pass presented by the PPWG at a 50% discount. She stated that had brought several stories from the Delores Project that provided shelter to homeless women and children. She explained that these women were unable to attend do to the curfew at the shelter. Ms. Siedel shared a written statement that said that being homeless was difficult enough and the bus passes that were issued from the Delores project had helped women get their lives back together. She added that the RTD daily pass allowed women to board a safe bus and return to a shelter. Ms. Siedel shared a second testament that stated that RTD service was needed especially by mobility-impaired patrons, seniors on fixed incomes, and other disadvantaged groups. She stated that these groups needed an income-based pass to continue to work towards ways to better their lives. Ms. Siedel stated that she wanted to remind the Board members that it was an election year and that they were all elected officials and should act like it.
+
+## VI. Committee Reports
+
+Chair Tisdale stated that the committee minutes were included in the board packet and asked if there were any other questions.
+
+Planning/Capital Programs & FasTracks Committee – Chaired by Director Lubow
+
+Executive Committee – Chaired by Chair Tisdale
+
+Government Relations Committee – Chaired by Director Solano
+
+Civil Rights Committee – Chaired by Chair Tisdale
+
+Operations & Customer Services Committee – Chaired by Director Deadwyler
+
+Financial Administration & Audit Committee – Chaired by Director Mihalik
+
+GM Oversight & Performance Management – Chaired by Director Walker
+
+### A. Minutes of Apr 3, 2018 5:30 PM
+
+### B. Minutes of Apr 3, 2018 5:30 PM
+
+### C. Minutes of Apr 3, 2018 5:30 PM
+
+### D. Minutes of Apr 10, 2018 5:30 PM
+
+### E. Minutes of Apr 10, 2018 5:30 PM
+
+### F. Minutes of Apr 12, 2018 12:00 PM
+
+## VII. General Manager Oversight and Performance Management Update
+
+Chair Tisdale asked Committee Chair Walker if he had any comments regarding the General Manager Oversight and Performance Management Committee.
+
+Director Walker stated the Directors had received a draft schedule and would receive the updated draft schedule that incorporated comments. He added that a survey would be distributed the following week.
+
+## VIII. Approval of Board Meeting Minutes of  March 27, 2018
+
+Motion:               Director Archuleta made the motion to approve the Board Meeting minutes of March 27, 2018.
+
+Director Lubow seconded the motion.
+
+Vote on
+
+The Motion:              The motion passed with 11 in favor (Archuleta, Deadwyler, Folska, Hoy, Lubow, Mihalik, Menten, Sisk, Solano, Tisdale, Walker) and 0 against. Directors Broom and Catlin were absent. Director Williams was away. Director Anderson could not participate in the vote via phone.
+
+Chair Tisdale declared the motion PASSED unanimously.
+
+### A. Minutes of Mar 27, 2018 5:30 PM
+
+## IX. Chair's Report
+
+Chair Tisdale stated he would share a summary of the most pertinent events on the horizon, as well as other items the Board members should be made aware. He highlighted the following events:
+
+- On March 28, 2018, RTD received a favorable ruling from the Colorado Public Utilities Commission (CPUC) regarding the operations of the commuter rail system and General Manager Genova would provide an update. Chair Tisdale stated that ruling was exciting news for the commuter rail system and a significant step toward the opening of the G Line.
+
+- Friday, May 19th, 2018, several board members would attend the Conference of Minority Transportation Officials (COMTO) Colorado annual scholarship banquet. Chair Tisdale explained that COMTO Colorado awards nearly $30,000 annually in local scholarships to minority high school graduates that pursue higher education in the transportation industry. He thanked all of the Directors that would attend the event.
+
+- Monday, April 30, 2018, Director Deadwyler’s telephone town hall would conclude the series for the year. Chair Tisdale added that the events yielded some critical feedback from constituents and thanked CRL Associates, particularly, Roger Sherman, and to the RTD communications team for making the events successful and informative.
+
+- May 6-9, 2018, Director Williams would attend the American Public Transportation Association (APTA) Bus & Paratransit Conference in Tampa, Florida. Chair Tisdale wished the best of luck to the RTD participants in the bus Roadeo, which would take place that same week. He added that RTD was the grand champion at last year’s Roadeo competition.
+
+- On April 15, 2018, Director Menten held an in-person town hall. Chair Tisdale added that in honor of Cinco de Mayo, Director Menten would conduct an RTD ride-n-dine on May 5th.
+
+- A number of directors attended the employee appreciation BBQ’s held on April 5th and 6th, which was greatly appreciated by our staff.
+
+- Director Solano and Chair Tisdale met with Senator Tim Neville and Representative Faith Winter to respond to questions about the PPWG.
+
+- Wednesday, April 25, 2018 several Directors would attend the (DRCOG) annual awards banquet.
+
+Director Menten explained that on Saturday, May 5, 2018, she would accompany constituents from her district to downtown on RTD bus routes. She added that all participants were responsible for their fares and lunch.
+
+## X. General Manager's Report
+
+Chair Tisdale asked General Manager Genova to share his report.
+
+General Manager Genova stated that the written report was included in the Board packet and highlighted the following activities:
+
+The Colorado Public Utilities Commission (CPUC) received certification from the Federal Transit Administration (FTA) for the State System Oversight Program that would meet all new regulatory requirements for fixed guideways operations (light rail, commuter rail, and heavy rail). General Manager Genova explained that the FTA had set a deadline for all states to be certified by April 2019. He added that states did not meet the deadline would lose all federal funding and that Colorado was one of eight states that had completed the certification process. The North Carolina Department of Transportation, Deputy Secretary, David Howard visited RTD and toured the Denver Union Station. General Manger Genova discussed RTD financial models to complete the Eagle Project, Denver Union Station, and how RTD organized the buildout of FasTracks. He added that North Carolina was looking to start similar projects.Wednesday, April 25 staff would attend the Mobility Choice Board Meeting and that RTD had a small section on that agenda to discuss RTD mobility strategy and about transportation transformation. General Manager Genova stated that staff would also update the Board on the Request for Information (RFI) RTD issued regarding different mobility issues and how RTD would work with local jurisdiction transportation staff to have a regional mobility dialog.The CPUC approval on the grade crossing design was a huge milestone but the written orders have not been received. General Manger Genova stated that staff continued to move forward and to work closely with the Commission staff and the FRA to address all the remaining items toward removal of grade crossing attendants, the opening of the G Line, and establishing quiet zones. General Manager Genova commented that due to the recent high winds there have been service alerts and issues with crossing gates across the system.The Pass Program Working Group recommendation and then Tactical Plan presentation would be the topic at the Study Session the following week.
+
+## XI. Unanimous Consent
+
+Chair Tisdale stated that there were three items on the consent agenda and suggested that if there were any questions or need for discussion of an agenda item, a Director should request it be removed from the unanimous consent agenda for discussion under Recommended Action.
+
+Director Menten requested that item C be removed from unanimous consent to recommended actions in order for her to abstain from the vote.
+
+Motion:               Director Folska, Ph.D., made the motion to approve items A and B on the unanimous consent agenda.
+
+Director Lubow seconded the motion.
+
+Vote on
+
+The Motion:              The motion passed with 12 in favor (Archuleta, Deadwyler, Folska, Hoy, Lubow, Mihalik, Menten, Sisk, Solano, Tisdale, Walker, Williams) and 0 against. Directors Broom and Catlin were absent. Director Anderson could note participate in the vote via phone.
+
+Chair Tisdale declared the motion PASSED Unanimously.
+
+### A. RTD Director District Precinct Assignment
+
+It is recommended by the Planning, Capital Programs & FasTracks Committee that the Board of Directors approve the revised Director District boundary between Director District E and Director District G so that all of Arapahoe County Precinct Number 234 falls within Director District E, which has a lower population than District G.
+
+This recommendation addresses General Manager 2018 Core Goal #3: Strong Financial Management: Oversees operating and FasTracks budgets, ensures compliance with local, state, and federal reporting, and development of financing plans for future projects.
+
+##### a. RTD_Review_Precinct_234
+
+### B. Architectural / Engineering Contract with Short Elliot Hendrickson (SEH), Contract 16 FO-017 - Contract Amendment #2
+
+It is recommended by the Planning/Capital Programs & FasTracks Committee that the Board of Directors authorize the General Manager to amend Contract 16 FO-017 with SEH to allow for additional architectural / engineering design services in the amount of $2,000,000 for a new, not-to-exceed Contract amount of $2,603,096.91. Work is administered on an as-needed, work order basis. Funding for this Contract will be included in the individual approved project budgets.
+
+This Recommended Action supports two of the General Manager’s 2018 goals. 1- Core Goal #1 - Successful Delivery of Transit Services. 2 - Task Goal #3 – Asset Management/State of Good Repair.
+
+### C. Construction Award for IFB 37-DE 001. East Metro HVAC and Building Automation Controls Upgrade Project
+
+It is recommended by Planning/Capital Programs & FasTracks Committee that the Board of Directors authorize the General Manager or his designee to award a contract to JCOR Mechanical Inc. in the amount of $2,840,224 for the East Metro HVAC and Building Automation Controls Upgrade Project. It is further recommended that the General Manager or his designee be authorized to transfer $551,222 from the Base System Contingency funds to the East Metro HVAC and Building Automation Controls Upgrade Project. Funding for the contract and the transfer are included in the 2018 budget.
+
+This Recommended Action supports the General Manager’s 2018 goal - Task Goal #3 – Asset Management/State of Good Repair.
+
+Motion:               Director Williams made the motion to approve the Acquisition of Additional Property Rights (Permanent Easement) – North Metro Commuter Rail Project.
+
+Director Walker seconded the motion.
+
+Vote on
+
+The Motion:              The motion passed with 11 in favor (Archuleta, Deadwyler, Folska, Hoy, Lubow, Mihalik, Sisk, Solano, Tisdale, Walker, Williams), 0 against, and 1 abstention (Menten). Directors Broom and Catlin were absent. Director Anderson could not participate in the vote via phone.
+
+Chair Tisdale declared the motion PASSED.
+
+### D. 2018-004 : Acquisition of Additional Property Rights (Permanent Easement) –
+North Metro Commuter Rail Project
+
+It is recommended by the Planning/Capital Programs & FasTracks Committee that the Board of Directors pass the attached Property Acquisition Resolution certifying property as necessary for the construction of the North Metro Commuter Rail Project and authorize staff to proceed with all requisite legal process under state eminent domain law.  Funding of this acquisition is included in the 2018 Adopted Budget for the North Metro Project.
+
+This Recommended Action supports the General Manager’s 2018 goals - Core Goal #1 – Successful Delivery of Transit Services
+
+Motion:               Director Hoy made the motion to approve the Acquisition of Additional Property Rights (Permanent Easement) – North Metro Commuter Rail Project.
+
+Director Deadwyler seconded the motion.
+
+Discussion:              Director Mihalik stated that he was not opposed to the property agreement and he was interested in reaching an agreement. He added that he would like to see staff attempt to reach an agreement and then use eminent domain.
+
+Director Sisk stated that the threat of eminent domain had some favorable tax treatment.
+
+Director Walker stated that eminent domain was typically the last resort.
+
+Director Hoy stated that it was his understanding that the improvements proposed would actually benefit the landowner.
+
+General Counsel Rolf Asphaug stated that RTD followed the Uniform Acquisition Act, and those processes were followed in order to reach the agreement.
+
+Vote on
+
+The Motion:              The motion passed with 11 in favor (Archuleta, Deadwyler, Folska, Hoy, Lubow, Mihalik, Sisk, Solano, Tisdale, Walker, Williams) with one against (Menten). Directors Broom and Catlin were absent. Director Anderson could not participate in the vote via phone.
+
+Chair Tisdale declared the motion PASSED.
+
+##### a. RESOLUTION---North Metro Additional Properties
+
+##### b. NM-Board Exhibit-Combined
+
+### E. Approval of NewPush Contract for Hosting Services
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors authorize the General Manager or his designee to execute all documents necessary to award a contract for “Infrastructure as a Service to Host Smart Media Technology and Ticket Vending Machine Systems in a Payment Card Industry Secure Environment” with The NewPush, LLC (NewPush) (Contract Number 17DH041) for an amount not to exceed $4,000,000.  The contract is for two base years with three one-year options to extend the contract.
+
+GENERAL MANAGER’S GOALS
+
+Core Goal #3:  Strong Financial Management
+
+Task Goal #3:  Asset Management/State of Good Repair
+
+Motion:               Director Deadwyler made the motion to approve the Acquisition of Additional Property Rights (Permanent Easement) – North Metro Commuter Rail Project.
+
+Director Williams seconded the motion.
+
+Discussion:              Director Folska, Ph.D., stated that she received an email that stated that many of the Smart Card readers had not been working across the district and asked if NewPush was the company that would make the readers works.
+
+General Manager Genova explained that NewPush was not the same company and that they have nothing to do with the Smart Card readers. He added that the readers were continuously checked and monitored and that staff would look into the issue.
+
+Director Menten stated the price of the IT contracts were shocking. She asked about the price differences between the other bidders for the contract and specifically about how RTD procurement made the selection of the company.
+
+General Manager Genova explained that RTD had two specific procurement processes: a Request for Proposal (RFP) and an Invitation for Bid (IFB). He stated that the contract was issued as an RFP where RTD used best value procurement to evaluate the bidders. General Manager Genova explained that the RFP included other requirements, in addition to the cost, to meet the contract requirements. He added that the evaluation team was made up of a both technical and contract staff. He stated that the evaluation team would examine all these pieces prior to the knowing the cost of the bid. General Manager Genova stated that the scoring was divided by percentage and considered a best value procurement system.
+
+Director Menten stated that she had asked previously for references for NewPush.
+
+General Manager Genova stated that he had issued a memo sent on Friday, April 13, 2018, that included additional information regarding the contractor. He added that there were ten to twelve references that were supplied by NewPush, but as part of the company’s security client information was not to be published.
+
+Vote on
+
+The Motion:              The motion passed with 11 in favor (Archuleta, Deadwyler, Folska, Hoy, Lubow, Mihalik, Sisk, Solano, Tisdale, Walker, Williams) and one against (Menten). Directors Broom and Catlin were absent. Director Anderson could not participate in the vote via phone.
+
+Chair Tisdale declared the motion PASSED.
+
+## XIII. Executive Session
+
+There was no executive session.
+
+## XIV. Old Business
+
+There was no old business.
+
+## XV. New Business
+
+There was no new business.
+
+## XVI. Adjourn
+
+Chair Tisdale adjourned the meeting at 6:38 p.m.
+
+Prepared and Transcribed by:
+
+__________________________________________________________________
+
+Barbara McManus, Executive Manager of the Board Office

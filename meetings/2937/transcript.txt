@@ -1,0 +1,1324 @@
+April 9, 2019
+Financial Administration & Audit Committee
+KEN MIHALIK: This meeting is being recorded and made available to the public via the Board's
+website. At RTD, safety is a core value. And I'd like to begin this meeting with a short safety
+moment. The National Work Zone Awareness Week is an annual spring campaign held at the
+start of construction season to encourage safe driving through highway work zones. The key
+message is for drivers use extra caution in work zones, and that the Work Zone Awareness Week
+is this week. And the American Traffic Safety Services Association, along with several agencies
+and partner organizations, will celebrate Go Orange Day on April 10. So be careful driving
+through work zones, and look out for the workers.
+This evening we have two recommended actions. The first one reads as follows. It is
+recommended by the Financial Administration and Audit Committee that the Board of Directors
+authorize the General Manager or his designee to execute all documents necessary to award a
+contract to 6e Technologies for BI Work Order Contract Contract Number 19 DH0XX (delta
+hotel zero x-ray x-ray) for an amount not to exceed $2.5 million over five years. Work is
+administered on an as needed work order basis. Funding for these work orders will be included
+in the budgets of the projects on which the work is performed.
+And this action supports the following General Managers' goals. Core goal number three, strong
+financial management, task goal number three to ensure efficient ensure fiscal sustainability, and
+task goal number four, address future transportation needs and methods. Is there a motion?
+LYNN GUISSINGER: So moved.
+KATE WILLIAMS: Second.
+KEN MIHALIK: Thank you, Directors Guissinger and Williams. Heather, I'll allow you to
+leverage if need be.
+HEATHER MCKILLOP: Sure. I'll just be really brief. This is, as it mentioned, a work order.
+And this is for business intelligence activities. Those are the folks that we have on staff that
+create all the reports out of our data warehouse. And this is basically supplementing those tasks.
+We only have so many employees, and we have a lot more requests and projects than we have
+employees. And so on an on call basis, we execute work orders against this faster contract, and
+then the funding comes from the project that's going to benefit for that particular work.
+So the amounts stated in here are not to exceed, but most likely we won't spend all that money. It
+only gets budgeted and executed as the work is required. So with that, I'd be glad to take any
+questions.
+KEN MIHALIK: Director Lubow, you are the first one.
+
+JUDY LUBOW: Thank you, Chair Mihalik. Heather, when is it decided, or how do we decide
+that we're going to get more employees as opposed to having these contractor services?
+HEATHER MCKILLOP: So Mr. Chair, we tend to look at how often the work is needed, what is
+the core staff we need, are there sometimes expertise that we need that is not easily available that
+we can afford to bring them on as staff, but that we can get them through a work order type
+contract like this.
+And so we look at all of those type things. What does it cost to bring them in-house? What does
+it cost for consultant services? And then we make the determination of whether we're going to
+ask for additional FTEs, or we use consultants to be able to do that.
+JUDY LUBOW: Thank you.
+KEN MIHALIK: Director Menten?
+NATALIE MENTEN: Yes. And looking at the information here, walking away from our Board
+retreat, transparency was one of our main components that we wanted to see. How will this
+company help us advance past where we're at right now in terms of dashboards that better
+display ridership analysis, operational trend, financial transparency? There's some companies
+that really do a great job at that. And since that was one of our goals and we are being asked to
+approve this contract, how will this advance that goal?
+HEATHER MCKILLOP: So specifically as it relates to, I know, the financial information you
+would like to see on the website, this is not a contract to be able to do that because remember, we
+would have to have a project and money for that. That money doesn't exist at this time.
+What these folks do is we have a long list of projects and priorities for reports that need to be
+done, information that needs to be digested, information that needs to be manipulated so we can
+put it in a format that we need to be able to analyze data, all kinds of data, whether it be ridership
+data, whether it be utilization data for fares and past pricing, all of those type of things.
+The staff that we have is not sufficient to get to that in a timely manner. So we can use our
+existing staff and delay projects, or we can use this staff to supplement that. But it's not
+specifically designed to do the financial work that you have commented on in the last several
+meetings. That would require a project and money to be set aside for that, and that's not part of
+this. These people assist us on projects that are already in the pipeline, already have money
+assigned to them. Does that help answer that question?
+NATALIE MENTEN: Yeah. It does. And then so that I don't get off track on this one, then under
+other matters, I'll bring up the rest of the questions I have related to that. But I think that would
+be more appropriate instead of asking here under this subject. Thank you.
+KEN MIHALIK: Thank you, Director Menten. And Director Williams, you're next.
+
+KATE WILLIAMS: Actually, Director Lewis and I are sharing in the interest of preserving the
+climate. So she has questions.
+KEN MIHALIK: Director Lewis.
+SHONTEL LEWIS: Thank you, Chair. I could not log in, so I do apologize. Heather, if you
+wouldn't mind, could you talk more about examples for the predictive maintenance and the state
+of good repair?
+HEATHER MCKILLOP: So probably Mike could answer some of those questions better, but
+our BI group has been helping the asset management and the state of good repair with the
+inventory systems and being able to keep track and log all that information, and then being able
+to pull reports together to be able to generate, for instance, the information I need for budgeting
+purposes when we bring it to you to say this is what we should fund and not fund.
+So that's the type of work that they are working on for them. Did you want to add anything to
+that?
+SHONTEL LEWIS: That's actually sufficient.
+HEATHER MCKILLOP: OK.
+SHONTEL LEWIS: Thank you.
+HEATHER MCKILLOP: Thank you.
+KEN MIHALIK: And I did just have a couple of things. And so these are-- essentially they're
+building macros to run reports and stuff to be able to do this repeatedly.
+HEATHER MCKILLOP: Correct. Most of the time they're trying to build reports that can be run
+on a regular basis or on an ad hoc basis as needed. So they might not run automatically all the
+time. Every once in a while we do use our staff-- and that tends to be our internal staff, not this
+contracted work-- to be able to pull certain data.
+So if we have, say, a request from the public or a Board Member or somebody that we can't
+retrieve that data easily ourselves, then we would go to this BI group to retrieve it for us because
+they have those tools to be able to do it. Typically would not be the consultant work doing m but
+it would be our internal staff.
+KEN MIHALIK: And I think you told me previously that RTD previously done work with 6e
+and it was a positive experience?
+HEATHER MCKILLOP: That is correct. So 6e has been a sub to another contractor on some of
+this work. So in this case, they've been selected to be the prime. And I did talk to the IT staff, and
+they've been very pleased with their work, and one of the reasons they were selected now as a
+prime instead of being used as a sub.
+
+KEN MIHALIK: Seeing no other directors in the queue, we'll go to a vote. And again, Director
+Guissinger is the mover. Director Williams is the second. And this passes unanimously 15 to
+zero. Not that it's two zero. 15 yeses. Got scores on my mind or something.
+KATE WILLIAMS: You've been calling the Rockies.
+KEN MIHALIK: Yeah. We will move on to the second of two recommended actions tonight. It
+is recommended by the Financial Administration and Audit Committee that the Board of
+Directors authorize the General Manager or his designee to execute all documents necessary to
+execute an IGA, intergovernmental agreement, to develop and operate software to help manage
+Live eligibility applications through the state Peak software system, state contract management
+system, CMS number 128691, for an amount not to exceed $1.8 million, $1,800,000.
+The IGA is for five years of development, operations, and maintenance, and this action supports
+the following. General Managers' goals core goal number three of strong financial management,
+and task goal number three, to ensure fiscal sustainability. Is there a motion?
+SHELLEY COOK: So moved.
+SHONTEL LEWIS: Second.
+KEN MIHALIK: I've got Director Cook as the mover and Director Lewis as the second. And
+Heather, it's up to you again.
+HEATHER MCKILLOP: Yes. I'll be really brief, but I just want to let you know we're very
+excited about bringing this forward to you because it's a major step forward in being able to
+accomplish and implement the new program. And so we have gotten to the point that we're
+finalizing this IGA with the Office of Information Technology over the five-year period. It
+exceeds the GM's authority, so we wanted to bring it forward to you.
+We're also very excited about bringing it forward because we have had a great working
+relationship with the Office of Information Technology. And in this case, these costs have come
+in significantly less than what we were anticipating for this portion of the implementation, as
+well as the ongoing maintenance. As we mention in here, we're expecting about $200,000 in
+ongoing maintenance, and the difference of that would be the implementation costs.
+The first implementation is currently scheduled-- we're still getting the final-- but in the July time
+frame still, so that's good. And then we'll probably have a second phase of it where we're able to
+get more enhancements for the user as well as reports and things like that. So we expect work to
+be going on throughout the rest of the year.
+This is one piece of the puzzle. As we mentioned, there might be other vendors. We're looking at
+working with the city and county of Denver in processing transactions that need additional
+processing beyond what goes through the Peak system. They do that for other cities and counties
+now. And so we'll probably see a contract coming back for that in the May time frame. And then
+
+we'll probably have some printing contracts to print the cards, the discount cards. And that
+probably will be a low dollar amount.
+But again, major first step. OIT itself, so the Office of Information Technology themselves, has
+done all of the work free of charge. They have not charged us anything. We're only paying the
+consultant, Deloitte, to do the programming work. So we kept waiting for the shoe to drop when
+they were going to say, and this is what you owe us. And they have been very clear that no, that's
+part of their job. So I have to say it's been incredible to work with them. And we're really happy
+to meet this point, and we'd be glad to take any questions.
+KEN MIHALIK: I see at least two. Director Williams?
+KATE WILLIAMS: Thank you, Chair Mihalik. Heather, yay. Yay. We're excited it's happening.
+Is it Live or Live?
+HEATHER MCKILLOP: It's Live.
+KATE WILLIAMS: It's Live. OK. Like Liv Ullman. We'll remember that.
+HEATHER MCKILLOP: You're going to live your best life.
+KATE WILLIAMS: Live. Got it.
+HEATHER MCKILLOP: That's how I remember it.
+KATE WILLIAMS: OK. I'm not going to live my best live. Yeah. No, Live. Got it. I think this is
+great. I want you to know that I'm 100% in support. I think it's great. I think the price is
+reasonable. I think that we owe it to move forward with all the work that has been done. And I
+just have one quick question. What percentage-- ballpark-- are not going to be? You made a
+comment about riders, I guess, and programming. Who's not covered under the Peak program?
+HEATHER MCKILLOP: So everybody will go through the Peak process and have to fill out an
+online application. But that's when it veers off in various back office processes. And I'm
+probably not going to see them all. Monika might have to come up and help me.
+But so we have those that would be kind of automatically approved because they're already in a
+program in the state or with a county that's already in the Peak system. So those people will be
+checked automatically, do they meet our qualifications of being in the district and with the age
+group, because we will deny them if they're under 19 or over 65.
+And they'll get a notice that they there's a better program for them, a better discount than what
+they're going to get through this. So we have that criteria. If they meet our criteria and they're
+already in the system, and they've been income verified and household verified already, then
+they'll be kind of automatically approved.
+
+Then we have a group that wants no other services than RTD, in which case they will have to
+upload some basic information. Those people will not get processed through the Peak system-well, they'll be processed through the Peak system, but it will go a different avenue. We're
+hoping to Denver Human Services to do that verification because they already do that, so we
+don't have to hire staff and they can do it a lot cheaper than we can do it.
+And then there's another process that if you apply for ours and you, while you're in there, decide
+to apply for another program that you might be eligible for, you will take a path through that
+other program eligibility process. They will then verify it. They'll also verify it for us. And if you
+meet the eligibility for our program, then you'll be approved. So everybody goes through the
+Peak interface and system, but then in the back end it gets divvied out based on what criteria you
+meet.
+KATE WILLIAMS: One more quickie. Are we going to be tracking? Are we going to get some
+kind of, like, attaboy for people who come in through us and then go on to get other benefits?
+Are we going to keep track of that?
+HEATHER MCKILLOP: I think they're going to keep track of that. We're not going to be
+entitled to know what programs they qualified for because that is very protected information.
+Yeah, we'll just know that they got approved through that process. But we won't-KATE WILLIAMS: I don't want another name or their address or their social security number or
+anything. I just think that we might want to know how many people we are steering to have a
+better life.
+HEATHER MCKILLOP: And I think we'll be able to kind of in gross numbers. But like I said,
+they're very protective in us being even able to use that information. Do you want to answer that
+better?
+MONIKA TREIPL-HARNKE: I think very protective.
+HEATHER MCKILLOP: Yes, very protective. And that's because they don't want to lose their
+federal funding, and these programs are federally eligible. So we've agreed that we don't need to
+know what they got approved for. We just know that you did your thing, and they're approved.
+But I can tell you that the reason OIT has been very helpful, and the reason Denver Human
+Services-- as well as she has a working group with Boulder Services and a few other counties-have been very helpful to us is they're really looking at this as an opportunity to get more people
+into the system to help them do more outreach.
+KATE WILLIAMS: Super. Thank you very much, and congratulations on that again.
+KEN MIHALIK: Thank you, Director Williams. Director Catlin.
+PEGGY CATLIN: Thank you. Heather, the $1.8 million contracting authority is over five years.
+It's not just the first year?
+
+HEATHER MCKILLOP: No. The $1.8 million is $200,000 a year for maintenance, and the
+remaining amount is for implementation this year.
+PEGGY CATLIN: OK. That answered my second question. And then when you talked about
+Denver Services, when are we going to know ballpark what our agreements with them will look
+like and how much?
+HEATHER MCKILLOP: We'll be hopefully bringing those back to you in May. But we're
+estimated, even with using them and the printing services, we're going to be significantly under
+budget for implementation as well as the annual cost.
+PEGGY CATLIN: OK. I just didn't know if there were going to be any surprises.
+HEATHER MCKILLOP: Yeah. And we'll bring you a final kind of reconciliation of where we're
+coming as we get those numbers. They just kind of seem to be dribbling in.
+PEGGY CATLIN: Awesome. I was quite frankly surprised at the low number. So I'm pleased.
+Pinching yourself?
+HEATHER MCKILLOP: We keep thinking that they're forgetting something, but we keep going
+over and over the scope of work with them and stuff. So I think we're going to sign this baby if
+you approve it so we can get it locked in.
+PEGGY CATLIN: Oh, good. OK, thank you. I just was really quite surprised. Well done.
+KEN MIHALIK: Thank you, Director Catlin. Director Lubow, you have a question or comment.
+JUDY LUBOW: Actually, it's been asked and answered, so I don't need the time.
+KEN MIHALIK: OK. Thank you. Director Guissinger.
+LYNN GUISSINGER: Just really quickly, I think this is great, too. And the numbers look great.
+Do we have an estimate of how many people we're likely to be bringing in?
+HEATHER MCKILLOP: Yes, we do, but I don't know the number. Do you know it off the top
+of your head? We can get that sent to you guys. So we'll furnish that way because we do have the
+number because we've needed to give the number out to be able to estimate costs. So I just don't
+have it off the top of my head. I'm sorry.
+KEN MIHALIK: OK. Thank you. Director Lewis.
+SHONTEL LEWIS: Thank you, Chair. Heather, I promise not to be in the weeds like this ever
+again, but I have to ask these questions.
+HEATHER MCKILLOP: That's OK.
+
+SHONTEL LEWIS: OK. Ever I try not to, anyways. I wanted to know about the free and
+reduced lunch qualifications. Like is there a button or a box that folks could check if they already
+qualify for that service? And then additionally, for folks who are experiencing homelessness or
+are receiving homeless services, is there a box or coordination of systems that can be checked?
+HEATHER MCKILLOP: I'm going to turn that over to Monika because she might know those
+questions. I'm pretty sure I know the free and reduced is not a check box. But I know we've been
+working on the homeless issue quite a bit.
+MONIKA TREIPL-HARNKE: So I'm Monika Treipi-Harnke. I'm Senior Manager of Revenue.
+And let's see. You can definitely check. I think free lunch and reduced lunch is on Peak. You can
+check however many programs who are on the Peak applications and apply at the same time,
+including for us. Or you can apply for is separately in kind of a separate process.
+However, the system can really only check you for enrollment for some of the programs. And if
+you're familiar with the system, you are CBMS programs. So it will be able to check against
+Medicaid and SNAP and TANF and see if the people are enrolled, the applicants are enrolled in
+under the 185% threshold. So that can be an automatic matching.
+But if it's, for example, the free and reduced lunch, that's also not in CBMS and the RTD
+program. Then the data will go its separate ways, but for the customer, for the client, they apply
+at the same time.
+SHONTEL LEWIS: OK. Can I have a follow-up?
+MONIKA TREIPL-HARNKE: And you had the homeless question also. What we've done, in
+Peak there is an option to check yes, I'm homeless. So then we still ask for a mailing address.
+And that could be where the person receives services.
+SHONTEL LEWIS: So like a shelter?
+MONIKA TREIPL-HARNKE: And then we will check that mailing address against the RTD
+district. But basically, since the card will be produced by a vendor, so we'll send the data and the
+photo data. And they will turn out, process the printing, the mailing. So there's some mailing
+address required. If there is none given, then kind of that's the current Peak functionality where it
+defaults to the county. And that's where it would be sent.
+So that's why we're hoping for help from the community partners that have been involved with
+the outreach to basically help people and say oh, this is where you receive services, or this is
+where you can go, give this as your mailing address, get some help applying.
+SHONTEL LEWIS: OK. And the community partners actually leads into my next question
+around immigrant and refugee populations in the climate of the nation right now. And then I was
+wondering if you have heard anything from your partners around folks being able to access those
+services as we're thinking about undocumented folks, immigrant folks, refugee folks, and the
+fear around access to services.
+
+MONIKA TREIPL-HARNKE: The way it will work in our application is that there is no social
+security number required. It is highly encouraged if you have one, because then you can be
+matched up to services you might already be receiving. Your income verification can be done
+electronically rather than someone having to ask you for some statement, pay stub. So it's really
+suggested to use it, but it is not required. So the application will not stop.
+SHONTEL LEWIS: OK. And then my last question is if you all could give to the Board, or just
+to myself, unless the Bord is interested, in a marketing brief on how you all are working with
+your community partners to get the word out about the program. You don't have to answer that
+now.
+MONIKA TREIPL-HARNKE: Yeah. We just got a marketing department and communications
+department planning update so we can definitely ask them.
+SHONTEL LEWIS: Thank you so much.
+HEATHER MCKILLOP: And we have a presentation later on where Michael will be up here
+and he'll talk about that.
+KEN MIHALIK: OK. Thank you. Director Malpiede, I'll let you have the last word on this.
+ANGIE RIVERA-MALPIEDE: Thank you. So we all know how happy I am to be seeing this.
+But I do have just a clarification is that when you're rolling this out to people who are already
+qualified, you're working with the over 300 nonprofit organizations and that program currently,
+correct?
+HEATHER MCKILLOP: So yes. We're working on what the outreach is going to be to the
+nonprofits because one of the benefits will be to them is that they don't have to do means testing
+anymore because it will be done through this process. But we also would like to use them if they
+have participants that need help in applying and access to a computer, or just helping them
+navigate.
+The process, we were surprised, is quite easy and self-explanatory. But if you haven't used a
+computer, it could be a more difficult. So one of the things that we would like to use those for-and we're working on how that communication is going to happen-- is I'm hoping that those
+nonprofits can also help their constituents navigate the system to get the card in the first place.
+ANGIE RIVERA-MALPIEDE: OK. So one of the things that we're seeing in the community is
+multiple languages. I mean, multiple languages. And so I want to make sure that there's access to
+that being translated. That's the first thing. And then the second thing is are we still on track for a
+rollout of July?
+HEATHER MCKILLOP: So right now, if I can get the IGA signed-- no. Right now they have
+just started programming, and their date is in July. Like I said, we're not sure all the exact
+functions that will be available. I think some of the bells and whistles might come a little later in
+the year. But the basic functions, we're hoping for July right now. We have not been told that
+
+they can't meet that date at this time. But I know they're working very hard to do that because
+they have some other major projects that are also due at the same exact time in June and July.
+But as of right now, we know that.
+On the language issue, we understand there's a lot of them out there. We do have it translated
+into Spanish. That's part of the Peak process is to have it translated. I'm not sure if they can use
+Google Translate to translate it into other languages or not. We'd have to check on that for you.
+ANGIE RIVERA-MALPIEDE: You cannot. I mean, we are literally translating in Burmese,
+Korean, so many different languages. So I think-- yeah, I think we really need to take a look at
+them.
+HEATHER MCKILLOP: But right now we did translate everything into Spanish.
+ANGIE RIVERA-MALPIEDE: OK, Thank you.
+MONIKA TREIPL-HARNKE: Maybe to clarify, in Peak the application will be in either English
+or Spanish when you go through. All notification letters will be in either English or Spanish. We
+cannot accommodate other languages in there. We did talk with our communications department
+about providing handouts or other, basically, information on our website, kind of like what you
+see maybe at UPS if you're a parent or so, where you have explanations that, unfortunately, we
+can't program into the system.
+KEN MIHALIK: Director Williams, I promised her the last word. But I'll give you a quick-KATE WILLIAMS: Quick little one. So are we going to have a place on our website where you
+just go there and then it sends you on?
+HEATHER MCKILLOP: Well, yeah, I think we expect to have something now that will take
+you to the Peak system.
+KATE WILLIAMS: That was my quick yes.
+KEN MIHALIK: OK. Let's go ahead and vote on the IGA for the Live program.
+SHELLEY COOK: Chair Mihalik, I had made the motion. And I'd like to defer to one of the
+other folks who have been more active on it, if they'd prefer to make the motion. No? OK.
+KEN MIHALIK: OK. So Director Cook as the mover, Director Lewis as the second. This passes
+14 yeses, one no, and that being Director Menten. Thank you both for that. And we will welcome
+the gentleman from the CU Leeds School of Business.
+HEATHER MCKILLOP: Yes. I'm going to leave for a few minutes, and we'll bring that crew up.
+And Doug is going to introduce them.
+
+KEN MIHALIK: OK. Thank you. Welcome. Welcome. And Doug, I'll let you make
+introductions.
+DOUG MACLEOD: Thank you. Good evening. Doug MacLeod here. Semianually we have the
+gentlemen from the CU Leeds School of Business Research Division come and present right
+after they submit their September or their March forecast to us. The March sales tax forecast
+we'll be incorporated in the 2019 amended budget, as well as the midterm financial plan and the
+long range financial plan. So tonight Robert McNown is with us, Brian Lewandowski, and Rich
+Wobbekind, and they will do a presentation of what they see in the economy currently.
+BRIAN LEWANDOWSKI: Thanks. Thanks, Doug, and thanks to the RTD Board for having us
+back again to share some of our findings and our outlook for the economy. I'm Brian
+Lewandowski. I'm going to start by giving you a brief economic update, and then we'll transition
+over to Robert, who will talk about the economic model and what we expect for the near term
+and the long term for RTD revenue.
+So just starting out, very briefly, in terms of what we see for the economy, what we're seeing is
+that there is a bit of a slowing in the national economy right now. National GDP peaked at 4.2%
+annual growth in the second quarter last year. And then we saw it slow down to 4% and 2.6%.
+The consensus forecast for Q1 of 2019 is 1.3%, so we're seeing this general slowing trend.
+For the full year 2019, the consensus expectation is about 2.4% growth, and then in 2020, 2%
+growth. I think that should allay a little bit of fear about an impending recession. When we look
+at the recession outlook, it's still pretty low even though there's some jitters in the market. And
+we see it in the stock market sometimes. We see it in some volatility in the labor markets and
+other aspects.
+But it still looks like we're on pretty solid footing for the next couple of years, even though it's
+slower growth than what we've had recently. So the average from 2010 to now is about 3%, so
+2020 should be below that trend in terms of GDP growth.
+We used Moody's forecast for the RTD model. So I put this slide up here to show you how
+Moody's expectations have changed over time. So this is looking at the September 2017 forecast
+through 2020. The March forecast in 2018, the September 2018 forecast, and the March 2019
+forecast.
+And one thing I think that's interesting here is taking a look at Moody's 2020 forecast and seeing
+how in 2017, Moody's was expecting about 2% growth. Then Moody's got really bearish and
+they were below 1% for 2020. And now in this most recent forecast, they're back up over 1 and
+1/2%. They're about 1.6% or 1.7%.
+So it shows a little bit more optimism in terms of what Moody's is expecting. It's still a little bit
+below the 25 forecasting agencies that we track. But again, it's showing that some of the
+uncertainty has gone away, perhaps, in the marketplace. And that's brought up the expectation
+for GDP growth in the short term.
+
+The Consumer Confidence Index is something that we track as a barometer for how consumers
+are feeling because we know that consumer confidence can largely impact spending. So the
+consumer confidence shows that through a healthy labor market, people are finding jobs. They're
+seeing incomes rise generally, that this is translating to optimism among consumers if you take a
+look at long term. But if you take a look at the tail end of the Consumer Confidence Index, it's
+decreased pretty sharply from where it was last October. So again, reflecting some more jitters
+more than anything in the marketplace.
+My clicker stopped working. Oh, there we go. I may have clicked too far now.
+OK. So this is showing the Colorado employment growth rate. And one thing that we find
+interesting is like the US, Colorado's employment growth slowed down. It peaked in 2014, and
+it's been slowing since. This was a trend we saw in many economic variables nationally, and it
+was true in Colorado as well.
+But an interesting thing happened in 2018. We actually had a re-acceleration in the employment
+growth rate. And we sometimes wonder how this could happen. When the unemployment rate
+got so low, almost to historically low levels, how do you actually reaccelerate the employment
+growth rate? And in fact, we think that this has to do to the increasing labor force participation
+rate, which I'll get to in just a moment.
+But nonetheless we do see slower growth in employment in Colorado in 2019. And this was our
+forecast from last December. In fact, this is showing up in the data. Through the first three
+months of 2019, we're down to about 7% growth through the first three months.
+So the labor force participation rate. This is taking a look at the percentage of the population 16
+and over who are participating in the labor force. And what's notable about this statistic is the
+sharp increase that Colorado has experienced since about 2016, and also how much higher the
+Colorado labor force participation rate is compared to the nation.
+So where we are about three percentage points higher than the nation is in general, Colorado has
+the second highest participation rate nationally and the third highest rate if you take a look at the
+last 12 months. So that kind of smooths out any monthly volatility that you may have.
+But we've looked at this in terms of our demographics to understand if it's because we have a
+younger population, which we do have. But even when you take a look at the individual age
+cohorts, we have among the highest participation rates for almost every age cohort.
+And if you take a look at this increase over the last three years, it's really been the source of over
+100,000 jobs, 100,000 workers. So this is where that additional supply of labor force is coming
+from that helped us reaccelerate our employment growth rate and sustain strong job growth over
+the last few years.
+So in terms of where the growth is now in Colorado. We take a look at the seven metropolitan
+statistical areas in the state. And this is a slightly different story than we've told you for the last
+five or six years. We're actually seeing some strong job growth out in Grand Junction. We're
+
+seeing some pretty good job growth in Colorado Springs. Pueblo is the one area that still seems
+to be struggling. They kind of bounce between positive growth and negative growth, depending
+on the month.
+In terms of the unemployment rate, this is true as well. We're seeing unemployment rates drop
+around the state in general. But we still see the lowest unemployment rates in the Denver region
+north up through Boulder, Fort Collins, and over to Greeley.
+In terms of home prices, this is another story that has shifted. So Colorado, there's a couple of
+indices that we look at when it comes to home prices. And in terms of the purchase only index
+from the Federal Housing Finance Agency, Colorado still ranks fifth nationally. If we take a look
+at the All Transactions Index, which takes into account appraisals, we slipped to 13th. It's the
+first time we've been out of the top 10 in awhile.
+But if you take a look at the Metropolitan Statistical Areas around the state, now we see Pueblo
+among the top MSAs nationally. So this slide is showing all 330 plus MSAs. Pueblo's in the top
+five. Colorado Springs is in the top 15. And then we see Greeley, and then further down we see
+Fort Collins and Denver and Boulder and Grand Junction.
+So all of our MSAs are still in the top half, but I think it's interesting now that we're seeing
+Colorado Springs and Pueblo, which really lagged in the economic recovery and in the home
+price appreciation. We're seeing those MSAs catch up now.
+In terms of inflation, the story also that we've told you for the last five or six years is that
+Colorado is outpacing the nation in terms of price growth. So while we're a star performer in
+terms of almost every other economic metric-- employment, personal income, wages, home
+price, growth, et cetera-- we've also been outpacing the nation in terms of price growth.
+That price growth has led to negative real wage growth some years. So some individuals are
+seeing their wages not keep up with inflation, which can be a problem. But what you cannot see
+up here is that the January number, which just came out for the Denver Aurora Lakewood MSA,
+actually was up only 0.4%. So it's the slowest growth in prices that we've seen in quite some
+time.
+And if you take out the volatile components of food and energy, prices went up 1.1%, which is
+also the slowest rate that we've seen in quite some time. So one data point doesn't necessarily
+suggest there is a slowing trend in prices. But that's something that we'll certainly keep our eye
+on.
+So in general, what we see is some of the headwinds for the nation and for Colorado over the
+coming year. We're looking at slower global growth. We're watching the value of the dollar and
+seeing how that impacts not only economic growth locally, but how it impacts our exports
+explicitly. We're watching the national policy to see how it impacts trade through trade and
+tariffs. And then at the state level, watching commodity prices, how it impacts our agricultural
+sector, how it impacts our energy sector.
+
+Drought and weather. We took drought off this concerns list. Our drought index fell to only
+about 10% of the state is in severe drought, so we see this as an improving condition. It's not as
+much of a worry as it was. Housing affordability, even though prices are slowing, they're still
+growing at a faster rate than incomes and inflation, so that remains a concern for us. The never
+ending talent shortage, and watching real wage increases.
+So that sets the backdrop for Robert, who can share some insights about what we see for RTD
+revenue.
+ROBERT MCNOWN: Thanks, Brian. And thanks to the Board for supporting our effort. We
+really appreciate this collaboration. And so it's my task to present the forecast for RTD revenues.
+And of course, the background that Brian's provided for the overall economy and the state
+economy are integral to the forecasts that you're going to hear about from me.
+So we've developed different models for our short term and medium term forecasts, and then for
+our long term forecast. This slide gives you an idea of the key variables that are driving those
+forecasts. The top section there, you can see that those variables are pretty much typical cyclical
+economic variables like employment, personal income, retail sales, taxable sales. And so those
+are the key drivers in our short term and medium term model.
+For the longer term forecasts, it's much more supply side oriented. And in particular, that model
+incorporates the drag on the economy from the slowing population growth and the aging of the
+population as well. We'll talk a little bit more about that later.
+So sales tax revenues, obviously, are going to be strongly driven by retail sales. Unfortunately,
+the state of Colorado, the Department of Revenue is no longer reporting retail sales, or hasn't
+since early 2016. So we've overcome that obstacle by linking the RTD taxable sales to taxable
+sales at the state level. And you can see these two variables do track each other fairly well. The
+big spurt in the red line there, it's pretty obvious you would recognize that as the time when the
+FasTracks program was adopted. But otherwise, those series are going to track pretty closely.
+So here are our short term forecasts in terms of rates of growth. And so you can see that for
+2018, those are actual data. The revenues were boosted tremendously by this use tax revenue
+growth of over 25%. And that gives you a hint of the magnitude of the task of forecasting that
+highly volatile item, that you can see our forecast is going the other way for 2019, where we're
+projecting, actually, a decline of 5%.
+But overall, then, our tax revenue forecasts, total revenue forecasts for 2019 and 2020 coming in
+at about 4 and 1/4%. And that's a bit of a reduction from what we experienced in 2018. And that
+reflects the projected slowing of the economy that you already saw in Brian's early slides, say, at
+the national level in particular, GDP growth slowing from 2018 down to 2019 and 2020. And so
+that naturally, then, is reflected in these figures, too.
+There we go. So we always recognize that our forecasts are going to have some errors. We
+would like to minimize those errors. But it's important for us to report on the historical record
+and how we've tracked the actual experience here, going back to forecasts that started in 2015.
+
+So to help you interpret this table-- and there's a lot of numbers there-- we could just focus on the
+ones that are highlighted in red because those are the forecasts for the entire year, or the errors in
+the forecasts for the entire year rather than each quarter by quarter.
+So for example, in March 2015, the forecast was made for that entire calendar year based on data
+that were only available through 2014. So it's the first true forecasts for that year. So you can see
+that forecasting essentially a year ahead, we were high by 1.8%. So a positive number indicates
+our forecast is too high. Negative means it's too low.
+And then, say, skipping down to the most recent forecast, again, in March 2018, we made the
+forecast for the entire year. And we came in low by, in this case, 1.8%. So it seems-- and we've
+looked at all these numbers and tabulated it-- that we're roughly 50-50 in terms of forecasts that
+are too high or too low. And overall, particularly on the annual forecasts, they come in at 2%
+errors or less, which we think is a pretty reasonable record.
+So for the medium term forecasts, we go out six years and we provide alternative scenarios.
+These are based on alternative scenarios that are developed by Moody's Analytics. So there's the
+baseline scenario that we've mostly been talking about so far, an optimistic scenario, and a
+pessimistic scenario that Moody's projects as a below long term trend rate of growth. And these
+scenarios are actually pretty tightly clustered. There's only a little over a 5% difference in the
+forecast out there in 2025, which is the ending point of this forecast horizon.
+And then turning to the long term model, these are the projections going out to 2045. And that's a
+daunting task. As I said, we rely heavily on demographic projections coming from the census
+and from the state demographer's office. And the governing principle here is that the growth in
+the labor force is, of course, going to be constrained by the growth in the working age
+population. The aging of the population also has detrimental effects on productivity and on
+investment and saving rates. So those are all going to retard the long term growth rate.
+So for example, over this entire period of 30 years over which we're forecasting, the average
+annual rate of growth, at about 3 and 1/2%, is roughly one percentage point lower than what is
+being projected and we've already observed also for the current decade. So that shows a
+substantial slowdown in the pace of growth in the long term, which we think is pretty realistic.
+So finally, we like to compare our forecasts to what our associates in the Colorado Legislative
+Council and the Office of State Planning and Budgeting are doing. And of course, they're not
+forecasting RTD revenues, but we can get some idea of whether we're roughly on track relative
+to them by comparing some of the forecasts of these key economic indicators.
+And so you can see that certainly in terms of personal income, we're very close. Similarly for
+2019 unemployment, we're quite close again. But our forecasts for employment in 2020 are
+substantially lower than our two associates, and I think the reason, again, is our strong emphasis
+that we're putting on the changing demographics.
+All right. So just to conclude here, giving you an overview of the principles behind our forecasts- sorry about this. I won't touch it now. I didn't do that. OK.
+
+So we update semiannually, as Doug explained to you. And that enables us to use the most
+current economic data. Sometimes we'll revise our equation slightly, although the basic structure
+of our model remains pretty much unchanged. The forecasts are generated on what we consider
+to be theoretically sound economic principles using state of the art econometric methodologies.
+We do not bring in ad factors. We think the best value we can provide to you will be a modelbased forecast.
+And finally, the BRD is independent of RTD. We don't have any particular political or financial
+stake in these forecasts, and we want to give you the best forecasts we can in an objective
+manner. So thank you for your attention and your patience with my clicker.
+KEN MIHALIK: Thank you for the presentation I'm sure that sparked a few questions. I just
+don't know. Did anybody have a-- oh, there. I see Director Broom.
+BOB BROOM: Thank you, Chair. Did you see any evidence that the new tax law has increased
+disposable income for individuals and/or has increased business investment?
+ROBERT MCNOWN: I would say yes to the first part and no to the second, that certainly it did
+increase disposable income, and that's had a significant impact on overall spending, and therefore
+overall economic growth that we saw in 2018. So I'm sure that some of that higher growth in
+2018 that Brian mentioned compared to the previous years was due to that tax cut.
+Maybe I was anticipating this question, but I was personally curious as well because I hear a lot
+of conflicting stories about the pace of business fixed investment. And I was looking at those
+figures today, and over the past four quarters, I did not see a substantial increase in the rate of
+growth of business fixed investment relative to previous years' averages.
+I don't know. Maybe my colleagues have a different answer.
+RICH WOBBEKIND: I have a slightly different answer. So it was higher last year, but it was
+forecast to be higher, business fixed investment. So it's going to be very hard to tell after the fact
+whether that piece of the tax cut worked. Certainly we saw higher disposable income. And we
+had record automobile sales again. And so on the consumer side, it certainly seems to have
+worked. I think the jury's still out, d Robert indicated, on the business investment side.
+BRIAN LEWANDOWSKI: And the one thing I'll add to that is think back to our forecast last
+year. When we were doing our forecasting, that law hasn't gone into effect yet, so we think that's
+why we were under shooting a little bit on RTD revenues. And then we caught up as the year
+progressed.
+KEN MIHALIK: Anything else, Director Broom?
+BOB BROOM: I guess not. I could probably ask a lot more questions, but I won't.
+KEN MIHALIK: OK. Thank you. Director Lubow.
+
+JUDY LUBOW: Thank you, Chair Mihalik. I probably ask this every year. But you know, I've
+looked at The New York Times, and it would be headlines, and it would say economists predict
+recession. And I think one of the issues was there was an inversion of a curve with bond yields
+and something else. And whenever that's happened in the past 60 years, we've had a recession
+soon thereafter, according to these articles.
+You guys don't look at that stuff, right? You look at other things. So do you factor those outlying
+things in?
+ROBERT MCNOWN: So you're right that that particular indicator, the yield curve inversion, is
+not a part of our model. It may influence the Moody's forecasts. I'm not sure. But just a slight
+tweak on your interpretation of those articles you've been reading. Some of the economists who
+have looked at that indicator carefully say well, it's not enough that that inversion occurs. It has
+to be sustained for some longer period of time.
+And so I think that that inversion now has been reversed. And so oh, all of a sudden the game's
+over. No, I don't think that's the case. In fact, I don't think there's anything really magical about
+zero as far as the interest rate differential. I think the fact that it is so close could be a warning
+sign. And maybe that's consistent with the slowing of the economy that is figuring into our
+forecast. So not so much a recession. But I think that that particular indicator could also be a
+signal for a slowing economy.
+JUDY LUBOW: So do you bother to tell us those things, those that are outside of your model?
+ROBERT MCNOWN: No, in the sense that I said we just provide you with the model forecasts.
+But I think the model forecasts are consistent with some of this other information. In fact, if they
+were not, they might make me question some of the equations and go back and revisit that. But
+nicely, the forecasts seem to be consistent with the indications of slowing that many other
+observers are seeing as well.
+JUDY LUBOW: OK. Thank you.
+RICH WOBBEKIND: So it's a weak indicator. And I think I'm going to say a second thing. I
+think it's changing times, too. But it has overforecast recessions, number one. It starts at six
+months or it goes all the way out to 18 months. So it's not a predictable timeline even when there
+is a recession in the economy. So it's very hard to sort of put that in a model.
+But with all of liquidity in world markets right now, we have crazy stuff going on. In monetary
+markets there's just so much liquidity out there that there's a question whether or not it's even a
+reliable indicator period anymore. So just embellishing that.
+JUDY LUBOW: Thank you.
+RICH WOBBEKIND: Sure.
+KEN MIHALIK: OK. Thank you, Director Lubow. Director Catlin, you're next.
+
+PEGGY CATLIN: Thank you. I guess depending on what source it is or who's speaking, they go
+anywhere from the sky is going to fall versus something else. With regard to the recent passage
+of the oil and gas legislation, and some folks, particularly up in Weld County, are predicting
+lower employment, and I mean just some economic indicators for that. Have you factored that in
+at all, or do you have any thoughts about what that might do to maybe your next forecast?
+BRIAN LEWANDOWSKI: So we did not explicitly work that into our forecast. That was
+legislation that was passed after we submitted our forecast to RTD. I even wonder how we would
+explicitly work that into our forecast in the future. When we've studied the oil and gas industry
+intensely in the past, what we found was that a slowdown in the oil and gas industry can impact
+the state's economy. We think it will slow down the state's economy.
+And when we looked at the price decrease a couple of years ago, we saw the state economy slow
+down. But we saw a sharp decrease in Weld County, that this is really the epicenter of our energy
+industry now. Over 90% of the state's oil comes from the one county. Over 30% of the state's
+natural gas comes from that one county.
+So the last time prices fell, we saw the county GDP actually fall so you could look at it and say
+almost that the county went into a recession, but the rest of the state did not. And the Denver
+Metro region did not. We still continued to grow at a pretty strong rate. And so some people
+point to this and say that we have a well-diversified economy to the point that we're able to
+weather those types of storms.
+But when we take a look at a place like Weld County and compare it to Wyoming or North
+Dakota or Alaska, places that have a similar concentration of energy activity to their overall GDP
+or employment, we see that Weld County does look like those states in terms of how they
+perform during price downturns. And so we use that as a proxy for what happens if there's a
+downturn in activity because of policy.
+So we think that if there is some sort of moratorium-- which we're not sure exactly what will
+happen in Weld County, but if there is-- we think that it could be detrimental to the Weld County
+economy. The question is, how does that spread to the rest of the state? And based on what we
+saw a couple of years ago, we think that there could be an impact on the rest of the state's
+economy, but not necessarily a recessionary impact on the rest of the state's economy.
+PEGGY CATLIN: OK. Thank you.
+KEN MIHALIK: Thank you. I don't see anybody else in the queue. So I just want to thank you
+gentlemen, and we'll see you in a few months.
+ROBERT MCNOWN: Thank you.
+KEN MIHALIK: And we will move on to the update of the 2020 to 2025 midterm plan and
+budget assumptions.
+
+HEATHER MCKILLOP: Sorry, just changing seats here. So I'm going turn it over to Jannette to
+walk you through. It is that time of the year again, so we're going to be working on the '20
+through '25 midterm. And then also, that will prep us for the 2020 budget moving forward. So
+with that, I'm going to go ahead and turn it over to Jannette.
+JANNETTE SCARPINO: Thank you. I've been advised we may be having some difficulty with
+the clicker. So I've been given a keyboard, OK? Old fashioned way. Yes, indeed. OK. OK.
+There you go. All right. So our agenda tonight, we're going to talk about the midterm financial
+plan on a very high level basis, but a little bit deeper than the last time we met and it went a little
+too far. There we go. So we will talk about our assumptions around revenue. We'll look at our
+operating elements, capital elements, our cost assumptions, issues and challenges, and our next
+steps.
+So the purpose of the midterm financial plan is to provide overall guidance to our budgeting
+efforts for both base system and FasTracks. This is a six-year capital and operating plan, and it
+must be balanced. It provides input for our planning efforts around the annual budget, and also
+the long term financial plan. It will align with the General Managers' core and task goals as
+determined by the Board. It will incorporate our performance measures, and it sets targets for
+development of our fund balances.
+The process consists of the base system, which was, as you remember, formerly known as the
+Strategic Budget Plan, SBP, and also FasTracks, formerly known as the annual program
+evaluation. And the objective is to integrate both base system and FasTracks into this six-year
+plan, and also a long term plan.
+Our revenue assumptions are the same across the board. However, cost development is
+somewhat different for base and FasTracks in that FasTracks is more project based. And our
+development processes are a little bit different in that we do not have a call for projects on the
+FasTracks side. We do in base.
+So our revenue assumptions revolve around our sales and use tax growth rate that was just
+spoken about. We saw our sales and use tax revenue increase 6% in 2018, and we are expecting,
+per CU Leeds, an increase of 4.4% in 2019 and 4.2% in 2020. We're showing you the six-year
+forecast, the baseline forecast.
+The gentlemen from CU spoke about how economic metrics have changed in the medium term
+since the previous forecast from September. And what this is doing is leading to changes in the
+revenue forecasts such that the forecast has been revised lower compared to September of last
+year. In fact, we are seeing a difference of about $134 million between the March and September
+forecast of last year over this 2020 to 2025 period. So over the six-year period, we're seeing a
+decrease of $134 million from the previous forecast.
+They spoke about retail sales. The forecast is an average growth rate of 4.5% over the medium
+term. Personal income is projected to be somewhat slower, and future employment growth rates
+
+will be constrained by slow growth in the working age population. All of these factors contribute
+to what we will see in the way of sales and use tax collections.
+Our revenue assumptions also include fare revenue. And we are assuming fare revenue growth in
+accordance with the recommendation that was adopted by the Board last year. FasTracks is
+expected to deliver on fare revenue growth in the near term due to the opening of new corridors.
+However, our largest increases will be seen in 2022 and 2025 if we assume fair rate increases in
+those years. And I will note that, per policy, the Board considers a fare rate increase every three
+years.
+For ridership, we are assuming it will be flat on the base system. And growth in ridership will
+occur in FasTracks in the near term. Our federal grants, we base our projections on what we
+receive in 2019 and any known project-specific grants, and there will be some. As regards debt
+financing, issuance of new debt may become necessary to finance fleet acquisition or
+construction.
+And this is the sales and use tax forecast being shown graphically. The bars represent either base
+or FasTracks, take your pick. But the blue and orange, or yellow lines, if you will, bars-represent the forecast from 2019 to 2025. And I just want to point out that in the years '20 to '21,
+we are seeing a little bit of a slowdown because the bars don't increase as much in those years.
+And if you look at the percentage increase, the forecast is for 3.1% in 2021. So it does slow
+down a little bit. And then it picks up steam again in 2022 per CU Leeds.
+So the operating elements include our bus service. We will see a small increase in service hours
+in fixed route. And we have a committed increase for the Flatiron Flyer ADA service hours will
+be scheduled to meet demand. In rail service, we also expect a growth in rail service hours from
+full year service on the J Line Southeast Rail Extension and the opening of the N Line.
+With regard to operating and passenger facilities, we need to maintain our facilities in a state of
+good repair, and we will see projects that will help us meet that objectives. The operating
+elements also include operating and maintenance of our completed FasTracks projects, which we
+have listed here.
+Capital elements. Let me just remind all that capital projects have a cost greater than $5,000 and
+a useful life greater than one year. If a project meets that criteria, we capitalize the project, we
+put it on the balance sheet, we own it. Becomes an asset. So the fleet plan is probably one of our
+largest capital expenditures on an ongoing basis. And we will have the need for bus replacement,
+also rail fleet expansion to meet our service needs.
+We also have capital needs for operating and passenger facilities and equipment. And these are
+projects to replace and improve assets and facilities. And again, we have state of good repair
+needs for capital as well. We will have completion of ongoing FasTracks projects. We are
+closing out some existing projects. And we will have completion of North Metro over the time
+period.
+
+So our cost assumptions relating to operating and maintenance costs. We base our forecast on the
+proposed amended budget for 2019. That becomes our baseline year. We then escalate our costs
+at the rate of inflation. And you will hear us say inflation and CPI synonymously, the CPI being
+the Consumer Price Index.
+For diesel fuel costs, we have locked our cost at $2.30 per gallon in 2019, and we use that
+assumption in all years of the forecast. We escalate that dollar amount per gallon at the national
+inflation rate. We do monitor the futures market for an opportunity to lock our diesel costs in the
+future, and right now the futures estimate is about $2.25 for 2020. With regard to debt service,
+we will continue to show our interest and principal payments on existing debt. And if we do have
+a debt issuance, we will rein in assumptions about additional principal and interest payments.
+And then let's touch on those inflation rates that I talked about, or the CPI. We use the Moody's
+forecasts for our estimates of inflation over the life of the plan. And as of March 2019, the
+Denver Boulder inflation rate is 2.6% in 2020, and the national inflation rate is 2.2% in 2020.
+Those rates are a little bit lower than what we had last year at this time,
+We also have reserves that we pay attention to. And we are planning for moderate increases to
+our fund balances for both base system and FasTracks, and that includes all the funds listed
+there. We do this to have sufficient reserves to withstand economic fluctuations. And our goal is
+three months of operating expenses in our reserve balances. You hear us say that a lot.
+FasTracks, at this point in time, appears to be meeting that goal base system. We're probably a
+few years out yet. We also have the FasTracks internal savings account, or the FISA, which is
+actually growing rather nicely and is providing another stopgap for us.
+So our issues and challenges. Challenges are always opportunities, are they not? Our Board
+priorities for 2020, we will try to incorporate those to the best of our ability. We want to continue
+to fund our reserve balances. We want to maintain an adequate unrestricted fund balance. We
+will be faced with, or have to make decisions about, a lot of deferred projects, projects that we
+have put off over the past few years.
+We have needs around state of good repair. We will have to monitor the diesel fuel markets. We
+will have increased O&M costs. We will have competing projects. And we will have the need to
+prioritize our projects. We will see funding constraints and limited funding sources. Nothing new
+there. And we will need to address construction and operation of the unfunded FasTracks
+corridors.
+Finally, we see that our Tabor exemption on the base system will expire at the end of 2024, and
+we will be faced with a need to do something about that, whether that be a potential Tabor refund
+or addressing the legislation.
+So our next steps. This is what we will do in the next several weeks. Review our fuel options for
+2020. We will continue to review and prioritize departmental requests for capital and expense
+projects. This is a large undertaking. It involves our executive management, SLT. We will
+review and update our costs to complete and operate ongoing FasTracks projects. We want to
+
+make sure that those costs are current. We will develop funding strategies and forecasts. We will
+track ridership and fare revenue, our estimates against actuals.
+So our key dates. You will see us again on May 7, where we will have a first draft of the
+midterm financial plan. On July 9, we will bring a second draft of the midterm financial plan
+forward and a first draft of the long range financial plan. On September 7, we will present the
+final version of those plans, as well as the 2020 requested budget. September 24 we will look for
+adoption of the midterm and long range financial plans. And then finally, in November, we hope
+for adoption of the 2020 budget.
+So that concludes my presentation. We will take questions, of course.
+KEN MIHALIK: Thank you, Jeanette. I'm sure there's at least one. And Chair Tisdale. You're
+recognized.
+DOUG TISDALE: Thank you very much, Mr. Chairman. I did want to point out one thing just in
+the event that any Board member had pause looking at page 45 of the packet that is labeled
+Board Priorities for 2020. Please understand that's not an official statement of the Board
+priorities. It's a very abbreviated shorthand version of the same that was utilized for purposes of
+this report. It's not, as I say, the official statement.
+The actual statement of our Board priorities will be circulated tomorrow. You'll receive that
+tomorrow, together with Susan Spero's three- to four-page summary of the Board SLT retreat,
+just so you have everything. And I just want to do that because for example, the word transparent
+was used tonight in talking about the strategic priorities. And it's there. So I didn't want people to
+get the wrong impression just by seeing this. But I understand it was needed because it generally
+captures the essence of those, and I just wanted to add that comment. Thank you very much.
+KEN MIHALIK: Thank you for that clarification. Director Menten.
+NATALIE MENTEN: Thank you. First I'll speak to-- or ask a question about a statement on
+packet page 44. And that is about midterm financial plan reserve assumptions. And the last bullet
+point speaks to FasTracks' internal savings account, FISA, and states continued growth through
+savings from rubber tire service increases. I'm going to need more information for that statement
+to seat into my brain.
+HEATHER MCKILLOP: Excuse me so when the Board adopted their contributions to the FISA
+account, the largest contribution is from the rubber tire service. That comes from the base
+system. So rather than increasing the base system by, I think it's 1%, that money instead is
+funneled into the FISA each year. And that's been going on since the FISA was established. It is
+the largest funding source. And if you look under the monthly financial statement, you can see
+where that is accounted for on an annual basis.
+NATALIE MENTEN: So in other words, that statement could read continued savings from
+decreased rubber tire service.
+
+HEATHER MCKILLOP: Well, it's not necessarily decreased. It's not increasing rubber tire
+service on the base. It's taking that money, instead, and putting into FasTracks.
+NATALIE MENTEN: Then I'll just move to the statement on page 45. And thank you, Chair
+Tisdale, for bringing up what I'm going to bring up, in that I would like to see-- because this is a
+matter of the record-- I would like to see in those five bullet points-- for the record, for me
+especially-- strengthen communications and transparency, as there is room on that line.
+And if somebody is looking back at our records and trying to search through financial goals-and I know they're people interested in our priorities for 2020-- it leaves some important things
+out. So that's my comment on that one. And I do understand tomorrow we'll get that information.
+But again, when citizens are looking for something, I would like to have it included. Thank you.
+KEN MIHALIK: Thank you very much. Director Lubow, you're next.
+JUDY LUBOW: Thank you, Chair Mihalik. I have a bunch of little comments. By the way,
+thank you for a very useful report. I appreciate it. That being said, revenue assumptions. One of
+them is that the fare increases will happen every three years based on the Board policy to at least
+review the fares every three years. And I've been saying for quite some time that if we really are
+the highest price transit, or close thereto-- and that's what you see in the newspapers, that RTD
+has the highest prices-- that keeping increasing them may not be a good model, that it might
+behoove us to look at some alternatives. Really, I think that's very important.
+Another assumption is that bus ridership is going to be flat. And we all know what's happening
+around the country. However, there were a couple of transits that have increases, like Houston.
+And Houston did something like what we're going to do, which is that transformation thing. So
+they went up. Maybe we'll go up.
+And I would just like to leave that open, that we're not just assuming that the ridership is going to
+stay flat. I mean, we may have to at this point, but I'm hoping that that won't continue, that we'll
+turn that around. And I also think that we keep kicking the can down the road about just
+increasing the fares as our means of staying solvent, so to speak, and at some point it just may
+not continue to work. So I urge us to be aware of that.
+A couple more things. Heather, as you know, I live for that cash flow graph that you do every
+year. It's like my Christmas present. And it's not going to be as nice this year under the tree,
+right? No, because it went really up last year. And is it going to go down as much as it went up?
+HEATHER MCKILLOP: It probably won't go down as much as it went up. But it will not look
+the same. We have not run the long range plan model, so I don't have that information. But just
+based on the forecast changes, it will be significantly different, yes.
+JUDY LUBOW: Right. OK. I assumed that was the bad news. God, I had a couple more things.
+HEATHER MCKILLOP: Do you want me to address the other two issues just real quick? So I
+think the opportunity to have that discussion about the fares definitely will start next month when
+
+we bring to you a very high level outline of where we're at, which is-- remember, we always
+bring that big one, that first one, and it's kind of a shocker because it always shows a big deficit
+in it. And then we spend the next three months working on how to alleviate that shortfall through
+bringing revisions to you and getting feedback.
+So again, be prepared, because we already know that we can't fund what we had funded last year
+because of the revenue forecast different. I think that's a really good time to have the
+conversation around fares because we do have that built in every three years between now and
+the end of time. And so that will make a significant change to how we move forward if the Board
+wants to change that policy, which it is the Board's right to do that. But I think next month is a
+really good time to have that conversation when we start showing you real numbers and not just
+the assumptions that go into the plan. And we'll be prepared to have that conversation next
+month with you.
+And then I think on the ridership issue is we've even talked about how do we show-- because we
+have seen an overall decrease in ridership, even with the tremendous increase in commuter rail
+and light rail. Not as much in light rail, but definitely in light rail-- we still have seen, over the
+last few years, a 2.2% decrease in ridership. So even showing maintaining ridership is a bit
+optimistic based on our past.
+However, we do have opportunities. And I know some of that will be presented to you as you
+move forward with the tactical plans at the end of April about areas that where we might be able
+to change that direction. The question will be is do we make those assumptions based on a plan
+that hasn't come forward yet? We're just now going through the stages of hiring someone for
+that. Or do we wait till a later time when we have a more solid approach of how we may move
+forward, and what that means as far as ridership in the system.
+And so we tend to take, from our perspective, a more conservative approach of how are things
+looking now versus what might happen in the future. So we just need to have that conversation
+moving forward.
+JUDY LUBOW: Great. Thank you. Just another point or two. I noticed that there was a
+statement that we might be having to finance rolling stock. And I thought last year we said we
+just couldn't because I think of that index.
+HEATHER MCKILLOP: Yeah. So you're talking about the debt service coverage. So last year
+we had rolling stock financed in 2022 because that's when our numbers got to that point that we
+could issue debt again. And also, with the new plan that goes out to 2025 now, we had additional
+COPs issued for a maintenance facility in 2025. So now that 2025 is being rolled into this plan,
+that cost will be rolled into. And it's part of the discussion we'll be having about projects. Did we
+put enough money in the maintenance facility? Do we need it in 2025 or sooner? Those type of
+activities.
+So that's when she said we're probably anticipating we'll need some type of debt financing
+through a COP, a Certificate of Participation. When that will occur and for how much is still the
+question. That is on the base system, on FasTracks at this time. We're still working on the
+
+numbers. I don't know that we'll need to see any kind of debt, but we'll have to see how that
+works. And a lot of that will be driven by the conversation around the resolution that was done
+and the plan that we bring back in two months.
+So there's a lot of stuff happening right now that will influence the midterm and long range
+plans, and we're trying to just bring those all together for you. But they'll probably be brought
+together over the next several months in pieces, and we'll need to get your input as we go along.
+JUDY LUBOW: OK. Thank you very much.
+KEN MIHALIK: Thank you, Director Lubow. Director Catlin?
+PEGGY CATLIN: Thank you. Director Lubow actually brought up my first point. Page six of
+your presentation, which is packet page 37, I had underlined the third bullet. Per policy, Board
+will consider a rate increase every three years. But then it says next scheduled increase is for
+2022 and then 2025. Have you run a model yet that would not include a fare increase for those
+two years?
+HEATHER MCKILLOP: No, we have not.
+PEGGY CATLIN: It would be interesting to see that because I share the concerns about
+automatically assuming a fare increase, particularly with some of the pushback that I got from
+some of my constituents, and others did, too, about fare increases this last go round. So I think it
+would be helpful to see a bracketed scenario that does not include those fare increases. So thank
+you, Director Lubow. I had that underlined on my printed out page from home this morning.
+You mentioned that over the six-year period, there would be $134 million decrease from the
+previous forecast. Have you started looking at what might be impacted, what projects might be
+cut, where those reductions might need to take place in the mid-year financial plan?
+JANNETTE SCARPINO: We are going to begin that effort. Right now the midterm financial
+plan, at least for the base system, has the projects that were approved in last year's midterm
+financial plan. We've brought those projects in. We've built those projects in. And already we are
+seeing a gap that needs to be closed in order for the plan to be balanced.
+So we will begin to have those discussions around what projects come in, when, where, what do
+they look like, where are our priorities?
+PEGGY CATLIN: OK. So I'm assuming that in one of these subsequent meetings, that some of
+those suggestions will be brought forth.
+JANNETTE SCARPINO: Will be brought forward, exactly.
+PEGGY CATLIN: And then my last question, on page 13 of your presentation, you talked about
+a reserve balance of three months of operating expenses. Where are we on that?
+
+HEATHER MCKILLOP: So for FasTracks, we were able to reach the three months for 2019 and
+out into the future. For the base system, I think we were out to about 2025 or '26. I want to say
+'26, but it's somewhere in that time frame. And we'll have to look at that again. So we have about
+a month and a half, I believe, right now.
+PEGGY CATLIN: That was my question. OK. Thank you.
+KEN MIHALIK: Thank you. Director Lewis.
+SHONTEL LEWIS: Thank you, Chair. I have two questions, please. The first one, you
+mentioned developing funding strategies, and I'm curious as to what that means and what that
+looks like, and what that has looked like in the past. And to page 45, I want to know how we
+arrived at issues and challenges, as the Board hasn't received how you define strengthening
+communications, or how we've defined addressing equity. And so is this generally we just put
+the 2020, or the next year's goals, in issues and challenges? Or is this unique?
+HEATHER MCKILLOP: Yes. So yes. Our common is every time we list the Board priorities,
+we're early in that Board priority process, so we don't know what they'll be as far as issues and
+challenges until after those tactical plans are submitted to the Board and the Board comes up
+with the actual goals. And then we'll be looking at that.
+So we just list the Board priorities at that time that we have. And like I said, this is all that I have
+right now. And so we want to make sure those are out there front and center because that's what
+we're supposed to be focusing funding projects on. It's a little hard to pick the projects when you
+don't have the plans fleshed out yet. And that will happen towards the end of this month and into
+May time frame.
+SHONTEL LEWIS: And a follow-up, and then I'll get back to the funding strategies. So will you
+all provide to us plans for each one of those just to let us know as a Board that it's difficult to do
+this for these reasons, or we can address equity in these ways.
+HEATHER MCKILLOP: So do you want to answer that? But yeah. Why don't you go through
+the tactical plan process?
+DAVE GENOVA: Sure. So at the April study session-- and the date's escaping me-- is it the-HEATHER MCKILLOP: 23rd.
+SPEAKER 2:DAVE GENOVA: 23rd. We'll present a tactical plan. So it'll be an outline that the
+staff would describe to be able to address each one of the priorities. So we will present that to the
+Board and seek your input and answer questions and things like that. Then we will take your
+input and feedback on the tactical plan.
+And then the staff, then we take that, and then we start to develop the very specific General
+Manager task goals for 2020. And then those will come back. Those kind of get massaged
+through the general manager oversight committee process. And then once that committee
+
+approves those, then they come to the full Board for approval. But that's probably not until about
+a June or July time frame, maybe.
+And so, as Heather said, there's a lot of different things that are going to influence both the
+midterm financial plan and then the annual budget. But those priorities for 2020 are going to be
+more reflective of driving the annual budget, which comes a little bit later than the midterm
+financial plan in the year.
+SHONTEL LEWIS: Thank you. That's helpful
+KEN MIHALIK: Did they address your other question?
+HEATHER MCKILLOP: Oh, I don't think we did. Oh, did we? OK.
+KEN MIHALIK: OK. Thanks. Director Cook.
+SHELLEY COOK: Yeah. I just wanted to add my agreement with the concern about
+automatically assuming the increases. And I'm hoping that-- it's something I talked to Heather
+about earlier today-- I'm hoping that as we proceed into the optimization study, the T2 study, that
+we can focus not just on modeling, for example, no increases, but consider ways that ridership
+development or a restructuring might lead to revenue increases without the fare increases that
+we're anticipating. So I'm just underscoring that one piece that I hope we're able to carry forward
+into the optimization study, and I'll be able to get with staff to talk about that in some detail.
+Thank you.
+KEN MIHALIK: Thank you. Chair Tisdale.
+DOUG TISDALE: Thank you very much, Mr. Chairman. I hold in my hand a list of the restated
+strategic priorities. And I just wanted to point out because we just had one final editorial change.
+So they are ready. And I think for the sake of this record, it should be noted that the presentation
+prepared by staff is simply staff's accumulation of information, presentation to us, but that our
+priorities are as we have stated them.
+And then also to address the other question, the strategic priorities are something that the General
+Manager, then, in collaboration with the General Manager Oversight Performance Committee
+and this Board , then put together into a strategic plan, which gives all the detail relative to that.
+But it's all 2020. Remember, these are 2020 priorities we're talking about. Not the 2019
+priorities. But those will be included on the memo to you tomorrow so that you can compare
+2019 and 2020. I just wanted to provide that further amplification. Thank you.
+KEN MIHALIK: Thank you. Director Walker.
+JEFF WALKER: Thanks. I don't think anybody in this Board should assume that we will
+increase fares every three years. I know right when I get on the Board, I think we're in the midst
+of a five- or six-year period where there hadn't been a fare increase. There might have been a
+special circumstance to that. I think we were looking at restructuring the whole fare program not
+
+too long. So we didn't increase fares because we knew that there would be a significant-- or I
+guess we imagined that there might be a significant change not too far ahead in the future at that
+point, where it would have been a three-year consideration.
+But we definitely--I think we should consider it, whether or not we act to raise or not raise. I
+think there are a number of things that influence that decision. But it's not a foregone conclusion
+that fares will automatically be raised or that this board will automatically-- or that staff will
+suggest, even recommend, a fare increase every three years. That's it. Thank you.
+KEN MIHALIK: OK. Thank you. I don't see anybody else. Thank you for that presentation.
+We'll move on to the February monthly status report.
+HEATHER MCKILLOP: And Doug's coming up to give that presentation.
+DOUG MACLEOD: Good evening. Doug McCloud. So in your packet, we have two of the key
+factors as estimates, sales and use taxes and ridership. I'll talk a little bit about ridership here in a
+minute. But we did get sales and use taxes for February. We received those tonight at 5:00, so we
+will update the package and repost it with the final numbers.
+But just to give you an idea of where we ended up for the second month of the fiscal year, on
+sales and use taxes we are up $4.4 million over last February, which is about a 5% increase year
+over year. You'll recall that Leeds School of Business mentioned that they're now forecasting at
+4.4% increase over 2018.
+And in the budget, we actually have a 5.6% percent increase from the September forecast. So
+we're kind of falling right in between there. We're a little bit under what we have budgeted, but
+we're over last year by 5%. We're also over the revised forecast of 4.4%. So good news on the
+sales tax front, at least for the first two months of the year.
+I will skip over ridership and come back to that. Oh, well, let's go ahead. Sorry, John. Yeah, go
+ahead and go to ridership. So you'll notice that ridership in your package, we put estimated on
+those numbers because as we told the Board before that we're switching over to the APC method
+of gathering data. We're fairly comfortable with all the numbers with the exception of the light
+rail numbers at this point. The light rail numbers for ridership or in that middle section there,
+starting with C Line down through, I believe it's-HEATHER MCKILLOP: W.
+DOUG MACLEOD: W Line. Thank you. So you can see that the percentage over on the far
+right, that's the change year over year. And you can see there's some pretty wild percentages
+going on there. So we're not really comfortable with the numbers. You might recall that we
+talked a little bit about how light rail vehicles are only covered by Automatic Passenger Counters
+or APCs, to the extent of about 30%. So we think there's something going on with the factoring
+in the data that's extrapolating that 30% count factor across the entire population. So we are
+looking into that, and we expect those numbers to change.
+
+Regardless, if you look down to total revenue service, it shows that we're 2.5% lower than last
+year, but that also includes that 12% decrease that we're seeing in light rail, which we don't think
+is real. So right now those numbers aren't really solid. So we just want to put that out there for
+the Board to not be alarmed until we get these numbers straightened out.
+John, if you could go back up to the first page, please. So finishing up with the final statistic, fare
+revenue, you can see for the year to date, we are 7.6% higher than last year and 11.1% higher
+than last year for the month of February itself. We're still a little bit under budget because we
+made some assumptions about the G Line opening at a certain point in time when we developed
+the budget, or the budget was approved by the Board back in November. But really, the green
+numbers, the 7.6% increase, really are a reflection of the fare increase that we saw, or that was
+implemented in 2019.
+So we're doing fairly well, at least in sales and use tax and fare revenue, at least at this point in
+time. With that, we'd be happy to take any questions.
+KEN MIHALIK: Director Broom, you have a question or comment.
+BOB BROOM: Just a comment. For my purposes, it seems like it makes more sense to wait until
+you get the data in rather than just putting out a report because the report really looks bad that
+we've got. And then you've made significant verbal modifications. And I'd rather wait know until
+you're comfortable with the numbers you're releasing, and then release them. Thank you.
+KEN MIHALIK: Thank you. Director Menten.
+NATALIE MENTEN: Thank you. In regards to the headways on the R Line, we had a planned
+potential reduction at one point because of low ridership, and then figured out, because of the
+federal funding, we were required to keep the headways at what they are. How long are our
+hands tied in that scenario?
+DAVE GENOVA: Well, the conversations we've had with the FTA, it's not just the R Line. It's
+the combination of all three lines as far as the grant goes, the E, F, and the R. And so while we
+haven't really agreed on a time frame, what we will be doing is reporting what the ridership
+figures actually are over time with the FTA, and have those conversations within a year or so, I
+would estimate, depending on what we're actually seeing with ridership. But I don't believe
+we've agreed on a time frame of when we revisit it. We're open to conversations about what we
+see through monitoring.
+NATALIE MENTEN: So they do understand the efficiencies that we need to achieve?
+DAVE GENOVA: They understand efficiencies, but we also-- in the grant, the grant is a
+contract. And so they're very reluctant to make any changes to that.
+NATALIE MENTEN: OK. Thank you.
+
+KEN MIHALIK: I don't see anybody else. So thank you for the February update. And the last
+update is one concerning the fare implementation.
+HEATHER MCKILLOP: Yeah. This is Heather McKillop, really quickly while Michael's
+coming up. I'm just going to give you the good news on some things that have happened in the
+last month that we think has been big progress. And then Michael's going to walk through to
+address some concerns that came up at the last-- I think it's last week's meeting, but I could be
+wrong-- about the naming of the program and the process behind the name. So we want to spend
+the time on that.
+But I did want to let you know that the technical design document as well as the business
+requirement documents were all submitted. We did get final buy-in on the IGA, and that was
+presented to you tonight and will be moved forward to the full Board for approval. And we're
+going to get that accomplished. We are making progress, as I mentioned with Denver Human
+Services on doing some back end work for us so we don't have to do that internally. And we've
+made progress on the card design and submitting that to the vendor. So that's moving forward,
+too, all in the effort to meet those dates.
+So this month we've made a considerable amount of progress. Things are finally starting to gel
+and come together. And I'll leave it at that and then turn it over to Michael for him to walk
+through the process, and we have a PowerPoint for that.
+MICHAEL WASHINGTON: Good evening. This is Michael Washington, the Transit Equity
+Manager. And so I will go through the presentation briefly. Oh, yeah. Thanks. And with me is
+Kimberly Ford, the Transit Equity Specialist. She and I actually orchestrated this process, and
+we're going to tag team this presentation with you guys tonight.
+So which do I use here? Clicker or?
+[INTERPOSING VOICES]
+MICHAEL WASHINGTON: All right. Works now. All right. Cool. So one of the things that we
+understand, as I had stated previously, is that the success of this program really does hinge upon
+us stating our intent and ensuring that the population that it's intended for feels welcome to use
+this, and that this is intended to be of aid to their lives as opposed to a hindrance or some sort of
+badge of disgrace. And we know that the equity of our fare structure and the recent fare change
+definitely hinges upon the adoption rate of this program.
+And so we took this issue of stigma and the potential for it very seriously. And that's why we
+went and developed this process, by which we could get feedback from people that actually have
+experienced-- I should say marketing these programs, and ultimately mitigating the potential for
+low adoption rates, and more importantly, having these communities feel further marginalized by
+the way in which we attempt to help them. And so I'm going to actually turn it over to Kim and
+let her go over the process that we developed and went through.
+
+KIMBERLY FORD: Thank you. Hi again. Kimberly Ford, Transit Equity Specialist. And as we
+move along-MICHAEL WASHINGTON: Maybe.
+KIMBERLY FORD: Potentially.
+MICHAEL WASHINGTON: I tried. I did try.
+KIMBERLY FORD: There we go. So the advisory group members that we recruited were
+specifically people that have worked with low income populations, also have an expertise in
+marketing and outreach. And so this is a group that we developed. You can see their names and
+organizations. We had a facilitator. Her name is Celia Hererra. And she'd the owner of Human
+Media, who has specific work in marketing to low income communities.
+In addition, you'll see Denver Human Services and WACP. The list is there. So quite a variety.
+We also had two Pass Program Working Group members, Nicole Portee and Dionne Williams.
+MICHAEL WASHINGTON: I swear I'm using it, guys.
+KIMBERLY FORD: I see him clicking. All right. This is just a picture of some of the advisory
+group members. Not all of them are pictured, but just giving you a feel for the group that we had.
+The process and timeline. We started in January, and we had a collective impact event which
+brought RTD marketing team and the advisory group together. And we went over a few activities
+to bring us to a collective understanding of the purpose of the advisory group and the intention.
+We then had an advisory group meeting. We went over deficit language and how that can affect
+the program marketing as a whole, and then switched between the advisory group meeting and
+internally so that we have clear understanding between each other, clear communication of the
+process. And then we had the Board meeting, which we presented the name-- was it two weeks
+ago? You presented the name. Yes, two weeks ago.
+MICHAEL WASHINGTON: Or three weeks ago, I think.
+KIMBERLY FORD: Two or three weeks ago. Any additional? OK. The objectives, as we stated,
+were to minimize stigma, also have the group recommend a program name, and also stay in line
+with the RTD branding guidelines. And then we sought feedback on the actual card design that
+was presented by the marketing team.
+In our process there were five core values that we developed. In the picture we have, basically,
+some of our meetings. And the core values that we decided upon through a process of what is
+this program and what is this program not, the core values access community, inclusivity, being
+helpful and eco-friendly were the core values that the group decided on, which led us to our final
+decision, which Mike will go over.
+
+MICHAEL WASHINGTON: And so with the final decision-- and actually, can you go to the
+next slide, because I noticed that these are actually out of order. So I wanted to talk about the
+feedback first. So the feedback that we received regarding the co design and the name that we
+presented to you last time was generally positive in that the group was saying that they really
+liked the notion of Live, and that the concept of live and living definitely has the positive
+undertones that we ultimately want associated with programs of this nature, as opposed to the
+deficit language, talking about things being lowly, low income, things of that nature. These are
+considered to be words of deficit language that ultimately tell these groups that they are lesser
+than, and that this is to be a reminder of that.
+Instead, Live actually serves as a notion of life, that we're trying to promote positivity in their
+lives. There definitely was some concern about the opportunity to mispronounce it as live, as you
+guys all noted on site. And so we acknowledge that as well. But we know through appropriate
+marketing, that we can ensure that people understand the true intent. But live isn't so bad, either.
+In any case, we also did hear from the group. They had a lot of questions about the design and
+saying, OK, we realize that this is going with the new design guidelines. Will everything go with
+the new design guidelines, all of the products? And that's where we can actually go back to the
+next slide-- or I mean, the previous slide. I'm sorry.
+And this is where we explained to them yes, eventually the intent is for all of our products to be
+uniform with the new design guidelines. And so this is what we have out there right now. And
+this is just we wanted to make sure that everyone understood that the design for the Live My
+Ride card in particular is really just the beginning of the new era of our design for all of our fare
+products, and that eventually these other products that you see here on the screen will move to
+that design.
+We also want to show you the special discount card IDs that accompany all of our discounts, that
+will also accompany the Live My Ride card as well. And so we'll conclude there and take any
+questions that you have. Thank you for your time.
+KEN MIHALIK: Director Williams.
+KATE WILLIAMS: Thank you, Chair Mihalik. Good evening, ladies and gentlemen. On page
+67, which was the picture of all the cards, those are how they look now, right?
+MICHAEL WASHINGTON: Yes.
+KATE WILLIAMS: But eventually the special discount card, Youth and-- they're all going to
+have this same pattern on them.
+MICHAEL WASHINGTON: The intent is for them to all follow the same design guidelines.
+KATE WILLIAMS: OK. And they'll all still have a picture on them, though.
+MICHAEL WASHINGTON: Yes.
+
+KATE WILLIAMS: OK. And that's just until we have some advancements, hopefully, in our
+technology, particularly our Smart Card technology, that will allow us to move away from the
+need for an eligibility card. It's the limitations of our technology that require us to use an
+eligibility card right now.
+DAVE GENOVA: So be clear. There's the pass, there's the My Ride card, and then the
+eligibility.
+HEATHER MCKILLOP: Yeah. Let me clarify. So there's two different cards. So right now we
+have a My Ride card, which says discount on it, and one that says Youth. You have to have a
+company special discount card that matches that. So you have a discount card for seniors,
+potentially, and disabled, which is the pink card, which kind of looks orange on this. And then
+we have the blue card, which is the youth discount card.
+So right now they have to go hand in hand. So you have to have the discount card, My Ride card,
+plus you have to have the special discount eligibility card. What he's talking about is in the
+future, as we move to our account-based system, the goal is to have all that embedded in the
+person's account behind the scenes so that they don't have to come and get a special card or we
+don't have to issue a card that shows they're eligible for that particular program, that that would
+all be embedded in the back office, so to speak. We're not there yet, but we're moving towards
+that in the future.
+So until then, the driver needs to be able to tell that I'm eligible to use this discounted fare
+because I've been vetted appropriately by having this special discount card.
+KATE WILLIAMS: So I have a couple questions about that. Number one, why can't they just
+use their school ID or their driver's license or whatever?
+HEATHER MCKILLOP: So if they are a senior, they can use their ID. If they're youth they can.
+But we have a lot of seniors that wish to have a special discount card. And we have a lot of youth
+coming in to get the youth discount card. In addition, you need to have the disabled card. You
+can't just show an ID if you're a disabled passenger.
+KATE WILLIAMS: OK. I'm pondering that. There's not very many seniors who don't have some
+kind of an ID.
+HEATHER MCKILLOP: I'm just telling you they come in and get one. They don't have to, but
+they do.
+KATE WILLIAMS: I'm down with that. Then I'm just pondering the fact, for example, that I
+have a ski pass, you know? It used to be that the thing was that it had your picture on it. But
+nowadays it doesn't because they're not really up to policing. If I let Lynn use my ski pass,
+they're not policing that. And are we policing the fact that the person who gets on the bus doesn't
+really look like the picture? Do we do that? Do we say, like, get off because obviously Shontel is
+not me?
+
+HEATHER MCKILLOP: Well, I think we look at the fact that if they're being checked by an
+enforcement officer, yes. If their ID does not match who they are, we know that they're probably
+trying to use that discount card fraudulently.
+KATE WILLIAMS: And how many times do we do that?
+HEATHER MCKILLOP: I'd have to get the numbers.
+KATE WILLIAMS: I mean, what percentage? 1%? Half a percent? Do we have a clue?
+HEATHER MCKILLOP: Yes. We want the ID card to be tied to the individual because they are
+the only individual eligible for that particular discount.
+KATE WILLIAMS: I get that. And like I'm saying, it would be real obvious that I wasn't Shontel
+by age or skin or anything else. But many, many times, it's not a relevant issue. I'm just
+wondering if we might look at other industries who are moving away from a photo ID because
+it's such a small percentage of a problem and it's not worth policing it. I just want to put that
+thought out into the ionosphere.
+MICHAEL WASHINGTON: And I will just say that that is something that we are continually
+looking at. And so this is just the beginning of the program. As technology evolves and our
+capabilities do as well, this will change.
+KATE WILLIAMS: I'm down with that. I just want to be first to say it. Thank you.
+KEN MIHALIK: Thank you, Director Williams. Director Rivera-Malpiede.
+ANGIE RIVERA-MALPIEDE: Thank you, Chair Mihalik. A couple of things. I really
+appreciate this presentation because I couldn't figure out for the life of me where the word live
+came. And the first thing that came in my mind was low income verification. And I thought, boy,
+that is like a red flag for me. That's the first thing.
+The second thing is the group that you put together I respect very highly. So I know that they
+really vetted this, so it makes me feel better. But I do think a lot of people are going to make that
+same assumption. So that's the first thing. The second thing is are you looking in the future of
+doing collaborations? For instance, the Mayor of Denver told me on Saturday night he wants to
+revisit the My Denver card to include the fare component to it. And so I wanted to know where
+you were on that.
+HEATHER MCKILLOP: So you want me to answer? So that goes along with our new system.
+So right now we do not have the capability to do that. And we've been in those-- it's been two
+years now we've been in those conversations of how we can do that. But the goal would not only
+be to accommodate that particular card. Example is a college. So you have a college card. All
+your information is tied up to that particular college ID card that you have for the college get you
+your food, program, everything else. Could also load your fares on there and things like that.
+
+So the idea is that you wouldn't be tied to a My Ride card or a mobile ticketing. You'd be tied to
+your account, like your Starbucks card that you can do mobile ticket and your gold card. You can
+pay with cash. You can do whatever you want. So that's the direction we're heading. We just do
+not have those capabilities right now. But we are trying to build that into what our model will
+look like in the future, and how far can we go with that.
+KEN MIHALIK: Thank you. Director Lewis?
+SHONTEL LEWIS: Thank you, Director. Thank you, Chair. Sorry. I wanted to tell you all thank
+you for this program because of course, I'm excited about it. If anyone knows me knows that this
+is something to be excited about. I did want to talk about the core values, particularly access
+community, inclusive, helpful, and eco-friendly. I think I may understand how those are defined
+or I may not understand how those are defined. And so it would be helpful to know how you all
+were working within those core values and those definitions.
+And I will underscore that I really respect the folks that you all have been working with in
+partnership to come to this decision. And lastly-- I see you're excited to respond-- and lastly, I
+am curious about the folks who aren't at the table. And so as we talk about language-- and
+Director Malpiede brings up language often-- we do we have interpretation at those meetings?
+Are we translating documents to make sure that from a cultural standpoint, if I'm Vietnamese,
+how does this all land on me on from a cultural aspect? That's all.
+MICHAEL WASHINGTON: Yeah. Thank you for the fake softball there. So one of the things
+I'll say is that, as it relates to language in particular, Kimberly and I are actually revamping our
+limited English proficiency plan, where we'll be redefining all of the language assistance tools
+that we need to provide to ensure that people have access to not just this program, but all of our
+services, for that matter. And you'll actually see that in the Title VI program update that I'm
+hoping to bring to you all in May.
+Also, as I think the-- I feel like I was doing double dips here for a second and forget what else I
+was going to say. I think you said-- core values. What I will do is actually send you the meeting
+notes that actually go into detail about how we arrived at those values and all that we considered,
+and some additional photographs that show the Board that were full of values that we extracted
+these five, I believe, from, or four. Yeah.
+SHONTEL LEWIS: Thank you.
+MICHAEL WASHINGTON: Yeah, five.
+DAVE GENOVA: We'll send them to the whole Board.
+KEN MIHALIK: OK. I don't see anybody else on this subject. So I thank you both for that
+update, or all three of you. Actually. Thank you, all three, for that update. And we are going to
+move on to other matters this evening. And yes, I know Director Menten had one from
+previously.
+
+NATALIE MENTEN: Yes. So I would like to-- Heather, you may need to stay where you are.
+I'm going to ask about Oracle and reporting, and especially in light of the BI recommendation
+earlier in the evening, Business Intelligence.
+With Oracle, historically we've bought a plan, waited till we were just barely-- sounded to me,
+what I heard in my head, a lot of labor to make the system work because we had held off on
+updating modules and all the things that some other companies may not hold off on doing. And
+then we approved a fairly substantial amount of money, several million dollars, which we have
+been implementing since last fall, late summer, last year? Somewhere in there.
+And this does play into financial transparency, and really, also, knowing that we as a Board
+made the right decision in approving Oracle, what are we going to get out of it? And with all of
+that, for me personally, financial reporting for both being able to generate more competitive
+bidding because vendors can see the things we're buying is a big plus for the agency.
+The reporting for the average citizen to know, OK, if I'm worried about how a card looks or
+something like that, compared to rubber service, and they see we're going to need to save $134
+million or adjust the budget, that financial transparency is really important to me. So I'm
+wondering, from the retreat you said, well, we really need to see what Oracle can do. When are
+we going to know?
+HEATHER MCKILLOP: So this is the time frame. This is what we've done so far. So we went
+live on April 1 with our new budget module, which is good. So that's a process of being able to
+develop our budgets not on spreadsheets, but in this module. We are currently in the
+requirements stage and getting a vendor on board to assist with workday. We made the selection,
+and so that will take care of our payroll and our HR Human Services performance planning type
+activities. That's scheduled to hopefully go live sometime early in 2020.
+In the meantime, we have been working on requirements gathering for the movement of all our
+financial information from the current on premise Oracle system to some type of cloud or
+Software As A Service Oracle-based system. Those requirement gathering is just started for that
+process. We have had the discussion of what the Board discussed at the retreat as far as seeing if
+we can include in those requirements the type of reporting that you've brought up in the past, and
+also the ability to do more ad hoc reporting in case we get special requests from people.
+We're not really able to do that at this time without going through our Business Intelligence
+team. And of course, that takes time for them to be able to reprioritize other things and be able to
+schedule that. So it will be part of that requirements gathering process. We're not expected to go
+live-- I need to check on that. But I don't think we're expected to do that until towards the end of
+2020, maybe early 2021.
+NATALIE MENTEN: OK. So on that last part, getting the end result on-- when you say the
+business reporting requirements, what exactly does that look like?
+HEATHER MCKILLOP: So what kind of reports do we want the system to generate on a regular
+basis so that we can publish them internally for our managers to use to manage their budgets on a
+
+regular basis, or that they can view electronically online, because right now they can't do that in
+Oracle. They have to have somebody piece all that information together for them. And then what
+do we want to have as outward facing documents that are available to the public on a regular
+basis.
+NATALIE MENTEN: And so again, you said toward the end of 2020?
+HEATHER MCKILLOP: Requirements gathering is starting and going on now. When it will
+actually be implemented is, I believe, at the end of 2020 or 2021. I don't have that exact date yet.
+I'd have to check on that.
+NATALIE MENTEN: OK. That seems like a really, really long time for a system to spend a lot
+of money on.
+HEATHER MCKILLOP: It's actually probably a really aggressive time based on what we did
+last time. But yeah, so we got the budget module up within three to six months. That's pretty
+impressive. We're taking them one at a time so that we implement it not all at one time like we
+did last time, but that we're phasing that process in.
+So the next one, and the next most critical one that we believe internally, is HR and payroll. And
+then it will be finance, accounting.
+NATALIE MENTEN: All right. Thank you.
+HEATHER MCKILLOP: But I can get you a more specific date on when we're anticipating all
+that. I'm just throwing that out there right now.
+NATALIE MENTEN: And this is all cloud subscription. But also, when we've got updates
+coming and coming, this is not going to all of a sudden be stale.
+HEATHER MCKILLOP: Absolutely. That's the reason we're moving to Software As A Service.
+It will be built in to the ongoing price.
+NATALIE MENTEN: OK. All right. Thank you
+HEATHER MCKILLOP: You're welcome.
+KEN MIHALIK: OK. Thank you. I don't see any other matters. And with that, our next meeting
+is May 7, and we will adjourn this meeting. Take a long five minutes.
+
+

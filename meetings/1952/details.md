@@ -1,0 +1,79 @@
+## I. Government Relations Committee
+
+Chaired by Claudia Folska
+
+### A. Call to Order
+
+Committee Chair Folska called the meeting to order at 5:30 p.m.
+
+Staff Present:               Bruce Abel, Rolf Asphaug, Rick Clarke, Jeff Cluphf, John Elias, Sherry Ellebracht, Kevin Flynn, David Genova, Terry Howerter, Austin Jenkins, Jim Maguire, Barbara McManus, Tara Miller, Vivian Morales, Paula Perdue, Scott Reed, Bill Sirois, Karen Stanley, Henry Stopplecamp, Greg Straight, John Tarbert, Pauletta Tonilas, Bill Van Meter, C. Scott Woodruff
+
+Others Present:              Jenifer Brandeberry, Michael Dino, Aaron Epsten, Tina Francone, Joni Goheen, Doug Gragg, Sherman Hamilton, Eugene Howard, Daryl Kirby, Brian Middleton, Laura Rinker, Roger Sherman, Joshua Solis, Joe Racogley, Joe Triplett, Ted Wenzlick
+
+### B. Updates
+
+Committee Chair Folska asked the representatives from CRL Associates, Brandeberry~McKenna, and Squire Patton Boggs to reflect on RTD’s position in the near past and what are the challenges and items of interest as we move forward.  She also asked for examples on how to build coalitions and partnering with other agencies.
+
+#### 1. Local Government Update - CRL Associates
+
+Roger Sherman from CRL Associates stated that the November elections will decide much of what to look towards in the near future.  He said the upcoming elections include State Governor, State Congress, County Commissioners, 3 municipal elections (Cherry Hills Village, Parker, and Superior), and 5 contested RTD Board seats.   The Denver City Council will have 6 open seats for the May, 2015 elections.   These results will bring change and will impact how CRL works with the local partners on RTD’s behalf.
+
+He noted that Amendment 64 will not see a tax increase this year.  After the November elections the conversation to discuss transportation funding may resume at a state or metro level.  In both cases, RTD needs to be at the table for the discussions.
+
+Roger Sherman said that there is a renewed focus on rubber tire service. He mentioned that the Denver City Council has made local transportation as top priority.  The Council is looking at transit options via partnering with RTD and/or the private sector.  He noted that Director James is involved in the Denver discussions.  Roger Sherman mentioned that he can see other municipalities looking into intra-city transit services options.
+
+RTD internal discussions, such as funding for unfunded portions of FasTracks and the fare policy discussion will also have an effect on the near future.
+
+Roger Sherman addressed the RTD Board internal relations as another aspect that affects the future work of RTD.  He recalled his time serving on the RTD Board in the early 90’s as a very difficult time.  He encouraged the Directors to head in the same direction with the same common goals avoiding self-inflicting wounds.  He said that solid RTD Board internal relations will maintain the confidence of the stakeholders as RTD keeps growing.
+
+Committee Chair Folska thanked Roger Sherman for his comments and his candor.
+
+Director Lubow asked if there were any conversations about the sales tax initiatives.  Roger Sherman said that not until after the November elections, but most likely until January, 2015.
+
+Regarding RTD Board internal relations, Director Lubow asked if dissent is considered a weakness.  Roger Sherman answered that dissent is good.  He noted, however, that there’s a problem when the newspaper articles focus on how the Board relates instead of the subject matter.
+
+Director Bagley thanked Roger Sherman for his comments regarding Board interaction.  Director Bagley said the issue shows up when talking to his constituents.  He reiterated his embarrassment by the Denver Post article from a few weeks back.  Director Solano asked which article Director Bagley referred to.  Committee Chair Folska said that there are many articles in the Denver Post and Director Solano may not have been present during the meeting the article was discussed.  Director Bagley suggested Director Solano consult with the Board Office Staff.
+
+Committee Chair Folska noted that the Denver City Council has made public transit one of their top priorities.  The Honorable Mary Beth Susman, Councilwoman for Denver’s District 5, lived for a week using alternative modes of transit and documented her experience.  Committee Chair Folska asked Roger Sherman if he was familiar with this story.  Roger Sherman answered that he was aware of her experience.  He also noted how her findings were misrepresented in the media.  He said he believed her point was that traffic congestion is the reality and will only grow, making alternative forms of transit a necessity.
+
+Director Lubow asked what the interaction between RTD and the Denver City Council would look like now that the Council has transit as a prime interest.  Roger Sherman said that the Council recognizes RTD does a great job with the resources available.  They are also looking into connecting Cherry Creek to downtown, all the employment hubs on Colorado Blvd, larger residential neighborhoods, etc.
+
+Director James thanked Roger Sherman for his comments.  Director James noted that the dialogue he has held with the editors of the Denver Business Journal and the Denver Post has been interesting.  The main topic has been alternative forms of transit, not what RTD provides as transportation.  He explained that the Denver City Council has an emphasis on the last mile in an effort to compliment what RTD offers.  He thanked Roger Sherman for helping the RTD Board focus on our mission instead of conflicts among board members.
+
+#### 2. State Legislative Update - Brandeberry~McKenna
+
+Jenifer Brandeberry from Brandeberry~McKenna noted that during election season their main task is proactive education to candidates and other parties.  She thanked the Directors who attended the Transportation Legislation Committee Review (TLRC) on August 5, 2014.  The Honorable Nancy Todd, TLRC Chair, requested a tour of the East Line and DIA.
+
+Jenifer Brandeberry said the dialogue on how to use the $200 million from Senate Bill 228 continues.  She also mentioned Brandeberry~McKenna’s work with Colorado Department of Transportation, the Metro Mayors Caucus, and the Chamber of Commerce, among others.  She said that after the November elections they will move forward with other projects.
+
+Committee Chair Folska asked if the agenda for the next TLRC meeting is available.  Jenifer Brandeberry replied that the agenda for the next meeting, scheduled for September 9, 2014 was not available.  She will forward the agenda to the Directors as soon as it is.  She said she didn’t anticipate RTD having a major role on the agenda.
+
+#### 3. Federal Update - Patton Boggs
+
+Michael Dino from Squire Patton Boggs told the Directors that Congress resumes next week.  The expectation is that Congress will continue to pass the resolutions for all the appropriations that have not been passed that are due by September 30.
+
+He said that there are 3 Federal funding opportunities of interest:
+
+- The TIGER Grant recipients will be announced this month.  RTD submitted in April for the Northwest Area Mobility Study II and the Central Rail Extension.  The prediction is that somebody in Colorado will receive a TIGER grant.  It is hard to say who would receive it.
+
+- Under the Ladders of Opportunity Grant Program RTD submitted the Colfax Transit Signal Priority in early August.
+
+- The Board submitted the Full Funding Grant Agreement for the SE Extension.  It is the largest sum asked from the Federal Government.  This one, he said, has the best chance of being funded. He noted that the Department of Transportation (DOT) keeps track of the money they distribute and has a track record of granting funds to RTD.
+
+He reminded the Board that the Transportation Reauthorization was extended until May 31, 2015.  There is a slim chance that it may be brought up for discussion during the “lame duck” session.
+
+Michael Dino said that Squire Patton Boggs is working with the Colorado House Delegation to send letters to the appropriate House Committees regarding Bus Rapid Transit Definition and Federal Transit Authority’s use of opening day metrics to evaluate project funding.  Letters have already been sent to the appropriate Senate Committees.  Funding has not been established and will depend on the results of the November elections.
+
+He said that the White House unveiled a Public Private Partnership (P3) initiative.  An Infrastructure Summit will be held on September 9th.  Phil Washington, RTD’s General Manager was invited to the event.
+
+Looking ahead at the Federal level, Mike Dino said there are tensions between the President and Congress, specifically the House of Representatives.  These tensions, mostly in the areas of immigration, climate change, and military, may have an effect on other areas, including transportation. There are 5 Senate seats for election in November: Colorado, Alaska, North Carolina, Louisiana, and Iowa.  If the Democrats win 4 of the 5, Vice President Biden becomes the deciding vote.
+
+Michael Dino stated that the future hinges on the November elections.  He also noted that further changes will come with the 2016 elections.  He said that RTD seems to be aligned with DOT’s purview.
+
+### C. Other Matters
+
+No other matters were presented.
+
+### E. Adjourn
+
+Committee Chair Folska adjourned to the FasTracks Monitoring Committee at 6:01 p.m.

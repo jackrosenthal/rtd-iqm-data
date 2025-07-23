@@ -1,0 +1,1732 @@
+2020-06-02
+Communications & Government Relations
+LYNN GUISSINGER: This is Lynn Guissinger. I'm chairing the Communications and
+Government Relations Committee. The committee will now come to order. We're convened as of
+6:19 PM MDT. I would respectfully ask everyone connected to the call to please mute your
+phones and set your ringers to silent.
+Under the current circumstances, I'll just go through a little of this quickly. Again, the official
+meetings of the Board of Directors are held remotely. During this time, the meetings are
+primarily audio recorded, and the audio recordings with the unofficial minutes of the meetings
+will be posted as soon as practical on the Board's website. You can visit rtd-denver.com and
+scroll to the bottom of the page to the link of the Board of Directors page.
+Same rules apply as before, Directors. If you would like to be acknowledged, please announce
+your name and wait for me to call you. And we'll go through the lineup tonight in alphabetical
+order after each update item to let everyone speak.
+Tonight we have no recommended actions. We have several updates. Our first one, we have a
+guest speaker tonight. If you remember several weeks ago, two or three weeks ago, Director
+Lubow and Ms. McManus sent us an article about two studies that were looking at the possible
+future course of COVID-19. That article, one of the lead authors on that study was Dr. Kristine
+Moore. And Dr. Moore is the Medical Director of the Center for Infectious Disease Research and
+Policy, or CIDRAP. The study that she and other scientists did was written up in The New York
+Times, CNN, USA Today, and we're very pleased to have her with us tonight.
+Dr. Moore formerly worked for the CDC. She's recognized as a national expert in the prevention
+and control of communicable diseases. And she has consulted for many years on pandemics and
+infectious diseases, including with first responders in New York City and elsewhere. She's
+written or co-authored over 60 reports in peer-review medical journals. And I'm lucky to call her
+a close friend. So she is joining us tonight. Dr. Moore, will you speak to us for a few minutes,
+and then we'll go through the list and see if people have some questions for you?
+DR. KRISTINE MOORE: I'd be happy to, Lynn. And thank you so much for giving me this
+opportunity. It's great to be here with all of you this evening.
+So as Lynn said, we did a-- really, it wasn't a modeling study or a formal study. It was simply an
+analysis of trying to look at what can we expect with this pandemic. Where are we going, and
+what does the future hold for us? And part of the problem, I think, as all of you know is that this
+is a new virus that we really have no previous experience with. There are a couple of other
+coronaviruses that have caused significant disease, and you've probably heard about those. One
+is MERS, the MERS virus, which has occurred mostly in the Middle East, and then the original
+SARS virus, which occurred in the early 2000s.
+
+Those viruses have a lot of epidemiologic differences, meaning the viruses are very different in
+how they present in humans compared to this virus. So we're trying to look at, well, what is a
+good model for possibly looking at this particular virus? And one of the best models that we
+have, just looking at past experience, is looking at pandemic influenza. And as Lynn said, I've
+done a lot of work with pandemic influenza preparedness over the years and have studied past
+pandemics pretty extensively.
+So, again, it's not a perfect comparison because the viruses are quite different. And actually, in a
+number of ways, this virus is more transmissible. It's a more difficult virus. It's more easily
+spread than influenza, but influenza is probably the best comparison that we have available to us.
+So a couple of similarities between these viruses are, first, both viruses-- the SARS-CoV-2,
+which is the virus that causes COVID, I'll just call it the COVID virus from here on out for
+simplicity-- but that virus and pandemic influenza viruses are both novel viral pathogens to
+which the global population has little or no pre-existing immunity. And as we saw very
+dramatically with this virus, they are capable of incredibly rapid worldwide spread and
+susceptibility.
+And, you know, we think about how global our world is now, but even back in the 1918, 1919
+flu pandemic, influenza spread around the world at that time in probably just a few months as
+well. So they're similar in that sense, that they're novel pathogens, very little pre-existing
+immunity, ability to spread rapidly.
+Secondly, these viruses are spread predominantly via the respiratory route. And both influenza
+and the COVID virus are spread by what we call large droplets. And that's where you hear-- I'm
+sure you've all heard and we all know about what CDC is saying-- you know, six feet. If you're
+six feet away from somebody that that's probably good. So those are large droplets, and that is
+the predominant mechanism of spread.
+And large droplets are droplets that come out of our mouths or noses with coughing, sneezing,
+and they usually only spread a few feet. And they also fall to the ground. Because they're larger
+and they're a bit heavier, they fall to the ground very quickly. So both of these viruses, that is the
+predominant mode of spread.
+However both of the viruses also have a component of what we call aerosol spread. And aerosol
+spread is somewhat different in the sense that it's smaller droplets. And these are droplets that
+can be released by talking, singing, simply by breathing. They're smaller, and they can float in
+the ear for 30 minutes to an hour. The studies vary in terms of the duration of time. But they can
+float in the air for a bit longer. And they can travel a little bit further away than the six feet. So
+that's another commonality between the COVID virus and influenza viruses.
+Another commonality is that for both viruses, asymptomatic transmission can occur. And that
+really complicates everything, because, you know, if you have a virus where people do not share
+or spread the virus until they're symptomatic, it's much more easy to curtail the spread of that
+virus. When you have a virus where people can transmit asymptomatically, obviously that
+complicates the picture, and I'm sure all of you are aware of this with the COVID virus.
+
+One of the things we have noted is that the COVID virus is actually quite a bit more likely to
+result from asymptomatic transmission, the spread is more likely to result that way, than with
+influenza virus, which is another concern with the COVID virus in particular. And then the third
+thing that we've seen repeatedly with influenza and now with this virus is that both viruses are
+capable of infecting millions of people and moving rapidly around the globe.
+So given those similarities-- granted, the viruses have different structure, they're innately
+different. But given those similarities, then what we did was we decided to just look at, what are
+some of the key lessons that we've learned from past influenza pandemics? And there have been
+a number of influenza pandemics that have occurred in the past. And since about mid, early
+1700s, there have been about eight major pandemics that have been recognized. A couple of
+those started in the winter and three in the spring and one in the summer and two in the fall. So
+they didn't have a clear seasonal pattern to them.
+But what was interesting when we looked at these was that seven of them had an early peak-you know, whenever they occurred-- that disappeared over the course of a few months. And
+that's over the course of a few months without significant human intervention, because obviously
+back in the day we didn't have vaccines, we didn't have treatments, we didn't have anything but
+the same mechanisms that we have now, which are the mitigation strategies of social distancing
+and lockdowns and those kinds of things.
+So seven of them had an early peak without intervention. And then subsequently, each of those
+had a second relatively substantial peak approximately six months after the first peak. And as I
+said, the onsets for these pandemics were not necessarily always in the spring, where that lull
+over those six months occurred in the summer, when we might expect to see less influenza. That
+lull seemed to occur regardless of when the pandemic had its initial start.
+So I think that that's a really important lesson here, that only one of those pandemics had a
+different course. And the outlier followed a normal-- started in the winter one year, had a second
+peak in the winter the following year. So I think that's a really important lesson, and that's one of
+the things that Lynn and I have talked a little bit about, is the potential for another peak. And if
+we look at the occurrence of this virus, that peak would be coming in the fall. And again, as in
+the past, that peak is regardless of human intervention, basically. That's just kind of the natural
+course of the way that the pandemic unfolded.
+So some of these pandemics also had smaller waves. Like, they had their initial wave and then
+the big peak six months later, and then a series of smaller waves over the course of roughly a
+two-year period. And I will say that none of these pandemics was really influenced by treatment
+or vaccination. Even in 2009-- that was the last influenza pandemic we had, and that was a
+relatively mild pandemic. But even there, the pandemic started in the spring, the vaccine came
+out late in the fall, and the vaccine came out after the big second wave of the pandemic. And
+really, the vaccine was only used pretty much in parts of North America and in Europe, and it
+really didn't have much of an impact on the course of the pandemic.
+So when we kind of look at that information and just-- OK, how do we translate that into what
+we're seeing now? So a couple of points that we made in this publication that we put together
+
+was that if we follow the same model-- now, there's a really big caveat there. And the caveat is,
+we may not follow a same model, because again, these viruses are different, and we really don't
+know-- nobody has the crystal ball to know what this virus is absolutely going to do.
+But given the comparison and kind of looking at what seems likely, we are really suggesting that
+this pandemic would go on for somewhere between 18 months and two years, assuming that a
+start at the beginning of 2020, this takes us through 2020 and at least into spring, summer of the
+following year, 2021.
+And part of the reason that these pandemics would stretch out like that, particularly in the
+absence of an effective vaccine, is it takes a while to build up herd immunity. And again, these
+are probably all things that you've heard so many times on the news. But herd immunity is the
+proportion of the population that needs to be essentially immune to the virus, or whatever
+pathogen you're talking about, in order for spread to go down.
+And most of the modeling and most of the data right now suggests that we need 60% to 70% of
+the population to be immune in order to reach that sort of critical threshold of herd immunity to
+halt the pandemic. And if we look at some of the studies that have been conducted to date that
+have looked at antibody-- seroprevalent studies is what we call them-- where they've looked at
+how many people in the community have had past infection, there have been some flaws in some
+of the studies that have been done.
+But in communities that have had pretty robust COVID outbreaks, we're looking at maybe 15%
+of the population has been immune. And again, it is very difficult to know for sure, because there
+are issues with the test. There are issues in terms of just looking at case data and how many cases
+we've had and where has the virus really gone. There are just a lot of unknowns with that.
+But if we assume that even in areas with relatively high rates of transmission, like in Italy, for
+example, or relatively high numbers of cases, we're looking at probably about 15 and maybe on
+the high side, 20% to 25% in those high-risk areas. Have we achieved that level of herd
+immunity? And so even after this big peak that we've seen in some of these places, we've got a
+long way to go to reach that 60%, 70% timeline. So that's a really important point, I think, that
+we need to note, that we need to get to that place.
+And then it's possible that we'll get a vaccine at some point. I mean, I think you all are aware of
+Operation Warp Speed by the federal government to try to get a vaccine developed by the end of
+2020. The Chinese are also looking at developing a vaccine by the end of 2020. We do have
+some very promising vaccines that have just entered clinical trials. I think 2020, by the end of
+2020, is very, very optimistic-- and honestly, probably somewhat unlikely. I think more realistic
+is sometime in 2021, and that is if everything goes well, according to plan, and we don't see
+some unexpected side effects or some problems or issues with the vaccine. So the course of the
+pandemic could be influenced by a vaccine, but I doubt if a vaccine will come soon enough to
+really have a huge impact on these initial waves.
+So what we came up with is that there's really sort of three scenarios. The first is that we don't
+see-- the first one is basically that we see that big-- a peak in the spring and then a bigger peak in
+
+the fall. The second possible scenario is that we just see repetitive smaller waves. And some
+modeling data suggests that this may be the pattern that we see. And those just kind of go on
+through the summer and then continuously over a one to two-year period, gradually diminishing
+in 2021. And those waves may be variable geographically, and they may also be dependent on
+what mitigation measures are in place if we go back to social distancing or staying at home
+orders or that kind of thing. So that's a second scenario, is kind of a series of smaller waves.
+And then the third scenario is that we've had our big wave and then we just see kind of a
+dwindling and kind of what we call a slow burn of ongoing transmission over the course of the
+next year or two. And that's the most optimistic pattern, because that's the lowest number of
+cases that we may see. So these are all speculations, and we don't really know where the virus is
+going to go. But that was sort of the message that we put out. Because part of our concern was
+when we wrote this report was that people were saying, OK, states are going to ease up their
+stay-at-home orders, and then everything is going to go back to normal and everything's going to
+be fine. And our point was to say, well, you know, we may be looking at a little longer tail on
+this whole situation than many people were anticipating.
+So I'll stop with that. And I'm happy to entertain any questions that you have about what I said or
+any other questions about COVID. I will do my best to try to answer them. So I'll turn it back to
+Lynn.
+LYNN GUISSINGER: Thanks so much, Kris. I think that here at RTD, we have a lot of ongoing
+decisions about safety of our employees and our riders and about predicting economic models.
+And so I think that the information is really helpful. I'm going to turn it over and call the Board
+alphabetically now and see if anyone has questions. Director Broom. Director Broom, you might
+be muted.
+BOB BROOM: I am muted.
+LYNN GUISSINGER: OK.
+BOB BROOM: I have no questions.
+LYNN GUISSINGER: Do you have a question?
+BOB BROOM: No.
+LYNN GUISSINGER: OK, Director Buzek.
+VINCE BUZEK: Thank you, Madam Chair. Thank you, Dr. Moore. It's fascinating and
+devastating at the same time. It sounds like we're a long way off from really being safe. But
+thanks for the update.
+DR. KRISTINE MOORE: You're welcome.
+LYNN GUISSINGER: Director Catlin.
+
+PEGGY CATLIN: Thank you. I appreciated the very informative presentation. Thank you.
+LYNN GUISSINGER: Director Cook.
+SHELLEY COOK: Yes. Thank you, Madam Chair. And thank you, Doctor, for being here. I
+think we're very lucky. Quickly, just trying to apply what you said to transit, I was going to see if
+you had any general recommendations for us. But then I had a question, too. So I'll start with
+that, and then see if you could also extend into what your general recommendations would be for
+us with regard to, for example, PPE purchases, distancing, ventilation, and that kind of thing,
+masks.
+But the one question is transfers. A lot of people complete their trips with not just one segment
+but two. And I read that the duration of exposure is an important piece of transmission. If that's
+true, does it have any implications for someone who's considering a transfer? I've read where one
+person, I think Sidney Lapp, said, I'm going to avoid that first track, even if it's a short one, so as
+to avoid or to try to minimize the total exposure. Does total exposure-- is that the problem? Or if
+I break it up into chunks that are less than 15 minutes, is that better? Thank you.
+DR. KRISTINE MOORE: That's a really good question. And so in order to answer that question,
+I think we need to think about the likelihood of exposure on any given part of that route. So for
+example, if somebody is on one bus for 15 minutes and then changes to another bus for 15
+minutes, that's a whole different-- well, I guess we can look at it two ways.
+So for the person-- say if I'm the person who wants to transfer and I'm going to go from bus A to
+bus B, and I'm trying to minimize my risk, it's probably better for me to move around a bit,
+because if I'm with one group-- and again, it's a little bit of playing Russian roulette. You don't
+know if there's a person on that bus who's infected. We don't have that information because, as I
+said, such a high proportion-- one of the things that's so unique about this virus is the very, very
+high proportion of people who can be either completely asymptomatic for the duration of their
+illness or who are capable of spreading the virus a couple days before they become ill.
+So if you have a smaller increment of time and I'm trying to protect myself, I would probably
+want to move from bus to bus to bus to sort of minimize-- and I'm just making this up, I mean,
+honestly, I don't know if there's any recommendations out there-- but just to minimize my chance
+of coming into contact for a longer period of time with somebody who is infected. Because
+you're absolutely right, the duration of exposure-- and again, we're still sorting out this
+information. And so we can't really offer absolutes. But there's pretty clear evidence that duration
+of exposure is a very important factor in the likelihood of acquiring the infection.
+So we see that obviously people who live in the same household have a greater likelihood of
+acquiring infection from the other people that they live with. And also, there have been a couple
+of reports that have come out pretty recently trying to quantify that duration of exposure. And
+CDC does look at that 15-minute limit.
+So if you pass somebody and you're walking and you're outdoors and you're on a bike path and
+you pass them, your likelihood of getting a significant enough of an infectious dose is really
+
+minimal. I will just honestly say, I think that's unlikely. If you're sitting in a closed space,
+however, the likelihood goes up. And the longer you're in that closed space with somebody who's
+releasing the virus, the greater likelihood that you are going to become infected.
+So that's one piece, is limiting time. But the other piece is also limiting your number of contacts,
+all total. So you can also look at it kind of like, well, maybe you don't want too many exposures.
+But again, I think my view would be if the exposures are for shorter duration, that's probably
+better. There's some evidence coming out really just recently-- I just read something today about
+superspreaders and superspreading events in particular, that when you bring crowds of people
+together, that's a big problem-- like, weddings or funerals or big social gatherings or you have
+people in very closed spaces and tightly crammed in, like in a bar or nightclub, those seem to be- there was a study just out of Hong Kong that I think was just pre-released today that looked at
+those superspreader events as really some of the biggest likely sources of exposure. So I don't
+know if that answers your question. I hope that that kind of gets at some of it.
+SHELLEY COOK: Yes, it does, in terms of our transit signing. Thank you very much. And then
+do you have any general recommendations? Thank you.
+DR. KRISTINE MOORE: Well, Lynn and I did talk a little bit about that. And I think that you
+guys are already thinking about what your options are. I mean, when you look at what your
+options are, obviously you want to create the safest possible environment that you can for your
+riders, and that's really critical. On the other hand, you probably can't get that down to zero. I
+mean, I think as long as the virus is out there, there is the possibility of some level of
+transmission. So I think we have to look at-- we have to be practical or pragmatic and do what
+can be done at a cost that's relatively reasonable.
+So I was reading an article the other day, looking at ventilation. And some of their
+recommendations were-- you know, any way that you can improve ventilation is good, and not
+recirculating air. So I don't know if your buses recirculate air or have that option. But I would
+say, if air recirculation is going on, that is not good, because that allows the virus to be somewhat
+concentrated.
+So improving ventilation by access to outdoor air, any way that you can do that, I think that's a
+really helpful thing. And I don't know what your rules are around open windows or anything like
+that, but not recirculating air and improving ventilation in any way that you can. I think that
+that's kind of what we call an engineering control that can be very, very helpful and actually can
+have a pretty significant impact. So you have that option, to change the environment.
+Another option you have is to minimize the density of people riding the buses that are using the
+transit system. And I think that's a really also very, very critical-- as I was saying just about these
+superspreader events-- I mean, avoiding overcrowding is a second step that is really, really
+important. And ideally, you want people-- you know, that six feet, while it's not a magic-- you
+know, six feet, one inch is good, and five feet, nine isn't good-- you know, if you can kind of
+keep things spread out a little bit and give people some space between-- especially for those large
+droplets that aren't going to float very far. So that second thing is just minimizing the number of
+people and avoiding overcrowding.
+
+And then the third thing is to require mask use, or strongly encourage-- I mean, I think getting
+into the issue of requiring is very difficult because then who enforces it and how do you do that?
+And I think you're already doing this-- you know, encouraging masks. And a number of the
+communities like Boulder and other places require masks. So having people follow those rules
+and really encouraging mask use. I mean, masks are not a panacea. It's not going to prevent
+transmission, particularly some of the cloth masks that people are wearing. But it will have an
+impact on transmission. And again, if you can do a little impact here, a little impact there, you
+can try to curtail any kind of spread within the transit system. So I think that's not an
+unreasonable suggestion.
+And then the last thin and Lynn and I were talking about this a little bit earlier I don't think-- and
+the CDC says and other sources have said that transmission from surfaces is not a big source of
+transmission. And that's probably true. But it probably contributes some. And so, you know, if
+you can offer hand sanitizer-- I mean, obviously cleaning your equipment, cleaning the buses
+daily is really critical. And then if you could offer hand sanitizer when people come in and really
+encourage them to use it, if people clean their hands, at least that will keep some of the virus off
+of the surfaces. So even if that's not a big factor, again, it's something that you have a little bit of
+control over.
+So those are-- I mean, I really think that those are your options. And I think a combination of
+those or all of those is probably the best thing that you can do to ensure safety, or minimize the
+likelihood of transmission. I don't know if there's anything else you can think of, or do you have
+any specific questions about anything else?
+LYNN GUISSINGER: I'm just going to move this along, but that's great. Director Folska, did
+you have any questions?
+CLAUDIA FOLSKA: I do. I do. Thank you very much, Chair. This was such a wonderful
+presentation. I really appreciate it. I think it's very helpful for us to get facts and then address
+them. And one of the things that's been going around in the news and among lots of social
+groups, social media, that this virus is a man-made virus from China. And I wonder if you could
+talk about that. Discuss how you know if it is or is not a man-made virus.
+DR. KRISTINE MOORE: Yeah. And that is a good question, and that has come up a lot. So the
+short answer is, no, it's not a man-made virus from China, and there's really pretty good evidence
+for that. And the evidence is in really looking at the genetic tree. The whole genome has been
+sequenced, and you can really look at this virus and compare it to viruses that occur in nature.
+So I know that that's been something that has come out, that is really a big, big thought, that this
+was actually an engineered virus. But the truth is that there are probably hundreds of
+coronaviruses-- this particular type of virus-- that exists in nature. And the reservoir-- and
+probably most of you have heard this, but the most common reservoir for coronavirus viruses is
+bats. And bats do not become ill with coronaviruses, but they can carry many, many different
+types of coronaviruses. And these have been studied very extensively in China and elsewhere.
+
+So there are viruses that have been collected from the bat reservoir and compared to this virus.
+And there's really pretty good evidence that this virus came from a bat reservoir. Now, the
+question is, how did it enter the human reservoir from the bat reservoir? And that isn't really
+clear. It could be that there's an intermediary host, and we see that with some of the other viruses.
+And I just will say also, when you think of some of these really highly pathogenic viruses-Ebola, Nipah Virus-- there are a number of these viruses that are transmitted by bats.
+So this really probably came out of the bat reservoir. And where this whole thing started, with
+the virus coming out of a lab in China, is that there is a lab in Wuhan that does do research on bat
+coronaviruses. That's part of their work, and they look at the human-animal interface and trying
+to identify these viruses and look at their pathogenicity. So there is some work that's been done
+in Wuhan with coronaviruses from the bat reservoir.
+But assuming that that lab has been transparent, they've shared the isolates that they've had, and
+they've shared all the information that they have on the viruses that they've collected, and there's
+no match. And so I think it's extremely, extremely unlikely that this was man-made. And it's very
+unlikely that it even was accidentally released from the lab in Wuhan, and it's much more likely
+that it came to the human reservoir either from direct contact between humans and bats or
+through an intermediary animal host. And there's really pretty good evidence for that.
+[INTERPOSING VOICES]
+CLAUDIA FOLSKA: Can I have one more question?
+LYNN GUISSINGER: Oh, boy. Let me come back to you.
+[INTERPOSING VOICES]
+LYNN GUISSINGER: OK, Director Lewis.
+SHONTEL LEWIS: Director Folska can have my time.
+LYNN GUISSINGER: OK, I'll come back to Director Folska. I want to just run through the crew
+here. Director Lubow?
+JUDY LUBOW: Yes. Thank you very much. I was wondering, given that there is expected to be
+a second peak, there's a probability that that might happen, are people envisioning things like
+New York all over again or Italy all over again, where it overwhelms the system and there has to
+be lockdowns, et cetera? Is that a possibility, or what is thought will happen?
+DR. KRISTINE MOORE: Yeah. I mean, I think that certainly is a possibility. And again, I
+certainly don't want to raise fear in people and create concern or anxiety. So there is a possibility
+of a second peak. I think that's the important point.
+But I think part of the good news is that when this happened in New York, the virus was there, it
+was circulating, it took a while for the virus to take hold and for us to have the markers to kind of
+
+say, oh, wow, we have a problem. I mean, it took longer because it came out of the blue and
+people weren't expecting it.
+I think one of the things now is that we are really much more tuned in to looking at even slight
+increases in case numbers. There's also systems that are called syndromic surveillance that are
+not-- surveillance, I mean in the public health sense of the word, where there's surveillance, for
+example, for influenza-like illness, that a number of clinics throughout the country report
+illnesses similar to influenza, similar respiratory diseases to this, to the CDC. And you can look
+at what we call syndromic surveillance and try to see trends before they're apparent, before
+they're actually picked up. That will help alert people.
+And then the other thing is now, anybody who comes in with any kind of respiratory illness over
+the next year or so or whenever is going to be tested right away for COVID. So we're going to be
+much more on top of things. And I think what will happen is that if a second peak starts to occur,
+obviously if we did absolutely nothing, that peak might become quite high. But now we know
+much earlier, I think public health agencies will take a much more aggressive stance, will
+institute greater social distancing much earlier. We won't let things get to that place.
+So I think even if there is a peak in the fall, at least I'm optimistic that our public health system,
+our government officials will be much more on top of it than they were when this just snuck up
+on everybody and nobody was really expecting it. So hopefully that would damp it down. But
+again, it might require reinstituting stay-at-home measures or other social distancing measures in
+order to flatten the curve, so to speak.
+LYNN GUISSINGER: Great, thanks. Director Menten?
+NATALIE MENTEN: No questions.
+LYNN GUISSINGER: Director Mihalik?
+KEN MIHALIK: No. Just a thank you for this presentation and your time this evening.
+LYNN GUISSINGER: Director Tisdale.
+DOUG TISDALE: Thank you very much, Madam Chair. Dr. Moore, thank you for your
+presentation. I think that's terrific. And you may have already answered this to some extent in the
+response you gave to Director Folska's question, because I was wondering if prior pandemics
+occurred-- and without the benefit of any significant human intervention they had a second and
+even third waves, and it appears as though you're saying that we're likely to repeat the same
+cycle-- then the question I have is, what is the benefit of human intervention? Setting aside, of
+course, the creation of a vaccine.
+DR. KRISTINE MOORE: Yeah. Yeah, I think the important point is that, like I said, I think
+we'll be much better on top of it. And I won't say that there was no human intervention. If you
+look back at the 1918 pandemic, for example, there was a lot of social distancing that went on. I
+
+think schools were closed, a lot of events were closed, sporting events were closed, people were
+wearing masks. There were things that happened, and even in 1918, to try to limit the spread.
+So here now we have the benefit of testing. We have the benefit of surveillance systems much
+better in place. We have the benefit of information sharing. So I do think if we start to see an
+increase, again, in the fall or whenever that might occur, I think our elected officials are going to
+be much-- and our public health officials are going to be much more willing to say, OK, we're
+starting to see things climb up, we're getting more admissions, we need to take the social
+distancing actions again to bring it back down.
+And that's a dance that could go on for a while. Because again, as I said, we're trying to get to
+that 70% herd immunity. So, you know, you get cases, but you don't want to overwhelm the
+health care system. You want to limit the number of deaths. So you increase your social
+distancing or your mitigation measures. And then as things go down, you ease them up like we're
+doing right now. I mean, we could go through several cycles of that.
+And I do think those cycles-- I mean, there's pretty good evidence that the social distancing that
+has happened has had an impact. And whether it's voluntary, people doing it voluntary or people
+doing it under a stay-at-home order-- it probably doesn't matter as long as people are engaging in
+social distancing that that's the most important thing.
+I think one of the things that's going to be a big issue in the fall potentially is schools. I mean, if
+we do start to see increases, what are we going to do in education? And I think that's a big
+concern. But I do think human intervention-- and when I meant human invention, I meant really
+in the absence of a vaccine or treatment. Does that answer your question?
+DOUG TISDALE: Thank you. Yes, it does. Thank you very much.
+LYNN GUISSINGER: Director Walker.
+JEFF WALKER: Thanks. I just want to say thanks for the presentation, a ton of information
+there, and all of it helpful to me. That's it.
+LYNN GUISSINGER: Great. Director Whitmore?
+TROY WHITMORE: Thank you, Dr. Moore and Lynn, for your connection. I appreciate the
+presentation. Nothing more for me.
+LYNN GUISSINGER: Dr. Williams?
+KATE WILLIAMS: Thank you, Madam Chair. Dr. Moore, I'm just wondering what your take is
+on antibody testing.
+DR. KRISTINE MOORE: That's a complicated-- that's a very complicated issue, I think. And I
+don't know how much time you have or how much you want to talk about it. I'll try to be really
+
+brief. Antibody testing certainly has a role. It's very important, and we do that for a lot of other
+diseases.
+The problem with antibody testing-- first of all, there's been a whole lot of tests just kind of
+flooding the market, and some of them the quality is very poor. The FDA kind of loosened a lot
+of its normal regulations and normal requirements for emergency use authorization, is what we
+call it. So there's a lot of tests out there that really aren't very good. That's one thing.
+And the other big thing-- in terms of the sensitivity and the specificity, just the performance of
+the test isn't good. The second thing is, the performance of the test is dependent upon the
+prevalence of infection in the population. So even if you have a really good test, if the
+prevalence, meaning the number of people with antibody in the population is low, your rate of
+false positives goes up. And that's just a function of the test. It's a combination of prevalence and
+performance of the test.
+So if the false positive rate goes up, you get an antibody test and it's positive, you don't really
+know how to interpret that in a low-risk population. Now, if you're testing somebody who's very
+high risk-- let's say they had symptoms consistent with COVID three weeks ago and they've
+recovered-- their likelihood of having had an infection is high. And so the test is going to
+perform better in that situation.
+But if people are talking about using antibody testing either for health care workers to go back to
+work or for anybody to go back to work, you really don't know how to interpret that test. Is that
+person protected? And the other thing that's a big concern, particularly in the environment of
+health care workers, is we don't know if an antibody test means that they're protected, because
+we don't know enough about the immunology of this virus and the human immune response.
+So even if somebody has antibody, we don't know if that's protective antibody. So we don't know
+if that person is at risk of getting infected again, even if they truly had an infection. Or we don't
+know how long that antibody persists. So there's just a lot of unknowns right now.
+So right now I think antibody testing should be reserved for very specific situations, and
+probably definitely not for work sites, definitely not for schools. It really needs to be used very
+judiciously. And I would not recommend it in a lot of different settings. I don't know if that's
+helpful to you, if that's what you're looking for.
+KATE WILLIAMS: Super. That was great. Thank you very much, and thank you for taking the
+time to come in and help us make our transit system better.
+LYNN GUISSINGER: Thank you. And Chair Malpiede, do you have any questions?
+ANGIE RIVERA-MALPIEDE: Thank you, Dr. Moore. Boy, it's sobering information for sure. I
+just would like to say thank you for coming and spending your time and your presentation. It was
+really invaluable, and I learned so much. So just thank you.
+
+LYNN GUISSINGER: All right. We're running over. Dr. Folska-- Director Folska, did you have
+another quick question you wanted to sneak in here?
+CLAUDIA FOLSKA: You know what, I did, but it was asked and answered. And it was about
+the antibodies. So Dr. Moore, thank you so much for your time. I really appreciate it. That's all,
+Chair.
+LYNN GUISSINGER: Yeah. This is hugely helpful. I appreciate you coming. It sounds like
+everybody appreciates it. I think it would be great to open this up to staff, but, Kris, if I may ask
+you if our staff have some questions as we move forward, could we get back in touch?
+DR. KRISTINE MOORE: Yeah, absolutely. If any of you have questions or anything-- and if I
+don't know the information, I can certainly try to find it for you. And I'm happy to be a resource
+in any way that I can. I appreciate what you all are doing and really appreciate your work. So
+happy to help in any way I can.
+LYNN GUISSINGER: Well, thank you very much. It is sobering to think about the future, but I
+think it really helps us in our planning as we go ahead. And it also helps us-- a lot of what we've
+been doing is focusing on cleaning our buses and avoiding overcrowding and that they're able to
+wear a mask. So thanks so much for doing this.
+DR. KRISTINE MOORE: My pleasure. My pleasure, Lynn.
+LYNN GUISSINGER: Thank you.
+DR. KRISTINE MOORE: Take care, everybody.
+LYNN GUISSINGER: Thanks.
+DR. KRISTINE MOORE: OK. I'm going to sign off.
+LYNN GUISSINGER: Thank you.
+DR. KRISTINE MOORE: Bye.
+LYNN GUISSINGER: Our next report is our Communications Update. Pauletta Tonilas, do you
+have an update for us?
+PAULETTA TONILAS: Yes. Thank you so much, Madam Chair. Appreciate that, and really
+very fascinating to hear Dr. Moore. Really great information for all of us. You have a
+presentation in your packet related to much of what the communications department has been
+achieving and where we're going from here. So I won't go through all the slides.
+There are just a couple of points that I would like to make. Rounding up the information from
+our round of telephone town hall meetings, through the 16 telephone town halls that we had, we
+had over 17,000 participants. One of those meetings was a Spanish-speaking telephone town
+
+hall. And for the first time with that particular town hall meeting, we livestreamed it through
+Facebook Live. And we had about 90 people who viewed it from Facebook Live, altogether 400
+participants on the Spanish-speaking telephone town hall. And 90 of those through Facebook
+Live. We wanted to try it out. It worked really well. So in future telephone town halls, we are
+going to look to use that tool. And that's another way for us to engage with people in a way that's
+convenient for them.
+I also just wanted to touch on the online COVID-19 survey of May 20. I did send you the results
+of our survey that we held in early May. And just a couple of comments that I would make about
+that is we had pretty good participation, almost 2,700 people. One of the things we learned was
+that many people who reported that they had ridden RTD in the past 30 days before the survey
+used it to commute to and from work-- I think as we would expect.
+When compared with some other activities like visiting family and friends, going to the grocery
+store, pharmacy, exercising outside, people said that they felt less safe riding RTD than those
+other activities. That is good information. One of the most helpful things we heard, though, is
+what it is from people that will make them feel safer riding RTD. And Dr. Moore mentioned
+some of these things just previously. And a lot of it we heard from the telephone town hall
+meetings and also through our customer care center. And it's things like making sure people are
+wearing protective equipment, masks and face coverings, that we're cleaning and sanitizing our
+vehicles, that we are implementing social distancing across our system and that we're addressing
+the homeless issue that we've had on our system.
+Things outside of RTD that people want to see is a drop in new COVID cases, also a vaccine and
+how more widespread testing is able to happen. And this has really been important for us
+because the results that we got and the feedback through the online survey is informing our
+whole pandemic recovery plan as an agency. And it also is helping us with our communications
+plan as we move forward.
+On May 21, I sent the Board our document, our communications plan, Let's Get Our Region
+Moving Again. And we won't go through that. But much of what we have heard from the public
+and from professionals is informing our communications plan as we move forward. This plan is
+really devised in three different campaign phases-- the first one being, "We're All In This
+Together," and this being more of a way to connect with people through people and to show
+what we're doing as an agency to help give people and instill that confidence for people to want
+to hop back on board transit.
+And we were going to start launching that campaign with that first phase this week. However
+with everything that's going on with the protests and just the emotions and everybody being
+really focused on other things, we didn't think it was a good time to start that. So we're going to
+be pushing off our launch to this.
+The cornerstone of each of these phases of our communications plan is going to be a video. And
+we've already produced the video. We've listened, we've heard the people, and we put together
+the video that I will send the Board a link so that you can watch the video prior to us launching
+it, of course. And so this is really more kind of how we help people to all understand, we know
+
+what their concerns are. We have concerns, too. We're all in this together. And it's really more of
+a hopeful message.
+And so you'll be getting that in the next day or so so that you can see the video and how this
+messaging that we've put together has come together in that way. There's also some bus
+exteriors, a light rail rap, other forms of messaging that we have planned through social media
+and through pushing out to our partners to share information through their channels. And so
+you'll be able to see that as well. That is really just high-level touchpoints that I wanted to make
+sure we mentioned to the Board. And Madam Chair, I'm happy to answer any questions.
+LYNN GUISSINGER: Great. Thank you so much. We'll run through the alphabet again. Let's do
+it backwards. Chair Malpiede.
+ANGIE RIVERA-MALPIEDE: I have nothing. Thank you.
+LYNN GUISSINGER: Director Williams.
+KATE WILLIAMS: No, I don't either. Thank you, Pauletta, for that update. And I appreciate the
+materials that were in the packet.
+LYNN GUISSINGER: Director Whitmore.
+TROY WHITMORE: Thank you, Pauletta. A very comprehensive report, so I have no questions.
+LYNN GUISSINGER: Director Walker.
+JEFF WALKER: Thank you for the update. No questions or comments.
+LYNN GUISSINGER: Director Tisdale.
+DOUG TISDALE: Thank you very much for the report. And thank you for all the very hard
+work you're doing during these trying times. No questions.
+LYNN GUISSINGER: Director Mihalik.
+KEN MIHALIK: No questions. Thank you, Pauletta, for all the creativity and staying current on
+all the information.
+LYNN GUISSINGER: Director Menten.
+NATALIE MENTEN: No questions.
+LYNN GUISSINGER: Director Lubow.
+JUDY LUBOW: No questions. Thank you so much, Pauletta, and your staff for doing all that
+work.
+
+LYNN GUISSINGER: Director Lewis. Director Lewis, are you muted? We'll come back.
+Director Folska?
+CLAUDIA FOLSKA: Yes. Thank you, Chair. Pauletta, thank you so much for that information.
+It's really great. Your team is working long hours-- it's obvious.
+But I did have a question. And it kind of came up last month and I forgot to mention it or what
+have you. But different local jurisdictions have different rules about young people wearing
+masks. In some places, they want two-year-olds to wear masks. In some places, they're five or
+nine or seven. OK. So they're moving on a bus through jurisdictions-- I forget what age we have
+that we encourage people of a certain age to wear a mask. What do we do for people that are
+younger? Do you know what I'm talking about?
+PAULETTA TONILAS: Yes. Thank you so much, Director Folska. This has been one of the
+challenges, I think, because we have different orders and protocols that have been supported by
+the various jurisdictions that make up our region, which is vast. We have 40 cities and 8
+counties, and they're not all necessarily aligned with their orders. So that has been one of the
+challenges, frankly, for our whole agency.
+As it relates to young people, we have really not encountered much of an issue with this as far as
+I'm aware. Our operators obviously are not enforcers, and they're not enforcing it. We have told
+people we're requiring masks. We have our operators wearing masks. But as it relates to
+children, we have not specifically communicated demands as it relates to age groups.
+And we're really, again, trying to really ask people to be our partners in safety and to use good
+judgment. And those who have young children with them, our hope is that they would have some
+type of a mask on kids that I would just make it up and say, you know, six and up. And so that's
+just a safety measure that I would say is important for us to think about. And I don't know if
+Mike Meader is on the line, but Mike may have some insights that he can weigh in on with that
+as well.
+PAUL BALLARD: This is Paul Ballard, General Manager speaking.
+LYNN GUISSINGER: Go ahead, Mr. Ballard.
+PAUL BALLARD: Yeah. Mike Meader is not on the call tonight. He's off for a couple of days.
+But we have not issued any guidance because of the changes from jurisdiction to jurisdiction. We
+pretty much rely on the parents to protect their children and handle masks for children. We
+encourage everyone to wear a mask. And if you're in a jurisdiction that requires it, then you
+should do it. We have announcements on the buses and trains that indicate you're required to
+wear a mask. But for children, it's pretty much up to the parents.
+CLAUDIA FOLSKA: So if I may, Pauletta, maybe then that's something to articulate to our
+customers and our drivers and really, frankly, all our constituents what our position is on that.
+That's all. Thank you very much.
+
+PAULETTA TONILAS: Thank you.
+LYNN GUISSINGER: Thank you. Let's see. Director Cook.
+SHELLEY COOK: Nothing. Thank you, Pauletta.
+LYNN GUISSINGER: Director Catlin.
+PEGGY CATLIN: Thank you, Madam Chair. I appreciate the presentation very much. Good
+work by you and your team. But I guess I would just caution that we make sure that all of these
+efforts give us the best bang for our buck in these times of pretty great financial challenges. And
+I'm sure you're looking at that, but I just want to make sure that the perception is that we're doing
+everything we can to be very mindful of the costs of some of these endeavors. Thank you.
+PAULETTA TONILAS: Yes. If I may, Madam Chair, just real quickly-LYNN GUISSINGER: Sure. go ahead.
+PAULETTA TONILAS: --that is really the way that we've approached pretty much everything
+we do, period. But especially since COVID and with us tightening our belts, we have done all of
+our work in-house. All of our work has been done in-house. I'm so proud of our team. We have
+used a videographer who is on our bench, our contract. We have some videographers that we can
+use if necessary, and we wanted this video to be impactful. And so we did use them for that
+resource. But believe me, cost-effectiveness is like our number one rule. So thank you for that.
+LYNN GUISSINGER: Thank you. Director Buzek?
+VINCE BUZEK: Yeah, no questions. Thank you, Pauletta, for all that you and your team are
+doing. Thanks a lot.
+LYNN GUISSINGER: And Director Broom.
+BOB BROOM: Thank you. No questions.
+LYNN GUISSINGER: All right. Thank you, Pauletta, from me too. It's very helpful information.
+I thought the survey was really interesting and all your other work. So thanks. All right.
+PAULETTA TONILAS: Thank you.
+LYNN GUISSINGER: We are going to go to our updates, our local, state, and federal updates.
+And just as a reminder, we have very good reports from all of our public affairs crew. And so we
+just asked them to update in the last week or so what's going on. There's a lot going on, at least at
+the state and federal levels. But we'll start with you, Roger Sherman. Do you have an update?
+ROGER SHERMAN: I don't really have anything since I submitted the written report. Certainly
+I think the only local elected officials I've spoken to was really about the stopping of service over
+
+the last couple of days, just wondering what the next steps were, just inquiries. But I think so
+many of our local partners have their hands full right now that they're not meeting in person just
+as we are, and I'm not seeing them in person either. So nothing really to report.
+LYNN GUISSINGER: OK. Thanks very much. State update. Brandeberry McKenna. Is that you,
+Jenifer?
+JENIFER BRANDEBERRY: Yes. Hi, it's Jenifer Brandeberry from Brandeberry McKenna. I
+think we put together a pretty comprehensive report. But first of all, it's great to be back and
+really appreciate all the work that Julie and Megan and Lynn and Pauletta and Sherry and folks
+did. The first part, we're really kind of going into a second session, even though it's still
+considered the one session. And I think as you are all very much involved and aware, Senate Bill
+151 occupied a lot of our time in the Capitol from January till March 15, when they took a break.
+And now, as you know, we've gone back into session. We started the Tuesday after Memorial
+Day with the goal of kind of working through the weekend and hoping to get out in a condensed
+period of time given COVID, given the budget crisis, et cetera. Of course, nothing is ever very
+easy this year in 2020, it seems. And so they came back on Tuesday-- you know, Thursday
+evening. And then all of the protesting began, and they shut down the Capitol for Friday and
+Saturday of last week. And now we're back in. I think folks are trying to get out, so folks can
+participate in the evenings for some of the more sponsored events.
+But 151, when they came back on that Tuesday morning, it was talked about in that interim,
+given the fiscal note associated with 151, the likelihood that that bill would go away, I think
+there were some concerns from various members in both the House and Senate, the way it was
+structured beyond just the fiscal impact. And we were fortunate enough to talk to leadership
+along the way. And I think it was clear that 151 was going to go down. But the desire to have
+some additional oversight and participation from the General Assembly and the administration
+had not gone away.
+And really, where we ended up was the potential for a late bill that would have been statutory in
+terms of requiring an oversight committee. And due to the hard work of Director Malpiede and
+Guissinger and others on the staff and a lot of conversation, I think where we have gotten to is an
+agreement among the parties to work towards an oversight committee without legislation. So I
+think we're moving very much in the right direction on that subject.
+And again, the beginning of the session was really all pretty much focused on 151. Now we're in
+the second half. There are a handful of bills that are being introduced. We mentioned some in our
+report. Some have actually been introduced today. They're going to be heard in committees.
+Things are moving very, very quickly. Really, shout out to Sherry as we send drafts of those
+bills. She's getting them out to staff to do an evaluation on impact, and as we get more
+amendments to those. We're continuing to participate in stakeholder meetings with leadership
+both in the House and the Senate on these later bills. And Julie can go over some of those if you
+want her to, or you can just read them in our report.
+
+But know that we are getting feedback from the district. We're incorporating that feedback in
+these stakeholder meetings and I think making some traction on some of the nuances that had
+some concerns for the district. We're not there yet. I think also of note is, you know, they wanted
+to get out and adjourn by June 12. I think given the current dynamic and the loss of those couple
+of days last weekend, that may not happen. The priority right now is in the House getting
+through the budget.
+Tomorrow they are hoping to pass the budget on the 3rd and move it over to the Senate. The
+Senate has been dealing with killing off the 350 bills that were remaining from the beginning of
+the session. And then they'll start working on the budget next week. So I think that you see each
+chamber kind of getting rid of bills from the earlier part of the session now and moving the
+budget through. But now there's going to be a handful of late bills that are COVID related. Some
+may have some impacts to the district that we'll continue to look at. And then that may take
+another week.
+So even though I think they're still shooting for June 12, 13, 14, I wouldn't be surprised if it went
+on for another week. Julie, do you want to do a quick highlight of the late bill, the couple that
+may have some impact to the district?
+JULIE MCKENNA: Real quickly, like Jenifer mentioned, we did mention a couple of these in
+the reports. But there is a whistleblower bill that, for public and private entities, would provide
+protections for employees reporting working conditions that would put workers at risk of
+contracting the virus. It has not been introduced. RTD did provide some comments. And the bill,
+we just got a new draft today which requires an exhaustion of administrative remedies before
+going to court as the biggest change in that draft. And we will continue to work with the
+sponsors to make sure that it's written in a way that is operational for the district.
+Today we participated in a stakeholder call with the majority leader on paid sick leave. The
+majority leader did acknowledge the receipt of RTD's comments. One was a clarification of
+carryover hours and how that would work. And it will be capped at the 48 hours, as most entities
+were requesting. That bill is up in committee tomorrow upon adjournment in state affairs. And
+then in terms of documentation, which was another issue for the district, it will be up to the
+employer to determine how an employee would request that paid sick leave.
+And then lastly, worker's compensation proposal, which would change the burden of proof and
+presumption standard for workers to request benefits for COVID-related health impacts, was just
+introduced today, Senate Bill 216. And it specifically calls out this presumption is for essential
+workers, and RTD is specifically mentioned in this bill as calling out essential workforce. So this
+is something that we will be watching along the way, too. And I'm happy to answer any other
+questions.
+LYNN GUISSINGER: Great. That's a great report. I think that the best thing to do, since we're
+running through everyone, is to go ahead and do our federal update-- if everybody will just jot
+down your questions. And then everybody from Brandeberry McKenna and CRL and Squire
+Patton Boggs will still be available to answer questions. And we do have the accountability
+committee audit as a separate item. It's sort of the follow up of SB151 that we'll get into with
+
+Other Matters. But I think we will turn-- I think one of the nice things about doing a phone call is
+that we can talk to Patty Doersche from DC. Are you there, Patty?
+PATRICIA DOERSCH: I am. Yes, Director Guissinger.
+LYNN GUISSINGER: Great. You have an update from the last week or so, since you filed your
+report? Or anything to add?
+PATRICIA DOERSCH: Well, I do have good news on a couple of measures since submitting
+our report last week. With respect to the House Heroes Act-- that included supplemental funding
+for 14 cities but not RTD-- Sherry Ellebracht and I had a very productive conversation yesterday
+with New York MTA on how best to include RTD in any additional funding.
+And so why New York MTA? Well, they are leading the effort to secure a second round of
+COVID funding for the transit agency nationwide, but likely not every agency. So the good news
+is that New York MTA supports changes to their Heroes Act formula in the next COVID relief
+bill that will move through the Senate in order to include RTD. So next steps for us is to work
+internally within RTD to devise a modification of the Heroes formula and then share that with
+New York MTA next week. Basically, their bottom line is they need to net 3.9 billion out of
+anything that we propose. So that's basically our one guard that we have to stay within.
+The second issue amid all that's going on across the US right now, Congress is trying to advance
+a FAST Act reauthorization bill. That's relevant to us in a couple of ways. Because with respect
+to securing legislation, to require and fund the return of our $29 million Rif CRP, it's our
+understanding that due to the efforts of our House delegation, particularly Congressman
+Perlmutter, the bill that will be introduced tomorrow by Chairman DeFazio will include the
+return of our CRP. I haven't seen it in black and white yet so I'm not counting on it, but it's our
+understanding that it's in the base bill.
+A couple of caveats on that. Because this bill, in a huge break with tradition, does not include
+bipartisan measures-- it's simply a Democratic proposal-- the bill as written will not be the bill
+that makes it to the president's desk. We have to work on that. And then secondly, the reason
+why we're fighting so hard to be in the base bill, the bill that's introduced, is that if you're trying
+to offer language as an amendment, language like ours that requires funding, once a bill is
+introduced, you're in a zero sum game.
+If I need 70 million to fund the return of CRPs for all of cohort 3, I have to cut 70 million from
+the bill that I am amending. I have to take from someone else. That is what's stopped us in the
+past to get our amendments through. So that's why it's so important for us to be in the base bill.
+And so we'll find out tomorrow whether we're in. If we're not, we'll push for an amendment. And
+then my job is to make sure that that provision makes it into whatever the final bill is that's
+conferenced either later this summer and delivered to the president for his signature. That's my
+update.
+
+LYNN GUISSINGER: That's great. Well, I'll be the first to say fingers crossed. And I'm hoping
+that the CRP gets in there. That's great. I'm going to open it up to questions now. Director
+Broom, do you have questions of any of our organizers here?
+BOB BROOM: Not at this time.
+LYNN GUISSINGER: OK. Director Buzek?
+VINCE BUZEK: No, thanks, Madam Chair.
+LYNN GUISSINGER: Director Catlin.
+PEGGY CATLIN: Thanks, Madam Chair. I do have a question with regard to the signature
+gathering process that was introduced-- or that the Secretary of State ruled on, and particularly
+for our candidate and what that entails.
+LYNN GUISSINGER: You just want to Who was that? Is that Roger?
+ROGER SHERMAN: I mean, I can certainly answer that, if you'd like.
+LYNN GUISSINGER: Great.
+ROGER SHERMAN: The governor, in one of his executive orders, did give the Secretary of
+State the ability to do and allow signature gathering by mail and email. So she just put out the
+ruling on that a couple of days ago. And so now you do have the opportunity to submit and get
+an email or mail form approved, which you can send to people in the districts. And they sign it
+and either return it to you by mail or electronically. And then you collect those just like you
+would collect the signatures on a traditional petition. You also can still get a traditional petition
+format approved and collect signatures that way.
+LYNN GUISSINGER: Great. Thanks. Does that answer your question, Director Catlin?
+PEGGY CATLIN: Yes. When I read it, I was a little bit confused about people who were
+petitioning on behalf of a candidate and if they went through the same process-- volunteers, for
+example.
+ROGER SHERMAN: [INTERPOSING VOICES]
+PEGGY CATLIN: So I can find out later. But it's still the same process?
+ROGER SHERMAN: It is.
+PEGGY CATLIN: OK. Thank you.
+LYNN GUISSINGER: Director Cook.
+
+SHELLEY COOK: No questions. I would like to say thanks to you and everybody who's been
+involved on all these levels. Thanks so much for your good work.
+LYNN GUISSINGER: Director Folska.
+CLAUDIA FOLSKA: Thank you, Chair. Thank you all for your hard work. And I know these
+are very difficult times. And Patty, thank you, thank you, thank you for continuing to work
+relentlessly on the CRP. And it sounds like you're making great progress. I did have a question,
+though, about why we're hooking up with NYC as opposed to having APTA support us in that
+effort. And I think it's great that we are. No problems with that. I'm just wondering where's
+APTA in all of this? Because I don't-- is NYC a member of APTA? I thought they were not, and
+maybe they are. I don't know what they are now. That's all.
+PATRICIA DOERSCH: Very good question. They are back in APTA. I had to work hard to lure
+them in, considering they're 40% of all transit rides. We're working with New York MTA, quite
+honestly, because the House Heroes Act was driven by House appropriators. The Chairman of
+the House Appropriations Committee is Nita Lowey of New York, and she was committed to
+throwing enormous amounts of money at New York. And so the transit funding, the weight of
+that, is being carried now by New York MTA. And now, as it pivots to the Senate, they're
+working directly with Senator Schumer. So that's where this is moving right now.
+Of course I'm also staying close with Homer and Janet, Senate Banking Committee. But the
+transit funding so far is being driven not out of the appropriator's office, not out of the
+authorizers of Senate Banking, but basically right now Chuck Schumer. So that's the carriage
+that's carrying this, so that's why we're working with them.
+CLAUDIA FOLSKA: Thank you so very much. I really appreciate it. That's all for me.
+PATRICIA DOERSCH: Sure.
+LYNN GUISSINGER: Thank you. Director Lewis. Director Lewis, are you muted?
+SHONTEL LEWIS: Nothing for me. Sorry.
+LYNN GUISSINGER: OK. Director Lubow.
+JUDY LUBOW: Nothing for me. But thank you all for your very hard work.
+LYNN GUISSINGER: Director Menten.
+NATALIE MENTEN: Nothing. Thank you.
+LYNN GUISSINGER: Director Mikalik.
+KEN MIHALIK: Nothing for me. Thank you.
+
+LYNN GUISSINGER: OK. Director Tisdale.
+DOUG TISDALE: Thank you very much, Madam Chair. Just a couple of things. First of all,
+thank you, Patty, for all of your hard work. We had the APTA DC virtual fly-in, and several of
+the staffers for the Colorado delegation made very favorable comments about you and your
+efforts on behalf of the CRP refund. And we also addressed the FAST Act reauthorization and
+including it in there. And relative to why work on this rather than have APTA do it, APTA is
+following a parallel path. Ward McGerrer and the legislative committee of APTA are pressing
+for a separate bill. And rather than try to address the Heroes Act, we were talking about the
+possibility of a standalone $25 billion additional funding for emergency relief.
+The problem is that the Heroes Act, this distributes funds 80% based upon formula and 20%
+based upon need, whereas the APTA proposal is 80% based upon need and 20% based upon
+formula. So that may be a little too much in the weeds, but that's going ahead as well. And we do
+have DeFazio speaking to the APTA Board next Thursday.
+And just FYI, for Director Catlin's question, the Secretary of State's office has been very, very
+collaborative and cooperative. I've already, for example, had both the form of nominating
+petition and the form of email request approved, which in each case they did within 24 hours. So
+they've been right on top of this. Thank you. And that's all.
+LYNN GUISSINGER: Great. Thank you so much. Director Walker.
+JEFF WALKER: Thank you all for your presentations. Nothing further.
+LYNN GUISSINGER: Director Whitmore.
+TROY WHITMORE: Thank you all for your hard work. No questions for me.
+LYNN GUISSINGER: Director Williams.
+KATE WILLIAMS: I don't have any questions. I just want to say welcome back, Jenifer. We
+have missed you, and we're glad you're here.
+JENIFER BRANDEBERRY: Thank you.
+LYNN GUISSINGER: And Chair Malpiede.
+ANGIE RIVERA-MALPIEDE: Yes. Thank you, Madam Chair. You know, this has been one
+heck of a year. And I can't put my finger on the top one so far of what's been the most
+challenging or just taken so much work. "Thank you" doesn't seem to convey the right words,
+because I know how many hours every one of you have been working on every one of these
+issues and how fluid every one of these issues have been. And I really am just so grateful for
+your expertise and your willingness to partner with us to help make this agency the best in the
+country. Thanks.
+
+LYNN GUISSINGER: Very well spoken. I will echo all of that. I think that we have just great
+teams here, and I appreciate and am glad you can join us this way, Patty. It's great to hear what's
+going on. Things are happening very quickly there. And I agree, welcome back, Jenifer. Thanks
+to your teams, Julie and Megan did a great job on SB151, and we appreciate all of you. And
+Roger's been helping us on a number of things. So thank you all. And I guess we're going back to
+BBMK in just a little while.
+We don't have any Information items tonight. So we're into Other Matters. We have two listed
+Other Matters, and then I think that someone said there's another one coming up. We'll go ahead
+and start with these and then go to directors on any other matters we have. There's a discussion
+of the protests that are going on and RTD's response. I believe that's Michael Ford, our COO.
+MICHAEL FORD: This is Michael Ford, COO. I just wanted to give you an update on the
+events that have been taking place over the last several days. I'm actually at Blake Street right
+now, and there's probably another couple thousand people on 17th and other areas downtown
+right now. But what I wanted to do is just kind of give you an update of kind of how things
+started and then bring you into present day, where we're at right now.
+Thursday, May 28, is when we were notified about issues downtown. At about 7:12, bus dispatch
+informed bus operations staff about Civic Center, around Colfax and Broadway, had been closed
+due to a heavy protest. Buses were detoured, and streets supervisors were sent to assist in that
+area. Bus dispatchers were informed that DPD indicated RTD may need to close Denver Union
+Station, and DUS as well.
+Shortly thereafter, we closed those stations and rerouted our buses. So that really became the
+start of this. There was some reporting of rioting and looting throughout the 16th Street Mall. All
+clear was initiated about 1:14 AM for both stations going into Friday morning.
+On the rail side, we were made aware of some protesting that was going on there in the
+downtown area. The situation resulted in employees having to shelter in place for their safety and
+exposure of our equipment. So that was going on as well. With the first closure of DUS, two
+trains and operators were held in the tail track as well. And then at that time, we began to turn
+equipment around at Empower Field, as protesters continued to accelerate and we needed to
+address the security down there as well as DUS.
+We were successful in safely removing our existing service and trains from the downtown loop
+into the safe locations. That was on the rail side. But turning the existing trains at 10th and
+Osage, suspending the L Line service, was an initial hit for us.
+On the security side, safety and security side, Chief Grado, had been in contact with Lieutenant
+Ballard. An unannounced protest had started to kick off, and there was some conflict going on in
+I-25. Different police were engaged, and there were random shots fired. Denver police were not
+expecting this, and a command post was not established at that time.
+There began to become aggressive crowds, aggravated crowds heading towards the station and
+crossing the Millennial Bridge. So those are some of the activities on the Thursday night that
+
+started to create some of the concerns and issues. Transit police officers at the Civic and other
+Union Stations also dispatched or contracted Denver police officers at Union station as well.
+Transit security officers posted at Civic Center and were advised to lock the facility and shelter
+in place later that evening. It was determined that protesters were essentially near the Capitol, so
+we could begin to evacuate folks down at the DUS and other places.
+So that was kind of a summation of a few areas. I talked about rail safety and security and bus.
+And then obviously, with all this going on, we wanted to convene fairly early the next day to
+map out strategies of what we needed to do. We were getting intel reports that there was going to
+continue to be more protests and that we were advised heavily by law enforcement that we
+should not be bringing our buses and equipment, our employees or our passengers, down into the
+heart of downtown.
+So by that time in the morning, we made a plan to cover the perimeter of the downtown and not
+come into downtown. So we had that up and running by 11:00 AM that morning on the bus side,
+as well as rail. So we wanted to make sure that we communicated effectively with our customers,
+our employees, our Board. Communication did a yeoman's job in getting the information out.
+Senior leadership, again, met to talk about all the issues that we were relying heavily on
+information from law enforcement and their contacts with the city to make the appropriate
+decisions.
+So that continued on. And then we continued to address this issue. And not much really changed
+over the course of the next couple days. So we maintained in place because we didn't want to put
+folks in harm's way on the rail side. We continued to meet and bus as well with SOT and others.
+The rail actually suspended the L Line. The H was terminated at 10th and Osage station. The C
+and E and W lines were terminated at Empower field. A commuter rail, A Line, operated from
+Central Park to Denver international Airport. The B Line operated between Westminster and 41st
+and Fox. And the G Line operated between Wheat Ridge and Ward and 41st and Fox.
+So directions were given quickly to suspend operations so that we could potentially place-- if we
+didn't do that, we could potentially place employees and passengers and equipment at risk. So we
+wanted to really heed that. Then going into the next day, I also wanted just to point out that
+Access-A-Ride was also involved in making sure that passengers and trips were canceled going
+into downtown and that they were not scheduling any trips on Saturday and Sunday as well. So
+we wanted to make sure that we were addressing all our areas within the transportation field,
+making sure that we were communicating. And we really were tethered with law enforcement
+and getting information so we could make intelligent decisions on how we wanted to move
+forward.
+During that time, Denver Police stated that they were very grateful that RTD decided to keep our
+service out of the downtown area and to eliminate potential attacks on their vehicles. Further, the
+downtown partnerships sent out notices to all downtown businesses to be aware of potential
+vandalism and take proactive measures to protect property. The Denver Police set up a command
+post at Civic Center Station because of large stones that they were able to take out of the
+landscape. We actually had those stones removed. The city is going to, I guess, reimburse us for
+the work that they did, so we didn't have more vulnerability there.
+
+Again, things changed a little bit. We still were hearing more reports of crowds and everything
+else. Finally, on Saturday, we got word about a curfew being enforced starting at 8 o'clock. And
+again, we are still in curfew stage right now as of yesterday. I believe the mayor's office issued a
+curfew for 9 o'clock. We have suspended our services after 6:30 out of the downtown area, but
+we did resume bringing people in to downtown starting today.
+So again, there is a lot more in a written report. I didn't want to get too long-winded in all this.
+But it gives you a series of progressions of what we did. We pretty much stayed the course
+because conditions didn't change. We're still in curfew. We still see people protesting. Obviously
+one of the biggest things we wanted to do is to make sure that our employees, our customers, and
+our equipment were safe and not putting ourselves in harm's way. Again, there will be a report
+issued tomorrow that will have a little bit more detail. But I wanted to try to give you the
+highlights of what was going on and where we're at right now. And again, the curfew, I believe,
+doesn't end until Friday morning, and it goes from 9:00 to 5:00 in the morning.
+And again, we're going to continue to provide service in and out, but closed up at 6:30. We want
+to be consistent but we will continue to monitor the situation because things are fluid, and we
+may need to make adjustments at times. So we'll continue to be tethered with the information to
+make the appropriate decisions. So again, I know I went maybe longer than I should have, but I
+wanted to give you a snapshot of what was happening. And happy to answer questions, but there
+will be a more detailed report coming out tomorrow. Thank you.
+LYNN GUISSINGER: Thank you, Mr. Ford. And I know it's been a hard, long weekend. Thanks
+for all your good work and to you and your team. Let's see. We'll start with Director Broom. Do
+you have questions?
+BOB BROOM: Did the district sustain any damage, graffiti or otherwise?
+MICHAEL FORD: Yes. We did have some buses that were egged. And some buses actually had
+some rocks thrown at them. And I believe a supervisor's vehicle had a slashed tire. So there was
+some-- I guess I would say maybe minor damage, but we did sustain some of those during the
+process. Six buses, one supervisor vehicle, and there was also some damage, two broken
+windows at the Civic Center, our starter booth, where the folks are there to kind of monitor the
+bus flow. There was some windows, I'm understanding, that were broken.
+BOB BROOM: Thank you. That's all I wondered about.
+LYNN GUISSINGER: Director Buzek?
+VINCE BUZEK: Yep, that was my question too. Thanks, Michael.
+MICHAEL FORD: No problem.
+LYNN GUISSINGER: Director Catlin.
+PEGGY CATLIN: No questions. Thank you.
+
+LYNN GUISSINGER: Director Cook?
+SHELLEY COOK: No questions. Thanks so much, Michael. I saw an aerial of a bus on
+Thursday night wending its way through an intersection with smoldering trash or something like
+that. And it seems absolutely appropriate to have diverted or stopped our service around the
+downtown area. Thank you so much.
+MICHAEL FORD: Thank you.
+LYNN GUISSINGER: Director Folska.
+CLAUDIA FOLSKA: Thank you, Chair. Michael, thank you so much for your work, and really
+to all of our staff, every single person that works for RTD from the front line to the supervisors
+and all of our administrative staff. I know that everybody is working hard. And it's particularly
+difficult that our safety was just the pandemic, and now there's this. And I'm all for protests, but
+we need to be safe and get our message across. So thank you very much for your support.
+MICHAEL FORD: Thank you.
+LYNN GUISSINGER: Director Lewis. I guess we'll come back. Director Lubow.
+SHONTEL LEWIS: You didn't mention how the operator and the supervisor, how they're doing.
+MICHAEL FORD: I think everybody is safe and secure-- the reports I have, that there were no
+personal injuries. Obviously we did have to hunker down in some areas for a while, and we
+didn't want to put ourselves back into that situation. But I can get a update on that. Everything
+I've heard so far is that everybody is OK and safe and there were no injuries to people,
+particularly our employees or customers.
+SHONTEL LEWIS: That's good about the injuries to people, and we do have insurance to cover
+the property. So I expressed my concern about cutting service into downtown. I thought that was
+really, really important that we allow people to come into downtown if they wanted to participate
+in the protests. But one of the things that I haven't heard mention of is the folks who depend on
+our service who needed those services.
+And I know several directors heard from individuals who are having a hard time getting to the
+places that they needed to get to who weren't protesters. And so the assumption that everyone
+utilizing our services going into downtown were protesters I think was not correct, and we didn't
+think about how we might take care of the people who depend on our service when we
+essentially ensured that they didn't have access by making the call that we did. And so I disagree
+with it. It's done. It is done, but people are still being negatively impacted with the schedule
+changes. And I think that's important, because I've heard many directors talk about our transit
+dependent people, with restaurants reopening, et cetera, et cetera. I think it's important for us to
+value our people over our property.
+
+MICHAEL FORD: This is Michael Ford. I really appreciate your comment. But I can assure you
+that we did a lot of due diligence in trying to determine the best way in which to accommodate
+the need versus the safety of our passengers, our employees, and just the general facility. You
+know, we are sometimes a target in these situations, and if you kind of look around, you look at
+the transit agencies and what's been going on. Some of that has taken place.
+We did create a circumference around the downtown to try to accommodate people as best we
+could. We will continue to look at ways in which we can do better. But I can assure you, given
+the veracity of what we saw, the concerns, and the unpredictability of things, we were really
+trying to be as mindful and safety conscious as possible.
+SHONTEL LEWIS: I hear you. And I think we can, like other directors, agree to disagree. I just
+think we should not have suspended our service, and we should value our people over our
+property. And I'll conclude with that.
+MICHAEL FORD: Thank you.
+LYNN GUISSINGER: Thank you. Director Lubow.
+JUDY LUBOW: Thank you. I wanted to thank you, Michael, and your team for the hard work. It
+seems like we keep having piled on more and more hard work dealing with all these extreme
+experiences. I did want to say that I had a similar feeling to Director Lewis in that I was also
+concerned with the many people that needed to go downtown and weren't able to do so. And I
+was hoping that we could come up with some alternatives. Obviously we could not, but it's
+definitely worth thinking of for those people who truly are transit dependent. How can they be
+helped? And I don't know if there is a way, but I felt obligated to bring it up.
+MICHAEL FORD: Michael Ford, COO. I appreciate it We also had the National Guard
+deployed as well, so that also complicated matters a little bit more as well. So I just would point
+that out.
+JUDY LUBOW: Thank you. I'm sure it was a very difficult situation.
+LYNN GUISSINGER: Director Menten.
+JUDY LUBOW: Thank you.
+LYNN GUISSINGER: Thank you.
+NATALIE MENTEN: Could I go at the end?
+LYNN GUISSINGER: Sure. Director Mihalik.
+KEN MIHALIK: No. Nothing at this time. Thanks.
+LYNN GUISSINGER: Director Tisdale.
+
+DOUG TISDALE: Thank you very much, Madam Chair. Just many, many, many thanks to
+Michael Ford for stepping into the breach in terms of being operationally responsible for all of
+this. And just recall, Mr. Ford, that no good deed goes unpunished. So your careful and very
+cautious behaviors, I think, were very helpful. But there will be those who will differ with your
+conclusions. And that's just the responsibility of leadership. So thank you again, sir.
+MICHAEL FORD: Thank you very much. This is Michael Ford, COO. I also want to just extend
+my thanks to the entire group, because it really was a team effort. We collaborated. We took all
+the different options that were available to us from law enforcement to dispatch to operations to
+rail to communications and marketing. All those folks did a tremendous job of making this
+happen. I just want to acknowledge that. So thank you very much.
+LYNN GUISSINGER: Thank you. Director Walker.
+JEFF WALKER: Thanks. Yes, thanks to you and your team, Mr. Ford, for the efforts you put out
+there. I've worked downtown for about 15, 16 years now. And I've been caught in one or two
+spontaneous protests. And while I fully agree with the right of people to protest and the ability of
+people to protest, for those of us who didn't intend to protest, it's a difficult situation. And I've
+seen how carefully the bus drivers move to navigate those streets when they're full of people.
+I'm wondering did-- so I've been leaving downtown when those protests have occurred, so
+nobody is getting off of the bus. But I'm wondering if the buses coming into downtown, do the
+operators have discretion about where they can let somebody off if they sense that it's not a safe
+situation for our customers to get off there, at a designated bus stop?
+MICHAEL FORD: Drivers have the ability to make decisions depending on the situation. They
+usually call in to get help and support. Everything is fluid. And obviously if there are extenuating
+circumstances, we work with them on that. If they see something that needs to be corrected, they
+do have some flexibility there. But it's constant communication with the dispatch, the controller,
+the operations supervisor, security, and law enforcement. So we all work in tandem together.
+And if there are issues or accident producing situations, we all try to work together to come up
+with the best solution.
+JEFF WALKER: OK. And the effect of the protest downtown, that was only in the downtown
+area. Did that affect any other parts of the region?
+MICHAEL FORD: My understanding that currently there are some signs that there are going to
+be other protests other than downtown and might be spreading in other locations, I don't have the
+most recent intel, but that's what I had heard yesterday. I'll need to do some more checking up on
+that to give you a further update.
+JEFF WALKER: OK. Well, thanks again. I went downtown Sunday and Monday morning to
+help clean up a little bit. And the folks I did see, the other folks who just showed up to clean up,
+and the people who lived in the park, were appreciative of folks coming in after a bunch of other
+folks came in, and didn't necessarily clean up after themselves when they left. So that's all.
+Thank you.
+
+MICHAEL FORD: Thank you.
+LYNN GUISSINGER: OK. Director Whitmore.
+TROY WHITMORE: Yes, Mr. Ford. Thank you for your leadership. I was very personally
+pleased, and please pass along my thanks to your colleagues, both those that are on the call on
+those that worked and continue to work under very difficult situations. I'm very proud of our
+team. Thank you.
+MICHAEL FORD: Thank you.
+LYNN GUISSINGER: Director Williams.
+KATE WILLIAMS: Thank you, Madam Chair. Mr. Ford, I echo everybody's thanks to you and
+to everybody who worked to make us as functional as we could be. I want to point out that it
+seems that there are other transit agency throughout the country who shut down completely. So I
+think that we did a good job of getting people as close as we could get them as safely as we
+could get them, and that we managed to maintain a large percentage of our service.
+I'm sorry that we've had to deal with the riots, and on top of COVID, on top of ridership levels
+falling, it just seems like you can't win for losing. But I think you and all of your staff, and all of
+the RTD people, the union workers, the maintenance guys, everybody, has done a really, really
+outstanding job. And I would like to thank everybody for that.
+MICHAEL FORD: Thank you, Director Williams.
+LYNN GUISSINGER: Great. Back to you, Director Menten.
+NATALIE MENTEN: What about the chair?
+LYNN GUISSINGER: Oh, I'm sorry. Chair, would you like to talk?
+ANGIE RIVERA-MALPIEDE: Thank you. Michael, I cannot begin to thank you for the amount
+of work and Mr. Meader and the stress level, because I know that you've been on the phone 24
+hours a day, seven days a week, working on all of this stuff. And I think that it is paramount that
+our transit system be safe for those who use our transit system. And I think you guys have done
+one heck of a job. And the collaboration-- that you have been in communication with the mayor's
+office and the Denver Police Department and everybody else-- shows that RTD is truly a leader
+in this community and really cares about everybody and wants to make sure that we do the one
+thing that we are supposed to do, and that is to provide safe and reliable service. So thank you.
+MICHAEL FORD: Thank you, Madam Chair.
+LYNN GUISSINGER: Now, Director Menten.
+
+NATALIE MENTEN: Yes, thank you. My question is, having spent a considerable amount of
+hours Friday and Saturday while I was down there in the Civic Center, Capitol area, let's say we
+had not cut service and we had frequent travel on the 0, the 15, 15L, let's just say we had
+continued service, what would we have done to keep tear gas out of the buses? How much does a
+windshield cost when a bottle hits it? Mainly the tear gas especially, how would we have even
+kept that out of our system? Wouldn't we have been trapping the driver with fumes each time we
+would stop, even if we've got the back windows open on the bus, which is very common? How
+would we have done that if we tried to continue service?
+MICHAEL FORD: Michael Ford, COO. I think the trick to all this-- I don't know if it's a trick,
+but it's to avoid these type of situations when at all possible and not try to put ourselves in harm's
+way and try to evacuate from those situations. Obviously our key importance is our employees,
+our customers, our stakeholders. And when we get intel reports like we did have, it just seemed
+like the right thing to do not to put ourselves in those situations. So we want to make sure that we
+didn't come near those areas, and we were actually praised for making those type of decisions by
+law enforcement because of what they were experiencing and seeing.
+So fortunately, I don't think we had any specific concurrences like that. But again, that's just
+another way in which we wanted to address the situation by not putting ourselves in harm's way.
+And obviously if something like that happened, that would not be something we would want to
+happen. And we'd have to re-examine how we got ourselves into that.
+We are going to be doing an after action item focus on how well we did, what we could have
+done better, what worked, what didn't, as part of our ongoing process of evaluating our readiness
+for events like this. So maybe some of that could also be helpful in further discussions.
+NATALIE MENTEN: OK. Yeah. I don't even know how we could have kept certainly the
+drivers along those routes that are in that area, how we could have even kept them in a
+comfortable working environment, and then even take [INAUDIBLE]. Would it have been
+dangerous? But I was down there Friday till 12:30 in the morning, which I know those buses are
+still continuing.
+You know, I'm sure everybody has seen the video or maybe some of the Board of Directors went
+down there, maybe some of the staff went down there. But it was not good. It was not good. And
+also down there Saturday, pretty much the same story. Different parts of the day was like a
+whole different world during different parts.
+And when I think about how we would have even run this system, when I watched masses over
+at the Capitol who seemed to find that it was just too quiet or something over there and then
+swarmed Civic Center, which I've got the photos, because we had some property things-- we
+talked about the rocks-- I watched where it was just swarming Civic Center. Standing in a
+dangerous position, seeing a Denver police car on video-- you know, I have the guy stabbing the
+tires and smashing the windshield. And that's just a beginning, because it went on.
+Going down Colfax and talking to business owners who were quickly slamming up the plywood,
+as quick as they could. And putting up signs on their doors going, we have to close at 3:00
+
+because of the protests, because we're scared. I don't know how we would have kept our drivers
+and our Capitol assets safe if we had run service.
+So I wanted to share that because I didn't feel comfortable depending on media to give clips,
+because they have a limited time to share that. So the firsthand experience really just gave me
+confidence that I don't doubt the decision that staff made in this case. And I am one that loves to
+protest the government. But I was down there just as an observer, to watch what was going on.
+So I just wanted to share that. And thank you.
+MICHAEL FORD: Michael Ford, COO. Thank you very much for your words. I appreciate it.
+NATALIE MENTEN: You're welcome.
+LYNN GUISSINGER: Great. I'll just add my words on that, which is just that these were tough
+decisions. You know, there were peaceful important protests going on. But there were a lot of
+other things.
+SPEAKER: Thank you, Lynn.
+LYNN GUISSINGER: And I appreciate the difficulty of sort of pulling it apart and keeping our
+employees and our riders safe and all of that. So thanks.
+MICHAEL FORD: Thank you.
+LYNN GUISSINGER: All righty. Anything else? We will do our-- I'm sorry?
+MICHAEL FORD: No. I'm done, and we'll get a report out to you very soon. Thank you.
+LYNN GUISSINGER: OK. We're gonna talk about the Accountability Committee. We sent the
+proposal out. This has been a continuing process. I want to thank our Chair for really, I think,
+stepping up and making it clear this is a collaborative process. We're moving forward.
+As Jenifer Brandeberry said, Matt Gray, Representative Gray, and Senator Faith Winter were
+given approval by the-- well, Matt was given approval by the speaker to pull a late bill and to
+pursue the idea of an oversight or accountability committee for RTD. And we started
+conversations with them. And that's the proposal that was sent out today. We're just now getting,
+last night and today, comments back from the governor. I think everybody's been working hard.
+Julie McKenna did a great job getting SB151 managed, and there were some very problematic
+provisions in there, as you all know. So we're happy to focus on the Oversight Committee for
+now. And Jenifer has done a great job with discussing this with all of the leadership. I'm going to
+ask Jenifer to talk a little bit about this, and then I'll come back and we can talk about what we're
+looking for.
+I'll just say right now that what we're looking for tonight is sort of a general approval to move
+forward-- I guess it's a head nod, although we may have to just run through or just ask if there are
+
+people opposing that idea-- where some of the latest comments we got from the governor's office
+weren't final enough. They were still getting approvals for us to get those out. But we're all still-it's pretty close to what we sent out today, and looking for authority for Chair Malpiede and Paul
+Ballard and I to keep moving forward with some final negotiations, along with Brandeberry
+McKenna. Jenifer, you have things to add or explain there?
+JENIFER BRANDEBERRY: Not really, other than just thank you, guys, for working over the
+weekend. And I guess what I would say is, rightly or wrongly, I think there is a desire from some
+of the state-elected-- certainly the two chairs of transportation who, I might point out, are going
+to maintain those chairmanships. And more than likely-- Senator Winter isn't up this year,
+Representative Gray is up, but I think is probably slated to be re-elected. And the administration.
+I think the governor was never a huge champion of the district when he was in Congress. I think
+he's had some issues with us all along. And I think, rightly or wrongly, the overall sense in the
+building is, folks want more of a partnership with us.
+And so instead of trying to go down the path of legislating this with 100 different people from all
+over the state who have different ideas about how that could work, I just want to really applaud
+the leadership for taking time to-- you know, as Director Malpiede said, look, we don't have
+anything to hide. We are audited regularly. We are as transparent as we can be. But if folks don't
+think that we are or still have more questions, we're happy to work with them to get to a place
+where we're rowing in the boat together versus finding ourselves where we were at least the first
+half of the session, of bipartisan level distrust and some pretty radical ideas on 151 going
+forward.
+So I think this gives us a chance to get everyone in the same bus, so to speak, and start driving
+together and communicate more. And I think, again, it's not the easiest thing to do. But the
+administration has been good to work with. The leadership has been very good to work with.
+And again, your team with Lynn and Sherry and Pauletta and Andy have been great to kind of
+get us to this point. So I'm happy to answer any questions.
+But as difficult as a session as it has been, I think ironically-- and it's still going to be a tough
+couple of weeks to get out of this, just given the nature of COVID and the state budget and the
+environment up on the hill. I think we could end up with a little gem here that our goal, I think, is
+to help continue to build those bridges so that we have good partnerships with folks in the areas
+that you all represent. So I'm happy to answer any questions as well.
+LYNN GUISSINGER: Great. Before we go to questions, I'm going to ask the chair to speak to it
+as well. But I want to echo how much we appreciate Senator Winter and Representative Gray
+working with us. The governor's office has come in later, but they're working with us well, I
+think, as well. And all of the team, I think, has been doing-- I think we look at it as an
+opportunity. You know, people come in, see what RTD is.
+We can learn. There are ways to improve. We can hopefully do what we need to do to strengthen
+the relationships we have with our local governments and the state government and move
+forward. Chair, do you have some things you'd like to add?
+
+ANGIE RIVERA-MALPIEDE: You know, I just want to first of all thank Brandeberry
+McKenna and CRL and Sherry Ellebracht and Pauletta, just our teams that have been out there
+working with us. Senate Bill 151, it is no secret, was painful, really painful, to go through. And
+the thing that seemed to keep evolving was that they weren't hearing our words, and they were
+making assumptions that were really not correct.
+But now we have a chance to work collaboratively and work together to make sure that we are
+making this agency the best agency in the country, and that truly transit belongs to the entire
+region. We may lead it, but it's going to take all of us to make sure that it is successful. And we
+need to partner together, particularly now that we've gone through all of these unprecedented
+experiences, like COVID-19 and everything else. We're really going to have to rely on each
+other.
+And I really absolutely believe every word that I talked about, that we have nothing to hide. We
+are audited on so many different levels. We are mandated by so many regulations that we might
+need a fresh perspective and look, but that is something that a lot of Board members ran on, was
+it's time for RTD to revisit who we are and how we're moving forward. And I think this just
+gives us a breath of fresh air to move on and to look at things and develop relationships that have
+been severed, that we can really make this a positive move forward for the whole region. Thanks.
+LYNN GUISSINGER: Thank you. I'm going to try doing this as one round. We've talked to
+most people today, and so I'm going to ask if you have questions and comments and also if you
+can give us the head nod to move forward and have, I guess, officially the chair would have the
+authority to do the negotiating. I think all of us will be involved. And then we come back with
+the recommended action, or there may be another update before that. So let's see. I will start with
+Director Broom.
+BOB BROOM: Thank you. Is there a fiscal note to this? Do we have to provide a budget?
+LYNN GUISSINGER: We do. And it was in some of the materials sent out today. Originally the
+fiscal note was 1.8 million. That was part of what happened with SB151. Now there is the
+discussion-- and it's still not a done deal by any means, but that the committee would be housed
+and staffed with DRCOG and that there would be a budget set at $200,000 and could go higher if
+the committee feels like it needs to, although that's a sort of estimate of what would be needed.
+That is a budget that RTD would be expected to pay.
+BOB BROOM: Thank you. Yeah, I would support this approach.
+LYNN GUISSINGER: Great. Thank you. Director Buzek.
+VINCE BUZEK: Thanks, Madam Chair. You know, my feelings about this have evolved from
+really negative to indifferent to seeing some positive that can come of this. And I agree with
+Jenifer Brandeberry. You know, although our legislators are wonderful people and very
+intelligent, sometimes legislative solutions aren't the best. So if we can work with them and the
+leadership at the State House to come up with something that makes sense and works, I'm all in
+favor. And I want to thank our Chair, Chair Rivera-Malpiede, because I know she has been
+
+percolating this idea for some time now. And I think she was really right on the forefront of this
+as it's been coming up. So thanks, Angie, for all that work. And I am in favor of continuing to
+allow this team to continue to move forward and get us to the best possible place and then come
+back to us with a proposal. That's all I have. Thanks.
+LYNN GUISSINGER: Thank you. Director Catlin.
+PEGGY CATLIN: Thank you, Madam Chair. I too want to thank you and Chair RiveraMalpiede as well as our team for keeping this dialogue positive and ongoing. And I'm very
+supportive of moving forward. I would like, along the lines of Director Broom's question, I
+would like to understand what this budget is. I know it's on a reimbursable basis. But are we
+going to be able to at least see up front what is proposed and what expenses would be eligible
+moving forward? I just don't know what the mechanics of that will look like.
+LYNN GUISSINGER: You know, I think that's a very good suggestion and one we can take
+back. What we have heard so far-- and it's a pretty new idea-- is that it would be reimbursable.
+It's not that we would just pay over $200,000. It would be paying expenses. And if it goes
+forward with DRCOG-- which I think we hope that would be the case, they've been a good
+collaborator, they've got a real smart team, and we think they would be a good source for this
+committee.
+But they estimate is it be about $100,000 for staff time and a variety of materials and other
+things, and then another 100,000, as I understand it, that may be used for consulting work. It may
+be that we have some consulting work that's already budgeted. Some of Reimagine, some of
+other things, perhaps compensation study that we could transfer over to some of that. But all of
+those things remain to be seen. But I think your request is a reasonable one and one we can take
+back and discuss. Jump in if anybody else has anything else to answer.
+PEGGY CATLIN: Thank you.
+LYNN GUISSINGER: Is that what you needed, Peggy?
+PEGGY CATLIN: Yeah. I just want to make sure that it's just not a blank check. But your
+answer satisfied me. Thank you.
+LYNN GUISSINGER: Good. Director Cook?
+SHELLEY COOK: Thank you. Yes, and I support this also. It seems like by suggesting this
+approach, you all have managed to work on something that is now more positive, that gives us an
+opportunity to identify areas where we can work together. And that also brings in the region, as
+Angie said, as collectively involved and helping and responsible for our being able to provide the
+service and assure a mobility that we've always aspired to. So I just wanted to say thanks. I think
+that's so good, and I'm glad we're able to look at it as an opportunity now. And with that, we'll
+just pass it along.
+LYNN GUISSINGER: Great. Well said. Thank you. Director Folska.
+
+CLAUDIA FOLSKA: Thank you, Chair. I think this is a great opportunity. And again, thank you
+to everybody for all of your hard work and this has been going on. And it is a better approach
+than the SB20-151 was for sure. But I have some concerns, and I'm sure that the governor-- I
+would imagine his intention is to make RTD the best transit agency in America. That's my hope.
+I like the idea of collaborating with another group of people. And I know they're going to be a
+real high caliber group of people, right?
+And so I don't want to waste their time, and I want to respect their time. And I don't know if
+they're being compensated. That would probably be part of that fiscal note. And I would be keen
+to know what it is, and I think that that fiscal note should have a cap on it. I mean, we just don't
+have money to just spend, not even the 200,000 as it is now. So my concern is, where are we
+going to find the money? The other concern is-- or question, really, before we even get started
+and before I can support this-- I mean, in principle it's a great idea-- but what are the goals? What
+are the objectives? What's the problem that we're trying to solve or that this body is trying to
+solve or that the governor or the legislature is trying to solve?
+And how many goals and objectives would they have? And, you know, this is only supposed to
+be a one-year term, period. So it seems like we can spend a lot of time in our own work with our
+consultants. It takes far more than a year. So I think that's a constraint that I'd like to know about.
+And what do we know about the benchmarks for success? How do we know that they've
+achieved what they were getting to achieve?
+And I think oftentimes, we're an elected body like the legislature. And so what's to keep any
+governor from not appreciating what the legislature is doing and start appointing people and
+making the legislature come up with it from the Joint Budget Committee or something like that?
+So I think one of the challenges with elected folks, whether you're local, state, or federal, is
+you're dealing with a bureaucracy. And bureaucrats know their business. That's their career.
+That's what they do their whole life. And the elected people come and go, especially if they have
+term limits.
+And so to me, the challenge is how to make change. I mean, on the one hand, you want a stable
+institution. And on the other hand, you want it to be flexible and to be nimble and able to make
+changes when necessary and be creative. And in the case of many institutions, it's like turning a
+tanker. So those are my thoughts and concerns. And I would be for it, but I need to know more
+information. So that's all I have to say. Thank you.
+LYNN GUISSINGER: Thank you, Director Folska. There was a lot there. And it may be
+helpful-- I think you talked with the Chair today-- but as we move forward with doing some of
+these negotiations, it may be helpful to have another conversation [BUZZING] hear some of
+those concerns. Chair, did you have anything to say?
+ANGIE RIVERA-MALPIEDE: No. I mean, I think Director Folska and I had a conversation
+about that this morning. And I do think that there are questions that need to be answered.
+Understand that tonight we're asking for a head nod to move forward so we can really work on
+the specifics of this agreement. So it is a working document, but we really feel like we're making
+
+real strides in the right direction and would really appreciate support that we could share with the
+governor in the morning that the Board is behind this initiative.
+LYNN GUISSINGER: Honestly, Director Folska, I'm not sure where you were coming out on
+that, in terms of-- is it a move forward and you'd like more information before a recommended
+action? Is that where we are? Director Folska?
+CLAUDIA FOLSKA: Sorry about that.
+LYNN GUISSINGER: That's OK.
+CLAUDIA FOLSKA: Yeah, I'm here. Sorry about that. It's the button. Yeah, I'm for
+collaboration. In fact, I think it's high time that they took an interest in what we're doing at RTD,
+and I welcome it with open arms. But I can't support it until those questions I gave you are
+answered, because I don't know. But in general, the idea sounds good. But I can't support it
+without knowing more information.
+LYNN GUISSINGER: OK. We will be bringing that more information.
+CLAUDIA FOLSKA: Thank you.
+LYNN GUISSINGER: Director Lewis.
+SHONTEL LEWIS: Thank you, Madam Chair. I am completely in support of accountability. I,
+like Director Folska, have some questions, the questions being, what are we hoping to be able to
+solve [INAUDIBLE]? What are our outcomes? What do we hope we have in terms of
+deliverables when this year is up, when this year is concluded?
+I do also think it sets a bad precedent for folks to appoint folks to an accountability board. Just
+generally, it sets a bad precedent. I am happy that we are having conversations around
+collaboration, and I hope we are able to do this in a way that does that but also isn't harmful. And
+then finally, within the language-- and it doesn't say anything specific like goals or outcomes or
+any of that.
+But within the language, I think it says something to-- it says that there is going to be a focus on
+geographical equity-- and I think I've shared this already-- that I'm concerned that if we aren't
+talking about social equity that we might unintentionally harm communities, that are most
+vulnerable or most marginalized. And so those are my thoughts that I am pretty much aligned
+with Director Folska in hoping that we could have some more tangible outcomes stated when
+this comes to us for a recommendation. Thank you.
+LYNN GUISSINGER: Thank you. I'm taking notes. Definitely social equity has been a big part
+of the conversation. That's one of the factors in terms of appointing people. And I think equity
+and service provided by the district, it says, analyzed in terms of geography, fare structures, and
+needs of transit dependent populations. The governor's office has added some language in terms
+of that scope of work.
+
+And I think we'll be moving towards some of this, but it's very clear that our partners in this want
+this committee to define some of that themselves. In other words, we may not be able to say what
+exactly the deliverables are. But I think this is good feedback. Anybody-- you have something
+else, Director Lewis?
+SHONTEL LEWIS: No, go ahead. I'm listening to you.
+LYNN GUISSINGER: No, I was just going to see if the Chair or BBMK, anybody else had any
+thoughts on that?
+ANGIE RIVERA-MALPIEDE: No. You know what? I think the whole idea about making sure
+and that we have the ability to submit names and criteria of who we want to be at the table is
+really helpful. And part of our conversation with the senator and the representative was to be
+able to partner together on names of people that we would like to see at the table representing all
+the different components. They clearly have a list of folks of expertise that they want on this
+committee.
+And I think that equity is one, transit expertise, HR, financial, disabilities. I'm trying to think of
+all the 11. They were all listed in the packets that we sent out to you. And then RTD, we will
+have two ex officio members so that we can ensure that, as they're talking and looking at
+different components of RTD, that we bring in all of those pieces to make sure they're being
+addressed.
+SHONTEL LEWIS: Thank you. I appreciate you adding that.
+LYNN GUISSINGER: And just to add one thing. One of the changes from the governor is-from the governor's office, and I think from the metro mayor, as he requested, is the number may
+be changing and the specifics. But yeah, I believe that social equity will be an important piece
+for this committee.
+SHONTEL LEWIS: Yeah. I hear that. I'm just speaking to this specifically in the document that
+you circulated that it doesn't say-- it lists analyze equity in terms of geography, fare structure,
+and needs of transit dependent populations. But it doesn't explicitly say social equity. And so
+while we might say it's important, I think it's concerning for me that it's not in the document.
+ANGIE RIVERA-MALPIEDE: It will be. I mean, I think that is really part of that whole deal,
+Director Lewis, is to make sure that it is, in fact, inclusive of all diversity represented in the
+district and who we serve.
+LYNN GUISSINGER: And I just wrote that down that we will add that into our
+recommendations back to the team, OK?
+SHONTEL LEWIS: Yeah, thanks. And then finally, the final comment that I have is similar to
+Director Broom's, and I think someone else mentioned the price tag on this, the $200,000
+concerns me, while it's not a lot of money, because we were just talking about budget deficits in
+general, and it's really concerning, that dollar amount, especially the language around that it
+
+could potentially go up above the $200,000 and just not having any criteria attached to that. So
+those are my final comments, but thanks for bringing it.
+ANGIE RIVERA-MALPIEDE: Director Guissinger?
+LYNN GUISSINGER: Yes?
+ANGIE RIVERA-MALPIEDE: If I could ask Mr. McManus to talk a little bit about the budget.
+LYNN GUISSINGER: OK. Ms. McManus? Are you muted?
+BARBARA MCMANUS: Hi. I'm here. I'm here. I just wanted to say that we've put in place
+some different tracking mechanisms for the budget much differently than we've done in the past.
+You know, Director Guissinger singer had asked me for some information about the Fiscal
+Sustainability Task Force, and we know what the facilitator cost and we knew with some regular
+expenses, but they were spread over so many different cost codes that at that particular time
+seemed appropriate to attach those expenses, too.
+But I've been working with Heather and her team. And as we're moving forward with these
+different initiatives and projects, and I'm going to use the general manager's search as one, we're
+setting up a particular code as we have set up for the CARES Act in terms of not monitoring the
+dollars that we spend there, so that at any given point in time, as long as everything is rolled up
+in the budget, we can run a report and see where we are within the budget so that we're able to
+monitor where we are.
+And as we're speaking about this, we do know that we don't have an overall control over what
+the budget will look like. We're trying to take the initiative and move this forward, as Director
+Guissinger has said. There is a really huge delta between what the original fiscal note is and what
+we're bringing forward right now. So I understand the Directors' concerns. But I just want them
+to know that the Board Office is working very hard with Finance to make sure that we have
+accountability along the way and that at any point in time, we'll be able to give an update on
+where we are with the finances and how we need to move forward to keep that in check as best
+we can.
+There were a number of questions in that direction. So I just wanted to put that out there and just
+say that we don't know what the overall outcome of this committee is over a year. And what will
+be proposed ultimately over and above this draft that we're looking at today, but that we will be
+totally accountable to the budget along the way. So if you have any additional questions, you can
+contact me in the Board Office. And we're hoping to learn from the past and move forward in the
+best way possible in getting all of the information out there in an expeditious way and being
+mindful of all the budgets. Thank you.
+LYNN GUISSINGER: Thank you. That's great. I appreciate all of that work. Director Lubow.
+JUDY LUBOW: Yes, thank you. I wanted to thank Director Guissinger and Chair for all the
+incredibly positive work that you've done and the team. Turning this thing around from
+
+something that seemed so negative, which was SB151, to something that in my opinion seems
+like a win-win. And I am giving this an incredibly vigorous head nod. You can probably hear the
+shaking across the call. I come from a part of the district that there's a lot of feeling of not being
+listened to and not being heard by RTD.
+And this committee is going to be a process where the partners are going to be listened to, and
+RTD. Everybody is going to listen to each other. We have to come together and create the ideas
+for the new partnerships that I think could be envisioned by this process. And I'm incredibly
+excited about it. And the truth is, I would say for the last eight years, I've been saying, we need
+to be better partners. We need to figure out a way. And I think this accountability committee is
+part of that process that's going to help us become better partners, so I'm very excited. Thank you
+very much.
+LYNN GUISSINGER: Thank you very much. I agree with you, and I appreciate that. Director
+Menten.
+NATALIE MENTEN: Thank you. I will focus in on a couple of financial areas of this draft. And
+that is, compared to Senator Tate's bill, because we know right now we're talking about the
+governor, the governor, governor, but Senator Tate was the sponsor of 151. And one of the
+things that especially was appealing to me, and as the Board Director who testified in favor of
+151, this doesn't include a specific compensation audit. And I am not clear whether our modified
+budget is going to go forward with a compensation audit.
+And then I did hear-- and I may have misheard this from Chair Guissinger-- that perhaps we
+would take money-- correct me if I'm wrong-- take part of the money that's dedicated for a comp
+audit to pay for this accountability committee, which doesn't have a comp audit. So that's one
+concern that I've got. And the whole mission-- where one part of the mission was Senator Tate's
+bill-- was to have an independent compensation audit, because our own auditors stated that
+perhaps employers council is not the best. We already have a relationship with them. That means
+it's not an independent audit. We pay them dues to their benefit, to keep us happy. That's not an
+independent relationship. So I am not clear where we end up with a comp audit there.
+Another item is, this was supposed to have oversight with the CARES Act. I'm a Board Director,
+and I asked for the line by line register for where we spent the CARES Act money, and I still
+don't have it. The spreadsheet we've got, based on my request, includes some details, but it is not
+a line by line check register. And I hope that will come out with this published register that we
+did pass as a Board. But it makes me wonder whether there is going to be that cooperation and if
+it's going to be really soon enough, as that money is being spent as we speak. And so I'm a little
+bit concerned about that, that we're going to be looking back at a historical, versus keeping an
+eye as it's in the works.
+Another item in here is that it's of course called the accountability committee. But it has two
+Board directors. That means that it's by law not required to be posted as a public notice and
+would be recorded. What is the intent there? Are these going to be open, published meetings with
+recorded minutes, public participation? Where would we be going with that? Those are the notes
+that I have based on this draft, except that I'm a little bit worried about approval to go negotiate,
+
+although I do understand it comes back to us for a vote. But I'm not sure what that all means. So
+those are my thoughts. Thank you.
+LYNN GUISSINGER: We're getting great feedback. All of your comments, I think, are really
+helpful. I'm writing it all down. I'll start at the end. I assume, and I think it's in the draft, that this
+will be open meetings. But we will definitely go back and take that to our partners. And I'm quite
+confident that that's what their intent is as well, although I can't speak for them, I guess.
+The compensation audit, I probably shouldn't have said that. That was an off-the-cuff comment.
+But there is an HR person. And this committee-- and it includes an organizational assessment-so I'm hoping when I say that that we're not doubling up on our work. Again, you know, we don't
+get to define all of what they're doing. But if some of that sort of thing is being done, that was
+my reason for putting it that way. But I don't know where we are on that in terms of our budget
+and our changing budget and all of that.
+The CARES Act-- I don't know if someone else can speak to that. I think that your questions and
+requests, I certainly appreciate those. This committee is supposed to get started in July, but I
+hope that you're getting what you're requesting. I don't think that Ms. McKillop is here tonight,
+but if there's anybody else that wants to address that.
+DOUG MACLEOD: Madam Chair, this is Doug MacLeod.
+LYNN GUISSINGER: Hi, Doug. Yes, that'd be great if you want to address that.
+DOUG MACLEOD: Sure. Good evening. As far as the CARES Act go, we can get with Director
+Menten and get the specifics of what she would like. I know she asked for a line-item detail.
+There are literally thousands of transactions. So we can sure provide that. But we will call you,
+or I'll get in touch with you, Director Menten, and just tell you what we have to offer. As far as
+the compensation study goes, we have that working through procurement. It's still in the budget,
+and we have budgeted $250,000 for that. So we expect to have that completed by the fall.
+LYNN GUISSINGER: Great. Thank you for that information. Does that answer some of your
+questions, Director Menten?
+NATALIE MENTEN: Yes. It answers the questions. And just one note that when I look at the
+human resources expertise, if we look back at when SB151 was in discussion, which is a world
+and a century ago, really, we were talking about workforce, dropped runs, all those kind of
+things. So to have something-- I'm glad to know that it's up for procurement right now. That
+makes me feel a little bit better instead of it being dropped, because I think we need that for the
+health of the agency and not just a financial.
+But there are some employees who are very concerned about some of the findings in the past,
+about title changes and increased comp but doesn't see a change in duty. And I think that needs
+to be part of the discussion. So Mr. MacLeod, that'd be great if we could get together, because I
+was pretty much told what the FTA gets is what I get. And at this point, the FTA is not asking
+for a line-item [AUDIO OUT]. And I certainly don't mind tens of thousands-- I mean, to look
+
+through them-- of line items. That does not scare me at all. But it's that detail that I am looking
+for. So I would appreciate that conversation too see what we can get with some more details.
+Thank you.
+LYNN GUISSINGER: Thank you. Do we have a head nod to move forward with you, Director
+Menten?
+NATALIE MENTEN: Yeah. I mean, adoption is no. Nothing more of this. And I'd go for
+stronger things. So yes, I'm going to keep pushing. Thank you.
+LYNN GUISSINGER: Thank you.
+BARBARA MCMANUS: Chair Guissinger, this is Barbara McManus. I also just want to
+interject some additional information that could ultimately dovetail with what is going on here.
+And that is the $400,000 that we're spending on the state audit that is going to hopefully bring
+forward some information that this accountability committee can also look at in terms of
+guidance with the information they're looking for as to how RTD operates.
+So, you know, no one's really mentioned that, but I know that staff, my team as well as Heather's
+team and others, are working feverishly on many multiples of emails and questions that are going
+on with that audit that's going on behind the scenes right now. And hopefully that's going to help
+us give some information to this committee that will be helpful as well as all of the other
+guidance, because we don't read out on the Board about that very often, but I wanted to remind
+everybody that that was going on and that the outcome of that could be helpful to us. Thank you.
+LYNN GUISSINGER: Thank you very much. That's a good reminder. It is in the proposal that
+the committee would review the audit findings and consider that towards their recommendation.
+So we appreciate all your work on that. Thanks. Director Mihalik?
+KEN MIHALIK: I don't have anything to add right now. But I will say that this discussion has
+been valuable for me. And I will be a-- my head is shaking yes.
+LYNN GUISSINGER: Thank you. Director Tisdale.
+DOUG TISDALE: Thank you very much, Madam Chair. I have one typo, two questions, and
+one observation. The typo, if you look on the draft proposal that you sent on the first page in the
+paragraph before the accountability committee members are listed, it says the table below shows
+the recommended expertise for the Board. That word should be "committee."
+LYNN GUISSINGER: Thank you.
+DOUG TISDALE: So that's just a typo.
+LYNN GUISSINGER: Changed.
+
+DOUG TISDALE: Then on the accountability committee relative to the members, I assume that
+these were essentially the requirements that the original bill contained as to the people proposed
+for the accountability committee. If it's not from that, can you just advise me where those
+particular categories came from?
+LYNN GUISSINGER: Yes. Those came out of Senator Winters' addition to SB151. It originally
+was seven. It grew to nine. I think it may be growing to 11 people now. And hopefully we'll have
+the information at a point we can get it out to all the Board in just the next couple of days.
+DOUG TISDALE: No, that's fine. Thank you. And then as to the accountability committee
+considerations on the second page, it's really the same question as above, which is what is the
+source of this list? I mean, obviously number two, about the CARES Act, was added recently.
+But I'm just curious about the source of that. Having said that, let me just quickly interject, if
+these were understood to be essentially what the legislature would impose upon us in Senate Bill
+151 or in some replacement bill, better for us to take the lead here. But are these considerations
+essentially what were contained in 151?
+LYNN GUISSINGER: They are. There were some changes, but minimal. And getting back to
+Director Lewis's question, I'm almost certain that language was out of Senate Bill 151. And we
+can get a change on that, I think. The governor's office has added some detail to that that we'll be
+getting out. I don't think it's a lot different from what we're talking about. It's looking at
+financials and recent audits and CARES Act and prioritization of resources and who we serve
+and how we serve them and those sorts of things. But this language that you see, other than, like
+you said, updating with CARES Act and a couple of things like that, it's out of Senate Bill 151.
+DOUG TISDALE: All right, thank you. And then lastly, the observation, I think this effort
+demonstrates communication, collaboration, and cooperation. So I would much rather see it done
+this way than to have the legislature do something without benefit of communication,
+collaboration, and cooperation. And that gives me a head nod at the end of the day. Thank you,
+ma'am.
+LYNN GUISSINGER: Thank you very much. Director Walker?
+JEFF WALKER: Thanks. There are some things in 151 that I liked and some things that I didn't.
+I do like this because I think it kind of dovetails in with the Reimagine RTD, which looks at the
+operations, and this looks more at the governance. But they're there together at the same time,
+even if there is some overlap, and not strictly congruent. So yeah, I'm fine with this moving on.
+You and I spoke earlier about some questions I had, so you definitely have a head nod from me.
+Thank you.
+LYNN GUISSINGER: Thank you. Director Whitmore.
+TROY WHITMORE: Yes, thank you. And congratulations, Madam Chair, and the many others
+that have worked to get to this point. This is certainly a much better position than it was looking
+to be back in February, to Director Tisdale's point. I was pretty active in 151 discussions and
+testimony, like many other Board members. And that just had a problematic and gargantuan
+
+scope that really was a concern to most of us. So I thank the lobby team and Sherry and the rest
+of the gang for moving us in the right direction.
+You know, to play off Jenifer's term of this being a gem, I believe it is. I'm maybe not quite so
+enthusiastic about it, because it's probably a $200,000 gem, if not more. And I'm not sure that we
+can afford a $200,000 gem. But we probably don't have a choice. So with that, yeah, you have an
+affirmative head nod from me, albeit not as enthusiastic as Director Lubow's. Thank you.
+LYNN GUISSINGER: Thank you. Director Williams.
+KATE WILLIAMS: Hi. So I can give you my head nod upfront, mostly because I don't think we
+have a choice. But let me tell you a quick one. I once had a friend whose daughter called him up
+from college and said, Dad, I'm pregnant. And he said, oh my god, you know. Yeah, and in the
+end, she said, no, really. I just got a D in chemistry. And he said, great! That's great news.
+So we're kind of in the same boat here. I have a couple of points that I want to make. I don't see
+that the Senate or the House of Representatives have advisory councils overlooking them. So I
+find it interesting that they think that this body of elected officials should have that. Just an
+interesting observation.
+Number two, RTD has more advisory councils than the pope has bishops. We've got the ACPV
+and we got the APAC and we got the CAC, and now we're going to have another one. We might
+want to suggest that maybe we put all those advisory councils together and have one advisory
+council that's made up of all of those groups. Because either we need to disband all those,
+because they're not doing any good that we have to have another one-- it just seems like we keep
+getting advisory councils and oversight groups. And I don't know. So I'm down for another one.
+I think that it's interesting that we are a Board of elected officials, but we're going to have an
+advisory group that's appointed. I think it's interesting that our legislature wants us to have that,
+but they don't want to pay for it. That's like the fox in the hen house. You know, we're going to
+have an advisory council that we're going to pay for-- another, the fourth advisory council that
+we're going to pay for. But, you know, I'm for it. I'm done with it. I think it's a step in the right
+direction. And I have my head nod, as I said, to begin with. Thank you.
+LYNN GUISSINGER: Thank you. Chair, any additional comments?
+ANGIE RIVERA-MALPIEDE: No. I just want to thank everybody for their candid conversation
+about this. Because at the end of the day, our responsibility is to the region to provide a-BARBARA MCMANUS: Hello? Oh. I wanted to make sure everybody didn't drop off. Maybe
+it's just the Chair.
+I'm still here. Are others still here?
+PEGGY CATLIN: I'm here.
+
+LYNN GUISSINGER:: I'm here.
+KATE WILLIAMS: I'm here.
+[INTERPOSING VOICES]
+LYNN GUISSINGER: OK. We just lost the Chair? OK. All right, well, if she comes back-DOUG TISDALE: Like Stephen Sondheim said, I'm still here.
+LYNN GUISSINGER: OK. All right. Well, that's a good note on which to end. Oh no. I think we
+still have one other matter. I'm just going to wind that up and say that I'm hearing-- it sounds like
+we have the head nod to move forward. And as part of that, as the authority to the Chair and Mr.
+Ballard and all of us to move forward and finish negotiating and bring it back. Many thanks to all
+the teams and Jenifer and Julie, who have been doing a great job, and Sherry and all of them.
+Thanks. Anything else before we move on? OK. Other matters.
+CLAUDIA FOLSKA: I have an other matter.
+LYNN GUISSINGER: Yeah, Director Folska.
+CLAUDIA FOLSKA: Director Folska. Yeah, sorry. Yeah. I think that at some point in the real
+near future here, I would hope that we could make a resolution that would be for the districtwide, enterprise-wide, that is people first language. And I think that John McKay sent out that
+language that the state legislature adopted over 10 years ago. And it's people first language in
+anything we put in writing and how we communicate about people. It seems pretty simple and
+straightforward and obvious, but we lack it in our agency. And I think it would be very valuable
+to put in writing. That's all.
+LYNN GUISSINGER: Great. Thank you. I only had a brief chance to look at it, but I will do that
+more. And anybody else have any comment on that or any other matters?
+SHONTEL LEWIS: This is Director Lewis. I have one, not a comment on that.
+LYNN GUISSINGER: Go ahead, Director Lewis.
+SHONTEL LEWIS: And this is an opportunity to have a conversation. It's also an observation.
+At the beginning of our meeting, we had a moment of silence for George Floyd, and I appreciate
+that. I mean, it seems to me it might be an opportunity for us to revisit our contract with our
+security officers, as we know that they have been harmful to communities of color, similar to
+George Floyd.
+And so while I appreciate the gesture, I think we should probably go a little bit beyond symbolic
+and move into how we change our system. And I think we can do that as a Board by bringing
+forward a resolution that disinvests from folks who are harmful to communities of color and
+invests in more resources like the mental health worker that was recently hired and promoted on
+
+social media and to the Board. And so I urge each one of you to think about that as Directors and
+how we can make systems change as Directors and not just be responsive in the future. Thank
+you.
+LYNN GUISSINGER: I appreciate that. I think that-- I can't speak directly to the contract with
+security officers, although I know it's coming up. But I think that that is something we all need to
+be aware of and thinking about right now in the world that we're in. Any other comments?
+ANGIE RIVERA-MALPIEDE: Director Guissinger, I'm sorry. I think my phone died.
+LYNN GUISSINGER: You're back.
+ANGIE RIVERA-MALPIEDE: I'm back. I'm so sorry.
+LYNN GUISSINGER: It's all right. Go ahead.
+ANGIE RIVERA-MALPIEDE: No, that's OK. I think-LYNN GUISSINGER: [INTERPOSING VOICES]
+ANGIE RIVERA-MALPIEDE: No. I just really want to thank you for the hard work you've
+done. And I think that this is our opportunity to change the trajectory of RTD in terms of
+developing a collaborative model with all of our key partners in the community, from the
+governor's office all the way to our transit riders. And I'm really excited and look forward to this
+opportunity, and I'm honored to be doing it with all of you. Thank you.
+LYNN GUISSINGER: OK. Thank you all. Anything else?
+JUDY LUBOW: This is-- yeah, this is Judy Lubow. I'd like to comment on Shontel Lewis's idea.
+LYNN GUISSINGER: Please.
+JUDY LUBOW: I just want to say that-- I do think in light of the horrible, horrible events of the
+last few days and what we've seen and what happened to the gentleman that was killed that it
+would be appropriate, I think, to be looking at our own transit and making sure that we're as propeople as possible. And I think it would be an opportune time to see if there's any way to be
+making any improvements that we could do. And I would urge staff to look at that in that light.
+LYNN GUISSINGER: Any other comments? I would agree with you. As I said briefly earlier, I
+think we're in a time where we all need to be thinking about how we address equity issues and
+how we are treating people. And I hope I would agree with those comments and hope we do
+move forward.
+KEN MIHALIK: This is Director Mihalik. I just have one thing to say. Just to add-- well, not to
+add on, but the idea that-- just an observation that the events that have spread around the world
+now aren't just because of George Floyd's murder. It's decades and tens of thousands of
+
+incidences where people have been brutalized. And so let's hope this time actually does change
+something, but it wasn't just this one, this one event.
+SHONTEL LEWIS: Agreed. Agreed. Thank you, Mihalik.
+LYNN GUISSINGER: So I think that's right. And I think we talk about the code of conduct, but
+let's look at all what we're doing. I appreciate that. All right, anything else?
+NATALIE MENTEN: Yes, I have one. Menten.
+LYNN GUISSINGER: OK, Director Menten.
+NATALIE MENTEN: Yeah. So I know that in the past there have been some incidents. And I'm
+not sure where we go with this plan to evaluate our internal officers and the security firm that we
+hire. So what is being proposed? Because I heard some people agree. Can I understand a little bit
+better what that all meant?
+SHONTEL LEWIS: I'll bring a resolution forward. What I was essentially saying is, it's nice for
+us to be symbolic. And I appreciate Mihalik, Director Mihalik saying, this isn't about one
+murder. This is about hundreds of years of harm to communities of color, to black people, to
+brown people, to indigenous people. And my ask was that we, as Directors-- right, we talk about
+the code of conduct. That's a great example, Director Guissinger.
+But I was speaking specifically to our contracts with Allied Security. We have had discussions
+and concerns. We've heard from constituents about those folks specifically. This would be a
+really great time for us to not invest of the very little resources that we do have at this point, with
+COVID, and invest those in other places. And so I'm talking about that contract specifically. I've
+mentioned it a few times. I've been concerned about it. And this would be a really great time for
+us to move away from symbols to system change. And so that's my ask, Director Menten.
+NATALIE MENTEN: So I guess my question, then, is, if we talk about police and how they deal
+with the public or authorities, somebody who's carrying a gun, why would it be specific just to
+certain skin tones? Because it should be across the board. And for me, when I've gone down-- I
+addressed this in a couple meetings during the code of conduct. I don't want to say undercover,
+but it wasn't like I announced myself, hey, I'm a Board Director. I'm sitting down here watching
+you, watching what's going on-- that I saw these officers in these cases actually being quite
+compassionate. So I realize there are instances, but I would have concern if we were targeting
+only certain individuals versus a general across-the-board philosophy. So I'm sharing that
+thought. Thank you.
+SHONTEL LEWIS: I am not going to-- I don't know how to respond to that in a way that I think
+would be fair to you on this call. But I will say, Director Menten, that black men, black women
+dying in the streets, is why. And I will leave it there.
+NATALIE MENTEN: All right. I think it should be an across-the-board-- I am one that likes to,
+for me personally, when I have an exchange with somebody, I am not looking at the color of
+
+their skin. And if we are talking about human treatment and treating humans properly, then I
+don't think the skin color should be part of it. We should all be respected. We should all be
+loving one another and treating each other as we want to be treated. And the skin color, to me, if
+we're going to have a Board policy, would not narrow it to only certain individuals.
+SHONTEL LEWIS: Well, Director, I appreciate your sentiments. And I appreciate this idea of
+utopia. We do not live in utopia. And I'm specifically naming black and brown bodies that are
+murdered by police. We have someone who is currently suing us because of what transit security
+officers did to a homeless man. So I'm asking that specifically because black and brown bodies
+are dying in the street. And so someone, maybe another Director might reach out to you, and
+have this conversation with you to help you better understand it. But I will leave it there.
+NATALIE MENTEN: OK. Well, I would have to look at records. I would have to look back at
+police reports and then say, what, there is no Caucasian this ever happened to?
+LYNN GUISSINGER: You know what, I'm going to intercede here. I think that your sentiment
+is right, that we hopefully aren't seeing color. But obviously it has been a problem historically, as
+Director Lewis and Director Mihalik and others have pointed out. You know, I'm going to take
+this offline and figure we've had enough for tonight. And let's continue the conversation offline if
+we need to. And I think we do. So thanks. If there is no other matters, I'm going to consider this
+meeting adjourned. Is there anything else? Meeting's adjourned. Thanks.
+
+

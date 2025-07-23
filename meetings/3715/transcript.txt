@@ -1,0 +1,2059 @@
+2024-11-13
+Operations Safety and Security Committee
+TROY WHITMORE: Good evening, all. The Wednesday, November 13 Operations, Safety, and Security
+Committee of RTD will now come to order. We are convened as of 5:31 PM Mountain Standard Time.
+I would like to respectfully ask everyone attending this meeting to mute yourself unless you are
+recognized to speak. We do thank you all for joining us this evening. Please note that committee
+meetings of the RTD Board of Directors will be held remotely via Zoom and will be audio and videorecorded. The meeting recordings, along with the unofficial minutes of the meetings, will be posted as
+soon as practicable on the Board's website.
+During tonight's meeting, we are also providing Communications Access Realtime Translation, also
+known as CART. Anyone who would like to access this service should send an email to the RTD Board
+Office at rtd.boardoffice@rtd-denver.com, and a link will be provided.
+Additionally, the CART transcript can be automatically translated into Spanish for anyone who would like
+access to a live transcript of this meeting. You can ask for that additionally in Spanish. A livestream of this
+meeting is also available via RTD's YouTube page.
+All right. At this point in time, I would like to call the role of the committee members. Vice Chair Julien
+Bouquet.
+JULIEN BOUQUET: Present.
+TROY WHITMORE: Director Ian Harwick.
+IAN HARWICK: I am here.
+TROY WHITMORE: All right. Director Jaime Lewis.
+JAIME LEWIS: Present.
+TROY WHITMORE: Director Paul Rosenthal.
+PAUL ROSENTHAL: Present.
+TROY WHITMORE: Thank you. Director Marjorie Sloan.
+MARJORIE SLOAN: Here.
+TROY WHITMORE: Director JoyAnn Ruscha. And I am Director Troy Whitmore, the Chair. So we have
+six present at the moment, and we'll be watching for Director Ruscha's attendance, I think, probably
+momentarily.
+
+Also, we have in attendance First Vice Chair Peggy Catlin and Secretary Michael Guzman. Thank you
+both for being here. Are there any non-committee Board members that have joined us that I missed?
+OK. It's now time for public comment. I will open the public comment to anyone who would like to address
+the Committee regarding any topic listed in the published meeting agenda for the current and immediately
+preceding month. If you wish to speak and have not already done so, please either raise your virtual hand
+or press pound 9 on your phone.
+During this time, the committee will not offer any direct comments or responses. However, if you would
+like to be contacted regarding your public comment, please email the RTD Board Office at
+rtd.boardoffice@rtd-denver.com. All right, Board Executive Manager Jack Kroll, do we have hands raised
+for public comment?
+JACK KROLL: Director Whitmore, at this time, I do not see any hands raised. Oh, and one has gone up
+just as I said that. We have one hand raised, and that is currently from Nate Trela.
+TROY WHITMORE: All right, Nate. You know the drill. You have three minutes, and the floor is yours.
+NATE TRELA: Yup. Thank you for the opportunity to speak to the board today. I'm Nate Trela, of
+Englewood. I am a Board Member of the Blind Parents Division of the National Federation of the Blind of
+Colorado. As you probably can assume, I'm very interested in the discussion about the recommendations
+for possible changes to Access-on-Demand.
+I think the more measured pace than was first indicated to make these decisions is certainly a welcome
+development for the Board, taking a few more months to settle in on a final decision. The preliminary
+proposal in the agenda packet for this Committee is a little concerning. Just for the scale of the cutbacks,
+it does seem to really dampen the utility of it for people that have fuller, more active lives and schedules,
+whether it's balancing work, children, getting kids around, or their own studies. The cut to 30 rides that is
+suggested in this initial proposal seems pretty steep and a pretty significant hindrance to the utility of the
+program.
+And I would definitely be curious to see what comes out of the suggestion about cutting back the service
+times and service area to align with Access-a-Ride for the amount of savings spelled out in the proposal,
+versus the additional burden that it could create either administratively, for RTD to manage it, or for some
+users that may just find the system unworkable because of the complexity of trying to keep track of
+whether their rides actually fall within the guidelines. It's certainly something that I know many of us will be
+interested to see implemented. So, look forward to hearing more details about this, and I'm sure there'll
+be much more discussion over the coming months. Thank you.
+TROY WHITMORE: Thank you, sir. We appreciate your comments. Mr. Kroll, any other raised hands at
+this moment?
+JACK KROLL: Committee Chair Whitmore, at this time, I do not see any further hands raised.
+TROY WHITMORE: Thank you, sir. While I still have you on board, do we have any email comments
+regarding public comment?
+JACK KROLL: Committee Chair Whitmore, we did not receive any email comments in advance of this
+meeting that were submitted as public comment.
+
+TROY WHITMORE: Thank you, Mr Kroll. So public comment is now closed. So item C, Information from
+External Entities, there are no external entity reports this evening. We have two recommended actions,
+and we have four discussion items. I just want to remind all presenters and board members that we do
+have a four-hour limit, and we will need to move forward with an extension if we're not judicious with our
+presentations and our questions. So let's pace ourselves well and see where we're at around 8 or 9
+o'clock.
+So let's move to recommended actions. The first action is the January 2025 Title VI Service Equity
+Analysis, and it is for the Board of Directors to adopt the Title VI Service Equity Analysis report for
+January 2025 service changes to comply with federal laws, regulations, and guidelines related to Title VI
+of the Civil Rights Act of 1964. Do I have a motion?
+MARJORIE SLOAN: So moved, Sloan.
+TROY WHITMORE: Do I have a second?
+JAIME LEWIS: Lewis.
+TROY WHITMORE: Thank you. I have a motion from Sloan and a second from Lewis. I'd like to ask a
+number of staff members to make the presentation. We'll start with Martin Romero, Transit Equity
+Manager, Civil Rights Division, and/or Carl Green, Jr., Director of the Civil Rights Division, plus Jessie
+Carter, Senior Manager Service Department, to present this item. So whichever one of the three of you
+wants to kick it off, the floor is yours, gentlemen.
+MARTIN ROMERO: Got it. Thank you. Good evening, Board Chair Whitmore and members of the Board.
+My name is Martin Romero. I'm the Transit Equity Manager. And tonight, I'll be going over the January '25
+proposed service changes Title VI Service Equity Analysis. Next slide, please, Carl.
+So a quick overview of the presentation-- I will be summarizing the proposed service changes. I'll talk
+about the FTA requirements. I'll cover the equity analysis decision tree, and then we'll get into the Title VI
+policies and methodology.
+I'll go over the results specifically for Route 35 in a little more detail. I'll touch on public outreach and then
+conclude with recommendations. Next slide, please.
+OK. So here we have an overview of the proposed service changes for January 2025 that were outlined
+by Senior Manager of Service Development Jessie Carter on October 9. And at a high level, there are a
+total of 27 proposed service changes. This includes 15 service increases, where we are adding service in
+some form to a route; six modified services, or route adjustments; and then six scheduled timing
+adjustments. And Jessie will provide you with a little more detail on the proposed changes following this
+presentation. Next slide, please.
+So the FTA requires RTD to perform a service equity analysis for major service changes. And so I'll go
+ahead-- I'll explain what defines a major service change during the Title VI Policies section of the
+presentation. Next slide, please.
+So as a transit agency receiving federal funding, RTD must follow specific laws and regulations to ensure
+equitable services for all communities. These laws include the Title VI Civil Rights Act of 1964, which
+prohibits discrimination in federally funded programs. It includes the FTA Circular, which guides how
+
+agencies like RTD meet Title VI requirements, and then our Board-adopted Title VI program, which
+outlines the policies and processes we use to ensure compliance with this type of work. Next slide,
+please.
+OK. So this slide here provides an overview of the three steps in the decision-making process for
+conducting an equity analysis. In step 1, we evaluate the type of change. And so in this step, if we
+determine, yes, the change qualifies as a major service change, we move on to step 2, which is where we
+assess whether the change results in a disparate impact on minorities or a disproportionate burden on
+low-income populations, which we refer to collectively as equity populations.
+And just a note, low income is defined as individuals at or below 150% of the federal poverty level. And so
+if adverse impacts are identified, then we proceed to step 3, where we evaluate alternatives and identify
+ways to minimize, mitigate, or avoid potential impacts on equity populations. Next slide, please.
+OK, so Title VI Policies refers to major service change, disparate impact, and disproportionate burden
+policies. I'll refer to disparate impact as DI and disproportionate burden as DB going forward, to keep the
+language a little easier and more simple. Next slide, please.
+So what is a major service change? RTD defines a major service change as 25% addition or reduction in
+the service hours of any route or line that would remain in effect for 12 months or more. And so based on
+this definition, this analysis results in 8 out of 27 service changes exceeding the major service change
+thresholds. I do want to point out that the major service changes identified are increases to service. Next
+slide, please.
+So DI/DB, which we also know as Title VI policies state that a major service change should not adversely
+affect equity populations 10% more than non-equity populations. And specifically, the policy states that for
+a service increase, equity populations receive no less than 10% of non-equity populations, and for service
+reductions, equity populations receive no more than 10% of non-equity populations.
+So given that information, I'll walk you through an example of how we assess potential disparities for the
+proposed changes. So this graphic here on the right shows that 25% of the non-minority population is
+impacted by a proposed change. In order for us to calculate that 10% threshold for a service decrease,
+we would multiply 10% times 25, for a total of 2.5%, then we add 2.5% to 25%, giving us a threshold of
+27.5%. So the proposed change to a route or a line resulting in more than 27.5% of the impacted
+population being minority individuals, this would indicate a potential disparity for a major service
+reduction.
+And for a service increase, which is what we're looking at here today, we subtract 2.5% from the 25%, for
+a threshold of 22.5%. And so if the proposed change on a route or a line impacts minority populations at a
+percent that falls below 22.5, there is a possible disparity for a major service increase, and the same type
+of calculation applies for testing the disproportionate burden, DB. Next slide, please.
+OK, so each Title VI policy is applied at the route level. And this analysis examines the demographics
+within a quarter mile of an individual route using US Census data, and it helps us understand how
+changes will affect that specific population within the quarter mile. So one key data point to mention is
+that the service district average for a minority is 37.5% and 14.2% for low income.
+The system-level analysis combines all the block groups' populations, not just those within the quarter
+mile. And this helps us to understand the net impacts on any service running through the block groups.
+
+So ultimately, this approach gives us a comprehensive understanding of how to ensure equitable access
+to our services. So because this measure-- because the system-level analysis measures net impacts, the
+net impacts of system-level analysis holds more weight than the route-level findings. Next slide, please.
+OK, so let's talk about route-level analysis. To simplify, I created this table to indicate which changes have
+a potential DI or a DB at the route level. So as shown, Routes 100, Route AB1, LD1, and-- sorry, LD1,
+have a potential DI, and Route 139 has a potential DB.
+All other routes do not have a DI or DB. And for explanatory purposes, I will go over Route 35 just to
+show how DI and DB is examined. The Board can refer to pages 18 through 27 for the full details on the
+routes.
+OK, so as it relates to Route 35, just a quick reminder that Title VI policies establish the thresholds in
+order to perform the comparison. So the results for Route 35 indicate that minority populations receive
+more of an increase in service, with 1.01%, compared to non-minority populations at 0.65%, a difference
+of 0.5%. This does not meet the threshold of 0.58%, and therefore, there is no potential DI finding.
+On the other end, low-income populations stand to benefit slightly more, with 0.19% more of the benefit.
+This does not meet the 0.71% threshold. Therefore, there is also no DB found here. Next slide, please.
+OK, so in addition to a route-level analysis, we also lay focus on key activity centers to better understand
+where customers are going. This analysis helps us look for changes to access to retail and convenience
+stores, academic institutions, social services, senior housing, and employment centers, and it helps us to
+assess increased, reduced, or new access to key locations. Next slide, please.
+OK. So as we look at the eight routes with the proposed changes, we can see that the service increases
+enhances access to various locations. I do want to point out that with the increase in service access-- with
+the increase in service, access to these key activity centers will improve because buses will run more
+often, allowing more convenient and flexible travel options. However, these changes do not add new
+centers. It simply enhances access to the existing ones.
+So some of the more notable enhancements are the 69,649 and 21,980 enhanced access to jobs on
+Route 84D and Route FF5, respectively. Grocery access was enhanced to 176 locations on Route 83D
+and 170 locations on Route LD1. Improved access to social service centers-- on Route 35, Route 83D,
+and Route LD1, at 34, 85, and 59 locations, respectively. All other key activity centers also saw an
+enhancement in access to senior housing and academic institutions. Next slide, please.
+OK, so now let's get into the system-level results. As a reminder, system-level results, as I mentioned
+earlier, has more weight when considering that it does explain the net impacts of the changes as opposed
+to the route-level findings.
+And so the minority populations here stand to benefit more compared to non-minority populations,
+10.61% versus 10.32%. The difference here is 0.29%. This does not meet the DI thresholds of 9.29%.
+Low-income populations stand to benefit more compared to non-low-income populations, 12.80% versus
+9.89%, a difference of 2.9%. This difference does not meet the DB threshold of 8.90%. Next slide, please.
+OK. So as it relates to service changes, outreach and public engagement is just as important. I'd like to
+highlight that the Communications and Engagement and the Service Development team partnered to hold
+a Citizens Advisory Committee presentation on October 10, along with three public meetings, two of
+
+which were virtual, and one was in person. They also attended various events throughout the end of
+October to inform the public about the proposed changes, including the major service changes.
+And I also do want to highlight that the feedback received through online surveys for the major service
+changes shows strong community support, with 65% of the respondents indicating very positive impacts
+and 20% reporting a somewhat positive impact, based on 1,289 survey responses. And I invite you to
+look at page 15 of the Board packet for a more specific breakdown of the percentages related to the
+major service changes. Next slide, please.
+OK. The Transit Equity Office also played a key role in promoting the major service changes specifically
+to equity populations. Through our Multicultural Outreach and Engagement Services contract, we
+conducted direct outreach to inform the community about the proposed changes.
+These contracted community-based organizations help to spread the word across various locations,
+disseminating information at nine events and reaching a total of 944 community members directly.
+Additionally, we advertised changes through community partners including the Montbello MUSE,
+Servicios de la Raza newsletter, and Denver Public Library. Next slide, please. Next slide, please.
+OK, so to conclude our analysis, as I mentioned, the Title VI concerns are minimal and do not raise
+concern about inequitable distribution of benefits. At the route level, we observed only minimal differences
+between comparator groups, and there are no practical alternatives to avoid, minimize, or mitigate the
+findings.
+At the network level, there are no DI or DB findings. Equity populations actually stand to benefit more
+than non-equity populations. And lastly, the proposed changes also enhance access to key activity
+centers. Next slide, please.
+OK. So to bring it all together, I presented the Title VI Service Equity Analysis, methodology, findings, and
+the conclusion. This fulfills the FTA requirement for Board awareness and consideration of the equity
+analysis. Therefore, staff recommends the approval of the January 2025 Title VI Service Equity Analysis,
+and this brings us to the end of the presentation. I will take any questions, then.
+TROY WHITMORE: Thank you, Mr. Romero. Wonderful, thorough presentation, always good review for
+all involved, so I appreciate your hard work in presenting this to us in this committee.
+Before I ask for opening of questions, I just wanted to note that Director JoyAnn Ruscha has joined the
+meeting, so we are at a full complement of committee members at this point. With that, any questions for
+Martin or Carl or Jessie? Director Lewis, the floor is yours.
+JAIME LEWIS: Yeah, I just have to comment, on page 64, that was pretty impressive, the access to key
+activity centers. I think that's what people have been looking for for a long time, especially when we talk
+about connecting communities and the services they need. So I definitely will be copying that page and
+sharing it with as many people as I can, so thank you very much.
+TROY WHITMORE: Yeah. Thank you, Director Lewis. Very good point. I see a hand raised for Director
+Ruscha. Floor is yours.
+JOYANN RUSCHA: Thank you, Mr. Chair. The dog didn't eat my homework, but the bus was late. I
+apologize.
+
+[LAUGHTER]
+So I just had a question. On the slide where we talk about activity centers or grocery stores and the like,
+where are we pulling that data from? I think this might have been asked the last time we had a similar
+presentation.
+But I noted, in the slide, we just didn't have a citation at the bottom, and I was curious where we get that
+information. And I will just-- the context behind that is I often see "grocery stores," but there have been
+times in routes in my district where I see that and I have to wonder, Are we seeing grocery store when it
+might be a convenience store, a place where you can get a snack and a banana, but it's not a full grocery
+store?
+And then, also, when we talk about job centers, I'm just thinking, given the economy and COVID and the
+like, what date are we pulling that from? Does that make sense? So I just want to know generally. Those
+are really important data points, and I want to know where we get them from and how current that data is.
+Thank you, sir.
+MARTIN ROMERO: Director Whitmore, if I may?
+TROY WHITMORE: Please, proceed, Martin.
+MARTIN ROMERO: So this data is pulled by applying-- similar to the route-level analysis, there's a buffer
+that is placed on or around certain routes, and any key activity centers that fall within that buffer are
+pulled in to the report. And so this information is dated as-- so we use NAICS codes to pull these key
+activity centers.
+JOYANN RUSCHA: Mr. Chair, if I may?
+TROY WHITMORE: Just a moment. Debra Johnson, CEO/GM, may have something to add to that, and
+we'll certainly come back to you, Director Ruscha.
+DEBRA JOHNSON: Thank you, Committee Chair Whitmore, and thank you, Director Ruscha and Mr.
+Romero, allowing me to intervene. I just wanted to qualify and clarify and define the acronym of NAICS
+codes, because maybe everybody isn't familiar. We're talking about the North America Industrial
+Classification System. So basically, that's a standard utilized tool in which businesses classify what their
+core businesses are.
+And also, a point of notification relative to what's on slide 14, it does say grocers and not grocery stores,
+just to further amplify the comment by Director Ruscha, when she said it may not be a full-fledged grocery
+store, but a grocer is somebody that sells things that can be consumed, eating. So to her point, that you
+could get a banana or a snack, this doesn't implicate-- or imply, excuse me, that it's a full-fledged grocery
+store. Thank you.
+TROY WHITMORE: Thank you, Ms. Johnson. Director Ruscha, I think you had a follow-up or two.
+CARL GREEN JR: Or, Director Whitmore, can I add a little bit more to the context?
+TROY WHITMORE: Carl. Go right ahead, Carl.
+
+CARL GREEN JR: Thank you so much. So in addition to the NAICS code, the North American Industry
+Classification System, which is pulled directly from US Census data, so the key activity centers is more or
+less an amalgamation of different data sources which includes the NAICS codes. In addition to that, it
+uses the longitudinal employer household data from the census data, and we also retrieve data from
+DRCOG on some of the key activity centers.
+So based off of all that, those four to five different data sources-- and I would say they range in terms of
+the year that was provided. So the current year that we have right now is from 2022, but we are in the
+process of updating our key activity centers with the latest and greatest information. So I just wanted to
+add that finer point.
+TROY WHITMORE: Thank you, Carl, for answering part of Director Ruscha's question there. Director
+Ruscha, floor is back to you.
+JOYANN RUSCHA: Thank you, sir. That was actually a bit of my follow-up question. I think it was
+sufficiently answered. And then I just-- just a request for staff, moving forward, if we could just-- and I
+used to be a teacher, so this is not-- I'm not trying to be preachy. This is probably an annoying old habit of
+mine.
+Would you guys mind popping those citations in? I think we've had similar questions in the past in this
+committee, but that might just answer questions before we have to ask them. But yes, that actually filled it
+in for me very well, and I appreciate that.
+I also did have a comment slash question about the survey, and that might come later on in the
+presentation. I'm in transit right now, so, Mr. Chair, could you just kindly remind me, if it's not too late, if
+there will be time for-- or when it is appropriate to weigh in on that survey?
+TROY WHITMORE: Well, I do not see any other requested questions from the rest of the committee, so
+now would be the time, if it's handy for you.
+JOYANN RUSCHA: Thank you, sir. And this is-- I thought a bit about how I would say this, and I don't-I'm not disparaging staff for the outreach we've done. I wanted to flag a concern. When I read the survey
+and I read the comments-- and as I promised, I read every single comment, so the gentleman who talked
+about potentially being a victim to a vacuum at DIA, if you're listening, I read your comment, too.
+But when I was looking at the survey and the survey results, we also pulled zip codes. I'm very
+appreciative of staff for showing where those comments are coming from, and I couldn't help but to note,
+in terms of our outreach and our survey results, that the area I represent, which is highly transit
+dependent-- and that's just the far Northeast as well as a part of Aurora-- didn't have representation. And
+so it's not to disparage the work that we did, but just to ask that as we move forward and we make more
+enhancements in this outreach process, that we pay attention to those areas as well.
+Again, I wasn't sure how to deliver that message, and I don't want to come off as saying staff didn't do
+something. I think we as a team, the entire team-- that includes the Board, too-- just need to be as
+cognizant as we can, and we need to go where people are and not just expect folks to come to us. So I
+will also take responsibility as a Director to do my part to do better, when these things are coming, to go
+to where folks are, and I just I wanted to make that comment because I also hold myself responsible.
+But thank you for folks, for staff, for pulling this all together and for the work that you've done. And that
+concludes my comments on this topic for the evening. Thank you, Mr. Chair.
+
+TROY WHITMORE: Thank you, Director Ruscha. I see no further Director hands raised. So with that, we
+do have a proper motion by Director Sloan and seconded by Director Lewis. At this moment, I would ask,
+are there any no votes on the motion? Hearing and seeing no votes on the motion, I declare the motion
+carried seven yes to zero nos.
+Thank you very much. Let's move on to our second action item, the January 2025 Service Change, for
+the Board of Directors to approve the January 2025 Service Change as revised and summarized in
+attachment A, and to authorize the General Manager and CEO, or her designee, to execute contract
+amendments as necessary for private operators impacted by the service charges. Do I have a motion?
+JAIME LEWIS: So moved, Lewis.
+TROY WHITMORE: Thank you. Do I have a second?
+IAN HARWICK: Second.
+TROY WHITMORE: And that was Director Harwick with the second. All right. Thank you.
+We have a motion and a second. So I will now ask Fred Worthen, Assistant General Manager of Bus
+Operations, and Jessie Carter, Senior Manager of Service Development, to present this item. The floor is
+yours, gentlemen.
+FRED WORTHEN: Thank you, Chair Whitmore. I'm Fred Worthen, Assistant General Manager of Bus
+Operations. As Chair Whitmore stated, staff is bringing forth the recommended action to approve the
+January 2025 Service Change as revised and summarized in attachment A. As is customary, staff
+presents three service change recommendations over the course of a year's time, for discussion and
+subsequent recommendations, in alignment with our collective bargaining agreement with the
+Amalgamated Transit Union Local 1001, for frontline operator work selection.
+Staff has previously briefed you regarding preliminary recommendations under consideration. At this
+point, I would like to invite Jessie Carter, RTD Senior Manager of Service Development, to join me with
+further details regarding the final recommendations regarding the service change. Mr. Carter.
+JESSIE CARTER: Thank you Mr. Worthen. This is Jessie Carter, Senior Manager of Service
+Development. The January 2025 Service Change Recommendation are a relatively large service change,
+and so it has been received quite well from the public. We've had three public hearings one in person-well, one via a Zoom meeting and one via MS Teams, which were relatively well attended. Also, there
+was a survey done by our communications department which had over 900 responses, which is very
+large in terms of a turnout to respond to a survey regarding a service recommendation.
+So with the January 2025 Service Change, we had a number of notable changes to include a restructure
+of the combination of-- or a recombination of the Routes 1 and 44, increases to spans of service on the
+24 and 73, increases to service frequency on Routes 49, Route 105 and Havana, and Route AE. Also, we
+had proposed a reinstatement of the Eastern segment of the Route 35, which has not run since 2020, and
+reinstatement of 15-minute service frequency on the E and the H lines are also proposed.
+So with that-- I do want to pay attention to everyone's time. I think there are a lot of things that are on the
+agenda. But I want to take this opportunity to thank both Customer Services-- I'm sorry, yeah, Customer
+Services, for their participation in our outreach process, and also Civil Rights for their participation in our
+outreach. With that, I would like to open to questions or send it back to you, Mr. Worthen.
+
+TROY WHITMORE: All right, gentlemen, thank you very much. As always, great work and important
+work. Are there Directors that have questions? We have analyzed this wonderful service change update
+on numerous occasions, but certainly, tonight is another opportunity.
+I do not see any hands raised, that indication of a very thorough presentation in the past by both of you,
+so thank you so much. With that, we do have a proper motion made by Lewis and seconded by Harwick.
+Are there any no votes on this motion? Director Ruscha, I'm sorry, I just saw your hand raised. Go ahead.
+JOYANN RUSCHA: It was a no vote, sir.
+TROY WHITMORE: OK, we will do a roll-call vote. That's fine. Let me grab my list. All right, Committee
+members, how do you vote? Vice Chair Bouquet?
+JULIEN BOUQUET: Yes.
+TROY WHITMORE: Director Harwick.
+IAN HARWICK: Yes.
+TROY WHITMORE: Director Lewis.
+PAUL ROSENTHAL: Yes.
+TROY WHITMORE: Director Rosenthal.
+PAUL ROSENTHAL: Yes, and thank you to staff for increasing service.
+TROY WHITMORE: Director Ruscha.
+JOYANN RUSCHA: Regretfully, no.
+TROY WHITMORE: All right. Director Sloan.
+MARJORIE SLOAN: Yes.
+TROY WHITMORE: And I'm the seventh member, Director Whitmore, and I vote yes as well. So the
+motion passes, six yeses to one no vote. Thank you, Fred, thank you, Jessie, for your presentation.
+All right, at this time, we will move into our four discussion items, and let's start with the first one.
+Obviously, we have Charlene Polege with us to give us an update. Our Chief People Officer Charlene
+Polege will present this item, as usual. Charlene, the floor is yours.
+CHARLENE POLEGE: Great. Thank you, Chair Whitmore, and Committee members. I will bring up my
+presentation, and I will heed the Chair's suggestion at the beginning with respect to minding our time. I
+have presented this update every quarter, and so I don't want to waste too much time. So I will just call
+out some specific items that I'd like to highlight.
+My name is Charlene Polege. I'm the Chief People Officer here at RTD. Before I jump in, is my sound
+fine?
+
+TROY WHITMORE: You sound great tonight. Thank you.
+CHARLENE POLEGE: Awesome. Always want to check. Great. So this evening, we're going to go over
+recruitment and retention, and also, I'd like to provide the Committee with an update with respect to some
+new additions to our human resources team. Jumping right in to recruitment, key items I'd like to call out
+here is-DEBRA JOHNSON: Ms. Polege, if I may?
+CHARLENE POLEGE: Yes?
+DEBRA JOHNSON: Your presentation is not visible.
+CHARLENE POLEGE: Is it not-- can nobody see it?
+DEBRA JOHNSON: No.
+CHARLENE POLEGE: Well, OK, let's try this again. I tested it, GM Johnson, before, [LAUGHS] so. I
+came on early. I have witnesses.
+Let's go. Let's see. How about now?
+DEBRA JOHNSON: It is. And if you could put it in presentation mode, we'll be set.
+CHARLENE POLEGE: Will do. We good?
+DEBRA JOHNSON: Yes. There we are. Thank you, very much, Ms. Polege.
+TROY WHITMORE: There we are. Thank you. Proceed.
+CHARLENE POLEGE: Wonderful. OK, so let's jump in. So recruitment, retention, and updates with
+respect to the human resources team-- would like to talk about recruitment. We're going to jump in here.
+Key items I want to call out on this slide is that we have reduced our overall vacancy rate by 3%. We had
+reduced it by 2% the prior quarter. And so we are now sitting at a 12% vacancy rate. We are, as of
+September 30, just under 3,100 employees, against a budget of 3,457.
+Specifically, looking at the quarter, our approach to hiring, with respect to focusing in on high-volume
+hiring, we continue to exceed our percentage of our hiring from the previous year. I think that's about a
+27% increase in the number of hires. So that is the green arrow indicating we're moving in the right
+direction.
+Conversely, though, when we look at our separations-- so that is the turnover that we are having-- we
+definitely are seeing an increase in the sheer number of turnover of employees who have departed. That
+is relative, again, and I'll talk about that when we look at the retention stats. I'm keeping that as a yellow
+because this is not a number that we want to see going up. We want to see that number going down. And
+again, we'll talk about that a little bit in the turnover section.
+
+But all in all, if we're looking forward towards the end of the year, from a hiring perspective, in 2023, the
+entire year, we have actually met that number, two shy of that number by the end of Q3. So we will
+surpass the new hires for 2024 relative to 2023.
+So how does that look when we roll down into specific areas? Again, we focus in on key areas. For
+service delivery, when we look at bus operations, you're seeing a lot of positive movement here.
+Specifically, with our full-time bus operators, it's saying a hundred percent staffed.
+I want to make sure, as I did previously, I just want to call out that this is our budgeted positions, so this
+includes people who are in training. So these are not employees who are able to go out and jump in to
+service delivery. They are in training. However, this number, we have 850 budgeted full-time operators,
+and including those trainees, that puts us at 852.
+I want to also highlight here that that is an improvement over the prior quarter, but we are not stopping at
+852. It may seem odd to hire over our number of budgeted positions, but we are taking into consideration
+that not every one of our trainees makes it through training. We have a steady pace, as we'll talk about, in
+turnover of retirees, and so we are continuing-- essentially, we're enlisting a bit of yield management from
+a hiring perspective.
+For part-time operators, we are sitting at 80%. We've had an increase from Q2 to Q3 of-- a 2% increase
+in our part-time operators. Our part-time operators are retired RTD operators who come in on a part-time
+basis.
+Maintenance and general repair-- positive move forward. Our maintenance and body shop, we've also
+had some significant increase here. This is really a positive return for us because we look after and
+maintain all of our equipment, and so these roles are critical to our ability to have a vehicles available for
+our operators to drive.
+Just to bring into context, when we're showing an 89%, for example, with the maintenance and body
+shop, just because of the number of positions, that 89% equals two vacant positions. Overall, from a
+staffing perspective, bus operations is sitting at an overall totally staffed rate of 90%.
+Shifting, then, to light rail, we're seeing, again, some positive trends. With respect to our operators, light
+rail is also sitting close to a hundred percent staffed. I did hear today that we actually have hit over. We
+have 200 budgeted light rail operators. As of today, we actually have surpassed that number.
+But again, we're using the same approach. Equally, that includes trainees. So here, as of the end of
+September, we had 20 trainees. We sit at 97%. And we will continue to effectively overhire to try to
+counter the impacts of retirees and other components with respect to turnover.
+Our part-time train operators-- sitting at a hundred percent. Light rail maintenance and service and
+cleaning are some areas where we saw, actually, a decrease over the prior quarter. So we're looking
+forward to these numbers coming up. I can say, with respect to service and cleaning, we should see
+some improvement there, but certainly still going in a much better trend than where we were in 2023 in
+these two areas.
+But we still have room for improvement, hence that these two areas are showing in the middle and the
+gold section of the graph. Maintenance of way, there was no change, and the overall staffing rate has
+improved by 1%. That's predominantly driven by our train operators.
+
+We're looking at our commuter rail. Commuter rail, I just want to highlight, we have had, again, similar to
+a couple of the positions we saw in light rail, specifically, we've seen some decrease in the percentage
+staffed. We still want to push into the green across the board, so that's with our conductors and
+engineers.
+But I also want to give, for the Committee's context-- sorry, I want give some context to the committee.
+This change of negative 7-- so the previous quarter, for conductors, we were at 87% staffed. We're now
+at 80% in that September 30 timeline.
+That's a reduction of two positions. We had two individuals turn over in that role. Same metric holds for
+our train engineers.
+Overall, with our rail laborers, we also saw a reduction. Conversely, that 6% reduction equals one
+position, so I just want to highlight those.
+We're still pushing. We want to get into the green. And we're still working on our hiring strategies for these
+positions. But overall, I think what I take away from this is that we've had some small turnover, and I'm
+hopeful that in Q4 we'll be able to counter that.
+Going on to transit police, when we look at our police department, very quickly, I'm going to fly through
+this because we're seeing predominantly core positions are a hundred percent staffed. What we're really
+focusing on is our sworn officers. We saw a 12% increase from the prior quarter. We are 95% staffed
+against 2024 budgeted positions.
+This excludes, though, seven recruits. We exclude the recruits because of the extensive training. They're
+not sworn officers until they complete all of their training in that regard.
+So I can tell you that we are anticipating, with the few hires that we have in Q4, and then recruitments that
+are recruits going into-- that we anticipate starting academies in January, we will hit our 2024 budgeted
+allotment for this year. So all that is really great news and continues moving in the right direction.
+So let's jump in to retention. We're seeing here, compared to the same quarter in 2023, we had 88
+separations compared to 109. What I would draw out here is that the split between voluntary and
+involuntary is essentially the same, with 23% involuntary, of those 109, and 77% were voluntary
+separations.
+Looking, diving deeper into the voluntary turnover, and we explore this by reason. If there is no bar, it
+means there was-- in this quarter, this was not a reason noted for the separation or the turnover.
+I will call out, the retirement holds steady. I have said in previous updates that we now have a good chunk
+of information that tells us pretty much we can target roughly how many retirees we will have overall in the
+organization. It can flex, obviously, by position. But we're seeing that holding steady at about 17%.
+We continue-- now we have two quarters. I know I'm not showing Q2 here. But for the committee's
+purposes, you may recall that family reasons and other employment has continued to increase. And
+family reasons, other employment, and job abandonment, where people have just not returned to work,
+that comprises 51% of the total voluntary turnover.
+
+We do not have any dissatisfied with pay in this quarter, and again, I highlight that merely because that's
+a pretty consistent metric as well that we see across the board. We may have an employee or two as
+typically as high as it'll go. In this quarter, we haven't seen any.
+We want to look into the involuntary turnover by reason. The key driver here is job performance. I want to
+highlight and take a moment to say that we have engaged an active high-volume recruitment strategy, but
+we are not sacrificing on quality and expectations for service.
+We have a skilled workforce. We have high expectations because our customers demand and deserve
+those. And so we still maintain rigor on the other side, after individuals have been hired.
+So that's why we see the greatest percentage of the involuntary turnover, 87-- sorry. Do math, Charlene.
+77% is job performance and attendance policy violations, the remainder being medical DOT, they're not
+authorized to work, and/or violations of our drug and alcohol policy.
+Lastly, I just wanted to share some really great news that in October, even the HR department has also
+been functioning and building up its team. And so I was pleased to hire a new Director of Talent
+Acquisition. Her name is Jess Shipers.
+She is a Marine veteran. She has extensive experience in human resource management and talent
+acquisition. Really excited to have her on board. She's extremely excited, and I can tell you, in a very
+short period of time, she has jumped in and is really making an impact.
+And one of the key things that Jess is responsible for, in this Director of Talent Acquisition, is we are
+focusing on building out our workforce planning capacity, so that we can have the talent not just that we
+need today, that we can have ready to go and sourcing for the talent that we need in the future. So I just
+wanted to share that news. And at a future date, at some time, I will have her probably do a presentation
+to the Committee in 2025 on a couple of projects that she's working on.
+And lastly, we also were able to have join us in August a new Director of Total Rewards, Anthony Sabia.
+And Anthony comes to us actually from the private sector. He is extremely experienced in total rewards,
+has built total reward programs at very large organizations from the ground up.
+And we really feel that he brings a great level of expertise to the organization, that will help us-- as he
+partners with Jessie in particular-- helps us create an environment where we have a extremely attractive
+organization to not only bring talent in but also retain them. So I just wanted to share that for the
+committee. And that wraps up my presentation for this evening, and I will yield for any questions.
+TROY WHITMORE: Thank you so much, Charlene. We do appreciate that, and excited to welcome the
+two new members of your staff on board. With that, if you-- there you go. I appreciate that.
+Now I can see all the hands raised to quiz you a bit. So we'll start with Director Lewis. The floor is yours,
+sir.
+JAIME LEWIS: Thank you. Thank you, Charlene. That was a great report. I'm just curious, on the service
+cleaning, even though we're at 75%, are we still able to complete all the cleaning requirements for our
+bus and trains?
+CHARLENE POLEGE: Yes, thank you for the question, Director Lewis. Yeah, I would also defer to AGM
+Worthen if he has anything to add. But the operations is doing what they can to adjust work schedules, to
+
+offer overtime, to adjust to that gap. And so I would yield. I don't want to speak for the operations and how
+they've been managing the reduction in full-time staff.
+TROY WHITMORE: Mr. Worthen, if you would like to offer input, please do.
+FRED WORTHEN: So I can't speak for rail, but I can say that we are in a better position. We are about
+85% staffed in service and cleaning, so it has really had no impact on the bus operations side itself.
+Between overtime and other adjustments that we've made, we have kept up with our cleaning schedules
+and regimen as scheduled.
+TROY WHITMORE: Thank you, Fred.
+JAIME LEWIS: Mr. Chair, my second question?
+TROY WHITMORE: Proceed.
+JAIME LEWIS: Yes, I was just curious, are there any ideas-- I mean, this is a tough job, because I know
+they're working odd hours, they're working at night. Do we have any incentives, like maybe doing some
+training in other areas of RTD, to kind of give them a purpose to stay here and not leave? Do we have
+anything like that on the table?
+TROY WHITMORE: Ms. Polege?
+CHARLENE POLEGE: I was going to defer. I saw a GM Johnson raised her hand.
+TROY WHITMORE: Go ahead, GM Johnson.
+DEBRA JOHNSON: Thank you very much, Mr. Chair, and thank you, Director Lewis, for the question. I
+think it's important to note that as it relates to service and cleaning-- and CPO Polege often references
+growth constellations-- this is one of our entry-level positions, and as in most transit industries, it is a
+position that has a high level of turnover.
+I do know that we have present with us tonight, for instance, from the light rail side of the house, Eric
+Wright, who serves as the General Superintendent of Light Rail Transportation. And I do know, when we
+had a time in which we were having some severe impacts, we basically leveraged other opportunities by
+leveraging contracts, whereby we were able to get a memorandum of understanding with the union so we
+could bring in some other help, so we could ensure that our vehicles were cleaned.
+One aspect we talked about as well, as it relates to bringing in greater levels of people that perhaps can
+do service and cleaning, for newcomers to the area, there was discussions, and now that Ms. Polege has
+individuals that are staff, we were talking about perhaps using ESL, English as a Second Language, to
+ensure that people could have the ability to have some proficiency in English. And that is something we
+are exploring.
+I see Ms. Kirk, Julie Kirk, that serves as a senior business manager. Did you have anything additional to
+add, Ms. Kirk, relative to what I stated pertaining to light rail?
+JULIE KIRK: Yes. Thank you. This is Julie Kirk, Senior Manager of Rail Business Operations. I just
+wanted to share that what you stated regarding the service and cleaning contract, we were actually at a
+low FTA rate, like, around 23 to 26, and we actually got that up very high, to 46 to 48.
+
+So we were able to actually keep up on the service and cleaning and getting our trains cleaned due to the
+recruitment efforts that we had. So I wanted to state that we were able to actually really do a great job
+because of HR and the recruitment, and actually able to keep those trains clean. So I wanted to give a
+shoutout to our service and cleaning folks and to HR for their support.
+JAIME LEWIS: Thank you, staff. Great work. That's all I had, Mr. Chair.
+TROY WHITMORE: Thank you Director-CHARLENE POLEGE: Mr. Chair? Sorry, Mr. Chair, may I just add one thing for Director Lewis?
+TROY WHITMORE: Certainly.
+CHARLENE POLEGE: Sure, I also just wanted to say-- and GM Johnson touched on it-- it is an entrylevel position, and that's a key area where Jess Shipers is actually going to be focused and partnering
+with our Director of Learning and Development to help create those career constellations. It is entry level.
+What does entry level look like? How can we attract people to entry level, and how can we help them
+move along?
+One of the key things is just about any represented job that you have at RTD where you are functioning in
+the operations, you typically may have a CDL. And so we also have, in an agreement with the union,
+where they get a stipend if they get their CDL, to try to encourage them to get that so they can have
+future career development, and then that ESL program, to offer it as an incentive and a benefit to help
+new English-speaking individuals gather that strength so that they can also grow in their career in a
+predominantly English-speaking environment. So I just wanted to add that additional context.
+TROY WHITMORE: All right. Thank you, CPO Polege. Director Sloan, the floor is yours.
+MARJORIE SLOAN: Yes, thank you, Chair Whitmore, and Committee. Definitely a positive trend, and I
+appreciate this report. This question may be an opportunity to pat yourself on the back. I was wondering if
+you have pinpointed one, two, or three initiatives that have led to this positive.
+You've mentioned total rewards. I don't know if the number of applications have gone up, additional
+advertising, change in training, change in recruitment, change in supervision, for retention. Have you
+looked-- I know you're making a number of efforts in lots of ways. Can you just give us a summary of what
+you think worked?
+CHARLENE POLEGE: Sure. Thank you for the question, Director Sloan. So it's multifaceted. There's a
+number of things, and I could talk for quite some time on all the different pieces.
+But if I had to identify, the first one was put into place last year, in 2023, when GM Johnson approved
+additional individuals, increased the number of individuals in our talent acquisition team, and provided
+appropriate headcount so that we could, in fact, go and do the work that was required. That was primary,
+to have that ability and that support.
+Also, partnering with eQuest-- you may recall, we did a presentation on in 2023, but eQuest is a platform
+where we can blast out our opportunities across multiple boards and hit an extremely diverse and very
+vast talent pool. So that also helped us reach more. And then, specifically with our bus operations and rail
+operations, we adjusted and also added headcount in those areas so we could have partnerships so that
+we could be getting back to people quicker.
+
+You may recall, last year, we heard people saying people aren't hearing back, and we've addressed a lot
+of that. And so we're bringing people in. We're doing pre-hire sessions.
+This is what it's like if you're going to take a job as a bus operator. This is what it looks like. Are you still
+interested? Here's what you can expect. Here's what the reward is.
+So we're really hitting on a bunch of different areas, but those would be the few that stand out. From a
+retention side, there's the manager and supervisor training that was rolled out which details a significant
+amount of time on values, culture, strategic objectives, and how to have difficult conversations and how to
+approach individuals and situations from a place of positivity as opposed to negativity. And I think I was in
+a meeting with the president of the ATU, and he actually said to me, you know, I used to go out and talk
+about the toxic RTD management, and I don't really do that very much anymore.
+I don't want to speak for him and say he never does it. But he did say to me, I very rarely say that now.
+There's all those things that all are the changes that are happening that everyone in the agency has a foot
+in, not just HR.
+MARJORIE SLOAN: Thank you, and congratulations.
+CHARLENE POLEGE: Thank you.
+TROY WHITMORE: Thank you, Director Sloan. All right, Director Harwick, the floor is yours.
+IAN HARWICK: Thank you. Ms. Polege, I just-- and I don't think you'll be able to answer this question
+right now, but I'm just curious. And maybe for the next update, I'm just curious if we know, so the-- I can't
+remember, the 109 people that separated from us, if we know, those 109, sort of how long they were with
+us before they quit.
+Are we looking at, Are these people with us for two weeks? Are they with us for two years? And I
+understand that there will be a median and an average. But I'm just kind of curious because it's like, are
+we losing people right away and sort of just-- because that might also help inform things, moving forward.
+DEBRA JOHNSON: Yeah. Thank you for the question. So I can answer it-- I can't answer it today. What I
+can tell you, though, is I've already convened a task group within HR.
+We are starting to look at our stay interviews. We're looking for correlations there. We are starting to look
+at our exit interviews, and we're even-- and looking at, What else can we do to try to get more
+information? Maybe even following up with people-- there's requirements around this, but even after
+they've left, so that we can examine that.
+And then, we're also looking at dates, and we're trying to see where we can find some-- are there areas-did we hear in the stay interview, just to give an example, at 90 days, that they were having challenges
+with the schedule? And then what happened? Did they leave, and did they equate it to family reasons or
+something else?
+So we are doing that. That can be a future update I'd be very happy to grab, because one of the pieces I
+would just end with on this question is, when you do a high-volume hiring strategy, one of the potential-there's a lot of pros, but one of the cons to it is that you could have higher turnover.
+
+And often, that turnover is driven by fit. So because you're moving quickly and you're hiring quickly, you
+may be missing some fit components. So we're also going to look at that because whatever we glean
+there, we can input into the front end. So more to come, but we are actually working on that, too.
+IAN HARWICK: Great. Thank you.
+TROY WHITMORE: All right. Thank you. Very good questions, Committee members.
+I don't see any other hands raised. So great job, Charlene. Appreciate the good news.
+Oh, there she is. She snuck it in right at the last second. Director Ruscha.
+JOYANN RUSCHA: You'll miss me when I'm gone someday, sir, I promise. Thank you, Ms. Polege, for
+your presentation. I have a couple of follow-up questions, Mr Chair. Is it OK if I just dialogue for speed?
+TROY WHITMORE: Yes, that would be preferred. Thanks.
+JOYANN RUSCHA: Thank you, sir. So, Ms. Polege, going back to our bus operators-- and this might be a
+bit anecdotal, so I understand-- or maybe you don't have the hard data, but roughly how many of our
+operators stay through training. Like you noted, not all of them make it through training. Do you have any
+insights you can give us on that?
+And then, just to that end, for our new bus operators, what are their attrition rates as new hires? Whether
+it's over a one or two-year period, I'm sure, internally, we're measuring that. Is that something that you
+could speak to?
+CHARLENE POLEGE: Thank you for the question, Director Ruscha. I do not have a specific rate handy
+at the time now for our turnover rate out of training for bus operators. I don't know that. I'm not sure. I see
+AGM Worthen has his hand up, so I was going to defer to him and pass the hot potato over to him.
+But before I jump there, that one to two-year period, that's part of the deeper dive that we are going to do,
+that I was just sharing with Director Harwick, because-- or responding to his question, because we do
+need to look at that. We need to dig deeper into our data to find out whatever we can, to see what's
+driving it, so that we can find the right inflection point to put in a strategy to mitigate it. So I'd like to tell you
+I have that number, but I don't.
+JOYANN RUSCHA: Understood. Mr. Chair.
+TROY WHITMORE: Yes.
+JOYANN RUSCHA: Oh, yeah.
+TROY WHITMORE: Everyone-JOYANN RUSCHA: Oh, no, I was just saying, Mr. Worthen has his hand up.
+TROY WHITMORE: Yes, go ahead, Fred.
+FRED WORTHEN: Yes, so I can provide you with some information that you requested, and thank you for
+the question. About 75% of those who enter training actually graduate. We have about a 25% attrition
+
+rate. I will say that it's actually not really bad, even though it may sound like it on the surface. 60% of our
+operators that enter training do not have a CDL when they join the agency itself.
+So a lot fall out as they go through the early process of trying to obtain a CDL or getting a better handle
+on what the job of a coach operator truly is. But the majority of our turnover rate really happens during the
+first 18 months of a person's employment. Generally, if I can get them to the 18-month mark, then they'll
+stay 5 to 10 years, and then, after the 18-month mark, then it really starts turning into longer-term
+employees that are retiring.
+We have taken a lot of initiative over the past year to focus on the individual's first 18 months. We used to
+focus on the first 90 days, when they were in probation. Now we actually have our HR business partners
+and our managers and supervisors that are really checking, on a regular basis, in with our employees
+their first 18 months.
+We started that initiative over the last year, and that has made a difference for us. We're seeing more
+positive relationships. And the employees are also feeling more supported, and we're getting a little better
+flavor for what some of their challenges are and addressing them a little earlier in their tenure as well.
+JOYANN RUSCHA: Thank you. That was a very thorough answer to my question. And I'll take a moment
+of Director's privilege until the Chair cuts my mic. But as one who was also an operator and, I heard, won
+the rodeo, Mr. Worthen, I hope you can also provide pictures at our next meeting. That was a joy to hear
+[LAUGHS] at our last one. But thank you for that, for that thorough dive. That's what I was getting at, and I
+appreciate it. And I had a thought as you were speaking, you know, even if someone doesn't work out as
+an operator, maybe there's another position at RTD that they would be qualified for, that would work
+better for them.
+I won't ask the question-- I'm so sorry-- to Ms. Polege. I didn't mean to hot-potato. But if that's not
+something that we're doing, maybe that is something that we could try. And if it is something that we're
+doing, then kudos, because that also-- that can-- that's also a return on our investment, right, so I just
+wanted to put that out there.
+And then, and this is not meant to be a hot potato, but I can't help but to notice, unless I misunderstood
+the transcript or what Ms. Polege was saying, was that our bus staffing rate is 90%. Did I hear that right?
+And then I think about, like, our OTP performance across all of our bus categories is low, and it's dropping
+from what we saw last year.
+And that was in our Board monthly report. And lots of factors can go into that, but that is a performance
+issue, generally. And I'm wondering, is there anything relative to what we're talking about on this
+discussion item that might impact OTP, or is that something for a separate committee discussion?
+CHARLENE POLEGE: So, Chair, I do have a response to one component of Director Ruscha's question
+and comment, but I would yield with respect to OTP. I see that GM Johnson put her hand up, so.
+TROY WHITMORE: Whichever one of you would like to start.
+DEBRA JOHNSON: Well, I will just-- if I can, Committee Chair Whitmore, I'd appreciate it. And thank you,
+Director Ruscha, for the question. As you talk about on-time performance, just broad-brushing, there is a
+myriad of different factors when you look at a year-over-year comparison.
+
+Quite naturally, as you can see, through central parts of our service area, there has been an increase in
+construction activity relative to roadways and things of the like, and recognizing that we do not operate in
+a fixed guideway configuration, just like anybody that would be driving a single-occupant vehicle, we are
+impacted as well to a slowdowns and things of the like. And that's a critical factor because we, in turn,
+can't hit our time points accordingly.
+And so that is one, a definitive factor as it relates to on-time performance for fixed-route service. In
+comparison, if you look at rail, the on-time performance is relatively in line to year over year. Quite
+naturally, we are not competing in the same type of mixed-use environment when we talk about
+operability.
+More so as we talk about hiring, I will defer to Ms. Polege because there's a myriad of different factors
+relative to the opportunities that people have in reference to having sick days and call-outs and things of
+the like, that may yield to a missed trip or something of that magnitude. And prior to going to Ms. Polege, I
+would ask Mr. Worthen if I captured that correctly, if he would like to supplement anything that I have
+outlined relative to on-time performance in reference to the environment in which we operate, since we do
+not have dedicated lanes, nor do we have transit signal prioritization and other intelligent transportation
+systems within our transportation network that we could utilize.
+TROY WHITMORE: Go ahead, Fred.
+FRED WORTHEN: Thank you, Ms. Johnson. Fred Worthen again, AGM of Bus. As Ms. Johnson said,
+there are a myriad of issues that run in to on-time performance itself-- traffic, construction, safety
+incidents, ridership trip pattern changes. Sometimes, there's even segments of a route that have
+challenges. Even a simple thing as a stoplight traffic pattern change can significantly impact the running
+time of a route itself.
+But we do constantly review on-time performance, and that's why you see a lot of the adjustments that we
+bring forth. As part of our service change are what we call maintenance of schedules, which are to
+address the types of issues that we're speaking of right now.
+TROY WHITMORE: All right, Ms. Polege, did you have something else to add, too?
+CHARLENE POLEGE: I just had one thing to add. I just wanted to confirm for Director Ruscha that we
+absolutely do partner with our union partner. They're very strong and very positive partners with us.
+And when we have individuals who may be struggling from a performance perspective in one area, or
+maybe even just decide that, this role just isn't for me, we do, where we can, work-- we obviously need to
+be mindful, in safety-sensitive positions, if some of that performance is pertaining to their ability to perform
+in a safe manner.
+But we absolutely do that. If we can find another opportunity for them within the agency that would work,
+we do do that. We have examples of that. And I'm really pleased that we have a very strong relationship
+and a great partner in the union, that helps facilitate those conversations.
+TROY WHITMORE: Director Ruscha.
+JOYANN RUSCHA: Yes. Thank you, and thank you for those responses. And thank you for that, Ms.
+Polege. That was good to hear, and I'm glad we're doing that.
+
+I also just want to note, just for the committee's edification, I brought up OTP not to get us off topic-because we're talking about hiring, attrition, and the like-- but I couldn't help but to wonder, because it has
+been dropping, if we saw trends, if there was something we can do on the training standpoint. I never
+want to put things on our operators. These are system-wide issues.
+But, just, that was the context for my question. I certainly didn't mean to-- I hope I didn't take us out of
+order with that question, given the topic.
+And then I just had a question, looking-- I'm so sorry, because I don't remember what packet page it's on,
+but the page where we have the speedometer, it looks like, I can see where it says, like, we're 85% of,
+which I assume is to a hundred. But we don't have the raw numbers. And I know, Ms. Polege, you
+whipped through a couple of them in your presentation.
+Would it be possible for staff just to kind of put that in a table and send it, I guess, to the whole Board, but
+at least to the Committee, so that we know what 85% of the hundred was in the raw numbers and we
+don't have to refer back to the transcript? I think that would also just be helpful for us as-- well, for me, but
+just for us, in performance. I do appreciate the presentation and the brevity and how direct you were and
+informative.
+When I was reading it just as a preview, that was the thing I was looking for, were some of the raw
+numbers. So if it's something you could follow up with, just a super simple table, I'd appreciate it, and I
+think it'd give us something to kind of have before the next review, if that makes sense. So that was my
+only comment, question, and thank you to staff for putting all this together and for entertaining my
+questions.
+TROY WHITMORE: All right. Thank you very much. I do not see any other hands up. So with that, we will
+conclude our first discussion item for the evening, and we'll move to the second one.
+And that's the Transit Police Update. At this point in time, I would like to ask Steve Martingano and Glyn
+Horn, both Co-chiefs of RTD's Transit Police and Emergency Management, to present this item.
+Gentlemen, the floor is yours.
+STEVE MARTINGANO: Perfect. Can you see my screen?
+TROY WHITMORE: We can. Thank you.
+STEVE MARTINGANO: All right, perfect. I also practiced before the meeting, and I got it right this time.
+[LAUGHS]
+I'm Steve Martingano. I am one of the Co-chiefs of the RTD Transit Police Department and Emergency
+Management Division. And also here in the panel is Glyn Horn, the other Co-chief for the Police
+Department. So I'm just going to go over the Transit Police and Emergency Management Update. Pretty
+much, the outline is we're going to go over strategic implementations, evidence-based policing, strategic
+priority alignment, and performance data outputs.
+So in regards to strategic implementation, we are going to cover a little bit of Back to Basics, People
+Power, and a Welcoming Transit Environment, all of our strategic initiatives. So the Welcoming Transit
+Environment, for those that do not know, RTD received a grant that we have to put in live look-in
+cameras.
+
+We're supposed to be putting those into all of our vehicles. At the current time, we have a hundred
+percent of our buses have the live look-in. We have 20% of our light rail cars, and then, we are
+anticipated to hit a hundred percent, by 2027, of all of our light rail vehicles.
+People Power-- as of October 31, and our Chief People Officer also touched on this, we currently have 81
+POST-certified police officers, and we have seven recruits that are currently in the police academy. They
+are to be graduating-- they have two different dates in December. Those dates are not finalized at this
+point in time. But they will-- we will have them seven come, which will give us 88 POST-certified police
+officers, and then we will also-- they will be in our FTO field training program.
+And then, we also do a lot of community and customer engagement. Obviously, the date of October 31,
+we had a lot of our officers going out there, and we were present on trick-or-treat streets at different
+events throughout the city. So it was really great for us to be public out there, people seeing our uniform,
+and really taking part.
+In the community, coming up here in the next several weeks, some of our officers are going to be going to
+a food bank, handing out food for the upcoming holidays as well. So we are pretty deeply invested in our
+community, and we really try to be present on that.
+Evidence-based policing-- so a focus on officer visibility, this is a change, and we'll show, later on,
+statistics on how this made a huge impact on our incidents. But recently, we've really been focusing on
+putting our officers out there, visible on trains, buses, all of our vehicles, platforms, our stations. These
+are pictures of, actually, our officers out there conducting patrols and showing that they are actually on
+our vehicles and our platforms and engaging with our community.
+Fare enforcement sweeps-- we're continually doing random fare enforcement sweeps. Periodically,
+through the months, we use our crime data analysis to figure out which locations that we are going to
+really put a huge emphasis on personnel and checking fares. And really, that's where we get our true
+numbers in regards to fare evasion. And I will give you numbers here in a couple slides ahead.
+And then, we continue using our mental health clinicians and our homeless outreach navigation teams.
+We are in the process here-- we just received the contract back from WellPower, so we're going to
+continue in 2025 with them. And we are just waiting from the Jefferson Center for Mental Health. Their
+contract should be coming here shortly. We reached back out to them to see where they are in regards to
+any changes in the language, and hopefully, we'll get those signed here so we can go full steam ahead in
+January with those two programs.
+We are in the process of getting a procurement for updating our CAD system, which are our ComputerAided Dispatch, as well as our RMS, system, which is our Records Management System. Both of those
+have gone out to Procurement. As soon as we find a company that wins that bid, we will start updating
+that. It'll probably take about a year or so.
+And that's going to really help us. Right now, our system is a little antiquated, so as soon as we get the
+updated system, it's going to really help us in regards to data capturing and having true numbers for our
+calls to service.
+Utilizing law enforcement partnerships, this is something that's huge, with us going through eight counties
+and 40-plus cities. We really-- the outreach that our commanders do based off of the sectors have been
+
+extremely helpful and beneficial to us. Here is just a really great report that we got back from Denver
+Police Department District 5.
+So Central Park Station, we were having some issues in relation to our Park-n-Rides, so we worked really
+closely with their police officers, really tag-teaming in regards to being visible, present, and patrolling that
+parking lot. And the latest numbers were a 53% reduction in vehicle thefts at that location-- that's huge-from this year compared to last year.
+And we are in the process of hiring two detectives. One is going to be an internal promotion. A second is
+going to be an external lateral transfer.
+This is going to be really helpful for us as we continue moving forward. These individuals are going to be
+helpful in regards to preparing case filings. Right now, anything above a misdemeanor, we have to utilize
+outside police agencies to assist us. We are now going to be able to handle a lot of the felony cases in
+house. But really, the big thing will be arrest warrants.
+We have great video, a lot of suspect information. We have to reach out to those agencies to assist us in
+writing arrest warrants for incidents that happen on our system. But by having a true detective unit within
+our police department, we'll be able to, again, continue to do things in house and not rely on outside
+agencies.
+Strategic priority alignment-- this is going to touch Community Value, employee ownership, our customer
+excellence, and financial success. So Community Value, a program that was initiated here a couple of
+years ago, has been our vehicle report cards at our Park-n-Rides. We continue those.
+We really look at our statistics and find out which Park-n-Rides have higher incidence. And then we send
+teams out there, and they do a report card. They actually walk around the vehicle. They check the vehicle
+to see if individuals lock their doors, if they had anything out on the seats that are visible through windows
+that will entice someone maybe to break a window and break into their vehicle, if they roll down their
+windows during the summer months and such.
+And so we did 20 Park-n-Rides locations. Year to date, we've checked over 3,300 vehicles, and 95% of
+our vehicles that we checked have passed. We leave a report card on the windshield. We get a lot of
+customers that call up and thank us for that. A lot of times, people say they don't see us out there, but by
+putting those report cards on their windshields, they realize that we do check our Park-n-Rides and are
+very involved in making sure that their property is safe on our properties.
+We replaced or added over 250 cameras throughout the district. A lot of these cameras were older, so we
+improved the technology, which has been really helpful within our video investigations team. And Crime
+Prevention Through Environmental Design, we continue to use CPTED. So anytime we have issues at
+bus stops, platforms, or maybe adjoining areas of other businesses or residences, we work with those
+cities, entities, as well as those landowners, and try to work on ways that we can better clear up an area,
+maybe trim a bush, pull some weeds, do something to make the area look more inviting and be less of a
+target area for criminal events.
+Customer excellence, this is where-- the fare sweeps across our districts. From July to September, we've
+contacted over 40 trains. We wrote 851 fare enforcement warnings, issued 167 citations. We handed out
+1,206 suspensions and made five felony arrests.
+
+So a lot of these fare enforcement sweeps, we either conduct them ourselves, or we reach out to the local
+police departments that are experiencing some issues within that area and we work in tandem with them.
+So it's been really successful, and a lot of customers love seeing us out there on the platforms and
+checking fare. Right, everyone wants to make sure that if they paid for something, someone else is
+paying for something.
+Our employee ownership, so RTD, we continue to commit to building future leaders. We send a lot of our
+personnel to the FBI LEEDA programs. Currently, our command staff all completed the trilogy, and we are
+going to be presented here in the near future with the Agency Trilogy Award for all the command staff
+completing that. We continue sending our supervisors to supervision classes to make sure that they are
+up for the challenge and understand their new roles when they get promoted.
+We're sending our detectives to detective training here as soon as they come on board. We just sent four
+female officers to a Women in Policing Conference, which is a great program. It was command
+leadership, a lot of command-level staff, female officers, doing a two-day conference, I believe it was, and
+explaining to our female officers how to move up in the ranks and how to build for their future. So I was
+really, really helpful, and we've gotten positive feedback from our staff that attended that.
+And our police cadet here is Johan Sherpa. He's our first police cadet that has been hired within this
+internship program. We continue to partner with the local colleges.
+We have multiple applications that we're currently going through now to see if we can get people on
+board for the spring semester coming up. And we just did a video for Metropolitan State University for
+them to show in their criminal justice classes about this program. So a lot of people are excited about it,
+and we're hoping that really this takes off.
+Our performance data-- so here's our security incident reports thus far for the year, up to September. You
+can see here, August and September is where the direction was given to our officers to really be highly
+visible and be on our platforms and be out there contacting our customers. You could see huge
+reductions, 53% in August and 35% in July. So that was something I asked our officers to do, and they
+deserve all the kudos for being out there and really being visible and reducing criminal incidents, or all
+types of incidents, on our system.
+Suspensions, here's our suspensions that were given throughout the year up to date. Again, going back
+to the fare enforcement sweeps, we give a lot of suspensions based off of that, because that's where we
+make a large amount of contacts.
+And when individuals are violating either criminal actions or the code of conduct, a suspension is issued.
+But you can see that this is dramatically dropping especially in August and September. And I think a lot of
+that, again, is visibility, our officers being out there contacting customers and making sure what our
+expectations of them as customers on our system are.
+Our Denver Union Station call trends continue to drop as well, being out there and being visible. You can
+see, again, August and September, with that directive, and even July, those numbers continue to drop,
+under 500, which we haven't seen for really until the year before. So our officers, again, being out there
+and contacting and being visible has really brought a lot of our incidents down throughout our system,
+especially Denver Union Station.
+
+Our elevator pilot program has been a huge success. We're at six elevators at this point in time-Southmoor, Nine Mile, and Colorado stations, and in Colfax, Iliff, and Wadsworth stations. And then if you
+look at these numbers here-- huge percentage drops. The highest percentage that went up was 33%.
+But that went from three to four, so it only went up one incident, from last year to this year. But the rest of
+them have gone down dramatically. Colorado Station has gone down over 300-- 250-plus incidents at that
+elevator, and Wadsworth as well, almost 200 incidents. So this pilot program, which has now been
+permanent on these six elevators, have been huge for us.
+For those that don't know, we continue to be part of the White House challenge to save lives from
+overdose. So issuance of Narcan, all of our officers are issued Narcan, and they have those on their
+possession out there on patrol. And we also provide some of our security staff with Narcan as well, a lot
+of the mobile units, and we put them at locations like Denver Union Station, Civic, Boulder, some of our
+higher depots there.
+And as you can see, our calls of service have dropped here in the last couple of months. We haven't had
+to administer a lot. And I think, again, if you look at really the high-visibility enforcement and being out
+there, three and two in those two months, I think, again, a lot of that is being highly visible and maybe
+individuals, by seeing us out there, are not utilizing narcotics on our system, knowing that there's
+presence there.
+So that is all I have. I would like to-- before I yield the floor to questions or anything, if Deputy Chief Glyn
+Horn has anything-- Co-chief-- has anything to add.
+GLYN HORN: Not at this time. I'll wait to see if anyone has any questions.
+TROY WHITMORE: All right. Thank you both. We'll open the floor to questions. I appreciate your report,
+Chief Martingano. Director Lewis.
+JAIME LEWIS: Thank you, Mr. Chair. I just want to give a shoutout to Co-chief Horn. He and I presented
+at East Washington Park Community Center last night with three other officers, and kind of gave a similar
+report with a slide deck that was very similar, and the audience was very, very impressed with our efforts.
+So thank you, Co-chief Horn, for helping me last night. Thank you.
+TROY WHITMORE: Thank you, Director Lewis. Secretary Guzman.
+MICHAEL GUZMAN: I am happy to defer to your Committee and go last.
+TROY WHITMORE: All right. Director Ruscha, proceed.
+JOYANN RUSCHA: Thank you to you both. So, first, I did want to note that I represent Central Park and
+that Park-n-Ride. I did have a meeting with staff months ago, and we discussed that. So I'm glad to see
+that there has been some more attention on that area, so thank you.
+I do have a question, and I'm looking at packet page 246. I don't know if I misunderstood, but I'm
+interpreting this page, where it says "customer excellence"-- in the first bullet, it says, strategically
+conducting fares sweeps across the rail network. I don't know if I'm misinterpreting it, but what I
+understood from the presentation is that we're doing strategic sweeps based on other crime data-- excuse
+me-- and some are resulting in felony arrests.
+
+There are several steps from A to B, right, or A to Z. And so I guess what I'm wondering is, How does a
+fare check result in a felony arrest? We know by studies that people from all different backgrounds
+commit fare evasion.
+Are we running records to see if they have a warrant? Are fare sweeps random? Is the entire train swept?
+Do we make an announcement?
+And that was a Fourth Amendment hot potato for anyone who might want to address that. Again, it's
+possible I misunderstood this slide as I was listening to the presentation. But I did want to kind of
+understand more about our targeting. And again, how does a fare sweep result in something like a felony
+arrest? That's quite a jump.
+TROY WHITMORE: Would either of our co-chiefs like to weigh in on that matter, or CEO/GM Johnson?
+GLYN HORN: Yeah. Again, Co-chief Horn here. So, Director, to answer your question, so with fare
+enforcement operations, again, they're based on either stats or operator concerns. Can you hear me?
+JOYANN RUSCHA: I'm sorry, sir, you're cutting out-- for me, anyway.
+TROY WHITMORE: Yeah, you cut out just a little bit, Chief. You might just rephrase what you started
+with, and I think we'll be fine.
+GLYN HORN: OK. So we do fare enforcement sweeps, like Co-chief Martingano stated, whether it's
+based on crime stats or operator concerns. So first, they're not targeted. We have signs up that's stating
+that we're doing fare enforcement operations. At times, we come in contact with individuals, as you
+stated, some have warrants. We also have, oftentimes, video investigations involved in the process.
+So from the initial contact, it could lead to felony arrest where someone either is armed-- I think a couple
+fare sweeps ago, there was someone that had, like, 800 fentanyl pills. I know, one of those, we were
+actually riding on one of the lines and observed a fight occurring on property, and one of those subjects
+had a weapon on him.
+So again, the way we get from a fare enforcement initiation to a felony arrest could be a myriad of
+reasons. But I just wanted to be clear that it's definitely not targeting. But at times, individuals have
+warrants, and from there, they're arrested and booked, and narcotics and weapons and other things I
+discovered at that time.
+JOYANN RUSCHA: Mr. Chair, may I rephrase my question-TROY WHITMORE: Sure.
+JOYANN RUSCHA: --a little, maybe, for-- thank you. So if we're doing a fare sweep, and someone
+doesn't-- they cannot produce their ticket, OK, we already-- how does that lead-- how does that lead to,
+like, I'm assuming, a search, or if you're-- I'm trying to figure out, How do you get from A to B-- or Z, in this
+case? What sort of-- can you describe a scenario by which that would happen?
+GLYN HORN: Right, so, oftentimes, when we do a fare enforcement sweep, we identify subject, right.
+From there, a name and date of birth is typically provided, because some type of notice is usually issued,
+which leads to a person being identified. That way, we know who we are in contact with.
+
+Right after a person is identified, of course, that information is provided to dispatch. Right, dispatch will
+respond and advise if a subject has, you know what I mean, warrants or whatever. And then from there, it
+just leads to other offenses. So really, once a-DEBRA JOHNSON: If I may-- if I may, because I think we're having a disconnect. So, Director Ruscha, I
+believe what you're asking, you're saying, OK, we're doing a fare sweep, but how will we get to the point
+where we have identified an individual, whereby we're taking their information to run it to ascertain
+whether or not they are in the system? So, Co-chief Horn, I think the question is pertaining to, in some of
+these instances, as I know by meeting with both of you all, that there could be a circumstance whereby an
+operator calls in, and there could be an incident where somebody hasn't produced fare.
+And generally, it could lead to other inquiries relative to who these individuals are. What the Director is
+asking is, if we're doing a fare sweep collectively and we set up this initiation, how did we end up, by
+starting a fare sweep where we're just asking all people onboard a vehicle to show proof of payment,
+how, then, did we end up with basically a felony arrest?
+GLYN HORN: Yeah, right, so maybe I'm, I guess, not processing the question, because, again, to me, if
+we're doing a fare sweep or if we're called to a scene, to the buses, we-DEBRA JOHNSON: Right, so I think what the issue is, on the slide, the way it's outlined, under customer
+excellence, there's a myriad of activities. We have strategically conducted fare sweeps across the railroad
+network, and we've contacted individuals onboard the trains. We've written citations. So the way it's listed,
+Director Ruscha is inferring that these are all under the umbrella of a fare sweep, whereby-- OK, so we're
+syncing.
+OK, so what we're saying is it could've been another incident. What Chief Horn is talking about, there
+could have been somebody onboard the bus or it could've been an operator that called into dispatch as
+relates to a disturbance, somebody was deployed, and basically, an officer made contact, asked for their
+identification, ran identification, and may have learned that this person had a warrant. That person may
+have had illegal substances on them. Hence, and they were arrested. Chief Horn, would that be correct?
+GLYN HORN: Yes, ma'am.
+DEBRA JOHNSON: OK. It's just the way the slide is laid out. And I can clearly see now, as I turn to the
+packet page, you assume, because the bullets are indented, that everything fell under that headline, and
+that's not what it is.
+It's like, we conducted fare sweeps just across the network, and then from July to September 2024, these
+are the stats-- 40 trains contacted, 851 written citations. But it doesn't mean that the felonies resulted in
+the fare sweep, because we wouldn't have asked for identification. Martingano and Horn, would you all
+agree with what I just stated?
+GLYN HORN: Yes, ma'am.
+STEVE MARTINGANO: Yes.
+DEBRA JOHNSON: OK. Got it.
+
+JOYANN RUSCHA: Yeah. Thank you, Ms. Johnson. I did, I think, rightfully infer because of the indent, so
+I was taking it in a linear fashion. That addressed my question and my concern, and there is no more
+Fourth Amendment hot potato. And I yield. Thank you, ma'am.
+TROY WHITMORE: All right. Thank you all for the clarifications. Secretary Guzman, the floor is yours.
+MICHAEL GUZMAN: Thank you kindly. So I'm going to go to packet page 246, or slide 12, as well. A
+general question, and this can be for follow-up.
+This is from July to September of 2024 only. Is it possible to see the statistics from the beginning of the
+year until current, as much as we have? And that can be sent out later in a follow-up.
+Also, can we get some of the demographic information under those numbers, if possible? One of the
+concerns that I had when we renewed the-- I don't want to misstate it now.
+DEBRA JOHNSON: The code of conduct. So if I may direct your response?
+MICHAEL GUZMAN: Yes.
+DEBRA JOHNSON: You had concerns relative to certain demographic segments of our customer base
+perhaps being inadvertently impacted?
+MICHAEL GUZMAN: Yes, and so I would like to see the statistics behind that. Also, it's been requested of
+me as a Director, in having conversation with legislators, to help inform their policymaking for protection of
+frontline workers. And so this specific slide is very, very important to that conversation, so I'd appreciate a
+follow-up on that.
+I don't want to belabor any of this, but I do want to say thank you very much to the RTD police officers
+and all of the employees that are keeping us safe and working to make this a welcoming transit
+environment. It's not always easy, but I can say I know you can't be everywhere all at once. What I can
+say is that I see you at the areas where I know that we have had a perceived issue of safety to the
+negative, right, in the public view.
+Every time I pass by those places, I see a police officer. I see you, Martingano, and you, Horn, out in
+community, talking with folks. When I pass by, you never shy away.
+You don't run in the other direction. I walk up and say hello. And it's amazing to see the interaction there
+with all of our officers.
+And, I don't think I've been in the US, in the Chestnut Pavilion, above or below, coming out of Denver
+Union Station one time in at least the last four months-- and I am through there constantly-- where I have
+not seen an RTD police officer somewhere, inside, out, working and talking with people in a positive way,
+making it feel safe and secure for all of our customers and for us that work at RTD. So thank you for that,
+and thank you to the whole team. I really think that's an important thing. And the diversity of the team is
+incredible.
+There was one other thing that I had a question about. I suppose I will follow up with you, Madam CEO.
+It's more in regards to seeking the legislative changes that we have talked about previously, but it does
+really heavily depend on the statistics and the information about demography from the police department.
+
+So if you'd be willing to work with us to get that information to the Board, that would be very, very helpful
+to continue that conversation going forward. Thank you.
+DEBRA JOHNSON: Committee Chair Whitmore, if I may?
+TROY WHITMORE: Please.
+DEBRA JOHNSON: Director Guzman, I know you know that this is critically important to me. So I will be
+conferring with the co-chiefs and ascertaining how quickly we can put together that data, and we'll circle
+back and provide that to the entire Board as appropriate. Thank you.
+TROY WHITMORE: All right. Thank you. All right. We're going to be taking a break here in a moment. I'll
+give one more bite at the apple to Director Ruscha, and then we'll take our break and finish up with our
+other two discussion items. Go ahead, Director.
+JOYANN RUSCHA: Thank you, Mr. Chair. Just to piggyback off of what Secretary Guzman said, if it's
+possible if the whole Board could receive that information, because I had been curious as well. And if you
+might recall, months ago-- gosh, it might have even been a year-- we did get some data relative to
+citations and suspensions after we had implemented the code of conduct, for a few months. So maybe a
+similar chart, but also that demographic data is something I'd be interested in.
+And then, we don't need to belabor it here, but-- and it can come in form of staff memo but just a better
+understanding. Again, I raised, like, we conducted fare enforcement sweeps based on certain crime data.
+Again, just recognizing that people of all classes and backgrounds commit fare evasion-- and these
+studies have been done over and over and over again-- I just want to understand how and why we
+targeted the trains that we did. And it doesn't have to be in this meeting, but that would be helpful for me.
+But I also thank Secretary Guzman for his flag and his request, and I think that'd be beneficial to all of us.
+That's my final comment. Thank you, everyone.
+TROY WHITMORE: Thank you. All right. I do not see any other hands raised. Gentlemen, co-chiefs,
+thank you for being with us and for your wonderful work to make sure we do have a welcoming transit
+environment we all desire.
+With that, we have, like I said, two more discussion items, but we need to take a break to give a little bit of
+rest time for our CART operators and for those of us that need to stand and stretch a bit. I'm going to say
+7:20, we will resume the meeting, so just a five-minute break. So we will be back with you at 7:20. See
+you then. Thank you.
+And start recording. All right. Thank you. Welcome back. We have completed our break and have two
+more discussion items on the agenda this evening.
+So third discussion item is Facilities and Fleet Transition Plan, also known as FFTP, and I'd like to once
+again call on Fred Worthen, Assistant General Manager of Bus Operations, to present this item. Fred.
+FRED WORTHEN: Good evening. Chair Whitmore, thank you very much. Hopefully, my screen is
+showing.
+TROY WHITMORE: We're good.
+
+FRED WORTHEN: All right. Thank you, and good evening, honorable Board members. I'm Fred Worthen,
+Assistant General Manager of Bus Operations. This evening, I'll be joined by Lance MacNiven. Mr.
+MacNiven is a consultant for WSP and has served as the Project Manager for WSP, so we will be tagteaming our presentation together this evening.
+So tonight, we'll provide you a brief overview of the project background, of the various fuels and
+technologies under consideration for the final fleet and facilities blueprints, incremental strategies we'll
+take to work towards a net-zero goal, and next steps in the process.
+It's hard to believe, but as a bit of background, 18 months ago, on April 25, 2023, the RTD Board of
+Directors passed a motion to approve a scope of work and solicitation for consulting services for the
+development of a holistic, low and no-emissions Facilities and Fleet Transition Plan that is compliant with
+the bipartisan infrastructure law. The goals of the Facilities and Fleet Transition Plan are to achieve net
+zero emissions from facilities and fleet by 2050 and achieve and maintain a state of good repair for 100%
+of our facilities. Ultimately, the work will culminate in a Comprehensive Facilities Blueprint and FTAcompliant Zero-Emissions Transition plan by December 13, 2024.
+So fleet and facilities planning for RTD is very complex, and I believe I have discussed this with the Board
+on many occasions. The RTD currently has 955 buses servicing over 100 bus routes and a 2,342-squaremile service area. As previously mentioned, RTD has four operating facilities that are 40 to 50 years old,
+and four of the fixed-route operating facilities are also contract operated.
+In addition, there are many limitations with alternative fuel technologies, such as BEVs that have range
+constraints, hydrogen is not readily available in Colorado, there are only two Buy America-compliant bus
+manufacturers. The list goes on and on. Combining the size of our service area, the age of our facilities,
+and technology limitations, fleet and facilities planning has been an extensive endeavor.
+The project team has broken work into two different phases. The first phase was a series of screening
+reports to help assess fleet and facilities environmental impacts, potential bus facility siting, workforce and
+training requirements, and finances. All these screening reports were used to develop a facilities plan,
+design criteria, a fleet procurement plan, a workforce development plan, and a lifecycle cost and funding
+plan, which will ultimately culminate in a facilities transition blueprint and an FTA-compliant fleet transition
+plan.
+At this point, I'd like to invite Lance McNiven, Project Manager, WSP Consultant, to discuss this work in
+greater detail. Mr. MacNiven, the floor is yours.
+LANCE MACNIVEN: Thanks, Fred. And, I'm sorry, are you sharing your screen right now?
+FRED WORTHEN: I am.
+LANCE MACNIVEN: Sorry. Give me a second. I can't see it or the deck right now.
+FRED WORTHEN: I'm on the Facilities First Strategy slide.
+LANCE MACNIVEN: OK. Sorry. OK. There we go. Thanks, Fred.
+So a bus, whether diesel, diesel hybrid, fuel cell, and especially battery electric, cannot be put into service
+unless there is infrastructure to support it. For this reason, the FFTP was developed with a facilities-first
+
+strategy, which is a strategy that ensures facilities are fully capable of supporting alternative fuels and
+technologies as soon as they roll off the production line. Next slide.
+So emissions are typically classified into two categories. Scope 1 emissions are emissions that are
+generally in an entity's control. For RTD, it's emissions from vehicles and facilities. Read that as tailpipe
+emissions.
+Scope 2 emissions are those from energy production, and in your case, the energy provided by Xcel.
+Given those descriptions, it is important to understand that meeting the 2050 goal will likely require more
+than just transitioning RTD's fleet and fleet facilities. Next slide.
+So now I'll give an overview of the FFTP process and findings. So Fred went over this briefly, but during
+phase 1, we conducted a high-level screening of five alternative fuels and technologies. To do this, we
+assessed the impact that each fuel would have on RTD's facilities, fleet, and service, workforce and
+training, and the estimated cost of each. Each of these elements were assessed and documented in
+technical reports and reviewed by subject matter experts within RTD. Next slide.
+So in June 2024, RTD staff and the consultant team had an all-day workshop to review the results of the
+phase 1 analysis and to determine which fuels technologies were the most suitable for RTD's goals, with
+consideration to actual operations and service. The workshop included lively discussion, breakout
+sessions, and surveys. Next slide.
+And so at the conclusion of the workshop, it was clear where staff stood on technologies. The general
+themes were renewable diesel, CNG, and diesel hybrid are potential bridging fuels, and therefore can be
+considered in the short term, but cannot be a long-term strategy because they cannot eliminate scope 1
+emissions alone.
+And ZE technologies such as battery electric and fuel cell do eliminate scope 1 emissions. But there's no
+hydrogen available in the region, as Fred mentioned, and, B, these still have limited range. And so these
+technologies have great long-term potential, but in the near term, they can be challenging.
+So that is exactly where staff landed. In the short term, which is the next decade, the focus will be on the
+following at RTD-owned facilities-- replacing diesel hybrid buses when feasible, increasing the battery
+electric bus fleet as the technology continues to evolve, and of course, retrofitting and planning for those
+new bus facilities with the facilities-first framework in mind. And in the long term, the goals are to focus on
+replacing the diesel hybrid fleet that was transitioned in the near term with ZEV technologies, depending
+on where the technology goes, and continuing to build out appropriate infrastructure to support the future
+fleet.
+So we'll go into a little detail of how we envision this implementation. So for the facility upgrades, as
+noted, the near-term fleet will primarily focus on diesel hybrid vehicles and battery electric buses. This
+means that several retrofits and improvements will be required at facilities, including fireproofing-- which is
+key-- charging cabinets, transformers, switchgear, and other electrification hardware components over
+the coming years. It's important to also note that these upgrades need to occur without disrupting service
+to riders.
+So this is a preliminary implementation schedule for facility improvements, as informed by RTD staff.
+These timeframes are inclusive of design, bidding activities, and construction, and it's also in alignment
+with the facilities-first strategy. It is assumed that a battery electric bus or a diesel hybrid electric bus
+
+cannot be supported at any of these facilities until construction has ended. And so therefore, just using
+this image as an example, with Platte at the top, for BEB improvements, you would not be able to accept
+a battery electric bus outside of the MallRide fleet until 2031, and the same with District Shops, within
+2030. Next slide.
+So the consultant team then aligned the vehicle deliveries, informed by RTD's existing fleet purchase
+plan, with the previously shown facilities construction schedule, to determine the type and quantity of
+vehicles that would be purchased in the next decade. One thing to note is that the useful life of vehicles is
+also a constraint to how fast the transition can happen. A vehicle may be available to retire next year, let's
+say, but if there's no facility to support that replacement as a diesel hybrid, RTD will have to replace that
+vehicle with another diesel bus that must be operated for 12 years or 500,000 miles, per FTA guideline.
+So this graphic shows how the fleet is expected to change over the next decade, pursuant to the nearterm strategy. As you can see, the diesel fleet is essentially halved by 2035, and there's an increase in
+diesel hybrids and battery electric buses. As previously noted, this fleet mix is dictated by the speed in
+which facilities can be built and the alignment of the existing procurement schedule.
+And so one of the other key elements of the near-term strategies is ensuring that RTD understands the
+resources needed for the transition and that staff is adequately trained for these new technologies. The
+consultant team collaborated with RTD staff to understand resource needs and determine the most
+suitable path for staffing and training. This graphic aligns with the aforementioned facilities and
+procurement schedules, and shows the timing of staff training by facility.
+So based on the elements that I just presented, the team developed a cost estimate of the program in the
+near-term strategy. If RTD were to continue with business as usual and not implement the near-term
+strategy, an estimated $2 billion would be spent over the next decade on capital and operating expenses.
+The near-term strategy would cost an additional $600 million over that same time period.
+The team also assessed the market to determine if this shortfall could be supported by funding, basically
+grants. They found that approximately $56 million, optimistically, could be leveraged, leaving about a
+$550 million shortfall to fund or finance. However, the funding estimate is aspirational in nature, and the
+amount of funding available, and RTD's availability to win that funding, is uncertain. Further, there would
+still be a significant shortfall that would need to be addressed.
+And so it's also important to bring this in the context of RTD's five-year financial forecast, which shows
+that there are already potential financial constraints on the horizon that will have to be balanced with the
+priorities of the FFTP and the near-term strategy. So with that, I'll hand it back to you, Fred.
+FRED WORTHEN: Thanks, Lance. So where do we go from here? So now that we're on the home
+stretch with regard to developing the blueprint, it's time to move from planning to implementation.
+The blueprints will provide us the opportunity to apply for grants and programs to assist with funding
+requirements. Staff will also begin preparing for facility upgrades through engineering and design work in
+2025 and beyond. Other work includes the development of request for proposals for fleet procurements
+and workforce training programs and developments.
+But the work doesn't stop there. Although we are nearing completion of the transition blueprints and the
+FTA-compliant fleet transition plan, next year, we'll start implementing the plans, but this will be a
+
+continuous process as the plans will be evaluated and modified each year as technology or the needs of
+the district change. With that, I am happy to entertain questions, Mr. Chair.
+TROY WHITMORE: All right. Thank you both for moving through a lot of information in a timely manner.
+First in queue, Director Lewis, floor is yours.
+JAIME LEWIS: Thank you, Fred, for this presentation. I've been looking forward to this for a long time. As
+you know, I am kind of an EV advocate, and I work with a multi-state collaborative.
+Please, Debra, [LAUGHS] can we get this presented at the TLRC or the Transit Tuesday? I can't tell you
+how many times in the last two months I bit my tongue when I would hear legislators, Why isn't RTD
+electric? and, you know, Roaring Fork has 20 buses that are electric. [LAUGHS] And I would just sit there
+and laugh, and I had to bite my tongue.
+So I really think the legislature needs a reality check when it comes to how much this is going to cost and
+how long it's going to take RTD to be able to get to that point, and I think it also will help them with a
+financial perspective-- if they truly want to help RTD, that they might be able to help out in this area. But
+please, if we can get this presentation to the legislature, I would appreciate it.
+TROY WHITMORE: Thank you, Director Lewis. GM/CEO Johnson.
+DEBRA JOHNSON: Yes, thank you very much, Committee Chair Whitmore, and thank you, Director
+Lewis, for your comments. Quite naturally, I am more than willing to provide this information. Quite
+naturally, it was incumbent upon us to present it to this body first, recognizing all the hard work that the
+team has been doing over the course of the past few months since we last provided an update to you all
+in June, when we completed the first phase.
+So with that being said, can work with the appropriate entities relative to the Transit Tuesdays or the
+Transportation Legislative Review Committee, as appropriate, and we can have Mr. Worthen present
+accordingly. Thank you very kindly.
+TROY WHITMORE: And thank you, Debra. Director Harwick, floor is yours now.
+IAN HARWICK: Fred, I just have a quick question. Do we have any CNG buses?
+FRED WORTHEN: Not anymore. The mall fleet was a hybrid CNG, but those were decommissioned in
+2017-- '16, '17, so no CNGs at this point.
+IAN HARWICK: OK. OK. Cool. Thanks.
+FRED WORTHEN: Mm-hmm.
+TROY WHITMORE: All right, gang, any other questions? Secretary Guzman.
+MICHAEL GUZMAN: Just a quick comment. Thank you so much for the hard work that went into this. I
+appreciate it. When we're looking at the fuel cells and the different options, I just, I want to pick back at
+the availability of alternative fuels and make sure that I understand that what you were saying is not that
+we don't have it, we just don't have it in the amounts that we need to be able to do this at locations that
+are conducive to operating a bus system of our size.
+
+And moving over, specifically, I'm thinking about hydrogen cell technology. Battery electric buses are a
+whole different animal. But I just want to make sure that that's not-- there's none available, that that is,
+there's not enough available where we need it right now in the Denver Metro region. Is that what you were
+trying to communicate?
+FRED WORTHEN: Thank you for the question, Director Guzman. That is correct. We do have
+contingencies for our fuel cell pilot, should hydrogen come available in sufficient amounts to power a pilot
+program itself, but at this point, there just is not a sufficient source that's readily available in the region.
+MICHAEL GUZMAN: Mr. Chairman?
+TROY WHITMORE: Yes.
+MICHAEL GUZMAN: OK. Thank you. So, Debra, I published an interesting article, given that we had the
+Finance Committee meeting last night to move the budget forward to the body, in which there-- I believe
+it's the Thoreau Transportation Thinking Group was cited, talking about how the buses running are
+actually more detrimental to the environment than-- the diesel buses we currently run are more
+detrimental to the environment than individual vehicles.
+I don't have the area of expertise on this, but I am fairly certain that if we had a full bus of people moving
+up and down any of our roads, and removing those individual driving vehicles from the road, it would help
+reduce congestion, that the exhaust that's given off by one diesel bus moving that number of people
+would also help reduce the greenhouse gases. And do the tier 1, level 1 emissions that we were
+concerned about-- can you speak to that quickly, just to put that on the record? because I believe they got
+it wrong. And I want to make sure that I understand from our end, we are doing everything we can to be
+good stewards of the environment for a multitude of reasons.
+FRED WORTHEN: Thank you for the question, Director Guzman. I would have a disagreement with the
+statement as presented. I would have to go back to get you the exact numbers, but I have presented
+information in the past, I believe, that our footprint is less than 2% of the greenhouse gases in the entire
+region itself, and we are taking a significant number of single-occupant vehicles off of the road. Also, the
+particulate matter that come out of a diesel bus have significantly reduced over the years. However, even
+moving towards diesel hybrids, we will continue reductions in those particulate matters.
+TROY WHITMORE: All right. Thank you.
+MICHAEL GUZMAN: I have one more comment.
+TROY WHITMORE: OK. Go ahead, sir.
+MICHAEL GUZMAN: I'm going to keep beating this drum, and I think it's my Indigenous heritage that is
+calling me to do this. But nothing is done in a silo when it comes to the operations of RTD. Even though
+bus and rail are two different areas of the multi modes that we serve, and paratransit's in there as well,
+this requires a review, also known as a comprehensive operational analysis, about how we do our work at
+RTD and how we are providing service.
+So the big picture, you have given us what comes from service planning. You are talking to us about
+transitioning this fleet. You are discussing what we are doing to provide increased services going with our
+strategic plan as it currently stands.
+
+But this is going well beyond 2026, when the current strategic plan ends. And that comprehensive
+operational analysis is really something we need to look at, because providing the services and doing any
+of these transitions is for naught if we don't provide service where people need to go from where they
+need to go and get them back. And so I think the only way that we can trigger the motion of people from
+individual-occupancy vehicles to public transportation in a faster clip is to really be able to dig in and
+understand our map of the region and how we're providing those services.
+And I know you are thinking about that all the time, Mr. Worthen. I know that General Manager CEO
+Johnson is thinking about that all the time. But I do want to impress that's something that we have to work
+towards, to make sure that we do this all in a holistic manner, which is something that we have an
+interesting opportunity to do at this time of transition with the Board, at the end of this year, going into
+next year.
+So thank you for that. I appreciate it. Have a good night.
+FRED WORTHEN: Thank you, sir.
+TROY WHITMORE: All right. Thank you, Secretary Guzman. Next in queue-- Director Ruscha.
+JOYANN RUSCHA: Thank you, sir. So I was just thinking, our CDOT partners, Bustang, their fleet is not
+electrified, and it could also be-- I have no idea. It could also be because they use third-party operators
+for all of their services.
+And that was making me think of our partners in, like, Transdev. And I know we touched on this in a
+previous meeting, but just for the record, could someone from staff just kind of address how we would
+incorporate our private partners in a future transition plan, just recognizing that they are providing a little
+over half of our bus service?
+FRED WORTHEN: Mr. Chair, if I may? Thank you for the question, Director Ruscha. That is an excellent
+question and is actually one that this team has been working very diligently on.
+First and foremost, the first step is moving towards the diesel hybrids. So as we are putting out contracts,
+we will be having a requirement that diesel hybrids are part of the requirement of maintaining those
+vehicles with future contracts itself.
+We are also, though, going to be looking at siting other facilities as well. Part of the work that we have
+next year is to continue work on facility siting for a single garage in the future, and then continuing to work
+on a build-out from there. But we're starting one garage at a time. First step is diesel hybrids. Then we'll
+be siting a new garage at some point, and then moving further into the partnership realm.
+JOYANN RUSCHA: If I may, Mr. Chair? Just so that I understood you, Mr. Worthen, because our
+Transdev partners also have garages and facilities, like, we're not saying that would come at the end of
+this transition plan, but concurrently? Is that an accurate recapture?
+FRED WORTHEN: It is.
+JOYANN RUSCHA: Or, ideally, I should say.
+FRED WORTHEN: It is what we're working on in outer portions of the plan itself. The initial parts are to
+deal with the directly operated facilities. As far as the battery electrification, that'll be short term at Platte.
+
+But then as we start moving towards other facilities and as the technology evolves, we'll start expanding
+into other areas. And I see CEO Johnson has her hands up, and I believe she has something to add.
+TROY WHITMORE: Proceed.
+DEBRA JOHNSON: Thank you, Committee Chair Whitmore, and thank you, Director Ruscha. A couple of
+things. At the outset of your comments, you talked about CDOT, and you said that they contract out
+service.
+I just wanted to qualify that CDOT doesn't operate standard transit buses. They use over-the-road
+coaches for the majority of their service delivery. And with that, as a backdrop, over-the-road coaches are
+very limited in reference to alternative fuel technology. That's one critical factor, as we've worked with
+them in tandem, as they look to do a myriad of different things.
+Secondly, as it relates to your question as a whole, I know there's been additional questions that have
+been posed before relative to directly operated services or whether or not RTD would bring them internal
+to the organization. And to Mr. Worthen's point, as we look at where we are currently, this gives us an
+opportunity to discern what might be cost effective in relationship to the cost that we see overarchingly
+when we look at the importance of the conversion of our infrastructure to support any type of technology
+change to alternative fuels relative to the propulsion system.
+So I just wanted to provide that information for context as well. That's incorporated in and gets back to
+Secretary Guzman's overarching comments relative to taking all of these different plans or priorities and
+how they would all converge. And it's imperative that we do that wholesale because, when you think
+about service delivery as a whole, that's critically important as we look to the new phase of what RTD
+could be in the future. Whoever is leading the organization, whoever is sitting in your all's seats, we need
+to ensure that we have that framework for the betterment of future generations.
+TROY WHITMORE: Director Ruscha.
+JOYANN RUSCHA: Thank you. And I don't want us to get into a CDOT conversation. I might have been
+just piggybacking off of what Director Lewis had said, and I might've been thinking of Pegasus, which are
+smaller buses. But yeah, there is a smaller market for them to pick from.
+But just a general question or concern is just that we don't leave a chunk of our riders behind in this new
+technology, which I would consider upgraded-- if you guys have ridden an electrified bus before-- and I
+think there could be a potential equity question. And I know facilities is a major part, so that was the
+context, really, behind that follow-up.
+And I think things are in motion, so to speak, and we'll kind of see how it goes. But I'm glad to see that it's
+on staff's radar and that it is part of our electrification and fleet transition process, that we aren't just
+thinking about things that we own and operate, but service delivery as a whole. So I was pleased to hear
+that, and I appreciate it. Thank you.
+TROY WHITMORE: Thank you. Director Harwick, the floor is yours.
+IAN HARWICK: Thank you. Hey, Fred. Sorry. My one question turned into 12.
+[LAUGHTER]
+
+Sorry.
+TROY WHITMORE: You get four. [LAUGHS]
+IAN HARWICK: OK, I've got four. I actually really do have four. All right.
+Thanks, Troy. Appreciate you. Start high, go low. There we go.
+OK. So I do-- and some of these are real nuanced, and they may or may not have applicability here. So
+type of hydrogen, gold hydrogen, is where it is actually pulled out of the ground, and they've been finding
+a lot of these resources all across the United States, specifically in Utah. That's one of the more recent
+areas.
+If they were to find resources like that in Colorado, I feel like that would change the tone of things around
+that. And do you-- I guess I'm curious, what sort of metrics do we need to be seeing before we would say,
+OK, we can look at hydrogen now? Do we need to find that well, where they say, OK, we can look at this?
+FRED WORTHEN: Well, so, thank you for the question, sir. So we did a very comprehensive analysis of
+the different technologies. The one thing that I will say is the operational cost associated with hydrogen is
+significantly higher.
+Most of properties that have hydrogen are actually receiving state subsidies so that they can be
+competitive itself. But like I said earlier, we do have a contingency-- whereas, if the environment does
+change, we have a contingency that we put forth in the plan to be able to evaluate the technology further
+and possibly do a pilot project itself.
+There is a high level of interest in hydrogen across the nation itself. But I would say that the experience
+with hydrogen is very limited, and it's been primarily on very small fleets. Really, our friends in California-that slipped my mind right now-- are really the only ones that have experience with a pretty significant
+hydrogen.
+DEBRA JOHNSON: AC Transit.
+FRED WORTHEN: AC Transit, thank you-- that have pretty significant experience with it. But it is part of
+what we have built our contingency around. And there are a lot of different things that would have to
+happen with regard to cost and facility infrastructure and things like that. But we have put that
+contingency in there.
+IAN HARWICK: Yeah, and so, actually, I think I'm going to combine a couple of my questions into one,
+which sort of follows this up. And this, to me, this feels like this-- does feel like there's the ability to pivot in
+the future and make adaptations.
+But I guess I'm just curious, how frequently are we going to be reviewing this plan to begin to say, OK,
+you know what, swapping batteries is actually doable, or fuel technology has kept up or has actually
+progressed to a state and we have a well and this all makes sense, or we have conductive charging, or
+solid state batteries are lighter, they're more efficient, and we can charge them in a faster way without
+fully burdening the grid? How do we-- again, how quickly are we looking at this to say, you know what,
+this is now ready?
+
+FRED WORTHEN: That's a great question. And our plans really are to do an operational review on an
+annual basis. We actually look at our fleet and our fleet mix once a year. And actually, our service
+planning development group will actually make projections on what our fleet need is, what our fleet mix is.
+We work with our asset management team and with our vehicle maintenance team to make adjustments
+to our fleet and the technology will change and evolve also.
+There is a movement towards things like solid-state batteries right now. So we're trying to be nimble in all
+of this, which is part of the reason why, as we build out, we're building out strategically and incrementally,
+so that we do have the ability to pivot should there be significant changes in the technology.
+IAN HARWICK: Great. And my last question-- and this is not really necessarily this type of technology
+related, but I feel it bears sort of thought moving forward-- and that's around autonomous buses, and if we
+get to that point where autonomous buses are viable, and all of a sudden we have sort of diminished-and I'm sorry to the union when I say this, but diminish the need for bus drivers, do we begin to say, we
+can also be looking at smaller buses or-- because we won't need a bus driver, and then that also changes
+that?
+I'm just curious, is that one of the things-- it's not addressed here, but is that something we sort of have
+our eye on? And I get that we're not there today, but we might be there in five years. And so I'm just
+curious, at what point do we say, hey, you know what, autonomous vehicles are there, and that fully
+changes our fleet, what our fleet makeup is?
+FRED WORTHEN: Thank you for the question. It's a great question. Going back to the-- we'll be
+reviewing our fleet mix on an annual basis. But the one thing that I would say to you is, once we buy a
+bus, we're stuck with it for at least 12 years, if not 14.
+IAN HARWICK: Mm-hmm. Sure.
+FRED WORTHEN: So there are some limitations on how far we can pivot, just basically based upon the
+FTA requirements. But I think that we have put forth a plan that's nimble enough that if those types of
+things change-- I don't want to jump ahead, but we're even looking at different fleet makes for our
+paratransit vehicles. So we're continuously looking at our operational needs and trying to make sure we
+keep pace with what is available, what our needs are, and what we can afford, and of course, staying
+within the FTA regulations.
+IAN HARWICK: Perfect. Thank you. I appreciate all your time, Fred.
+FRED WORTHEN: Sure.
+TROY WHITMORE: I believe that was only three questions. I'm quite proud of you, my son.
+[LAUGHS]
+But I would allow a fourth.
+IAN HARWICK: Hey, I'm good. I'm good. Anything for you, Troy. I want to stay-- I want to stay in your
+good graces. [LAUGHS]
+TROY WHITMORE: All right. I see Director Ruscha's hand's raised. Go ahead.
+
+JOYANN RUSCHA: That was a residual, but just for that comment, I might find a question.
+TROY WHITMORE: [INAUDIBLE].
+JOYANN RUSCHA: No, my hand was not raised, [LAUGHS] sir.
+TROY WHITMORE: Me and my big mouth.
+[LAUGHTER]
+All right. Thank you. Great conversations, seriously, good questions. Thank you, Lance and Fred, for that.
+And I, for one, appreciate some of the thoughts about the nimbleness factor, because technology is just
+taking on all kinds of different avenues. So we don't know what we don't know three to five years down
+the road, so I appreciate that we have that opportunity to move in different directions when it's justified,
+so.
+FRED WORTHEN: If I may, Mr. Chair? One last thing.
+TROY WHITMORE: Go ahead.
+FRED WORTHEN: I do want to thank not only our consulting team, WSP, for all the hard work that
+they've put into this, but there have been about 40 different staff members that have worked on this
+project over the last two years, because even though the RFP was awarded almost 18 months ago, this
+work really began two years ago.
+And we have every major department that has participated in this-- Asset Management, Finance, Legal. I
+mean, I don't want to go into the naming conventions because I'll miss somebody. But there has been a
+significant amount of work, and I have appreciated that. I've also appreciated the support GM and CEO
+Johnson has given to the team, because it has been a significant amount of work for the agency.
+TROY WHITMORE: Certainly. There's a photo that I think was in Lance's presentation of a room full of
+staff, staff members. I recognized some in the back of the room. So that is a good feeling to see that, that
+wholesome teamwork on that, because this is a big chore, and we want to get it right.
+All right. Thank you very much. Let's move to our last discussion item, and that is an update on
+Paratransit Peer Review, the final report and next steps.
+Again, I'll ask Fred Worthen, Assistant General Manager of Bus Operations, and Stuart Summers, Chief
+Communications and Engagement Officer, to present this item. And so, gentlemen, the floor is yours.
+FRED WORTHEN: OK, sir, give me just a second. OK. Is my screen sharing appropriately?
+TROY WHITMORE: We are up.
+FRED WORTHEN: All right. Well, thank you, Chair Whitmore and honorable Board members. Again, I am
+Fred Worthen, Assistant General Manager of Bus Operations. So today, I'll be giving you an update with
+regard to the progress we've made towards the recommendations of the American Public Transportation
+Association peer review final report. I'll provide a bit of background on the report, how preliminary
+recommendations under consideration regarding the report were developed, preliminary
+recommendations we'll be discussing this evening, and next steps.
+
+So just as a bit of a refresher, RTD's paratransit program is comprised of our Access-a-Ride service and
+our supplemental premium paratransit, commonly referred to Access-on-Demand. Our Access-a-Ride
+services are complimentary paratransit services that are conditionally provided to passengers who live
+within or travel within 3/4 of a mile of RTD's fixed-route services or rail stations, due to a disability or
+mobility barrier, as defined by the Americans with Disabilities Act of 1990. These services supplement
+regular fixed-route services. Customers are required to pay a fare associated with any trip taken, and all
+Access-a-Ride vehicles are branded and 100% accessible.
+RTD's Access-on-Demand program is a supplemental premium service that provides curb-to-curb taxi
+and rideshare options. Access-on-Demand services are currently available 24/7 throughout the entire
+service area, that is available to current eligible Access-a-Ride customers. Access-on-Demand customers
+do not pay an initial fare up front, like they do on our regular Access-a-Ride services. RTD pays the first
+$25 of the customer's trip. Any cost above $25 is paid by the customer. Customers can take up to 60 total
+trips per month on any one of four service providers.
+So currently, about half of all active paratransit customers use Access-a-Ride only. About 15% of active
+paratransit customers use a combination of Access-a-Ride and Access-on-Demand. However, about 35%
+only solely utilize Access-on-Demand services.
+Just as a refresher, Access-on-Demand was intended to supplement Access-a-Ride services, taking
+some of the pressure off of Access-a-Ride services. It was never intended to create a new service
+market. Ridership information indicates that the Access-on-Demand program as currently designed is not
+helping relieve service delivery pressures on Access-a-Ride, as anticipated when the program was
+designed.
+Although the final report is very detailed, the panel recommendations center around three themes. First,
+there's a need to develop a clearly stated vision for paratransit to guide priorities for the Access-a-Ride
+and Access-on-Demand services that envelopes the agency to be trusted as a leader in mobility,
+delivering excellence and value to our customers and community. Currently, the Access-a-Ride and
+Access-on-Demand programs function more like standalone programs instead of programs that support
+each other.
+Second, there's a need to refresh the Access-on-Demand program structure to create a fiscally
+sustainable option that serves customer needs. And third, there's a need to leverage technology and
+process improvements to streamline daily work.
+So a significant amount of information has been gathered from a number of sources and utilized to
+formulate paratransit program modifications under consideration, that I will discuss later. Initially, we
+collected information from 21 different transit agencies through surveys or review of other transit system
+programs. From the data gathered, about 95% of the agencies reviewed charged the same or higher
+fares for paratransit services similar to our Access-a-Ride program, which is federally mandated under the
+Americans with Disabilities Act. Also, about 80% of the agencies have programs similar in basic operation
+to the RTD Access-on-Demand program.
+Of those programs similar to Access-on-Demand, 80% charge fares that are the same or higher than their
+federally mandated paratransit programs. Only one transit agency reviewed has zero fare up front, but
+that program has stringent requirements that customers be established users of the regular paratransit
+services, requiring 50 trips on the core paratransit system over the course of six months to be eligible for
+
+the service. Subsidies by other transit systems range from for $4.50 to $60 per trip, with trip caps ranging
+from zero to 60 trips per month.
+Staff also engaged in customer and stakeholder outreach efforts. A web page was established in March
+of 2024 that included information regarding the peer review report, observations, recommendations, and
+next steps. An online feedback form was also developed.
+516 comments were received through the web page, which can be found in your Board packet. Surveys
+were also conducted to gather feedback from the public. Feedback was also solicited through the
+customer advisory committees such as ACPD, APAC, and the Citizens Advisory Committee. Additionally,
+three stakeholder meetings were conducted.
+Two surveys were distributed by staff. A general and a statistically valid survey representing the
+paratransit customer base was distributed. The survey asked several questions regarding service
+satisfaction as well as the importance of various program elements such as fares, subsidies, trip caps,
+and service areas.
+Respondents were also asked to rank three different scenarios to help staff understand the importance of
+program elements to our paratransit customers. The public online survey received 387 responses. The
+randomly sampled survey received 428 responses.
+So survey respondents were asked how frequently they use Access-a-Ride. Over half of the respondents
+use Access-a-Ride services at least once per week. Survey respondents were also asked how frequently
+they used Access-on-Demand. About 65% of respondents use Access-on-Demand services at least once
+per week.
+Survey recipients were also asked to rank the importance, in order of most important to least important,
+regarding several program elements of the Access-on-Demand program. Fare was the most important,
+with the subsidy per trip and number of trips allowed each month receiving nearly identical responses.
+Service area and service hours available ranked lowest among the choices provided.
+Survey recipients were also asked to rank three different scenarios. Scenario A required customers to
+pay an upfront fare of $4.50 per trip. After the initial fare payment, customers would receive a trip subsidy
+up to $30 per trip for up to 30 trips per month.
+Scenario B required customers to pay a $5.50 fare up front per trip. After initial fare payment, customers
+would receive a trip subsidy up to $25 per trip for up to 40 trips per month. Scenario C required customers
+to pay a $6.50 fare up front. After initial fare payment, customers would receive a trip subsidy up to $25
+per trip for up to 50 trips per month.
+Of the respondents received-- of the responses received, 64% of the survey respondents chose scenario
+A as their top choice among the three scenarios. Scenario B was ranked the second choice, followed by
+scenario C, ranked as third most important. Scenario A is very much in alignment with customers ranking
+fare as the most important component of the Access-on-Demand program.
+A question was also asked to help determine if customers were willing to pay a premium for Access-onDemand services outside the traditional Access-a-Ride service area boundaries. Only 17% of the
+respondents were very likely to use Access-on-Demand services outside the traditional ADA service area
+if a premium were required for such services.
+
+There was a significant correlation between respondents who rated price as the most important to those
+who responded trip subsidies and trip caps more important. Of those who use Access-on-Demand
+services 30 trips or more per month, which we would deem as high-frequency users, 54% selected
+scenarios B or C, whereas those who take less than 30 trips per month, which we would deem lowfrequency users, 74% selected scenario A. Responses also indicated that regardless of the scenario
+chosen, there would be minimal changes in trip usage overall.
+There was also a strong correlation between the age of respondents and those respondents who chose
+scenario A as their top pick. 51% of respondents 39 years of age or younger chose scenario A. 60% of
+respondents between the age 40 and 59 chose scenario A. And 74% of respondents aged 60 and above
+chose scenario A.
+Based upon the information compiled from numerous sources, staff has formulated preliminary
+recommendations to discuss with the public utilizing the same basic process we use for service changes.
+I'll go over the preliminary recommendations first under consideration, shown on the slide, then I'll provide
+all the relevant data used to help develop these recommendations.
+First, we're recommending that customers pay base fare equivalent to the fare paid on Access-a-Ride
+services. This includes a $4.50 base fare for customers or a reduced fare of $2.25 for LiVE customers.
+Staff is also recommending reducing the cap to 30 trips per month. Staff is recommending that the
+subsidy per ride be increased to $30. These recommendations are in alignment with the responses from
+customers regarding the order of importance for program elements, with the reasonable fare being the
+most important element.
+We're also recommending the service area and service hours be modified to mirror those of the Accessa-Ride program in effect at the time of the service. This does mean that service hours and service area
+will change in alignment with fixed-route service changes adopted by the board as part of the regular
+service change process.
+Staff is also recommending a prerequisite that customers be enrolled in and use Access-a-Ride services
+for 90 days, in alignment with average customer usage of Access-a-Ride services, before becoming
+eligible to use Access-on-Demand services. Staff is also considering modifications to the suspension
+policy as well as ways to incentivize TNCs to provide more wheelchair-accessible vehicles.
+Staff examined trip patterns for the first six months of 2024. About 3/4 of active Access-on-Demand users
+take, on average, 30 trips per month or less. Based upon usage, staff believes that providing up to 30
+trips per month is reasonable and meets the majority of Access-on-Demand user needs.
+Staff also examined the impacts of modifying service area boundaries by examining actual trip patterns of
+customers. The majority of Access-on-Demand trips were taken within the traditional ADA service area
+provided by Access-a-Ride services. Of the trips taken that were either partially or fully outside the
+traditional ADA service area where Access-a-Ride services are provided, only 5% have trips to start and
+end outside the ADA service area.
+Fewer than 4% of customers regularly take trips outside the traditional ADA service area. However, 40%
+of users have taken at least one trip per month that starts, ends, or is totally outside the ADA service
+area. Modifying the Access-on-Demand service area to mirror the existing ADA services would have
+minimal impacts to customers yet improve access for wheelchair-accessible vehicle customers.
+
+Currently, RTD uses our paratransit service providers to supplement wheelchair-accessible vehicle
+services for Access-on-Demand. When WAV services are provided for Access-on-Demand, those
+vehicles are not available to provide service on our Access-a-Ride. Additionally, providing service outside
+the core ADA service area extends wait times for those in need of a wheelchair-accessible vehicle as
+there are a limited number of WAV vehicles available and our service area is a full 2,400 square mile,
+versus a more compact ADA corridor service area.
+Currently, those requesting WAV services have wait times that are two and a half to three times longer
+than those who do not require a wheelchair-accessible vehicle. Additionally, Access-a-Ride customers do
+not have access to services outside of the 3/4-mile ADA corridor, so this is a question of equal access as
+well.
+Finally, there are challenges properly assessing cost to services as WAV resources are built underneath
+of the traditional Access-a-Ride contract, not as a separate line item. Thus, costs for Access-on-Demand
+programs are understated. Likewise, costs for Access-a-Ride services are overstated.
+Based upon the analysis of ridership and regression models used from the customer survey, staff is
+projecting a 23% reduction in trips, resulting in an approximately $241,000 a month in savings.
+Implementing a $4.50 fare up front would result in about $213,000 in monthly revenue for the program.
+The combined change from implementing a $4.50 base fare and 30 trips per month trip cap would result
+in a net spending change representing about a 43% savings per month, roughly $454,000.
+Changing the service area to mirror the current ADA service area would result in about a 6% reduction in
+trips, equating to about $49,000 per month. The combination of a modified trip cap, a base fare, and a
+modified service area would result in a net change in spending of about $503,000 per month, roughly a
+48% cost savings.
+Staff has also examined opportunities to improve Access-a-Ride services. Most Access-a-Ride users take
+10 or fewer trips per month. 60% of Access-a-Ride users take 30 or fewer trips per month. As a refresher,
+during the annual agency survey, Access-a-Ride customers indicated that vehicles arriving on time, ease
+of scheduling trips, and travel time were among the most important service provision factors.
+Using survey information and customer feedback, staff is also looking at a number of programmatic
+changes or enhancements for the Access-a-Ride program. This includes changing recertifications from
+four to five years. On-time performance will be modified to measure both pick-up and drop-off metrics.
+We're also exploring software modifications to support changes in service provision and to provide
+productivity enhancements. For example, we are exploring ways to provide same-day service requests to
+Access-a-Ride services. There will also be modifications to the conditional eligibility process.
+We are exploring contract modifications to provide better program accountability and reduce operating
+costs as well as modifications to the existing suspension policy. Finally, we're working on developing a
+fleet procurement plan to procure smaller vehicles, such as sedans and minivans, as part of a pilot
+project. A mixed fleet should reduce operating costs and improve passenger comfort.
+So next steps-- we intend to engage in an outreach and engagement program to solicit feedback from
+customers and stakeholders in December and January. We'll also launch a feedback tool to continue to
+solicit customer feedback. We intend to send periodic customer and stakeholder communications to
+apprise them where we are in the process and remind them of feedback mechanisms available.
+
+Customer feedback will be closed in late January. In February, staff intends to share feedback from the
+engagement process with the Board of Directors that will inform final recommendations that staff will bring
+to the Board for consideration. Staff will work to effectuate any board-adopted modifications with
+implementation and alignment with the May 2025 Service Change.
+I know that is a lot. But with that, I am happy to answer any questions you may have.
+TROY WHITMORE: All right. Thank you, Mr. Worthen. A busy evening for you. Director Lewis, you're first
+in queue.
+JAIME LEWIS: Thank you. I don't have any questions, but I do have some recommendations. As you
+know, this is my last meeting, and I just want to thank you, Chairman Whitmore, for running the ops. It's
+been an honor to work with you.
+And more than likely, this issue will be talked about in 2025, so I will not be around. So as a person with a
+disability and the only person on this Board that has a disability and uses these services, these are my
+following recommendations. And I want to make it clear, I do not represent the disability community. I am
+an RTD Board member, and I try to be as objective as possible.
+So my first thought, I want to thank Fred and his staff for not trying to backfill the entire $12 million. I
+noticed, on the numbers, that you were trying to get to about a half a million. And that worried me
+because I thought we were going to try to backfill the whole thing, and that wouldn't be in line with other
+systems that we have, bus and train.
+We don't raise fares to provide the full amount of money to run that service. So I am so glad you guys
+didn't go that direction, saying, oh, it cost $12 million, so therefore, we have to adjust the fares to $12
+million. So thank you very much for not doing that.
+One of the issues I have is that the peer review is supposed to be an exhaustive peer review for the entire
+system, Access-a-Ride and Access-on-Demand, and I see nothing talked about concerning Access-aRide. And I'm going to-- and the reason why I'm bringing that up, one of my recommendations is that we
+do a pilot program in 2025 to include a multi-ride option with Access-a-Ride.
+We are currently up to 92% to 94% on-time performance. I don't think dropping a few points for people to
+have a multi-ride option will be that damaging. So this has a very minimum fiscal note to it.
+I know you have to report, but I would think this was something we'd want to do. And this, this sets up the
+conversation for reinstating the multi-ride option for AoD. I know the staff has said we need parity, so
+therefore, we took away the multi-ride option. By doing the pilot, you take that element away.
+Now, I've read the Massachusetts Bay Transit Authority papers concerning the DOT. I personally don't
+see the nexus. The problem with Boston is that they did not-- when they initiated their on-demand system,
+they just totally forgot about the WAV, the wheelchair-accessible vehicles, and that's what they were
+being hit for.
+There was nothing in there about multi-ride options, so I really see no nexus not to reinstate the multi-ride
+option. The reason I say that is because, with the numbers as low as 30 trips, it really makes this program
+useless, because if I'm working five days a week, and I have to pay two trips a day, that's 10 trips right
+there. That means I'm getting three weeks' worth of service out of AoD. There's no other service that we
+
+provide that we say to the user, pay this, but you're only going to get three weeks' worth of service or two
+and a half weeks' worth of service, depending on the model that will eventually be chosen.
+So these are my recommendations. I think both Access-a-Ride and AoD should pay $5.50. And the
+reason why I say that is because of the LiVE program. People can apply and pay $2.75.
+We currently, by DOT, can and should raise it to $5.50, because that's the limit. It's usually twice the base
+rate for regular users, so we should be at $5.50. The reason why we went to $4.50 is because of the
+pandemic.
+We felt the economy was bad. But I think, for parity, should be paying $5.50. And if a person has an
+economic issue, they apply for LiVe, and they pay $2.75.
+I think the trips should be lowered from 60 to 50. I think lowering it any lower than that, a person is not
+going to be able to function with AoD on a monthly basis. I think the subsidy should be dropped from $25
+to $20. And the reason why I say that, according to your numbers, we're starting to cap out at about-each user is capping out about $16.50.
+So if they want to go over $20-- which I think is a cost savings to us, again, creating revenue-- I think we
+should lower the subsidy from $25 to $20. And as far as the restrictions on the 3/4 mile, there's only 8% of
+the people doing it. I don't see an issue there.
+Again, these are my opinions. I just wanted to share them with the Board. I will put them in writing to the
+Board of Directors and the new Directors, and I'm hoping this works out for everybody. But as a person
+with a disability, I had to look at this objectively and provide my feedback to everybody. Thank you very
+much.
+TROY WHITMORE: Thank you, Director Lewis. Appreciate the very thorough feedback. It was a lot to
+think about. Director Ruscha.
+JOYANN RUSCHA: Thank you, sir. Looks like there are no other folks in the queue, so I'll go ahead.
+Or, actually, I'll go ahead and-- [LAUGHS] I'll yield to Director Harwick. He might've found his fourth
+question. Go ahead, sir. Please.
+IAN HARWICK: So, Director Lewis, I really appreciated what you had to say there and your thoughts on
+this. So when I ask this, Fred, I get that I might be asking a lot. So I'm just curious if, is there a way to take
+the recommendation and just what you provided, which I-- your presentation was outstanding, and it was
+really thorough.
+And I really appreciate it, and I appreciate all the work that staff did to do this. But I am curious if we
+would be able to take the recommendations that Director Lewis just shared with us and put those through
+the same-- I don't know what we would call it, the same analysis-FRED WORTHEN: Regression analysis. Yeah.
+IAN HARWICK: --whether or not they are cost comparable and what that actually looks like, because his
+recommendations seem-- to me, they seem totally reasonable. But again, this is not my area of expertise.
+But if we could run the analysis, I do think it would behoove us to do that, just to be able to say-- because
+his idea, what he's saying is different than the other three.
+
+It's not drastically different, but it's different enough that it might give us different numbers, and so just
+something to consider. And, yeah, I'm going to-- I'll stop there. Thank you.
+FRED WORTHEN: Yes, sir.
+TROY WHITMORE: All right. Director Ruscha, you're the last hand up.
+JOYANN RUSCHA: Thank you, sir. So I'm also a member of the disability community, but I don't
+represent all disabled riders either. This is an issue that's close to my heart, and I've followed it since I
+was first elected. But I am doing my job as a Director. And representation, I think, does matter, and it has
+been shown in this committee.
+I have a couple of comments and then some requests of staff. And I will be honest in that I was-- I've
+been a little disparaged at what I'm hearing from disabled community members, including my constituents
+who do use our service, in some of these preliminary recommendations. But even just from a more
+objective or Director point of view, where I might have more information, I'm a little concerned as well.
+So my first comment-- and I don't want to preach. I don't want to lecture. So I appreciate the Chair giving
+me space. But my first comment here is that if staff did not budget properly for a program, that is not an
+excuse for staff to reduce services.
+I was there when this program was first initiated as a pilot, and this could have been predicted. This was
+predicted. People flagged this might happen.
+$12 million is not couch change, but if we really think that we cannot sustain $12 million plus inflation,
+give me your budget. I'll go through it line by line. I'll find you the $12 million.
+I do concur with Director Lewis that there are less drastic options. But what I haven't been convinced of,
+because I haven't seen it, is the data to suggest that we have to go there, the hard data. And so I would
+actually opine that before we go to changing this program-- and these are drastic changes-- that we slow
+down, and staff share with us the data that we need before we can make said decisions.
+I think-- and we've brought up the multi-stop option. That is one example. One could easily infer that the
+multi-stop option was driving up the cost, but we already know, from subsequent presentations, that's not
+driving up the cost.
+But I don't think we have enough-- the Board doesn't have enough data to make decisions. So I'm glad
+that we've slowed this down, and I would ask that we get more of that data so we can make informed
+decisions. Even if we look at the cost increase, I mean, going from a $16 cost per ride to $18 cost per ride
+is actually, when you consider the total period, less than inflation. It doesn't move it for me, as a Director,
+who cares very much about our budget.
+So moving on, I have a question. [LAUGHS] Packet page 312, it says that 40% of active AoD customers
+have taken at least one trip outside of the ADA service area. So I would say, given our service reductions
+and bus stop consolidation program, that's actually not hard to go outside of an RTD service area, if
+you're familiar with where we serve. So I need to understand, are people somehow going to Fort Collins
+or Colorado Springs, or are they just slightly outside of 3/4 of a mile of a bus stop?
+When I saw that, it felt like a red herring. Maybe it's not. Maybe there's more to that story.
+
+But that's an example of data points that the public and the board doesn't have, and I would appreciate
+some follow-up from staff as to what that means, because I assume, if it's in a presentation and a bullet
+like that, it's meaningful. But again, it isn't that hard to go outside of our service area, particularly as you
+get to the suburbs, if you're in Erie, or even many parts of Aurora that we're not serving or that they don't
+have that same level of service. I mean, that's a matter of compact bus stops.
+Packet page-- I think it's 324, I have-- this is a question. Is that a strict Likert scale, or did you ask
+passengers to rate these things against each other, for example, in order of importance? That wasn't
+clear to me. And I was wondering if that's something that Mr. Worthen could address in this survey,
+because it is a key piece of the survey, and I think it also makes a difference in how someone could
+answer it.
+FRED WORTHEN: Page 324-- you're talking-- which question are you referring to? There's two different
+questions. Are you just [INAUDIBLE] Access-on-Demand?
+JOYANN RUSCHA: Oh, yes. Thank you, sir. It's the bottom, where we say rank the importance of the
+following elements of RTD's Access-on-Demand service.
+FRED WORTHEN: Yeah, it was based upon ranking from 1 being most important to 5 being least
+important, so.
+JOYANN RUSCHA: And I could do the-- I didn't do the-- I could do the math and figure it out. But this is
+all individual. Like, no one had to choose fare over days and hours of service that's available, correct?
+FRED WORTHEN: Well, they would say, you know, fare was my number 1 choice, being most important,
+trip cap, number 2, whatever it happens to be.
+JOYANN RUSCHA: OK. So, thank you, that does make a difference in terms of statistics and polling. And
+so I thought I was reading how you said it, but I wanted to clarify. And because all of these things are
+important-- I get this study, this survey has already been done-- statistically, and again, from a policy
+perspective, it's hard for me to take that as a whole, because, again, you're asking customers to rate
+these very, very important things against each other. We don't even do that in our regular customer
+surveys.
+I understand why staff might have done it, because they might be thinking there are critical decisions to
+be made. But just from that customer service and policy standpoint, I struggled a little bit with that. So, but
+I do appreciate-- I appreciate your response, Mr. Worthen.
+And then I have just a few requests of staff, and that is, before we move any forward, and please, without
+delay, could staff please outline for us as a Board-- I don't know if it's a chart or a memo-- specifically
+stating what staff believes they can make without a Board vote, perhaps via delegation of authority, and
+versus what the Board will actually vote on? And I ask because in previous meetings, it had been
+suggested there was a blend of the two, and I think something will be coming to the Board next spring.
+So just so we have a clear understanding, because that is a "big-P, little-p" policy question of that
+expectation, I think it'd be helpful for us as a team so that we don't come into the spring maybe with a
+different idea of what we might be voting on. So if that's something that staff could do in a timely fashion, I
+would appreciate it. And I think maybe-- I hope other Board members would as well.
+
+And then the second is, I see we have the survey results, and if we have raw-- I don't know if this was sort
+of compiled or if this is just a raw printout, but if there are raw survey results that haven't been shared,
+can you please share that with the Board, just like we did with the code of conduct, cross tabs and all? I
+think what's good for the goose is good for the candor-- gander, excuse me-- and our disabled
+passengers are no different.
+And then, finally, because cost is a factor, and I am sensitive to that, and I do understand some of the
+points that staff has made, if staff could also provide year-over-year costs for Access-a-Ride and onDemand since that program began? And of course, just to remind everybody, it did start as a pilot. So did
+the costs jump? Yes, but also, so did service area. I think we started with two zip codes in the beginning.
+And I mention that because while we're doing that in this year's budget documents, it hasn't been shown
+in previous year's budget documents. So neither the public nor the Board has a way to go back-- unless
+maybe you were looking at contracts-- to see that year over year. So just that year-over-year cost
+between the two programs would be very helpful, I think, for the Board, before we make any decisions,
+and helpful for the public as well, as they continue with public comment.
+And if you could also just kind of segment out or maybe just note-- because under paratransit, we also
+have our customer service-- so that we can get a more holistic picture of services, again, recognizing that
+Access-on-Demand doesn't have a customer service department. Although, I do know that sometimes
+our Access-on-Demand customers do call us for issues.
+So those would be my just three requests of staff, and those are my comments. I, again, appreciate the
+situation we're in. I do feel like it was predictable.
+And while I concur with so much of what Director Lewis said, in principle and practice, I would even
+caution, before we go to cutting service-- because that's what this is, a cut in service-- can staff please
+demonstrate that that is necessary, with data, and draw a clearer line? Thank you, and that concludes my
+comments.
+TROY WHITMORE: Thank you, Director Ruscha. All right. If you're so inclined, Secretary Guzman, I'm
+going to run back to Director Lewis, who's on the Committee, and then we'll come back to you, Mr.
+Secretary. So, Director Lewis.
+JAIME LEWIS: Just quickly, I just want to let you guys know, most of our community, the disability
+community, goes to bed early. A lot of them have attendants, and they have to prepare our people
+between 7:00 and 9:00. So my suggestion is that-- this is a very important subject for our community, so if
+we could have this toward the top of the agenda in the future for both the Committee and the full Board
+meeting, I would appreciate it, because I think you would get more participation and more people listening
+in. And I think that's a fair compromise to make sure we have as full participation as possible. Thank you.
+TROY WHITMORE: Thank you, Director Lewis. Duly noted. All right, Secretary Guzman, the floor is
+yours.
+MICHAEL GUZMAN: Thank you. Mr. Worthen, I believe that when you were presenting packet page 310,
+slides 32 and 34, the pie charts, you made reference to a specific set of months of time that you were
+looking at to get those statistics about how many rides a month for Access-a-Ride and Access-onDemand. Can you state those again? Was it January through--
+
+FRED WORTHEN: I'd have to go back and check. So I don't want to misstate, but I can get you the time
+for that one.
+MICHAEL GUZMAN: It was early in the year, though, right, essentially?
+FRED WORTHEN: Yes. Let me go back and check the dates on it to make sure I don't misstate.
+MICHAEL GUZMAN: OK. The reason I ask is because it triggered a thought. When did we send out the
+letter to ask people to stop doing the multi-ride function that were currently using it, and did that coincide,
+would that have had an impact on the number of trips that were being taken, given that there was that
+drastic change in what people had become accustomed to? Just a thought, to understand.
+FRED WORTHEN: And I apologize, sir, going back to my notes, it was March through September of this
+year, so we looked at a six-month period, from March through September.
+MICHAEL GUZMAN: OK. All right. So that was one quick one. With the small number of trips that were
+taken outside of the ADA service area, can we identify a purpose for that?
+Was it a detour? Was it a stop on the way to part of the district that was an island in Erie? Was it a
+hospital that might be just on the edge or the wrong side of the street of the district? Do we know what the
+purpose of that trip was, or is it just gone information?
+FRED WORTHEN: We don't know. Thank you for that question. It is a great question.
+The one thing that we have, though, is a privacy issue with our vendors. They will not provide information
+on trip purpose, and the person is not required to provide that. So we can't legally ask for that information.
+With regard to, though, the information that you were asking about, some part of the trip, either the pickup or the drop-off or both, were outside of the district. Whether it's a block or 10 miles or 50 miles, some
+section of that trip itself, either a start, an end, or both pieces of the trip, were outside the 3/4 mile
+corridor.
+MICHAEL GUZMAN: OK. And the reason I ask that is because it's quite common knowledge that the
+drivers of the TNCs in particular use apps like Waze or Google Maps or some other function to find their
+way, and when they use those maps, it may take them outside of the district unintentionally. But speaking
+as a customer and a common-sense, "feet on the ground" person, they don't have the planning and the
+map technology or understanding that we have at the agency, and so because they are subcontracted,
+they're not bound by the same understanding that that map definition is so important.
+And it just triggered a thought that maybe there's a way to figure out what happened there. If there's an
+accident and they have to go around it, it may have caused them to leave the district. I don't know.
+FRED WORTHEN: No, no, it's a great question. And just for clarification, so the Americans with
+Disabilities Act defined that the start and the endpoint of a trip have to be within 3/4 of a mile corridor.
+There's nothing that prohibits us from traveling outside going from point to point. In fact, that is quite
+common, where we will go outside of the corridor itself to actually transverse the trip itself, to just do the
+shortest of two points.
+
+So there is no impact when a trip travels outside. It's really when the start or the end of the trip is outside
+of it, or is completely outside that 3/4 mile. The Americans with Disabilities Act states that both the start
+and the end have to be within 3/4 of a mile of a fixed route.
+MICHAEL GUZMAN: Thank you for that clarification. Finally, I just want to wrap my head around this,
+because it sounded to me like the purpose of doing this outreach and the purpose of taking these surveys
+and the purpose of getting the feedback was to garner an understanding of where folks are at and what is
+important to them.
+This was not meant to be a direct response to the Board or to the agency that these are the only options
+available, but these were options that were given to seek understanding so we can continue to do work
+and refine what we can offer in terms of what you will bring to the Board or what you will offer as services
+going forward. Is that correct? Like, this is not the end all, be all?
+FRED WORTHEN: No, these are preliminary recommendations. So think of it very much like the service
+change. When we bring a service change to you, we bring forth what we're thinking, and we use a lot of
+different things to factor into what starts our original thought process.
+However, when we listen to customer feedback, there are oftentimes very persuasive things that are
+brought forth. There are other alternatives that we find as we're going through the process, or other ways
+that we find to mitigate things, which is why you will see times, like today, even, we made modifications to
+two or three different routes strictly based upon customer feedback.
+We had to start somewhere. So we started with the peer review, and they said, you really need to focus
+upon fare subsidy, the main areas that I hit today. So we used the information from the customer survey
+to formulate what we thought was reasonable, met the majority of our customer needs, but at the same
+time contained cost.
+And I do understand that although this may seem like small cost, the paratransit budget is actually almost
+17% of our fixed-route budget, and the Access-on-Demand program has grown from 2% to 20% of the
+Access-a-Ride budget in under two years. So a growth at that rate isn't fiscally sustainable itself. So we're
+trying to find some ways to preserve the service.
+It is none of our goals to make Access-on-Demand go away. I see it as a very valuable program. But just
+like service planning, I do the best I can within the budget that's available to provide the services to meet
+the majority of our customers' needs.
+So, no, you are correct, this is not the end all, be all. This is a starting point. This is why we want to go
+back for a second round.
+It's part of the reason why, when I spoke with Ms. Johnson, and we came forth and said, you know, we
+were going to bring recommendations this month-- let's take a step back. Let's tell the public what we're
+thinking about, give them a little time to digest it, provide feedback to us, and then come back next year
+with a new set of recommendations.
+MICHAEL GUZMAN: Thank you. I have one last thing to say. I'm sorry, Mr. Chair. Thank you for your
+patience.
+
+I am and have been struggling with this conversation. We have had a lot of public feedback. And more
+likely than not, I will end up using these services sometime in the future, given my macular degenerative
+disease that will cause me to go blind.
+So when I-- although I cannot say I am necessarily part of the community, as a Director, I represent
+members of the paratransit community and people with disabilities, will become one of them at some
+point, either by age or other issue, so this is really important, I think, to all of the Directors on this Board,
+not just one or two. Every one of us look out for our constituents, to be clear, and we have heard you.
+Here's where I struggle. An Access-a-Ride van, which is wheelchair-- excuse me, Access-a-Ride vehicle
+which is wheelchair accessible-- harder to coordinate pick-up, drop-off, different times, different demands,
+different needs. I understand that that's an issue.
+Access-on-Demand does supplement and help perhaps those persons that don't require a WAV vehicle
+or special attendants to be able to utilize the public services, which is awesome, and I love that we can
+use these services and we've tested this. But it is different from riding a bus or a train. Those vehicles do
+not go through drive-throughs. That's a disparity.
+And that comment was made in public session at a Board meeting. And I want to be very careful. Right,
+it's different to say, Can we have a multi-stop option to drop off my child at daycare and continue to my
+job? versus, I should have the right to go through the McDonald's drive-through on my way home,
+because I don't have that right as a regular bus route rider or a train rider to demand the same thing of
+RTD.
+So I do see how there could be a disparity in the understanding of how this is to be used and the intention
+for it. That said, we use it to get everywhere. I use it to go to Starbucks, to go to work.
+I can get off the bus. I am capable of walking over to the McDonald's and jumping back on the 31 and
+continuing on my way. That is not true for all people.
+And so I'm struggling to figure out how to best respond to tensions that I don't get because I don't have
+that lived experience, and creatively resolve this problem as a Board member when it comes before me,
+because I'm really doing my best to dig in and listen to the community. And so my final comment is this.
+I'm grateful to hear what you just said, and I challenge all of our staff to be creative in how they look at the
+responses that come forward to the Board and the recommendations outside of our traditional way of
+doing things.
+Right, let's go take a walk, sit under a tree, write a poem about it, I don't know, whatever it's going to take
+to get those creative juices flowing to try and find a better response to this particular issue that we are
+facing, because I know we can do better. I just don't know how. And I know that our team is capable of
+providing the best recommendations. I don't know what they'll look like.
+And I think that is what both Director Ruscha and Director Lewis, many of our community members, and
+all of us want, and what we expect, because your expertise and your ability to be agile and fluid with how
+we move this forward, while maintaining our fiduciary duty, is so important to make sure that we have
+longevity in this program, for people who will end up using it or people that are currently using it. Thank
+you.
+FRED WORTHEN: Thank you, sir.
+
+TROY WHITMORE: Thank you, Secretary Guzman. All right. One last bite at the apple, Director Ruscha.
+I know you had a comment you wanted to make.
+JOYANN RUSCHA: Thank you, Mr Chair. I appreciate your grace. I just wanted to note, for those who
+might not be aware, that the ADA stipulates that when we talk about start or end of a route and 3/4 of a
+mile of fixed route, that is the minimum-- the minimum.
+That's the floor. That's the floor. That's not-- it's the floor. We woke up and we found the floor. So I just
+wanted to point that out.
+While we might not know the reason behind a why someone is taking a trip, we do surveys for this with
+paratransit customers generally, and we certainly could've embedded more of those questions in this, the
+survey that we just did. We've also heard a lot of community comment, as Directors have noticed.
+But what we could do-- and I think GIS could probably help us figure it out-- is take the data that we get
+from the TNCs and put it on a map, and then maybe we'd have a better idea of how far outside of our
+service area folks are going and if it actually is a budgetary impact.
+If it is, then it needs to be demonstrated. As it stands, my opinion was it did look like a red herring
+because I can't see the data. But we do have staff technology and the data to provide, I think, a better
+snapshot, if you would, a literal picture of where folks are going.
+Finally, I just want to go back to the data that we do have, that the-- I think it was stated that the AoD
+budget is something like 20%-- or was it 20% of our paratransit budget? Or what was the 20% number I
+heard, in under two years?
+Or was it that something had grown from 2% to 20%? I'd have to go back and look at the transcript. But
+again, that was-- and if Mr. Worthen wants to jump in and help me out, thank you.
+FRED WORTHEN: No, you're correct. It's grown from 2% of the paratransit budget to 19%. It's almost at
+20% right now.
+JOYANN RUSCHA: Thank you, sir. And I would note that was predictable, but it's also something that
+RTD-- I don't know what numbers were-- I don't remember what numbers were thrown around years ago.
+But we were told that in launching a program that would be largely inaccessible to people who use
+wheelchairs, it would ease some of the stress on Access-a-Ride and improved services for others.
+But anyone looking at this-- and it was said at the time, more and more people are going to use it, but we
+also encouraged people to use it. We even increased the subsidy. We also get, in our reports, trends,
+paratransit trends. And we can see that, if you consider this to be a market, that AoD's, quote, "market
+share" in the RTD world was growing significantly.
+So again, I just go back to we made a budget error. Someone didn't budget correctly. It's not a reason to
+cut services, particularly if it's something that we can cover. Perhaps some changes need to be made, but
+what I'm seeing in this presentation as preliminary suggestions seem very dramatic, and I think we need
+to slow down and take a step back.
+Finally, I think I said it before, but if I didn't, we need to bring back the multi-stop option that ended, I think,
+in February. At the time, I was OK with it because I thought we would have a solution to this problem or
+
+this issue within a couple of months. It's now drug on for months, and we have heard I don't know how
+many hundreds of comments from the community about how that has negatively impacted their lives.
+There's no reason to not turn that back on, so to speak. And I think that was well intentioned, but that is a
+wrong that needs to be remedied. And so I am asking staff to please fix that now and not wait until next
+spring to make a decision. Thank you. And I will yield for the evening.
+TROY WHITMORE: Thank you, Director Ruscha. Mr. Vice Chair.
+JULIEN BOUQUET: Thank you very much.
+TROY WHITMORE: Your first thought of the night. The floor is yours.
+JULIEN BOUQUET: Thank you very much, Mr. Chair. I was just sitting on this, and I believe it was former
+Chair of this Committee, Director Williams, said that either you currently have a disability or you will have
+a disability. That is going to impact 100% of us.
+That is why this is so crucial. This is why this discussion has taken such time. And it doesn't matter who
+you are, you will be impacted by this, ultimately.
+I think that my note, and just kind of wrapping this up, is the feedback that was given, specifically with the
+feedback with Director Lewis, because he will not be a Director in 2025, I think that the feedback that he
+has been given-- or that he's given us, needs to be taken seriously going forward, and whoever's going to
+be the next Chair for this committee needs to look into it specifically.
+When it comes to the pricing options, as Director Harwick said, is running the numbers and see how it
+impacts it, I think that's a huge suggestion. The one that's just an administrative suggestion-- which is
+having this as one of the first discussion items so that the folks that care most about this are able to stay
+up and/or be able to listen-- this is a critical issue. This impacts every single person either now or in the
+future. So I think listening to the suggestions that have been happening with our fellow Directors, that's
+what is going to be important going forward.
+I just want to ultimately put weight to it. I'm not adding anything new, but I want to put weight to it. As we
+transition, this being our last 2024 Operations Committee, this, going forward, to whoever our future Chair
+is, don't let this die tonight. Thank you.
+TROY WHITMORE: All right. Thank you for the comments, Mr. Vice Chair. I think that is a wrap on this
+item, and a great discussion and a great meeting.
+FRED WORTHEN: Thank you.
+TROY WHITMORE: I do have a couple of closing statements I want to make at the end of the meeting,
+but before we do that, the next item on the agenda is other matters. Do we have other matters? Mr. Vice
+Chair.
+JULIEN BOUQUET: Yeah, I'm going to boomerang back around and talk about another topic of
+discussion, and that is your leadership as our Chair for this year, Chair Whitmore. I just wanted to say a
+huge thank you. I know this is our last Operations, Safety, and Security meeting for the calendar year of
+2024. I just want to say it's been an honor working with you, Chair Whitmore.
+
+I've really appreciated, really learned a lot. I know everyone part of this committee has really appreciated
+your leadership. I wanted to say a huge shoutout to our staff and then also Mr. Kroll for implementing
+these new work plans. It was great getting to see the advice from our fellow Directors going forward at the
+beginning of the year, so I wanted to thank you guys.
+The meetings, behind the scene, it was very informative, and I appreciate the information that you're able
+to give me. And I appreciate serving as your Vice Chair. So thank you, Director Whitmore.
+TROY WHITMORE: That's very kind, and thank you. It has certainly been an honor and an adventure.
+And I will have a few other thank yous. But other matters from other participants?
+MARJORIE SLOAN: [INAUDIBLE]
+TROY WHITMORE: You weren't recognized, Sloan.
+[LAUGHTER]
+MARJORIE SLOAN: So kick me off the Board after this meeting, yeah? [LAUGHS]
+TROY WHITMORE: No. Well-- I just wanted to say a few things. I'm thankful that we have an in-person
+meeting and maybe another event where I can thank especially the three members of this Committee that
+will not be with us in 2025. Director Rosenthal, Director Lewis, and Director Sloan, you all are extremely
+dedicated and talented people that have represented your constituents mightily, and all constituents, with
+such passion and clarity. And I know, for this old guy, I've learned from all three of you just all kinds of
+different tactics and backgrounds and diversity matters that are so helpful as an elected official.
+So we're going to miss the three of you. We only had Director Lewis for a year. But it's been a mighty
+year, and we certainly appreciate your input. And you went out in a blaze of glory with your
+recommendations, so I appreciate that.
+And, man, it'll be tough to come in January and not see your three faces at the Board meetings, but we
+know that you all are going to continue to serve your communities because you are certainly community
+service-minded folks. And to use an old legislative term, it has been an honor to serve with you.
+Additionally, to the rest of the Committee members that are here, that will be back with us, thank
+goodness you will be. I appreciate all of your input and your patience with me as the leader of the group.
+Director Bouquet, Vice Chair, thank you for your indulgence and helping me out and covering for a few
+times when my calendar and my mind were not on the same wavelength this summer, right after my
+vacation-- or my retirement. But I do appreciate that.
+Mr. Kroll and the Board staff-- there is a tremendous amount of work that goes on behind the scenes, and
+we're not their only committee. [LAUGHS] There are several. And to the operations staff, I would be
+endangering my reputation by trying to name everybody, but I see the faces on the screen. And there's
+many other faces that aren't on the screen tonight that are doing other things that have been so helpful.
+But working with Fred and Debra and the Board staff, namely, and then, obviously, all of the support from
+various individuals, we have an expertise level that is remarkable. And I do want to say that the staff does
+not get the recognition for their service that they deserve for all eight counties of constituents. So it has
+been an honor, and thank you all very much for all of your efforts and for being checked in all the time on
+these important matters that we have before us and certainly will continue.
+
+For those of you leaving the Board, please give us a phone call. If you see here, we need that input. And I
+think the whole rest of the Committee and the new Committee members will appreciate that as we move
+forward. So with that, any other comments as we begin the closing ceremonies here? Director Ruscha.
+JOYANN RUSCHA: It wouldn't be me if I didn't raise my hand. But, Director Whitmore, I'll warn you that
+last night I suggested we sing "For He's a Jolly Good Fellow"-TROY WHITMORE: No.
+JOYANN RUSCHA: --for [LAUGHS] Director Tisdale. If don't know if we can-- if we have any volunteers,
+maybe Mr. Kroll. I heard you had a good singing voice.
+But I just also wanted to add-- we'll get you next time, sir. I can see Jack's face. But I just wanted to add,
+just to echo everything that Vice Chair Bouquet said, you really are the salt of the Earth, and we love you
+dearly. You've been phenomenal, and I appreciate all of our talks, the way that you have gotten us
+through quite a bit of our work plan. We aimed really high, and we got a lot done.
+And I also just wanted to close by saying-- I don't know if-- I actually don't know if the public can see what
+we can see, all of the people on the screen here that are staff. I have to flip through I don't know how
+many names. There are so many staff members that come, and they're here in case we have questions
+or someone needs to phone a friend. So I also just want to say thank you as well, and a special shoutout
+to staff members that were very generous when I threw a hot potato.
+Sometimes, policy discussions can get tough. But the professionalism, I think, is exceptional, and I really
+appreciate it. And we'll let Director Lewis off the hook, because he does do theater, he can sing, and we'll
+catch you on December 12, I think it is, our dinner, for a round of "He's a Jolly Good Fellow."
+But thank you so much, Chair Whitmore. Again, you are the salt of the Earth. So thank you for how it's
+gone this year.
+TROY WHITMORE: You're all very kind. So, looking ahead, the next ops safety and security meeting will
+be scheduled in January. We don't have the date set as of yet, but highly likely to be somewhat similar of
+a schedule, but subject to change.
+So with that, seeing no other items to discuss or converse about, I will declare this OSS meeting
+adjourned at 9:01 PM Mountain Time. Have a good evening, and thank you, staff, and fellow Board
+members.
+
+

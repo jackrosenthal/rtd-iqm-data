@@ -1,0 +1,79 @@
+## I. Operations and Customer Service Committee
+
+Chaired by Judy Lubow
+
+### A. Call to Order
+
+Committee Chair Lubow called the meeting to order at 7:47 p.m.
+
+Director Rivera-Malpiede was absent.  Directors Anderson, Daly and Lasater left early.
+
+Staff Present:              Bruce Abel, Jeff Becker, Lacy Bell, Shirley Bennett, Garrett Christnacht, Carolyn Conover, Bob Downes, Terry Emmons, Steve Gieske, David Genova, Mike Gil, Kim Heldman, George Hovey, Terry Howerter, Brian Iacono, Austin Jenkins, Jim Kelley, Erin Klaas, Marla Lien, Brian Matthews, Doug MacLeod, Barbara McManus, Vivian Morales, Brenden Morgan, Alice Osner, Scott Reed, Jannette Scarpino, Bill Sirois, Cherie Sprague, Henry Stopplecamp, Kirk Strand, Richard Swain, John Tarbert, Pauletta Tonilas, Phil Washington
+
+Others Present:              Morgan Bassey, Chris Blackwood, Tina Francone, Doug Gragg, Eugene Howard, Daryl Kinton, Joe Triplett, Gary Van Dorn, Monte Whaley
+
+#### 1. Englewood Art Shuttle
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize the General Manager, or his designee, to execute all documents necessary to enter into a Cost Sharing Agreement with the City of Englewood to provide RTD financial support for the operation of the art circulator bus service in the City of Englewood. This agreement is for calendar year 2015 and is for an amount not to exceed $282,000.00.
+
+Motion:              Director Folska made the motion to move this item to the full Board at the December 16, 2014 Board Meeting.
+
+Director Walker seconded the motion.
+
+Discussion:              Bruce Abel, Assistant General Manager of Bus Operations, noted that staff views this action as a housekeeping item.  He explained in 2003 the City of Englewood (Englewood) applied for and was awarded a Congestion Mitigation Air Quality (CMAQ) grant to implement the Englewood Art Shuttle to connect the medical complex to the light rail station.  The ridership through the three year period was far in excess of what was anticipated.  Bruce Abel commented that the CMAQ grant expired in 2007, at which time RTD took over funding of the art shuttle due to the high ridership.  He stated that Englewood wished to keep the shuttle free so they agreed to contribute in an amount equal to the fares that would have been collected.  He pointed out that ridership continues to be very, very good.
+
+Director James thanks this is a very good idea.  The more RTD collaborate with our colleagues in the metro area the better.  He noted that ideas and collaboration like this can be a great way to address the first mile/last mile issue.  He believes that collaboration is growing with other cities and municipalities because of examples like this.
+
+Director Bagley informed the Board that he used to represent a portion of Englewood before the redistricting so he was very familiar with the shuttle.  He thinks this is a fantastic opportunity to partner with the community.  He stated that it has been demonstrated that the ridership is extremely high.
+
+Director Tobiassen said he agrees that this looks to be a very successful partnership.  He believes it is similar to the 16th Street Mall Shuttle in providing the last mile connectivity.  Director Tobiassen wonders if any employers in the area offer EcoPasses.  Bruce Abel stated that there are; he does not have the specific names readily available but will provide Director Tobiassen with a list.
+
+Director Deadwyler asked if the cost of operating the shuttle was shared equally between RTD and Englewood.  Bruce Abel explained that RTD pays for the cost of operations while Englewood compensates RTD for the revenue we forego by maintaining the Shuttle as a free service.  Director Deadwyler inquired how much Englewood pays RTD for fares.  Brian Matthews, Manager of Special Services, said the revenue would be about $70K for 2015.
+
+Committee Chair Lubow declared the motion PASSED.
+
+#### 1. Longmont Fare Buy Up
+
+Bruce Abel reminded the Board that when the Longmont Fare Buy Up was first approved, the FTA had concerns about this being a fare change, which would require a fare analysis.  Due to this, the timeframe was scaled back to a 6 month promotional period that could be extended an additional 18 months should Boulder County receive FTA approval for the entire period.  He noted that the FTA has since agreed this is not a fare change since Boulder County and the City of Longmont (Longmont) are “buying up” the fares.  He said this means the program will now be in effect for the full 2 years.
+
+Committee Chair Lubow inquired about how the program is performing.  Brian Matthews said that the Longmont buses are definitely carrying more riders; however, he noted that it is important to determine if this is due to more trips per existing rider or new riders.  He explained that there have been some specific questions added to the annual customer satisfaction survey for the Longmont area to attempt to answer this question.  Bruce Abel pointed out that there was also an increase in riders during the six months prior to the program taking effect, which has continued to grow in the months following implementation.  He said it is important to determine if it is in fact the free fare driving up ridership or something that happened prior.
+
+Director Hoy highlighted Brian Matthews’ statement that at this time RTD cannot determine if the increased ridership is due to new riders.  He asked if there would be anyway to pinpoint where the increased ridership was coming from.  Brian Matthews reiterated that hopefully those answers would come from the additional questions that were added to the annual customer satisfaction survey.  He said staff hopes to have those results in spring of 2015.
+
+Director Hoy wondered how the fares that Boulder County and Longmont would pay RTD were calculated.  Bruce Abel explained that the figure was established from the farebox revenue in 2012.  Boulder County and Longmont agree to pay RTD that amount on an annualized basis in addition to any increase in operational costs due to a need for additional service, including costs for all Access-a-Ride trips.  Director Hoy noted that between August of 2013 and 2014 ridership has doubled, meaning RTD’s farebox revenue would have also doubled.  He asked if there was a provision for this in the agreement.  Bruce Abel stated that there was not a provision, just an agreed upon dollar amount.
+
+Director Folska inquired if Access-a-Ride ridership had increased at a level commensurate with bus ridership.  Brian Matthews stated that he did not have that data yet.  He said for the first several months ridership remained the same.  He believes that word might not have gotten out yet that Longmont is paying for Access-a-Ride trips if the origin is in Longmont.  Director Folska asked if that meant that all people with disabilities could use all paratransit service for free.  Bruce Abel explained that the program only cover Access-a-Ride, not Access-a-Cab.
+
+Chair Sisk shared that he recently heard Mayor Coombs speak very positively about the cooperation and that this was a very successful venture with RTD.  He thought it was good to hear that this was a cooperative venture.  He believes that, similar to what RTD is doing with Englewood, when we work with communities we can make the difference.  Chair Sisk thanked staff for their work on this program.  He said that perhaps we are leaving money on the table but all in all this is a very positive, revenue neutral way for RTD to increase ridership.
+
+Director Solano wonders if the Board approves this recommended action will RTD be setting a trend for other municipalities to come to RTD and request “buy ups”.  Bruce Abel clarified that this is not a recommended action because the Board approved the program previously; however, he hopes it encourages other municipalities to work with RTD on a cooperative basis to fund services.
+
+Director Folska asked for additional information about the survey that Brain Matthews alluded to earlier.  She inquired how the surveys were administered (i.e. via mail, telephone, on-board, etc. as well as if they were conducted through a consultant).     She also wondered if perhaps it could satisfy the FTA’s “Before and After” studies.  Director Folska expressed that there might be an overlap in RTD’s survey activities.  Bruce Abel stated that he would have Dennis Yaklich, Manager of Market Research, provide her with further information.
+
+#### 2. Fare Task Force Update (No Back-Up)
+
+Lacy Bell, Planning Project Manager, reminded the Board that public outreach meetings have begun.  Staff hopes to have a recommendation on fare structure to bring to the Board for approval next month.  She reiterated that the public is being presented with the following issues: (1) a simplified, four fare structure of local, regional/express, rail and airport categories, and (2) pay options of pay-per-boarding with a day pass option or pay-for-time (i.e. pay for a three hour block in which the rider may take as many trips as they like).  Lacy Bell explained that behind the scenes CH2M Hill is also modeling RTD’s current fare structure as well as a one transfer alternative.  She said that the public input in conjunction with CH2M Hill’s continued research would be used to come up with a recommendation.
+
+Lacy Bell shared that there is a video on RTD’s website in English and Spanish which has received over 400 comments.  She said that the three meetings held thus far were moderately well attended.  There are still three more meetings that will be held.
+
+Director Folska inquired what RTD is paying CH2M Hill.  Lacy Bell stated that the contract was for $220K.
+
+Director Deadwyler asked Lacy Bell to review the types of service again.  She wonders how this will diminish the confusion surrounding the zones.  Lacy Bell stated that the types of service are local bus, regional/express bus, rail service, and perhaps a surcharge on bus and rail for airport service.  Bruce Abel explained that this structure would eliminate the zones referenced by Director Deadwyler.  There would be a flat fare on the rail system.  He noted that the zones is where the most confusion was when early outreach was done with customers.  He also reminded the Board that during the peer review RTD learned that almost all of the rail systems have moved to a flat rate fare due to similar confusion to the customers.
+
+Director Deadwyler expressed concern about having a surcharge for traveling to the airport.  She wonders if staff has considered that many of the people that will be traveling to the airport are workers who make little more than minimum wage.  Bruce Abel explained that the way this will be addressed is similar to what RTD does today; even though SkyRide is considered a “premium” fare, anyone that holds a regional monthly pass can ride the SkyRide.  He said that as the employees would buy a monthly pass this addresses the issue since the surcharge is applied to your occasional traveler.
+
+Committee Chair Lubow shared that at the meetings she attended there were many comments that people felt it was unfair to pay more for rail than the equivalent bus service.  She asked how that would be dealt with if there was just one rail fare.  Bruce Abel explained that this will really be addressed when the fare level is set, which is yet to be determined.
+
+### D. Other Matters
+
+Director Menten wondered if there was any further information about the person that was killed along the West line back in October.  She inquired if perhaps the wayside warning system might help prevent these types of fatalities in the future.  David Genova, Assistant General Manager of Safety, Security and Facilities, said that the Golden Policy Department is still waiting for the autopsy report to finalize the investigation.  He explained that based on video surveillance it appears that the person entered RTD’s track area at an at-grade crossing.  Austin Jenkins, Assistant General Manager of Rail Operations, explained that the wayside warning system would only be for RTD workers.  As a train approaches an area in which people are working, an alarm goes off in the cab as well as on the worker.  He said this is just an overlay of the numerous safety procedures already in place.
+
+General Manager Washington asked Marla Lien, General Counsel, to give an update on the Colorado Cross Disability Coalition’s (CCDC) lawsuit related to light rail.  Marla Lien explained that the lawsuit appears to be very similar to the lawsuit CCDC filed against RTD related to buses and keeping the wheelchair securement areas open.  She stated that it was filed in federal court but RTD has not yet been served.  CCDC has asked RTD to waive service; RTD has until December 31, 2014 to agree and then we will have 30 days to move to complaint.
+
+Director Hoy asked why RTD would waive service.  Marla Lien explained that if we waive service we are afforded a 10 day bonus to move to complaint.
+
+Director Folska said that it was her understanding that boarding from the high blocks was also an issue in the complaint.  She believes that the lawsuit is requesting that only people with mobility devices be allowed to board from the high blocks.  She stated that the definition of a mobility device really needs to be considered as the white cane used by visually impaired may not meet the definition.  Marla Lien stated that is why RTD would move to the complaint, not necessarily answer it.  There may be claims that we may dismiss, claims we may admit, and claims we may deny.  She said RTD is not conceding we would do everything they ask.
+
+### F. Adjourn
+
+Committee Chair Lubow adjourned the meeting at 8:19 p.m.

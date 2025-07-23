@@ -1,0 +1,55 @@
+## I. Call to Order
+
+Committee Chair Malpiede called the meeting to order at 5:31 p.m.
+
+Staff Present:              Bruce              Abel, Larry Buter, Rick Clarke, John Elias, David Genova, Mike Gil, Kenn Hardin, James Cook, Eric Farrington, Ericka Franklin, Adrina Gibson, Gary Googins, Terry Howerter, Ryan D. Hull, Austin Jenkins, Erin Klaas, Doug              MacLeod, Brian Matthews, Barbara McManus, Brenden Morgan, Trent Ratcliff, Scott Reed, Jannette Scarpino, Beverly Scott, Daria Serna, Greg Smith, Walt Stringer, John Tarbert, Lisa Trujillo, Michael Washington
+
+Others Present:               Dr. Claudia Folska, Gary Forbes, Stan Gronek, Sherman Hamilton, Gregory Jenifer, Lee Johnson, Beth Krueger, Gary Lasater, Stu Livensparger, Judy Lubow, Nate’ Malone, John Moellenberg, Jason Simmons, Paul Solano, Larry Tenenholz, Christian Vigil
+
+### 1. Civil Rights Division End of Year Report
+
+Kenn Hardin stated that they will provide a brief synopsis of the different functional areas of the Civil Rights Division.  James Cook, Manager of the Equal Opportunity (EO) Team, reviewed their responsibilities, successes in 2012 and Goals and Objectives for 2013, which include the implementation of Employee “Sensing” Sessions. They will also integrate the EO program for all contractors,  provide training for District Management in enhanced anti-liability, and will collaborate with the Education Department to create Dignity and Respect training and workshops.
+
+Kenn Hardin also introduced Michael Washington, Manager of the Title VI Office.  Michael stated that their major responsibility is to ensure RTD’s compliance with Title VI.  He also reviewed their successes for 2012 and 2013 goals and objectives.  In 2013 they will complete the update for the 2013 Title VI Program as well as the RTD Limited English Proficiency (LEP) plan.  They will also conduct a District-Wide Title VI compliance analysis, develop an outreach plan for Title VI and establish a Title VI Advisory Board.
+
+Kenn Hardin introduced some members of the Small Business Office (SBO).  Adrina Gibson introduced other members of the team that will be managing the I-225 project.  She reviewed the team’s responsibilities as well as their successes in the areas of compliance, outreach, training, and SBE Certification Program.   She stated that they have 4 contracts that can be primed by DBEs.   They also have 150 DBE and SBE companies working on the Eagle P3 project. Mr. Christian Vigil thanked RTD for the opportunity his company has been given through the SBO programs.  Ms. Beth Krueger with Allstate Swiping stated that they have also worked for the Eagle P3 and other projects and appreciates what RTD has done for them; they have received a lot of work from RTD and have increased their business almost 100% over the years.  Adrina stated that this program will also be in the I-225 project and some of these firms will be transitioning to I-225.  Their goals for 2013 include the SBO open house, Subcontractors Performance Self-Insured Program (SPSP) information events, and training workshops on business development.  Staff talked about their efforts on the Eagle P3 project.  The team will develop orientation workshops for Prime Contractors DBE/SBE and also the communications plan for model Prime Contractors DBE/SBE.  Staff will hold a tour for SBO education.  They will implement DBE/SBE graduation and inter-governmental initiatives to answer the questions that the community has.
+
+Kenn Hardin stated that the self-insuring program is the first in the nation and many of the companies that have worked in these projects would have not have the opportunity unless RTD was willing to take the chance with them.  The program follows RTD’s own monitoring system that is in place.
+
+Kenn Hardin introduced Martell Dyles the acting program manager for the Workforce Initiative Now (WIN) Program. Martell expressed that their responsibilities include identifying training and resource providers, as well as delivering pre and post-placement.  Their successes for 2012 include 94% of WIN participants retained employment 90 days after placement and 76% of WIN participants retained employment 6 months after placement.  He introduced Ms. Ericka Franklin, a WIN participant through the Denver Housing Authority.  Ms. Franklin stated that she feels the best part of the program has been having the training available for her and the post-training support is also very valuable.  The WIN employees have helped as references.   Martell stated that WIN goals and objectives for 2013 include the implementation of current FTA grant-funded training activities; implement group development seminars for win and network partners; coordinate with Denver Transit Operators and RTD for network partners’ orientation to transit job; finalize partner relationship with new four-year college partners; and release RFQ and secure winning bid for tracking software to be purchased with FTA grant funds and local match dollars.  The scorecard will adapt existing evaluation criteria to create a scorecard to message WIN’s programmatic successes and impact on the regional economic development.
+
+They also provided the contact information for the Civil Rights Division staff.
+
+Director Gore requested more detail about the increase on the evaluation scoring to 25%.  Adrina explained that typically on the evaluation criteria participants would get by with 10% and being able to increase it to 25% is a big step.
+
+Director Gore also asked how the scorecard for WIN would impact regional economic development.  Staff stated that they will reach out to the community in order to be able to give back to the community and help them grow through the opportunities created.  GM Washington stated that this is to track the impact of the program on the communities that RTD is in.  They originally set 5 areas to track, such as Crime rate in the zip code, foreclosure rate, unemployment in the areas where we have participants of WIN.  This data will help to leverage funding not just from FTA but other agencies because of the impact of the program.
+
+Director Cohen stated that he is very excited and encouraged to see the department take shape and structure.  He commended Kenn Hardin and the rest of the team for what they have done in the two years the division has been in existence.
+
+Director McMullen stated that it was difficult at the beginning, and there was a lot of controversy.  He also mentioned that DBE is a federal requirement and SBE is what RTD has done beyond the law.  He stated that this has been a wonderful experience and congratulated the team.
+
+Director Bagley asked what the community outreach includes in the different areas.  Kenn Hardin stated that RTD established MOUs with 3 particular groups: Hispanic Contractor of Colorado, the African American Leadership Group and the Minority Chamber of Commerce.  They have used these 3 groups over the years to outreach the minority contractors.  They host annual event with those key stakeholders.  When RTD has large contracts come out those groups review the contracts and goals and provide their feedback about the goals.  That does not mean that RTD will change the goals but may try to incorporate the feedback.  RTD also participates in a number of contracting events throughout the region.  As RTD has contracts coming out, staff monitors the contracts and counts the number of contracts that go out to ensure that we are getting the necessary participation.  They also have the prime contractors host open houses, like on the Denver Union Station redevelopment project.  They held an open house to have small contractors see the available opportunities.  They send out notices, are connected to governmentoutreach.com, and invite people to come in and have the project managers explain what the project is about and how to bid on the project.   Director Bagley stated that it sounds like this is very robust initiative to keep the community involved.
+
+Director Malpiede asked about the DBEC program.  Kenn Hardin stated that the Disadvantage Business Enterprise Committee (DBEC) opens resources for the small business and banking institutions to come to a quarterly meeting and see what is happening at RTD and what opportunities are available.  They invite the key project managers to explain what is on the horizon.  They have Brian Iacono provide the list of upcoming contracts.  Their last event was a couple of weeks ago and they had over 60 people in attendance.  They do a spotlight where they identify one DBE that has had great accomplishments in their project.  They also recognize a prime contractor that has done a lot for the DBE community like bringing DBEs on.  They are recognized at this event by the DBEC.
+
+Director Tobiassen expressed appreciation for the DBE community certification program.  He asked where the project offices are for Adrina now that she is the Compliance Officer for the I-225.  Adrina stated that they are currently at 707 17th Street while their floor is getting renovated.  They will also have a project office at I-225 which is in construction.  Director Tobiassen requested Adrina Gibson assist with a visit they have planned to the I-225 area.
+
+Director Anderson asked if this office is connected with any of the different chambers of commerce for Jefferson and Adams Counties.  These chambers really represent small and disadvantage businesses.  Ken Hardin stated that they are already working with those chambers.  Adrina Gibson stated they email all the different Chambers so they have the information about upcoming projects, meetings, etc.  They request that the Chambers submit the information to their constituents.  Staff asked Director Anderson if she has a specific contact to have them contact the Civil Rights office directly.
+
+Director Deadwyler stated that she is very excited in terms of what is happening and how all these things are coming together.   She met with a construction group and it is good to see that they have hope and optimism for what is happening.  She thanked Kenn Hardin for being at that meeting so he could share information and work with this group to help them obtain work.  She is very proud that RTD will be able to achieve this vision.
+
+Director Malpiede thanked the Civil Rights Division and requested the change of the committee name from the DBE Committee to the Civil Rights Committee.  She attended the last DBEC meeting and was excited to see how many people were present.  The staff is beyond exemplary and they want to bring to the Board the faces of the people that are participating in the program.  She thanked Kenn Hardin and the staff for all their hard work.
+
+##### a. RTD PowerPoint Board Presentation- Submitted Final
+
+## III. Recommended Actions
+
+There were no recommended actions.
+
+## IV. Other Matters
+
+There were no other matters.
+
+## VI. Adjourn
+
+Director Malpiede adjourned the meeting at 6:12p.m. to the Financial Administration & Audit Committee.

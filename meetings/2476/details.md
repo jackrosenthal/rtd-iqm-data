@@ -1,0 +1,384 @@
+## I. Call to Order
+
+Chair Tobiassen called the meeting to order at 5:30 p.m.
+
+## II. Pledge of Allegiance
+
+Chair Tobiassen asked everyone to stand and join him in the Pledge of Allegiance.
+
+### A. Roll Call
+
+Barbara McManus called role. There were fifteen (15) members present at roll call.  Director Deadwyler left early.
+
+Staff Present:               Bruce Abel, Rolf Asphaug, Shirley Bennett, Gina Callahan, Susan Cohen, Heather Copp, Nate Currey, Debi Drewes, David Genova, Doug Gragg, Cory Granrud, Erin Klaas, Adrian Mabry, Doug MacLeod, Robin McIntosh Jr., Barbara McManus, Doug Monroe, Brenden Morgan, Mike Nabhan, Tai-Shrae Parish, Mike Peters, Scott Reed, Cal Shankster, Stan Szabelak, John Tarbert, Bill Van Meter
+
+Public Present:               Helen Atkeson, Dan Burke, Gerry Cotton, Julie Deden, Corey Delizza, Beth Dickinson, Sherman Hamilton, Emily Kelley, David Kreutzer, Sam McKenzie, Michelle Médal, Zach Miller, Mike Newman, Matt Silverman, Alan Streater, Janet Streater, Shane Tempel, Joe Triplett, Gary Van Dorn
+
+## IV. Retiree Awards
+
+Chair Tobiassen noted there were three retirees this month with one in attendance.
+
+Rolf Asphaug, Acting General Counsel, recognized Debi Drewes, Legal Assistant, for her 17 years of service.  He noted that she worked on the floor below the Board Office and Board members might have heard her cheery voice on occasion.  At times she had to speak at length with constituents who were unhappy with RTD but every time she won them over.  Debi is also one of the most fascinating people the legal department has ever known; Debi knows Bruce Springsteen personally, and that is only one small aspect of her amazing life.  She will be missed in the legal department as she has always gone beyond what she is required to do.  On her last day she worked late to help with a PEC matter because it needed to be done.  Debi is and has been an extremely loyal and dedicated employee.
+
+Debi Drewes shared that she came to RTD as a temp in the legal department and within a week she felt at home, and within a few months RTD felt like family.  RTD has the greatest group of people, which is quite extraordinary in the business world.  Debi thanked the Board and Staff for the wonderful opportunity she had.
+
+## V. Public Participation
+
+Chair Tobiassen stated pubic participation was open to anyone that wanted to address the Board.  He reminded the audience that each speaker is allowed three minutes.
+
+- Dan Burke, Centennial, noted that the National Federation of the Blind of Colorado (NFBCO) has six chapters within RTD’s service area with hundreds of members.  His concern was over the April 19th ADA Safety Day, which was a very frustrating experience for the 25+ members of the NFBCO who attended the event.  He added that the issue boils down to training for staff.  On that particular day individuals carrying white canes were consistently grabbed.  The NFBCO wants to continue to work with RTD and wants to share the videos of that day as training videos for staff.  The videos will help staff understand how to work with blind individuals effectively and respectfully.
+
+- Emily Kelley, Boulder, was here with several of her fellow riders who commute from Boulder each day to discuss the elimination of the Dartmouth and Broadway bus stop.  She shared that she has taken the bus from the Dartmouth stop for the past eight years and it would be inconvenient if that stop is removed.  She added that if the stop is removed she will be forced to drive to one of the Park-n-Rides that quickly fill up.  She stated that as a full time working mom of a one year old she would appreciate having the convenience of the bus stop so that she does not have to spend her time commuting.
+
+- Michelle Médal, Boulder, indicated that she has been riding the bus from Boulder for the past six years for her job at CU Denver.  She added that she drives across Boulder every morning in order to park at the Dartmouth Park-n-Ride.  She noted that there are not any other places to park her car on Broadway because the 27th & Broadway stop was removed and Baseline & Broadway does not have parking.  She stated it would be a burden and potentially dangerous to get to the Table Mesa Park-n-Ride in morning traffic.  She further added that if she was forced to go to the Table Mesa Park-n-Ride she and her other Dartmouth fellow riders would have to drive around in circles to find parking, climb four flights of stairs and then cross a bridge to get to the bus.  She stated having the bus stop at Dartmouth takes only a few seconds and there are usually several people boarding.
+
+- Matt Silverman, Boulder, explained that he has been riding the bus from Boulder to Denver on a daily basis since February of 1976.  He indicated that the Flat Iron Flyer is a big improvement to the bus service but urged the Board to keep the Dartmouth Park-n-Ride.  He added that the vast majority of people who live in Boulder are north of Dartmouth and this Park-n-Ride is the closest for the majority of Boulder residents.  The other Park-n-Rides at 40th & Broadway and Table Mesa would require additional driving.  He thanked the Board for their time and for their consideration to keep this convenient and environmentally sensitive Park-n-Ride open.
+
+- David Kreutzer, Boulder, thanked Bruce Abel, Assistant General Manager of Bus Operations, and Director Sisk for their continuing correspondence regarding the Dartmouth stop.  He pointed out that previously there was a sign identifying the Dartmouth stop as temporary, which he thinks caused confusion and discouraged ridership from that location.  He appreciates RTD removing the temporary sign to eliminate any confusion.  He further added that while the Flatiron Flyer (FF) total travel time is important, it is not as important as the total travel time for customers. Nationwide there is a big push for mass transit agencies to solve the last mile problem.  He noted that the old BX route solved the last mile problem by stopping frequently enough so that people did not have to drive or ride their bikes.  By decreasing the number of stops significantly RTD is creating a last mile problem, especially since the two local buses, the SKIP and the DASH, either pass a FF stop significantly or do not run frequently enough. He said once people get in their cars they may just continue driving to Denver.  Other people may ride their bikes which would lead to more bikes on the buses which would be time negative.
+
+- Janet Streater, Boulder, commented that RTD has closed a number of Regional Park-n-Ride bus stops in South Boulder for the Flatiron Flyer.  South Boulder has working class neighborhoods, and the recently closed stops have been used as Regional stops by RTD customers for over 30 years.  She added that closing these particular stops is problematic for riders as it creates a 1.2 mile stretch without a Regional stop or a connecting high frequency bus. She believes this is why the City of Boulder has submitted a formal request to reinstate these stops.  She added that while the Dartmouth stop has been restored on a temporary basis, she hopes it will become permanent.  She noted that the National Oceanic and Atmospheric Administration facility in Boulder will be expanding its workforce in 2017 and that site borders the Dartmouth stop.
+
+- Alan Streater, Boulder, noted that he has supported efficiency and the bus system in general for a very long time.  He commented that if RTD were to search its historical records it would find his correspondence complaining about the Broomfield and Church Ranch Stops.  He added that he purchased his home because of the Dartmouth stop and there are good reasons to keep that stop on the Flatiron Flyer schedule.  He further added that there were other options to achieve efficiency, such as paying in advance prior to boarding.
+
+- Zach Miller, Boulder, commented that he is an environmental lawyer and has been riding the bus to downtown Denver since 1981.  He added that like most of his neighbors, he purchased his home in the Martin Acres subdivision because at the time and it was affordable.  Now, one of the selling points realtors use is that this subdivision is very pedestrian friendly because of the nearby RTD stop.  He noted it is disconcerting to the neighborhood as a whole that all of the sudden this bus stop is going to disappear, subsequently eliminating all of the bus stops between Base Line Road and Table Mesa.  He mentioned if this stop is eliminated riders will have to go for another half mile before they can get off of the bus.  Additionally, the schedule to Denver is not posted and there have been a few instances where bus drivers drove past the Dartmouth stop with people waiting.  The combination of these items has discouraged riders from utilizing the Dartmouth stop.
+
+- Elizabeth Dickinson, Lafayette, explained that she had already emailed her District representative but wanted to share her experience of the Route L with the Board.  She noted that for the second time she is leaving the L bus in favor of catching the Flatiron Flyer in Superior.  She said that the L bus takes 2.5 to 3 hours a day to commute to Denver.  The reason for the lengthy commute is the multiple stops and the prolonged wait of 9 minutes at each stop, even if no riders are getting on or off.  She hopes that the schedule can be tweaked to make the Route L a better commute.
+
+## VI. Committee Reports
+
+Planning & Development Committee – Chaired by Director James
+
+Government Relations Committee – Chaired by Director Francone
+
+FasTracks Monitoring Committee – Chaired by Director Hoy
+
+Civil Rights Committee – Chaired by Director Deadwyler
+
+Operations & Customer Services Committee – Chaired by Director Anderson
+
+Financial Administration & Audit Committee – Chaired by Director Menten
+
+GM Oversight & Performance Management – Chaired by Director Francone
+
+CDOT – Director Walker
+
+E-470 – Director Lasater
+
+ACED – Director Solano/Director Hoy
+
+Northwest Parkway – Chair Tobiassen
+
+Pension Committee – Director Lubow/Chair Tobiassen
+
+There were no changes to the committee reports.
+
+### A. Minutes of Apr 19, 2016 3:30 PM
+
+### B. Minutes of Apr 26, 2016 5:30 PM
+
+### C. Minutes of May 10, 2016 5:30 PM
+
+### D. Minutes of May 10, 2016 5:30 PM
+
+### E. Minutes of May 10, 2016 5:30 PM
+
+### F. Minutes of May 24, 2016 3:30 PM
+
+### G. Minutes of May 24, 2016 5:30 PM
+
+### H. Minutes of May 24, 2016 5:30 PM
+
+## I. Minutes of May 26, 2016 2:00 PM
+
+## VII. General Manager Oversight and Performance Management Update
+
+Committee Chair Francone noted that the General Manager Oversight and Performance Management Committee met last Tuesday.  General Manager Genova provided the committee with task and core goals which will be reviewed again and hopefully finalized at the June 28, 2016 Board meeting.
+
+## VIII. Approval of Board Meeting Minutes of April 19, 2016
+
+Motion:               Director Deadwyler made the motion to approve the Board Meeting minutes of April 19, 2016.
+
+Director Solano seconded the motion.
+
+Vote on
+
+the Motion:               The motion passed with 15 in favor (Anderson, Archuleta, Bagley, Deadwyler, Folska, Francone, Hoy, James, Lasater, Lubow, Menten, Sisk, Solano, Tobiassen, Walker) and 0 opposed.
+
+Chair Tobiassen declared the motion PASSED unanimously.
+
+### A. Minutes of Apr 19, 2016 5:30 PM
+
+## IX. Chair's Report
+
+Chair Tobiassen provided the following report:
+
+Attended Events and Awards
+
+- April 21–  The Train to the Plane University of Colorado A Line VIP Reception (Anderson, Archuleta, Bagley, Deadwyler, Folska, Francone, Hoy, James, Lasater, Sisk, Solano,Walker)
+
+- April 30 to May 3rd  –  APTA Board Member/Board Support Seminar in San Antonio, TX (Anderson, Hoy, Klaas, Walker)
+
+- May1 – State of Downtown Denver (Bagley, Tobiassen)
+
+- May 11 – Aurora State of the City: Envisioning the Future with Mayor Steve Hogan (Folska, Francone, Tobiassen)
+
+- May 13 – Armed  Forces Recognition Luncheon at the Doubletree by Hilton Denver Hotel (Folska, Tobiassen)
+
+- May 15 – APTA Bus and Paratransit Conference in Charlotte, NC (Bagley)
+
+- May 17 – Leadership  Roundtable with Secretary Foxx (Chair Tobiassen and General Manager Dave Genova)
+
+- May 25– COMTO 11th Annual Scholarship Awards (Folska, Solano, Tobiassen)
+
+Ongoing and Upcoming Events
+
+- June 13  – CDOT Press Conference for completion of US 36 Express Lanes at Davidson Mesa (Sisk)
+
+- June 13–  US 36 Completion Ceremony at the Roadhouse Boulder Depot (Hoy, Lubow, Sisk)
+
+- June 13 to15 – Accelerate Colorado in Washington, D.C. (Folska, Francone, Tobiassen)
+
+- June 19 to 22 –   APTA International Rail Conference in Phoenix, AZ
+
+- June 19 to 22 – ADA Symposium in Denver, CO (Deadwyler, Tobiassen)
+
+## X. General Manager's Report
+
+General Manager Genova briefed the Board on the following activities:
+
+- Attended the Visit Denver Board Meeting on Wednesday, April 20, and presented on RTD’s five openings in 2016
+
+- Attended the Metro Chamber Economic Development Council Meeting on Thursday, April 21, and presented on RTD’s five openings in 2016
+
+- Spoke at Delwest and Park Hill Station Grand Opening Event on Thursday, April 21
+
+- Met with DJ Mitchell, BNSF Assistant Vice President of Passenger Operations, on Monday, April 25
+
+- Presented to a group of business leaders, elected officials and transit professionals representing Downtown Charlotte, NC on Wednesday, April 27
+
+- Spoke at DRCOG awards dinner on Wednesday, April 27, where RTD was part of the team for 2 awards
+
+- Spoke at Mass Transit for the Denver Region – “Timing is Everything” event on Thursday, April 28
+
+- Met with  Longmont Mayor Dennis Coombs and Longmont City Council on Thursday, April 28, with Director Lubow and staff to discuss the B Line
+
+- Attended Vulcan Foundation/Smart City Challenge meeting with Mayor Hancock and other leaders on Friday, April 29
+
+- Met with Director Francone, Bill Farris of NREL, and Jefferson County Commissioner Donald Rosier on Monday, May 2, regarding I-6 grant opportunity
+
+- Attended the Visit Denver Government and Community Affairs Committee Meeting on Wednesday, May 4
+
+- Attended the I-225 Executive Partnering Session on Wednesday, May 4
+
+- Attended a Colorado Cross Disability Coalition Meeting on Monday, May 9
+
+- Attended the State of Downtown Denver Event on Tuesday, May 10
+
+- Spoke at the Southeast Rail Extension Ground Breaking on Tuesday, May 10
+
+- Presented a RTD Safety Award to the Platte Division for reducing the number of preventable accidents on Wednesday, May 11
+
+- Presented at the Building America Transportation Investment Center (BATIC) P3 Webinar  on Wednesday, May 11, on the Eagle P3 project
+
+- Attended the North Metro Rail Elected Officials Briefing on Thursday, May 12
+
+- Spoke at the Inter-Neighborhood Cooperation (INC) Transportation Committee Meeting on Thursday, May 12
+
+- Attended a 16th Street Mall Partners Meeting on Monday, May 16
+
+- Presented, along with Director Sisk, at the Louisville City Council Meeting on Tuesday, May 17, regarding the B Line
+
+- Met with Boulder County Commissioner Elise Jones and Lafayette Mayor Christine Berg on Monday, May 23
+
+- Met with Harold Dominguez, Shawn Lewis, Phil Greenwald and Heather Balser from the staffs of the City of Louisville and the City of Longmont on Thursday, May 26, regarding B Line discussion
+
+- Spoke at the COMTO 11th Annual Scholarship Award luncheon on Thursday, May 26
+
+Director Bagley indicated he wanted an update regarding the 16th Street Mall project.  He asked where RTD stands with the City and County of Denver (Denver) and Downtown Denver Partnership (DDP) regarding the five weekends in June and July that the 16th Street Mall Shuttle would be diverted.  General Manager Genova reminded the Board that there are five weekends when the Mall Shuttle will be operated on 15th and 17th Streets.  There are a number of activities that the City and County of Denver, as well as the Downtown Denver Partnership, will be doing on those weekends to test various types of activations along the Mall.
+
+Director Bagley noted that he is concerned with what happens with the Mall and the perceptions other entities have regarding the Mall in the future.  General Manager Genova explained that the plan is to do more fine tuning next year based on what is being done this summer in order to narrow a few concepts.  Any decisions relating to the Mall or Mall operations will not be made until the end of 2017.
+
+Director Francone shared that Jefferson County, specifically Commissioner Don Rosier, is interested in pursuing a pilot program similar to that of Boulder County’s in the Conifer/Evergreen area.  She asked staff to begin a dialog with him.
+
+Director Anderson explained that she is concerned Denver will not test how activities are accepted on weeks that the Mall Shuttle is not moved and added that testing should occur both ways.  General Manager Genova indicated that the plan includes activation when the Mall Shuttle is not detoured and Denver and DDP staffs are cognizant of Board requests.
+
+Director Folska thinks it is important for the Board to be appraised of the information Denver receives from their consultant in real-time.    She wonders what will happen to ridership when the Mall Shuttle is diverted but there are no marketing efforts to bring people in.  General Manager Genova explained that staff will undertake a comprehensive communication on those weekends that the Mall Shuttle is detoured.  He stated that RTD’s partners have also agreed to help distribute that messaging.  Staff will be monitoring ridership very closely and conducting our own surveys to capture information on the activities as they occur.
+
+Director Folska noted that she would like to see the cost associated with the marketing efforts from the City and County of Denver and RTD’s costs in relation to the temporary changes in operations.  General Manager Genova indicated that the Mall Shuttle would be run on a cost neutral basis on the five weekends that it is detoured.  The Mall Shuttle will not have the same type of frequency, but the operation on those days will be cost neutral.
+
+Director Folska added that the Board was still waiting to see the results of the customer satisfaction survey and asked that those results be provided at the next committee meeting.
+
+## XI. Unanimous Consent
+
+Chair Tobiassen asked for a motion to approve items A through G on the unanimous consent agenda.
+
+Motion:               Director Lasater made the motion to approve the unanimous consent agenda.
+
+Director Folska seconded the motion.
+
+Vote on
+
+the Motion:               The motion passed with 14 in favor (Anderson, Archuleta, Bagley, Folska, Francone, Hoy, James, Lasater, Lubow, Menten, Sisk, Solano, Tobiassen, Walker) and 0 opposed.  Director Deadwyler was absent
+
+Chair Tobiassen declared the motion PASSED unanimously.
+
+### A. RTD Citizens Advisory Committee Appointments
+
+It is recommended by the FasTracks Monitoring Committee and the Nominating Committee for the RTD Citizens Advisory Committee of the Regional Transportation District (RTD) that the RTD Board of Directors reappoint one member of the Committee to an additional three-year term and appoint five new members to the Committee to a three-year term.
+
+### B. Contract Amendment for the Westminster
+Park and Ride Pedestrian Bridge Painting & Rehabilitation
+
+It is recommended by the FasTracks Monitoring Committee that the Board of Directors authorize the General Manager, or his designee, to enter into a construction contract amendment with TMI Coatings, Inc. in the amount of $390,595.81. This Contract Amendment to the Westminster Park-N-Ride (PnR) Pedestrian Bridge Painting & Rehabilitation Project (Contract No. 16DP001) is for the restoration of the adjoining access ramps to the pedestrian bridge over US36 at the RTD US36 Sheridan Bus Rapid Transit (BRT) Station.  With this amendment, the total contract value would be $839,283.74
+
+##### a. Figure 1 and 2
+
+### C. Pass Program Working Group
+
+It is recommended by the Planning and Development Committee that the Board of Directors approves and adopts the Pass Program Working Group objective, commitments and guiding principles.
+
+##### a. Pass Program Working Group  P&D Committee (05102016)
+
+### D. 2015 CAFR and Report to Governance
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors accept and enter into the record the District’s audited financial reports relating to the year ended December 31, 2015 as prepared by staff and  audited by RTD's independent auditor, RubinBrown, LLP.
+
+##### a. 1.A  2015 RTD Comprehensive Annual Financial Report (05-2016)
+
+##### b. Regional Transportation District 2015 ViewPoints FINAL
+
+### E. Salaried Employee Trustee Replacement
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors approve the attached Resolution No. ______ amending the Salaried Employee Defined Benefit (i.e., Pension) Plan and Salaried Employee Defined Contribution Plan to provide for appointment of the same four employee trustees for each of the plans, with two trustees being employee participants in the Pension Plan, and two being employee participants in the Defined Contribution Plan. The resolution further provides that the three existing employee trustees serving both plans remain as trustees with revised termination dates to assure continued staggered terms, and that a fourth employee be appointed to replace retired trustee Marla Lien.
+
+##### a. 2016-05-16 Proposed Resolution regarding Salaried Trusts
+
+### F. Authorization to Enter into a Contract with Motorola Solutions for Purchase of Radios (56DH012)
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize the General Manager or his designee to enter into a $940,000 sole source contract with Motorola Solutions(Motorola) for purchase of mobile, portable and tower radios and associated equipment (Contract Number 56DH012).  This contract will include an option for a 3-year extended warranty.
+
+### G. 2016 Title VI Program Update
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors adopt the 2016 Title VI Program Update to comply with federal laws, regulations and guidelines related to Title VI of the Civil Rights Act of 1964.
+
+##### a. 2016 Title VI Update Board Presentation (May 2016
+
+##### b. 2016 Title VI Program Update  - Executive Summary
+
+### H. State Legislative Liaison Services
+
+It is recommended by the Government Relations Committee that the Board of Directors authorize the General Manager, or his designee, to enter into an agreement for state legislative liaison services with Brandeberry~McKenna Public Affairs (BBMK) to exercise a one-year option (June 30, 2016 through June 29, 2017) to extend Contract No. 13-DX-00, at a cost of $122,000, pursuant to the Contract Award agreement.
+
+Motion:               Director Bagley made the motion to approve the State Legislative Liaison Services.
+
+Director Solano seconded the motion.
+
+Vote on
+
+the Motion:               The motion passed with 13 in favor (Anderson, Archuleta, Bagley, Folska, Francone, Hoy, James, Lasater, Lubow, Sisk, Solano, Tobiassen, Walker) and 1 opposed (Menten).  Director Deadwyler was absent.
+
+Chair Tobiassen declared the motion PASSED
+
+## I. Resolution No. ___, Series of 2016 related to the issuance of RTD Sales Tax Revenue Bonds, Series 2016A
+
+It is recommended by the Finance Administration and Audit Committee that the Board of Directors approve the attached Resolution Number __ (the “Resolution”), authorizing the issuance of Regional Transportation District Sales Tax Revenue Bonds (FasTracks Projects), Series 2016A.
+
+Motion:               Director Anderson made the motion to approve the Resolution No.              , Series of 2016 related to the issuance of RTD Sales Tax Revenue Bonds, Series 2016A.
+
+Director Bagley seconded the motion.
+
+Vote on
+
+the Motion:               The motion passed with 12 in favor (Anderson, Archuleta, Bagley, Folska, Hoy, James, Lasater, Lubow, Sisk, Solano, Tobiassen, Walker) and 2 opposed (Francone, Menten).  Director Deadwyler was absent.
+
+Chair Tobiassen declared the motion PASSED.
+
+##### a. 1.C 2016A FT Bonds Resolution
+
+### J. Resolution No. ___, Resolution expressing the intent of the Board to be reimbursed for certain expenses relating to the financing of buses
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors approve the attached Resolution Number __ (the “Resolution”), expressing the intent of the Board to be reimbursed from a future financing for certain expenses relating to the acquisition of buses.
+
+Motion:               Director Anderson made the motion to approve the Resolution No.              , Resolution expressing the intent of the Board to be reimbursed for certain expenses relating to the financing of buses.
+
+Director Bagley seconded the motion.
+
+Discussion:              Director Francone noted that she does not disagree that new buses are needed, but it seems that this purchase was moved up quickly and in combination with the latest financial reports it gives her pause about spending the money now.
+
+Director Menten explained that she will vote no for this action item as she has a concern about RTD’s debt.   She also has a concern that after review of this item, RTD has a rolling purchase where we buy, take delivery, put out to bid, etc.  She expressed concern that a former RTD Chair, Lee Kemp, also works for MCI and is now running for the Board again. She said she believes everything was done above board but thinks this item should be tabled until it is determined if he is still RTD’s sales representative.
+
+Director Lubow indicated that there does not appear to be any improprieties, but in the interest of full disclosure, at least this issue is out in the open.
+
+Vote on the
+
+Motion:               The motion passed with 10 in favor (Anderson, Archuleta, Bagley, Folska, Hoy, James, Lubow, Sisk, Tobiassen, Walker) and 4 opposed (Francone, Lasater, Menten, Solano).  Director Deadwyler was absent.
+
+Chair Tobiassen declared the motion PASSED.
+
+##### a. 1.B 2016 COP Reimb Resolution
+
+### K. August 2016 Service Change Final
+
+It is recommended by the Operations and Customer Services Committee that the Board of Directors approve the August 2016 Service Change package as revised and summarized in Attachment A resulting in an annualized cost of approximately $537,935 and, further, to authorize the General Manager or his designee to execute contract amendments as necessary for private operators whose service is impacted by these changes.
+
+Motion:               Director Folska made the motion to approve the State Legislative Liaison Services.
+
+Director Anderson seconded the motion.
+
+Discussion:              Director Francone said there was some discussion about the removal of route CS/CV from this service change.  Bruce Abel indicated that subsequent to the Operations Committee meeting, staff was in agreement with the potential amendment to remove the CS/CV from this service package.
+
+Motion to
+
+Amend:               Director Francone made the motion to remove the line item concerning routes CV/CS/CX; Pine Junction, Conifer and Denver from this agenda item.
+
+Director Folska seconded the motion.
+
+Vote on
+
+Amendment:               The motion passed with 14 in favor (Anderson, Archuleta, Bagley, Folska, Francone, Hoy, James, Lasater, Lubow, Menten, Sisk, Solano, Tobiassen, Walker) and 0 opposed. Director Deadwyler was absent.
+
+Chair Tobiassen declared the motion PASSED UNANIMOUSLY. The CV/CS/CX line items were removed from the August Service Changes.
+
+Vote on the
+
+Motion as
+
+Amended:               The motion passed with 14 in favor (Anderson, Archuleta, Bagley, Folska, Francone, Hoy, James, Lasater, Lubow, Menten, Sisk, Solano, Tobiassen, Walker) and 0 opposed. Director Deadwyler was absent.
+
+##### a. Atch A - August 2016 Service Change
+
+##### b. Attch B Summary of Electronically Received Comments August Service Change
+
+It is recommended by the Operations and Customer Services Committee that the Board of Directors approve the August 2016 Service Change package as revised and summarized in Attachment A resulting in an annualized cost of approximately $537,935 and, further, to authorize the General Manager or his designee to execute contract amendments as necessary for private operators whose service is impacted by these changes.
+
+## XIII. Executive Session
+
+There was no executive session.
+
+## XIV. Old Business
+
+Director Menten asked if someone could explain the video issue to her that Dan Burke had raised during public participation.  Scott Reed explained that there was an ADA Safety Day hosted by RTD prior to the opening of the University of Colorado A-Line.  Staff did not have an advance training session to outline expectations from participants and employees. The National Federation of the Blind has their GoPro videos for staff as well as additional training resources.  They have been a great partner over the years and staff wants to continue that partnership.
+
+Director Francone noted that the ADA Manager should be more involved in these activities so that this issue does not happen again.  Scott Reed indicated that he did oversee the process and was involved.
+
+Director Lasater gave a quick update regarding the Southeast Rail Extension.  The groundbreaking occurred on May 10th and the contractor announced that they would begin construction on June 16th.  The e extension is set to open in March of 2019.  He said it was a very well attended event.
+
+Director Francone thanked Doug Monroe, Senior Service Planner/Scheduler, and Jesse Carter, Manager of Service Planning and Scheduling, for their help with the CV/CS/CX.  She also thanked General Manager Genova for attending the meeting with Commissioner Rosier.
+
+## XV. New Business
+
+Director Bagley mentioned that when he, Bill Van Meter, Assistant General Manager of Planning, and several staff members met with the City of Littleton City Manager and City Council members to address a number of topics. He further noted his attendance at the APTA Bus and Paratransit Conference and commented that the Ten Transcendent Trends Reshaping the Future of Transportation presentation was very compelling.  The presentation explored national trends such as: growing populations, evolving community foot prints, diversity rules, age shifts, household shifts, sustainability, stagnant wages, technology and transparency.  Director Bagley added that he really enjoyed the presentation and noted it would be beneficial to have the same presenter, John W. Martin, speak before a transit oriented group in Denver.  The presentation cost is $6000 plus transportation and lodging, but if that could be shared between different groups it would be extremely valuable.
+
+Director Walker noted that he was at a recent groundbreaking for a mixed use development at Elati and Bates.  He also noted that the City of Englewood was very grateful for the change to Route 27 which will take residents from Englewood Station to Broadway quicker.  Director Walker further added that in the last month he participated in the Colfax marathon, the Denver Day of Rock and the Bolder Boulder.  He indicated that our operators and schedulers did a great job, especially on the Denver Day of Rock.  The Mall Ride operators are keenly aware of everything happening around them and they do a fantastic job.  Director Walker asked if service should be moved, changed or temporarily shifted, does staff keep statistics on specific routes affected, such as the 12 when the Pearl Street Farmers Market is going on. General Manager Genova noted that on event driven days, staff normally does not track numbers.
+
+Directory Bagley commented that the Monday Morning Q has excellent information. This is something that needs to be recognized by the Board for what staff does and how they can make changes.
+
+## XVI. Adjourn
+
+Chair Tobiassen adjourned the meeting at 6:43 p.m.
+
+Prepared and Transcribed by:
+
+___________________________________________________________
+
+Barbara McManus, Acting Executive Director to the Board of Directors

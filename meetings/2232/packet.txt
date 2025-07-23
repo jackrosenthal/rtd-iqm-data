@@ -1,0 +1,4025 @@
+1600 Blake Street
+Denver, CO 80202-1399
+303-299-2303
+
+Regional Transportation District
+
+Board of Directors
+Chair – Chuck Sisk, District 0
+First Vice Chair – Tom Tobiassen, District F
+Second Vice Chair – Natalie Menten, District M
+Secretary – Jeff Walker, District D
+Treasurer – Larry Hoy, District J
+Lorraine Anderson, District L
+Ernest Archuleta, District C
+Kent Bagley, District H
+Barbara Deadwyler, District B
+Dr. Claudia Folska, District E
+
+Tina Francone, District N
+Bill James, District A
+Gary Lasater, District G
+Judy Lubow, District I
+Paul Daniel Solano, District K
+
+AGENDA
+Financial Administration & Audit Committee
+Tuesday, January 13, 2015
+Rooms R, T, & D
+5:30 PM
+Conference Dial-in # 303-299-2663
+Conference ID: 15120
+
+Financial Administration and Audit Committee
+Chaired by Jeff Walker
+
+A. Call to Order
+B. Recommended Actions
+
+• Radio-CAD/AVL Owner’s Representative Contract Seventh-Year Amendment
+C. Updates
+
+• Salaried Employee Defined Benefit Pension Plan Update - Doug MacLeod,
+Rael & Letson Consultants
+
+• Represented Employee Defined Benefit Pension Plan Update - Doug
+MacLeod, Gabriel Roeder Smith & Company
+
+• November 2014 Monthly Financials Status Report - Doug MacLeod
+
+D. Other Matters
+E. Next Meeting Date - February 10, 2015
+F. Adjourn
+
+The following communication assistance is available for public meetings:
+ Language Interpreters
+ Sign-language Interpreters
+ Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 business hours in advance of a
+RTD meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+1.B.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: January 8, 2015
+
+From:
+
+Doug MacLeod, Controller
+
+GM
+
+Date:
+
+January 7, 2015
+
+Board Meeting Date: January 20, 2015
+
+Subject:
+
+Radio-CAD/AVL
+Owner’s
+Representative
+Contract Seventh-Year Amendment
+
+RECOMMENDED ACTION
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors
+authorize the General Manager or his designee to execute all documents necessary to amend the
+contract with IBI Group (IBI) as the Owner’s Representative to Support Replacement of RTD’s Radio and
+Computer Aided Dispatch and Automatic Vehicle Location (CAD/AVL) Systems (Contract 18DH016).
+This contract amendment is for the seventh year, which is an additional option year of the contract. The
+scope and fee are renegotiated annually. The seventh-year fee is not-to-exceed a limit of $2,600,000
+for a total contract value to date of $14,622,000.
+BACKGROUND
+RTD has replaced our radio and CAD/AVL system, which was originally implemented in 1993 and was
+past the last years of the industry’s common 15-year service life. The project is expected to complete
+System Acceptance Testing in the second quarter of 2015. There are many remaining efforts required
+as a foundation for the extended operations and maintenance of the systems, processes and
+infrastructure. Changes to the system are needed to improve functionality and adapt the system to
+address Smart Media Technology (SMT) changes required by the new fare policy. The INIT system
+provides the driver interface and onboard computer for the SMT system. Having a single interface saves
+RTD money by eliminating cost and maintenance of duplicative hardware. Additionally, the extension of
+this CAD/AVL system to provide Real-time Passenger Information (RTPI) to RTD’s Traveler Information
+Systems (TIS) is an extremely complex and challenging task requiring experience and expertise that IBI
+Group provides.
+RTD requires extension of the services of an Owner’s Representative (OR) for the Radio-CAD/AVL
+Replacement Project to provide highly technical, managerial, business services to support the agency
+through the final stage of the project, planning for moving into operations, implementation of required
+changes and design and implementation of RTPI. The OR will provide unique technical skills unavailable
+internally to RTD.
+RTD issued Contract No. 18DH016 to obtain an Owner’s Representative for the Radio-CAD/AVL
+Replacement Project. IBI was selected in 2009 by competitive procurement to be RTD’s Owner’s
+Representative for the Radio and CAD/AVL Replacement Project. The contract requires eight (8) percent
+Disadvantaged Business Enterprise (DBE) participation. IBI is currently exceeding their goal.
+This is a complex and dynamic project. IBI has successfully completed the work anticipated for the
+earlier years and it is in RTD’s interest to authorize a contract amendment for the seventh year of the
+contract to continue needed support.
+DISCUSSION
+
+Packet Pg. 3
+
+1.B.1
+
+This is the start of an optional seventh year of a Board-approved contract. Due to the complexity and
+changing conditions of the project, each year’s scope of work and fee are reviewed and negotiated
+annually.
+Although implementation for the CAD/AVL project is winding down, significant work remains to
+complete system acceptance testing, review and finalize as-built documentation, complete planning to
+move into operations and maintenance of the system, implement and test system changes such as the
+SMT interface adjustments for the new fare policy. Additionally, providing real-time information to
+passengers is a complex and challenging next phase for the CAD/AVL project.
+The anticipated seventh-year activities are:
+ Final system acceptance testing, which will extend into the second quarter of 2015
+ Detailed review of project record documents
+ Implementation of pending INIT contract amendments, addressing elements such as the interface
+changes with SMT required for changes to fare policy
+ Radio system capacity expansion for improved FasTracks and mountain coverage
+ Integration and testing of subsequent phases of Smart Media Technology
+ Developing scope of work for hardware replacement on Access-a-Ride buses
+ Analyzing RTPI prediction accuracy and providing recommendations
+ Disaster Recovery (DR) and Continuation of Operations Plan (CoOP) update and implementation
+ Requirements development for RTPI foundation for light rail
+ Requirements development for RTPI delivery to General Transit Feed Specification (GTFS)-RealTime (RT), Passenger Information Displays (PIDs), RTD website and interactive voice response
+(IVR) systems
+ General Intelligent Transportation System / CAD / Communications consultancy demands in
+support of RTD operations and FasTrack activities.
+FINANCIAL IMPACT
+The cost to the District for amending the Owner’s Representative contract with IBI Group for the
+seventh year is a not-to-exceed cost of $2,600,000. Funding has been included in the 2009-2015
+Finance and Administration Department’s Information Technology Division capital and operating budget.
+The contract values for the first six years is cumulatively $12,022,000 and with this 7th year addition
+total award is $14,622,000.
+ALTERNATIVES
+1. Approve the request for the Radio-CAD/AVL Replacement Project Owner’s Representative
+contract amendment which will reduce risk and allow current RTD employees to continue
+focusing on operating and improving the system. This is the staff recommended action.
+2. Attempt to accomplish the project with in-house staff. RTD staff does not have the necessary
+skills or available resources to undertake this project.
+If the IBI agreement is not approved and these resources are not available, the project would proceed
+with a combination of Work Order contractors and RTD staff. It is likely that Alternative 2 will incur
+additional cost for another vendor’s learning curve.
+
+Prepared by:
+Eric Farrington, Program Manager, IT
+
+Packet Pg. 4
+
+1.B.1
+
+Approved by:
+
+Packet Pg. 5
+
+1.C.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: January 8, 2015
+
+From:
+
+Doug MacLeod, Controller
+
+GM
+
+Date:
+
+January 8, 2015
+
+Board Meeting Date: January 13, 2015
+
+Subject:
+
+Salaried Employee Defined Benefit Pension Plan
+Update - Doug MacLeod, Rael & Letson
+Consultants
+
+ATTACHMENTS:
+
+
+Salaried Defined Benefit Pension Board Presentation (PPTX)
+
+Prepared by:
+Doug MacLeod, Controller
+Approved by:
+
+Packet Pg. 6
+
+• Foster City, CA • Denver, CO • Pasadena, CA • Portland, OR • Seattle, WA
+
+Regional Transportation District
+Salaried Employees' Defined Benefit
+Pension Plan
+Fund Status as of January 1, 2014
+
+Presented by:
+Terry Bright
+
+January 13, 2015
+
+Packet Pg. 7
+
+Attachment: Salaried Defined Benefit Pension Board Presentation (2211 : Salaried Employee Defined
+
+1.C.1.a
+
+1.C.1.a
+
+Attachment: Salaried Defined Benefit Pension Board Presentation (2211 : Salaried Employee Defined
+
+Table of Contents
+§ January 1, 2014 Valuation Highlights
+§ Long-Term Funding
+§ GASB 67/68
+§ Next Steps
+
+i
+
+Packet Pg. 8
+
+January 1, 2014 Valuation Highlights
+§ Total participant count decreased by 12 (from 728 to 716)
+Ø Plan closed to new participants on January 1, 2008
+
+§ Actuarial Accrued Liability increased by $14.9M (from $118.7M to $133.6M)
+§ Actuarial Value of Assets increased by $9.5M (from $104.2M to $113.7M)
+§ Unfunded Actuarial Accrued Liability increased by $5.4 (from $14.5M to
+$19.9M)
+§ Funded ratio based on the Actuarial Value of Assets decreased from 87.8% to
+85.1%
+§ Funded ratio based on the Market Value of Assets increased from 88.7% to
+93.5%
+§ Recommended contribution increased by $1.3M from $4.4M to $5.7M
+1
+
+Packet Pg. 9
+
+Attachment: Salaried Defined Benefit Pension Board Presentation (2211 : Salaried Employee Defined
+
+1.C.1.a
+
+Long-Term Funding
+§ Effective with the 2013 Fiscal Year, the Board-approved funding policy was
+changed from a percent of payroll (9% cap) to the recommended contribution
+amount up to a $3.1M annual cap
+Ø Current funding policy is more prudent given the Plan’s decreasing active population
+and resulting reduction in future expected payroll
+Ø This policy was established with the goal of achieving 100% funding by the end of
+20 years (in 2033)
+
+§ If all actuarial assumptions are met each year, including a net investment return
+of 7.5% per year, and annual contributions equal the recommended
+contribution up to a $3.1M annual cap:
+Ø The recommended contribution is projected to decrease from $5.7M in the 2015
+Fiscal Year
+Ø The recommended contribution is expected to exceed the $3.1M cap through the
+2022 Fiscal Year and fall below the cap thereafter
+Ø The Plan is projected to reach 100% funding in 2031 – no change from last year’s
+Board presentation
+2
+
+Packet Pg. 10
+
+Attachment: Salaried Defined Benefit Pension Board Presentation (2211 : Salaried Employee Defined
+
+1.C.1.a
+
+Long-Term Funding (Continued)
+§ Per the investment consultant, the estimated 2014 return on investments
+through November 30th is 7.6% (net of fees)
+Ø If the net return in 2014 is 7%, the Plan is projected to reach 100% funding in 2031
+(no change), and RTD can expect to pay the $3.1M contribution cap through the
+2023 Fiscal Year (1 year later), if all other assumptions are met
+
+§ Due to the Plan’s size and nature, future investment returns have a significant
+impact on projected liabilities – we will keep the Board apprised of the impact of
+the Plan’s investment performance on future costs
+
+3
+
+Packet Pg. 11
+
+Attachment: Salaried Defined Benefit Pension Board Presentation (2211 : Salaried Employee Defined
+
+1.C.1.a
+
+GASB 67/68
+§ GASB 67 (financial accounting for the Plan) is effective for the Plan’s Fiscal
+Year ending December 31, 2014
+Ø We will roll forward the January 1, 2014 valuation results to December 31, 2014
+Ø Under GASB standards, the long-term investment return assumption must be
+sufficient to pay projected benefits and the Plan’s assets must be invested using a
+strategy to achieve this investment return
+•
+
+Based on the Plan’s projections and current funding policy, the Plan’s assumed net
+investment return of 7.5% satisfies the new GASB standards
+
+§ GASB 68 (financial accounting for the Employer) is effective for RTD’s Fiscal
+Year ending December 31, 2015
+§ We will provide the applicable disclosure information for the Fiscal Year ending
+December 31, 2014 (GASB 67 for the Plan and GASB 27 for the Employer) in
+the first quarter of 2015
+
+4
+
+Packet Pg. 12
+
+Attachment: Salaried Defined Benefit Pension Board Presentation (2211 : Salaried Employee Defined
+
+1.C.1.a
+
+Next Steps
+§ We will continue to monitor and review the following items going forward:
+Ø Funding Policy (recommended contribution amount)
+Ø Actuarial assumptions and methods
+Ø Policies adopted by other public pension plan systems
+
+§ All such items will be reviewed by Rael & Letson and discussed with the Board
+annually
+
+5
+
+Packet Pg. 13
+
+Attachment: Salaried Defined Benefit Pension Board Presentation (2211 : Salaried Employee Defined
+
+1.C.1.a
+
+1.C.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: January 8, 2015
+
+From:
+
+Doug MacLeod, Controller
+
+GM
+
+Date:
+
+January 8, 2015
+
+Board Meeting Date: January 13, 2015
+
+Subject:
+
+Represented Employee Defined Benefit Pension
+Plan Update - Doug MacLeod, Gabriel Roeder
+Smith & Company
+
+ATTACHMENTS:
+
+
+Represented Defined Benefit Pension Board Presentation
+
+(PPTX)
+
+Prepared by:
+Doug MacLeod, Controller
+Approved by:
+
+Packet Pg. 14
+
+RTD/ATU 1001 Pension
+Plan
+January 13, 2015
+Pension Fund Status
+As of January 1, 2014
+
+Copyright © 2015 GRS – All rights reserved.
+
+Packet Pg. 15
+
+Attachment: Represented Defined Benefit Pension Board Presentation (2212 : Represented Employee
+
+1.C.2.a
+
+1.C.2.a
+
+Attachment: Represented Defined Benefit Pension Board Presentation (2212 : Represented Employee
+
+January 1, 2014 Valuation Highlights
+(the plan is in funding peril)
+
+Ã Contributions are not sufficient to fund the liabilities
+• Total actuarial requirement is for 27.1%; 16.0% scheduled for receipt in 2014
+• Fund is projected to be fully depleted by 2036
+Last year the depletion year was 2032, for a gain of 4 years
+
+•
+
+Ã Actuarial Accrued Liability increased by $3.5M
+• From $422.8M to $426.3M
+
+Ã Actuarial Value of Assets increased by $6.5M
+• From $200.9M to $207.4M
+• Market value increased from $198M to $213M
+
+Ã Unfunded Actuarial Accrued Liability decreased by $3.1M
+• From $221.9M to $218.8M
+• This decreased the required contribution amount
+• Scheduled contributions do cover the normal (annual) costs of the plan
+
+2
+Packet Pg. 16
+
+Attachment: Represented Defined Benefit Pension Board Presentation (2212 : Represented Employee
+
+1.C.2.a
+
+January 1, 2014 Valuation Highlights
+Ã The normal cost is 11.81% of pay (including admin expenses)
+• The scheduled contribution is 16% of pay
+• New agreement increases contributions over time
+
+Ã Actuarially recommended contribution decreased by $1.5M
+• Decrease due to investment gains and salary increases less than expected
+• ARC will keep increasing as recommended payments are “missed”
+
+Ã 48.7% funded on an actuarial basis
+Ã Total active participant count decreased by 97
+• From 1,678 to 1,581
+• New hires will continue to “bend down” the normal cost, so more funding can go to the
+
+unfunded accrued liability
+
+3
+Packet Pg. 17
+
+Attachment: Represented Defined Benefit Pension Board Presentation (2212 : Represented Employee
+
+1.C.2.a
+
+History of the Funded Ratio
+
+4
+
+Valuation Date- January 1,
+
+Funded Ratio
+
+2002
+
+106.39%
+
+2003
+
+82.96
+
+2004
+
+91.09
+
+2005
+
+91.73
+
+2006
+
+89.06
+
+2007
+
+87.07
+
+2008
+
+86.03
+
+2009
+
+72.57
+
+2010
+
+73.08
+
+2011
+
+68.67
+
+2012
+
+52.24
+
+2013
+
+47.52
+
+2014
+
+48.66
+Packet Pg. 18
+
+1.C.2.a
+
+5
+
+Plan Year Ended
+December 31,
+
+Percentage of ARC
+contributed
+
+2002
+
+102.2%
+
+2003
+
+53.7
+
+2004
+
+60.9
+
+2005
+
+75.3
+
+2006
+
+64.2
+
+2007
+
+64.6
+
+2008
+
+67.8
+
+2009
+
+44.5
+
+2010
+
+59.0
+
+2011
+
+47.3
+
+2012
+
+33.5
+
+2013
+
+46.2
+
+2014
+
+--
+
+Attachment: Represented Defined Benefit Pension Board Presentation (2212 : Represented Employee
+
+The scheduled contribution amount was
+insufficient, starting in 2003
+
+Packet Pg. 19
+
+Long-Term Funding-Reforms to
+improve the plan
+Ã Total ARC is 27.14% of payroll compared to the total scheduled contribution
+
+rate of 16.00% of payroll.
+Ã Amendment #22 was adopted in 2010 with the following changes in effect for
+participants hired on or after January 1, 2011 (Tier 2):
+• New benefit schedule listed in Section 6.01 of the Plan provisions
+• Vesting is changed from 5 years to 10 years
+• The benefit multiplier is changed from 2.5% to 1.0%
+• Unreduced retirement is changed from age 55 with 20 years of service to age 60 with 20 years of service
+• Early retirement reduction is changed from 5.0% from age 55 to 2.5% from age 60
+• The maximum service included in the benefit calculation is reduced from 30 years to 25 years
+• Sick and vacation payouts are no longer included in the pension benefit calculation
+• Interest on employee contributions is changed from 5% to 3%
+
+6
+Packet Pg. 20
+
+Attachment: Represented Defined Benefit Pension Board Presentation (2212 : Represented Employee
+
+1.C.2.a
+
+Long-Term Funding-Reforms to
+improve the plan
+Ã On February 27, 2013, a tentative agreement was reached with the following
+
+schedule for contributions:
+
+Year
+
+RTD
+
+Members
+
+Total
+
+2013
+
+12%
+
+4%
+
+16%
+
+2014
+
+12%
+
+4%
+
+16%
+
+2015
+
+13%
+
+5%
+
+18%
+
+2016
+
+13%
+
+5%
+
+18%
+
+2017
+
+13%
+
+5%
+
+18%
+
+Ã Agreement also included specific short-term salary increases (less than 3%
+
+per year)
+
+7
+Packet Pg. 21
+
+Attachment: Represented Defined Benefit Pension Board Presentation (2212 : Represented Employee
+
+1.C.2.a
+
+Long-Term Funding (Continued)
+Ã If all actuarial assumptions are met each year, including a net investment
+
+return of 7.0% per year, and annual contributions equal those stated in the
+tentative agreement:
+• Assets will be fully depleted by 2036
+
+Ã Per the investment consultant, the estimated 2014 investments return is 4%
+• Incorporating this into the above projections, assets will be fully depleted by 2035
+• To reach 100% funding by 2044, assets would need to earn 15% per year through 2020
+
+Ã In 2014, Society of Actuaries released new mortality tables
+• Current tables based on national data up to year 2000, new tables based on data to 2014
+• New tables assume members will live longer than under current tables
+• Future valuations will eventually need to move to new tables or a more conservative
+
+assumption than currently used; will increase normal cost and liabilities
+
+8
+Packet Pg. 22
+
+Attachment: Represented Defined Benefit Pension Board Presentation (2212 : Represented Employee
+
+1.C.2.a
+
+Attachment: Represented Defined Benefit Pension Board Presentation (2212 : Represented Employee
+
+1.C.2.a
+
+RTD/ATU Summary
+Ã Reforms have been enacted to reduce benefit accruals for new hires and to
+
+improve the funding of the plan
+Ã Projections (based on an assumed 7% return) are not enough to ensure the
+plan will remain viable throughout the next 30 years.
+
+9
+Packet Pg. 23
+
+1.C.3
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: January 8, 2015
+
+From:
+
+Doug MacLeod, Controller
+
+GM
+
+Date:
+
+January 8, 2015
+
+Board Meeting Date: January 13, 2015
+
+Subject:
+
+November 2014 Monthly Financials Status
+Report - Doug MacLeod
+
+ATTACHMENTS:
+
+
+113014 RTD MFS_FINAL
+
+(PDF)
+
+Prepared by:
+Doug MacLeod, Controller
+Approved by:
+
+Packet Pg. 24
+
+1.C.3.a
+
+BOARD OF DIRECTORS REPORT
+November 2014 Monthly Financial Status
+January 13, 2015
+(In Thousands)
+ACTION
+
+To: Phillip A. Washington, General Manager
+
+DISCUSSION
+
+INFO
+
+X
+
+From: Douglas MacLeod, Controller
+Date: January 7, 2015
+
+COMPARATIVE FIGURES 2014 VS. 2013
+YTD 2014 VS. YTD 2013
+PERFORMANCE
+
+RIDERSHIP
+
+-3.3%
+(279)
+
+RIDERSHIP
+
+3.1%
+2,908
+
+FARE REVENUE
+
+FARE REVENUE
+
+$
+
+-0.3%
+(24)
+
+$
+
+1.2%
+1,342
+
+S&U TAX
+
+$
+
+3.9%
+1,510
+
+$
+
+9.2%
+38,859
+
+S&U TAX
+
+Attachment: 113014 RTD MFS_FINAL (2213 : November 2014 Monthly Financials Status Report)
+
+NOV. 2014 VS. NOV. 2013
+PERFORMANCE
+
+RIDERSHIP
+MONTH ACTUAL VS. PRIOR YEAR
+Bus
+West Line*
+Light Rail
+Revenue Service Boardings
+Mall Shuttle
+MetroRide**
+Other
+Total
+YTD - ACTUAL VS. PRIOR YEAR
+Bus
+West Line*
+Light Rail
+Revenue Service Boardings
+Mall Shuttle
+MetroRide**
+Other
+Total
+ACTUAL VS. BUDGET
+Month
+Year-to-Date
+
+2014 Actual
+
+2013 Actual
+
+Variance
+
+4,891
+345
+1,843
+7,079
+976
+50
+76
+8,181
+
+5,131
+368
+1,753
+7,252
+1,119
+89
+8,460
+
+(240)
+(23)
+90
+(173)
+(143)
+50
+(13)
+(279)
+
+-4.7%
+-6.3%
+5.1%
+-2.4%
+-12.8%
+
+58,566
+3,984
+20,279
+82,829
+12,460
+334
+971
+96,594
+
+58,159
+2,597
+18,966
+79,722
+12,923
+1,041
+93,686
+
+407
+1,387
+1,313
+3,107
+(463)
+334
+(70)
+2,908
+
+0.7%
+
+2014 Actual
+
+2014 Budget
+
+8,181
+96,594
+
+8,418
+97,855
+
+Variance
+(237)
+(1,261)
+
+% Variance
+
+-14.6%
+-3.3%
+
+6.9%
+3.9%
+-3.6%
+-6.7%
+3.1%
+% Variance
+-2.8%
+-1.3%
+
+RIDERSHIP 2013-2014
+10.2
+2014 Budget
+
+9.7
+(Millions)
+
+9.2
+2014 Actual
+8.7
+2013 Actual
+8.2
+7.7
+7.2
+
+* The West Line began it's first full month of revenue service in May 2013
+** The Free MetroRide began passenger service in May 2014
+Note: Gasoline price per gallon at the pump decreased from $3.16 to $2.86 during the month
+
+Packet Pg. 25
+
+1.C.3.a
+
+FARE REVENUE
+ACTUAL VS. PRIOR YEAR
+Month
+Year-to-Date*
+
+2014 Actual
+$
+
+ACTUAL VS. BUDGET
+Month
+Year-to-Date
+
+9,041
+109,916
+2014 Actual
+
+$
+
+9,041
+109,916
+
+2013 Actual
+$
+
+Variance
+
+9,065
+108,574
+
+$
+
+2014 Budget
+$
+
+(24)
+1,342
+Variance
+
+9,967
+114,258
+
+$
+
+(926)
+(4,342)
+
+% Variance
+-0.3%
+1.2%
+% Variance
+-9.3%
+-3.8%
+
+FARE REVENUE 2013-2014
+$12.0
+
+(Millions)
+
+$11.5
+$11.0
+2014 Budget
+
+$10.5
+$10.0
+
+2014 Actual
+2013 Actual
+
+$9.5
+
+Attachment: 113014 RTD MFS_FINAL (2213 : November 2014 Monthly Financials Status Report)
+
+$9.0
+
+* May 2013 included an additional adjustment to pass revenue which increased total fare revenue approximately $700,000
+
+SALES & USE TAXES
+ACTUAL VS. PRIOR YEAR
+
+2014 Actual
+
+Month
+Year-to-Date
+
+$
+
+40,575
+461,912
+
+ACTUAL VS. BUDGET
+Month
+Year-to-Date
+
+2014 Actual
+$
+40,575
+461,912
+
+2013 Actual
+$
+
+Variance
+
+39,065
+423,054
+
+2014 Budget
+$
+41,255
+455,395
+
+$
+
+% Variance
+
+1,510
+38,859
+
+3.9%
+9.2%
+
+Variance
+$
+(680)
+6,518
+
+% Variance
+-1.6%
+1.4%
+
+SALES & USE TAXES 2013-2014
+$52.0
+
+$48.0
+
+(Millions)
+
+2014 Budget
+$44.0
+
+$40.0
+
+2014 Actual
+
+2013 Actual
+
+$36.0
+
+$32.0
+
+Packet Pg. 26
+
+1.C.3.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF NET POSITION - COMBINED
+(UNAUDITED)
+(In Thousands)
+NOVEMBER 30, 2014
+2014
+FasTracks Project
+
+2014
+FasTracks Ops
+
+$
+
+$
+
+2014
+Combined
+
+December 31, 2013
+Combined
+
+Change
+
+ASSETS
+CURRENT ASSETS:
+Cash & Cash Equivalents
+Receivables:
+Sales Taxes
+Grants
+Other (less allowance for doubtful accts)
+Total Net Receivables
+
+$
+
+90,212
+
+58,143
+
+2,548
+
+$
+
+150,903
+
+$
+
+345,185
+
+$
+
+(194,282) (1)
+
+50,328
+13,315
+6,023
+69,666
+
+33,554
+51,492
+10,453
+95,498
+
+-
+
+83,882
+64,807
+16,476
+165,164
+
+84,597
+10,877
+20,466
+115,940
+
+(715)
+53,930
+(3,990) (2)
+49,225
+
+32,942
+203,882
+3,019
+399,721
+
+804,083
+39,583
+997,307
+
+590
+3,138
+
+32,942
+1,007,965
+43,192
+1,400,166
+
+30,887
+787,692
+54,832
+1,334,536
+
+2,055
+220,273 (3)
+(11,640)
+65,631
+
+Capital Assets:
+Land
+Land Improvements
+Buildings
+Revenue Earning Equipment
+Shop, Maintenance & Other Equipment
+Construction in Progress
+Total Capital Assets
+Accumulated Depreciation
+Net Capital Assets
+
+171,954
+1,302,532
+248,082
+597,258
+127,665
+133,685
+2,581,176
+(1,210,153)
+1,371,023
+
+94,809
+868,735
+222,242
+282,469
+2,939
+2,625,186
+4,096,380
+(126,113)
+3,970,267
+
+-
+
+266,763
+2,171,267
+470,324
+879,727
+130,604
+2,758,871
+6,677,556
+(1,336,266)
+5,341,290
+
+265,578
+1,981,746
+257,481
+798,642
+143,790
+2,466,092
+5,913,329
+(1,216,592)
+4,696,737
+
+1,185
+189,521
+212,843
+81,085
+(13,186)
+292,779
+764,227
+(119,674)
+644,553
+
+TABOR Reserves
+Restricted Debt Service/Debt Service Reserves
+Deposits
+TOTAL NONCURRENT ASSETS
+
+12,209
+26,019
+1,500
+1,410,751
+
+6,217
+60,488
+4,036,972
+
+-
+
+18,426
+86,507
+1,500
+5,447,723
+
+18,337
+54,752
+1,500
+4,771,326
+
+89
+31,755
+676,397
+
+Inventory
+Restricted Debt Service/Project Funds
+Other Assets
+TOTAL CURRENT ASSETS
+NONCURRENT ASSETS:
+
+TOTAL ASSETS
+
+$
+
+1,810,472
+
+$
+
+5,034,279
+
+$
+
+3,138
+
+$
+
+6,847,889
+
+$
+
+6,105,862
+
+$
+
+(3)
+
+742,027
+
+(1) Decrease in cash is primarily from outlays for FasTracks capital and Base bus purchases and will be replenished by year-end with FFGA and COP draws
+(2) Primarily includes receivables related to pass sales, Intergovernmental Agreements (IGA), advertising and Build America Bond (BAB) subsidies
+(3) Increase due to issuance of 2014 COPs for North Metro
+
+Packet Pg. 27
+
+Attachment: 113014 RTD MFS_FINAL (2213 : November 2014 Monthly Financials Status Report)
+
+2014
+Base System
+
+1.C.3.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF NET POSITION - COMBINED
+(UNAUDITED)
+(In Thousands)
+NOVEMBER 30, 2014
+2014
+FasTracks Project
+
+2014
+FasTracks Ops
+
+$
+
+$
+
+2014
+Combined
+
+December 31, 2013
+Combined
+
+Change
+
+LIABILITIES
+CURRENT LIABILITIES:
+Accounts & Contracts Payable
+Current Portion of Long Term Debt
+Accrued Compensation
+Accrued Interest Payable
+Other
+TOTAL CURRENT LIABILITIES
+
+$
+
+NONCURRENT LIABILITIES:
+Long Term Debt
+Other Long-Term Liabilities
+Net Pension Obligation
+TOTAL NONCURRENT LIABILITIES
+TOTAL LIABILITIES
+
+101,661
+45,155
+19,217
+9,365
+19,632
+195,030
+
+515,191
+64,081
+579,272
+
+65,228
+8,738
+25,934
+99,900
+
+2,603,205
+146,951
+2,750,156
+
+-
+
+$
+
+-
+
+166,889
+53,893
+19,217
+35,299
+19,632
+294,930
+
+$
+
+3,118,396
+146,951
+64,081
+3,329,428
+
+198,806
+57,002
+19,384
+19,425
+24,388
+319,005
+
+$
+
+2,617,782
+127,545
+64,081
+2,809,408
+
+(31,917) (5)
+(3,109)
+(167)
+15,874 (6)
+(4,756)
+(24,075)
+
+500,614
+19,406
+520,020
+
+$
+
+774,302
+
+$
+
+2,850,056
+
+$
+
+-
+
+$
+
+3,624,358
+
+$
+
+3,128,413
+
+$
+
+495,945
+
+Net Investment in Capital Assets
+TABOR Fund
+Debt Service Reserves
+Other Restricted Assets - Deposits
+FasTracks Contingency Fund
+FasTracks Construction Fund
+FasTracks Internal Savings Account (FISA)
+Assets Held for Sale
+Board Appropriated Fund
+Capital Replacement Fund
+Unrestricted Fund
+TOTAL NET POSITION
+
+$
+
+$
+
+$
+
+2,788,100
+18,304
+76,295
+1,500
+30,000
+(1,911)
+5,563
+5,036
+16,200
+9,000
+29,362
+2,977,449
+
+$
+
+$
+
+3,050,923
+19,193
+212,544
+1,500
+30,000
+(106,637)
+21,509
+2,418
+24,751
+17,551
+(50,221)
+3,223,531
+
+$
+
+$
+
+321
+939
+939
+939
+3,138
+
+$
+
+$
+
+2,056,779
+6,088
+166,114
+30,000
+(106,958)
+15,946
+2,418
+4,612
+4,612
+4,612
+2,184,223
+
+$
+
+$
+
+994,144
+13,105
+46,430
+1,500
+5,563
+19,200
+12,000
+(55,772)
+1,036,170
+
+$
+
+262,823
+889
+136,249
+(104,726)
+15,946
+(2,618)
+8,551
+8,551
+(79,583)
+246,082
+
+TOTAL LIABILITIES & NET POSITION
+
+$
+
+1,810,472
+
+$
+
+5,034,279
+
+$
+
+3,138
+
+$
+
+6,847,889
+
+$
+
+6,105,862
+
+$
+
+742,027
+
+(6)
+(7)
+
+NET POSITION
+
+-
+
+-
+
+-
+
+-
+
+(6)
+
+(8)
+
+(9)
+(9)
+(8)
+
+-
+
+(5) Reduction is primarily due to payments made on 2013 year-end accrual of expenses
+(6) Increase is due to issuance of 2014 COPs for North Metro
+(7) Primarily represents the long-term liability to DTP for Eagle which will continue to grow until TABOR payments begin after construction
+(8) Replenished in December with grant and bond/COP proceed draws of approximately $64m for Base System and $145m for FasTracks
+(9) Increase is due to the increase to fund balances per the 2014 Amended Budget
+
+Packet Pg. 28
+
+Attachment: 113014 RTD MFS_FINAL (2213 : November 2014 Monthly Financials Status Report)
+
+2014
+Base System
+
+1.C.3.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION - COMBINED
+(UNAUDITED)
+(In Thousands)
+NOVEMBER 30, 2014
+Month
+Combined
+Actual
+
+Month
+Combined
+Budget
+
+Fav/
+(Unfav)
+
+-----------------
+
+-----------------
+
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+
+YTD
+Combined
+Actual
+
+YTD
+Combined
+Budget
+
+Fav/
+(Unfav)
+
+% Fav/
+(Unfav)
+
+-------------
+
+-----------------
+
+-----------------
+
+-----------------
+
+-------------
+
+$
+
+$
+
+$
+
+Passenger Fares
+Advertising, Rent and Other
+Total Operating Revenue
+
+9,041
+413
+9,454
+
+9,967
+452
+10,419
+
+(926)
+(39)
+(965)
+
+-9.3%
+-8.6%
+0.0%
+-9.3%
+
+109,916
+4,030
+113,946
+
+114,258
+4,971
+119,229
+
+(4,342)
+(941)
+(5,283)
+
+-3.8%
+-18.9%
+0.0%
+-4.4%
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Facilities
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+Other Non-Departmental Expenditures
+FasTracks Service Increase
+Depreciation
+Total Operating Expenses
+
+22,394
+5,500
+293
+3,619
+3,313
+810
+2,769
+757
+398
+69
+242
+11,642
+51,806
+
+22,993
+4,569
+586
+45,328
+4,390
+644
+3,384
+830
+431
+96
+2,008
+10,707
+95,966
+
+599
+(931)
+293
+41,709
+1,077
+(166)
+615
+73
+33
+27
+1,766
+(935)
+44,160
+
+2.6%
+-20.4%
+50.0%
+92.0%
+24.5%
+-25.8%
+18.2%
+8.8%
+7.7%
+28.1%
+87.9%
+0.0%
+-8.7%
+0.0%
+46.0%
+
+250,048
+45,805
+3,666
+20,619
+41,821
+8,148
+28,523
+9,524
+4,317
+669
+10,007
+121,117
+544,264
+
+254,126
+46,794
+5,590
+75,941
+47,502
+8,344
+35,431
+11,167
+4,613
+957
+11,348
+110,669
+612,482
+
+4,078
+989
+1,924
+55,322
+5,681
+196
+6,908
+1,643
+296
+288
+1,341
+(10,448)
+68,218
+
+1.6%
+2.1%
+34.4% (1)
+72.8% (2)
+12.0% (3)
+2.3%
+19.5% (4)
+14.7% (5)
+6.4%
+30.1%
+11.8%
+0.0%
+-9.4%
+0.0%
+11.1%
+
+OPERATING INCOME/(LOSS)
+
+(42,352)
+
+(85,547)
+
+43,195
+
+-50.5%
+
+(430,318)
+
+(493,253)
+
+62,935
+
+12.8%
+
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+Net Nonoperating Revenue (Expense)
+
+40,575
+244
+690
+803
+(11,002)
+31,310
+
+41,255
+7,684
+197
+893
+(9,497)
+40,532
+
+(680)
+(7,440)
+493
+(90)
+(1,505)
+(9,222)
+
+-1.6%
+-96.8%
+250.3%
+-10.1%
+0.0%
+15.8%
+0.0%
+-22.8%
+
+461,912
+73,698
+3,441
+10,205
+5,614
+(82,196)
+472,675
+
+455,395
+83,874
+2,174
+19,827
+(89,907)
+471,362
+
+6,518
+(10,176)
+1,267
+(9,622)
+5,614
+7,712
+1,312
+
+1.4%
+-12.1%
+58.3%
+-48.5% (6)
+0.0% (6)
+8.6%
+0.0%
+0.3%
+
+INCOME BEFORE CAPITAL GRANTS
+
+(11,042)
+
+(45,015)
+
+33,973
+
+-75.5%
+
+42,357
+
+(21,890)
+
+64,247
+
+-293.5%
+
+9,239
+
+33,934
+
+(24,695)
+
+-72.8%
+
+203,733
+
+242,138
+
+(38,405)
+
+-15.9%
+
+9,278
+
+-83.7%
+
+25,842
+
+11.7%
+
+Attachment: 113014 RTD MFS_FINAL (2213 : November 2014 Monthly Financials Status Report)
+
+OPERATING REVENUE:
+
+NONOPERATING REVENUE (EXPENSES)
+
+Capital Grants and Local Contributions
+INCREASE/(DECREASE) IN NET POSITION
+
+$
+
+(1,803)
+
+$
+
+(11,081)
+
+$
+
+$
+
+246,090
+
+$
+
+220,248
+
+$
+
+(1) Variance is due to the timing of projects such as the East Colfax Transit Study and Front Range Travel Survey
+(2) Variance is primarily due to the timing of Eagle project expenses
+(3) Variance is due to the timing of invoice receipt for building maintenance services as well as lower than expected costs associated with contracted maintenance services
+(4) Variance is primarily due to lower than expcted IT expenses related to data processing services
+(5) Variance is due to invoice timing for SmartCard and various marketing campaign and publication expenses
+(6) Gains/losses are not budgeted. Line items partially offset from the gain realized on the DUS Block B sale
+
+Packet Pg. 29
+
+1.C.3.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION - BASE SYSTEM
+(UNAUDITED)
+(In Thousands)
+NOVEMBER 30, 2014
+Month
+Base System
+Actual
+-----------------
+
+Month
+Base System
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+YTD
+Base System
+Actual
+-----------------
+
+YTD
+Base System
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+Passenger Fares
+Advertising, Rent and Other
+Total Operating Revenue
+
+9,041
+413
+9,454
+
+9,520
+452
+9,972
+
+(479)
+(39)
+(518)
+
+-5.0%
+-8.6%
+0.0%
+-5.2%
+
+106,210
+4,030
+110,240
+
+109,109
+4,971
+114,080
+
+(2,899)
+(941)
+(3,839)
+
+-2.7%
+-18.9%
+0.0%
+-3.4%
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Facilities
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+Other Non-Departmental Expenditures
+FasTracks Service Increase
+Depreciation
+Total Operating Expenses
+
+22,356
+4,626
+232
+822
+2,856
+810
+2,694
+747
+398
+69
+242
+(1,376)
+6,871
+41,347
+
+22,955
+3,695
+560
+1,021
+3,933
+644
+3,305
+773
+431
+96
+2,008
+(1,376)
+6,720
+44,765
+
+599
+(931)
+328
+199
+1,077
+(166)
+611
+26
+33
+27
+1,766
+(151)
+3,418
+
+2.6%
+-25.2%
+58.6%
+19.5%
+27.4%
+-25.8%
+18.5%
+3.4%
+7.7%
+28.1%
+87.9%
+0.0%
+-2.2%
+0.0%
+7.6%
+
+249,785
+35,876
+2,999
+5,985
+37,150
+8,148
+27,759
+8,500
+4,317
+669
+3,870
+(13,760)
+76,143
+447,441
+
+253,863
+36,868
+5,199
+10,474
+42,831
+8,344
+34,522
+9,817
+4,613
+957
+5,984
+(13,760)
+74,067
+473,779
+
+4,078
+992
+2,200
+4,489
+5,681
+196
+6,763
+1,317
+296
+288
+2,114
+(2,076)
+26,338
+
+1.6%
+2.7%
+42.3%
+42.9%
+13.3%
+2.3%
+19.6%
+13.4%
+6.4%
+30.1%
+35.3%
+0.0%
+-2.8%
+0.0%
+5.6%
+
+OPERATING INCOME/(LOSS)
+
+(31,893)
+
+(34,793)
+
+2,900
+
+-8.3%
+
+(337,201)
+
+(359,699)
+
+22,499
+
+6.3%
+
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+Net Nonoperating Revenue (Expense)
+
+24,345
+125
+140
+123
+(1,755)
+22,978
+
+24,753
+7,086
+35
+222
+(2,036)
+30,060
+
+(408)
+(6,961)
+105
+(99)
+281
+(7,082)
+
+-1.6%
+-98.2%
+300.0%
+-44.6%
+0.0%
+-13.8%
+0.0%
+-23.6%
+
+277,147
+74,356
+890
+1,944
+7,954
+(18,382)
+343,910
+
+273,237
+80,485
+388
+9,345
+(22,396)
+341,058
+
+3,911
+(6,129)
+502
+(7,400)
+7,954
+4,014
+2,852
+
+1.4%
+-7.6%
+129.5%
+-79.2%
+0.0%
+17.9%
+0.0%
+0.8%
+
+INCOME BEFORE CAPITAL GRANTS
+
+(8,915)
+
+(4,733)
+
+(4,182)
+
+88.4%
+
+6,709
+
+(18,642)
+
+25,351
+
+136.0%
+
+601
+
+4,233
+
+(3,632)
+
+-85.8%
+
+6,976
+
+23,989
+
+(17,013)
+
+-70.9%
+
+(7,814)
+
+1562.8%
+
+8,337
+
+155.9%
+
+Attachment: 113014 RTD MFS_FINAL (2213 : November 2014 Monthly Financials Status Report)
+
+OPERATING REVENUE:
+
+NONOPERATING REVENUE (EXPENSES)
+
+Capital Grants and Local Contributions
+INCREASE/(DECREASE) IN NET POSITION
+
+$
+
+(8,314)
+
+$
+
+(500)
+
+$
+
+$
+
+13,685
+
+$
+
+5,347
+
+$
+
+Packet Pg. 30
+
+1.C.3.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION - FasTracks PROJECT
+(UNAUDITED)
+(In Thousands)
+NOVEMBER 30, 2014
+Month
+FasTracks
+Project
+Actual
+-----------------
+
+Month
+FasTracks
+Project
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+YTD
+FasTracks
+Project
+Actual
+-----------------
+
+YTD
+FasTracks
+Project
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+Passenger Fares
+Advertising, Rent and Other
+Total Operating Revenue
+
+-
+
+-
+
+-
+
+0.0%
+0.0%
+0.0%
+0.0%
+
+-
+
+-
+
+-
+
+0.0%
+0.0%
+0.0%
+0.0%
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Facilities
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+Other Non-Departmental Expenditures
+FasTracks Service Increase
+Depreciation
+Total Operating Expenses
+
+61
+2,738
+75
+10
+1,376
+4,771
+9,031
+
+26
+44,251
+79
+57
+1,376
+3,987
+49,776
+
+(35)
+41,513
+4
+47
+(784)
+40,745
+
+0.0%
+0.0%
+-134.6%
+93.8%
+0.0%
+0.0%
+5.1%
+82.5%
+0.0%
+0.0%
+0.0%
+0.0%
+-19.7%
+0.0%
+81.9%
+
+3
+667
+14,064
+764
+1,024
+6,137
+13,760
+44,974
+81,393
+
+391
+64,846
+909
+1,350
+5,364
+13,760
+36,602
+123,222
+
+(3)
+(276)
+50,782
+145
+326
+(773)
+(8,372)
+41,829
+
+0.0%
+0.0%
+-70.6%
+78.3%
+0.0%
+0.0%
+16.0%
+24.1%
+0.0%
+0.0%
+-14.4%
+0.0%
+-22.9%
+0.0%
+33.9%
+
+OPERATING INCOME/(LOSS)
+
+(9,031)
+
+(49,776)
+
+40,745
+
+-81.9%
+
+(81,393)
+
+(123,222)
+
+41,829
+
+-33.9%
+
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+Net Nonoperating Revenue (Expense)
+
+14,802
+119
+550
+680
+(9,247)
+6,904
+
+15,524
+598
+162
+671
+(7,461)
+9,494
+
+(722)
+(479)
+388
+9
+(1,786)
+(2,590)
+
+-4.7%
+-80.1%
+239.5%
+1.3%
+0.0%
+23.9%
+0.0%
+-27.3%
+
+173,383
+(658)
+2,551
+8,261
+(2,341)
+(63,813)
+117,383
+
+170,776
+3,389
+1,787
+10,483
+(67,511)
+118,923
+
+2,607
+(4,047)
+765
+(2,222)
+(2,341)
+3,698
+(1,540)
+
+1.5%
+-119.4%
+42.8%
+-21.2%
+0.0%
+-5.5%
+0.0%
+-1.3%
+
+INCOME BEFORE CAPITAL GRANTS
+
+(2,127)
+
+(40,282)
+
+38,155
+
+-94.7%
+
+35,990
+
+(4,299)
+
+40,289
+
+-937.2%
+
+Capital Grants and Local Contributions
+INCREASE/(DECREASE) IN NET POSITION
+
+8,638
+
+29,701
+
+(21,063)
+
+-70.9%
+
+196,757
+
+218,149
+
+(21,392)
+
+-9.8%
+
+17,092
+
+-161.5%
+
+18,897
+
+8.8%
+
+Attachment: 113014 RTD MFS_FINAL (2213 : November 2014 Monthly Financials Status Report)
+
+OPERATING REVENUE:
+
+NONOPERATING REVENUE (EXPENSES)
+
+$
+
+6,511
+
+$
+
+(10,581)
+
+$
+
+$
+
+232,748
+
+$
+
+213,850
+
+$
+
+Packet Pg. 31
+
+1.C.3.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION - FasTracks OPERATIONS
+(UNAUDITED)
+(In Thousands)
+NOVEMBER 30, 2014
+Month
+FasTracks Ops
+Actual
+-----------------
+
+Month
+FasTracks Ops
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+YTD
+FasTracks Ops
+Actual
+-----------------
+
+YTD
+FasTracks Ops
+Budget
+-----------------
+
+Fav/
+(Unfav)
+-----------------
+
+$
+
+$
+
+$
+
+% Fav/
+(Unfav)
+-------------
+
+Passenger Fares
+Advertising, Rent and Other
+Total Operating Revenue
+
+-
+
+447
+447
+
+(447)
+(447)
+
+-100.0%
+0.0%
+0.0%
+-100.0%
+
+3,706
+3,706
+
+5,149
+5,149
+
+(1,443)
+(1,443)
+
+-28.0%
+0.0%
+0.0%
+-28.0%
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Facilities
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+Other Non-Departmental Expenditures
+Depreciation
+Total Operating Expenses
+
+38
+874
+59
+457
+1,428
+
+38
+874
+56
+457
+1,425
+
+(3)
+(3)
+
+0.0%
+0.0%
+0.0%
+-5.4%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+-0.2%
+
+263
+9,926
+570
+4,671
+15,430
+
+263
+9,926
+621
+4,671
+15,481
+
+51
+51
+
+0.0%
+0.0%
+0.0%
+8.2%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.3%
+
+OPERATING INCOME/(LOSS)
+
+(1,428)
+
+(978)
+
+(450)
+
+-99.8%
+
+(11,724)
+
+(10,332)
+
+(1,392)
+
+-28.4%
+
+1,428
+1,428
+
+978
+978
+
+450
+450
+
+46.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+46.0%
+
+11,382
+11,382
+
+11,382
+11,382
+
+-
+
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+
+INCOME BEFORE CAPITAL GRANTS
+
+-
+
+-
+
+-
+
+0.0%
+
+(342)
+
+1,050
+
+(1,392)
+
+-132.6%
+
+Capital Grants and Local Contributions
+INCREASE/(DECREASE) IN NET POSITION
+
+-
+
+-
+
+-
+
+0.0%
+
+-
+
+-
+
+-
+
+0.0%
+
+-
+
+0.0%
+
+(1,392)
+
+-132.6%
+
+Attachment: 113014 RTD MFS_FINAL (2213 : November 2014 Monthly Financials Status Report)
+
+OPERATING REVENUE:
+
+NONOPERATING REVENUE (EXPENSES)
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+Net Nonoperating Revenue (Expense)
+
+$
+
+-
+
+$
+
+-
+
+$
+
+$
+
+(342)
+
+$
+
+1,050
+
+$
+
+Packet Pg. 32
+
+1.C.3.a
+
+REGIONAL TRANSPORTATION DISTRICT
+FASTRACKS INTERNAL SAVINGS ACCOUNT (FISA)
+(In Thousands)
+
+NOVEMBER 30, 2014
+
+Risk Level
+-------------
+
+2013
+-----------------
+
+2014
+-----------------
+
+2015
+-----------------
+
+2016
+-----------------
+
+2017
+-----------------
+
+Medium
+Medium
+Medium
+Low
+Low
+Low
+Low
+Low
+Low
+Low
+
+$
+
+$
+
+$
+
+$
+
+$
+
+2013-2017
+-----------------
+
+Current*
+-------------
+
+RTD CONTROL:
+Limit Fastracks funding increases for bus and paratransit expansion to CPI
+Reduce FasTracks Minimum Unrestricted Fund Balance from $150 million
+Reduce FasTracks Operating and Maintenance Fund Balance from 3 to 2 months
+UPRR relocation to coincide with the completion of the SW Rail extension project
+Achieve project underruns on FasTracks projects currently under contract
+Sales and lease opportunities for all RTD properties1
+Request local financial participation in projects above the current 2.5%
+Sales and use tax compliance reviews
+Refinance existing debt2
+Sales and use tax exemption parity3
+Total
+
+$
+
+700
+2,500
+9,000
+12,200
+
+$
+
+2,600
+1,100
+3,700
+
+$
+
+4,600
+1,000
+35,600
+1,200
+42,400
+
+$
+
+6,800
+2,500
+37,100
+1,200
+47,600
+
+$
+
+9,300
+3,000
+38,600
+1,200
+52,100
+
+$
+
+$
+
+24,000
+72,000
+9,000
+9,000
+15,000
+20,000
+TBD
+111,300
+TBD
+4,700
+265,000
+
+$
+
+$
+
+1,465
+5,481
+9,000
+5,563
+#REF!
+21,509
+
+1
+
+Sale of Civic Center Air Rights has resulted in net proceeds of $5.6 million
+Refinancing debt will not extend final maturity dates or increase the amounts outstanding
+3
+The initial estimate as presented to the RTD Board of Directors was $16 million
+2
+
+*
+
+The Current FISA balance is comprised of the following sources:
+Limit Fastracks funding increases for bus and paratransit expansion to CPI
+Reduce FasTracks Operating and Maintenance Fund Balance from 3 to 2 months
+UPRR relocation to coincide with the completion of the SW Rail extension project
+Sales and lease opportunities for all RTD properties1
+
+Fiscal year 2014 difference between the Consumer Price Index (CPI) and the compounded 1% growth in bus service
+Fiscal year 2014 budgeted difference between 3 months and 2 months of operating expenses per Fiscal Policy Statement
+This project was delayed until additional funding for the SW rail extension is available. The funds have been transferred to the FISA.
+Balance is comprised of Base System Civic Center air rights sale of $8,063 less $2,500 for the NAMS study
+
+$
+
+$
+
+1,465
+5,481
+9,000
+5,563
+21,509
+
+Packet Pg. 33
+
+Attachment: 113014 RTD MFS_FINAL (2213 : November 2014 Monthly Financials Status Report)
+
+Estimated
+
+1.C.3.a
+
+REGIONAL TRANSPORTATION DISTRICT
+1% SALES AND USE TAX REVENUE - SYSTEM WIDE
+(In Thousands)
+
+NOVEMBER 30, 2014
+
+January
+2014
+
+February
+2014
+
+March
+2014
+
+April
+2014
+
+May
+2014
+
+June
+2014
+
+July
+2014
+
+August
+2014
+
+September
+2014
+
+October
+2014
+
+November
+2014
+
+December
+2014
+
+Total Year
+To Date
+$
+
+461,912
+
+$
+
+38,857
+
+Net Sales & Use Tax Received
+
+$
+
+36,882
+
+$
+
+35,561
+
+$
+
+42,710
+
+$
+
+41,360
+
+$
+
+42,695
+
+$
+
+44,602
+
+$
+
+43,755
+
+$
+
+44,517
+
+$
+
+45,944
+
+$
+
+43,310
+
+$
+
+40,576
+
+$
+
+Change from to 2013
+
+$
+
+2,466
+
+$
+
+2,164
+
+$
+
+5,052
+
+$
+
+4,852
+
+$
+
+2,559
+
+$
+
+2,739
+
+$
+
+3,868
+
+$
+
+3,933
+
+$
+
+5,811
+
+$
+
+3,902
+
+$
+
+1,511
+
+$
+
+-
+
+% Increase/(Decrease) by Month to 2013
+
+7.2%
+
+6.5%
+
+13.4%
+
+13.3%
+
+6.4%
+
+6.5%
+
+9.7%
+
+9.7%
+
+14.5%
+
+9.9%
+
+3.9%
+
+0.0%
+
+% Increase YTD 2013 to 2014
+
+7.2%
+
+6.8%
+
+9.2%
+
+10.2%
+
+9.4%
+
+8.9%
+
+9.0%
+
+9.1%
+
+9.7%
+
+9.7%
+
+9.2%
+
+0.0%
+
+Attachment: 113014 RTD MFS_FINAL (2213 : November 2014 Monthly Financials Status Report)
+
+2014 ACTUALS
+
+2014 ACTUAL VS. BUDGET
+
+Actual
+Budget
+Favorable/(Unfavorable)
+
+January
+2014
+$ 36,882
+37,790
+
+February
+2014
+$ 35,561
+36,977
+
+March
+2014
+$ 42,710
+41,886
+
+April
+2014
+$ 41,360
+41,458
+
+May
+2014
+$ 42,695
+40,812
+
+June
+2014
+$ 44,602
+45,169
+
+July
+2014
+$ 43,755
+42,480
+
+August
+2014
+$ 44,517
+43,228
+
+September
+2014
+$ 45,944
+42,732
+
+October
+2014
+$ 43,310
+41,608
+
+November
+2014
+$ 40,576
+41,255
+
+December
+2014
+$
+-
+
+Total Year
+To Date
+$
+461,912
+455,395
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+(908)
+
+(1,416)
+
+824
+
+(98)
+
+1,883
+
+(567)
+
+1,275
+
+1,289
+
+3,212
+
+1,702
+
+(679)
+
+-
+
+% Favorable/(Unfavorable) - Month
+
+-2.4%
+
+-3.8%
+
+2.0%
+
+-0.2%
+
+4.6%
+
+-1.3%
+
+3.0%
+
+3.0%
+
+7.5%
+
+4.1%
+
+-1.6%
+
+0.0%
+
+% Favorable/(Unfavorable) - YTD
+
+-2.4%
+
+-3.1%
+
+-1.3%
+
+-1.0%
+
+0.1%
+
+-0.1%
+
+0.3%
+
+0.7%
+
+1.5%
+
+1.7%
+
+1.4%
+
+0.0%
+
+6,517
+
+2014 ACTUAL VS. CU-LEEDS FORECAST
+
+Actual
+Forecast
+Favorable/(Unfavorable)
+
+January
+2014
+$ 36,882
+39,851
+
+February
+2014
+$ 35,561
+34,896
+
+March
+2014
+$ 42,710
+40,117
+
+April
+2014
+$ 41,360
+38,915
+
+May
+2014
+$ 42,695
+42,782
+
+June
+2014
+$ 44,602
+44,623
+
+July
+2014
+$ 43,755
+42,457
+
+August
+2014
+$ 44,517
+43,200
+
+September
+2014
+$ 45,944
+42,719
+
+October
+2014
+$ 43,310
+42,552
+
+November
+2014
+$ 40,576
+42,182
+
+December
+2014
+$
+-
+
+Total Year
+To Date
+$
+461,912
+454,294
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+(2,969)
+
+665
+
+2,593
+
+2,445
+
+(87)
+
+(21)
+
+1,298
+
+1,317
+
+3,225
+
+758
+
+(1,606)
+
+-
+
+7,618
+
+% Favorable/(Unfavorable) - Month
+
+-7.5%
+
+1.9%
+
+6.5%
+
+6.3%
+
+-0.2%
+
+0.0%
+
+3.1%
+
+3.0%
+
+7.5%
+
+1.8%
+
+-3.8%
+
+0.0%
+
+% Favorable/(Unfavorable) - YTD
+
+-7.5%
+
+-3.1%
+
+0.3%
+
+1.8%
+
+1.3%
+
+1.1%
+
+1.4%
+
+1.6%
+
+2.3%
+
+2.2%
+
+1.7%
+
+0.0%
+
+November
+2013
+
+December
+2013
+
+Total Year
+To Date
+
+2013 ACTUALS
+January
+2013
+
+February
+2013
+
+March
+2013
+
+April
+2013
+
+May
+2013
+
+June
+2013
+
+July
+2013
+
+August
+2013
+
+September
+2013
+
+October
+2013
+
+Net Sales & Use Tax Received
+
+$
+
+34,416
+
+$
+
+33,397
+
+$
+
+37,658
+
+$
+
+36,508
+
+$
+
+40,136
+
+$
+
+41,863
+
+$
+
+39,887
+
+$
+
+40,584
+
+$
+
+40,133
+
+$
+
+39,408
+
+$
+
+39,065
+
+$
+
+45,532
+
+$
+
+468,587
+
+Change from 2012
+
+$
+
+935
+
+$
+
+521
+
+$
+
+550
+
+$
+
+(302)
+
+$
+
+2,386
+
+$
+
+1,729
+
+$
+
+2,960
+
+$
+
+2,269
+
+$
+
+1,314
+
+$
+
+2,078
+
+$
+
+3,070
+
+$
+
+1,290
+
+$
+
+18,800
+
+% Increase/(Decrease) by Month to 2012
+
+2.8%
+
+1.6%
+
+1.5%
+
+-0.8%
+
+6.3%
+
+4.3%
+
+8.0%
+
+5.9%
+
+3.4%
+
+5.6%
+
+8.5%
+
+2.9%
+
+% Increase 2013 to 2012 YTD
+
+2.8%
+
+2.2%
+
+1.9%
+
+1.2%
+
+2.3%
+
+2.7%
+
+3.4%
+
+3.8%
+
+3.7%
+
+3.9%
+
+4.3%
+
+4.2%
+
+January 2013 includes an additional $1,852,714 in taxes due to a vendor filing incorrect tax forms from August-December 2012
+
+Packet Pg. 34
+
+

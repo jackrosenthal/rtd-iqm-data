@@ -1,0 +1,915 @@
+2020-10-28 Ad Hoc Safety and Security
+ANGIE RIVERA-MALPIEDE: It is 8:02 AM, Wednesday, October 28th already. I cannot not
+believe how the time is going by. I'd like to call to order the first ad hoc committee on security.
+I'd like to take roll calls. So I have Director Jeff Walker.
+Fred Jensen. Mike Meader, our Assistant General Manager. Director Lewis. Director Williams.
+Chief Grado. Director Guissinger. Our Assistant General Counsel, Marisela. Steve, Assistant
+Deputy Security Chief. Steve, Say your last name please.
+STEVE MARTINGANO: It's Martingano.
+ANGIE RIVERA-MALPIEDE: Martingano. OK. Am I missing anyone?
+MIKE MEADER: And Mike Meader's on. I'm not sure if you said my name or not.
+ANGIE RIVERA-MALPIEDE: OK. I have you, Mr. Meader.
+MIKE MEADER: Thank you.
+FRED WORTHEN: Good morning, Director Malpiede. Fred Worthen, AGM of Bus Ops, on
+also.
+ANGIE RIVERA-MALPIEDE: Yes, thank you, sir.
+BARBARA MCMANUS: Barbara McManus, I didn't-- Barbara McManus. I didn't hear my
+name.
+ANGIE RIVERA-MALPIEDE: Yes. Thank you. And there was someone else. OK. I think we're
+good to go. Well listen, I want to thank all of you for taking time out of your schedule at 8:00
+AM to meet with us. We will be meeting for the next several Wednesday mornings to talk about
+our whole security department at RTD.
+What is happening currently, what we have in place, what the plans are, so we can brief the
+Board. As you know, we had a security code of conduct ad hoc committee that was formed in
+about April, if I believe correctly. And we reported to the RTD Board of Directors that we did a
+thorough review of the code of conduct, changed quite a few things, and presented it to the
+Board for approval, and that was approved in July.
+This is the second piece of that will be completed by December to take to the Board of Directors,
+to really do a deep dive into our whole department of security. What is in place, what are the
+plans? How do we move forward? Is there a peer review?
+Do we have mental health workers? We just want to get a really comprehensive look at all of the
+components that are in this division. So with that, I'd like to turn it over to Mr Meader.
+
+MIKE MEADER: Thank you, Madam Chair. I wanted to, obviously, spend a little bit of time
+here this morning and of course, first of all, in keeping with our focus on our core value of
+safety, I wanted to just a brief safety moment. And it was my oversight not making sure that was
+on the agenda.
+But I just wanted to remind everybody again, I know you've heard this a million times, about the
+COVID 19 pandemic. Things are on the rise. In fact, what we're experiencing here in Denver is
+the highest positivity test rate we've had since the pandemic was announced. We're also seeing a
+very, very sharp rise in cases and hospitalizations.
+And although the death rate is down, there's obviously some concern that as we get into the flu
+season, the trajectory is certainly going in the wrong direction for the pandemic. So the state and
+the cities and counties are cracking down, pulling restrictions, making them tighter.
+They've just recently closed gymnasiums, reduced capacities at restaurants. Reduced the
+gatherings and required face coverings outside and other areas where they're currently were not
+enforcing or requiring those. So I just want to remind everybody again, that we are in a situation
+where we're seeing that increase.
+We've got the flu season and the wintertime coming where you're going to be indoors more
+likely. Which is always a an opportunity to spread things. So really, just try to limit-- be inside,
+be with those people you know and of what their habits have been and whatnot.
+Continue to wash your hands, wear your face covering everywhere you go. To really, really be
+cautious here as we're seeing this thing spike and hopefully we can slow it down and get it turned
+around. So just a reminder, I know you hear that a lot.
+But if we don't see things change, we're going to see more restrictions. Stay at home order is
+going to be back in place. And of course, that creates anxiety for everyone. So just be safe out
+there. I also wanted to-- so first thing we wanted to do, and just looking at a long range plan here.
+We did want to take some time to go through the charter today and make sure we come up with
+an agreed upon outcome. What is the product we want we want to produce out of the committee
+to brief the Board and really make sure that we've got a solid direction moving forward as we
+take a look at our security model and the way we think is best applied moving forward.
+We're going to take some time today to go through just some high level statistics and what is
+happening across the country and, more specifically, here on our RTD system from a crime
+perspective and some of the trends we're seeing. And then take a little time to go through some
+of the history of basically, RTD from a security perspective.
+Where it started, how we got to where we are today, some of the requirements that the FTA or
+the TSA put on us to ensure that we're compliant with the requirements. And above all else, just
+keeping people safe, our employees and our customers safe and secure on our system.
+
+And then in following meetings, we'll take a look, a little bit more specifically, at the roles of
+each of the groups in our security model. Because I think there's a little bit of clarity that could
+be gained and shined on why we have the model we have.
+It'll also help us understand any changes that we make and the impact of those changes on the
+system. And then, of course, we'll talk about some of the changes to the training that each of
+those groups get. And I want to make those two very interactive.
+So if there's questions along the way, please don't hesitate to ask the questions. I want to make
+sure everyone's very comfortable and informed as we go through this. So that's just a little bit of
+a preview of where I see the committee meetings going.
+But I did want to take a few minutes just to go through the charter. Hopefully everyone's had a
+chance to read the charter. And make sure everyone understands and is OK with the direction,
+again, and the way it's stated in the charter. And then we'll talk a little bit about the outcome.
+So the charter, obviously, it states that RTD has an obligation to make sure that the transit system
+is safe, secure, and also accessible. We spent a lot of time, as the Chair said, back in April
+through June, at the code of conduct ad hoc committee, really going through it to make sure that
+we were number one, ensuring the safety and security of people, but also making sure that we
+were applying and enforcing the code of conduct in a way that it shows an equitable application.
+It still continues to ensure that accessibility to transit. I think we came out of that with a really,
+really strong revised code of conduct, certainly that everyone was in agreement with. But from
+the security and the safety standpoint, we currently employ a security model that includes RTD
+transit police. It includes contracted security.
+That's the Allied Universal Force, both armed and unarmed now, as we have the transit safety
+ambassadors on the in line. We also have secondary employment police officers and they're
+responsible, again, all of these people, collectively, for the physical security across the district
+and for enforcement of the code of conduct at all of the facilities, all of our vehicles, any
+property that our RTD owns and operates on.
+We created this ad hoc committee to ensure that the work that we do here continues to work
+towards preserving that safety and security. Make sure we address all the needs, again, as far as
+the equitable application and the accessibility.
+We also want to make sure that we're taking a look and keeping in mind that we want to make
+sure the security model minimizes any exposure or liability that the agency has, obviously. And
+continues to maintain any kind of statutory or regulatory compliance that is required, looking at
+industry best practices with respect to the way we operate.
+We're going to shine a little more light on and concentrate a little bit on the effectiveness of the
+uniform sworn law enforcement versus the contract armed security, and also how we are
+planning to incorporate the mental health services and some of the homeless outreach through
+examination, again, of best practices of what we've learned so far.
+
+And with some of the plans we have to apply those, as well. We did mention, after peer review,
+maybe utilize subsequent to committee findings just to kind of validate things. I think it's always
+a good idea anyway, to have these peer reviews after officers to third party.
+These are folks that are experts across the country. They typically will send in a team of five or
+six people to just really come in and look at all of our operations, all of the way we apply our
+security model, and let us know where they think we could potentially be better.
+What any kind of concerns that they have are and really, really help us get better. These are very
+effective tools that the industry offers out there and we can decide as a committee whether or not
+that's something we want to move forward with.
+We typically have the TSA come in every three years, I believe, where they do kind of a base
+assessment of our system. And we've been pleased to get that gold rating, which is the highest
+rating that they provide, based upon the security model we have right now. We want to continue
+to maintain that level.
+Obviously, at the end of this, the committee will present its findings to the Board. We're
+expecting, I believe, it's the 8th, December 8th is the meeting that we're targeting. So we would
+have the results wrapped up and then, of course, issue those results to the Board, present those
+results to the Board via some product or deliverable.
+At the end of the Code of Conduct Committee, we create a white paper and presented that
+information. So I'd like to stop there and just see if there's any questions anybody has, anything
+that they want to make sure they get some clarity on regarding the charter.
+And then of course, we can talk also about what kind of deliverable we'd like to see come out of
+the committee as well. So I'll open up the floor to any comments or questions anyone has right
+now.
+ANGIE RIVERA-MALPIEDE: OK, thank you, sir. I'll just go down the list of board members.
+Director Guissinger. Director Guissinger, do you have any-LYNN GUISSINGER: Can you hear me now?
+ANGIE RIVERA-MALPIEDE: Oh, I can. Go ahead.
+LYNN GUISSINGER: I'm messing with my-- I can barely hear. I'm just switching to my phone.
+Can you come back to me later, please? I'm complaining.
+ANGIE RIVERA-MALPIEDE: I certainly can. Director Williams.
+KATE WILLIAMS: Thank you, Madam Chair. I don't have any questions or comments at this
+time, other than I'd like to see us start out with highlighting what we think is wrong. So that we
+are going someplace specific. Thanks.
+
+ANGIE RIVERA-MALPIEDE: Thank you. Director Lewis.
+SHONTEL LEWIS: Thank you, Madam Chair. I'll actually make a few observations. The first
+observation is that we will have five meetings before December 8th. And one of the things that
+we heard, at least from our other Board members when this was presented back in June, was that
+the timeline was really quick. And so I'd imagine that some Board members might feel as though
+implementation after five meetings into January might just be a quick turnaround.
+The second is the-- so we're talking about safety and security. And when we talk about
+representation, while I appreciate the members of this committee, one of the things that I think is
+missing from the committee purpose and the committee charter is community.
+Our patrons, folks who might be disproportionately impacted by what we define as safety and
+security. Secondly, I think there's an opportunity for us to define what safety and security means.
+I think we have a definition at RTD and that definition may be different for our operators and our
+patrons. And so I think there is an opportunity there for us.
+And then finally, there was mention about equitable outcomes, equitable application of our rules
+and regulations. And one of the things that we have yet to do as a Board is define what equity
+means. And so I think there's also opportunity there.
+And so like Director Williams, I'd really like for us to drill down on what it is that we hope to
+achieve and really what it is that we're talking about specifically, because as I look up the
+representation on this committee, we might not see the full picture because we don't have enough
+of the right folks at the table. Thank you.
+ANGIE RIVERA-MALPIEDE: Thank you. Director Guissinger.
+LYNN GUISSINGER: Can you hear me?
+ANGIE RIVERA-MALPIEDE: I can.
+LYNN GUISSINGER: Sorry. Having a little trouble this morning. I don't really have any
+comments right now. I missed part of what Director Lewis was saying and I'm interested to know
+what other folks we should have at the table because perhaps she can bring them in and get
+feedback from some others. That's all I have right now. Thanks.
+ANGIE RIVERA-MALPIEDE: Thank you. Now Director Walker was in transit and asked us not
+to call on him. But I'll just ask him, to see if he's there by any chance. Director Walker?
+JEFF WALKER: I'm back. I don't have any questions or comments. I was talking things through
+with my kid a while ago, so I missed a lot of that. So I'll go back and listen to the recording for
+the first part.
+ANGIE RIVERA-MALPIEDE: All right. Thank you so much. All right, Mr. Meader.
+
+MIKE MEADER: OK. Thank you. And thank you for the comments. We want to also, as I said,
+just identify the outcome, the product, the deliverable that we're going to present. And I would
+propose, similarly to the code of conduct ad hoc committee, that we create a white paper that
+would include some attachments regarding what I hope coming out of this committee would look
+like, as far as an organizational chart.
+A map, so to speak, about what we would do in the short term and also what we would hope to
+achieve in a little longer term, three to five year period, perhaps. Understanding that part of this
+is, it's a very dynamic approach. As many transit agencies have taken to, here's the direction we
+think we want to go, we're going to test this out and see how this works, see if it's the right
+direction.
+Do we want to expand on it? Do we want to change directions? But I think that we can come out
+of this committee with a good idea about the direction we want to move and then present that
+plan to the Board December 8th, in the form of a white paper, with some attachments regarding
+the organizational structure that the committee thinks is best for the agency.
+And so if there is any disagreement to that, please let me know. Otherwise, that's the plan I think
+we should move forward with. So is there any other comments anyone has? I guess I would open
+it back up real quick just to see if there's any concerns about taking that approach.
+SHONTEL LEWIS: I have a question of clarity. This is Director Lewis.
+MIKE MEADER: Sure.
+SHONTEL LEWIS: So when you say, present a white paper, I guess I need a clearer picture of
+what are some of the things that you hope to encompass in that white paper as we're presenting
+that to the Board. So could that look like recommendations to the Board to adopt to move
+forward, or are you thinking of just outlining some of the areas in which we believe there are
+challenges and opportunities?
+MIKE MEADER: You know, I think either way. I believe that the intent of the committee is to
+take a look at these things. And I know it's not a real long term study, per se, we're doing over
+the course of several meetings, but I think that that's what we would hope would come out of the
+committee. Is here's what we looked at, here some of the recommendations that we have moving
+forward and the reasons why.
+So I think it should have some recommendations in that white paper for the Board to approve.
+SHONTEL LEWIS: Got it. OK. Thank you.
+MIKE MEADER: Any other comments from anyone? I thought that the white paper and the
+outcome from the code of conduct was very well received. And I just don't see any reason to try
+to reinvent the wheel here.
+
+ANGIE RIVERA-MALPIEDE: No, I agree. Any other comments from Board members? All
+right. Hearing none, Mr Meader.
+MIKE MEADER: Very good. We'll move forward in that direction. And Marisela did a fantastic
+job. So we'll certainly make sure we're working with Marisela to come up with the right product
+that the committee can review before we present it to the Board.
+OK. Thank you very much. The next step I wanted to take is to just go through just a very high
+level kind of review of the current crime securities statistics. We are tracking very specific things
+and there's lots of different things we track from a service call perspective.
+Anything from the welfare checks, there's things we find for lost and found. There's very basic
+things like that, all the way up to violent crimes, more violent types of crimes. And one of the
+things that we're seeing, I say we, the country is seeing, and you can Google just about anywhere
+out there on the web and see that what we're finding is that crime, violent crime, is on the uptick
+across the country.
+At the beginning of the pandemic the crime dipped. It dropped down. There were some cities that
+were seeing 30% less violent crime. Just 30% crime, overall. And what we've seen here as the
+pandemic has dragged on, is we're seeing that trend reverse itself.
+And across the country, certainly in the transit world, most of the transit agencies are
+experiencing similar upticks. Particularly in the violent crimes, in the assaults and the sex crimes
+and the shootings and those kinds of things, weapon offenses is what we're seeing.
+There's a lot of speculation as to why that happens. And again, depending on where you want to
+look and who you want to read, you'll see anything from, there's less people on the streets so
+there's less eyes on crime and people are taking advantage of those crimes of opportunity to
+commit those things.
+There are psychologists that are talking about, hey, this is natural. In a natural disaster, or you
+could say, in a pandemic, where you see a dip when people are really trying to understand it.
+And then as it continues to go on, or the aftermath of one of those disasters, they tend to see
+crime go up.
+There's again, speculation as to why people are affected. They feel desperate, there's fatigue, just
+the psychological effects that happen, too. And who knows exactly what the right answer is. As I
+said, there's experts that talk about these things.
+But the reality is, what we're seeing here at RTD, and again, most of the transit agencies that we
+interact with are saying the same thing. We took a look at the security statistics and that is the
+calls for service of a time period in 2019, so basically the time period of the COVID pandemic,
+2019 between February and September, compared to 2020 between that same time period,
+February to September.
+
+And although the number of calls for service are about the same, a slightly different distribution
+of reasons, they are a little bit down. But the alarming statistics that we've found is that the more
+violent types of crimes are up considerably. The number of assaults are up by 32%, from 2019 to
+2020 in the same time period.
+Harassment types of calls are up 33%. Robbery is up 45%. And the exact numbers, some of them
+we don't have a lot of them, but as an example, at the same time period from a assault
+perspective, there were 223 assaults. In 2020 there were 297 assaults in that same time period.
+Threats to harm people are up 30% and the weapons offenses are up 27 and a half percent. We
+also see a pretty good uptick in trespassing. That's people out on our right of way. Whether it's
+there to try to harm themselves or trying to move between places, whatever that is, those trespass
+is are up about 32 and a half percent, as well.
+So this is not uncommon. New York is experiencing similar types of rises. Chicago, Los
+Angeles, all of those areas and particularly the transit system, San Francisco as well. In fact, I
+was just talking with a couple of small transit agencies out in California the other day and they're
+seeing very similar rises in crimes where they typically really don't have any.
+So not necessarily sure what the answer is, probably a combination of things. But we're certainly
+seeing things trend in the direction we don't want them to trend. And we want to make sure that
+we're still providing that safe, secure environment as best we can.
+And of course, see if we can watch these trends to figure out if there's other things that we can do
+to try to help people. Along those lines, the interaction that our mental health clinician is having
+with individuals who are experiencing some sort of mental health issue is also on the rise, which
+is pretty common in any kind of a pandemic or disaster that we're experiencing like this, as well.
+So all of those things are trending upward. I wanted to just lay the groundwork, what we're
+seeing. We intend to brief the Board on a more regular basis, now that we're getting a little bit
+more accurate data anyway, about what's happening out there in our system at committee
+meetings, as well, going forward.
+So I don't know if there's any questions anyone has. Again, on that, we'll stop after that to see if
+there's any questions or comments, feedback anybody has, any of the Board members have.
+ANGIE RIVERA-MALPIEDE: Mr. Meader, if I might, I have one question. Can you talk a little
+bit about suicides or accidents that are fatal with our trains and buses. Are you seeing an uptick
+on that?
+MIKE MEADER: Not necessarily. We are seeing more people, as I said, on the right of way. In
+fact, I'll let Chief Grado and Deputy Chief Martin Garneau maybe respond a little to that. We've
+had a pretty typical year, in terms of the fatalities we see on the right of ways.
+
+Some certainly appear to be suicides. Others are people just not really paying attention, is what it
+appears. Again, you never know exactly what the motive is when you see those things. But I'll let
+Chief respond to that. Chief?
+ANGIE RIVERA-MALPIEDE: And Chief, as you're responding to it, at least according to my
+recollection, the majority of the ones that I hear about are either at Central Park or like over by
+the R Line in Peoria.
+BOB GRADO: I'd say, when we do have them, that's very common. Central Park. This year we
+had one. And then the end of last year. But Bay Out, that crossing there, we've had a couple of
+suicides there. And then one accidental incident there.
+Just a sidebar, we've deployed some new technology there that we're testing that has FLIR
+camera that looks at the crossing and if it see someone loitering in the crossing, it actually has a
+speaker and makes an announcement. So we're trying some new things there.
+But anyway, I'd say, I think you hit it. It's Central Park. There's been a couple on the R line. But I
+would say overall, I haven't noticed that there's an increase. There may even be a decrease,
+because we've done a lot of public awareness campaigns.
+We have had an increase, I would say, this is not scientific, but it seems like we've had more
+people calling in to us. They'll call on emergency phones, the E-Tels, and tell us that they're
+suicidal. And then we get out there and take care of that person and get them the care they need. I
+think we've seen more of that, which is a little surprising considering the service level is down
+and the ridership is down.
+ANGIE RIVERA-MALPIEDE: All right, thank you.
+MIKE MEADER: There was one-- and this is Mike Meader. There was one other thing from an
+operator assault perspective, we track those operator assaults. And it's been tracking pretty
+typical, actually. Of late, it's been down a little bit, which is a positive thing, the frequency of
+those.
+And we track those, anything from someone being spit on, having a drink or something thrown
+on them, to actually being assaulted as we do that. We don't see necessarily an increase or a
+sharp increase. I think the barriers are helping. I think the awareness is helping.
+I do believe that the ridership is really complying pretty well. I get out and I ride the buses every
+single month. Typically, I try to get on a bus once a week and I focus on the 15, the 16, the zero
+routes. And last week when I was riding on those routes, 15 to 16 and the zero, during some
+pretty busy times, I would say I see about a 90% mask face covering use by our ridership.
+So I'm really pleased to see that. I've continued to see that increase on those trips that I take
+every week. So that's very positive. The operators are not having to engage with as many people
+regarding those kinds of things. So I think that's contributing to a little bit of a kinder
+environment, so to speak, as we look at those statistics as well.
+
+DAVE JENSEN: So Mike, this is Dave Jensen. Just a couple of quick comments, and maybe we
+should take some of it offline. When we're talking about statistics, I am curious about the
+reporting processes. Because I can only relate it really, to what we know in rail. And I know in
+rail, when we start doing a better job of documenting things, it looks like we're getting spikes in
+numbers.
+But the reality is, the thing that we're measuring, it might not be changing at all. It's just that
+we're doing a better job of documenting. So setting those benchmarks, I think, is really
+important. So I'm curious about that, when we say there's rises in this, that, and the other, how
+confident are we in our data from the past? And it is that we're just doing a better job now?
+Or is it we've always been doing a good job and we really do know? And then secondarily,
+maybe just a comment on the suicides, which I think that's a great question. We're not
+experiencing any more than we have in the past. I know from my past and other agencies here, if
+we were to do a comparative analysis with other agencies, I think that number is relatively small.
+My experience is that there's even more suicides in other areas. In fact, in San Diego where I
+came from, we would traditionally start campaigns around this time period because the holiday
+season was notorious for people jumping in front of trains. Which I don't know if that's common,
+but it doesn't seem to happen here. And I'm hoping I'm not saying anything out of school.
+But right now, I our numbers on suicides are really good. And I do think it's a testimony to the
+work that we're doing within the community.
+BOB GRADO: I can speak to that, Mike. I'll start backwards here. The suicides, I think we are
+doing a better job. I know we are. Lindsey Alarcon has done a lot of work on a campaign for
+suicide awareness and prevention and coordination with different partners in the region and
+mental health professionals.
+So she's done a great job. And I really I agree with you. To me, again, I don't have numbers in
+front of me. But it really seems like we're doing much better, especially considering the
+environment that we're in right now. So I would agree with you there.
+As far as, yes, I think we're really good at tracking violent crime on the system. We are required,
+anytime there's an incident that involves a gun, a knife, or a bomb, whether it be bomb threat or,
+obviously, we don't have bombs on our system. But we have to report, we call it a TSOC report.
+So we have a form that we fill out and it goes to Washington DC. And then we also talk to them
+on the phone when these incidents occur. So last year we had 38 TSOC reportable events
+involving firearm or knife. This year we're at 120. So we've tripled the amount of incidents that
+have involved somebody threatening, whether it be a passenger or an employee or the actual
+system, with guns, bombs, knives, 120 times as of today.
+So it is substantial, what's happened. And like Mike said earlier, it's not just us. It's everywhere.
+It's the region. It's Denver. It's all the cities. It's transit systems across America. I think it is
+opportunity crime. You don't have as many eyes out there. You don't have as many witnesses.
+
+You don't have things that are preventing that type of activity. And then generally, I think we've
+all seen it, people have short fuses right now. They're just not in the mood to be nice. So it's not
+just us. I guess that's my point. But, yeah. There's a lot happening out there.
+MIKE MEADER: Thanks, Bob. Are there any other questions or comments?
+ANGIE RIVERA-MALPIEDE: Mr. Meader, if you could talk a little bit about the role then of
+mental health providers during these kinds of incidences?
+MIKE MEADER: Sure. I will turn this over to Steve Martingano. Steve works very closely with
+the Mental Health Center of Denver. He kind of leads up the mental health clinician that we have
+on staff right now. Recently just put out some statistics that he just shared and we'll share them
+with this group, as well, on what we're seeing. But Steve, why don't you give us a little synopsis
+here about the role that she's playing and that we see the mental health conditions continue to
+play and the impact that it's had on our customers and our system.
+STEVE MARTINGANO: OK. Yeah, will do. So let me just give a brief history on how this
+started. We were getting a lot of calls from the Mental Health Center of Denver just because a lot
+of their patients were having difficulties on the trains and the buses. They were being arrested or
+they were being suspended from our properties because they were having mental health episodes.
+And the first thing they did a few years ago was tried to arrest you way out of it. And we realized
+that was not being productive, not only as an agency, but our police division. So we worked
+really-- it took us about a year to develop this program. Last year we did it as a pilot program,
+where we had one mental health clinician on our system.
+And like Mike Meader said, we'll send you the statistics on how many contacts she makes. But
+it's been really beneficial. And we saw that we could expand that and they actually came to us.
+The reason being too is, a lot of our transportation, whether it be the buses or trains, transport
+these individuals, not only to their appointments but just throughout the city themselves, to the
+different organizations.
+And the city and county of Denver has been seeing that us having these clinicians on our system
+has really taken less time for them to deal with something that we're able to deal with as an
+agency. So they've been really helpful and partnering great with us. And like I said, that's why
+they agreed.
+And we're going to have four starting in January, which is pretty outstanding. And it's not gone
+unseen, as I was telling Chief this morning, and he's part of the emails. But outside agencies
+from all over the country have been calling us to figure out how to get this program started on
+their agencies, just because of the positive they've heard about it. I'm hoping I explained that
+correctly, if that's what you were mostly asking.
+ANGIE RIVERA-MALPIEDE: Yes. Yes, Thank you.
+
+BOB GRADO: Yeah, I was going to go through this when we do the history, but the great news
+is, we've reallocated some internal funds and we're going to have, in 2021, 3 additional mental
+health clinicians. It's been so successful.
+Just to give us coverage throughout the week, seven days a week, is our goal. So that was a home
+run for us, and it's to me, money well spent. Our officers out there appreciate it. Everybody
+appreciates having that service when someone's in crisis.
+STEVE MARTINGANO: Director, what you'll see when you get the stats, those will be just hard
+stats in regards to contacts. Diversions, where they went to, how many were placed on mental
+health holds. What's really great about those stats, and we're trying to build out into the future is,
+we were able to get through HIPAA laws, the mental health clinician could get us information a
+lot better.
+So they gave us the top 10 mental diagnosis of what our passengers are experiencing when
+they're contacted. And what's really important about that is, we're actually working with a
+psychiatrist and a division to try to build some training for our employees.
+And now that they're able to capture the top 10 diagnoses that our employees see, they're going
+to really try to focus on training so that we could maybe get that out to all of our operators,
+internal employees, customer service facilities, just to try to give them a basis on what we're
+seeing out there, rather than just a blanket, people's mental health issues. Now that we're able to
+narrow down, that's another benefit that's been added by this program.
+ANGIE RIVERA-MALPIEDE: Can you share with us what the top 10 issues are?
+STEVE MARTINGANO: Yeah, I think Mr. Meader has all those and he's going to send it to
+you. If you want me to, I could pull up the email here though, and find the actual 10 if you'd like
+me to.
+ANGIE RIVERA-MALPIEDE: OK, thank you.
+MIKE MEADER: Yeah, we just received those and we're just poring through them to make sure
+that this is the first dashboard, so to speak, like this. I'm just poring through them and just
+making sure I have a good grasp and understanding. So I can answer any questions before I send
+them out to you. But I'll get those out to you here in the next day.
+ANGIE RIVERA-MALPIEDE: OK. Thank you.
+BOB GRADO: So just a couple things I want to add on that. We do offer-- COVID kind of
+messed it up a little bit, but we have an internal program now for mental health first aid that all
+of our employees are welcome to take. And then all of our police officers, that's the one thing
+that's great about having staff, law enforcement staff, is we can put them through specialized
+training like this.
+
+Whereas, a security contractor, we don't have that ability because they're providing the service.
+But all of our internal police have gone through mental health first aid training. We're getting
+everybody's through that the CIT training, which is a 40 hour or more intense level of training.
+And then all of our officers have also been certified on M1 process.
+So if we don't have a mental health clinician available, we can do a mini evaluation, if you will,
+and we as police officers can sign that form and get that person to a hospital to get help. So we're
+doing a lot. Steve's been spearheading all that.
+Kimberly Ford, who I think we probably should bring into one of these meetings, moving
+forward. Through our homeless outreach task force we've done some training and work with peer
+agencies on that too. So there's a lot happening in that world.
+ANGIE RIVERA-MALPIEDE: And I'm sorry, who is Kimberly Ford? What is her job?
+BOB GRADO: Oh, I'm sorry. I think her title is-- she's, I think Manager. Director Lewis, you
+probably know what it is. What is it?
+SHONTEL LEWIS: Transit Equity Specialist.
+BOB GRADO: Yes. OK. She is a wonderful person. I'll say that. She's been incredible. We went
+to her, actually started out with Michael Washington, to get help with the homeless issues we're
+having, and mental health issues and all that. Because like Steve was saying, arresting people
+isn't working.
+We're just screwing them up even further. They can't pay fines. It's a vicious cycle, if you will.
+So we went to them and said, can you help? And Kimberly has jumped in with both feet and
+been incredible. We're having biweekly meetings with a whole community of people here in the
+Denver metro area that are helping us with these programs. So she's been fantastic.
+ANGIE RIVERA-MALPIEDE: Great. Thank you. She works with what organization?
+BOB GRADO: She's through Capital Programs here at RTD.
+ANGIE RIVERA-MALPIEDE: Oh, right. She's with RTD.
+MIKE MEADER: She's in Bill Van Meter's group. Yes, in planning.
+ANGIE RIVERA-MALPIEDE: Thank you.
+BOB GRADO: What a resource. I can't say enough good things about her.
+ANGIE RIVERA-MALPIEDE: Wow.
+MIKE MEADER: And we'll talk a little bit more about the homeless outreach that we've been
+doing, the program, and also, we're excited about having a homeless outreach coordinator
+
+coming on Board to RTD through a grant. Obviously, we'll have an opportunity to talk a lot more
+about those programs and get feedback after we provide some information to you. I did want to
+continue moving along here, just in the interest of time.
+SHONTEL LEWIS: Do you mind if we-- I mean, you all have been talking about 45 minutes and
+maybe we can stop and get a few questions in.
+MIKE MEADER: Oh sure, absolutely, Director Lewis, go ahead.
+SHONTEL LEWIS: Thank you. Mr. Meader, you spoke a bit about the crimes stats. You said
+that the crime statistics were going up. And it was kind of convoluted. I wasn't clear if you were
+saying specifically to RTD or if you were just saying generally, that's what we're seeing in our
+nation and in our transit agency. So I was unclear about that data point that you were speaking
+about.
+MIKE MEADER: The percentages I gave were specific to RTD. You know, where I said
+assaults are up about 30%, about 33%. Robberies are up about 45%. Those statistics that I gave
+were specific to RTD. But what the country's seeing certainly translates across the country, are
+similar rises in violent types of crime.
+So when overall crime is still down year over year, the violent crime aspect has risen
+significantly. So that's what we were saying. And many of the transit agencies are experiencing
+similar types of rises in the violent crime. And as are agencies, jurisdictions regionally, and
+across the country, cities are seeing similar rises in the violence and more violent crimes.
+SHONTEL LEWIS: Yeah. I guess it just makes me nervous when we start a conversation around
+safety and security and we talk about violent crimes without presenting any of that data to any of
+the members of this committee beforehand. And so I'd like to see those data points. I'd imagine
+that communities who have been over-policed would probably argue that there's a rise in police
+brutality.
+And so we also don't have that data in front of us. And so I think we're going to have a robust
+conversation, I think we could benefit from seeing the data because we've kind of been all over
+the place. We've talked about suicides. We've talked about a number of things.
+And I guess I'm not certain I understand the purpose of this committee, just with the information
+that has been presented thus far.
+MIKE MEADER: Sure. And what we're trying to do is just lay the groundwork. To Director
+Williams' point, one of the things we want to get to is obviously a discussion about where we
+feel the changes in our model need to be made. But I think it's important because we continue to
+get questions from people, from Directors, where it appears that maybe we haven't done a good
+enough job explaining what the model is. To understand the roles of the different aspects of our
+model.
+
+But I think it's important that we do lay the groundwork just from what we're seeing on the
+system, so that as we talk about any kind of changes, we can do it in the context of what we see
+is happening out there.
+SHONTEL LEWIS: Sure.
+MIKE MEADER: I will certainly share these statistics that we track. We use both our own CAD
+system for the calls that we receive, service calls. And we incorporate information from
+LexisNexis which is a well respected information gathering platform so that we can understand
+what's happening, out around the system.
+There are different sites you can look at from a crime statistics standpoint. And what I'll do also,
+is I'll put a couple of those links. You can go ahead and look at it for yourself. I don't necessarily
+prescribe to one or the other. A lot of the information we're receiving when we talk about other
+transit agencies is gained through meetings that the Chief has on a regular basis with all of the
+other transit police Chiefs around the country.
+So that's the kind of information that we have there, as well. But I'll absolutely make sure. I don't
+profess to speak to anything without it being data driven. That's the way I operate. So I'll make
+sure I get those things in your hands to look at, as well.
+Really, the intent was just trying to give an overall view of what we're seeing currently during
+this pandemic and the trend we're seeing out there in the system.
+SHONTEL LEWIS: Sure. That makes sense.
+MIKE MEADER: I appreciate that.
+SHONTEL LEWIS: Yeah. Thank you so much. I appreciate that information. I also think, as we
+talk of them, I'll go back to this conversation around safety and security. I think we still haven't
+defined safety or security. And I would include not only our patrons in this discussion, but our
+operators in this discussion.
+And so I'd like for us to really define what it is that we're doing here for the next five weeks.
+MIKE MEADER: Oh, absolutely. I can tell you this real quick. I know these are some very basic
+definitions, the way the FDA defines it, or not just the FDA, but from a safety perspective and a
+security perspective, that line is blurred sometimes. Because if you ask people, do they feel safe
+on our system, many times the response is, yeah, I do feel safe on this particular route or this
+particular type of transportation because I see police officers.
+Or I see armed security. Those kinds of things. You know, so they equate their safety with how
+secure they feel. So there is a little bit of a blurred line when we use those two terms, and they
+can be used interchangeably. Really what they say is safety, you're safe. It's freedom from
+unintentional harm.
+
+So something that isn't necessarily expected or intentional that could cause you harm. That's
+what we're looking at when we talk about safety. From a security perspective, it's being secure.
+It's freedom from intentional harm. That is, they define it as, someone's out there intending to
+commit a crime, do some harm to somebody, and making sure you feel secure is putting things in
+place to mitigate the possibility of someone who's intending to cause harm.
+That's how security is defined by most people. So if one's a little bit more active, one's a little bit
+more reactive, so to speak.
+SHONTEL LEWIS: Yeah.
+MIKE MEADER: So that's really what we're looking at. And yes, I mean obviously, all of these
+things affect our operators. They affect our customers. We spend a great deal of time with
+operators, talking to them, understanding the concerns that they have. I would say, on a weekly
+basis I talked to anywhere from 50 to 100 operators every single week from different locations to
+really get that feedback.
+I spend time on the buses, I spend time on the trains. To make sure that we're looking at, as do all
+of our security and police officers, and we elicit feedback from them, as well. So it's from the
+operators point of view, also from the folks that are out there observing.
+There's a lot of that kind of data that we use to process and help us make decisions in the way
+we're trying to deploy those resources, as well. So we absolutely do consider that. And we'll be
+talking about that as we go through this, too. The different perspectives, as Director Williams
+said. Let's talk about what's wrong with what we're doing now so we can figure out what we do
+right and make it better.
+And we'll incorporate all of those perspectives. I just wanted to make sure everyone had a clear
+understanding of what's happening out there right now and the model as it stands. So we can
+figure out how we want to change it.
+SHONTEL LEWIS: Thank you. It looks like Director Williams has a question.
+ANGIE RIVERA-MALPIEDE: Yeah, I was going to call on Director Williams.
+SHONTEL LEWIS: I'll just conclude with, I appreciate that. And maybe we could spend some
+time as a committee defining what safety and security means. Because safety, does safety not
+include risk of falls? And so we've talked a bit about safety stats. We've talked a bit about safety
+stats, which we talked about crime, but I think we could probably broaden that conversation and
+focus less on the fear and more on defining what that is.
+ANGIE RIVERA-MALPIEDE: Thank you, Director Lewis. Director Williams.
+KATE WILLIAMS: Thank you Director Lewis, and thank you, Madam Chair. That's pretty
+similar to what I wanted us to spend some time looking at. How we collect feedback, do we have
+any way now in place for people to say, I felt threatened. I felt unsafe. I had this incident.
+
+We collect the data that we were talking about earlier about crimes and about suicide calls, but
+do we have a way to look at how people feel about what maybe didn't happen? But how they
+were uncomfortable. And similar to that, do we have a way for people to say, I do feel safe.
+I personally have ridden transit all over the world. And I have never had a moment in RTD
+where I was uncomfortable. And I am an older single white woman and I've never felt
+uncomfortable in any way. So maybe if we looked at how, to Director Lewis's point, how we are
+looking at our safety and security.
+Because today safety and security would include some discussion on the air filtering systems on
+our vehicles. That's going to make people feel more safe and secure if they know that the air is
+filtered. So I am inclined to be with the same mind of Director Lewis. I'd like us to be sure that
+this is not a Crime Commission.
+That this is a way for us to look at methods to hear from our riders and to make them feel more
+safe and secure. Thanks.
+ANGIE RIVERA-MALPIEDE: Thank you, Director Williams. In and it makes me think about
+cultural competency. How is it that we will allow our community members who maybe do not
+speak the language or are not from here, to be able to provide that information as well, in a
+respectful manner that's in their language, or some place where they can get information so that
+they understand it.
+MIKE MEADER: Absolutely. Good points. And I will bring to the table, we do have safety
+reporting systems. Multiple ways for people to report things. And we do get reports regarding
+that. Occasionally, we do hear from folks who are talking about something that might, as you
+define safety and security, be more security related. And we certainly address those things.
+But it isn't something-- we have a good reporting culture here. And my sense is, because we don't
+see a lot of that formal reporting from a security perspective, and it aligns pretty well with my
+conversations with, as I said, on a weekly and monthly basis. Generally speaking, people feel
+pretty safe and secure out there, our operators.
+But I will share all of those reports as well, that we get via those safety reporting systems, with
+this committee and with the Board members as well, going forward, as we continue to enhance
+the capability for us to collect that information.
+ANGIE RIVERA-MALPIEDE: Thank you. Director Guissinger has a question.
+LYNN GUISSINGER: Thanks for the information. I agree with the comments that have been
+made. And I do think it's important to think about safety in the context of COVID as well, as we
+start to hope to bring people back in the coming months.
+And in that regard, you mentioned something about the driver interactions over masks. What are
+the instructions given to drivers? Can they tell people that they have to wear a mask to get on the
+bus?
+
+MIKE MEADER: They can. And most of what I've seen, they'll remind people if they're getting
+on the bus without a mask, that masks are required. Again, we don't want them getting into a
+push-shove match with someone. We don't want them to get assaulted or something like that.
+But my experience has been, and Fred might even be able to speak to this just a little bit more, as
+I said, recently most of the people are getting on the buses with masks, with face coverings. So
+there's not as many of those interactions. But the majority of the operators I've seen, they'll
+remind people and then most often, people will pull it out of their pocket. They've just forgotten
+about it.
+I think with the order to wear masks outside now, we'll probably see more people having them
+on before they get on the buses, is my hope. Fred, is there anything you want to add?
+FRED WORTHEN: No, not really. I think this is similar to fare collection efforts. We asked for
+somebody to comply. But what we don't want to do is put the operator at risk for assault, or
+physically stop service over this particular issue and impact all the rest of our patrons.
+We did have operator assaults very early on when we were asking people to put mask on. I'm
+seeing far less incidents between passengers and drivers now, when we do ask for compliance. I
+think Mike's right. The reports I get from our operators and the things I see, most people are
+voluntarily complying.
+We've also gone through some massive outreach efforts to try to distribute masks publicly. Those
+efforts are very expensive I will say, though. 100,000 masks runs us roughly $26,000, $27,000.
+So these efforts aren't cheap, but they've been successful, too, in helping our operators with
+people who get on and say I don't have a mask, trying to give them something that they can take
+with them.
+And I know we have another round of mask distribution coming up soon. So we've seen a
+change in culture around this issue.
+LYNN GUISSINGER: That's great. I appreciate all that. Obviously, it needs to be 100%. I know
+that's hard to get to. Is there a written policy or written instructions? It seems like I've heard
+stories of drivers having different-- you know, that they're not allowed to tell people they can't
+get on without a mask, or anything like that. I'd be interested to see if we have something written
+that
+[INTERPOSING VOICES]
+FRED WORTHEN: We have instructed our operators not to deny service over the issue.
+[INTERPOSING VOICES]
+If they refuse to comply, and there's a continued issue with the individual, follow up process is
+very similar to what we have for other enforcement issues reported to dispatch.
+
+[INTERPOSING VOICES]
+Safety and security. We have had areas where-[INTERPOSING VOICES]
+BOB GRADO: Lakewood, Aurora, Arvada, Thornton PD. Those officers work off duty as
+secondary employment for us. So that's the equivalent of about 85 police officers, when you look
+at the hours they're currently working. And then we're right around 300 uniformed security
+officers. That's the contract with the Allied Universal.
+Sounds like a lot, but comparatively, to our peer agencies, we're covering eight counties, 40
+cities, 2,400 square miles. So it's not a lot. As a matter of fact, we're spending about 50% per
+rider than our peer agencies. So really quick
+[INTERPOSING VOICES]
+We hired our first Civilian Manager of Security. Obviously, we were just Bus Operations and
+much smaller.
+In the '80s, we added a couple more security specialists. And at that time, it's when Dave Genova
+came in and he managed that program. In the '90s, we contracted with Arco Security. They are
+no longer here. And then they stood up our first security model in 1994 when we opened the rail
+lines.
+So once we opened rail services, things became mandated, if you will. Department of Homeland
+Security, and now TSA, they oversee the programs through DHS. And then the Public Utilities
+Commission. We originally started out in '94 with RTD employees that were fair inspectors.
+We didn't have security doing that job. It was a representative position. And in 2004-ish, again,
+that program was phased out and it was decided to let those people retire out or transfer, or just
+through organic transition, just to get rid of that program.
+We currently have one internal RTD person left that's still doing it, all these years later. Bear
+with me here. 2001 RTD switched to Wackenhut Security. All of this was through procurement
+processes, competitive bids. Wackenhut later became G4S. And at this point, I should say, going
+back to the beginning, it was always armed security.
+2012, Allied Barton, at the time, won the contract to take over services. And as you guys know,
+at that point we were under a major expansion with the commuter rail coming online and the W
+line and we were just expanding, offering more services.
+As we all know, Allied Barton is now Allied Universal through mergers. Now the transit police
+program, 2004, RTD went to the legislation and asked to form an internal transit policing
+agency. And the reason that was done, is as we are growing, and more crimes are occurring on
+the system, just through organic growth, the security officers or managers that work for RTD,
+
+they would try to get information from, whether it be Denver Police Department or the Aurora
+Police Department or Department of Homeland Security, they were not able to interface.
+Because law enforcement would say, well, this is a law enforcement issue. You're security, we
+can't share this information with you. So in '04, the agency said, you know what, we need to
+change the way we're doing business. They wanted to be members of the FBI Joint Terrorism
+Task Force and other programs that were out there.
+So they asked the legislators to form this internal transit police agency and it was approved. So
+initially, 2004 to 2012, the transit police officers only had jurisdiction on RTD property. They
+had to actually be on a bus, standing at a bus stop, or on a platform, or in a park and ride, a
+property owned by RTD.
+In 2012, the legislators said, you know, this is very confusing. And the Colorado Chiefs
+Association said, this is disastrous. Because defense attorneys and stuff are arguing that RTD
+didn't have jurisdiction. The officer was 20 feet from that bus stop.
+So they went back out, went to vote, and it passed almost unanimously, to change the authority
+to be in line with the traditional police agency. Which means our internal police have authority in
+all eight counties, 44 cities, regardless of where they are.
+So just clean that up. And it also allowed-- at that time, the agency was wanting to look at the
+regional task force. A lot of our peer agencies have these task force. And it's kind of like a auto
+theft task force or drug enforcement task force. A lot of agencies use these task force with police
+officers from elsewhere, just like we do with our contracted program, but it would be a transit
+task force.
+That never really went anywhere. But the idea was to cross commission. If you're a Denver
+police officer or Aurora, or whatever, working on the system, you could go across into
+Lakewood or whatever jurisdiction we needed you at, that was the initial thought, just to give it
+more horsepower.
+But there was some concern with potential liabilities to the agency. So again, that phased out,
+that idea, anyway. 2017, Chief Tarvet resigned. And that's when I was selected to lead the
+organization. I've been here since 2010. Initially, I was in charge of the emergency services
+portion, so the Security Command Centers and all the technical aspects of what we do.
+Since I've been in the seat, we looked at other transit agencies, Marta in particular, that are
+running this high visibility program. We were getting complaints from bus operators and train
+operators and stuff that they just didn't feel safe. So we looked at Marta and we really liked their
+program.
+They have very highly marked police vehicles. They will park at busy intersections and board
+buses and say hi to the people and just be more visible. So at that point, we were approved to go
+to the marked transit police vehicles. So now you see our police officers driving the RTD transit
+
+police vehicles, as well as Denver and Aurora. They drive our marked cars, as well, just to give
+us that visibility.
+All right. I'm running through this quickly because I know we're running low on time. 2017. I'll
+be very blunt. Marisela, myself, Steve Martingano, we looked at the current contract that was in
+place. At that time it was also Allied Universal. And we just felt like it was missing a lot.
+Although we were paying for the service, this is a service we pay for, but RTD really had very
+little control over it. So we did a complete redesign of that. And we asked for things. We wanted
+more training for those officers. We wanted them to have a use of force program with full time
+investigators that would investigate use of force issues and then report back to us.
+And then also provide us with a spreadsheet that would show us by month any use of force issue.
+And by use of force, I mean it could be something simple, like just handcuffing somebody and
+detaining them. Or if they don't deploy pepper spray, but they pull out their pepper spray, all that
+counts as use of force. Anytime you touch somebody.
+And then we also started doing internal spot audits of the time that we were being billed for. OK.
+So I'm going to jump ahead a little bit. 2019. So just last year, we started looking at the internal
+training of our internal police officers.
+And we started to develop-- we formalized a whole new training program. And we're working
+towards accreditation through the Colorado Association of Chiefs of Police. So what they have,
+is it's a huge checklist, if you will. To be an accredited agency, you must do this type of training.
+It's just a bunch of boxes you check.
+And then you invite them into evaluate your agency. So we're working through that. And one of
+the things that includes is reviewing all of our policies and procedures. For instance, the
+elimination of chokeholds. I'll say, we were ahead of that curve. I've never been a fan of
+chokeholds.
+So we removed that before all this began with the civil unrest and everything that's happening
+out there. 2019. I'm sorry, 2020. We thought, things are changing out there in the world. So we
+said, let's try an unarmed program.
+And it was decided to place these transit safety ambassadors on the N Line. It was a perfect
+environment to start. It was kind of isolated out there. And we were forming this security model
+from scratch. So we now have 18 of these transit safety ambassadors out there.
+They strictly report to the OCC, not to the Security Command Center. Different kind of fare
+enforcement, as we all know. Well actually, there is no fare enforcement. They check fare, but if
+somebody does not have fare, it's an educational process. And then they just advise that person
+that they're riding at their own risk.
+If a transit police officer was to board, that they could be cited. So far, it's going very well. And
+that's one of the things we wanted this committee to look at, is do we want to expand that
+
+program now? In 2020, I mentioned earlier, we're going to have a total of four mental health
+clinicians and that is through a grant program. I'll say, mostly a grant program.
+It pays, Steve, you might jump in here. I think it's 70%?
+STEVE MARTINGANO: 50.
+BOB GRADO: Oh, 50. I was off. I'm glad you jumped in. So I guess we're splitting the cost of
+that program. So next year we'll spend a little over $200,000 for the four mental health clinicians.
+Also, we have, and this is part of-- Steve worked hard on this with the Leadership Academy and
+Capital Programs 2020 this year, we got the Hope Grant, which will bring us a full time
+Homeless Outreach Coordinator into our division.
+You know, I'm going to jump through this next part to save time. But I have a whole section here
+that talks about our 911 dispatch and our CCTV surveillance and the security integration
+program. That has grown tremendously over the years. There's a lot of grant funding involved for
+these programs.
+And that program has recently received the three gold standard awards over the last nine years
+and is really a good model that's been copied from agencies across the country. So really quick, I
+want to talk about something. This is really important.
+I am 100% on board for making recommended changes and-- I was telling Director Walker
+yesterday, organizations that fail to change, fail. Somebody told me that years ago. I 100%
+believe that. Now with that said, I do believe we need to change and modernize and do things a
+little differently.
+And I hope we talk through some of those things. But we still have guidelines that we have to
+follow. So outside of those programs, I have a section here-- who are we accountable to? The
+Department of Homeland Security has a very intense package, if you will, of recommendations.
+And it goes everything from clear garbage cans to how we deploy our staff and how we're
+posting and how we're responding to incidents. It's very intense. So every three years, they
+physically come out here to the agency and spend a week or so going through this checklist. And
+they score the agency.
+And then annually, they do a mini audit. So we are accountable to the Department of Homeland
+Security/TSA Surface inspection Programs. They oversee that program with DHS. And then we
+also have an annual security compliance audit by the Public Utilities Commission, PUC.
+They look at everything from the training of our internal police officers and then they also audit
+the security contractor. Here's the caveat to that. It ended in 2019 because it's switching to the
+FDA. So we're still going through that exercise as if we are responsible to them. But we did not
+have to actually report to them this year.
+
+And then we also have, as far as the internal police officers, we have annual evaluations and
+training and compliance that that's required by the Colorado Peace Officer Standards and
+Training Board. So we are reviewed by them. We have guidelines and regulations with the FRA,
+with the commuter rail, that are different from a lot of the other things we're doing.
+And then we also have memberships, and a lot of this play to the accountability part, as well,
+with the ICP, which is International Association of Chiefs of Police, the Colorado Association of
+Chiefs of Police, the FBI Joint Terrorism Task Force. The Colorado Information and Analysis
+Center, which is the CIAC.
+They do all the terrorism reporting and training of our people. We have a Metro Chiefs
+Association. We have the app to PAG, which is the Peer Advisory Group. That's all the Chiefs
+from across the country, all the major agencies. There's 55 members of the PAG.
+And then locally, again, we have the UASI, it's Urban Area Security Initiative. And I have to
+state, all of these groups have their own unique policies and recommendations. So we have a lot
+of restrictions on us. There are certain things that we have to do. We just have to do them.
+So I want to make that very clear, that these are things we cannot adjust. Lastly, I wanted to hit,
+this year we had Senate Bill 2217. And I think most of you are familiar with that. You know, at
+first, I'm going to be right up front honest with everybody. I saw it as a Revenge bill when it first
+came out.
+It was lumping every police officer in to this terrible thing. It was so restrictive. And I thought it
+was going to result in a mass exodus of the police. They are just going to run for the hills. But I
+will say, that it has turned out to be a very good bill. I support it.
+It gives us stricter regulations for post certified police officers in the state of Colorado. It has the
+body camera requirement. Nobody is arguing against any of this. The issues, I think, were for a
+lot of agencies, smaller agencies, was it's very expensive. The body cameras are expensive. The
+storage of the footage is expensive.
+It was very regulated. But what I like about this bill is there's more accountability. So in the past,
+and this is a national problem, I think. Some of these issues you're seeing across the country,
+when you look back at the officers that are doing some of these things, generally, you'll see that
+they're either brand new and they have they don't have the experience, but a lot of times it's
+officers that have been around a long time.
+And they have been through processes. They've been disciplined over and over and over. And
+the agency, whether it be unions or different guidelines, they can't get rid of these officers. So
+what this bill does, is it mandates it. Now you have a mandated internal investigation process and
+mandated disciplinary process.
+Officers are mandated to tell on other officers, if they see something that's inappropriate. So
+there are some great things in there that's going to help the accountability for everybody. You
+
+know, I'll say 99.5% or whatever, I don't know the actual number, officers that I work with are
+good officers.
+Their heart's in the right place. But it helps you deal with that small group that maybe shouldn't
+be there. You know, let's face it. In any organization, you have your bad apples. And you have to
+be able to remove those. So that helps us. The state will decertify those people.
+And that's it. I feel like I went through that really quick. If anybody has any questions, I'm happy
+to answer them. And I'll share this with you guys if you want to look it over, too.
+ANGIE RIVERA-MALPIEDE: Chief Grado, thank you so much. I think it would be great if we
+all got a copy of that. That was a lot of information.
+BOB GRADO: It is. I'm sorry. I feel like you're all drinking from the fire hose there. But the
+intent was to share where we are now and how we got there. And with such limited time, it's very
+hard to do that. But a lot of these changes were made because of agency growth and new
+regulations.
+ANGIE RIVERA-MALPIEDE: All right. Thank you. I'm going to ask Board members if they
+have any questions or comments. Director Guissinger.
+LYNN GUISSINGER: Sorry. No, nothing right now. Thank you.
+ANGIE RIVERA-MALPIEDE: All right. Director Lewis.
+SHONTEL LEWIS: Thank you, Madam Chair. I mean, it's an observation. He mentioned that
+they've contracted with Allied Security and had seen opportunities for improvement with the
+contract and had looked at adding additional requirements for Allied Security.
+And I find it kind of peculiar that the staff had recognized that there were opportunities for
+improvement, put out a new RFP in the contract, never came back to the Board, even though
+there were opportunities for improvement that the staff had seen, had the opportunity to see and
+evaluate from a contractor perspective.
+And so I'm curious how the contract was able to be executed as a routine annual procurements if
+there were changes that the staff had identified. And so that's just an observation.
+MIKE MEADER: Thank you. Are there other questions?
+ANGIE RIVERA-MALPIEDE: Sorry, Director Williams?
+KATE WILLIAMS: I knew you were going to call on me next. It was a lot of information. It was
+a lot of good information, Bob. So don't feel bad about that. We digested it as well as we could.
+And we'll look to understand more when you share the information with us and something we
+can take some time with.
+
+I think that's the kind of thing that we want to look at, as Director Lewis and I both keep saying.
+We're looking at moving toward making positive change, not dwelling on what is an issue so
+much, as what the solutions are. And so I appreciate your work in getting that explained. Thanks.
+BOB GRADO: Yeah, I'm sorry I rushed through that. I really wanted to take time to talk more.
+Especially in these later years as we transition. We're already 25 minutes over, I think.
+ANGIE RIVERA-MALPIEDE: That's all right.
+BOB GRADO: Which I'm fine with. You guys, this is really important to me, to do this, it really
+is. I want as many people like yourselves to have eyes into this program. I'm looking for support.
+At the end of the day, that's the bottom line. I want support.
+And I think if we share this information with everybody and where we think we need to head, I
+feel like we went a little bit down a rabbit hole earlier. But that that's my goal in this, is to share
+the current model, and talk about ways we think, as people sitting in these seats, that it could be
+better. And then just go from there.
+And I love the fact that we have so many Board Members on here. Because when we do go to
+the Board, I'll have people sitting in the seats that can help explain this stuff.
+ANGIE RIVERA-MALPIEDE: Hopefully. OK. Thank you, Chief. You know, we had this
+scheduled till 9:30, so we're OK. But we only have four minutes left. I want to thank the Board
+members who really delved in and asked some questions.
+And I would ask you to really write them down, send them to me, so that we can delve into it
+even more next week. Because I think that it is our role and our opportunity to really talk about
+the issues that are around these areas, on how we can work together and collaborate to make sure
+that we have a robust program that we can all really feel proud of.
+And I think that there's some real innovation happening currently that is really quite
+extraordinary. So I'm really excited about that. But Mr. Meader, I'm going to give you the
+opportunity to close this out. And then I will see everybody next Wednesday. Go ahead, sir.
+MIKE MEADER: Perfect. Thank you. And I appreciate all of the feedback and again, it's your
+time today, as well, and in the coming weeks. We did have a real good discussion. There were
+some great points brought up. And I want to let everybody know what you can expect to receive
+here today after this meeting.
+The history, a little more detail that Chief Grado shared with you, I'll share the crime stats with
+you as well. So you can see how we collect those. The safety reporting, again, remind everybody
+of how everybody, including Board Members, are able to report any concerns about safety or
+security or anything that they have. So that we can do that. And next week-One other thing, too, since the question was raised, I'll also send out a comparison of the old
+security contract and the training and the previous one, and then the training that all of our armed
+
+security and, of course, you can translate that to, all of the police officers receive this type of
+training in even more detail, every single year. So you can see the training that goes into that,
+some of the changes, as Chief said. We recognized there were some shortcomings, and how
+we've addressed some of those.
+Next week, just to give everybody a little preview. We're going to talk a little bit more about the
+roles of each of these groups. Just because I think there is some benefit to adding some clarity.
+We'll do that very briefly. We'll talk a little bit about what we see from a security perspective
+here, the Chief and the group here sees as some changes that we think would be very positive,
+that we would make.
+And then we really want your feedback and input on some of those things. Because we know
+we're not the smartest people in the room all the time and want to make sure that we get just as
+much feedback as we can, OK? So that's coming next week. Again, I appreciate your time. And
+thank you, again, for it today
+ANGIE RIVERA-MALPIEDE: OK. Thank you. All right. Anything else from anybody?
+BOB GRADO: You know, I just want to say one more thing. I really would like to have an open
+and frank, honest discussions on how we feel about some of these issues, too. Just so the Board
+Members that are here are fully aware. I don't want anybody hold back, any of us. That's my
+hope. That we can all be really honest with each other and just lay it all out there.
+ANGIE RIVERA-MALPIEDE: Thank you, Chief Grado.
+BOB GRADO: I see Director Williams shaking her head. Honestly, to get this done and to make
+positive changes, I think we have to be brutally honest, too.
+ANGIE RIVERA-MALPIEDE: Well, I can assure you, this group will do that. So thank you so
+much.
+BOB GRADO: OK. All right.
+MIKE MEADER: Not concerned about that at all.
+BOB GRADO: OK.
+ANGIE RIVERA-MALPIEDE: OK. Let me see. There's one more thing. So with that, I'm going
+to adjourn. It is now 9:30 AM. Thank you all and we will be seeing you next Wednesday
+MIKE MEADER: Thank you. Have a great rest of your week. Bye bye.
+
+

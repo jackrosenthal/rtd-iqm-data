@@ -1,0 +1,117 @@
+## I. Financial Administration and Audit Committee
+
+Chaired by Jeff Walker
+
+### A. Call to Order
+
+Committee Chair Walker called the meeting to order at 7:10 p.m.
+
+#### 1. 2013-007 : Approval of 2013 Amended Budget
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors adopt Resolution No. ___, Series of 2013 to amend and appropriate funds for the proposed 2013 Amended Budget, to increase the appropriation by $13.302 million to $1,584.563 million as detailed below in the overview of the 2013 Amended Budget, and to decrease the appropriation of Capital Carryforward (previously approved capital funds) by $247.879 million to $1,003.434 million due to primarily planned expenditures.
+
+1)      The 2013 Amended Budget appropriation includes the amounts in the Amended Budget column below (in thousands), which is a summary of relevant data from Exhibit I.
+
+2)      The 2013 Amended Budget also includes operating revenue and non-operating revenue which are estimated, not appropriated, below (in thousands), which is a summary of relevant data from Exhibit I.
+
+Motion:              Director Bagley made the motion to move this item to the full Board at the June 25, 2013 Board meeting.
+
+Director Solano seconded the motion.
+
+Discussion:              Terry Howerter began by apologizing for any confusion caused by the updated Board Report that was sent out on Monday.  He explained that staff did find an error in their calculations that they wanted to repair.  Terry Howerter stated that it is a fairly small amendment this year.  He said that staff would be happy to get together with any Board members that would like to meet separately to discuss the Amended Budget.  There are a lot of numbers and Jannette Scarpino will just hit on the highlights.
+
+Jannette Scarpino explained that the 2013 Adopted Budget was approved in November of 2012.  She said that about mid-year staff amends the budget to account for changes that they are aware of.  She stated that in August staff will start to work on the 2014 Budget.
+
+Jannette Scarpino stated that the gross change is an increase in the appropriation of $13.302 million which is historically a small amount.  She also explained that the revenue is not appropriated but estimated.
+
+Jannette Scarpino noted that the true increase to operating expenses is less than 1% net of previously approved transfers, the FISA contribution, and one-time expenses.  She stated that in FasTracks Projects the operating expenses are up about 4% largely due to one-time expense projects; in FasTracks Operations (West Line) costs are down $2.3 million due to our cost allocation methodology.   She referred the Board to the summary in the Board Report and Attachment A for further details.
+
+Jannette Scarpino said that we expect a decrease of $15.7 million in new capital that is detailed in Attachment B.  She stated that we are seeing a decrease of $20.7 million in FasTracks new capital that is mainly from the Commuter Rail Maintenance Facility and project management and administration.  In Base we are seeing an increase of $5.0 million that is mainly from our funding of the SmartCards.
+
+Jannette Scarpino explained that capital carryforward are projects that were not completed in previous years and are carried forward to the following year.  The carryforward balance has been updated to reflect December 31, 2012 actuals.  The capital carryforward will decrease $247.9 million.  She stated that this is detailed in Attachment C.
+
+Jannette Scarpino shared that Sales and Use Tax revenues are projected to decrease $8.8 million based on the CU-Leeds School of Business June forecast of 3.7% versus 4.2% in the Adopted Budget.  She stated that this is up from the last forecast of 2.5% but still down from the Adopted Budget.  She explained that this is offset by an increase in grant revenue of $22.8 million.  She said that fare revenue is expected to be flat with no change over the Adopted Budget.
+
+Jannette Scarpino stated that staff is forecasting an Unrestricted Year-End Fund Balance to decrease $7.8 million to $23 million largely due to year-end accruals.  She said that the amount of $23 million is actually flat to our actual amount of 2012 which is not a bad position to be in.  She also said that staff will continue to build the Board Appropriated and Capital Replacement funds.
+
+Director Bagley noted that the FasTracks Construction Reserve was considerably reduced from the original Board Packet that was sent on Friday.  Terry Howerter explained that the two changes that were made on Monday were related to a reduction of about $57 million in the FasTracks Capital and FasTracks New Capital.  He believes that is the reduction that Director Bagley noted.
+
+Committee Chair Walker declared the motion PASSED.
+
+##### a. 2013 Amended Budget
+
+##### b. 2013 amended resolution 061813
+
+#### 1. 2014-2019 Strategic Budget Plan Update
+
+Terry Howerter stated that staff has brought the Strategic Budget Plan (SBP) to the Board for review several times.  He said there is good news in this updated.  Jannette Scarpino reiterated that this was just a review of the SBP and not a request for adoption.
+
+Jannette Scarpino reviewed a Power Point presentation with the Board that can be found in the June 18, 2013 Operations and Customer Service Agenda Packet.  She said that since the presentation of the first draft we have received an update from CU-Leeds for the Sales and Use Tax projections.  The SBP has been revised to reflect 3.7% growth versus 2.5%.  Janette Scarpino explained that CU is attributing the increase to a strong growth in personal income and employment growth exceeding the national average.  She reviewed the reduced, eliminated and deferred projects with the Board that helped balance the SBP.  She explained that the initial project requests totaled over $500 million but this has been reduced to around $369 million.  Janette Scarpino stated that the concern is that projects may become more critical the longer they are postponed; the hope is that if sales tax improves or we have an excess fund balance at year-end we can bring some of the deferred projects back.  She said that the SBP continues to contribute to the Board Appropriated and Capital Replacement funds at the rate of $3 million to each fund each year.  She highlighted that the bottom line is now positive over the six year period.  Jannette Scarpino said that as she said in the beginning this in just an update.  The final SBP will be brought to the Board for approval in July.  She shared that between now and then staff will continue to refine their assumptions.
+
+Terry Howerter asked Jannette Scarpino to expand on the expense project and capital projects that went into the $369 million in the SBP.  She explained that expense projects are projects that are expensed through the income statement.  These are usually repair and maintenance type projects.  She stated that capital projects are projects that are usually $5,000 or greater in amount.  An asset is created on the balance sheet for capital projects.  Terry Howerter stated that out of $500 million in requests staff brought in $369 million to the SBP.
+
+Director Folska noted that Jannette Scarpino mentioned there was $3.8 million being paid in bonuses.  She asked for clarification on this item.  Janette Scarpino said that in the amended budget there is $3.8 million in bonuses recorded as part of the collective bargaining agreement.  General Manager Washington explained that this was part of the 5-year contract that was negotiated with the ATU.  These bonuses were approved by the Board when the contract was approved.  He said that the term bonus might throw people off.  It is really a one-time payment.
+
+Director Folska asked if CU-Leeds was factoring in the increase in sales tax revenue from the sales tax parity that passed.  Jannette Scarpino stated that they would be taking that into account starting January 1, 2014 when the parity takes effect.
+
+Director Bagley commented that what staff does in relation to RTD’s amended budget, adopted budget and the SBP is one of the most important things that the Board has to review.  He said that it is very intricate as the Board has seen.  Director Bagley noted that the Board cannot necessarily follow every little aspect of what staff is talking about so he suggested that if anyone wants greater clarification they should meet with Terry Howerter and his staff.  He said the conversations he has had with staff have been very purposeful conversations.  Director Bagley thanked staff for what they do for the agency.
+
+Director Bagley also commented how the Fiscal Sustainability Task Force is a component of what happens to the budget.  He mentioned in the General Manager Oversight and Performance Management Committee that it would be great if in the fall RTD could revisit with those partners to discuss the positive things RTD has done, where RTD is today, and what steps RTD needs to take in the future.
+
+Director Daly asked for clarification on what the FT Service Increase was on page 10 of the Power Point presentation.  Jannette Scarpino explained that was the rubber tire service.
+
+Director James thanked Director Bagley for bringing up the Fiscal Sustainability Task Force.  He said that he met with Terry Howerter just this week to talk about it.  Terry Howerter stated that staff will give the Board an update as to where we are with the Task Force’s recommendations shortly.
+
+##### a. FAAC 2014-2019 SBP 061813
+
+#### 2. First Quarter 2013 Performance Measures
+
+Terry Howerter stated that the report is available in the June 18, 3013 Financial Administration and Audit Committee Agenda Packet.  Jannette Scarpino highlighted that on-time performance has improved in all categories for all carriers.  She believes the focus on runboards and problem routes has really been having a positive effect.
+
+Director Lubow asked for further information on Goal 6.2, District ridership goal.  She understands that we did not meet our goal due to Leap Year but she noted some was due to local routes declining.  She asked staff to elaborate.  Terry Howerter said that Doug MacLeod would touch on it more in the Monthly Status Report but the decrease is fairly small.
+
+##### a. 2013 performance measures first quarter
+
+#### 3. April 2013 Monthly Financial Status Report
+
+Doug MacLeod noted that the dashboard shows red again for the month and year-to-date ridership numbers.  He said that the good news is that looking at the month of April we were down 0.5% whereas for March we had been down 4.5%; year-to-date we are down 2.7%.  Doug MacLeod explained that about 0.7% can be attributed to Leap Year but that still leaves a 2% decrease.  He said that light rail is the biggest driver of the decrease.  He shared that the APTA article related to a decrease in ridership nationally mentioned that in the first quarter of 2012 there was a big spike in the cost of gas.  This year the cost has normalized so we have seen ridership decrease as more people are driving again.
+
+Doug MacLeod highlighted that we had a good month for fare revenue.  We are up 6.5% for the month and 2.2% year-to-date.  He explained that the biggest driver of this increase is our pass revenue as this is about 60% of our fare revenue.  He stated that there has been an increase in Eco and College Passes.  Doug MacLeod also explained that there has been a shift in the passes many of our federal employees have been purchasing.  These employees have been switching to the Flex Passes and in doing so we have seen an increase in fare revenue.
+
+Doug MacLeod stated that we did not have a good month for Sales and Use Tax.  This is the first month that we have been negative versus last year but overall we are up 1.2% for the year.
+
+Director Folska asked for an explanation of the difference between the EcoPass and FlexPass.  Doug MacLeod explained that EcoPasses are purchased by the employer and FlexPasses are paid for by employees through payroll deductions.  He said one of the reasons the federal agencies are moving toward FlexPasses is because they want to be able to offer an entire benefits package to their employees.  Doug MacLeod stated that we also have monthly passes and annual passes.  Bruce Abel explained that the annual pass program is essentially buying 11 monthly passes and getting the 12th free.  He stated that the Eco and Flex pass programs are business-to-business programs while the annual and monthly passes are business-to-individual.
+
+Director Menten asked which federal agencies had moved to the FlexPasses.  Doug stated that it is the IRS, TSA and Federal Center Employees.
+
+Director Bagley noted a correction that needed to be made on ridership section of the report that should read 2013 Actual versus Budget instead of 2012.  Staff stated they would make the correction.  Director Bagley believes it is very important to understand what our actual is right now versus what our budget is.  It is nice to look back but it is also very important to look at where we are right now.  He pointed out that fare revenue versus budget is up considerably and Sales and Use Tax is down.  He thinks there are some reasons that we may not fully understand like sequestration, Social Security, gas prices, etc.  Director Bagley believes it may be worthwhile for CU-Leeds to come back to share with the Board more about what goes into their predictions than just the numbers.  General Manager Washington said that staff would set that up.
+
+Director James said that he is excited to see the study that General Manager Washington discussed in the Operations and Customer Service Committee Meeting (June 18, 2013).  He said that in thinking about this study the word simplification came to mind.  Director James noted that a committee was formed regarding RTD’s pass programs.  He believes it is dormant now but not gone.  Director James thinks it would be worthwhile for the committee to be revived to review the Smart Card program.  General Manager Washington stated that one of the main objectives and reasons to move to Smart Cards is to track utilization so that we can right price our fares.  This data will be collected over 6 to 12 months so we can see what the right prices, especially for the EcoPasses, should be.  He believes that the Task Force will provide a much more comprehensive look at Smart Cards than just the data we are collecting so it will be more suited for the review than the Pass Committee.
+
+Director Sisk noted that there are some intrinsic factors that go into ridership, one of which is gas prices.  He stated that with gas prices stabilizing we lose some riders but what we may lose in fare revenue we also gain back in what we are saving on fuel.
+
+Director Folska asked if staff conducts a means test of people who buy passes.  She noted that it seems some people are not getting the same benefits of individuals who are employed.  If you are an individual and want to buy a pass you are going to pay more.  Bruce Abel explained that we work with social service agencies to do the testing.  He stated that RTD does not want to be involved in means testing.  Bruce Abel said that the discount fare pass programs offered through the social service agencies are going to offer the deepest discount.
+
+Director Hoy said that if ridership decreases by 2-3% that does not mean our fuel costs will decrease by 2-3%.  An MCI bus traveling with 49 people versus 50 uses the same amount of fuel.
+
+Committee Chair Walker shared that he has been thinking about the many Baby Boomers.  Many of that generation are starting to retire, work part time, etc. and that could be having an effect on ridership.
+
+##### a. 043013 RTD MFS
+
+### D. Other Matters
+
+Director Bagley stated that in the last General Manager’s report there was a discussion of the Southeast Corridor Station Improvements that were done by the Southeast TMA involved with the Denver South Economic Development Council.  He highlighted that it was important to note that the money for this project was not RTD money; this money was from a grant that TMA got from CDOT.  He said that everyone wants greater weather protection but if you want it, you have to step-up to pay for it.  This is a great example of a community contributing to the betterment of RTD facilities in their District.
+
+Director Bagley shared that he and a number of staff went to a Stationary Master Plan Meeting in Highlands Ranch about the Southwest Extension final station.  He through the meeting went well; he made some comments that were well received.
+
+Director Bagley said that there were five Directors (Bagley, Hoy, Lubow, Sisk and Anderson) that attended the Northwest Area Mobility Study discussion.  He said it was very interesting to attend and listen to the comments that were made.
+
+Director Bagley also stated that RTD has a heck of a lot going on and he thinks we are doing a great job.
+
+Director Lasater feels that being asked to vote on the I-225 Rail Alignment that was presented at the June 11, 2013 FasTracks Committee Meeting is not the way the Board should operate.  He knows in municipal government they never operated that way.  He stated that research takes time on all people’s part, especially for Board members, and not every Board member has the luxury of being retired and free time all the time.  Director Lasater also stated that the University of Colorado (CU) or the Fitzsimons Redevelopment Authority (FRA) does not have time to address concerns about having a concrete transportation plan in place prior to the Board Meeting of June 25, 2013.  He believes the builder should be talented enough to do what two railroads did a century and a half ago and that was build across the country and meet successfully in Wyoming.  Director Lasater stated that failure to plan does not necessitate haste on the part of the Board.  He thinks the Board is being rushed into a decision.  Director Lasater encouraged the Board to vote no on the I-225 Rail Alignment when the Board does not have all the facts.  He believes there are too many things left up in the air and does not think that is the way the Board should be acting in the fiduciary capacity that the Board has been elected to do.
+
+General Manager Washington announced that RTD has hired a new manager of internal audit.  She is due to start July 1st and staff will introduce her to the Board sometime in early July.
+
+### F. Adjourn
+
+Committee Chair Walker adjourned the meeting at 8:12 p.m.

@@ -1,0 +1,1 @@
+Pursuant to § 24-6-402(4)(b), C.R.S., to receive legal advice regarding the Justice, Equity, Diversity, and Inclusion Board workshops.

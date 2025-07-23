@@ -1,0 +1,1683 @@
+2024-06-12
+Operations, Safety, and Security Committee
+TROY WHITMORE: Good evening, everybody. The Wednesday, June 12, Operations Safety and Security
+Committee will now come to order. We are convened as of 5:31 PM Mountain Time. I would respectfully
+ask everyone attending this meeting to mute yourself unless you are recognized to speak.
+Thank you all for joining us this evening. Please note that committee meetings of the RTD Board of Directors
+will be held remotely via Zoom and will be audio and video recorded. The meeting recordings, along with
+the unofficial minutes of the meetings, will be posted as soon as possible on the Board's website.
+During tonight's meeting, we are also providing Communication Access Real-time Translation, also known
+as CART. Anyone who would like to access this service should send an email to the RTD Board Office at
+rtdboardoffice@rtd-denver.com and a link will be provided. Additionally, the CART transcript can be
+automatically translated into Spanish for anyone who would like access to a live transcript of this meeting
+in Spanish. A live stream of this meeting is also available, excuse me, via RTD's YouTube page.
+All right, I'd now like to call the role of the committee members. Committee Vice Chair Julien Bouquet.
+JULIEN BOUQUET: Present.
+TROY WHITMORE: Director Ian Harwick.
+IAN HARWICK: Present.
+TROY WHITMORE: Director Jaime Lewis.
+JAIME LEWIS: Present.
+TROY WHITMORE: Director Paul Rosenthal. Director Rosenthal? All right, if he joins us, we will so note
+publicly. Director JoyAnn Ruscha. I see she's connecting to audio, so I will call her present. Director Marjorie
+Sloan.
+MARJORIE SLOAN: Here.
+TROY WHITMORE: And I am Troy Whitmore, the chair of this committee, and I am present as well. I see
+that we do have a quorum. Also, in attendance, we have several other board members. We have Director
+Peggy Catlin. We have Director Bob Broom. And we have Director Michael Guzman. Have I missed any
+other board members that are not on the committee that are in attendance? OK.
+
+Now I'd like to open the agenda up to the public comment portion of the evening. This is available to anyone
+who would like to address the committee regarding any topic listed in the published meeting agenda for the
+current and immediately preceding month. If you wish to speak and have not already done so, please either
+raise your virtual hand or press Star 9 on your phone.
+Now, during this time, the committee will not offer any direct comments or responses. However, if you'd like
+to be contacted regarding your public comment, please feel free to email the RTD Board Office at once
+again, rtdboardoffice@rtd-denver.com. All right, Mr Kroll, are there hands raised for comments?
+JACK KROLL: Hello, Committee Chair Whitmore. This is Jack Kroll, Executive Manager of the Board Office.
+At this time, I see one hand raised, and that is from Richard Bamber.
+TROY WHITMORE: All right, Mr. Bamber, the routine. You have three minutes to address the committee.
+And the microphone is yours.
+RICHARD BAMBER: Hi. Good evening. Thank you, Chair Whitmore. So it's been a week on the light rail.
+Greater Denver Transit has sent in a letter. So I would like to confirm that we would like staff to follow up in
+advance-- sorry, follow up to the contents of that letter.
+I wanted to just place an idea into the committee members' minds, which is, you know, last Friday there
+was a plane crash, a private plane crash in Arvada. And sadly, it's been announced one of the passengers,
+a lady, since lost her life, five days ago. And we know the type of plane, where it was going, who was on
+board. The NTSB have even told us the high level cause, which appears to be engine failure.
+We're going to get promised an interim report, which is presumably going to be multiple pages with even
+more details within 30 days. And then as the NTSB fully investigates every part of this accident, including
+dissecting the parts of that plane's engine, looking at how the ATC handled it, how the pilot-- unfortunate
+pilot handled it, we will get to know everything that happened on board that aircraft. And that's promised
+within 12 and 24 months.
+I'd like to contrast that with the light rail that we-- you know, I am going on a scrap of a PUC submission as
+to what happened in January. The Directors committee members may know more. We know you've had
+executive sessions on it. But it's nearly five months. And we just, you know, we have-- there is a level of
+secrecy and a culture of secrecy. You can see the public right now is begging for answers as to why the
+train service has fallen over. OK.
+Openness and transparency is a key plank of a safety culture. And this segues me into supporting the
+second item that we wrote about, which is the Vision Zero. RTD's leadership, Directors, have a choice now.
+We can be the safest leading agency in the nation, you know, with openness, transparency. Or we can
+keep trying to say the bare minimum and making people like me and journalists and other interested people
+actively have to work and dig to find the answers to what is going on with the transportation system we pay
+for.
+
+I'd say you guys have a choice. I hope you guys choose to stand on the right side of history and choose an
+open and transparent and a Vision Zero safety culture. Thank you very much.
+TROY WHITMORE: Thank you, Mr Bamber. Mr. Kroll, do we have any more hands raised for public
+comment?
+JACK KROLL: Richard Whitmore, at this time, I do not see-- oh, I see one additional hand that just came
+in from Joe Meyer.
+TROY WHITMORE: All right, Mr Meyer, the floor is yours. You have three minutes.
+JOE MEYER: Thank you. Good evening. And thanks for letting me speak tonight.
+I have just a comment on operations regarding the E and H Line disruptions due to the ongoing work on
+the coping panels, along with the slow zones on the track. I normally take the B or G Line into Union Station
+and then connect to the E Line to get to my office near the County Line station. And with the current
+scheduling and disruptions, what that turns into is a nightmare 2-hour commute.
+The B Line arrives to Union Station on the 58 minute mark. The E line leaves Union Station on the 55
+minute mark. So that's nearly an hour connection time if take the B Line. The G Line arrives on the 18 or
+48 minute mark, which turns into either a 37-minute connection waiting for the E line or, assuming the G
+line is on time and it takes about 4 minutes to walk from where that train drops off to where the E Line picks
+up, you have a pretty tight window, not a lot of delays, to catch that E line.
+As a result, I've tried playing with other connections, for example, taking the A Line, connecting to the R
+and taking that down to County Line. That takes functionally the same amount of time as waiting for the
+next E Line train because of the length of connections required there. And I've tried the H Line to Dayton
+Station connecting to the R line, which is a 20-minute waiting period to connect between those two trains
+to continue south.
+To me, this is not good operations. This is schedule without any sort of foresight of how these lines are
+going to be used to get to the South Metro. And I urge RTD to put some extra effort here into making these
+schedules work with the ongoing disruptions to provide good service to their customers.
+Next week, I'm going to be targeting biking from Union Station to my office near County Line and attempting
+to beat the E Line train there. Based on the current time that it's taking the E line with delays, with transfer
+times, that's looking very likely that I can bike from Union Station to County Line faster than the E Line train
+currently runs.
+That's not acceptable. And we can't just adjust schedules to solve problems three times a year. If there is
+anything that can be done to improve the current scheduling and delay situation, that can't wait until
+September. There needs to be coordination between the train scheduling, the work crews, and the track
+inspections and ongoing maintenance there. And I would like to urge the Board to continue to put effort
+towards that. Thank you for listening to me.
+
+TROY WHITMORE: Thank you, Mr Meyer. We appreciate your comments and your input. Any other hands
+raised, Mr Kroll?
+JACK KROLL: Chair Whitmore, at this time, I see no further hands raised.
+TROY WHITMORE: Thank you very much. While your mic is still on, Board Office staff, any email comments
+received for today's meeting? I believe there were two. Would you like to enlighten us about those briefly,
+Mr Kroll?
+JACK KROLL: Sure. So you all received two emails in regard to public comment for this evening's meeting,
+one from Greater Denver Transit. And you heard a bulk of the comments there from Mr. Bamber already
+related to in E and H line issues as well as a conversation that is likely to arise under other matters this
+evening with respect to Vision Zero. You also received an additional letter of public comment from Alejandro
+Castaneda, also related to Vision Zero conversation that is likely forthcoming under other matters.
+TROY WHITMORE: All right. Thank you, Mr Kroll. With no other participants in the queue, we will close the
+public comment portion of the meeting at 5:42 PM.
+All right, Item C, information from external entities, there are no external entity reports this evening. So we'll
+move to Item D, recommended actions. And there are two recommended actions on the agenda.
+First action for consideration tonight is a Group 33 Fixed Route Service Contract for the Board of Directors
+to authorize the General Manager and CEO, or her designee, to enter into a contract with Transdev Services
+Inc for the provision of fixed route services as described herein. This contract is for 3 years with two 1-year
+options for a total of 5 years at a total not to exceed cost of $186,603,968. Additionally, RTD will reimburse
+the contractors' direct fuel costs in an amount estimated to be $16,101,761 over 5 years. Total 5-year not
+to exceed costs for services and fuel is $202,705,729. Is there a motion?
+JAIME LEWIS: So moved.
+TROY WHITMORE: Motion by Director Lewis. Do I have a second?
+MARJORIE SLOAN: Second, Sloan.
+TROY WHITMORE: Thank you. Director Sloan. I would now like to ask Fred Worthen, Assistant General
+Manager of Bus Ops, and Erin Vallejos, Senior Manager of Contracted Services to present this item. Floor
+is yours, Fred and Erin.
+FRED WORTHEN: Good evening. And thank you, Chair Whitmore and honorable Board Members. I am
+Fred Worthen, AGM, Bus Operations. Sorry. Staff is recommending for the Board to authorize the General
+Manager and CEO to enter into a contract with Transdev Services for the provision of fixed route services
+as described in your Board packet and by our illustrious Chair Whitmore.
+
+As a bit of background, the current Group 29 contract is in its final option year, which ends on January 11,
+2025. Request for proposals were issued February 5t with proposals due March 18. This contract will be
+for an initial 3-year contract term, commencing January 12, 2025, with two 1-year option years.
+The Group 33 service package consists of 109 buses, operating just shy of 285,000 annual revenue hours
+in 14 different cities and counties. One proposal was received in response to the RFP that was evaluated
+by an internal team, utilizing a value-based scoring system. Based on the overall evaluation of the proposal,
+it was deemed fair and responsive, and the panel recommends awarding the contract to Transdev. RTD
+has a long-standing partnership and working relationship with Transdev, spanning nearly two decades in
+duration. With that, I am happy to answer any questions you may have.
+TROY WHITMORE: Questions for Mr Worthen? Going once. Twice. All right, Director Ruscha, go ahead.
+JOYANN RUSCHA: Thank you, sir. So first, thank you to Staff and Mr Worthen for disseminating a memo
+on this contract last night, giving some additional information on the bidder. I just-- I noted that in the cost
+analysis of privatization versus running these services internally, it sounds like we estimate about a $17
+million savings.
+And without getting-- I don't want to get into it this evening, but given that previous contracts, we've gotten
+a little bit more information as to the justification for privatization, I guess my ask of Staff is if you'd be able
+to maybe follow up with that separately in a memo so that we understand that breakdown. It's a pretty
+significant number.
+And I assume facilities has something to do with it. But I wouldn't want to assume too much. And so I don't
+want to dialogue, Mr. Chair. But I guess if it's OK to ask, I would just ask if Staff could follow up on that
+separately before our Board meeting. But I'll be a yes today. Thank you.
+FRED WORTHEN: If it pleases the Chair, I can actually answer that question at this point.
+TROY WHITMORE: Proceed, Fred.
+FRED WORTHEN: So there are a lot of benefits for contracting. In particular, one of the issues that you
+mentioned is the fact that our contractors either own or lease the facilities that they operate. But other issues
+at play that drive cost are the fact that our contract operations abide by different collective bargaining
+agreements. The privatized CBAs provide more flexibility in many of their rules and their daily operations,
+which result in cost savings.
+The other issue is that contractors do bring innovative ideas to the table. They provide services in many,
+many areas across the country. And they also have lower overhead and cost. So, for example, they only
+have to have one payroll department paying the entire country. And so they have overhead costs that are
+saved.
+
+They do have slightly lower wages and benefits. But they are market competitive. And they maintain staffing
+levels very similar to what our RTD does as well. So there's a whole multitude and variety of issues on why
+they are able to provide services at a lower cost.
+TROY WHITMORE: Thank you very much, Mr Worthen. And I will ask Director Ruscha if she has any follow
+up to that statement. I would guess no, but perhaps. Go ahead.
+JOYANN RUSCHA: Challenge accepted, Mr Chair. No, I just thank you-- gosh, thank you. Thank you for
+that feedback, Mr Worthen. I would just ask that, you know, moving forward, when the administration asks
+the Board for contract authorization, which is like a co-signature, that we could get some of that information
+when it comes before us as a discussion item.
+And then as it relates to service delivery, particularly these contracts, again, we did use to receive basically
+a chart outlining some of those hard numbers. And if we could-- you know, if we could think about-- if we
+could return to that practice, I think it would be-- I think it would be informational-- it would be good for this
+body, but also the public as well.
+And so to that end, I would also just ask, like, because we did receive a memo that is pertinent to an item
+we're going to vote on if it would be permissible just to include in our Board report that memo, which isn't-it's not-- it could be subject to open records. So it's not executive privilege because that, I think, is kind of
+like an addition to the other memo that we have before us that the public could see.
+And so that would just be my ask. I can't force it. But I think it could help in matters moving forward. But
+again, I appreciate Staff providing follow-up information to the questions that I asked. And I'll be a yes today.
+So thank you.
+TROY WHITMORE: All right. Thank you. Thank you for the suggestions. I do not see any other hands
+raised in the queue. All right, so with that, are there any no votes on this matter. I do not see any no votes.
+We have five Directors on the committee-- excuse me, six Directors on the committee present. So the
+motion passes with six aye votes, no no votes, and one absent. All right, thank you very much.
+All right, the second action item tonight is Access on Demand, additional funding for the Board of Directors
+to authorize the General Manager and CEO or her designee to designate additional funding for the Access
+on Demand program in an amount not to exceed $8,600,000, $8.6 million. Is there a motion?
+MARJORIE SLOAN: So moved. Sloan.
+TROY WHITMORE: Thank you, Director Sloan. Do I have a second?
+JULIEN BOUQUET: I'll second it. Bouquet.
+TROY WHITMORE: Thank you, Director Bouquet. We have a motion and a second for this. So again, I will
+ask Fred Worthen, Assistant GM, Bus Ops, and Paul Hamilton, Director of Paratransit Services, to present
+this item for us this evening. The floor is yours again, Fred.
+
+FRED WORTHEN: Good evening, and thank you once again, Chair Whitmore and honorable Committee
+Members. Fred Worthen, Assistant General Manager of Bus Operations. Staff is recommending the Board
+of Directors to authorize the General Manager and CEO, or her designee, to designate additional funding
+for the Access on Demand program in an amount not to exceed $8,600,000.
+Sorry, something in my throat tonight. Access on Demand curb-to-curb service is available for paratransit
+customers who opt in to this premium service. The Access on Demand program provides a $25 subsidy for
+up to 60 one-way rides per month from any one of all four service providers, of which two are taxis and two
+are referred to as TNCs. The current pilot project will exhaust allocated funding for the entire program by
+the end of June 2024.
+At the rate of current growth and expenditure, the Access on Demand program is not sustainable. RTD is
+awaiting the results of the recent APTA Peer Review Commission to provide guidance regarding the
+modification of the existing Access on Demand program. Potential changes to the program stemming from
+the peer review recommendations will help with sustaining Access on Demand services. It's anticipated
+that a draft report will be received summarizing the peer review recommendations late June to early July of
+2024.
+The requested additional funding will provide funding through the end of 2024. This will provide RTD and
+staff time to review recommended peer review program modifications, develop a path forward for any
+potential changes, and provide time necessary to implement any adopted changes. Future funding for the
+Access on Demand program will be allocated through the annual budget process. With that being said, I
+am happy to answer any questions you may have.
+TROY WHITMORE: Thank you, Mr Worthen. Questions from the Committee? Questions from other Board
+Members? Secretary Guzman, the floor is yours.
+MICHAEL GUZMAN: Thank you, Mr Chair. Mr Worthen, given this contract-- or given what you're asking
+for us here, we know that we are under peer review for some other things. But I do have some concerns
+about continuing this type of program without assurances that folks that have disabilities and have service
+animals, specifically, in the TNCs are going to be treated fairly and equally under the expectations of the
+ADA and that we won't run into any problems there.
+There have been more than allegations about the TNC drivers not accepting the fares and picking people
+up who have seeing eye dogs, for example, who are trained to do a specific task for the purpose of the
+person with disability who's trying to use this service. And so I want to know and be assured that if this
+money is allocated, that we're going to do everything we need to in our contracting to ensure that our
+customers are treated fairly, equitably, and justly under the law. Can you please speak to that at all?
+FRED WORTHEN: Mr. Chair?
+TROY WHITMORE: Please proceed, you or Paul, whichever would like.
+
+FRED WORTHEN: I'll be happy to take that question. Thank you for the question, Director Guzman. There
+are many aspects of the paratransit peer review program that are underway. Of course, a large portion of
+that is addressing how we handle both Title VI and ADA complaints and concerns. We are working actively
+to resolve that.
+In fact, we are-- even though we are awaiting recommendations from the peer review, this is something
+that we are already working on at this moment. In fact, there were discussion by portions of our legal team
+and our public outreach team to address the particular issues that you are bringing forth. I recognize the
+issues that you're bringing forth. We are working to address those and have processes in place to prevent
+that.
+TROY WHITMORE: Director Guzman? That's all? OK, thank you, sir. Director Ruscha, you're next in
+queue.
+JOYANN RUSCHA: Thank you, sir. This is too-- this is somewhat of a piggyback on what Director Guzman
+noted. So regarding service animals, do the Staff has a log of how many complaints we've received on that
+issue or any other ADA related complaints? And I just ask because I know that in our customer agreement
+we do direct customers to go to the vendor for any customer service or complaints, whether that's billing or
+the issue that Director Guzman flagged.
+FRED WORTHEN: Thank you for the question, Director Ruscha. I'm assuming I am good for dialogue,
+Director Whitmore.
+TROY WHITMORE: Absolutely
+FRED WORTHEN: Thank you, sir. Thank you for the question, Director Ruscha. We do track the complaints
+and concerns raised by customers. We do get summaries from our TNCs and taxicab vendors themselves.
+We're working on enhancing the information, though, that we're providing as part of the APTA peer review
+process.
+JOYANN RUSCHA: And, Mr. Chair, if I may quickly wrap this up-TROY WHITMORE: Great.
+JOYANN RUSCHA: Thank you, sir. So I appreciate that. And I just-- I assume that data would be released
+to the Board in a report with the peer review or-- either in it or with it. And if not, certainly we can ask for
+that information. But I just wanted to get clarification. Will the peer review be available before or after the
+June board meeting, if you know? And then the final question I had is, right now in our contract, can we
+issue a fine if the vendor is known to violate, you know, either one of our policy terms of agreement or the
+ADA?
+FRED WORTHEN: So with regard to the initial question, I will say that the peer panel all have full-time jobs.
+It is very difficult for me to give an exact date when they will produce a report. They've made a commitment
+to give us a report late June to early July time frame. I won't necessarily be able to say that it will be in time
+
+for the July board, but they have committed that we would receive something in writing somewhere around
+that time frame.
+With regard to liquidated damages, I will profess that I do not memorize all of our contracts. I would have
+to defer to either our legal team or to Paul Hamilton, or if it's acceptable, I could do that as a follow-up to
+this through the normal inquiry processes and disseminate the information to the entire Board, whichever
+way you would prefer.
+JOYANN RUSCHA: If I may, I'm not sure if that was directed at me or the Chair of the Committee.
+FRED WORTHEN: I was-- either or.
+JOYANN RUSCHA: Sorry, I don't mean to take over the chair's hat.
+TROY WHITMORE: It's always good to have a little break when your chair, so, you know, whatever.
+JOYANN RUSCHA: OK, so. No, Thank you, Mr Chair. I really appreciate that. And I guess I was just
+thinking, you know, given that we can issue fines, for example, like in our concessionaire agreement, if
+certain-- you know, if certain conditions happened and we did deem it appropriate. I don't know if it was
+similar for this type of contract, which is also under service delivery.
+And I just-- if I could beg one more, I did have another question that I did try to find prior to this meeting.
+And I wasn't able to get-- I wasn't sure if I had the right information. Would you be able to help us understand
+this increase in funding? Like how much-- or how much did we have in our budget for this, whether it was
+this fiscal year or a term period so that we can get a sense of what the increase is? And then that's my final
+question.
+FRED WORTHEN: Yes. Thank you for the question. I can give you both pieces of those information. With
+regard to the Access on Demand itself, the growth of the program, it has grown exponentially. And I was
+looking for the exact numbers in here, which I believe I have.
+The program started out at roughly $480,000 a month in expenditures, and it has grown to approximately
+$850,000 a month in expenditures. So it has grown well over 100% since the inception last year. The
+original budget was roughly $9.4 or $9.6 million, something like that. I can get you the exact number, but it
+was roughly right around $9.5 million for the entire 3-year program length. And that will be expended-- all
+of that money will have been expended by the end of this month.
+TROY WHITMORE: All right. Thank you very much for your answers, Mr Worthen. Next in queue, Director
+Lewis. Good evening, sir. The floor is yours.
+JAIME LEWIS: Thank you, Director. I, too, look forward to this peer review. If you're not aware, I think a lot
+of people are watching this process around the country to see what we do with this. One of the issues I'm
+hoping is resolved is the reason why we have a two-class system. Our base system customers are paying
+$4.50. People using on demand pay nothing. So it's definitely an issue that's going to have to be addressed.
+
+And the other issue-- and I just went blank-- but yeah, again, I look forward to the peer review. And we
+should answer a lot of questions. Thank you.
+TROY WHITMORE: Thank you, Director Lewis. And from the Eastern time zone, we have Director Harwick.
+You're next.
+IAN HARWICK: If I fall asleep on you all, I'm really sorry. I've been up since 4 o'clock this morning, and I'm
+a little zonked.
+I'm just curious, with this escalating cost, at some point, does it just make sense for us to bring this service
+in-house? I'm guessing the answer is no. But I'm just curious. Should we talk about this? And what's that
+delta, where it says, you know what, we can do this better than Lyft and Uber?
+TROY WHITMORE: Fred go ahead.
+FRED WORTHEN: Well, that is an interesting question. That is an awful lot of resources and a completely
+different model than transit systems typically work on. We do do some level of micro transit in outlying areas
+through our flex services. I don't know that any public transit agency is ready to supplement a TNC itself.
+I will say, though, with regard to the issues like Director Lewis raised, those were issues that were raised
+during the peer review itself. But we're also looking at ways, though, to address I think what you're hitting
+at, Director Harwick, is how do we maintain a program that is sustainable, but yet we contain the cost itself?
+So that we don't have a growth where we just can't afford to run the program anymore and then it falls
+apart. That's why we commissioned the peer review is to try to find ways to make the program more efficient,
+more effective, and to work for those who truly need it.
+TROY WHITMORE: All right. Thank you, Fred. Does that answer your question, Director Harwick? All right.
+Got a thumbs up.
+IAN HARWICK: Thank you.
+TROY WHITMORE: All right, one more bite at the apple. JoyAnn Ruscha, Director.
+JOYANN RUSCHA: Sorry, sir. So I just took a look at the memo, and it was $9.3 million over a 3-year
+period. And that's where I was-- that's what I was struggling to look for. But what I didn't understand is for
+this appropriation, is this for-- like, is this for a 3-year period or is this just for the end of this fiscal year? And
+that I think, is where I got confused as to, you know, we were expected to spend 8.3 million from now until
+what date certain?
+FRED WORTHEN: Thank you for the question, Director Ruscha. And, yes, your understanding is correct.
+With the growth of the program is-- I do have the exact numbers now. I knew that I had them. I'm sorry I
+had to dig for them. The first full month of the pilot, it cost us $407,458. Last month we spent $830,974. So
+we are at the point where we've grown well over 5% a month every month. So the $8.6 million will get us
+through the remainder of the year.
+
+We expect that the peer review will result in efficiencies and cost savings. So it is a little difficult to ask for
+anything beyond the end of the year right now. And that's part of the reason why we would go through the
+normal budget process to ask for funding in the future itself. But the 8.6 million, we believe, will get us
+through the end of the year with the existing growth.
+TROY WHITMORE: All right.
+JOYANN RUSCHA: Thank you.
+TROY WHITMORE: Yep, thank you very much, Fred. I do not see any other hands raised from committee
+members or non-committee Board Members. So with that, I did have a proper motion from Director Sloan,
+second from Director Bouquet. Are there any no votes on this matter? All right, the most motion passes
+with six yes votes, no no votes, and one absent. Thank you very much, Fred, for your presentations.
+All right, next, we move to discussion items. And we have one this evening. Looking forward to this one for
+a while. We have an update from Dr. Joel Fitzgerald, Chief of Police and Emergency Management, to
+present this item. So with that, Dr. Fitzgerald, the floor is yours.
+JOEL FITZGERALD: Thank you, Chair Whitmore. And thank you to the rest of the Board and committee
+members for your attention here. So I'll quickly summarize the written report, then I'll get into the PowerPoint
+presentation.
+The written report that you have starts in 2021, when the General Manager and CEO engaged the American
+Public Transportation Association, or APTA, to conduct a peer review on us, the Regional Transportation
+District and our security model. Pursuant to APTA's subject matter expert recommendations, numerous
+operational and strategic changes were made and will continue to be made in RTD Police Department over
+the next few years.
+In particular, for example, our shift to 24-hour per day operations and the strategic changes that we've
+made, many affecting the first set of numbers you'll see on the sheet, and that's our proactive and moreover
+facilitating positive engagement with the community and forming true partnerships. The second item was
+renewing our focus on crime prevention. Third, ongoing sustainable and intentional phased internal growth
+strategy that we use to staff those positions within the Department. Fourth, an ongoing commitment to
+intelligence-led and evidence-based policing strategies. And the last being expansion in our roles in
+promoting organization wide infrastructure improvements consistent with a word you've heard us use
+CPTED, which is Crime Prevention Through Environmental Design.
+Our framework that we're using overall is community policing. And it's founded in our RTD strategies of
+back to basics, people power, and promoting a welcoming transit environment. And as such, the
+PowerPoint that you'll see in a few minutes provides examples of how we're changing things and how we
+segment our success stories in really four different areas-- that strategic implementation, evidence-based
+policing, the alignment of our strategic priorities, and finally, our performance data outputs.
+
+Lastly, the written document that you have provides examples of how our community policing focus is comingled with promoting a welcoming transit environment, how the success of our staffing plan enhances
+people power, diversity, and our ability to address crimes. While the final section explains how we've
+identified and actively fill the gaps in our CAD RMS software. That really is our ability to capture information
+and regurgitate it and use it to deploy effectively, to become more efficient, and to provide just our staff in
+general and command staff with the ability to analyze and adapt to the dynamic crime trends that we see
+throughout the transit environment.
+So without further ado, we'll move on to the digital presentation. Steve, if you would advance the slide. So
+as I discussed, the back to basics and people power and welcoming transit environment are what we're
+grounded in. Advance the slide, Steve.
+As an operational update, as part of our welcoming transit environment efforts, we've installed 1,028
+cameras, live look-in cameras onto buses and 35 light rail cars. Now, you may say, 35 light rail cars only.
+Well, as light rail cars come in to the shop and are worked on, we are, you know, ensuring that the live lookin videos are installed into those cars.
+What that does is if an operator is in trouble, we're able to immediately, through dispatch as well, look in to
+that actual vehicle and be able to describe what's going on, to see what's going on, and to attend to that
+issue. So we've done that in over 1,000 buses and 35 light rail cars.
+How it relates to people with power, as of May 31, we had 77 POST-certified officers. I had to update that
+for you. So today we have 79 and 9 preparing to go to the Police Academy. So we're doing very-- we have
+9 people that are non-POST certified attending the Police Academy and then an additional 9 entering the
+Academy in July. These are phenomenal numbers. As many of you know, we came from about 12 officers
+or so and are now again at 79, with a wait list of those folks that we're going to put into the Police Academy.
+And for back to basics, our customer engagement and community outreach has expanded greatly, as
+you've seen at places like Union Station, community meetings throughout the transit environment that we
+serve. And almost every sector, we've attended community meetings and been a better steward and better
+part of the community.
+Our deployment methods, you'll see here pursuant to people power, we've expanded, as you know. That's
+helped to create employee buy-in, to give our folks a sense of being a part of a diverse, equitable and
+inclusive environment, giving them opportunities to promote, and enhancing our ability to serve our
+customers. We've been more proactive. And later on in the slide process, you'll see some of those
+proactivity slides.
+But from a back to basics standpoint, we've better leveraged data to inform our decisions. Even though we
+are purchasing a new CAD and our RMS product, which I'll mention in another slide as well, we have been
+able to use really rudimentary methods to get ourselves in the areas where we need to have the most
+amount of coverage. And shift changes has helped us do that.
+
+As part of our welcoming transit environment strategy, as I alluded to, and in all areas of the alignment and
+all sectors, we've deployed resources. A commander oversees each individual, one of our five sectors. And
+they're our primary point of contact for customers, for other municipalities, for business and property
+owners. They actively attend meetings in each one of the areas and, again, help raise our level of access
+and our level of-- just our base, I should say, in those particular areas. Everyone knows that they can reach
+out to our RTD command staff and Commanders to attend those meetings and to become aware of what
+problems those jurisdictions are having in or around RTD facilities.
+Our evidence-based policing model-- Steve, if you'd just-- there you go. Our evidence-based policing, just
+for you that hear it and don't necessarily know what we mean by it, is just really how we make decisions,
+what our judgment is based on. And that's our community input, our community values, and the preferences
+that our communities and customers and stakeholders-- customers are our stakeholders as well as our
+employees, our operators, the people who are front facing in the transient environment every day.
+We use that information that we get from them to focus on how we analyze the crimes and to make smart
+decisions. We train our folks and promote them based upon their skills and abilities to solve criminal type
+problems and social issues. We've introduced the overnight shift in May to support 24-hour policing. Many
+of you may have thought we were already operating on 24 hours a day, 7 days a week basis, and we
+weren't. So we finally got our staffing to the point where we could put out a shift overnight, which has helped
+with certain RTD properties that during the off hours have endured problems and complaints from those
+areas. So we were better able to address those complaints overnight when those types of crimes and
+problems are happening.
+And I'm sure you'll ask, the 6 mental health clinicians and 5 home homeless outreach workers are approved
+in our budget. And we are actively, actively, you know, trying to hire every position in that area. As many of
+you know, RTD was the first transit provider in the country that actually engaged homeless or unhoused
+persons outreach and health clinicians. So in keeping with that, we are trying to fully staff all 11 of those
+positions. Right now, we have 3 of the 11 staffed.
+You've heard me mention CAD and RMS. That's our computer-aided dispatch and our records
+management systems. Those are being upgraded. We have further developed our partnerships with TSA
+and the FBI Joint Terrorism Task Force. Just today, as a matter of fact, I disseminated information from
+task force operations about threats or potential threats in our environment. Those are clearances that we
+had to get for each one of our command staff members to be able to gain information from those task force
+memberships and to be able to disseminate unclassified information and help us to provide a more safe
+transit environment.
+We've gone so far as to verify, arrest, and court order warrants that we can process ourselves now. That
+was not something that was being done prior to the last month and a half. And we've transitioned and
+continue to transition from our, you know, Allied Security to more of a police presence. So that police
+presence comes with the added value of having police officers that are well trained and POST certified and
+acknowledged as POST certified by all of our other stakeholders, the other jurisdictions out there that
+depend on us to be there.
+
+In April, you approved the last bit of our Board-- as a Board, you approved the last contract with Allied. And
+our hope is again to continue to leverage for now our relationship with Allied and to develop this Police
+Department to a point where we are a majority Police Department as opposed to private security. Please
+advance.
+Our strategic priorities and how they align-- I mentioned how it aligns with a welcoming transit environment,
+how we align with the other tenants of back to basics and people power. But we also align with the overall
+guidelines provided by the Board in terms of community value, employee ownership, and customer
+excellence and financial success.
+Community value, in that area, we've upgraded our high definition cameras throughout the alignment. What
+does that mean? It means in certain platforms, stations and facilities, we had older cameras that didn't
+necessarily provide the type of resolution and quality that our new camera systems offer. Those cameras
+have been put in areas strategically, near our vending machines on our platforms, just to ensure that we
+are providing the customer the best possible experience and being able to see and determine if there's
+been aberrant behavior and to determine who is the cause of that behavior. That has led to some great
+arrests by members of not only RTD, but our other law enforcement partners.
+CPTED, as I've talked about, we've worked with public planning. We've worked with other departments
+within RTD to best determine how we provide-- how we, I should say, as a police department, can provide
+our input into ensuring that we're providing the safest possible services and the safest possible environment
+for our customers. You may say, well, what is that? Well, that could range from trimming hedges, lighting.
+It could just be, you know, what our job is as, you know, Board Chair Whitmore would tell you, you know,
+with businesses that are adjacent to us, how can we best help them mitigate the problems that they see
+relating to the transit environment? But also create, you know, an environment where we can not only have
+to be responsive, we can be proactive in assuring that we make it uncomfortable for people to perpetrate
+crimes on RTD property.
+That means we can fix the fence. We can go out, and we can assess, well, how can we best keep people
+off the alignment? Which in turn may stop people from being struck by a train when trespassing. These are
+all things that we take a really good, hard look at and try to change before they become, you know, real
+problems in areas that affect other divisions within our RTD. So we have more of a say and more of a-- we
+provide our opinion in these areas. And the other department heads and members of the leadership team
+have been amenable to listening and integrating some of those ideas.
+Our formally, I should say, are formally named unit where we've had video investigations is becoming more
+of a real-time crime center. They are actively surveilling areas within our system. And those areas are based
+upon the feedback that our Commanders are providing them about problematic situations that can range
+from vandalism by youths to something as grave as maybe a robbery or a pattern of crimes in a certain
+area.
+So we have, in addition to police officers proactively checking those areas, our video, or, you know, our
+real-time crime teams taking a look 24 hours a day at the areas that give us our most problems and being
+
+able to dispatch officers many times prior to a customer engaging us for some problem that they've had.
+The migration of our video management system has been huge.
+Milestone is a move in the right direction away from the systems that we were using in the past that help
+us manage our software products. They will integrate with not only the surveillance cameras-- well, they do
+integrate with the surveillance cameras and provide us analytics. But they will integrate with our new
+computer aided dispatch at the dispatch center and will integrate with our records management systems,
+pulling everything together to give us a more cohesive and really intelligence-led way of looking at problems
+within the system.
+And this year, in fall, we have one commander that-- one command level person that needs one more class
+before we are awarded what's called the FBI-LEEDA Trilogy. The Agency Trilogy Award is a huge, huge
+honor. I'm the president of the National Board for FBI-LEEDA. And there's only a very small amount of
+agencies across the country that have all of the command staff in their respective agencies trained to a
+level that warrants this national award. We're expected to bring that before the Board in the late fall of this
+year, which is a huge, huge undertaking, considering we went from 12 officers to approaching 90. That
+goes to show you that, you know, we've reinvested really in the people that we have working for us that will
+provide service to the transient environment.
+And we're also pursuing accreditation through Colorado Association of Chiefs of Police. That accreditation
+says that we meet or exceed state standards in every category. The holdup for us has just been enlarging
+our evidence area. And we're working on that right now.
+We plan to bring in assessors to determine whether we can be an accredited agency in the state of
+Colorado, which you may say is accredited, well, what do you mean? Well, again, the accreditation is
+something that you apply for. It says you're providing an added value. It says that you're providing above
+and beyond the level that is expected by POST and expected by the state of Colorado.
+As a part of our customer excellence program, what we've done is we've done fare sweeps. Yes, we do
+that. We've especially been vigilant on the light rail network. We've received, through the union and through
+other means, you know, complaints about folks not paying fares on light rail. So as of May 2024, we've
+done 40 train contacts in January through May.
+Those train contacts mean that we've had a group of officers at a couple of different locations randomly
+stopping and checking to make sure that in addition to what we've already done and what we already do
+on a day-to-day basis in targeted areas, we ensure that folks have their fare. We gave out 851 warnings
+for those violations. We've issued citations. We've suspended folks. And we've actually made a couple
+felony arrests of people who were wanted for some pretty serious crimes. So it just goes to show that we're
+trying to bring value to the customer. What we hear from our end is that customers expect us to ensure that
+folks that are using the transit environment and implements of transportation are actually paying customers.
+As part of our employee ownership move, I've mentioned in previous presentations that we are part of the
+national 30x30 Initiative. What that is, is we've made a commitment to increase representation of women
+
+in police recruit classes by 30% by 2030. As of today, we are at 13%, which is huge. In the US, as you see
+here, women make up 12% of all sworn police officers.
+In our agency, as of today, it's 13%. And we're not stopping. We are making every effort to diversify the
+Department and to do it and not lose quality.
+Many people will say efforts to diversify lower standards. We are not lowering our standards for anyone.
+We're doing it the right way. We're outpacing others in our recruiting efforts. And there's a reason why,
+because RTD is being seen as a great place to work.
+As far as our performance-- you can advance one more slide-- security incidents, if you look here, that's
+year to date comparison between 2023 and 2024. You'll see that we're at 197 different incidents reported.
+It's pretty consistent. You would expect to see more incidents reported because there's more of a presence
+out there with police officers.
+But what I'll tell you is that in other ways and in other circumstances that we see in the transient environment,
+the security incidents that are reported now and have been reported over the last couple of years are a
+function of the fact that our customers and our employees have more confidence in us that those incidents
+will be investigated or attended to. What you're seeing is, you know, a 2023 and 2024 number where we
+placed a greater emphasis upon being at least more visible and now more visible and more proactive.
+So at this time, we're, you know, pretty much on pace for the 2023 mark. But I will tell you that the pace has
+really quickened. And we can expect to dwarf the 2023 number.
+Suspensions are up. That's obvious. In 2023, I came to the Board and I spoke of a need to change the
+code of conduct and to be firm, but fair. And we have been.
+Some questions have come up about the suspension numbers being high. And I will tell you that it is a
+result of vigilance on the part of, not only our police officers, but our security. We've made a real effort to
+ensure that-- and as I, you know, asked for the repeat offenders, the folks that are coming into the public
+transit environment and making it unsafe, that those people will be subject to suspension.
+We have done a phenomenal job at ensuring that we address those problematic people in the problematic
+places as they have been identified to us, or we have identified during the course of our evaluation of where
+we need to be. One of the questions that came up was, well, what are we doing in regards to suspension
+appeals? I'll head that off now.
+In 2023, we had 14 total appeals out of the 255 suspensions issued year to date. Out of the 14, we had
+three that were voided by us based on the appeal information. And 11 were denied. In 2024, we had five
+total appeals so far this year, and four of which were overturned, and one was denied.
+So I think that says a lot. That says that when the appeals come through, we actually do take them seriously.
+We do give people their voice. And as a matter of fact, sometimes we agree that, in the cases that we've
+
+looked at, at least, that some suspensions, you know, are things that we would rather not issue and have
+again rescinded. So I think we're being very fair. Move on.
+Our call trends just at Denver Union Station alone, we've been trending down since 2022. And I think that
+all you need to do is take a stroll through Union Station and you'll notice the difference. I know that our
+concentration had been at Union Station at least in 2020 through 2022. And the reason being is I equate it
+to battling a problem. You can't battle problems on several fronts when you don't have the manpower and
+ability to hold your home.
+And what we did was we held our home base at Union Station. And we changed the culture of what's going
+on in the facility to make it an environment that when you walk through, you can at least notice the difference
+and say to yourself, there's a vast difference between what we saw coming from the era of, let's say, COVID
+to today. Our officers have done a yeoman's job of trying to ensure that the conditions in Union Station
+have changed. And I think-- I know for that matter that their efforts have-- to clean up Union Station have
+had resounding effects.
+The vehicle report card program has been very, very fruitful for us. As I've explained to you in the past, we
+go to areas that have experienced break-ins of vehicles, catalytic converter thefts. And our officers
+physically walk through parking lots. They walk through the lots and determine, using this report card,
+whether your vehicle was secured properly-- if you left the purse or a laptop or a cell phone inside your car
+that would entice the criminal to try to break into your vehicle.
+We have about a 95% passing rate. And when we return to the same locations, that passing rate creeps
+up incrementally. Our officers, as of, you know, the end of 2024-- well, I should say year to date in 2024
+this year have done 3,300 checks, which is about on pace for just 1,000 or so more than they did all of last
+year. So they are getting more actively involved in doing these checks and, again, changing culture,
+changing the way we do business in our parking lots and making people take really responsibility for
+ensuring that their vehicles are locked and that their items that would entice the criminal to come steal are
+put away and secured. Moving on.
+The elevator pilot program, that'll be coming to a close. You probably received something from the CEO
+and General Manager saying that a report was pending. But I'm happy to say that in Southmoor and
+Colorado stations, we've seen a huge improvement to the conditions of not only the elevators, but the calls
+that we receive in each one of those places and the amount of primes that we see in those places.
+Nine Mile has still been a struggle for us. That is a battle that we fight every day. But we are nonetheless
+determined to ensure that when folks go to use an elevator in the morning or in the evening when they're
+coming to-- or going to or coming from work that they're not-- the elevators are accessible to them. They're
+not going to be the victims of crime inside of an elevator or have to cramp in with someone who's camping
+inside of an elevator.
+This program has been adopted by LA Metro. They have called us and, you know, asked us about the
+program. And I've been in touch personally with them about the results. And they have changed some of
+their protocols. And other agencies are looking to do the same.
+
+This is part of a CPTED effort. This is just changing something very basic, opening a door and making it
+really not as enticing, right, as it might have been in the past with being able to close a door and ride the
+elevator up and down. It's just a matter of leaving the door open and allowing a person to be able to see
+what's inside before they're surprised in the morning or in the evening when they're coming back to their
+vehicles.
+So we're looking at the calls for service in those areas. We're taking customer comments into consideration.
+And we're providing, you know, Deborah, a report on all of these things. And you should get that, I'm sure,
+within the next month.
+Our calls for service, as you might imagine, or as I described Nine Mile is the challenge, is the biggest
+challenge for us. The other two areas have been absolutely dramatically changed. Colorado Station and
+Southmoor Station have seen tremendous declines. And Nine Mile, again, people are calling people realize
+that our folks now, even our security officers are there at a static post. So folks are making more reports to
+us and in essence giving us the ability to reprogram or redeploy our personnel down there strategically.
+My feeling is that we'll win the battle at Nine Mile. And we'll have a decline in calls for service and crimes.
+It's just going to take a little while longer than Colorado and Sophomore Station-- Southmoor Station, excuse
+me.
+Our White House Overdose Initiative is something that I know the GM and CEO had reported on. We were
+an active participant in the efforts to highlight how Narcan can help reverse situations where folks have
+overdosed. All of our POST certified officers carry it and so do the supervisors for our security complement.
+In each one of our transit hubs, there's Narcan available. And in 2023, we've used it 103 times, at this time,
+year to date, already 64 times. So we're well on pace to use it more than we ever used it, which is sad, but
+it is also a positive thing that we have Narcan available.
+I'll also say that in addition to the Narcan usage and us being a part of this initiative, I'm part of a program.
+And we're doing research now in DC for the fentanyl crisis. And the National Academy of Sciences reached
+out and asked if I would be a part of their initiative and to write a white paper on it. And we are doing that.
+And we are also evaluating our statistics here, not only for Narcan and Narcan usage, but opioid usage in
+general in the Denver metro area and RTD in particular. So that paper is being worked on now. And we
+should be able to produce something within the next four to six months.
+Our Narcan-related calls, you'll see a trend line there. The trend, unfortunately, is elevated. It's elevated
+because of the fact that, you know, more people have access now to fentanyl. And fentanyl is a dangerous,
+dangerous drug. I don't have to tell you that.
+But what I can say is that more folks are using it. And the availability and our ability to use Narcan to reverse
+the effects of a potential overdose is as important as ever for us to have handy. This trend line suggests-not only suggests that, it screams it.
+So I thank you. Hopefully, I didn't run over too long. And I invite any questions.
+
+TROY WHITMORE: Thank you, Chief. Great presentation. Very thorough and wide ranging. I do see that
+we have one committee member in queue. Director Lewis, the floor is yours.
+JAIME LEWIS: Thank you, Chief Fitzgerald. I know a lot of these efforts are long time coming. You've been
+working several years on getting these things done. So congratulations on that.
+I have two questions. One, I'm just curious, what is the contributor to the difficulty of getting the six mental
+health and the five homeless coordinators hired? Do you think it's salary related? Or what do you think
+what's the problem there?
+JOEL FITZGERALD: Well, first, I can-- this may sound like a convenient answer, but this is the truth. Deputy
+Chief Martingano, who's on the line now, is actually meeting with Jeffco and, you know, to discuss whether
+we need to elevate the amount of money that we have, again, to entice people. But these have been open
+positions for quite some time.
+As a matter of fact, one of the people is applying to become a police officer here. So it's not altogether bad.
+But we train our folks in CIT. But with that being said, we do need specialists, more specialists interested
+in these positions. I think salary is part of the issue, but also working conditions, just having them not only
+be-- you know, when you have a choice between being on the street and being in camps of the unhoused
+and being in an office, I mean, some people choose the office.
+We do have-- the folks that we do have in these positions are really dedicated. Like I'll use Alton as an
+example. Everyone knows that name but may not have-- I should have had a picture of him to put into the
+actual presentation. But Alton Reynolds is the go-to guy for even outside of RTD. I mean, Denver uses him.
+All the other counties want to use him to go into these environments. And he's able to make inroads and to
+move them into situations that are better and more healthy for them.
+So we have really dedicated folks in these areas that stand out. However, we're struggling to get the total
+number that we've had budgeted of 11. So I hope that answers your question. It really is difficult. And it's
+due to, in part, what the pay looks like.
+JAIME LEWIS: Thank you, sir. And the second question is our BRT is going to be opening up pretty soon.
+One of the factors is that it's going to be pay before you get on the bus. So the drivers are not going to be
+checking for fares. Also, you know, right now, it's 22,000 riders a day on the 15. And there's a lot of feeling
+that a lot of people don't use it because of safety concerns. I'm just curious what resources you're going to
+be putting toward the BRT so that can be successful and hopefully pave the way for the next BRT, which
+will be on Federal.
+JOEL FITZGERALD: As we grow, my intent is to-- right now, we do at least once a week get some
+undercover guys out to work on-- it depends-- it really will depend on where we're getting the most
+complaints. But between light rail, some on bus, and granted we need to do more on bus, we are getting
+folks out there. And that has led to-- I know for a fact that people, operators in particular have been happy
+to see our folks there.
+
+Again, it's not perfect because we can't be on every bus. We can't be on every implemented transportation.
+But when people know that we're employing some of the undercover resources, they never know whether
+we're on there. So it sort of is a check and balance. As long as we're able to make ourselves known at
+some point, it seems to change some of the behaviors because folks really don't-- again, as I said, don't
+know, you know, whether we have an undercover person on the bus or train or not.
+JAIME LEWIS: Mr. Chair, may have a follow-up question?
+TROY WHITMORE: Proceed.
+JAIME LEWIS: Yeah, I'm just curious, are you using-- will you be using their subcontractor for maybe some
+of that work just to have a presence on the BRT?
+JOEL FITZGERALD: Yes. What we-- you know, one of the things we've looked at is as we move to more
+of a sworn police force, how we best allocate our resources with the security personnel. One of the things
+that we have to do is get more uniform security on buses. But also, and I mentioned this during the time,
+I'm sure that when it was brought to the entire Board, this was mentioned as well, is that we have to ensure
+that our physical facilities are also being protected.
+Right now, we only have armed security or security in general in certain facilities. I'm not going to say which
+because I wouldn't want to say that publicly. But in some facilities, we need our armed security, or our
+unarmed security even, walk around are different locations. So we are really reevaluating the deployment
+of the security guard resources pursuant to how we're growing as a police department. How best can we
+marry it to help the overall environment for our customers and for our employees?
+TROY WHITMORE: All right. Thank you very much. Thank you for the questions-JOEL FITZGERALD: Thank you, sir.
+TROY WHITMORE: --Director Lewis. All right, next in queue, Director Harwick, floor's yours.
+IAN HARWICK: Thank you, Chief Fitzgerald. I had two questions-- or one question, one just comment. And
+I think I asked this last time, and I know luckily I'm glad we don't have a lot of gun violence or even the
+threat of gun violence. But I was just curious, there's a program called Zero Eyes. It's like AI software that
+can look for guns. And I feel like I asked this a while back, but I can't remember. Do we utilize that or have
+we looked into utilizing that just to be ahead of the curve?
+JOEL FITZGERALD: So we do have video analytic resources that can help. I don't know that it can zero in
+per se on a gun. But, you know, it really helps us in so far as if we're looking for lost kids or, you know,
+packages that are left that we have to investigate. So we are able to do some of those video analytics. It
+probably would require us sitting down with you and just explaining the size and scope of what we can do.
+But if you would like that, I could prepare something for you and even give you an idea of what guidelines
+we go by, because we do have stringent guidelines that have to be followed in order to use that.
+
+IAN HARWICK: Yeah, no, I'd really appreciate that. I think it'd be really interesting. And then the other one- OK, go ahead. Sorry.
+JOEL FITZGERALD: No, I was just saying I'll follow up and get you that.
+IAN HARWICK: Great. Thank you. And the other one, the other day, I took the W Line from Wadsworth to
+the Perry Station. And I don't typically take that line. But I was a little-- Wadsworth Station just felt-- didn't
+feel great to me, felt pretty unsafe. And as know, as a white man, you know, that, you know, has seen
+enough stuff, it just was more just to-- I didn't feel great about for the community. And so I just sort of wanted
+to, like, just raise a little flag, like, hey, maybe we could send some guys out there or women out there to
+go out there and just kind of just put another set of eyes on that because, you know, it was 10 o'clock in the
+morning and I just noticed the elevator wasn't working, a lot of disrepair, and just felt, you know, I'm just
+glad the train got there fast.
+JOEL FITZGERALD: I'm disappointed to hear that because since I've got here, my staff will tell you that
+Wadsworth has been the bane of my existence. And I made it my business to, if you notice the area
+adjacent, the walkway, that should be clear every day. I can show you pictures of when I first started where
+there were people camped. And you couldn't walk up that to get to the platform. And that changed.
+So I'm disappointed to hear that no one's called in if repairs are needed and if there were things going on
+in the platform. We have static posts at Sheridan and Wadsworth to ensure that those people are moved.
+So I'm disappointed to hear that and that will change. I have both Deputy Chiefs are on as well, and they've
+heard it. And no doubt, you'll notice a difference.
+It's odd to say that because there are people here too that work within the leadership team and such that
+ride that train and have noticed the changes positively. But if you notice that, I have no doubt that it was
+there. And I'll make sure it's addressed.
+IAN HARWICK: Great. Thank you.
+JOEL FITZGERALD: You're welcome.
+TROY WHITMORE: All right, thank you, Director Harwick. I see Director Bob Broom has his hand raised.
+Go ahead, Director Broom.
+BOB BROOM: Thank you, Chair. I have a question about drug testing. Are the results of drug tests going
+up or going down, or what's happening in that regard?
+JOEL FITZGERALD: Director Broom, you have to forgive me, the drug testing for purposes of work or drug
+testing of folks that are violators, just out of curiosity?
+BOB BROOM: For work, for, you know, our purposes of screening people.
+JOEL FITZGERALD: So I don't have all of that information. I know that drug testing is part of our both FRA
+you know, and our guidelines here at RTD. We just-- as a matter of fact, myself and Deputy Chief Horn
+
+were just in a training yesterday that had to do with noticing folks that may be under the influence of drugs
+and what our core responsibilities are through RTD. So we are trained on that pursuant to federal
+regulations.
+But also, drug testing is random. And my understanding is-- don't quote me on this-- but I think at least half
+of RTD's employees were tested in a given year for drugs. I can't give you the failure rate or the passing
+rate. I know it's-- the passing rate is very, very high. But that does happen, and we are subject to randomized
+drug testing.
+BOB BROOM: Well, the reason I ask you is that we, you know, kind of been told that that's one of the
+biggest impediments of being able to hire bus drivers and train operators. But you seem to have been able
+to staff up, whereas we're, you know, constantly having to cancel trips because we don't have enough
+operators. Thanks for your efforts.
+JOEL FITZGERALD: Thank you, sir. I can only answer from the police standpoint and tell you that we've
+been really vigilant about trying to hire licensed police officers. And part of being a police officer is drug
+testing is part of it. And you can't have-- our backgrounds are a little more intricate than I would say those
+of maybe operators. So that may be part of the difference. But I would defer to Fred or Dave Jensen to tell
+you from a rail operator or bus standpoint, you know, what their testing looks like.
+BOB BROOM: OK, thank you. That covers everything.
+JOEL FITZGERALD: Thank you, sir.
+TROY WHITMORE: Thank you, Director Broom. Board Secretary Michael Guzman, you have the floor.
+MICHAEL GUZMAN: Thank you, Chair. I do have a question. Do we know about what the recidivism rates
+are? Or are we not seeing any for those that have been suspended from service? Are we seeing people
+come back rehabilitated and following the rules? Or are we seeing people come back and get booted again
+for breaking rules? You don't have to answer like with specifics, but just-JOEL FITZGERALD: I can just give you anecdotal evidence. I mean, I listen to the-- if I were not on this
+call, I'd be listening to the radio. Part of what I do when I listen to the radio is I hear when people are being
+run-- run, being we check them by way of dispatch to ascertain whether they've been suspended, whether
+they're wanted. And most of the folks who we're contacting have been either suspended multiple times or
+actually have warrants.
+So there is recidivism and a very high rate of it. I couldn't put a number on it right now for you. And you
+know, anecdotally, I'll tell you again that the reason why we came back to the Board was to ensure that we
+had the power to suspend. And what we're doing is we're not suspending you initially for 365 days. We do
+it as progressive discipline.
+And, you know, we're very conscious of the fact that people need to get from A to B. But we also want to
+make sure that they know that during that ride, we expect them to behave. And certain folks, you know, are
+
+the people we have to keep our eyes on and to know that, you know, they are apt to come back. And we
+have, you know, once they get to a certain point, we make sure that they're trespassed. And, you know,
+legally, especially in Denver, the court system will work with us to ensure that that's enforced.
+MICHAEL GUZMAN: Thank you. That was exactly what I was looking for for an answer. Chair Whitmore, I
+have one more.
+TROY WHITMORE: Go ahead.
+MICHAEL GUZMAN: With regards to slide, I think it's packet page 34, but the 2023 to 2024 numbers with
+the elevator calls, is that a year over year or is that the total of '23 compared to the month, you know that
+we're in right now? You answered the question about Nine Mile that I was going to ask with this. But I'm
+just trying to ascertain if we're halfway through the year and we're looking like we're going to trend lower
+than last year, that's great. But if we're not really looking at year over year or we're looking at a month by
+month comparison, I'm just curious.
+JOEL FITZGERALD: If you could bring that slide back up, Steve-- are you on? Can I-- once that gets up,
+get back to the answer, and then I'd like to look at that number, that slide again. I believe that slide just was
+year to date comparison of those two. But I'd need to see the slide again to be sure. Can I come back to
+that answer as soon as they get the-MICHAEL GUZMAN: Yeah.
+JOEL FITZGERALD: I'm not seeing it. Oh, I see it now. Here we go. OK, so that's all of 2023 versus all of
+2024 year to date. So your 2023 numbers are actually the entire year of 2023, so compared to year to date
+2024, year to date being the end of May of 2024.
+MICHAEL GUZMAN: Great Thank you.
+JOEL FITZGERALD: You're welcome, sir. Sorry I had trouble seeing that slide.
+TROY WHITMORE: All right, thank you very much for the question. Next in queue, I have first Vice Chair
+Peggy Catlin. Floor is yours.
+PEGGY CATLIN: I would gladly yield to committee members before I speak. And I see Director Sloan's
+hand is up.
+TROY WHITMORE: Well, I already wedged Director Broom in there. So I think I've set a precedent. So just
+go right ahead, Director Caitlin, because Director Sloan is quite gracious.
+PEGGY CATLIN: Thank you. Dr. Fitzgerald, we had a Performance Committee meeting on Monday. And
+I'm really pleased to see these data that you've brought forth and showing year-to-year comparisons. And
+in some cases, you're showing the trend lines. But my question, as you analyze these data, are you going
+to be setting some targets for performance against which we can measure these data?
+
+I mean, that's kind of what we're looking for in the Performance Committee. And I think we all recognize
+that a lot of this information, we're establishing a baseline. But I would be really encouraged to have this
+committee work with you or have the Performance Committee work with you to really establish some goals
+and some metrics against which we can measure. So I just wanted to make that comment.
+I think that what you've shown today is a wonderful start. And I think a lot of Board Members have been
+wanting to see data like this on a regular basis. But just taking a next step, just curious what your thoughts
+are might be on setting those targets.
+JOEL FITZGERALD: I thank you for that question, ma'am. It gives me an opportunity to talk about what we
+do here. And we do have a strategic action plan that we use. And we have over-- Steve, correct me if I'm
+wrong-- I want to say over 100 different goals and action items that our command staff are responsible for
+achieving, some of which have percentage decreases in crime, a percentage increases in the amount of
+time that we spend in community meetings and other things.
+So we have it broken down very granularly. And everyone in the Department, from myself down to, you
+know, our civilian employees have access to that plan and know what their roles and responsibilities and
+goals are for their particular sections. So I, you know, to quote you the different, you know, performance
+metrics that we have, I'd be totally off telling you every one now. But for example, one may be decreasing
+crime by, you know, 5% overall in specific areas.
+So we have that kind of granular detail that we use and provide. And that is what my command staff uses
+to determine where they're going to go, how they're going to deploy their-- because I'm expecting them to
+make changes along the way and work together when, you know, we're seeing something tick up. So I'd
+be happy to share some of that with you. So you could see what exactly it is we, you know, with performance
+metrics I do set out there for them to hit.
+PEGGY CATLIN: If I might, Mr Chair.
+TROY WHITMORE: Proceed.
+PEGGY CATLIN: One of the things that the Performance Committee is going to be doing is looking at areas
+where we can take a deeper dive into the agency and performance such as that. So we may ask you to
+give a presentation at some point to the Performance Committee on just those key areas that you're-- in
+your plan that you're working with your staff to achieve this. This is a great example for me moving forward.
+It's what we wanted to see with the Performance Committee. So we're calling it a deeper dive. And we-JOEL FITZGERALD: I just caution you, you know, the one thing is in transitioning from security officers
+primarily, right, you know, mark that we had to police officers, there's, you know, between last year and this
+year, you're going to see changes. And I think once we get to the point where we're predominantly a police
+department, that it'll be a little more consistent. But I'm aggressive. And I do press my folks to be aggressive
+about their goals. And I'm happy to share. So thank you.
+
+PEGGY CATLIN: I understand. That would be great. And as I said, these transitions and-- anyway, I've
+taken up enough time, but this is just a great example of what we're trying to work to achieve with the
+Performance Committee. So thank you very much for a great presentation.
+JOEL FITZGERALD: Thank you, ma'am.
+TROY WHITMORE: Thank you, Director Catlin. Next in line, Committee member Sloan.
+MARJORIE SLOAN: Thank you very much, Chair. And I would just like to say Director Catlin always has
+such a rational approach. I really appreciate it. And I love the idea of connecting safety and security on the
+buses and trains with the Performance Committee, so great concept.
+I am a regular rider of the W Line. And I can confirm by my experience that the trend line is definitely toward
+the safety end of the scale. However, I also know that experience of customers varies by the day, by the
+time. And it's-- you know, Director Ian just said his experience was at 10 o'clock in the morning. They're not
+the times that you would expect that there be problems.
+But in general, customers are noticing a change. We get a lot of emails from people who have noticed that.
+And I try to pass those on. And the same thing about people who have complained or have just heard that
+you don't get on light rail, we need to change that perception. But we're heading in the right way. Not only
+more uniformed guards and officers will help. But more passengers will help the feeling of safety so that
+mainstream people feel comfortable.
+I would like to add, and some of you have seen this, my favorite experience last month on the W Line was
+a group of dressed up high school students going from Golden to prom downtown Denver. Their parents
+made the decision that that was a great idea. It fits with zero fares for youth. And it's just a perfectly
+emblematic proposal of how important transit is, and we can encourage youth and ridership. So thank you,
+chief.
+JOEL FITZGERALD: You just gave me a great idea now. I want to steal to call it Police for Prom and to
+maybe have police officers waiting and cheer for them when they get off on and off the trains. You know,
+that would be a great idea and a great way to link the police department with the community and the
+positives of taking the train. So if we can work with that school or schools to do it, we'd be happy, you know,
+to leverage that.
+MARJORIE SLOAN: And you have a year to do that because proms are over. That's a great idea. Thank
+you.
+JOEL FITZGERALD: It's your idea.
+TROY WHITMORE: All right. Thank you. You can always count on Director Sloan with some great
+anecdotal stories that are apropos. I see Committee Member Lewis is back in queue. The floor is yours, sir.
+
+JAIME LEWIS: Thank you. Just a quick comment. The numbers for Nine Mile between '23 and '24 might
+be skewed a little bit. If you remember, the Nine Mile elevators were down for about five months due to a
+flood and us having to redo the electricity. So you see that there's 24 complaints in 2023. And then all of a
+sudden we're already up to 100 this year. So I just wanted to point that out, that number is going to be
+skewed a little bit because of that downtime in 2023.
+JOEL FITZGERALD: Well, thank you for that. I do know nonetheless, I still feel it's a challenge. It's one
+we're accepting. And we're looking to reverse that trend, even if it's just, you know, due to-- I appreciate the
+life preserver, just put it that way. But we're still working on it.
+TROY WHITMORE: All right. Thank you. Director Broom, I assume your hand's still up from a prior question.
+But if you have another question, go ahead.
+BOB BROOM: Nope. I'm fine. Thank you.
+TROY WHITMORE: All right. Well, tremendous presentation, Chief. And great feedback and questions from
+my colleagues. I appreciate this. Certainly really appreciate the upward trends that really work towards a
+welcoming transit environment. So congrats on that, and keep up the good work. And please share that
+with your Commanders. And I know Steve's hearing that as well. So well done.
+JOEL FITZGERALD: Will do. Thank you all.
+TROY WHITMORE: Thank you very much. Mr. Kroll, I know that we are trying to be respectful of our back
+office staff and those that are working behind the scenes. I know we have probably 15 to 30 minutes of
+programming left. Shall we take a break on behalf of our support staff, or shall we power through? What is
+your opinion on that?
+JACK KROLL: I think generally speaking, we'd want to take a break if the meeting is going to go more than
+two hours. So I leave it to you to determine with your committee members, whether they want to push
+through or not. If you're anticipating going more than the next 30 minutes, then it might be wise. However,
+you've reached the point in the meeting where you have other matters. And I know there's an important
+matter that Director Ruscha would like to bring, and Director Harwick as well.
+TROY WHITMORE: Yes. All right. OK, well, I'm going to take the privilege of being Chair. We're going to
+take a 10-minute pause for the cause so we're OK. The one thing that I will warn, we don't want Ian to fall
+asleep. So get up, do some exercises, because I know you're part of the next presentation, Director Harwick
+So we will reconvene at-- let's just call it 7:15 Mountain Time. Be back in a flash.
+IAN HARWICK: I'll be awake, Troy.
+TROY WHITMORE: For the remainder-- All right. Thank you very much. We're reconvened at 7:15 for the
+remainder of the RTD OSS Committee meeting. Only item left on the agenda is other matters and then
+some announcements from me at the end.
+
+Before I open up the other matters for the rest of the committee members, we do have a special presentation
+tonight presented by Directors Ruscha and Harwick regarding Vision Zero. As you all know, we have had
+a number of conversations going back to our strategic planning in regard to this program. And we have
+several board members that are very committed to presenting that to us tonight and have worked a lot of
+hours to put a presentation together.
+So before we go to the other other matters, if you will, we're going to have the presentation from Directors
+Harwick and Ruscha on Vision Zero. And as Chair, I have granted them 15 minutes for their presentation.
+Obviously, we might have some questions and some dialogue after that presentation. So we will see how
+that goes.
+At this point, I believe that Director Harwick is going to be the beginning presenter. But consider this as a
+co-presentation with Director Ruscha and Director Harwick. So feel free, Director Ruscha, to jump in without
+needing my permission during the 15 minutes to expedite the smoothness of the presentation. So with that,
+director Harwick, the floor is yours.
+IAN HARWICK: Can you see that?
+TROY WHITMORE: Not yet.
+IAN HARWICK: OK.
+TROY WHITMORE: Sometimes it takes a moment or two. Just a reminder for everybody on the meeting to
+please mute your devices. Got a couple that are not. You are beginning to be seen here with Vision Zero,
+Director Harwick.
+IAN HARWICK: OK.
+JOYANN RUSCHA: Director Harwick.
+IAN HARWICK: Yeah.
+JOYANN RUSCHA: We can see your screen, but you're not in presentation mode.
+TROY WHITMORE: Yeah, that would be helpful.
+IAN HARWICK: Working on it, everybody. It's been a second since I presented in Zoom, so-- it's usually a
+Teams thing for me. How about now? Are we good?
+TROY WHITMORE: That's good.
+IAN HARWICK: We're good. Not.
+JOYANN RUSCHA: No. Oh, is that because--
+
+IAN HARWICK: Hmm?
+JOYANN RUSCHA: Are you trying to show in presentation mode and still see your notes?
+IAN HARWICK: Yeah. All right, well-JOYANN RUSCHA: I think when you do that, you have to-- when you-- when you click on share, there's a
+button that says Show a portion of your screen.
+IAN HARWICK: Yeah.
+JOYANN RUSCHA: But like you, it's been a while for me. There might be someone in the Board Office who
+knows how to do this.
+JACK KROLL: I can offer to pull up the presentation on my end. And then if you have notes and-IAN HARWICK: Sure.
+JACK KROLL: --direct me to continue the slide presentation-IAN HARWICK: Yeah, that works. That works for me. That's great.
+TROY WHITMORE: That would be helpful.
+IAN HARWICK: Thank you.
+JACK KROLL: Of course.
+IAN HARWICK: All right. Yes. As Director Whitmore said, JoyAnn and I and Director Guzman and a lot of
+community members have spent quite a bit of time working on this Vision Zero presentation. And JoyAnn
+has done, as our GM says, a yeoman's job, of putting this presentation together. So, Jack, if you want to
+go to the next slide.
+JACK KROLL: Are you able to-- am I in presentation mode here or-JOYANN RUSCHA: No, sir.
+[LAUGHTER]
+IAN HARWICK: OK.
+JACK KROLL: We're going to just do it this way. I'm going to share it first, put it into presentation mode first.
+Then return to the Zoom. There we go.
+
+IAN HARWICK: All right. So tonight's presentation, really just going to give everybody-- I know not everyone
+is as well acquainted with Vision Zero as Director Ruscha and Director Guzman and myself, so because of
+that, we're just going to give you all an overview and still try to keep this pretty succinct and clear.
+So we're just going to go over what Vision Zero is, what the core elements of it and what other communities
+are utilizing it, what our stakeholder engagement looked like, a bit of background around that, the action
+that we're asking for, and then beyond that, just some future consideration. And then giving that if there's
+time permitting, then we'll have comments and questions. Jack, you can skip ahead two slides.
+So for those of you that don't know, Vision Zero was implemented in Sweden in the 1990s. It gained traction
+all across Europe. And for the last several years, hundreds of American communities have adopted this
+framework.
+Vision Zero strategy utilizes the Safe Systems approach endorsed by major transportation organizations
+like the Federal Highway Administration and Institute of transportation Engineers. This approach
+acknowledges that human error is inevitable. So the transportation system itself must be designed to be
+forgiving and prevent fatal or severe crashes, rather than solely trying to prevent all collisions through
+perfecting human behavior, which, as we all know, is impossible ask. Next slide, please.
+And also, just to give you all kind of just a little bit of this, I'm going to be paraphrasing a lot of things. But
+this is a really good just look into Vision Zero. So if you want to take a deeper dive into this, this really can
+open up what it looks like for everyone.
+So Safe Systems Approach requires cultivating a culture within transportation agencies and decision
+makers that prioritizes safety above all else when making investment in capital and planning decisions
+about road design, or in our case, which road designs are out of our ability most of the time, so the systems
+that we're creating for transit. It's applicable in many areas. But this is what it looks like from a transportation
+engineering perspective. And that goes over and a lot of this information is actually just from DOTI, the
+Denver's Office of Transportation and Infrastructure. Next slide. And, JoyAnn, you're up.
+JOYANN RUSCHA: That's me. Thank you. OK, so Vision Zero is also a component of public health policy.
+And if we said, like if 30,000 people were killed each year in the United States by curable illness, then we
+would rightfully call that a public health crisis and respond accordingly. But about 30,000 people every year
+are killed in the United States in traffic crashes. And yet, so many communities have yet to recognize that
+as the public health crisis that it is.
+And what Vision Zero does is it takes, as Director Harwick noted, it takes this concept that we can expect
+a certain level of death in our transportation system and that is OK and flips it on its head and said, no, we
+actually need to move towards zero because no death is ever acceptable. And so the safe system pyramid
+that you're looking at right now was adapted from what public health and health experts know as the health
+impact pyramid. It works the same.
+So areas at the bottom of the pyramid are likely to have the most impact because they're systems-based.
+It is a policy infrastructure procedure or what have you that impacts the greatest amount of people and also
+
+requires the lowest amount of individual compliance. Strategies at the top, so in this chart, it's yellowish
+orange, are strategies that require a lot of individual compliance, interest or attention, and they tend to be
+the least effective.
+So, for example, an individual level strategy, we see education. And that is one example. So educating
+people to look both ways before they cross the track. I have Peoria Station in my background, if you can
+see it. And Peoria station is an example of a potential hotspot in our system.
+But just educating folks to look both ways before you cross a track requires again, a high degree of
+compliance from a single individual. And from a system standpoint, it tends to be the least effective. Now,
+it doesn't mean that we don't teach people to look both ways or that we don't have signage. But from a
+safety perspective, if that is the only strategy, it is not likely to be the most effective strategy.
+Active measures, on this chart, like in the green, would be things like signals, signage, et cetera, like other
+cues warning individuals that a train is approaching. And we do have that signage, although it's not clear if
+that signage meets a specific standard or guideline, or if one exists, or if maybe we need to reevaluate that
+to see if it's meeting best practice. And there are also-- and I'm just using the Peoria Station as one example- and there are areas of Peoria Station like B Line, which is light rail and therefore subject to less stringent
+safety regulations. And those areas when you cross the track are passive. Passive just means that you are
+using your line of sight. You're looking left and right and determining if a train is approaching or if it's going
+to depart.
+Population-level strategy would look at the built environment and ask what could be done to physically
+separate humans from the risk of injury or death. So that could be a literal physical barrier. Or it might be
+technology that prohibits the operator from taking off if someone is in a certain area and the like. But the
+closer you get to the bottom of this pyramid, the more effect-- the more likely that your strategies are going
+to have the most impact. Next slide.
+IAN HARWICK: Some of the partners, actually, pretty much every partner that we work with, major partner
+in the Denver metro area, is working on Vision Zero right now. But to get specific, key agency partners in
+the Denver region, including DRCOG and its member governments, recognize traffic deaths and injuries
+as preventable public health issue that requires a safe systems approach focused on reducing fatalities
+through system design.
+The BIL, the Safe Streets, the Roads For All, or it's also called SS4A, is a discretionary program that has
+$3 billion left in it. And that's available for local governments. So RTD would be eligible.
+Some of the local agencies that have received money, Boulder got the bulk of it. They got $23 million for
+this. But all together, Boulder, Denver, Broomfield, Centennial, parts of Jefferson County, all together
+received $25 million from last year to this year. So this is really an opportunity for us to tap into some good
+money.
+And so here's just why we should do this. Public transit is highlighted as an important tool for achieving
+Vision Zero goals as access to transit can reduce traffic fatalities, while many transit riders begin as
+
+pedestrians. As an independent transit agency, RTD is well positioned to be a national leader on Vision
+Zero. Taking action on Vision Zero and incorporating a Safe Systems Approach across the agency will help
+us achieve goals we've already set. It also enhances the existing strategic plan that can help inform other
+plans, such as the First and Last Mile Plan, and the PAT, ASP, and the TAMP, et cetera. And the First Mile,
+Last Mile plan, yes, please.
+Next slide-- actually, you can jump ahead to slides, Jack. JoyAnn, you're up again.
+JOYANN RUSCHA: All right. So strategic planning and Vision Zero, so all Vision Zero communities follow
+this model. On the left, you'll see-- and it's sort of highlighted in that red dashed box-- the principles and the
+core elements. These things are directly applicable to RTD.
+So under principles, humans make errors. Humans are vulnerable to energy-- injury, excuse me.
+Responsibility is shared. No death or serious injury is acceptable. And then we focus on the proactive
+versus the reactive. So that directly applies to what we do here.
+The core elements, which we'll touch on in a minute, require an economic analysis, priorities and planning,
+monitoring and evaluation, so those KPIs, comprehensive governance and management, which again is
+related to those KPIs-- someone has to be in charge-- setting those targets and looking at your data. The
+core elements that a local jurisdiction would use-- and when I say local jurisdiction, I'm talking about a
+jurisdiction that's responsible for their streets and roads-- are the same core elements and the same core
+principles that we would use here at RTD.
+On the action areas, there are some areas that look the same. But for a transit agency, a lot of it is going
+to look different. You know, how do we actually put that into action?
+And one of the things our group did when we started was to sit down, because we were all very familiar
+with Vision Zero and our communities' respective Vision Zero plans, was to say, you know, well, number
+one, why isn't transit, like transit agencies, why aren't transit agencies part of Vision Zero? Because we
+think they should be. You know, transit agencies operate, whether it be a right of way or bus stop placement
+or our buses on the roads, you know, they operate in and around transportation infrastructure.
+And then we asked ourselves, well, if we were to, you know, theoretically move forward with Vision Zero
+and the agency created a plan, would there be actionable items? And that was the bulk of our exercise that
+we did over 10 weeks. And it turns out the answer was yes.
+So we'll get to that towards the end. But I do want to just stop real quickly and ask if anybody has just a
+clarifying question over what we've covered, you know, on the content or the concepts themselves before
+we move along. I don't see any hands. So I think we can go ahead and proceed to the next slide.
+IAN HARWICK: Yeah, so to make this successful, what really is needed is, you know, you can look at the
+sheet, but it's we need to have-- we need to have a leadership commitment. We need to have equity focused
+planning. We need to have proactive risk analysis. We need to have responsive planning, based on high
+crash areas. And we need program evaluation.
+
+And each of these elements is described here and on the next two slides as well. But, I mean, this really
+comes down to we need buy-in at all levels of RTD, you know, from the Board to the staff to management.
+And we need to make sure that when we're going out, we're doing this work, we're doing it authentic, we're
+doing it equity based, we're really being mindful of, you know, the communities that we're working with.
+Jack, you can jump to the next slide.
+And all I can say is I just absolutely love Complete Streets. I love the idea of being able to create a street
+that is safe for all people to be able to walk, to bike, to roll, and to drive a car. So, yeah, I just love the idea.
+So, yeah, next slide.
+And then recognizing that people of color and low income communities are more likely than not to represent
+crash victims. Core elements also focus on equity. Like any strategic plan, Vision Zero requires proactive,
+systematic planning as well as responsive hotspot planning. As it relates to passenger rail, an agency might
+take proactive, data-driven mitigating measures to address the risk of serious death or injury at an accurate
+intersections, or to make working conditions safer for track workers. In this current paradigm, trespassers
+are actually vulnerable road users.
+Next slide we're going to head into stakeholder engagement. And we're just going to really quickly go over
+what that looked like. So you can jump one more slide as well, Jack. Thank you.
+So starting in late last year, we met with over three dozen stakeholders, roughly-- I thought it was closer to
+40. But yeah, 36 is pretty close-- representing various perspectives. And they participated in a series of
+nine meetings, totaling 60 hours between October 2023 and January of this year to draft the preliminary
+Vision Zero recommendations for RTD to consider. And then sort of once we figure out where we're going,
+you know, we plan to do additional engagement upcoming. Next slide, please.
+JOYANN RUSCHA: And if I may, Director Harwick.
+IAN HARWICK: Please.
+JOYANN RUSCHA: Yea. Oh, I also just wanted to note that RTD staff was apprised of our efforts. We did
+have some staff members present in our meetings. And we did meet with GM CEO Ms. Johnson
+intermittently. And we also, Director Harwick and I, also met with her in February to give her like the full set
+of preliminary community-based recommendations. And those are the same documents that you received
+via email.
+And if you look at the link that you see repeatedly on the slide, just in case you can't find it or you forgot it,
+that's the public facing link. And it contains those documents, as well as additional information on this topic.
+We also sourced, in addition to doing some of our own research and looking at existing data that we had,
+we also got subject matter expertise from area planners, such as folks from DRCOG and DOTI, who
+provided, you know, some neutral, you know, fact-based feedback. And that was very helpful to us. Sorry.
+Carry on, Director Harwick.
+
+IAN HARWICK: Thank you. And so in regard to the summary of principles, some of the key guiding
+principles that emerged were the RTD Board and Executive Leadership are ultimately responsible for
+setting and achieving safety goals related to RTD operations and infrastructure. Vision Zero must be
+incorporated into strategic planning and budgeting process. And a systems approach should be taken rather
+than defaulting to blaming human error.
+It does not include what-- is this? This joint labor-- what was that, JoyAnn? Joint labor-JOYANN RUSCHA: It doesn't exclude-- it doesn't exclude the JM-- now, you had me-- the Joint Labor
+Management Safety Committee. It doesn't exclude their participation or override them. And I just thought
+that because we do have safety goals in our P tasks, and they do have a special position in the agency,
+that it was important to know that.
+IAN HARWICK: Thank you. That's so a tongue twister. Next slide, please.
+The stakeholder recommendations were divided into two main tracks. One focused on pedestrian
+accessibility, dignity, and multimodal infrastructure needs, and the other on rail and bus operation safety
+issues RTD can directly control. In addition to reviewing research and doing some of our own. DRCOG and
+DOTI graciously, as JoyAnn said, DRCOG and DOTI graciously provided neutral subject matter, expertise
+and resources. And as JoyAnn said, and thank you, Stuart Summers, and his team for jumping in and
+helping us out. Next slide.
+This slide and the following slide lay out the guidelines the stakeholders followed when drafting the
+recommendations, such as ensuring they meaningfully connect to Vision Zero principles, utilizing an
+intersectional equity lens, providing actionable solutions within RTD's capabilities as a system designer,
+validating RTD's role in pedestrian safety, and fostering an innovative safety culture.
+JOYANN RUSCHA: Next-- sorry, next slide.
+IAN HARWICK: Yep. And a core component-- and then a core component of our drafting guidelines is
+asking the question, can RTD do anything about this? Is this actionable? And it has to be equitable. And if
+we do it right, this unlocks federal dollars for us to move forward in a really substantial manner, as was
+referenced earlier. But that's not the only grant that we could tap into. And now, next slide, please.
+And so the big ask here is we want RTD to adopt Vision Zero. That's the big one. More specifically, we'd
+like leadership to make a public commitment to Vision Zero with an equity focus, defining roles and metrics
+for accountability, incorporating Vision Zero into strategic plans, budgets, and ensuring regular transparent
+communication and collaboration with continuous meaningful community engagement. Vision Zero requires
+public commitment and transparency, communicate, collaborate, and have KPIs.
+And as an FYI, agencies recognized by the Vision Zero network as a Vision Zero community include
+Boulder, Denver and DRCOG, which JoyAnn informed me was the only MPO in the country that has that
+designation. And by jumping into this, we can ensure that we can meet the benchmark within a year time
+frame, which would be just outstanding. Next slide, please.
+
+And then moving forward beyond this, these are not immediate board actions, but just something to keep
+in mind. Internal safety culture should be part of a strategic plan that is discussed more thoroughly with
+staff, including frontline staff and our partners at ATU. This doesn't take the place of the JLMSC. And a
+Safe Systems Approach should inform existing safety plans and help us meet those goals. Next slide.
+And again, there's a lot of recommendations that came out of this group. I mean, you put nearly 40 people
+together, they're going to come up with nearly 40, 40 plus ideas. So the report submitted RTD-- that was
+submitted to you all contains 40 specific recommended actions across different areas that RTD could take
+to advance its adoption of the Vision Zero approach. This report can provide a real head start through
+community engagement. And it's necessary to really give us, again, that place to start, but the building
+blocks of work from as we move forward.
+So I think we-- oh, that's misspelled.
+JOYANN RUSCHA: Sorry.
+IAN HARWICK: That's all right. I think we can-- I think we can jump here to questions in a-- you know, for
+time. But again, like if anybody wants to dig into these various things, there's a lot of other information, a
+few more slides that get added to that. But I think we really covered the bulk of it and laid out what we're
+looking for.
+JOYANN RUSCHA: So if I may, Director Harwick. So-IAN HARWICK: Yeah, please.
+JOYANN RUSCHA: Yeah. We also-- we're also trying-- [DOG BARKING] apologize, my dog, if you can
+hear in the background. So we're trying to work within the 15 minute time frame that was set for us to give
+a presentation. I'm not sure where we are at time. Maybe Mr. Kroll you can advise us.
+We sped through a little bit quickly. But all of the information I think that would be needed to answer any
+questions, we certainly have it on hand. So if folks have any questions or concerns, we'd really like to hear
+them now, so that we can address it now if possible. Or if not, if you would just like to hear more about
+some examples that the group came up with, we're happy to highlight just a few of them.
+And again, just because we pulled some recommendations out of a packet doesn't mean that, you know,
+one is more important than the other. They were just items that seem to come up a lot. And so we put them
+in the slides. So if we could do, like, a temperature check of the body. Mr. Chair, I'm sorry if I'm, like,
+overstepping, but I can't see who might be raising their hand or awake on their screen.
+TROY WHITMORE: Well, a couple of thoughts. We are past our about 20 minutes on your presentation.
+But I-- you know, there's a tremendous amount of work here, and I don't want to cut things too short here.
+From what I understand, this is kind of a launch of the idea. We would probably need to come back for a
+formal discussion, either under discussion items. And then hopefully, to your point, that there's some action
+that would be taken in the next however much time it takes, and so on and so forth.
+
+And at the risk of just delaying the adjournment of the meeting, I think it would be important before I call on
+Director Lewis or Director Bouquet, if you can quickly, just as you mentioned, Director Ruscha, give us just
+two or three or four of the examples that the group came up with just for us to mull over and do that quickly.
+And then we'll get to some questions from the committee members, if you would, please. Thank you.
+JOYANN RUSCHA: Thank you, sir. My dog is barking because the Amazon driver is at my door, so I'm
+going to pass-- I'm going to pass the buck to Director Harwick. So we don't get interrupted.
+TROY WHITMORE: Go ahead, Director Harwick.
+IAN HARWICK: Yeah, SO really quickly, off of rail safety, address the conflicts at intersections between
+light rail trains and turning vehicles. This is going to, one, tie in to us, but it's also going to, you know, really- we're going to need to work with DOTI on that one, you know, at least well, really all transportation
+agencies, but, you know, they're the big one.
+And then implement safety countermeasures for pedestrian in the right of way. You know, like at Arvada,
+we have the mini gate arms, flashing lights, pavement markings, et cetera. Something, as you all know, for
+me, I love technology. So being able to invest in smarter technology, something that's really interesting is,
+is LiDAR. It's like-- I can't remember what it stands for, but it's like light radar, and they're able to-- even in
+the dark, they're able to see where humans are. And so this could help in a variety of things on our trains,
+in our buses.
+And then I even like what we discussed with Chief Fitzgerald earlier tonight, so being able to look at this
+and how do we work this into our system. Next slide, Jack.
+And then also, I know Stuart's working on a lot of these things, but like, you know, working on signage,
+information, again, making sure that we're ADA compliant in everything, and then creating, you know, SOPs
+that really are more equitably accessible for all.
+And this isn't on the slide, but, you know, like something I would love to see us do is also to hire a Vision
+Zero manager. And while that can't necessarily be a fast thing. But I think something like that would be able
+to take all of these various ideas and be able to spearhead that into the future. So-TROY WHITMORE: OK. Now, I appreciate those examples. And at this point in time, I'm going to call on a
+couple of committee members that are in queue. Director Lewis, the floor is yours.
+JAIME LEWIS: Thank you, Mr Chair. Yeah, I want to thank you guys for presenting this. I know I attended
+some of your meetings. And they were pretty fruitful.
+There was one section in your presentation where it kind of listed those Vision Zero cities, especially those
+that got funded. And again, you know, to budget for a Vision Zero director might take a little while. So I'm
+hoping your group continues and maybe meets specifically with those Vision Zero groups to identify some
+low hanging fruit and kind get the ball rolling. I totally support this.
+
+But I wouldn't wait to get a director to do anything. I would definitely follow up with those Vision Zero leaders
+in Boulder and Westminster. And let's see if we can get some low hanging fruit accomplished. Thank you.
+TROY WHITMORE: Thank you. Good comments, Director Lewis. Committee Vice Chair, OK.
+JULIEN BOUQUET: Thank you, Chair Whitmore. And thank you, Director Ruscha and Director Harwick for
+the presentation and your guys' work that you've been doing for the last, what, since end of last year. So I
+know the extraordinary amount of work that you guys have put into this. So I just wanted to say thank you
+for that.
+And then going to the point of what do we deem-- in your guys' vision, what do we deem as your timeline?
+And what are potentially, like Director Lewis said, those low hanging fruits? What do we look at as ultimately
+success?
+You know, is it ultimately implementing, you know, the Vision Zero throughout the district? Or are there
+specific spots where we can actually look into it and say, hey, here's the, not baby steps, but here's the
+steps that are going forward to it? So just from your guys' perspective or any others who are involved, I
+would love to hear, what does success look like for you with Vision Zero and RTD?
+JOYANN RUSCHA: I'm happy to take that question. And if possible, if staff or Director Harwick could pull
+up slide, I think, it's 20 again. But to your question, you know, what are those benchmarks or what do we
+see success? I mean, the first is that RTD would have to commit to Vision Zero. That is like step one and
+set a goal. And it has to be a public commitment. You know, the Board would pass a resolution. We would
+be unified with our GM CEO.
+And then step 2 is the creation of that plan. For us, we feel like a benchmark on the commitment front and
+the planning would be to at some point either hire a director or designate someone to coordinate. And if
+that means in the very beginning, you know, in the creation of our plan, we end up leaning on consultants
+for community engagement and to just help us draft a holistic plan, that is OK. But we did identify that as a
+benchmark.
+And that is also like a necessary component of being a Vision Zero community. You have to say it out loud.
+And you have to make that commitment. It has to be very public.
+It also requires agency collaboration. So that means we would actively be partnering with DRCOG, local
+municipalities, CDOT, et cetera, to ensure that we are an active player in their Vision Zero plans, right. But
+we are also-- because a lot of this will involve joint jurisdiction, we're also working collaboratively, ensuring
+that those agencies are partners with us.
+Sometimes it is a matter of like jurisdiction, who owns what? And often there is a funding question. But
+there are-- we just listed two-- there are multiple opportunities and funding opportunities that do, but it does
+require that inter-agency or joint jurisdictional cooperation to be most successful. So that's another
+benchmark that we identified.
+
+But really, you know, Vision Zero like starts with that public commitment and that plan. What we did as a
+group does not replace community engagement that we would have to do as an agency. You know, you
+can kind of say we gave RTD a running head start, you know, because we did the exercise of what would
+Vision Zero look like at a transit agency. But RTD would have to scope its own plan.
+And that's really what we're asking is for RTD to pass the policy and to initiate that action to get that plan
+going following the Vision Zero model that we've sent you some stuff. And if you go back to the presentation,
+there are a few more details. But for time, we did move forward. But it would have to follow that model,
+which is pretty time tested, universal recognized. And also, like this is Safe Systems Approach is endorsed
+by USDOT. And so that's kind of what we see as wins.
+And then because this requires ongoing communication, collaboration and KPIs, I sort of took Director
+Tisdale's saying and modified it a little bit that it continuous engagement, just like with any other strategic
+plan, and that monitoring would be other benchmarks of success. But those benchmarks, those more
+specific things would come out of that engagement and planning process.
+So I hope I answered that question. Our big ask is like, let's get this thing started. And then what those
+goals look like and how we are going to reach them, that's part of the planning, the Vision Zero planning
+process that the agency would do with the Board and with community and with agency partners.
+JULIEN BOUQUET: Have you-- may I dialogue?
+TROY WHITMORE: Go right ahead, sir.
+JULIEN BOUQUET: Perfect. Thank you. Commitment regarding a date when it comes down to RTD makes
+a public commitment to Vision Zero, have you have any of you discussed what is your guys' goal? You
+know, this has been your guys' project for, you know, how many months. Is it, hey, we're going to make this
+public commitment before 2024? You know, or what-- OK. Yeah.
+JOYANN RUSCHA: Yes.
+JULIEN BOUQUET: OK, perfect.
+JOYANN RUSCHA: Yeah so ideally, we'd like to see-- we'd like to-- one thing, we kind of skimmed over
+the next step. So for us, next steps are, you know, we're going to take the report we gave to the Board. We
+have a community survey that will be translated into Spanish as well. We will work through our network and
+RNOs and local partners before we issue like a final report, just to make sure that we didn't miss anything.
+And I guess recognizing this is a pretty big step, you know, coming from Directors, we wanted to make sure
+that we demonstrated that we did the work. That also includes, you know, dialoguing with our advisory
+committees, some individual members who participate, and our CAC in a more official way. And, yeah, for
+us, we would love to see the Board pass a Vision Zero commitment in July, ideally July. We do break in
+August. So if it has to be September, so be it.
+
+But again, the expectation-- and it would be inappropriate to even try-- the expectation is not that we have
+figured out A to Z. It is that we have said, as a body, this is a policy. And, you know, these are-- and we
+want to join the Vision Zero network or the Vision Zero communities and help local communities realize
+their plans, as well as foster the strongest safety culture possible within a transit agency, so public
+commitment piece.
+JULIEN BOUQUET: Perfect. Well, obviously, this isn't a voting matter. This is an other matters matter. But
+I am in full support of the work that you guys have done. And I think it would be a good action moving
+forward for this agency. So again, Director Ruscha, Director Harwick, and Director Guzman, I also want to
+say thank you to all of you guys for the work you've done and then for the staff members that have helped
+out. So thank you all.
+TROY WHITMORE: All right. Thank you, Mr. Vice Chair. Our screen's returning to the Brady Bunch style,
+so that helps to see folks in queue. Committee Member Marjorie Sloan, floor is yours.
+MARJORIE SLOAN: Great. Thank you, everyone, who had the imagination to see how Vision Zero meshes
+with transit goals. You know, that was very creative and very good. You've put a lot of energy and work into
+it. And your current presentation explained the connection between Vision Zero communities and transit
+agencies.
+That said-- I too am all for it. You have carved out an enormous task. And I, too, would like to see a
+breakdown of next steps, including how to network with the Vision Zero folks and our DRCOG and APTA,
+and all our neighboring communities. And I hope you will put the same creativity that you've shown us
+tonight into sketching out some next steps so the Board can kind of get its arms around such a major
+initiative. But thank you for all your work.
+TROY WHITMORE: Thank you, Director Sloan. Director Guzman, I neglected to call you out for your work
+with these other two presenters tonight, so my apologies for that. Your hand is up, and the floor is yours.
+MICHAEL GUZMAN: No apologies necessary. I wanted to speak to two things. One, I do believe as a
+member of this Board and just sleeping on top of our strategic plan, that this does meet all of our strategic
+priorities in one way or another. That said, next steps do require a lot of thoughtful work, both on our side
+and from the agency side.
+And as our fearless leader, Madam GM CEO Johnson is want to say, we need to manage expectations on
+how we will move forward. But that requires the collaboration between the governing body to set the policy
+and the agency to find the work. But if you look at our strategic priorities, this does nail every single one of
+them right through the middle and meets our mission to connect lives, saving lives, protecting lives, and
+serving lives, in all manners of our mission and values as an agency.
+As a Director who works with the RTC at DRCOG, the Regional Transportation Council, I want to make
+sure that I do refer you if you have questions, they have a wonderful set of maps for the urban and suburban
+areas in the Regional Transportation District where Vision Zero is key to everything that's going on in terms
+
+of accidents, both fatalities and non-fatality accidents. And many of the highlighted areas of those maps,
+the hotspots, really are where our most frequent bus lines run.
+And the reason I bring that up to all of you for your consideration is that by committing to this, we are
+committing to our neighborhoods and our sub-districts that we are willing partners to help reduce the
+number of fatalities on our streets and roads for both pedestrians and people accessing public
+transportation. Why is that important? Because more than 51% of the urban fatalities typically are people
+who are from lower economic situations or in the minority community, one way or the other. There's a whole
+description of that on the DRCOG website. There's not time to go into it now.
+But I do believe that this is the best way to serve our community going forward, which is why I supported
+this work. And hopefully, we can continue to the next best steps with everybody. But that said, if you think
+of questions or concerns, please, please reach out to one of the three of us.
+I know there's a lot of information in the emails that you were sent. And that Google Drive folder with the
+public facing documents does have quite a bit of the conversation that we had. So it is really wonderful if
+you have some time to rabbit hole down there and find out what's going on and what we've been working
+on. Without taking any more time, I just wanted to say thank you for your consideration of the matter. And
+we are open to feedback. Thanks.
+TROY WHITMORE: All right. I do appreciate that. And we are approaching 8 o'clock. So I think I'm going
+to wrap up this section. My compliments to our co-presenters and, you know, your great effort on a launch.
+We've got decisions to make and work to do. And let's move forward and see what we can get done this
+fall, if at all possible. So with that, thank you again for your presentation.
+Let's move to other other matters. Any items of input from members of the committee that they would like
+to share? Director Lewis.
+JAIME LEWIS: Yes, I have a written statement that I want to read. I know this wasn't on the agenda tonight.
+But I do have to say something about the South Line.
+Customers of RTD have been more than patient with us concerning our summer construction projects.
+They respond well to thoughtful repair projects and will adapt to those changes. However, when we keep
+changing the goalpost, that has to be hyper frustrating.
+Trains that run 10 miles per hour is not considered transportation in my opinion. My wheelchair operates at
+7 miles per hour, to put that in perspective. I think we need to shut down the South Line. We need to do the
+inspections, fix the identified problems, and speed up the repairs to the caps.
+And meanwhile, we should provide transportation from the Broadway Station, using buses, utilizing I-25
+and other routes that are parallel to the South Line to get people to their preferred stop. I'm just pretty
+baffled right now at staff's lack of creativity, lack of contingency plan, and lack of respect for riders. And I
+just find this unacceptable. Thank you.
+
+TROY WHITMORE: Thank you, Director Lewis. Other comments? Other inputs? Director Ruschia.
+JOYANN RUSCHA: Thank you, sir. I also, if staff is present, I did have a question regarding the Bustang
+availability. And I cannot see who is in the queue-- or who is present. But if staff is able to answer, I did
+note that on the Bustang's website, it said that the stations that we identified going northbound would be
+drop-off points only, which would indicate that someone, say at Colorado, couldn't take a bus staying up to
+Denver Union Station. And I was wondering if someone could address that. I don't know if it's a
+miscommunication or if what I read is true.
+TROY WHITMORE: So Mr. Jensen or Mr. Worthen, do you have input on that or others. I see Stuart came
+on camera. Perhaps he's got some wisdom to share with us.
+STUART SUMMERS: I can probably address that, if I may, Mr Chair.
+TROY WHITMORE: Please do.
+STUART SUMMERS: Yeah, so Bustang's still working on updating their web page. As of yesterday evening,
+I know they were still working on that. So I imagine that's just an update they haven't pushed through yet.
+TROY WHITMORE: Good. We hope so.
+STUART SUMMERS: The information on-- the information on our web page is accurate.
+JOYANN RUSCHA: OK, thank you. And then I had a follow-up to that. I also noted-- we noted that Bustang
+wouldn't be able to take transfers, and they would wait for a passenger to go to a TVM and purchase a
+ticket or use their phone. And so are we saying that if an individual were to use Bustang and they needed
+a transfer, they'd have to pay twice? That was something that I didn't understand with our agency
+communications and would like to get some clarification on how that works, or if a customer would have to
+pay twice.
+STUART SUMMERS: Let me follow up on that question. That's something I haven't seen in our talking
+points or in the conversations we've had with Bustang. So let me follow up on that.
+JOYANN RUSCHA: Thank you.
+TROY WHITMORE: OK, very good. Thank you for jumping in there, Mr Summers. Any other items? OK, I
+see VP Dave Jensen. Go ahead, Dave.
+DAVE JENSEN: Yeah, Mr. Chair, if I may, I think I can provide a quick update on where we are with the
+slow zones. If-- OK, so I think-- initially, what I'd like to do really is commend our staff. What I would like to
+acknowledge is that they were out doing inspections. They did find some issues. And they did take action.
+Where a problem would exist is if we were not conducting inspections, if we didn't find problems, and if we
+were not taking actions. And so in that regard, I'm pleased with what they did.
+
+One of the things that we've-- I would encourage, actually maybe to take a step back, is to visit the website,
+which I think is very well done, has lots of information, and will provide a lot of answers to the questions
+that are being asked. So I don't know that I need to get too far into that. What I will explain, though, in terms
+of the inspection process that was adopted in May and how we've enhanced it.
+So right now, today, we-- our track department is riding the entire system twice a week and walking the
+entire system once every 90 days. And so that's the equivalent-- the way that gets enhanced, it's the
+equivalent of driving your car through your neighborhood or walking through your neighborhood and the
+observations that you would make at that pace. In addition, the documentation and the level of that
+documentation, the depth of that information, will help make decisions for us long term. This falls right in
+line with back to basics and getting our state of good repair back in place.
+And so that's what's going on. That's the course of action that we're taking. And I'll speak specifically maybe
+briefly on some of the defects.
+First of all, I think what everybody should know and everybody wants to know is whether or not we're safe.
+And the answer to that is we absolutely are. So when we're doing evaluations, we'll look at the substructure,
+which is the rock bed. There are no defects in that.
+We will look at the railroad ties. We will look at the fasteners. We'll look at the rail. We'll look at the gauge,
+which is the way the rail lays. We're looking in detail at every component and every element of the track
+area.
+And in comparison to what was being done, where we might have had a couple of hundred data points, we
+now are documenting thousands of data points, which will help us with our long-term vision of getting into
+a state of good repair, knowing what the condition of our infrastructure is, and then developing long-term
+plans. So we have found some areas where the ballast, which is the rock, needs to be adjusted. There's
+been a couple of minor areas where we can do some minor repairs.
+But if you visit the website, what you'll see is what we're referring to are rail burns. And they're little marks
+on the top of the rail. We've committed to following the APTA guidelines. And the APTA guidelines
+addresses those wheel burns and requires a 10 mile an hour restriction when they reach a certain size.
+And what's happened and what we're doing is we're monitoring that. And we're watching it, trying to mitigate
+it to the extent that we can. But when they reach a certain point, we're compelled to slow the trains down.
+The thought process behind that is that right now, everything is structurally fine. But absent any kind of
+intervention, those spots in the rail will turn into cracks. And those cracks will turn into breaks. And that's
+what we're doing is we're taking a proactive approach, as opposed to a reactive approach, in the way that
+we're managing the railroad.
+So we're aware of those. Our team is developing an action plan for resolving these issues. We believe at
+this point, we can resolve all of this in-house. It will take some time. And we are attacking it from what's the
+most efficient way and use of our time to be able to resolve some of these.
+
+I would also add of interest, in a general sense, the impact to the system in terms of operations is right now
+the trains, if you remove the coping panel project and the downtown project, they're sustaining about a 15
+to 20 minute delay. We've built in already layover time in advance of this so that the train sustaining that
+delay should be able to get out of the terminals on time. So we're as reliable as we can be under this
+circumstance.
+And so what we're doing is we're identifying where these problems are. We're taking appropriate action.
+We're following the guidelines that we committed to doing. And we're doing the best we can for our
+customers. And again, I would-- I know that there's hands up and want to answer questions if I can. But,
+again, there's a lot of information on the website that I think would be helpful. And I'm happy to answer
+questions.
+TROY WHITMORE: Thank you. Thank you, Mr Jensen. I appreciate the summary. I see two hands up.
+First Director Lewis and then Director Ruschia. Director Lewis, go ahead.
+JAIME LEWIS: Thank you. May I dialogue with Mr. Jensen.
+TROY WHITMORE: Briefly. Yes.
+JAIME LEWIS: OK, briefly. Well, first of all, there's nothing in my statement that questioned the safety issue.
+My problem is that we are not reacting to the needs of the riders. In your website, there is no end date. This
+could go on for a very long time, considering what these conditions that you're going to find.
+So I am still baffled the fact that we haven't even considered adding buses to get people to the destinations.
+It's a simple math. If you're going 10 miles an hour and you've got 20 miles, you're talking two hours. So
+I'm just baffled right now that we're not thinking outside a bigger scope here.
+You know, if you were to give me a certain date that you could get this fixed by, which I know you cannot,
+I would understand. But now that we have this open date that we'll get back to normal when we get all these
+things fixed, I'm very frustrated with that. And I'll just leave it at that. I know this wasn't on the agenda for
+tonight. But I am very frustrated with it. And I'm getting a lot of calls considering this issue.
+TROY WHITMORE: Mr Jensen, do you have any response?
+DAVE JENSEN: I think my response is thank you very much for your comments. We appreciate very much
+your concern for our customers. We share that concern. And it is our desire to rectify the situation as fast
+as we can. And what won't do is make promises that we can't keep to your point.
+But I will also say the delays that we're incurring are still allowing the trains to be able to depart the terminals
+on time. So we know that we're sustaining delays. It's a 15-minute delay. And what we're not doing is we're
+not waiting until there is a failure and then having to shut down altogether. We are still able to provide train
+service. So I'm happy to engage further about service and what future service we can provide, more than
+what we are already doing. But there's not much more that I can say about that.
+
+TROY WHITMORE: OK. I do appreciate I do appreciate that. And we'll move to next comments or other
+matters to Director Ruschia.
+JOYANN RUSCHA: If Director Sloan had a comment on this particular matter, I would let her go first
+because I actually need to plug in my computer. If it's on this matter, is it OK if we switch?
+TROY WHITMORE: That's fine. Director Sloan, go ahead.
+MARJORIE SLOAN: And this will be brief. I know part of the frustration on behalf of customers is not
+knowing when a train will come. Are the overhead signs accurately reflecting when the train is going to
+arrive at the station?
+DAVE JENSEN: Mr. Chair, if I may.
+TROY WHITMORE: Please.
+DAVE JENSEN: Last I heard, yes. And Next Ride is also a good avenue for our customers to be able to tell
+that.
+MARJORIE SLOAN: And Next Ride is accurate as well?
+DAVE JENSEN: Last update I had, yes.
+MARJORIE SLOAN: Thank you.
+TROY WHITMORE: All right. Is that all, Director Sloan? OK. Back to Director Ruschia.
+JOYANN RUSCHA: Thank you. Thank you, sir. I'm plugged in and back. So I wanted to just encourage a
+couple things here, encourage staff to-- and the board, also-- to take a look at MBTA in Boston.
+So when they had speed restrictions that were related to maintenance and deferred maintenance and
+caused massive destruction-- disruptions, excuse me, across their system, they put up a website. They
+have a dashboard. They're very clear about what caps they're following and such. And they've been doing
+reports.
+And so while transit riders in the Boston area aren't thrilled, there's really no question about what's
+happening. In fact, if I were to click on the Orange Line right now, I could actually see which areas on the
+orange line are subject to speed restrictions and which ones are not.
+I'm just like right now, I have a pretty good sense of where, you know, if I were to hop on a line, I would
+know where the E Line is going to slow down. But that's not something I think that is readily obvious to
+customers. And so I think it's very important for us to demonstrate to the community exactly where these
+disruptions may be.
+
+And so if we could even-- it's hinted, but if we could put that on our website, I think that would be very
+beneficial. I would so much rather give the bad news to the customers and allow them to make a consumer
+decision whether or not they're going to get on the train at a certain station or they're going to take Bustang
+or utilize some other mode of transportation versus folks, you know, getting on a train or arriving at a station
+and then suffering an unpleasant surprise.
+So again, I just want to-- you know, there are other agencies who have gone through something similar. In
+fact, I'd say much more dramatic. And so I would encourage staff to you know, to take a look at that and
+see how we can enhance our own communications.
+To that end, you know, right now the solution is to partner with Bustang. And I'm very grateful for that
+partnership. But it's not the same as a bus bridge. And it is-- you know, I don't think it's comparable to
+regular service. So if we decided we weren't going to do a bus bridge because of shortages, then I think
+that's something that, you know, should be effectively communicated back to the Board so that we
+understand.
+Like Director Lewis, I've also received calls and emails about this. And if I can't effectively answer that
+question, that's an issue. Now, with the website last night and some of the emails we got today, I do have
+more information. I can be a point of customer service. But it does feel frustrating as a Board Member when
+you have something major happening on the system and you can't answer a simple customer service
+question about what people should expect.
+And as far as Next Ride, I don't know if it's accurate now. It was not accurate last week. It might have said
+a half an hour a day-- a delay or a 15-hour-- 15-minute, excuse me, delay, but it was 30, 40 minutes or
+completely missed. And I understand that some of that is input manually. And so that could be an issue.
+But again, we really do owe it to the community to do everything we can to almost overcommunicate, but
+make sure that access to information is not hidden or buried or requires too many clicks. So I didn't mean
+to-- I didn't mean to lecture. And I don't want to disparage staff. But this is something that collectively we're
+all responsible for, and that includes the Board. And, you know-- I'll just leave it at that.
+But I do actually have a question for Mr. Jensen, a quick one if we can. And I apologize in advance because
+this wasn't scheduled. And so I don't want it to look like we're beating up on you. But you happen to be here
+and you're in charge of this area of operation.
+So we've talked about enhanced inspections. Can you explain, like, what that means? It's kind of a term of
+art. Are we just-- are we saying that we are doing inspections more frequently and that is the enhanced
+part. Is there different technology? And then while I think this was hinted on our website into the press, I
+just want to confirm, will we be doing those types of inspections in the rest-- on the rest of our system?
+Again, because we want to reassure our customers that the light rail is safe. And communication, I think is
+a key part of that.
+TROY WHITMORE: Mr. Jensen.
+
+DAVE JENSEN: Yes. So I think if I'm understanding and following the question, first and foremost, what we
+are doing is ensuring that we are safe. And that should bring comfort. We're getting-- we're being proactive
+rather than reactive. Rather than waiting until there is failure and then going in and fixing it, we're finding
+anomalies and we're addressing them before they become real big problems and create concern.
+In terms of the enhanced inspections, what I described earlier was that today we are much more intimately
+close to the infrastructure, for lack of a better term, and as much as we are riding trains through the entire
+system, the track department is, track experts, twice a week and walking the entire alignment every 90
+days. And so the look that they're getting is much closer, much more in depth.
+And then the level of inspection at each location, for instance, those rail burns that we're talking about,
+taking the measurements, documenting where those measurements are. So now that we've got information
+of where they are, we-- like right now, many of them don't require any action and are cosmetic. But if they
+grow to a point, then they will take action. And so we'll be that much more able to be proactive in our ability
+to get ahead of those repairs.
+So, yes, to some extent we're baselining where we're at. And it was unexpected. We're doing the entire
+system this way. We've committed to getting back-- and we're not going to defer maintenance anymore.
+We've committed to a proactive, stringent approach to the way that we're conducting maintenance. And
+hopefully that's answering your question sufficiently.
+JOYANN RUSCHA: Briefly, Mr. Chair, if I may just wrap this up.
+TROY WHITMORE: Final words, please.
+JOYANN RUSCHA: Thank you, sir. I know it's dinner time. So thank you, Mr. Jensen, I mean, to be very
+clear, if anybody thinks that it is not safe to proceed, whether you are Mr. Dave Jensen, an operator or
+supervisor, Ms. Johnson, then the train should not leave the station, full stop, period. We need to slow
+down. So I'm absolutely in support of whatever we need to do to ensure that we are being proactive and
+not reactive. And generally reactive means that something a catastrophic event has happened and now
+we're reacting to it.
+What I think I heard you say is that we are doing these inspections system-wide. And from what I was able
+to gather from the website and from the press is that we can expect more-- we can expect slowed speeds
+in other areas of the system as well. So unless I misinterpreted what the press reported or what we have
+said on our website or in press releases, I, again, just want to really stress that we make sure that we
+communicate, over communicate, and make it easy for customers to find that information.
+And if we know something now, we say something now, because these are people's lives. And they're
+depending on us for transit. And let them plan. And I think public will be so much more forgiving if we are
+transparent and give that heads up, you know, than they find out that morning on trip planner or the night
+before, you know, that their line was disrupted.
+
+And so to that end, you know, I just again, strongly, strongly encourage staff to think about that and consider
+that maybe that is the best customer service response is just to be transparent, vulnerable, and give people
+that heads up. So the only final question I have, and maybe this is a follow-up memo, but will staff be like
+adjusting schedules or posting new schedules so just to account for the maintenance and the disruption?
+Because I feel like if we rely heavily on rider alerts, then that's where people-- I mean, that's often where
+people miss key information. So will there-- could there be a potential schedule change, even if it's minor,
+even if it's temporary, that could be built into Trip Planner?
+DAVE JENSEN: Mr Chair, if I may.
+TROY WHITMORE: Proceed.
+DAVE JENSEN: I see Mr. Worthen jumped on and he may be able to elaborate a little bit more having
+auspices over planning. We did meet today. We did have that discussion. It's our belief that we will make
+significant progress by the next September run Board, given the current operation with the coping panels
+and downtown operation, disrupting the service again, we think would be less desirable.
+We're attacking the problem. We've got crews tonight. We're working on some of these problems. So if that
+becomes something that is necessary, I'm hearing you loud and clear to communicate and
+overcommunicate. And we will work on that. But at this point, and I'll let Mr Worthen speak, I don't think it's
+likely before September there will be another schedule change.
+TROY WHITMORE: Mr. Worthen, would you like to elaborate?
+FRED WORTHEN: Yes, sir. Thank you, Mr. Chair. And thank you for the caution, Director Ruscha. At this
+point, there are a lot of factors at play when it comes to working with schedules. First and foremost, we do
+have a CBA that we have to abide by. Our operators do bid their work. And making major adjustments that
+not only violate the CBA, but disrupt their lives, create other operational challenges that further intensify the
+problem.
+So the other component, though, is that a lot of these repairs are ad hoc. They could be days. They could
+be weeks. They could be hours, you know. So making schedule adjustments on an ad hoc basis is very,
+very, very difficult.
+We are looking at alternative ways, though, to try and make sure that if we start hitting major problems with
+trains departing, finding more creative ways to make sure that we can have trains, at least, departing at
+their scheduled times and ensuring that our operators receive their required respite breaks underneath of
+the CBA itself.
+With regard to bus bridges, though, I do understand the frustration. But I will say very clearly that we do not
+have resources to provide bus bridges at the level of magnitude that you're talking about. When we start
+talking about the I-25 corridor itself, we're talking about dozens of buses.
+
+We're in the peak vacation season right now. And we are just right at the staffing levels we need just to
+make core pullout. We do not have available bus drivers to be able to add significant supplemental services
+themselves.
+So I know it's not the answer that everybody would like to hear. But these are important repairs that need
+to be done. And as Mr. Jensen said, we do hope to have a good portion of these repairs done and be back
+on track by September.
+TROY WHITMORE: Thank you, Fred. All right, do we have any other comments before we make
+announcements and adjourn? Director Ruschia, your hand's still up. Did you have something else? No?
+OK, thank you.
+JOYANN RUSCHA: Sorry I've got to find the button to-- thank you, sir.
+TROY WHITMORE: No, thank you. All right, gang, good meeting tonight. Lots of important topics covered.
+Appreciate that immensely.
+Just a couple of announcements before we adjourn. Next meeting of OSS is scheduled for Wednesday,
+the 17th of July. Our work plan for that meeting has us slated to consider two action items related to service
+changes. And those are the September 2024 service change equity analysis, September '24 service
+change additionally, several other discussion items slated to come before the committee, including an
+update on the agency's language access plan, as well as our Quarter 2 2024 human resources report.
+And as always, our work plan remains flexible. And so there could be items coming and going on that as
+we see fit, or you see fit, to work into the next couple of months of committee meetings. So seeing no other
+discussion or hands raised, we will adjourn tonight's meeting at 8:26 PM Mountain Time. Thank you, all.
+Have a good evening.
+IAN HARWICK: Thanks, everybody.
+JULIEN BOUQUET: Good night, everyone.
+TROY WHITMORE: Good night.
+
+From:
+Sent:
+Cc:
+Subject:
+
+Jack Kroll
+Wednesday, June 12, 2024 11 :19 AM
+Debra Johnson; Melanie Snyder; Fred Worthen
+FW: Comment re: today's 055 meeting and Vision Zero Action Plan
+
+Follow Up Flag:
+Flag Status:
+
+Follow up
+Flagged
+
+Good morning, DirectorsPlease see the email below submitted as public comment for tonight's Operations, Safety, and Security meeting.
+Best,
+Jack
+From: Alejandra Castaneda
+Sent: Wednesday, June 12, 2024 11:04 AM
+To: Board Office <board.office@rtd-denver.com>
+Subject: Comment re: today's 055 meeting and Vision Zero Action Plan
+Good morning,
+My name is Alejandra X. Castaneda and I'm a Pedestrian Dignity and Sustainable Transportation
+advocate who lives in Denver (RTD District C). I'm reaching out because I'm excited about the possibility
+of RTD adopting a Vision Zero framework in support of our region's broader Vision Zero goals. As
+someone who walks and takes the bus for most of her trips, and as the mother of a 13 year old who also
+takes the bus (thank you, zero fare for youth!), I know the crucial but undervalued role public
+transp_o_rtation plays in keeping us all safe in our transportation network.
+Thank you for ensuring RTD adopts a formal Vision Zero action plan.
+Respectfully,
+Alejandra X. Castaneda
+she/her/ell
+
+1
+
+greaterdenvertransit@gmail.com
+
+Submitted as Public Comment to the
+RTD Operations, Safety and Security Committee Meeting, June 12th, 2024.
+June 12th, 2024
+Troy Whitmore, RTD Operations, Safety and Security Committee Chair
+Regional Transportation District
+1660 Blake Street
+Denver, CO 80202
+Dear Chair Whitmore,
+E and H Line “Slow Zones”
+Greater Denver Transit (GDT) writes with concern regarding the batch of 10mph “slow zones” that were
+imposed en masse on the morning of Monday 3rd June. These “slow zones” have broken an already delicate E
+and H Line schedule imposed due to the Coping Panels project. While GDT appreciates the photos of “railhead
+burn” posted on the RTD website yesterday, the agency has failed to adequately explain the reasoning behind
+the sudden imposition of the “slow zones” or when riders can expect the problems to be resolved by.
+As a severe operational issue, GDT hopes this committee shares our concerns regarding RTD’s busiest light
+rail line and is of the opinion that anything less than full transparency risks further degrading the trust the
+traveling public still has in RTD. We would therefore like to seek responses to the following questions:
+1. What exactly in the “enhanced inspection methodology” has prompted the imposition of the “slow
+zones”?
+2. How does this “enhanced inspection methodology” differ from what was done in prior inspections?
+3. Prior to conducting inspections with the “enhanced inspection methodology” did MoW staff believe that
+the result would likely be the wide scale imposition of “slow-zones”.
+4. On what timescale does the agency anticipate being able to return the track back to full line speed?
+5. Are inspections on any other light rail lines planned?
+
+www.greaterdenvertransit.com
+
+Page 1
+
+greaterdenvertransit@gmail.com
+
+Vision Zero
+GDT has been notified that there will be a presentation on a proposal for RTD to adopt Vision Zero principles
+as part of the agency’s strategic planning and wider leadership culture. As a stakeholder in the
+community-driven process that has led to this, GDT fully supports the initial recommendations being presented
+today and urges Directors to fully support adopting Vision Zero’s systems driven principles throughout RTD.
+Best Regards,
+
+James Flattum
+Greater Denver Transit
+CC:
+
+Richard Bamber
+Greater Denver Transit
+
+RTD Board of Directors
+Debra Johnson, RTD General Manager & CEO.
+
+www.greaterdenvertransit.com
+
+Page 2
+
+

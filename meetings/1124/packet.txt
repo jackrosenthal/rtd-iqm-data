@@ -1,0 +1,817 @@
+1600 Blake Street
+Denver, CO 80202-1399
+303/299-2303
+
+Regional Transportation District
+
+Board of Directors
+Chair – Lorraine Anderson, District L
+First Vice Chair – Kent Bagley, District H
+Second Vice Chair – Larry Hoy, District J
+Secretary – Bruce Daly, District N
+Treasurer – Jeff Walker, District D
+Barbara Deadwyler, District B
+Dr. Claudia Folska, District E
+Bill James, District A
+Gary Lasater, District G
+Judy Lubow, District I
+
+Angie Rivera-Malpiede, District C
+Natalie Menten, District M
+Paul Daniel Solano, District K
+John Tayer, District O
+Tom Tobiassen, District F
+
+AGENDA
+Operations & Customer Service Committee
+Tuesday, January 15, 2013
+Rooms R, T, & D
+5:30 PM
+Conference Dial-in # 303-299-2663
+Conference ID: 15120
+
+Operations and Customer Service Committee
+Chaired by Tom Tobiassen
+
+A. Call to Order
+B. Recommended Actions
+
+• Purchase of Up to 34 Mall Shuttle Buses
+• April 2013 Service Change
+C. Updates
+
+• Radio and Computer Aided Dispatch and Automatic Vehicle Location
+(CAD/AVL) Project Status Update
+
+• Smart Card Project Status Update
+
+D. Other Matters
+E. Next Meeting Date - February 12, 2013
+F. Adjourn
+
+The following communication assistance is available for public meetings:
+ Language Interpreters
+ Sign-language Interpreters
+ Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 hours in advance of a RTD
+meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+B.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: January 10, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+January 8, 2013
+
+Board Meeting Date: January 15, 2013
+
+Subject:
+
+Purchase of Up to 34 Mall Shuttle Buses
+
+RECOMMENDED ACTION
+It is recommended by the Operations/Customer Service Committee that the RTD Board of Directors
+authorize the General Manager or his designee, to exercise the option of Contract 19FK001 with
+DesignLine USA for the purchase of up to 34, 45-foot mall shuttle buses to replace the existing
+TransTeq mall buses at a price not to exceed $24,147,350.
+BACKGROUND
+The RTD Board of Directors approved the purchase of two (2) DesignLine mall buses on March 23, 2010
+to accommodate the changes to the operation of the Free Mall Ride Shuttle resulting from the
+construction and reconfiguration of the Denver Union Station. The original procurement was the result of
+RTD Request for Proposals (RFP), for which proposals were received on September 10, 2009.
+DesignLine was determined the most responsive and responsible proposer. The RFP allowed RTD to
+purchase up to 57 additional buses for a five year period with pricing for additional buses being based on
+the initial base pricing plus a price adjustment set by the US Department of Labor Producer Price Index
+(PPI).
+The mall buses are unique because of their length, number of doors, completely low floor and highly
+demanding service. Industry standard bus manufacturers do not produce the mall bus type and do not
+want to expend their resources in the engineering and manufacture of the buses because of their low
+sales volume. Currently, there may be only two specialty bus manufacturers that are interested in the
+production of these buses.
+The new DesignLine buses will replace the existing TransTeq mall buses. The TransTeq mall buses are
+currently 12 to 13 years old. By the time the new buses arrive, the current mall buses will be more than
+13 and 14 years old. The bus manufacturer, TransTeq, went out of business several years ago. Many
+components of the buses have become obsolete and there are no replacement parts. The lack of support
+and replacement parts have caused extreme difficulty in keeping the buses in service.
+DISCUSSION
+The DesignLine mall buses are low floor buses, 45’ long with three wide passenger doors for fast and
+easy passenger ingress and egress. The buses are powered by a hybrid electric system driven by a
+micro-turbine engine. When the batteries are fully charged, the engine shuts down and the bus runs on
+full electric mode. In normal operation, the buses operate in full electric mode about half of the time. To
+comply with ADA, the buses have a wheel chair ramp and two wheelchair tiedown positions.
+The first two DesignLine mall buses, Bus #1640 and #1641, were received and put into service in
+November 2011 and April 2012, respectively. The buses have received positive acceptance from the
+riding public and the Denver Downtown Partnership. The Partnership has endorsed the purchase of
+additional DesignLine buses for the replacement of the existing buses. Passengers have given the buses
+mostly positive reception. In term of mechanical performance, the buses have performed better and
+more reliably in initial service than the previous two generations of mall buses. With the knowledge from
+
+Packet Pg. 3
+
+B.1
+
+the bus evaluation service, we are including a number of improvements to the buses in the manufacture
+of additional buses to allow better maintenance service accessibility and passenger comfort.
+FINANCIAL IMPACT
+The requested approval is for the change order to exercise the purchase option for a guaranteed quantity
+of 32 mall shuttle buses in the amount not to exceed $24,147,350. The quantity may be increased up
+to 34 buses depending on the final price negotiation with DesignLine. The purchase is funded partially in
+the amount of $6,500,000 by the State of Good Repair Grant from the Federal Government. The
+remaining funding is in the District’s 2013 Budget.
+DBE PARTICIPATION
+There is no DBE requirement for transit vehicle purchases. Each vehicle manufacturer is required by the
+Federal Transit Administration (FTA) to submit a DBE plan for FTA approval. As part of the required
+proposal submittal documents, DesignLine has submitted a certificate attesting to FTA's approval of its
+DBE plan.
+ALTERNATIVES
+1. To authorize the General Manager to issue a change order to DesignLine for the purchase of thirtytwo (32) additional mall buses. This is the recommended alternative.
+2. Do not authorize the change order and re-solicit proposals. This is not desirable as it would result, at
+the very least, in a delay of the delivery of the buses and may increase the cost of the project.
+
+Prepared by:
+Lou Ha, Manager
+Approved by:
+
+Packet Pg. 4
+
+B.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: January 10, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+January 9, 2013
+
+Board Meeting Date: January 15, 2013
+
+Subject:
+
+April 2013 Service Change
+
+RECOMMENDED ACTION
+It is recommended by the Operations/Customer Services Committee that the Board of Directors approve
+moving the proposed April 2013 Service Change on to public review and comment.
+DISCUSSION
+With the completion of construction of the West Light Rail Line and Board adoption of the West Corridor
+Service Plan on October 23, 2012, significant changes in bus and light service are slated to begin April
+28, 2013. Additional routine service changes not associated with or included in the West Corridor
+Service Plan are also necessary to maintain system on-time performance and provide the appropriate
+level of service according to customer demand. For this year we will continue to focus on adjusting
+services in response to the January 2012 service revisions and changes in ridership and operational
+performance.
+The proposed April 2013 Service Changes contained herein reflect the continued budgetary challenges
+faced by RTD. The guiding principles for service changes continue to be:
+•
+Service performance evaluation based on the RTD Service Standards
+•
+The effects on the overall integrity of the transit network and on transit dependent markets
+•
+The availability of alternative services to affected riders
+•
+Cost-effective distribution throughout the District and Family of Services
+•
+Title VI of the Civil Rights Act: benefits and services are provided without regard to race, color or
+national origin
+•
+Response to changes in the communities where services are provided
+SUMMARY OF PROPOSED SERVICE CHANGES
+Routine Service Adjustments
+205/225 – split the interline to establish correct recovery amount
+SKIP – adjust PM peak and evening schedule
+
+Packet Pg. 5
+
+B.2
+
+Discontinue seasonal school trips or deviations on the following routes:
+Route 1W – West 1st Avenue
+Route 6 – East 6th Avenue
+Route 9 – West 10th Avenue
+Route 11 – Mississippi Avenue
+Route 16 – West Colfax
+Route 24 – University Blvd
+Route 30 – Federal Boulevard
+Route 30 Limited – South Federal Limited
+Route 31 – Federal Crosstown
+Route 43 – MLK Boulevard/Green Valley Ranch
+Route 51 – Sheridan Crosstown
+Route 52 – West 52nd/South Bannock
+Route 65 – Monaco Parkway
+Route 66 – Arapahoe Road
+Route 73 – Quebec Street
+Route 76 – Wadsworth Crosstown
+Route 100 – Kipling Crosstown
+Route 153 – Chambers Road
+Route 206 – Pearl/Eisenhower
+SKIP, JUMP, BOUND, DASH – to Summer service levels
+FINANCIAL IMPACT
+The annualized cost impact of the April 2013 Service Change proposal is estimated to $53,200.
+PUBLIC HEARINGS
+Two public meetings have been scheduled for January 2013 in Downtown Denver. These hearings are
+designed to inform the public of the proposed service changes and to obtain public input which will be
+summarized and reported to the Board at its February meeting, when final service change proposals will
+be presented and final approval will be requested.
+Downtown Denver
+
+January 30, 2012
+12:00 p.m. & 7:00 p.m.
+RTD Administration Offices
+1600 Blake Street, Room T & D
+
+Prepared by:
+Jessie Carter, Manager, Service Planning and Scheduling
+Connie Payne, Administrative Assistant
+Approved by:
+
+Packet Pg. 6
+
+B.2
+
+Packet Pg. 7
+
+C.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: January 10, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+January 9, 2013
+
+Board Meeting Date: January 15, 2013
+
+Subject:
+
+Radio and Computer Aided Dispatch and
+Automatic Vehicle Location (CAD/AVL) Project
+Status Update
+
+Information
+
+INTRODUCTION
+Testing continues and high severity items have been resolved. Testing is delayed pending a few missing
+features that are scheduled for delivery by next month. Onboard installation rates have improved. Below
+is a capsulated summary that is followed by a list of current and upcoming activities.
+MAJOR PROJECT ELEMENTS STATUS
+Key
+
+Element
+
+CAD/AVL Contract
+1
+
+2
+
+3
+
+Testing and Problem
+Resolution
+
+CAD/AVL
+Installations
+CAD/AVL Contract
+Automatic Stop
+Announcements (ASA)
+
+Status
+
+
+Yellow
+
+
+Yellow
+
+About 75% of Phase II Mini-fleet testing is complete. INIT
+was not as prepared for testing as they had indicated in early
+December and many tests were deferred.
+High severity problems from testing are fixed. A few
+additional items were identified in testing and the number of
+items unresolved has increased from 77 to 88 items.
+Several areas of functionality remain to be delivered and are
+scheduled to be implemented in the first quarter 2013. These
+items will be tested when delivered.
+About 30% of the fixed-route fleet has been installed. There
+have been recent improvements in installations rates.
+The installation schedule status has been adjusted to show
+as yellow. This is because the current expectation is to
+complete in July, which is not currently at risk.
+
+foundations for ASA near completion and public ASA
+ The
+deployment will be made when all buses have the CAD/AVL
+Green
+
+onboard hardware.
+
+6
+
+CAD/AVL Contract
+Database Interfaces
+
+ Asset management interfaces are developed and tested.
+A downstream data management interface with Ride Check
+Green Plus is being developed.
+
+7
+
+Real-Time Passenger
+Information (RTPI),
+foundation, delivery and
+Light Rail equipment
+
+ RTPI foundation requirements development is anticipated to
+be complete in 2013. Implementation for buses is anticipated
+Green for 2014 and implementation for trains is expected in 2015.
+
+UPCOMMING ACTIVITIES / EVENTS
+Activity / Event
+
+Time Frame
+
+Packet Pg. 8
+
+C.1
+
+Activity / Event
+
+Time Frame
+
+CAD/AVL Mini-fleet testing
+
+7/2012 - 2/2013
+
+Fixed-Route Bus Installations
+
+7/2012 - 7/2013
+
+CAD/AVL System Acceptance Testing
+
+2nd and 3rd Quarter 2013
+
+RTPI foundation and public delivery for buses
+
+2013 - 2014
+
+RTPI for Light Rail
+
+2014 - 2015
+
+COMPLETED ACTIVITIES
+The following project activities either complete or substantially complete and are no longer risks to the
+project’s success.
+ Paratransit Data Upgrade Project
+ Radio Network Build Project
+ Radio-only mobile and portable radio installation and deployment
+ Operations Control Center (OCC) Remodel
+ CAD/AVL and SMT interface development and testing
+Prepared by:
+Eric Farrington, Program Manager, IT
+MinuteTraq Admin,
+Approved by:
+
+Packet Pg. 9
+
+C.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: January 10, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+January 10, 2013
+
+Board Meeting Date: January 15, 2013
+
+Subject:
+
+Smart Card Project Status Update
+
+Information
+
+INTRODUCTION
+The RTD Smart Media fare collection system went live for Eco Pass Program and College pass program
+participants as of January 1, 2013. RTD employees serving as “Ambassadors” have been assigned to
+staff all RTD light rail platforms beginning on December 27, 2012 and will continue to staff all platforms
+until January 11, 2013. Various individual platforms associated with area colleges will be staffed until
+January 24, 2013.
+The installation of bus validators is complete except for 5 buses that are in heavy maintenance. There
+are approximately 100 buses that are still going through the RTD QC inspection process to accept them.
+All remaining work is being done by Linkmont as a DBE subcontractor to Xerox.
+There have been reports of some problems with bus validators not working correctly. Customers have
+experienced some “Red” validations. The causes for the malfunctions include parameter configurations
+that were not properly updated on some buses and some improper bus operator procedure. Corrections
+to the parameters are being implemented by ACS/Xerox personnel and Bus Operations continues to reiterate information to the Bus Operators through every communication channel available. We are
+monitoring the entire system and responding accordingly to issues as they arise.
+All Light Rail validators have been installed and are operational. Additional (over and above the original
+plan) validators are in the process of being installed at the following locations:
+ 16th/Stout (2)
+ 18th/Stout (2)
+ 16th/California (1)
+ 18th/California (1)
+The RTD Network Team and SCADA Team are working together to connect the validators to the existing
+network for the Ticket Vending Machines (TVM) to accept credit cards by 2nd Quarter 2013. Validators
+for West Corridor and expansion of existing stations, as needed, have been ordered and are expected to
+be delivered in March, 2013. An RFP will be going out to bring on a workorder contractor to be on-call
+to install additional validators or relocate any validators as needed.
+Printing and distribution of the EcoPass, CollegePass, and NeighborhoodPass cards began the week of
+October 8th. Ecopass Employers had the option of printing their own cards (Self-Administration) or
+submitting photos to RTD and having the cards produced and mailed back. All employers who
+submitted their photos by the initial deadline have received their cards. Some companies are still
+submitting their photos and those cards are in the process of being printed and distributed. Complete
+distribution of all cards will occur by the end of January. 2012 EcoPass and CollegePass decals were
+extended through January 31, 2013 to assist customers in making the transition as easy as possible.
+The software for Fare Inspectors has been approved and is in the process of being installed. Fare
+inspectors are operating in an “educate & inform” mode currently and will transition to enforcement of
+the smart card tapping in the near future.
+Xerox and INIT have been working together to finalize a single driver control. The INIT CAD/AVL
+interface will contain the screens needed to control the Smart Card Equipment. This integration will
+offer the driver a simpler and more streamlined approach to CAD/AVL and Smart Card. This successful
+
+Packet Pg. 10
+
+C.2
+
+integration reduces overall operating and maintenance expenses and increases the driver convenience
+with the completion of a true “smart bus”.
+The Board has previously approved several fare changes and administrative policies regarding the
+implementation of Smart Card. The Smart Card Program Team will continue to add policy and
+procedures to this list and distribute to The Board as needed (no updates this month)
+1. BUS INSTALLATIONS
+Key
+
+Elements
+
+1a
+
+Installation Rate
+
+Status
+
+
+Yellow
+
+99.6% of buses are installed. Recent installs are in the
+process of being inspected by RTD. Inspections expected to
+be complete by the end of the month.
+
+2. PLATFORM INSTALLATIONS
+Key
+
+Elements
+
+Status
+
+2a
+
+Central, Southwest and
+Southeast Lines
+
+3.
+
+FARE INSPECTOR HANDHELDS
+
+Key
+
+Elements
+
+3a
+
+Software Installation &
+Training
+
+4.
+
+CAD/AVL INTERFACE
+
+Key
+
+Elements
+
+4a
+
+Interface with INIT
+
+5.
+
+WEB PORTAL
+
+Key
+
+Elements
+
+5a
+
+Design and Testing
+
+5b
+
+Training
+
+ Complete and operational, monitoring any issues
+Yellow
+Status
+
+ Software is being rolled out and training is complete.
+Yellow
+
+Status
+interface has been successfully tested in the lab and is
+ The
+active on some 300 buses.
+Green
+
+Status
+
+ Web portal was tested, implemented, and ready for customer
+use on Oct 8 .
+Yellow
+for all EcoPass, CollegePass, and Neighborhood Pass
+ Training
+Coordinators is complete and ongoing sessions scheduled.
+th
+
+Packet Pg. 11
+
+C.2
+
+Key
+
+Elements
+
+Status
+Green
+
+5c
+
+Photos/Files Due from
+EcoPass Employers
+
+6.
+
+CARD DISTRIBUTION
+
+Key
+
+Elements
+
+
+
+
+Green
+
+EcoPass employers have uploaded their files and the cards
+are in various states of production and distribution.
+Companies who had their photos submitted by the deadline
+have received their cards. Other companies will get their
+cards this month.
+
+Status
+All smart card stock has been shipped.
+
+6a
+
+Card Issuance
+
+7.
+
+REPORTS
+
+Key
+
+Elements
+
+7a
+
+Reports
+
+8.
+
+MARKETING
+
+Key
+
+Elements
+
+8a
+
+Strategy
+
+9.
+
+COMMUNICATIONS
+
+Key
+
+Elements
+
+9a
+
+Strategy
+
+MyRide cards will
+
+ have stored value and monthly passes encoded on them and
+have been ordered in anticipation of the August, 2013 go-live
+Green of MyRide.
+Status
+
+
+Report development is underway.
+Green
+
+Status
+and EcoPass marketing materials are complete.
+ CollegePass
+Web portal training materials are complete.
+Weekly
+communications to EcoPass Coordinators and RTD
+Green Ambassadors is ongoing.
+
+Status
+
+
+Green
+
+10.
+
+RETAIL POINT OF SALE (RPOS)
+
+Key
+
+Elements
+
+Ambassadors have been staffing Light Rail Stations for
+several weeks and any issues or concerns are being brought
+back to project team for resolution.
+
+Status
+
+Packet Pg. 12
+
+C.2
+
+Key
+
+Elements
+
+Status
+
+10a
+
+Retail Locations
+
+
+Green
+
+RTD will schedule follow up meeting with Safeway and then
+contact King Soopers. Ilium working to schedule meeting
+with 7-Eleven to discuss the Denver market, which has over
+75 franchise stores. Retail terminals are expected to be
+delivered in May, 2013.
+
+10b
+
+Statement of Work
+(SOW), Purchase
+Request PR), Board
+Approval, Contract
+
+ Notice to Proceed provided to Xerox on September 28 with
+delivery and integration testing to take place in June 2013.
+Green
+th
+
+NEAR-TERM ACTIVITIES / EVENTS (AUGUST 2012)
+Activity / Event
+
+Time Frame
+
+Factory Acceptance Testing – All EcoPass Functionalities
+
+Complete
+
+Vehicle Installations Complete
+
+Complete
+
+Vehicle QC/Inspection Complete
+
+January 31, 2013
+
+Light Rail Platform Installations Complete
+
+Complete
+
+EcoPass Web Portal Available to Public
+
+Complete
+
+EcoPass, CollegePass, and Neighborhood Pass Coordinator Training
+
+Complete/Ongoing
+
+Ambassador Program
+
+Complete/Ongoing
+
+CAD/AVL & SMT Integrated Testing
+
+Complete
+
+Equipment Operational Readiness Test
+
+Complete
+
+EcoPass “Tapping” begins
+
+Complete
+
+Period passes and Stored Value
+
+August, 2013
+
+Retail Point of Sale Network
+
+August, 2013
+
+Elimination of Paper-based fare products
+
+December 31, 2013
+
+Major reduction of Paper-based transfers
+
+2014
+
+Substantial System Completion (All Deliverables)
+
+Phase 1
+(Eco, College, Neighborhood):
+December, 2012
+Phase 2
+(Passes/Stored Value):
+
+Packet Pg. 13
+
+C.2
+
+Activity / Event
+
+Time Frame
+August, 2013
+Phase 3
+(Reduced Fare Program &
+FlexPass
+4th Quarter, 2013
+
+Prepared by:
+Gary Googins, Project Manager, IT
+Approved by:
+
+Packet Pg. 14
+
+

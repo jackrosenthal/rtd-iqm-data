@@ -1,0 +1,267 @@
+## I. Executive Committee Agenda
+
+Chaired by Larry Hoy
+
+## I. Call to Order
+
+Chair Hoy called the Executive Committee to order at 12:03 p.m.
+
+Committee members in attendance: Chair Hoy, 1st Vice Chair Francone, 2nd Vice-Chair Deadwyler, Treasurer Menten
+
+Other Board members present: Secretary Walker (via phone)
+
+Others present: General Manager Genova, Executive Manager Barbara McManus, Board Office Administrator John McKay
+
+## II. February Board Meeting Agenda Review
+
+Chair Hoy opened the meeting by sharing his condolences on the passing of Director Walker’s mother.
+
+Chair Hoy reviewed the draft Board Meeting agenda for February 28, 2017, and noted the length of service of the retirees. Barbara McManus said two retirees had confirmed they would attend.
+
+Director Francone commented that the C-470 Corridor Coalition cited in the draft agenda has changed to a quarterly meeting schedule. She said the work of the committee is largely complete, since the design work and fundraising efforts have been completed and construction is underway.
+
+Barbara McManus stated that she receives and reviews copies of C-470 Corridor Coalition agendas and that she would reach out to the appropriate Directors if RTD involvement were required.
+
+Chair Hoy said the Board would handle the C-470 Corridor Coalition in the same way it treats the Northwest Parkway Public Highway Authority Board. He said that Barbara McManus would alert the affected Directors if a given agenda warrants their attention. He said that, despite his involvement with Adams County Economic Development (ACED), he does not regularly attend meetings, since the organization’s own transportation committee has little to do with RTD business.
+
+Director Menten mentioned her involvement with the Jefferson County Transportation Action and Advisory Group (JEFFTAAG). She said that one out of every three meetings was canceled and, for many other meetings, her attendance was not worthwhile.
+
+Chair Hoy said that all of the Directors have both committee assignments and personal commitments and responsibilities. He said he saw no issue with Directors not attending meetings of outside organizations if doing so would be a waste of resources.
+
+Director Menten mentioned the local government meetings held at RTD and noted that the meetings are attended by planners and other local government employees. She asked whether elected officials are invited to those meetings.
+
+Chair Hoy said the local government meetings are mostly for municipal staff updates and outreach.
+
+General Manager Genova said that Chair Hoy’s description is an accurate representation and that he would provide the meeting invite list to Director Menten.
+
+Chair Hoy said that the elected officials are invited but those officials send their staff. He said he received invites from city managers to certain events but questioned whether some of those invitations should be extended to RTD staff instead.
+
+Director Francone asked why the General Manager’s Oversight and Performance Management Committee (GMO Committee) was listed two places in the draft agenda.
+
+Barbara McManus said that committee reports, including the reports of the GMO Committee, are located in one place on the agenda and the minutes are approved at a separate juncture.
+
+Director Francone mentioned the GMO Committee would not convene again until April or May.
+
+Barbara McManus said the said General Manager’s strategic update takes place in April, which then triggers the GMO Committee to reconvene.
+
+Director Deadwyler said that the General Manager’s strategic goals come out of the March retreat, which Barbara McManus confirmed.
+
+Chair Hoy, speaking about the unanimous consent items on the agenda, said he was surprised to see the lease termination at Fiddler’s Green on the agenda because he thought the lease had been terminated years earlier.
+
+General Manager Genova said that the current lease termination should go through in this instance because RTD has been given written guarantees.
+
+Director Francone asked whether the lease would still be in place if it is not terminated.
+
+General Manager Genova said that the lease would remain but noted the Fiddler’s Green Business Improvement District is motivated to get out of the lease.
+
+Director Francone asked whether RTD is satisfied with the amount of the lease termination payment and whether the proceeds would go in the base account.
+
+GM Genova said that the amount was reasonable and that the money would go into the base.
+
+Chair Hoy discussed the recommended action item concerning paver maintenance on the 16th Street Mall and asked who had voted no in committee.
+
+Director Menten said she voted no and may have been the only one.
+
+General Manager Genova confirmed that the vote was 11 in favor and 1 opposed.
+
+Director Menten said she would not approve any more money for the repair of the existing granite.
+
+Chair Hoy said RTD is obliged to maintain the pavers because to do otherwise could cause damage to the RTD shuttles. He said that the problems with the pavers may be resolved soon.
+
+General Manager Genova said the discussion would be a long process.
+
+Motion: Chair Hoy made the motion to approve the February 28, 2017 Board agenda.
+
+Vote on
+
+Motion: The motion passed with 5 in favor (Hoy, Francone, Deadwyler, Walker, Menten) and 0 opposed.
+
+## III. Other Matters
+
+Director Francone asked about the status of the Mobility Choice Blueprint Study.
+
+Chair Hoy said the Mobility Choice agenda item is off the table for discussion and that the Colorado Department of Transportation (CDOT) and the Denver Regional Council of Governments would continue with or without RTD’s involvement. He said Mobility Choice would likely be presented to the Board in the future but said that the date has not been set.
+
+Director Deadwyler said that Roger Sherman from CRL Associates stated a Mobility Choice recommendation would be presented to the board in the near future.
+
+Director Francone asked for RTD staff’s opinion on Mobility Choice.
+
+General Manager Genova said he felt that RTD’s participation in the study would be a good thing. He said that, following the board meeting at which the recommendation was voted down, the Mobility Choice board stated their desire for RTD to be a part of the study, specifically because they saw the value in RTD’s participation and its credibility in informing the process. He said the Mobility Choice board said they would work to change certain elements of the agreement and bring it back before the board. He said that the Mobility Choice board’s revised proposal would lower the amount required for the study from $500,000 to $400,000, revise the makeup of the Mobility Choice board, and restructure the oversight over the process. He stated the committee charged with oversight over the process would consist of one representative each from Mobility Choice, DRCOG, CDOT, and RTD and that this group would guide the day-to-day work of the study and the scope of work that would go into a request for proposals (RFP).
+
+General Manager Genova said he that sits as RTD’s member on the Mobility Choice board. He stated that Bill Van Meter would be a good choice for the oversight committee. He said that the private sector is represented on the Mobility Choice board and that private sector funding could increase as more private entities became more involved in the process. He said private sector contributions would go toward both administrative costs and salaries of administrative staff.
+
+Chair Hoy clarified that any monies contributed by government agencies could only go toward the study rather than to salaries and that any other dollars spent would come out of private coffers.
+
+Director Francone said that her continuing objection was that she felt as though the Board had been left out of the process. She said that, because of the possibility of a ballot initiative arising out of the process, she wanted RTD to be a part of that conversation. She said she was hesitant to go forward without more transparency and Board involvement.
+
+Director Deadwyler agreed with Director Francone and said she recalled that CDOT also disapproved of the study at the time the RTD Board voted down the Mobility Choice recommendation.
+
+General Manager Genova said that CDOT was on board with the study and was the first public agency to agree to fund the study. He said that DRCOG discussed the proposal with its own board and that they were a provisional yes vote as long as CDOT and RTD agreed to participate.
+
+Director Deadwyler said that at one time CDOT wanted to be part of a ballot initiative in which RTD’s share of additional revenues would have been minimal. She asked whether the result of the Mobility Choice study would result in a ballot initiative with the same small share for RTD.
+
+General Manager Genova said that any talk of a ballot initiative would be premature and that any prior discussion of ballot initiatives took place before the bipartisan conversation about transit funding took place in the legislature this session. He said that both the Metro Mayors Caucus and MPACT64 have issued statements that lay out the parameters under which they would support a ballot initiative.
+
+Director Deadwyler said that the last time a ballot initiative was discussed the proponents wanted to use the majority of the money to fix roads and bridges.
+
+General Manager Genova said that the majority of any money from a ballot initiative would go toward CDOT. He said that the Metro Mayors Caucus would not support any initiative if the money going to local jurisdictions drops below a certain amount. He said that people may not support an initiative in which large sums of money go to RTD because RTD already reaps the revenues generated by the 1% sales and use tax. He said that Brandeberry McKenna Public Affairs has been having discussions to see which aspects of a ballot initiative people could support. He reiterated that any discussion of a ballot initiative coming out of the Mobility Choice study is premature and that such a ballot initiative should not be considered a foregone conclusion of the study.
+
+Director Francone said that any additional transportation funding would go toward roads and bridges rather than public transportation. She said that the legislature may pass transportation legislation but RTD would not receive any more funding than it does currently.
+
+Director Menten said DRCOG already does a transit study, though they were not willing to share the results with her upon her request. She questioned why DRCOG would want to keep that information out of the public eye.
+
+Chair Hoy said that the results of the Mobility Choice study would not belong to DRCOG and that the oversight committee would make sure the information is published.
+
+Director Deadwyler offered strong support for supplying free ride coupons for the Juneteenth and Curtis Park community events. She said that the Curtis Park event had been shut down by Denver Police Department Chief White and that, following a change of heart by Mayor Hancock, the event was reopened. She said that she wanted RTD to participate in the event to make a strong push for the recruitment of drivers. She said that RTD had previously supplied one of the organizers of the two events with 200 free ride coupons and had raffled off gift bags containing an additional 180 coupons. She said that she does not want to discontinue tickets because the publicity is good for RTD and that these events are a way to keep the public involved.
+
+Chair Hoy noted that Director Deadwyler was seeking 380 tickets at a time when the Directors each get 180 per year.
+
+General Manager Genova said that Chair Hoy’s interpretation of the free ride coupon policy was correct, though he said he wanted to re-read policy. He said that, in the past, RTD received requests for fundraising efforts and would donate monthly passes.
+
+Director Deadwyler said she would hate to take away something RTD been doing for some time.
+
+Chair Hoy said he empathized with Director Deadwyler’s concerns but did not think her request fell within the existing policy. He said that others would ask for exemptions as well.
+
+Director Deadwyler said that handing out free ride coupons individually does not always work but said that the Curtis Park and Juneteenth events are different.
+
+Chair Hoy asked why a single event organizer had been given 200 tickets.
+
+Director Deadwyler said the woman had been an RTD partner for years and that she gave tickets to students, the elderly, and visitors to her community farm.
+
+Director Menten voiced her support for the policy of giving only 180 coupons to Directors.
+
+Chair Hoy noted that the free ride coupons were reduced or eliminated agency wide.
+
+Director Francone asked whether another item could be substituted for the free ride coupons.
+
+Chair Hoy said there is no process in place to cover Director Deadwyler’s coupon request and stated that the 380 coupons she requested is more than any Director would receive during the year. He also noted that Directors would be taxed on any coupons purchased over the 180 coupon limit and said this was an IRS issue rather than an RTD policy.
+
+Director Deadwyler said she did not understand why the free ride coupons would be taxed and asked whether RTD would send an IRS 1099 form at the end of the year to individuals who received free coupons. She also said that recently she attempted to secure free ride passes for some of her constituents impacted by an RTD service issue and that those constituents had to provide their personal information before receiving the tickets.
+
+Barbara McManus said that was not what had happened. She explained that Customer Care uses information supplied by riders to correct service issues. She encouraged Directors to have affected riders call either Customer Care or the Board Office to report service issues and said that Customer Care could supply free ride coupons as nominal compensation. She apologized for the confusion and said that the tickets issued to those constituents did not come out of her annual pool of 180 coupons but rather from Customer Care’s coupon supply.
+
+Chair Hoy noted that RTD employees who in years past were given hundreds of coupons to compensate inconvenienced riders were now given none because they now follow the same protocol with Customer Care.
+
+Director Menten said she received a request for free ride coupons from Bicycle Colorado and questioned whether other organizations had previously received tickets from RTD through other mean.
+
+Chair Hoy said the free ride coupon audit was one of the few audits in which a significant problem was identified. He said the next audit would be cleaner because records are now being kept on free ride coupon issuance and a system is now in place.
+
+Director Deadwyler said she agreed with the policy limiting Director coupons to 15 per month. She said when she was first elected she wanted to put a stop to the free ride coupons because of the amount of lost revenue but changed her mind when she saw how much her constituents appreciated the coupons. She said she had not contemplated special events such as the two she supported when she agreed to the 180-coupon limit.
+
+Chair Hoy said he used to give coupons to certain groups in the past but has had to tell them they will not receive them going forward.
+
+Director Deadwyler asked whether Customer Care could decide whether to supply the 380 coupons for the events she would be sponsoring.
+
+Chair Hoy said that Customer Care supplies customer service only and the entire RTD organization is out of the business of handing out free ride coupons. He said he was ambivalent over the new policy because coupons have promotional value. He said it the policy came about because it was time to control the problem.
+
+Director Francone spoke about the upcoming strategic planning meeting. She said she likes having staff participation in the event but stated that, during the goal-setting exercise, she cannot visually differentiate between Director priorities and staff priorities, which are represented by dots. She said staff’s participation is invaluable, but the Board sets policy.
+
+Barbara McManus said that, for the upcoming retreat, the color of the dots would be different for Directors and staff.
+
+Director Deadwyler said that, during the round-robin exercise, the priorities seem to have been already decided by staff and that Board suggestions are not thoroughly considered.
+
+Director Menten agreed that staff priorities should be indicated by dots of a different color.
+
+General Manager Genova asked what would happen in the case where an item received nine staff dots and one board dot or, conversely, where another item received nine board dots and one staff dot. He asked how each of those scenarios would be treated.
+
+Chair Hoy said that he would like to see the Board and the staff work collaboratively and said that using differently colored dots would not be a collaborative approach. He said he felt that using dots of different colors would make it harder to work as a team.
+
+Director Deadwyler said that using differently colored dots would allow both the Directors and staff to know what the other group thinks.
+
+Director Francone said that seeing whether a large division existed between staff-supported and Board-supported recommendations would be helpful.
+
+Director Deadwyler said that staff has the opportunity to jointly discuss priorities prior to the retreat but the Board does not have that same opportunity.
+
+Director Menten stated that the Board and staff dots should have an equal point value.
+
+Director Walker said that the Board gets to see staff priorities through the budget process. He said he saw no issue with staff meeting beforehand without influence of the board, because the Board can always vote to change staff recommendations. He said the Board sets agency policy and that staff tells the Board how they propose to carry out that policy.
+
+Chair Hoy agreed with Director Walker and stated that he does not see the benefit in using differently colored dots.
+
+Director Francone said questioned whether a Board policy influenced by staff input is really a board decision.
+
+Chair Hoy said that staff is involved because they are experts in their field.
+
+Director Francone said that she would leave the dot decision to the facilitator because the running of the retreat is up to him.
+
+Chair Hoy said he would speak to the facilitator to see if had used differently colored dots before.
+
+Director Walker said that the Board could not do its work without staff, because each Director would have to learn state and federal regulations, architectural requirements, etc. He said the Board requires the technical expertise of the staff in the same way they rely on constituent input. He said the process must be collaborative and that the Board and the staff should all be working together.
+
+Director Menten spoke about the Citizens Advocacy Committee (CAC) and asked what value they bring to the agency. She said she would be willing to do away with the group if they did not make contributions.
+
+Chair Hoy said that there are ongoing discussions about the worth of the CAC. He said that RTD pays for consultants to facilitate the group and that the Board recently voted to expand the scope of the group to include areas other than FasTracks. He said there is a reason the CAC exists.
+
+General Manager Genova said the FasTracks Act required RTD to have an advisory committee and said he would check with General Counsel Rolf Asphaug to see whether that requirement still applies.
+
+Chair Hoy said that the CAC does not have much to report lately and that their reporting schedule would soon be changed from a monthly to a quarterly basis.
+
+Director Menten said that town halls are part of RTD’s outreach efforts. She said she was not sure how much money is spent on telephone town halls and would rather go out in the community personally if the outreach budget would support that.
+
+Barbara McManus said that she was not sure whether the relevant budget line regarding community outreach went toward the CRL Associates contract.
+
+General Manager Genova said that he would check with Scott Reed, Assistant General Manager of Marketing and Communications.
+
+Chair Director Menten said that Larry Matthews from the Wheat Ridge City Council asked to see a critical path schedule, which would be supplied by Denver Transit Partners (DTP), for the opening of the G Line. She said that Wheat Ridge passed a tax issue in the previous election to allow for development around Ward Station and that the city council feels they have made a mistake with the voters due to the delay in the opening of the G Line. She said that, in the RTD local government meeting at which Larry Matthews asked for a set opening date, Director Francone had said the date could not be disclosed.
+
+General Manager Genova said there had been a misunderstanding in that conversation. He said the question was not whether the date could not be disclosed but rather that whether the date could be set with certainty.
+
+Director Francone said that Larry Matthews is seeking an estimated start date.
+
+General Manager Genova said that it is still unclear when RTD can resume testing and that DTP has not supplied a viable schedule that would determine the opening date. He said that RTD is required to supply the schedule to the Federal Railroad Administration (FRA) because of the full funding agreement.
+
+Director Walker said CAC was intended as a citizen’s council and that the question of what their role should be still exists.
+
+General Manager Genova informed the committee that a memorial plaque would be erected for former RTD General Manager Cal Marsella in Union Station.
+
+## IV. Adjourn
+
+Chair Hoy adjourned the meeting at 1:33 p.m.
+
+## IV. Retiree Awards
+
+David Ayala – Service and Cleaning – 24 years
+
+Douglas K. Stanton – Manager – 33 years
+
+Marshall Weeden – Senior Quality Control Inspector – 32 years
+
+## VI. Committee Reports
+
+Planning/Capital Programs & FasTracks Committee – Chaired by Director Lubow
+
+Government Relations Committee – Chaired by Director Walker
+
+Civil Rights Committee – Chaired by Director Solano
+
+Operations & Customer Services Committee – Chaired by Director Williams
+
+Financial Administration & Audit Committee – Chaired by Director Menten
+
+GM Oversight & Performance Management – Chaired by Director Francone
+
+CDOT – Director Walker
+
+E-470 – Director Francone
+
+ACED – Chair Hoy/Director Lubow
+
+Northwest Parkway – Chair Hoy
+
+Pension Committee – Director Broom/Director Lubow
+
+#### A. Termination of Lease between the Fiddler’s Business Improvement District and the Regional Transportation District
+
+It is recommended by the Planning/Capital Programs & FasTracks Committee that the Board of Directors authorize the General Manager or his designee to execute all documents necessary to terminate the Lease between the Fiddler’s Business Improvement District (FBID) and the Regional Transportation District (RTD) for additional public parking spaces for RTD transit customers in the vicinity of the RTD Arapahoe Light Rail Station on the west side of I-25.  Proceeds of this transaction will total $1,100,000, which will be deposited in the Operating Reserve for the base system.
+
+##### a. ArapahoeParkingExhibit
+
+#### B. 2017-001 : Salaried Trustee Appointments
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors approve the attached Resolution No. ______ appointing Directors Bob Broom, and reappointing Director Judy Lubow and employees Luong (Lou) Ha and Sylvia Francis, to terms expiring 12/31/2018 as trustees for the Salaried Employee Defined Benefit (i.e., Pension) Plan and Salaried Employee Defined Contribution Plan.
+
+##### a. 2017 Resolution - 001 Appointment of Pension Trustees
+
+#### A. Approval of 2017 - 2019 Granite Paver Maintenance Contract for 16th Street Mall Transitway Lanes
+
+It is recommended by the Planning/Capital Programs & FasTracks Committee that the Board of Directors authorize the General Manager, or his designee, to execute all documents necessary to execute the three-year contract for 16th Street Mall Granite Paver Maintenance with Colorado Custom Rock Corporation, in the dollar amount of $2,865,102.16. Funding for the first year of this action is $915,680 and is included in the 2017 Adopted Budget.

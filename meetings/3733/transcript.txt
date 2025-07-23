@@ -1,0 +1,1872 @@
+2024-12-03
+Board Meeting
+ERIK DAVIDSON: Good evening, everyone. This is Chair Erik Davidson speaking, and I will now call the
+Tuesday, December 3 RTD Board meeting to order. We are convened as of 5:32 PM Mountain Standard
+Time. I would respectfully ask everyone in attendance to remain muted unless you are recognized to speak.
+Thank you all for joining us this evening.
+As the Board has moved to in-person meetings for our monthly gatherings, please note that committee
+meetings have continued to be held remotely via Zoom, and they are audio and video recorded. Meeting
+minutes, along with the unofficial minutes of the meetings, will be posted as soon as practicable on the
+Board's website. Visit rtd-denver.com, and a livestream of this meeting is also available via RTD's YouTube
+page.
+During tonight's meeting, we are also providing Communication Access Real-Time translation, also known
+as CART. Anyone who would like to access this service can send an email to the RTD Board Office using
+the email address rtd.boardoffice@rtd-denver.com, and a link will be provided. Additionally, the CART
+transcript can be automatically translated into Spanish for anyone who would like access to a live transcript
+of this meeting in Spanish.
+At this time, we'll now move to the Pledge of Allegiance. And Secretary Guzman, if you could please leave
+your mic enabled and lead us in the Pledge, please.
+MICHAEL GUZMAN: I pledge allegiance to the flag of the United States of America and to the Republic for
+which it stands, one nation under god, indivisible, with liberty and justice for all.
+ERIK DAVIDSON: Thank you, Secretary. And now, at this time, I'd like to ask Director Tisdale if you would
+please read the land acknowledgment.
+DOUG TISDALE: The RTD Board of Directors graciously and gratefully acknowledges that the land on
+which our buses and trains operate is the traditional territory of the Ute, Cheyenne, Arapaho, and other
+contemporary tribal nations that are historically tied to these lands. We honor our Indigenous elders who
+have traveled, inhabited, and stewarded these mountains, hills, and plains throughout many generations.
+May this acknowledgment demonstrate a commitment to working to dismantle any ongoing legacies of
+inequity of the Native and all historically oppressed peoples and recognize their past, present, and future
+multiple and beneficial contributions in the district as we move forward. Thank you.
+ERIK DAVIDSON: Thank you, Director Tisdale. I will now call for the roll and determine quorum. Treasurer
+Bouquet.
+JULIEN BOUQUET: Present.
+
+ERIK DAVIDSON: Director Broom.
+BOB BROOM: Present.
+ERIK DAVIDSON: Director Buzek.
+VINCE BUZEK: Here.
+ERIK DAVIDSON: First Vice Chair Catlin.
+PEGGY CATLIN: Here.
+ERIK DAVIDSON: Second Vice Chair Guissinger.
+LYNN GUISSINGER: Here.
+ERIK DAVIDSON: Secretary Guzman.
+MICHAEL GUZMAN: Here.
+ERIK DAVIDSON: Director Harwick.
+IAN HARWICK: I'm here.
+ERIK DAVIDSON: Director Rosenthal. He is here. I'll note that in a moment. Director Lewis.
+JAIME LEWIS: Present.
+ERIK DAVIDSON: Director Ruscha.
+JOYANN RUSCHA: I am present.
+ERIK DAVIDSON: Director Sloan.
+MARJORIE SLOAN: Here.
+ERIK DAVIDSON: Director Tisdale.
+DOUG TISDALE: Present.
+ERIK DAVIDSON: Director Whitmore.
+TROY WHITMORE: Present.
+ERIK DAVIDSON: And this is Chair Davidson speaking. I am here. We have 14 present, 0 absent. We have
+a quorum. At this time, I'd now like Director Sloan to please read the statement of employee appreciation.
+
+MARJORIE SLOAN: Thank you, Chair. And what a privilege it is to read this tonight, because everyone
+knows that RTD can't move people without RTD's people. The Regional Transportation District Board of
+Directors recognizes that RTD's dedicated workforce is the lifeblood of the agency every day.
+RTD employees do extraordinary things to make lives better through connections. We honor their work of
+delivering transit, excellence, service, and value to the community, especially demonstrated during difficult
+and stressful moments. May the actions taken by the Board of Directors demonstrate our profound
+gratitude, commitment, and support toward all RTD employees.
+ERIK DAVIDSON: Thank you, Director Sloan. We now move to our retiree awards. One of the many
+rewarding duties of serving on this Board is to recognize the RTD retirees, and the time has come for us to
+do that this evening. At this time, I'd like to read the name of employees who have retired since June. David
+Mobley, bus operator, for 25 years. Tom Hughes, manager, intelligent transportation systems, 16 years.
+First before announcing, we do have someone in attendance-- just a round of applause for both of those
+retirees.
+[APPLAUSE]
+
+Thank you. And I do believe that Mr. Tom Hughes has joined us this evening. And so it's my pleasure to
+ask General Counsel Snyder and Brett Feddersen, our acting senior manager of information technology, if
+the two of you would like to introduce and speak on behalf of Mr Hughes. Please go ahead.
+MELANIE SNYDER: Great. Come on in closer, Tom. All right, I want to introduce you all to Tom Hughes.
+So Tom joined RTD in 2008. He served as our manager of intelligent transportation systems, leading a
+team of 20, including systems administrators and electronic technicians. In the 16 years he's been at RTD,
+under his leadership, the ITS team has made significant strides in modernizing the systems and on-vehicle
+technologies that we employ.
+Before I turn it over to acting senior manager of IT, Brett Feddersen, to say a few words, I just want to say
+thank you, Tom. Thank you for your service and your contributions to RTD and the people of the district.
+Most leaders do strive for continuous improvement and to leave their teams and their organization in a
+better place than when they started. And Tom, you've certainly done that. So thank you.
+BRETT FEDDERSEN: Good evening. I'm Brett Feddersen, and it's with great pride I get to say a few words
+about Tom Hughes. If I could pick one thing to talk about with Tom, he's empathetic. Tom always showed
+empathy to his employees when something was going on in their personal life, and Tom never questioned
+their need to take time or even just to take a break for a few minutes to process anything that was going
+on.
+And if there's two things I could say about Tom, it's his transparency. Tom would take the time to talk to his
+team during staff meetings about feelings towards situations at work and encouraged all of his team to
+
+share if needed and that his meetings were a safe place. Well, if you combine empathy and transparency,
+you build trust.
+And Tom was a true person of trust. Never once did anyone have any inclination to think that he was not
+trustworthy, and never once did he not follow through on what he said he was going to do. Never once did
+he try to pass the blame to someone on his team if something went wrong, and he always advocated for
+his team in good times and in bad, regardless of the situation.
+Well, you build a team with that kind of trust, and you get results. And Tom transformed support for the
+revenue fleet from a disorganized, generally ineffective unit to a model of efficiency in the entire agency.
+And then he took that, took those results, and he built on excellence. Tom actually represented RTD-- or
+Tom represents the very best in public service and has brought this excellence in representing RTD on the
+board of the Consolidated Communications Network of Colorado, the CCNC, ensuring the district's radio
+communication interests were advocated for with the statewide digital trunked radio system network,
+making sure that our ability to talk to buses through a radio system and our frequencies were always
+advocated for.
+Tom grew up in Grand Junction, just like I did, although he went to the wrong high school.
+TOM HUGHES: Other side of town.
+BRETT FEDDERSEN: And about 10 years earlier than me. And all I have to say, Tom, is here's another
+West Western Slope kid done good.
+ERIK DAVIDSON: Thank you. And Mr. Tom Hughes-- oh, please go ahead.
+RYAN HALL: I'm sorry. My name is Ryan Hall, and I am the mobile technology supervisor here at RTD.
+And I've worked for RTD for almost 24 years. More than half of that was working directly for Tom in the
+Mobile Technologies Group. And what I can definitely tell you for sure is prior to working for Tom, not just
+here, but in other positions and other companies, it felt cold. You just came to work, you were told what to
+do, and then you went home.
+When I came to work for Tom, he really fosters that you're a human being feeling, which I never felt that at
+work. And it really took place when illness struck home and I had a terminal illness at home I had to deal
+with for 11 years. And like Brett said, he never questioned when I needed to take the FMLA time. And then
+when that individual passed away, he stepped in and helped cover and everything when that was gone. So
+Tom really is the epitome of what a manager should be-- keeping things going, keeping the lights on, but
+also treating your employees like human beings. And Tom, I can't thank you enough for that.
+ERIK DAVIDSON: Thank you, Ryan.
+[APPLAUSE]
+
+TOM HUGHES: Thank you. It's been a great opportunity. It's been such a rich part of my life. God, just to
+work with the team-- and you've got a team of seven technicians and a couple of technical administrators
+kind of wandering around, picking up odd jobs, taking care of broken electronic components on a bus or a
+train, filling in a lot of different things.
+And we were able to take that team to very qualified IT specialists in the technical group and system
+administrators that can run the back office and work with the users of that, the dispatch teams from-- I don't
+know if you realize, we've got six or seven dispatch centers within RTD from bus, light rail, paratransit, to
+safety, security, transit police, a commuter rail dispatch center, our own and our contractors-- a lot going
+on there.
+And then every bus running around with, gosh, $20,000-$30,000 worth of a local area network on each one
+of those, camera systems, everything that's going on. And we were able to embrace that and grab it. And
+every time we found something that didn't have an owner, there was a system somewhere that people
+relied on and didn't know who to call, we grabbed It. We grabbed it and we pulled it in. It was-- sorry. It was
+great to see people get engaged and get excited about it.
+As we move into new technologies, I just look for our senior leadership. I look for the first-level supervisors
+and the mid-level managers to really embrace that and to bring people on board, to get people engaged,
+to get them focused into what work is all about. And, at the same time, what family is all about. So yeah, I
+just can't say enough-- I was given that opportunity, and I'm so proud of where we've come and what we've
+done.
+[APPLAUSE]
+
+Thank you. RTD also took care of me, just like Ryan was saying. I had lost a loved one. So through this,
+my wife passed of cancer. RTD took care of me too. So thank you. Thank you, everybody.
+[APPLAUSE]
+
+MELANIE SNYDER: Thank you so much. Can we take some pictures with you?
+TOM HUGHES: Yes, please.
+ERIK DAVIDSON: We're going to pause for a few pictures. Everyone just stay seated and we'll be right
+back.
+TOM HUGHES: I wore my best Hawaiian shirt for tonight just to celebrate this moment. Thank you so much.
+All right.
+MELANIE SNYDER: I'll see you.
+
+ERIK DAVIDSON: I'd like to again thank Mr. Hughes. Thank you for sharing your personal story, your
+successes with us, and for your 16 years of service that has helped make millions of people's lives better
+through connections over those 16 years. So thank you for serving your community and in this agency for
+all those years.
+Unfortunately, Mr. Mobley wasn't able to join us this evening, but also, we thank him for his service as well,
+and again, for the commitment and dedication of all of the public servants that work at this agency,
+thousands of them, for working to make lives better through connections. Thank you for joining us and
+sharing your story.
+At this time, we're now going to move to our public participation period. This is open to anyone who would
+like to address the Board. As we have, both in-person and remote attendees, in-person comments will go
+first, followed by those who are participating remotely. For those attending in person, please come up to
+the podium when your name is called. If you have not already signed up to speak prior to the meeting, but
+would like to do so, you may approach the podium, when I call for any additional speakers and line up
+behind the podium.
+For anyone attending virtually, if you wish to speak and have not already done, you can raise your virtual
+hand on Zoom or press star 9 if you're dialed in by phone. Staff will unmute you when it is your turn to
+speak. And if you are dialed in via phone, you can press star 6 to toggle the mute settings on your phone.
+Please bear in mind that anyone participating in this process is being recorded, and if you do not wish to
+be recorded, you are welcome to submit your comments in writing to the RTD Board Office. If any speaker
+has documentation or reference materials to accompany any comments to be shared with the Board, you
+may submit those written comments or any of those reference materials to the Board Office using the email
+address rtd.boardoffice@rtd-denver.com..
+During this public participation period, the Board does not offer any direct comments or responses.
+However, if you would like to be contacted regarding your comment, you may email the RTD Board Office
+the previously noted email address rtd.boardoffice@rtd-denver.com. Speakers, please begin your remarks
+by stating your names, and you will have up to three minutes to provide your comments. I will let you know
+when that three minutes has come up. At this time, I will start with our in-person speakers who have signed
+up, starting with Emma Griffin.
+EMMA GRIFFIN: Hi, my name is Emma Griffin. Thank you for allowing me the time to speak. I am a colead
+for Greater Denver Transit, and I would like to take the time to thank the outgoing RTD Board Chair, Erik
+Davidson, as well as Directors Jaime Lewis, Paul Rosenthal, Doug Tisdale, Bob Broom, Bobby Dishell, and
+Marjorie Sloan. I know this has not been the easiest time to lead RTD, but we as an organization are
+thankful for the Board's work through these turbulent times.
+ERIK DAVIDSON: Thank you very much for your comments. Our next speaker is Paolo Solorzano.
+PAOLO SOLORZANO: Hi. Paolo Solorzano, RTD Riders Alliance. I just want to start off by saying a few
+good things that I've noticed out there at RTD. . I've been taking surveys with stat team the last few months,
+
+so I've talked to a lot of riders and the 19 and under free fare for youth has been amazing. Almost every
+child has been saying that they're using it more now than before, almost like 95% So it's amazing.
+But, unfortunately, I have some things that I think need to be urgent. These are things that are on the RTD
+Riders Alliance Facebook page. We're hopefully going to get a website soon. But these things have been
+coming out for since 2018-- have been a problem since 2018. Real-time scheduling, signage, incorrect
+signage, ghost trains, leaving people stranded.
+This, of course, doesn't-- you don't have to say this. People end up spending hundreds of dollars on Lyfts.
+They're barely trying to pay rent right now, and they're unable to get to their second job right now because
+that's a requirement for a lot of people.
+And with the way things are on top of ghost trains happening, it's $100, $200, $300, $400 a month that
+people cannot afford. And I've talked to a lot of people that have rescheduled their medical appointments
+until after the construction, more than I ever thought I'd hear about. But I've personally experienced that
+with my orthodontic appointments. I've missed three of them last year.
+Really quick, the light rails-- I mean, the real-time scheduling in the last few months has been really bad.
+The snowstorm, the biggest snowstorm we've had in for a long time, 11/8 through 11/9, the Next Ride was
+down all day long. Customer service was not aware that the Next Ride system was down all day long. I
+guess it was down for a week or two before that as well. And again, during the wheel break, when there
+was a wheel break in 11/18, five lines were delayed.
+I was out there on 16th Street talking to people, many white collar workers who had all their plans messed
+up. There were ghost trains. The Lamar station signage and the light rail Next Ride was all not syncing up,
+and people were having to go from 16th Street to Union Station to try to make their connections. And then
+the A line has been down. It was down for a week or more. It finally is going up and running. But yeah, I
+guess I'll just leave it at that. That needs to be an urgent thing. And everyone I've talked to hopes to hear
+you guys talking about how that is going to be fixed immediately. So thanks.
+ERIK DAVIDSON: Thank you very much for your comments and for joining us. Our next speaker signed up
+this evening is Danny Katz.
+DANNY KATZ: Hi, there. My name is Danny Katz. I'm the Executive Director of CoPIRG, the Colorado
+Public Interest Research group. And I'm here to celebrate. So I'm here to celebrate the passage of 7A. I
+just wanted to make sure there was some moment set aside in this Board meeting to just acknowledge that
+was a significant win in victory for transit in our region. And there was a lot of people, obviously, all of you
+played a role in letting the public know and educating the public about the importance of voting yes on 7A.
+But there was also a coalition out there, and I wanted to take a moment to make sure that people recognize
+all the different groups and individuals that were out there spreading the message of vote yes on 7A. There's
+probably more than what I'll read here. But I wanted to just acknowledge, especially through a campaign
+effort called Keep Transit Moving. There were a lot of different organizations and individuals.
+
+So to give you a taste and a flavor of all the groups that were out there saying vote yes on 7A, I want to
+thank on behalf of the coalition groups like the Arc of Aurora, Adams and Jefferson County, the Center on
+Law and Policy, Poverty Law Center, the Cross-Disability Coalition, AARP Colorado, Denver Streets
+Partnership, Greater Denver Transit, Servicios de la Raza, the Southwest Energy Efficiency Project.
+Bicycle Colorado, Conservation Colorado, Sierra Club, the Atlantis Community, the Colorado Children's
+Hospital. Pedestrian Dignity, the ATU 1001, Commuting Solutions, West Corridor TMA, Transportation
+Solutions, Downtown Denver Partnership, a number of different chambers across the region, including the
+chambers of Commerce from Boulder, Denver Superior, the Northwest Chamber Alliance, Denver South,
+Broomfield, the Colorado Restaurant Association, Mile High Chapter.
+Lots of other elected officials out there, including the Metro Mayors Caucus as a caucus, but then
+individually, mayors that were getting out there and promoting the Yes on 7A effort, including mayors from
+Boulder, Broomfield, Wheat Ridge, Denver, Golden, Littleton, Westminster, Lakewood, Longmont, and
+Arvada. A number of city council members, towns-- whole city councils and towns were endorsing this.
+A number of state legislators as well, so specific shout outs to those who endorsed and added their names
+to our campaign pages include Representative Weissman, Titone, Amabile, Froelich, Jodeh, Mabrey,
+Lieder, Daugherty, Senators Michaelson, [INAUDIBLE], Senator Winter, Senator Bridges, Marchman,
+Sullivan, and Senate President Fenburg. I also again, want to acknowledge-- I'm sure the Board members
+were doing a lot out there as well as any and everyone who contributed to the campaign any money.
+We know that voters have said don't cut RTD's budget. That's great. The next step now is to paint a picture
+of the future that involves growing our transit system and really filling some of the gaps that still exist. And
+that's really falls to the shoulders of not just but the incoming Board members. So again, let's celebrate the
+win on 7A, and thanks for everybody, and hopefully, I didn't miss anyone. Thank you.
+[APPLAUSE]
+
+Thank you for joining us, thank you for your comments, and thank you for your work. Our next speaker is
+Keith Brooks.
+KEITH BROOKS: Well, for seven of you-- oh, hi. Yeah, I'm Keith. For seven of you, this will be your
+penultimate time you'll have to hear me yap. My condolences. Well, it wouldn't be a Keith comment if we
+weren't doing it live, so there's much to discuss. But I don't want to be that one kid that reminds the teacher
+to hand out homework on the last class before break.
+So I just want to say thank you. Thank you for putting up with me for however long I've been coming to
+these. I know, early on, and maybe more recently, I've meandered a bit. But this opportunity has really
+helped me grow, and I really do appreciate it.
+
+I wanted to point out some good things that are happening that have not even been made public, but show
+improvement and learning, and that if the last time is bad, the next time will be OK, and the time after that
+will be great. So, for example, slow zones-- they're still there, but the amount of track one rail burn takes
+down has been improved because, at first, it was just-- we haven't found all of them, so shut it all down. But
+they aren't shutting down all of the sections between stations when they find one rail burn. They just do a
+few hundred yards on either side.
+Also, no official announcement has been made of this, and we'll get to the budget later, but no item in the
+budget has been found for it because it's been too detailed. But contractors with heavier equipment have
+been seen out working on the rails, just spotted like a rare bird. There has been no official acknowledgment
+of that, but we see it, and we thank you. So to all the Directors, to all of the staff, thank you for a hard but
+solid 2024, and here's to a better 2025. Thank you.
+[APPLAUSE]
+ERIK DAVIDSON: Thank you for your comments and thank you for joining us. Those are all the folks who
+signed up to speak here in person. However, at this time I'll ask, is there anyone who was hoping to address
+the Board that did not sign up? Please line up behind the podium and approach. Please start by introducing
+yourself, and then you will have up to three minutes to speak, and I will let you know when that three
+minutes. Is approaching.
+TRENT TAYLOR: Just introduce yourself? OK. Hello, my name is Trent Taylor. I'm a labor and employment
+lawyer here in the city of Denver. I work and live in the city of Denver. I recently moved to Denver for a new
+job, and I wanted to provide a personal perspective on behalf of myself and other people who are eligible
+and make use of the Access-a-Ride on-Demand program.
+I started experiencing vision loss about eight years ago and became entirely dependent upon public
+transportation for my travel and my commute about six years ago. So I understand the importance of this
+program. And I would like to address the contemplated cuts to that budget and the effects that it will have
+on the population of Denver who use that Access-a-Ride on-Demand program and the other fellow citizens
+of the Greater Denver Metropolitan region.
+First, the Board has proposed limiting the use of the Access-a-Ride on-Demand program to 30 trips a
+month, which is entirely unfeasible for people like myself and many others who depend on that as a means
+of commuting to work. Those who hold full-time jobs work five days a week will use at a minimum 40 times
+a month or 44 times a month.
+In addition, the cost or the limits of the eligible trips will severely impact the tax revenue base for the city of
+Denver and outlying communities because people like myself and many others who use that to frequent
+local shops and businesses, who pay sales taxes on those expenses, will be forced either not to engage in
+that part of the economy and purchase from out-of-state businesses or online services which do not bring
+tax revenue to Denver. And so those are very important concerns.
+
+I moved here to Denver in part because-- or largely in part because of its public transportation system,
+which would enable me to live a full life, which means going to work, getting the goods and services that I
+need, spending time with family and friends and partaking in social activities that I could not enjoy otherwise.
+ERIK DAVIDSON: I'm sorry to interrupt you. That's at three minutes. If you could just take a few seconds
+to wrap up, please.
+TRENT TAYLOR: Well, I would just urge that the RTD Board take these facts into consideration when
+determining what they're going to do with that. And I was the final comment I would say, we still have not
+received a cost-benefit analysis of these cuts, and that's essential to making an educated decision about a
+proposed cut that would affect a large group of people. Thank you.
+ERIK DAVIDSON: Thank you very much for joining us and for your comments this evening. We'll ask our
+next speaker to approach the podium, introduce, and you have three minutes.
+CHRIS NICHOLSON: Hi, Directors. My name is Chris Nicholson. When I first met Jaime Lewis, I didn't
+know what to think of him. We were competing for the same appointment. When he got picked, I will admit,
+I wondered if RTD had just gotten a seat warmer. What I didn't know then but do now is that Director Lewis
+has been a stellar Board member. He has used his time to dig into the details on the agency's decisions,
+advocate persuasively on issues like paratransit, and set a high bar for the person who will succeed him on
+the dais.
+Thank you, Jamie, for stepping into the heels of another incredible public servant, former Director Kate
+Williams, who served the previous seven years. Kate, thank you for your incredible work for so many years
+and your ongoing advice, helping me prepare to follow you and Jaime as Director for District A. I look
+forward to asking both of you for lots of advice and guidance in the years to come. I hope I'll live up to the
+impressive example that you both set.
+Last, my dear friend Paul Rosenthal will be leaving the Board after tonight. Paul has served this agency
+admirably for four years, and taught me so much in that time about just what it means to be a Board member,
+serving as a model with the incredible public engagement that he has done in the community over the last
+four years. It's as if everyone in District E knows Paul personally, and he has taken the time to listen to
+community in a way that I hope to embody. Thank you, Paul. You're such a mensch. And thank you all.
+ERIK DAVIDSON: Thank you very much for your comments, and thank you for joining us. At this time, I'm
+not seeing anyone else who has lined up behind the podium to speak in person, so we'll go ahead and
+move to our remote attendees. And as usual, I'll ask Mr. Jack Kroll, the Executive Manager of our Board
+Office, to please assist me in calling those names and individuals for those attending online. When your
+name is called by Mr. Jack Kroll, you will be unmuted, or you can unmute yourself, and you'll have up to
+three minutes. And you may begin when Mr. Kroll calls your name. Mr. Kroll, the first speaker, please.
+JACK KROLL: Thank you, Chair Davidson. We have a bit of an interesting situation going on here in which
+it appears that we have one individual who has registered and then distributed their registration link to
+several others. Nothing wrong with that. It's just going to make it hard for me to know who is next to speak.
+
+So at present, I see an individual by the name of Curtis Chong with four hands raised. So what that likely
+means is there are four individuals using the same link to provide public comment. Again, nothing wrong
+with that. I'm just not going to be able to know who's next. And so we'll go now I presume to the first Curtis
+Chong. And if you can unmute yourself and provide public comment.
+ERIK DAVIDSON: Please go ahead. If each of you can just introduce yourself for the sake of the record,
+and then you'll be recognized for three minutes. We'll start with the first.
+JESSICA BEECHAM: Hi. I believe I'm the first Curtis Chong. My name is Jessica Beecham, President of
+the National Federation of the Blind of Colorado, and I wanted to start by saying thank you to Debra Johnson
+and her team. We, as the National Federation of the Blind of Colorado, passed three resolutions in our
+convention this year dealing with RTD and things that we as an organization were looking for some
+resolution around. And she and her team met with us a couple of weeks ago. We had a really positive
+meeting and, I think, have some really great action steps to move forward. So I just wanted to commend
+the RTD staff there.
+I did also want to talk a little bit about Access-on-Demand. We got an email that there are going to be some
+listening sessions coming up during the busiest part of the year, when people are doing holidays and
+wrapping up work and all of those kinds of things. And there are two times for listening, but this is a terrible,
+terrible month for that. So I'm hoping that there will be additional sessions in January as we move forward
+so that we can make sure that people aren't so caught up in the holiday minutia and all the things that go
+along with that they're not able to attend those listening sessions because those are going to be really
+critical.
+I want to echo Trent's sentiments around the 30 rides just simply not being enough for folks that work, and
+that there are other I think, concerns that might be able to be addressed differently that hopefully could still
+result in savings of dollars but that would allow us to keep more of the integrity of the service that people
+have grown to really utilize and appreciate in the blind and low vision community for those of us who utilize
+Access-on-Demand. So I think that's all I have. So thank you so much for your time. Thank you to the
+outgoing Board members, and thank you to the incoming Board members who will be tackling these really
+tough issues moving forward.
+ERIK DAVIDSON: Thank you very much for joining us this evening and sharing your comments. I'll actually
+go ahead, Mr. Kroll, and work through that first list and then come back to you for our next speakers. So
+we'll go to whoever is second in the queue under Curtis Chong.
+NATE TRELA: Hello, this is Nate Trela in Englewood. I am, I guess, Curtis number two. I definitely wanted
+to first appreciate the opportunity, as always, to speak to the Board and want to thank all of you for your
+service through your terms here. I know not all of you will be part of the final decisions about the changes
+to the paratransit program, but certainly, there's been a lot of discussion even for from those of you that will
+not be there. And I appreciate the due consideration the Board is giving this.
+The public input opportunity is very important, as Jessica just mentioned there. Sending out an email 30
+minutes before today's Board meeting announcing one midday session tomorrow-- or one midday session
+
+next week and then one evening session is an incredibly busy time of the year in the holiday season.
+Certainly seems if someone were trying to minimize the public input taken, that would be hard-pressed to
+find a more effective way to do that. So I certainly hope there will be further dialogues, perhaps even some
+in-person sessions, to really have a constructive discussion about what shape this program is going to take.
+Understanding that what was discussed with the operations committee a few weeks ago was just a first
+proposal, that first proposal is does seem woefully inadequate to provide service to people to participate
+fully in their community. As was mentioned, if it's actually cut to 30 rides, that would make it impossible for
+people to-- people cannot commute on a regular basis using the program. If someone was working full-time
+and was a single parent and had to make multiple stops, forget it. They'd be out of trips in a week and a
+half through the month.
+The possible changes to the boundaries and the operating hours could put a whole new burden either on
+the staff that's already having to manually deal with different issues with the program or possibly transfer
+that burden on to consumers and, again, make it-- just continues to make the service less and less efficient
+to use.
+I know some of the Board members have commented-- operations committee meeting-- that you haven't
+really received the detailed financial backup to support these decisions to enable you to make really
+educated calculations about alternatives to what's initially been proposed. I really think that information
+needs to be provided more clearly than these summaries that have been part of the proposals.
+And last, I sometimes feel like I'm beating a dead horse on the multistop issue. I've been talking about that
+for several months. Nothing brought home the importance of that more clearly than that storm last month
+because what could have been a 10-minute round trip for me, taking my little one to school turned into an
+hour and a half of standing in the snow, enduring cancelation after cancelation after cancelation just to get
+the return trip home. So I really would encourage the Board to find a way to restore that capability as well,
+even though staff has stayed silent on the possibility of that through this entire process. I appreciate the
+time and thank you.
+ERIK DAVIDSON: Thank you very much for your comments and for joining us this evening. I'm going to go
+to Curtis number 3, please.
+MAUREEN NIETFELD: Hello, I'm Curtis number 3. My name is Maureen Nietfeld, and I am Second Vice
+President of the National Federation of the Blind of Colorado. And I'm also Director of Student Services at
+the Colorado Center for the Blind. I am a blind person who lives with multiple disabilities and is very
+dependent on the Access-on-Demand program. Fixed routes are not an option for someone like me, and
+this has allowed me to maintain my career as well as many, many volunteer hours.
+I'm also a parent of a six-year-old child, so gutting this program to 30 rides within that 3/4 of a mile boundary
+is just incredibly detrimental to so many of us that really depend on this service. And, of course, I agree
+with Jessica and Trent, my colleagues, and I just want to second all of what they are saying.
+
+And also, I just want to say how incredibly disappointing it was to open my email up 30 minutes before this
+meeting to see two options for listening sessions next week, which I think all of us could probably tell you
+how busy our calendars are literally every day until the new year that this is when it was decided to have
+these listening sessions.
+And on an issue that is as important as this, to do something like that felt like my population and my
+community of blind and disabled people are-- maybe we're just being viewed as we're just not that busy
+and we have plenty of time to just jump on a call next week. And that's not the case. So I actually feel like
+it was ableist, actually, to send something like that. And I know that feels strong, but that's how I felt reading
+that. And I think that a lot of people would agree with that in our community, seeing something like that. So
+thank you for hearing my comments.
+I also just want to thank the outgoing Board members. And also, Tom, it was very touching to hear how you
+just really honored him tonight. And I really appreciated that, and I enjoyed that. And I'm pretty sure that it
+was Tom that reached out to us at the Colorado Center for the Blind when the talking stops were being
+implemented in the bus and asked us, as blind people, what we wanted to hear. And that is true
+collaboration. And I just want to thank tom publicly for that. Thank you.
+ERIK DAVIDSON: Thank you very much for your comments and for joining us. We'll now move to our fourth
+and final Curtis, please. Do we have another individual signed up under Curtis Chong that would like to
+unmute themselves and speak? Mr. Kroll, are you seeing still another-FITZ STONE: Excuse me? Yes, thank you.
+ERIK DAVIDSON: Thank you. We can hear you now. Please go ahead.
+FITZ STONE: Yeah, my name is Fitz Stone. I'm an employee for the Colorado Center for the Blind. I'm also
+on the Denver chapter board. And I use this service every day to get to work, and 30 rides would just not
+be enough. So I don't want to speak too long, and I do echo everything all my colleagues said. And I just
+want to impress how important this service is to me and being able to get to work and do things with my
+family and volunteer and all the activities I do every month. So I look forward to being in more of these
+meetings, and I want to thank all the incoming and outgoing Board members for all your service and just
+thank you very much.
+ERIK DAVIDSON: Thank you very much for joining us and for your comments. Mr. Kroll, I'll hand back off
+to you. If you could please call our next speaker, and for our next speaker, once you hear your name, you
+will be recognized to unmute yourself and speak for three minutes. Mr. Kroll?
+JACK KROLL: Yes, Chair Davidson. The next speaker we have is Ian Frasch.
+IAN FRASCH: Hello, I'm Ian Frasch. You may remember me from the last meeting. I live in the Wash Park
+West neighborhood, and I want to continue to push for better pedestrian access to I-25 and Broadway
+Station from Ohio Ave, which is the closest street to the station. A little update on that I-25 and Broadway
+
+project-- they did pave the new pathway that Dottie did as an alternative to the desired pathway that cuts
+through the parking lot under the new ramp.
+They paved that, so that one's there to stay. But it does feel like we really should have this shortcut path
+through the RTD parking lot. It's just such a short distance, and it feels like all we need is a little curb cut
+into that parking lot, and then just a little pathway in between the parking spots, going under the ramp,
+taking you right to the station.
+There was a response from RTD after I brought this up last time, a letter from general manager Debra
+Johnson, basically continuing to say that RTD blocked this path from Ohio Ave that was kind of shortcuts
+through the parking lot for safety reasons because there would be conflicts between automobiles and
+pedestrians. Pedestrians would be required to cross a busy bus movement area to reach the station.
+And I have some issues with that response. I mean, the biggest one is if this is a parking lot and parking
+motorists are going to be walking that route anyway, why is it OK and safe for them to walk it but unsafe for
+local neighbors trying to walk or roll to the station? And then, also, the alternative path crosses the new
+highway ramp. Well, how is that safer than cutting through an RTD parking lot, which those are all over the
+place at RTD station. That's not really a safety concern walking through parking lots. Everybody's used to
+that.
+And there's already a path from the tunnel under the new ramp to the station. It's already there with curb
+ramps and everything. And I stood there and I walked back and forth during 5:00 PM rush. And it doesn't
+feel unsafe. There's very low traffic because it's just kind of occasional bus going by. So it doesn't make
+sense to me to keep saying this is an unsafe pathway.
+And I do think it should be an RTD's best interest to prioritize fast, convenient pedestrian access from the
+closest homes to the stations in order to maximize ridership. I don't think they should be focusing solely on
+park and ride access and just ignoring everything else. I think this is really low-hanging fruit, and I hope that
+RTD will reconsider and just add a little pathway through that parking lot, and perhaps the new Board
+members will continue to try to push for that.
+ERIK DAVIDSON: Ian, I'm sorry to interrupt, but we're over three minutes, if you would just take a few
+seconds to wrap up your comments, please.
+IAN FRASCH: That was it. Thank you.
+ERIK DAVIDSON: Well, thank you very much for joining us. And thank you for sharing your comments with
+the Board. Mr. Jack Kroll, do we have another speaker in the queue?
+JACK KROLL: Chair Davidson, at this time, I see no further speakers in the queue.
+ERIK DAVIDSON: OK, thank you, Mr. Kroll. For the sake of the record, could you please note any
+comments that were emailed to the Board for today's meeting.
+
+JACK KROLL: Yes, we've received two letters in advance of this evening's meeting, which were distributed
+to you all. Both were from Greater Denver Transit. One was simply a final end of the year message, and
+the other was a letter that contained a number of questions related to the 2025 budget. And that letter
+received a prompt response from staff that was also distributed to the Board as well.
+ERIK DAVIDSON: Thank you very much, Mr. Kroll, for reading that into the record. With no other
+participants in the queue and seeing no other hands raised at this time, we will close the public participation
+period. I'd like to thank everybody, as always, for taking time to attend and share your comments with this
+Board. While we don't offer comments during this period, we do hear them and we thank you for your
+advocacy.
+At this time, we will move to the external entities report this evening. We do have two updates from external
+entities. The first will be from the Advisory Committee for People with Disabilities, and Mr. Earl Lee is
+present to share an update. So with that, Mr. Lee, the floor is now yours.
+EARL LEE: Thank you, Chair Davidson. On November 12th of this year, a joint meeting of the ACPD and
+APAC committees was held virtually. The meeting included members of both the ACPD and the APAC
+committees, along with ex-officio members, RTD staff, and members of the public.
+The first part of the meeting, Joshua Kaufman, the ADA coordinator for the University of Denver, stated that
+his office is conducting an accessibility review of the campus and that they have found several barriers to
+public transportation for people with disabilities. When asked to describe the barriers, he described deep
+curb cuts, damaged sidewalks, and poor snow removal.
+ACPD Chair Earl Lee explained that RTD is only responsible for maintaining property that they own. Julie
+Jennings suggested Mr. Kaufman contact the city of Denver Disability Rights Division for assistance. Mr.
+Kaufman then asked if RTD's area of responsibility includes access around the bus stop. Gabe Christie,
+ADA Manager for RTD, further defined RTD area of responsibility to the pole in the ground. Kristina Ericson
+explained the issues Joshua Kaufman brought up would be under the jurisdiction of Denver's Department
+of Transportation and Infrastructure
+Mr. Lee then brought forward his reliance on the accuracy of the Access-a-Ride tracking app on his phone
+and the 10-minute notification call to assure his ability to maximize his personal time and assure-- his ability
+to maximize his personal time and ensure that he is at the pick up location without any delays.
+Recently, he's noticed that the ETA indicated in the app may show a time, such as 40 minutes away, then,
+only moments later, 5 minutes away, causing him to rush to meet the vehicle that doesn't show up for 10
+or 15 minutes. The notification calls that are supposed to be approximately 10 minutes may not happen
+until Mr. Lee is on board and has left the location. No real explanation was available or was given to Mr.
+Lee during this time other than the drivers may not be clearing their previous call until they are en route to
+the new location.
+The other point that Mr. Lee brought up at this time was a recent trip where he was picked up in Littleton
+on a trip bound for Arvada, was on board the Access-a-Ride bus for a little over two hours as he took a ride
+
+to Aurora, past the Aurora Mall, before turning around and going back to Arvada, which seems a little bit of
+a long time to be on board.
+And he brought up the concern for both passengers and drivers as being an awful long time to be on board
+when someone may need to take a restroom break or something like that. So it was mentioned in the
+meeting that time on board is one of the issues that is being looked at. So that will be handled in the future.
+Joe Beaver, ex officio member, attempted to use a wave vehicle to book a ride and was told that no vehicles
+were available. He attempted 3 three times and continued to get the same response that there were no
+vehicles available. He eventually booked an Access-a-Ride call and was charged full price where he should
+have been charged a reduced fare.
+Through some questioning, it became apparent that he may not have properly registered himself. And so
+that particular situation he was going to follow up with the Access-a-Ride people and determine whether he
+is in fact, registered properly. So I believe that one is going to be resolved.
+Gabe Christie, again, the ADA Manager, described the ACPD work plan. The ACPD committee is being
+restructured a little bit in how it's going to operate.
+And in 2025, there are going to be some goals set. One of those goals is going to be set by the-- it's going
+to be set by the ACPD steering committee. And the members are going to now sign up for particular tasks
+and are going to be responsible for fulfilling those tasks throughout the year. This way, in, they will have
+more input, and I think it will make a much more productive committee. I look forward to seeing that.
+One of the tasks that we're going to be looking at is the renaming of Civic Center Station, also the 35th
+anniversary of ADA and the downtown rail construction and some of the possibilities of whether the new
+pro-WAG regulations will affect that upgrade down there.
+The trail expansion on the W Line-- Joe Beaver, again ex officio member, stated that a fence has been
+erected on the trail between the Oaks Station and the Everett Court in Lakewood, which blocks his most
+direct route to the station. Greg Martinez asked in the chat whether it was temporary maintenance or other
+project affecting the area. And the facilities team is going to look at that.
+The Anne Hillyer Award for Integrity-- Gabe Christie explained that the Anne Hillyer Award for Integrity,
+previously named ADA Heroes Award, was given to employees who went above and beyond service to
+customers with disabilities. The award has been renamed for a former ADA investigator specialist who was
+passionate. After working in the ADA office for four years, she passed away from cancer in 2021. The award
+now honors employees who show the same integrity and commitment to accessibility.
+Gabe then described the commendations for the first four awardees, who were selected in conjunction with
+Mr. Lee, ACPD chair. They are Al Espinola Felipe Munoz-Ramos, Hosie Mitchell, and Justin Homan. These
+awardees will receive a certificate and will be identified and honored at the upcoming Board meetings. At
+that point, ACPD's portion of the meeting was concluded and it was turned over to the APAC for their portion
+of the meeting. Thank you for your time.
+
+ERIK DAVIDSON: Thank you very much, Mr. Earl Lee, for joining us and for your detailed report. Next, we
+will move to an update from our Access-a-Ride and Paratransit Advisory Committee. And Ms. Julie
+Jennings has joined us to present her report. Ms. Jennings, the floor is yours.
+JULIE JENNINGS: Thank you, sir. I'm Julie Jennings with the Access-a-Ride paratransit committee,
+November 12th summary. We received a few updates-- introduction of two new APAC members, Richard
+Martinez and Robert Morris. Also, retesting of the [INAUDIBLE] web portal is still underway. [INAUDIBLE]
+is working to resolve functionality issues and make further improvements. The testing and resolutions
+should be completed soon.
+We had some discussion with Fred Worthen, the Assistant General Manager of Bus Operations. He
+provided an overview of the engagement work since the peer review report, and I believe he received the
+same overview. That completes my summary. Thank you for your time.
+ERIK DAVIDSON: Thank you very much, Ms. Jennings, for joining us, as always, and thank you for your
+continued work. That concludes our external entities portion of our agenda. We'll now move to our
+committee reports. We'll start with the audit committee. I'd like to just note, for clarity and sake of the record,
+that sadly, although he has joined us this evening, former Director Dishell did have to resign early from the
+Board due to a move and relocation, although is still serving on the audit committee.
+But given that he is not here, I will hand the floor off to Director First Vice Chair Catlin to share whether she
+has anything to share from the audit committee.
+PEGGY CATLIN: Thank you, Mr. Chair. The audit committee did meet on Thursday, November 14. It was
+chaired by Director Dishell, and we will miss him. But we're fortunate that he agreed to stay on for the extra
+year for the audit committee. The audit committee is recommending to the full board for tonight's meeting
+for the appointment of director Vince Buczek to the committee. And you'll be considering that tonight. But
+I'm really pleased that Director Buzek did step up to serve on that committee. There was an internal audit
+update presented by Matt Marino, Chief Audit Executive from RubinBrown and Doug MacLeod, our Chief
+Financial Officer.
+And, basically, most of the audits that were scheduled to be completed this year were completed. And a
+full report was given on the safety audit that was completed this year, as well as an audit on Denver Transit
+Partners as a contractor. So those were completed audits and should be available for directors to review.
+And then there was also a discussion about the internal audit function review and where we were.
+There will be a 2025 enterprise risk assessment conducted to then determine the program going forward.
+And there also will be an updated schedule discussed because we wanted to provide a little bit more regular
+cadence to the audit committee meetings so that we can anticipate when those will be held. So the next
+meeting will be held in February of 2025. And that concludes my report. Thank you.
+ERIK DAVIDSON: Thank you, Director Catlin, for the report. And thank you to both you and Director Dishell
+for all the work on that. And thanks to the Board and staff for leaning in to a still relatively new but everimproving audit process.
+
+Next move to our Finance and Planning Committee report. Committee Chair Tisdale, do you have anything
+you'd like to share?
+DOUG TISDALE: Thank you very much, Mr. Chairman. If only because the opportunity is presented do I
+take this opportunity to speak. Anything that we covered in the Finance and Planning Committee meeting
+is on our agenda this evening. So other than being a very wonderful last meeting that I will chair for the
+Finance and Planning Committee, we have nothing further to report at this time. Thank you very much, sir.
+ERIK DAVIDSON: Thank you very much, Committee Chair Tisdale, and thank you for leading that
+committee this year. Very much appreciated. Next move to our Operations Safety and Security Committee
+report. Committee Chair Whitmore.
+TROY WHITMORE: Thank you, Mr. Chair. We have two items on the agenda tonight that were discussed
+at our Wednesday, November 13 meeting. So I won't go into those in any great length except to say that
+the Title VI Service Equity Analysis was passed unanimously, and it's on the unanimous consent agenda
+tonight. And also, very importantly, the January 25 service change document was approved by a majority
+of the members of the committee, and that will be considered in a few minutes later tonight.
+We did have four discussion items that were very thorough and a really important update in a number of
+facets. The first one was our HR update, our people power situation, and things are trending definitely in
+the right direction.
+We also had a Transit Police Department update by our cochiefs, which was very informative, an update
+on facilities and fleet transition plan, which is very exciting and really gave us a comprehensive picture of
+our future planning needs for, obviously, vehicles and the facilities that we utilize to service and repair them.
+And, finally, a paratransit peer review final report, topic of discussion by the general public and a number
+of meetings, including tonight. And that was a report and then outline of our next steps in that process.
+Next meeting will happen in January. I don't believe we have the date yet, but we will soon. Thank you.
+That's all.
+ERIK DAVIDSON: Thank you, Committee Chair Whitmore. And thank you very much for your leadership of
+that committee throughout this year as well. Next, we'll move to the Performance Committee, and I'll ask if
+Committee Chair Catlin would like to share anything.
+PEGGY CATLIN: Thank you, Mr. Chair. The Performance Committee met twice in November. The first
+meeting was Monday, November 11, at which time we convened an executive session.
+And then we met once again Thursday, November 21. And at that particular meeting, we passed the
+recommended action for the Board of Directors to approve general manager and CEO Debra Johnson's
+performance appraisal for the 2024 calendar year performance cycle and, in connection to that, approve a
+4.86% increase to the GM CEO's current annual base salary.
+
+Even though it passed unanimously, that will come before the board this evening. And the next meeting
+date was tentatively scheduled for yesterday, but that had been postponed until December 10. But we're
+still trying to work out some logistics for that meeting, so stay tuned. Thank you.
+ERIK DAVIDSON: Thank you, Committee Chair Catlin, and thank you for your leadership of the
+Performance Committee this year. Always a busy time at the end of the year, so thank you for your
+leadership. At this time, we'll move to the approval of our Board meeting minutes and committee reports.
+The Board and committee minutes were included in the Board packet. Are there any corrections from
+Directors for the minutes to be approved this evening? OK, not seeing any.
+Unless there's any objection to considering the minutes all at the same time, I will entertain a motion and a
+moment to approve the minutes for the following meetings-- October 22, 2024 special Board meeting,
+October 22, 2024 Board meeting, November 6, 2024 special Board meeting, November 11, 2024
+performance committee, November 12, 2024 Finance and Planning Committee, November 13, 2024
+Operations Safety and Security Committee, November 14, 2024 Audit Committee, November 18, 2024
+special Board meeting, November 21, 2024 Performance Committee, and, finally, November 21, 2024
+Executive Committee. Do I have a motion?
+TROY WHITMORE: So moved.
+DOUG TISDALE: Second.
+ERIK DAVIDSON: I heard Whitmore as the movement and second as Tisdale. Any discussion? Seeing
+none, are there any no votes? Seeing none, that will pass with 14 yes votes, 0 no, and 0 abstentions.
+At this time, we'll move to the Chair's report. This is my final chair's report, my final regular board meeting
+as your board chair and as a director on the RTD board of directors. So I'd like to make a few closing
+remarks in my time here, but before I do, I will go ahead and note, as I have been doing, several updates
+for the agency to call attention to the public and Board on.
+First and foremost, I do want to note that as of September 2024's audited financials, RTD's year-to-date
+sales and use tax revenue was at $633.3 million. That now puts our sales and use tax revenue 8% below
+budget. This is a gap that has been steadily growing. You'll recall that, as of August, we were 7.6 below-7.6%, that is. June and July were both 6.7% below sales and use tax budget, May was 5.8% below, and so
+on.
+I encourage the Board and the agency to watch this trend very carefully on consumer spending as you
+move into the new year, and as we see that data points are now beginning to form a trend. Given that we
+do have a notable favorable variance on the operating expenses portion of our budget, RTD does remain
+in a strong net position and does forecast continued strength in its net position through the remainder of
+this year, next year, and into the 5-year financial plan.
+So I simply call attention to this so that, as the Board, as we consider our 5-year financial plan, as we do
+when we enter that phase next year, and as we consider the fiscal year 2026 budget next year, we keep a
+
+vigilant eye on consumer spending trends given that we do have a bit of a trend line forming there. Ridership
+this year has remained below budget as of September 2024 but does remain up from 2023. We are 1.2%
+up year-to-date over 2023.
+In the Board packet, first of all, I'd just like to commend staff and thank them for the customer and community
+engagement report for January through October 2024 that appears on page 293 of the Board briefing
+document for anyone who is interested.
+We've continued to add data into our customer and community engagement and present that to the Board
+in a way that helps us understand exactly what the engagements have been and what the nature of those
+are, and the type of feedback that we're receiving. That then helps augment our survey data, to look at key
+drivers and help us really consolidate information that we receive from the public.
+And, as I noted before, we thank the public for being generous with comments and offering those and
+advocating. And I thank staff for working to bring a data-driven approach to collecting those comments and
+presenting them.
+Bus operations in September 2024 had a service availability of 99.75% and on-time performance of 79.29%.
+As the light rail slow zones improve, light rail operations in September 2024 did see some improvement
+from what, as we all know, was a difficult summer. The on-time performance was at 63.69%, which had
+come up from the 50s in the prior months and, most recently, 59% in August.
+Continued recovery of that on-time performance is anticipated. As I have continued to say, I thank our
+teams out in the field for working hard to ease that burden and work through that maintenance. And, most
+of all, I thank our customers for continued resilience and patience as we all work collectively to make sure
+that we're taking care of this transit system for future generations.
+Commuter rail operations in September 2024 remained strong and consistent with service availability over
+99% and on-time performance of the A, B, and G lines at 95.97% and the N line at 97.99%.
+Before I offer some concluding remarks, I'd also just like to note and thank the public for their faith and trust
+in the agency. In voting Yes on 7A. I'd like to thank Second Vice Chair Guissinger in particular, for her
+leadership last year and into this year of making this a very important issue. I think those of us that have
+served on the Board know it's hard to get a lot done. You have to really focus proactively on the things that
+are most important to get done. And across staff, across the Board, we did a lot of work to really understand
+what we were facing.
+And it is up to us to live up to what the voters have entrusted us with. We take that very seriously and give
+a very hearty thank you to all those in the public who helped us with 7A and trusting us with retaining those
+funds.
+So this is my last meeting-- regularly scheduled board meeting as a Board Director. And I'd like to offer a
+few words. So being an RTD Director is a public service role. This is about serving the public, about working
+
+for our neighbors to ensure that we have a safe, accessible, reliable transit system. And it's a privilege to
+serve in that role, and it's never really about us as Directors.
+But given that this is my last meeting, given that I'm not often personal in public meetings, I'd like to offer a
+couple personal words, because indeed, this does have an immensely personal aspect to it. This has been
+and will always be a highlight of my life, having had the opportunity to work with my colleagues here, to
+work with RTD staff, and to serve my neighbors on this Board of Directors.
+I love this region, I love RTD, and I have found it personally immensely gratifying and challenging in a good
+way that just adds to that gratification serving. Thank you from the bottom of my heart, and I thank the
+members of the public who trusted me, along with my colleagues here, to govern this agency.
+It may be a bit cliche, and some of my colleagues know this, including one former director who happens to
+be here. I have long and always admired Fred Rogers of Mr. Rogers' Neighborhood. I have found particular
+comfort over the years in something that Fred Rogers mother, Nancy, has said to him that became a
+common phrase over the past couple of years, I think, thanks to a documentary. She told him to, quote,
+"Look for the helpers. You will always find people who are helping."
+Perhaps one of the most rewarding aspects that I have benefited from in serving this role is meeting a lot
+of helpers along the way. Just within RTD, helpers are in abundance, from the folks who operate our
+services, buses, trains, paratransit vehicles, to the folks who make sure those vehicles operate safely,
+comfortably, and in a welcome way, to the folks who ensure that we are secure and safe, to many public
+servants who work at Blake Street here that no one will ever see or hear their names, there are literally
+thousands of helpers working at RTD.
+In the community, one thing I've gotten to learn and see and experience that has been personally rewarding,
+there are even more, from advocacy groups, neighborhood groups, community groups, members of the
+public who step up and take time out of their lives to offer time and knowledge and expertise to try to make
+public services better. Our society really depends on that-- people taking time out of their lives to choose
+to be helpers.
+I also want to personally thank-- and certainly, for the Board. I'll speak for the board and the agency-- but
+personally thank-- and I'll use first names this evening-- Jack, Marie, Jillian, Tai-Shrae. The four of you have
+done-- I've gotten to watch her work up close and leaned on you very, very heavily for that. You sit over
+there meeting after meeting and are always here. Yes, thank you.
+[APPLAUSE]
+
+Jack, Marie, Jillian, Tai-Shrae you are the epitome of helpers. And you do so much more than anyone can
+see. And that is true of so many roles at RTD. I just have the benefit of being especially close and in close
+proximity up in the office to the four of you.
+
+Tonight is also the final Board meeting for a number of my fellow Directors. Director Broom, Director Sloan,
+Director Lewis, Director Tisdale, Director Rosenthal-- additionally, Director Dishell, who had to resign just
+a little bit early. And, of course, earlier this year, we had to part ways with Director Williams when she also
+resigned. And we thank her for joining us.
+To those of you that are leaving and to all of you that remain on the Board and to all of you that have chosen
+to step up and serve on this board, thank you for all of the times that you have worked and strived to be
+helpers. That, too, has been gratifying.
+And I said I'll make some personal notes. Just a few months after joining this board, I had some pretty tough
+personal things hit me. And I had a lot of support and a lot of help from my colleagues here who I had only
+known for a matter of weeks. That includes staff, that includes Board. I simply cannot thank you enough for
+that.
+I wish this agency nothing but the best, the public nothing but the best for this transit system that we depend
+on, that we use, that we invest in. And I am willing to help in any way that I can. And I hope that I have done
+my part to work to be a helper to this agency in my time here. I have to conclude on another personal note.
+It is not always obvious that public service in this type of role is a family commitment. It is very much a
+family affair.
+So, if she's watching, I would like to thank my lovely wife Anastasia for her tremendous support in being a
+true partner in all of this, in serving the public, in serving our neighbors, and working to try to leave this
+region just a little bit better than we found it for those that come after us, Thank you from the bottom of my
+heart for supporting this public service rule.
+I leave this role filled with hope. I leave it filled with tremendous gratitude. And I thank all of you for being a
+part of that story that I will take with me for the rest of my life. It was not an easy decision to not be here
+starting in January. And with that, that will conclude my chair's report.
+And I would like to hand off to our general manager, Debra Johnson, and just say it has been a privilege to
+work with you as well. This has been a challenging year, as has been noted many times. I'm someone who
+values patience, resilience, calmness, and focus, and it has been tremendously rewarding and helpful to
+have a partner in that is managing the staff.
+Many on the team, and too many to name and thank, but some of you are in this room have been
+tremendous helpers as well. So I will hand off to our general manager, Debra Johnson. I do see a hand up,
+so happy to call before going to our general managers report, Director Ruscha, please.
+JOYANN RUSCHA: Thank you, Mr. Chair. Got you. So we traditionally-- because we have a rolling Board,
+we traditionally do the goodbyes in January. Did you say that you wouldn't be here for the January meeting?
+And would it be permissible for you to not call me out of order, and can if anybody wants to share anything,
+can we take a minute because we won't have that in January?
+
+ERIK DAVIDSON: I will not be on the board in January, but I will do my very best to be here for that tradition.
+So just-JOYANN RUSCHA: Well, you're on the board until your replacement is sworn in, so I guess I was just
+asking, will you not be at the meeting in January?
+ERIK DAVIDSON: Yeah, point well-taken. I will be there.
+JOYANN RUSCHA: OK, so we can-- all right, I just wanted to make sure that we have that opportunity.
+ERIK DAVIDSON: Thank you. Yeah, thank you for the clarification. So, with that-- oh.
+[APPLAUSE]
+
+KATE WILLIAMS: That was more than three minutes.
+[LAUGHTER]
+ERIK DAVIDSON: Thank you very much, Former Director Williams. That was indeed more than three
+minutes. And thank you for taking the time to allow me, and thank you for the applause. It means more to
+me than I can say. Again, tremendous gratitude. General Manager and CEO Johnson, the floor is yours.
+DEBRA JOHNSON: Thank you very kindly, Chair Davidson. And good evening once again to you, Board
+members, and to all who are assembled both in this room and virtually. I am Debra Johnson, as introduced,
+RTD's General Manager and Chief Executive Officer. This evening, I will share with you just a few highlights
+and a few highlights of activities and strategic endeavors since the most recently-held board meeting on
+Tuesday, October 22.
+I will do that, as I noted, in relationship to our strategic priorities and related to community value. On October
+23, 2024, I, along with Denver Mayor Mike Johnston, staff being specific to Michael Davies, our Government
+Relations Officer, and representatives from the Colorado Department of Transportation, as well as Denver's
+Department of Transportation and Infrastructure, we had the opportunity to join US Deputy Secretary of
+Transportation, Polly Trottenberg on a tour of the Denver region.
+Deputy Secretary Trottenberg's tour of the city, included visits to sites that had been the focus of public and
+private a transportation and transit investments, such as the surrounding area of Denver Union Station that
+really showcases great public-private partnership, the future of the Colfax bus rapid transit corridor, and the
+federal Colfax interchange. I am pleased to report that, just yesterday, on December 2, the solicitation for
+the next phases of the downtown rail reconstruction project was announced and also was included in RTD's
+procurement portal for public review.
+As the Board will recall, the first phase of the downtown rail reconstruction project began in May of 2024
+and focused on the 30-year-old infrastructure at five key intersections of the downtown loop. The full-depth
+
+reconstruction project involved removing existing rail concrete ties and ballast before rebuilding the
+embedded track along RTD's inaugural light rail line that opened October 7 in 1994. The first phase was
+completed ahead of schedule in September, and RTD is now seeking proposals for the remaining three
+phases of the project.
+To complete the remaining reconstruction work, which will resume in 2025, RTD will use a progressive
+design build project delivery approach. This approach is a project delivery method that combines the
+benefits of early contractor involvement with the design build model.
+This two-phase process involves the owner, being RTD, of course, and the design/build team, working
+together to develop a final design schedule and budget, and will accelerate the project schedule and
+minimize the overall impacts to the customers and the community. The solicitation process will result in a
+single contract being awarded for both the project designer and a construction contractor.
+Commencing in 2025, we anticipate-- because recognizing we don't know what we don't know-- so
+commencing in 2025, work on each phase may occur simultaneously. Phase two will address mid-block
+rail reconstruction in the downtown loop. Phase three will involve reconstruction efforts along the Colfax
+alignment. And phase four will address the Welton Street corridor.
+Similar to phase one in 2024, all D and H lines will be rerouted to Denver Union Station during the
+reconstruction work, and L line service, which connects 30th and Downing Station to the downtown loop,
+will be temporarily suspended. No light rail service will operate in RTD central corridor until the
+reconstruction project has been fully completed.
+Similar to phase one of the project, ahead of the project commencing, RTD will launch a comprehensive
+marketing, outreach, and communications campaign to ensure customers and the public are aware of the
+reconstruction project as well as impacts to transit services. Just as we did previously, we will keep this
+body apprised as we go forward with the project on a regular basis, more than likely monthly, when we
+commence with activities and recognizing the gravity of the award that would come before this Board for
+its consideration.
+Some other good news that we have relative to our Small Business Opportunity Office, Our teammates
+have implemented a software solution known as B2Gnow. It is a software solution that has been used for,
+I would say, several years, one of which I'm familiar with. And our team did some due diligence in reference
+to leveraging this and why we're so excited about this.
+It will enhance outreach efforts, identifying potential bidders or proposers on procurements for which a
+disadvantaged business enterprise or a small business enterprise goal has been set. In relation to our
+strategic priority of community value, the platform allows the small business opportunity team to post
+contracting opportunities and immediately notify SBEs or DBE firms.
+B2Gnow will be used as the main portal for vendors, which we call primes, when DBE or SBE goals have
+been set to report payments to DBE and SBE firms in an accurate and efficient manner. The SBOO office
+will also use B2Gnow as RTD's SBE certification portal and database.
+
+I do want to note that RTD, along with CDOT and the city and county of Denver, are entities that have been
+identified to certify the firms that I've outlined that have the classification of DBE or an SBE. And so, through
+those applications to SBOO and current certified firms can submit necessary annual documentation
+required to remain in the certification program. So the SBOO team anticipates the software to be available
+to all vendors by the end of the month.
+Related to customer excellence, RTD is gearing up to close out the year by supporting and participating in
+major holiday events in the Denver metro area. Grand Illumination just took place on November 29. The
+annual Grand Illumination event took place on the Plaza of Denver's Union Station historic building. The
+event featured family-friendly entertainment, including classic holiday hits, a visit from Santa and Mrs.
+Claus, and a grand lighting of the event of the station's outdoor 40-foot tall Christmas tree with more than
+7,000 holiday lights.
+Secretary Michael Guzman, who represents that area of his district, joined other local leaders in delivering
+remarks. RTD unveiled its 2024 winter parade bus during the event, and several employees volunteered to
+pass out holiday treats, such as candy canes and commemorative holiday ornaments, to attendees.
+This coming Saturday, December 7, RTD will once again have a presence in the annual Parade of Lights,
+where the winter parade bus will make another appearance. To accommodate the annual parade, detours
+and other service adjustments to several bus routes and rail lines are being coordinated with the event
+organizers. D and H line trains will not operate north of Theater District Convention Center Station, and L
+line service will be suspended until Sunday, December 8 at the beginning of revenue service. And once
+again, RTD's winter parade bus will make an appearance.
+And on New Year's Eve, RTD is once again coordinating with Molson Coors to offer zero fares on all
+services beginning at 7:00 PM on December 31 through 7:00 AM on January 1st to encourage individuals
+throughout the region to celebrate responsibly. The agency will again adjust service for New Year's Eve
+events in downtown.
+And before I go into my last topic that I will provide a briefing on, I too wanted to acknowledge all the
+contributions of those that comprise this agency. I want to thank our employees who selflessly have given
+of themselves during a very difficult time. They showed up in the face of adversity, delivering services to
+the best of their ability. Oftentimes, I think individuals lose sight that we are people in the people business
+and moving people, whereas we have feelings, there's emotions and there's a great sense of pride in
+reference to what we do. Being a servant leader is something notable, and not everybody is called to serve
+the public honorably in that vein.
+Moreover, I would like to thank the members of this body, all of you collectively, and a special note to those
+that are departing. Chair Davidson, thank you very much for your vigorous leadership, your call to action-your bias to action, as you often say, as it relates to me because I believe it is mutual. Thank you for showing
+up and showing out. Thank you, Director Rosenthal for your service, Director Tisdale, Director Sloan,
+Director Broom, Director Lewis, Director Dishell, as you noted, who had to depart earlier.
+
+And I'd have to give a shout out to my colleague and friend, Director Williams, who worked in partnership
+to ensure that we could bring into existence zero fare for youth. So, with that, thank you all.
+As I indicated before. I conclude the balance of my report, I will speak to RTD's ongoing engagement with
+the intercity bus carrier Greyhound. For the purposes of this update, I will be using the terms Greyhound
+and Flix somewhat interchangeably to collectively refer to the intercity bus service Greyhound and its parent
+company Flix, which purchased Greyhound from the British transport firm Firstgroup in October of 2021.
+By way of additional background, pursuant to a license agreement with RTD, Greyhound, along with
+Burlington Trailways and Black Hills doing business as Express Arrow, have been using specific gates at
+Denver Union Station's bus concourse since October of 2020, which preceded my tenure with RTD as the
+GM and CEO. On August 6, I informed the board via memorandum of my decision to allow RTD's license
+agreement for Greyhound use of the Denver Union Station bus concourse to sunset effective August 31 of
+2025
+Subsequent to the board's notification, my office sent a formal letter on Tuesday, August 13, to Flix's Head
+of Facilities and Real Estate to confirm that RTD intended the lease agreement to sunset with 365 days
+advance notice. Actually, it was a little more than that, but close enough.
+RTD and Flix representatives later met on September 12 to discuss RTD's decision, and RTD and Flix have
+continued to stay in contact since that time. I, along with members of my team, held a virtual meeting with
+Kai Boysen, who serves as the CEO of Flix North America, on Tuesday, November 12. And the following
+day, Wednesday, November 13, I called Mr. Boysan to convey RTD's continued commitment to assist in
+identifying a suitable location on or adjacent to RTD property for Flix Greyhound operations in the Denver
+metro area, with a focus on providing connectivity to local transit services.
+At that time, I also committed to consider a temporary extension of Greyhound's access to Denver Union
+Station, provided that our respective organizations continue to work in good faith to identify such a location
+expeditiously. Since the November 12 meeting, a [INAUDIBLE] of RTD subject matter experts has
+continued to collaborate with representatives from Flix, including Mr. Boysan to discuss greyhound's
+operational needs as well as potential locations in the Denver metro area that would offer local transit
+connections and that could best serve as an alternative terminal location.
+The teams have held productive meetings on Monday, November 11, Thursday, November 21, and an
+additional meeting is occurring later this week. In a call I had with Mr. Boysan just yesterday afternoon, he
+reaffirmed that this collaborative team approach is his organization's preferred method of engaging on this
+matter. RTD and Flix continue to engage in that manner, and I am optimistic that the outcome of this ongoing
+engagement will be mutually beneficial for our representative-- or, I should say, our respective entities. And
+with that, Mr. Chair, I will conclude my report and welcome any questions from Directors at this time.
+ERIK DAVIDSON: Thank you very much, General Manager and CEO, and thank you for providing that
+update on Greyhound and Flix North America. As has come up a couple of times, General Manager and
+CEO Johnson had agreed to answer any questions the Board may have on that topic. So I'll go ahead and
+
+open up the floor for questions on the Greyhound and Flix topic that was just addressed or any matters that
+are to be asked for the General Manager this evening. Director Lewis, please go ahead.
+JAIME LEWIS: Thank you, Mr Chair. As discussed in previous meetings, some of the current Board
+members and some of the Board-elects are concerned over the issue of the home base for the Greyhound
+bus system. And as an outgoing Board member, I would hope that staff and the board would work
+collaboratively together, possibly putting a work group together with two Directors in 2025 to either keep it
+in Union Station, look for another RTD asset, or, like you said, CEO Johnson, find a mutually-agreed
+alternate location.
+I just think it's really important that even though Greyhound is not an asset of RTD, I think it's our
+responsibility to make sure it stays in the metro, especially in the Downtown area, to provide people
+alternative transportation through a multistate company like Greyhound. And I appreciate the work that your
+staff has put in, but I would really like to see two board members involved in those discussions in 2025.
+Thank you.
+ERIK DAVIDSON: Thank you, Director Lewis, for the comments. Any-- Director Ruscha, please go ahead.
+JOYANN RUSCHA: Thank you, Mr. Chair. I just wanted to also just echo appreciation for engaging with
+Greyhound on this matter. I won't repeat what Director Lewis just said, except that I concur, and I had a
+question for our GM/CEO. You mentioned a temporary extension of their lease at DOS. Are you able to
+share with us what that time-- or more details about that?
+ERIK DAVIDSON: General manager?
+DEBRA JOHNSON: Yes, thank you very much, Mr. Chair. And thank you, Director Ruscha, for the question.
+At this juncture, I don't know if that will be needed, as we have identified some potential sites collectively
+and assessing what may be needed. What I have committed to-- and I want to state for the record, it is not
+my intent to, I would say, abort transit or intercity bus service to the Denver metro area.
+The point of the matter is we go forward is ensuring that remains. Due to operational incompatibilities, we're
+trying to find different locations. And what we're looking at is something in close proximity that gives access,
+as I said, to light rail and bus. That could happen before August of 2025.
+If we get to a point, as I've shared with the CEO, where there's additional time, if they needed to construct
+a kiosk or things of the like, we would extend contingent upon what that timeline may be. So, at this juncture,
+I can't give you any specificity. But if we needed three additional months, that definitely would be something
+that we are committed to doing So there could be a smooth transition.
+JOYANN RUSCHA: May I?
+ERIK DAVIDSON: Please, go ahead.
+JOYANN RUSCHA: Thank you, sir. And so understanding we don't know what we don't know yet, and
+these conversations are just ongoing, the last update that the Board had was that this agreement was to
+
+be terminated, which also would have a fiscal impact. And I was wondering if you could share, if anyone
+knows, if Greyhound does leave DOS, which I am inferring is likely, what that revenue loss would be.
+ERIK DAVIDSON: Ms. Johnson?
+DEBRA JOHNSON: Yes, thank you. I don't have that information at the ready. I do know they pay us a
+monthly fee as we go forward, recognizing that, more than likely, we would be working with them and they
+could be at another location relative to being on RTD property or in close proximity.
+I don't necessarily believe we would have a substantial revenue loss going forward, but at this juncture, I
+can't speculate on what that would be, recognizing that they're going to have people on the ground working
+in conjunction with our team to identify some areas that may be optimal that gives them greater flexibility
+from an operational vantage point if they needed to leave, a bus for a couple of hours whereby, in the bus
+concourse, recognizing the throughput of transit service delivery, that's not conducive to our operations.
+JOYANN RUSCHA: Thank you. Just if I may?
+ERIK DAVIDSON: Sure.
+JOYANN RUSCHA: So just one more follow-up on the Greyhound, and then I had a question about
+procurement and our rail reconstruction projects. And I honestly don't know-- we also have space with
+Bustang, with CDOT. And do they pay what we would call market rate?
+ERIK DAVIDSON: Ms. Johnson?
+JOYANN RUSCHA: Thank you, Mr. Chair. Once again, I don't have that information. Members of my team
+deal with that on a more daily basis, but I'd be happy to provide that in a follow-up to the board. Thank you.
+ERIK DAVIDSON: Thank you, Ms. Johnson.
+JOYANN RUSCHA: Thank you. And then just going back to the comments or-- I'm sorry, your report
+regarding the rail reconstruction and progressive design build, I just wanted to say that I'm aware of what
+that process is, and it's very common, including here in the metro area.
+One concern that I have, and others do who care about these issues, is that there can be, if the contracts
+or the systems are not in place properly-- how do I say this-- greater risks for things like labor abuses, like
+wage theft and OSHA violations and the like.
+And I was wondering, and we could have a follow-up conversation or memo, if we have, as a body-- similar
+to what the city of Denver does or the state-- if we have policies and procedures in place to ensure that we
+can discourage that illegal behavior, or we can appropriately respond if it's brought to our attention. And,
+again, that was a big question. We've talked about it a little bit before. But is that something that we could,
+at least discuss before we sign the contracts?
+
+DEBRA JOHNSON: Most definitely, recognizing that we just led the solicitation yesterday, quite naturally,
+we have done our due diligence. And that's why we enlisted the help of third-party legal counsel in
+relationship to various contract provisions and things of the like. As we move forward, we're trying to be
+deliberate and intentional and be good judiciaries. So your concerns are noted quite naturally. We both
+share those as we move forward and are going to be most judicious. Thank you.
+ERIK DAVIDSON: Thank you, Director.
+JOYANN RUSCHA: Thank you, ma'am.
+ERIK DAVIDSON: Thank you, General Manager. Secretary Guzman, please.
+MICHAEL GUZMAN: Thank you. The winter bus is gorgeous. I approve highly approve for all the team
+members that wrapped it and lit it up and designed it. Thank you. And it was wonderful to see it at the first
+celebration of the season in District C. Thank you, Directors, for discussing a matter that is in my district so
+that I don't have to discuss it directly, since we are always accused of being too parochial. I want everybody
+to understand we do work as a team. So thank you for the update with Greyhound and Lynx.
+I am very interested in following along with that, but also, I have a concern about buses getting stuck, not
+being able to move people through there, people that may be abandoned for any reason because another
+automobile can't be procured in a timely manner. And so there are some logistical issues that need to be
+dealt with there. So thank you for taking the lead on that. I appreciate all of your hard work on that and the
+teams'.
+I have a separate question about the A line, and this may be better for other matters, so we can suspend
+conversation until then. But between 38th and Blake and 40th in Colorado, I have received a number of
+complaints from the public about the horns blaring. Although I understand the reasons why that is
+happening, I would like to find out-- and you may not know, but what is the status of the situation with the
+sounding of the horns and using ACS, Automatic Control Systems, versus the positive control system that
+is not functioning or was not functioning earlier in a communication that I received that needs to be repaired
+by our concessionaire DTO. Thank you.
+ERIK DAVIDSON: General Manager, if you'd like to make a comment on that, feel free. And if it's something
+that we'd want to follow up on, we could either do that or speak in other matters.
+DEBRA JOHNSON: Yes, thank you very much, Mr. Chair. And thank you, Director Guzman or Secretary
+Guzman, for your question. So, as indicated, there were some signaling issues as it related to positive train
+control. As the board knows, positive train control is required on commuter rail pursuant to Federal Railroad
+Administration Regulations when PTC is not operating properly to ensure the safe movement of a commuter
+rail consists, one has to, as mandated, sound horns throughout those intersections.
+In reference to the supplier who provides PTC, which is only one supplier in the entire country, our
+concessionaires, Denver Transit Partners operators, have been working with Wabtec and have been
+
+communicating with our assistant general manager of rail operations that have kept me apprised as we've
+gone forward.
+I don't have, at this juncture, the response. I could look at my phone. I'm going to do that, but I can circle
+back and other matters as it relates to where we are. But that was causing the delay. And as you know,
+adhering to federal regulations, we will always err on the side of caution as it relates to that. But I will say
+publicly that our concessionaire partners have been very responsible and engaging as it relates to this
+matter and have been keeping us apprised of the progress that has been made as they have tried to identify
+the issue that prompted the problem with the signaling system. Thank you.
+ERIK DAVIDSON: Thank you, General Manager and Director Hartwig, please.
+IAN HARWICK: This is just to piggyback off of Director Guzman, the G Line was also affected by these
+issues. And when I say this, I'm sure the answer is no, but I'm just going to ask anyhow. So when we know
+there's an issue, and when DTO knows there's an issue-- and I understand that, by federal regulations,
+they have to sound the horns. I get all this. But I also get texts from my neighbors that have decibel meters
+on their phones or devices that put this not above the level, but in the hundreds. And I think they can go up
+to 107 or 112. I can't remember right now off the top of my head.
+But if we know there's an issue, is there a reason that DTO has to go as aggressive as they're going. Can
+they do a smaller, lighter tap? And I know that sounds a little bit ridiculous, but also these people-- I
+understand that they're not necessarily our customers, but they are living through this. And when we know
+there's an issue, I just don't know why we have to go all the way down.
+ERIK DAVIDSON: General Manager, any follow up do you have to that.
+DEBRA JOHNSON: Thank you, Mr. Chair. Thank you, Director Harwick as he phrased his question, as we
+think about the importance of safety and sounding of the horn from a safety measure, I would say, in past
+experience, some of the times, the sound could reverberate, as we know. I can't speak to the decibel
+reading at this juncture, but we can circle back under other matters, as we indicated. OK, thank you.
+ERIK DAVIDSON: Thank you very much. We'll circle back on that item. Thank you for the
+questions/comments. OK, not seeing any other questions, GM/CEO Johnson, thank you for your report, as
+always. Thank you for the work, as always, as well.
+With that, the next portion of our agenda is the public hearing for the 2025 budget. But I'd first like to call
+for a brief break. That hearing will start with a public comment section, so thank you for being patient, those
+that have joined us to speak on that matter. We are going to take a break as of 7:22. Let's do 10 minutes.
+I'd like to get our seats by 7:32, and we will start with the public hearings. 7:32, please. Thank you.
+All right, thanks, everybody. For the sake of the record, this is Chair Erik Davidson speaking. We just took
+a brief break. We are reconvened as of 7:34 PM Mountain Standard Time, and we're moving to the public
+hearing for our 2025 budget.
+
+This public hearing-- so I'll go ahead and call the hearing to order. Ladies and gentlemen, the chair hereby
+calls to order the public hearing on the Regional Transportation District's proposed budget for the year 2025
+in accordance with both RTD's requirements and local government statutes. Notice that the public hearing
+was duly posted in the Office of the Executive Manager to the Board of Directors. The notice was published
+in two major daily newspapers of the district prior to this meeting, and on the RTD website. The public
+hearing will be conducted under the process that the board uses for its regular public comment section.
+I would like to point out that the testimony will be limited to the subject of the public hearing, and
+presentations of testimony should be no longer than three minutes. Written testimony should be emailed to
+the Board Office at the email address that has been noted many times, rtd.boardoffice@rtd-denver.com for
+distribution to the board. The 2025 proposed budget was included in the electronic packet for the board
+and public to review and has been posted on the RTD website.
+Speakers addressing the Board should begin their remarks, as we do with public comment, by stating their
+names. And then they will have up to three minutes to provide their comments. I will let you know when that
+three minutes has elapsed.
+At this time, just as we do for public comment, I will start with those who are in person and have signed up
+to speak first. Then I will move to any of those who had wished to speak that did not sign up, and they can
+approach the podium, and then we will move to our remote attendees. Our first speaker is James Flattum.
+JAMES FLATTUM: OK, good evening, everyone. My name is James Flattum. I'm a transit advocate and E
+line rider, so thank you for the opportunity to speak. I also want to briefly congratulate the outgoing directors,
+and I want to thank you all again for your service.
+So my comment this evening, I definitely want to start by acknowledging the progress that's been made. I
+think it's very apparent when you compare this-- when you compare this budget to last year's budget, there
+is significantly more detail on a couple of really critical areas that I think should be acknowledged and
+appreciated.
+There are a few other really important areas that I would encourage additional effort be spent to build out a
+little bit, particularly on the capital projects side of things, between looking for something that resembles a
+capital investment program book that really actually breaks down itemized pieces of these very, very large
+projects, notably the downtown light rail reconstruction. We have about $145 million still to be spent.
+And this is a sum that gets close to an amount of money to be spent on an extension of rail, of new rail. So
+that's why it's really important. I think there is absolute unanimous agreement among riders that RTD's light
+rail system needs to be kept in a state of good repair. There is absolutely no disagreement that this work is
+needed.
+I think the key questions that are being posed externally is that is the way that rail is being addressed the
+only way that it can be addressed efficiently and safely, given the severe experiences that riders on the
+light rail in the south have been experiencing for the last several months?
+
+I myself have been a rider of the E line. I have found it to be unworkable for my commute, and my colleagues
+have been advising me the same. It has been unworkable. Ridership on the E line is about a third, currently,
+as of September of 2024, compared to what it was in September of 2019, and ridership on light rail as a
+whole is down double digits in September year over year. So what we're seeing right now is we are seeing
+demand destruction.
+And when we look at the budget in particular, when the public tries to understand how RTD is prioritizing
+its addressing of capital expenditures and state of good repair, we're looking at transit, any transit agency
+as a three-legged stool. There's operations, there's maintenance, and, in a growing city, there is urgent
+need for expansion. Right now, there has been a lot of focus on maintenance, rightly so.
+But there's also operations that need to be done and need to be continued. And it seems to us that we
+know that there are external entities, external contractors that can come in and do light rail work and at
+least do rail replacement very quickly. And given the fact that we're months into this project and there is still
+slow zones, the experience is still radically unreliable, we just must ask, please, if it is possible to present
+more information about how these dollars are being spent. Thank you. That concludes my comments.
+ERIK DAVIDSON: Thank you for joining us, and thank you for sharing your comments with the board. I will
+next call on Emma Griffin.
+EMMA GRIFFIN: Hi. Thank you for allowing me to speak. My name is Emma Griffin. In reviewing RTD's
+budget for 2025, I noticed a lack of any specific line item toward completion of FasTracks projects,
+principally the L line expansion to 38th and Blake. Completing this line will connect historicallydisadvantaged neighborhoods, like Five Points to RiNo, as well as the airport.
+Opening up the airline to be more to be more than just a quote stub to nowhere, as its current unfinished
+state has been called, we at Greater Denver Transit see a vision for the airline as both a local and regional
+connector that helps bring much needed vibrancy and life and business to communities surrounding
+downtown Denver.
+I would echo James comment that RTD must competently maintain operations, maintenance, and capital
+expansion if it wishes to maintain and grow its ridership over time, the central aim for any transit agency.
+GTD appreciates and supports the maintenance of the light rail that has gone on for the past two years, but
+questions the approach taken in attempting to save money by completing these solutions in-house.
+While hiring third-party contractors may have been more expensive than an in-house solution, it likely would
+have resulted in a considerably more expedient completion of maintenance, which would have prevented
+the permanent ridership loss experienced on the E, H, L, D, and R lines. Thank you again for your time.
+ERIK DAVIDSON: Thank you very much for sharing your comments. Next, we have Keith Brooks.
+KEITH BROOKS: Hello, Keith Brooks-- what's one more public comment for the road. I greatly enjoyed
+reading through the budget. I believe it's 96 pages at this point-- will be hitting Moby Dick lengths by the
+
+end of the decade at this rate. I noticed a few things. I'll try and go over the more trivial ones because they're
+the ones that maybe actually can be resolved.
+43 maintenance vehicles are being replaced. But it's not clear exactly what's being replaced and with what.
+Woe be me, to use a car analogy at the transit meeting, but if you replace a clapped-out '98 Toyota Corolla
+with a new Corvette, that is replacing the vehicle, but it is hardly a one-to-one exchange. And I wanted to
+see if maintenance of way was getting any new toys to maybe help with some of this work.
+What else is there-- 96 pages is a lot. Oh yeah, so we do have the line items for the-- let me see if I can get
+my taxonomy levels right-- for the departments, but not for the divisions, which is kind of frustrating when
+we're trying to look at smaller divisions/departments-- you'll see what I mean-- like service planning. We
+have no idea what their budget is. If there's any way to maybe get some more headcount with them, as
+they are currently, like, the 13 most overworked people in this metro area. Same thing with light rail and
+operations compared to the N line, our precious little baby-- that has to be special-- and Then DTO
+operations.
+It's not clear how those are broken up. There's just rail. And then same thing with buses. It's not clear what's
+RTD-operated and then which of the three Transdev contracts are being paid what amount. And going back
+to DTO, it's not clear because we know they receive two payments, one for their capital debt and then one
+for their operations. It's not clear how that's broken down either. Bus operations, again, are not specific, but
+none of this addresses the biggest elephant in the room, which is how will you guys possibly spend the
+billions of dollars of extra tax revenue you're going to get now that the rest of Erie has joined the district.
+Thank you.
+ERIK DAVIDSON: Thank you for your comments and for joining us for the public hearing. Is there anyone
+in attendance here that has not spoken and would like to do so? Please approach the podium. And you'll
+introduce yourself and have three minutes. You know the drill. Please go ahead.
+JOE: Thanks for the opportunity to speak tonight. My name is Joe, and I would just like to follow up one of
+Keith's points. Given the large percentage of service at RTD that's operated by other entities via contracts
+to Transdev or DTO, I think it would be really important for the public documents, like the budget, to break
+down the operations expenditures to RTD-operated routes and contracts going to third-party agencies so
+that we can better understand things like cost per service hour and just the bulk amount of money that's
+going to some of these third-party agencies.
+For me personally, it would help me better understand what it would cost to get DTO to run 15 minute
+service on the G line, and those types of little questions would be much easier to answer if we understand
+to whom how much money is going. Thank you.
+ERIK DAVIDSON: Thank you very much for joining us and for your comments and our next speaker. Please
+approach. Introduce yourself and you'll have three minutes.
+CHRIS NICHOLSON: Hi, everyone. My name is Christopher-- is Director-Elect for District A, Chris
+Nicholson. Anyway, I was beyond delighted when I saw that, in this budget, there is money to implement
+
+Open Payments, credit card tap to pay, whatever you want to call it, for our fare payment system. I think
+that for the amount of money that it is allocated in the budget, it will be an incredible step forward for RTD
+and in the way that the average person, who never uses the system, interacts with RTD. And so I just want
+to say thank you to GM/CEO Johnson and all the people working for you that is underway.
+Secondly, the significant increase in transit security funding that is in this year's budget is a wonderful step
+forward in addressing what is the number one concern that I heard on the campaign trail, and that is the
+perceived, at least, and in some ways actual, lack of security. I know they're-- anyway, lack of security on
+RTD at the facilities using the buses.
+There are so many people in my district who are proximate to transit who literally live a block away from a
+bus line, who live right off the 15, and who say that the experience and the fact that they do not feel safe is
+the reason that they do not use RTD. And so seeing us making a significant investment in that is something
+that I think the public will view as extremely positive.
+And I'll tell you guys right now that one of the things I intend to work very hard on over the next four years
+is seeing us deliver the amount of security that will make the public feel safe on RTD. And so I think that
+taking this action is wonderful. I hope it to be a very small first step in comparison to what I think we can
+accomplish over the next four years, both with officers and nonpolice responders, as a way to make the
+general public see RTD as something that they can be a part of and that is a space that they feel comfortable
+in. Thank you.
+ERIK DAVIDSON: Thank you for joining us. And thank you for your comments. Seeing no other in-person
+speakers, are there any hands raised virtually at this time, Mr. Jack Kroll, our Board Office Executive
+Manager?
+JACK KROLL: Chair Davidson, at this time, I do not see any hands raised.
+ERIK DAVIDSON: OK, well, we thank those who have attended to share their comments on the proposed
+budget. At this time, with no other participants in the queue, we will close the public hearing for the proposed
+budget. That will move us forward to a recommended action for the Board's consideration. This is item A.
+This is the 2025 proposed budget. It is for the Board of Directors to adopt the resolution series of 2024 for
+the adoption of the 2025 budget and of 2024 for the 2025 budget appropriation and series 2024 for the
+appropriation of 2025 previously-appropriated capital. Do I have a motion?
+VINCE BUZEK: Buzek-- so moved.
+ERIK DAVIDSON: I had Buzek as the movement and Tisdale as the second. Is there any discussion or
+questions on the item? Secretary Guzman, please.
+MICHAEL GUZMAN: I'll make it quick. It was a lot of work. Thank you so much, staff, for all of the work that
+you did implementing a new budget booklet. That was a request from last year. Debra, kudos to your team
+and everybody involved with finance and planning. It was a privilege to serve as Vice Chair of Finance and
+Planning Committee to shepherd this through with a lot of feedback from Directors and from staff. And I
+
+feel like we have presented something that is pretty good. There's room for improvement, we know that.
+But for a first attempt, this is not bad work to bring to this Board.
+One quick thing I do want to mention is that this Board, this agency, the people sitting in these chairs are
+putting this forward. And so it was very interesting to see all of the different line items that were brought
+forward and the different projects that are already working and going on up to and including line items for
+tap to pay that we are about to make a vote on. So that's all I've got. Thank you.
+ERIK DAVIDSON: Thank you, Secretary. Director Ruscha, please.
+JOYANN RUSCHA: [INAUDIBLE] Director-VINCE BUZEK: Thanks. Real quick, just for the record, I was a second on that, not the movement. Thank
+you.
+ERIK DAVIDSON: OK, we'll reverse.
+[LAUGHTER]
+We'll reverse it on the record. I'm sorry. I heard them both hit me in stereo, so thank you for noting it. Director
+Ruscha, please.
+JOYANN RUSCHA: I was actually the second, but that's all right. So there were some comments made by
+the public that I thought were very prudent. And those of us sitting up here know the answers to a lot of
+these questions because we've had the privilege of staff memos, conversations with our GM/CEO, and also
+our CFO, Mr. MacLeod. Wow. Like, half the room cleared when we started talking about the budget.
+So if staff could kind of entertain us but also just help explain some of these things, on the record, I was
+wondering if someone could address the divisions and departments. That's something I had also asked in
+committee and privately and just why we have it outlined the way we do. And then I also had a separate
+question, but I don't know if I'm supposed to ask them all right now or are we-ERIK DAVIDSON: You can go ahead and ask your first question.
+JOYANN RUSCHA: Is that OK? So it's been brought up in several meetings, and Directors also received
+these complaints. And we've discussed this in committee and such. Just real-time communications. And I
+was wondering if we have anything in next year's fiscal budget to address that. Or I don't ask a leading
+question, but I will, or if that is something that might be a longer-term endeavor, just given the age of the
+system and all of the back-end work that we're-- thank you-- technology we're using.
+ERIK DAVIDSON: GM/CEO Johnson?
+DEBRA JOHNSON: Yes, thank you very much, Mr. Chair. And thank you, Diruscha-- Director Ruscha. I've
+made a hybrid word-- Director Ruscha, for your question. I believe you're referencing various forms of how
+we communicate with customers, be it wayfinding, be it automated stop announcements and things of the
+
+like. One thing that's critically important to note as it relates to computer-aided dispatch, or automatic vehicle
+locators, what we call CAD AVL, that system provides location data used to enable automatic stop
+announcements on board vehicles.
+And so we are clearly aware-- and as one of the commenters made reference to earlier this evening, he
+indicated he had been bringing forth this issue since 2018. Well, let's be clear that our CAD AVL, we do
+have some outdated components. What is contained currently in the budget, more specifically under rail
+operations, for instance, updates to be made to the devices that will enable better connectivity for
+communications because when you think about an automatic-- or automated, I should say-- train stop
+announcement, there is communication that takes place through various transmitters and things of the like.
+And so what is included in the rail operations division operational budget for fiscal year 2025 are monies
+for given components for aspects that will improve the CAD AVL connectivity, I would say, for real-time
+announcements relative to the automated aspect of that. That will be done in-house. More specifically, as
+it relates to the CAD AVL devices within the fiscal year 2025 budget, there's 300 CAD AVL devices that will
+be addressed in calendar year of 2025.
+And then, as we look at our fiscal year financial forecast, there's further allocations-- or I shouldn't say
+allocations. There's further forecasting as it relates for additional modifications to outfit the fleet because
+some have warranties that we are going to leverage going forward. So I trust that answers your question.
+ERIK DAVIDSON: Thank you, General Manager. Director Ruscha?
+JOYANN RUSCHA: Yes, thank you so much. And sometimes, buried in these documents, it's hard to find
+the good news or some projects that we do have in the queue. So I just wanted-- if there was anything else
+that GM/CEO Johnson wanted to add, just other things that we have that might not be as obvious in this
+budget document in the upcoming year that we'll be engaging in that we're budgeting for but because no
+public agency gives a budget book that is several thousand lines, I just wanted to ask if you wanted to
+address some-DEBRA JOHNSON: If I can, Mr. Chair, one thing we will be doing, contingent upon the board's consideration
+of the budget, is disseminating information relative to what lies ahead in our achievements and what we
+endeavor to do in the upcoming year moving forward. That will be public-facing as we engage and tell our
+story. I think that's critically important.
+I have to tell you, I'm not prepared to go into certain aspects of the budget and talk about those key
+initiatives. We heard about one that has been in the works for a while, tap to pay. That's something that the
+team got-- we've been talking about that, I would say, probably since I got here. So that's something that
+has been in the works for the past three-plus years, recognizing contracts and things like that. And I don't
+want to delve too deeply in that as we're working towards that.
+But that's something that we have heard loudly and clearly and recognizing that we take in feedback from
+various constituent groups, i.e., customers, stakeholders, employees, and things of the like. We have been
+
+intentional with our strategic initiatives, quite naturally customer and community initiatives that have been
+identified to be a laser-like focus in the upcoming years.
+That's critically important, as we want to enhance the efforts to ensure that there's mechanisms and different
+ways in which people can get to activity centers. And a lot of that has to do with how we're going to leverage
+communication as we talk about interactive signage and things along those lines. So that's how I would
+summarize that without being prepared to go in more detail.
+ERIK DAVIDSON: Thank you, Ms. Johnson. Director Ruscha?
+JOYANN RUSCHA: Thank you. And so I just wanted to note that last year, at this time, I was a no on the
+budget. And the two of us would have voted no. And I'm speaking for myself, one of the concerns was just
+some of the lack of information that we were given, the capital carry-forward questions, not having a SIP
+book, things like that. I'm a yes today. I'm fully comfortable-- I really was the second on that motion.
+And that is in part because of the work that we've done as an agency in the committee, and also because
+Mr. MacLeod, who I'm going to miss very much when he retires next year, was very patient, as was his
+team, in getting our questions answered and sitting down with us and going through whatever it is that we
+needed to go through and update and share information as needed. So I will stop there. I have no more
+comment. I just want to express my appreciation and happy to vote yes and go home soon.
+ERIK DAVIDSON: Thank you director. Other questions? And I hope my colleagues will forgive me that
+hearing all at once movement and second can be a little tricky to discern. So thanks for bearing with me.
+Any further questions on the budget?
+I just want to make one comment that certainly the budget book format is appreciated, the amount of
+information is appreciated and very grateful to staff for that. Over the course of a couple of meetings, some
+more substantive things have been noted, however. What I'm most grateful for here is that we've made
+measurable progress on the budget itself.
+And, again, would like to thank our Chief Financial Officer and his team and our General Manager and CEO
+for the progress in that direction to the way in which we budget, which may not be immediately apparent
+and obvious, but is going to show up in our budget variance over time, and would like to thank them again
+for bringing and elevating that metric as something we'll be reporting on.
+The often-cited now capital carry-forward, the progress that has been made in that area of the budget has
+been substantial over the past couple of years. Things can be tough and challenging, but getting better.
+Those two things can be happening at the same time, so really appreciate what's being done there.
+From a Board perspective, the movement from what was historically what can I have by department to a
+what is needed to accomplish our mission, that focus is apparent not just in the format but in the numbers
+themselves, which is reflective, even if we rewind a little bit, to things such as being in a position now where
+our midterm financial, which was six years, now five years, is showing FasTracks in a more stable position,
+just as another example of where the numbers are.
+
+So thank you for the continued work in that area, and would be remiss if I didn't note for the record that,
+yes, the format is good, but also the numbers-- even better. So thank you. Seeing no further questions or
+discussion, I will call for the vote. Are there any no votes? Seeing none, that will pass with 14 yes votes and
+0 no, 0 abstentions. . All right, thank you. Busy agenda ahead. Thanks for bearing with us here, everybody.
+We'll now move to our unanimous consent portion of the agenda. There are four items on the unanimous
+consent agenda. They are listed as actions B, C, D, and E. Given that we just did proceed with the proposed
+budget, those items are item B, zero fares on Transit Equity Day 2025; item C, salaried trustee appointment;
+item D, January 2025 Title VI Service Equity Analysis; item E, 2024 GM/CEO performance appraisal and
+related compensation change.
+It is important to note that item E, the 2024 GM/CEO performance appraisal and related compensation
+change came out of the November 21 Performance Committee meeting that was held directly prior to the
+November 21 executive committee meeting and was unanimously approved by that committee.
+It's also important to note that, according to our bylaws, all those items that do pass through executive
+committee, even if unanimous, do not appear on the unanimous consent agenda but rather are on our
+Recommended Actions portion. If anyone has a change to, discussion on, or question about any of the
+items on unanimous consent, please advise me at this time and I will, of course, be happy to pull it from the
+unanimous consent agenda for consideration under Recommended Action. Would anyone like to remove
+anything from unanimous consent? Seeing none, may I have a motion to approve the consent agenda?
+ALL: So moved.
+ERIK DAVIDSON: All right, so I'm going to just-[LAUGHTER]
+
+SPEAKER: Winner.
+ERIK DAVIDSON: Sorry, Buzek. I'm going to go with what I heard. And it may just be proximity. I heard
+Director Ruscha as the movement and the second as Director Catlin. Are there any no votes? Seeing none,
+that will pass with 14 yes votes, 0 no, 0 abstention. Thank you very much.
+All right, folks, we're going to recommended actions. We have 7 on the agenda listed as F, G, H, I, J, K,
+and all the way to L. So the first action, item F, is for the January 2025 service change. This is for the Board
+of Directors to approve the January 2025 service change as revised and summarized in attachment A, and
+to authorize the General Manager and CEO or her designee to execute contract amendments as necessary
+for private operators impacted by service changes. I have a motion?
+BOB BROOM: So moved.
+MICHAEL GUZMAN: Second.
+
+ERIK DAVIDSON: I heard Broom as the movement and the second as Guzman. Any discussion questions
+on this action?
+JAIME LEWIS: I do have a comment.
+ERIK DAVIDSON: Director Lewis, please go ahead.
+JAIME LEWIS: Yeah, I noticed there was several letters from the area of Boulder talking about Boulder
+Depot or Boulder Station. And I think it's something that-- and the 2025 board really-- run board, probably
+for the next run board, should be seriously taking a look at. This area has really done some transit-oriented
+development. They have grown some businesses around there. And I don't need to tell you guys the history.
+They were expecting a train a long time ago. It didn't happen. But this particular area has grown, and it
+really aligns with our transit-oriented development goals. So I would hope that our staff would seriously take
+a look at that for our next run board in 2025. Thank you.
+ERIK DAVIDSON: Thank you very much, Director Lewis. I see, wasting no time, Second Vice Chair
+Guissinger's hand. And please go ahead. I think you have comments related to that.
+LYNN GUISSINGER: Music to my ears, Director Lewis. Thank you. It is a beautiful TOD. They're adding, I
+think, 1,000 units to the 1,500 that are currently there. And the good news is it's music to our staff's ears
+too. I've talked with Ms. Johnson, and the hope is to reopen the station at Boulder junction by September,
+I believe-- this year, anyhow. Go ahead.
+DEBRA JOHNSON: Mr. Chair, if I may?
+ERIK DAVIDSON: Please, go ahead.
+DEBRA JOHNSON: Thank you very much, Director Guissinger, and thank you very much, Director Lewis,
+for your comments. Just for everyone's edification, yes, the Boulder Junction is a prime example of transitoriented development. One thing is very clear. We have been working closely with our partners at the city
+of Boulder.
+One thing that's important to note is, as we talked about a budget that was just approved, we have been
+intentional and deliberate as we have looked collectively at our core business, which is service delivery,
+recognizing that the chair and I had a conversation today where I talked about the importance of how you
+build out a schedule and you deduce how many vehicles you have, and then you go into the People Power
+aspect.
+So while there has been conversations relative to, oh, we could have this bus serve Boulder Junction, it's
+not just a bus operator. It's more or less having customer care representatives there. It's having supervisors.
+It's having relief individuals that would basically address the needs. So we're talking about not just three
+bus operators, but multiplying that by additional support.
+With that as a backdrop, as we go forward, it is our intent, as we look at the revenue service hours that
+have been annualized in the budget, that we would be in a position, relative to all the progress that has
+
+been made with People Power, that we would able to work in tandem with our partners up in Boulder, and
+they would be providing various services in which they operate at Boulder Junction. So that's what we
+anticipate. And we have been discussing that.
+I'm not a soothsayer. That's our intention. Everything is anticipated. But as Director Guissinger knows,
+who's engaged on this issue with me, as well as members of the team that are doing the work relative to
+this, that is where we are looking to go, recognizing our comprehensive operational analysis, basically,
+notably, are branded as the System Optimization Plan as we look at what we're doing and where we're
+going. That is something clearly that we have identified. So I just wanted to add a little more color to that
+discussion. Thank you.
+ERIK DAVIDSON: Thank you very much.
+LYNN GUISSINGER: Thank you. Yeah, thanks. And I will move on to the service change and just say
+thanks so much. I think we had a thorough conversation on this in the Finance and Planning meeting, but
+this is exciting. We're bringing back a lot of service frequency and extension of hours. Personally, getting
+the AB bus to the airport-- it's been standing room only often-- is a huge win, but I know that's true for a
+number of other buses and trains in the area.
+And at the risk of misquoting you, Mr. Worthen, I think you said that, in January, it would bring us up to 85%
+of the SOP, something like that, which is great. And I'm looking forward to 2025 and hoping we can keep
+that going. Also, I think the idea of starting a new COA, a Comprehensive Operational Analysis-- I'm not
+sure when that's scheduled. I think maybe to start this year-- next year, I mean. But I think I had a good
+couple good conversations today with a couple of incoming board members and just hearing how things
+have changed. I think that's an exciting thing, too. So thanks.
+ERIK DAVIDSON: Thank you very much Second Vice Chair Guissinger. Director Broom, please.
+BOB BROOM: Thank you, Chair. Just a question. Did the Boulder downtown station finally get remodeled
+and reopened?
+ERIK DAVIDSON: Director Guissinger, go ahead.
+LYNN GUISSINGER: Yeah, it got reopened. There was the meth issue and some of the things-- I don't
+think it was a full remodel, but they cleaned up a number of things. Ms. Johnson, you had something?
+DEBRA JOHNSON: Yes, thank you very kindly. Thank you for the question, Director Broom. There were
+some remediation that was done with the air ducts and things of the like in the floor. And that basically
+reopened about a year ago.
+ERIK DAVIDSON: Thank you, Director Broom. Secretary Guzman?
+MICHAEL GUZMAN: Thank you to the team that looked at this board run. In particular, thanks for the 1E/44
+improvements through the RiNo art district in the River North area. Something to keep in mind as we go
+forward-- transit-oriented development along the north end of Denver, the I-70 corridor in particular, looking
+
+at the Fox Street Station first and Fox Street Station that aligns with the G and the B lines is a perfect
+opportunity to create a circulator through the Globeville Elyria-Swansea area and the southern end of the
+Adams County along I-70, where there is no connected services right now, and be able to serve that
+community as well. I would be remiss not to state that for the community. Thank you.
+ERIK DAVIDSON: Thank you, Secretary. Director Ruscha.
+JOYANN RUSCHA: Thank you, sir. I'll be a no vote tonight. I've explained this in previous committees, but
+just briefly on the record, I don't want to pick communities or directors against each other. Some are getting
+more service. And I understand that excitement. I also represent an area that rides the bus a lot, has a lot
+of need, and feels like their needs aren't being met relative to growth.
+And I can say, as a person who also rides the bus in my district, some of these routes are standing room
+only. And just recognizing that our SOP is from a different era, I don't feel I can ethically, as a representative
+of the far northeast and North Aurora, vote yes on service changes until we have more data from staff. And
+so I'm going to vote no tonight. But that is not to disparage other-- it is not to disparage any of my fellow
+directors or staff's work. And I felt like I should just explain why. So thank you.
+ERIK DAVIDSON: Thank you, Director Ruscha. Director Sloan.
+MARJORIE SLOAN: Yes, thank you. I know the board, and especially staff, has a deep understanding of
+how meaningful it is to add service that maybe had been there before and was taken away, or new service,
+but I would just like to emphasize that, because it was brought home to me recently, where I was told that
+there were people refusing to go back to work at NREL until there was transit service on the GSS line. That
+shows the impact of additional service. And I appreciate staff adding it in according to the SOP as we're
+going along. So thank you very much. It was meaningful to me. I thought I'd let people know.
+ERIK DAVIDSON: Thank you, Director Sloan. Second Vice Chair Guissinger, please.
+LYNN GUISSINGER: Just quickly, I just wanted to reiterate something that I think greater Denver Transit
+raised in the discussion of the budget, which is the-- I forget what they call the-- but the chart that showed
+ridership and the subsidy that RTD did by route, I think, was hugely helpful. It can help answer Director
+Ruscha's concerns. It can help get us ready for the COA. I would love to see that back if we can do that.
+Thanks.
+ERIK DAVIDSON: Thank you, Second Vice Chair Guissinger. Not seeing other hands raised, I'll just note,
+I spoke earlier about helpers. A lot of folks have been a part of increasing this service, folks actually
+delivering the service out there operating and taking care of our facilities and fleet-- service planning
+certainly and, of course, as has been noted many times here, people operations. We're really seeing the
+fruits of our labor here as an agency to see some of these positive changes.
+And I'd be remiss if I didn't say, it's been a hard time nationally for US transit. We've talked about that
+financially. But I just also note that agencies continue to struggle right now. So disciplined, focused work
+
+here is paying off. And thank you for that work. It's an exciting service change. Very happy to be able to
+vote on this service change before the end of the year here.
+With that, not seeing other hands raised, I will call for the vote. I know there is one, but I'm going to ask
+everyone just to raise their hand. Are there any no votes? OK, I see one no vote. So that will pass. That is
+with 13 yes votes, 1 no vote, 0 abstentions, the no vote being Director Ruscha. Thank you very much.
+We will now move to our next recommended action. This is item G for the Centennial State Liquidation
+Investment Pool or CSLIP participation. This is for the Board of Directors to approve RTD's participation in
+the Centennial State Liquid Investment Pool, also referred to as CSLIP. Do we have a motion?
+JOYANN RUSCHA: Motion.
+JULIEN BOUQUET: Second.
+ERIK DAVIDSON: All right, I got Ruscha as the movement, and I got Bouquet as the second on that one.
+[INTERPOSING VOICES]
+ERIK DAVIDSON: --pretty close. [INAUDIBLE] Ruscha Got it. Combined word. Noted for the sake of the
+record. All right, any discussion on this motion? And I'll note there was a helpful discussion around this at
+the Finance and Planning Committee. Any other discussion tonight? All right, seeing none, I will call for the
+vote. Are there any no votes? Seeing none, that will pass with 14 yes, 0 no, and 0 abstention. Thank you.
+We'll move to our next recommended action. This is item H, the 2025 Legislative and Government Relations
+Program. This is for the Board of Directors to adopt the 2025 Legislative and Government Relations
+Program. Do we have a motion?
+TROY WHITMORE: So moved.
+MICHAEL GUZMAN: Second-- Guzman.
+ERIK DAVIDSON: I got Whitmore as the movement, Guzman is the second. Any discussion questions on
+this action? All right, seeing none-- thank you for joining us, Mr Davies. I saw the-- yeah. I'll just offer up,
+we did have a nice discussion at Executive Committee on this. And I just would like to publicly thank Mr.
+Michael Davies for the organization you've brought to this and for the help and bringing forward a program
+like this for us to adopt in preparation for the legislative session. So thank you for that continued work and
+continued advocacy for the benefit of transit in the region. Thanks for joining us and hanging out and waiting.
+All right, so I'll go ahead and call for the vote on this one. Are there any no votes? Seeing none, that will
+also pass with 14 yes, 0 no, and 0 abstentions.
+Next move to item I-- this is the Independent Audit Committee Membership Appointment, Reappointment,
+and Authorization. This is for the Board of Directors to take the following actions related to membership on
+the Independent Audit Committee-- appoint Director Buzek to a term commencing January 1, 2025 and
+
+expiring December 31, 2026. Reappoint external member John Olenberger to term commencing January
+1, 2025 and expiring December 31, 2026, and to authorize former Director Dishell to remain on the
+committee through November 17, 2025. Do I hear a motion?
+PEGGY CATLIN: So moved.
+JULIEN BOUQUET: Second.
+ERIK DAVIDSON: I have Catlin as the movement, the second as Bouquet. Any discussion on this item? All
+right, thank you. Well, we again had a nice discussion around this at Executive Committee. Thank you to
+Director Buzek for putting in your name and application and stepping up to work on that. We also thank
+external member John Olenberger for his willingness and interest to continue to serve. He has been a great
+value-add. And then, of course, our former Director Dishell offering to stay for an additional year. We've
+certainly appreciated his leadership.
+I would be remiss if I didn't note to the Board, please continue the good work here. We're a couple years in
+now, but there's going to be more to be done. We started the conversation at the last meeting of doing a
+lookback and the things that we need to do to further refine. We talked about things about how to take
+advantage of other reporting and auditing that we're doing with the federal government, for example.
+There's a lot of opportunities to consolidate, to focus, and to really manage risk at the agency. So please
+lean into that. It has been one of my-- it's been a real privilege to work on that process throughout my time
+here.
+I know when Director Buzek was chair, he had asked all Board Directors, what would you like to see
+accomplished this year. And I think back that my answer was maybe a boring sounding one, but I wanted
+a well-functioning internal audit function and Audit Committee by the end of the year. So I'm grateful to
+everybody for leaning into that and our Chief Financial Officer, our GM/CEO, and our General Counsel
+Snyder. A lot of hard work went into making that happen. So thank you. Please lean into it. Thanks for those
+being willing to serve. Director Catlin, please go ahead first-- Vice Chair Catlin.
+PEGGY CATLIN: Thank you, Mr. Chair. I would really like to thank you for your service, both on the Ad Hoc
+Committee, getting this thing going, and then your service on the actual Audit Committee this past year.
+And we're going to miss your service. But thank you. And we look forward to working with Director Buzek.
+ERIK DAVIDSON: Thank you very much. Appreciate it. And it was a good one. Director Whitmore.
+TROY WHITMORE: Yes, I would just like to echo the momentum for this very important task, bantered
+about a bit, and then really brought home by a couple of faces I see at the front of the room. So I certainly
+appreciate that. And perhaps more importantly, but unofficially, I'd like to second Vince Buzek's nomination
+to the committee.
+[LAUGHTER]
+
+ERIK DAVIDSON: All right, fair enough. Hear, hear. Well, thank you. I will go ahead and call for the vote
+here, not seeing other hands. Are there any no votes? All right, seeing none, that will pass with 14 yes, 0
+no, and 0 abstention. Moving along here, we will go to item J. This is for bylaw amendments to update
+descriptions of the Executive and Performance Committees. This is for the Board of Directors to adopt the
+proposed bylaw amendments, which will clarify the roles of the Executive and Performance Committees,
+as well as adjust several related administrative matters. Do I have a motion?
+MICHAEL GUZMAN: So moved-- Guzman.
+ERIK DAVIDSON: Guzman.
+JULIEN BOUQUET: Second-- Bouquet.
+ERIK DAVIDSON: Guzman is the movement and the second as Bouquet. Any discussion on this item?
+First, I'll just thank our Board Office Executive Manager, Jack Kroll. Thank you for leaning into this one and
+really helping us with this. Again, there was a good discussion at Executive Committee. There's some things
+that we committed to clarifying pursuant to the fiscal performance audit of the OSA in 2024. Appreciate
+your leadership in helping the agency pursue those changes and commitments that we had made.
+So with that being noted, any questions or discussion on this item? OK, seeing none, I will call for the vote.
+Are there any no votes? Please go ahead and raise your hand if-- OK, seeing none, that will also pass with
+14 yes, 0 no, and 0 abstentions.
+We now move to our sixth action. This is item K, for the Citizen Advisory Committee appointments and
+reappointments. This is for the Board of Directors to appoint three new members to three-year terms,
+appoint five new members to two-year terms, and reappoint two members to three-year terms to the
+Citizens Advisory Committee, also referred to as the CAC. Do I have a motion?
+JULIEN BOUQUET: So moved-- Bouquet
+ERIK DAVIDSON: I have Bouquet as the movement.
+[LAUGHTER]
+Buzek?
+VINCE BUZEK: [INAUDIBLE]
+ERIK DAVIDSON: Buzek as the second.
+VINCE BUZEK: If you insist.
+ERIK DAVIDSON: Excellent. Any discussion on this motion? Yeah, Treasurer Bouquet, please.
+
+JULIEN BOUQUET: Thank you very much, Chair. I just wanted to make a comment that it was a pleasure
+working with Director Lewis on this and all involved. We had a great pool of applicants who applied, and I
+just wanted to thank everyone who applied and looking forward to those who are going to be serving on the
+CAC. So thank you.
+ERIK DAVIDSON: Thank you, Treasurer, and thank you-- we had another good discussion at Executive
+Committee, but thank you for your work, as was noted there, and Director Lewis, for yours as well, and
+Board Office Executive Manager Kroll again for leaning into that and helping with that. Director Ruscha,
+please.
+JOYANN RUSCHA: I just also wanted to express thanks to the directors who worked on this. Treasurer
+Bouquet is often known as the CAC guy. And what Director Lewis has done in six months, most of us
+couldn't do in six years. So I'm just looking at this list, and I wanted to express appreciation and seeing the
+diversity and equity and representation on the CAC. And so I'm very happy to vote yes tonight. And thank
+you to staff. Thank you, Mr. Cole and my fellow colleagues for advancing and revitalizing the CAC, as it
+were. Thank you.
+ERIK DAVIDSON: Thank you, Director Ruscha. And just the closing remark-- I'll thank those who applied
+to the CAC, those who are being appointed, those who are not, again, for offering up your help and taking
+time out of your life. Volunteering for these kinds of things says a lot about a person's character. So thank
+you to all of those who have put their name in.
+All right, call for the vote. Any no votes? Seeing none, that too will pass with 14 yes votes, 0 no, and 0
+abstention. We are at our seventh and final action, item L. This is for transit passes for former directors.
+This is for the Board of Directors to build upon, ratify, and reaffirm the existing agency practice to provide
+annual transit passes to all former Board Directors and designated immediately family member by adopting
+the enclosed resolution, establishing the right of all former directors and a designated immediate family to
+an annual pass in perpetuity. Do we have a motion?
+DOUG TISDALE: [INAUDIBLE]
+ERIK DAVIDSON: Tisdale as the movement.
+MICHAEL GUZMAN: Second-- Guzman.
+ERIK DAVIDSON: And Guzman as the second. Any discussion on this item? All right, seeing none that-oh, that too had some good discussion at Executive Committee. Secretary Guzman, please.
+MICHAEL GUZMAN: Great discussion at Executive Committee. Thank you so much, Directors Buzek and
+Tisdale for bringing this forward and doing this work and clarifying for future boards what it is. I appreciate
+the honest and sincere conversations that we had in the struggle to get work done with 15 squirrels, but
+you did it, so I appreciate it. And thank you for bringing it forward.
+
+ERIK DAVIDSON: Thank you, Secretary. And I will echo that and thank Directors Tisdale and Buzek for
+their work on this and for the discussion at Executive Committee on that. All right, not seeing any other
+hands, I will call for the vote on this. Are there any no votes? OK, seeing none, that will also pass with 14
+yes votes, 0 no, and 0 abstentions. That concludes our recommended actions this evening. Thanks, y'all,
+as we go through a busy agenda here.
+So we're now at the Report of Director Activities. Would any Director like to report on their activities for
+November and the portion of December thus far? All right, not seeing any hands raised, with that, this is
+the final Report of Director Activities with the seven Directors that were noted before that are departing, and
+just like to, again, take that time to thank you for your service. Sometimes, we highlight activities here, but
+sometimes a lot goes unsaid. It's a lot of work. Really appreciate everything you all do.
+So that brings us to other matters. And if there's anything we wanted to circle back on from before, we can
+do that. But I'll go ahead and ask any Directors to please raise their hand if they have other matters to
+discuss tonight. All right, not seeing any, and I see General Manager and CEO indicating an interest to talk.
+So please go ahead for follow-up.
+DEBRA JOHNSON: Yes, thank you very kindly, Mr. Chair. Had an opportunity to confer with our Assistant
+General Manager of Rail Operations relative to the questions that were posed by Director Guzman as well
+as by Director Harwick. We are going to address those questions in this session right now relative to what
+is being done relative to the PTC issue that we have with Wabtec, who is a supplier, and then further explain
+the FRA regulation relative to the decibels and what we are doing to be in compliance, putting safety first
+and foremost. So with that, Mr. Jensen, I'll yield the floor to you, sir. Thank you.
+DAVE JENSEN: Yes, good evening. Thank you for the opportunity to speak. I'm Dave Jensen, assistant
+general manager of rail operations. As I understood the question initially revolved around the PTC issues.
+So we were having PTC issues. As Ms. Johnson explained earlier, our partner DTO, DTP, we're working
+in collaboration with Wabtec, those issues were resolved.
+As you know, and as Ms. Johnson indicated, when the trains are not operating under PTC, they're operating
+under ATC, which requires the sounding of the horns. There are very specific regulations associated with
+that. I would recommend actually going to our website, which does a really good job, I think, of explaining
+what those regulations are and why we do that. A lot of that is relevant to speed. There's time and distance.
+Those sort of things go into play as it relates to the way that the horns are sounded.
+I would note that the engineers don't have control over the decibel level of the trains of the horns. So,
+essentially, what they're doing is pushing a button and sounding the horn. There is a sequence that's
+required. It's two longs, a short, and a long for every grade crossing, and then, again, a certain time period
+with which it needs to be sounded.
+So, again, if we're getting customers complaining to us that it sounds like the horns are sounding too loud
+at certain times than others, we could look into specifics of that. It's possible that there's a mechanical issue
+with the train. We could look at the decibel levels. But the engineers themselves don't have control over
+
+how loud the horn is being sounded. So I think that addresses that in terms of the PTC issue that we were
+experienced. That's been resolved for the time being.
+We do have one grade crossing right now, which is York grade crossing on the A line, which is requiring
+horn soundings because we're getting a failure indication there. That also impacts two other grade
+crossings, Steele Street and Clayton. So DTO is working on that right now. And, in fact, they're working on
+that this evening trying to get resolution to that problem. And we're in daily contact with them trying to get
+these issues resolved. So I believe I've addressed the issues or the questions there may have been, but if
+there's others, I'd be happy to take those now.
+ERIK DAVIDSON: Oh, go ahead please.
+DEBRA JOHNSON: Yes, thank you. Just for further clarification, PTC-- Positive Train Control. Automatic
+Train Control-- Mr. Jensen referenced the website. What we did some time ago, with the help of our diligent
+communications and engagement staff, was create a web page, the certain regulations to which we have
+reference relative to the Federal Railroad Administration specifying when sounding of horns are required.
+That is on our web page. And just wanted to clarify, you could put in Mr. Summers, the web page as it
+relates-- slash trainhorns. I knew it had to be something simple. Thank you.
+ERIK DAVIDSON: Thank you very much, General Manager and CEO. Mr. Jensen, thanks for sharing that
+information with us and helping with that. I see a couple of hands raised, so I'll go to Director Harwick.
+IAN HARWICK: I know this answer, but I'm just going to ask it just so it's just out in the ether. So a lot of my
+constituents, they regularly remind me that it's a quiet zone. And can you address why we still need to
+sound horns even when it's considered a quiet zone?
+ERIK DAVIDSON: Mr. Jensen?
+DAVE JENSEN: Yes, I think the misnomer is the term quiet zone, which may imply that there's never going
+to be a sound. But safety requires us to sound the horn under certain conditions. So, as I explained, the
+federal regulation is if we're not under positive train control, then we do going through the crossing. But
+there could be other things. There could be construction. There could be a person in the right of way.
+There could be any number of reasons why an engineer might believe that it's necessary to sound the horn.
+It's always with the intent of safety in mind. So, again, if something occurs, then they really are required to
+sound their horn, and it's never going to be completely silent. But it is intended to be as quiet as it can be.
+ERIK DAVIDSON: Thank you very much. Director Rosenthal, please.
+PAUL ROSENTHAL: Thank you, Mr. Chair. I just wanted to thank you for your service. I was really moved
+by your statement earlier and your report. So I just wanted to thank you. I wanted to thank all my colleagues.
+It was an honor and a pleasure to serve with you. Thank you to our General Manager. Thank you to your
+staff and to our Board Office. Thank you to our community for always coming and keeping us on our toes.
+And thank you to the people of District E for electing me. Thank you and good night.
+
+ALL: Hear, hear.
+ERIK DAVIDSON: Thank you, Director Rosenthal. Thank you for your service. Secretary Guzman?
+MICHAEL GUZMAN: Thank you. I need to return to the train horns. So I just want to make sure that we
+understand why this happened. It is my understanding that there was an accident with the arm that lowers
+at the York Street crossing, which made contact with the overhead catenary system and caused the issues
+with the positive train control requiring us to go to automatic train control procedures. Is that correct? It was
+about two weeks ago.
+And the reason I bring this up is because the community has been pretty quiet, fairly patient, I think. But
+after two weeks of train horn sounding, they're starting to get agitated-- rightfully so. But the reason I brought
+it up earlier and want to make sure that this is on the record is that we have all of the information available
+for the public because I've gotten a number of questions from city council members' offices as well as the
+communities of Globeville, Elyria-Swansea, Cole, Whittier, and Clay.
+And if you just pass Colorado Boulevard-- because this is the A line that runs on the side of District C that
+would then join up with District B-- and so in order to have a full set of facts to be able to respond to
+constituents in an appropriate manner, I just want to make sure that we have that understanding. This was
+not something that RTD did or that RTD had control over directly, but we must respond for the purpose of
+public safety. So is any of that incorrect or not factual?
+DAVE JENSEN: Mr. Chair, if I may?
+ERIK DAVIDSON: Please, go ahead.
+DAVE JENSEN: Yes. So that is factual. That's correct. I would add that we had two situations occurring at
+the same time. So there was-- and I don't have the dates in front of me, so I don't want to misspeak. But it
+was around Thanksgiving, last week, where we did have a PTC failure, a positive train control failure. And
+that was addressed with DTO and Wabtec.
+The incident that you're referring to did create a situation where it impacts the PTC inasmuch as it's showing,
+right now, train occupancy. So it shows a failure on the grade crossing. But it's not necessarily a PTC failure.
+It's actually acting the way it should. It's a result of the incident that you described and finding out where
+exactly that train occupancy indication is stemming from.
+And so DTO is working on that right now. It's not currently believed that that's a PTC problem necessarily.
+Certainly, once all of the infrastructure is inspected, we can go back to PTC, possibly. But that one grade
+crossing is still because it's not yet resolved, we're not completely sure exactly where it is, but yes, it's not
+something we caused. We do have to respond to it. We are working on it.
+Thank you very much, Mr. Jensen. Thank you, Secretary, for the clarification. Any other matters? Yes,
+Director Ruscha.
+
+JOYANN RUSCHA: On the PTC issue, as a person who lives in Central Park, I am sorry for those who
+have had to join the club. And I hope you don't stay in the club for as long as we did. But as noted, those
+horns are sounded for safety, so to reduce the possibility of an individual or motorist getting hit by a train.
+And, as Mr. Jensen mentioned, we do have a web page up. Maybe we can just add a few more things so
+that folks are a little bit more aware of regulations and such. I think that would be helpful, especially to
+Directors. And they can direct them to something more comprehensive. But thank you. And thank you for
+taking time at the end of a long evening to speak to us.
+ERIK DAVIDSON: Thank you, Director Ruscha. And, again, thank you, Mr. Jensen. Again, any other
+matters from any Directors on any topic at all? All right, seeing none, I just will note a couple of things here.
+So as a reminder for anyone listening in, participating remotely, or here in the room, this is our last regularlyscheduled Board meeting-- nonspecial Board meeting, regularly-scheduled Board meeting for the year.
+The new board with seven new Directors will be-- new Board Directors, seven new Directors, will be sworn
+in at a meeting on Tuesday, January 7, 2025. The districts that will have new representation in 2025 are
+districts A, D, E, F, H, I, and M. And then Director Bouquet was reelected for a second term and will be
+continuing his service on the board for another four-year term representing District G. Thank you for
+running, and congratulations.
+And, of course, as already noted, Director Broom, Director Lewis, Director Rosenthal, Director Sloan,
+Director Tisdale, thank you very much for the service. It's been a pleasure. And I don't know what else to
+say other than thank you. So, with that, seeing no other discussion, I will entertain a motion to adjourn.
+JOYANN RUSCHA: So moved.
+ERIK DAVIDSON: I heard Ruscha. The meeting is adjourned as of 8:41 Mountain Standard Time. Thank
+you. Go be helpers.
+
+greaterdenvertransit@gmail.com
+
+Submitted as Public Comment to the RTD Budget Hearing, December 3rd, 2024
+December 3rd, 2024
+Erik Davidson, RTD Board Chair
+Regional Transportation District
+1660 Blake Street
+Denver, CO 80202
+2025 Proposed Budget
+Dear Chair Davidson,
+Greater Denver Transit (GDT) would like to respectfully submit public comments on the 2025 proposed budget.
+For this we have the version dated November 11th, 2024, in hand.
+We note that we have yet to receive a reply to our letter to the Finance and Planning Committee sent on
+Thursday November, 14th 2024. If a reply has indeed been sent, please could you provide another copy at
+your earliest convenience. We have repeated the questions originally sent in this letter.
+New comments and questions since Thursday November 14th, 2024:
+●
+
+GDT has been able to download three different versions of the 2025 Budget Book from the RTD
+website since October and has only been able to spot new versions by closely examining the financial
+figures. We request that RTD provides document version / revision and date information within the first
+few pages of all future budget book documents.
+
+●
+
+A capital investment program (CIP) book that breaks down the status of each capital project and details
+how appropriated funds are due to be spent in the next few years is still absent from the documents.
+This was requested at the hearings for the 2024 budget and it is disappointing that, a year later, RTD
+has not been able to produce this document.
+
+●
+
+Despite $152M being appropriated for Downtown Light Rail Reconstruction in 2024, there is still little
+specific explanation on how the remainder of the money ($145,003,561) will be spent on various project
+aspects over the coming years. An explanation of the entire project spend would be appreciated.(Page
+89)
+
+●
+
+Departmental expenses need to be broken down by division and not by category so the public is able to
+understand where the expenses are going. For example it is unclear what ‘Services’ the General
+Council Department will receive for the $25M budgeted. (Pages 63 to 74)
+
+●
+
+It is unclear how much RTD operated fixed-route buses, TransDev operated buses (via numerous
+contracts), Access-a-Ride, Access-on-Demand and subsidized van pools are costing the bus
+operations division. (Page 65)
+
+www.greaterdenvertransit.com
+
+Page 1
+
+greaterdenvertransit@gmail.com
+
+●
+
+It is unclear what payments go to Denver Transit Operators (DTO) for providing train operations and
+what payments are for repaying the capital costs required to construct the A, B and G Lines. (Page 73)
+
+Comments and questions originally sent to Finance and Planning on Thursday November 14th, 2024:
+●
+
+Good to see a Customer and Community Connections strategic initiative (Page 11).
+
+●
+
+Most tables throughout the budget do not give comparison to 2024 projected and 2023 actual figures.
+(and 2024 actual YTD).
+
+●
+
+Referencing a large increase in health insurance costs - “RTD [to] seek strategies to contain ongoing
+future large increases” - has self-insurance been considered? (Page 45)
+
+●
+
+Noting “The 2025 Budget includes an assumed 4.2% increase in tax collections from 2024”, why does
+the budgeted sales & use tax revenue decrease from 2024 to 2025? Is this 4.2% increase above actual
+tax revenue, extrapolated to the end of 2024? (Page 49)
+
+●
+
+Why does Other Revenue increase 350% above the 2024 budget? (Page 49)
+
+●
+
+Do increases in total revenue hours include contractors? (Page 50)
+
+●
+
+Noting “...energy costs for facilities and traction power, are anticipated to remain relatively flat in 2025
+due to expected continued similar volume usage…”, has this taken into account the increased light rail
+frequencies proposed in the January service adjustments? (Page 51)
+
+●
+
+Noting “Replacement parts have experienced sharp increases in prices due to the inflationary
+environment, as well as supply chain issues, and it is expected to continue into 2025”, what role does
+the age of the fleet, and any out-of-production vehicles, play in this increase? Are savings on parts
+expected if RTD purchases newer vehicles or have replacement parts prices increased similarly across
+the board? (page 51).
+
+●
+
+Noting the replacement of 43 maintenance vehicles for $2,902,800, what vehicles specifically are being
+replaced? Is it a one-to-one replacement or will the new vehicles provide new capabilities to
+maintenance personnel? (Page 55)
+
+●
+
+Where are the headcount and budget figures for the Service Planning and Development Division?
+There is a “Planning” category listed, but the description seems to indicate it is the division focused on
+long-term work. (Page 63)
+
+●
+
+What is the cost per revenue hour for purchased transportation vs in-house bus operation? (Page 65)
+
+●
+
+It is unclear how $183.4 million for purchased transportation under bus operations is broken down into
+the 3x fixed route contracts, FlexRide, Access-a-ride and the 4 providers of Access-on-demand. (Page
+65)
+
+●
+
+Are we correct in our assessment that paratransit ($73 million) is ⅙ of the total bus operations budget
+($451 million)? How does this compare to peer agencies? (Page 65)
+
+●
+
+Very welcome inclusion of initiative for ‘Tap-to-Pay Fare’. (Page 69)
+
+www.greaterdenvertransit.com
+
+Page 2
+
+greaterdenvertransit@gmail.com
+
+●
+
+It is not clear how the rail operations budget is broken down into light rail, DTO operated commuter rail
+and the N Line. (Page 73)
+
+●
+
+If ‘Tap-to-Pay Fare’ is implemented, does the cost of the Ticket Vending Machine Replacement line item
+change? (Page 89)
+
+●
+
+Can a rough estimate of total deferred maintenance liabilities be included in the capital programs
+section? It would be useful information for the public to know how the capital programs budget
+compares to the total outstanding liabilities of deferred maintenance. The Appendix seems to offer
+some of this in great detail, but a higher-level overview that can be tracked at the monthly board
+meetings as this backlog is burned down would be really greatly appreciated. (Page 89)
+
+●
+
+GDT welcomes the return of detailed financial info presented similar to the Monthly Financial
+Statements in Appendix A.
+
+●
+
+Can subsidy per rider per route metrics be reinstated? It would be nice to see some updated figures
+that roughly estimate cost per revenue hour of bus, LRT, and commuter rail service.
+
+Thanks for all you do,
+
+James Flattum
+
+Richard Bamber
+
+Leslie Welch
+
+Emma Griffin
+
+Keith Brooks
+CC:
+
+RTD Board of Directors
+Debra Johnson, RTD General Manager & CEO
+
+www.greaterdenvertransit.com
+
+Page 3
+
+

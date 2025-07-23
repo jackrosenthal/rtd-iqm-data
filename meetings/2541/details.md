@@ -1,0 +1,175 @@
+Committee Chair Francone called the meeting to order at 3:30 p.m.
+
+Committee Members in attendance: Committee Chair Francone, Vice Chair Bagley, Directors Menten, Tobiassen and Walker.  Director Anderson participated via phone.
+
+Others Present:               Barbara McManus, Tai-Shrae Parish
+
+Committee Chair Francone indicated that she submitted her recommendations to Barbara McManus and asked if the other Directors had theirs prepared.
+
+Barbara McManus, Executive Manager of the Board Office, stated she had received recommendations from Directors Francone, Bagley and Tobiassen.
+
+Director Anderson said she was prepared to discuss her recommendations during the meeting.
+
+Directors Menten and Walker noted that they had their prepared recommendations with them.
+
+Committee Chair Francone explained that the goal was to evaluate the General Manager’s performance and discuss a discretionary payment as well.  She asked Barbara McManus to give the committee an overview of the recommendations.
+
+Barbara McManus remarked that the 48 voting points were broken down to the following:
+
+- Exceeds: 23.5
+
+- Achieved: 20.5
+
+- Needs Improvement: 4
+
+Barbara McManus asked if she should include Director Archuleta’s comments into the final results.  Committee Chair Francone remarked that he did not submit them prior to the meeting, and since he is not here his comments will be excluded.
+
+Committee Chair Francone asked if anyone wanted to share their comments for Core Goal 1.
+
+Director Bagley commented that to him, it was an achieved goal, but he had significant issues with the University of Colorado A line, the B line and the smart card testing.
+
+Chair Tobiassen stated that his recommendation was exceeds.  He noted that there was successful implementation of real time bus tracking, the new fare structure was incorporated, and noted the consistent on time performance.  He added that the General Manager and staff are quick to respond to unexpected events and do everything possible to move as many people as possible.  Also, the Flatiron Flyer (FF) was delivered in response to increased service demands.
+
+Director Menten explained that the smart card is still and issue and she is also disappointed in the time it will take to retrofit the light rail cars for ADA compliance.
+
+Director Walker shared the same sentiments as Chair Tobiassen and added that the light rail held a million people for the super bowl parade and it was not built for that.  He noted that the 16th Street Mall Meet in the Streets summer activities were successful, and coordinating bus routes with new service was also challenging.
+
+Committee Chair Francone remarked that her recommendation was achieved, but the smart card implementation resulted in a notice to cure to the contractor.  She commented that it took forever to get to that spot and it should have been done sooner.  She added that the super bowl parade should have had better preparation as it was expected and staff could have coordinated that better.
+
+Committee Chair Francone asked if anyone would like to share their comments for Core Goal 2.
+
+Director Anderson commented that after attending several American Public Transportation Association (APTA) conferences and seeing how RTD is always treating with respect, she feels that is a clear indication that RTD has exceeded in strong ethical leadership.  She added that some of the recent awards RTD has received are indicative of those achievements as well.
+
+Director Bagley stated that his recommendation was exceeds.  He stated that the he agrees with the General Manager’s self-evaluation, and noted that this category is more about how the agency is performing, not just the General Manager.
+
+Chair Tobiassen remarked that his recommendation was exceeds.  He explained that one thing he looks for is how honestly is the agency communicating with its stakeholders.  He added that staff has done a good job explaining issues, and noted that the City of Aurora has nothing but the highest praise for RTD.  He commented that the leadership and professional development programs within RTD are paying off, and employee morale is high.  He stated that in regards to the hiring challenges, it has been approached honestly and the Board and stakeholders were informed.
+
+Director Walker noted that he chose exceeds for this category because the General Manager was able to get the Federal Railroad Administration (FRA) waiver for the University of Colorado A line, which was a huge feat.
+
+Director Francone indicated that she chose achieved, primarily because the General Manager has not had a good opportunity to show the Board what he can do.  She remarked that he has done a good job so far, but she has not seen much of his individual leadership style.  She said that she would like to see more, as the short time that he has been the General Manager has not allowed him to showcase his talents.
+
+Committee Chair Francone asked for comments for Core Goal 3.
+
+Director Anderson commented that she chose exceeds and noted that there were some challenges for the General Manager to meet this year.  She noted that he has done an excellent job working with various communities and even though she is not sold on doing special accounts to appease elected officials, she gives the General Manager credit for trying to quell growing criticism.  She added that in addition to the great fuel lock price, she is pleased that service has not been cut.
+
+Director Bagley remarked that the General Manager and Heather Copp have done a fantastic job, but he has extremely high expectations and he is somewhere between achieved and exceeds for this goal.  He added that the $92 million grant that RTD received this year was started four years ago, but the General Manager reaped the benefits of it this year.
+
+Tobiassen stated that he chose exceeds for this goal and he concurs that Heather Copp is a shining star in this organization.  He noted that Heather has brought new vision to the long term outcome and responsibilities of the Pension Trust Board and both she and the General Manager are brutally honest about RTD’s current financial position.
+
+Committee Chair Francone remarked that she chose achieved for this goal.  She stated that she has been impressed with the agency’s ability to examine how we finance items, all the way to the fuel lock.  She added that there has been a shift in philosophy where RTD is looking to fill up accounts and paying for items as we go, in order to reducing the borrowing of funds.
+
+Director Walker commented that he chose exceeds.  He noted that there were no service cuts, RTD built and opened new lines, and continues to build out the district.
+
+Committee Chair Francone moved to Core Goal 4 and asked for any comments.
+
+Director Anderson stated that her assessment was exceeds.  She remarked that while many of these programs were started in the past, the General Manager has increased their efficiency.  She commented that the Colorado Black Chamber of Commerce gave RTD the Corporation of the Year award and the Rocky Mountain Indian Chamber gave RTD the First Nations Development Institute award.  She stated that RTD continues to be viewed as a model for workforce development.
+
+Director Bagley remarked that he chose exceeds, and he agrees with the General Manager’s self-assessment.  He said the continuation of the Workforce Initiative Now (WIN) program, and how it has been adopted by other entities and utilized by the Federal Transit Administration is significant.
+
+Director Menten stated she chose achieved and she would like to see the graduation rates.
+
+Chair Tobiassen said that he chose exceeds.  He explained that the General Manager is at the top of the organization and we have an exceptional EEO Manager as well.  They are both extremely knowledgeable, outward reaching and community focused.  He added that RTD has a strong ADA Manager on board now, and overall, he is impressed with staff.  He noted that RTD sponsored the ADA symposium this summer and he has heard nothing but good things about that conference.
+
+Director Walker stated his recommendation was exceeds.  He based that on the implementation of the EEO Software, the new ADA Manager, the EEO Officer and the reconfiguration of the light rail cars for ADA.
+
+Committee Chair Francone remarked that she struggled with this category.  She stated that the Board rarely receives updates from this department and doesn’t know what they are doing.  She added that the Board never sees Ed Neuberg, and the outreach efforts are primarily focused on central Denver.  She commented that she had asked the department for outreach in District N and she was not notified about the function until the day after the event.  She stated that the Board receives the complaints, but they are not notified of the resolution.  She said these measures seem nebulous and vague.
+
+Director Walker added that he has been working with the ADA Office on recognizing service animals and training staff appropriately, and the training should occur in January.
+
+Committee Chair Francone moved to Core Goal 5 and asked for any comments.
+
+Director Anderson stated that she agrees with the General Manager’s self-assessment, but she has issues with the postponement of the G Line and how little the Board knows about what is going on.  She remarked that the public is holding the Board responsible and currently, FasTracks and P3 does not seem to be very successful.
+
+Director Bagley remarked that he was between exceeds and achieved expectations.  He said there are two issues that are problematic.  First, the failure of the mobility choice action item, and second was getting the 2017 APE passed.  He stated that the General Manager should work with the Board, either one on one, or in small groups to reiterate the importance of certain items.  He explained that if the APE vote had failed, it would have put RTD in a precarious position.
+
+Director Menten added that there has not been enough communication from the General Manger to the public or the Board.  She said that she was still waiting to get the results of the forensic evaluation on the University of Colorado A line, and the Board did not receive any notice about the press conference until the day of.  She stated that the press conference wasn’t taped or put on youtube and any meeting like that should be taped.
+
+Director Bagley said the issue of filming Board and Committee meetings is critical for transparency and accountability.  He stated that this organization should implement video recordings, no matter what the cost is.
+
+Director Menten noted that the City of Littleton does not have written minutes anymore as all of their meetings are recorded.
+
+Chair Tobiassen reminded the committee that the Board voted against video recordings and we cannot hold the General Manager accountable for that.  He remarked that it is unfortunate that staff has so many challenges at the moment, but the General Manager has done a good job.
+
+Director Walker said the weekly Monday Morning Q’s, (MMQ’s) give a general overview of what is happening within the agency, and the weekly General Manager’s Report has a lot of information.  He noted that the 16th Street Mall discussions have been contentious, but the General Manager has done a good job of managing those conversations.
+
+Committee Chair Francone commented that in this area, the General Manager needs improvement; primarily for the University of A line communications and failure to get DTP to quickly move into action.  She stated that with respect to community outreach, she has never seen a staff member at any of the Jefferson County meetings or events.  She noted that Director Folska had been asking for a year for the results of the On-Board surveys and staff could have explained the process better to the Board but they did not.  She added that there are remaining issues and questions that have not been addressed.
+
+Committee Chair Francone asked if there were any comments for Task Goal 1.
+
+Director Anderson said the committee needs to get together to set the priorities for next year as she is unhappy about certain things, but now is not the time to bring them up.
+
+Director Bagley commented that the naming rights, and the $92 million grant were both in play well before the General Manager took over.
+
+Chair Tobiassen stated that this is one of the most challenging items RTD faces.  With insufficient funds to complete all of the corridors, if the Board is split, it will not help the agency remain sustainable.
+
+Director Walker added that participation in the reduced fare program has grown.  He stated that RTD needs to provide assistance to those that provide assistance.
+
+Committee Chair Francone noted that she sees improvement in non-profit distribution channels, making transportation available to more people.
+
+Committee Chair Francone asked if there were any comments for Task Goal 2.
+
+Director Anderson indicated it was great that RTD received the waiver extension from the FRA, but she needs further assurances that the University of Colorado A line will be fixed.
+
+Director Bagley admitted the agency should have been more proactive with communications regarding the University of Colorado A line.
+
+Director Menten said there are too many questions out there right now.   Signage is still an issue, and we are in a tough spot with the University of Colorado A line and the Arvada A line shuttle going away.  She added that she still receives complaints about wayfinding through the airport.
+
+Director Anderson remarked that the Arvada A line Shuttle went away because that entity’s Board of Directors made the decision, not the RTD Board.
+
+Chair Tobiassen commented that opening five corridors in one year is extremely difficult.  We said three of the five are open and two are pending, and hopefully, they will open soon.  He added that North Metro and the Southeast extension are making progress.
+
+Director Walker remarked that he has worked in construction for 20 years and it is amazing that anything is built on time, or on schedule.
+
+Committee Chair Francone asked if there were any comments for Task Goal 3.
+
+Director Anderson stated that she would have liked to have seen this finished a year ago, but she understands there are issues with cyber technology and we do not want to put our constituent’s information at risk.
+
+Director Bagley said the whole issue with smart cards has been going on for over six years and it is a major flaw that we used Xerox.
+
+Chair Tobiassen commented that the General Manager has embraced cyber security and staff brought in Homeland Security who performed an audit of the light rail system for free.  He added that the addition of real time tracking is huge, and an update to the electronic records system is upcoming.  He stated that the organization is doing work behind the scenes that the Board is unaware of.
+
+Committee Chair Francone stated that while the smart card portal wasn’t implemented, there have been huge strides by the agency to protect customer
+
+information.
+
+Barbara McManus remarked that the 48 voting points were broken down to the following:
+
+- Exceeds: 23.5
+
+- Achieved: 20.5
+
+- Needs Improvement: 4
+
+Director Bagley said he has problems with the University of Colorado A line, the smart cards, and the mobility choice failure.  He noted that he cannot off a discretionary bonus payment above $10,000 for 2016.
+
+Director Anderson remarked that the automatic salary increase is enough without the discretionary bonus.
+
+Director Menten stated that she would not offer a discretionary bonus.
+
+Chair Tobiassen asked what was the range for the discretionary bonus.
+
+Committee Chair Francone stated it is up to 10% of the $275,000 base salary.
+
+Chair Tobiassen commented that he would propose a 4-5% bonus.
+
+Director Walker said this is a difficult decision for him, but he would give 5%.
+
+Committee Chair Francone said she is in favor of no discretionary payment.  She stated that the discretionary is designed to reward exceptional behavior and while he has done a great job, the General Manager has not been exceptional, nor has he exceeded her expectations.
+
+Director Anderson indicated that her community is looking at this very closely, and she will be held responsible if the G line does not open in time.  She added that even though the Board has no control over the delay, they will all be held accountable for it.
+
+Chair Tobiassen said he is concerned about making a business decision versus making a political decision.  He commented that while the Board is a political entity, RTD is a business entity and the two should be separate.
+
+Director Francone said the two cannot be separated.  The committee is discussing performance criteria so that the Board can determine if a performance payout is warranted.
+
+Director Francone remarked that if the entire package is examined, the General Manager’s base salary is $275,000 with an automatic $10,000 increase next year.  She stated that the automatic increase was in recognition of his excellence, which does not exclude the possibility of a discretionary bonus for exceptional achievement.  She said if he would have hit all of his marks for this year, of course the Board would pay him more.  She stated that while there were things outside of his control, he is still responsible for them based on this evaluation.
+
+Director Anderson stated that she does not want to be the only Board member held accountable by their community.  She added that the General Manager has given his best shot, but he is in this along with the Board, and all of us must show the communities that we expected more from this year, but unfortunately we came up short.  She reiterated that the eyes are upon us and the Board needs to be cautious.
+
+Director Walker commented that the measure of a CEO should not be by what they do, but by what they do not do.  He noted that delaying the smart card was the right decision and the General Manager and his staff have done what they can with what they have to work with.
+
+Director Anderson reiterated that the University of Colorado A line could go away until all of the problems are fixed, and that is a very real possibility.  She said the timing for this bonus is wrong, and the Board needs to get through this tough time first.
+
+Committee Chair Francone said the next step would be to discuss the discretionary bonus recommendations with the full Board at the November 29th committee meeting.
+
+Committee Chair Francone adjourned the meeting at 5:15 p.m.

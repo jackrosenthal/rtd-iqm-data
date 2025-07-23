@@ -1,0 +1,243 @@
+## I. Financial Administration and Audit Committee
+
+Chaired by Tom Tobiassen
+
+Director Lasater was absent.  Director Solano left before the meeting began.
+
+Staff Present:          Bruce Abel, Lacy Bell, Shirley Bennett, Jessie Carter, Rick Clarke, Carolyn Conover, Lou Cripps, Lee Cryer, Martell Dyles, John Elias, Sherry Ellebracht, Terry Emmons, Dave Genova, Mike Gil, Kim Heldman, George Hovey, Ann Marie Isaac-Heslop, Erin Klaas, Marla Lien, Michael Nabhan, Adrian Mabry, Doug MacLeod, Barbara McManus, Deborah Mendez-Wilson, Vivian Morales, Paula Perdue, Scott Reed, Jan Ross, Jannette Scarpino, Zamy Silva, John Tarbert, Pauletta Tonilas, Bill Van Meter, Phil Washington
+
+Others Present:        Josh Benninghoff, Heather Copp, Eugene Howard, Bill McMullen, Daniel Pearsall, John Rebter, Brian Stelmack, Vivian Stovall, Joe Triplett, Gary Van Dorn, Dace West, Tracy Williams
+
+#### 1. Increase General Counsel's Settlement Authority to Colorado Governmental Immunity Act Claim Limits
+
+It is recommended by the Finance and Administration Committee that the RTD Board of Directors authorizes the General Counsel to settle claims made against the District up to the limits provided in the Colorado Governmental Immunity Act (CGIA), C.R.S. 24-10-114.
+
+Motion:              Chair Sisk made the motion to move this item to the full Board at the April 21, 2015 Board Meeting.
+
+Director Anderson seconded the motion.
+
+Discussion:              Marla Lien, General Counsel, explained to the Board that prior to 2013, the Colorado Governmental Immunity Act (CGIA) limited liability for tort claims, a category that covers most personal injury claims, at $150,000 per person.  RTD’s General Counsel had authority to settle those claims and General Manager Washington could settle claims up to $250,000, which he delegated to the General Counsel’s office.  In 2013 the CGIA was amended and individual claim limits were increased to $350,000.  She said that this request is to authorize the General Counsel the ability to settle claims made against the District up to the limits provided in the CGIA, or $350,000.
+
+Marla Lien stated that this request does not have any budget implications.  RTD is self-insured for most liability and manages claims with its in-house risk management and legal staffs.  She explained that following the change in the CGIA limits, her department worked with Finance to begin increasing the self-insured reserves to account for potential settlements or judgements under the new statutory limits.  She noted that RTD has an actuarial study performed each year and has its reserves audited to ensure they are adequate.
+
+Marla Lien reiterated that this action will not impact the budget; it simply allows the General Counsel to continue to settle claims within the limits provided in the CGIA, as done prior to the CGIA amendment.  If this action is not passed then any claims in excess of $250,000 would be brought to the Board for settlement authority.
+
+Director Hoy asked for clarification if this action provided General Counsel the authority to settle claims or the General Manager.  He thought he heard both entities mentioned as being able to settle.  Marla Lien stated that this would allow the General Counsel office to settle claims.  She apologized if at any time she misspoke and said the General Manager settled the claims.
+
+Director Francone asked if the current General Counsel authority was for $150,000 or $250,000.  She also wondered how many of the 340 open liability claims might exceed $250,000.  Marla Lien stated that since the General Manager delegated his authority to the General Counsel department they could settle claims up to $250,000.  She said that it was very difficult to say what open liability claims might exceed $250,000 as each case is unique; additionally, there could be claims that were settled from $150,000 under the previous CGIA but would settle for a higher amount today.
+
+Director Francone inquired if claims above $350,000 would still need to be brought to the Board for approval.  Marla Lien explained that there would be no settlements above $350,000 as that is the maximum a claimant can receive by statute.
+
+Director Menten requested if the Board could receive an annual report related to claims versus settlements.  Marla Lien said that it would take some discussion as RTD would not want to report on the possible outcome of a claim before it is closed but her team would work on it.
+
+Committee Chair Tobiassen asked if RTD’s contractors are protected by the CGIA.  Marla Lien stated they are not which is why they are required to carry much higher liability insurance policies.  Committee Chair Tobiassen noted that it is similar to the railroads requiring RTD to have additional liability insurance when we operate in their right-of-ways as they also are not covered by the CGIA.
+
+Committee Chair Tobiassen declared the motion PASSED unanimously.
+
+#### 2. Authorization to Execute a Budget Transfer to Purchase Thermal Printers
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors authorize the General Manager or his designee to execute a budget transfer in an amount up to $1,900,000 from the Mall Shuttle project in order  to purchase and install the equipment necessary to accommodate the sale of fare media under the proposed fare structure.
+
+Motion:              Director Bagley made the motion to move this item to the full Board at the April 21, 2015 Board Meeting.
+
+Director Archuleta seconded the motion.
+
+Discussion:              Doug MacLeod, Controller, reminded the Board that this action was originally presented at last month’s Financial Administration and Audit Committee Meeting.  There were several questions from the Board so staff decided to bring this item back to Committee after addressing any outstanding items.  Doug MacLeod explained that although the Board has not approved a new fare structure that includes printing of the Day Passes, there are a lot of pieces that need to be put in place in the background to have the printers in time for the launch of a new fare structure.  He reiterated that staff would not move forward with purchasing the printers if they are not required by a fare structure approved by the Board.
+
+Doug MacLeod noted that he had a thermal printer for the Directors to see.  He recognized that it is fairly small with the only moving part being the mechanism to cut the tickets.  It is a very durable and low-maintenance device.
+
+Bruce Abel, Assistant General Manager of Bus Operations, explained that it would be integrated into the existing CAD/AVL system that would control the issuance of the day passes.  He informed the Board that a delegation from RTD recently traveled to Portland’s TriMet to see the printers in use.  TriMet has around a 700 vehicle fleet and only averaging around 20 service tickets per month for the thermal printers.  Bruce Abel said those were mostly from the early models related to paper jams; those issues have been addressed in the models RTD would be purchasing.  He stated that TriMet is anticipating a 10-12 year useful life.
+
+Bruce Abel commented that RTD cannot initiate any form of our procurement process unless there is a budget for the project.  He explained that the reason staff was coming to the Board this evening was to address this internal process issue.  Given that this project was not anticipated when the 2015 Budget was adopted there is no budget for the project.  He said this will allow staff to transfer money to create a budget line item so that the procurement process may be initiated; staff will not procure the thermal printers if the fare structure approved does not warrant a need for thermal printers.
+
+Doug MacLeod reminded the Board that the budget transfer for this item would come from a portion of the Certificate of Participation (COP) proceeds that were authorized by the Board to be used for the replacement of the Mall Shuttles.  He said the next action item is the approval to modify that COP.  He stated that staff did acquire bond counsel sign-off and approval to use those funds to purchase the thermal printers.
+
+Committee Chair Tobiassen asked if staff planned to backfill the COP budget at some point.  Bruce Abel stated that was correct; the backfilling might take place before the actual expenditure.  He stressed that this is really just paperwork so the procurement process may begin.
+
+Committee Chair Tobiassen wondered if there was a back-up plan in place should the day passes be approved but we did not have the thermal printers in time.  Bruce Abel stated that there was a back-up plan but staff did not want to implement it on a long-term basis.  Currently RTD offers day passes through places like the Denver Visitor’s Bureau.  These passes are essentially like cash.  He said the plan would be to issue these passes to the drivers until the thermal printers were installed.  He explained that this process requires implementation of internal controls that are not in place today.  He noted that additionally there is some security concern in sending the drivers out with essentially cash in a fanny pack.
+
+Director Folska inquired if the thermal printers would allow customers to purchase a ticket by credit or debit card.  Bruce Abel stated that the buses do not have the capacity to accept credit or debit cards.  He said that once the SmartCard program is fully implemented passengers can use them to purchase tickets on the buses.
+
+Director Francone asked if staff could provide a breakdown of the cost of the printers and installation.  She also inquired what color they would be.  Kim Heldman, Senior Manager of IT, stated that there was not a breakdown for cost.  Bruce Abel noted that the cost per thermal printer was based on estimates for RTD’s conversations with TriMet and ours could be different.  He said that his team would work with marketing to find an appropriate color.
+
+Director Hoy expressed concern over the integrity of the passes.  He wonders how easy they will be to counterfeit.  Bruce Abel stated that there is a hologram on the tape.  Kim Heldman explained that the passes also contain a rotating day code security feature.  Every day there is a new code to help deter fraud.
+
+Director Menten asked if the staff planned to go out to bid for suppliers of the thermal printers.  Bruce Abel stated that it is important for the thermal printers to integrate with the CAD/AVL system.  The manufacturer of the CAD/AVL system also manufactures thermal printers.  He said staff does not know at this time how many other companies might offer compatible equipment.
+
+Director Walker expressed his support of the day passes.  He wonders how many TriMet has sold to date.  He also asked if the thermal printers would be able to print our current transfers if the day passes were not approved.  Doug MacLeod said that over 10 million tickets have been printed on TriMet’s printers.  Bruce Abel stated that the thermal printers could be used to print transfers but it would need to be evaluated further to determine if there was a benefit.
+
+Director Francone commented that staff indicated they had received an opinion from bond counsel but she did not see that included in the packet.  Doug MacLeod explained that was part of the next action item.
+
+Committee Chair Tobiassen declared the motion PASSED.
+
+#### 3. 2015-003 : Authorization to Execute a Lease Amendment for Smart Card and /or Thermal Printers
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors approve the attached Resolution Number __ (the “Resolution”), authorizing the First Amendment to the Lease Purchase Agreement related to the Certificates of Participation, Series 2013A.
+
+Motion:              Chair Sisk made the motion to move this item to the full Board at the April 21, 2015 Board Meeting.
+
+Director Anderson seconded the motion.
+
+Discussion:              Doug MacLeod explained that this action is asking for approval to perform an Amendment to the Lease Purchase Agreement related to the Certificates of Participation (COP), Series 2013A.  He noted that in the case of the 2013 COPs RTD issues about $200 million to fund the purchases of buses, including the Mall Shuttle buses.  Since the Mall Shuttle procurement has been delayed staff is requesting the transfer of $6 million from the 2013 COPs to fund two projects: (1) expansion of the Xerox contract related to the smart card project ($3.8 million) and (2) purchase of thermal printers to support the proposed new fare structure including the purchase of day passes on buses ($1.9 million).    Doug MacLeod said that per the recommendation of the bond counsel staff has rounded the requested transfer to $6 million.
+
+Director Lubow said it was her understanding that issuance of a COP is based on using collateral.  She asked if the $6 million that will be transferred will now be collateralized by the purchase of the thermal printers.  Marla Lien explained that when approximately $10 million was paid down on the COPs certain collateral can be released.  Per the amortization schedule outlined as part of the resolution (Exhibit C), the thermal printers will be released from collateral as it is a low value item while the other items purchased (i.e. light rail vehicles, buses) will remain as collateral.
+
+Director Lubow noted that RTD will still need to purchase Mall Shuttles when we can find a company to build them.  She wonders how RTD will come up with the missing funding.  Doug MacLeod explained that in June or July staff plans to issue new COPs for additional rolling stock; $6 million from those COPs would be used to replace these funds.
+
+Director Menten stated that she will be voting no for the simple principle that RTD is using borrowed money to purchase a service contract and thermal printers.  This is not only using money that is borrowed but will ultimately increase the overall amount owed by RTD.
+
+Director Francone stated that she too has several problems with this recommendation.  She commented that she still does not see an opinion from bound counsel saying this is okay included in the packet.  Director Francone shared that the other thing that bothers her is that there is a just a little extra in the amount requested.  She would be more inclined to vote yes on a request for $5.7 million.   Marla Lien explained that bond counsel opinions are delivered to the trustee and note holders, not RTD.  Doug MacLeod noted that the reason bond counsel recommended, and staff requested, $6 million was to try and avoid coming back to the Board to amend the lease a second time.
+
+Committee Chair Tobiassen shared that he thinks of COPs like a mortgage that someone might take out to build a house.  RTD is already making interest and principle payments on money that is just sitting out there; however, it is available and we already have some equity.  He said this is just borrowing the money temporarily so we can do something else but ultimately the house will still get built.  He believes this is a good temporary use of the funds.
+
+Committee Chair Tobiassen declared the motion PASSED.
+
+##### a. First Amendment to Lease Purchase Agreement (final)
+
+##### b. Resolution - RTD - First Amendment to 2013 Lease (final)
+
+#### 4. Adoption of 2016 Performance Measures
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors adopts the attached 2016 Performance Measures for mission statement goals 1-7.  There are 23 specific performance measures in total.
+
+Motion:              Director Folska made the motion to move this item to the full Board at the April 21, 2015 Board Meeting.
+
+Director Bagley seconded the motion.
+
+Discussion:              Jannette Scarpino, Senior Manager of Budget and Financial Analysis, indicated that there were several recommended changes from the goals adopted in 2015.  The changes recommended are:
+
+- Goal 1.4: remove the measure for Reportable Light Rail Accidents while retaining the Preventable goal.  The first measure is considered no longer relevant as the focus should be directed to preventable accidents and brings the goals for Rail Operations in line with those for Bus Operations
+
+- Goal 3.1: reduce the Local On-Time Bus Service performance measure from 88% to 86% and reduce the Regional & Express On-Time Service performance measure from 94% to 92%.  Since moving to using the GPS component of the Automated Passenger Counter system in 2011 the collection of on-time performance data has become far more accurate.  The new data capture methodology has shown on-time performance consistently in the 83-86% range for local service while a peer review indicated actual on-time performance of 82% on average.
+
+- Goal 3.3: increase the Mileage Between Lost Service Maintenance Road Calls from 26,000 to 28,000 miles.  With new bus vehicles that dominate the bus fleet and require fewer maintenance road calls it is expected that the mileage between lost service will increase.
+
+- Goal 6.1: add a yes/no indication of whether the required SB154 Cost Recovery ratio is met along with ratio’s definition along with that of the Operating Cost Recovery ratio (Board-approved goal).  This is to provide clarification between what state legislature requires as opposed to the Board-approved goal.
+
+Jannette Scarpino reminded the Board that Goal 6.2 and 6.3 are currently placeholders; these measures will be established as part of the 2016 Annual Budget process.
+
+Director Francone believes it is still valuable to see metrics on all types of accidents whether preventable or not.  She also suggests leaving the on-time performance metrics as is.
+
+Director Anderson expressed that to her it makes sense to only track the preventable accidents because there is nothing that RTD can do about the others.
+
+Chair Sisk expressed a problem with reducing goals for system-wide on time performance.  He stated that we are going out to the public telling them we are increasing fares yet also telling them that we are lowering our goal for on-time performance.  He thinks this is sending the wrong message to the public.
+
+Director Folska stated that she concurs with Chair Sisk.  This performance measures appears to the public that we are raising fares and lowering performance.  She said that additionally, RTD does not know what the picture will look like in 2016 with all the new rail openings.  She suggested waiting to establish this performance measure.
+
+Bruce Abel explained that staff was attempting to recognize that in 2011 the data collection method became far more accurate.  Using the previous observational method data counts were only about 240/day and are now exceeding 18,000/day.  He said the positive is that every year since 2011 the performance has improved; however, every year since 2011 staff also has to return to the Board explaining that we are not meeting our goals.  Bruce Abel noted that the proposed goal still encourages staff to improve while still being a goal that can realistically be met.
+
+Committee Chair Tobiassen reminded the Board that these goals also drive the budget.  He thinks that using new technology to really fine tune the goals and help staff focus where budget dollars are allocated is a good thing.
+
+Committee Chair Tobiassen declared the motion PASSED.
+
+##### a. 2016 Performance Measures - Proposed
+
+#### 1. Review of 2016 -2021 SBP Development Process and 2016 Budget Assumptions
+
+Jannette Scarpino reviewed a Power Point with the Board that is available in the April 14, 2015 Financial Administrative and Audit Committee Agenda Packet.  She explained that the Strategic Budget Plan (SBP) is RTD’s six year financial plan for the Base System that must result in a balanced budget.  FasTracks expenses and projects are in the FasTracks Annual Program Evaluation (APE) financial plan; cost allocations are made from the Base System to the FasTracks Operations for the West Line, DUS Bus Concourse, Free MetroRide and I-225 Rail Line.
+
+Jannette Scarpino explained that staff starts with the 2015-2020 SBP capital programs as a baseline to develop the current SBP.  These projects are prioritized and evaluated using mission statement criteria and 2016 strategic goals.  She said the SBP is comprised of operating elements (bus service, LRT service, and operating and passenger facilities) and capital elements (fleet plan and operating and passenger facilities and equipment).
+
+Jannette Scarpino noted that there are several revenue and cost assumptions used in development of the SBP which are:
+
+Revenue Assumptions:
+
+- Sales and use tax growth rates
+
+o        2016: CU-Leeds School of Business currently forecasts 4.8% increase over 2015
+
+o        2017-2021: based on quarterly forecasts from CU-Leeds School
+
+o        January 2015: actual sales/use tax is 10.8% over January 2014
+
+- Federal Grants
+
+o        Based on actual 2015 appropriations
+
+o        Assumed to increase at rate of inflation
+
+- Fare revenue
+
+o        Assume 10% fare increase in 2016 over 2015 budget
+
+o        Per policy, Board will consider a fare increase every 3 years, scheduled increase for 2014 was deferred to 2015 and 2015
+
+Cost Assumptions:
+
+- Operating and maintenance costs
+
+o        Based on 2015 proposed Amended Budget
+
+o        Costs escalated at rate of inflation
+
+o        Collective Bargaining Agreement incorporated, fixed through 2017
+
+- Diesel fuel costs
+
+o        Locked at $2.95 per gallon in 2015
+
+o        Current futures estimate is $2.12 per gallon for 2015
+
+o        Conservative cost assumptions and escalated at rate of inflation
+
+o        Provide monthly updates
+
+- Debt service
+
+o        Interest payments on existing debt and assumed financing
+
+- Inflation rates
+
+o        Based on Moody’s forecasts as of December 2015
+
+o        Denver-Boulder inflation rate: 3.1% in 2016
+
+o        National inflation rate: 2.6% in 2016
+
+Jannette Scarpino pointed out that there are many issues and challenges in developing the SBP.  The cost of fuel is very volatile so it can be difficult to make assumptions over several years.  Additionally, staff must always look to optimize/improve service levels, prioritize competing projects and maintain a State of Good Repair.
+
+Jannette Scarpino stated that staff will continue to review the assumptions and refine the SBP accordingly.  She said the next steps in the process are to review the first draft of the SBP at the Budget Study Session, review the second draft of the SBP at the following Financial Administration and Audit Committee Meeting with the SBP hopefully being approved in July.
+
+Director Folska inquired how far in the future we can buy fuel.  She wonders if we can stock up on fuel for perhaps 2017, 2018 and 2019.  Marla Lien explained that RTD does not purchase fuel from the commodities market; we sign a contract with a vendor to formulate the diesel, deliver it to our locations, etc.  She said that we have never found a vendor willing to enter into a contract of longer than one year.  Marla Lien stated that the vendor may have options for purchasing fuel further out on the commodities market but that option is not available to RTD.
+
+Director Lubow asked what impact there might be on the SBP when new corridors go online like we will have in 2016.  She noted one slide of the presentation mentioned cost allocations for several FasTracks project bus not the Eagle P3 lines or US 36 Bus Rapid Transit and she wondered why.  Jannette Scarpino explained that the opening of FasTracks lines does have an impact on the SBP; initially all operating costs are carried in Base Systems and then there is an allocation made to the FasTracks Operating budget based on a cost allocation formula.  Jannette Scarpino commented that is it important these are segregated because of the legislation that was passed requiring a separation of the 0.6 and 0.4 cent sales and use taxes.  She said that the Eagle P3 lines will not be allocated because operation of those lines is through Denver Transit Partners.  As for the US 36 BRT and new cost allocation formula will need to be created prior to opening as RTD does not own the entire project like we do for something like the West Line.
+
+Director Lubow noted that during the Northwest Area Mobility Study there were a variety of BRT corridors proposed.  She wonders, given the other projects already included in the SBP, when those lines might show up on this plan.  Jannette Scarpino said that those BRT lines would not show up in the SBP until they had been formalized.  Doug MacLeod stated that those BRT lines would also not be included in the APE that will be presented in the next few months; until RTD has identified a way to pay for and operate a new service it is not included in the list of projects.
+
+Director Menten noticed that the Power Point indicated the SBP would be brought back to the Board at the April 28th Study Session.  She wondered if that was still scheduled as that is also the Study Session to further review the Fare Study.  Dave Genova, Interim General Manager and CEO, said that staff was still reviewing the schedule.  It is possible that the SBP may not be presented again until the May.
+
+Director Bagley believes it needs to be recognized that the diesel price per gallon Jannette Scarpino mentioned for 2016 is only an indicator of what it might be.  The futures market can change very quickly and only demonstrates a trend of what is happening with fuel prices.
+
+##### a. 2016-2021 SBP presentation-FAAC 041415
+
+#### 2. Internal Audit Charter
+
+Ann Marie Isaac-Heslop, Manager of Internal Audit, stated that the Audit Charter was included in the Financial Administration and Audit Committee Agenda Packet and asked if there were any questions.
+
+Director Hoy asked for further clarification on the process for the Board to interact with the Internal Audit Department.  Scott Reed, Assistant General Manager of Communications, explained that the internal audit plan is developed in the 4th quarter of each year.  He said at that time the Board is asked if they have any suggestions of possible audit topics to include in the plan.  He stated that if at any time throughout the year a Director had questions about an existing audit his team would be more than happy to discuss it with the Director.
+
+Committee Chair Tobiassen asked if information security falls into the Audit Charter or if this is something that needs to be included.  Ann Marie Isaac-Heslop said that it includes general audit responsibility but does not outline any specific audit classifications.  That is done during development of the Internal Audit Plan each year.
+
+Director Menten wonders what resources are available for employees to suggest areas that they feel need to be audited, especially if they want to remain anonymous.  Scott Reed stated that there are several different ways for employees to give suggestions and may remain anonymous if they wish.  He said that employees can also contact the Internal Audit Department directly as well.  Dave Genova noted that RTD also has an employee liaison that is very engaged with the employees.  He said this is a great conduit to get feedback from employees.  Dave Genova said that it might be valuable to bring the liaison, Beverly Lindsey, into a future meeting.
+
+##### a. Internal Audit Charter
+
+#### 3. February 2015 Monthly Financial Status Report
+
+Doug MacLeod reviewed the February Monthly Financial Status report that is available in the April 14, 215 Financial Administration and Audit Committee Agenda Packet with the Board.  He noted that for the year to date ridership is down 1.3% but fare revenue and sales and use tax are up 0.5% and 9.5% respectively.  He pointed out that we are still under budget and sales and use tax continues to be strong.
+
+Director Bagley reiterated that the trend for this year is that ridership is lower than what we project.  He said that when the Board talks about increasing ridership, there are so many externalities that cannot be anticipated, noting that no one would have predicted the current price of oil.  He stated that external factors are something that the Board really needs to think about.  It is not simple to try to increase ridership, balance the budget, and have fare revenue and sales and use tax be rosy because of all the externalities.
+
+Committee Chair Tobiassen commented that ridership appears to be down, perhaps due to decreased gas prices, but as he drives along the interstate he sees an H-Line packed to standing room only leaving Nine Mile.  He said that he also does not see an improvement in congestion no matter what is done to make the highways better.
+
+Director Bagley echoed Director Tobiassen’s observation of congestion.  He believes the significant growth in the region in the last three years has really added to the issue.
+
+##### a. 022815 RTD MFS
+
+### D. Other Matters
+
+There were no other matters.
+
+### F. Adjourn
+
+Committee Chair Tobiassen adjourned the meeting at 8:28 p.m.

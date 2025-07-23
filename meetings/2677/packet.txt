@@ -1,0 +1,1011 @@
+Regional Transportation District
+
+1600 Blake Street
+Denver, CO 80202-1399
+303-299-2306
+
+Board of Directors
+Chair – Larry Hoy, District J
+First Vice Chair - Tina Francone, District N
+Second Vice Chair – Barbara Deadwyler, District B
+Secretary – Jeff Walker, District D
+Treasurer – Natalie Menten, District M
+Lorraine Anderson, District L
+Ernest Archuleta, District C
+Bob Broom, District F
+Dr. Claudia Folska, District E
+Judy Lubow, District I
+
+Ken Mihalik, District G
+Chuck Sisk, District O
+Paul Daniel Solano, District K
+Doug Tisdale, District H
+Kate Williams, District A
+
+AGENDA
+Planning/Capital Programs & FasTracks Committee
+Tuesday, October 3, 2017
+Rooms R, T, & D
+5:30 PM
+Conference Dial-in # 303-299-2663
+Conference ID: 15120
+
+Planning/Capital Programs & FasTracks Committee
+Chaired by Judy Lubow
+
+A. Call to Order
+B. Recommended Actions
+C. Updates
+
+• University of Colorado A Line and B Line Grade Crossing Update
+• Southeast Rail Extension
+• North Metro Operations & Maintenance
+• Continuous Improvement & Innovation at RTD
+
+D. Other Matters
+E. Next Meeting Date - November 7, 2017
+F. Motion to Move into Executive Session
+
+
+North Metro Rail Line Operations & Maintenance: CRS 24-6-402(4)(e)(I)
+(Determining positions relative to matters that may be subject to negotiations;
+developing strategy for negotiations; and instructing negotiators)
+
+G. Adjourn
+
+The following communication assistance is available for public meetings:
+ Language Interpreters
+ Sign-language Interpreters
+ Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 business hours in advance of a
+RTD meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+1.C.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: September 29, 2017
+
+From:
+
+Henry
+Stopplecamp,
+Assistant
+Manager, Capital Programs
+
+GM
+
+Date:
+
+September 29, 2017
+
+Subject:
+
+University of Colorado A Line and B Line Grade
+Crossing Update
+
+General
+
+Board Meeting Date: October 3, 2017
+
+ATTACHMENTS:
+
+
+170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates)
+
+(PPTX)
+
+Prepared by:
+Henry Stopplecamp, Assistant General Manager, Capital Programs
+Approved by:
+
+Packet Pg. 3
+
+University of Colorado A Line and
+B Line Grade Crossing Update
+Attachment: 170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates) (3275 :
+
+1.C.1.a
+
+Packet Pg. 4
+
+Attachment: 170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates) (3275 :
+
+1.C.1.a
+
+Positive Train Control (PTC)
+• PTC is not a Technology!
+• PTC is a Federal Mandate
+• Train separation or collision avoidance
+• Line speed enforcement
+• Temporary speed restrictions
+• Rail worker wayside safety
+
+• RTD’s Primary Train Control System
+• Network Utilizes Wireless & Fiber Communication
+• Functions as a “MOVING” Block System
+
+• RTD’s Current PTC Efficiency is at +98%
+• DTP selected Wabtec I-ETMS system
+because it is an industry leader
+
+Packet Pg. 5
+
+Attachment: 170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates) (3275 :
+
+1.C.1.a
+
+Automatic Train Control (ATC)
+• Conventional Train Signaling System
+• Utilized in USA Since 1920’s
+• “Fixed Block” System
+• Utilizes Track Circuit Technology
+• Incremental Speed Restrictions
+• DTP selected Siemens/Alstom & GE
+because they are industry leading
+suppliers
+
+Packet Pg. 6
+
+Attachment: 170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates) (3275 :
+
+1.C.1.a
+
+Grade Crossing Activations & Prediction
+• Conventional Activations
+• Function of the ATC System
+• “Fixed” Approach Lengths
+• Based off Civil Track Speed
+• System Fails Safe and
+provides the minimum 20 second warning time required by law
+
+• Wireless Activations
+• Utilizes the PTC System Technology
+• Constant Communication with Crossing Equipment
+• “Pings” Approximately 10x per Second
+• Provides dynamic control of crossing
+
+Packet Pg. 7
+
+Attachment: 170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates) (3275 :
+
+1.C.1.a
+
+Types of Grade Crossing Activation Systems
+• Traditional Predictors
+• Utilized by Many Freight Rail Roads
+• Will not Function with RTD’s System
+• Low Voltage AC current in Rails
+
+• Incremental Train Control System
+(ITCS)
+• Utilized by Some Commuter Rail
+Roads
+• Will not Function with RTD’s System
+• Low Voltage AC current in Rails
+Combined with Track Circuits
+
+• Interoperable Electronic Train
+Management System (I-ETMS)
+• Technology Utilized on RTD’s
+System
+• Utilizes Wireless Technology
+• Is an overlay to the Traditional
+ATC System
+• Functions in a AC Electrified
+Environment
+
+Packet Pg. 8
+
+Attachment: 170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates) (3275 :
+
+1.C.1.a
+
+Types of Grade Crossing Activation Systems
+• Why Can’t RTD Utilize
+Traditional Predictors?
+
+Multiple
+Conversations!!!!
+
+• RTD’s System is Powered by
+25,000 Volt AC
+• The Residual AC Current is
+Returned through the Track Rails
+• Cannot Distinguish between
+Return Current and the Predictors
+Whispers…………………
+
+Packet Pg. 9
+
+Attachment: 170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates) (3275 :
+
+1.C.1.a
+
+Conventional vs. Wireless Approaches
+• Conventional Warning – Fixed Prediction Based on Max Speed
+Contract is Locked
+
+Traffic Signal Clearing
+
+Warning Time
+
+• Wireless Warning – More Accurate Prediction
+Contract is Locked
+
+Traffic Signal Clearing
+
+Warning Time
+
+Packet Pg. 10
+
+Attachment: 170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates) (3275 :
+
+1.C.1.a
+
+Grade Crossing Approaches
+Contract is Locked
+
+Constant Warning
+
+Traffic Signal Clearing
+
+Warning Time
+
+• What Causes the Variability?
+• Operator Handling Behavior
+• Station Dwell Time
+• 0 to 79 MPH Acceleration/Deceleration
+• Trespasser
+• Dispatcher Hold
+• Issue at Adjacent Crossing
+
+Variability
+
+Packet Pg. 11
+
+Union Pacific
+Railroad
+
+RTD
+Commuter
+Railroad
+Attachment: 170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates) (3275 :
+
+1.C.1.a
+
+Packet Pg. 12
+
+Exit Gates
+Entrance Gates
+Attachment: 170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates) (3275 :
+
+1.C.1.a
+
+Packet Pg. 13
+
+Dahlia Grade Crossing Approach Length
+8,245 Foot Southbound Approach
+
+Attachment: 170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates) (3275 :
+
+1.C.1.a
+
+Packet Pg. 14
+
+Attachment: 170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates) (3275 :
+
+1.C.1.a
+
+Time Measurement & Performance Criteria
+• Currently in Negotiation with FRA
+• Provides FRA with Basis to Regulate
+
+• Based from American Railway
+Engineering & Maintenance-of-Way
+Association (AREMA) Communications
+and Signals Manual
+
+Packet Pg. 15
+
+Dahlia Grade Crossing – Performance Data
+Attachment: 170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates) (3275 :
+
+1.C.1.a
+
+Packet Pg. 16
+
+Steele Grade Crossing – Performance Data
+Attachment: 170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates) (3275 :
+
+1.C.1.a
+
+Packet Pg. 17
+
+Sable Grade Crossing – Performance Data
+Attachment: 170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates) (3275 :
+
+1.C.1.a
+
+Packet Pg. 18
+
+Attachment: 170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates) (3275 :
+
+1.C.1.a
+
+Driver Behavior Concerns
+• Effects of Warning Time on Driver Behavior and Safety
+at Grade Crossings Study
+• Warning Times in Excess of 30-40 seconds caused many
+more drivers to engage in risky crossing behavior.
+• Most drivers expect a train to arrive within 20 seconds from
+the moment the activation begins.
+• Drivers begin to lose confidence in the traffic control
+system if the warning time exceeds approximately 60
+seconds.
+• Suggested warning time guidelines (20 sec minimum, 2535 sec desirable, 60 sec maximum)
+• Four-quadrant gates should be used if 10% of warning
+times exceed 60 sec.
+• Reference: Assessment of Warning Time Needs at Railroad
+Highway Grade Crossings with Active Traffic Control,
+Stephen H. Richards and K.W. Heathington, Transportation
+Research Record 1254
+
+Packet Pg. 19
+
+Grade Crossing – Timeline
+2010 – Denver Transit
+Partners Selects
+Technology
+
+April-2015 (CU A-Line)
+
+Revenue Service
+FRA Waiver Issued
+
+Q1-2016 Wayside
+Construction, Testing &
+Commissioning Substantially
+Complete
+
+October-2016
+FRA Waiver #3, Action
+Items Established
+
+July-2016
+(B-Line) Revenue
+Service
+
+February-2017
+FRA Waiver
+Extension
+
+December-2016
+FRA Waver
+Extension
+
+July-2017
+FRA Waiver
+Extension
+
+Data Reporting
+Performance Demonstration
+Operator Training
+Crossing Optimization
+FRA Action Items
+
+Establish
+Performance
+Criteria
+With FRA
+
+Packet Pg. 20
+
+Attachment: 170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates) (3275 :
+
+1.C.1.a
+
+Questions?
+Attachment: 170929 - RTD Board Presentation (Grade Crossing Compliance) (Whiteman Updates) (3275 :
+
+1.C.1.a
+
+Packet Pg. 21
+
+1.C.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: September 26, 2017
+
+From:
+
+Henry
+Stopplecamp,
+Assistant
+Manager, Capital Programs
+
+GM
+
+Date:
+
+September 25, 2017
+
+Subject:
+
+Southeast Rail Extension
+
+General
+
+Board Meeting Date: October 3, 2017
+
+ATTACHMENTS:
+
+
+RTD Board Presentation 10 3 17_ADA
+
+(PPTX)
+
+Prepared by:
+Andy Mutz, Project Manager, Engineering
+Approved by:
+
+Packet Pg. 22
+
+Southeast Rail Extension (E, F & R lines)
+Andy Mutz, Project Manager
+
+Packet Pg. 23
+
+Attachment: RTD Board Presentation 10 3 17_ADA (3266 : Southeast Rail Extension)
+
+1.C.2.a
+
+1.C.2.a
+
+Attachment: RTD Board Presentation 10 3 17_ADA (3266 : Southeast Rail Extension)
+
+The RTD FasTracks Plan
+• The E, F and R Rail Extension (also known as
+the Southeast Rail Extension) is part of RTD’s
+2004 voter-approved FasTracks Plan to expand
+transit across the metro region
+
+Packet Pg. 24
+
+Attachment: RTD Board Presentation 10 3 17_ADA (3266 : Southeast Rail Extension)
+
+1.C.2.a
+
+Project Overview
+• Extends E, F and R lines 2.3 miles from
+Lincoln station to RidgeGate Parkway station
+in Lone Tree
+
+Packet Pg. 25
+
+Attachment: RTD Board Presentation 10 3 17_ADA (3266 : Southeast Rail Extension)
+
+1.C.2.a
+
+Stations
+• Three new stations
+• Sky Ridge station (Kiss-n-Ride)
+• Lone Tree City Center (Kiss-n-Ride)
+• RidgeGate Parkway (1,300-space Park-n-Ride)
+
+Packet Pg. 26
+
+1.C.2.a
+
+Attachment: RTD Board Presentation 10 3 17_ADA (3266 : Southeast Rail Extension)
+
+Local Partners
+• Denver South Economic Development Partnership
+• Southeast Public Improvement Metropolitan District
+• Coventry Development Corporation
+• City of Lone Tree
+• Douglas County
+
+Packet Pg. 27
+
+1.C.2.a
+
+Attachment: RTD Board Presentation 10 3 17_ADA (3266 : Southeast Rail Extension)
+
+Financing
+• Total Project Cost: $233.1 M
+• Federal Contribution (FFGA): $92 M
+• DRCOG 1st Commitment (CMAQ): $7.5 M
+• Local Stakeholder Cash: $25 Million
+• Non-RTD contributions: $127.5 M (64.2%)
+• RTD Match: $71.2 M (35.8%)
+
+Packet Pg. 28
+
+1.C.2.a
+
+•
+•
+•
+•
+
+Attachment: RTD Board Presentation 10 3 17_ADA (3266 : Southeast Rail Extension)
+
+Accomplishments
+Project is 50 percent complete
+All Right of Way has been acquired
+Platforms poured at Lone Tree City Center
+station
+Major structural work and concrete pours
+completed on the RidgeGate parking
+structure
+
+Packet Pg. 29
+
+1.C.2.a
+
+•
+•
+•
+•
+
+Attachment: RTD Board Presentation 10 3 17_ADA (3266 : Southeast Rail Extension)
+
+Accomplishments (cont.)
+First Traction Power Substation installed at
+Lone Tree City Center station
+Girders set on all three light rail bridges
+Completed concrete pours for RidgeGate
+and I-25 bridges
+Overhead Catenary Poles set throughout
+most of alignment
+
+Packet Pg. 30
+
+1.C.2.a
+
+Attachment: RTD Board Presentation 10 3 17_ADA (3266 : Southeast Rail Extension)
+
+Looking Ahead
+• Concrete pours for Lincoln bridge
+• Platform pours at RidgeGate and Sky Ridge
+stations
+• Install ballasted track
+
+Packet Pg. 31
+
+1.C.2.a
+
+Attachment: RTD Board Presentation 10 3 17_ADA (3266 : Southeast Rail Extension)
+
+Looking Ahead (cont.)
+• Completing bridges
+• Pulling rail
+• Installing Overhead Catenary Poles
+• Water line
+
+Packet Pg. 32
+
+1.C.2.a
+
+•
+
+Attachment: RTD Board Presentation 10 3 17_ADA (3266 : Southeast Rail Extension)
+
+RidgeGate Parking Garage
+Parking garage will open to public when the
+light rail opens for revenue service
+
+Packet Pg. 33
+
+1.C.2.a
+
+Attachment: RTD Board Presentation 10 3 17_ADA (3266 : Southeast Rail Extension)
+
+Questions?
+
+Contact us:
+
+- Website www.rtd-fastracks.com
+- Project Hotline (720) 643-2300
+
+Packet Pg. 34
+
+1.C.3
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: September 28, 2017
+
+From:
+
+Henry
+Stopplecamp,
+Assistant
+Manager, Capital Programs
+
+GM
+
+Date:
+
+September 28, 2017
+
+Subject:
+
+North Metro Operations & Maintenance
+
+General
+
+Board Meeting Date: October 3, 2017
+Information
+
+Prepared by:
+Henry Stopplecamp, Assistant General Manager, Capital Programs
+Approved by:
+
+Packet Pg. 35
+
+1.C.4
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: September 27, 2017
+
+From:
+
+William C. Van Meter,
+Manager, Planning
+
+GM
+
+Date:
+
+September 27, 2017
+
+Subject:
+
+Continuous Improvement & Innovation at RTD
+
+Assistant
+
+General
+
+Board Meeting Date: October 3, 2017
+Information
+
+ATTACHMENTS:
+
+
+Continuous Improvement Innovation at RTD 092717
+
+(PPTX)
+
+Prepared by:
+Ruth Seleske,
+Approved by:
+
+Packet Pg. 36
+
+Attachment: Continuous Improvement Innovation at RTD 092717 (3270 : Continuous Improvement &
+
+1.C.4.a
+
+Continuous Improvement &
+Innovation at RTD
+Presentation to the Board
+Ruth Seleske, Ph.D.
+Senior Manager, Continuous Improvement & Innovation Division
+October 3, 2017
+
+Packet Pg. 37
+
+Attachment: Continuous Improvement Innovation at RTD 092717 (3270 : Continuous Improvement &
+
+1.C.4.a
+
+Overview/Agenda
+• Introduction and Background Highlights
+• Continuous Improvement & Innovation
+• Why Improvement is Critical Now
+• History of Continuous Improvement at RTD
+• Vision for Continuous Improvement & Innovation Division
+• Process Improvement: E3 Program
+• Process Improvement: Process Data Analysis
+
+• Focus for Remainder of 2017
+
+2
+
+Packet Pg. 38
+
+Introduction and Background Highlights
+In Director-level roles of Process Excellence, Data Analytics or Customer Research,
+I zealously apply research, science and analysis skills to guide strategic decisions
+and solve practical problems for organizations.
+Background Highlights – Academic
+I received a Ph.D. and an MA in Industrial-Organizational Psychology with a minor in Statistics
+and Measurement.
+
+Background Highlights – Career
+In addition to corporate employment, I have regularly conducted research, taught University
+classes and consulted with small-large businesses, unions and individuals. I spent over 12
+years at DTE Energy in progressive roles in customer research, process improvement, and
+customer service. Many of the challenges faced by RTD are very similar to those at the Detroitbased electric and gas utility.
+3
+
+Packet Pg. 39
+
+Attachment: Continuous Improvement Innovation at RTD 092717 (3270 : Continuous Improvement &
+
+1.C.4.a
+
+Continuous Improvement & Innovation
+Formal approaches to improvement (e.g., Quality Circles, Total Quality Management, Process
+Reengineering, Lean Six Sigma) have helped many organizations dramatically increase their
+ability to meet goals.
+• Continuous improvement is a set of methods for identifying opportunities for
+streamlining work and reducing waste
+• Innovation is an organization's process for introducing new ideas, workflows,
+methodologies, services or products.
+
+4
+
+Packet Pg. 40
+
+Attachment: Continuous Improvement Innovation at RTD 092717 (3270 : Continuous Improvement &
+
+1.C.4.a
+
+Attachment: Continuous Improvement Innovation at RTD 092717 (3270 : Continuous Improvement &
+
+1.C.4.a
+
+Why Focused Improvement is Critical Now
+RTD is facing many challenges both external and internal to the agency.
+
+Environment
+• Population Growth
+• Low Unemployment-Competition for Employees
+• Customer Expectation Changes (e.g., Real Time Information)
+• Technology Changes (Automatic People Counters, Global Positioning System, etc.)
+
+Industry
+• Technology Changes (Ride share, Autonomous vehicles, etc.)
+• Emphasis on Equity
+
+Inside RTD
+• Limited Revenue Growth
+• Competing Needs of Capital Growth and Operations
+• Data Assets not Optimized
+• Decreasing Ridership
+• Aging Workforce
+5
+
+Packet Pg. 41
+
+History of Continuous Improvement at RTD
+RTD has already started a formal approach to improvement.
+• RTD conducted 30 “Listening Sessions” at 15 facilities & received nearly 1400 employee surveys in 2015.
+• Several employees attended Peak Academy with the City and County of Denver
+• Began E3 Program (Engage, Exchange, Empower), with primary goal of employee engagement, to provide
+employees with foundational skills and a framework to apply expertise and ideas and solve problems.
+• Imported existing training from Peak Academy,
+adapted for needs of RTD.
+• Implemented Pilots in Customer Care and Bus
+Maintenance. Led to meaningful increases in
+engagement, many local improvements.
+• Emphasized front line training and coaching to
+support engagement.
+• Established a base program for shared mindset
+and language around finding solutions.
+
+Trained Employees by Organization and Type
+Bus Operations
+65
+22 *
+Communications
+
+24
+
+Finance - Administration
+
+16
+
+13
+
+17
+
+Capital Programs 2 7 10
+Planning
+
+10 5
+
+Safety, Security & Asset Mgt.
+
+65
+
+Rail Operations
+
+55
+
+General Counsel
+
+7
+
+Executive Office 2 2
+Board Office 1 1
+
+• Stood up new Division.
+
+Represented
+6
+
+18
+
+49
+
+0
+
+20
+40
+Salaried
+
+60
+80 100
+Management
+
+120
+
+140
+
+*Through June, 2017
+
+Packet Pg. 42
+
+Attachment: Continuous Improvement Innovation at RTD 092717 (3270 : Continuous Improvement &
+
+1.C.4.a
+
+Vision for Continuous Improvement & Innovation Division
+The Continuous Improvement & Innovation Division will partner with employees
+throughout the agency to enable change.
+We
+Deliver:
+
+Regarding:
+
+To:
+
+So They Can
+Improve:
+• Mode Share
+
+• Training
+
+• Customer Satisfaction
+
+• Facilitation
+
+• Process Improvement
+
+• Senior Leaders
+
+• Employee Engagement
+
+• Coaching
+
+-E3 Program
+
+• Supervisors & Managers
+
+• Asset Availability
+
+• Tracking
+
+-Process Data Analysis
+
+• Team Members
+
+• Efficiency
+• Process Capability
+• Strategic Management
+
+7
+
+Packet Pg. 43
+
+Attachment: Continuous Improvement Innovation at RTD 092717 (3270 : Continuous Improvement &
+
+1.C.4.a
+
+Process Improvement: E3 Program
+We are continuing the E3 Program, adjusting it to fit schedules for all employees,
+making it scalable for delivery and focusing the team to help address agency priorities.
+Continued and Expanded Elements
+• Training
+• Coaching
+• Tracking System
+• Focusing more on Critical Issues
+
+8
+
+Packet Pg. 44
+
+Attachment: Continuous Improvement Innovation at RTD 092717 (3270 : Continuous Improvement &
+
+1.C.4.a
+
+Process Improvement: Process Data Analysis
+We are expanding support to include measurement and data analysis techniques to identify
+“breakthrough” improvements which reset performance baselines.
+
+New Elements
+
+Impact of Continuous and Breakthrough Improvements
+
+• Measurement Development
+
+• Statistical Root Cause Analysis
+• Forecasts and Simulations
+
+Results
+
+• Scorecard Analysis
+
+Time
+9
+
+Packet Pg. 45
+
+Attachment: Continuous Improvement Innovation at RTD 092717 (3270 : Continuous Improvement &
+
+1.C.4.a
+
+Focus for Remainder of 2017
+For the remainder of 2017, our Division will balance helping the organization address critical
+challenges and putting in place foundations for future improvements.
+
+• Help identify ideas for solutions for Bus and Rail Operator Staffing
+• Recruiting
+• Scheduling
+• Benefits
+• Etc.
+• Identify and facilitate mapping of RTD Core Processes in preparation for Enterprise Resources
+Planning (ERP) system assessment
+
+10
+
+Packet Pg. 46
+
+Attachment: Continuous Improvement Innovation at RTD 092717 (3270 : Continuous Improvement &
+
+1.C.4.a
+
+Attachment: Continuous Improvement Innovation at RTD 092717 (3270 : Continuous Improvement &
+
+1.C.4.a
+
+Thank you!
+Ruth Seleske
+Ruth.Seleske@RTD-Denver.com
+303-299-2787
+720-980-9260
+
+Packet Pg. 47
+
+

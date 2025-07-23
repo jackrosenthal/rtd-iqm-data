@@ -1,0 +1,57 @@
+## I. Civil Rights Committee
+
+Chaired by Angie Rivera-Malpiede
+
+### A. Call to Order
+
+Chair Rivera-Malpiede called the meeting to order at 7:48 p.m.
+
+Director Deadwyler participated via phone.  Directors Folska, James, Lubow, Menten, Tobiassen and Walker were absent.
+
+Staff Present:              Bruce Abel, Rolf Asphaug, Lacy Bell, Larry Buter, Jessie Carter, Carolyn Conover, Heather Deckard, John Elias, David Genova, Steve Gieske, Mike Gil, Lou Ha, Kenn Hardin, George Hovey, Terry Howerter, Robbie Hunter, Erin Klaas, Doug MacLeod, Robin McIntosh Jr., Barbara McManus, Judy McMurphy, Vivian Morales, Paula Perdue, Scott Reed, Jannette Scarpino, Dean Shaklee, Zamy Silva, Greg Smith, Walt Stringer, John Tarbert, Mark Tieman, Mike Turner, Bill Van Meter, Michael Washington, Phil Washington, Bill Weidenaar
+
+Others Present:              Rita Kahn, Stu Livensparger, Larry Tenenholz, Joe Triplett, Gary Van Dorn, Monte Whaley
+
+### B. Recommended Actions
+
+There were no recommended actions.
+
+#### 1. Updated RTD DBE Program Plan June 2014
+
+Kenn Hardin, Senior Manager of Civil Rights, introduced Zamy Silva, Small Business Office Manager, to update the Directors on the RTD Disadvantaged Business Enterprise (DBE) Program Plan.
+
+Zamy Silva reminded the Directors that RTD’s DBE Program Plan, which describes how the District manages and oversees the DBE program, must be approved by the Federal Transit Administration (FTA).  This plan must be revised and updated as necessary.
+
+The Civil Rights Department recently updated the DBE Program Plan in the following areas:
+
+- Submitting a “Fostering Small Business Plan” to FTA in accordance with new regulations established in 2011.
+
+- Incorporating a 19% goal of DBE participation and methodology to the plan.  This 19% was submitted by RTD in August, 2013 and recently approved by FTA.
+
+- Incorporating policies and procedures to monitor sub-recipient DBE compliance.
+
+#### 2. Civil Rights Outreach
+
+Kenn Hardin informed the Directors that his department hosted the Regional Transportation Commission of Southern Nevada (Las Vegas).  Chair Sisk, Committee Chair Rivera-Malpiede, General Manager Phil Washington, and City and County of Denver Economic Development Director Chris Martínez welcomed the delegation.  They were interested in how RTD operates the DBE, Small Business Enterprise (SBE), and Workforce Initiative Now (WIN) programs.  During a tour of Denver Union Station (DUS), the conversation focused on RTD’s best practices.
+
+At the DUS DBE Advisory Council meeting, the Civil Rights Department recognized top performing contractors, DBEs, and SBEs who worked on DUS.  Helga Grunerud, Hispanic Contractors of Colorado’s Executive Director, assisted in presenting the awards.  Rick Clarke, Assistant Manager of Capital Programs, General Manager Phil Washington, and Committee Chair Rivera-Malpiede attended the event.
+
+Kenn Hardin acknowledged the WIN participants’ participation during the Public Private Partnership (P3) Roundtable on May 9, 2014.  He pointed out how the WIN program positively affects the life of the participants.
+
+The Memorandum of Understanding (MOU) Stakeholders Event was held at Dick’s Sporting Goods Park on May 28, 2014.  Over 300 people participated.  RTD explained to the attendants the many projects and opportunities available to small businesses contractors.  He thanked Committee Chair Rivera-Malpiede for helping secure the venue.
+
+The Civil Rights Department employs students from Arrupe Jesuit High School as part of the school’s Corporate Work Study Program.  This year marked the first graduate to work with RTD.  The District was recognized as a corporate sponsor of the program during the graduation ceremony.
+
+The Civil Rights Department recently hosted a networking session/pre-bid event for the Central Park Park-n-Ride.  DBEs were given clear directions on the project.  The DBE goal for this project is 27%.
+
+Committee Chair Rivera-Malpiede thanked Kenn Hardin and the Civil Rights staff for their work.  She informed the Directors of her participation on most of the mentioned events.  She finds it overwhelming how many lives this department influences on behalf of RTD.  She considers the Civil Rights Department the backbone of our community.
+
+### D. Other Matters
+
+General Manager Washington reminded the Directors of the email sent announcing RTD as the recipient of the APTA Innovation Award.  The WIN program, along with the MAX program and the Leadership Academy, was one of the biggest components for the selection.
+
+He also informed the Directors that the Clinton Global Initiative, which will meet in Denver from June 23-25, 2014, asked RTD to participate in the Infrastructure Workshop.  They also asked the District to develop a WIN Program template.  If chosen, the Clinton Initiative would collaborate to promote the template nationally.
+
+### F. Adjourn
+
+Committee Chair Rivera-Malpiede adjourned the meeting at 8:03 p.m.

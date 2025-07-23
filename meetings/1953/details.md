@@ -1,0 +1,64 @@
+## I. Planning and Development Committee
+
+Chaired by Bill James
+
+### A. Call to Order
+
+Committee Chair James called the meeting to order at 6:38 p.m.
+
+Staff Present:               Bruce Abel, Rolf Asphaug, Rick Clarke, Jeff Cluphf, John Elias, Sherry Ellebracht, Kevin Flynn, David Genova, Terry Howerter, Austin Jenkins, Jim Maguire, Barbara McManus, Tara Miller, Vivian Morales, Paula Perdue, Scott Reed, Bill Sirois, Karen Stanley, Henry Stopplecamp, Greg Straight, John Tarbert, Pauletta Tonilas, Bill Van Meter, C. Scott Woodruff
+
+Others Present:              Jenifer Bradenberry, Michael Dino, Aaron Epsten, Tina Francone, Joni Goheen, Doug Gragg, Sherman Hamilton, Eugene Howard, Daryl Kirby, Brian Middleton, Laura Rinker, Roger Sherman, Joshua Solis, Joe Racogley, Joe Triplett, Ted Wenzlick
+
+#### 1. Contract Amendment; 2nd year 2014 option 
+2013-2015 Street Improvements & Shelter Installations Contract # 33DM005
+
+It is recommended by the Planning & Development Committee that the RTD Board of Directors authorize the General Manager or his designee to execute all documents necessary to award a contract amendment to initiate the second year of a three-year option contract for the annual Street Improvements & Shelter Installation contract with Manion Construction, Inc. for $371,711.30.  Funding for this contract amendment is provided by the annual 2014 – 2015 Engineering Expense Budgets.
+
+Motion:               Director Folska made the motion to move this item to the full Board at the September 16, 2014 Board meeting.
+
+Director Deadwyler seconded the motion.
+
+Discussion:              Henry Stopplecamp, Sr. Manager for Engineering introduced C. Scott Woodruff, Project Manager for Street Improvements.  Henry Stopplecamp said that the motion requests a second-year option for the three-year option contract started in September, 2013.  He noted that the cost is built into the budget.
+
+Committee Chair James asked for the specific period for the second-year option.  Henry Stopplecamp said it was from September, 2014 to September, 2015.
+
+Committee Chair James declared the motion PASSED UNANIMOUSLY.
+
+#### 1. Transportation Improvement Program (TIP) Update
+
+Bill Van Meter, Assistant General Manager for Planning, presented the Transportation Improvement Program (TIP) Update included in the Planning & Development Committee Meeting packet for September 2, 2014.  The presentation included the Denver Regional Council of Governments (DRCOG) TIP background, process, and criteria.  The RTD projects to be submitted to the TIP are the 15L Transit Station Improvements, the Regional Bus Rapid Transit (BRT) Feasibility Study, the 16th Street Mall Reconstruction, the SH 119 BRT Environmental Clearance Study, the Free MetroRide Service Expansion, and the Speer/Leetsdale Corridor 83L/79L Study.
+
+Director Anderson said that she was pleased with the projects chosen for the TIP application.  She recalled her days on the DRCOG Board.  During that time, an entity could submit up to sixteen (16) projects.  Limiting the amount to six (6) projects has reduced the competition.  She asked staff if they have strategized on how to move projects through the DRCOG process.  She mentioned the possibility of joint applications with municipalities or counties.  Bill Van Meter said that staff has strategized and at times solicits support from other jurisdictions.  This year DRCOG changed their measurements of projects.  He said that with fewer projects submitted, RTD is not sure how the agency’s projects would score against other projects.  This augments the need to advance the best projects.
+
+Director Bagley asked how many blocks compose the 16th Street Mall.  He also asked for how many blocks are currently under reconstruction, how many are funded for reconstructions, and how many are left to reconstruct.  Rick Clarke, Assistant General Manager for Capital Programs, answered that the project is still in the design phase with a start date of first quarter, 2015.  He said that there is $10 million to fund the reconstruction of the 16th Street Mall.  This amount would fund two (2) to two and a half blocks.  He told the Directors he would double check the total amount of blocks on the 16 Street Mall.  Director Bagley said this would be helpful information for the Directors to know.
+
+Director Bagley asked if the FreeMetro Ride request would expand the service during the midday.  Bill Van Meter said that the TIP request would increase the frequency and hours of operation during the a.m. and p.m. peak hours.  Director Bagley asked for the dollar amount of expanding the FreeMetro Ride service to the Golden Triangle.  Bill Van Meter answered that he can provide the amount from the study efforts that led to the current operations.
+
+Director Lubow asked how frequent TIP submissions are.  Bill Van Meter replied that the process happens every 3 years.
+
+Director Lubow asked if the SH119 BRT Environmental Clearance Study would also be an Environmental Impact Study (EIS).  Bill Van Meter said the anticipation is for an Environmental Assessment Process.
+
+Director Daly asked if there is any priority among the 6 projects submitted.  Bill Van Meter replied that there is no implied priority on the projects.  Each project corresponds to different scoring criteria.  It is up to DRCOG’s scoring process to determine which projects, if any, rate high enough to warrant funding.
+
+Director Folska told staff that she thought the project list was spot on.  She expanded on Director Bagley’s point on the FreeMetro Ride.  Director Folska asked how expanding the service timeframe as well as the route to the Golden Triangle would build bridges with the community.  Bill Van Meter answered that RTD held public meetings when the route for the FreeMetro Ride was originally created.  Expansion of the route would merit a similar process with stakeholders.  The expansion, he said, would pragmatically mean costs in operations, purchase of vehicles, and building stops.  Bill Van Meter noted that for this type of capital expenditure RTD would want to look at partners to assist in funding.  Director Folska asked how long DRCOG would support the project if funded.  Bill Van Meter replied that the support would be for a 3 year period.  After that, the funding would be RTD’s responsibility.
+
+Chair Sisk noted that 40% of the TIP funding is allocated to bicycle and pedestrian projects.  He said that RTD does not qualify for that allocation unless the 16th Street Mall is considered a pedestrian project.  Chair Sisk said that he was interested in the “last mile”.  He pointed out that RTD may want to partner with cities and other entities in providing that service.  Bill Van Meter replied that the minimum request is $100,000.  He also said that DRCOG has set a limit on awards under $500,000.  Bill Van Meter added that most bicycle/last mile projects are in this smaller range.  Staff recognizes the need Chair Sisk pointed out and is working on a bicycle/transit plan.  This plan, however, does not fit the DRCOG TIP qualifications.  Chair Sisk thanked Bill Van Meter for the explanation.
+
+Director Solano pointed out that the TIP submissions are a great idea, particularly the Regional BRT Feasibility Study.  This project affects the Northeast quadrant which he represents.
+
+Committee Chair James noted that RTD did a study of the Speer/Leetsdale corridor.  He said that any work to be done in this area would be in collaboration with the City and County of Denver.  He also said that the City and County of Denver is about to release a study on the “last mile”.
+
+##### a. PD Committee_TIP Update 9 2 14 Rev  4
+
+### D. Other Matters
+
+Director Solano thanked Scott Reed, Assistant General Manager of Communications, for helping coordinate the Adams County Citizens Tour of Denver Union Station.  Scott Reed said that Julia Marvin and Lisa Trujillo worked in the coordination of the event.
+
+Chair Sisk asked Scott Reed to expand on an email sent to the Directors regarding a Bus Operator with First Transit.  Scott Reed said that on Monday, September 1, 2014, a Frist Transit Bus Operator was arrested for operating a bus under the influence of alcohol.  The operator had a previous DUI offense. The offense was over fifteen (15) years ago, beyond the scope of RTD’s background checks.  Scott Reed said that he was pleased with First Transit’s reaction and communication with the media.
+
+Committee Chair James asked Bill Sirois, Senior Manager for Transit Oriented Development, to explain the plans for studying and responding to the unsolicited proposal for the purchase of the Bus Barn Site.  Bill Sirois said General Manager Phil Washington received an unsolicited proposal from D4, the developer working on the Alameda Station.  Staff is studying the proposal and will bring a recommendation to the Board during the October committee meeting.
+
+### F. Adjourn
+
+Committee Chair James adjourned the meeting at 7:19 p.m.

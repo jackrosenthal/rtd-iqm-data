@@ -1,0 +1,1217 @@
+Regional Transportation District
+
+1600 Blake Street
+Denver, CO 80202-1399
+303-299-2306
+
+Board of Directors
+Chair – Larry Hoy, District J
+First Vice Chair - Tina Francone, District N
+Second Vice Chair – Barbara Deadwyler, District B
+Secretary – Jeff Walker, District D
+Treasurer – Natalie Menten, District M
+Lorraine Anderson, District L
+Ernest Archuleta, District C
+Bob Broom, District F
+Dr. Claudia Folska, District E
+Judy Lubow, District I
+
+Ken Mihalik, District G
+Chuck Sisk, District O
+Paul Daniel Solano, District K
+Doug Tisdale, District H
+Kate Williams, District A
+
+AGENDA
+Operations & Customer Service Committee
+Tuesday, July 18, 2017
+Rooms R, T, & D
+5:30 PM
+Conference Dial-in # 303-299-2663
+Conference ID: 15120
+
+Operations and Customer Service Committee
+Chaired by Lorraine Anderson
+
+A. Call to Order
+B. Recommended Actions
+
+• Enter into a Contract with RouteMatch for MDT and On-Board Software for
+Access-a-Ride
+
+• Enter into a Contract with INIT for Automatic Passenger Counters for Light
+Rail Vehicles
+
+C. Updates
+
+ Introduction of Thor, RTD K-9 Officer (No Backup)
+ 16th Street Mall Update (No Backup)
+
+• November 2017 Service Change
+• Lost Service Hours Update 7 18 17
+
+D. Other Matters
+E. Next Meeting Date - August 8, 2017
+F. Adjourn
+
+The following communication assistance is available for public meetings:
+ Language Interpreters
+ Sign-language Interpreters
+ Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 business hours in advance of a
+RTD meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+1.B.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: July 13, 2017
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+July 12, 2017
+
+Board Meeting Date: July 25, 2017
+
+Subject:
+
+Enter into a Contract with RouteMatch for
+MDT and On-Board Software for Access-a-Ride
+
+RECOMMENDED ACTION
+It is recommended by the Operations and Customer Service Committee that the Board of Directors
+authorize the General Manager or his designee to execute all documents necessary to award a contract
+for computerized Mobile Data Terminals (MDTs) and onboard software with RouteMatch Software, Inc.
+(RouteMatch) (Contract Number 17DH025) for an amount not to exceed $1,800,000. The price
+includes MDTs, software, implementation and three years of extended support.
+BACKGROUND
+RTD’s Access-a-Ride paratransit service provides transportation in the Denver metro area for people
+whose disabilities prevent them from using lift-equipped fixed-route bus service. Access-a-Ride service
+uses vehicles equipped with RouteMatch software and iPilot 8000 computerized Mobile Data Terminals
+(MDTs) and associated onboard equipment that enables dispatching and communications via the
+RouteMatch paratransit scheduling and central dispatch software (‘RouteMatch central software’). The
+current MDTs entered service in 2009 and reached end of useful life several years ago. The current
+MDT’s have very high failure rates and are hard to procure. Consequently, it is imperative that the MDTs
+be replaced with modern equipment in order to provide Access-a-Ride drivers with the necessary tools to
+provide this important service.
+DISCUSSION
+RTD currently utilizes paratransit scheduling software produced by “RouteMatch.” It is necessary that
+the on-board software loaded on the MDT’s integrate with the backend RouteMatch software in order to
+allow Access-a-ride drivers to receive accurate information to perform their duties. Onboard software
+that integrates with the RouteMatch central software is already developed.
+RTD conducted an evaluation of the various options to replace the existing Access-a-Ride Mobile Data
+Terminals. The option with the quickest deployment, least risk and lowest cost is to have RouteMatch
+deploy new modern versions of the computerized MDTs with onboard software. Requiring RouteMatch
+to provide the updated hardware and software, perform the integration and thus provide the complete
+solution to modernize the Access-a-Ride MDT’s will speed the process by providing fewer procurements
+and result in a single point of contact for RTD to have one vendor responsible for all of the functionality
+associated with the upgrade of the Access-a-Ride MDT’s.
+
+FINANCIAL IMPACT
+Funding for this project is included in the adopted RTD budget.
+ALTERNATIVES
+1. Authorize the General Manager or his designee to execute a contract with RouteMatch to provide
+computerized MDTs and onboard software. This is the recommended alternative.
+
+Packet Pg. 3
+
+1.B.1
+
+2. Continue to t r y t o provide remedial repairs to extend the system life. This is not a sustainable
+option and does not provide the upgrades necessary for Access-a-Ride drivers to perform their duties.
+This is not recommended.
+3. Proceed with an entirely new procurement for a new paratransit scheduling software package and
+integrated MDT’s. This would take well over a year to procure and deploy the chosen system and is
+not budgeted. This is not recommended.
+Prepared by: Eric Farrington
+
+Prepared by:
+Eric Farrington, Program Manager, IT
+Approved by:
+
+Packet Pg. 4
+
+1.B.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: July 13, 2017
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+July 12, 2017
+
+Board Meeting Date: July 25, 2017
+
+Subject:
+
+Enter into a Contract with INIT for Automatic
+Passenger Counters for Light Rail Vehicles
+
+RECOMMENDED ACTION
+It is recommended by the Operations and Customer Service Committee that the Board of Directors
+authorize the General Manager or his designee to execute all documents necessary to award a contract
+for purchase, installation and maintenance of Automatic Passenger Counters (APCs) with INIT
+Innovations in Transportation, Inc. (INIT) (Contract Number 17DH026) for an amount not to exceed
+$2,400,000 and transfer up to $950,000 from project 10444 (Mobile Data Terminals) to project 10345
+(New Automatic Passenger Counter).
+BACKGROUND
+RTD uses APC’s on light rail vehicles to monitor on-time performance and to gather ridership
+information. The data collected by the APCs is ingested into the INIT Computer Aided Dispatch/
+Automatic Vehicle Location (CAD/AVL) system for compilation, presentation, and analysis of ridership
+numbers and on-time performance calculations. This data is key for required federal reporting,
+operational considerations and planning. Currently, only 42 of the 201 vehicle LRV fleet (24%) are
+equipped with APC’s making it very difficult to provide statistically valid information.
+DISCUSSION
+RTD recently purchased hardware for the Access-a-Ride Mobile Data Terminal (MDT) Replacement
+project. Staff subsequently determined that the equipment could be better utilized on the LRV fleet to
+expand the number of APC equipped light rail cars to help with passenger count and on-time
+performance measurement. A less expensive alternative for the Access-a-Ride MDT Replacement Project
+has been identified and pursued, freeing up some funds that can be transferred to purchase additional
+APCs for light rail.
+RTD currently has an authorized and budgeted project (Project 10345 -New Auto Passenger Counters) to
+begin to upgrade and expand the number of APC’s on the LRV fleet. Utilizing some of the hardware that
+had already been purchased for the Access-a-Ride MDT project and transferring the remaining funds
+from the MDT project will allow RTD to expand the scope of the currently budgeted LRV APC project
+and further increase the number of Light Rail Vehicles that can be equipped with new APC equipment.
+By using some of this equipment and transferring these additional funds, the APC coverage on the LRV
+fleet can be increased to over 70%. This will allow for easier and more timely compilation of
+statistically valid data for monitoring on-time performance and for gathering ridership data for internal
+and external reporting. This equipment will be upgraded for both reliability and for security of data
+transmissions over Wi-Fi. This will be a sole source contract to INIT in order to expand the number of
+APC equipped light rail vehicles with technology similar to and compatible with the technology that is
+utilized on the existing LRV fleet.
+
+Packet Pg. 5
+
+1.B.2
+
+FINANCIAL IMPACT
+Funding for this project (Project 10345- New Automatic Passenger Counters) is included in the adopted RTD
+budget. The transfer of up to $950,000 from project 10444- Mobile Data Terminals, also included in the
+adopted RTD budget, to project 10345 will fund the requested expansion of this effort.
+ALTERNATIVES
+1. Authorize the General Manager or his designee to execute all documents necessary to award a
+contract for purchase, installation and maintenance of Automatic Passenger Counters (APCs) with INIT
+Innovations in Transportation, Inc. (INIT) (Contract Number 17DH026) for an amount not to exceed
+$2,400,000 and transfer up to $950,000 from project 10444 (Mobile Data Terminals) to project 10345
+(New Automatic Passenger Counter). This is the recommended alternative.
+2. Continue to try to utilize existing resources and provide minimal expansion and upgrade to the
+existing APC’s. This does not leverage the existing hardware purchase and minimizes improvements in
+data collection and service monitoring and is not the recommended alternative.
+
+Prepared by:
+Eric Farrington, Program Manager, IT
+Approved by:
+
+Packet Pg. 6
+
+1.C.3
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: July 13, 2017
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+July 13, 2017
+
+Board Meeting Date:
+
+Subject:
+
+November 2017 Service Change
+
+RECOMMENDED ACTION
+No action required, for information only. The following service change proposal will be publicized
+through direct customer information.
+DISCUSSION
+We are proposing an additional service change period to introduce the newly renovated Civic Center
+Station, as a means of clearly communicating with our customers and providing accurate data for our
+public information systems. The expected completion of the station is in November 2017, which would
+end the detours Civic Center Stations services have been on since July 2016. This service change will
+be focused on the routes in the Civic Center Station area only, directly affecting the following route
+services:
+0L, 3L, 16, 16L, 83D/83L, 87L, 90L, 100L, 116X, 122X, CV/CS/CX, EV/ES/EX, Free Metro Ride, FF4,
+P, RC/RX.
+FINANCIAL IMPACT
+There are no anticipated cost impacts expected at this time.
+
+Prepared by:
+Jessie Carter, Manager, Service Planning and Scheduling
+Approved by:
+
+Packet Pg. 7
+
+1.C.4
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+Date: July 13, 2017
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+July 13, 2017
+
+Board Meeting Date: July 18, 2017
+
+Subject:
+
+Lost Service Hours Update 7 18 17
+
+ATTACHMENTS:
+
+
+Lost Service Hours Update 7 18 17
+
+(XLSX)
+
+Prepared by:
+Bruce Abel, Assistant General Manager
+Approved by:
+
+Packet Pg. 8
+
+1.C.4.a
+
+Lost service hours review
+weekday hours
+
+2013
+Jan-13
+Feb-13
+Mar-13
+Apr-13
+May-13
+Jun-13
+Jul-13
+Aug-13
+Sep-13
+Oct-13
+Nov-13
+Dec-13
+total
+2014
+Jan-14
+Feb-14
+Mar-14
+Apr-14
+May-14
+Jun-14
+Jul-14
+Aug-14
+Sep-14
+Oct-14
+Nov-14
+Dec-14
+total
+2015
+Jan-15
+Feb-15
+Mar-15
+Apr-15
+May-15
+Jun-15
+Jul-15
+Aug-15
+Sep-15
+Oct-15
+Nov-15
+Dec-15
+total
+2016
+Jan-16
+Feb-16
+Mar-16
+Apr-16
+May-16
+Jun-16
+Jul-16
+Aug-16
+Sep-16
+Oct-16
+Nov-16
+Dec-16
+total
+note:
+
+note:
+
+rtd
+missed runs
+
+pullout delay
+
+5714.00 wkday
+subtotal %
+
+rtd & contractor
+missed runs
+pullout delay
+
+10218.00 wkday
+total
+%
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+1.20
+1.32
+1.17
+0.49
+0.49
+0.46
+0.46
+0.00
+0.54
+0.00
+0.00
+0.00
+6.13
+
+1.20
+1.32
+1.17
+0.49
+0.49
+0.46
+0.46
+0.00
+0.54
+0.00
+0.00
+0.00
+6.13
+
+1.33E-05
+1.47E-05
+1.3E-05
+5.44E-06
+5.44E-06
+5.11E-06
+5.11E-06
+0
+5.99E-06
+0
+0
+0
+
+0.00
+2.40
+0.00
+0.00
+0.28
+0.00
+0.00
+0.44
+0.00
+0.00
+0.00
+2.42
+5.54
+
+8.26
+6.09
+3.24
+5.51
+5.54
+3.31
+3.52
+3.02
+7.58
+3.00
+7.10
+5.19
+61.36
+
+8.26
+8.49
+3.24
+5.51
+5.82
+3.31
+3.52
+3.46
+7.58
+3.00
+7.10
+7.61
+66.90
+
+7.23E-05
+7.43E-05
+2.84E-05
+4.82E-05
+5.09E-05
+2.9E-05
+3.08E-05
+3.03E-05
+6.63E-05
+2.63E-05
+6.21E-05
+6.66E-05
+
+0.00
+2.40
+0.00
+0.00
+0.28
+0.00
+0.00
+0.44
+0.00
+0.00
+0.00
+2.42
+5.54
+
+9.46
+7.41
+4.41
+6.00
+6.03
+3.77
+3.98
+3.02
+8.12
+3.00
+7.10
+5.19
+67.49
+
+9.46
+9.81
+4.41
+6.00
+6.31
+3.77
+3.98
+3.46
+8.12
+3.00
+7.10
+7.61
+73.03
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.27
+0.39
+1.06
+0.17
+0.14
+0.59
+0.36
+2.20
+0.08
+0.10
+1.13
+1.23
+7.72
+
+0.27
+0.39
+1.06
+0.17
+0.14
+0.59
+0.36
+2.20
+0.08
+0.10
+1.13
+1.23
+7.72
+
+3E-06
+4.33E-06
+1.18E-05
+1.89E-06
+1.55E-06
+6.55E-06
+4E-06
+2.44E-05
+8.88E-07
+1.11E-06
+1.25E-05
+1.37E-05
+
+2.10
+12.27
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+2.47
+0.00
+0.00
+0.00
+16.84
+
+12.16
+12.05
+4.03
+8.05
+3.59
+4.49
+3.42
+7.19
+6.59
+7.27
+8.11
+7.40
+84.35
+
+14.26 0.000125
+24.32 0.000213
+4.03 3.53E-05
+8.05 7.04E-05
+3.59 3.14E-05
+4.49 3.93E-05
+3.42 2.99E-05
+7.19 6.29E-05
+9.06 7.93E-05
+7.27 6.36E-05
+8.11
+7.1E-05
+7.40 6.48E-05
+101.19
+
+2.10
+12.27
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+2.47
+0.00
+0.00
+0.00
+16.84
+
+12.43
+12.44
+5.09
+8.22
+3.73
+5.08
+3.78
+9.39
+6.67
+7.37
+9.24
+8.63
+92.07
+
+14.53 7.11E-05
+24.71 0.000121
+5.09 2.49E-05
+8.22 4.02E-05
+3.73 1.83E-05
+5.08 2.49E-05
+3.78 1.85E-05
+9.39 4.59E-05
+9.14 4.47E-05
+7.37 3.61E-05
+9.24 4.52E-05
+8.63 4.22E-05
+108.91
+
+0.00
+0.44
+0.00
+0.00
+0.00
+0.00
+9.11
+23.48
+54.09
+93.55
+385.21
+264.07
+829.95
+
+0.37
+1.22
+0.27
+2.19
+1.31
+0.51
+9.11
+16.56
+19.51
+38.49
+91.16
+100.33
+281.03
+
+0.37
+1.66
+0.27
+2.19
+1.31
+0.51
+18.22
+40.04
+73.60
+132.04
+476.37
+364.40
+1110.98
+
+4.11E-06
+1.84E-05
+3E-06
+2.43E-05
+1.45E-05
+5.66E-06
+0.000202
+0.000444
+0.000817
+0.001466
+0.005288
+0.004045
+
+1.49
+0.00
+0.00
+1.37
+5.22
+2.20
+7.43
+0.00
+15.14
+1.24
+30.23
+77.25
+141.57
+
+8.15
+9.38
+7.16
+7.28
+8.41
+5.16
+16.58
+9.55
+5.50
+16.47
+11.08
+35.32
+140.04
+
+9.64
+9.38
+7.16
+8.65
+13.63
+7.36
+24.01
+9.55
+20.64
+17.71
+41.31
+112.57
+281.61
+
+8.44E-05
+8.21E-05
+6.27E-05
+7.57E-05
+0.000119
+6.44E-05
+0.00021
+8.36E-05
+0.000181
+0.000155
+0.000361
+0.000985
+
+1.49
+0.44
+0.00
+1.37
+5.22
+2.20
+16.54
+23.48
+69.23
+94.79
+415.44
+341.32
+971.52
+
+8.52
+10.60
+7.43
+9.47
+9.72
+5.67
+25.69
+26.11
+25.01
+54.96
+102.24
+135.65
+421.07
+
+10.01
+11.04
+7.43
+10.84
+14.94
+7.87
+42.23
+49.59
+94.24
+149.75
+517.68
+476.97
+1392.59
+
+4.9E-05
+5.4E-05
+3.64E-05
+5.3E-05
+7.31E-05
+3.85E-05
+0.000207
+0.000243
+0.000461
+0.000733
+0.002533
+0.002334
+
+210.12
+522.58
+794.17
+27.30
+27.08
+7.13
+1.50
+18.26
+273.44
+508.47
+288.29
+402.13
+3080.47
+
+61.15
+56.12
+22.57
+15.59
+12.02
+9.14
+6.17
+9.22
+79.36
+134.03
+64.51
+86.29
+556.17
+
+271.27
+578.70
+816.74
+42.89
+39.10
+16.27
+7.67
+27.48
+352.80
+642.50
+352.80
+488.42
+3636.64
+
+0.003011
+0.006424
+0.009067
+0.000476
+0.000434
+0.000181
+8.51E-05
+0.000305
+0.003917
+0.007133
+0.003917
+0.005422
+
+90.12
+353.01
+297.34
+126.16
+38.56
+84.22
+89.34
+45.37
+36.04
+99.36
+20.58
+83.30
+1363.40
+
+41.03
+41.22
+13.41
+9.11
+11.21
+17.01
+6.28
+7.35
+10.34
+4.54
+8.14
+14.49
+184.13
+
+131.15
+394.23
+310.75
+135.27
+49.77
+101.23
+95.62
+52.72
+46.38
+103.90
+28.72
+97.79
+1547.53
+
+0.001148
+0.00345
+0.002719
+0.001184
+0.000436
+0.000886
+0.000837
+0.000461
+0.000406
+0.000909
+0.000251
+0.000856
+
+300.24
+875.59
+1091.51
+153.46
+65.64
+91.35
+90.84
+63.63
+309.48
+607.83
+308.87
+485.43
+4443.87
+
+102.18
+97.34
+35.98
+24.70
+23.23
+26.15
+12.45
+16.57
+89.70
+138.57
+72.65
+100.78
+740.30
+
+402.42
+972.93
+1127.49
+178.16
+88.87
+117.50
+103.29
+80.20
+399.18
+746.40
+381.52
+586.21
+5184.17
+
+0.001969
+0.004761
+0.005517
+0.000872
+0.000435
+0.000575
+0.000505
+0.000392
+0.001953
+0.003652
+0.001867
+0.002869
+
+February 2016 hours attributable to Feb1-3 snowstorm:
+february 2016 lost hours excluding snowstorm
+
+2017
+Jan-17
+Feb-17
+Mar-17
+Apr-17
+May-17
+Jun-17
+Jul-17
+Aug-17
+Sep-17
+Oct-17
+Nov-17
+Dec-17
+total
+
+4504.00 wkday
+subtotal %
+
+125.23
+173.27
+66.35
+97.38
+100.40
+58.58
+
+46.37
+44.53
+31.26
+9.15
+26.04
+22.09
+
+621.21
+
+179.44
+
+171.60
+217.80
+97.61
+106.53
+126.44
+80.67
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+800.65
+
+0.001905
+0.002418
+0.001084
+0.001183
+0.001404
+0.000896
+0
+0
+0
+0
+0
+0
+
+February 2016 hours attributable to Feb1-3 snowstorm:
+february 2016 lost hours excluding snowstorm
+
+#VALUE!
+#VALUE!
+
+78.00
+28.58
+174.42
+52.53
+32.51
+97.07
+
+21.16
+51.27
+11.41
+22.55
+26.21
+25.39
+
+463.11
+
+157.99
+
+99.16
+79.85
+185.83
+75.08
+58.72
+122.46
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+621.10
+
+0.000868
+0.000699
+0.001626
+0.000657
+0.000514
+0.001072
+0
+0
+0
+0
+0
+0
+
+203.23
+201.85
+240.77
+149.91
+132.91
+155.65
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1084.32
+#VALUE!
+#VALUE!
+
+4.63E-05
+4.8E-05
+2.16E-05
+2.94E-05
+3.09E-05
+1.84E-05
+1.95E-05
+1.69E-05
+3.97E-05
+1.47E-05
+3.47E-05
+3.72E-05
+
+Attachment: Lost Service Hours Update 7 18 17 (3208 : Lost Service Hours Update)
+
+contractor
+missed runs
+pullout delay
+
+443.00
+529.93
+
+67.53
+95.80
+42.67
+31.70
+52.25
+47.48
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+337.43
+
+270.76
+297.65
+283.44
+181.61
+185.16
+203.13
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1421.75
+
+0.001325
+0.001456
+0.001387
+0.000889
+0.000906
+0.000994
+0
+0
+0
+0
+0
+0
+
+443.00
+529.93
+
+Packet Pg. 9
+
+

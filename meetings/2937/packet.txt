@@ -1,0 +1,4857 @@
+Regional Transportation District
+
+1660 Blake Street
+Denver, CO 80202-1399
+303-299-2306
+
+Board of Directors
+Chair – Doug Tisdale, District H
+First Vice Chair – Peggy Catlin, District N
+Second Vice Chair – Angie Rivera-Malpiede, District C
+Secretary – Jeff Walker, District D
+Treasurer – Shelley Cook, District L
+Bob Broom, District F
+Vince Buzek, District J
+Claudia Folska, District E
+Lynn Guissinger, District O
+Shontel M. Lewis, District B
+
+Judy Lubow, District I
+Natalie Menten, District M
+Ken Mihalik, District G
+Troy Whitmore, District K
+Kate Williams, District A
+
+AGENDA
+Financial Administration & Audit Committee
+Tuesday, April 9, 2019
+Rooms R, T, & D
+5:30 PM
+Conference Dial-in # 303-299-2663
+Conference ID: 15120
+
+Financial Administration and Audit Committee
+Chaired by Ken Mihalik
+
+A. Call to Order
+B. Recommended Actions
+
+• Approval of Contract Authority for BI Work Order
+• Approval of IGA between RTD and the State's Office of Information
+Technology
+
+C. Updates
+
+• Sales and Use Tax Forecast Update
+• Review of 2020-2025 Mid-Term Plan & Budget Assumptions
+• February 2019 Monthly Financial Status Report
+• 2019 Fare Implementation Update
+
+D. Other Matters
+E. Next Meeting Date - May 7, 2019
+F. Adjourn
+
+The following communication assistance is available for public meetings:
+ Language Interpreters
+ Sign-language Interpreters
+ Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 business hours in advance of a
+RTD meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+1.B.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+April 2, 2019
+
+Subject:
+
+Approval of Contract Authority for BI Work
+Order
+
+CFO/AGM,
+
+Finance
+
+Date: April 3, 2019
+&
+
+GM
+Board Meeting Date:
+
+RECOMMENDED ACTION
+It is recommended by the Financial Administration & Audit Committee that the Board of Directors
+authorize the General Manager or his designee to execute all documents necessary to award a contract
+to 6e Technologies for BI Work Order Contract (Contract Number 19DH0XX) for an amount not to
+exceed $2,500,000 over 5 years. Work is administered on an as-needed, work order basis. Funding
+for these Work Orders will be included in the budgets of the projects on which the work is performed.
+This action supports the following General Manager’s Goals:
+ Core Goal #3- Strong Financial Management
+ Task Goal #3 – Ensure Fiscal Sustainability
+ Task Goal #4 – Address Future Transportation Needs and Methods
+BACKGROUND
+RTD has need of an on-call contractor to provide technology services related to Business Intelligence.
+RTD is moving into more data driven decision making. The District needs data to drive business
+decisions hence the need for Business Intelligence IT services. RTD currently has a variety of BI tools
+such as Oracle OBIEE, Oracle OACS, Informatica, Tableau, etc. The Work Orders (WOs) will be short to
+mid-term periods addressing business, management of technology and consultant services. The activities
+are inclusive of all activities necessary to support, enhance and update the BI tools and processes.
+RTD anticipates the upcoming 5-year contract period may include work associated with several
+initiatives around data including: Ridership Analytics, Realtime operational trend analytics, predictive
+maintenance analytics, state of good repair and other ancillary analytic needs. RTD will also use this
+contract to assist in maintaining day-to-day operations of the existing Oracle BI and Informatica tool sets
+while the new systems/tools are being implemented.
+DISCUSSION
+RTD conducted an open procurement for a BI Work Order contractor. Five firms submitted proposals.
+The criteria used to evaluate the proposals was:
+Item
+No.
+1
+2
+3
+4
+
+Item
+Compliance Matrix Score
+Corporate Qualifications/Technical Skills
+Staff Qualifications/Technical Skills
+Prototypical Project Management Plan and Monthly
+
+Weight
+(%)
+20
+20
+20
+10
+
+Packet Pg. 3
+
+1.B.1
+
+5
+6
+
+Reporting (response from example WO Abstracts)
+References
+Cost (including options, if any)
+
+5
+25
+
+The five members of the evaluation team selected two firms for final interviews. 6e Technologies was
+selected as the successful proposer.
+FINANCIAL IMPACT
+The contract authority shall not exceed $2,500,000. Funding for these Work Orders will be included in
+the budgets of the projects on which the work is performed. The types of funds are dependent upon the
+funding source of each individual project. Individual work orders will be funded as the project
+requirement is processed. The amount is not to exceed $500,000.00 in any one year.
+The current timeline and approximate costs for activities such as business process reviews,
+implementation services, and system configuration for new implementations; assistance maintaining the
+current BI systems; and other associated project work is as follows:
+2019 - $ 500,000
+2020 - $ 500,000
+2021 - $ 500,000
+2022 - $ 500,000
+2023 - $ 500,000
+ALTERNATIVES
+1. It is recommended by the Financial Administration & Audit Committee that the Board of Directors
+authorize the General Manager or his designee to execute all documents necessary to award a
+contract to 6e Technologies for BI Work Order Contract (Contract Number 19DH0XX) for an
+amount not to exceed $2,500,000 over 5 years. Work is administered on an as-needed, work
+order basis. Funding for these Work Orders will be included in the budgets of the projects on
+which the work is performed.
+2. Provide the needed services with RTD personnel. RTD personnel does not have the expertise or
+capacity that can be provided by a work order contractor. This does not meet the needs of RTD.
+
+Prepared by:
+Heather McKillop, CFO/AGM, Finance & Administration
+Kim Heldman, Senior Manager, IT
+Approved by:
+
+Packet Pg. 4
+
+1.B.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+April 2, 2019
+
+Subject:
+
+Approval of IGA between RTD and the State's
+Office of Information Technology
+
+CFO/AGM,
+
+Finance
+
+Date: April 3, 2019
+&
+
+GM
+Board Meeting Date:
+
+RECOMMENDED ACTION
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors
+authorize the General Manager or his designee to execute all documents necessary to execute an IGA
+to develop and operate software to help manage LiVE Eligibility Applications through the State PEAK
+software system (State Contract Management System (CMS) # 128691) for an amount not to exceed
+$1,800,000. The IGA is for five (5) years of development, operations and maintenance.
+This action supports the following General Manager’s Goals:
+Core Goal #3: Strong Financial Management
+Task Goal #3: Ensure Fiscal Sustainability
+BACKGROUND
+RTD commits to reviewing its Fare Structure and Fare Programs every three years to determine if any
+additions or changes are required to provide the best options for RTD ridership and meet RTD’s revenue
+targets. As part of this process, the RTD Board of Directors approved a new Low-Income Fare (LiVE)
+Program in mid-September 2018.
+RTD is working with the Colorado Governor’s Office of Information Technology (OIT) to implement a
+program for evaluating RTD riders’ eligibility for the LiVE program using the State’s public benefits
+application system, PEAK. RTD staff has been meeting with employees from various departments and
+OIT every week for several months.
+The ability to leverage the State of Colorado systems to determine eligibility for the LiVE Program is
+expected to:
+ Reduce the time for implementation of the LiVE Program
+ Limit duplication of data
+ Allow for consistent eligibility data usage
+ Reduce the time spent on administering the LiVE Program’s eligibility assessment
+ Store sensitive data in the State system (For example, data will include pdfs of the application,
+photographs, and verification of income information.
+ Make it easier for those applying for other benefits to access RTD’s LiVE Program
+ Save RTD significant expense
+DISCUSSION
+RTD needs to execute an Intergovernmental Agreement with OIT to implement the LiVE Program. The
+IGA includes the following items:
+
+Packet Pg. 5
+
+1.B.2
+
+
+
+
+
+
+
+Develop a Business Requirements Document (BRD) to identify necessary changes to the PEAK
+System. This has been completed.
+Develop a Technical Design Document (TDD) to identify the details for development of the
+software changes to the PEAK system. This has been completed.
+Perform software development to implement the BRD and TDD.
+Test software changes when complete.
+Provide operational support and maintenance for funning the applications, sending automated
+RTD correspondence, store images and documents, provide system administration and provide
+call center and help desk support for the application.
+
+The design and software development changes shall be performed by OIT’s contractor for a fee.
+Members of OIT and Members of the PEAK Executive Steering Committee have generously donated their
+time to provide guidance, support, document development and review to support implementation of
+RTD’s LiVE Program.
+FINANCIAL IMPACT
+The contract authority shall not exceed $1,800,000. Funding for this project is included in the 2019
+through 2023 Budget. The largest portion of these costs are for the software changes being developed
+this year. Annual correspondence, operations, maintenance and customer support are not expected to
+exceed $211,000 per year during the term of this agreement.
+ALTERNATIVES
+1. It is recommended by the Financial Administration and Audit Committee that the Board of
+Directors authorize the General Manager or his designee to execute all documents necessary to
+execute an IGA to develop and operate software to help manage LiVE Eligibility Applications
+through the State PEAK software system (State Contract Management System (CMS) # 128691)
+for an amount not to exceed $1,800,000. The IGA is for five (5) years of development,
+operations and maintenance.
+2. RTD can independently, or through a contractor, develop software to accept and evaluate
+applications for the LiVE program. RTD does not have the resources to adequately support the
+system 24/7 and continuously meet Personally Identifiable Information (PII) security standards.
+Development of such a system from scratch would take more than a year to implement and
+would be appreciably more expensive. This would put implementation of the LiVE Program and
+RTD security systems at significant risk.
+3. RTD can develop a process to manually accept and evaluate applications for the LiVE Program.
+This would require development of new policies and procedures and the hiring of more than 5
+new employees. This would take more time and cost significantly more to implement.
+
+Prepared by:
+Heather McKillop, CFO/AGM, Finance & Administration
+Monika Treipl-Harnke, Sr, Manager of Revenue
+Approved by:
+
+Packet Pg. 6
+
+1.B.2
+
+Packet Pg. 7
+
+1.C.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+April 2, 2019
+
+Subject:
+
+Sales and Use Tax Forecast Update
+
+CFO/AGM,
+
+Finance
+
+Date: April 3, 2019
+&
+
+GM
+Board Meeting Date: April 9, 2019
+Information
+
+ATTACHMENTS:
+
+
+RTD_Sales_and_Use_Tax_Forecast_April_2019
+
+(PPTX)
+
+Prepared by:
+Heather McKillop, CFO/AGM, Finance & Administration
+Approved by:
+
+Packet Pg. 8
+
+1.C.1.a
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+RTD Sales and Use Tax Forecast
+
+Place cover image here
+
+Robert McNown, Richard Wobbekind,
+Miles Light, and Brian Lewandowski
+April 9, 2019
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 9
+
+1.C.1.a
+
+•
+•
+•
+•
+•
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+Presentation Outline
+Economic overview
+Model development
+Uncertainty
+Forecasts and revisions
+Comparison with Colorado Legislative Council and OSPB
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 10
+
+Real GDP Growth
+Percent Change,
+10 SAAR
+8
+
+Average 1990-1999
+
+Average 2000-2009
+
+Average 2010-2018
+
+6
+4
+2
+0
+-2
+-4
+-6
+-8
+-10
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020
+Sources: Bureau of Economic Analysis and Consensus Forecasts.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 11
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+1.C.1.a
+
+Moody’s GDP Growth Expectations
+Real GDP Growth, %
+
+3.5
+
+Sept. 2017 Forecast
+March 2018 Forecast
+Sept. 2018 Forecast
+March 2019 Forecast
+
+3.0
+
+• Paused interest rates
+• Slowing GDP
+
+2.5
+
+• Deficit-financed tax
+cuts
+
+2.0
+1.5
+
+• Increased government
+spending
+
+1.0
+
+• Tight labor market
+0.5
+
+• Stable inflation
+0.0
+2017
+
+2018
+
+2019
+
+2020
+
+Source: Moody’s Analytics.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 12
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+1.C.1.a
+
+Index of Consumer Confidence
+Recession
+8 months
+
+1985=100
+
+Recession
+18 months
+
+160
+Mountain Region
+
+140
+120
+United States
+
+100
+80
+60
+40
+20
+0
+1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019
+Sources: The Conference Board and National Bureau of Economic Research.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 13
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+1.C.1.a
+
+Colorado Employment Growth
+Jobs Added
+Thousands
+100
+65,000
+53,200
+
+80
+60
+40
+20
+0
+-20
+-40
+-60
+-80
+-100
+-120
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+Sources: Colorado Department of Labor and Employment and the Colorado Business Economic Outlook Committee.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 14
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+1.C.1.a
+
+Labor Force Participation Rate
+Percent of Population 16 and Over
+
+76
+74
+72
+69.2%
+
+70
+68
+66
+
+Colorado
+National
+63.1%
+
+64
+
+LFPR on the rise
+• 66.6% Aug 2015
+• 69.3% Feb 2019
+2nd highest nationally
+Colorado peak
+• 74.5% (1998)
+
+62
+60
+58
+56
+1980 1983 1986 1989 1992 1995 1998 2001 2004 2007 2010 2013 2016 2019
+Source: Bureau of Labor Statistics (Seasonally Adjusted).
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 15
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+1.C.1.a
+
+Colorado LFPR State Ranking
+December 1976 – February 2019
+Rank, 12-Month Average
+1
+3
+5
+7
+9
+11
+13
+15
+17
+19
+1976
+
+1981
+
+1985
+
+1989
+
+1993
+
+1998
+
+2002
+
+2006
+
+2010
+
+2015
+
+2019
+
+Source: Bureau of Labor Statistics, CPS. Notes: Colorado ranked 5th in December 2018 based on the 12-month average and 3rd in December alone.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 16
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+1.C.1.a
+
+Regional Employment Growth and
+Unemployment
+Employment Growth Rate,
+February 2019 YoY
+
+Unemployment Rate
+February 2019
+
+Colorado 1.7%
+
+Colorado SA 3.7%, NSA 3.5%
+
+Grand Junction
+
+Grand Junction
+
+Fort Collins-Loveland
+
+Fort Collins-Loveland
+
+Boulder
+
+Boulder
+
+Greeley
+
+Greeley
+
+Denver-Aurora-Broomfield
+
+Denver-Aurora-Broomfield
+
+Colorado Springs
+
+Colorado Springs
+
+Pueblo
+
+Pueblo
+-1
+
+0
+
+1
+2
+Percentage
+
+3
+
+4
+
+0
+
+1
+
+2
+3
+4
+Percentage
+
+5
+
+6
+
+Sources: CES (Seasonally Adjusted) and LAUS (Not Seasonally Adjusted).
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 17
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+1.C.1.a
+
+1.C.1.a
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+FHFA Home Price Index by MSA
+1-year Home Price Change, Q4 2018
+Percent Change
+25%
+
+20%
+
+15%
+
+Colorado
+Springs
+MSA
+Fort CollinsLoveland MSA
+
+10%
+
+Boulder MSA
+
+5%
+
+0%
+
+-5%
+Pueblo Greeley
+MSA
+MSA
+
+DenverAuroraLakewood
+MSA
+
+Grand
+Junction
+MSA
+
+-10%
+Source: Federal Housing Finance Agency, All Transactions Index (Not Seasonally Adjusted).
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 18
+
+Inflation
+All Items
+Denver-Aurora-Lakewood MSA
+United States
+
+3
+Percent Change
+
+Percent Change
+
+4
+
+Food
+
+3
+2
+1
+0
+
+2
+
+1
+
+0
+
+Medical Care
+
+7
+6
+5
+4
+3
+2
+1
+0
+
+8
+Percent Change
+
+Percent Change
+
+Shelter
+
+6
+4
+2
+0
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+Source: Bureau of Labor Statistics (NSA).
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 19
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+1.C.1.a
+
+1.C.1.a
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+Potential Headwinds for 2019
+International/National
+• Global growth
+• Value of the dollar
+• Trade/Tariffs
+• Interest rates
+State
+• Commodity prices/cycle
+• Drought and weather
+• Housing affordability
+• Talent shortage
+• Real wage increases
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 20
+
+1.C.1.a
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+Model Development: Key Economic Drivers
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 21
+
+1.C.1.a
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+Model Development: Key Economic Drivers
+Short-term and medium-term forecasts
+• Employment: U.S. and Colorado
+• Real gross domestic product: U.S.
+• Personal income: Colorado
+• Retail sales and taxable sales: U.S. and Colorado
+Long-term forecasts
+• Population projections from U.S. Census and State Demography Office
+• Projections by age groups for U.S., Colorado, and RTD District
+• Population age distributions affect savings, labor supply, productivity,
+output, and household expenditures
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 22
+
+Colorado Sales Taxes and RTD Tax Revenue
+$ Millions, 12-Month Rolling Sum
+
+$4,000
+
+$ Millions, 12-Month Rolling Sum
+$700
+
+$3,500
+
+$600
+
+$3,000
+
+$500
+
+$2,500
+$400
+
+$2,000
+$1,500
+
+General Fund Sales and Use Taxes (Left Axis)
+RTD Sales and Use Tax Revenue (Right Axis)
+
+$300
+$200
+
+$1,000
+
+$100
+
+$500
+General Fund sales taxes are available through January 2018 (Left Axis).
+
+$0
+
+$0
+
+1982
+
+1985
+
+1988
+
+1991
+
+1994
+
+1997
+
+2000
+
+2003
+
+2006
+
+2009
+
+2012
+
+2015
+
+2019
+
+Sources: Colorado Office of the State Controller and the Colorado Department of Revenue.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 23
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+1.C.1.a
+
+1.C.1.a
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+Short-Term Forecast
+
+RTD Sales and Use Tax Revenues
+
+Forecasted Percentage Changes of Sales,
+Use and Total Revenues
+Sales Tax
+Use Tax
+Total
+Year
+Revenue
+Revenue
+Revenue
+2018a
+4.2%
+25.7%
+6.0%
+2019
+5.5%
+-5.0%
+4.4%
+2020
+4.2%
+3.6%
+4.2%
+
+aHistorical data.
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 24
+
+Error Tracking – Forecast Percent Error
+Forecasted
+Quarter
+Q1 2015
+Q2 2015
+Q3 2015
+Q4 2015
+2015
+Q1 2016
+Q2 2016
+Q3 2016
+Q4 2016
+2016
+Q1 2017
+Q2 2017
+Q3 2017
+Q4 2017
+2017
+Q1 2018
+Q2 2018
+Q3 2018
+Q4 2018
+2018
+
+Mar
+2015
+-0.9
+3.3
+0.6
+3.9
+1.8
+
+Jun
+2015
+
+Sep
+2015
+
+Dec
+2015
+
+0.4
+-2.4
+1.4
+-0.2
+
+-1.0
+4.8
+1.0
+
+2.4
+0.6
+
+Mar
+2016
+
+Sep
+2016
+
+3.2
+-0.2
+0.3
+1.1
+1.0
+
+1.1
+3.1
+1.1
+
+Mar
+2017
+
+-0.2
+-3.6
+-3.9
+-0.3
+-2.0
+
+Sep
+2017
+
+-1.4
+0.6
+-0.2
+0.6
+-1.9
+-1.9
+-1.5
+
+March
+2018
+
+Sep
+2018
+
+-1.1
+-3.3
+-1.9
+-0.8
+-1.8
+
+-0.7
+-0.3
+-0.2
+
+Note: A positive number represents BRD forecasts exceeding actual revenue.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 25
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+1.C.1.a
+
+Medium-Term Scenario Planning
+RTD Revenue
+$ Millions
+$900
+$850
+
+Optimistic Scenario
+Baseline Scenario
+Pessimistic Scenario
+
+$800
+$750
+$700
+$650
+$600
+$550
+$500
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 26
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+1.C.1.a
+
+Long-Term Forecast Uncertainty
+RTD Revenue
+$ Millions
+
+$2,000
+$1,800
+$1,600
+
+High
+Median
+Low
+
+$1,400
+$1,200
+$1,000
+$800
+$600
+$400
+2015
+
+2020
+
+2025
+
+2030
+
+2035
+
+2040
+
+2045
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 27
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+1.C.1.a
+
+Forecast Comparison
+Forecast Comparison
+Colorado Economic
+Indicators
+Personal income (% change)
+2018
+2019
+2020
+Employment (% change)
+2018
+2019
+2020
+
+Business
+Research
+Division
+
+Colorado
+Legislative
+Council
+
+Office of State
+Planning and
+Budgeting
+
+5.5%
+5.0%
+5.0%
+
+5.4%
+5.3%
+5.1%
+
+5.5%
+4.9%
+4.8%
+
+2.4%
+1.7%
+1.1%
+
+2.4%
+2.1%
+1.5%
+
+2.4%
+2.0%
+1.8%
+
+Note: BRD, Colorado Legislative Council, and Office of State Planning and Budgeting updates as of March 2019. In the March update, OSPB and
+CLC discontinued the retail trade series.
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 28
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+1.C.1.a
+
+Integrity of Model Forecasts
+• Forecasts are updated semi-annually to reflect the most current
+economic situation.
+• Forecasts may be too high or too low, reflecting uncertainty in the
+economy.
+• Forecasts are generated from theoretically sound economic relations,
+modeled with state-of-the-art methods of modern econometric time
+series analysis.
+• BRD forecasts do not incorporate “add factors” or other subjective
+adjustments of model forecasts.
+• BRD is independent from RTD with no political or financial stake in
+the forecast numbers.
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 29
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+1.C.1.a
+
+1.C.1.a
+
+Attachment: RTD_Sales_and_Use_Tax_Forecast_April_2019 (3793 : Sales and Use Tax Forecast Update)
+
+Thank You
+
+Business Research Division | Leeds School of Business | University of Colorado Boulder
+
+Packet Pg. 30
+
+1.C.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+April 2, 2019
+
+Subject:
+
+Review of 2020-2025 Mid-Term Plan & Budget
+Assumptions
+
+CFO/AGM,
+
+Finance
+
+Date: April 3, 2019
+&
+
+GM
+Board Meeting Date: April 9, 2019
+Information
+
+ATTACHMENTS:
+
+
+2020-2025 Mid-Term Financial Plan Presentation _ FAAC 040919
+
+(PPTX)
+
+Prepared by:
+Jannette Scarpino, Senior Manager, Budget and Financial Analysis
+Susan Cohen, Senior Manager, Finance and ECM
+Approved by:
+
+Packet Pg. 31
+
+Attachment: 2020-2025 Mid-Term Financial Plan Presentation _ FAAC 040919 (3794 : Review of 2020-2025
+
+1.C.2.a
+
+• Review of 2020–2025 Mid-Term
+Financial Plan Development and
+2020 Budget Assumptions
+• Financial Administration and Audit Committee
+• April 9, 2019
+
+Packet Pg. 32
+
+Attachment: 2020-2025 Mid-Term Financial Plan Presentation _ FAAC 040919 (3794 : Review of 2020-2025
+
+1.C.2.a
+
+2020-2025 MTFP Development + 2020 Budget Assumptions
+
+Agenda
+• Purpose/Process of Mid-Term Financial Plan
+• Base System
+• FasTracks
+
+•
+•
+•
+•
+•
+•
+
+Revenue Assumptions
+Operating Elements
+Capital Elements
+Cost Assumptions
+Issues and Challenges
+Next Steps
+
+2
+
+Packet Pg. 33
+
+Attachment: 2020-2025 Mid-Term Financial Plan Presentation _ FAAC 040919 (3794 : Review of 2020-2025
+
+1.C.2.a
+
+2020-2025 MTFP Development + 2020 Budget Assumptions
+
+Purpose
+• Provides overall guidance for RTD’s Base System and FasTracks service
+delivery, debt, and capital expenditures
+• Six year capital and operating plan
+• Identifies anticipated revenues and expenditures
+• Must be financially constrained (balanced budget)
+
+• Provides input for other planning efforts
+• DRCOG six-year Transportation Improvement Program (TIP)
+• RTD Annual Budget
+• Long-term Financial Plan
+
+• Aligns with GM’s core and task goals for 2020 as determined by Board
+• Incorporates approved performance measures
+• Sets target for development of fund balances
+
+3
+
+Packet Pg. 34
+
+Attachment: 2020-2025 Mid-Term Financial Plan Presentation _ FAAC 040919 (3794 : Review of 2020-2025
+
+1.C.2.a
+
+2020-2025 MTFP Development + 2020 Budget Assumptions
+
+Process
+• Mid-Term Financial Plan consists of Base System (fka SBP)
+and FasTracks (fka APE)
+• Objective is to integrate Base System and FasTracks midterm financial plan (6 years) and long-term plan (to 2040)
+• Revenue assumptions are same for Base & FasTracks
+• Cost development is different for Base & FasTracks
+• Development processes are different for Base & FasTracks
+
+4
+
+Packet Pg. 35
+
+Attachment: 2020-2025 Mid-Term Financial Plan Presentation _ FAAC 040919 (3794 : Review of 2020-2025
+
+1.C.2.a
+
+2020-2025 MTFP Development + 2020 Budget Assumptions
+
+Revenue Assumptions
+•
+
+Sales and use tax growth rate
+•
+•
+•
+
+•
+
+Sales/use tax revenue increased 6.1% in 2017 and 6.0% in 2018
+Growth is projected to increase 4.4% in 2019 and 4.2% in 2020 (CU-Leeds School Mar-2019 forecast)
+January 2019 actual ytd sales/use tax is 4.3% over prior year
+
+Annual sales and use tax growth (Mar-19 forecast)
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+
+•
+
+Baseline
+6.0% (actual)
+4.4%
+4.2%
+3.1%
+4.7%
+4.3%
+4.1%
+4.1%
+
+Baseline scenario assumptions
+•
+•
+
+Changes in Colorado economic metrics since the Sept-18 forecast were mixed in the medium term
+Changes in short-term market expectations, tax laws, and policy all contribute to changes in revenue forecasts,
+revenues for 2019 and remainder of forecast were revised lower compared to the Sept-18 forecast
+ü Average of Colorado retail sales growth is 4.5% for medium-term forecast and state retail sales will
+outperform the nation
+ü Colorado personal income growth will be slower in 2019 compared to 2018 (5% vs. 5.5%)
+ü Colorado economy will hover at capacity, with future employment growth rates constrained by slow
+growth in the working-age population
+
+5
+
+Packet Pg. 36
+
+Attachment: 2020-2025 Mid-Term Financial Plan Presentation _ FAAC 040919 (3794 : Review of 2020-2025
+
+1.C.2.a
+
+2020-2025 MTFP Development + 2020 Budget Assumptions
+
+Revenue Assumptions (cont’d)
+•
+
+Fare revenue
+•
+•
+•
+•
+
+•
+
+Ridership
+•
+•
+•
+
+•
+
+Assume flat ridership for Base System
+FasTracks is expected to drive ridership gains in the near term
+System-wide ridership did not meet budgetary goal in 2018
+ü Mirrors nation-wide downward trend
+
+Federal grants
+•
+•
+•
+•
+
+•
+
+Assume fare revenue growth in accordance with staff recommendation adopted by Board in
+2018
+FasTracks is expected to deliver on fare revenue growth in the near term
+ü Largest increases to be seen in 2022 and 2025 with assumed fare rate increases
+Per policy, Board will consider a fare rate increase every 3 years, next scheduled increase is for
+2022 and then 2025
+Fare revenue for 2020 will be established with formulation of 2020 Budget
+
+Based on actual 2019 appropriations
+Include known project-specific grants
+Recognized as awarded
+Assumed to increase at rate of inflation or as identified
+
+Debt Financing
+•
+
+Issuance of new debt may become necessary to finance fleet acquisition or construction
+
+6
+
+Packet Pg. 37
+
+Attachment: 2020-2025 Mid-Term Financial Plan Presentation _ FAAC 040919 (3794 : Review of 2020-2025
+
+1.C.2.a
+
+2020-2025 MTFP Development + 2020 Budget Assumptions
+
+Sales/Use Tax Forecast (2019 - 2025)
+Source: CU-Leeds School –Baseline Forecast Mar-19
+$900
+$800
+$700
+
+Millions of Dollars
+
+$600
+$500
+$400
+$300
+$200
+$100
+$0
+2013
+
+2014
+
+2015
+
+Base (0.6%) - Actual
+
+2016
+
+2017
+
+2018
+
+Base (0.6%) - Forecast
+
+2019
+
+2020
+
+2021
+
+FasTracks (0.4%) - Actual
+
+2022
+
+2023
+
+2024
+
+2025
+
+FasTracks (0.4%) - Forecast
+
+7
+
+Packet Pg. 38
+
+Attachment: 2020-2025 Mid-Term Financial Plan Presentation _ FAAC 040919 (3794 : Review of 2020-2025
+
+1.C.2.a
+
+2020-2025 MTFP Development + 2020 Budget Assumptions
+
+MTFP Operating Elements
+Bus Service
+
+• Fixed route bus service levels
+•
+•
+
+Service hours in 2019 of approximately 3.3 million hours will increase 0.7% over 2018
+primarily in regular route service (RTD + private carrier) plus committed increase for
+Flatiron Flyer
+Future bus service improvements dependent on service efficiencies and financial
+capability
+
+• ADA service to meet demand – per federal regulations
+•
+
+2019 Budget of approximately 661,500 hours
+
+Rail Service
+
+• Service hours in 2020 being developed
+
+• Expected to be higher than 2019 Budget of 347,000 hours
+• FasTracks to see growth in rail service hours from full year of service on G Line, SERE,
+and opening of N Line
+• Future train service capacity improvements dependent on ridership and financial
+capability
+
+Operating and Passenger Facilities
+
+• Projects to maintain facilities in State of Good Repair
+
+8
+
+Packet Pg. 39
+
+Attachment: 2020-2025 Mid-Term Financial Plan Presentation _ FAAC 040919 (3794 : Review of 2020-2025
+
+1.C.2.a
+
+2020-2025 MTFP Development + 2020 Budget Assumptions
+
+MTFP Operating Elements (cont’d)
+Operating and Maintenance of Completed FasTracks Projects
+• West
+• Denver Union Station
+• Free MetroRide
+• Flatiron Flyer
+• Eagle
+• R-Line and H-Line Extension
+• E, F, and R Line Extensions (SERE)
+• North Metro
+• Assumes RTD internal operation
+
+9
+
+Packet Pg. 40
+
+2020-2025 MTFP Development + 2020 Budget Assumptions
+
+MTFP Capital Elements
+Capital projects have a cost greater than $5,000 and useful life greater
+than one year
+Fleet Plan
+
+• Bus replacements to meet service needs
+
+• Replacements with clean diesel or other clean fuel buses or electric when cost-effective
+• Base system fleet plan to include replacement of 40-ft. transit buses, 30-ft. transit buses, intercity (non-BRT) and calln-ride buses; and expansion and replacement of ADA cut-away buses
+
+• Rail fleet expansion to meet service needs
+• Minimum maintenance requirements and spare ratio
+
+Attachment: 2020-2025 Mid-Term Financial Plan Presentation _ FAAC 040919 (3794 : Review of 2020-2025
+
+1.C.2.a
+
+10
+
+Packet Pg. 41
+
+Attachment: 2020-2025 Mid-Term Financial Plan Presentation _ FAAC 040919 (3794 : Review of 2020-2025
+
+1.C.2.a
+
+2020-2025 MTFP Development + 2020 Budget Assumptions
+
+MTFP Capital Elements (cont’d)
+Operating and Passenger Facilities and Equipment
+• Projects to replace and improve assets and facilities
+• Maintain SOGR
+• SOGR allowance for completed FasTracks projects
+
+Completion of ongoing FasTracks projects
+• Close-out of US 36, SERE, R Line, Eagle
+• Longmont Station
+• Completion of North Metro
+
+• Includes elements needed to support RTD operation of the corridor
+
+11
+
+Packet Pg. 42
+
+Attachment: 2020-2025 Mid-Term Financial Plan Presentation _ FAAC 040919 (3794 : Review of 2020-2025
+
+1.C.2.a
+
+2020-2025 MTFP Development + 2020 Budget Assumptions
+
+MTFP Cost Assumptions
+• Operating and maintenance costs
+•
+•
+•
+
+Based on 2019 proposed Amended Budget
+Costs escalated at rate of inflation
+Eagle costs per schedule in concession agreement
+
+• Diesel fuel costs
+•
+•
+•
+•
+
+Budgeted/locked at $2.30 per gallon in 2019
+Current futures estimate is $2.25 for 2020
+Volatile pricing
+Conservative cost assumptions and escalated at national inflation rate
+
+• Debt service
+•
+
+Interest and principal payments on existing debt
+
+• Inflation rates
+•
+•
+•
+
+Based on Moody’s forecasts as of March-19
+Denver-Boulder inflation rate: 2.6% in 2020
+National inflation rate: 2.2% in 2020
+
+12
+
+Packet Pg. 43
+
+Attachment: 2020-2025 Mid-Term Financial Plan Presentation _ FAAC 040919 (3794 : Review of 2020-2025
+
+1.C.2.a
+
+2020-2025 MTFP Development + 2020 Budget Assumptions
+
+MTFP Reserve Assumptions
+• Planned moderate increases to fund balances for Base System and FasTracks
+•
+•
+•
+•
+
+Board-Appropriated Fund
+Capital Replacement Fund
+Unrestricted Operating Reserve
+Unrestricted Year-End Fund Balance (remaining)
+
+• Sufficient reserves to withstand economic fluctuations
+•
+
+Goal is 3 months of operating expenses in reserve balances
+
+• FasTracks Internal Savings Account (FISA)
+•
+
+Continued growth through savings from rubber-tire service increases
+
+13
+
+Packet Pg. 44
+
+Attachment: 2020-2025 Mid-Term Financial Plan Presentation _ FAAC 040919 (3794 : Review of 2020-2025
+
+1.C.2.a
+
+2020-2025 MTFP Development + 2020 Budget Assumptions
+
+Issues and Challenges
+• Board Priorities for 2020
+•
+•
+•
+•
+•
+
+Strengthen Communications
+Address Equity
+Enhance current and future transportation methods
+Enhance safety and security
+Ridership
+
+• Continue refunding of reserve balances
+
+• Board-appropriated fund, capital replacement fund, operating reserve
+
+• Maintain adequate unrestricted fund balance
+• Targeted balance on combined basis
+
+• Deferred projects and SOGR
+• Fuel prices/fuel volatility
+• Increased O&M costs
+• Competing projects/prioritization
+• Funding constraints, funding sources
+• Construction and operation of unfunded FasTracks corridors
+• TABOR exemption on Base System expires 12/31/2024
+
+14
+
+Packet Pg. 45
+
+Attachment: 2020-2025 Mid-Term Financial Plan Presentation _ FAAC 040919 (3794 : Review of 2020-2025
+
+1.C.2.a
+
+2020-2025 MTFP Development + 2020 Budget Assumptions
+
+Next Steps
+• Review fuel options for 2020
+• Review and prioritize departmental requests for capital and expense projects
+• 2020 strategic goals
+• SOGR, AMP (Asset Management Plan)
+
+• Review and update costs to complete and operate on-going FasTracks projects
+• Develop funding strategies and forecasts
+• Track ridership/fare revenue estimates against actuals
+• Key dates (tentative):
+May 7 – First draft Mid-term Financial Plan at FAAC
+June 18 – Adoption of 2019 Amended Budget
+July 9 – Second draft Mid-term Financial Plan and First draft of Long Range Financial Plan
+August 13 – Third draft Mid-term Financial Plan and Second draft of Long Range Financial Plan
+September 17 – Presentation of final Mid-term Financial Plan, Long Range Financial Plan, and
+2020 Requested Budget
+• September 24 – Adoption of Mid-term and Long Range Financial Plans
+• October 22– Update to 2020 Requested Budget
+• November 19 – Adoption of 2020 Budget
+•
+•
+•
+•
+•
+
+15
+
+Packet Pg. 46
+
+1.C.3
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+April 2, 2019
+
+Subject:
+
+February 2019 Monthly Financial Status Report
+
+CFO/AGM,
+
+Finance
+
+Date: April 3, 2019
+&
+
+GM
+Board Meeting Date: April 9, 2019
+Information
+
+ATTACHMENTS:
+
+
+022819 MFS Final
+
+(PDF)
+
+Prepared by:
+Heather McKillop, CFO/AGM, Finance & Administration
+Doug MacLeod, Controller
+Approved by:
+
+Packet Pg. 47
+
+1.C.3.a
+
+MONTHLY FINANCIAL STATUS
+FEBRURAY 2019
+To: Dave Genova, General Manager and CEO
+From: Heather McKillop, CFO and AGM Administration
+Date: April 9, 2019
+
+ACTION
+
+DISCUSSION
+
+INFO
+
+FEBRUARY 2019
+ACTUAL VS.
+BUDGET
+
+YTD 2019
+ACTUAL VS.
+BUDGET
+
+FEBRUARY
+2019 VS. 2018
+
+YEAR TO DATE
+2019 VS. 2018
+
+S&U TAX
+
+S&U TAX
+
+S&U TAX
+
+S&U TAX
+
+-1.6%
+
+5.7%
+
+5.0%
+
+RIDERSHIP
+
+RIDERSHIP
+
+RIDERSHIP
+
+N/A
+
+N/A
+
+N/A
+
+FARE
+REVENUE
+
+FARE
+REVENUE
+
+FARE
+REVENUE
+
+-2.1%
+
+11.1%
+
+7.6%
+
+-0.9%
+RIDERSHIP
+
+N/A
+FARE
+REVENUE
+
+-2.3%
+
+Attachment: 022819 MFS Final (3796 : February 2019 Monthly Financial Status Report)
+
+x
+
+SALES AND USE TAX
+FEBRUARY 2019 - ESTIMATED
+(In Thousands)
+
+MONTH
+YTD
+
+2018
+ACTUAL
+
+2018
+BUDGET
+
+VARIANCE
+
+VARIANCE %
+
+2017
+ACTUAL
+
+VARIANCE
+TO 2017
+
+VARIANCE
+%
+
+46,355
+93,364
+
+46,777
+94,846
+
+(422)
+(1,482)
+
+-0.9%
+-1.6%
+
+43,872
+88,957
+
+2,483
+4,407
+
+5.7%
+5.0%
+
+S&U TAX - YTD
+ACTUAL VS. BUDGET
+
+S&U TAX - FEBRUARY 2019
+ACTUAL VS. BUDGET
+97,000
+
+50,000
+49,000
+
+95,000
+
+48,000
+93,000
+47,000
+91,000
+
+46,000
+45,000
+
+89,000
+
+44,000
+87,000
+43,000
+42,000
+2019 ACTUAL
+2019 BUDGET
+2018 ACTUAL
+
+FEBRUARY 2019
+46,355
+46,777
+43,872
+
+85,000
+2019 ACTUAL
+2019 BUDGET
+2018 ACTUAL
+
+FEBRUARY YTD 2019
+93,364
+94,846
+88,957
+
+SALES AND USE TAX TRENDS
+$65.0
+
+2019 Budget
+(Millions)
+
+$60.0
+$55.0
+
+2019 Actual
+
+2018 Actual
+
+$50.0
+$45.0
+$40.0
+
+Packet Pg. 48
+
+1.C.3.a
+
+RIDERSHIP
+FEBRUARY 2019 - NOT AVAILABLE
+2019
+ACTUAL
+
+(In Thousands)
+
+MONTH
+YEAR TO DATE
+
+2019
+VARIANCE VARIANCE %
+BUDGET
+
+-
+
+2018
+ACTUAL
+
+8,431
+17,369
+
+VARIANCE
+
+VARIANCE %
+to 2017
+
+8,348
+17,197
+
+RIDERSHIP - YTD
+ACTUAL VS. BUDGET
+
+RIDERSHIP - FEB 2019
+ACTUAL VS. BUDGET
+18,000
+
+8,600
+8,500
+
+17,500
+
+Attachment: 022819 MFS Final (3796 : February 2019 Monthly Financial Status Report)
+
+8,400
+17,000
+
+8,300
+8,200
+
+16,500
+
+8,100
+
+16,000
+
+8,000
+15,500
+
+7,900
+7,800
+
+15,000
+
+FEBRUARY 2019
+8,431
+8,348
+
+2019 ACTUAL
+2019 BUDGET
+2018 ACTUAL
+
+FEBRUARY YTD 2019
+17,369
+17,197
+
+2019 ACTUAL
+2019 BUDGET
+2018 ACTUAL
+
+RIDERSHIP BY TYPE - FEBRUARY 2019
+6,000
+5,000
+4,000
+3,000
+2,000
+1,000
+-
+
+Bus
+4,860
+
+FEBRUARY 2019 ACTUAL
+FEBRUARY 2018 ACTUAL
+
+Mall & Metro Ride
+810
+
+Light Rail
+2,066
+
+Commuter Rail
+526
+
+Other
+85
+
+Commuter Rail
+1,111
+
+Other
+177
+
+RIDERSHIP BY TYPE - YTD
+12,000
+10,000
+8,000
+*
+
+6,000
+
+*
+
+4,000
+2,000
+2019 ACTUAL YTD
+2018 ACTUAL YTD
+
+Bus
+10,057
+
+Mall & Metro Ride
+1,687
+
+Light Rail
+4,164
+
+RIDERSHIP TRENDS
+10.0
+
+(Millions)
+
+2019 Budget
+9.0
+
+2019 Actual
+8.0
+
+2018 Actual
+7.0
+
+Note: 2019 ridership is not currently available due to the migration to APC reporting
+
+Packet Pg. 49
+
+1.C.3.a
+
+FARE REVENUE
+FEBRUARY 2019
+2018
+ACTUAL
+
+2018
+BUDGET
+
+VARIANCE
+
+11,856
+24,163
+
+12,133
+24,683
+
+(277)
+(520)
+
+MONTH
+YEAR TO DATE
+
+VARIANCE %
+
+2017
+ACTUAL
+
+VARIANCE
+
+VARIANCE %
+to 2017
+
+10,675
+22,457
+
+1,181
+1,707
+
+11.1%
+7.6%
+
+-2.3%
+-2.1%
+
+FARE REVENUE - FEB 2019
+ACTUAL VS. BUDGET
+
+FARE REVENUE - YTD
+ACTUAL VS. BUDGET
+
+14,000
+
+26,000
+
+13,000
+
+25,000
+
+12,000
+
+24,000
+
+11,000
+
+23,000
+
+10,000
+
+22,000
+
+9,000
+
+21,000
+
+8,000
+
+20,000
+
+FEBRUARY 2019
+11,856
+12,133
+10,675
+
+2019 ACTUAL
+2019 BUDGET
+2018 ACTUAL
+
+FEBRUARY YTD 2019
+24,163
+24,683
+22,457
+
+2019 ACTUAL
+2019 BUDGET
+2018 ACTUAL
+
+FARE REVENUE - FEBRUARY 2019
+7,000
+6,000
+5,000
+4,000
+3,000
+2,000
+1,000
+FARE BOX
+
+10 RIDE
+
+1,531
+1,682
+
+763
+944
+
+FEBRUARY 2019 ACTUAL
+FEBRUARY 2018 ACTUAL
+
+PASSES
+(ECO/COLLEGE/FLEX)
+6,573
+5,901
+
+TVMs
+
+MY RIDE/MOBILE TIX
+
+SPECIAL SVCS
+
+1,642
+1,578
+
+1,341
+560
+
+5
+9
+
+FARE REVENUE - YTD
+14,000
+12,000
+10,000
+8,000
+6,000
+4,000
+2,000
+2019 ACTUAL YTD
+2018 ACTUAL YTD
+
+FARE BOX
+
+10 RIDE
+
+3,231
+3,788
+
+1,997
+2,168
+
+PASSES
+(ECO/COLLEGE/FLEX)
+12,817
+11,664
+
+TVMs
+
+MY RIDE/MOBILE TIX
+
+SPECIAL SVCS
+
+3,384
+3,697
+
+2,724
+1,126
+
+10
+14
+
+FARE REVENUE TRENDS
+$16.5
+
+(Millions)
+
+$15.5
+
+2019 Budget
+$14.5
+
+2019 Actual
+$13.5
+$12.5
+
+2018 Actual
+$11.5
+$10.5
+
+Packet Pg. 50
+
+Attachment: 022819 MFS Final (3796 : February 2019 Monthly Financial Status Report)
+
+(In Thousands)
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF NET POSITION - COMBINED
+FEBRUARY 28, 2019
+(UNAUDITED)
+(In Thousands)
+
+2019
+Base System
+
+2019
+FasTracks Project
+
+2019
+FasTracks Ops
+
+2019
+Combined
+
+December 31, 2018
+Combined
+
+Change
+
+ASSETS
+CURRENT ASSETS:
+Cash & Cash Equivalents
+Receivables:
+Sales Taxes
+Grants
+Other (less allowance for doubtful accts)
+Total Net Receivables
+
+$
+
+117,558
+
+$
+
+241,278
+
+$
+
+54,142
+
+$
+
+412,978
+
+$
+
+398,765
+
+$
+
+14,213
+
+56,018
+13,259
+18,886
+88,163
+
+37,346
+7,025
+44,371
+
+524
+524
+
+93,364
+13,259
+26,435
+133,058
+
+113,329
+16,279
+15,534
+145,142
+
+(19,965)
+(3,020)
+10,901
+(12,084)
+
+31,823
+45,764
+6,853
+290,161
+
+167,923
+85,873
+539,445
+
+157
+54,823
+
+31,823
+213,687
+92,883
+884,429
+
+31,103
+199,327
+86,146
+860,483
+
+720
+14,360
+6,737
+23,946
+
+Capital Assets:
+Land
+Land Improvements
+Buildings
+Revenue Earning Equipment
+Shop, Maintenance & Other Equipment
+Construction in Progress
+Total Capital Assets
+Accumulated Depreciation
+Net Capital Assets
+
+171,953
+1,310,663
+296,168
+690,632
+201,019
+140,076
+2,810,511
+(1,428,101)
+1,382,410
+
+569,228
+2,873,427
+341,552
+654,467
+3,945
+1,635,501
+6,078,120
+(659,254)
+5,418,866
+
+-
+
+741,181
+4,184,090
+637,720
+1,345,099
+204,964
+1,775,577
+8,888,631
+(2,087,355)
+6,801,276
+
+741,541
+4,181,583
+637,720
+1,219,967
+310,316
+1,802,235
+8,893,362
+(2,042,157)
+6,851,205
+
+(360)
+2,507
+125,132
+(105,352)
+(26,658)
+(4,731)
+(45,198)
+(49,929)
+
+TABOR Reserves
+Restricted Debt Service/Debt Service Reserves
+Deposits
+TOTAL NONCURRENT ASSETS
+
+8,334
+28,813
+1,503
+1,421,060
+
+9,395
+61,913
+5,490,174
+
+-
+
+17,729
+90,726
+1,503
+6,911,234
+
+17,667
+89,269
+1,504
+6,959,645
+
+62
+1,457
+(1)
+(48,411)
+
+Inventory
+Restricted Debt Service/Project Funds
+Other Assets
+TOTAL CURRENT ASSETS
+
+(1)
+
+NONCURRENT ASSETS:
+
+TOTAL ASSETS
+
+$
+
+1,711,221
+
+$
+
+6,029,619
+
+$
+
+54,823
+
+$
+
+7,795,663
+
+$
+
+7,820,128
+
+$
+
+(24,465)
+
+DEFERRED OUTFLOW OF RESOURCES
+
+$
+
+52,298
+
+$
+
+27,745
+
+$
+
+-
+
+$
+
+80,043
+
+$
+
+80,739
+
+$
+
+(696)
+
+(1) Increase due to timing of grant draws.
+
+Packet Pg. 51
+
+Attachment: 022819 MFS Final (3796 : February 2019 Monthly Financial Status Report)
+
+1.C.3.a
+
+REGIONAL TRANSPORTATION DISTRICT
+STATEMENT OF NET POSITION - COMBINED
+FEBRUARY 28, 2019
+(UNAUDITED)
+(In Thousands)
+
+2019
+Base System
+
+2019
+FasTracks Project
+
+2019
+FasTracks Ops
+
+2019
+Combined
+
+December 31, 2018
+Combined
+
+Change
+
+LIABILITIES
+CURRENT LIABILITIES:
+Accounts & Contracts Payable
+Current Portion of Long Term Debt
+Accrued Compensation
+Accrued Interest Payable
+Other
+TOTAL CURRENT LIABILITIES
+
+$
+
+NONCURRENT LIABILITIES:
+Long Term Debt
+Other Long-Term Liabilities
+Net Pension Liability
+TOTAL NONCURRENT LIABILITIES
+
+30,247
+62,530
+24,962
+5,352
+53,436
+176,527
+
+$
+
+481,725
+72
+268,279
+750,076
+
+22,057
+4,805
+36,438
+2,008
+65,308
+
+$
+
+2,902,741
+427,769
+3,330,510
+
+10,509
+589
+11,098
+
+$
+
+-
+
+62,813
+67,335
+24,962
+41,790
+56,033
+252,933
+
+$
+
+3,384,466
+427,841
+268,279
+4,080,586
+
+104,357
+67,335
+23,868
+18,689
+35,704
+249,953
+
+$
+
+3,385,168
+429,980
+268,279
+4,083,427
+
+(41,544)
+1,094
+23,101
+20,329
+2,980
+
+(702)
+(2,139)
+(2,841)
+
+TOTAL LIABILITIES
+
+$
+
+926,603
+
+$
+
+3,395,818
+
+$
+
+11,098
+
+$
+
+4,333,519
+
+$
+
+4,333,380
+
+$
+
+139
+
+DEFERRED INFLOW OF RESOURCES
+
+$
+
+103,672
+
+$
+
+309
+
+$
+
+-
+
+$
+
+103,981
+
+$
+
+103,993
+
+$
+
+(12)
+
+$
+
+$
+
+$
+
+3,177,316
+141,284
+24,079
+216,395
+78,743
+33,350
+12,950
+14,700
+68,112
+(303,435)
+3,463,494
+
+$
+
+$
+
+3,130,007
+156,625
+25,977
+192,184
+88,104
+39,855
+16,455
+29,200
+54,541
+(294,742)
+3,438,206
+
+$
+
+$
+
+4,995
+12,910
+12,910
+12,910
+43,725
+
+$
+
+$
+
+2,245,037
+119,491
+4,896
+192,184
+88,104
+3,545
+3,545
+890
+3,545
+2,661,237
+
+$
+
+$
+
+884,970
+37,134
+16,086
+23,400
+15,400
+50,996
+(294,742)
+733,244
+
+$
+
+(47,309)
+15,341
+1,898
+(24,211)
+9,361
+6,505
+3,505
+14,500
+(13,571)
+8,693
+(25,288)
+
+$
+
+1,763,519
+
+$
+
+6,057,367
+
+$
+
+54,823
+
+$
+
+7,875,706
+
+$
+
+7,900,867
+
+$
+
+(25,161)
+
+(2)
+
+(3)
+
+(4)
+
+NET POSITION
+Net Investment in Capital Assets
+Restricted - Debt Service, Projects and Deferrals
+Restricted - TABOR Reserves
+Restricted - FasTracks
+FasTracks Internal Savings Account (FISA)
+Board Appropriated Fund
+Capital Replacement Fund
+Unrestricted Operating Reserve/Mgt Reserve
+Unrestricted Fund
+Net Pension Liability - Represented
+TOTAL NET POSITION
+TOTAL LIABILITIES & NET POSITION
+
+-
+
+-
+
+-
+
+-
+
+(4)
+(5)
+
+(6)
+
+-
+
+(2) Increase due to timing of invoice receipt
+(3) Increase primarily due to receipt of Eco/Neco pass funding to be earned over the fiscal year.
+(4) Change is due to a temporary reclasification at year-end that is being reconciled.
+(5) Change is still being reconciled for the year-end audit and will change.
+(6) The year-end balance is still being reconciled, due to the year-end audit, and will change.
+
+Packet Pg. 52
+
+Attachment: 022819 MFS Final (3796 : February 2019 Monthly Financial Status Report)
+
+1.C.3.a
+
+1.C.3.a
+
+STATEMENT OF REVENUE, EXPENSES AND CHANGE IN NET POSITION - COMBINED
+FEBRUARY 28, 2019
+(UNAUDITED)
+
+OPERATING REVENUE:
+Passenger Fares
+Advertising, Rent and Other
+Total Operating Revenue
+
+YTD
+Base
+System
+Actual
+
+YTD
+Base
+System
+Budget
+
+YTD
+FasTracks
+Project
+Actual
+
+YTD
+FasTracks
+Project
+Budget
+
+YTD
+FasTracks
+Operations
+Actual
+
+YTD
+FasTracks
+Operations
+Budget
+
+YTD
+System
+Wide
+Actual
+
+YTD
+System
+Wide
+Budget
+
+$
+Favorable
+(Unfavorable)
+
+%
+Favorable
+(Unfavorable)
+
+-----------------
+
+-----------------
+
+-----------------
+
+-------------
+
+-----------------
+
+-------------
+
+-----------------
+
+-----------------
+
+-----------------
+
+-------------
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+4,934
+358
+5,292
+
+24,163
+516
+24,679
+
+24,683
+1,108
+25,791
+
+(520)
+(592)
+(1,112)
+
+-2.1%
+-53.4%
+0.0%
+-4.3%
+
+24,163
+240
+24,403
+
+19,749
+750
+20,499
+
+40
+40
+
+- -
+
+236
+236
+
+OPERATING EXPENSES
+Bus Operations
+Rail Operations
+Planning
+Capital Programs
+Safety, Security and Asset Management
+General Counsel
+Finance and Administration
+Communications
+Executive Office
+Board Office
+FasTracks Service Increase
+Depreciation and Other Non-Departmental
+Total Operating Expenses
+
+47,360
+9,033
+465
+5,881
+3,247
+3,487
+6,866
+1,741
+1,606
+125
+(3,143)
+18,363
+95,031
+
+53,277
+11,432
+2,518
+7,494
+4,262
+3,048
+10,130
+2,267
+1,358
+101
+(3,143)
+17,529
+110,273
+
+26
+2,511
+39
+37
+3,143
+27,523
+33,279
+
+61
+3,642
+39
+34
+3,143
+27,737
+34,656
+
+10,590
+71
+932
+23
+11,616
+
+14,664
+186
+1,646
+153
+-59
+16,708
+
+47,360
+19,623
+491
+8,463
+4,179
+3,526
+6,903
+1,764
+1,606
+125
+45,886
+139,926
+
+53,277
+26,096
+2,579
+11,322
+5,908
+3,087
+10,164
+2,420
+1,358
+101
+45,325
+161,637
+
+5,917
+6,473
+2,088
+2,859
+1,729
+(439)
+3,261
+656
+(248)
+(24)
+(561)
+21,711
+
+11.1% (1)
+24.8% (2)
+81.0% (3)
+25.3% (4)
+29.3% (5)
+-14.2% (6)
+32.1% (7)
+27.1% (8)
+-18.3% (9)
+-23.8% (10)
+0.0%
+-1.2%
+0.0%
+13.4%
+
+OPERATING INCOME/(LOSS)
+
+(70,628)
+
+(89,774)
+
+(33,239)
+
+(34,656)
+
+(11,380)
+
+(11,416)
+
+(115,247)
+
+(135,846)
+
+20,599
+
+15.2%
+
+Sales & Use Tax
+Operating Grants
+Investment Income
+Other Income
+Gain/(Loss) Capital Assets
+Interest Expense
+Net Nonoperating Revenue (Expense)
+
+56,018
+5,707
+1,338
+5,009
+(4)
+(3,174)
+64,894
+
+57,660
+14,352
+334
+452
+(3,233)
+69,565
+
+43,230
+1
+624
+(1,474)
+(3,454)
+38,927
+
+20,299
+60
+1,141
+(8,543)
+(11,063)
+1,894
+
+(5,884)
+(5,884)
+
+1,925
+110
+2,035
+
+93,364
+5,708
+1,962
+3,535
+(4)
+(6,628)
+97,937
+
+79,884
+14,412
+1,475
+(7,981)
+(14,296)
+73,494
+
+13,480
+(8,704)
+487
+11,516
+(4)
+7,668
+24,443
+
+16.9%
+-60.4%
+33.0%
+-144.3%
+0.0%
+53.6%
+0.0%
+33.3%
+
+INCOME BEFORE CAPITAL GRANTS
+
+(5,734)
+
+(20,209)
+
+5,688
+
+(32,762)
+
+(17,264)
+
+(9,381)
+
+(17,310)
+
+(62,352)
+
+45,042
+
+-72.2%
+
+983
+
+3,199
+
+(13,883)
+
+13,336
+
+10
+
+-
+
+(12,890)
+
+16,535
+
+(29,425)
+
+-178.0%
+
+15,617
+
+-34.1%
+
+NONOPERATING REVENUE (EXPENSES)
+
+Capital Grants and Local Contributions
+INCREASE/(DECREASE) IN NET
+POSITION
+
+$
+
+(4,751)
+
+$
+
+(17,010)
+
+$
+
+(8,195)
+
+$
+
+(19,426)
+
+$
+
+(17,254)
+
+$
+
+(9,381)
+
+$
+
+(30,200)
+
+$
+
+(45,817)
+
+$
+
+(1) Variance is due to timing of invoices for purchased transportation and fuel
+(2) Variance is due to lower labor, repair parts and timing of invoices for traction power.
+(3) Variance is due to accrual reversals from year-end for projects
+(4) Variance is due to project invoices for contract maintenance arriving sooner than budgeted
+(5) Variance is due to lower outside security services costs invoice timing
+(6) Variance is due to high claims costs under the self-insured program
+(7) Variance is due to timing of outstide IT services costs
+(8) Variance is due to timing of outside printing costs for schedules and other outside services
+(9) Variance due to purchasing card costs that initially get coded to this cost center until they can be coded to each cost center where they were incurred
+(10) Variance due to higher full time benefits and payment timing to Carahsoft
+
+Packet Pg. 53
+
+Attachment: 022819 MFS Final (3796 : February 2019 Monthly Financial Status Report)
+
+(In Thousands)
+
+1.C.3.a
+
+REGIONAL TRANSPORTATION DISTRICT
+1% SALES AND USE TAX REVENUE - SYSTEM WIDE
+FEBRUARY 28, 2019 - ESTIMATED
+(In Thousands)
+
+Actual
+Budget
+Favorable/(Unfavorable)
+
+February
+2018
+$ 46,355
+46,777
+
+$
+
+$
+
+(1,060)
+
+March
+2018
+$
+
+56,048
+
+April
+2018
+$
+
+53,040
+
+May
+2018
+$
+
+55,067
+
+June
+2018
+$
+
+59,058
+
+July
+2018
+$
+
+56,442
+
+August
+2018
+$
+58,738
+
+September
+2018
+$
+57,139
+
+October
+2018
+$
+57,786
+
+November
+2018
+$
+56,391
+
+December
+2018
+$
+63,776
+
+Total Year
+To Date
+$ 93,364
+668,331
+
+(422)
+
+% Favorable/(Unfavorable) - Month
+
+-2.2%
+
+-0.9%
+
+% Favorable/(Unfavorable) - YTD
+
+-2.2%
+
+-0.9%
+
+2019 VS. 2018 ACTUALS
+Net Sales & Use Tax Received
+
+January
+
+February
+
+2019
+2018
+
+$
+
+47,010
+45,085
+
+$ 46,355
+43,872
+
+Change from to 2018
+
+$
+
+1,925
+
+$ 2,482
+
+% Increase/(Decrease) by Month vs. 2018
+
+4.3%
+
+5.7%
+
+% Increase YTD vs. 2018
+
+4.3%
+
+5.7%
+
+March
+$
+
+52,568
+
+April
+$
+
+50,943
+
+May
+$
+
+52,889
+
+June
+$
+
+56,722
+
+$
+
+July
+
+August
+
+September
+
+October
+
+November
+
+December
+
+53,363
+
+$
+
+$
+
+$
+
+$
+
+$
+
+55,534
+
+54,022
+
+54,112
+
+52,805
+
+59,721
+
+Total
+$
+
+93,363
+631,637
+
+Packet Pg. 54
+
+Attachment: 022819 MFS Final (3796 : February 2019 Monthly Financial Status Report)
+
+2019 ACTUAL VS. BUDGET
+January
+2018
+$ 47,010
+48,069
+
+1.C.3.a
+
+REGIONAL TRANSPORTATION DISTRICT
+RIDERSHIP
+(UNAUDITED)
+
+2019 RIDERSHIP (in Thousands)
+
+Fixed Route
+Flatiron Flyer
+FlexRide & Special Services
+Total Bus Service
+
+Jan
+-
+
+C Line
+D Line
+E Line
+F Line
+H Line
+L Line
+R Line
+
+W Line
+Total Light Rail
+A Line
+B Line
+G Line
+Total Commuter Rail
+Total Revenue Service
+
+Feb
+-
+
+Mar
+-
+
+Apr
+-
+
+May
+-
+
+June
+-
+
+July
+-
+
+Aug
+-
+
+Sep
+-
+
+Oct
+-
+
+Nov
+-
+
+Dec
+-
+
+YTD 2019
+-
+
+YTD 2018
+9,456
+514
+87
+10,057
+
+-
+
+460
+594
+661
+478
+838
+143
+313
+675
+
+(460)
+(594)
+(661)
+(478)
+(838)
+(143)
+(313)
+(675)
+
+-100.0%
+-100.0%
+-100.0%
+-100.0%
+-100.0%
+-100.0%
+-100.0%
+-100.0%
+
+-
+
+Change
+% Change
+(9,456)
+-100.0%
+(514)
+-100.0%
+(87)
+-100.0%
+(10,057)
+-100.0%
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+4,164
+
+(4,164)
+
+-100.0%
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1,027
+84
+-
+
+(1,027)
+(84)
+-
+
+-100.0%
+-100.0%
+0.0%
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1,111
+
+(1,111)
+
+-100.0%
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+15,333
+
+(15,333)
+
+-100.0%
+
+(1,542)
+(145)
+(121)
+(23)
+(33)
+(1,864)
+
+-100.0%
+-100.0%
+-100.0%
+-100.0%
+-100.0%
+-100.0%
+
+(17,197)
+
+-100.0%
+
+Mall Shuttle
+MetroRide
+Access-a-Ride
+Access-a-Cab
+Vanpool
+Total Other Services
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1,542
+145
+121
+23
+33
+1,864
+
+Total System
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+17,197
+
+Note: 2019 ridership is not currently available due ot the migration to APC reporting.
+
+Packet Pg. 55
+
+Attachment: 022819 MFS Final (3796 : February 2019 Monthly Financial Status Report)
+
+Not Available
+
+1.C.3.a
+
+REGIONAL TRANSPORTATION DISTRICT
+FASTRACKS INTERNAL SAVINGS ACCOUNT (FISA)
+
+2019 RECOMMENDED BUDGET
+Actual
+
+Estimated
+
+Risk Level
+-------------
+
+2013-2016
+-----------------
+
+2017
+-----------------
+
+2018
+-----------------
+
+2019
+-----------------
+
+2013-2019
+-----------------
+
+Estimated in
+MRP 2020-2024
+-----------------
+
+Estimated in LRP
+2025-2030
+-----------------
+
+Estimated in LRP
+2031-2040
+-----------------
+
+Medium
+Medium
+Medium
+Low
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+Total
+-------------
+
+IDENTIFIED SOURCES:
+Limit Fastracks funding increases for bus and paratransit expansion to CPI
+Reduce FasTracks Minimum Unrestricted Fund Balance from $150 million
+Reduce FasTracks Operating and Maintenance Fund Balance from 3 to 2 months
+Defer the Union Pacific Railroad (UPRR) relocation for the SW Corridor Extension
+Achieve project underruns on FasTracks projects currently under contract 1
+
+14,902
+8,000
+9,000
+
+9,716
+(8,000)
+-
+
+11,487
+-
+
+13,377
+-
+
+49,482
+9,000
+
+94,713
+-
+
+138,970
+-
+
+273,651
+-
+
+$
+
+556,816
+9,000
+
+Low
+
+18,253
+
+7,551
+
+15,000
+
+-
+
+40,804
+
+-
+
+-
+
+-
+
+40,804
+
+Sales and lease opportunities for all RTD properties 2
+Request local financial participation in projects above the current 2.5%
+Restore FISA drawdowns for operations between 2025-2030 3
+
+Low
+Low
+
+9,659
+3,512
+
+4,419
+8,333
+
+10,333
+
+-
+
+14,078
+22,178
+
+-
+
+-
+
+-
+
+14,078
+22,178
+
+Low
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+16,601
+
+-
+
+16,601
+
+FasTracks sales and use tax collections above adopted budget 4
+Sales tax audit/parity
+
+Low
+Low
+
+-
+
+-
+
+3,207
+-
+
+-
+
+3,207
+-
+
+-
+
+-
+
+-
+
+3,207
+-
+
+63,326
+
+22,019
+
+40,027
+
+13,377
+
+138,749
+
+94,713
+
+155,571
+
+273,651
+
+662,684
+
+(958)
+(15,300)
+(3,512)
+
+(776)
+(7,038)
+(8,333)
+
+(379)
+(10,333)
+
+(4,016)
+-
+
+(6,129)
+(22,338)
+(22,178)
+
+-
+
+(33,304)
+-
+
+-
+
+(39,433)
+(22,338)
+(22,178)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(16,601)
+
+-
+
+(16,601)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(19,770)
+
+(16,147)
+
+(10,712)
+
+(4,016)
+
+(50,645)
+
+-
+
+(49,905)
+
+-
+
+(100,550)
+
+Total Sources
+
+IDENTIFIED USES:
+US36 Project draws 1
+North Metro Project draws
+Southeast Rail Extension (SERE) Project draws
+Debt service and operations funding 1,3
+Return to 3 months O&M Fund Balance 1
+Total Uses
+
+Net Sources and Uses
+
+$
+
+43,556
+
+$
+
+5,872
+
+$
+
+29,315
+
+$
+
+9,361
+
+$
+
+88,104
+
+$
+
+94,713
+
+$
+
+105,666
+
+$
+
+273,651
+
+$
+
+562,134
+
+FasTracks Internal Savings Account Balance
+
+$
+
+43,556
+
+$
+
+49,428
+
+$
+
+78,743
+
+$
+
+88,104
+
+$
+
+88,104
+
+$
+
+182,817
+
+$
+
+288,483
+
+$
+
+562,134
+
+$
+
+562,134
+
+1
+
+Includes approved changes from 2019-2024 Midrange Financial Plan and Long Range Plan adopted in October 2018.
+
+2
+
+Sale of Civic Center air rights for $8,063 less $2,500 cost of NAMS study - these are Base System funds; plus Fort Lupton property sale of $4,096; plus Alameda property sale of $5,140
+
+3
+
+The Long Range Financial Plan adopted in 2018 restores funds drawn from the FISA for operations and debt service to the FISA to the extent of available funding in FasTracks.
+
+4
+
+The transfer of FasTracks sales and use tax revenues in excess of the annual adopted budget to the FISA was approved by the Board in October 2016.
+
+Packet Pg. 56
+
+Attachment: 022819 MFS Final (3796 : February 2019 Monthly Financial Status Report)
+
+(In Thousands)
+
+1.C.4
+
+BOARD OF DIRECTORS REPORT
+To:
+
+David A. Genova, General Manager and CEO
+
+From:
+
+Heather McKillop,
+Administration
+
+Date:
+
+April 3, 2019
+
+Subject:
+
+2019 Fare Implementation Update
+
+CFO/AGM,
+
+Finance
+
+Date: April 3, 2019
+&
+
+GM
+Board Meeting Date: April 9, 2019
+Information
+
+BACKGROUND
+RTD commits to reviewing its Fare Structure and Fare Programs every three years to determine if any
+additions or changes are required to provide the best options for RTD ridership and meet RTD’s revenue
+targets. Over 20 months ending in mid-2018, the Pass Working Group and RTD staff reviewed all fares
+and fare programs to define potential fare changes and improvements. RTD staff presented a
+recommendation to the RTD Board of Directors and received approval mid-September 2018. The goal of
+this project is to implement changes to the RTD Fares, Fare Structure, and changes and additions to the
+Fare Programs as approved by the RTD Board of Directors.
+DISCUSSION
+The 2019 fare changes were implemented as scheduled and we are now focusing on the low income
+fare program development.
+RTD is working with the State’s Office of Information Technology (OIT) to implement a program for
+evaluating RTD riders’ eligibility for the low income program using the State’s public benefits application
+system, PEAK. RTD staff has been meeting with employees from various departments and OIT every
+week for several months.
+The following has been completed:
+
+
+
+
+The Business Requirements Document (BRD) has been finalized.
+The BRD provides the
+requirements necessary for OIT to develop the RTD application within the PEAK system.
+Marketing has completed the MyRide card design and final proofs have gone to the smart card
+vendor for production.
+The technical design document for the development of the LiVE program software in PEAK has
+been completed.
+
+Marketing and Outreach Advisory Group:
+The Marketing and Outreach Advisory Group was formed to help RTD effectively market and address
+stigma associated with the LiVE program. The advisory group comprised of leaders from various
+stakeholder groups such as: NAACP, Mile High Connects, Warren Village, Denver Human Services, and
+Colorado Coalition for the Homeless.
+In the first two meetings, the group discussed the harm of deficit language and developed five core
+values for the development of the marketing plan. The group used these core values to help RTD align
+the marketing plan with the true intent of the program and minimize stigma. Those core values were:
+ Access
+
+Packet Pg. 57
+
+1.C.4
+
+
+
+
+
+
+Community
+Inclusivity
+Helpfulness
+Eco-friendly
+
+After careful consideration of the advisory group’s recommendations, RTD sought feedback on options
+for the program name including “LiVE.” The group stated that “LiVE” aligned best with the advisory
+group’s core values, better reflecting the intent to support the vitality of the community. Further, we
+tapped into the group’s intimate experience serving and marketing to the intended market. The group left
+us with a list of best marketing practices, effective channels of communication, and a commitment to
+continue to engage and advise RTD as needed.
+The LiVE Program MyRide card is the first card to use RTD’s newly established design guidelines. All
+smart cards will follow these same design guidelines in the future. The intention is to establish
+consistency in the display of RTD’s brand. This card is leading the migration of all cards to the new
+guidelines. Feedback regarding the final name and card design was positive. The group voiced being
+pleased with the process, facilitator, and the representation of their recommendations in the final name
+and card design. See attached PowerPoint for more information.
+Next Steps:
+
+
+
+
+
+
+Finalize the intergovernmental agreement between the State and RTD for development,
+processing, and data storage. (Board Approval requested in April)
+Continue evaluation of options for production of LiVE ID cards.
+Continue evaluating options to verify household income of applicants who are not enrolled in
+certain food, medical, or cash assistance programs.
+Continue evaluating options to provide customer service to LiVE applicants.
+Planning for the programming changes in the MyRide web portal and back office systems, mobile
+ticketing, and development of brochures.
+
+2019 Approved Changes Summary:
+
+
+
+
+
+
+
+
+
+Cash Fare: $3 Local / $5.25 Regional / $10.50 Airport.
+3-Hour Pass: These fares allow riders to travel for three hours in any direction. This change
+replaces the three-hour one-way transfer or ticket.
+Retain ticket book and MyRide discount with modifications (Riders purchasing a 10-ride ticket
+book or paying with a MyRide smart card will receive a discount)
+The youth discount will increase from 50 percent to 70 percent and will be solely age-based
+(ages 6-19).
+Utilization pricing for pass programs: Pricing for EcoPass, Neighborhood EcoPass, and CollegePass
+will now be priced based upon trips taken.
+EcoPass: Other updates to pricing based on changes in service levels and employer categories.
+FlexPass: Discontinue program discount. Employers and employees pay regular monthly pass
+price.
+New Low-Income Program (Targeting Summer 2019)
+
+ATTACHMENTS:
+
+
+LiVE PROGRAM - Process behind the name (003)
+
+(PPTX)
+
+Packet Pg. 58
+
+1.C.4
+
+Prepared by:
+Heather McKillop, CFO/AGM, Finance & Administration
+Monika Treipl-Harnke, Sr, Manager of Revenue
+Approved by:
+
+Packet Pg. 59
+
+TheTheLiVE
+Program
+process behind the name
+TRANSIT EQUITY
+
+Attachment: LiVE PROGRAM - Process behind the name (003) (3801 : 2019 Fare Implementation Update)
+
+1.C.4.a
+
+Packet Pg. 60
+
+Attachment: LiVE PROGRAM - Process behind the name (003) (3801 : 2019 Fare Implementation Update)
+
+1.C.4.a
+
+Recognizing the Power of Stigma
+RTD recognizes stigma could harm those the LiVE program is intended to help.
+
+Inappropriate
+Marketing
+
+Low Adoption Rates
+
+Low-income riders subjected to a
+higher fare, compromising equity
+
+Packet Pg. 61
+
+Attachment: LiVE PROGRAM - Process behind the name (003) (3801 : 2019 Fare Implementation Update)
+
+1.C.4.a
+
+Advisory Group Members
+To address the potential adverse effects of stigma, experts in serving and
+marketing to low-income and marginalized populations were selected to
+participate in the Marketing and Outreach Advisory Group.
+Name
+Celia Herrera
+(Facilitator)
+
+Organization(s)
+
+Name
+
+Organization(s)
+
+HUMN Media
+
+Demetrius
+Rayden Johnson
+
+NAACP | DSquared Financial
+Strategies, Public Benefit Corp.
+
+Patrick Efferson
+
+Rocky Mountain Microfinance
+Institute
+
+Rebecca Zemora Adams County Neighborhood Liaison
+Victoria Aguilar
+
+Denver Human Services
+
+Rocio Franco
+
+Cultivando
+
+Julie Smith
+
+Denver Human Services
+
+Javier Banuelos
+
+Mi Casa Resource Center
+
+Shannon Pursley Warren Village
+Terry Liggins
+
+Mile High Connects & Montbello
+Organizing Committee
+
+Marcus Weaver
+
+Transition from Jail to Community
+Collaborative & Colorado Coalition for
+the Homeless
+
+Jalene Salazar
+
+Servicios de La Raza
+
+Julia Mecklenburg Colorado Access
+Ben Weeda
+
+BalanCEO
+
+Nicole Portee
+(PPWG Member)
+
+Denver Public Schools,
+Transportation
+
+Dionne Williams
+(PPWG Member)
+
+Office of Children Affairs
+
+Jenee Donelson
+
+Rocky Mountain Bus Riders Union
+
+Vicente Cardona
+
+Mile High Health Alliance
+
+Itzel Hernandez
+
+Growing Home
+
+Victoria Aguilar
+
+Denver Human Services
+
+Packet Pg. 62
+
+Advisory Group Members (cont.)
+
+** Not all
+Advisory Group
+Members are
+pictured **
+
+Packet Pg. 63
+
+Attachment: LiVE PROGRAM - Process behind the name (003) (3801 : 2019 Fare Implementation Update)
+
+1.C.4.a
+
+Attachment: LiVE PROGRAM - Process behind the name (003) (3801 : 2019 Fare Implementation Update)
+
+1.C.4.a
+
+Process + Timeline
+Meetings were held with Advisory group and Internal group to manage expectations,
+ensure clear communication, and to build an inclusive decision making process.
+
+Packet Pg. 64
+
+Attachment: LiVE PROGRAM - Process behind the name (003) (3801 : 2019 Fare Implementation Update)
+
+1.C.4.a
+
+Key Objectives
+• Address and minimize
+stigma
+• Recommend a program
+name
+• Stay within RTD Branding
+Guidelines
+• Seek feedback on card
+design
+
+Packet Pg. 65
+
+Core Values Defined
+The group created Core Values for what would be most representative of the program’s
+purpose and values.
+
+CORE VALUES
+ACCESS
+COMMUNITY
+INCLUSIVE
+HELPFUL
+ECO-FRIENDLY
+
+Packet Pg. 66
+
+Attachment: LiVE PROGRAM - Process behind the name (003) (3801 : 2019 Fare Implementation Update)
+
+1.C.4.a
+
+Attachment: LiVE PROGRAM - Process behind the name (003) (3801 : 2019 Fare Implementation Update)
+
+1.C.4.a
+
+Final Decision
+The LiVE Program MyRide card is the first card to use RTD’s newly established design
+guidelines. All smart cards will follow these same design guidelines in the future. The
+intention is to establish consistency in the display of RTD’s brand. This card is leading the
+migration of all cards to the new guidelines.
+
+Packet Pg. 67
+
+Attachment: LiVE PROGRAM - Process behind the name (003) (3801 : 2019 Fare Implementation Update)
+
+1.C.4.a
+
+Final Decision - Feedback
+Feedback regarding the final name and card design was positive. The group voiced
+being pleased with the process, facilitator, and felt like their recommendations were
+represented in the final name and card design.
+Regarding Card Name:
+
+Regarding Card Design:
+
+• This name has a positive tone.
+
+• We like the clean look.
+
+• We can see how ads and messaging for this
+program can be used to encourage people
+to utilize the program.
+
+• It’s good this card will be like
+all other MyRide cards in the
+future.
+
+• Potential to humanize those that have the
+LiVE MyRide Card.
+• Pronunciation may be an issue but that will
+be okay – it doesn’t take away from the
+larger message and create marketing can
+help with this.
+
+Packet Pg. 68
+
+

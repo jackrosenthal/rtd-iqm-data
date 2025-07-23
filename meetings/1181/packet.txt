@@ -1,0 +1,4817 @@
+1600 Blake Street
+Denver, CO 80202-1399
+303-299-2303
+
+Regional Transportation District
+
+Board of Directors
+Chair – Lorraine Anderson, District L
+First Vice Chair – Kent Bagley, District H
+Second Vice Chair – Larry Hoy, District J
+Secretary – Bruce Daly, District N
+Treasurer – Jeff Walker, District D
+Barbara Deadwyler, District B
+Dr. Claudia Folska, District E
+Bill James, District A
+Gary Lasater, District G
+Judy Lubow, District I
+
+Natalie Menten, District M
+Angie Rivera-Malpiede, District C
+Chuck Sisk, District O
+Paul Daniel Solano, District K
+Tom Tobiassen, District F
+
+AGENDA
+Operations & Customer Service Committee
+Tuesday, June 18, 2013
+Rooms R, T, & D
+5:30 PM
+Conference Dial-in # 303-299-2663
+Conference ID: 15120
+
+Operations and Customer Service Committee
+Chaired by Tom Tobiassen
+
+A. Call to Order
+B. Recommended Actions
+
+• Approval for Increase in Contract Not-to-Exceed Amount for Smart Card
+Program
+
+• Board Report August 2013 Service Changes
+C. Updates
+
+• Special Services 1st Qtr 2013 Report
+• Customer Complaint Analysis 1st Quarter 2013
+• Contracted Fixed-Route Quarterly Report – 1st Quarter 2013
+• Access-a-Ride 1st Quarter 2013 Report
+
+• Radio and Computer Aided Dispatch and Automatic Vehicle Location
+(CAD/AVL) Project Status Update
+
+• Smart Card Project Status Update
+• 1st Quarter 2013 Security Statistics & Fare Inspection Summary
+D. Other Matters
+E. Next Meeting Date - July 9, 2013
+F. Adjourn
+
+The following communication assistance is available for public meetings:
+ Language Interpreters
+ Sign-language Interpreters
+ Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 hours in advance of a RTD
+meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+1.B.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: June 12, 2013
+
+From:
+
+Terry Howerter, Chief Financial Officer
+
+GM
+
+Date:
+
+June 11, 2013
+
+Board Meeting Date: June 18, 2013
+
+Subject:
+
+Approval for Increase in Contract Not-toExceed Amount for Smart Card Program
+
+RECOMMENDED ACTION
+It is recommended by the Operations and Customer Services Committee that the Board of Directors
+authorize the General Manager, or his designee, to increase the current contract not-to-exceed amount
+by $1,719,512.81 with Xerox, Inc. (Formerly ACS Transportation Solutions, Inc.). The total new
+contract not-to-exceed amount is $17,381,470.23.
+BACKGROUND
+The Smart Card Implementation transitioned EcoPass, CollegePass, and NeighborhoodPass programs
+from cards with decals to electronic smart cards this past January, 2013. The next phase of the
+Smart Card Program is to transition all other retail pass products to stored value on MyRide Smart
+Cards. RTD Retail Sales locations will begin selling the MyRide products in fall of 2013, while the
+retail network including King Soopers, Safeway and other retailers will begin selling the MyRide
+Products in spring of 2014.
+As the Smart Card Program progresses, additional equipment is required to provide for program and
+FasTracks advances, enhancements and growth. Therefore additional funds are needed to acquire
+and install a variety of equipment including:
+
+
+
+
+
+
+
+
+
+
+Installation of platform validators at existing rail stations
+Enhancements to the handheld smart media readers used by Fare Enforcement
+Integration costs to allow the CAD/AVL driver display to provide Smart Card information
+(eliminating the need for two driver displays)
+Modification of the mounting device on buses ensuring the bus validator is properly positioned
+for riders
+Maintenance terminals for maintaining all Smart Media validators at light rail locations
+Purchase of an additional Smart Media Encoder to provide redundancy needed at the
+Customer Service Center for producing cards.
+Purchase of additional smart media cards to meet the needs of current EcoPass and
+CollegePass holders through the end of 2013
+Purchase of additional Smart Media Validators over the course of several years to meet
+FasTracks expansion needs.
+Additional web portal enhancements to improve customer experience and management of
+their own MyRide card.
+
+DISCUSSION
+This equipment will ensure customers are provided convenient access to station platform validators as
+RTD’s use of the Smart Media increases. Additionally, the maintenance equipment and encoding
+equipment will allow RTD to improve customer service by more expediently addressing issues and
+producing cards.
+
+Packet Pg. 3
+
+1.B.1
+
+This equipment must be purchased by Xerox, Inc. for multiple reasons:
+
+
+
+
+The equipment is unique to the Xerox/RTD installed systems and it would be extremely
+difficult if not impossible to acquire from other vendors.
+The card purchase addresses demands for this year and future card purchases will be
+procured in an open competition.
+Xerox has developed the software for this specific equipment being used at transit agencies
+around the globe and have proven the stability and effectiveness of their product.
+
+FINANCIAL IMPACT
+The recommended action is based upon the estimated purchase of eight (8) maintenance terminals,
+one (1) Smart Media Encoder, 80,000 cards, 1500 hours of web portal development, 170 platform
+validators, installation of 24 platform validators, development hours to enhance the Handheld Smart
+Media Readers (HSMRs), development hours to create the CAD/AVL and Smart Card interface, and
+50 stanchion modifications. The funding is included in the Proposed 2014 - 2019 SBP Capital
+Program and the proposed 2013 Amended Budget Request.
+ALTERNATIVES
+1)
+Award the contract to Xerox, Inc., as recommended
+2)
+Do not purchase equipment. Validators would need to be reduced and redistributed
+from the existing locations, impairing convenience for customer to tap before boarding
+light rail. Not purchasing maintenance equipment will result in delayed response to
+validator issues. Not purchasing an encoder could result in lengthy delays of delivering
+cards ordered via the web due to equipment malfunction. Not purchasing smart cards
+in the near term could result in not having cards available for employers and colleges to
+distribute to their riders.
+3)
+A partial award to Xerox, Inc., for the validators, maintenance terminals and encoder,
+as recommended. Issue an RFP for bid on additional smart cards. An RFP is currently
+planned for distribution in June, 2013; however, the lengthy process for establishing
+the proper encoding of security keys will result in a shortage of cards prior to the end
+of 2013.
+
+Prepared by:
+Beverly Scott, IT Program Manager
+Judy McMurphy, IT Program Manager
+Approved by:
+
+Packet Pg. 4
+
+1.B.1
+
+Packet Pg. 5
+
+1.B.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: June 13, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+June 13, 2013
+
+Board Meeting Date: June 18, 2013
+
+Subject:
+
+Board Report August 2013 Service Changes
+
+RECOMMENDED ACTION
+It is recommended by the Operations/Customer Services Committee that the Board of Directors approve
+the proposed August 2013 Service Change as revised and summarized in Attachment A resulting in an
+annualized cost increase of $1,108,900 and, further, to authorize the General Manager or his designee
+to execute contract amendments as necessary for private operators whose services are impacted by
+these changes.
+DISCUSSION
+To meet the diverse travel needs of the citizens of the District and maintain a high-performance,
+sustainable transit system, RTD has developed a networked family of services for which the different
+classes of service have different expectations of performance. For this year we will continue adjusting
+services in response to changes in ridership and operational performance of the transit system as a
+whole while also focusing attention on the recent implementation of the West Corridor Light Rail Service
+and the associated bus service changes. Routine service changes not associated with or included in the
+West Corridor Service Plan are necessary to maintain system on-time performance and provide the
+appropriate level of service according to customer demand while we will also need to monitor customer
+response to the implementation of West Corridor bus and rail service and propose adjustments as
+appropriate.
+The proposed August 2013 Service Changes reflect the continued budgetary challenges faced by RTD.
+The guiding principles for service changes continue to be:
+ Service performance evaluation based on the RTD Service Standards;
+ The effects on the overall integrity of the transit network and on transit dependent markets;
+ The availability of alternative services to affected riders;
+ Cost-effective distribution throughout the District and Family of Services and the ability to
+enhance service when possible;
+ Title VI of the Civil Rights Act: benefits and services are provided without regard to race, color or
+national origin; also disparate effects on low income and minority populations; and
+ Response to changes in the communities where services are provided
+CHANGES TO INITIAL RECOMMENDATIONS
+Staff receives input during the public comment process and continues to conduct additional analysis
+after the initial service recommendations are proposed to the Board of Directors. Depending on the
+outcome of the public comment process and continued analysis, staff may or may not propose
+modifications to these initial recommendations. The following represent changes proposed to the service
+changes initially proposed to the Board of Directors for implementation as part of August 2013 service
+changes:
+Route 10 – East 12th Avenue: add one Weekday AM trip eastbound
+Route 88 – Thornton/Commerce City/Stapleton: schedule adjustments
+Route 89 – Stapleton/Anschutz Campus: schedule adjustments
+W-Line – Light Rail: schedule adjustments
+
+Packet Pg. 6
+
+1.B.2
+
+SUMMARY OF PROPOSED SERVICE CHANGES
+Service Reductions
+Route KC – KenCaryl/Federal Center: discontinued as of May 28, 2013 and replaced by reinstatement of
+Route 116X
+
+Packet Pg. 7
+
+1.B.2
+
+Mixed Service Reductions/Service Increases
+Route 9 – West Tenth Avenue: school tripper discontinued (offset against Route 100W trippers)
+Route 76 – Wadsworth Crosstown: cut routing back to Broomfield Park-n-Ride
+Route 225 – Boulder/Broomfield via Baseline: extend routing to Broomfield Park-n-Ride
+Route 87X – South Wadsworth Express: reinstate service discontinued April 2013
+Route 100X – Kipling Express: reinstate service discontinued April 2013
+Route 116X – South Simms Express: reinstated as of May 28, 2013
+Route 121 – Peoria Street: reduce peak frequency in DTC and add NB trips from Nine Mile
+Route 130 – Yale/Buckley: modify service through Heather Gardens
+Route 228 –Louisville/Broomfield: discontinue trip on Sunday add trip on Saturday
+Service Increases
+Route 6 – East 6th Ave/North Pecos: extend westbound am trip
+Route 12 – Downing/North Washington : add 3:20pm northbound trip
+Route 14 – West Florida: extend a weekday trip
+Route 16 – West Colfax: add service to increase capacity
+Route 17 – Red Rocks College: add a morning roundtrip
+Route 21 – Evans Avenue: add 7:21am westbound trip from Centrepoint & Sable
+Route 100 – Kipling Crosstown: reroute to serve 8th Parfet
+Route 120X – Thornton/Wagon Road Express: add a southbound morning trip
+Route 133 – Hampden/Tower: add 4:41am southbound trip from Centrepoint/Sable
+Route 153 – Chambers Road: extend northbound evening service one hour later
+Route 323 – Skyline Crosstown: reroute north-end layover/recovery location
+Route SKIP – Broadway: add one school tripper
+Routine Service Adjustments
+Route 10 – East 12th Avenue: schedule adjustments add AM trip
+Route 46 – Cherry Creek/Dahlia/DTC: schedule adjustments
+Route 88 – Thornton/Commerce City/Stapleton: schedule adjustments
+Route 89 – Stapleton/Anschutz Campus: schedule adjustments
+Route 131 – Iliff: reroute off of Vaughn Way between Iliff and Yale
+Route 204 – Table Mesa/Moorhead/North 19th : running time adj., remove Vassar Loop
+Route 209 – CU/Table Mesa PnR: re-route back through CU campus
+Route 225 – Boulder/Lafayette Via Baseline: schedule adjustments
+Routes CV/CS/CX – Pine Junction/Conifer/Denver: new Pine Junction Park-n-Ride opened
+Route DASH – Boulder/Lafayette via Louisville: relocate recovery area
+Route JUMP – Boulder/Lafayette via Arapahoe: schedule adjustments
+W-Line Call-n-Rides: Belmar, Golden and Green Mountain: service adjustments
+W-Line Light Rail: schedule adjustments
+Seasonal Service Adjustments
+School trippers reinstated
+Seasonal schedule adjustment to fall/spring schedule on Routes SKIP, JUMP, BOUND, DASH
+FINANCIAL IMPACT
+The financial impact contained in this proposal is estimated at an annualized $1,108,900.
+ATTACHMENTS:
+
+
+Board Report August 2013 Service Change Committee Final Atch A
+
+(DOCX)
+
+Packet Pg. 8
+
+1.B.2
+
+Prepared by:
+Jessie Carter, Manager, Service Planning and Scheduling
+Approved by:
+
+Packet Pg. 9
+
+1.B.2.a
+
+Route 6 – East 6th Ave/North Pecos
+Extend 8:00am weekday westbound trip from 8th/Colorado to instead originate at
+Centrepoint & Sable Transfer Center at 7:21am. Relieves overloads on the following trip
+at 7:36am from Centrepoint & Sable. The cost is estimated to be $10,300 annualized
+Route 9 – West Tenth Avenue
+School trippers would be discontinued due to parallel Light Rail service. (Offset against
+part of cost of Route 100W trippers added.)
+Route 10 – East 12th Avenue
+Schedule adjustments and add an additional trip eastbound to address passenger
+overloads.
+The cost is estimated to be $6,900
+Route 12 – Downing/N Washington
+Add 3:20pm northbound trip from Downing/Colfax to 106th/Melody, relieving overloads
+on the following trip. Cost impact estimated at $8,300 annualized.
+Route 14 – West Florida
+It is proposed to extend the weekday trip that (in April) starts at Wadsworth/West
+Arkansas at 6:39 a.m. to instead begin service at Lakewood Commons at 6:24 a.m.
+Estimated cost are projected to be $2,600 annualized
+Route 16 – West Colfax
+Peak and midday overloads are occurring at a level which clearly exceeds RTD service
+standards. These overloads occur on a regular basis on the link between Decatur-Federal
+Station and the Civic Center. This segment carries a heavy burden of social services and
+court traffic throughout the day, with space needed for disabled customers and strollers or
+walkers. West between Decatur-Federal Station and Wadsworth, peak period overloads
+are occurring, but more data is needed in order to place extra trips.
+RTD will add shuttle trips as soon as possible (June 9, 2013) to lead every Route 16 trip
+between Decatur-Federal and the 10th/Broadway route terminal on weekdays between the
+hours of 6:15 a.m. and 6:30 p.m. This will not only add back capacity, but also improve
+W-Line connections for Civic Center with matching headways, making the use of Light Rail
+more practical for trips west of Federal.
+Proposed for August runboard:
+It is proposed to extend peak period extra service to the Zephyr Street terminal
+(Wadsworth Blvd.) and to extend one additional AM trip from Golden to Oak Station and
+one additional PM trip from Oak Station to Golden. Projected cost impacts for this proposal
+total $840,000 and 8 peak buses, including requirements for the Golden trip extensions.
+
+Packet Pg. 10
+
+Attachment: Board Report August 2013 Service Change Committee Final Atch A (1617 : Board Report August 2013 Service Changes)
+
+Attachment A
+June 18, 2013
+Page 1
+
+1.B.2.a
+
+Route 17 – Red Rocks College
+With the extension to Indiana Street, the span of service that was appropriate for college
+hours begins too late for most commuting purposes. It is proposed to add a round-trip
+from Federal Center Station to Indiana Street on weekdays at 5:37 a.m. Estimated
+weekday cost $5,200 annualized weekday
+Route 21 – Evans Avenue
+Add 7:21am westbound trip from Centrepoint & Sable to Evans Station. Relieves
+overloads on both the 7:06am and 7:36am westbound trips. Weekday cost impact
+estimated at $15,500
+Route 46 – Cherry Creek/Dahlia/DTC
+Running time analysis and schedule adjustments.
+No cost impacts anticipated
+Route 76 – Wadsworth Crosstown
+Route 225 – Boulder/Broomfield via Baseline
+Cut weekday routing of the Route 76 back from Lafayette to US 36 & Broomfield PnR.
+Replace current Route 76 service with Route 225 extension from Broomfield to Lafayette
+PnR. Extend Route 225 to US 36 & Broomfield PnR from Lafayette PnR, hourly headway,
+weekday only, to replace current Route 76 segment. No cost impacts are anticipated.
+Route 87X –South Wadsworth Express
+The former Route 87 Express had three trips into CCS in the morning peak and three trips
+out from CCS in the afternoon peak. It averaged 128 boardings. The portion of the route
+west of Wadsworth near Hampden was replaced by Route 30Ltd, which has twice as long
+a span of service and a one-seat ride to the center of Downtown, as well as good transfer
+connections to the Union Station and Civic Center. Although slower than Route 87X, that
+portion of the change has received little criticism.
+It is proposed to restore the route on its former alignment, with the exception of the
+segment south of Yale Avenue, which was replaced by Route 30Ltd. That portion would
+be replaced by running on Wadsworth to and from the Wadsworth & Hampden Park-nRide.
+Requirements for restoring the route, based on the August 2012 Service Recap with
+interlines, rounded up to 2 peak buses and $82,800 annualized.
+Route 88 – Thornton/Commerce City/Stapleton
+Schedule adjustments. No cost anticipated
+Route 89 – Stapleton/Anschutz Campus
+Schedule adjustments. No cost anticipated
+
+Packet Pg. 11
+
+Attachment: Board Report August 2013 Service Change Committee Final Atch A (1617 : Board Report August 2013 Service Changes)
+
+Attachment A
+June 18, 2013
+Page 2
+
+1.B.2.a
+
+Route 100 – Kipling Crosstown
+A deviation from the current route on Quail Street is proposed to bring service closer to
+the new Jefferson County Public Health location at 645 Parfet Street. Both northbound
+and southbound buses would loop from Quail & Eighth via West Eighth Avenue, Parfet
+Street, West Sixth Avenue Access Road and Quail Street. A minor adjustment would be
+made in the Route 100W – North Kipling school tripper service to mesh with this change.
+No cost impacts are anticipated.
+Route 100X – South Kipling Express
+The former Route 100X had four trips into Civic Center Station (CCS) in the morning peak
+and five trips out from CCS in the afternoon peak. It averaged 191 boardings. Its service
+pattern was replicated by the Route 100Ltd at all of the neighborhood walk-on stops made
+by Route 100X, as well as at the Ken Caryl Park-n-Ride. Route 100Ltd is heavily interlined
+and would require time changes for conversion to Route 100X.
+In order to maintain connectivity for non-Civic Center Station bound riders, it is proposed
+to re-create Route 100X via the Route 100Ltd alignment between Ken Caryl Park-n-Ride
+and Federal Center Station, and via the Regional routes alignment between Federal Center
+Station and Civic Center, with a short dwell at Federal Center Station (FCS). Minor
+schedule adjustments would be made. The fifth (final) trip in the evening would operate
+between FCS and Ken Caryl and the reverse peak trips would also operate only between
+FCS and Ken Caryl and return.
+Requirements for revising the route, incremental to the current costs for Route 100Ltd and
+for special service that is replacing Route KC, are estimated at 1 peak bus and 6 weekday
+hours. Gate assignments would be adjusted at Federal Center Station. The newly
+implemented Route CS – Civic Center Station to Federal Center Station short turns trips
+would be reduced where replaced by Route 100X. Annualized weekday cost estimated to
+be $76,400
+Route 116X – South Simms Express
+The reinstated Route 116X would be maintained as restored; with further modification
+anticipated in January 2014, when Route 116Ltd and the Green Mountain call-n-Ride
+service can be analyzed. The cost of reinstating this service is estimated at $76,400
+annualized.
+Route 120X – Thornton/Wagon Road Express
+It is proposed to add a SB AM trip from Thornton Park-n-Ride at about 8:40am, to alleviate
+the consistent 20+ passenger overloads on the current 8:45am SB trip. Weekday cost
+impact estimated to be $12,700.
+Route 121 – Peoria Street
+Reduce peak frequency between Nine Mile Station and Ulster/Tufts from every 15 to every
+30 minutes. Ridership on peak direction trips averages between 2 and 3 passengers/trip.
+Savings = 5.0 hours.
+
+Packet Pg. 12
+
+Attachment: Board Report August 2013 Service Change Committee Final Atch A (1617 : Board Report August 2013 Service Changes)
+
+Attachment A
+June 18, 2013
+Page 3
+
+1.B.2.a
+
+Add 1:37pm and 2:07pm northbound trips from Nine Mile, and 1:45pm southbound trip
+from Montbello, to relieve standing loads on current 30 minute midday frequency. Cost:
+3.7 hours weekday.
+Anticipated weekday savings estimated to be $13,400 annualized
+Route 130 – Yale/Buckley
+Modify service through Heather Gardens as follows:
+Weekdays southbound, service will operate via Yale and Peoria to Nine Mile Station during
+the AM peak and evenings after 7:00pm. Service will operate via Heather Gardens midday
+and PM peak.
+Weekdays northbound, service will operate via Heather Gardens during the AM peak and
+midday, and via Peoria and Yale during the PM peak and evenings.
+All Saturday, Sunday, and holiday service will operate via Yale and Peoria.
+No cost impact anticipated.
+Route 131 – Iliff
+Reroute off of Vaughn Way between Iliff and Yale, use Abilene instead.
+neighborhood impact on Vaughn Way, will better serve future Iliff LRT Station.
+No cost impact anticipated.
+
+Eliminates
+
+Route 133 – Hampden/Tower
+Add 4:41am southbound trip from Centrepoint/Sable (feeds H-Line train at 5:23am), and
+add 4:55am and 5:25am northbound trips from Nine Mile (this productive route – 35
+boardings/hour - does not start northbound service until nearly 6:00am currently).
+Weekday cost impacts estimated to be $23,800 annualized.
+Route 153 – Chambers Road
+Extend northbound evening service one hour later to 11:42pm from Arapahoe Crossing.
+Cost impacts estimated to be $14,500 annualized.
+Route 204 – Table Mesa/Moorhead/North 19th
+Running time adjustment; remove Vassar loop. No additional cost impact anticipated
+Route 209 – CU/Table Mesa PnR
+Re-route back through CU campus, via clockwise routing along Regent and Colorado to
+alleviate overloads occurring on Route Stampede; move south-end layover to Manhattan
+Circle, due to City of Boulder installation of a traffic signal at South Boulder Road.
+Remove the ‘Adams Circle’ loop and service to Golden West from the route. Golden West
+is served by VIA, special services.
+No cost impact anticipated
+Route 225 – Boulder/Lafayette Via Baseline
+Schedule adjustment weekday, Saturday and Sunday. No cost anticipated.
+
+Packet Pg. 13
+
+Attachment: Board Report August 2013 Service Change Committee Final Atch A (1617 : Board Report August 2013 Service Changes)
+
+Attachment A
+June 18, 2013
+Page 4
+
+1.B.2.a
+
+Route 228 –Louisville/Broomfield
+Discontinue first Sunday morning southbound morning trip and add a Saturday southbound
+PM trip from Flatiron Mall to US 36 & Broomfield Park-n-Ride. No cost impact anticipated.
+Route 323 – Skyline Crosstown
+Reroute north-end layover/recovery location to Pace/17th SB, FS and remove current
+Deerwood loop, due to constituent complaints received; create deadhead for NB to SB
+north-end turn-around via Pace, Olympia, Pace routing. In addition, due to a request by the
+City of Longmont, it is proposed to add an AM school tripper on this route by using the
+current BOLT block 27 pull-out. Weekday annualized cost estimated to be $5,300
+Routes CV/CS/CX – Pine Junction/Conifer/Denver
+It is expected that the new Pine Junction Park-n-Ride will be opened during this Fall.
+Minor schedule adjustments will be made in preparation for this change. Weekday cost
+impact estimated to be $5,900 annualized.
+Route DASH – Boulder/Lafayette via Louisville
+The city of Boulder is installing a traffic signal at South Boulder Road and Manhattan Circle
+which will allow RTD to move the layover/recovery for Route Dash short-turn trips back to
+the former location. It is therefore proposed to change the current layover from Table
+Mesa PnR back to Manhattan Circle, for the DASH short-turn trips.
+No cost impact anticipated
+Route JUMP – Boulder/Lafayette via Arapahoe
+It is proposed to remove the excess layover at Erie Community Center in the mid-day and
+balance the current trips at Lafayette PnR, WB to ½ hour frequency; will result in some
+mid-day schedule adjustments. No resource impact anticipated.
+Route KC – Ken Caryl/FC/Denver
+This service has been cancelled in favor of operating reinstated service on the Route 116X
+– South Simms Express. The annualized savings of $70,300 would be used to operate the
+6 weekday trips (3 in each peak period) on the Route 116X.
+Route SKIP – Broadway
+It is proposed to add one school tripper in the PM from Fairview High School to
+Broadway/Walnut at 3:29pm (or as warranted by the BVSD bell-times) due to overloads on
+the current 3:25pm trip. Additionally it is proposed that schedule adjustments be made to
+the weekday afternoon/evening peak period. Cost impacts include an additional PM bus
+and $50,000 annualized.
+W-Line Call-n-Rides: Belmar, Golden and Green Mountain:
+With the opening of the West Line Light Rail, three new Call-n-Rides began operations on
+April 27, 2013. As with all new services, actual operations may require adjustments after
+a few months in operation. Adjustments will be made based on customer travel patterns
+and customer requests. There should be no additional costs associated with these
+modifications except for the Golden Call-n-Ride. Annual weekday cost: $8,025.
+
+Packet Pg. 14
+
+Attachment: Board Report August 2013 Service Change Committee Final Atch A (1617 : Board Report August 2013 Service Changes)
+
+Attachment A
+June 18, 2013
+Page 5
+
+1.B.2.a
+
+Attachment: Board Report August 2013 Service Change Committee Final Atch A (1617 : Board Report August 2013 Service Changes)
+
+Attachment A
+June 18, 2013
+Page 6
+W-Line Light Rail
+Schedule adjustments. No cost anticipated
+School trippers restored/adjusted:
+Routes 1W, 11, 16, 24, 30, 30Ltd, 31, 43, 51, 52, 65, 73, 76, 100W 206, 208
+Cost estimated to be $15,800 annualized over previous year.
+Seasonal schedule adjustment to fall/spring schedule
+Route SKIP, JUMP, BOUND, DASH
+
+Packet Pg. 15
+
+Attachment A
+May 15, 2013
+Page 7
+
+Packet Pg. 16
+
+Attachment: Board Report August 2013 Service Change Committee Final Atch A (1617 : Board Report
+
+1.B.2.a
+
+Attachment: Board Report August 2013 Service Change Committee Final Atch A (1617 : Board Report August 2013 Service Changes)
+
+1.B.2.a
+
+Attachment A
+May 15, 2013
+Page 8
+
+Packet Pg. 17
+
+Attachment: Board Report August 2013 Service Change Committee Final Atch A (1617 : Board Report August 2013 Service Changes)
+
+1.B.2.a
+
+Attachment A
+June 18, 2013
+Page 9
+
+Packet Pg. 18
+
+Attachment: Board Report August 2013 Service Change Committee Final Atch A (1617 : Board Report August 2013 Service Changes)
+
+1.B.2.a
+
+Attachment A
+June 18, 2013
+Page 10
+
+Packet Pg. 19
+
+1.C.1
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: June 12, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+June 4, 2013
+
+Board Meeting Date: June 18, 2013
+
+Subject:
+
+Special Services 1st Qtr 2013 Report
+
+CALL-N-RIDE SERVICE
+Preventable Accidents: YTD
+1st Qtr 2012 – 0 Accidents
+1st Qtr 2013 – 0 Accidents
+
+Customer Contacts: YTD
+Contacts include both positive and negative comments made by customers regarding the operator.
+1st Qtr 2012 – 155 Contacts (120 associated with S. Jeffco)
+1st Qtr 2013 – 38
+
+Call-n-Ride Comments:
+For 2nd Quarter, efforts will be directed towards a ridership analysis and followed up with the appropriate
+marketing for the following Call-n-Rides: Belleview, Federal Heights, Highlands Ranch, Lone Tree,
+Parker, South Jeffco, South Thornton and Thornton.
+ATTACHMENTS:
+
+
+Special Services Monthly Report 1st Qtr 2013
+
+(XLSX)
+
+Prepared by:
+Brian Matthews, Manager
+Approved by:
+
+Packet Pg. 20
+
+2013 Special Services Report 1st Quarter Report
+
+A-Line - May 2003
+Boardings - Weekday/Saturday/Sunday
+Bdngs/Hour - Weekday/Saturday/Sunday
+art Shuttle - Sept 2004
+Boardings
+Bdngs/Hour
+Arapahoe cnR - November 2006
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Belleview cnR - January 2012
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Belmar - April 2013
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Brighton cnR - March 2000
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Boardings -WK Via* (School trips)
+Bdngs/Hour - Wkdy Via*
+Boardings combined - Weekday
+Bdgs/Hour combined - Weekday
+Broomfield cnR - April 2001
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Focus Points
+Boardings
+Operates scheduled
+Bdngs/Hour
+trips only
+Dry Creek cnR - November 2006
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Evergreen cnR - March 2002
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Boardings - Saturday
+Bdngs/Hour - Saturday
+Federal Heights - January 2012
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Golden cnR - April 2013
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Boardings - Saturday
+Bdngs/Hour - Saturday
+Green Mountain cnR - April 2013
+Boardings - Weekday
+Bdngs/Hour - Weekday
+
+Average
+2012
+94.3
+3.0
+
+Jan
+
+Feb.
+
+Mar.
+
+104.0
+3.6
+
+108.5
+4.1
+
+121.7
+4.3
+
+709.1
+29.6
+
+697.1
+29.1
+
+717.7
+29.9
+
+810.7
+33.8
+
+74.5
+5.5
+
+56.4
+4.2
+
+58.4
+4.3
+
+56.9
+4.2
+
+41.5
+2.1
+
+53.3
+2.7
+
+49.1
+2.5
+
+51.4
+2.6
+
+N/A
+N/A
+
+N/A
+N/A
+
+N/A
+N/A
+
+N/A
+N/A
+
+79.2
+5.9
+27.2
+13.6
+106.4
+6.8
+
+79.2
+5.9
+133.0
+5.8
+212.2
+5.9
+
+89.9
+6.7
+203.5
+8.5
+293.4
+7.1
+
+75.2
+5.6
+208.0
+13.9
+283.2
+6.1
+
+74.0
+5.5
+
+61.9
+4.3
+
+70.3
+4.8
+
+62.8
+4.3
+
+3.2
+
+4.1
+
+4.5
+
+4.4
+
+54.0
+4.0
+
+57.6
+4.3
+
+57.9
+4.3
+
+54.2
+4.0
+
+130.4
+4.8
+36.0
+3.6
+
+122.6
+4.5
+26.8
+2.7
+
+121.9
+4.5
+31.5
+3.2
+
+112.9
+4.2
+21.0
+2.1
+
+21.3
+1.6
+
+29.3
+2.2
+
+34.6
+2.6
+
+34.9
+2.6
+
+N/A
+N/A
+N/A
+N/A
+
+N/A
+N/A
+N/A
+N/A
+
+N/A
+N/A
+N/A
+N/A
+
+N/A
+N/A
+N/A
+N/A
+
+N/A
+N/A
+
+N/A
+N/A
+
+N/A
+N/A
+
+N/A
+N/A
+
+Apr.
+
+Page 1 of 3
+
+May
+
+Jun.
+
+Jul.
+
+Aug.
+
+Sept.
+
+Oct.
+
+Nov.
+
+Dec.
+
+Packet Pg. 21
+
+Attachment: Special Services Monthly Report 1st Qtr 2013 (1600 : Special Services 1st Qtr 2013 Report)
+
+1.C.1.a
+
+1.C.1.a
+
+Average
+
+Jan
+
+Feb.
+
+Mar.
+
+31.8
+2.7
+
+27.4
+2.3
+
+30.0
+2.5
+
+24.8
+2.1
+
+2816.5
+30.2
+1230.5
+23.7
+632.0
+19.8
+
+3040.9
+30.6
+1235.8
+23.8
+669.6
+20.9
+
+4093.1
+37.8
+1601.5
+30.8
+795.3
+24.9
+
+3324.8
+30.8
+1340.4
+25.8
+781.0
+24.4
+
+75.8
+4.6
+
+88.3
+5.3
+
+76.7
+4.6
+
+72.9
+4.4
+
+37.0
+6.2
+38.0
+12.7
+
+32.0
+5.3
+28.0
+9.3
+
+33.3
+5.5
+21.3
+7.1
+
+38.9
+6.5
+24.8
+8.3
+
+49.0
+3.6
+
+42.0
+3.1
+
+34.9
+2.6
+
+49.0
+3.6
+
+182.2
+5.5
+23.5
+2.6
+26.2
+2.9
+
+181.8
+5.6
+22.8
+2.5
+23.6
+2.6
+
+198.1
+6.0
+21.3
+2.4
+29.3
+3.3
+
+195.5
+6.0
+21.8
+2.4
+27.2
+3.0
+
+64.4
+3.9
+
+58.0
+3.5
+
+57.8
+3.5
+
+53.8
+3.3
+
+133.3
+6.7
+
+126.0
+6.0
+
+137.7
+6.6
+
+131.6
+6.3
+
+239.0
+9.4
+
+219.0
+8.6
+
+235.2
+9.2
+
+223.2
+8.8
+
+108.8
+5.6
+
+97.5
+5.0
+
+102.4
+5.2
+
+107.6
+5.5
+
+35.5
+2.8
+
+43.8
+3.5
+
+58.9
+4.7
+
+71.5
+5.7
+
+65.4
+2.8
+37.0
+2.6
+
+127.8
+2.8
+41.3
+2.9
+
+133.6
+2.9
+40.5
+2.9
+
+132.1
+2.9
+37.0
+2.6
+
+Apr.
+
+May
+
+Jun.
+
+Jul.
+
+Aug.
+
+Sept.
+
+Oct.
+
+Nov.
+
+Dec.
+
+Attachment: Special Services Monthly Report 1st Qtr 2013 (1600 : Special Services 1st Qtr 2013 Report)
+
+Highlands Ranch cnR - November 2006
+Boardings - Weekday
+Bdngs/Hour - Weekday
+HOP - October 1994
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Boardings - Saturday
+Bdngs/Hour - Saturday
+Boardings - Sunday
+Bdngs/Hour - Sunday
+Interlocken/Westmoor cnR - April 2001
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Littleton S.Cart - 1988
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Boardings - Saturday
+Bdngs/Hour - Saturday
+Lone Tree cnR - January 2004
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Longmont cnR - February 2001
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Boardings - Saturday
+Bdngs/Hour - Saturday
+Boardings - Sunday
+Bdngs/Hour - Sunday
+Louisville cnR - August 2000
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Meridian cnR - November 2006
+Boardings - Weekday
+Bdngs/Hour - Weekday
+N Inverness cnR - November 2006
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Orchard cnR-March 2006
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Parker cnR - November 2006
+Boardings - Weekday
+Bdngs/Hour - Weekday
+S Jeffco - January 2012
+Boardings - Weekday
+Bdngs/Hour - Weekday
+Boardings - Saturday
+Bdngs/Hour - Saturday
+
+Page 2 of 3
+
+Packet Pg. 22
+
+1.C.1.a
+
+Page 3 of 3
+
+Nov.
+
+Dec.
+
+Attachment: Special Services Monthly Report 1st Qtr 2013 (1600 : Special Services 1st Qtr 2013 Report)
+
+Average
+Jan
+Feb.
+Mar.
+Apr.
+May
+Jun.
+Jul.
+Aug.
+Sept.
+Oct.
+S Inverness cnR - November 2006
+Boardings - Weekday
+162.9
+160.1
+168.2
+176.5
+Bdngs/Hour - Weekday
+8.4
+7.8
+8.2
+8.6
+South Thornton cnR-August 2007
+Boardings - Weekday
+39.7
+39.7
+41.0
+42.1
+Bdngs/Hour - Weekday
+2.9
+2.9
+3.0
+3.1
+Senior Ride - 1977
+Senior Ride Events
+Psg/per trip
+23.2
+19.8
+26.3
+19.0
+Psg/per hour
+8.6
+6.6
+8.4
+7.2
+Senior Shopper
+Psg/per trip
+18.6
+16.9
+17.1
+17.4
+Psg/per hour
+8.3
+7.6
+7.6
+7.8
+Thornton/Northglenn cnR - Dec 2003
+Boardings - Weekday
+38.6
+42.1
+43.5
+39.1
+Bdngs/Hour - Weekday
+2.9
+3.1
+3.2
+2.9
+Boulder/Adams Counties 5311
+Boardings - Weekday
+2.7
+Bdngs/Hour - Weekday
+Jefferson County 5311
+Boardings - Weekday
+1.9
+Bdngs/Hour - Weekday
+These numbers reflect passengers carried with the assistance of the Brighton Via Van. Additional service began August 15, 2002 and is
+used primarily for school trips.
+5311 services are the rural services that RTD provides local match for FTA section 5311.Adams and Boulder Counties (Via) Jefferson County (Seniors' Resource Center).
+W-Line Call-n-Rides operated only 2 days in April, full month numbers will be reported for May.
+
+Packet Pg. 23
+
+1.C.2
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: June 12, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+June 5, 2013
+
+Board Meeting Date: June 18, 2013
+
+Subject:
+
+Customer
+2013
+
+Complaint
+
+Analysis
+
+1st
+
+Quarter
+
+To:
+
+RTD Board of Directors
+
+Through:
+
+Bruce Abel, AGM, Bus Operations
+
+From:
+
+Carolyn Conover, Senior Manager, Contracted Services
+
+Date:
+
+May 31, 2013
+
+Subject:
+
+Customer Complaint Analysis
+
+Information
+
+RTD staff, as well as the private contractors, address and monitor customer complaints on a daily basis.
+Recapped below is an analysis of the customer complaint trends for the 1st Quarter of 2013. Also
+included is a comparison of customer complaint data for the first quarter of 2012 and the first quarter of
+2013.
+As noted in previous reports, in 2007 and 2008, RTD and the private contractors were consistently
+meeting the performance goal for customer complaints of .0002 complaints per passenger boarding. In
+2009, RTD began stricter enforcement of the fare policy and implemented a new stroller policy which
+advised passengers with strollers that they would need to move from the priority seating area if those
+seats were needed for disabled passengers. In addition, RTD posted notices on all buses and light rail
+vehicles advising passengers of the requirement under Title VI of the Civil Rights Law for operators to
+call out transfer points. Following the implementation of these policies/procedures, customer complaints
+increased, but for 2009, 2010, 2011 and 2012 RTD and the private contractors performed, for the most
+part, at a level of .0003 to .0004 complaints per passenger boarding. In 2012, the performance goal for
+passenger complaints was adjusted to .0003 complaints per passenger boarding, and the goal for 2013
+remains at .0003 complaints per passenger boarding.
+For the 1st quarter of 2013, RTD and First Transit Longmont met the goal of .0003 complaints per
+passenger boarding. First Transit Commerce City had .0005 complaints per passenger boarding, First
+Transit Denver had .0004 passenger complaints per passenger boarding, and Veolia had .0004
+passenger complaints per passenger boarding. The combined performance for RTD and the private
+contractors was .0003 complaints per passenger boarding.
+RTD and the private contractors investigate all customer complaints using a variety of tools, including
+CAD/AVL playbacks and video review and address/discipline operators as needed. Many times the
+results of the investigation reveal that the complaint is not valid. Some of the reasons for the “Not
+Valid” classification include the following:
+Bus was on time (between 1 min early to 5 min late) per playback
+Operator followed proper procedure
+
+Packet Pg. 24
+
+1.C.2
+
+Passenger presented insufficient fare
+Passenger had no proof of eligibility for a discounted fare
+Passenger presented an expired transfer
+Passenger presented a counterfeit pass
+Buses were running late District-wide due to a snow day
+There was no video evidence to support the complaint
+RTD and the private contractors continue to work collectively in a variety of different areas to address
+customer complaints.
+ Bus routes with poor on-time performance are monitored by both RTD and private contractor
+personnel to determine if the problem is related to the operator or the running time of the route.
+ Meetings are held on a monthly basis with contractor and RTD personnel to discuss challenges,
+solutions and best practices in the areas of bus maintenance, operations, safety and training.
+ Bus operator trainers from RTD and the private contractors meet weekly in an effort to ensure
+consistency in training messages and practices.
+ RTD is conducting refresher training for all operators on an annual basis, and a component of the
+training is customer service. The private contractors conduct mandatory monthly safety meetings
+wherein they discuss customer service issues and provide suggestions for improving passenger
+interactions.
+ RTD and private contractor trainers spend time at Civic Center Station and Market Street Station
+the first week of each runboard to provide assistance to operators who may need some
+refreshers on station procedures or have questions on their routes.
+ RTD has also reached out to the disability community (Colorado School of the Blind, Atlantis,
+DRMAC Transit Accessibility Task Force) to get feedback on ways to improve RTD service for
+disabled passengers.
+ Operators are recognized for the good customer service they provide. Divisions post
+commendations on a bulletin board in the drivers’ room and some provide additional means of
+recognition.
+Historically, and in 2013, the following complaint categories generated the highest number of customer
+complaints:
+Bus Did Not Show
+Bus Early
+Bus Late
+Careless Driving/Operator
+Discourtesy/Operator
+Improper Procedure By Operator
+Passed Up Passenger At Stop
+All of these complaint categories are what RTD considers “operator related” and are included in the
+complaint numbers that are tracked and reported to the Board of Directors on the Quarterly Performance
+Report.
+The high complaint categories are routinely reviewed to determine the factors, both internal and
+external, that are impacting the number of complaints. The input received from both RTD and private
+contractor operations is noted below:
+
+Packet Pg. 25
+
+1.C.2
+
+Bus Did Not Show – There was a slight decrease in this category in the first quarter of 2013 compared
+to the first quarter of 2012. In many cases, CAD/AVL playbacks confirm that buses are on route, but
+running late. However, from the passenger’s perspective, the bus did not show.
+Bus Early – There was an increase in this category from the first quarter of 2012 to the first quarter of
+2013. Playbacks for “bus early” complaints often show buses running late. It is possible passengers see
+the prior bus running late and will assume it is their bus running early. On-time performance statistics
+for the 1st quarter of 2013 show just 2.8% of all time point observations were in the “early” category.
+Bus Late – There was a decrease in this category in the first quarter of 2013 compared to the first
+quarter of 2012. Improving on-time performance continues to be a challenge for a variety of reasons
+including construction, traffic and heavy ridership delays; service reductions, which result in the same
+number of passengers on fewer trips; and the inability to fund service improvements to address runningtime issues.
+Careless Driving/Operator – There was a slight increase in this category from the first quarter of 2012 to
+the first quarter of 2013. On a regular basis, video recordings are reviewed to determine if operators are
+driving in an unsafe or inappropriate manner. In addition, all of the private contractors have “G-force
+activated” event-recording systems (Drive Cam, Smart Drive) installed on their buses. These incidents
+are also reviewed on a daily basis. Operators continue to be counseled and retrained as needed to
+improve driving performance.
+Discourtesy/Operator – There was an increase in this category from the first quarter of 2012 to the first
+quarter of 2013. In the majority of cases, the investigation into these complaints proves the operator
+not at fault. Video evidence usually confirms that the operator followed proper procedures and treated
+the customer with respect. In many cases, operators are shown enforcing or explaining policies (fares,
+strollers, inappropriate behavior) in a polite and respectful manner and the passengers react in a negative
+manner. Operators are counseled and disciplined if video evidence confirms that they treated
+passengers in a discourteous or inappropriate manner. Operators are also given suggestions for handling
+similar situations in the future.
+Discrimination – This category was created in 2009 to track complaints related to Title VI issues. The
+1st quarter 2013 statistics show complaints in this category average 9 per month for RTD and the
+private contractors combined. This represents a slight decrease over the first quarter of 2012 (average
+of 14 per month). Investigation into “discrimination” complaints usually shows the operator not at fault.
+Fare Dispute – This category showed a slight increase from first quarter 2012 to first quarter 2013 and
+overall, the number of complaints remains low (average of 40 complaints per month in 2013). It
+appears passengers have come to accept the fact that operators are expecting fares to be paid upon
+boarding. Investigation into “fare dispute” complaints oftentimes shows passengers presented an
+improper/incomplete fare and are not happy with the operators’ enforcement of the fare policies.
+Improper Procedure/Operator – There was a decrease in this category from the first quarter 2012 to the
+first quarter 2013. There were several complaints in this category in 2012 related to the January
+runboard service changes. RTD and private contractor training and operations personnel are developing
+procedures to ensure operators are familiar with route and schedule changes at the beginning of each
+runboard. Some of the complaints in this category are related to the enforcement of the fare policies.
+Other complaints relate to the issues that arise when disabled passengers and passengers with strollers
+
+Packet Pg. 26
+
+1.C.2
+
+compete for use of the priority seating area. In most cases, video evidence shows operators following
+proper procedures.
+Incorrect Info/Operator –This category was established to identify possible trends with operators
+providing incorrect information to passengers. The total numbers in this category remain small (an
+average of 14 complaints per month for the first quarter of 2013 and 15 complaints per month for the
+first quarter of 2012), which indicates this area is not a problem.
+Passed Up Passenger At Stop – There was a slight decrease in this category from first quarter 2012 to
+first quarter 2013. Oftentimes, playbacks for these complaints will confirm buses are on route and on
+time. It is possible the passenger was not directly at the stop when the bus arrived. Many complaint
+comments indicate the passenger was running to the stop as the bus passed. Operators are reminded to
+stay vigilant and watch for passengers that may not be waiting directly at the bus stop. In addition,
+operators are directed to contact RTD Dispatch whenever a passenger is passed up due to the bus being
+full. Information regarding overcrowded routes is forwarded to the Service Planning & Scheduling
+Department for review and adjustment as needed and as resources will allow.
+Customer Satisfaction Survey
+Although customer complaints help identify those areas in which RTD and the private contractors can
+continue to improve the quality of service provided, the results of the 2011 Customer Satisfaction
+Survey indicate that the majority of RTD passengers are satisfied with RTD services. On a scale of 1
+(poor) to 5 (excellent), over 80% of bus, light rail, Call-n-Ride, and SkyRide passengers rated RTD either
+a 4 or a 5.
+Specific driver related areas that received ratings of 4.0 or higher were as follows:
+Courtesy of bus driver
+Driving skills
+Drivers’ knowledge of their specific route
+Drivers’ ability to answer your questions about bus service
+Drivers announcing transfer stops
+
+Packet Pg. 27
+
+1.C.2
+
+Top Categories and Complaints Related to Policy Changes
+
+Bus Did Not Show
+Avg per month
+Bus Early
+Avg per month
+Bus Late
+Avg per month
+Careless Driving/Operator
+Avg per month
+Discourtesy/Operator
+Avg per month
+Discrimination
+Avg per month
+Fare Dispute
+Avg per month
+Improper Procedure/Operator
+Avg per month
+Incorrect Info/Operator
+Avg per month
+Passed Up Passenger At Stop
+Avg per month
+TOTAL
+Avg per month
+
+QTR 1
+2012
+534
+178
+551
+184
+1002
+334
+282
+94
+606
+202
+41
+14
+113
+38
+691
+230
+44
+15
+771
+257
+4635
+1545
+
+QTR 1
+2013
+496
+165
+655
+218
+811
+270
+308
+103
+877
+292
+27
+9
+121
+40
+558
+186
+41
+14
+762
+254
+4656
+1552
+
+%
+Change
+-7.1%
+18.9%
+-19.1%
+9.2%
+44.7%
+-34.1%
+7.1%
+-19.2%
+-6.8%
+-1.2%
+0.5%
+
+Prepared by:
+Carolyn Conover, Senior Manager
+Approved by:
+
+Packet Pg. 28
+
+1.C.3
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: June 12, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+June 12, 2013
+
+Board Meeting Date: June 18, 2013
+
+Subject:
+
+Contracted Fixed-Route Quarterly Report – 1st
+Quarter 2013
+
+Information
+
+ATTACHMENTS:
+
+
+2013 Qtr 1 review
+
+(DOCX)
+
+Prepared by:
+Greg Smith, Manager
+Approved by:
+
+Packet Pg. 29
+
+1.C.3.a
+
+Regional Transportation District
+Our mission:
+To meet our constituents’ present and future public transit needs by offering
+safe, clean, reliable, courteous, accessible and cost-effective service throughout
+the District.
+
+To:
+
+Operations and Customer Service Committee
+
+Through:
+
+Bruce Abel, AGM, Bus Operations
+
+From:
+
+Greg Smith, Manager, Competitive Services
+
+Date:
+
+June 5, 2013
+
+Subject:
+
+Contracted Fixed-Route Quarterly Report – 1st Quarter 2013
+
+The following is a discussion of the performance measures for the first quarter of 2013 for
+the fixed-route services provided by private contractors:
+
+
+PREVENTABLE VEHICLE ACCIDENTS PER 100,000 MILES
+The contractors individually and as a group met the target of ≤ 2.0 Preventable
+Vehicle Accidents per 100,000 miles in the 1st quarter. First Transit and Veolia
+Transportation continue to utilize bus operator monitoring technology and postaccident investigations for retraining of operators. The contractors continue to
+emphasize safety with all employees at monthly safety meetings, through periodic
+campaigns, and with daily reminders at their facilities.
+
+
+
+PASSENGER ACCIDENT RATIO PER 100,000 MILES
+First Transit Denver, First Transit Longmont and Veolia Transportation met the
+target of ≤ 0.18 Passenger Accidents per 100,000 miles in the 1st quarter. Even
+though First Transit Commerce City did not meet this goal for 1st quarter, three of
+four passenger accidents during the 1st quarter were classified as non-preventable.
+First Transit and Veolia Transportation continue to conduct proactive retraining to
+increase operator awareness of passenger mobility issues to reduce the number of
+passenger accidents per 100,000 miles. Increased passenger awareness training
+continues to be a primary focus for all contractors in this area.
+
+
+
+ON-TIME PREVENTIVE MAINTENANCE INSPECTIONS
+The contractors, individually and as a group, met the target of 98% of Preventive
+Maintenance Inspections completed as scheduled in the 1st quarter. The
+contractor organizations place a high emphasis on completing preventive
+maintenance inspections as required, and as such, the local operations are diligent
+about completing these inspections on time.
+
+Packet Pg. 30
+
+Attachment: 2013 Qtr 1 review (1602 : Contracted Fixed-Route Quarterly Report ? 1st Quarter 2013)
+
+Memorandum
+
+
+
+ON-TIME PERFORMANCE
+First Transit Denver and First Transit Longmont met the target of 88.0% Local OnTime Service in the 1st quarter. First Transit Commerce City and Veolia
+Transportation did show continued improvement in on-time performance (OTP)
+during the 1st quarter when compared with 4th quarter 2012. RTD is working with
+the private contractors to use the OTP report to identify and campaign routes with
+on-time performance issues. The contractors also report that they continue to
+experience route delays due to construction and detours. Increased passenger
+loads and associated boarding delays also contribute to running behind schedule.
+The contractors continue to address on-time performance issues with operators,
+but always tie safety to the discussion. It’s better to be a few minutes late than to
+have an accident.
+
+
+
+MILES BETWEEN LOST SERVICE ROAD CALLS
+The contractors, individually and as a group, exceeded the target of 26,000 Miles
+Between Lost Service Maintenance Road Calls in the 1st quarter. The contractors
+continue to improve in this area by completing preventive maintenance inspections
+on time, working off defects in a timely manner, monitoring repeat issues, providing
+additional training for mechanics, and taking a pro-active approach to maintaining
+the buses in their fleets.
+
+
+
+OPERATOR COMPLAINTS PER BOARDING
+First Transit Longmont met the target of .0003 Complaints per Boarding. First
+Transit Commerce City, First Transit Denver, and Veolia Transportation continue to
+investigate and address customer complaints with operators. The contractors
+utilize onboard video surveillance and automatic vehicle location software to retrain
+operators on the importance of good customer service and continue to address
+complaint trends with all operators at monthly safety meetings.
+
+Packet Pg. 31
+
+Attachment: 2013 Qtr 1 review (1602 : Contracted Fixed-Route Quarterly Report ? 1st Quarter 2013)
+
+1.C.3.a
+
+1.C.3.a
+
+PRIVATE CONTRACTOR PERFORMANCE
+MEASURES
+PREVENTABLE VEHICLE ACCIDENTS PER 100,000
+MILES
+First Transit Commerce City
+Veolia
+First Transit Denver
+First Transit Longmont
+
+2013
+GOAL
+≤2.0
+≤2.0
+≤2.0
+≤2.0
+
+1ST
+2ND
+3RD
+4TH
+QUARTER QUARTER QUARTER QUARTER
+0.8
+0.5
+0.2
+0.8
+
+Total all Contractors
+
+≤2.0
+
+0.5
+
+Total RTD
+
+≤2.0
+
+0.3
+
+PASSENGER ACCIDENT RATIO PER 100,000 MILES
+First Transit Commerce City
+Veolia
+First Transit Denver
+First Transit Longmont
+
+2013
+GOAL
+≤0.18
+≤0.18
+≤0.18
+≤0.18
+
+Total all Contractors
+
+≤0.18
+
+0.13
+
+Total RTD
+
+≤0.18
+
+0.03
+
+ON-TIME PREVENTIVE MAINTENANCE
+INSPECTIONS
+First Transit Commerce City
+Veolia
+First Transit Denver
+First Transit Longmont
+
+2013
+GOAL
+98%
+98%
+98%
+98%
+
+Total all Contractors
+
+98%
+
+100%
+
+Total RTD
+
+98%
+
+99.7%
+
+ON-TIME PERFORMANCE
+First Transit Commerce City
+Veolia
+First Transit Denver
+First Transit Longmont
+
+2013
+GOAL
+88.0%
+88.0%
+88.0%
+88.0%
+
+Total all Contractors
+
+88.0%
+
+87.5%
+
+Total RTD
+
+88.0%
+
+89.4%
+
+1ST
+2ND
+3RD
+4TH
+QUARTER QUARTER QUARTER QUARTER
+0.29
+0.16
+0.00
+0.00
+
+1ST
+2ND
+3RD
+4TH
+QUARTER QUARTER QUARTER QUARTER
+100%
+100%
+100%
+100%
+
+1ST
+2ND
+3RD
+4TH
+QUARTER QUARTER QUARTER QUARTER
+85.8%
+86.0%
+88.5%
+90.5%
+
+Packet Pg. 32
+
+Attachment: 2013 Qtr 1 review (1602 : Contracted Fixed-Route Quarterly Report ? 1st Quarter 2013)
+
+2013
+
+MILES BETWEEN LOST SERVICE ROAD CALLS
+First Transit Commerce City
+Veolia
+First Transit Denver
+First Transit Longmont
+
+2013
+GOAL
+26,000
+26,000
+26,000
+26,000
+
+1ST
+2ND
+3RD
+4TH
+QUARTER QUARTER QUARTER QUARTER
+43,672
+37,904
+34,809
+28,233
+
+Total all Contractors
+
+26,000
+
+36,538
+
+Total RTD
+
+26,000
+
+26,149
+
+OPERATOR COMPLAINTS PER BOARDING
+First Transit Commerce City
+Veolia
+First Transit Denver
+First Transit Longmont
+
+2013
+GOAL
+0.0003
+0.0003
+0.0003
+0.0003
+
+1ST
+2ND
+3RD
+4TH
+QUARTER QUARTER QUARTER QUARTER
+0.0005
+0.0004
+0.0004
+0.0003
+
+Total all Contractors
+
+0.0003
+
+0.0004
+
+Total RTD
+
+0.0003
+
+0.0003
+
+Packet Pg. 33
+
+Attachment: 2013 Qtr 1 review (1602 : Contracted Fixed-Route Quarterly Report ? 1st Quarter 2013)
+
+1.C.3.a
+
+1.C.4
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: June 12, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+June 7, 2013
+
+Board Meeting Date: June 18, 2013
+
+Subject:
+
+Access-a-Ride 1st Quarter 2013 Report
+
+To:
+
+Operations and Customer Service Committee
+
+Through:
+
+Bruce Abel, AGM, Bus Operations
+
+From:
+
+Larry Buter, Manager, Paratransit Services
+
+Date:
+
+June 6, 2013
+
+Subject:
+
+Access-a-Ride Quarterly Report – 1st Quarter 2013
+
+Information
+
+Ridership
+Access-a-Ride ridership decreased by 5% through the 1st quarter of 2013 compared to the same period
+of 2012. Productivity decreased from 1.28 to 1.21 passengers per hour. During the same period,
+Access-a-Cab ridership increased by 14%. The increased use of Access-a-Cab by Access-a-Ride
+passengers continues to allow RTD to provide increased service without an increase in resources.
+Revenue Hours
+Revenue hours of service provided on Access-a-Ride increased slightly (approximately 1%) during the
+first quarter of 2013. Access-a-Ride is approximately 5% under budgeted revenue hours through the
+first quarter of 2013.
+On-Time Performance
+On time performance through the first quarter of 2013 improved during the same period in 2012. Our
+private contractors continue to address on time performance challenges in order to continue meeting and
+exceeding this standard of performance.
+Customer Complaints
+Complaints per passenger decreased through the 1st quarter of 2013 as compared to the same period in
+2012. Staff continues to work with our carriers and passengers to improve overall customer
+satisfaction.
+ATTACHMENTS:
+
+
+AAR 2013 QTR 1 Statistics
+
+
+
+RouteMatch Metrics QTR 1 2013 (XLSX)
+
+
+
+Monitoring Review 2013 1st Qrt (XLSX)
+
+
+
+Complaint Report 2013 1st Qtr
+
+(XLSX)
+
+(DOCX)
+
+Prepared by:
+Larry Buter, Manager
+
+Packet Pg. 34
+
+1.C.4
+
+Approved by:
+
+Packet Pg. 35
+
+1.C.4.a
+
+Access-a-Ride - Operations / Customer Service Committee Quarterly Report 2013
+1st Qrt
+2012
+
+Variance
+
+139650
+168603
+2181323
+1.21
+
+138425
+177212
+2278137
+1.28
+
+1%
+-5%
+-4%
+-6%
+
+1st Qrt
+2013
+
+1st Qrt
+2012
+
+Variance
+
+Access-a-Cab:
+Trips
+
+44464
+
+38936
+
+14%
+
+AAR + AAC Ridership
+Total Trips
+
+1st Qrt
+2013
+213067
+
+1st Qrt
+2012
+216148
+
+Variance
+-1%
+
+1st Qrt
+2013
+
+1st Qrt
+2012
+
+Variance
+
+60129
+1:59
+4:36
+
+63545
+2:05
+4:07
+
+-5%
+-5%
+12%
+
+1st Qrt
+2013
+
+1st Qrt
+2012
+
+Variance
+
+731
+60
+17
+5
+
+839
+33
+18
+4
+
+-13%
+82%
+-6%
+25%
+
+1st Qrt
+Actual
+
+1st Qrt
+Budgeted
+
+Variance
+
+139650
+
+147371
+
+-5%
+
+1st Qrt
+2013
+
+1st Qrt
+2012
+
+Variance
+
+97.23
+159
+0%
+
+95.33
+191
+0%
+
+2%
+-17%
+0%
+
+A-A-R Ridership:
+Revenue Hrs.
+Passengers
+Rev. Miles
+Productivity
+
+Phone Stats:
+Calls Taken
+Average Speed
+Average Call
+
+Certifications:
+Qualified
+Denials
+Appeals
+Overturned
+
+Budget Variance:
+Revenue Hours
+
+Performance Stats:
+On Time Performance
+Complaints
+Capacity Denials
+
+2nd Qrt
+2013
+
+2nd Qrt
+2012
+
+Variance
+
+#DIV/0!
+
+#DIV/0!
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+2nd Qrt
+2013
+
+2nd Qrt
+2012
+
+Variance
+
+3rd Qrt
+2013
+
+3rd Qrt
+2012
+
+2nd Qrt
+2012
+
+2nd Qrt
+2013
+
+2nd Qrt
+2012
+
+Variance
+#DIV/0!
+
+Variance
+
+3rd Qrt
+2013
+
+3rd Qrt
+2012
+
+2nd Qrt
+2012
+
+Variance
+
+3rd Qrt
+2013
+
+3rd Qrt
+2012
+
+3rd Qrt
+2013
+
+3rd Qrt
+2012
+
+2nd Qrt
+Budgeted
+
+Variance
+
+3rd Qrt
+2013
+
+3rd Qrt
+2012
+
+2nd Qrt
+2012
+
+Variance
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+4th Qrt
+2013
+
+4th Qrt
+2012
+
+Variance
+#DIV/0!
+
+Variance
+
+Variance
+
+3rd Qrt
+Actual
+
+3rd Qrt
+Budgeted
+
+Variance
+
+4th Qrt
+2013
+
+4th Qrt
+2012
+
+4th Qrt
+2013
+
+4th Qrt
+2012
+
+3rd Qrt
+2012
+
+Variance
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+Variance
+#DIV/0!
+
+Variance
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+4th Qrt
+2013
+
+4th Qrt
+2012
+
+Variance
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+4th Qrt
+Actual
+
+4th Qrt
+Budgeted
+
+#DIV/0!
+
+3rd Qrt
+2013
+
+Variance
+#DIV/0!
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+#DIV/0!
+
+2nd Qrt
+2013
+
+Variance
+
+Variance
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+2nd Qrt
+Actual
+
+4th Qrt
+2012
+
+#DIV/0!
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+2nd Qrt
+2013
+
+4th Qrt
+2013
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+#DIV/0!
+
+2nd Qrt
+2013
+
+Variance
+
+Attachment: AAR 2013 QTR 1 Statistics (1604 : Access-a-Ride 1st Quarter 2013 Report)
+
+1st Qrt
+2013
+
+Variance
+#DIV/0!
+
+4th Qrt
+2013
+
+4th Qrt
+2012
+
+Variance
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+Packet Pg. 36
+
+1.C.4.b
+
+#
+complaints
+
+#
+days
+
+complaints
+per day
+
+#
+pax trips
+
+complaints
+per pax
+
+pax
+per hour
+
+2008
+2009
+2010
+2011
+
+2743
+1075
+950
+540
+
+366
+365
+365
+365
+
+7.5
+2.9
+2.6
+1.5
+
+681,624
+672,636
+713,241
+694,664
+
+0.0040
+0.0016
+0.0013
+0.0008
+
+1.3
+1.2
+1.28
+1.24
+
+pre-RM-1.29
+RM- 1.33
+"+3.1%
+
+2012
+
+#
+complaints
+
+#
+days
+
+complaints
+per day
+
+#
+pax trips
+
+complaints
+per pax
+
+pax
+per hour
+
+revenue
+hours
+
+jan
+feb
+mar
+apr
+may
+june
+july
+aug
+sept
+oct
+nov
+dec
+
+67
+70
+55
+62
+60
+40
+47
+48
+69
+67
+66
+52
+
+31
+28
+31
+30
+31
+30
+31
+31
+30
+31
+30
+31
+
+2.2
+2.5
+1.8
+2.1
+1.9
+1.3
+1.5
+1.5
+2.3
+2.2
+2.2
+1.7
+
+58761
+56640
+61811
+60899
+62888
+58212
+57844
+61850
+55531
+63397
+57832
+51805
+
+0.0011
+0.0012
+0.0009
+0.0010
+0.0010
+0.0007
+0.0008
+0.0008
+0.0012
+0.0011
+0.0011
+0.0010
+
+1.29
+1.30
+1.26
+1.26
+1.25
+1.25
+1.26
+1.25
+1.24
+1.26
+1.25
+1.20
+
+45697
+43607
+49121
+48331
+50388
+46590
+46043
+49675
+44781
+50384
+46305
+43181
+
+total
+
+703
+
+365
+
+1.9
+
+707470
+
+0.0010
+
+1.25
+
+564103
+
+2013
+
+#
+complaints
+
+#
+days
+
+complaints
+per day
+
+#
+pax trips
+
+complaints
+per pax
+
+pax
+per hour
+
+revenue
+hours
+
+jan
+feb
+mar
+apr
+may
+
+62
+62
+35
+
+31
+29
+31
+
+2.0
+2.1
+1.1
+#DIV/0!
+#DIV/0!
+
+58051
+53094
+57458
+
+0.0011
+0.0012
+0.0006
+#DIV/0!
+#DIV/0!
+
+1.20
+1.21
+1.21
+#DIV/0!
+#DIV/0!
+
+48262
+44040
+47347
+
+Attachment: RouteMatch Metrics QTR 1 2013 (1604 : Access-a-Ride 1st Quarter 2013 Report)
+
+Route Match Metrics
+
+Packet Pg. 37
+
+june
+july
+aug
+sept
+oct
+nov
+dec
+
+total
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+159
+
+91
+
+1.7
+
+168603
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+
+#DIV/0!
+#DIV/0!
+#DIV/0!
+#DIV/0!
+1.26
+1.25
+1.20
+
+0.0009
+
+1.21
+
+Attachment: RouteMatch Metrics QTR 1 2013 (1604 : Access-a-Ride 1st Quarter 2013 Report)
+
+1.C.4.b
+
+139649
+
+Packet Pg. 38
+
+1.C.4.c
+
+Access-a-Ride Monitoring Review - 2013 - 1st Quarter
+
+Accident, Incident, Breakdown (AIB) Timeliness
+This review evaluates whether AIB reports are submitted on a timely basis.
+YTD Totals
+Chd
+# OK
+% OK
+42
+36
+86%
+26
+26 100%
+138
+131
+95%
+98
+56
+57%
+
+Attachment: Monitoring Review 2013 1st Qrt (1604 : Access-a-Ride 1st Quarter 2013 Report)
+
+Qrt Totals
+Chd
+# OK
+% OK
+Horizon
+42
+36
+86%
+Global
+26
+26 100%
+MV
+138
+131
+95%
+Via Mobility 98
+56
+57%
+
+Call Center-Conditional Eligibility
+This review evaluates whether trips are scheduled according to eligibility conditions.
+
+FTCC
+
+Qrt Totals
+Chd
+# OK
+% OK
+75
+73
+97%
+
+YTD Totals
+Chd
+# OK
+% OK
+75
+73
+97%
+
+Maintenance Record Check
+This review evaluates the vehicle maintenance file per contractual requirements.
+A random 100% review was performed at Global on February 4, 2013. The results are listed.
+Qrt Totals
+Chd
+# OK
+Horizon
+Global
+MV
+Via
+
+55
+
+% OK
+14
+
+25%
+
+YTD Totals
+Chd
+# OK
+55
+
+% OK
+14
+
+25%
+
+RTD Quality Control
+This review is a random, on-site maintenance check of vehicles by RTD QC Inspectors.
+QC Reviews in January only - QC inspectors assigned to additional projects at this time.
+Qrt Totals
+Chd
+# OK
+% OK
+Horizon
+6
+4
+67%
+Global
+6
+5
+83%
+MV
+13
+13 100%
+Via
+9
+7
+78%
+
+YTD Totals
+Chd
+# OK
+% OK
+6
+4
+67%
+6
+5
+83%
+13
+13 100%
+9
+7
+78%
+
+Field Observation - Quality Control
+This review evaluates operator performance and/or vehicle condition out in the field.
+Qrt Totals
+Chd
+# OK
+% OK
+Horizon
+4
+4 100%
+Global
+5
+3
+60%
+MV
+10
+10 100%
+Via
+8
+8 100%
+
+YTD Totals
+Chd
+# OK
+% OK
+4
+4 100%
+5
+3
+60%
+10
+10 100%
+8
+8 100%
+
+Certification Process Review
+This review evaluates the accuracy of certification files and data entry into the RouteMatch system.
+
+ESOC
+
+Qrt Totals
+Chd
+# OK
+% OK
+5520
+5409
+98%
+
+YTD Totals
+Chd
+# OK
+% OK
+5520
+5409
+98%
+
+Packet Pg. 39
+
+1.C.4.d
+
+Access-a-Ride Customer Complaints
+
+2013 1st Quarter
+
+MV
+
+HORIZON
+
+VIA
+
+GLOBAL
+
+1st TRANSIT
+
+TOTALS
+
+On Time
+Performance
+Improper
+Procedure/Behavior
+Call Center Error
+
+28
+
+4
+
+6
+
+3
+
+1
+
+42
+
+20
+
+2
+
+8
+
+8
+
+2
+
+40
+
+0
+
+0
+
+0
+
+0
+
+19
+
+19
+
+Miscellaneous
+
+2
+
+0
+
+0
+
+0
+
+0
+
+2
+
+Careless Driving
+
+6
+
+2
+
+2
+
+4
+
+0
+
+14
+
+Failed to Provide
+Door-to-Door
+Wrong Location
+
+5
+
+0
+
+3
+
+0
+
+0
+
+8
+
+9
+
+0
+
+1
+
+1
+
+0
+
+11
+
+Driver Failed to
+Secure
+Excessive Ride Time
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+4
+
+1
+
+1
+
+0
+
+0
+
+6
+
+Maintenance
+
+1
+
+0
+
+0
+
+0
+
+0
+
+1
+
+No Show /
+Cancellation Dispute
+Did Not Follow
+Driver’s Alert
+Software
+
+7
+
+1
+
+2
+
+1
+
+2
+
+13
+
+1
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Policy Concern
+
+2
+
+0
+
+0
+
+0
+
+0
+
+2
+
+Assault
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Total Complaints
+
+85
+
+10
+
+23
+
+17
+
+24
+
+159
+
+Total Passenger
+Trips
+Complaints Per
+Passenger
+
+85862
+
+28111
+
+26736
+
+27894
+
+168603
+
+168603
+
+0.0010
+
+0.0004
+
+0.0009
+
+0.0006
+
+0.0001
+
+0.0009
+
+An analysis of this report confirms that the highest percentage of complaints relate to our
+On Time Performance. Staff continues to undertake proactive steps in order to improve
+this performance standard. We continue to meet with carrier dispatch personnel and
+developing policies and procedures that will assist the call center with driver call offs and
+trips redistribution.
+
+Packet Pg. 40
+
+Attachment: Complaint Report 2013 1st Qtr (1604 : Access-a-Ride 1st Quarter 2013 Report)
+
+The following chart outlines the number and type of complaints filed against the Access-aRide Service per Provider.
+
+1.C.5
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: June 13, 2013
+
+From:
+
+Bruce Abel, Assistant General Manager
+
+GM
+
+Date:
+
+June 11, 2013
+
+Board Meeting Date: June 18, 2013
+
+Subject:
+
+Radio and Computer Aided Dispatch and
+Automatic Vehicle Location (CAD/AVL) Project
+Status Update
+
+Information
+
+INTRODUCTION
+The high severity problems with the system appear to be resolved. Installations are ongoing, but have
+not returned to previous rates. INIT is working on a resolution. Below is a capsulated summary that is
+followed by a list of current and upcoming activities.
+MAJOR PROJECT ELEMENTS STATUS
+Key
+
+Element
+
+Status
+
+1
+
+CAD/AVL Contract
+Testing and Problem
+Resolution
+
+System performance is back to acceptable levels. The last
+severity Level 1 problem appears to be resolved. Because of
+the Level 1 problem, the 60-day mini-fleet test was restarted
+and will extend into August.
+
+2
+
+3
+
+4
+
+5
+
+CAD/AVL
+Installations
+CAD/AVL Contract
+Automatic Stop
+Announcements (ASA)
+CAD/AVL Contract
+Database Interfaces
+
+Real-Time Passenger
+Information (RTPI)
+
+
+Yellow
+
+
+Yellow
+
+815 buses are installed. Projections still show August
+completion. Installations have not returned to previous rates.
+INIT is looking into potential remedies.
+Eleven Street Supervisor vehicles have been installed.
+ASA drive testing went well. The length of messages may be
+
+ a problem on shorter blocks. Modification of announcements
+Green
+
+are being considered to adjust for this limitation.
+
+
+
+Asset management and incident interfaces are going through
+detailed testing that will extend into July.
+A downstream data management interface with Ride Check
+Plus is being developed. Ride Check Plus is a post-processing
+data analysis tool.
+
+Green
+
+
+Green
+
+Funding considerations will push implementation of Traveler
+Information Systems for buses to 2015 – 2016.
+Implementation for trains is not funded within the 6-year
+Strategic Budget Plan.
+
+Packet Pg. 41
+
+1.C.5
+
+UPCOMMING ACTIVITIES / EVENTS
+Activity / Event
+
+Time Frame
+
+CAD/AVL Mini-fleet testing
+
+7/2012 - 8/2013
+
+Fixed-Route Bus Installations
+
+7/2012 - 8/2013
+
+CAD/AVL System Acceptance Testing
+
+3rd & 4th Quarter 2013
+
+COMPLETED ACTIVITIES
+The following project activities either complete or substantially complete and are no longer risks to the
+project’s success.
+ Paratransit Data Upgrade Project
+ Radio Network Build Project
+ Radio-only mobile and portable radio installation and deployment
+ Operations Control Center (OCC) Remodel
+ CAD/AVL and SMT interface development and testing
+Prepared by:
+Eric Farrington, Program Manager, IT
+Approved by:
+
+Packet Pg. 42
+
+1.C.6
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: June 12, 2013
+
+From:
+
+Terry Howerter, Chief Financial Officer
+
+GM
+
+Date:
+
+June 11, 2013
+
+Board Meeting Date: June 18, 2013
+
+Subject:
+
+Smart Card Project Status Update
+
+INTRODUCTION
+The Smart Card Program continues to successfully gather taps for EcoPass and CollegePass riders.
+During the month of May, 2013, 1.1M taps were recorded, a slight reduction from April due to a
+reduction in college pass use as many colleges and universities reached their semester end. The
+Smartcard Customer Service Center, (Operated under an RTD contract with Xerox by Celina, Inc.)
+continues to distribute new cards upon request, issue replacement cards and answer riders’ questions as
+they arise.
+All bus installations are completed. A technical Support Team meets weekly to discuss reported issues
+as well as determine steps required to address issues that arise. A work effort is under way to
+repair/replace defective stanchions on which the Smart Card readers are mounted.
+All one-hundred-nine Light Rail validators have been installed and are operational. Work on the
+installation of two additional validators at 16th/California and 18th/California is underway. An RFP
+(Request for Proposal) has been published to retain a work order contractor to provide on-call installation
+electrical services for additional validators as needed.
+The Fare Inspector software used to confirm that passengers have tapped prior to boarding is
+functioning sporadically and requires adjustments currently being addressed by Xerox. Xerox has
+suggested solutions to the issues and they are working to have them implemented by July 31, 2013;
+RTD is encouraging Xerox to implement the solutions sooner. Fare Inspectors continue to operate in an
+“educate & inform” mode, and will receive additional training on the software improvements when
+implemented.
+300 Retail Point of Sales (RPOS) Terminals were delivered to RTD on May 10, 2013. Detailed testing
+scenarios are being developed to ensure a seamless integration of the point-of sale units into the existing
+Smart Media Technology platform. Efforts continue to complete the Retailer’s Agreement/Application
+for Legal review. RTD Marketing staff plan to meet with Safeway and King Soopers after a contract is
+signed to develop the appropriate marketing campaign. In addition to the web portal already in place,
+approximately 150 locations will be established throughout the region for riders to purchase monthly
+passes and/or add value to their cards. Planning for Phase 2 of the program is in full-swing and the
+schedule continues to be evaluated to ensure adequate timing for a successful Phase 2 launch.
+On May 28, 2013 a new Xerox Project Manager joined the team, and will be working closely with the
+Smart Media Program Team to manage vendor activities.
+
+Packet Pg. 43
+
+1.C.6
+
+1. BUS INSTALLATIONS
+Key
+
+Elements
+
+
+
+Status
+
+Green
+1
+
+674 = Number of buses requiring replacements
+62 = Number of replacements completed
+13 = Number of replacements since last report
+9% Complete
+
+Stanchion Replacements
+
+2. PLATFORM INSTALLATIONS
+Key
+
+Elements
+
+
+
+Status
+
+Green
+2
+
+Installation
+
+
+
+104 Installed, 0 Not finish, 100% Complete;
+Received final approval from the Denver Downtown
+Partnership to provide power to a newly installed
+validator at 16th and California. Installation is under way.
+
+3. FARE INSPECTOR HANDHELD SMART MEDIA READERS (HSMR)
+Key
+
+Elements
+
+
+
+Status
+
+Yellow
+
+3a
+
+Installations
+
+
+
+3b
+
+Ride-a-long
+
+
+
+3c
+
+User Manual and
+Training
+
+
+
+A work-around has been established for previously noted
+problems. Vendor engineers are working on a “power
+save management” feature that would shut down the
+handhelds in an effort to save battery power. This fix is
+due on 6/19/13. The device requires a daily update, and
+in order to keep the device current, the fare inspectors
+must cradle the hand-held and manually request an
+update to each device.
+Xerox is investigating
+improvements to this process.
+The SMT Program Team conducted a “ride-a-long” with
+Xerox, Security Fare Inspectors and technicians. Two
+teams of people shadowed four Fare Inspectors in action,
+and observed and documented issues encountered during
+the trips. The handheld devices worked as designed;
+however there were issues identified with the cradles in
+which the handheld devices are placed in order to receive
+their updates. Training issues were also identified and the
+SMT Program Team will collaborate with Fare Inspector
+leadership to make arrangements for training.
+A user manual for the HSMRs has been written and
+delivered to the Fare Inspectors. A “train the trainer”
+approached will be used to ensure that all Fare Inspectors
+receive the training they need to correctly use the
+HSMRs.
+
+Packet Pg. 44
+
+1.C.6
+
+4. WEB PORTAL
+Key
+
+Elements
+
+
+
+Status
+
+Green
+
+4a
+
+Design Review
+Phase 1 Punch List
+
+Work continues to verify and validate that the items on
+the punch list have been completed. Xerox has provided,
+through release notes, a list of the items that have been
+addressed. The metrics below are current as of the time
+this report was submitted. 5 defects were corrected.
+
+
+
+4b
+
+Marketing Review
+
+
+
+4c
+
+Bulk Upload & Suspend
+
+
+
+5. CARD DISTRIBUTION
+Key Elements
+
+
+
+Total Records:
+
+116
+
+Open
+
+54
+
+47%
+
+In Progress
+
+13
+
+11%
+
+Verify
+
+24
+
+21%
+
+Closed
+
+24
+
+21%
+
+Marketing has been provided the URL to the Web Portal
+Test Platform and are in the process of reviewing the
+portal, as well as messages and emails generated by the
+portal.
+The Bulk Upload & Suspend code was delivered on time
+by Xerox. The Upload functionality performs as expected
+and was moved into production on Thursday, 5/30/13.
+
+Status
+
+Green
+
+5
+
+Card Issuance
+
+6. REPORTS
+Key Elements
+
+
+
+
+
+The RFP to purchase additional cards is in its final stages
+of development and is almost ready for posting.
+Additionally, a Change Order with Xerox has been created
+to order more cards to provide enough stock through the
+end of the year.
+
+Status
+
+Green
+
+6
+
+Reports
+
+
+
+Additional APOS (Agency Point of Sale) reporting
+requirements have been identified and are being written.
+Back-end and Systems report requirements have been
+documented and provided to RTD report writing experts.
+Additional access to back-end system tables will be
+required and RTD is working with Xerox to obtain the
+appropriate level of access.
+
+Packet Pg. 45
+
+1.C.6
+
+7. MARKETING
+Key
+
+Elements
+
+
+
+Status
+
+Green
+7
+
+Strategy
+
+
+
+Marketing strategy discussions for Phase 2 have begun.
+The Marketing Team has been provided access to the test
+version of the SMT Web Portal.
+
+8. COMMUNICATIONS
+Key
+
+Elements
+
+
+
+Status
+
+Green
+
+8
+
+Communications continues to assist with messages
+delivered
+to
+Ride
+Sponsors
+as
+issues
+arise.
+Communication strategy discussions for Phase 2 have
+begun. A Program-Level communication plan is being
+developed.
+
+Strategy
+
+9. RETAIL POINT OF SALE (RPOS)
+Key
+
+Elements
+
+
+
+Status
+
+Green
+9a
+
+Safeway
+
+
+
+9b
+
+King Soopers
+
+
+
+9c
+
+7-Eleven
+
+
+
+9d
+
+Design Review
+
+
+
+9e
+
+Installation Site Surveys
+
+
+
+9f
+
+Factory Acceptance
+Testing
+
+
+
+Safeway has committed to continue selling RTD
+products. Safeway has a moratorium on all changes
+during the months of November and December.
+Meeting with King Soopers held in early March. They
+have indicated they would like to avoid their busy months
+of November and December for implementation and
+training of their staff. Installations of the units may be
+done during this time as long as the work is done during
+the overnight hours.
+No response from 7-Eleven; may possibly pursue a
+partnership with Walgreens.
+Design document has been approved. RTD will provide a
+cellular modem for communication to the RTD network.
+All 300 RPOS Units were delivered to RTD on time.
+Network installations at all RTD Retail outlets have been
+completed and the sites are ready for RPOS installation at
+the appropriate time.
+Testing is scheduled for the week of June 24th. Xerox
+will be onsite for testing and test plans will be developed
+prior to commencing.
+
+NEAR-TERM ACTIVITIES / EVENTS (2013/2014)
+Activity / Event
+300 RPOS Units Received
+Installation & Training of RPOS Units (RTD Locations)
+
+Time Frame
+May, 2013 – Received
+May – July, 2013
+
+Packet Pg. 46
+
+1.C.6
+
+Activity / Event
+Installation of RPOS Units (other than RTD locations)
+Period passes and Stored Value:
+RTD Retail Locations and Web
+King Soopers/Safeway/Other Retailers
+Elimination of Paper-based fare products
+Major reduction of Paper-based transfers
+
+Substantial System Completion (All Deliverables)
+
+Time Frame
+December 2013 – February 2014
+October 15, 2013
+March 15, 2014
+2014
+2014
+Phase 1
+(Eco, College, Neighborhood):
+Complete
+Phase 2
+(MyRide - Passes/Stored Value):
+Spring 2014
+Phase 3
+(Reduced Fare Program &
+FlexPass)
+4th Quarter 2014
+
+Prepared by:
+Judy McMurphy, IT Program Manager
+Beverly Scott, IT Program Manager
+Approved by:
+
+Packet Pg. 47
+
+1.C.7
+
+BOARD OF DIRECTORS REPORT
+To:
+
+Phillip A. Washington, General Manager
+
+Date: June 13, 2013
+
+From:
+
+David Genova, Assistant General Manager
+
+GM
+
+Date:
+
+June 13, 2013
+
+Board Meeting Date: June 18, 2013
+
+Subject:
+
+1st Quarter 2013 Security Statistics & Fare
+Inspection Summary
+
+DISCUSSION:
+Fare Enforcement Statistics
+Fare inspectors, security officers, street supervisors, and police officers, conduct fare inspection onboard buses and light rail vehicles. RTD’s policy is to provide a warning to first time offenders and then
+to issue a citation if that person is contacted a second time without fare. The table below shows the
+actual number of patrons without fare that resulted in warnings or citations. The variation in numbers
+from month to month may be due to several factors: special events or other security security-related
+incidents.
+Fare
+Inspection
+Warnings
+Citations
+Totals
+
+January
+1,342
+439
+1,781
+
+February
+1,471
+519
+1,990
+
+March
+1,870
+549
+2,419
+
+Light Rail Station Sweeps and on-Board Enforcement Sweeps
+In addition to the regular on-board fare enforcement, Allied Barton Security officers conduct random,
+unannounced fare checks at light rail platforms twice a week. Below are the numbers of patrons
+contacted during the quarter. Any area that exhibits a higher fare evasion rate, we go back to that area
+and conduct an on-board enforcement sweep.
+
+Number of Patrons Quarter 2013
+Patrons Checked Without Fare
+% Fare Evasion
+18,233
+143
+0.8
+Number of Patrons 2013 Yearly Total
+Patrons Checked Without Fare
+% Fare Evasion
+18,233
+143
+0.8
+Plain Clothes Police Officer Fare Inspection
+Police Officers are placed on bus and rail vehicles that have been identified by operators, supervisors,
+dispatch logs and patrons as having a high perception of fare evasion, fare disputes or other problems.
+The following tables summarize information for the months of January, February, and March. These
+tables lists the number of patron boardings observed, no fare or partial fares, the estimated fare evasion
+rate, the number of warnings and citations issued, and the number of arrests made by police officers.
+Arrests include citations issued or physical arrests made for criminal violations other than fare evasion.
+This is an additional advantage to the plain clothes police fare inspection program as peace officers have
+
+Packet Pg. 48
+
+1.C.7
+
+the authority to check for warrants and take the appropriate law enforcement action. This quarter the
+bus routes inspected include the 15, 16, 31 & 0.
+Dates
+
+Boardings
+Observed
+
+January
+February
+March
+
+620
+733
+738
+
+No
+Fares/Partial
+Fares
+4
+6
+0
+
+Bus
+Warnings
+
+Citations
+
+% of
+Evasion
+
+Arrests*
+
+0
+6
+0
+
+4
+0
+0
+
+2.1
+0.8
+0.0
+
+46
+43
+74
+
+The below chart shows the plain clothes police fare enforcement observations for light rail. There is a
+slightly higher fare evasion rate observed by the plain clothes program than for the rail station sweeps
+and bus enforcement because of the following factors:
+ Fare station sweeps are conducted by uniformed security officers; these officers require all
+patrons to have fare before boarding vehicles
+ Rail operators do not have any interface with patrons, while bus operators do ask for fare
+ Plain clothes police officers do not have a deterrence factor as uniformed officers, thus they
+inherently find more violations of fare evasion.
+
+*
+
+Dates
+
+Boardings
+Observed
+
+January
+February
+March
+
+2,989
+2,788
+2,692
+
+No
+Fares/Partial
+Fares
+151
+134
+151
+
+Rail
+Warnings
+
+Citations
+
+% of
+Evasion
+
+Arrests
+*
+
+91
+85
+109
+
+60
+49
+42
+
+5.1
+4.8
+5.6
+
+4
+3
+5
+
+Arrests include citations issued or physical arrests made for criminal violations other than fare
+evasion.
+
+Security Officer Use of Force Incidents
+Use of Force is defined as any hands on touching of a suspect by a security officer to detain a suspect
+or make a citizen’s arrest. The majority of these issues are minor in nature. No injuries to any suspect
+or officer occurred in this reporting quarter. The following table summarizes the use of force incidents
+per month.
+January
+(New Co.)
+
+February
+4
+
+March
+15
+
+Totals
+19
+
+Please contact David Genova at 303-299-4038 or John Tarbert at 303-299-2379 with any
+questions.
+ATTACHMENTS:
+
+
+ON-BOARD FARE SWEEPS
+
+(XLS)
+
+
+
+G4S Station Enforcement
+
+(XLS)
+
+
+
+G4S On-Board Sweeps (XLS)
+
+
+
+G4S Station Checks
+
+(XLS)
+
+Packet Pg. 49
+
+1.C.7
+
+Prepared by:
+John Tarbert, Transit Police Chief
+Approved by:
+
+Packet Pg. 50
+
+Date of
+Sweep
+
+Day of
+Sweep
+
+Time of
+Sweep
+
+Beginning
+Station
+
+Ending Station
+
+2/8/2013
+
+Friday
+
+1500 - 1700
+
+University
+
+Orchard
+
+# of
+TSOs
+
+# of Fare
+Inspectors
+
+4
+
+0
+
+TOTALS
+2/10/2013
+
+Sunday
+
+1800 - 2000
+
+Evans
+
+Mineral
+
+4
+
+0
+
+TOTALS
+2/13/2013
+
+Wednesday
+
+1500 - 1700
+
+Yale
+
+Nine Mile
+
+4
+
+0
+
+TOTALS
+2/21/2013
+
+Thursday
+
+1500 - 1700
+
+Littleton
+
+I-25 & Broadway
+
+4
+
+0
+
+TOTALS
+2/27/2013
+
+Wednesday
+
+1830 - 2030
+
+10th & Osage
+
+16th Street
+
+3/2/2013
+
+Saturday
+
+0900 - 1100
+
+Southmoor
+
+Nine Mile
+
+3/6/2013
+
+Wednesday
+
+1500 - 1700
+
+20th & Welton
+
+30th & Downing
+
+3/13/2013
+
+Wednesday
+
+1000 - 1200
+
+I-25 & Broadway
+
+Littleton
+
+3/15/2013
+
+Friday
+
+1000 - 1200
+
+University
+
+Belleview
+
+3/20/2013
+
+Wednesday
+
+1500 - 1700
+
+I-25 & Broadway
+
+10th & Osage
+
+3/22/2013
+
+Friday
+
+0800 - 1000
+
+Evans
+
+Mineral
+
+5
+
+0
+
+TOTALS
+4
+
+0
+
+TOTALS
+4
+
+0
+
+TOTALS
+4
+
+0
+
+TOTALS
+4
+
+0
+
+TOTALS
+4
+
+0
+
+TOTALS
+4
+
+0
+
+TOTALS
+3/23/2013
+
+Saturday
+
+0900 - 1100
+
+Belleview
+
+Lincoln
+
+4
+
+0
+
+TOTALS
+3/24/2013
+
+Sunday
+
+1000 - 1200
+
+Alameda
+
+Louisiana
+
+3
+
+TOTALS
+
+OVERALL TOTALS
+
+0
+
+579
+579
+196
+196
+563
+563
+432
+432
+420
+420
+148
+148
+201
+201
+285
+285
+282
+282
+486
+486
+385
+385
+116
+116
+197
+197
+
+13
+13
+7
+7
+19
+19
+4
+4
+9
+9
+6
+6
+8
+8
+9
+9
+9
+9
+5
+5
+8
+8
+5
+5
+5
+5
+
+% of
+potential
+evasion
+2.25%
+2.25%
+3.57%
+3.57%
+3.37%
+3.37%
+0.93%
+0.93%
+2.14%
+2.14%
+4.05%
+4.05%
+3.98%
+3.98%
+3.16%
+3.16%
+3.19%
+3.19%
+1.03%
+1.03%
+2.08%
+2.08%
+4.31%
+4.31%
+2.54%
+2.54%
+
+4,290
+
+107
+
+2.49%
+
+# of patrons # of patrons
+checked
+w/o fare
+
+Warnings
+Issued
+
+Citations
+Issued
+
+Suspension
+Issued
+
+10
+10
+6
+6
+16
+16
+3
+3
+1
+1
+4
+4
+6
+6
+7
+7
+5
+5
+4
+4
+5
+5
+5
+5
+4
+4
+
+3
+3
+1
+1
+3
+3
+1
+1
+8
+8
+2
+2
+2
+2
+2
+2
+4
+4
+1
+1
+3
+3
+0
+0
+1
+1
+
+1
+1
+0
+0
+1
+1
+0
+0
+5
+5
+2
+2
+1
+1
+0
+0
+3
+3
+0
+0
+0
+0
+0
+0
+0
+0
+
+76
+
+31
+
+13
+
+Attachment: ON-BOARD FARE SWEEPS (1616 : 1st Quarter 2013 Security Statistics & Fare Inspection
+
+1.C.7.a
+
+Packet Pg. 51
+
+Date of
+Check
+
+Day of
+Check
+
+Time of
+Check
+
+Station Location
+
+# of
+CPOs
+
+1/12/2013
+
+Sunday
+
+1230 - 1630
+
+Sports Authority
+
+6
+
+% of
+potential
+evasion
+1.27%
+1.27%
+
+6,790
+
+86
+
+0.93%
+
+# of patrons
+checked
+
+0
+
+TOTALS
+
+OVERALL TOTALS
+
+6,790
+6,790
+
+# of
+patrons
+w/o fare
+86
+86
+
+# of Fare
+Inspectors
+
+Warnings
+Issued
+
+Citations
+Issued
+
+Suspension
+Issued
+
+79
+79
+
+7
+7
+
+1
+1
+
+79
+
+7
+
+1
+
+Packet Pg. 52
+
+Attachment: G4S Station Enforcement (1616 : 1st Quarter 2013 Security Statistics & Fare Inspection
+
+1.C.7.b
+
+Date of
+Sweep
+
+Day of
+Sweep
+
+Time of
+Sweep
+
+Beginning
+Station
+
+Ending Station
+
+1/9/2013
+
+Wednesday
+
+1900 - 2100
+
+Southmoor
+
+Nine Mile
+
+# of
+CPOs
+
+# of Fare
+Inspectors
+
+4
+
+0
+
+TOTALS
+1/11/2013
+
+Friday
+
+1530 - 1730
+
+Evans
+
+Mineral
+
+4
+
+0
+
+TOTALS
+1/24/2013
+
+Thursday
+
+1900 - 2100
+
+Littleton
+
+I-25 & Broadway
+
+4
+
+TOTALS
+
+OVERALL TOTALS
+
+0
+
+115
+115
+347
+347
+482
+482
+
+5
+2
+2
+2
+3
+2
+
+% of
+potential
+evasion
+4.35%
+1.74%
+0.58%
+0.58%
+0.62%
+0.41%
+
+944
+
+8
+
+0.85%
+
+# of patrons # of patrons
+checked
+w/o fare
+
+Warnings
+Issued
+
+Citations
+Issued
+
+Suspension
+Issued
+
+5
+5
+0
+0
+2
+2
+
+0
+0
+0
+0
+1
+1
+
+0
+0
+0
+0
+0
+0
+
+7
+
+1
+
+0
+
+Attachment: G4S On-Board Sweeps (1616 : 1st Quarter 2013 Security Statistics & Fare Inspection
+
+1.C.7.c
+
+Packet Pg. 53
+
+Date of
+Sweep
+
+Day of
+Sweep
+
+Time of
+Sweep
+
+Station
+
+# of CPOs
+
+1/12/2013
+
+Sunday
+
+1630 - 2030
+
+Sports Authority
+
+6
+
+# of Fare
+Inspectors
+0
+
+TOTALS
+
+OVERALL TOTALS
+
+6,209
+6,209
+
+47
+47
+
+% of
+potential
+evasion
+0.76%
+0.76%
+
+6,209
+
+47
+
+0.76%
+
+# of patrons # of patrons
+checked
+w/o fare
+
+1.C.7.d
+
+Attachment: G4S Station Checks (1616 : 1st Quarter 2013 Security Statistics & Fare Inspection Summary)
+
+STATION SWEEPS
+
+Packet Pg. 54
+
+

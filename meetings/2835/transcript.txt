@@ -1,0 +1,1993 @@
+January 15, 2019
+Financial Administration & Audit Committee
+KEN MIHALIK: Read the first one. It is recommended by the Financial Administration and
+Audit Committee that the Board of Directors authorize the General Manager or his Designee to
+negotiate and execute all documents necessary to amend Contract Number 17-Delta-Oscar-02,
+MCCi Laserfiche VAR Services and Support, to increase the contract amount from the current
+total of $499,850 by $890,000 to a new total not-to-exceed amount of $1,389,850-- and this is
+subject to further Board action by budget authorization for budget years 2020 through 2022-- in
+order to support RTD's operations, maintenance, and product development based on Laserfiche
+software through 2022. And this supports the Core Goal Number 3, strong financial
+management. Do I have a motion?
+BOB BROOM: Move approval.
+JEFF WALKER: Second.
+KEN MIHALIK: Thank you, Director Broom and Director Walker. And, Rolf, I'm going to
+leave it to you to fill in the blanks.
+ROLF ASPHAUG: Thank you, Chairman Mihalik. This is Rolf Asphaug, General Counsel. And
+I'd like to introduce today two members of our Information Governance and Management
+Division. The first is Program Manager for ECM-- that's Enterprise Content Management-- Patty
+Schmidt-Reed to the left.
+And to her left at the right is Lisa Dorrance, who's the Program Manager for Information
+Management. And I believe Ms. Dorrance will speak a little more on the proposals that you have
+in front of you. And we'll be happy to answer any questions afterwards.
+LISA DORRANCE: Thank you. As mentioned in the report, we are seeking-- Sorry. As
+mentioned in the report, we are seeking contract amendment authority to increase the budget by
+$890,000. And I think it's important to note that that money was already budgeted for the 2019
+budget. So we are not seeking money that we don't already have.
+And it may seem like it's a lot of money, but it's going to be stretched over three years to
+implement records management and document control projects around RTD. And in 2019, as it's
+mentioned in the report, we were able to implement quite a few projects-- the SMS Project, the
+HR Digitization Project. We also helped save thousands of dollars on the decal distribution by
+using Laserfiche forms.
+So what Laserfiche really is an Enterprise Content Management that has workflow and business
+process capabilities so that we can help RTD to go with less paper and automate a lot of our
+processes. And I don't know if anybody else has any questions.
+
+KEN MIHALIK: Thank you for that. I see one. Director Broom?
+BOB BROOM: Thank you, Chair. What kind of off-site backup do you have for this system, or
+will you have?
+LISA DORRANCE: Our backup is done by our own IT department. It's not a cloud system.
+Usually, if it's a cloud system, you'll have off-site backup, but ours is on-site and backed up by
+our IT department.
+BOB BROOM: Is fiche a physical thing, or is it-LISA DORRANCE: No, it's kind of a funny name. I think when people hear fiche, they think of
+the old term of microfiche and that kind of like a film. It's just a name, Laserfiche. It's a
+completely electronic system.
+BOB BROOM: OK, thank you.
+KEN MIHALIK: Thank you for that. I am looking around. I'm going to go to Director Catlin, see
+if she any comments or questions.
+PEGGY CATLIN (ON PHONE): I do not. Thank you, Chair Mihalik.
+KEN MIHALIK: OK, thank you. Seeing nobody else in the queue, we will move to a vote on
+this. And, again, it was Director Broom as the mover, Director Walker as the second.
+PEGGY CATLIN (ON PHONE): Chair Mihalik, I will be in support of this motion.
+KEN MIHALIK: Thank you for that.
+LYNN GUISSINGER: Yeah. Should I go get her?
+KEN MIHALIK: I'll just note that Director Guissinger is having some IT issues.
+LYNN GUISSINGER: Just trouble getting in.
+KEN MIHALIK: You can make your-ANGIE RIVERA-MALPIEDE: We might be able to use Laserfiche for this voting system.
+KEN MIHALIK: How would you be voting on that?
+LYNN GUISSINGER: Yes.
+KEN MIHALIK: OK. You may not be the only one. For those having issues, you could make
+your vote verbally. And so with Director Catlin's yes and Director Guissinger's yes, we have 14
+
+yeses, and it passes unanimously. Thank you very much. Onto the second of two. Thank you for
+that presentation.
+Onto the second of two recommended actions. And this one admittedly is maybe a little
+unorthodox, and I'll just ask for your patience. But let me read it. The motion reads as, to have a
+competent, independent party company perform a complete financial analysis to evaluate and
+compare the RTD and Denver Transit Partners proposals for the start-up and first 10 years of
+dispatch, operations, and maintenance for the North Metro Rail Line-- parentheses, NMRL.
+The Board of Directors hereby directs the General Manager to commission a competent, suitable,
+and independent agency to perform a complete financial analysis in an amount not to exceed
+$50,000. Subsequent to the complete analysis, a decision will be made by the appropriate RTD
+committee to move an action forward to the Board of Directors who shall vote on which entity
+shall dispatch, operate, and perform maintenance on the North Metro Rail Line-- paren NMRL.
+The December 2018 action to acquire four additional properties for a North Metro Rail Line
+Maintenance Facility, which will require displacing several businesses, shall be suspended until
+the Board of Directors review and affirm those property acquisitions under state eminent domain
+law. This supports Core Goal Number 1, successful delivery of transit services, and Task Goal
+Number 1, fiscal sustainability. Is there a mover?
+CLAUDIA FOLSKA: So moved.
+JUDY LUBOW: Second.
+KEN MIHALIK: Thank you, Director Folska and Director Lubow. And I'm going to first
+recognize Director Menten.
+NATALIE MENTEN: Actually, ignore this for the moment. I think you're going to move into
+whether the presentation is allowed. So I'm going to click the Never Mind button and let you
+keep going.
+KEN MIHALIK: Well, yes, I'll preface that. Director Menten does have a presentation, and we
+need to-JUDY LUBOW: Can you talk into the microphone?
+KEN MIHALIK: Sorry about that. Get real close. Director Menten does have some materials to
+present. And if anyone is-- if there's no one opposed to it, then she can present those because
+they were not provided in the packet previously. We just wanted to get approval for that.
+JUDY LUBOW: No opposition.
+KEN MIHALIK: Seeing no opposition, then you are clear to present.
+
+NATALIE MENTEN: OK. And then I didn't know if you wanted to do the second half of that
+also at the same time. The second presentation, which-JUDY LUBOW: [INAUDIBLE]
+KEN MIHALIK: I'm not sure which second presentation you're referring to.
+NATALIE MENTEN: With Henry.
+KEN MIHALIK: Oh. Mr. Stopplecamp, you are welcome to go first in a presentation that you
+might have regarding this item.
+[LAUGHTER]
+Mr. Genova.
+DAVE GENOVA: Thank you, Mr. Chair. So earlier, just a matter of minutes ago, I sent some
+information out to the Board. There's four items in the-- well, there's three files attached to that
+email. There's a cost report summary, and there is a PowerPoint presentation that is a lot of the
+history regarding the end line and the various process that we've gone through with the Board
+over the last couple of years.
+And then there is a couple of sheets from Board reports-- excerpts out of the Board reports for
+the 2018 adopted budget and the 2019 adopted budget. So we could walk through that
+PowerPoint now. And I don't know if the Board is interested in us walking through any of the
+other information that was provided, but we're happy to do whatever the Board would like.
+KEN MIHALIK: And we'll treat this the same way, if there's no opposition to, again, both of
+these presentations. They were provided just earlier today. Seeing no opposition, I'll leave it to
+you, Mr. Stopplecamp, to review the pertinent items.
+HENRY STOPPLECAMP: Well, we do have a presentation, but I have not seen the presentation
+from Director Menten. So I'm not sure what we're responding to. So I mean, I can do that and go
+back and forth, but I think it'd be more appropriate if Director Menten shared her information,
+and then we can compare notes. But I can give you a presentation, but without knowing the
+intent, it's kind of difficult on my part.
+KEN MIHALIK: Understood. And I will remind everyone that I prefaced this as being a little
+unorthodox in how we're going to get this information out. While I'm thinking about that, I'm
+going to go to Director Lubow, and maybe she's got some guidance or maybe just a question.
+JUDY LUBOW: Just a comment, really, is that I'm looking for information about whether it's
+important and useful and efficient to have this audit. I've got hopefully an open mind, but I need
+to hear why it's necessary and why it's not necessary. I imagine there are going to be two
+opposing sides about this, so I'd like to hear that.
+
+KEN MIHALIK: Thank you for that. Director Buzek, you are next.
+VINCE BUZEK: Thank you, Mr. Chair. Just as a point of order, I would imagine that the
+Directors who are advancing this proposition should be the ones to begin the presentation so we
+can get all of that detail and then see what the response might be to that. Thanks.
+KEN MIHALIK: I am in agreement with you. And then I see Director Menten has joined the
+queue again. But, first, I'm going to go to Director Broom.
+BOB BROOM: Thank you, Chair. Just a couple observations, I guess. One is I'd hate to start
+down this road and end up postponing this project months and months as we struggle over this.
+And second, these are the folks that are suing us for a lot of money right now. And the proposal
+is perhaps to give them another big contract.
+And looking at how their numbers have changed between the original price, $28.8 million, and
+then it went down to $23, then to $20, and then to $14. It just seems like how in the world can
+something be that far off in the proposals? And so without having more information from staff,
+I'd really feel uncomfortable trying to make some kind of a decision on this tonight.
+KEN MIHALIK: Understood. Understood. And just another caveat, that General Counsel is
+going to be listening in on things that may enter the realm of Executive Session. And so they'll
+be cautious of that. But-ROLF ASPHAUG: Mr. Chair, if I could elaborate.
+KEN MIHALIK: Yes.
+ROLF ASPHAUG: This is Rolf Asphaug, General Counsel. My concern-- my main concern is
+that if there's discussion that goes into specific numbers that could potentially come back and be
+something that the Board is wanting us to negotiate on, we need to be very, very careful about
+that.
+We need to be careful to avoid any problems with unsolicited proposals, and we need to be
+careful to avoid any situation where we are essentially providing information in an open forum to
+potential bidders that would be detrimental to RTD's interests. So that's the main thing I want to
+be concerned about.
+KEN MIHALIK: OK. Thank you for that clarification. Director Menten, if I will, I'm going to go
+to Director Walker.
+JEFF WALKER: Thank you. I agree with what Director Broom said. And also, I was wondering
+if that $50,000 includes the cost of preparation of a Request for Proposal (RFP), the issuing of
+the RFP, and an analysis of any proposals that it received and contract negotiations that go along
+with those. Those can add up to be quite a bit of money, and I'm wondering if that's also include- if those costs are included in that $50,000. Thank you.
+
+KEN MIHALIK: Good questions. I'm going to turn it over to Director Menten and her
+presentation, and I hope it will answer and maybe even evoke some additional questions.
+NATALIE MENTEN: Do you want to go? Go ahead.
+KEN MIHALIK: Well, and then before, I guess, she starts, I'll go to Chair Tisdale real quick.
+DOUG TISDALE: I'm happy to wait. I was just going to say that I think it is beneficial for us to
+have Director Menten lay out what her concerns are. She is the author of this motion. It is a
+Director-initiated motion, which is a procedure that serves a very valid purpose to ensure that
+any areas of concern are fully fleshed out and discussed by the Board in the committee process.
+I'm happy to hear what she has to say to the extent that it raises questions or concerns amongst
+the Board as a whole. Acting as a committee of the whole, we can then look to staff to respond to
+any of the particular questions and then see whether the motion, in fact, should be supported or
+should be opposed. So it's just a procedural comment, and I appreciate the opportunity to express
+it.
+KEN MIHALIK: Well, I thank you for that. I'm in agreement. Director Menten, you have the
+floor.
+NATALIE MENTEN: All right. And so I'm supposed to be able to control the PowerPoint with
+this remote and going to need to get it up. There we go.
+HENRY STOPPLECAMP: No. No.
+NATALIE MENTEN: No, that's yours.
+HENRY STOPPLECAMP: That's-- OK. So the black memory stick is yours.
+NATALIE MENTEN: No. I put it on the desktop there.
+HENRY STOPPLECAMP: Oh. OK. Well, I'll find it. So this is North Metro Presentation. Go to
+this?
+SPEAKER 3: This is for individual.
+HENRY STOPPLECAMP: No, it's Financial Administrative Audit Committee.
+NATALIE MENTEN: That's it.
+JUDY LUBOW: That's it.
+HENRY STOPPLECAMP: OK. Financial Administration of Audit-- yep. Down there. And full
+size. OK.
+
+NATALIE MENTEN: I'm just kind of blindly pressing buttons here. Bring it up.
+HENRY STOPPLECAMP: I can move it forward, if you'd like. Like, I got control here.
+[LAUGHTER]
+ROLF ASPHAUG: Director Mihalik.
+HENRY STOPPLECAMP: Oh, once again, that's the black memory stick.
+ROLF ASPHAUG: Director Mihalik.
+KEN MIHALIK: Yes, sir.
+ROLF ASPHAUG: Or Chairman Mihalik, excuse me. This is Rolf Asphaug. I haven't seen this
+PowerPoint before, and I'm just a little concerned. I was wondering if we could take a very brief
+pause so I could just take a look through the slides and make sure there's nothing that would
+cause me to want to raise my hand and gesticulate wildly or something.
+KEN MIHALIK: No, I think that's a good idea. We'll do a-BOB BROOM: Five minute.
+KEN MIHALIK: --five minute recess to review that material.
+ROLF ASPHAUG: Thank you very much. Oh, thank you.
+NATALIE MENTEN: There's less on there.
+KEN MIHALIK: OK. Great. Thank you.
+PEGGY CATLIN (ON PHONE): Director Mihalik, this is Peggy Catlin.
+KEN MIHALIK: Yes.
+PEGGY CATLIN (ON PHONE): I don't have that PowerPoint presentation in front of me, and I
+don't feel very prepared to respond to this. But, I mean, I'll let it play out. But I also had some
+concerns about procurement rules, and I can ask those after the presentation. But since I'm not
+privy to the PowerPoint that might be put up, I'm a little bit concerned about my ability to
+respond. Thank you.
+KEN MIHALIK: Understood. I think any material that is presented will be discussed verbally as
+well. But understood.
+NATALIE MENTEN: Director Catlin, are you able to get to your email?
+
+PEGGY CATLIN (ON PHONE): Yes. In fact, I am able to get to my email.
+NATALIE MENTEN: OK. You would have gotten a more expanded copy in your email. And
+the PowerPoint is really just the major components of that email.
+PEGGY CATLIN (ON PHONE): Was that earlier today? When was that?
+NATALIE MENTEN: Yesterday.
+PEGGY CATLIN (ON PHONE): Yesterday. Oh, OK. So it's just what you sent out last night.
+NATALIE MENTEN: Yep.
+PEGGY CATLIN (ON PHONE): I have printed that out. It's mostly text then, correct?
+NATALIE MENTEN: Yes. Not a lot of fancy.
+PEGGY CATLIN (ON PHONE): Like a couple tables? OK. OK. I have that. So then I won't-- I
+just thought there might be a new PowerPoint presentation. So I'm fine. I have that material in
+front of me.
+NATALIE MENTEN: OK. Thank you.
+PEGGY CATLIN (ON PHONE): Yeah, thank you for clarifying that.
+NATALIE MENTEN: Sure.
+[SIDE CONVERSATION]
+HEATHER MCKILLOP: I want to know who's in charge of facilities around here.
+HENRY STOPPLECAMP: I'm pointing to the old guy who's in charge that set the temperature
+where it is.
+HEATHER MCKILLOP: I mean, there's like a thousand people in here, it's not bad. But when
+we're a small group-HENRY STOPPLECAMP: We can invite more people in this room.
+[SIDE CONVERSATION]
+ROLF ASPHAUG: All right.
+[SIDE CONVERSATION]
+NATALIE MENTEN: I'll let Rolf speak to his findings.
+
+ROLF ASPHAUG: Are we back?
+NATALIE MENTEN: Chair.
+KEN MIHALIK: If you are done. And I see everybody except Director Rivera-Malpiede. We'll
+give her another minute.
+ROLF ASPHAUG: Sure. There's really nothing that I need-- there's nothing I need to really
+speak about.
+KEN MIHALIK: OK. Rolf, you want to offer your findings?
+ROLF ASPHAUG: Well, actually, there aren't-- this is Rolf Asphaug again, General Counsel.
+There aren't any findings as such. But I did get an opportunity to look through what I understand
+is the script for what Director Menten is going to be talking about, not the slides themselves. And
+I didn't see anything at this point that caused concern on my part as to confidentiality.
+KEN MIHALIK: OK. Yes, General Manager.
+DAVE GENOVA: Thank you, Mr. Chair. Just in regard to Director Catlin's remarks around
+procurement, I just want the Board to know that Brian Iocano, our Senior Manager of
+Procurement and Materials Management, is also with us tonight. So if there are any questions
+regarding to RTD's formal procurement processes, we're prepared to answer those as well.
+KEN MIHALIK: Thank you for that. Yes, I saw him and was glad that he was sitting where he
+is. Director Menten, you have the floor.
+NATALIE MENTEN: Thank you. I'll try to make this flow very smoothly. So as you all know,
+this is an action regarding a third party financial review, and it has been added to the committee
+agenda as RTD Board-initiated request. It's a request to direct the RTD General Manager to
+contract with a competent independent third party audit or accounting firm to perform complete
+financial review of Denver Transit Partners' proposal to start up dispatch, operate, and maintain
+the North Metro Rail Line compared to the RTD's self-perform option.
+And the issue at hand really here is determine whether the Board through-- you're going to hear
+about many months that this covered. But in reality, there was not a tremendous amount of open
+discussion for the Board. And ultimately, the Board never voted on this single subject. So the
+question is, where we provided a reasonable and sufficient like-to-like comparison about the
+subject at hand?
+As many of you know, I would hope, Denver Transit Partners was awarded the contract-- a
+concessionaire agreement, we call it-- to build, dispatch, operate, and maintain the line to the
+airport, the B Line, and the Gold Line through year 2044. This contract was granted in 2010.
+Beyond that, they are also the contractor to maintain all of the commuter rail cars. So even if we
+were to operate this line, the DTP would be maintaining the vehicles.
+
+I'll again point out that the RTD Board of Directors never voted on this single action. And in
+looking at it in hindsight, I don't recall in all the years here-- which I'm going on my sixth year-I don't remember where a substantial action such as I consider this-- and I'll ask staff's feedback
+on this-- where we did not vote in on it as a single topic and have a discussion out in front of the
+public about that single subject.
+The approval was inferred to be via passage of the 2019 budget. And also, the 2018 budget will
+come into this and the mid-term financial plan. So I would like to ask-- and I know there are
+others in this interested in this, too-- that once we have had a complete financial comparative
+analysis done by an independent firm who doesn't hold the bias and the ownership that is both
+present-- and it's human nature by both those on staff's end and on DTP's end.
+I think we owe it to the constituent and the taxpayers if there is potentially, as when I put this on
+paper-- and I have shared with you the financial documents as well as I know them when they
+were presented-- that if this does amount to tens of millions of dollars, especially over a long
+period of time, that is money that could go towards building a true BRT.
+It could go towards building other parts of the system that are still on hold. And the voters were
+told within a certain amount of time, but we all know it's going to be a long time before it's done.
+Those tens of millions of dollars could go to the capital projects that we have. And I'm not
+speaking of just rail lines or bus rapid transit, but speaking about the repairs that are needed on
+our facilities, the state of good repair. So I think it is the best time right now before we start to
+dig ourselves deeper without knowing all of the numbers involved.
+And once we have had that comparative analysis done, that we then have that opportunity to vote
+on this single subject where all of us are on the record because that opportunity was not given to
+those that currently sit here right now and even those who are now, as of a couple of weeks ago,
+no longer here. They weren't given the opportunity to vote on a single subject. And I think we
+owe it to our constituents. I think we owe it to the taxpayers to know. Because you're all-- for
+those who were new and those who have a couple more years, we're all going to be living with
+that decision for a long time.
+And so moving forward just slightly, the history of the proposals in summary. DTP was
+approached because this was envisioned really from employees who are no longer here-- for
+those who remember Marla Lien. The concessionaire agreement, which is long term-- it goes to
+2044-- was that DTP would be invited to run the rail line for the North Line, the Northwest
+electrified section, to make it an all-in-one one commuter rail network.
+When DTP was asked by RTD staff-- and this goes back a couple of years ago-- to present a
+proposal, that ultimately resulted in four proposals. And in looking at that-- I was not involved
+with these conversations, but there were certainly time gaps in between when proposals and
+discussions took place.
+I don't know that I see all the information. Staff can answer that better. But the proposed pricing
+was supposed to be separated into two separate components. So I keep with that thread here, that
+we, one, talk about pre-revenue start-up and then, number two, operations and maintenance.
+
+In the four proposals that DTP submitted to us, which was only released to the Board because of
+a Board request, I initially requested this information November 27. That's going on a ways.
+Finally received the information-- now I have the calendar in front of me. But January 2, finally
+got the documents. These were readily available, but it took weeks before I even got those.
+And then at that time, staff shared those with all of the Board Directors, and I believe all the new
+Board Directors did get that in the white paper, which is marked confidential. But I have gotten
+approval to share these numbers. DTP started out with a higher number, yes-- $28.8 million in
+the original proposal.
+At that time, though, and throughout common thread, DTP mentioned in their emails, which you
+would have all gotten in that white paper, they wanted to have a discussion because they
+believed there could be cost savings to benefit the taxpayers, the agency. I'm not going to speak
+to any breakdown in communication. We all know we have some troubled waters, yes.
+But ultimately, DTP continued to submit proposals as these conversations went on. I am most
+interested in the last two pricing proposals, and that is from September 22, 2017, which for,
+again, just a section of pre-revenue and start-up service is $20.42 million dollars. These are
+unescalated dollars, and I'll get to that in a minute. So these are 2017 dollars.
+Third, or what we call here revision two, $20.42 million. The final proposal, $14.58 million. So
+we'd like to compare again. The whole mission here is compare apples to apples, like-to-like
+comparison. So we move to this chart here.
+And what I have taken is my best understanding of the dollars presented. And you'll see in the
+hard copy I gave you some screenshots of where I got certain numbers. So don't worry about
+skipping to that yet. You can look back.
+RTD's numbers for self-performing in the documents that I gathered were $32.7 million and
+escalated. There is a slight question here, but it seems to be that's on track still for the 2019
+escalation. So current dollars, $32.7 million.
+Now DTP's final proposal was $14.58. I want again get to like-to-like comparison. So we have to
+escalate the dollars, add in inflation. That puts it at $15.43 million. I added in the column of startup time. I know that is concern to some of the Directors especially where the North Line may go
+through their area. I believe we are still within a safe time considering especially the DTP is
+operating a commuter rail.
+And let's not forget-- and I'm not trying to stick up for DTP here, folks. I'm trying to look out for
+the taxpayers. But let's be reminded that we are bragging-- staff is bragging about on-time
+performance with the A Line as being, what I've heard, one of the best in the nation.
+So DTP's already operating a line. I do put a question mark. Will RTD start-up take longer? I
+believe it will. Will DTP be able to start it up sooner? I think they will, but I put question marks
+just in case.
+
+Next slide. I have built this in now. For those who have been involved in this conversation, you
+know that one of the comments consistently states that RTD has certain things it will be buying,
+paying for that DTP would not. So here I have added these in.
+Again, we're at $32.7 million for RTD to do the pre-revenue and start-up-- piece one. The rescue
+automotive locomotive was actually never envisioned when the proposals-- as far as I know-when this discussion took place to get the proposal. So RTD's intent was to buy a rescue
+locomotive just for the North Line.
+DTP, as far as I know, has never asked to price that. It was not part of the scope. So right away,
+we will say, OK, RTD, you've got $32.7 to get us to like-to-like. We're going to say, one, we
+take out that rescue locomotive, which, per our documents, was $1.8 million. I believe in
+parentheses, it said behind that "not to exceed."
+In the month of December, this Board of Directors was asked to give authorization to acquire
+four properties under the Colorado eminent domain law. In those documents was noted at $2.6
+million each. Frankly, I thought it was odd that they were both $2.6 million.
+That may have been posted incorrectly in those documents. And this is not my error. This is out
+of staff's documentation that the error would be. But that's what I had at the time when I created
+this document this morning.
+The RTD self-perform option, then, for pre-revenue service and start-up, excluding the rescue
+locomotive and these properties, which very well would not be needed-- we would not need to
+take the properties from property owners if DTP operated this line. This will affect several
+businesses. I find that to be a concern. But regardless there, getting us down to that number is
+$25.7 million. So that is our comparison number to our DTP, who would not be buying the
+rescue locomotive and does not need to acquire the 7-Eleven building, bay 3, or the O and M
+facility because they work out of the CM-- the commuter rail maintenance facility. So there's the
+comparison. $25.7 million, compared to 15.439, based off my best available documentation.
+And you all have these paper copies in front of you, if it's hard to look back there. But now we're
+going to move to part 2, which is the long term-- the actual-- get past the startup, then we're into
+dispatch operations and maintenance. We can't really count on-- even though we've got numbers
+for 2019, we're really not going to be dispatching, operating, and maintaining the North Line in
+2019.
+So I started with the figures in 2020. You'll see here a list of figures for RTD self-perform and a
+list of numbers for Denver Transit Partners. Again, trying to make this a like to like comparison-apples to apples-- what do I have to exclude here is under RTD self-perform there are certain
+constant cost factors. So I'm going to skip to the next slide for just one moment and then come
+back to this one.
+Constant cost factors, per an extensive meeting I had with Henry this last Friday-- constant cost
+factors include transit security officers, which are security guards, the electricity, and the power.
+That's always been what we were going to pay for. The maintenance-- ticket vending machines
+
+insurance. Per the numbers I'd gotten, that's $9.966 million. So I'm going to skip back one slide,
+now that you all know those costs come up out of RTD's pocket, regardless of who runs the line.
+So getting back to this, what I've done is taken what Heather McKillop had given me out of the
+mid-term financial plan just passed in November-- taken the split on what the North Metro was
+expected to run in operations and maintenance, and I eliminated or excluded the constant cost
+factors to try to get to apples to apples. And through these years, you'll see here-- and I'll read
+these out loud because it's not tremendously long-- in 2020, RTD self-perform would be $21.24
+million. DTP would be $15.65 million. In 2021, RTD self-perform $18.14 million. DTP-- $16.28
+million. 2022-- $18.84 million. DTP-- $16.23 million.
+Again, these are all millions. And I know you all can read, it but I know that we do have some
+sight, so that is why I'm just-- OK. So I apologize, but I am reading this for the record and for
+anybody who might not be able to see.
+2023-- RTD self-perform $20.04 million. DTP-- $17.88 million. 2024-- I'm almost done-- $24.84
+million. DTP-- $18.83 million. And the subtotals for those five years is RTD self-perform $103.1
+million, compared to $85.37 million. So for a five year period, this is not nickels and dimes. It's a
+substantial amount of money.
+I've already covered with the constant cost factors are and this right here is a slide that just shows
+the amended motion, which-- although I had put amended, I believe there was one word. I
+apologize. And I will want to bring this up to the Board as we move forward in a discussion with
+Heather McKillop. She suggested that the wording of right now, under recommended action, and
+I'm getting it in front of me here. Instead of just simply stating complete financial analysis to
+evaluate and compare, it would perhaps be better to say, complete financial and operational
+analysis to evaluate and compare the RTD and Denver Transit Partners proposals and so forth.
+From my point of view, that very well could be a good thing to add in because, as it has been
+brought to our attention, RTD-- and we talked about workforce here in our last committee
+meeting-- for RTD to operate, maintain, do all of these things will be 121 employees, including
+some, which will be redundant. It is expected that we will be hiring a Deputy Assistant General
+Manager. That's not a small annual salary. There will be other managers.
+So back to RTD's works-- headcount to run this line would be 121 employees, compared to
+Denver Transit Partners' proposal of 71 employees because they already have operations up and
+running completely. And with that, I believe that is the last thread, and I thank you very much for
+your attention.
+KEN MIHALIK: Thank you for that. Henry, I will give you a chance to respond, but let me just
+see if there's any questions or comments on that, just so far.
+NATALIE MENTEN: Chair, I'm sorry.
+KEN MIHALIK: Yes.
+
+NATALIE MENTEN: I have something. The paper packet that I did hand out also includes a list
+of questions, and I'm going to save those. I'm just reserving a spot, basically, because I will have
+some questions for staff on the comments, I think, that'll be coming forward.
+KEN MIHALIK: Understood. OK.
+NATALIE MENTEN: Thank you.
+KEN MIHALIK: Director Lewis?
+SHONTEL LEWIS: I'm just curious-- what's the other side of this? So what happens if we don't
+go in this direction? What does the end of this outcome look like? That would be helpful.
+KEN MIHALIK: Was that-- well, we generally don't do a back and forth, but was that directed
+towards Director Menten?
+SHONTEL LEWIS: Either.
+KEN MIHALIK: Well, I don't think that-- so if this motion were not to pass is the question?
+SHONTEL LEWIS: I just want to know what the alternative is to this.
+KEN MIHALIK: Yeah, the motion fails and that just proceeds as it would have yesterday.
+SHONTEL LEWIS: OK. Understood. So if it fails, then we're-- then what happens? You just
+continue to move forward? It's included in the budget? We could-- I just want-- then we're
+moving forward with this proposal that RTD currently has? Is that correct?
+KEN MIHALIK: Yes.
+SHONTEL LEWIS: Am I understanding-- OK, thank you.
+KEN MIHALIK: Seeing nobody else, I'll go to you, Henry.
+DAVE GENOVA: Mr. Chair?
+KEN MIHALIK: Sorry. One second. Yeah, I'll go to Chair Tisdale real fast.
+DOUG TISDALE: Thank you very much. Appreciate it. I know that there is perhaps an
+understandable desire on the part of the Board to hear from both Henry Stopplecamp and
+Heather McKillop relative to these matters. I will suggest that it's not necessarily something that
+we have to do if we look first at the structure of that which is before us.
+I absolutely have encouraged the movant and the Director to bring this matter forward in order to
+have the opportunity for a full dialogue with staff and with all interested parties, including
+representatives of Denver Transit Partners and Denver Transit Operators.
+
+We've had hours upon hours of meetings to go over these materials. And I think that's totally
+appropriate because I am a believer that every member of this Board has the right to ask
+questions and to receive reasonable answers relative to any concerns that they may have. That
+said, I believe once you have received the answers, we have a duty to go forward and accomplish
+our business.
+The part that I would like to emphasize relative to the question raised is the Board has never
+voted on the single action of saying, we shall operate the train. I submit that's for a very simple
+reason-- we don't have to.
+We never voted on operating the C Line or the D Line or the E Line or the F Line or the R Line.
+That's our business. We are statutorily authorized to do that. We do it. We don't come to the
+Board and say, can I run a train please, sir? We don't come to the Board and say, can I run a bus
+please, sir?
+The only thing that comes up for the Board is when we seek to deviate from that, when we seek
+to assign out, to delegate out to a third party the performance of that which we are authorized to
+do, that which we are created to do, that which we are empowered to do. So we don't come to the
+Board to vote on that. We can consider whether someone else should do it, but if we decide that
+other person shouldn't do it, then by default we do it. We operate it.
+And that's why, I submit, the specific question, the single action question, if you will, didn't
+come before us. It's also why it was included in the budget, and we considered it and looked at it
+and said, this is what it will cost us to do this. And we did approve that budget both in 2017 and
+in 2018.
+The numbers that have been presented-- and for this reason, I know that staff undoubtedly is
+eager to respond to some of these things. The numbers as presented, I think Director Menten will
+acknowledge, have been challenged and questioned by our Chief Financial Officer, who says,
+no, that's actually not the correct number.
+In Director Menten's defense, I will say that I think she's able, as far as I could tell, pretty much
+to point to specific places in the record where these numbers were expressly drawn from. And
+then staff acknowledges, yes, and sometimes we gave an early number and we came back and
+refined it and said, that number is wrong. This is the real number. People do that. We're allowed
+to.
+But they have been pointed out, and they haven't been pointed out here. And I think that we just
+need to state that for the record because there were a number of things, specifically the various
+charts, the tables, where those numbers are in fact, according to staff, today having the benefit of
+looking at this stuff, significantly at odds.
+That said, none of this is about, I believe, the Board now considering the subversion of its
+procurement process and creating an opportunity for the Board to say, you know what? We've
+talked about this for a couple of years. We've decided to do it for a couple of years. Let's rethink
+and let's redo it.
+
+I think that's a grievous mistake for this Board. I do believe that, as much as I very much
+appreciate all the hard work and all the careful examination, the analysis itself is flawed but wellintentioned, and not in any way, shape, or form something that should not be brought forward to
+put staff in a position to respond, to let us know.
+But I think, having responded-- and I think they may choose to do so now-- that we can then
+move on. I submit that the motion should be defeated, and the result of the defeat of the motion
+is that we would simply proceed as we have been. The motion is to change something. If we do
+not change it, we simply proceed as we have already previously approved. Thank you, Mr.
+Chairman.
+KEN MIHALIK: You are welcome. And I'll just stress that this is simply-- but for the delay or
+suspension of the eminent domain issue, it doesn't change really anything, that we're just trying
+to have that like to like comparison. Admittedly, some numbers have changed since we've seen
+them. This doesn't endorse DTP or anything like that. This is simply an effort to further evaluate
+it. We hear next from Director Lubow.
+JUDY LUBOW: Thank you, Chair Mihalik. I respectfully disagree with our esteemed Chair.
+And he's gone. I'm actually-- [LAUGHTER] He was hiding. I'm actually grateful for Director
+Menten bringing forth these figures, and I would love to hear from staff if they're incorrect. I
+think it's a valid thing to find out if they're accurate or not.
+But I think she's raised an important issue about whether we're getting the best deal for our
+taxpayers. And I do understand that it is a little late in the game, and I appreciate that, but I also
+appreciate that we have to be stewards of the taxpayers' money. So I'm grateful that she did this,
+and I'm certainly ready to move forward with it. Thank you.
+KEN MIHALIK: I haven't heard from Director Broom yet on this issue. I'm going to go to him.
+BOB BROOM: Well, spending $50,000 to review this particular matter, if that's what it would
+cost, given the huge difference between proposal A and proposal B, I guess it's kind of
+intriguing. The flip side is that I can't help but feel like we're comparing apples to oranges here.
+And so if staff can get the fruit separated out to find out whether really there is that big of a
+nexus, then it might be worth spending $50,000 to determine that.
+Because really what you're talking about here is, is this something that we want the private sector
+to do? Because they're doing the very same thing right now. Do we want to gear up to duplicate a
+lot of this stuff? And will there be other lines beyond this one where then we'd have the ability to
+determine future costs of future lines based on how much it costs us to do it as in-house versus
+how much it costs to do it out-house?
+So it's intriguing, and I'd like to hear from staff about the apples and oranges problem to
+determine whether there really is this big of a nexus between the two approaches.
+KEN MIHALIK: Thank you. Director Menten, I'm going to skip over you maybe two more
+times. Director Buzek.
+
+VINCE BUZEK: Thank you, Mr. Chair. If staff is going to do a presentation, I'm going to hold
+my comments until after that. Are you going to do a presentation? OK. Never mind.
+KEN MIHALIK: Thank you. Director Folska.
+CLAUDIA FOLSKA: Thank you, Chair Mihalik. One of the things that's interesting to me-- and
+I don't think you meant "out-house" really, actually. External stuff. Is I would like staff, when
+you respond, if you can to-- and Director Menten also in this conversation, there are two kinds of
+costs here. There is the tangible and the intangible and the human capital, brain trust, and,
+frankly, morale and goodwill.
+And I think those have been put into question, which to me makes it so interesting. And those are
+things that are very difficult to quantify, but I think they're essential. So I hope that you're able to
+look at that in this conversation. Thank you.
+KEN MIHALIK: Thank you. Director Menten.
+NATALIE MENTEN: Yes. I just do want to speak to the figures because I just really can't tell
+you how many hours I did spend double-checking, checking. So as an example, you'll see on the
+paper that I gave you, and if you will look back on page six, and you're going to see a screenshot
+of our 2018 mid-term financial plan, which is 2018 through 2024 for corridor operating
+expenses.
+Splitting that out, I asked Heather to split that out, and then gave you-- and this was all occurred- the midterm is recent. And I asked Heather for this sheet that I gave you also just very recently.
+So in that is what I broke off the operating expenses from. And this is the 2018 Midterm
+Financial Plan cash flow.
+So I don't see where the figures could have changed much. But when we do get in the discussion
+about any differences in dollars, I would like to be able to know that when we are asking for
+these documents-- and this is actually forecast 2019 through 2024-- that when we are given these
+documents, we're able to trust them, because that is really the basis of what this is about.
+When this whole decision was brought forward to us-- and we had an Executive Session, which
+is where a bulk of the information was shared. And that is, as most of you know, Executive
+Session is behind closed doors. And what really generated the vote-- sorry, not a vote because we
+don't vote in an Executive Session. Head nods at that time to have RTD operate the line was that
+there would be cost savings with RTD doing it.
+But it is just very hard to see how that is true when you've got 121 employees compare to 71,
+you've got redundant other things-- parts, renewables. There's going to be other things-machinery. There will be those present.
+So I also wanted to speak to the audit price itself. I didn't just pull this number out of the blue. I
+did have a conversation with our internal auditor and just in general terms said, if we were to
+look at an operation of the North Line, our agency compared to another, and needed to look at
+
+the estimates on the dispatch operation and maintenance-- and she has been an auditor for a very
+long time. She is not a newbie.
+What did she think that estimate needed to be stated as to make sure it covered us so that we
+wouldn't come up short? And what she told me based on her knowledge doing this day to day for
+us and also participating in our metro-wide audit discussions-- and she's very much in the groove
+of knowing all the ins and outs of what other auditors are dealing with.
+She suggested that this would be an 80-hour task, and that the top firms are earning $300 an
+hour. 80 hours times $300 is $24,000. So I doubled the price to make sure that we're covered.
+And I bring this up because I think that had been mentioned with a couple individuals. If that
+should need to be adjusted, that would be fine. But I tried to cover it as best as I could. Thank
+you.
+KEN MIHALIK: Thank you. General Manager.
+DAVE GENOVA: Thank you. Before Henry gets into the presentation, I just want to give that a
+bit of an outline. And I do want to make a comment about self-performing services, is that we've
+never taken an action on self-performing. It's only been when we contract out a service.
+And you'll see as we go through the presentation a lot of the history over the last few years of
+where we've been, the different sessions we've had, open sessions, Executive Sessions, study
+sessions, and those kinds of things where we discussed the project.
+I do want to give just a little bit of background. And so on the Eagle scope, so we did contract
+with Denver Transit Partners in 2010, 34-year concession agreement, largely performance based.
+At the time, we were working with the industry and going through that process and the industry
+review before we did the final contract.
+It was contemplated that whoever we selected to be the concessionaire could be an operator for a
+future project. At the time, we didn't have North Metro identified as a project that was happening
+anytime soon because we weren't sure about the funding and the priority of which quarter might
+get funded next by the Board of Directors. But it was contemplated in the concession agreement.
+So it could have been a change order to the concession agreement, or it could have been a
+separate contract. Because of the way we financed the North Metro, we are limited in how long
+we can contract out for services, and that contract period is limited to 10 years. So to do this
+under the concession agreement is challenged by a different performance period.
+And then, also, this is a design build contract being done by others under the same design basis
+memorandum. So what that means is we picked up the design that was used in the Eagle project,
+and that was the basis of design for North Metro. So very similar systems-- the same cars, same
+power, so all of that.
+But to operate and maintain the N Line is not a P3 arrangement. So the P3 arrangement is much
+more complex in terms of risk, in terms of what is expected out of the concessionaire. So to do it
+
+as part of the concession agreement as we worked through the different proposals-- and Henry
+will give more detail on this-- just didn't appear that that was going to be possible. So it looked
+like we were headed towards a separate contract.
+We also received two other unsolicited proposals on this project from other proposers. And as we
+do with all of our unsolicited proposals, we worked them through our unsolicited proposal
+process, and we determined that those proposals did not have financial merit and technical
+feasibility, so we did not move those forward.
+So that's a little background there. And then I do want to mention-- so where are we exactly with
+the current concession agreement? So we are currently in a contract dispute, and I think
+everybody is fairly aware of that. And that contract dispute began in about June of 2017, I
+believe, when Denver Transit Partners filed a claim for a change in law.
+So we spent a long time working through trying to negotiate through that claim, including
+mediation. We reached an impasse, and then Denver Transit Partners filed their claim in Denver
+District Court. So I believe a director mentioned that we have a lawsuit, and that's correct. It's
+upwards in the area of about $80 million plus. And we're working through that. That dispute is
+being worked through in the court system now.
+As a result of their claim, we did, to protect the RTD commercial position and to protect our
+stakeholders, and including the taxpayers, we filed a notice of termination event. So we're in this
+dispute process. So that is something, I think, that is important for the Board to know. The G
+Line is two years late. Quiet zones, almost three years late on the A Line.
+Regarding the scope of the audit review, our Manager of Audit has not seen the proposals so
+doesn't realize, I think, the complexity of what this review or audit might look like. And it's
+really beyond a simple financial audit of a proposal or of a contract. So I really do believe it's
+going to be much more complex and much more than 80 hours.
+The question regarding is, the cost of preparing the RFP and the time involved and all of those
+things, is that included? No. That would be borne on staff. There would be a day for day delay on
+the project. We're at crunch time with the N Line right now, so any delay that we have is going
+to delay the project.
+Getting to the decision point-- so there were two discussions, and this is included in the email
+that I sent out earlier. It's just a couple of excerpts from the Board reports for the 2018 adopted
+budget and the 2019 adopted budget, where there's discussion in there about that these budgets
+include RTD operating and maintaining the N Line, so through those budget processes. So I did
+want to mention that.
+But a key point to remember-- or maybe not remember. A key point to know, though, is as we
+were working through our annual budget for 2018, our strategic budget plan which we now call
+the Midterm Financial Plan-- which is our six year strategic budget-- and our long-term financial
+plan-- all of which we have to balance each year.
+
+When we were receiving the first couple of proposals from Denver Transit Partners at those costs
+that you saw earlier-- and Henry will go through those again-- those simply blew up our financial
+models in terms of what we were forecasting and estimating for the operations and maintenance
+over time for the North Metro Line.
+So if we were to-- and we were having to balance those financial plans because the Board
+approves those each year. So we were under somewhat of a time pressure there as we were
+working through those in 2017 and working through the 2018 and further financial documents.
+So that's why it was important that the Board made a decision at the time, because we had to be
+able to come up with a fiscally sustainable, viable option to be able to operate the North Metro
+Line and then also perform all the other services we do on the bay side and all the other
+FasTracks projects, and also to protect the taxpayer and try to move ahead with the best possible
+financial arrangement that we believed we had in place.
+So there was really-- and Henry will go through it again in detail. I just want to tee it up and give
+you the outline. Ample opportunity for discussions back and forth. We were incredibly surprised
+at the numbers we were seeing because it makes sense that there's economies of scale. We
+expected much better pricing in the original proposal and the early proposals, and we don't
+understand why we didn't receive that.
+And then, also, there was many exceptions to our scope of work throughout every proposal. And
+let me just say, on the last one that we received-- which we treat it as an unsolicited proposal
+because we had to move ahead. We couldn't wait on DTP any longer to keep fine-tuning their
+price and keep fine-tuning their price to something that could work for us, especially after seeing
+our budget numbers in 2017 and the 2017 and 2018 processes.
+So you know that was an important decision point in getting through into those-- for the Board
+being able to adopt those financial plans so that we could move ahead. And I was going to make
+a point on that last proposal that came in April of '18 is essentially, yes, their price came down.
+They said they've included a lot of things in there that they didn't include in earlier proposals.
+That proposal that they gave us was a page and a half and maybe a spreadsheet. But essentially,
+they said, we agree to some of the things we've talked about earlier, but essentially, that letter or
+that proposal is essentially an agreement to negotiate. There's nothing finalized in that proposal.
+So in essence, there's not a final agreement in that proposal. That's subject to negotiation.
+So thank you for letting me make those preliminary comments, and now I will let Henry go
+through this presentation. And then, after the presentation, if that doesn't answer the questions on
+where we've been with the costs and the analysis, we do have a one-sheeter that we can hand out
+because it does, I think, paint a really good picture as we try to look at the comparison of the
+proposals, which is challenging to do an apples to apples. It's incredibly challenging.
+And so I appreciate and respect the work that Director Menten did because it's-- and you all, I
+don't know how much you maybe looked at those proposals. We sent those out about a week and
+a half ago. One of the reasons that we had a delay in getting those out is we were in the midst of
+
+working through the FRA action plan and other things that were a huge priority for us to get out
+in November and December. And that was the main reason why there was a delay in getting
+those documents out. So Henry?
+KEN MIHALIK: Thank you, Mr. Genova. Henry, one second. I want to see if-- check in with
+Director Catlin.
+PEGGY CATLIN (ON PHONE): Thank you, Chairman Mihalik. I was going to say that I, too,
+appreciate the work that Director Menten put into this exercise. But quite frankly, as I reviewed
+it and then looked at the questions, it raised more questions than I had seen previously. And I
+look forward to Henry's presentation.
+Some of the concerns that I have I believed that General Manager Genova addressed. But one of
+my concerns was with the procurement process, in terms of getting some-- and I actually like the
+idea of having an independent analysis of that and an unbiased analysis of the comparison of the
+costs. But I'm concerned about how long that might take.
+And I was under the understanding that we had contracted with the private sector to do an
+independent analysis of our costs previously. So I just didn't know we had that information
+available to us. So my concern was about the time, because I, having been a consultant before,
+have proposed on our TV projects and the timeline for procurement is quite long. I think it's
+about six months, normally, unless you can full source something. But I just was concerned
+about that.
+Anyway, that's all I had to say for now. I may have more to say later. But I do look forward to
+hearing Henry's presentation. Thank you.
+OK. Thank you. Henry? I think you're up.
+HENRY STOPPLECAMP: OK. Can everybody hear me OK? So I will go over this presentation.
+And I'll try to keep it a very high level. And then I've taken a series of notes. And Mr. Genova
+stole a lot of my fire. So I've crossed off a lot of those answers. But I can go back again.
+DAVE GENOVA: Cover the detail, Henry.
+HENRY STOPPLECAMP: So first off, I applaud Director Menten and the amount of work that
+she's put in on it. Because there's a lot of work to this. To read all 204 pages, red line them,
+highlight and everything else takes a lot of time. And one reason I know is I've done it a couple
+times now.
+And the amount of time spent, probably by the end of tonight, we've got over 100 staff hours
+spent working up, making copies, pulling it off the internet-- not the internet, the Aconex-- and
+then checking spreadsheets and all that. So it is very time consuming and Director Menten was a
+one person entity. So I applaud you for that.
+
+And I'd like to go back to the start. We did enter into an agreement with Denver Transit Partners
+back in 2010. And the staff back then thought, you know what, if we have more corridors,
+wouldn't it be nice to keep everything under one roof? So we've had that as an option, as part of
+the project.
+And so that's kind of where staff wanted to go. And Senior Leadership, all the AGMs set down
+in a room with our technical support. And when we first kicked it off, it was pretty much 90%
+said, let's give it to DTP.
+DTP's got the commuter railing infrastructure out there. They've got a commuter rail
+maintenance facility. We've paid for adding to the facility. We've done this and that. This is the
+way it should go.
+The Board, back in 2015, said look at three options-- DTP, internal, or a third party. And we had
+received a couple unsolicited proposals. And we took that information as needed. But there was
+nothing unique and innovative on those unsolicited proposals that we received.
+So we started-- the way we do an amendment to the concession agreement is we sit down and
+start the process by asking, what does it take to amend the contract, add additional work? RPC
+60, Request For A Change Proposal, we negotiated with them. They said it'd take one year to
+come up with a number. We'll go out on the North Metro. We'll see how it's going. We'll see
+what they're building, look at the operations. And we'll charge you about $1.5 million to give you
+a price.
+So we entered into an agreement with Denver Transit Partners to-- and by the way, if I slip,
+Denver Transit Partners is the parent company. And then DTO is the operator. In all essence, for
+our conversation today, it's the same group of individuals.
+So we entered into the RPC 60. And I'll be getting into more detail on the presentation. And went
+back and forth for a year plus, just identifying the scope of work that we wanted them to do for
+us. And it went back and forth.
+And our team on the operating side and the capital program side sat down, numerous meetings,
+back and forth. And then that kind of ties into where we are today. We did receive four
+proposals, as identified as proposals.
+I do not believe the last proposal was a full proposal. I'm used to a proposal that outlines
+everything that's included with a guaranteed maximum price, not a proposal saying hey,
+everything's included. Trust us.
+And so as we go through this, I want to ask Dave and Rolf and Heather behind me that if I go
+overboard, please stop me. But I am kind of passionate about this project. And I would like to
+point out a couple key members in the audience that have worked day in, day out on this
+proposal, evaluation, the stand up for the last several years.
+
+So we've got Jeet Desai over there, who is the Stand Up Manager. Jeff Kay, are you out there?
+Jeff Kay is in the back. He took over from Greg Straight, who was the Project Manager at the
+time.
+Joe Christie is the Project Manager for the Eagle. And then Alan Miller, who is the Deputy AGM
+of commuter rail, who was pretty much the Stand Up Manager going through on the operations
+side. So I want to go back to what the North Metro is. I know there's some new faces around the
+table, but I think everybody is up to speed.
+So I will try to go through this relatively quickly. And if you've got questions during the process,
+I don't know how you-- probably questions afterwards. I'll just go through quickly. So the North
+Metro, starting at Denver Union Station, headed out to 124th, 13 miles of commuter rail, six new
+stations, 2,600 parking spaces, longest bridge in the state, which brings up numerous challenges,
+not only with the FRA, but for the maintenance, for evacuation.
+This is one of the reasons we did not want to go with the traditional operations that we see on the
+Eagle. For those that are familiar, month two or three we had a train stranded and helicopter
+flying over videotaping or filming the evacuation on that bridge. With almost 10,000 feet of
+bridge, we didn't want to do that.
+So part of our proposal is to have a rescue locomotive, some rescue equipment. And yes, the
+locomotive is $1.82 million, but it's also the infrastructure that's required to have that locomotive.
+So that's also part of the stand up costs. We have 12 rail cars, six married pair that was bought as
+part of the Eagle project. We added onto that contract with DTP. We're looking at a 20 minute
+peak, 30 off peak, average travel time 20.5, and opening ridership somewhere around 10,500.
+So quick history, environmental impacts statement-- if you go way back, we were looking at
+light rail on here. Light rail-- the East corridor, the G Line-- had some issues across the country.
+The railroads came back said no you can't do light rail. You need to go to commuter rail.
+So we received an unsolicited proposal in 2010 or 2012, for this corridor. As Dave pointed out,
+in 2010 when we awarded the Eagle concessionaire agreement, we didn't know if we had the
+funds to go any further. We were looking to go into the Stock Show. If we got to the Stock
+Show, we were happy.
+Then we made it to 72nd. We were really happy. And the unsolicited proposal came back and
+said we can get you 124th. Put it out on the street. And we'll give you the scope of work, and
+we'll give you cost.
+So we broke ground in 2014. And it is under construction. A lot of the contractors working on
+this project also worked on the Eagle project, which is a good thing and also sometimes a little
+bit of a challenge. It's the same contractor, same lab techs on rail for the projects.
+So now we get into the interface with the Eagle. And I think this is the most important. This ties
+the two systems together. This identifies a lot of the risk, but also a lot of the continuity through
+their vehicle type.
+
+We're using the Hyundai Rotem, so it's the same fleet across the system. The vehicle power-- we
+have two substations, one out in Sandown, which is basically Quebec, and then one at 41st and
+Fox location. We talked about the vehicle storage and dispatching. We put $70 million in a
+commuter rail maintenance facility. There's two power locations.
+And then, the corridor only has about 1,200 feet at the interface of Denver Union Station. It
+comes in off the corridor, goes to one platform, drops people off, picks them up, and goes back
+out the same way they came in. So there's a map of the corridor.
+So background on the inland operations and maintenance process-- we started back in the fall of
+2015. And I'm not going to read every single step. You're intelligent individuals that can read
+through it.
+But a couple of key things-- we've tried to keep the Board up to speed. We have worked with
+DTP. And we've had probably 50 plus meetings over the last three years on this topic.
+Sitting down from breakout groups, focusing on one topic. I mean, how dry can it be on-- sorry,
+guys-- how many monitors do you need on a desk, and what is the pixel size for looking at? OK.
+That's a standalone discussion.
+One of the things that we did determine as we went through this process, there is no backup.
+There is no disaster recovery with the Eagle project. So if the Eagle loses their system, it takes an
+awful lot of time to rebuild it. If there is a fire drill or a major evacuation of the commuter rail
+maintenance facility, the dispatching all goes down. And it's all done by phone and off of vehicle
+computers.
+We're looking at putting a disaster recovery system in place, not only for the N Line, but also for
+the Eagle project. We're looking at also building a second dispatch center. So if anything
+happens to the commuter rail maintenance facility, we'd go with that second dispatch center. We
+use it for real live training.
+So there's a lot of things that we would like to add to make the system a more robust system. And
+this is based on lessons learned watching the operations. Yes, we do have 96% to 97% on time
+performance. When you look at within 15 minutes, you're at 98, I believe, is where we're at. So
+the on time performance is pretty good.
+But there is an awful lot of oversight that Allen and his team take care of on a day to day basis.
+And that's from looking at the vehicles, making sure the fleets out there, they're delivering the
+service. From elevators-- are the elevators working today? You know, there's a lot of little things
+that are done by the operations oversight team.
+So we started seeing the stuff come in the beginning of '17. And rough order of magnitude, no
+breakout. Didn't have any detail. Here's a number.
+
+And we'll get into the numbers. We asked for more breakout. They then ahead gave us another
+proposal on June 26. And we also wanted to know what was included and what wasn't included.
+And they would not give us a red line version of the Amendment 4.
+And we kept pushing. One of the challenges we had-- as we go through our budget process, we
+started that budget process basically at the beginning of the year. But by May, we really need
+know what it looks like for the mid-range, the long term, in order for Heather to balance it.
+And as of June 26, we didn't know if we could balance our budget going forward. So we put a lot
+of pressure on Denver Transit Partners and said we need some numbers. And they asked for an
+extension to August 31 to give us a more detailed extension.
+DAVE GENOVA: Make sure you use the years to keep it in perspective.
+HENRY STOPPLECAMP: Oh, sorry. This is-- well, I'm talking 2017. Yes. So they asked for an
+extension from the June 26 time to August 31. We granted it.
+They did not meet that timeline. They submitted on September 22nd. The team worked on it over
+the next couple days. And then we had an internal meeting among our staff to put together a list
+of questions.
+And those questions are in that 204 pages. I think that's Appendix 7. And it outlines all the
+questions and concerns we had. And we sat down on the 28th, had about a three hour meeting.
+We had legal in there, procurement, operations, capital programs. We had a lot of individuals sit
+down and ask those questions and get the response back from Denver Transit Partners, what was
+included and what wasn't included.
+And at that time the contingency wasn't included. We asked them why did the number drop from
+the previous submittal down so much. And they said, well, since we're only doing a 10 year
+contract, we put everything in year 11 for renewals. So they just moved it out so it wasn't part of
+the pricing for the first 10 years.
+So we went into a lot of detail. And that created the presentation we gave the Board back in
+October 3rd, 2017. And that was in an Executive Session. We'd given one September 12th
+without numbers, because we didn't have numbers from Denver Transit Partners. If we would
+have used the numbers from the June 26, as you'll see, as I've got a little bit more detail coming
+up, a really big gap in there.
+It did come down a little bit by September 22nd, 2017. But the reason-- one of the reasons it
+came down is the numbers get pushed out a little while, outside of the contract. And the other
+thing that really got us was they still wanted the next 10 years.
+And they wrote into Amendment 4 that if we couldn't negotiate for the next 10 years, that we
+would be subject to binding arbitration. So an arbitrator would tell us what we need to pay DTP
+to operate for the next 10 years. So that was one of the things that was really hard to swallow
+going forward.
+
+So we went through the adoption of the 2018 budget. And on November, we adopted the budget.
+DTP did come back to us with another proposal, a page and a half and a spreadsheet April 4th.
+We did notify them back on August 2018, sorry. We did notify them on August 31 since they did
+not give us an updated proposal that we were pulling RPC 60 and we're taking that back off the
+table, and we'd like them to stop working on it.
+2017-- So August 31st, 2017, we pulled the proposal-- the RPC 60 back. So even the September
+22nd was after we had pulled RPC 60. And then the April 4, 2018, we were in the process of
+closing out the RPC 60.
+And we did a few days later actually do the formal paperwork to close it out. So we did not ask
+them for another proposal. We as a public entity-- we're always looking. We're always willing.
+But it needs to provide the benefit to the organization.
+So what was included in the request? So the startup cost pre-revenue, and Director Menten had it
+broken out correctly, the pre-revenue, mobilization, integration, FRA New Starts matrix, O&M
+training, all of that we figured would be a slam dunk, because DTP has done all that. So that
+number should be relatively small. It really wasn't.
+And then the operations and maintenance-- we've got two categories. The work that's within the
+scope of Amendment 4 or request, that's the O&M training, vehicle dispatching, vehicle
+operations, FRA reporting, maintenance away wayside work, renewals, risk, contingency-- and
+risk was not included in any of their numbers for the first three proposals. They notified us today
+that it was included in their last proposal-- stations and parking rights.
+And then the elements that we will be doing no matter what-- that's the power, transit security
+officers, security, vehicle maintenance, insurance, heavy equipment, TVMs, and that number
+there is about $9.9 million annually to do that. So several overall assumptions-- mobilization, it
+will take longer for RTD to mobilize. That's one reason we had to have a go ahead to do what we
+did.
+Our goal is to be ready to go into operations at the end of this year. That's our goal as far as
+operations and spending on RRP. But we plan to have everything stood up and ready to go. DTP
+needed 18 months. The rescue train, the rescue equipment is under procurement right now.
+Maintenance of Way facility-- we are looking at a facility that can handle a rescue locomotive. If
+we change that to an on road piece of equipment, that may change the tie ins, the signal system
+into our system. 711 building May 1, which actually should have been Bay 3. But Bay 1 was
+TIC, Bay 2 is Treasury, and Bay 3 will be for our operations. We already own that piece of
+property in that building. So the property that we're looking at purchasing is the maintenance
+away facility that was put out to the Board last year.
+Cost escalation-- that's why I've got Heather and a great staff that helps me out. Because I don't
+do cost escalation. So all our numbers are in base year dollars so we can do an easy comparison.
+We asked Denver Transit Partners to give us base year dollars of 2017.
+
+We also did our own estimate in 2017. So if you take an average over 10 years in 2017, then
+somebody else can escalate and use the CPIs and everything else. So those were our base
+assumptions.
+Now based on the original mobilization and comparing against the September 22, 2017 proposal,
+consumables-- that's our inventory of spare parts for single bungalows, the tracks, the tie-in for
+the rescue locomotive, and then we've got the rescue train. So we had a lot of elements in there
+that we wanted to add to our number.
+When we pulled that out, if you want to compare apples to apples in-- that's going to be a theme
+in a few minutes, about comparing apples to apples. Our staff wanted to compare apples to
+apples. We didn't want the fruit salad, Director Broom. We wanted apples to apples. And we've
+tried over and over to know what's included in the proposal.
+But relatively same numbers, the big one is the surety bond. Not only on the startup, but also
+through the contract, DTP wanted to pull this project out of the concession agreement. And
+whether you say it's the same number or $8 million dollars difference or whatever, it's not the
+stand up that causes the problems. It's the ongoing O&M capital is relatively inexpensive
+compared to the O&M.
+So if you build a glass building for x, now you've got to wash the windows every year. But if you
+put a clean film on there, you wash it every other year. You start saving those costs for the film.
+And so that's one of the things that we looked at, the stand up, that we wanted to make sure that
+our maintenance costs, our O&M, would be a whole lot less going forward.
+So really, these are the numbers. The average annual O&M cost over a 10 year period for RTD
+to stand up and do the operation-- so this is just the operations cost-- is just shy, or just over $13
+million. When DTP gave us their rough order of magnitude in April of 2017, it was $25 plus.
+And that kind of surprised us, because our ICE at the time-- million, million-- because our ICE
+was in the 16, 17 at a rough order of magnitude before we even started pulling-[INTERPOSING VOICES]
+HENRY STOPPLECAMP: ICE-- independent cost estimate. And we'll talk about the
+independent checks and balances as we go through here, as well. But in order to put an RFP out
+on the street, we had to define the scope. And then we had to do an independent cost estimate to
+figure out is what we're getting what we're asking for?
+If it's too high, did we miss something? If it's too low, did we not include it? So we use that as
+we go through the process.
+I might as well talk about the independent cost. After we got proposals back, we did have an
+independent firm look at the RTD scope, the dollars that we put in there, to verify our
+independent cost estimate. And that came back very favorably. And so we felt pretty comfortable
+with that.
+
+But then we went one step further. And those-- the Board Members that have been here a little
+while-- I've heard the Monte Carlo analysis, which is basically take all the big risk elements, you
+look at it, you evaluate the probability and severity of each of these elements. You throw it in a
+computer. You jumble it all up.
+And it spits out the probability and the additional percentage of costs for the various risk line
+items. And so we did that. And that was done by Faithful + Gould. And these folks do this for a
+living. And so, independent from RTD, we contracted with them to come in, and we spent close
+to $100,000. Because once again, we still had 50/50 of the staff, at that time, thinking it was
+better to give it to DTP. So we wanted to make sure, we came back to the Board, that we've
+exhausted all resources and we feel really comfortable with it.
+And they came back, and they recommended that we put a risk factor on our number of about
+$2.5 million. So we built that into our budget. The recommendation was $4.4 million. Did I say
+billion the first time-- $2.5 million on ours, $4.4 on DTP's.
+We actually brought that down when we did our first presentation to the Board back in October
+of 2017. And we used a number of $3.5, which is about 50% probability versus a 75%
+probability. So we've actually brought their numbers down and left ours high.
+So if you look at this, if we just take the number and assume that everything is included in the
+scope-- no emissions, no modifications, no red line. And we didn't see the red line until
+September 22. So in June of 2017, we didn't know exactly what we're getting. September 22 and
+in the following meeting on September 28, 2017, we went into a whole lot of detail and figured
+out what was included and what was not included.
+So delta for basically one year of operations is $2.4 if we use the April-- $2.4 million-- $4.3
+assuming everything is truly apples to apples, and we couldn't get to apples to apples. So back in
+October 2017, we gave our information to the Finance Department and said, OK, this is what
+we're receiving from Denver Transit Partners. This is what we've got.
+If we throw in contingency, unallocated risk through the Monte Carlo analysis and look at
+inflation, Moody's inflation, and you put it all together, what is the difference in the first 10
+years? And this is the presentation that was used back in September of 2017. So a little over
+$100 million for the first 10 years should be the savings to RTD.
+And I want to point out one thing. On contingency that we put on our own system, if we do not
+spend it, it goes back to the general fund. If DTP puts that in their price and they do not spend it,
+it goes back in their pocket.
+So we've got a project going on right now that as we pull down one contingency line item, we
+add the delta the following year. We don't necessarily go back and continue putting contingency
+and contingency and contingency in all our projects. So it's kind of a rolling contingency. So if
+we keep it at the $2.5, $3.5 million, and we don't spend it until the next year, we don't have to
+allocate it for this project. We get it from some other projects.
+
+And then we looked at the following 10 years. And this is kind of what we've got for the second
+10 years. Once again, inflated dollars. And since our dollar's lower to start with, the gap starts
+spreading as you go forward. But-- pardon?
+SPEAKER 1: What are the numbers?
+HENRY STOPPLECAMP: Well, the number's-- the 10-year is $349 million and $255 million.
+So you're looking at about $140-ish million savings over the second 10 years. So total is $240
+million over a 20-year period that RTD can put back into our system. Now, that is inflated with
+contingency factors, unallocated risk, and all that in there.
+Now, we may use some of that contingency. We may use some of the allocated risk, but we may
+not. But we've got that within control.
+So what are the key risks? So we looked at 27 risks across the district. We sat down with Rail
+Ops, our light rail folks. We sat down with our commuter rail oversight folks. We sat down with
+our IT, Finance, HR. We reached out to pretty much every department within RTD and said, OK,
+if we're going to stand up North Metro, what are your concerns, and what are the big risks you
+perceive?
+And they laid it all out. We sat down with Faithful+Gould and said, OK, what do you want to do
+analysis on? They pulled the top 27 out. And I've basically given the top four in each one. But
+these are pretty much risks. The first two are our risk dealing with DTP. And then DTP's got
+some risks in there.
+And then we've got common risks. Everybody says hiring full-time employees. We're getting a
+lot of interested people out of the state that want to come to Colorado and do these jobs. We're in
+the process of interviewing, and we're getting qualified single maintainers and supervisors. And
+people really want to come work for RTD.
+Latent defects, we're stuck with that no matter what. That's part of our risk. Loss of power, one
+of the things that we would like to do-- and it's a few years out. But if we save enough going
+forward, it'd be really nice to put a small substation along the corridor. It would help out on the
+North Metro, and it would also help when we get to the next stage and extend North Metro out.
+So that's one of the projects we're looking at doing at a later date to minimize this risk.
+But all these risks, we either put people in place, put it in the budget. We identify the risk and
+remediation for each of these risks so we have mitigated the risk going forward. Not that it's not
+going to happen, but we've got a solution so when it does happen.
+And we definitely have key benefits. RTD is not out there for profit. So that knocks anywhere
+between 10% to 20% off, depending on the profit margin that people have.
+We retain the intellectual expertise. So we already know, as with DTP, there's a lot of folks that
+have come to work for DTP and left DTP. So they're constantly retraining and retraining. On the
+
+salaried side of RTD, a lot of people come, and they stay, and they move around within the
+organization. So I think we remain the institutional knowledge and the intellectual expertise.
+The other thing that I like more than anything else-- and I think Dave Jensen out there does too-but our synergies with the light rail. So if we got a light rail shutdown and we need to get some
+bucket trucks out there and do a turnout replacement downtown, a piece of track's a piece of
+track whether you're commuter rail or light rail. So if there are people, we'd want to contract that
+out there.
+If you need somebody covering for vacation, OK, we'll want to cover for vacation. If you want to
+bounce an idea off of somebody, look, I want to do this. What do you think? Well, we do it a
+little bit differently in light rail, but this may work.
+The scale of the IT, there's a lot of synergies between our operations that we don't share right
+now with DTP. They don't want to share their means and method. And it also-- what we do in
+commuter rail goes back to light rail. Some of this FRA stuff, lessons learned, we share that
+information within the organization.
+Another one is we have got an awesome relationship. It says good, but we've got an awesome
+relationship with the PUC and the FRA. And that's helped us out on our light rail, and it's helping
+us out on the stand-up in North Metro. And the expanding the expertise and the operations and
+regulations of commuter rail, so we understand a little bit more what DTP should be providing.
+Now, on the DTP side, key, benefits it's one contractor, a single operator. They've got access to
+commuter rail maintenance facility, single-source reporting, and the synergy with DTO. So a lot
+of same things with us, but the question is, how much do we want to pay to somebody else, give
+them the expertise, and take it away?
+And somebody made a comment about-- I think it was Director Folska-- about the employees'
+sense of well-being, ownership. There's a lot of pride within the RTD staff on the bus, the rail,
+everybody. You see the RTD hats, jackets out there. People are proud that they are part of our
+RTD.
+And this is just one more step. We started off a bus company back in '69. We went into light rail
+in '94 without knowing what we're doing. We've expanded light rail. We've done commuter rail.
+I mean, we are a leader in the nation right now, and this is just one more step.
+So now what I'd like to do real quick is talk about the September 22, 2017 amended proposal.
+And this is how we did our analysis to balance the budget. The April 4, the letter of the proposal
+that came in made a few changes.
+But they didn't come back, said the stuff we talked about before, we've included it. They didn't
+go into the detail. They didn't answer our questions. And I highly recommend that if you've got
+just a minute or two, I've pulled some the key ones out.
+
+But Appendix 4 in that package that went out really tells the story. We asked for a list of their
+risks, and they gave us five risks. And they said it wasn't a complete list of unfunded risk. So we
+asked, what other risk do you have? Well, we don't know at this time. We haven't had time to
+look at it. They've been working on there for two years.
+And as Dave pointed out, one of the key contractors built Eagle, and they're working on RRP,
+and they're building the North Metro. So the OCS, the track, it's the same contractor.
+The big one that staff had-- we had two big ones. The one is no performance penalty for the first
+two years. So that gets into the on-time performance. Yes, we've got great on-time performance
+on the Eagle corridor, but there would be no guarantee for the first two years what the operations
+would look like.
+After a two-year period, we would negotiate a penalty plan based on DTP, DTO's performance.
+So whatever their performance was, two years after we go into operation, at that point, we would
+negotiate going forward.
+The termination clause, they removed the termination and default clauses. Now they claim they
+put it back in or are open to discussion for the April 4, 2018 letter. Stand up in spare parts-- this
+was not included in the price in 2017. Came back, they say it was in 2018.
+And those comments we got today, not when we had our debrief with them. We sat down with
+DTP after we thanked them for their proposals and said we're not go forward with it. And those
+comments didn't come up at that time.
+But the spare parts-- so unfortunately, I got a fleet of Chevy Impalas from 2007, 2008, and a
+brand new one. They're all Chevy Impalas, but they're not the same spare parts. So I can't keep a
+spare part for the 2000 for the 2008.
+So that's one of the key things on here. We know we've got different models, different boards in
+the single bungalows. So they wanted identical elements, parts, to the Eagle or North Metro.
+So some of the key elements-- and I'm missing a cost, major renewals. That got put out in-- the
+next one says in year 11. So it wasn't captured. Also, the major renewals for year three and give
+got put out past the 10-year at O&M.
+So that's the proposal. We sat down. It's been a couple days, put together our list of questions.
+And then we sat down with DTP for three hours. And I've mentioned the team. But basically, all
+the key members of the RTD staff, we had. On DTP, they had their legal, their chief operating
+officer, the floor chief representative, and the local folks to answer those questions.
+And once again, not a complete list of unfunded risk. There's no breakdown pricing. Exhibit H in
+the proposal, the red-line markup-- or blue-line, in their case-- was supposed to break down that
+if there was any questions, you should go to exhibit H, and it will tell you exactly how much the
+various line items cost.
+
+We asked them where were those numbers. And the comment was, we ran out of time. So they
+didn't have time to break it down for us.
+And realizing this was after the June-- so July 1 to September-- there's a couple of months in
+there. You should have the ability to put it in. And we did pay them, when it was all said and
+done, over $700,000 for two three-page proposals, which is not what we'd like to do. We'd like to
+have a little bit more backup.
+The handover requirements, I mentioned that before. The termination clauses, they did agree that
+they didn't want it as part of the Eagle project. The key elements, we asked them, are these
+missing? And they said yes.
+And so the bottom line, when we left that meeting, is RTD didn't know what services we're
+getting, for what price, and what will our patrons experience on their daily commute. And that
+was the takeaway from that meeting.
+And we use that to put together the packet for-- and I'm coming right up to the couple last slides
+now. We put that package together for the October 3 meeting for the Board.
+The budget was approved. Almost eight months after September, we got the April 4 proposal.
+And there was no additional backup. Once again, one and one-half pages with the statement in
+there that basically, we're willing to talk.
+They referenced more information, a proposal attached. Their proposal, by definition, I believe,
+is a spreadsheet. To me, a proposal is a scope of work-- who's doing it, how is it going to be
+done, schedule along with it, and then ultimately, the price that goes with this thing.
+So we looked at this as an unsolicited proposal because it did come after we had told them we
+weren't interested in pursuing RPC 60. We didn't have the time on our hand. We were already in
+the process of standing up.
+We had the review team-- we've got a team of individuals within RTD that looked at unsolicited
+proposals on a regular basis led by Brian Iacono's shop. And Kevin Diviness, I think, is out here
+too-- oh, standing right there. Hi, Kevin.
+And so to Kevin heads our-- he's the Director of Quality within RTD. And so we sit down, and
+we go through the proposals, evaluate it by a strict set of criteria. And we try to figure out if
+there's anything innovative and unique, which we couldn't find, and make a decision at a high
+level. Do we want to put this out on the street for an RFP?
+So our sole-source procurement basically says if we like it and it makes sense for the
+organization, we bring it back to you guys. We put it out on the street for an RFP. And we had to
+make sure we got the money to take care of that.
+
+So we notified them in writing that we didn't want to go forward. We had a debrief with them.
+And so the takeaway-- and we can go over the one-pager in just a second. But actually, Heather,
+could you pass these out?
+HEATHER MCKILLOP: Yes.
+HENRY STOPPLECAMP: So this is at the bottom of the page. This is assuming that everything
+we asked for is in the proposal. And we do not know if that's the case. So I've got DTP saying,
+yes, everything's included, but they haven't listed all the things that we've asked them to
+demonstrate that's included. They haven't said that the Amendment 4 is good as it stands.
+So just using the bottom number that they provided, it's a $2.5 million per year delta over a 10year period. It's $24 million over a 25-year-- and I threw 25 year in because it's basically the
+duration of the contract. And that is $61 million.
+Now, the big thing, in the box down at the bottom, if we do not spend it, it stays within RTD. If
+it's part of a yearly lump sum, it goes to the contractor. Questions come up. Well, what happens
+if we tap into it? Well, we got the same chance of tapping into it as somebody else does. But if
+we really need it, let's use it. But if we don't, it goes back into the general fund.
+DTP will look at it as that's additional profit. And if it's not spelled out in the contract with us
+that that item is part of the contingency or needs be added in there, they're going to put a claim in
+for additional work and not tied into their contingency.
+So what was just passed out is a one-pager. And the top and the bottom were included in this
+presentation. Across the top line, the $13 million for RTD, and $25 down to $15 for DTP. I guess
+if I took DTP at their word, we could change that last column, because they do say that major
+renewals were included now, and handover requirements.
+But the big one that we had is a surety bond was never included. Today, they say it was included.
+But it's about a $1.3 million hit.
+So we looked at the April 2017, no breakdown. Then June 26, we got a breakdown, but no scope
+of work. September, we got the breakdown and a new scope of work. And April 2018, we've got
+a new breakdown, but I don't know what's included.
+So I've tried to go through here and identify the deltas. But down in blue, that's where we have
+the Faithful+Gould Monte Carlo analysis. And for this presentation, I've got $2.5 million all the
+way across. That's courtesy of my General Manager.
+We're treating everything as the same, but I just want everybody to know that our numbers from
+Faithful+Gould are a lot more than that. You can see the security vehicle maintenance insurance
+power heavy equipment.
+
+One thing that I was very careful on, if you look up on the top portion, third column over, it says
+"included in the total above." And the reason I've got that in there, I still have to negotiate with
+DTP to use similar dispatching facilities.
+So if I put a number in there and it gets out, which now it's open to the public, that ties my hands
+on dispatching the same thing on a training contractor or our rescue locomotive. Those things are
+buried in there so I can have some flexibility to get the best price for the agency.
+And the last thing, about right towards the bottom, we have, in the budget, $26.6 million on an
+average go forward for the next 10 years. Heather and team has escalated that to year of
+expenditure, so that's why that is a little bit different.
+On the list of questions, we talked about, at the beginning the process, apples to apples. Once
+again, I'd love to be able to compare the two scopes of work. They came back, and they thought-or they commented that the scope that they provided us is the scope we should go with, versus,
+hey, we're the owner. This is what we want. Please give us like for like.
+The delta between the costs, we presented that on this paper. The escalation values we can go
+into more detail if we need to. The on-time performance on the Eagle, we talked about. But there
+are no on-time performances included with the North Metro, so we don't know what our patrons
+will see.
+We talked about the rescue locomotive. And there are some improvements in the facility in the
+711. The property take, yes, we do need the four pieces of property if we are going to go ahead
+and stand up the commuter rail operations. We've already delayed this long enough that I had do
+a temporary facility.
+So in our numbers, we do have money in there for a temporary facility. The permanent facility
+will not be ready on opening day. Our goal was to get there as soon as possible so we can start-we want to have that rescue locomotive out there for opening day in case anything happens.
+We did talk about, basically, esprit de corps on the employees. We have risk that we know. We
+have unallocated risk. There is a million dollar line item to get our $26 million up to that number
+that Heather wanted to include in there, and we agree 100%.
+The procurement process, we have followed the procurement process. We tried reaching out to
+Denver Transit Partners over a two-plus year period with a commitment to get it done in a year.
+So we've followed that process.
+We didn't get what we needed. Time was not on our side. We had to make a decision not only for
+the balancing of our budget, but in order to go forward with the stand-up for the North Metro.
+The $50,000-- like I said, the Faithful+Gould analysis was almost a six-month analysis. A lot of
+work was done by RTD staff, bringing information in. They came in. They interviewed the
+various groups. And we spent somewhere around $100,000 on that. And that was all part of the
+stand-up process because we want to make sure that we have good numbers.
+
+But as far as independent analysis-- not only the Faithful+Gould, some Jacobs staff time, were
+probably about $150,000 just to verify the numbers, going back and forth. And I think that
+covers everything, the questions and the PowerPoint presentations.
+So Heather, do you want to add anything else, or?
+HEATHER MCKILLOP: No.
+HENRY STOPPLECAMP: OK, so let's go for questions.
+KEN MIHALIK: Thank you very much, Mr. Stopplecamp. I'm going to start with Director
+Catlin so I don't forget her. Did you have any comments or questions, Director Catlin?
+PEGGY CATLIN (ON PHONE): Thank you, Chair Mihalik. It's a lot to digest, and I really
+appreciate what you presented, Henry. So at this point, I don't think I have any additional
+questions. But it's clear that we're not comparing apples to apples here. And so I'm just a little bit
+reluctant to go forward with the proposal. Thank you.
+KEN MIHALIK: OK, thank you. I'm looking around the room. Yes, Director Lubow?
+JUDY LUBOW: Thank you, Chair Mihalik. Bravo. Thank you for that presentation. I was trying
+to summarize it in my own mind, you know. Because the way you're saying things, it sounds like
+things are taken care of, et cetera. And what we're seeing-- but when we see what Natalie wrote
+and that there are differences in costs, that's a whole different-- it's like French and Chinese,
+comparing two different languages almost. So I'm trying to understand what it is. And what I'm
+getting-NATALIE MENTEN: I get to be French.
+JUDY LUBOW: You could be French, OK. You can be Chinese. So it's that the proposals-- my
+understanding from what you had said is that the proposals that they were submitting, in your
+opinion, were not really viable. They didn't bind them to particular things, so that you were
+getting-- there was nothing to compare it to, because they weren't promising particular things to
+do, the way an ordinary proposal would promise. Is that accurate?
+HENRY STOPPLECAMP: That is very accurate, you know. June 2017, they gave us breakdown
+numbers, but they couldn't tell us what was included. So when they resubmitted, they redlined
+the document. And I think that's Attachment 8. But I mean, they really went through it and took
+out stuff they did not like, modified other stuff, and said, this is what we're bidding on. And that's
+why we sat down with them on the 28th of September, 2017, and went through each of our
+concerns.
+So part of that meeting, several staff members got together and looked at the proposal. We all
+reviewed it independently. We came up with our questions, and the common questions we
+presented to DTP for their response.
+
+And I have to say this. I was kind of shocked. A lot of these responses, we don't have time, we'll
+get back to you, that kind of stuff. We never saw anything. They never came back to us. They
+didn't say, well, two or three weeks later, or after the October meeting, before the budget. At no
+time did they come back and say, OK, here are the hot issues that we had talked about. The way
+they got the five key issues in the presentation was kind of a conversation that Dave, myself, and
+some other senior folks had. And they said, well, what did you like? Well, you didn't have this,
+this, or this. And those were the same points they put in the letter a few weeks later.
+So it wasn't even-- these are the top issues that were discussed back on September 28, 2017. It
+just happened to be the five issues that we brought up as an example in a meeting. So the
+homework for them over an eight month period would have been to go back, identify the
+concerns that RTD has, sit down with us. And they did say, hey, RTD hasn't reached out. Well,
+I'm sorry. I'm not going to reach out and force work down somebody's throat, when I've got a
+path going forward. I didn't have any time.
+So DTP, we asked for information. We didn't get it. We moved on.
+JUDY LUBOW: Thank you. So that raises another issue for me, which is would it have been
+better to be working with someone else, to have given an RTP out, and seeing if other people
+who were viable and were giving viable responses could have come in?
+HENRY STOPPLECAMP: We did look at the various unsolicited proposals that came in. And
+when we evaluate their numbers, their scope of work, and what they expected to negotiate going
+forward, that was part of the analysis, that it's either DTP or RTD. A lot of the unsolicited
+proposals didn't want to do the whole thing. They wanted to do a little bit of this, a little bit of
+that.
+So one of the things that we have to remember-- it's not just a commuter rail corridor. We've got
+platforms to maintain. We've got stations to maintain. We've got bridges to maintain. So it's not
+your traditional, just an operator. It's long term maintenance out there and unique maintenance
+scenarios.
+JUDY LUBOW: Ken, can I ask another couple of questions?
+KEN MIHALIK: Absolutely.
+JUDY LUBOW: Thank you. So would it be correct to say, looking at page two of Director
+Menten's report, or memo, where she has Table 3, and comparing the subtotals, RTD self
+perform, $103 million, and Denver Transit Partners, $85 million, that one could say that that
+difference, that delta, might be because they weren't basing theirs on any real requirements, plus
+they kicked beyond the contract, some of the expenses that RTD was saying that they're
+spending?
+HENRY STOPPLECAMP: I'm going to turn this over to Heather, because this gets into the
+escalated numbers. I kept all of ours in 2017 for this reason. So my simple logic as an engineer,
+if the 2017 number is less on our side than DTP's, the escalated 2017 number is still less than
+
+DTP's. So that's kind of my thought process. Not necessary what's the magnitude, but if our
+number's less to start with, it will always be less. And so, but at the escalation, I'll turn that over
+to Heather.
+HEATHER MCKILLOP: So in that table that's labeled Table 3 on page 2, where it says RTD
+Self Perform, that $21.2 million is really 18 point-- hold on second-- $18 million. And it just
+goes on like that. So it's about $2 million more in 2020 that's listed here. And in 2024, it's about
+$3 million more. So that brings that down significantly.
+So those numbers are slightly different in the plan than what's in this chart here. So there's a
+difference there. But in addition to that, what you didn't mention is accurate, that those Denver
+Transit numbers, they pushed all of those costs that he discussed earlier out into year 11, so that
+they wouldn't appear in the first 10 year of the bid. Therefore-- but that creates severe problems
+for us, having pushed that out.
+The other thing you need to keep in mind is the number that we're using is-- our base number
+that he showed you on this chart is $13.1 million. That is our base number. It has contingency
+and other things. But after we got the Monte Carlo simulation back that recommended that we
+might have risk factors that would total $2.5 dollars, we insisted on adding those in, and we also
+put another $1 million on top of that.
+So our base price is $16.6 million with all of those. And then if you inflate it to 2020, that's
+where we get the $18.8 million. So again, we're not quite comparing apples to apples in these
+numbers here that are on that page, because we added additional.
+Now today, they told us they had contingency in their number in April. That's fine. We had not
+heard that before. But they didn't add in these risk factors that we added in, that would need to be
+added into their number to compare apples to apples.
+So for instance, when he mentioned when we ran the Monte Carlo simulation, the $15.6 million
+they have in there in 2020, if we went with the Monte Carlo simulation for their risk factors, that
+would be another $4.2 million, I think it was-HENRY STOPPLECAMP: 4.4.
+HEATHER MCKILLOP: $4.4 million that should be added on top of that number, to make it
+comparable to our number. So that's part of why we did this sheet, is to say, these are all the
+things that we took into consideration to come up with our number. These are the additional
+contingencies we added in. And these are the things we think they omitted, that if they added in,
+would bring their number to a different total.
+But even if you didn't take those things into consideration, and you took out the additional
+contingency we put in, then you're looking at the bottom number, that over a 10-year period of
+time, we're about $25 million lower than their costs. And even if you take in consideration our
+higher costs for mobilization, we're still ahead of the game by about $10 to $15 million over that
+same period of time.
+
+HENRY STOPPLECAMP: and over the next 20 years.
+HEATHER MCKILLOP: And then that goes on and on. So you know, I think we felt very
+comfortable at the time from a financial perspective. You know, I'm going to do what's best
+financially for this organization. And I think that this was our best alternative. We had a lot of
+conversation about even using the lower numbers that we came up with in our internal cost
+estimate, and we decided not to do that. We decided to add in those contingencies, so that we
+would make sure we weren't just making the numbers as low as possible for the long term plan,
+that we were really identifying any possible risks that might be out there with RTD operating it.
+And even then, we were less than if we added those same risk factors to DTP's numbers.
+JUDY LUBOW: OK, thank you. One more question. I believe there was a employee comparison
+for RTD, 121 employees, and DTP, 71. Is that accurate? And if it is, can you explain that?
+HENRY STOPPLECAMP: It's an accurate statement. Some of the things that we have concerns
+with, and we're seeing it right now, so we've got flaggers out there, crossing attendants with
+DTP. So they've got 16 crossings on one corridor and no more crossing attendants on the other
+corridor. So they'd have staffed that thing 24/7. That's a contractor doing that for them. When
+they have a truck, like yesterday, run into Holly, the crossing, they had to get flaggers out there
+for that. They bring a contractor out there.
+One of the things that we're doing internally is we want RTD certified flaggers, not crossing
+attendants. And we want to use them from loan workers. We want to use them so they can
+provide additional protection for our own folks working out there.
+So these individuals, yes, we've got extra bodies in there, so we can take care of any emergency
+on the corridor without calling out a contractor. These individuals are qualified, that they can
+help out with the welding, the grinding, the signal maintainers. So we do have additional folks on
+that side.
+The other thing that we really want to do is spend some resources on human capital. We've got a
+much bigger training department that we're setting up. So we can train our own folks, and get
+them up to speed, and retrain them, and recertify. The DTP training program is not as robust as
+we'd like to see it. It meets the minimum requirements, but we want to be more like a MARTA
+or a Metrolink, or even one of the Class 1 railroads, that our employees receive the additional
+training. They've got the latest and greatest of what's going on in there.
+We've got additional employees for the rescue locomotive that is out there. So we had to
+maintain that. We also have some facilities employees that will be out there-- that will be RTD
+employees, not contractors, where they contract out a lot of their stuff. So when they say that the
+org chart-- yes there's 50 people more than they need, that's true. Because they contract out an
+awful lot of that, or they don't do the work.
+And so we've looked at what we need to provide a redundant, robust system. And this also ties
+back in to if they were doing it, we'd still be hiring probably four or five oversight on top of it.
+So we've got a combination of both. They are right. We've got 50 more in the headcount. But
+
+even with that, our dollar amount is less to operate. Because-- for the overall program. But we're
+not relying on contractors, at the last moment, to call somebody up and say, I've got a crossing
+down. We want to get somebody out there immediately. So we don't have Form Cs-- Form Ss for
+the crossings at signals.
+So we're looking at what we can do to give the most robust, reliable system that we can do, and
+help our patrons not notice a lot of these emergencies. And then we also want our own folks to
+do a lot of the repair work. Right now, Denver Transit constructors are still on site doing a lot of
+the DTO stuff. They go away, DTO is going to have to do something going forward. So we're
+going to be a self-contained group that has the ability to help out on light rail operations, and vise
+versa.
+So that's really-- I don't believe-- there may be a few extra bodies. But when you come down to
+50 headcount that aren't utilized or aren't needed, I believe you'll find somewhere in the DTP /O
+organization, somebody is doing that work.
+JUDY LUBOW: OK, one more. How many of those 50 are high management people with high
+salaries?
+HENRY STOPPLECAMP: One, because everybody after that's lower than them. No.
+[LAUGHTER]
+So I think we've got-- this is more for Alan. We've got we got six senior managers out there, and
+then you've got the supervisors. And we've got how many non-salaried people?
+ALAN: 74 non salaried, non exempt.
+HENRY STOPPLECAMP: 74 non salary.
+JUDY LUBOW: OK, thank you.
+HENRY STOPPLECAMP: Non exempt.
+JUDY LUBOW: Thank you. And if we had procurement questions, that'll be afterwards?
+HENRY STOPPLECAMP: We can ask them now, later. Bryan is here, so we can talk about
+procurement as well, if you'd like.
+JUDY LUBOW: Thank you. I don't feel like taking more time at this time. Let's see if other
+people are interested-DOUG TISDALE: Yeah, I'll go to Director Folska, and then come back if no one else joins.
+Director Folska.
+CLAUDIA FOLSKA: Thank you. I may have forgotten my question. But I had a lot. So let me
+try a few and see if I remember the one I was thinking of.
+
+The first thing that I'm hearing from you is that you really want to do this. And it sounds like the
+staff really want to do this, and that you're going to own this. I'm wondering, is that what I'm
+hearing?
+HENRY STOPPLECAMP: Um, I will say this. At the beginning, I was ambivalent. I've seen it
+work both ways. But the more I deal with Denver Transit Partners on the existing system, and
+the lack of responsiveness going forward, I believe that RTD would have a better product.
+I do know that the staff that have been working on it would really like to do it now. But like I
+said, and I think Heather can verify, that at the beginning, a majority of the staff did not want to
+touch this and wanted to hand it over DTP. But realizing the amount of money that we're saving,
+the institutional knowledge that we're gaining, it's a win-win for the organization. And there's a
+lot of staff members that put their heart and soul into this thing and really want to go forward.
+And it's from the design team to the operations.
+So I've got my engineer folks are designing the temporary facilities and the permanent facilities
+from scratch. This isn't the type of job they normally do. And they're excited about it, and they've
+come up with some fantastic ideas, and cost saving ideas.
+So the answer is yes. I believe the staff would really like to try at this and demonstrate that, you
+know, the light rail stand up in 2014 was not a fluke. The commuter rail stand up in 2019 will
+demonstrate that we're still-- we've got the ability, and we've got the expertise to move forward.
+ROLF ASPHAUG: Director Folska, I'm sorry. This is Rolf Asphaug. Would you mind, could I
+add a little bit to that answer? Would that be all right?
+CLAUDIA FOLSKA: You want to add to it?
+ROLF ASPHAUG: Yes, please.
+CLAUDIA FOLSKA: Oh, sure.
+ROLF ASPHAUG: Just very briefly. The question I think you have is going towards whether
+there was-- you know, whether RTD wants to do it. We're now in January 2019. And yes, now in
+January 2019, it's clear that the staffers who are working on this are excited and want to do it.
+But we're looking-- we're talking about proposals that were submitted in September 2017, and
+then something else that was sent in April of 2018, almost-- the better part of a year ago, now.
+And if there had been some sort of bias by staff to want to do this all along, a simple solution
+staff could have had would have been-- the deadline-- you know, they submitted a proposal in
+April. They submitted a proposal in June. They submitted a proposal. They were then told
+August 31 was, you know, three strikes, your final-- this is your-- this is your best chance to get
+this work. They still missed that by nearly a month.
+We didn't deny it. We didn't say, on that date, you're done. Leave. Leave us alone. We accepted
+it. And it was analyzed very, very carefully, even though it was late. And that proposal is a
+
+proposal that, among other things, had no termination for default. That's a huge red flag. It also
+had no penalty for two years if they totally didn't perform.
+The contract we have with them now has availability payments based on how well they perform.
+What they were proposing in September 2017 said for the first two years, you can't take any
+penalties against us, RTD, no matter how badly we perform on the N Line. That was a big red
+flag, because it also indicated, how confident are you, DTP, that you're going to be able to do the
+work that you're offering to do?
+Then that-- they were instructed, all right. No more work. We've paid you $750,000 already to-we've paid you $750,000 so you can prepare a proposal for us to look at. We're not paying you
+any more. Stop. They continued-- they didn't continue to work.
+September went by, October, November, December, January, February, March. April, suddenly
+we get what is in front of you. That's not a summary. That's the entire proposal that was sent in
+April of 2018. And that's what you have in front of you. And that proposal still-- you know, they
+know now that we're farther along. The pressure is mounting to get this thing done, and to get
+this open. But it still suffered from many of the significant issues that we had with the first
+proposals that were submitted, that we paid them for. I just wanted to emphasize that.
+CLAUDIA FOLSKA: Thank you. I appreciate it. And if I may continue, Henry, in the context of
+the district as a whole, we've suffered a lot with our goodwill, with our constituents, our
+stakeholders, and in particular with the A Line, the G Line, and on, and on, and on. And how do
+you think this impacts, sort of, the psyche of our own staff? I mean, if our community is upset
+with us, I imagine that it's kind of wearing on our own staff, over several years of just nonstop
+constant problems. But on the other hand, you and your staff have stepped up to address the
+issues, to be proactive, to meet the requirements from the FRA, to negotiate that with the DTP.
+You were mentioning that you're anticipated operation, I guess, it is revenue operation at the end
+of this year for the North Metro Rail. Is that your hope?
+HENRY STOPPLECAMP: I would like to be ready. That's our goal, to be ready, whether we go
+into operations or not. So that's stand up, training, accepting the system from RRP.
+And one of the things, yes, I believe the staff-- first off, they weren't swayed one way or the
+other back in 2017, 2018. They believe in the system.
+The other thing that we have as an agency, if we were to turn it over to DTP, I think we'd be
+status quo going forward. By us taking it and going forward, any improvements that we can
+make on the operations, the maintenance, the performance, we can use this as our own test pit.
+So if it works for us on the North Metro, we can say, OK, DTP, we want you to do this. So
+TVMs, variable message boards, communication to our operators, communication to the patrons,
+any of those improvements we develop over the next several years on the N Line, we can take
+those and have those move over to the Eagle Project, and vise versa.
+
+CLAUDIA FOLSKA: And that leads me kind of to the next question. So we're not going to,
+hopefully, have the constraints that we are operating under for the A Line, or the B Line, or the G
+Line, per se, those flagging, and the timings, and the gates, and that kind of thing. It should be
+resolved.
+HENRY STOPPLECAMP: We believe we have it resolved, yes.
+CLAUDIA FOLSKA: Thank you. So then, one could imagine that you can build this expertise
+and use the economies of scale over time to finish the unfunded corridors when there is funding.
+Would that be your hope?
+HENRY STOPPLECAMP: I would say this, and I'm on tender grounds on this one. Trinity Rail
+Express, down in Fort Worth, they did not build from one end to the other end on day one.
+Richland Hills out to Dallas, and eventually going back into Fort Worth, double track, has money
+payment available, utilizing their own people as necessary.
+[INTERPOSING VOICES]
+HENRY STOPPLECAMP: A lot of folks have done that. So whether we have funding, whether
+we have-- it just adds to the tool box for us.
+CLAUDIA FOLSKA: Thank you very much.
+DOUG TISDALE: OK, thank you. Director Guissinger, you're next.
+LYNN GUISSINGER: Thank you, Chair. Is this on?
+HENRY STOPPLECAMP: There you go.
+LYNN GUISSINGER: I'm learning all my IT here. Thank you, Chair.
+I appreciate what Director Menten-- the effort that you've put in and the fiscal oversight. I think
+that's our job. And I think raising the questions is a good thing.
+I am convinced that this was a good decision, financially, and based on a lot of uncertainties, the
+default provisions, the no penalty, a lot of those things. And I think it's great that the staff is
+excited at this point.
+My question is sort of a general contracting question, as I learn this process. But I think that you
+said-- I think you said it wasn't clear whether the contingencies were in here, but if they were,
+that that money would go to them, if the contingencies weren't needed, and in this way, it goes to
+us. Is that ever negotiated? That seems like something that could be worked out and would work
+well to try to move that our direction.
+HENRY STOPPLECAMP: So for contingency, typically, a contractor bids a lump sum.
+Everything is included. And hopefully, there is enough detail that if the contractor missed
+
+something, they've got some funds within their budget to cover it. But if they can point out that
+that piece of work was not identified, then they can come back to the owner for a change request.
+So the contingency is only on stuff that they should have caught in their own bid.
+We do have some contracts out there with allowances. So if we've got-- environmental cleanups
+a big one. We may put $1 million in a contract. That would be a contract for environmental
+cleanup. And the contractor has come back, says OK. This is what we found. We want to draw
+down on this allowance. And we go out there, verify it, and they can draw down on time and
+material and they take that money out. Whatever's left in that line item at the end the day belongs
+to the organization. It doesn't go to the contractor.
+Sometimes we even write some language in there that we put a dollar million out for insurance.
+And if nobody pulls anything out at the end of the day, you get half, we get half. So anything
+they start pulling down, they're losing their own money. There's a lot of different ways we can do
+it, and we have done it over the years.
+But on this particular contract, on the meeting of the 28th, we asked them, was contingency
+included? And they point out blank told us, no.
+LYNN GUISSINGER: OK. Thanks.
+KEN MIHALIK: OK, thank you. Director Buzek.
+VINCE BUZEK: Thank you, Mr. Chair. I'll try to keep my comments brief as well. I want to
+thank Director Menten and staff for the presentations. Very informative and very comprehensive.
+And also staff for the January 3rd white paper. Also very informative.
+So I want to start up by saying I agree with a lot of things that Chair Tisdale said, and a lot of
+things that Director Broom said. Specifically with regard to Chair Tisdale, the fact that RTD has
+the statutory power to do what it's charged to do. So when it comes to that question of we didn't
+vote separately on whether RTD should do this, this is what RTD does. And Chair Tisdale also
+gave at least half a dozen examples in the past where this has happened. And this is what RTD
+does. So I'm not swayed by an argument that there was no vote to separately authorize the
+operation and maintenance of the end line.
+With regard to some of the things that Director Broom said, you know, we're trying to do this
+like like, apples-apples comparison. And I think you hit it right on the head, Director Broom.
+This is apples and oranges. And staff, I think you support that as well. I've heard that here again
+tonight. DTP DTO never gave us what they were supposed to give us. They had at least three
+chances to do it and they failed every time.
+So the information and the numbers we're dealing with on the DTP side, it's anybody's guess
+how accurate and how complete they are. RTD, on the other hand, we know they did a
+comprehensive analysis of every component of the operations and maintenance. And those
+numbers are accurate.
+
+What this gets to, in my mind, is that this independent auditor that you want to compare like will
+never be able to do that job. Because there is no like like to compare. They're completely
+different proposals.
+So I find that this motion has to fail just because it will never reach the conclusion it wants to
+reach. Unless you go back to DTP and pay them some more money to do a comprehensive
+analysis. I would not be in favor of that at all.
+If this goes forward-- if this were to go forward and we had this auditor come in, based on what
+staff has told us here today and in one on one meetings that I've had, the one sure thing that will
+result from this is delay of the operation of the end line. Without a doubt.
+I'm one of the five Directors that represents districts north of I-70. And all of you probably know
+that some government officials in the north end of town are a little perturbed with RTD. So much
+so that they're seeking legislation to rein RTD in and change the entire makeup of the Board.
+This is borne out of frustration. And the frustration comes from delay, not getting things that they
+think they're promised, not one mile of track in Broomfield County or Boulder County. All these
+frustrations have been building in the north end. And if we do this and delay it some more, that's
+not a good thing for the people on the north end.
+And I'm not saying that should be the only criteria upon which we base our decision. I think
+we've got plenty to base our decision on this without that criteria. I am very much opposed to this
+motion. Thank you.
+KEN MIHALIK: Thank you Director Buzek. Chair Tisdale, you're next.
+DOUG TISDALE: Thank you very much Mr. Chairman. I do want to thank Director Menten
+again for bringing the issue forward. If nothing else, I think it has been an excellent tutorial for
+the newly elected members of the Board relative to the process that was undertaken here.
+Secondly, the motion asks for a competent and independent third party financial and operational
+analysis. I submit that that's what Faithful + Gould did. We have had a competent independent
+third party financial and operational analysis.
+Third, I have a question-- I have two questions for Mr. Stopplecamp. Mr. Stopplecamp, as a
+reasonably prudent practitioner in the field with experience and expertise in capital projects, is it
+your professional opinion that the decision to reject the DTP proposal was prudent, commercially
+reasonable, and justified?
+HENRY STOPPLECAMP: That's an unfair question.
+SPEAKER 2: Why?
+HENRY STOPPLECAMP: Why? Because you're putting me on the spot. As a professional
+engineer, yeah, I can't sign and stamp this thing. But I personally believe this is the best path
+
+forward for the district. Director Buzek commented upon going through various line items. I can
+tell you the difference, the price between a Chevy Traverse and a Jeep Renegade. Because that's
+the detail our staff's gone into. My guys want radios. You wouldn't believe what radios cost.
+Security wants radios. Light rail wants radios. Commuter rail wants radios.
+We've gone down into the weeds on each of these components, from furniture-- to used furniture
+versus new furniture, using old IT stuff until we get new IT stuff. So we have looked at it across
+the board. The one area that we're still is a challenge is our rescue locomotive. But we will have
+a piece of equipment out there that can rescue a train. So we're looking at different alternatives
+on that.
+The rest of the thing, the engineering staff has been unbelievably professional on coming up with
+the design. The architects have been doing that. The real property, identifying the property going
+forward with that, the IT folks. So my professional opinion is, this is the way the district should
+go. And we've got the staff in-house. And we've got some outside folks that we're hiring to help
+us out.
+But the institutional knowledge will be here forever. And no agency can ask for more than that.
+You've got dedicated individuals that want to be here. You've got people with the knowledge.
+And all we're going to do is grow their knowledge and make them better employees for the
+district.
+DOUG TISDALE: Thank you. And then finally, in the first instance, at the outset of this process
+back in 2015, was it the intention of staff to collaborate with DTP with a view toward awarding
+them this contract?
+HENRY STOPPLECAMP: The answer was yes.
+DOUG TISDALE: Thank you very much. That's all you're-- that's-- that's all, Mr. Chairman.
+KEN MIHALIK: I'll let it slide this one time. I'll let it slide. Director Cook, you are next.
+SHELLEY COOK: Thank you, Chair. So I wanted to echo both the thanks for digging into it and
+bringing forward the additional information and questions, and also the concerns that people
+have reflected about proceeding with this third party audit. I think the information that we hear
+from the staff is convincing enough that, even, you know, even with the benefit of the additional
+analysis, I'm not convinced it wouldn't take a lot longer than we're thinking now, just given how
+much the numbers are shifting.
+And my other concern, just to add to this, is that we already have a lot on our plate. And Henry
+and Dave Genova and Alan Miller and other people are dealing with the FRA action plan,
+making sure we provide the information and data and so forth, responses needed to comply with
+that demand. And I'm worried that to the extent we divert from that by, you know, the time and
+attention and resources of some of the same people involved, at least on our side if not on DTP's,
+that we then further the delay, not just in the N Line quarter, but also in the G Line quarter and in
+pursuing that action plan for the Eagle Project as a whole. So just wanted to add that.
+
+KEN MIHALIK: OK. Thank you. Director Menten, you're next.
+NATALIE MENTEN: Thank you. So I'll start with, first of all, it is difficult to look at the
+different pieces. There's so much in all of this information. But what was most confusing to me-no, I'm not going to say the most confusing. But one piece of it was, there was a lot of time gap.
+And I'm not sure about all the-- who was slow on what end. Really don't know. We don't get
+down and do seeing what's going on in the email threads and putting the prices back and forth.
+But looking at the two comparisons, you're really coming down to even though it was past that
+last deadline of the September 2017 proposal, DTP still ultimately did give us a proposal in April
+2018 that did much-- accomplished much of what the disagreement's about tonight.
+Including-- I'm just going to have to read up for this one. You know, it talks about an appropriate
+termination regime. It talks about payment and performance deductions for the North Line that
+apply the same as the Eagle Project. Our DTO DTP being fully responsible for parts, tools, and
+what is needed.
+So the question coming out of this-- and I already know the answers. But I'm bringing this up
+because I want everyone here to understand it, is what conversations took place between
+members of the agency-- whether that's an elected official-- and a member of staff to give DTP
+the idea that it was their April proposal what is going to be somewhat accepted?
+I know the two individuals who talked. I'm trying to get them to say. What conversations took
+place between DTP and people in certain positions here at RTD that left DTP with the
+impression that it was OK to submit an April proposal? April 2018. So if somebody wants to
+volunteer it up, I'm looking for an answer here. What would have given them the thought that it
+was OK to submit it?
+DAVE GENOVA: Mr. Chair, if I may?
+KEN MIHALIK: Yes, General Manager Genova.
+DAVE GENOVA: Well I will say in a conversation that I had with DTP Board members and the
+DTP team when they came in and said they were disappointed over the whole situation on the N
+Line. Could they propose again? We basically went through the history with them, said, you
+know, we contracted with you to give us a proposal. It had a time frame. The time frame wasn't
+met. We got a proposal in. It was way out of line cost wise. The second one, way out of line cost
+wise. Exceptions to statement of work, you had all kinds of ample opportunity to provide us with
+an appropriate proposal and move this ahead. The opportunity was theirs for the taking.
+And they said, well, could we submit another proposal? I said, I'm not going to tell you you can't.
+But we treated it as an unsolicited because we had completed our procurement process under
+RPC-60.
+NATALIE MENTEN: OK. Because in the timeline-- and I know the timeline that was presented
+in the October 30, 2018 study session was that DTP had submitted this final proposal April 4th.
+
+And then on that timeline, it says our RPC-60 withdrawn April 13th, 14th? Somewhere in there?
+And a statement's been made that that was a close out of an account. But frankly from my
+position, it looks like it was just finally closing the door. But that proposal was in before then.
+So I wanted to cover that first. The comments had been made that RTD-- I know how the vote's
+going to end up tonight. But I'm going to get these comments out on the record, folks. That RTD
+is not in it for the profit. So when costs are higher than stated, when it comes down to RTD, what
+that ends up happening, as I think we all know, is because it's a shared agency-- all the services
+overlap one another. That if RTD's numbers-- which we're trying in this last document we got at
+least puts it on paper. So looking forward, we can look back. Is that what I'm very concerned
+about is these numbers have been low balled. And we still have a discrepancy on the numbers
+themselves. And I think that was the whole purpose of having a third party look at that.
+Now you could share with me the document that we've already done with Gould. And I'd be
+happy to have that also for my information. But what I'm very concerned about is that moving
+forward, like we've seen with the Fast Tracks program, these costs are going to explode. And we
+will be building up departments in part of ownership somewhat ego tied to it-- I'm sorry-- that all
+of a sudden, what we're going to end up doing is continuing to take the Fast Tracks program and
+continue to starve other parts of the system.
+And that means the bus, which is continuing to drop off. Do we raise the fares? Further reduce
+our ridership because of the fare increases? So I'm trying to speak to why I was so concerned
+about the dollars of this matter. And why I thought a third party, independent analysis at a
+reasonable price would be the best thing for all of us.
+I think that we've focused on the early proposals. And really what we should be considering to
+the benefit of the taxpayers is the April 14th, 2018 cover letter, which addressed issues like I
+stated with the payment and performance deductions. And on that matter, if RTD doesn't
+perform, what are the penalties? There's none. At least with DTP, we would have somebody.
+This Board has been asked to lower performance standards at least twice in the time that I've
+been on this Board. Lower performance on time standards.
+I still argue that when it's stated that DTP did not break down the price, I find that confusing.
+Because even looking at September 2017 proposal, or the 2018 proposal, in the packet that I
+gave you all, it includes the copy on there-- and you will see a line item for renewals. Spare parts
+and consumables. So these items are broken down.
+And Henry, while you were talking just a little bit ago, when Director Guissinger asked about
+breaking out the contingency, you yourself, in your own words stated, usually contractors price it
+as a lump sum with the rest of the stuff. Well DTP appears to have broken it down. Yet on the
+other hand, we're saying it's a lump sum that wasn't broken down. This just continues to drive me
+towards, I think a third party should still be looking at this.
+
+If the argument is, it's going to take forever, well then use the information that you just told me
+we already have. And give it to them. Which you said it took six months to put that together.
+Give them the information.
+So-- and I'm sorry. I know there are people that are upset and a certain mayor would like to oust
+all of us out of our seats and appoint five people. But when we have inefficient spending on
+example, the North Line, that means the Northwest Rail is that much further off in the future. So
+who's upset up north? Thank you so much for your time fellow Board members.
+SHELLEY COOK: Thank you.
+KEN MIHALIK: Thank you Director Menten. We'll go to Director Walker next.
+JEFF WALKER: Thanks. I will not be supporting the recommendation. I think the
+recommendation, the background, the support for the recommendation is full of suppositions,
+possibilities, maybes, kinds of unknown information. I think Mr. Stopplecamp, I think staff has
+demonstrated that they've put a good strong eye to the numbers and have analyzed our costs
+versus the proposals that we got that seem to be inefficient.
+There are categories that were identified on the document that Director Menten handed out. But
+they are just categories. What's really important is the line items under those categories.
+Employees just aren't employees. Which employees are not included in DTP's proposal. What
+parts would be replaced with what? What are the manufacturers? What's the supply chain?
+There's a whole lot of information missing in this recommendation that drives me away from
+supporting it at all.
+I think-- I'd love to know how much it costs staff to put together the information for this. I'd like
+to see us come with a cost benefit analysis for the request of staff that we make some time.
+And also, I think it's probably pretty demoralizing to staff to have a Board Director question the
+veracity of their analysis of these types of proposals that they do day in and day out, all day long,
+all year long. That's it. Thanks.
+KEN MIHALIK: Thank you Director Walker. Director Menten, back to you.
+NATALIE MENTEN: Yeah. Thank you. November 28, 2018, I asked for a list of the employees.
+I've asked for the comparative analysis, which tonight we finally got at this meeting. I still don't
+have the list of the employees. What we were given is a fuzzy organizational chart that there's no
+way you could even blow it up and read it. I tried to get the documents before I came here. And,
+I'm sorry Director Walker. Has staff given us that detail? I don't think so. Do other contracts? I
+think we owe it to our constituents to ask these questions. Thanks.
+KEN MIHALIK: Thank you. Yes, I'll go-- Director Catlin, I'll check in with you one more time
+to see if you've got any questions or comments.
+
+PEGGY CATLIN (ON PHONE): Thank you, Chair Mihalik. I will not be supporting the
+proposal. But I do definitely appreciate the work that Director Menten put into this analysis, and
+also that she was asking the questions. I am impressed with Henry Stopplecamp's presentation
+and his analysis. And I guess what struck me was that we paid DTP $700 and some thousand
+dollars to prepare an estimate that, in my opinion, the deliverable was woefully inadequate.
+So I was kind of struck by that. A lot of times, when you are proposing to get a 10 year contract,
+you put a lot of effort into it and you're not paid to do that. So it seemed to me that there was a
+demonstration of poor performance just in the creation of their proposal to operate the North
+Metro Line. So I just wanted to comment that I think that that's another reason to not support
+going forward with them operating the line. Thank you.
+KEN MIHALIK: OK. Thank you very much. And we will move this to a vote. And just a
+reminder, Director Folska was the mover, Director Lubow was the second.
+And with Director Catlin's no vote, it's 11 nos, three yeses, and it does not carry. Thank you very
+much.
+We will move on to the tonight's updates. Thank you Henry. Heather, you're going to stay for a
+little bit.
+HEATHER MCKILLOP: Yeah. I think Henry's leaving. We'll be quick. We have three update
+items. Doug's going to join me real quick. So I'll let him-- we won't bring it up on the screen, but
+we'll just quickly run through where we are at the end of November. Next month will be the
+interesting month because it'll be our year end numbers. And right now, it looks like we're
+tracking very, very close when you take fair revenue and sales tax revenue into almost being
+those numbers exactly from our forecast. But I'm going to let Doug run through where we're at
+right now through November.
+DOUG MACLEOD: Thank you Heather. Good evening. Doug MacLeod, Controller. Just a
+quick overview of the dashboard, which is the top portion of the monthly financials with the
+arrow. So we continue to have a good sales and use tax collection rate. We are exceeding budget
+by 1.1%. So we're about $6.4 million over budget on sales and use taxes. And also $31 million
+over where we were the same time in 2017.
+Moving down to the other revenue portion of this is fare revenue. Fare revenue, we're actually
+down from budget. We had assumed that additional operations such as a G Line would be up and
+running by this time. So we're about $3.1 million dollars under on fare revenue to budget. And
+were positive $2.5 million to last year.
+So all in all, if you look at the increase over last year, considering both sales and use tax and fare
+revenue, were up $33.6 million over the same period 2017. And then we're positive to budget,
+both fares and sales and use taxes, by $3.3 million. So in good shape on those two indicators.
+Where we're in the red, as we have been most the year, is on ridership. And the big drivers there
+were we're actually 2% lower than we were in 2017 and 3.4% under budget. The big drivers
+
+there really are buses, down by 3.5%, and our non-revenue services, such as the free metro ride
+and the mall shuttle, combined, are down about 9.2%. That includes our ADA services and Calln-Ride as well.
+So all in all, we do see light rail and the commuter rail going up, which offsets that decrease in
+bus. But we're still down 2% year over year. And that wraps it up for our dashboard. So we'd be
+happy to take any questions.
+KEN MIHALIK: Start with Dr. Broom.
+BOB BROOM: Thank you, Chair. Obviously, December is the big month for sales and use tax.
+Have you heard anything from the state or from Denver that would give you any indication as to
+whether we're going to have a good December?
+DOUG MACLEOD: Well, I did talk to City and County of Denver. So while we're up 5.8% for
+the year, they're only up 4.3%-- a little bit different mix in our industries there.
+But we did see a good November with our online sales. It's the best month that we've had for our
+internet sales taxes. We had $1.1 million, and moved from about the 15th place in our industry-if you do our top 25, they're used to being in about the 15th place in terms of size of producing
+sales and use taxes. They moved up to seventh place in November.
+So we see a lot of shopping going on, and we did see a really good November. It's really hard to
+tell where we're going to be in December, but that's usually our biggest month. It usually is.
+We're expecting about 60 million. Most months are about 52 million. So that remains to be seen.
+But all year, we've been right at budget or above.
+BOB BROOM: Thank you.
+KEN MIHALIK: Thank you.
+Director Catlin, any comments or questions on the November-PEGGY CATLIN (ON PHONE): No, thank you.
+KEN MIHALIK: Thank you. And I guess with that, we'll move on to the next. Thank you, Doug.
+HEATHER MCKILLOP: And Tonya Anderson's coming up to talk about the next one.
+And just for the members that are new to this report, every quarter, we bring back a report on
+how we're doing with our smart card sales, any issues we have as we continue to implement and
+upgrade our smart card. And so that's why we still have a colored dashboard in here. And then
+we also started reporting, about mid-last-year, on our mobile ticketing sales.
+And so this report, we bring back quarterly, just to keep everybody up to date on what's going
+on, and if there are any issues out there, or any things that we want to celebrate.
+
+So with that, I'll turn it over to Tonya.
+TONYA ANDERSON: Good evening. I'm Tonya Anderson. I'm the manager of electronic fare
+operations. And I'm just going to give a quick update on smart card and mobile ticketing
+programs.
+The report is in your Board packet. And I just want to highlight a couple of successes that we had
+this last quarter.
+For 2019 fare changes, we implemented those fare changes. We introduced the youth product as
+well as the 3-hour pass successfully. We had no significant issues on our smart card program.
+We're really proud about that. In our 2016 fare change, we did run into some issues. We have
+some lessons learned from the last fare change, implemented them this year, and we were able to
+successfully make these changes with no significant issues to our customers.
+We also have additional enhancements planned for the second quarter of 2019. These are not
+directly related to the fare change. They're user experience improvements, as well as some
+additional improvements to better service our customers as it relates to these new products.
+The next success I'd like to highlight is in our PCI compliance. We implemented the software
+release to the public in September of 2018, on-time and on-budget. There was one issue that was
+identified after the release, and Conduit remediated that issue within 30 days, as is required for
+PSAG compliance.
+We also completed an internal security scan-- detailed security scan-- after this PCI compliance
+software release. And there were no high and no critical issues identified after the scan. And so
+this PCI compliance program component changed from a yellow status to a green status.
+And one note I'd like to make for our mobile ticketing program-- as you know, our customers are
+still very satisfied with our mobile ticketing program and the ability to purchase, now, not only
+the day passes, but monthly passes and the three-hour pass. And sales continue to improve. And
+again, for the month of November, the percent of fare revenue has exceeded our expectations on
+mobile ticketing.
+And with that, I'll be happy to take any questions?
+KEN MIHALIK: I don't see any. Director Catlin, any questions on smart card update?
+PEGGY CATLIN (ON PHONE): You know, I appreciated this report. One thing that occurred to
+me. And this is probably not for your group, Heather, but I have talked to a number of my
+constituents who aren't even aware of the mobile ticketing option.
+And so I think as we go forward, I would like to have a really quick little cheat sheet that I could
+provide newsletters, and homeowners, and just people who aren't aware of this to, hey, did you
+know that we have the mobile ticketing option? Because when I've talked to people about it, they
+have said, oh, we didn't know that was available.
+
+So I would like to promote it. And I think that your numbers show that it has been very
+successful. So I'm sure it really is something for the communications department. But I would
+really appreciate some support in that area. Thanks.
+HEATHER MCKILLOP: No, thank you. We'll pass that along. Tonya's the operations manager.
+So those are kind of things that she will spearhead, to make sure that we're getting that out and
+more publicized.
+DAVE GENOVA: You did that one for Visit Denver.
+HEATHER MCKILLOP: Yeah, so we have-- he was telling me, we had a meeting with Visit
+Denver to point out all the benefits of mobile ticketing and some other things with them, too.
+DAVE GENOVA: And if I may just quickly, Mr. Chair, we did develop a brochure on it. And so
+that will be coming out in more availability. Of course, it's all on the website. But as we were
+meeting with other people that were interested in buying in bulk on mobile ticketing, we've put
+forward some paper materials that we can distribute and make available. So those are ready to
+go. Communications has developed those.
+KEN MIHALIK: OK, thanks.
+PEGGY CATLIN (ON PHONE): Oh, excellent.
+HEATHER MCKILLOP: And we continue to as we offer more products.
+KEN MIHALIK: Well, thank you for that positive report.
+TONYA ANDERSON: All right.
+HEATHER MCKILLOP: Well, hopefully we have another one coming up for a positive report.
+So the 2019 fare change updates in your packet also, I wanted to point out that hopefully nobody
+heard anything about it, which is good news, which means things went very smoothly, and which
+they did.
+As we showed you last time, if you look on page 2, where we have the system impacts and the
+business impacts, there were so many parts of our organization that are impacted when we do a
+fare change, and so many people that worked on that over the holidays. So between New Year's
+Eve and New Year's Day, we had over a dozen people that gave up their holidays to spend it in
+the field, making sure everything was going right, that every single bus was touched, that every
+platform validator was touched to make sure everything was in place, as well as all the work that
+led up to that.
+We had a seamless transition to the new fare change. And we had very limited problems, and
+most of those were all fixed within a matter of minutes or hours.
+
+One thing that has come up. She mentioned that, on the youth pass, we had no issues with that,
+and we haven't. The issue we have had is when you switch from a 50% discount to a 70%
+discount, we have to actually change out the card. The youth card discount, their actual fare
+media card has to be changed out.
+The good news was that we got that word out there. And so we had a lot of response. The bad
+news was people didn't read past the, "you have to get a new card," and they've been trying all
+kinds of ways to figure out how to do it on their own without just coming in and getting it
+exchanged. So we've been fielding a lot of calls on how do they get their balance moved from
+one card to the other. So we've been able to help them do that. That's the only glitch that we've
+had is-- again, I think the information got out there, but they didn't read past paragraph 1-- which
+is you have to get a new card-- which is, how to get it on your new card.
+So with that, we've been working through the phones on customer service. And also Tonya has
+been working on that, making sure that we are getting that all done and changed out. But we
+really haven't had any complaints. Just, oops, I don't know how to do this, or, I don't know what
+the next step is to get it changed over.
+So we are now full swing into low-income implementation. We have had numerous meetings
+with Office of Information Technology at the state. We're in the phase now that we have
+received a level of effort from them for their consultant and for the ongoing maintenance costs.
+We're still waiting for the ongoing maintenance costs number in writing so we can execute the
+IGA. But it appears right now that everything is within or under our current estimated budget.
+We'll know more when we get it all in writing.
+I want to pass on how wonderful it has been to work with the state. I compliment them on a
+regular basis. They are not charging us for their costs in doing this. We meet with them two to
+three times per week. And one meeting is almost two hours every week. They are only charging
+us for their consulting costs, and any of their costs for storage of our photos, any storage they
+have for the application process, those type of things.
+We are trying to work through, right now, a timing issue. They have a large initiative that they
+are implementing in June. So they're looking at seeing how that might impact our project. But
+right now, we can't say enough about how they've cooperated with us. And not just the Office of
+Information Technology, but their human services staff, from human services, and HCPF, the
+Health Care Policy and Finance group, have offered us all type of help and assistance in how we
+could advertise the program and those type of things.
+We will be having shortly the first meeting of the group that will be discussing what we might
+name this program. And so we're working on the parameters for that meeting. And I think it's
+coming up this week or next. I can't remember exactly when that's scheduled.
+But right now it's going well. It's just a tremendous amount of work-- lots and lots of meetings,
+and choices that we never knew we had. We're trying to keep it as simple as possible. But some
+of these programs out here that people participate in are extremely complex. So trying to
+
+alleviate that complexity actually has been some of the work that would have been going into
+this to make it as simple as possible for people.
+So with that, we plan on coming back to you. We were going to do it quarterly. But we talked
+about coming back monthly now, since things will probably start happening rather rapidly in the
+next couple months leading up to the low-income implementation. So you'll see a report from us
+each month now-- instead of quarterly-- on the fare status update.
+KEN MIHALIK: Thank you. Dr. Broom, you're first again.
+BOB BROOM: Thank you, Chair. What kind of feedback are you getting on the change from a
+one-way fare to a 3-hour fare?
+HEATHER MCKILLOP: Very positive. So that is the one item, through the whole process, that
+everybody was supportive of. We never got any negative feedback. And we've gotten positive
+feedback on that particular aspect of the fare change. Is that likely to cost us money.
+BOB BROOM: Because now people can combine a trip, and get it all done in three hours?
+HEATHER MCKILLOP: I can't put an exact dollar amount to it. Because when we did the
+analysis, we did it as part of that whole package for fare changes. But if I remember correctly,
+because we didn't have a lot of good data on transfers and what that really was costing us, we
+don't know the exact dollar amount. But we felt it was worth it for whatever small monetary cost
+it would be. But we have not been able to break that out because it was part of that larger
+package deal.
+BOB BROOM: Thank you.
+KEN MIHALIK: Thank you. Director Menten, you're next.
+NATALIE MENTEN: Thank you. You mentioned in here about the low-income fare program.
+Who is the state's technology vendor?
+HEATHER MCKILLOP: Deloitte.
+NATALIE MENTEN: How's that's spelled?
+HEATHER MCKILLOP: D-E-L-O-I-T-T-E.
+NATALIE MENTEN: And our budget for that had been-- you thought it would be $1 million.
+HEATHER MCKILLOP: Ongoing costs, we had budgeted $1 million. We had budgeted almost
+$3 million for upfront implementation costs.
+NATALIE MENTEN: So budgeted $3 million upfront, $1 million annually?
+
+HEATHER MCKILLOP: Yes.
+NATALIE MENTEN: And you feel we will be within that, but you don't have the-- it says,
+January 11th here. So you've gotten something, but you haven't quite finished.
+HEATHER MCKILLOP: Gotten the implementation costs for Deloitte, the consultant. We got a
+overview of the ongoing costs on Friday last week, but they have not finalized that and put it in
+writing to us so we can incorporate it in the IGA. Right now, it's looking significantly less than
+that.
+NATALIE MENTEN: Will that come back to the Board for decision?
+HEATHER MCKILLOP: You already approved the budget, but we'll bring it back to you to let
+you know what the actual costs are.
+NATALIE MENTEN: All right.
+And then I had asked Mr. MacLeod-- during our pre-committee meeting, I had asked, regarding
+the fares, what telephone information center's feedback was on the fare increases. So I am sure
+everybody's happy with the 3-hour any direction. I want to know about the other part of it.
+So were you able to follow up on that-[INTERPOSING VOICES]
+HEATHER MCKILLOP: That's when I mentioned the youth. The biggest issues we've had with
+the implementation have been the youth card. And then we have received-- I've personally
+responded to three GMRs-- or non-GMRs, I guess we're calling them-- not liking the fare
+increase.
+NATALIE MENTEN: OK. And just so I'm clear on that-- after all these years, I've been quite
+clear-- somebody calls in to TIC and says, you guys are horrible; you raised fares. What does
+that take to become a GMR, and actually go on the record-- that they want a response? Because
+what I'm interested in is not necessarily the ones that got to the level of hi, I'm John Smith, and I
+want you to give me a phone call or an email back. I am Joe Blow, and I think it's horrible. That's
+kind of what level I'm interested.
+HEATHER MCKILLOP: I'd have to look into that a little more when it comes to TIC, because
+two of them that I responded to through-- do you want to answer that?-- have come through the
+telephone information center, that I've responded to with non-GMRs.
+The ones that we're talking about, that TIC gave us information on data, were number of phone
+calls related to what particular issue. They to try to categorize them by issues. And the biggest
+one that's come through is, how do I get my youth card fixed to have the 70% discount on it, and
+get that value transferred?
+
+NATALIE MENTEN: OK. From my end-- I don't know if you care to hear-- but the regional
+fare's where I'm hearing complaints on my end. And it's not that I've gotten 15 or 20. But I
+haven't had any youth complaints. It's all been the regional.
+So did you have something to follow up with there, Dave?
+DAVE GENOVA: No, but I can ask Will Adams, our Senior Manager over at Customer Care, to
+see if he can just kind of run a report, and just see the number of maybe just comments that we've
+had about people not liking the increase.
+NATALIE MENTEN: OK, just would be interesting to know. That's all the questions that I've
+got. Thank you very much.
+KEN MIHALIK: Thank you. Director Walker, you're next.
+JEFF WALKER: Thanks. I should have mentioned this during the mobile ticketing segment. But
+I've gotten a lot of comments-- positive comments-- on the mobile ticketing, especially now that
+more options are available on that. There was one person who had a glitch, but she wasn't sure if
+it was her phone or the program that was acting up, but still liked it-- just that one time.
+With the 3-hour pass, I've talked to just a couple of people who said that they used to do a
+circuitous route on their trips to avoid the no-return-trip restriction. But the people I've talked to
+have said, this is fantastic. Because now they can do all their shopping, or doctor's appointments,
+whatever they need to do, without worrying of spending an extra 45 minutes to try and get back
+because I didn't have enough money to get out and back on two fares. Now they can do it on one
+fare. So thanks for that.
+HEATHER MCKILLOP: Thank you.
+KEN MIHALIK: Thank you. Director Rivera-Malpiede.
+ANGIE RIVERA-MALPIEDE: Thank you. I just want to say that this is an amazing program
+that's being implemented. The one comment that I got from my constituency base was, oh my
+God, the low-income fare is not going to happen for seven months, and it's really going to impact
+our community. And I was able to write back, and talk to them, and remind them about the pass
+program, and that students would be getting a 70% discount, and that the nonprofit program was
+still in place up and to that point.
+It's the group that's not involved with the nonprofits that I think are lost in this component. So
+I'm really hoping that we can get this program implemented sooner rather than later.
+HEATHER MCKILLOP: That is our intent, and we have mentioned that numerous times to our
+partners over at the state. And they really have done the best. They just don't want to overpromise. So as soon as we know their schedule-- like I said, we just found out Friday they have a
+major initiative that they have to draw up by the end of June. And so what we're looking at how
+that would impact us being able to do our release around that same time.
+
+KEN MIHALIK: Thank you. Director Catlin, do you have any input on the fare change update?
+PEGGY CATLIN (ON PHONE): Actually, two things. Given the fact that the legislature was
+very, very keen on this program last year, I am glad that you are providing monthly updates,
+Heather, because I think it's timely with the start of the legislative session.
+And secondly, just as an aside, I'm at the Transportation Research Board, and I've had an
+opportunity to talk to a couple of people who are in the transit field, and talked to them about this
+program. And a number of people have asked to see what we have done. So forgive me Heather,
+and others. But I think you may be approached by other transit agencies, because I've been
+telling them that it's a model for moving forward.
+So guilty, but proud of that.
+HEATHER MCKILLOP: That's fine. We'll be glad to talk to them. Because we have a lot of
+things we've learned, just over the last several months.
+PEGGY CATLIN (ON PHONE): And that's what I said. I really mentioned that it was a
+struggle, but that you guys did the heavy lifting. So I think other transit agencies can truly
+benefit.
+HEATHER MCKILLOP: Well, and I would just say, I've been really surprised-- I shouldn't say
+this because I've worked for the state for 20-some years-- but with the state's willingness, and
+their vision of how it could be beneficial for residents throughout the metropolitan area. Because
+they're looking at it from a perspective of, if somebody is going to get services for RTD, that
+they may be now open to services that they weren't aware of that they now can participate in
+across all of the different services that the state and the federal government offer. So that's how
+they've been perceiving it-- as an opportunity to potentially be able to reach a lot more people
+that they don't already reach within the RTD district.
+So it's definitely a view we were not expecting, and a take on it that has made them very
+motivated to help us get this implemented.
+KEN MIHALIK: Director Catlin, anything else?
+PEGGY CATLIN (ON PHONE): Oh, no. That's all. Thank you.
+KEN MIHALIK: Thank you. We are done with our updates. We'll move on to other matters.
+Seeing none, our next committee meeting is February 12th, and we are adjourned for tonight.
+Thank you.
+
+

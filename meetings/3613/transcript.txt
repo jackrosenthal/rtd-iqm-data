@@ -1,0 +1,1626 @@
+2024-03-13
+Operations and Safety Committee Meeting
+TROY WHITMORE: Good evening. The Wednesday, March 13th Operations and Safety Committee of
+RTD will now come to order. We are convened as of 5:31 PM Mountain Time. I would respectfully ask
+everybody attending the meeting to mute yourself unless you are recognized to speak.
+Thank you all for joining us this evening. Please note that the committee meetings of the RTD Board of
+Directors will be held remotely via Zoom and will be audio and video recorded. The meeting recordings,
+along with the unofficial minutes of the meetings, will be posted as soon as practicable on the Board's
+website.
+During today's meeting, we are also providing Communications Access Real Time Translation, also
+known as CART. Anyone who would like to access this service should send an email to the RTD Board
+Office at rtd.boardoffice@rtd-denver.com, and a link will be provided. Additionally, the CART transcript
+can be automatically translated into Spanish for anyone who would like access to a live transcript of this
+meeting in Spanish.
+The live stream of the meeting is also available via RTD's YouTube page. At this point in time, I'd like to
+call the role of the committee members. Vice Chair Julien Bouquet?
+JULIEN BOUQUET: Present.
+TROY WHITMORE: Director Vince Buzek?
+VINCE BUZEK: Here.
+TROY WHITMORE: Director Ian Harwick?
+IAN HARWICK: Here.
+TROY WHITMORE: Director Paul Rosenthal.
+PAUL ROSENTHAL: Present.
+TROY WHITMORE: Director JoyAnn Ruscha.
+JOYANN RUSCHA: Present.
+TROY WHITMORE: Director Marjorie Sloan?
+MARJORIE SLOAN: Here.
+TROY WHITMORE: And I'm Troy Whitmore, Chair. And I am present as well. For the record, I'd like to
+duly note that we have several other RTD Board members in attendance. I see at this point four. And help
+me if I missed somebody. But I see Director Jaime Lewis, Director Doug Tisdale, Chair of the Finance
+
+and Planning Committee, Peggy Catlin, and Bob Broom. Have I missed any other seated Board
+Members?
+All right, for the record, I see that we have a quorum with the entire membership of Operations and Safety
+here and for other Directors in attendance. I'd like to open public comment to anybody who would like to
+address the committee regarding any topic listed in the published meeting agenda for the current and
+immediately preceding month.
+If you wish to speak and have not already done so, please either raise your virtual hand or press star 9 on
+your smartphone. Now, during this time, the committee will not offer any direct comments or responses.
+However, if you would like to be contacted regarding your public comment, please email the RTD Board
+Office at rtd.boardoffice@rtd-denver.com. So are there any hands raised? Mr. Kroll to speak to us tonight
+during public comment.
+JACK KROLL: Hi, Committee Chair Whitmore. This is Jack Kroll Executive Manager of the Board Office.
+We have, so far, one individual who has raised his hand to speak. This is Scott Ramming. Mr. Ramming
+also submitted three emails to the Board Office, which were distributed in advance of your meeting with
+some additional public comment.
+In addition to Mr. Ramming's email comments, we also received emailed comments from Greater Denver
+Transit as well. And those have, likewise, been distributed to you.
+TROY WHITMORE: All right, thank you very much. Dr. Ramming, you have three minutes. The floor is
+yours.
+SCOTT RAMMING: Hey. Are you able to hear me yet? I guess that could be. OK, I don't see a control for
+my camera, so here we get to look at the still picture. First of all, I guess I'd like to thank Jessie Carter,
+Manager of the Service Development Department for giving me a call this afternoon. He answered a lot of
+my outstanding questions. And I just appreciate being kept in the loop.
+I also wanted to express my appreciation for the work that Carl Green does with these equity analyzes.
+But I did also want to recognize that this proposed service change could cause a lot of pain for a lot of
+people. And unfortunately, sort of limited resources, particularly, bus operators, don't give that many
+opportunities to mitigate that.
+I did notice what was kind of interesting is a three block reroute to the Downtown Circulator Route results
+in a disparate impact and disproportionate burden, which I suppose if there are concentrations of those
+communities in one route's buffer and not the other that could be an effect.
+But interestingly, service changes such as 75% reduction in service on the E Line, or the H Line, or a full
+reduction on the L Line are not considered major service changes. According to the policy, they don't
+receive an equity evaluation.
+This is by policy that the Board would then presumably be within purview to revise as they feel fit should.
+There's a current one year threshold that a service change must last in order to trigger an equity
+evaluation. There might be some questions of should a larger reduction for a shorter amount of time
+trigger an evaluation.
+
+There's also the question of, even if you do an evaluation as you can see for the evaluation of the
+MallRide and Metro Ride, that these impacts were found. But it's not really feasible to offer any sort of
+mitigation.
+And additionally, in addition to having a shortage of operators, I guess I'm not too surprised to learn that
+the Service Planning Department and Civil Rights Departments who do these types of equity analysis
+have kind of just enough staff to keep up with the task.
+So while I'll express my appreciation for all the extra work that they put in, it seems to call back to last
+night's discussion of the revenue diversification, or I forget the name for the committee. So I hope that in
+the future that RTD is able to get more funds, that entities, such as the state of Colorado, are able to
+provide more funds without unnecessarily onerous strings attached to it.
+I'm concerned about the elimination of an elected Board who are accountable to the voters and not
+necessarily to specific elected officials. So thank you for your consideration.
+TROY WHITMORE: Thank you very much Dr. Ramming. Mr. Kroll, I'm under the impression that is the
+completion of our public comment. But are there any more hands that have become raised for speaking
+tonight?
+JACK KROLL: Hi, Committee Chair Whitmore, Jack Kroll, again, Executive Manager of the Board Office.
+There are no other hands raised at this time.
+TROY WHITMORE: All right. Thank you very much. I'll declare the public comment period adjourned at
+this time. All right, information from external entities. Item C, we have no information from external entities
+this month. However, as we move to item D, we have four recommended actions on the agenda this
+evening.
+The first one is May 24 Title VI Service Equity analysis for the Board of Directors to adopt the Title VI
+Service Equity analysis report for May 2024, service changes to comply with federal laws, regulations,
+and guidelines related to Title VI of the Civil Rights Act of 1964. Do I have a motion?
+VINCE BUZEK: Buzek, so moved.
+MARJORIE SLOAN: Sloan, second.
+TROY WHITMORE: All right, I have a motion from Director Buzek and a second from Director Sloan. All
+right, at this point in time, I would like to call on Carl Green Jr, our Director of Civil Rights, Martin Romero,
+Transit Equity Manager, and Jessie Carter, Senior Manager of Service Planning to present this item to
+the committee. Gentlemen?
+CARL GREEN JR: Thank you, Committee Chair Whitmore. I'll go ahead and pull up the presentation.
+All right. Good evening, again. Committee Chair Whitmore, fellow Board of Directors, again, my name is
+Carl Green Jr. And tonight, we'll be presenting again on the May 2024 proposed service changes, the
+Title VI Service Equity Analysis. Before we formally begin, I wanted to just provide an introduction to
+Martin Romero. Gives me great pleasure to introduce him.
+He joined the agency back in May of 2023. And he has, literally, hit the ground running with all things
+transit equity and drinking information by the fire hose, as we put forth a lot of different initiatives with
+
+respect to the Title VI program. And if I had to use an analogy, and I say this in the highest regard, I
+would describe him as a mechanic.
+And if you think about a mechanic bottom line, it's having the ready set tools to be able to build, maintain,
+and repair machinery. And in this particular case, he's been able to elevate and grow the Transit Equity
+Office and the capacity of the Office in this short eight month period. So I just wanted to highlight and
+formally introduce Martin Romero to the Board of Directors here tonight. And with that being said, I'll now
+pass it over to Martin Romero.
+MARTIN ROMERO: Good evening, everyone. My name is Martin Romero, Transit Equity Manager. It's a
+pleasure to be here this evening. So as Carl mentioned, we will be presenting on the May 2024 proposed
+service changes, Title VI Service Equity Analysis. Next slide, Carl.
+So a quick overview of the presentation. We will be summarizing the proposed service changes, then get
+into the FTA requirements. I'll cover the Equity Analysis Decision Tree. And then we'll talk about the Title
+VI policies and methodology. We'll go over the results and then touch on public outreach. And then, we'll
+conclude with the recommendations. Next slide, please.
+So here we have a snapshot of the proposed service changes for May 2024 that was outlined by Senior
+Manager of Service Development, Jessie Carter on February 27th. To reiterate at a high level, there was
+a total of 37 changes. Among these, 1 change involves a reinstatement, 29 are modified service, 6
+reduced services, and 1 temporary suspension. And Jessie will speak to these proposed changes in more
+depth following this presentation. Next slide, please.
+So according to the FTA, RTD is required to conduct the service equity analysis for all major service
+changes, now explained what constitutes a major service change during the Title VI policy section of the
+presentation. Next slide, please.
+So the authority that sets the legal precedent is Title VI of the Civil Rights Act, which sets up the nondiscrimination requirements, as it relates to agencies receiving federal financial assistance. And then, we
+have the FTA Circular, which provides guidance and the framework to ensure that agencies are following
+the requirements under Title VI.
+And we had the Board adopt the Title VI program, which establishes the policies and the way in which we
+carry out this type of analysis at the staff level. Next slide, please. OK, so this slide here provides an
+overview of the three steps in the decision making process for when an equity analysis is conducted.
+So step 1 is to evaluate the type of change. And if the answer to the question is this a major service
+change is yes, we proceed to step 2, which involves evaluating the potential impacts. And so we have
+disparate impact, which affects minority populations. And we have disproportionate burden, which affects
+low income populations at the 150% federal poverty level.
+And step 2, if there are any adverse impacts to equity populations, then we move on to step 3, which is to
+evaluate alternatives to minimize, mitigate, or avoid potential impacts. So please note that there will be
+times where we refer to minority and low income populations as equity populations. Next slide, please.
+So Title VI policies, Major Service Change, Disparate Impact and Disproportionate Burden. So again,
+moving forward, I'll be referring to the terms disparate impact as DI and disproportionate burden as DB to
+keep the language simple. Next slide.
+
+OK, so as indicated, what constitutes a major service change? So RTD defines a major service change
+as a 25% addition or reduction in the service hours of any route or line that would remain in effect for 12
+months or more. So this analysis resulted in a 2 out of 37 service changes exceeding the major service
+change threshold. And one change is an increase in service, and the other is a reduction in service. Next
+slide, please.
+So DIDB, which is also referred to as Title VI policies, state that a major service change should not
+adversely affect minority populations 10% more than non minority populations. And specifically, the policy
+states that, for a service increase, equity populations receive no less than 10% of non equity populations.
+And for service reductions, equity populations receive no more than 10% of non equity populations.
+So given that information, let's walk through this example on the right that says for DI at the System
+Level. So we can see here that the percent of non minority populations being impacted by proposed
+changes, 25%. And so if we calculate the threshold, we would multiply 25% times 10%, which equates to
+2.5%.
+And if we add 2.5% to 25%, that equates to 27.5%. And so if the percent of minority populations impacted
+exceeds 27.5%, then we have a possible disparity for a major service reduction. Inversely, if we subtract
+2.5% from 25%, that equates to 22.5%. And so if the percent of minority population impacted falls below
+22.5%, then we have a possible disparity for a major service increase.
+And the same type of calculation applies when testing for DB. Next slide, please. So each Title VI policy
+is applied at the route level. The image to the left provides a visual depiction of how a quarter mile buffer
+around a route enables the ability to assess the service area populations using US Census data at the
+block group level.
+And at this point, I wanted to highlight that the service district average for minority is 37.5% and 14.2% for
+low income. And as noted by the legend, there is no difference between the gray and the yellow route. It's
+merely presented to show a route overlay on a map. And a system level analysis is also completed. And
+this analysis helps us to understand how the changes in service impact equity populations at aggregate
+levels, rather than looking at each route individually.
+And so this is illustrated in the map below, showcasing the 2,342 square mile service area. Given the
+number of bus routes and rail lines across the district, the system level analysis allows us to take a
+holistic approach, with respect to equitable provisions of transit services. And at this point, I will kick it
+over to Carl.
+CARL GREEN JR: Thank you so much, Martin. So to get into the results of the service equity analysis,
+we'll first start with the route level analysis. And as the Board report and attachment A of the Board report
+for the service equity analysis, it shows that at the route level for the Free MallRide, which is deemed a
+reduction, there's a potential disproportionate burden. And then, as far as the Free MetroRide, for the
+increase, there is a potential disparate impact.
+And I won't go too into the weeds, with regards to the route level analysis results, given that we'll cover
+this in the system level analysis because there's only one route per reduction, or one for reduction, and
+the other for an increase.
+All right, in addition to the route level analysis when we're looking at assessing for that potential disparate
+impact and disproportionate burden, another assessment that we also leverage is the Key Public Activity
+
+Centers to get a better understanding. As we know from the route level, it's where people live, the
+neighborhoods where people live, where the Key Public Activity Centers Assessment is looking at where
+folks are going.
+So specifically, we're looking at if there's a potential increases, reductions, new access, reduced access
+to grocery stores, academic institutions, social services, senior housing, as well as employment centers.
+So as we look at the Free MallRide with the reduced access, there's a total of 114,000 jobs, 150 grocers,
+40 social service centers, 2 senior housing, and 11 academic institutions.
+Whereas we look at the Free MetroRide, it's creating new access to about 116,000 jobs, 170 grocers, 47
+social service centers, 2 senior housing, and 10 academic institutions. So now, let's get into the system
+wide level results, and specifically looking at the Free MallRide, where we can see that non-minority
+populations stand to receive more of the impact of these service decreases compared to minority
+populations.
+So simply noted, this does not meet the disparate impact threshold of 0.43%. However, on the other
+hand, we're looking at low income populations. They are receiving more of the impact of the service
+decrease, compared to non low income populations. If you're looking specifically at the first sub bullet
+point of the second bullet point, 0.38% more for low income groups.
+And in parentheses, it shows that for low income populations, it's 0.65% versus 0.27% for non low
+income. So looking at the disproportionate burden threshold of 0.30%, that 0.65% exceeds the threshold.
+So it results in a potential disproportionate burden.
+So now we'll look at the Free MetroRide. Minority populations are receiving slightly lower increase in
+service compared to non minority populations. And specifically, non minority populations, they are
+impacted 0.20%. And that does-- it's below the 0.21% threshold. So it doesn't meet the threshold for a
+disparate impact.
+Or it does-- excuse me, it does meet the disparate impact threshold. Whereas, if we look at low income
+populations, they are receiving a greater service increase compared to non low income populations. And
+it is a net positive, where they are receiving more of the increase of service as indicated by that 0.28%
+more for low income groups.
+So before I move forward with the conclusion, I did want to touch on the public outreach, equally as
+important as the data centric approach of the route and system wide analysis. We also take into
+consideration public comment. As noted, there were three open houses, two on March 6th and one March
+7th.
+And then, in addition to that, the Transit Equity Office provided direct outreach to 97 key public activity
+centers within a quarter of a mile of the Free MallRide and Free MetroRide, letting them know or informing
+them of opportunities to attend the open houses, as well as to provide another opportunity for them to
+provide feedback on the proposed service changes, specifically the major service changes.
+And the overall theme was the general satisfaction with the reinstatement of the Free MetroRide and just
+wanting to have better understanding of the nature of impacts, with respect to the 16th Street Mall
+construction and the near term Downtown Rail Reconstruction Project.
+So now I'll get into the conclusion. So as Martin mentioned earlier on the Decision Tree on step 3, and
+given that there is a DI and DB finding, that the agency must evaluate alternatives. But with the
+
+consideration that there is no practical alternatives to avoid, minimize, or mitigate the findings, the agency
+does have the opportunity to move forward with the activity.
+In this case, the proposed service changes if there is a substantial legitimate justification. So as we've
+mentioned, or as I have mentioned with the Free MallRide, the ongoing construction on the 16th Street
+Mall, and the Downtown Rail Reconstruction Project, and for the Free MallRide, whereas we look at the
+Free MetroRide, this is a mitigation measure due to the reconstruction project.
+So this provides that substantial legitimate justification for the agency to move forward with the proposed
+service changes. So as far as the recommendation goes, as the FTA denotes, it does require that the
+Board of Directors are made aware, consider, and approve of the equity analysis, prior to the agency
+taking action.
+And at this point in time, staff recommends that the May 2024 Title VI Service Equity Analysis is
+approved. With that being said, I'll now open up the floor for any questions from the Board of Directors.
+TROY WHITMORE: All right. Thank you very much, gentlemen, for a very thorough presentation. It's now
+question time from committee members or other Directors. We'll start with committee members first. And I
+see a hand raised from Director Paul Rosenthal. The floor is yours.
+PAUL ROSENTHAL: Thank you, Mr. Chair. Thank you, Mr. Green and Mr. Romero for this very detailed
+and expansive report. Actually, my concern is not so much about this equity analysis. It's actually about-if I can say, it's related to some of the potential legislation that we could be seeing that would transfer
+some of the service instead of serving some of our equity populations.
+I have a big concern. It may impact-- have a disproportionate impact and disproportionate burden on
+some of our equity populations. And so I just wanted to start to throw that out there because if the
+legislation does pass, then I can only imagine cutting service to the 15 or the 105, what that would have
+an impact on the types of analysis you're doing, the types of service that we're providing.
+So I just kind of wanted to bring that up to start to put that on everyone's agenda. And I know we've talked
+about this a little bit or a bit when we were in our meetings with our retreat. But I just wanted to bring it up
+again. Thank you.
+TROY WHITMORE: Thank you, Director Rosenthal. All right, next, I'll move to Committee Member
+Ruscha. Director Ruscha, the floor is yours.
+JOYANN RUSCHA: Thank you, Mr. Chair. I have a few questions more. So if you like, I could ask a few
+and then let other Directors chime in. And perhaps, because it is my birthday, you'll give me a bonus
+question.
+[LAUGHTER]
+TROY WHITMORE: Proceed.
+JOYANN RUSCHA: All right, so my first question-- so first of all, thank you for the presentation. And my
+first question is what percentage of our riders speak a language other than English at home? And what
+was the last time that we did that data collection?
+CARL GREEN JR: Committee Chair Whitmore, if I may?
+
+TROY WHITMORE: Proceed.
+CARL GREEN JR: Thank you. Thank you for the question, Director Ruscha. So the last time that we
+updated our language access plan, which also is related to the-- it falls under the auspices of the Title VI
+program. So the last time we updated this program was back in June of 2022. And as it relates to what
+the FTA requires, as far as the data analysis goes, they generally put forth best practices as far as US
+Census data.
+But in addition to that, what we leveraged in going beyond what the circular requires, is that we looked at
+a number of different data points, whether that is the Colorado Department of Education data. We looked
+at women, infant, and child data. We looked at court data. And we also worked, hand in glove, with a
+number of different community based organizations to ground truth the number of safe harbor languages
+within our service area, which equates to 21.
+So I just wanted to state that. And the next time that we will be updating it will be in 2025. Actually, the
+latter part of this year is when we'll begin to collect and compile data for the new Language Access Plan
+in 2025.
+TROY WHITMORE: Continue.
+CARL GREEN JR: And the follow up question, too, as far as the service district average for limited
+English proficiency populations, collectively the 21, it's approximately 8%.
+JOYANN RUSCHA: But that is just-- we're talking about population. Do we have data on ridership, our
+current riders?
+CARL GREEN JR: The one thing that I will say is the last Onboard Passenger Survey that we completed
+was back in-- there was one in 2017. And then there was a Supplemental Onboard Survey in 2019.
+We are getting-- I believe, I just looked at some documents that we're going to do some onboard surveys
+this year. So we don't have the ridership data that specifically branches the number of LEP populations
+with respect to passenger surveys.
+JOYANN RUSCHA: OK. Mr. Chair, is it OK if we dialogue to keep it going, since I've got a trajectory
+here?
+TROY WHITMORE: Yes, proceed. But I do see GM Johnson has had her hand up a time or two. Do you
+want to address anything that's been said, Ms. Johnson?
+DEBRA JOHNSON: Yes, thank you very much, Mr. Chair. I just wanted to add some context, relative to
+the response that Mr. Green provided, in reference to onboard surveys, recognizing that ridership had
+been impacted by the pandemic. The Federal Transit Administration had advised that we wait for a
+designated time in which to do on board surveys.
+So while we have not done anything since 2019, that was guidance provided by the Federal Transit
+Administration. So I just wanted to add that to the discussion. It's not that RTD is not adhering to any set
+guidance. It was due to the fact of the pandemic. And that was issued to all of the 10 regional areas via
+headquarters. Thank you.
+
+TROY WHITMORE: So Director Ruscha, go ahead and dialogue for a few more minutes. And then, I'll
+give a first bite at the apples to Directors Guzman and Catlin. Proceed.
+JOYANN RUSCHA: Absolutely. Thank you, Mr. Chair. So what I just heard or at least what was said, it
+sounds like we don't have ridership data as far as LEP populations. I guess I'm just trying to figure out, do
+we have that data, even if it's dated? And if it is dated, what does that data suggest?
+CARL GREEN JR: Director Whitmore, if I may?
+TROY WHITMORE: Please.
+CARL GREEN JR: Director Ruscha, one thing that I would like to highlight just based off of my initial
+remarks, as far as the data sets that we utilized, knowing that we elected to go beyond what the FDA
+requests as far as utilizing US Census data. So we took upon it ourselves to look at other data sources.
+But in addition to that, with respect to ascertaining or getting a better understanding of the number or
+proportion of non-English speakers within a service area, there's four factors. The third factor is actually
+connecting with these populations by virtue of additional surveying.
+So in the latter part of-- or in the first part of 2022, what we were able to do is conduct a number of
+different focus groups working with community based organizations to get a better understanding of the
+populations within our service area that don't speak English or understand, speak, or read English less
+than very well. So we don't have actually ridership data, so to speak. But we're able to ground truth.
+Because when we're thinking about language access and providing additional services to meet the
+moment, to provide that meaningful participation with non-English speakers, that provided the opportunity
+to one, as a baseline, to understand the number of language groups within our service area, and then to
+push forward with different tactics, with respect to our implementation calendar to generate an increase in
+access to our program services and activities.
+JOYANN RUSCHA: OK, thank you. I appreciate that. What I'm hearing is that we don't have data on our
+riders as far as English proficiency, at least not in the way that it was asked.
+So the other questions I had were-- same question, except instead of English proficiency, the question
+would be income or what we would consider low income, meaning 150% of federal poverty level, and also
+riders who are non-white.
+CARL GREEN JR: Yes, from the 2017 and 2019 on board surveys, we do have that ridership data for
+BIPOC and at or below 150% of the federal poverty level.
+JOYANN RUSCHA: I'm sorry. Mr. Green, would you mind-- do you know what that data-- what the
+numbers are as a percent?
+CARL GREEN JR: I do not have the numbers at this time. But I could provide that following the Board
+meeting or the Safety Committee meeting.
+JOYANN RUSCHA: OK, thank you. And just one more, and then we can pass the baton for a bit. I just
+want to make sure that I understood and read this correctly. So our analysis is based on census block
+data and proximity to a transit stop. And that proximity-- did you say it was one fourth of a mile to a transit
+stop?
+
+CARL GREEN JR: Yes. It's a quarter of a mile along the route utilizing the stops.
+JOYANN RUSCHA: OK, and I'm sorry, Mr. Chair, if I'm pushing it. Just so that we're all clear, is that like a
+walkable, accessible path, or is that as the crow flies?
+CARL GREEN JR: As the crow flies.
+JOYANN RUSCHA: OK, thank you, sir. I will yield for now.
+TROY WHITMORE: All right. Thank you very much. Let's move to Board Secretary Guzman, who's next
+in queue.
+MICHAEL GUZMAN: Thank you kindly. Bienvenido Senor Romero. It's nice to have you here. I
+appreciate your presence and your hard work on this. I have a couple of questions. March 6 and 7 when
+you did the community outreach were a Wednesday and a Thursday, middle of the workweek, mostly for
+hourly employees. There were three meetings, two at noon and one at 5:30.
+Considering that we know that the disparate-- this meets the disparate burden threshold, which is wage
+based. One could conclude that hourly wage earners might have been at work at those times. A 9 hour
+shift can easily run from 12 to 8 o'clock, in my case, 4:30 to 12 o'clock. I was working both of those days,
+or sometime in between, 9:00 to 5:00.
+So I see a problem trying to do community outreach at those particular hours. Just bringing this up
+because if we're doing the work of diversity, equity, inclusion, and more specifically, belonging, is there a
+plan to ensure that our community is receiving opportunities to actually voice their opinions in a more-- at
+different times when people may be available?
+I've heard several comments and feedback from people in my district specifically that these times did not
+work for them. And so I wanted to ask, one, what was the participation. What did that look like? And two,
+is there a plan moving forward that we make this more accessible in some way?
+And also, just for the record, and to point this out, it's nice to see Dolores Huerta on packet page 35, slide
+5 of your report, just so that we are actually reading and doing our homework. So thank you very much.
+TROY WHITMORE: Mr. Green, if you would like to reply or anybody else. It looks like, perhaps, Mr.
+Carter would like to.
+JESSIE CARTER: Thank you, Chair, if I may. Director Guzman, thank you for your question. I will say that
+the dates that were set for the public hearings, or the open houses as they were listed, were basically
+directed at the service change. I did hear Mr. Green speak of direct contact with groups. That was made
+to actually take a look at the Title VI results.
+However, we did have really good participation this go around, in terms of the number of people who
+participated. We had 40 in our first meeting and 40 in our second virtual meeting. We had about 10-- and
+I'll have to count on the list. It's somewhere between 10 and a dozen actually attend in person. And that's
+actually a step up from where we have been in recent past, in recent months, as far as our public
+meetings are concerned.
+
+So I do take your advisement about doing a better job or offering more choices to people to attend our
+meetings. We'll look at trying to do a better job and perhaps expanding more meetings for our service
+changes. So I do appreciate that comment. Thank you.
+TROY WHITMORE: Director Guzman, any further follow up? Thank you very much, kind sir. Second
+Vice-- or first Vice Chair, Catlin, did your question get answered? I saw your hand was up.
+PEGGY CATLIN: Thank you. It did. And I may contact Mr. Carter offline for a more detailed explanation.
+But I guess what I want to make sure is that the data that we as Board members are requesting serve a
+purpose and answer a question about a decision that we want to make.
+And I just want to make sure that we do not overburden staff with request for data that may not serve a
+policy decision or an action on behalf of this Board. Thank you-- just sort of a soapbox.
+TROY WHITMORE: Thank you, Director Catlin. All right, Director Ruscha, I'll give you a few more
+minutes before we move to the next item. Proceed.
+JOYANN RUSCHA: Sir, so I think Director Guzman touched on it. So in terms of the engagement that we
+did in addition to the three meetings, can I presume that we sent an email blast to the groups that were
+mentioned on a list?
+CARL GREEN JR: Yes, that is correct, Director Ruscha.
+JOYANN RUSCHA: Thank you. And also, I do want to note that we did update our service changes page.
+It was done after we said that we were going to make a change. But it was done last week. And I
+appreciated some of those changes.
+I do have a concern that we are doing targeted outreach to a small subset of people through means that I
+think don't meet our stated expectations, as far as customer service and community excellence.
+And so I am going to be a no vote on this one because while I recognize the Board has adopted a policy,
+in terms of demographic data and the minimum requirements set by the FTA, that's a floor. It's not a
+ceiling. And it's not best practice.
+And to that end, what might seem like a burdensome request for data is not burdensome for folks who
+represent other communities. I represent a neighborhood in which 2/3 of the households speak Spanish
+as a primary language at home. And we have high ridership.
+A common complaint that I receive as a Director representing the far Northeast and parts of Aurora that
+RTD is just not present, that we're not present at our RNO meetings, at community meetings, that we
+have dialed back our presence since COVID. And I can be a point person. And I want to be an RTD
+ambassador. But if I'm not apprised of what's coming, that is difficult.
+But also, I am not staff. And I can't be all points, all places. And nor can staff. But when I look at our
+community engagement activities that are reported in the monthly Board reports, every month I look to
+see is RTD in my community. Very rarely is RTD in my community.
+And even though my district doesn't have the level of service of say Director Lewis or Director Guzman,
+we do have a pretty high level of ridership, indicating transit dependency, which is also backed up by
+community surveys and data, at least within Denver that the city provides.
+
+And so even if a policy says, we will do some targeted outreach when the math indicates a route will be
+affected, to me, that's not meaningful engagement. And I don't think that that's meeting the spirit or intent
+of the law, our own LEP and Engagement Plan, or what we have stated as community values. I'll get off
+my soapbox.
+But I do want to say and recognize, positively recognize, that we have made decisions and backed our
+GM CEO when RTD said, you know what, this might not be a federal requirement vis a vis Title VI. But
+from a holistic equity lens, if we moved forward, it would not or might not be equitable.
+So one obvious example was service changes after COVID. And we got a lot of grief for that. But that was
+the right choice. We prioritized equity populations and equity lines, even if that change didn't trigger
+subsequent analysis or modifications on our part.
+And the most recent example that made the news-- and I think our GM CEO has gotten a lot of grief for,
+that's not fair-- was the Broncos, right? And so to that end, the FTA minimum and our stated policy, which
+I hope we take a look at when we review it within the next year or two, again, that's the floor.
+And just going back to our strategic plan, I don't feel like we met expectations either when it comes to this
+particular route or just the system as a whole and engaging the community as a whole. I'm not suggesting
+we can give everybody everything they want, particularly with our challenges that we have.
+But I am stating, and as a Board member I'll also take responsibility, that I don't believe we are meeting
+our own expectations that we set for ourselves. So thank you, Mr. Chair, for letting me engage. I will yield.
+And again, I also just want to thank staff for their time. And I also recognize that they're doing their jobs.
+And they're following the model and the formula that the Board has approved and set. And so ultimately,
+it's on the Board to change policy if we think it needs to be improved. So I hope that my comments are not
+taken out of order. So thank you.
+TROY WHITMORE: OK, thank you very much. Are there any other comments before we proceed to a
+vote? I don't see any other hands raised. OK, being that we have been told there is a no vote, we will do a
+roll call vote. On item 1, we had a motion from Director Buzek and a second from Director Sloan. Roll call
+vote-- how do you vote, Vice Chair Julien Bouquet?
+JULIEN BOUQUET: Yes.
+TROY WHITMORE: Director Buzek?
+VINCE BUZEK: Yes.
+TROY WHITMORE: Director Harwick?
+IAN HARWICK: Yes.
+TROY WHITMORE: Director Rosenthal?
+PAUL ROSENTHAL: Yes.
+TROY WHITMORE: Director Ruscha?
+
+IAN HARWICK: You're muted, JoyAnn.
+JOYANN RUSCHA: I said no. I was just quiet.
+TROY WHITMORE: OK, I was looking down so I couldn't read lips. Sorry about that. And Director Sloan?
+MARJORIE SLOAN: Yes.
+TROY WHITMORE: And Chair Whitmore? I will vote yes as well. So the motion carries by a 6 to 1
+margin, with the no vote being Director Ruscha. All right, let's move on to the second action item, one that
+we've touched on briefly on this matter.
+And that is the 2024 service change proposals for the Board of Directors to approve the May 24 service
+changes as revised and summarized in attachment A, and to authorize the General Manager and CEO or
+her designee to execute contract amendments as necessary for private operators impacted by these
+changes. Do I have a motion?
+MARJORIE SLOAN: So moved, Sloan.
+TROY WHITMORE: Thank you, Director Sloan. Do I have a second?
+PAUL ROSENTHAL: Rosenthal.
+TROY WHITMORE: Thank you, Director Rosenthal. All right, I would like to ask COO Michael Ford, and
+again, Jessie Carter, Senior Manager of Service Planning to present this item to the Committee and other
+Board Members. Gentlemen, proceed. Michael, you are muted, my friend.
+MICHAEL FORD: Sorry, can you hear me now? Sorry.
+TROY WHITMORE: We got you.
+MICHAEL FORD: OK, sorry about that. Michael Ford, Chief Operations Officer, I'd like to provide you an
+update on the May 2024 service change proposal. As you know, staff brings to you three service change
+proposals over the course of a year's time for discussion and subsequent recommendations, which is in
+alignment with the Collective Bargaining Agreement, known as the CBA Local 1001 For Frontline
+Operator Work Selections.
+So RTD's continued workforce challenges, light rail projects related to the coping panel replacement in
+the Southeast corridor and the first phase of the Downtown reconstruction project on the central corridor
+are the primary considerations shaping the service change recommendations for 2024.
+Both projects are expected to significantly impact rail service and will span from May 2024 till September
+for the next service change. Additionally, considering the agency's current staffing levels, the May 2024
+service change recommendations are designed to have minimal impacts on staff levels and are centered
+on improving system performance and preserving transit access during the project.
+By way of discussion, the guidelines contained in the strategic plan are more directly related to
+addressing customer excellence, thus improving on time performance, maintaining contractual
+compliance, and adjusting service levels to match ridership demand.
+
+Staff is also guided by the Board adopted service change principles, as you know. And in your Board
+packet, you will see a breakdown of proposed service changes, service improvements, service
+reductions, as well as seasonal adjustments to account for travel patterns.
+And also, in your Board packet is a complete breakdown of the public hearings, which have been
+previously discussed, that took place on Wednesday, March 6 at noon, also at 5:30 at rooms T and D,
+and on Thursday, which was also virtual, March 7th. So at this time, I'm happy to take questions. And I
+would ask Jessie Carter, our Senior Manager of Service Development, to join me.
+TROY WHITMORE: All right, thank you very much, Mr. Ford. And Mr. Carter, first in queue. Director
+Marjorie Sloan, proceed.
+MARJORIE SLOAN: And Thank you. And staff, what an amazing burden you had this time with the
+construction projects and our continuing people power issues. I would just like to highlight a series of
+comments that were both at the meetings, and we've received emails about that. And it's the Sunday
+through Thursday ending of light rail lines at 10:00.
+And I'd really like to ask about alternatives to this because we have emphasized for a long time that our
+regular service can get people to events, sporting games, gatherings. And with the light rail lines not
+servicing our population after 10:00, that makes it really difficult for people who do have events during the
+week.
+And I'd especially like to point out the Red Rocks tie to the W Line Jefferson County Government Center
+that Denver and Jefferson County have tried to get a service going there. And it would show more
+cooperation with our partners to be able to have people take the W Line during a Red Rocks concert. And
+they're not all on weekends.
+So even my question is what other options have you considered? And what is possible, rather than
+shutting down the light rail service at 10:00, Sunday through Thursday? Thanks.
+TROY WHITMORE: Whoever would like to address the question, go right ahead.
+JESSIE CARTER: I think I'll go first, Chair. Thank you. Thank you, Director Sloan. Those are really good
+questions. And when we're looking at this particular change, this is not one that we're doing based on
+levels of ridership or addressing the service network as a whole. So this is a change that we're proposing,
+based on a need to maintain the system.
+So as it stands right now, our system Monday through Thursday, we end right around 1:00 or 2:00 in the
+morning. And we start around 3:00 or 4:00 in the morning, leaving only two hours worth of downtime for
+our maintenance crews to both deploy to an area that they're trying to address, power down the system,
+and then do the work, and then power up the system, and then get back to where they started.
+So this is a matter of maintaining our major investments or our assets, as far as the rail is concerned. So
+we really don't have alternatives at the moment. In better times, if we were in the position to say, well, we
+have enough operators to provide bus bridging, that would be the tactic that we would use that would
+preclude shutting down the entire system, or we would try to mimic or parrot the system in other ways
+during the times of closure.
+
+But given our workforce or resource shortage, we just don't have the bandwidth to actually do that at this
+point in time. So it's something we lament. It's not something we want to do. But it's one of those things
+that, unfortunately, we have to do it if we are going to keep our system well and running.
+TROY WHITMORE: Madam CEO GM, Johnson, proceed.
+DEBRA JOHNSON: Thank you. Thank you very much, Mr. Chair. And thank you very much, Mr. Carter
+for your response. And Director Sloan, I just wanted to amplify that, recognizing that Jessie did provide
+the response that I was going to add to, relative to the window in which we have to maintain our assets in
+a state of good repair.
+What I would offer is supplemental information, as we did last year when we had a large event. We
+suspended work over that one weekend. So if in fact, there is some kind of great event where the region
+is looking at RTD to provide certain types of services, that could be something we assess.
+But going forward, as we look at where our system is currently-- a 30 plus year old system that has not
+had the type of investments that would be optimal for a transportation network-- these are the pain points
+that we are going to endure going forward.
+And I would be remiss in not stating that when we look at doing our service changes and looking at our
+service delivery schedules, that we need to ensure that we have an ample window where we can do
+routine maintenance on a recurring basis. So we are not impacting the system in the manner in which
+people are perceiving it to be now. Thank you very much, Mr. Chair. And thank you, Director Sloan, for
+asking the question.
+TROY WHITMORE: Thank you, both. Next, I'll turn to Committee Member Director Buzek.
+VINCE BUZEK: Thank you, . Chair. And Thanks for the report. Couple of things-- mostly just comments.
+First, I'm really glad to see that the N Line ridership is improving constantly and has improved so much
+that you've added a late Saturday evening stop to and from northbound, southbound.
+I'm also glad that the N Line Promotional Fare Pilot Program was made permanent, sort of. My other
+comment has to do with comments that I get from one of my stakeholders, Mayor Linda Montoya of
+Federal Heights, constantly asks me about reinstatement of the 122X or adding a stop to the 120X to
+make a single seat ride to the Civic Center Station.
+And think I know the answer to that. But I just wanted to put that out there and let you know that people
+are still asking me about it. Thanks. That's all I have.
+TROY WHITMORE: All right, would anybody like to address the last point or any of the other points?
+JESSIE CARTER: Sure, if I will.
+TROY WHITMORE: Go ahead, Jessie.
+JESSIE CARTER: Director Buzek, you know what the answer is, as you say. That is, if we have the
+actual workers, you know that the SOP does support the continual operation of the 122X. It is one of
+those routes that performed extremely well from the day it was put in. And we look forward to having it
+back at some point in time.
+
+However, I will point out that the free Metro Ride may offer a better connection and a faster connection for
+those who are using the 120X to transfer to-- that may be a little faster than what we currently offer on the
+mall shuttle because it is currently on detour. So with the free MetroRide, I believe that may offer some
+semblance of what the 122X used to.
+And also, just to let you know, the trip prior to the 11 o'clock trip that we were adding on the N Line,
+actually was averaging 94 boardings per night, which is really good for that time of day. So that's why
+we're looking at it at this point.
+VINCE BUZEK: Great, thanks a lot, Jessie. Thank you.
+TROY WHITMORE: And the good news on that, no additional FTE or costs. So that's wonderful-showing efficiency. So pardon me for editorializing. All right, Committee Member Ruscha, you're next.
+And then I do see you, Director Catlin. You'll be after her.
+JOYANN RUSCHA: Thank you, Mr. Chair. So this question is for anyone who can answer it. It might be-we can let our GM CEO decide so. So we have several routes that are part of a cost sharing agreement,
+by which a locality pitches in for that service. And sometimes, it's done when that service wouldn't meet
+our existing service standards. At least, that's my understanding based on our last Board approved policy.
+And I'm not saying that I oppose those cost share agreements. I actually don't even know if our current
+service standards are serving us well. But I do have a concern that it can lead to pay to play if we're not
+careful.
+And so to that end, what mechanisms do we have in place to assure the public that an IGA or cost share
+agreement doesn't tip the scale in favor of communities who are willing to pay more to get more,
+particularly when we have the challenges that we have right now with the operator shortage and then, in
+addition, the light rail reconstruction project, which I think is painful for most everyone impacted?
+How do we assure people that a cost share agreement or an IGA is not tipping the scales?
+DEBRA JOHNSON: If I may, Mr. Chair?
+TROY WHITMORE: Please.
+DEBRA JOHNSON: Yes, thank you very kindly. And thank you, Director Ruscha, for the question. So we
+were intentional when we launched the Call For pilot-- sorry-- Call For Project Partnership Program,
+where there is criteria that we evaluate the merit of a mobility program upon.
+And just because we're entering into a cost sharing agreement does not mean that we are absolving
+ourselves from our responsibility to ensure that we're providing, in partnership, equitable transportation.
+And so as we look at the criteria, we ensure that we are having certain boardings per hour. We're looking
+at the criteria set forth in our policies.
+And I'm speaking from the top of my head-- off the top of my head, so forgive me if I'm not being very
+iterative in reference to what those are or more or less being specific. But we have certain criteria upon
+which we manage those.
+And with our existing programs that we had as we rolled into the partnership program, we're providing
+those collectively to ensure that we assess them on a go forward basis, so we're not appearing to provide
+
+disparate treatment to a certain geographical area. And that's how we can, in turn, address your question
+to the general populace about what it is that we're doing from a transit equity vantage point as it relates to
+service delivery.
+JOYANN RUSCHA: If I, Mr. Chair?
+TROY WHITMORE: Briefly, I want to get to Peggy. She's been awfully patient.
+JOYANN RUSCHA: As my seventh grade teacher would tell me all the time, because I needed it,
+patience is a virtue. But we'll carry on. So thank you for that response Ms. Johnson.
+When you say the call for partnerships, are we just talking about our grants, like our new program that
+came out of like the Accountability Committee, or are we talking-- does that also include some of these
+IGAs and cost sharing agreements that date back to the 90s, like some of the routes in Boulder for
+example?
+DEBRA JOHNSON: If I may, Mr. Chair?
+TROY WHITMORE: Proceed.
+DEBRA JOHNSON: Yes. Thank you very kindly. I utilize that as an example because, regardless of when
+the program started, we're looking at that on a go forward basis to ensure all of them are equitable.
+Because when I joined the organization, I heard that we perhaps may have not been looking at it through
+the same lens when we entered into these agreements.
+JOYANN RUSCHA: Thank you. And just a final comment. Thank you so much for that. And so
+recognizing that per the delegation of authority, the Board does not approve contracts or IGAs that are
+under $2 million. So we haven't seen them in a while. And I'm not suggesting that anything nefarious is
+happening.
+But just so that we're-- because this is also a policy issue, is it possible that we could just get, in the next
+few weeks, kind of a follow up with just a list of those routes or a summary of those agreements?
+I did find in Board documents going back five, or six, or seven years ago something similar was produced.
+And I was just wondering if we could kind of get an update. And then also, when new agreements are
+signed, that we just get a heads up in case just so reprise, and then also, so that we don't get a surprise
+in a meeting, or when a community member, or city council person, or someone makes an inquiry to a
+Board member.
+DEBRA JOHNSON: Mr. Chair, if I may?
+TROY WHITMORE: Go ahead.
+DEBRA JOHNSON: I will assess that, Director Ruscha. I wasn't here five or six years ago. So I don't want
+to commit to something. I need to do my due diligence because that is of a operational nature. And I
+understand your request. And I'm not trying to negate that.
+But through the delegation, the operations and administrative matters have been brought forward, have
+been delegated to me. But with that as the backdrop, I will assess to see what it will entail for us to
+compile that information. And then I will work through the Board Chair accordingly. Thank you.
+
+TROY WHITMORE: All right, thank you both. Now, we'll move to first Vice Chair Director Catlin.
+PEGGY CATLIN: Thank you, Mr. Chair. I think my train of thought left the station. But I had a couple of
+things that I wanted to mention. One of them was Jessie, thank you so much for all of this. And I live in
+this transit desert. And we are increasingly-- not increasingly. We are decreasing service every time that
+we look at these service changes.
+And I would like to understand the decrease in the 116X, and also some of the service to the Mountain
+communities. What I am seeing from some of my constituents is that there is an increasing senior
+population that is wanting to avail themselves to RTD services and are frustrated that there is no longer
+access to our services.
+And I know I'm being very parochial in this. But I'm just a little bit concerned about some of the service
+that is being provided to the members of the Southwest, Jeffco, and the Mountain communities. Can you
+just kind of help me on the rationale for some of that service reduction? Thank you.
+JESSIE CARTER: Chair, if I may?
+TROY WHITMORE: Please proceed.
+JESSIE CARTER: Director Catlin, I'm assuming that you're speaking to the System Optimization Plan and
+the projection of actually eliminating the route 116X that's in the SOP. Is that correct?
+PEGGY CATLIN: Excuse me, yes. But just in this particular service plan, that's just the only lifeline that a
+lot of my constituents have for transit in the Metro area. So I just wanted to, for the record, hear what the
+rationale was for that. Thank you, Jessie.
+JESSIE CARTER: Understood, OK, so in the current service plan, we don't have a reduction on the 116X
+that I'm aware of. There is a change on the Call and Ride-- FlexRide, sorry. I'm showing my age there,
+back when we used to call it Call and Ride, but it's a FlexRide. That's a combination of the two. So
+instead of having two separate Evergreen FlexRide rides we're saying that we're combining the two to
+work more efficiently.
+Aside from that, I don't have proposals for reduction to the 116X EB or CB. But I do have to say that right
+now in looking at the SOP, it would be hard to determine which one is performing better than the other.
+And that's something that we will have to discuss in future service change proposals.
+Currently, the 116X, and the CB, and the EB all have quite a few trips that are performing in single digits.
+So we want to look at some alternatives, perhaps use of a hybrid vanpool in the place of service, rather
+than just canceling service overall.
+So we do want to consider some alternatives. But we haven't gotten there yet because I'm still hoping that
+there will be some leveling of the downward spiral or trend that we've seen since COVID, in terms of our
+ridership. So I don't have anything for the service changes in the area other than the FlexRide for this go
+round. But there are changes coming that are suggested by the SOP.
+PEGGY CATLIN: Mr. Chair, if I might? Thank you, Jessie. And maybe I just read that wrong with the
+116X. But I actually applaud that combination of the FlexRide. And I think that's a good business plan. So
+I really agree with that. I'm trying to hang on to what little we have in this area and appreciate your
+consideration for that.
+
+And as I said, what I'm hearing from a lot of my constituents is this aging population. And they're wanting
+to avail themselves more and more of opportunities to use public transportation. And they're not
+encouraged. Let's say that.
+JESSIE CARTER: Understood, understood.
+PEGGY CATLIN: OK, thank you, Jessie. And sorry, I'm not a Committee Member, but I appreciate the
+opportunity to speak. Thank you, Mr. Chair.
+TROY WHITMORE: All are welcome to speak. And I'm going to break with tradition, since Director Lewis
+has been waiting patiently. And then I'll get right back to JoyAnn Ruscha, since she's had a first bite at the
+apple. So proceed, Director Lewis.
+JAIME LEWIS: Thank you, Mr. Chair. Just wanted to pass my thanks on to Carl and the group. I noticed
+they already left. So hopefully CEO Johnson will pass my thanks on to him for the Title VI report. It was
+very well done, over 40 pages in our packet. And as you know, the Title VI falls under the Civil Rights
+Department.
+Also under the Civil Rights Department is the ADA. Having said that, we're talking about the Run Board.
+And there is a nexus between the Run Board and the construction project that will be happening in
+downtown Denver. So I'm just curious, was there an impact study for ADA access done for this project?
+That's my first question.
+TROY WHITMORE: All right. Mr. Carter or Mr. Green, if you would like to address the question from
+Director Lewis, please?
+JESSIE CARTER: OK, I will go first. And hopefully, Carl can follow up. Although ADA is not in my area,
+we do take consideration for ADA impacts whenever we make a service change. That includes whenever
+we are forming new stops or proposed stops and as we do detours. And there are more detours that will
+be associated with the work that's going to happen in the Downtown area. And the ADA will certainly be a
+part of the stop assessment.
+And in terms of where the services go, when we are funneling or detouring our services to existing
+stations, we're operating under the assumption that we do have ADA access to those stations. So in the
+case of the D and the H Line being detoured to DUS, we believe that there will be ADA access for our
+customers there.
+However, there may be adverse impacts or impacts that require additional transfer because of the nature
+of the service change. And those are things that we may not be able to address more directly. But what
+we try to do is minimize that with the service change itself. So I'm hoping that answers some of your
+question. But I'd be happy to follow up with you, either after this meeting or further in this meeting to give
+you more details on that.
+TROY WHITMORE: Mr. Green?
+CARL GREEN JR: Yes. Thank you, Director Whitmore. If I could follow up just with respect to what the
+FTA requires, whether it's pertaining to the ADA circular or the Title VI circular, it doesn't specify-- there's
+not a requirement to do a service equity analysis with respect to accessibility.
+
+But what I can say-- this is something. And I'm on the same page as far as the floor versus the ceiling.
+This is something that Mr. Christie and I are putting together as far as being able to conduct a service
+equity analysis, with respect to accessibility. So that is something that will be coming in the months
+ahead.
+And so I just wanted to share that aspect with respect to what's required from the FTA with conducting a
+service equity analysis. So I would say that this is something that is coming online in the months ahead,
+to be able to get us to that point to be able to conduct the analysis with respect to accessibility.
+DEBRA JOHNSON: And, Mr. Chair, may I add something as well, just for everyone's edification?
+Recognizing that when we do have people that board our vehicles with mobility devices, we do track that
+information, relative to an operator may have to leave their seat and help with the securement and things
+of the like.
+And so while I can't speak specific to whether or not that data is utilized in that same fashion here, but we
+do have the opportunity to look at that because, quite naturally, that impedes the time that a bus may be
+berthed at a station and things of the like.
+So as we go forward, and Jessie correct me if I'm wrong, we take that into consideration because as we
+do modeling, we do have to factor in the boarding times can be longer in certain instances for different
+individuals.
+TROY WHITMORE: All right, thank you very much for that.
+JAIME LEWIS: Mr. Chair? May I?
+TROY WHITMORE: Director Lewis, I believe you have another question. Go ahead.
+JAIME LEWIS: Yes. I just wanted to follow up on the two issues I had brought up at the last general
+meeting. One was concerning Osage, and the fact that does not have any buses to defer people to. And I
+did get the chance to talk to staff. I understand that particular project will be deferred to phase II. So I'm
+hoping Carl and the staff will be looking at that.
+But I definitely want to go back to the point that I made in the general meeting, that the train can hold six
+mobility devices. And the bus only holds two. So I'm hoping everyone's flexible if we get into this project
+and we see that there is a disproportionate problem, that we address it. I think the worst thing we can do
+is compound this issue by ignoring it. And I'll leave it at that. Thank you.
+TROY WHITMORE: Thank you, Director Lewis. Mr. Carter, did you have some input?
+JESSIE CARTER: Yes, I actually would like to speak more directly with Director Lewis and kind of go over
+it in a meeting to explain exactly how we view the service during this reconstruction period, what it looks
+like for this phase, what it will look like in the next phase, and try to get a better picture from his point of
+view of where some of the pain points are as well. So I would like to offer my time and an opportunity for
+a meeting to speak to you about that. OK, thank you.
+TROY WHITMORE: And that is highly recommended on a lot of these factors. So Director Lewis, are you
+done with your input? OK, Thank you.
+JAIME LEWIS: Yes, sir. Yes, sir. Thank you.
+
+TROY WHITMORE: Back to the birthday girl, Director Ruscha.
+JOYANN RUSCHA: Thank you, sir. Public policy does belong in the public forum. So I appreciate you
+entertaining me. So I have a lot of questions about the actual changes. But the one top of mind is the R
+Line.
+So just clarifying question, will the R Line reduce in frequency or just service span? Can someone
+address what those changes are going to look like? And also, when will we publish that timetable so that
+the public is aware of when the train will arrive and depart?
+TROY WHITMORE: Mr. Carter?
+JESSIE CARTER: Thank you, Chair. It's actually just being reduced in span on the R Line in particular.
+There are changes that do reduce frequency on the service, like with the E Line and the H Line. Those
+will have to be reduced because they go through a section where the coping panel work is being done
+between May and September. And we have to actually go to single track.
+And we can't offer greater headway for combined frequency then every 30 minutes in that section. That
+may change in the upcoming part of September for a brief period, where the construction on the coping
+panels goes south of Southmoor.
+And there, we may be in a situation where we may have to reduce some frequency. But that's not for this
+particular service change. And I'm sorry. It's in the evening. And my memory's not great. I can't
+remember, Director, the second part of your question.
+TROY WHITMORE: Proceed.
+JOYANN RUSCHA: The second part of my question was just when we publish the timetable. So it sounds
+like for the R Line because it said there were minor service adjustments. And so sometimes those
+minutes mean a lot, particularly if you have a transfer.
+Almost everyone has a transfer on our line and some of these stations. And then also just from an access
+and equity perspective, some folks need more time to make that transfer than others.
+JESSIE CARTER: No, understood. And Director, what we're doing there, as far as the R Line is
+concerned, is because the H Line is being affected by the Coping Panel Project going north on the
+corridor, that may require it to be slowed down and its schedule moved. So we need to space it
+accordingly. We need to space the R line with the H line. So we're trying to coordinate those schedules.
+As far as the publication of the schedule, until the Board votes basically, no final decision has been made
+on the actual schedule. But we are still in the process of developing both the schedule and proposed run
+cuts for that. So it's not available yet. I would say we're about two weeks off before we have pencils down,
+and we have something that we can look at and share.
+TROY WHITMORE: All right. Thank you, Mr. Carter. Director Sloan?
+MARJORIE SLOAN: All right, thank you for the time. And again, I appreciate how difficult this summer is.
+But summer, and maybe especially this summer, is important for transit. We're going to have another $0
+fare period. And that's always a rich source of getting people on the rail lines and maybe becoming
+regular riders.
+
+And events are a good way to hook them. And in fact, a lot of our social media has emphasized that. I
+loved Jessie's term that he lamented, the reduced time. And it's the perfect word.
+I appreciate it. I would just like another look at alternatives, so that this doesn't become the complete
+summer of disruption for people wanting to get out to events during the week, during our wonderful
+summers here in the Denver area. If the answer is, this is how it has to be. I get that, and I accept it. But
+just another look would be helpful I think. Thank you.
+JESSIE CARTER: Understood. Chair, if I may?
+TROY WHITMORE: Go ahead, sir.
+JESSIE CARTER: Just want to make a point of clarification. The changes, and I'm not saying Director
+Sloan actually said this, but the changes that are affecting all of the light rail lines as far as span, those
+are not temporary. I want to make sure that's understood. Those are more or less permanent changes
+that we're looking at.
+No change is permanent. And as our resources grow, in terms of the number of operators that we have,
+we will certainly be looking at changing the way that we operate or the way that we provide bus bridging
+as an alternative.
+So I would think that given the ridership that was on the W in particular, the R Line in particular, we may
+be wanting to revisit this in the future, as we are in a better position to provide bridging, rather than the
+cancelation of service. So I certainly understand and hear what you're saying. And we will continue to
+give it a look to get in the better position because some of those trips were doing quite well.
+We only require 75% of the standard for late night service. And many of them were meeting that
+standard. However, I can't look our safety officials, our state of good repair officials straight in the eye and
+say, yeah, you got two hours to fix everything. And that that's the situation that we're in at this point.
+MARJORIE SLOAN: Thank you.
+TROY WHITMORE: Next in queue, Director Rosenthal.
+PAUL ROSENTHAL: Thank you, Mr. Chair. Mr. Carter, did I understand you correctly when you're saying
+that this reduction-- for example, for the R Line-- would probably be permanent after this Run Board? So
+the Run Board after this one will probably see a similar continuation of this service? Is that right?
+JESSIE CARTER: Of the span reduction, yes. So if I were to separate the different changes, so the
+detour of the H and the D line going to DUS, that's temporary. The changes to span of service on all the
+light rail lines, that is a permanent change.
+PAUL ROSENTHAL: OK, and then because we'll probably be asked, where are the coping panels being
+replaced along the R line? Do you know?
+JESSIE CARTER: Actually, I'm going to ask my rail planner to actually provide information and a diagram
+as to exactly where those are and send them to you. It's hard for me to actually just describe the different
+phasing. And there are a number of different phases and the expectation of different times that the
+construction is being done.
+
+TROY WHITMORE: I happen often to see that Dave Jensen is on camera. And perhaps, he would like to
+address some of those questions. Go ahead, Mr. Jensen.
+DAVE JENSEN: Yeah, thank you very much. So for the R Line, primarily the work for the coping panel
+work will be the north section closer to Broadway. But the section that might impact the R Line would be
+further south. So there's three sections that we have to do north and one section south. And that's closer
+to Lincoln Station. And so that's where the R Line later on in the project could be impacted.
+TROY WHITMORE: All right. Thank you, Mr. Jensen. Director Rosenthal, continue.
+PAUL ROSENTHAL: Just actually to also thank you and commend you on the schedule adjustment for
+the 105 bus to improve on time performance. Thank you for that.
+TROY WHITMORE: All right. Thank you, Director Rosenthal. I'm sensing that we're about to wrap up. And
+we have two more action items, the discussion item. But I do see Director Ruscha has some more
+questions and/or comments. Floor's yours.
+JOYANN RUSCHA: Thank you, Mr. Chair. I do have other questions on the service changes. But if we
+need to get moving, I guess I would just put on the record, I hope that staff could make themselves
+available so that I can better explain-- that's my constituents because they've had questions I haven't
+been able to fully answer.
+But I guess-- and I'm not trying to play gotcha, but I just took a look at our Board packet. Do we say in the
+Board packet what changes are permanent and what changes are temporary? Are there any other
+permanent changes besides the reduced span of the light rail lines?
+JESSIE CARTER: The best example-- I'm sorry. Chair, if I may?
+TROY WHITMORE: Proceed, sir.
+JESSIE CARTER: The best example I have would be in the summary where we list the changes for span,
+separate from the other changes. The changes that are listed as detours or temporary, those are the
+ones that are temporary, although we may have to revisit them in later phases.
+So what I can do is provide you a broken list or a list that breaks out which ones are definitely temporary
+and which ones are certainly permanent. And it's, actually, a very easy list to do.
+JOYANN RUSCHA: May I, Mr. Chair? And I'll wrap up.
+TROY WHITMORE: OK, wrap up, please. Thank you.
+JOYANN RUSCHA: So thank you, Mr. Carter. I would just offer when I was looking at some of our peer
+agencies, when they do this, have a chart. And maybe we could do that moving forward. So Directors and
+the public can get that snapshot. I do appreciate we had the attachments, and then the updates, and the
+summaries. But that's a lot.
+And I just did a Control F in the Board packet. And I don't think it's clear what was permanent, temporary,
+or something written in light erasable pencil, a trial run. So just a final comment, if I vote no on one, I have
+to vote no on the other. So I'll be a no vote on this.
+
+I just want to offer that while we're calling this a temporary or most of this a temporary service change, it's
+still very significant and disruptive. And it's not just a one area or one line. And the Light Rail
+Reconstruction Project is not going to be done by September, even if we-- I'm sorry. Oh, I was getting
+feedback.
+So even if we take a pause, and that's still TBD, we're going to restart again in 2025. So again, I would
+just-- the next time this comes back to the Board when we meet again in the fall, maybe a longer
+engagement process, including with the Board. I think that would be really helpful. Thank you.
+JESSIE CARTER: Understood, understood. And Director Ruscha, I will have to say that with some of
+these changes, it is very difficult to explain what's semi-permanent, versus what's permanent-permanent,
+or what's on detour.
+But what we'll make an effort to put in the information, as far as our outreach that's going to stem beyond
+our service change process when we go through communications, and do the outreach to make sure that
+we're clear on exactly what's permanent and what's looked at as being a detour for the summer.
+TROY WHITMORE: All right. Thank you all. I believe it's time for a vote. We have a properly made motion
+by Director Sloan and seconded by Director Rosenthal for the May service change. Oh, you know what
+I'm trying to say. All right, so we're going to do a roll call vote for the May service changes proposed. Vice
+Chair Julien Bouquet?
+JULIEN BOUQUET: Yes.
+TROY WHITMORE: Thank you. Director Buzek?
+VINCE BUZEK: Yes.
+TROY WHITMORE: Director Harwick?
+IAN HARWICK: Yes.
+TROY WHITMORE: Director Rosenthal?
+PAUL ROSENTHAL: Yes.
+TROY WHITMORE: Director Ruscha?
+JOYANN RUSCHA: No.
+TROY WHITMORE: Director Sloan?
+MARJORIE SLOAN: Yes.
+TROY WHITMORE: And Director Whitmore Chair votes yes as well. So the motion carries with six aye
+votes, one no vote, no abstentions. And so therefore, we do have a positive action. The no vote was
+Director Ruscha.
+
+All right, let's move to Action Item 3. And this is Project Management Support Consultant Contract Award
+for the Board of Directors to authorize the General Manager and CEO or her designee to award a work
+order contract to Triunity Inc. for project management support consultant services.
+The contract is for three base years, with two additional one year options exercisable at RTD's discretion.
+The total not to exceed amount for the first three years is $20,500,000. Do we have a motion?
+VINCE BUZEK: Buzek so moved.
+TROY WHITMORE: Thank you.
+MARJORIE SLOAN: Sloan, second.
+TROY WHITMORE: And Director Marjorie Sloan with the second. All right, it's presentation time. I'd like to
+ask Jyotsna Vishwakarma-- I think I got your name pretty close-- Acting General Manager of Capital
+Programs to present this item to the committee. The floor is yours.
+JYOTSNA VISHWAKARMA: Thank you, Mr. Chair. Good evening, all. So I am here today, along with
+Kevin Diviness, who is Capital Programs Director of Quality Assurance, to present what is being asked.
+So I just wanted to thank Kevin for playing a key role in putting the scope of work together for this
+solicitation and taking it through the procurement process.
+So the details of what we are requesting is stated on packet pages 70 and 71. The purpose of this
+solicitation is to supplement professional staff for areas of specialized expertise, part time and limited
+duration assignments, and job positions that are difficult to fill in the implementation of projects.
+And the areas that we expect help, or we plan to use this help for, are generally design oversight,
+construction oversight, project control support, public outreach support, right of way support, and
+disadvantaged and small business enterprise compliance. The selected consultant will act as an
+extension of staff.
+This is a work order type of contract. Services shall be provided on an as needed basis. As specific work
+is identified, I and my staff will negotiate work order agreements to clearly define tasks, schedules, and
+costs.
+And the intent is that the consultant will oversee major projects and new programs planned for Summer
+2024 and beyond. And I will now request Kevin to walk us through the process by which we selected the
+consultant.
+KEVIN DIVINESS: Thank you, Jyotsna. I'll just add that this was a qualification space selection. So an
+RFQ was released in mid-December. We received three proposals, one of which was deemed to be nonresponsive, leaving us with two of them. They were evaluated by a cross-functional team from Capital
+Programs Communications and Small Business Office individually.
+And then we met as a team to come up with a consensus conclusion that this was the best qualified
+team. Price was not a consideration in that type of a selection. Once we did select the best qualified
+team, we requested their price proposal based on the scope that we provided.
+
+We compared it to our independent cost assessment, which was done back in December or November.
+And it was very close and in line with our price. We had a negotiation meeting. And we've come to terms
+with them that we'll be executing if given the authority to do so.
+JYOTSNA VISHWAKARMA: And with that, we are ready to take any questions.
+TROY WHITMORE: All right. Thank you, Jyotsna. Thank you, Kevin for the presentations. Do we have
+questions from the Committee Members?
+MICHAEL GUZMAN: Ruscha, oh, lord.
+TROY WHITMORE: Director Ruscha and then Director Rosenthal.
+JULIEN BOUQUET: You're on mute, JoyAnn.
+JOYANN RUSCHA: Some of us are on mute, and some of us aren't. OK, Thank you. So the contract that
+we're-- sorry, I got distracted by that call out. The contract in question, if awarded, goes to a current
+vendor partner of ours, correct? Triunity currently provides or has recently provided services for RTD?
+JYOTSNA VISHWAKARMA: That is correct.
+KEVIN DIVINESS: It is not the same team though. If I may, Chair? So the current provider is a joint
+venture of Triunity and Hill and different set of subconsultants. This is a new team led by Triunity and
+several sub consultants. It's not the exact same team.
+That was a joint venture. This is a different team altogether, although Triunity happens to be the lead in
+both. And the other one is coming to its conclusion shortly and will wrap up this year.
+TROY WHITMORE: Director Ruscha, continue.
+JOYANN RUSCHA: Thank you. That type of information is, for me, personally helpful when being asked
+to vote on a contract, particularly one with a $20 million price tag. So I had a question about the budget,
+the current fiscal year budget. So it was noted that this is in our current budget. And if additional amounts
+were required or whatever, the agency would come back to the Board.
+But if this was part of the Capital Projects line item, we have a three year capital carry-forward policy. So
+guess I'm just trying to understand. I guess I'm just trying to understand when the agency would come
+back and ask for that additional authority to spend according to our current fiscal policy and delegation of
+authority?
+DEBRA JOHNSON: Mr. Chair, if I may, please?
+TROY WHITMORE: Yes.
+DEBRA JOHNSON: Yes, so thank you very kindly for the question, Director Ruscha. So when we came
+forward collectively with the budget in which we were proposing for 2024, that dollar amount that you've
+referenced previously was collected for all items associated with the Near Term Downtown Rail
+Reconstruction Project. That was more or less an appropriation that was provided.
+
+When I came before you all last month, and we were talking about the myriad of components that are
+involved with the reconstruction project, for all intents and purposes, you're delegating authority to me if in
+fact, this is the Board's decision to do so for this specific contract going forward.
+So while we collectively group those, as relates to one specific project, we do have this project
+management contract that will be utilized for some components of the Near Term Downtown Rail
+Reconstruction Project. But as Ms. Vishwakarma put forward, there are other aspects that will supplement
+staff for other work that we need for our capital program that's overarching.
+JOYANN RUSCHA: A quick follow up, Mr. Chair, just to clarify?
+TROY WHITMORE: Proceed.
+JOYANN RUSCHA: OK, and I apologize. I've only sat through one budget process as a Director. So
+thank you for being gentle with me. So in the Budget Message, there was a note about an increase in
+contracted services, and consultants, or project management. And I apologize. I don't have that right in
+front of me. But that's what I thought I had read.
+So I guess what I'm asking is so is this $20 million coming from a different line item or section of the
+budget that we just passed, particularly if this contract will also be used for other projects that are not
+related to the Downtown Light Rail Reconstruction?
+DEBRA JOHNSON: I will have-- if I may, Mr. Chair, I apologize, I will have Mr. MacLeod, if I can have him
+come on screen and speak more specifically to that because I believe that it is for other aspects as well.
+But I am not speaking from a place of knowing. So Mr. MacLeod, if you can offer some input.
+DOUG MACLEOD: Thank you, General Manager Johnson. Yes, this is Doug MacLeod Chief Financial
+Officer. And I apologize. I'm not sure why my camera's not working. But yes, the $20 million is included in
+operating expenses as contracted services.
+So those are regular recurring expenses that Capital Programs incurs, just as a normal course of
+business and undertaking projects on a regular basis. The capital carry forward that was referred to is the
+actual asset costs. So the cost of an asset as opposed to consulting services to support those efforts. So
+hopefully, that clarifies it.
+JOYANN RUSCHA: It does. And Mr. Chair, I promise this is the last one because I do think it's important
+to understand. So it's not that we had $150 million appropriation, and then this is $20 million against that.
+This is in addition to the $150. And that is a part of our general operating.
+So the $150-- I understand you were talking about asset acquisition, does that include the actual
+construction-- I'm assuming, construction costs? You know what I mean, our general contractors, the
+electricians, the pipefitters, et cetera?
+DOUG MACLEOD: Mr. Chair, Doug MacLeod.
+TROY WHITMORE: Proceed.
+DOUG MACLEOD: Thank you. Correct. So without getting too deep into the accounting treatment of
+these things, so generally when a project is undertaken, if it's a specific project and there's associated
+
+costs with that specific project, the accounting treatment is-- and this is how we budget for things well-the accounting treatment is to gather all those costs included in the cost of the project.
+There's also regular ongoing expenses that we incur. So I'm not sure about the individual components
+regarding that $150 million, other than to say that the $150 million includes the cost of making those
+reconstruction efforts.
+Ongoing costs that Capital Programs would use contractual services for would be included in regular
+expenses. So there's, oftentimes, just regular costs in doing things. But when it's a specific capital project,
+those project costs are assigned to that project as a capital project. Hopefully that makes sense.
+JOYANN RUSCHA: It does. Thank you. And I don't want to wade into the other committee's work. But I
+appreciate the clarification, Mr. MacLeod. I'll yield.
+TROY WHITMORE: All right, thank you, both, for the input. Director Rosenthal, then Director Tisdale.
+PAUL ROSENTHAL: Thank you, Mr. Chair. And everybody answered a lot of my questions. We don't see
+a lot of information about Triunity in the packet. And I was wondering if you could provide us a little bit of
+information more than what's in there. It does talk about that they have already a lot of direct experience
+with RTD.
+They've already worked a lot of successful projects with RTD. I've certainly heard of them very well in the
+community, myself. And just perhaps, a little bit more from our team as to their background, and their
+involvement here in Denver, and potentially with any other clients that they have here locally.
+TROY WHITMORE: Director Rosenthal, if I may, is that something you desire as a follow up or a
+summary right now?
+PAUL ROSENTHAL: Just 30 seconds, or they're x number of years old. They've been working with these
+types of companies already, these clients already here in Denver, that sort of thing.
+TROY WHITMORE: Let's call on Kevin. It looks like he's ready to answer your question.
+KEVIN DIVINESS: Yes, they have been working with RTD. In fact, they were formed right here in Denver.
+The principal of the company was working for another firm that was working on T-REX. He was
+encouraged to go out and start his own business, initially, focusing on systems engineering.
+Through his work on FasTracks, he was able to expand into project controls and is now working in more
+than one state. While he started off working strictly for us here at RTD, he's now working in LA and other
+cities. And started off as a DB and has graduated from that.
+And it's been a successful firm. And it's been a partnership in different ways on different projects
+throughout FasTracks and now moving beyond FasTracks, our current effort to rebuild the Downtown
+Rail.
+PAUL ROSENTHAL: Thank you.
+KEVIN DIVINESS: Does that answer your question, sir?
+PAUL ROSENTHAL: Yes, sir. And Thank you very much.
+
+TROY WHITMORE: Thank you, both. Director Tisdale, the floor is yours.
+DOUG TISDALE: Thank you very much, Mr. Chairman. Just to repeat briefly what we discussed at a
+Board meeting, relative to this issue of authorization versus appropriation. In the first instance, the budget
+is an authorization document.
+It authorizes expenditures so that planning and so forth can go on, as opposed to the actual appropriation
+for larger contracts, which is a separate action taken by the Board when the specific contract is proposed
+to be let. There is nothing in the budget that alters, amends, modifies, or varies the delegation of authority
+resolution of the Board.
+So the fact that we have designated in the budget X hundred million dollars to be spent doesn't mean that
+the General Manager goes out and spends those monies if the contract is in excess of the General
+Manager's delegated authority. I just wanted to add that clarification from a Finance Committee
+perspective. Thank you, Mr. Chairman.
+TROY WHITMORE: And thank you, Mr. Chairman, of the other committee for that clarification and
+addition. We do appreciate that. All right, we're about to wrap up. OK, birthday girl, one more bite of the
+apple. Go ahead, Director Ruscha.
+JOYANN RUSCHA: Thank you for your grace, Mr. Chair. Could someone-- because I don't have it in front
+of me. There is a provision in the delegation of authority regarding change orders. And could someone
+briefly just recap what those parameters are?
+I don't remember if it was 20%, or 25%, or whatever the number was, and if there is a limit on that. For
+example, if there's a change order and that exceeds $2 million, does that come before the Board or not?
+TROY WHITMORE: I understand your question. Madam CEO GM, proceed.
+DEBRA JOHNSON: Yes. Hi, thank you very kindly for the question, Director Ruscha. I'm going to ask our
+General Counsel. I was trying to find the document. I don't have it readily available in front of me. But I do
+believe General Counsel knows that specific amount.
+MELANIE SNYDER: Yes. Thank you, Mr. Chair, if I may?
+TROY WHITMORE: Proceed.
+MELANIE SNYDER: This is Melanie Snyder, General Counsel. So Director Ruscha, I think you're
+referring to-- let's see, it's subsection A-- or no, B6 in the delegation that talks about contract amendments
+and change orders as may be necessary from time to time, not to exceed a cumulative total of 25% of the
+original contract amount, provided that amount does not exceed $2 million. So that's the cap on the GM
+and CEO's authority under the delegation.
+TROY WHITMORE: Does that answer your question, Director Ruscha?
+JOYANN RUSCHA: Indeed. Thank you very much, General Counsel Snyder.
+MELANIE SNYDER: You're welcome.
+
+TROY WHITMORE: All right. Thank you. Thank you, all. Good discussion. We do have a proper motion
+by Director Buzek, a second by Director Sloan. Are there any no votes on this action item? There is a no
+vote. All right, we will do a roll call vote on Action Item Number 3. Vice Chair Julien Bouquet?
+JULIEN BOUQUET: Yes.
+TROY WHITMORE: Director Buzek?
+VINCE BUZEK: Yes.
+TROY WHITMORE: Director Harwick?
+IAN HARWICK: Yes.
+TROY WHITMORE: Director Rosenthal?
+PAUL ROSENTHAL: Yes.
+TROY WHITMORE: Director Ruscha?
+JOYANN RUSCHA: Actually, no, not this time.
+TROY WHITMORE: All right. Director Sloan?
+MARJORIE SLOAN: Yes.
+TROY WHITMORE: And Director Whitmore is a yes vote. So with 6 aye votes and 1 no vote and 0
+abstention, that motion passes. The no vote was Director Ruscha. All right, we are rapidly approaching
+two hours. We have one action item, one discussion item.
+We have a couple of housekeeping matters to discuss. I'd just like to have some head nods. Do you want
+to plow through, or do we need a 6 minute break? I got a no vote from Vince.
+JULIEN BOUQUET: Let's plow.
+VINCE BUZEK: Let's move it on. Let's get this done.
+TROY WHITMORE: All right. That sounds great. The final action item for the evening is approval of the
+2024 Operations and Safety Committee Work Plan for the Operations and Safety Committee to approve
+the 2024 Committee Work Plan. Is there a motion?
+JULIEN BOUQUET: So moved Bouquet.
+TROY WHITMORE: Thank you, Mr. Vice Chair.
+PAUL ROSENTHAL: Second, Rosenthal.
+TROY WHITMORE: And a second from Director Rosenthal. All right, so much like Director Tisdale and
+the committee meeting last night, want to talk through just a couple of actions that the ad hoc Committee,
+
+if you will, has taken and then also certainly would welcome input from Office Executive Office Manager
+Jack Kroll or COO Michael Ford in this regard.
+But I do want to reiterate what was said loud and clear last night. And it applies certainly for this
+committee-- is that we fully intend, and the we being Vice Chair Bouquet, and myself, and staff members
+that have been involved for this to be a living document. We want to fully understand that what we have is
+a new creation.
+Very important and I think very wise action item to chart a bit of a course for this committee. So the group
+met. And I really want to thank Vice Chair Bouquet. To call him a scribe would be an understatement. I do
+appreciate his hard work in taking copious notes during the retreat, and also talking to several of you
+about your inputs. It's been very helpful.
+And certainly, Vice Chair Bouquet, it would be happy for you to comment as well. As you will note in the
+plan, there's highlighted areas, which are new ads as a result of retreat input or other inputs. That being
+said, we want to acknowledge that not everything that was asked was put into the document. And I've had
+the opportunity to visit with a couple of you in that regard.
+And certainly, I don't want a long discussion about why and how that decision was being made. But if
+there are some that are of pertinence to you, I would like those at least mentioned. Since this is a living
+document, we will take a look at everything that comes our way.
+And we certainly have had really good input. And I value everybody's time, and efforts, and emails, and
+structures that you have suggested. So with that, Vice Chair Bouquet, if there's anything you would like to
+add. Then I'll turn it over to staff, and then we can discuss some matters a bit.
+JULIEN BOUQUET: Yeah, thank you very much Chair Whitmore. Yeah, I think we have to remember that
+this being kind of our first year integrating the work plan and getting us as Directors say of having a little
+bit more input when it comes forward with our annual process.
+And I think going forward with it, I think there's a lot of opportunities going forward of maybe streamlining
+how we can get at that Director's input is put into advance and then maybe as a discussion going into the
+next retreat next year. But ultimately, I do want to reiterate that the idea of this being a living document.
+And if there are things that are ultimate need that need to be discussed in these next couple of months,
+I'm going to the end of the year. We 100% have the autonomy as Directors to do it. But excited for a good
+discussion tonight.
+TROY WHITMORE: Thank you, Mr. Vice Chair. I would also like to echo something that Chair Tisdale
+mentioned last night. It does seem a little clunky that we're in mid-March and adopting this plan with some
+time passed in this year.
+But because of our election period in January, and the fact that we don't have the committee structured
+right away, and that this is a new action for both committees mentioned and certainly others, that's just
+the way it's probably going to have to be at least for the short term.
+All right, so with that, I'd like to offer up staff time. And we'll start with GM CEO Johnson and then the
+inputs from Mr. Ford or Mr. Kroll.
+
+DEBRA JOHNSON: Yes. Thank you very much, Mr. Chair. I just want to call attention to package page
+76, under the month of April, where we have it says, Fleet and Facilities Transition Update. That's
+misappropriately categorized. It should be Facilities because we have a fleet. But if we don't have
+facilities, then our plan is for naught.
+So if we can get that updated, I would ask Board staff. It should be Facilities Fleet Transition Plan Update
+as we move forward. And we should ensure we utilize that nomenclature as we move forward. Thank
+you.
+JULIEN BOUQUET: You're on mute, Chair.
+TROY WHITMORE: That's why I have a great Vice Chair to keep me on track here. Mr. Ford, I saw that
+you are unmuted. Proceed if you'd like to.
+MICHAEL FORD: Yeah, no, I think we did a great job. I think we have a good working document with a lot
+of flexibility. And it's addressing the issues and concerns that were registered going forward. So I have no
+other comments. I just appreciate being part of that process. Thank you.
+TROY WHITMORE: All right. Thank you, Mr. Ford. Mr Kroll?
+JACK KROLL: Thank you Committee Chair Whitmore. This is Jack Kroll, Executive Manager of the Board
+Office. We will make the change noted by GM and CEO Johnson. Additionally, with respect to this matter,
+I just echoed Chief Operating Officer Michael Ford.
+This was a good process. It was an example of how to move forward with an agenda as a group. And I
+think you are well prepared for success as a committee by adopting this work plan.
+TROY WHITMORE: Thank you, Mr. Kroll and all of staff, for your efforts in this regard. All right, any
+questions or input? Director Buzek, proceed.
+VINCE BUZEK: Thanks, Mr. Chair. Just want to thank you and Vice Chair Julien Bouquet and staff for
+putting this together and for listening to us at the retreat. I see a number of things that were mentioned at
+the retreat are in there. And I also like the reminder to us all that this is a living document and flexible, so
+that it can be tweaked in the future as things arise.
+We could have 25 more great things to put in here. But if you monopolize and completely fill this calendar,
+then you have no room for that flexibility. So I think it's a great job. And I intend to support it. Thanks.
+TROY WHITMORE: Thank you, Director Buzek. Director Harwick, the floor is yours.
+IAN HARWICK: I just want to-- I totally hear what everybody's saying. But I do want to make a plug for the
+Rider's Bill of Rights. I think a lot of the conversations that we've heard tonight, just about service planning
+and everything that's going on, making sure of ADA access, to me, it really feels like-- I know staff is
+doing, as the GM CEO will say, Yeoman's work.
+But I do think that there's really something to be said for having-- sort of looking at this more holistically
+and thinking about how we could really be doing. Instead of being here, taking it up to the next level in
+how we're going to interact with our customers, and making sure that they're aware of what's going on,
+and making sure we're really considering everything that they need as best as possible.
+
+TROY WHITMORE: Thank you, Director Harwick. I think we heard loud and clear in regard to that item.
+And we'll continue to consider it. So I think Director Vice Chair Bouquet, did you have something you want
+to talk about in that regard? Otherwise, I'm taking you a little bit out of queue.
+JULIEN BOUQUET: Yes, sir. I just wanted to directly talk to Director Harwick's point of, I think we did
+have it as a discussion at one point of potentially having that brought up in other matters. And I think the
+big thing that kind of looking for with it-- Director Harwick is looking into what do we want to pinpoint, and
+what do we want to have the discussion regarding the Rider Bill of Rights-- pardon me.
+And specifically looking at what do we want to discuss going forward with it. But I think it's definitely
+something that should be discussed in the public. And I think we potentially would have it as a discussion
+in other matters in some time during this year. But I'm so glad that you brought it up. So thank you.
+TROY WHITMORE: Yes, thank you for the comments, Mr. Vice Chair. Mr. Board Secretary Guzman, the
+floor is yours.
+MICHAEL GUZMAN: Although I'm not a member of the committee, I do want to say I would also agree I
+would like to see that come forward to the Board at some point through this committee. And Director
+Ruscha, I am really sorry. I was simply trying to tell you that you were on mute. But I knocked my very hot
+coffee all over my lap. And I leaned over as I was unmuted. And that slipped out. It was not a direct attack
+at you. I promise. So I apologize. I own that mistake. But thank you.
+TROY WHITMORE: All right. No more spills tonight, OK, guys? That can be dangerous. All right, Vice
+Chair Bouquet.
+JULIEN BOUQUET: I had one more comment. I did see Director Ruscha's hand pop up. I'm not sure if
+you had a comment or not. I would yield the floor to you, Director Ruscha, if you had anything.
+JOYANN RUSCHA: May I, Mr. Chair?
+TROY WHITMORE: Proceed.
+JOYANN RUSCHA: Thank you. Speaking of order, so I just wanted to note that in the Board Operating
+Guidelines that were sent to us for review before we update them, there is a specific note that says that
+we should strive to route important policy considerations through the appropriate committee work plan.
+And the Rider's Bill of Rights, which I sent a memo on to the appropriate people describing the content
+and asking for a discussion item, it does have at least three if not four or more Directors who are
+interested.
+And so I just wanted to raise-- it does feel like a bit of a conflict, on particularly our bylaws stipulate that
+three Directors can put an item on the agenda for discussion or action. So I can't speak for other Directors
+who were interested in it, but I can say for myself, personally, I was trying to practice what I preach and
+offer a discussion item first.
+So we have time to process and collaborate as a body, like a team, and also, give notice and do it
+through the work plan as we've been instructed, not just in the most recent draft of the Board Operating
+Guidelines, but also reflecting back on our discussion about what the work plan process would be like. So
+I just wanted to offer that I, and I think my colleagues, we were trying to follow the directions that we were
+given.
+
+TROY WHITMORE: I take your comments. Duly noted. And we certainly heard you. And this process
+doesn't preclude the three Director action by any means. And so that can happen as well. But we hear
+you loud and clear. And we will look at this item as well as a couple of others here in the next several
+months. Mr. Kroll?
+JACK KROLL: Thank you, Committee Chair Whitmore. This is Jack Kroll, Executive Manager of the
+Board Office again. I just want to address, you did a great job indicating that this work plan system does
+not preclude the three Director initiated action item process or discussion process.
+It also does not impede, in any way, the Chair's capacity under the bylaws to place items on the agenda,
+nor does it impede the Committee Chairs capacity to do so, nor does it impede the GM and CEO's
+capacity to do so. It is literally a planning document. And it is not meant to be a gatekeeping document.
+TROY WHITMORE: Well said. Thank you very much. Director Harwick?
+IAN HARWICK: I'd like to make a motion to add it.
+TROY WHITMORE: We have a properly made motion. Do we have a second to add Rider's Bill of Rights
+to the Operational Work Plan?
+JOYANN RUSCHA: I will second that.
+TROY WHITMORE: All right, we have a second. I have several hands up. I will go with Vice Chair
+Bouquet first.
+JULIEN BOUQUET: I might just want a clarification from Mr. Kroll first, or I would like to hear from Mr.
+Kroll first. My apologies.
+TROY WHITMORE: Proceed, Mr. Kroll.
+JACK KROLL: Thank you, Committee Chair Whitmore. Yes, this is totally allowable to amend this. And
+my hand just went up with a request from Directors Harwick and Ruscha to define in which month you
+would like to discuss it.
+TROY WHITMORE: Yeah, all right, well, I think the proper motion is to amend the work plan if that's
+amenable to Directors Harwick and Ruscha. And then secondly, we're on discussion of the Amendment.
+And we could look at the date, or we can say via the Amendment that we will get it on the agenda
+sometime in the next six months or in the 2024 calendar year. So just a couple of thoughts from me.
+Director Bouquet?
+JULIEN BOUQUET: Yeah, I was just going to suggest maybe going with the latter, so that we give the
+appropriate time for staff potentially if Director Harwick and Director Ruscha are OK with it of adding this
+to the work plan for 2024, but giving flexibility of what month we discuss it.
+If we do feel like it's an urgent matter, I'm happy to look into it. But I think just having it as a discussion
+item for 2024 is more than appropriate, just so that we respect staff's time. Thank you.
+TROY WHITMORE: Yes, and I totally agree with that. Director Ruscha?
+
+JOYANN RUSCHA: Thank you, sir. So as far as what the potential amended motion will say, I will yield to
+Director Harwick on that decision. I would offer, though, I think we're all making a good faith effort. And
+again, we were requesting this to be a discussion item first for a reason. And so I guess I would just like
+to offer in the near future, not 6 or 8 months from now.
+But we could leave it TBD, but include it in the formal work plan with the other items that aren't scheduled
+yet. And then we can just collaborate. We can talk to Mr. Kroll, have conversations with our GM CEO and
+Chair and Vice Chair within the parameters of OML. But I think we could work it out. But I will yield to
+Director Harwick. And he can make the final decision on what the motion is.
+TROY WHITMORE: All right. Thank you. I do have-- and we want to hear from you Director Harwick as a
+motion maker. But let me call on Director Bouquet first.
+JULIEN BOUQUET: I bet. I want to hear from CEO GM Johnson because I'm curious what she'll say.
+Thank you. I appreciate you letting me yield my time. But I'll speak after. Go ahead, Ms. Johnson.
+DEBRA JOHNSON: Thank you very much, Mr. Chair. I just wanted to offer this up for the Board's
+consideration. I know often times, individuals use the term rider, but recognizing as defined a customer is
+a recipient of a good or a service. And a rider is a person who can ride something. And if we're talking
+about Bill of Rights, I would just offer that up for y'all's consideration.
+This is something that the Board is bringing forward. But I'm always one if we're talking about providing
+service and ensuring that individual's rights are being met, and there's expectations, there is a very
+distinguishing factor between a rider and a customer. Thank you.
+TROY WHITMORE: All right. I do appreciate that input. All right, Director Buzek. We're still going to come
+back to you, Director Harwick. Be ready.
+VINCE BUZEK: Yeah, so there was a motion and a second to add this as a discussion item. The Chair
+and the Vice Chair have said we're going to add it as a discussion item. Can the motion maker and
+second withdraw their motion and second it? Will it move forward, or do we need to somehow add some
+other fashion to take care of that motion?
+TROY WHITMORE: Well, we do need to address the motion because it was duly made. So it can either
+be withdrawn, or we can further discuss and take a vote on it. But I definitely want to have a clarifying
+descriptor here because we may not all be on the same page. Director Bouquet?
+JULIEN BOUQUET: That the question I was going to ask Chair is just regarding-- and I would love for
+Director Harwick and then Director Ruscha, specifically, of what is the discussion we're potentially having
+regarding Rider's Bill of Rights or Customer's Bill of Rights of what are we specifically asking and what do
+we want to know.
+I guess that would be my question of just a clarification. And that is not necessarily an answer I need or
+we would need tonight, but I think it would be more than appropriate to, again, work with staff, specifically
+pinpointing what do we really want to look into going into 2024 with the Bill of Rights. And it looks like
+from Director Harwick's nodding, he's on board.
+TROY WHITMORE: I do appreciate that. So we have a language suggestion from our GM CEO, Director
+Harwick. We have some kind of a timing issue, or we have the ability to put it on there without the motion.
+So what is your pleasure, Director Harwick?
+
+IAN HARWICK: I mean, if we're good to put it on the work plan for this year, I just want to make sure it's
+actually on the plan. I don't want to-- I know how life happens. And I don't want to get pushed off as we
+get towards the end of the year. So being on the plan, to me, feels-- I feel good with that.
+I'm happy to sit down with you Director Bouquet and hash this out further, you, and myself, and Director
+Ruscha if that's what it looks like. So if we have the commitment to put it on here, then I feel fine
+withdrawing the motion with it being said that it'll be on there.
+TROY WHITMORE: OK. I do appreciate that. Director Rosenthal, floor is yours.
+PAUL ROSENTHAL: Thank you. And I guess as I listened to all the discussion, I'm hoping that, perhaps,
+the discussion on this proposal might be able to happen more towards the middle part of the year or later
+part of the year, only because it sounds to me like we need a little bit more input from our General
+Manager CEO, potentially also our General Counsel because if we're talking about a Bill of Rights, that
+also means what are RTD's obligations.
+And so I think that invokes the fact that there's going to be some details that might be helpful when we're
+putting this together, so that we have something a little bit more concrete to discuss when we do discuss
+it. Thank you.
+TROY WHITMORE: Points well taken. Vice Chair Bouquet?
+JULIEN BOUQUET: And to streamline is the easiest way. I'm happy to reach out tomorrow, Director
+Harwick and Mr. Kroll. And we can discuss what, specifically, we want to pinpoint. Thank you.
+TROY WHITMORE: All right. Thank you.
+JOYANN RUSCHA: Just a point of order, a point of order. So we have a motion-- sorry. Thank you, Mr.
+Chair. We have a motion on the table to adopt the work plan as drafted. And then, there was a motion
+made to amend, essentially to adopt with a condition.
+And now, we're talking about withdrawing Director Harwick's motion to amend. But the original motion still
+does not include the addition requested. So maybe a parliamentarian can weigh in. But I actually think
+that we do have to amend the original motion because the motion references the document as drafted.
+TROY WHITMORE: And I agree. The motion to amend needs to be handled properly. And I think it might
+be best to go ahead and have a vote on that. Otherwise, we, as a ad hoc Committee, agree to move
+forward. What happens if the Amendment fails and then we have no action that is on the record? But
+we've all said that we would be amenable to the discussion of this matter.
+So cleanest thing would be to vote on the motion or for Director Harwick to withdraw it, knowing the
+conversation that has taken place over the last 15 minutes. Director Harwick, what is your pleasure? I'm
+asking you one more time.
+IAN HARWICK: Like I said, if this is making it on the work plan, I'm fine to withdraw it. I just need
+confirmation that it's going to be on the work plan and square over here.
+TROY WHITMORE: Manager Kroll, Executive Manager Kroll.
+
+JACK KROLL: Thank you, Commissioner Whitmore. Yeah, I have it typed in. And it's on the work plan
+slotted in at the bottom here as an item to be placed on a future agenda. So it's right next to the
+Paratransit Peer Review as a pending item. And we'll get it slotted in, assuming you all approve this work
+plan.
+So I don't have a real strong opinion about whether to keep the motion or disregard it. I do think you need
+to go back to your original motion and simply approve the work plan. It's here. It's written down. It's not
+going anywhere.
+TROY WHITMORE: All right. But we do have a motion to amend on the floor. And Robert or Bob tells me
+that needs to be handled.
+JACK KROLL: I'd say the cleanest way, given that your discussion has effectively concluded on this, is
+just have the vote. And we can move on.
+TROY WHITMORE: I do appreciate that opinion. All right, let's proceed with the motion to amend, the
+main motion. And the motion to amend is to add the Customer's Bill of Rights discussion to our work plan
+in 2024. That's the way I interpreted your motion, Director Harwick. Is that correct?
+IAN HARWICK: Correct.
+TROY WHITMORE: All right. That is correct. And we have a second. Are there any no votes on this
+Amendment? I'm seeing no no votes. The Amendment carries. Let's now proceed to the main motion,
+which is the adoption of the now amended Operations and Safety Work Plan. Are there any no votes on
+the work plan motion as amended?
+Seeing none, I declare the motion passed unanimously, 7 yes's and 0 no's. We have a successful motion.
+And thank you all for your patience and working through this process. This is just kind of a laboratory
+process as we work through this new item. And certainly, I didn't handle it as well as Director Tisdale last
+night.
+OK, we have to move on to discussion items. And we have one discussion item left on the agenda for this
+evening as the Allied Universal Security Services contract third option year. And at this point in time, I
+would like to ask Dr. Joel Fitzgerald, Chief of Police and Emergency Management and Steve Martingano,
+Deputy Chief of Police to present this item. Gentlemen, the floor is yours.
+JOEL FITZGERALD: Thank you very much, Chair Whitmore. And thank you esteemed members of the
+Committee and Board for hearing our discussion item this evening. As most of you know, our RTD
+security model consists of internal security officers, secondary employment police. And the topic of this
+conversation, our security contract with Allied Security.
+They cover our facilities. They help our customers. And they cover our property and people. Our
+operators are essential to the functioning of this environment. And it's key to our operators that we have
+Allied and police providing coverage. So in July of 2019 after a procurement process was conducted,
+Allied was selected to be our provider.
+Their initial contract had within it three option years. Two of those option years have already been voted
+on by members of the Board. And we are proposing a third and final option year to be executed to extend
+our coverage from July 1st of 2024 to June 30th of 2025.
+
+We have a PowerPoint that is ready to go. Steve Martingano will facilitate the PowerPoint. And if you
+have any questions regarding what it is we're asking for or any of the coverages that Allied provides,
+we're here to answer them for you. I'll turn it over to Steve.
+STEVE MARTINGANO: Thank you, sir.
+JOEL FITZGERALD: You're welcome.
+STEVE MARTINGANO: I just want to make sure everyone can see my screen. All right. So as the Chief
+had mentioned, we're going to be discussing the third option here for our security services contract. Just
+to give you a little history of our security model. As you know, we have a Transit Police Department.
+As of today's date, we have 79 officers. And as of Monday, we will have 85. So we continue to grow
+internally for our police department officers. We also have contracted security as we're going to discuss a
+little bit further here. Secondary employment police officers, which we currently utilize with the cities of
+Denver, Aurora, Lakewood, and Thornton.
+Video investigations and security technology, emergency communications, as well as emergency
+management-- so again, discussing our contracted security. It's a third party security service. Currently,
+some of the functions they provide are critical infrastructure security at RTD facilities, bus terminals, and
+rail stations.
+They currently provide security at such places as Denver Union Station, Civic Center, Downtown Boulder,
+Blake Street, Administrative offices and other locations that experience large congregations of customers
+and employees to provide high visibility and deterrence to criminal activity. They do fare enforcement on
+rail and bus vehicles.
+So they conduct fare checks on a daily basis and continually educate customers on the importance of
+paying for public transportation, as well as write citations and warnings to those who do not comply with
+fare requirements. They provide patrol services at RTD facilities, rail platforms, bus shelters, and Park
+and Rides.
+So they are placed in strategic locations and posts to reduce criminal activity, and also provide a
+customer service approach to assisting customers on directions and routes. They provide enhanced
+security presence during large scale events, related to an increase in RTD customer ridership.
+So they provide assistance with crowd control, guiding customers to and from special events that people
+utilize public transportation to attend. And they make sure that Taylor Swift fans are safe when they come
+down to the stadium. They also provide federally required commuter rail second crewmember duties and
+responsibilities.
+So they perform security and fare enforcement functions, as well as ensuring a second crewmember is
+available for commuter rail to provide service and on time functions. I just wanted to state that Allied
+Universal has fulfilled the contract requirements thus far to a satisfactory level and has not conducted any
+actions that would negate its ability to continue to provide the services requested by RTD.
+As mentioned by Chief, we had at first, a three year contract, which went from July 1 2019 to June 30 of
+2022. We had three additional option years that were provided within the contract, July 1 2022 to July 30
+of 2023 was exercised. July 1 2023 to June 30 of 2024 was exercised. And we're currently in the midst of
+that. And there's a third option of July 1 2024 to June 30 of 2025.
+
+Staff will bring forward a recommended action, authorizing final option year exercise to include the dates
+of July 1 2024 to June 30 of 2025. The meeting dates are going to be the Operations and Safety
+Committee on April 17 2024, as well as the full Board of Directors meeting April 30 of 2024.
+And next steps, the internal staff is going to process for new contract procurement development. We can
+commence that no later than August 1 of 2024. And a scope summary will be brought to the Board's
+consideration by Q3 of 2024. And then, what we're going to do is looking at separating our current
+contract into two.
+One is going to be looking at security services that are going to be managed by the RTD Transit Police
+Department. And then, the second crewmember contract, we are going to be looking at having that be
+managed by Commuter Rail Operations. And thank you.
+TROY WHITMORE: All right, Dr. Fitzgerald, does that complete your dual presentations?
+JOEL FITZGERALD: It does. And we're here to take any questions on this discussion item if there are
+any.
+TROY WHITMORE: All right. Thank you very much to both of you for being here and for that quick review.
+Director Ruscha, you have the floor.
+JOYANN RUSCHA: I'm going to vote yes today so we can keep this moving. But I just have a request.
+Before our Board meeting, would staff just be able to provide either like a memo, or at that meeting, just a
+little bit more context or a refresher, and in terms of-- I don't know how to say this-- contract fulfillment.
+I think I remember last year, there was a point where Allied wasn't able to provide the staffing levels that
+we needed and that was originally specified. As well, just as any notations if those year over year-- sorry-renewals had any cost increases.
+I think just generally for procurement, that'd be very helpful when we're dealing with something like this,
+just continuing on existing contracts. So that would just be my request. And it's up to staff if they would
+like to entertain it. But thank you.
+DEBRA JOHNSON: So Mr. Chair, if I may?
+TROY WHITMORE: Yes, I think I know what you're going to say. But go ahead, please.
+DEBRA JOHNSON: Yes. Just a point of clarification. This is a discussion item to introduce this to the
+Board intentionally. And we would bring this back to Committee next month and then for the full Board's
+consideration at the April meeting. So that input that you provided Director Ruscha is what we were trying
+to garner. So we will work in tandem to provide that information. So when we come forward in the next
+month, we'll be in a better position. Thank you very kindly.
+TROY WHITMORE: Thank you, Ms. Johnson. I do appreciate that. Director Tisdale, you have the floor.
+DOUG TISDALE: Thank you, Mr. Chairman. One brief question that may already have been responded to
+in part by the earlier comments. But when this matter does come before the full Board, if there could be,
+perhaps, some explanation as to the reason for splitting out the contract into two parts.
+
+And one of it may be, as Director Ruscha noted, that Allied did have some challenges in fulfilling the
+second crewmember portion of their contract last year, causing some dropped runs. But if just someone
+could provide some further detail on that, I think that would be beneficial to the Board. Thank you very
+much, Mr. Chairman.
+JOEL FITZGERALD: We'll make sure that's included.
+TROY WHITMORE: Thank you, Director Tisdale. Point well taken. And ti the point by our GM CEO, this is
+why we're doing this to flush out some of these type of items. So we're better prepared for the next
+decision making time. I see Director Bob Broom in the queue. Director Broom, the floor is yours.
+BOB BROOM: Thank you, Chair. Assuming you have roughly 80 FTEs, how many of those are assigned
+as fare checkers?
+JOEL FITZGERALD: The officers that are FTEs-- first of all, 50 of the FTEs now, let's say, are the ones
+that are out on the street. Those are spread across three different shifts, morning, afternoon, and
+evening. And at this point, not having the graduates out of the Academy-- the extra 22 or so that are in
+the Academy right now-- we just don't have the capacity to have full time fare enforcement from the sworn
+members of the agency.
+We do run fare sweeps and have addressed fare concerns across the alignment. However, it'd be
+improper for me to present that they do fare sweeps every day, which they're just not able to with the
+heavy call volume that we have, which is why Allied is in place at this time.
+BOB BROOM: OK, I guess riding the light rail over the last six months, I've never seen anybody do any
+fare checking. And I was on the train last week for a Pension Board meeting. And it's more than just the
+fare checking part.
+It's the fact that people who ride feel a lot more secure when they see the presence of uniformed people
+going through the cars. It makes them feel good that if something happens, that there's-- that RTD has
+the ability to deal with the situation. But I applaud your work. And I certainly fully support this.
+JOEL FITZGERALD: Thank you, sir, Director Broom. I mean, I completely agree with you, which is one of
+the reasons why we followed the peer review recommendation of staffing the way we are. And we intend- trust me, there are officers that ride those alignments. It's much like I shared with Director Ruscha earlier
+in the week. It's much like when you look outside, you never see a police officer. But they're there.
+They may not ride down the street at the time that you're walking out of the house. But they're there. And
+we do have them throughout each and every sector. It's just not at the frequency that we would like right
+now. But as we grow, we will transition to more of a uniformed police presence than what you're seeing at
+this point right now.
+BOB BROOM: Thank you. That's all I had.
+JOEL FITZGERALD: You're welcome, sir.
+TROY WHITMORE: Thank you, both. Director Guzman, wrap it up for us.
+MICHAEL GUZMAN: Just a quick question, and this doesn't need to be answered tonight. I'd be happy to
+get a follow up on it. But I recall last year, we had some conversation regarding AUS in general. My
+
+particular ethnic community is not well pleased with them. I don't know how I would vote on this going
+forward. But I would like to know one particular thing. And I cannot remember at the time.
+We had a discussion about whether they were allowed to carry weapons on our service. And I know that
+our police force, our RTD Police Department, they are sworn officers. But can somebody follow up with
+me about that offline? I'm just curious. Thank you.
+JOEL FITZGERALD: Yes, sir. I certainly will.
+TROY WHITMORE: All right. Thank you for the question. Thank you-- excuse me-- for the presentations
+tonight. With that, we will move to other matters. I have two other matters I'd like to raise before asking
+my colleagues, whether they have items to be raised as well.
+The first one I'd like to bring to everyone's attention is follow up on a discussion that we had at the retreat,
+regarding the name of our committee. There was a fairly robust conversation about adding another name
+to our committee, that being security.
+So I would like to see if there's a consensus to request the Executive Committee to consider a bylaw
+Amendment at its April meeting or later, but an April meeting, if we can do it, to change the name of our
+committee from the Operations and Safety Committee to Operations Safety and Security Committee or
+some derivative thereof. So are there any comments in that regard? Director Ruscha?
+JOYANN RUSCHA: Thank you for that. And thanks for giving us the heads up. I actually don't know if it's
+out of order. But I wanted to note that Director Rosenthal also commented on the customer service piece.
+So I don't know if we want a very, very long name and also include that.
+But if he had actually thought that-- if he meant that, then I just wanted to remind everyone that was also
+noted as well. But I wouldn't have an issue with what you just suggested, Mr. Chair.
+TROY WHITMORE: Thank you for opining on that. Director Rosenthal, are you going to give me a long
+thing to remember here, buddy?
+PAUL ROSENTHAL: No. Just Director Ruscha indicated something that was discussed at our retreat.
+And perhaps, she could go in a little bit more detail about that. Just maybe tell her what-- I mean, please
+ask Director Ruscha what I had said that she is quoting. Thank you.
+TROY WHITMORE: Director Ruscha, would you care to reply?
+JOYANN RUSCHA: I'm sorry. It's my bedtime. So we can forget that I even made the comment. I was just
+trying to recognize that at our retreat, Director Rosenthal commented that we also handle customer
+service. And I think previous iterations of this Committee did specifically say customer service.
+And so I just wanted to ask Director Rosenthal if we are potentially considering changing the Committee's
+name vis a vis bylaw, if that was something that he was interested in? But you don't have to discuss. I
+was trying to be polite. I apologize.
+TROY WHITMORE: OK. Well, I would submit that customer service has a great deal to do for the
+Performance Committee, the Audit Committee, and certainly Finance and Planning. So I think it's all
+encompassing, in my humble opinion. With that, rescue me Vice President-- or Vice Chair Bouquet.
+
+JULIEN BOUQUET: Director Rosenthal, do you want it to be Operations, Safety, Service, and Security?
+PAUL ROSENTHAL: No, I swore I thought I heard Director Ruscha say fees, customer service fees. And
+I'm like-JULIEN BOUQUET: No, I think she's referring to customer service.
+PAUL ROSENTHAL: --OK, customer service is great. But I swore I heard the word fees.
+JULIEN BOUQUET: You want that added on to the name?
+PAUL ROSENTHAL: Operations, Safety, Security, and Customer Service, something like that would be
+perfectly fine.
+JULIEN BOUQUET: So the proposal right now is specifically regarding Operation, Safety, and Security.
+And I think Chair Whitmore is regarding that all of us as standing Committees are part of customer
+service. And all of us as staff and public elected officials are part of customer service. So I don't think we
+necessarily need it. Thank you. That's my suggestion. Thank you, Director Rosenthal.
+PAUL ROSENTHAL: Yeah.
+TROY WHITMORE: Appreciate all the comments. Any other comments about the proposal, which just
+adds the term security? We do not need a formal motion according to our Executive Manager Jack Kroll,
+just kind of a head nod. Are you OK with that going forth for the Executive Committee to discuss in an
+upcoming meeting? I'm not seeing any vociferous head nods in the negative.
+OK, so with that, members of the Executive Committee are on Board with us tonight. And I'm sure Jack
+will make sure that happens, OK. Finally, before I ask for additional items from my colleagues, I would like
+to take a moment to recognize Chief Operating Officer Michael Ford, who recently announced his plan to
+retire effective soon, April 6.
+Mr. Ford, it has been an honor and a pleasure to work with you during my time on the Board, going back
+to being on the remnants of the former Committee as a rookie five years ago. And I got to work with you a
+lot back then, and that has continued. We want to especially thank you for your leadership, for being a
+public servant, a transit servant for, from what I recall, Michael, your entire grown career.
+And we know that these are the kind of people that move people, both theoretically and realistically. So
+we want to wish you the best in the next chapter of your endeavors. I wish you lots of leisure. But I know
+you well enough that you're looking for a little adventure. And I wish that to you as well, Mr. Ford. So if
+you would like to say anything, that's fine. I know you're a man of few words. But the floor is yours at the
+moment.
+MICHAEL FORD: Well, thank you, Chair. And thank you for your acknowledgment. And thank you for just
+the last five, six years. I know that you're on a quick exit in July as well. So I can appreciate that as well.
+So no, I just want to say thank you. It's been a nice time. And a lot that's gotten done in that time as well.
+So I appreciate the sentiment. And I look forward to the next chapter. And thank you all for your support.
+So thank you.
+TROY WHITMORE: You're very welcome and congratulations.
+
+MICHAEL FORD: Thanks.
+TROY WHITMORE: All right, before we adjourn, are there other matters to discuss from members of the
+Committee or staff members as I see Mr. Kroll's hand go up? Mr. Kroll?
+JACK KROLL: Yes, Committee Chair Whitmore. Jack Kroll, Executive Manager of the Board Office. Just
+wanted to indicate to you all that we have received indication from Director Buzek of his intention to step
+away from this Committee.
+This will create a spot for newly appointed and sworn in Director Lewis to step into this Committee. That
+matter will go before the Executive Committee next week, and then will be ratified by the full Board at the
+end of the month.
+TROY WHITMORE: And I appreciate very much. I put Mr. Ford ahead of that announcement in my script.
+And inadvertently so, I would like to thank Director Buzek for his service on this Committee. And he will be
+missed. But we know that Director Jaime will be a wonderful addition and already has been.
+So thank you Director Buzek for your service and your continuing service to the Board in so many
+different capacities over the years and in the future. Other matters from other Directors?
+OK, well, our work plan that we passed tonight indicates that we'll have one action item, which is for the
+approval of the Allied Universal Services third year contract option coming up at our next meeting on April
+17.
+IAN HARWICK: Right, I was trying to go. But I'm on my phone, and I couldn't get up.
+TROY WHITMORE: You're too late. Sorry. No, go right ahead, Director Harwick. I appreciate that.
+IAN HARWICK: Yeah, no, sir. I just had a just-- this is a smidge, the elephant in the room with all this stuff
+that's going on about the request for front range passenger rail and just thinking about that part of that
+could be tied to the FISA. I just more wanted to ask a general question. If we're going to be asked to
+potentially utilize this money towards that, there's a lot of other fast track items that are also left undone.
+And I'm just curious about if we've already done that study, is it possible to take some of the FISA money
+and study those other lines, just to be able to have a little bit of an apples to apples comparison, whether
+that's the L Line extension, or going down further toward C-470, or the N Line further north, or this isn't in
+there necessarily, but even double tracking the A Line?
+So I don't know what that looks like. But again, I feel like if we're being asked to do this, I feel like we
+should look at all of those things, just to be able to give ourselves the proper comparison and be able to
+vote appropriately. So I don't know what that looks like. But I feel like that's in our best interest, both as
+Board members that represent the whole district, all 2,400 square miles.
+So I don't know what I'd necessarily-- where this goes. But it's just something that's been on my mind as
+these things trickle down to us. So again, don't know what I'm asking, other than I feel like I should share
+that I think this is important.
+TROY WHITMORE: I appreciate the mention. And I think there's been numerous conversations of varying
+degrees in this regard. And I think that's something that we should probably discuss.
+
+I don't know if that needs to go to the Executive Committee to formulate a strategy on that. But with that, a
+member of the Executive Committee has raised her hand. So First Vice President Catlin, if you would like
+to opine on that statement, the floor is yours.
+PEGGY CATLIN: Excuse me. Thank you, Ian. I agree. I just wanted to thank you for looking at it in a
+holistic standpoint. So yes, I completely concur that we need to take a pause and look at everything from
+a much more comprehensive standpoint. So thank you for your comments.
+TROY WHITMORE: I would ask you to carry that to the Executive Committee. I think that may be a good
+starting point. So we have several members all nodding their heads from the Executive Committee. And I
+appreciate you bringing it up, Director Harwick. Mr. Kroll, did you have something to add, or did that get
+handled?
+JACK KROLL: I would just note that I will be sure to bring this item to Chair Davidson when we speak
+next.
+TROY WHITMORE: Yes, and Chair Davidson has been attending almost every meeting. And tonight, he
+just could not because of work commitments. And certainly, I'm sure he has a strategy or at least a
+thought in that regard. OK, continuing with other matters, whether related to the last statement or not,
+Director Ruscha?
+JOYANN RUSCHA: Thank you, Mr. Chair. This is a new other matter. I had a constituent flag for me that
+the FF2 connection is difficult or impossible to make from the A Line, the one that departs-- or sorry,
+where the FF2 leaves at 7:40.
+So if one or the other is plus or minus a minute or two within the expected arrival time, even though we
+consider that to be on time, he was saying that it made that connection very, very tight or impossible,
+depending on if it is two minutes or three minutes.
+So I don't know if that's something that we can look at before this next service change or how that works.
+But I just wanted to flag that. I mean, particularly because the FF2 does have limited frequency. So
+missing that connection is a big deal. Thank you.
+TROY WHITMORE: Thank you for that input. I'm sure that will be duly noted to the proper staff members.
+All right, so I'll go back to highlighting the next meeting, which is Wednesday, April 17 as we've talked
+about several times. We have the Allied Universal third year contract option.
+But additionally, we will have four discussion items, including the Vision Zero Working Group, an update
+regarding our Fleet and Facilities Transition Study, a safety performance update, and our Quarter 1
+Human Resources Report. So that will be another busy meeting, an important meeting.
+With that thought in mind, just a heads up. I have a conflict with my real job that evening. I emcee our
+annual meeting. And it will be my last annual meeting at my place of employment. So it's kind of an honor
+to emcee that and say my goodbyes that night. So staff has been thoroughly warned.
+And believe it or not, Vice Chair Bouquet is looking forward to that evening because he doesn't have to
+deal with me. So with that, folks, thank you so much for your attention to details and the meeting agenda
+that we went through.
+
+And I look forward to many more of those as we proceed through 2024. With that, I declare the
+Operations and Safety meeting adjourned at 8:17 PM Mountain Time. Have a good evening. And please,
+all be safe. Good evening.
+BOB BROOM: See you all later, Aurora.
+
+

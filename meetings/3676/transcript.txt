@@ -1,0 +1,1017 @@
+2024-07-24
+Operations Safety and Security Committee
+TROY WHITMORE: Good evening, everyone. The Wednesday, July 24 Operation Safety and Security
+Committee of RTD will now come to order. We are convened as of 5:32 PM. I respectfully ask all those in
+attendance to mute yourself unless you are recognized to speak. Thank you all for joining us this evening.
+Please note that committee meetings of the RTD Board of Directors will be remotely held via Zoom and will
+be audio- and video-recorded.
+The meeting recordings, along with the unofficial minutes of the meetings, will be posted as soon as
+practicable on the Board's website. During today's meeting., W, Are also providing Communications Access
+Real-Time translation, also known as CART. Anyone who would like access to this service should send an
+email to the RTD Board Office at RTDboardoffice@rtd-denver.com and a link will be provided.
+Additionally, the CART transcript can be automatically translated into Spanish for anyone who would like
+access to the live transcript of the meeting in Spanish. A livestream of this meeting will also be available
+via RTD's YouTube page.
+So at this time, I'd like to call the role of the committee members. Vice Chair Julien Bouquet.
+JULIEN BOUQUET: Present.
+TROY WHITMORE: Member Ian Harwick.
+IAN HARWICK: Present.
+TROY WHITMORE: Member Jaime Lewis. Jamie will be absent tonight. Director Paul Rosenthal.
+PAUL ROSENTHAL: Present.
+TROY WHITMORE: Director JoyAnn Ruscha.
+JOYANN RUSCHA: Present.
+TROY WHITMORE: Director Marjorie Sloan, who may also be not with us this evening. We shall see as
+the evening goes on. And I'm Troy Whitmore, Chair. So there are five of the seven committee members
+here. We do have a quorum. I'd also like to recognize that we have Director Peggy Catlin with us as well.
+OK. At this point in time, I will open up public comment to anyone who would like to address the committee
+regarding any topic listed in the published meeting agenda for the current and immediately preceding
+month.
+If you wish to speak and have not already done so, please either raise your virtual hand or press Pound-9
+on your phone. During this time, the Committee will not offer any direct comments or responses. However,
+if you'd like to be contacted regarding your public comment, please email the RTD Board Office at
+RTD.BoardOffice@rtd-denver.com Mr. Kroll, do we have any hands raised for public comments?
+
+JACK KROLL: Committee Chair Whitmore, this is Jack Kroll, Executive Manager of the Board Office. At
+this time, I see no hands raised.
+TROY WHITMORE: All right. Thank you very much. All right. That's unusual to not have the public comment
+in person, but we did have one letter, I believe, from Greater Denver Transit. You all received it in your
+email from Mr. Bamber and his associates. Were there others that I did not recall to speak to?
+JACK KROLL: Committee Chair Whitmore, again, Jack Kroll, Executive Manager of the Board Office, no,
+you did not receive any additional letters that the Board Office is aware of at this time.
+TROY WHITMORE: All right. Thank you, Mr. Kroll. All right, information from external entities. There are no
+external entity reports this evening. However, when we move to Item D, we have two recommended actions
+on the agenda. The first action is for the September 2024, Title VI Service Equity Analysis for the Board of
+Directors to adopt the Title VI Service Equity Analysis Report for September 24. Service changes to comply
+with federal laws, regulations, and guidelines related to Title VI of the Civil Rights Act of 1964. Do I have a
+motion?
+JULIEN BOUQUET: So moved, Bouquet.
+PAUL ROSENTHAL: Second, Rosenthal.
+TROY WHITMORE: Thank you. I have a proper motion and a second from Directors Bouquet and
+Rosenthal. I would now like to ask a whole cadre of folks for their presentation, including Martin Romero,
+Transit Equity Manager, Civil Rights Division; Carl Green, Jr., Director of Civil Rights Division, and Jessie
+Carter, Senior Manager, Service Development to present this item. I see Carl Green on screen. Are you
+starting the presentation, Mr. Green? Or is Martin?
+CARL GREEN, JR: Good evening, Director-- Board Chair Whitmore, fellow Board of Directors, and my
+esteemed RTD colleagues. I'll be pulling up the slide deck, but the man of the hour. I'll be yielding the floor
+to Martin Romero.
+TROY WHITMORE: Thank you very much. The floor is yours, Mr. Romero, as soon as the slide deck is up.
+CARL GREEN, JR: There we go. All yours, Martin.
+MARTIN ROMERO: All right. Good evening, fellow colleagues, Board Chair Whitmore, and members of the
+Board. I hope everyone is having a great evening. My name is Mario Romero. I serve as a Transit Equity
+Manager. Tonight, I'll be covering the September 2024 Proposed Service Changes, Title VI Service Equity
+Analysis. Next slide, please.
+So a quick overview of the presentation. I'll be summarizing the proposed service changes, talk about the
+FTA requirements, I'll cover the equity analysis decision tree, and then we'll get into Title VI policies and
+methodology. I'll go over the results, touch on public outreach, and then conclude with the
+recommendations. Next slide, please.
+OK, so here, we have a snapshot of the proposed service changes for September 2024 that were outlined
+by Senior Manager of Service Development Jessie Carter. To summarize at a high level, there are a total
+of 38 proposed service changes. This includes 35 modified changes, one reinstatement of service, one
+reduced service, and one temporary suspension. And Jessie will speak to these proposed changes in more
+depth following this presentation. Next slide, please.
+
+So according to the FTA, RTD is required to conduct a service equity analysis for all major service changes,
+and I'll explain what constitutes a major service change during the Title VI policy section of this presentation.
+Next slide.
+OK, so Title VI of the Civil Rights Act sets the legal precedent for non-discrimination requirements for
+agencies receiving federal financial assistance. The FTA Circular provides guidance and framework to
+ensure that agencies are following Title Vi requirements, and the Board adopted Title VI Program
+establishes the policies and methods in which we carry out this type of work. Next slide, please.
+OK, so this slide provides an overview of the three steps in the decision-making process for conducting an
+equity analysis. So step 1 is to evaluate the type of change. And so in this step, we determine if the change
+is a major service change, and if the answer to that is yes, we proceed on to step 2, which is to evaluate
+potential impacts.
+In step 2, we assess if there are disparate impacts on minority populations or disproportionate burden on
+low-income populations at the 150% federal poverty level. If adverse impacts are identified, then we
+proceed on to step 3 where we evaluate alternatives and identify ways to minimize, mitigate, or avoid the
+potential impacts on equity populations. And just of note, there will be times when I will refer to minority and
+low-income populations as equity populations. Next slide, please.
+OK. Title VI Policies, Major Service Change, Disparate Impact, and Disproportionate Burden. Another note,
+I'll also be referring to these terms disparate impact as DI and disproportionate burden as DB. Next slide,
+please.
+OK, so what constitutes a major service change? So RTD defines a major service change as 25% addition
+or reduction in the service hours of any route or line that would remain in effect for 12 months or more. And
+so based on this definition, the analysis results in 1 out of 38 service changes exceeding the major service
+change threshold, and the major service change identified and in discussion is an increase to service. Next
+slide, please.
+OK. DI and DB, which we also refer to as Title VI policy, state that a major service change should not
+adversely affect equity populations 10% more than non-equity populations. And specifically, the policies
+state that for a service increase, equity populations receive no less than 10% of non-equity populations,
+and for service reductions, equity populations receive no more than 10% of non-equity populations.
+So given that information, here's an example of how we assess potential disparities for proposed changes.
+So in this example here, we can see that the percent of non-minority populations being impacted by a
+proposed change is 25%. And so if we calculate the threshold, we would multiply 25 times 10%, which
+equates to 2.5. And if we add 2.5 to 25, that equates to 27.5.
+And so if the percent of minority populations impacted, it exceeds 27.5, then we have a possible disparity
+for major service reduction. Inversely, if we subtract 2.5 from 25, that equates to 22.5. And so if the percent
+of minority populations impacted falls below 22.5, then we have a possible disparity for a major service
+increase. And the same type of calculation applies when testing for DB. Next slide, please.
+OK, so each Title VI policy is applied at the route level. And so this analysis looks at the demographics
+within a quarter-mile of individual lines using US Census data. And that helps us to understand the impacts
+that changes will have within that population. One key point that I do want to mention is that the service
+district average for minority is 37.5% and 14.2 for low-income.
+
+The system-level analysis combines all the block group populations, not just the quarter-mile populations,
+under the route stops. So this helps us to understand the net impact on any service running through the
+block groups. So ultimately, this provides us with a holistic approach and ensures equitable provisions of
+our services. Next slide, please.
+OK, so before discussing the route-level results, a quick reminder that the Title VI policies establish a
+threshold in order for us to perform the comparison. So the route that met the threshold for a major service
+change is Route 40. And the results indicate that minority populations received less-- sorry. The results
+indicate that the minority populations receive less of an increase in service at 0.91% compared to nonminority populations at 1.06%, a difference of 0.15.
+And this meets the threshold of 0.95, therefore, there is a potential for low-income populations-- low-income
+populations tend to benefit slightly less than 0.99 than non-low-income populations at 1.01%. That's a
+difference of 0.02. This doesn't meet the threshold for-- the threshold of 0.91, therefore, there is no DB
+found. So in summary, Route 40 findings contain a potential DI and no DB. Next slide, please.
+OK, so in addition to route-level analysis for assessing potential DI, we also put focus on key public activity
+centers to better understand where customers are going. Specifically, we look for changes in access to
+retail and convenience stores, academic institutions, social services, senior housing, and employment
+centers, and this helps us to assess increased-- reduced or new access to these critical locations. Next
+slide, please.
+OK, so as we look at Route 40, we can see that this proposed change improves access to 44,340 jobs, 119
+grocers, 66 social services, nine senior housing centers, and 27 academic institutions. Next slide, please.
+OK, so now let's get into the system-level results for Route 40. Minority populations tend to benefit less
+compared to non-minority populations, and that's 1.37% versus 1.7%, a difference of 0.37. This does meet
+the DI threshold of 1.56. Low-income populations stand to benefit slightly less compared to non-low-income
+populations, 1.57 versus 1.62, a difference of 0.5% which does not meet the DB threshold of 1.46.
+And so to sum up the system-wide-level findings, similar to the route-level findings, contain a potential DI
+and no DB. And I do want to point out that this change is an enhancement and will provide access to equity
+populations from the northern part of the route to jobs in the southern part of the route. Next slide, please.
+So equally important as the route and system-wide analyses is the outreach and public engagement. I want
+to highlight that there were six public meetings from June 18 through June 26, two virtual meetings and four
+in-person meetings. And this was done to inform and collect public comment. Next slide, please.
+In addition to public meetings, our Community Engagement and Communications Department produced a
+webinar recording that was made accessible online for customers and a dedicated web page, as well as
+downloadable toolkits which were provided and shared with our community partners. Efforts were also
+made to increase the use of social media platforms.
+Public comment was-- public comment was made available through our customer care line to address
+inclusion efforts for customers who lack internet service. In-system promotional assets were also placed on
+our buses and rail lines, and paid media was also leveraged. And the impact team was also deployed
+directly to stops and stations to inform and collect feedback on the proposed changes. Next slide, please.
+So taking public engagement and outreach one step further, the Transit Equity Office did direct outreach to
+67 key public activity centers within a quarter-mile of Route 40. We leveraged our CBO partners to collect
+
+feedback along the Corridor and at local community events. We connected with another partner, Denver
+Public Library, and forwarded the Service Change Toolkits to assist in disseminating this information to four
+branches along Route 40.
+We also partnered with Village Exchange at one of their events where the information was shared with over
+100 of their members in an effort to inform and garner more feedback. Next slide, please.
+OK. So as you recall from the decision tree, step 3, if there is a DI finding, the agency must evaluate
+alternatives. And considering that there are no practical alternatives to avoid, minimize, and mitigate the
+finding, the agency can still proceed with the changes if there is a substantial legitimate justification. And
+as I mentioned earlier, the changes to Route 40 are an enhancement that will benefit equity populations by
+improving access to jobs in the southern end of the Corridor. Additionally, it includes adding a compliant
+restroom at each terminal. Next slide, please.
+OK, so to summarize the presentation, I covered the Title VI service equity analysis, methodology, the
+findings, and overall conclusions. This meets the FTA requirement for Board awareness and consideration
+of the equity analysis. At this time, staff recommends approval of the September 2024 Title VI service equity
+analysis. That concludes the presentation at this time, and I'll take any questions.
+TROY WHITMORE: All right. Thank you, Mr. Romero. I take it no other additional presentation from Mr.
+Green or any of the other staff members, then? All right. We'll go to questions. I see in queue Director
+Rosenthal. The floor is yours.
+PAUL ROSENTHAL: Thank you, Mr. Chair, and thank you, Martin and Carl, for that extensive review
+process and presentation. And I know from your presentation that you had a lot of outreach to the
+community, which I appreciate the increase and the depth that you're really trying to increase that. And so
+my question is, have you-- what conversations have you had with Denver Public Schools? And I particularly
+note that the 40 goes by Thomas Jefferson High School, and they've been trying to increase that frequency,
+so I appreciate that.
+TROY WHITMORE: Proceed, gentlemen, whoever would like to answer Director Rosenthal.
+CARL GREEN, JR: Director Whitmore, if I may?
+TROY WHITMORE: Go ahead.
+CARL GREEN, JR: Great question. Director Rosenthal. That is, as we think about our community
+engagement and public outreach efforts, we are taking a concerted effort to ensure that we are reaching
+out to community-based organizations. As you can see, this has been a valiant effort, starting with our
+overall approach to outreach this time around with respect to the September 2024 service changes.
+So not specifically with Jefferson Public Library or Schools specifically. I know as part of the Zero Fare for
+Youth program, a lot of outreach was conducted at that level, but not specifically for this particular service
+change for the Route 40.
+PAUL ROSENTHAL: All right, thank you. And then my second question. It mentions bathroom access,
+quote, "at each terminal." What does that mean? Maybe describe that a little bit more.
+JESSIE CARTER: If you don't mind, I'll answer this question.
+
+TROY WHITMORE: Go ahead, Jessie.
+JESSIE CARTER: OK, thank you. Director Rosenthal, as part of the collective bargaining agreement with
+the union, we have a responsibility of providing a restroom at any given terminal that we end our services
+at. It's not something that's easily done given the way our routes are laid out and the size of our district, but
+wherever we can, we're doing our best to actually come in compliance with those rules. So it's basically
+making sure that our operators have a location for respite. Does that answer your question?
+TROY WHITMORE: All right. Evidently so. Any other questions from members of the Committee or any
+other Board members? I'm not seeing any others. All right, I believe it's time to vote. Are there any no votes
+on this properly-made motion and a second? Not seeing any no votes, so the motion passes 5 to 0 with
+two members of the Committee absent. Thank you, gentlemen, for your very in-depth presentation.
+All right, let's move to the second action item. September 2024 Service Change-- for the Board of Directors
+to approve the September 2024 Service Change as revised and summarized in Attachment A, and to
+authorize the General Manager and CEO or her designee to execute contract amendments as necessary
+for private operators impacted by the service changes. Do I have a motion?
+PAUL ROSENTHAL: So moved, Rosenthal.
+IAN HARWICK: Second.
+TROY WHITMORE: And the second from Harwick, is that correct?
+IAN HARWICK: Correct.
+TROY WHITMORE: All right. We have a motion and a second from Rosenthal and Harwick. All right. I
+would like to ask Fred Worthen, Assistant General Manager, Bus Operations, and Jessie Carter, Senior
+Manager, Service Development, to present this item. It looks like we might even have some input from
+Stuart Summers as well from our Communications Department. Gentlemen, the floor is yours, so whoever
+wants to start, proceed, please.
+FRED WORTHEN: Thank you, Chair Whitmore. Good evening, honorable Board members, I am Fred
+Worthen, AGM of Bus Operations. I'm joined by Jessie Carter, Senior Manager of Service Development,
+and Stuart Summers, Chief Communications and Engagement Officer. We're here tonight to recommend
+approval of the Revised September 2024 Service Change as summarized in your Board packet, and to
+seek authorization for the General Manager and CEO or designee to execute contract amendments as
+necessary for private operators impacted by the service change.
+Tonight, we'll provide an overview of the recommended service changes, update you on public outreach
+and engagement activities, and apprise you of recommended revisions to the September service change.
+As a bit of refresher, RTD reviews, proposes, and implements changes to service schedules three times a
+year in accordance with our collective bargaining agreement with ATU Local 1001. These changes typically
+occur in January, May, and in the late-August, early-September time frames. Service changes strive to
+increase service reliability, improve on-time performance, provide represented employees an opportunity
+to select work shifts, account for changes in ridership, meet the goals of the System Optimization Plan, and
+to support scheduled maintenance projects.
+
+The September Service Change began formally with a number of outreach and engagement activities from
+mid-May through the end of June to solicit feedback to consider as part of the proposed September Service
+Change Packet. Public comment and feedback opportunities were concluded on June 28, 2024. Today,
+staff is presenting a recommended set of proposed service changes to this committee. If approved tonight- if approved tonight, the recommended September Service Change Proposal will be submitted to the Board
+of Directors on July 30 for final approval. If approved by the full Board, September service changes will take
+effect September 29.
+Service change proposals are typically comprised of route adjustments, seasonal adjustments, increases
+in service reductions, and schedule timing. Route adjustments are made to optimize the efficiency of service
+as well as to improve accessibility to our customers, respond to changing travel patterns, or facilitate
+maintenance projects.
+Seasonal adjustments are temporary in nature and made to account for variations in demand or operational
+conditions. Service increases are increases to the frequency, span of service, or operating hours. These
+increases typically spawn from increased demand by customers for service or to provide new service to
+major activity centers or other attractions. Service reductions are decreases in the frequencies of trips,
+spans of service, or operating hours typically stemming from decreased demand for services by customers
+or to increase the efficiency of fledgling routes.
+Schedule timing adjustments are typically alterations to the running time of bus and rail service to better
+align with customer demands. Trip connections are to improve on-time performance. With that, I'll turn it
+over to Stuart Summers, who will discuss our public outreach efforts with regard to the September Service
+Change.
+STUART SUMMERS: Thank you, Fred. Good evening, Board. As introduced, I'm Stuart Summers. I'm the
+Chief Communications and Engagement Officer. I want to take a few minutes and talk about our enhanced
+outreach and engagement that was undertaken between mid-May and late-June.
+As this Board is well aware, we overhauled our engagement efforts in an effort to try and increase our
+outreach and our ability to communicate with customers in the public about our service changes. This
+included increased marketing materials, enhanced media relations, we leveraged a number of our
+stakeholders, community organizations, community events that were going on, deploying staff to those
+events.
+We also dispatched staff to potentially impacted stops and stations. We've talked a lot this evening about
+our Impact Team. We dispatched Impact Team members out across the community to directly engage with
+customers at those stops and stations where there may be an impact. And then we also streamlined the
+feedback process in an effort to garner input by route line and potential impact by a customer. Next slide.
+With this service change, we also adopted five different ways for individuals to provide feedback. First, we
+deployed an online survey that was available-- and I'll get into that in just a little bit, really trying to hone in
+on what was some of that feedback by route or line. We also invited individuals to call Customer Care,
+provide their feedback over the phone, and one of our Customer Care agents could take that feedback and
+provide it to Service Development.
+As this Board is well aware, we also collect public comment at any of our meetings, whether it be a Board
+of Directors meeting or also any of our service changes meetings. RTD staff at community events, also,
+while connecting with customers in the community, collected feedback. And then also, as we've done in the
+
+past, individuals were invited to send emails and have that feedback recorded by Service Development as
+well. Next slide.
+As part of our own media efforts, these are the opportunities that RTD directly maintains, manages, and
+controls. We first dispatched our marketing materials in English and Spanish. The Service Changes web
+page that was referenced earlier this evening, during this feedback window, had approximately 10,600
+views of that web page.
+On-vehicle transfluxes, these are the advertisements, if you will, that we put on our revenue vehicles. We
+had more than 2,000 of those that were dispatched across the district on our vehicles to communicate about
+the service changes. More than 20,000 rack cards, simply the brochures that we put out on vehicles and at
+our different locations and sales outlets to communicate about the potential changes and what was being
+proposed. And then also, the Impact Team had the rack cards that they handed out at stops and stations.
+And then as referenced earlier by Mr. Romero, we created a partner toolkit that was sent to more than 800
+community-based organizations, neighborhood associations, partners, nonprofits, really trying to engage
+the community to help us share this message more broadly and widely without-- across the Metro area.
+Next slide.
+RTD also hosted and provided presentations at 13 different public meetings that we were invited to, not
+only the ones that we hosted, but also different neighborhood associations invited us to participate and
+provide information. Approximately 150 written comments and feedback submissions were received at
+these meetings. This includes also those email submissions, and then calls to Customer Care.
+And then the Impact Team that I referenced earlier was dispatched to 38 stops and stations during that
+approximately six-week feedback window where they engaged with about 1,500 customers to communicate
+about the service changes and provide information, answer questions, and help people understand the
+three times a year that we do these service changes. Next slide.
+And then as I mentioned a few minutes ago, we created an online survey for the first time really trying to
+hone in on some of this feedback and provide one location for people to-- for customers to easily provide
+feedback about any of the proposed changes. 227 online surveys were completed during the feedback
+window. That concluded the end of June.
+This reflects 19 different routes and lines that feedback was provided about, approximately 67% of the
+feedback related to a bus route, and 32% related to a rail line. 27% of the responses related to Route 0 or
+0B, which was our highest. And then Route 40 was the second highest to garner about 43 respondents on
+that feedback.
+One thing that we also was important to us is we wanted to know how people were learning about the
+service changes, where our efforts successful and where were people finding out that information. 27% of
+people indicated social media, 22% by visiting RTD's website. And then from there, it goes down to email,
+news reports, and any other method that may be word-of-mouth or an Impact Team member.
+All unedited comments and information that we received has been included in the Board materials so that
+all directors can be able to comb through that information and see what feedback was provided by
+customers during this feedback window between mid-May and late-June. Next slide. And with that, I will
+turn it over to Jessie Carter.
+JESSIE CARTER: Thank you, Stuart--
+
+TROY WHITMORE: Please proceed when you're ready, Jessie.
+JESSIE CARTER: OK. Thank you, Stuart. Can I have the next slide? I'm sorry, can you back up two, rather?
+Here we go. So with that, I'm Jessie Carter. Good evening, Board of Directors. I just want to go over one of
+the major modifications to the initial service change. Next slide.
+With each service change, Service Development continues analyzing information coming from RTD's transit
+operations, and modifications are often made to initial recommendations to better suit changes in operating
+conditions or customer needs. With the September 2024 Service Change, the modifications to the initial
+service change recommendation seeks to improve schedule adherence on light rail while accommodating
+ongoing rail maintenance projects within available staffing levels. The overall effect of the recommended
+modifications either maintain or increase service levels. Next slide, please.
+Speaking more specifically to the recommended modifications, it is recommended that the E and H Lines
+be increased to 30-minute frequency instead of the 15-minute frequency previously recommended. And
+now should state that we are currently operating on the E and H Lines at 60-minute service frequency. I
+should also note that this remains an increase, though smaller than was initially proposed. With the needed
+time added to the schedule for ongoing maintenance on the Southeast and Southwest Lines, this
+modification aligns with RTD's current staffing levels. Next page.
+So during the modification to the plan from a Light Rail Network perspective, the targeted number of trains
+provided per hour in the modified plan are as follows. And I'm going to-- I don't have control of the cursor,
+so I'm going to go clockwise. So we're going to start with 30th and Downing. So with return the L Line, we'll
+have four trains operating per hour going into the Downtown area.
+Going out towards the East area, we are going-- we are maintaining the R Line at two trains per hour.
+However, where the R and the H Line are common to each other from Florida to south-- well, basically to
+the 225 Junction, we're going to be operating every-- four trains per hour.
+Continuing, going further south-- further south, we're operating the E Line at two trains per hour. And then
+where it is common with the R Line, we're operating trains four trips per hour. Where the-- and then
+continuing across clockwise, going to the Southwest quarter, the Southwest E Line will be maintained at
+four trips per hour. And then on the Southeast quarter where the E and H lines are common to one another,
+we'll be operating four trips per hour.
+In the Central Corridor going up, we have eight trains per hour operating on the Central Corridor where the
+D line-- the D and H line are common. And then on the West Corridor, we have four trips per hour being
+offered. And then the CPV, or Central Platte Valley, we're offering six trips per hour to Denver Union Station.
+So with that, moving forward, we want to describe this as a number of trains per hour comparison of May
+to September to give you an idea that, again, this is an increase in service and not a decrease, or things
+are remaining the same. So comparing current levels of service, looking at the Central Corridor, we are
+increasing trains currently from six trains to eight trains per hour. The R line is maintained at two.
+Returning service to the Downtown Loop on the Central Corridor, we are going to 10 trains per hour from
+0. And then with the increase on the L Line-- or the return of the L Line, we're going to four trains per hour.
+So not to go through every single line of this, but to instead point out some other changes that are notable.
+We had the Ball Arena/Elitch Gardens towards the bottom of the page in the first column. We are reducing
+the level of service there, and that's because of the fact that we're going back downtown with the D and the
+
+H lines. But you'll also see that Colfax at Auraria at the bottom of the page, again, in the first column, we
+are increasing from zero trips back up to six.
+So overall, I would want to state that, again, the modification to the plan is not a reduction in service overall,
+it is an increase. It just isn't at the level that the initial plan was. However, we think this fits better with our
+efforts to try to increase reliability on the Light Rail Network and to adapt to the changes that we're seeing
+with slow orders and other maintenance activities. Next slide. And with that, that ends our presentation.
+TROY WHITMORE: Thank you, gentlemen. I do appreciate that, and especially the enhanced
+communication component as well. And I learned a new word tonight. Transfluxes. We had 2,215 of them,
+Stuart. Pretty impressive. So new word for the simple mind here. Other comments or questions from the
+Committee or any other Board members on this matter? Director Rosenthal.
+PAUL ROSENTHAL: Thank you, Mr. Chair, and thank you very much, Jessie, Stuart, and Fred. By the way,
+is it OK if I just say first names? Is that OK? Or do we prefer last-- all right.
+So first of all, thank you very much for all that hard work on those service changes. So to be exact, what is
+the exact date in September that this is going to be going into effect? And perhaps we might include that in
+any PowerPoint or discussion or publicity so folks know it's not just in September, that there's an exact
+date. Is it the 1st, is it the 5th, or what have you?
+JESSIE CARTER: Chair, if I might?
+TROY WHITMORE: Please proceed.
+JESSIE CARTER: Director Rosenthal, I apologize. I should have mentioned the fact that it is September
+29, which is different from the initial time frame, which was September 15. We are looking at September 29
+for this service change.
+PAUL ROSENTHAL: Thank you. And then-- so do we have the people power to increase the services from
+60-minute frequency to 30-minute frequency on the trains?
+TROY WHITMORE: I do see that GM/CEO Johnson has her hand raised. Perhaps she'd like to address
+that.
+DEBRA JOHNSON: Thank you so much, Mr. Chair. I'm going to yield the floor to Mr. Jensen. He's online
+as he can talk about the people power, but one thing I wanted to qualify in reference to Director Rosenthal's
+previous question about the specific date, we didn't elaborate as to why the date was changed.
+The reason why the date was changed from September 15 to September 29 is because we were working
+with our union partners. We wanted to ensure that we could complete critical projects to minimize impacts
+to our customers.
+So we would have a schedule to which we could adhere to increase schedule adherence. And so that is
+why the date was changed as opposed to going forward with the 15th and doing modifications and not
+managing the customer expectations by not having trains arrive when the schedule said they would arrive.
+So I just wanted to provide that context, and now I will yield the floor to Mr. Jensen. Thank you.
+TROY WHITMORE: Mr. Jensen, proceed.
+
+DAVE JENSEN: Yes, good evening. I am Dave Jensen, AGM of Rail Operations. And the short answer is
+yes, we have the personnel to be able to provide this service. And in fact, I would point out that our overall
+head count for light rail train operators has increased.
+But there's always the caveat. It's very close and it's very tight. We can make service today, but the
+absentee rate are variables that come into play. We don't have enough operators for large to extra board,
+if there are large numbers of employees that call in sick, for instance, or if there are unforeseen
+circumstances on the system, then it's possible that we would lose a trip or so. So we do have the head
+count, I think is the short answer that you're looking for right now today as it stands.
+PAUL ROSENTHAL: And I believe we're going into Charlene's presentation where there are-- I believe it's
+11 more train operators are going-- they're graduating. So we will be adding to that number, but I do get
+what you're talking about, that it's still a tight number who can operate the trains.
+Given that-- and we've gotten some feedback from the community, that we should be at 15-minute
+frequency and intervals. Is that something that, even if we wanted to with this service change, we would
+not be able to do given our people power? And I do understand that there are different lines, and the L is
+going to be 15-minute, but some of the others will be 30, for example. If we wanted to, would we be able to
+given our people power?
+TROY WHITMORE: Mr. Jensen?
+DAVE JENSEN: Yeah, that's a good-- that's a good question, thank you for that. I would point out what you
+did. First of all, if you look at the map that was showed on the Powerpoint, that the section of track between
+Southmoor and North is getting 15-minute service, which is more than the majority of what the E Line
+serves. To answer your question, though, we could provide 15-minute service, but that would stretch us
+very thin. It would be the same as it was early last year, where it was extremely tight.
+So we could provide service, but would have zero flexibility for service restoration and very little flexibility
+for anybody calling in sick at all. So it would be very tight and we would not be performing as well as we
+would be right now with the schedule that we're proposing.
+PAUL ROSENTHAL: And then-- I know I'm asking a lot of questions, and I apologize for that, but perhaps
+just a final one. And I know this is something our-- and perhaps our General Manager might relay. Why-and this is something, again, we've also heard from the community is, why do we have three service
+changes a year? And perhaps you might also compare with other transit agencies which may have maybe
+more or fewer service changes a year, and then perhaps relay why does that work for RTD? Thank you.
+DEBRA JOHNSON: Mr. Chair, if I may, I will start.
+TROY WHITMORE: Please.
+DEBRA JOHNSON: So, recognizing that we do have three service changes per year, there's a myriad of
+reasons as to why there is a service change. First and foremost, we want to ensure that we're giving our
+employees an opportunity to bid on work shifts. We do this in a manner in which it is equitable. We leverage
+seniority and other aspects that are negotiated and that are contained in a collective bargaining agreement.
+The reason as relates to the timing that's traditional in transit service delivery is that we have seasonal
+ridership. It is customary to have service changes at the beginning of the year, typically in the December-
+
+January time frame due to the fact that it's after the holiday season and generally people are going back to
+school and back to work.
+Recognizing the end of the school year is generally in the May-June time frame, service changes usually
+occur at that time to accommodate the transition in ridership, as well as not providing as much service to
+various activity centers. Then once again, service changes typically take place in the fall for the reasons I
+outlined, recognizing that school may be in session and people are back from vacations.
+In my experience, which is just my experience, at the seven transit agencies at which I've worked, there
+typically has been three service changes. In some instances, you can have an agency that may have a
+fourth maybe to do some cleanup, but it's customary to have three service changes a year. And what's
+critically important about that is that you would not want somebody operating the same route, the same line
+on a continuous basis without having the opportunity at looking at different options for a work shift.
+And so that is why we do that, because it's important for the safe delivery of transit. It provides work
+schedules that are mandatory subject of bargaining. So that would be my question. Mr. Worthen, did see
+your hand. I don't know if there's anything else-- you're good?
+FRED WORTHEN: No, ma'am, you hit everything that I was going to say.
+DEBRA JOHNSON: It's not my first rodeo. Thank you.
+[LAUGHTER]
+TROY WHITMORE: All right, thank you all. [LAUGHS] Director Harwick with his lasso going there. All right,
+thank you all. Director Ruscha, you're next in line. The floor is yours.
+JOYANN RUSCHA: Thank you, Mr. Chair. So just a question about the-- or I guess maybe it's a comment
+regarding this change in date for our September service changes to the 29th. I have a concern that school
+starts-- like for DPS, for example, it starts the 19th. That's the same for Jefferson County. And then
+Westminster is August 13.
+And so unless I misunderstood staff, we're not having schedule changes-- you're not going to be
+implemented at different times for trains and buses, it's all going in at once. And school will have been in
+session for four to six weeks by the time some of these students have school tripper services. I just wanted
+to make sure that's where we are.
+TROY WHITMORE: I see Fred Worthen's hands raised. Perhaps he would like to address the-FRED WORTHEN: Yes, I would, and thank-TROY WHITMORE: --question.
+FRED WORTHEN: Thank you for asking that question, Director Ruscha. Yes, you are correct, school will
+be in session. We do have the ability, and typically what we would do is build special trips within our system
+to be able to accommodate the extra services that are needed to accommodate individuals who are
+traveling to school and other areas. And typically, our service change dates can float as much as two weeks
+before or after a given date that's normally set anyway.
+
+So typically, if we push a service change backwards, we'll do what we call manual orders. We will build
+those trips within our system and we will assign extra board operators to do that-- do those services. And
+thank you for bringing that up. We failed to mention that we intended to handle those services that
+traditionally provide extra service in that manner.
+JOYANN RUSCHA: If I may, just a follow-up for clarification, Mr. Chair?
+TROY WHITMORE: I forgot to take myself off mute, but I'll go back to mute, you still have the floor.
+JOYANN RUSCHA: Thank you, sir. And I presume it's OK to just direct dialogue. So I just-- just so I
+understand, we do-- so we do have the capability to go ahead and reinstate school tripper services before
+the 29th. What wasn't clear is that something-- is that a decision that staff has made for sure? Have we
+evaluated that fully? And then would that be part of our recommended action, just for clarity, at the Board
+meeting next week?
+DEBRA JOHNSON: So Mr. Chair, if I may, and then I will yield the floor to my colleagues that are assembled
+here that are the SMEs in this area. So going back to the previous question the Director Rosenthal had
+asked relative to our service changes, I do want to qualify that we provide tripper service. School trippers-we do not provide dedicated school bus service as that would be a violation of the Federal Transit
+Administration because we provide public transit services.
+So as it relates to trippers, when we look to see where there could be an influx, this is within staff's ability,
+being transit service professionals, to deploy services. It's no different if we had gap trains recognizing that
+we needed to clear a platform and things of the like, and so that's why we have the extra board. So I just
+wanted to qualify for everybody that words matter because RTD does not provide school trippers, we
+provide tripper service. With that, I will yield the floor to Mr. Worthen to further address the question. Thank
+you.
+FRED WORTHEN: Thank you, Madam CEO. To answer your question, Director Ruscha, no, there is not
+any to make any special amendments to this. We have done this in the past many, many times whenever
+we have adjusted the service schedule date to accommodate the extra services that Ms. Johnson has
+alluded to. And yes, we do intend to implement those services as we normally would in conjunction with the
+peak service needs that we have seen in the past.
+TROY WHITMORE: Director Ruscha, further questions?
+JOYANN RUSCHA: No-- no further questions. So I just wanted-- just to-- at this juncture, for-- I'm just-- I'm
+going to be a no vote on this one. It came as a surprise, and as a mom of a kid who, until graduated high
+school, depended on these school tripper services, and just recognizing where some of these schools are,
+I need to sit on that one, although I absolutely understand and respect that this might be our practice.
+So I just wanted to disclose why I'm going to be a no vote on the changes, and it is specifically related to
+this issue, and I felt it was appropriate to disclose why. And I also appreciate staff for their thoughtful and
+detailed response. Thank you, sir.
+TROY WHITMORE: All right, thank you very much. I see no further hands raised regarding questions for
+this matter. So-- oh, there's Director Rosenthal. Go ahead.
+PAUL ROSENTHAL: And I'm so sorry, and perhaps this is a better question for Michael Davies, but perhaps
+General Manager or somebody might relay, how are we going to communicate this to community leadership
+
+and folks-- for example, legislators, the PUC, the Governor, let them know a little bit more about some of
+the efforts that RTD is doing to provide increased and improved service?
+DEBRA JOHNSON: So thank you very much, Director Rosenthal. Mr. Chair, I apologize, if I may proceed?
+Thank you very kindly. So the very detailed presentation that Mr. Summers gave relative to our
+communications efforts, we include everyone from the vantage point-- when I say everyone, various
+stakeholder groups.
+Additionally, we provide updates through our lobbyists where we are giving vital information to members of
+the legislature about what we're doing. As it relates to the Public Utilities Commission, this is not of a safety
+aspect, but we do keep them apprised as we move forward with various things that impact transit service
+delivery.
+And so with that, I have Mr. Stuart-- Mr. Stuart-- Mr. Summers, whose hand is raised, and he can talk more
+specifically about how we have targeted communication tactics for varying audiences. Mr. Summers?
+STUART SUMMERS: Chair Whitmore, if I may. Just to add a little finer point to what Ms. Johnson was
+saying, Director Rosenthal, I mentioned that we had sent an email early in this feedback process to more
+than 800 community-based organizations. I failed to also mention that we included elected officials in that
+e-blast to ensure that they had that information and asked them to share it with their communities, post it
+to their social media.
+And then also, Mr. Michael Davies sent emails and follow up communication to elected officials to ensure
+that they were well-aware of the proposed service changes, as well as the Downtown Rail Reconstruction
+Project and Coping Panels Projects, and updates that have been happening over the last approximately
+two months. So we've been trying to be very highly communicative to these different stakeholders,
+especially those in the municipalities in which the district resides.
+TROY WHITMORE: All right. Thank you both for that input. Any other questions? All right. I will call for the
+vote. We will do a roll call vote on this matter. Vice Chair Bouquet, how do you vote?
+JULIEN BOUQUET: I'm a yes.
+TROY WHITMORE: Thank you. Director Harwick?
+IAN HARWICK: Yes.
+TROY WHITMORE: Director Lewis is absent. Director Rosenthal?
+PAUL ROSENTHAL: Yes.
+TROY WHITMORE: Director Ruscha?
+JOYANN RUSCHA: Unfortunately no.
+TROY WHITMORE: All right. Director Sloan is absent, and I am a yes vote. Motion passes 4 to 1 with two
+absent and Director Ruscha in the negative on this matter. All right, that's all for action items. We do have
+several items on the presentation side of things discussion items. Item E. The first one is Language Access
+Plan Update. And we will ask Carl Green, Jr., Director of Civil Rights Division, to rejoin us, along with Dani
+
+McLean, Transit Equity Specialist, to present this item. Carl, go ahead. Carl, you are muted. Looks like
+you're unmuted now. No?
+CARL GREEN, JR: All right. Good evening again, Board Chair Whitmore and fellow Board of Directors.
+Apologies. Again, my name is Carl Green, Jr., Director of the Civil Rights Division. I have the distinct
+pleasure of introducing one of my teammates and primary presenter for this discussion item, Dani McLean,
+Transit Equity Specialist. I'd just like to highlight that Dani first started with RTD back in March of 2022, and
+she has not skipped a beat with shepherding the development and implementation of RTD's Enhanced
+Language Access Plan, along with the cross-matrix of staff throughout the agency.
+I can recall speaking with our General Manager and CEO Johnson when I first started back in 2021
+regarding our language access efforts, and I can happily report that we as an agency are moving in the
+right direction from a systematic-- or systems-level perspective with improving our language access for our
+linguistically-diverse customers. Before I yield the floor to Ms. McLean, I'll briefly go over the-- excuse me.
+I'll briefly go over the outline for tonight's presentation.
+First, we'll provide you with a brief overview of why RTD prioritizes language access among its equity efforts
+from a federal and regulatory compliance perspective. And next, we'll go over at a high level the progress
+to date of what we have done with fulfilling our 2022 Language Access Plan, as well as the three-year
+implementation schedule.
+And then finally, we'll provide some initial thoughts as we look ahead to the upcoming 2025 Title VI Program
+and Language Access Plan Updates. At this point in time, I'll now yield the floor to Ms. McLean.
+DANI MCLEAN: Excellent. Thank you so much, Carl. Good evening to the Board of Directors and to my
+fellow esteemed RTD staff. I am delighted to be here today. So to kick off the remainder of the presentation,
+I want to start with talking about what language access even is and how RTD structures its language access
+work within the agency.
+So language access is rooted, unsurprisingly, within Civil Rights, specifically Title VI of the Civil Rights Act
+of 1964. You just heard about it in the previous presentation by Mr. Romero, and I'm sure you've heard of
+it before, but Title VI prohibits discrimination on the basis of race, color, or national origin.
+Now you may notice that race, color, or national origin don't include language. So where does language fall
+within Title VI? Well, it wasn't until 1974, specifically the Supreme Court case Lau v. Nichols, where it was
+determined that the national origin class and protected category of Title VI includes language, it includes
+English proficiency.
+Therefore, amongst the other classes protected by Title VI, language is protected, and therefore, federallyfunded agencies like RTD have to ensure meaningful access to individuals who are not English speakers
+to be compliant with Title Vi law. Next slide, please.
+So the core of language access and language access protections are non-English speakers. And my
+preferred terminology here is linguistically-diverse customers, which you may have heard Carl already use,
+and I'll talk about that in just a second. But this term non-English speakers is really rooted in the US Census
+definition of who is a Limited English-Proficient persons, or LEP persons, as you may have heard.
+So the very explicit definition of LEP persons are those folks who speak english, quote, "less than very
+well." So a customer can be non-English-speaking, or LEP. If English is not their primary language. They
+
+cannot read, speak, write or understand English. Or, more generally, their language status poses a barrier
+to them in accessing social services such as public transit or health care, for example.
+One thing that I would note-- and this gets back to my preferred terminology of linguistically diverse, the US
+Census description of a LEP, or even the term non-English speaker, it doesn't really touch on individuals
+where perhaps they prefer-- or the language of their heart is a different language other than English. And
+so that group is left out in a lot of the language access efforts, as described by compliance measures like
+the FTA Circular. But we really want to include those individuals in the work that we do in language access.
+So in addition to that, I do want to make a note. Non-English-speaking customers and persons can be
+anybody. They can be born on US soil, they can be us citizens. They could be born abroad, or they could
+be coming in from the airport on the A Line as tourists or perhaps doing business in Denver. Or, as we've
+seen more recently with the influx of newcomers-- i.e., refugees, immigrants, or asylum-seekers, who have
+very strong language needs and who tend to be more linguistically diverse. So just keep this in mind
+because we don't want to have a stereotypical or cliche idea of who may be a non-English speaker and
+who may not be.
+And then one last thing that I would say on this slide-- and I know there's no visual for this, I apologize for
+it, but we know that there's approximately 270,000 people within the service area who qualify as the US
+Census LEP individual. So 270,000. That's approximately 7%. It doesn't sound like a lot, but when you do
+the math, that comes out to about 1 in 14 individuals.
+So you fill up an RTD bus to capacity, you're going to have a handful of folks who cannot speak-- or
+communicate in English in that bus. So just to highlight the importance of this.
+Unsurprisingly, Spanish is the top language of our linguistically-diverse communities at about 70%,
+specifically of the LEP population, followed by a pretty steep drop-off with Vietnamese and Chinese,
+including Cantonese and Mandarin, at about 4% And then we have Russian and Korean at 2%. And those
+are just the top 5 of the 21 safe harbor languages that we have identified in the service area. Next slide,
+please.
+There we go. Thank you so much. So the language access process here at RTD effectively follows a threeyear cycle in tandem with our Title VI program update. So this past-- and current session, I should say, is
+2022 to 2025. So this three-year cycle is really built and specified within the FTA Title VI Circular. And the
+Title VI Circular Number 1 specifies that we need to conduct a four-factor analysis.
+So the four-factor analysis is a fancy way of referring to data collection. We need to have data on the
+language needs of our service area in order to provide meaningful language access to these individuals in
+order to provide language assistance. So for instance, the four-factor analysis includes the number of LEP
+persons within the service area. Or another example would be the number of interactions or the frequency
+of interactions that frontline staff have with linguistically-diverse individuals. So that's the four-factor
+analysis. We last conducted that in 2021 to 2022 for our current Language Access Plan.
+So, once the four-factor analysis is complete, then we create the Language Access Plan. And this was
+completed in 2022, pretty shortly after I came on board. It was quite the rush. And this really specifies how
+RTD is going to provide that language assistance to linguistically-diverse person, And we'll talk more about
+that in a second.
+
+And currently, our current phase that we're in is that implementation phase, because the plan doesn't mean
+much if you're not implementing the plan. So from 2022 all the way to next year in 2025 when the next
+update will occur, we're implementing all the tasks that are listed in the plan and monitoring our progress,
+which is part of the reason we're presenting to you here today. Next slide, please.
+So here to the left is an itty bitty image of our Language Access Plan. So as I mentioned, that was finalized
+and adopted by the Board on May 24 of 2022. So it's a 60-page document, and that excludes approximately
+100 pages of exhibits. And exhibits include things like US Census maps of the demographics in the service
+area, as well as our Language Access Frontline Staff Survey that we distributed and collected in 2021, I
+believe it was. And this is a great expansion of-- from the Language Access Plan of 2019 to 2022 that was
+only about 19 pages long. So this is the backbone of our language access work.
+And I want to say, too, that the Language Access Plan, yes, it is a requirement of the FTA. We have to
+provide this as part of our Title VI program. But we really also want to ensure that it moves beyond
+compliance and really focalizes on it's the right thing for us to do to serve our community and to make lives
+better through connections by focusing on language assistance and prioritizing language access. So next
+slide, please.
+All right. We've talked about the background for language access, where it comes from, how we administer
+it. So let's actually dive into a little bit of the content of the Language Access Plan from 2022 to 2025 and
+the progress made thus far. Next, thank you.
+So the plan is structured around the four guidelines that you can see on this slide. And these can be found
+on Board Packet page 186. And under the four guidelines are the language access-related tasks that the
+agency isn't intended to pursue until 2025.
+So the first guideline, or chapter, as it were, is regarding the administration of the Language Access Plan.
+So how we update and monitor the plan. The second guideline is about the actual provision of language
+assistance. How RTD provides that meaningful access to our linguistically-diverse customers. So that
+includes things like translation of documents and signage, for example, or providing interpretation at events.
+Now 3, guideline number 3, which may seem similar to guideline number 2, is providing notice of that
+language assistance. Essentially, how do we communicate and advertise the availability of language
+assistance to our customers? And then finally, training programs. So this has been a huge focus of this
+cycle's Language Access Plan. And this is how RTD trains our employees to provide language assistance,
+overcome language barriers, and communicate in a culturally competent way. Next slide, please.
+So, under these four guidelines of the language access plan, there are 38 separate tasks. And I know that
+sounds like a lot. And it is and it has been. But I'm very happy to report that as of June 1 of this year, all of
+the tasks were, at a very bare minimum, started. And more specifically, 74%, about three-quarters of the
+tasks, are considered by our team to be complete or ongoing-complete. And then about a quarter, which is
+10 of the tasks, are still in progress.
+And just to provide a little bit of clarity on what we mean here, what's complete versus ongoing-complete.
+So when a task is complete, we consider that it has an end product or an end result that's very specific and
+tangible. And so if it's complete, then we mark it as complete. Whereas ongoing-complete, the task itself,
+it's not necessarily an end product or a result, but something that occurs on an ongoing basis.
+
+For example, we have a task that somewhat-- it says translate vital documents. Translation of vital
+documents is an ongoing thing, therefore, we consider it to be ongoing-complete. And then obviously tasks
+that are in progress have work still to be done. Next slide, please.
+So I wanted to highlight and recognize some of the activities that we have done in order to accomplish the
+38 tasks within the plan. So starting with prioritizing outreach. Our team, the Transit Equity Office, we have
+made a concerted effort to conduct outreach to multilingual, multicultural, and really newcomer-focused
+organizations because these are the organizations who tend to have the most language assistance needs
+in relation to a lot of other social needs as well.
+So for example, here to the left, you see a little image. I took this image-- this was at a travel training that I
+conducted in collaboration with DRMAC and the group Empowering Communities Globally. And we actually
+taught about 70 women from all over Asia and Africa-- and they were just women with some of their children- how to use our programs and services.
+And that was a very, very fun and meaningful event to me in which we provided-- you can see headsets
+being worn in which we provided interpretation and translated materials in three different languages. But
+beyond that, we've worked with many other organizations that have similar missions. So I would highlight
+Hope Communities, Spring Institute, Servicios de La Raza, which is noted here, and others in which we've
+attended newcomer resource fairs, shelters, and so on and so forth.
+The second item here I want to really highlight and celebrate is the increased usage that we've seen of
+telephonic interpretation. So our RTD staff had access to LanguageLink, which is a telephonic interpretation
+service, prior to my arrival in 2022. But the problem was, it wasn't advertised that telephonic interpretation
+existed to customers, and our staff really didn't know how to use language-- like, there really weren't
+instructions around for customer care, for example, to use that service.
+So, unsurprisingly, we just had one call, and that was in, I believe, Mandarin Chinese in calendar year 2022.
+And then after Training Customer Care how to use that service, after adding some advertisements about
+the availability of telephonic interpretation across our system, that increased to 115 calls in 2023. And I'm
+happy to report that in 2024, thus far, as of today specifically, we've had 80 calls using language link
+telephonic interpretation. Next slide, please.
+Language access activities continued. So, I mentioned prior training-- training was a big focus of our
+Language Access Plan. And it also behooves me to note that many of the activities I'm talking about today
+are first-of-their-kind activities here at RTD. For example, the relationships that I highlighted on the previous
+slide, those are not relationships that RTD has historically had, and we've now cultivated those relationships
+with those organizations and individuals.
+This is very similar in that we did not have training on how frontline staff interact with linguistically-diverse
+persons or how they overcome a language barrier. And so in 2022, we established the first-of-its-kind
+Serving Non-English-Speaking Customers training module. To the left here, you can see me delivering that
+training-- or I should say a portion of that training to the Impact Team, which was a wonderful experience.
+But in the first cohort that we identified to receive this training, we've achieved 80% completion, and that's
+about 1,500 people. So our initial cohort that we identified was about 2,000 RTD frontline staff.
+Another effort, translating vital materials. So initially our How to Ride guide was only available in English
+and Spanish. I have since worked with marketing and communications to produce the How to Ride guide
+
+in 26 different languages. So that includes our 21 safe harbor languages in addition to five that we've
+identified are important to the newcomer community.
+The How to Ride video is another one where it was only available in English and Spanish. And we worked
+with communications to produce that in Vietnamese and Chinese, as well as correcting the Spanish version,
+just a few little errors here and there. And then I would highlight, too, we're really focusing on supporting
+other teams, other business units that historically have not received a lot of language access support,
+namely market development with discount programs, and Access-a-Ride. So translating Access-a-Ride
+documents and assets in addition to our own team's Title VI in-house documents that we have.
+And finally, some remaining activities I'd like to highlight. So we establish the first-of-its-kind Language
+Access Program web page, rtd-denver.com/language-access. Again, it's just improving the visibility of this
+work at our agency and really highlighting that this is important to us. On that page folks can request an
+interpreter, they can request translated documents, and read our Language Access Plan if they so wish.
+We also produced-- and I should say, this is very important to me, is producing resources and tools that
+our staff can use to help overcome language barriers. So here to the right-- and it's a little small, I apologize,
+but this is called an "I Speak" card. And you may have seen this at a health care facility, for example. But
+the idea is essentially that an RTD frontline staff member who's interacting in person with a customer has
+the I Speak card. And they can ask the customer, if a language barrier is present, to identify the language
+that they speak so that the RTD staff can better assist them in the language of their heart.
+And then perhaps most visibly, Next Ride, the RTD website, these have been published with a built-in
+translation widget that uses DeepL. So specifically, they're available in Spanish, simplified Chinese,
+Vietnamese, and Russian, and we will work to have those available in more safe harbor languages to follow.
+Finally, the sign at the bottom. So this is an example of us essentially going above and beyond what's
+required of us by the FTA. This is a language assistance dedicated bus interior card that we have put across
+our fixed-route bus fleet. And it essentially says language assistance is available at no cost, and how to
+access that telephonic interpretation.
+The icon that you see here to the left was created in collaboration with community partners. We actually
+had community members vote on the icon that they felt was most representative of language access. And
+so that's just a fun little tidbit and example of how we're really trying to incorporate community into this work.
+Next slide, please.
+So after all of that being said, I will say, I am very excited about the language access work that's happening
+here at RTD. I do feel that we have made pretty great strides in strategizing this language access work. So
+there are a few things that I have top of mind as we move from our current Language Access Plan into our
+next Language Access Plan starting in 2025 to 2028. Next slide, please.
+So the first thing that I want to be very clear on is that the 38 tasks within the Language Access Plan do not
+represent a ceiling that we cannot surpass as an agency. Instead, this is very much foundational work. This
+is the floor on which the agency can continue to improve upon our language access efforts.
+Now part of that is really centering the voices and the needs of the individuals who need language access
+the most, and this specifically is our newcomer community members, right. So immigrants, refugees,
+asylum-seekers. Working with these organizations and these community members will really allow us to
+
+understand if our language access efforts are being effective and if they're even connecting to the people
+that they're intended to.
+The second is seeing how RTD can shift from this mindset of simple language access, of achieving perhaps
+compliance with the FTA, and moving beyond that and maybe consider, how can we start achieving true
+language justice instead of merely language access?
+So for example, how does RTD proactively pursue activities that include linguistically-diverse individuals
+from the get-go-- from the beginning of our activities and public engagement, instead of just emphasizing
+the removal of barriers? Instead of emphasizing, hey, interpreting interpretations available if you need it,
+what can we do beyond that while acknowledging an individual's right to communicate in the language that
+they're most articulate in?
+And finally, one thing I would say, too, we want to make sure, in the effort of continuous process
+improvement, that the plan tasks are smart. Specific, measurable, attainable, relevant, and time-bound, just
+so we can make sure that there is great clarity on what we are achieving, and that what we're doing is
+measurable in 2025 and beyond. Next slide.
+With that, I would conclude this presentation. I'm very grateful and excited to be here. And I would just really
+like to highlight that this work, language access work is very much part and parcel of us producing that
+welcoming transit environment that we talk about. Our mission is to make lives better through connections,
+and that's true of all people, regardless of their background, their identity, and the language they speak.
+And so we want to ensure that our transit system is a welcoming and dignified and inclusive environment
+for all, and this is just part of achieving that goal. So, I want to thank you. And now I would love to open the
+floor to any questions, comments, or feedback.
+TROY WHITMORE: All right. Thank you, Dani. A tremendous presentation. I just wish you had a little more
+energy for us. Tongue-in-cheek there. Real easy to listen to. Wonderful presentation. Great progress.
+Director Harwick, the floor is yours.
+IAN HARWICK: Hi, Dani. I just want to say thank you so much for that presentation. That was one-- just
+amazing. I work for the City of Denver during the day, my day job, and we see how much work's going on
+over there and it's complemented just so much by the work that you all are doing, and I just want to say
+thank you
+And just-- I just-- obviously English is my first language, but I can't imagine coming to a new city, a new
+country, and starting from a place of not knowing, and just for you all to be able to be there in so many
+different places is really-- just really outstanding. So thank you for going above and beyond. I'm just really
+proud of the work that you all are doing. Thank you.
+DANI MCLEAN: Thank you so much, Director Harwick. That means a lot to me.
+TROY WHITMORE: Well said, Director Harwick. Sorry, I was muted because I'm trying to be quiet and let
+the real good presenters talk. Director Rosenthal.
+PAUL ROSENTHAL: Thank you. And I just want to echo that really-- Dani, your presentation and all your
+efforts and your team's efforts are exceptional. And thank you for that. And perhaps I'm drilling down a little
+bit with my question, but the MyRide app, how will that be adapted in light of the work that you're doing?
+DANI MCLEAN: If I may, Chair Whitmore?
+
+TROY WHITMORE: You may.
+DANI MCLEAN: Sure. I'm actually going to pass the baton off to Mr. Summers, Stuart Summers, because
+he was just talking about this earlier today in an all-staff meeting, essentially the idea of adjusting our apps,
+including the MyRide app, to be an all-in-one app. And, of course, we would want to make sure that
+language access is part of that. So Stuart?
+TROY WHITMORE: Go ahead, Stuart.
+STUART SUMMERS: Yeah. Thank you, Chair Whitmore, and thank you for the question, Director
+Rosenthal. So right now we're doing a scope of work to investigate what it would take to create one app to
+rule all apps. We have our Transit Watch app, we have our Next Ride app, and we have my MyRide app.
+And it is a barrier for individuals to access our services-- I talked about this, I believe, at last month's
+Operation Safety and Security Committee meeting about just our increased need to ensure that we're
+providing communications in real-time in the way that customers need it. Language access will be part of
+that exploratory exercise.
+And our plan is to put together a scope of work of what we want an app to do, and then put those plans into
+place and see what it would take to actually make them happen as soon as possible so that we can better
+support our customers instead of having them use multiple applications.
+TROY WHITMORE: Yes, I do recall you mentioning that last month. I think that is really a step in the right
+direction, to simplify if we are able to do so. Other questions from the group regarding this presentation? If
+not, we'll move on. Dani, Carl, thank you very much. Great work. Great, great work.
+All right, let's shift to people with power now. Human Resources Update, Quarter 2, 2024. Turn the floor
+over to Charlene Polege, Chief People Officer, to present this item. Charlene? Oh, we are muted, Charlene.
+CHARLENE POLEGE: Of course we are. So Charlene Polege, Chief People Officer, thank you for that,
+Chair Whitmore. I'm assuming am able to be heard at this point?
+TROY WHITMORE: Good on my front.
+CHARLENE POLEGE: Great so I've asked John McKay to run the slides because as we know, sometimes
+I have technical difficulties. So trying to eliminate those for the Committee. I'm here today to talk about Q2
+Human Resources Update.
+In our Human Resources Update-- next slide, please, John, we talk about our HR Dashboard, which really
+is comprised of recruitment and retention efforts that remains-- those two areas remain our primary focus.
+So kicking off with recruitment, I'll move into the Overall Recruitment and Separation Dashboard to orient
+you because we report this quarterly, it's constructed quarterly, and we're looking at the results for Q2.
+What you can see here is that at the end of Q2, June 30, 2024, we had 2,943 active, full, or part-time
+employees. So this is employees, and this data excludes any contracts-- any contractors, pardon me. That's
+against-- if we put that against our budgeted-- 2024 budgeted full-time and part-time employees of 3,457,
+that gives us a 15% vacancy rate. That represents a 2% decrease from the prior quarter.
+
+And when we look at this, we break it down a bit further, I think we can see here, there's a 41% increase in
+the number of hires in Q2 relative to Q1 with 227. Conversely, though, we do see a-- I think it's roughly a
+17% increase in separations over that same comparator period of quarter to quarter.
+However, as I think I just want to ground, a green is good on this slide. You'll note that the Q2 separation
+is yellow. So it's pointing up because we've had an increase in separations. It's yellow and not red because
+we were able to net a 20% net over the same quarter of 2023. That's really driven by the increase in hire
+activity. Next slide, please.
+So as we drill down further, again, we focus on Bus Operations and Rail and Transit Police, our real
+frontline-supporting positions. So when we're looking at bus operations, I'd like to highlight, I've made a few
+changes to this reporting, and I just want to draw the Committee's attention to that. These changes were
+made at the request of Committee members who were looking for just a little bit more detail to help get a
+more fulsome understanding of the data.
+So the first thing I'll draw your attention to is with our full-time operators. This number shows a 9-point
+increase from Q1 to Q2. So that's the new graph in the bottom-right section of each area. And so we've had
+a 9% increase, which would take us up to a 96% staffed full-time operator positions. That does include 87
+trainees.
+So what's key here is that those-- that doesn't equate to we have 96% fully staffed, ready to go, and able
+to be out in the district providing service. So I do want to make that correlation. If we were to back out-- just
+anticipating a question, if we were to back out those 87 trainees, that would put us at 86%, and that's 86%
+of operators who are available to serve the district.
+The reason why we have them included, though, is because it's against budgeted positions, and these 87
+trainees are occupying a full-time bus operator position, they're just happening to be-- happen to be in their
+trainee stage.
+Moving on, then, to Maintenance General Repair. Here, we've actually had a 4-point decrease over the
+previous quarter. So at this point, we're at 82% staffed. To orient you, though, because of the ratio is relative
+to the number of budgeted positions, this represents a decrease of two positions.
+With Service and Cleaning, a marginal increase at 91% staffed. We are currently-- have eight vacancies
+for Service and Cleaning positions within Bus Operations. Our part-time bus operator remains flat, so you'll
+see no metric that indicates any trainees or any quarter-over-quarter metric.
+When we look at the Maintenance Body Shop, again, we've had, similar to the Maintenance General Repair.
+we had a 3-point decrease. That represents one position. So we had one of those-- 109 separations were
+within our Maintenance and Body Shop positions. Overall, though, bus operations against budgeted
+positions had a 1-point increase to 88%.
+Moving on, then, to Light Rail. The same-- using the same format in each slide, you'll see that the Light
+Rail-- and I believe, Director Rosenthal, you had alluded to it earlier in one of your questions, we certainly
+have seen an increase in light rail recruitment. We currently have 20 trainees in various stages of their
+operator training. That brings the light rail training to 94%. That's a 7-point increase over the previous
+quarter. Similarly, if I was to back out those 20 trainees, that would bring the overall staffing rate down to
+84%.
+
+When we have light rail maintenance, we've had a slight increase of 1% there. That, in this instance,
+represents the addition of four additional positions. Service and Cleaning had a slight drop there down to
+87%. No change in our full-time train operators. And our Maintenance of Way, though, had significant
+movement here. At each reporting, for those who remember last year, every quarter had no change in this
+category. It was very difficult to recruit to.
+The Talent Acquisition Team has made some targeted adjustments in recruiting, partnering with
+representatives of the Rail Operations Team, and we've also added additional talent acquisition partner
+focusing on these positions. So we've seen 11-point increase over the previous quarter.
+Just to break that out, some really critical additions. We were able to hire eight signal traction power
+maintainers. This has been historically, in my short time at the agency, a very challenging position to fill.
+And then also, additional track maintainers. So much-needed Maintenance of Way staff added here and
+the efforts continue. Overall, the light rail staffing-- overall staffed rate has increased 4 points and currently
+6-- as of June 30-- I shouldn't say currently because it changes daily, sits at 86%
+So moving, then, on to commuter rail, really, in commuter rail, we haven't seen a significant change from
+the previous quarter in any of the categories other than rail laborers. Again, the rail laborer position for
+commuter rail has been challenging to fill, but we have had some success there, and that current staffed
+rate sits at 87%. The overall staffing rate, though, at commuter rail remained unchanged and sits at 85%.
+Next, I want to talk about Transit Police. So the first thing I would draw your attention to is that out of the
+four-- out of the five job classifications, we see that they are 100% staffed against budget. In particular with
+Transit Police, because we are growing the Transit Police Department, I really want to highlight that these
+are against budget. This is no-- by no means should we step away from here with the perception that we
+are completely staffed for the full build-out. We are completely staffed for commander, sergeants,
+lieutenants, and corporals against 2024 budget-- so what we had targeted for.
+I made a slight addition-- a slight edit here and really highlighted sworn officers. So you'll see-- conversely,
+this is contrary to the previous slides. We have-- this number of 83% excludes the trainees. It does not
+include it. Why is that? Why are we doing this differently? Because there is a real distinction with our sworn
+officers as opposed to those who are currently going through their training. They can't be referenced as
+officers until they are post-certified, until they have been sworn as officers, and so we wanted to make that
+notation here.
+That said, we have seen an increase of 13 percentage points since the previous quarter. I can also say that
+we anticipate, with these 11 trainees, assuming they all make it through their training, I believe we will only
+have four sworn officer positions vacant against the 2024 budget. So that leaves overall the Transit Police
+Department, against budget for 2024, at 96% staffed, so that's a 12-point increase.
+So moving on, then, from recruitment, let's dive a little deeper into our retention numbers. So year-overyear turnover comparison. So we're looking at Q2 of 2023 against the same quarter in 2024. As previously
+highlighted, we have had a 17% increase in total separations. However, you'll see that the split between
+involuntary and voluntary is relatively stable with the Q2 2024 involuntary rate at 20% and voluntary at 8%.
+When we look down to break down, we talk about our reasons. So-- next slide, please-- voluntary turnover
+by reason, a little bit of changes this year-- this quarter, pardon me. What actually I'd like to flag here, most
+of these reasons have actually decreased. What has adjusted this rating is dissatisfied with job.
+
+This change is, I'll say, significant because it's really driving-- it's an 8-point increase from the previous
+quarter. So we certainly have seen an uptick in-- although not represented here in my research that I do
+every quarter to look at these numbers, of those that are dissatisfied with the job, 40% are bus operators,
+which would, then, reflect some of the differences that we're seeing.
+And I think AGM Worthen was referring to it, that number of 96%, it's constantly changing. We've got
+trainees and we have individuals who are on leave. And we also have some individuals who don't make it
+through training and/or who don't stay. Of those 40% who are dissatisfied with the job, they were hired
+within the last 48 months. Next slide, please.
+Lastly, I want to look at the involuntary turnover by reason. Unfortunately, as happens from time to time in
+respective quarters, we regrettably had two of our employees pass away in this quarter. And so that
+represents an increase of involuntary turnover. The other numbers are relatively stable except for, we have
+violation of attendance policy has decreased significantly, but we're seeing an increase in job performance.
+So the HR Team is working with the Operations Team to try to see what's driving that. Usually when you
+see such a flip on the axis, the first place we go is to make sure that we're accurately capturing because
+these are reasons that the supervisors and managers are able to identify when an employee indicates that
+we're looking to terminate an employee.
+So I'll take a deep dive-- deeper dive into this, but as of right now, 64% of the involuntary turnover is directly
+related to job performance. That represents the HR report and overview for the recruitment and retention
+metrics for Q2. And I'll pause, and I'm available for any questions.
+TROY WHITMORE: Thank you, Ms. Polege. Very good presentation. I like the reformatting and real easy
+to understand. So especially helpful to see some upward trends and doing better each and every quarter.
+Questions, comments from the Committee? I do not see any, believe it or not, Charlene.
+CHARLENE POLEGE: Oh.
+TROY WHITMORE: Oh! Of Course!
+PAUL ROSENTHAL: Sorry.
+TROY WHITMORE: Director Rosenthal is not going to-PAUL ROSENTHAL: I'm sorry.
+TROY WHITMORE: No, don't apologize.
+PAUL ROSENTHAL: You know, I try to ask questions that are direct and relevant. So hopefully this will be
+as well. Charlene-- and maybe just to fine-tune what you said, we saw a decrease in attendance-- people
+leaving because of attendance involuntarily, and then an increase in performance issues. Is it possible that
+some folks were-- whereas they might have called out before, but now they're coming to work and they're
+not in the right mindset or what have you, and that might affect their performance?
+CHARLENE POLEGE: Sorry-- sorry, Chair. Thank you. That's a difficult question for me to answer because
+I don't have that information to understand what's driving that increase in the job performance. What I will
+say is there's a couple of things that have changed over each quarter.
+
+So we do have an increase in-- sorry, I lost my train of thought. We have concluded manager and supervisor
+training, which is not intended to increase involuntary separation, but it is intended to ensure that we are
+communicating, that we're engaging in dialogue, that we're addressing any challenges that we may have
+from a service and/or performance perspective in a timely fashion.
+I don't know if that's driving it. Unfortunately, I don't know if it's because people previously would have been
+calling out and then actually are coming in and not being in the right frame of mind. What I do know is it is
+such a significant change and a flip that it warrants further investigation, and we are looking at that in HR
+to explore it.
+So I wish I had a more concrete answer, but at this point, 24 days in from the results, I couldn't-- I would
+hate to speculate on what that is. What I do know is the 20% is important. What we also track is we don't
+want to see a huge spike in involuntary as opposed to voluntary either. So that is sitting at pretty consistently
+around 20%, but we will look into that.
+PAUL ROSENTHAL: Thank you. And just an observation as well. One of-- the number one issue, actually,
+that I hear about in community, especially as I go door-to-door, et cetera, is the safety issue. And I have to
+say that as I go to, particularly our light rail stations and Union Station, that I'm seeing a dramatic increase
+in the presence and involvement of our Allied Universal and our Transit Police.
+And I think that is contributing to an overall sense of safety. And so your efforts on recruitment and retention,
+I think, are paying off. We just need to continue to work on that. And thank you to you and your team and
+to General Manager and everyone for really focusing on that.
+And just one more point about Union Station. I mean, just-- there's discouraging folks from even sitting on
+the floor. It's clean. It's beautiful. I see the bathrooms are open. Just so folks know, it's a dramatic difference
+and improvement over about, what, a year and a half ago when-- the words that we were constantly hearing
+was crisis and that sort of thing. So I really want to commend you and everyone for that kind of work for on
+our safety. Thank you.
+CHARLENE POLEGE: Thank you. Chair Whitmore, Just-- if I could, just want to say, I'll definitely pass on
+from a recruitment perspective the acknowledgment because that team that's really driving all of that work.
+But I would also be remiss if I didn't highlight that the employee survey also supports what you just said,
+Director Rosenthal, in that I recall presenting to this committee sometime last year and discussing the
+employee results in particular around safety, and I know GM Johnson talked about that.
+And the numbers have increased exceptionally, but they're not where we want them to be because I think
+I recall saying at that time every employee of RTD and every customer deserves a right to be operating in
+a safe and healthy environment. And so the efforts are there for sure, and we're not going to take our foot
+off the pedal, so to speak. We're going to continue to do that work. So good kudos as well to the Transit
+Police Department in those efforts.
+PAUL ROSENTHAL: Thank you, and I completely agree. Appreciate it.
+TROY WHITMORE: Thank you both, and I do appreciate, Ms. Polege, you mentioning the employee survey
+aspect. That's really the true measurement. That and obviously what we hear from our constituents in our
+respective districts. So I do not see any more hands raised.
+So before I move to other matters and open that floor up for that, I just wanted to recognize, again, the hard
+work of Directors Ruscha and Harwick who provided a great presentation last month on Vision Zero. It was
+
+clear to me at the end of the meeting that there's strong interest among Committee members to explore
+further what actions this Board can take and to consider to advance the cause of safety.
+So given this interest, I endeavored to follow up on the matter with our Board Chair and GM and CEO. We
+met earlier this month to discuss potential concepts, to include in a future action by the Board of Directors.
+And in the course of that conversation, I was reminded that RTD is already helping to lead on this issue by
+being an ally in action since April of 2023 with the US Department of Transportation International Roadway
+Safety Strategy.
+And from what I understand, this strategy provides-- prioritizes the safe system approach, much the same
+as Vision Zero, efforts do. I also walked away from that meeting hopeful that we could work with staff and
+Directors Ruscha and Harwick to identify the tenets of this resolution through this Committee or elsewhere.
+And certainly we'll move forward in considering-- so this fall, the resolution, the way I see it, would recommit
+RTD to a safe systems approach, provide a call for directors to engage with their fellow elected leaders at
+the local, county, and state levels to further advance the causes of Vision Zero.
+And I believe the hard work of our Directors Ruscha and Harwick, they have done so far has raised our
+collective awareness, and I appreciate that immensely, on this specific topic, and I look forward to
+continuing to learn more from them and others on the ways that directors can lead in making RTD and the
+environments that we operate safer for all.
+And to that end, the Board Office has informed me that all signs are pointing for us to be discussing this
+item as a group at the regular July full Board meeting, which is already coming quickly next week, I believe,
+on the 30th. OK. With that, are there any other directors, Committee members with other matters to discuss
+this evening?
+All right. Well, I'm going to take one chair's prerogative here, something that we don't do as a group of
+leaders often enough before we wrap up, and I just want to take a moment to give a big shout-out and send
+thanks along to the community servants that serve as our RTD employees. This has been a tremendously
+busy time. Tremendously busy week. I'm sure staff thinks it's Friday at 5:00 PM, and we're just to
+Wednesday.
+But I just want to give a shout-out to GM/CEO Debra Johnson, General Counselor Council Snyder, John
+McKay, who's done so much work behind the scenes, AGM Fred Worthen, CPO Polege, Jessie Carter and
+Service Development, Carl Green and Division of Civil Rights, as well as the Board Office, everyone's hard
+work pulling these materials together over the last couple of days, the last couple of weeks, and the last
+couple of months. We appreciate the presentations from AGM Stuart Summers.
+Also, additional thanks to people that we haven't heard from that much, but I have a hunch we will in the
+future. And Martin Romero and Dani McLean who presented wonderfully tonight.
+And thank you also to Visible Voices for what they do for us. That's not an easy job. And I do appreciate
+them immensely providing a service to where we communicate in the utmost manner.
+All right. With no meeting in August, the next Operation Safety and Security Committee meeting is
+scheduled for Wednesday, September 11. With that meeting, our work plan has it slated to consider actions
+to procure a wheel truing machine, as well as cameras for our light rail vehicles.
+Additionally, we'll have some discussions related to the January 2025 Service Changes. Our Public
+Transportation Agency Safety Plan, more commonly referred to as PTAS. and on the horizon for a meeting
+
+soon will be a check-in related to the System Optimization Plan. And the Committee may or may not be
+discussing Vision Zero depending on what the full board decides to do with that action with discussion next
+week.
+So with that, no more discussion on the agenda. I will declare this meeting adjourned at 7:17 PM Mountain
+Time. Thank you all. Great meeting. Good job, staff. Have a pleasant evening. Meeting adjourned.
+PAUL ROSENTHAL: Thank you, everyone. Thank you, Mr. Chair.
+JACK KROLL: Good night, everybody.
+
+

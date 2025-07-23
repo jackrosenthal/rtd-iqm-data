@@ -1,0 +1,147 @@
+## I. Call to Order
+
+Chair Sisk called the Study Session to order at 5:30 P.M.
+
+### 1. Roll Call
+
+Director Anderson participated via phone but left early.  Director Hoy arrived late.
+
+Staff Present:              Bruce Abel, Shirley Bennett, Rick Clarke, Sherry Ellebracht, David Genova, Terry Howerter, Austin Jenkins, Erin Klaas, Marla Lien, Doug MacLeod, Barbara McManus, Vivian Morales, Paula Perdue, Scott Reed, Walt Stringer, John Tarbert, Mike Turner, Bill Van Meter, Phil Washington
+
+Others Present:              Cecelia Garcia, Doug Gragg, Sherman Hamilton, Joe Triplett, Gary Van Dorn, Monte Whaley
+
+## II. General Manager 2015 Tactical Plans
+
+Phil Washington, General Manager, introduced the Proposed Tactical Plans for Strategic Goals and Priorities determined at the March 1, 2014 RTD Board/Senior Leadership Team Advance as presented starting on page 3 of the Study Session Board Packet for April 22, 2014.  The four priorities that were determined at the Advance are:
+
+- Advancing/Completing FasTracks
+
+- Fiscal Sustainability/Financial Plan
+
+- Improve Service Delivery
+
+- Implement Technological Advancements
+
+Chair Sisk reminded the Directors the discussion was directed at goals for 2015 and encouraged any questions regarding the 2014 goals and budget to be taken off line.
+
+Questions/Comments from Board Members:
+
+Director Tobiassen called Sherie Skinner, Manager for the Transportation Operating Division, the best resource in bus operator retention due to her attitude and leadership. He then commented on Information Technology (IT) and Smart Cards saying that he looks forward to improving the interface with customers through mobile technology and smoothing out the customer experience.  He shared his experience of waiting in line for a half-hour at King Soopers to buy a book of passes for a friend.  He noted the current external point of sales experience discourages customers from purchasing bus passes and affect the most vulnerable that rely on them.  He also added how a Smart Card or a web interface purchase would help the process be more customer-friendly.  He said that he looks forward to IT asset management through preventive and predictive maintenance.  He referenced the operator camera, which records 20 seconds of video during erratic driving and sends the footage to supervisors, as great technology for behavior modification.
+
+Director Menten pointed out that some West Line funds were wasted in esthetics when they could have been used towards more necessary items. She asked the staff’s opinion on using city and other funding sources on unnecessary items.  Marla Lien, General Counsel, answered that what is esthetic versus what is necessary is subjective; she explained that the Federal Transit Authority (FTA) requires that all Full Funding Grant Agreements (FFGAs) use 1% of the funding towards art.  Some local communities, including the City and County of Denver, also have local art requirements.  She noted that other features like landscaping, green space, trees, etc. are required through codes and zoning.
+
+Director Menten asked for an update on the naming rights discussion the Board had previously.  She mentioned she is open to the idea of naming rights while emphasizing the necessity to avoid confusion.  Mr. Washington answered that the naming rights came out of the Fiscal Sustainability Task Force.  IMG Consulting was chosen by a Request for Proposal (RFP).   He said they presented to the Board an inventory of assets and are now working on establishing each asset’s value.  Scott Reed, Assistant General Manager for Communications, noted he is meeting with IMG Consulting in two weeks.  Staff and IMG will present updates to the Board throughout the process prior to any vote.  He also acknowledged the presentation was a bit confusing and took responsibility for not clarifying.
+
+Director Menten asked for a spreadsheet on the real property owned by RTD and acknowledged it could take a while to put together.  Mr. Washington said such list was provided to the board 6 to 8 months ago and could be redistributed.  Director Menten asked Mr. Washington to resend the list as she recalled the list presented to be limited.
+
+Director Menten mentioned that when speaking about changing rail hours she thinks we should reduce hours as she is not sure who rides after 11:00 P.M.  Director Menten asked when the Directors would know about possible schedule changes for bus or light rail.  Mr. Washington answered that he is in conversations with Bruce Abel, Assistant General Manager for Bus Operations, and Austin Jenkins, Assistant General Manager for Rail Operations, for the August, 2014 and January, 2015 schedule changes.  He explained that the goal is to provide more maintenance hours.  He said that further information will be presented over the spring and summer.
+
+Director Menten wondered if RTD pays anything for the Google Trip Planner.  Mr. Reed noted the Google Trip Planner is a free, open source application where RTD provides the data every time there’s a service change.  With the DUS opening, the RTD Trip Planner will be eliminated and the Google Trip Planner will become the main tool.  He shared that staff is working on a  new open source RTD Trip Planner, which will include information tags such as parking information.
+
+Director Lubow asked about charging patrons to use RTD parking facilities and what State law is regarding the matter.  Mr. Washington said RTD has a parking management plan under which the first 24 hours of parking are free to residents of the District.  He stated that at this time there are no plans to change the parking management plan.  Ms. Lien added that 2013 legislation allows parking charges if the facility is operated by a third party and the funds are not directly paid to RTD.  The legislation also allows for leasing of RTD parking facilities to third parties.  No proposal has been received and any proposals would come to the Board for approval.  Mr. Washington said that RTD is listening to the market in regards to third parties leasing parking space and the option is not ruled out.  Director Lubow also asked about the maximum amount of routes that RTD can contract out to private companies.  Mr. Washington said the maximum is 58% and RTD is currently at 56%.
+
+Director Lubow asked if there have been conversations with the Northwest Corridor stakeholders about cost sharing or if it is too early to have such conversations.  Mr. Washington acknowledged that the Northwest Corridor stakeholders may be hesitant to commit to cost sharing because of the current lack of funding for the corridor; however, he said that cost-sharing has been part of the conversation for 10 years.  Mr. Washington gave examples from the City and County of Denver and Aurora, where overmatching has gone beyond hard cash into waving permit fees, right-of-way, etc.  Director Lubow asked how the funds from naming rights would be used.  Mr. Washington said that is a conversation for the Board to have.
+
+Director Daly commended the investment for the Light Rail Simulator as a great use of money for safety, noting a recent BART (Bay Area Rapid Transit) accident where maintenance of way employees were killed due to a poorly trained operator.  He reminded the Board of the service cuts that took place two years ago.  He noted General Manager Washington’s mention of looking to expand operations.  Director Daly asked if staff would take suggestions from the Board regarding re-evaluating some of the lines that were lost.  Mr. Washington answered in the affirmative saying every suggestion will be looked at in terms of the service criteria of ridership and business decision.
+
+Director Solano noted he has received positive feedback on the performance of route 104X.  He also said he is glad that one of the objectives is for matching funds.  He pointed out the issue of possible unincorporated areas in Commerce City.  Mr. Washington replied he didn’t know the specific area mentioned and that it could be an annexation issue.  Chair Sisk asked Director Solano to resume this conversation with staff offline.
+
+Director Walker noted much of the efficiencies in the document are already incorporated into RTD practices.  He asked staff about any foreseeable external influences for 2015.  Mr. Washington noted that the most important external influences are financial.  Two tools used to mitigate the external financial influences are First Southwest Company as financial advisors and the quarterly Sales and Use Tax forecast from the Leeds School of Business.  Ms. Lien added other areas such as the Federal Government not funding some requests, changes to the American Disability Act (ADA), and other changes in policy that could affect RTD.  Mr. Washington also mentioned some changes are due to safety such as the requirement for all trains to have Positive Train Control (PTC) by December 31, 2015 as a result of the Los Angeles Metrolink accident.  Most agencies have to retrofit without funds in order to comply.  RTD is building FasTracks using PTC technology.
+
+Chair Sisk interjected to thank the Directors for their questions and not repeating each other.  He also thanked the staff for the thorough answers.
+
+Director Deadwyler was surprised to see some of the 2015 bullet points as she thought they were supposed to be implemented in 2014, specifically automated call backs, phone systems, etc.  Mr. Abel noted most practices will be implemented by the last quarter of 2014 and the goals for 2015 are to expand and support implementation.  Director Deadwyler mentioned she tried using Access-a-Ride for a shared trip with her cousin who is also her constituent.  She said reservations didn’t know how to do that so she had to be transferred to scheduling.  She suggested that coordinating trip sharing and transporting people going the same direction, i.e. same school, should be a goal in order to be more efficient.  Mr. Washington said he had no problem adding this to the plan and asked for staff to look into it.
+
+Director Foslka apologized for breaking order during the naming rights discussion and thanked Mr. Washington for his proactive approach.  She noted that while there are always unforeseen circumstances that require people to react there is a lot of value and cost savings in being proactive.  She suggested the Denver Regional Mobility and Access Council (DRMAC) as testers of the IT customer interface.  She also encouraged being mindful of purchasing accessible software and to have a third party audit its accessibility.
+
+Director Folska asked staff if Automatic Train Stops (ATS) is tied to the control rooms.  Mr. Jenkins answered that the train depends on the operator to stay on the track, but the ATS technology would stop the train if there is a signal violation.  Director Folska noted that the simulator cost per user is very nominal and that safety is of the utmost importance.
+
+Director Hoy noted that some goals overlap.  He suggested Quick Response (QR) Code technology as a great way of providing information at bus stops; he said this is something that seems to be missing from the apps he has seen.  Director Hoy expressed concern that every bus company is trying to reinvent the wheel.  He thinks that there must be a way that RTD can work with other agencies to fine tune their apps rather than create our own.  Director Hoy stated that the ultimate goal is to make people feel comfortable stepping onto public transportation.  Mr. Reed shared that RTD does just that; we have third party mobile apps on our website that are thoroughly tested, ensuring that only the best apps are available for the customers.  He also said a mobile website is being prepared so it can be fully functional on mobile devices without compromising the full website’s functionality.
+
+Director Anderson thanked the staff for the great and ambitious work.   She said she would be sending her questions via email. She commented on her attendance at the State of the City of Arvada Luncheon and how the community is very supportive of RTD and FasTracks.  She shared that there is such a willingness to work together to get FasTracks finished.  She also noted that the City of Arvada has overmatched funding.  At this time Director Anderson excused herself from the rest of the session.
+
+Director Bagley asked Paula Perdue, Executive Manager of the Board Office, to explain the next steps in approving the General Manager’s Tactical Plan.  Ms. Perdue replied the next step is a meeting of the General Manager Oversight Committee by mid-May to ensure the goals are specific, measurable, assignable, realistic, and time-related (SMART).  Director Bagley asked the Directors to please send any further comments via email to Ms. Perdue prior to the committee meeting.
+
+Chair Sisk concluded the discussion saying that his issues to pay attention to are the Transit Oriented Communities (TOC), Transit Oriented Development (TOD), and the Smart Card.  He thanked Mr. Washington and the staff for all their work.
+
+### 1. GM 2015 Tactical Plans from Strategic Planning Session
+
+##### a. GM Memo on Tactical Plans
+
+##### b. Enclosure 1 - Advancing and Completing FasTracks
+
+##### c. Enclosure 2 - Fiscal Sustainability Financial Plan
+
+##### d. Enclosure 3 - Improve Service Delivery
+
+##### e. Enclosure 4 - Implement Technological Advancements
+
+##### f. 2014-04-22 GM Tactical Plans
+
+## III. Tiger Grant Submission
+
+Bill Van Meter, Assistant General Manager for Planning and Mike Turner, Manager for Planning Coordination, presented the United States Department of Transportation’s Transportation Investment Generating Economic Recovery (TIGER) Discretionary Grant Opportunity submission starting on page 28 of the Study Session Board Packet for April 22, 2014.  Bill Van Meter stated that there are two submissions staff will be making which are:
+
+- Capital Grant for the Central Rail Connection
+
+- Planning Grand for the Northwest Area Mobility Study (NAMS) II
+
+Mr. Washington noted that the first TIGER application, for the Central Rail Connection, emphasizes the historic African American Community of Denver, how the area was known as the Harlem of the West and how the line would connect the area with business and employment centers to the east and downtown.  RTD has been pursuing letters of support from the Congressional Delegation as well as area churches, organizations, businesses, etc.  The City and County of Denver will contribute funds.
+
+Mr. Van Meter noted the second TIGER application will ask for planning funding for Northwest Area Mobility Study II concentrating on CO 119 and HWY 287 as Bus Rapid Transit (BRT) corridors.  CO 119 was chosen by the stakeholders, who allowed RTD to choose the second corridor.
+
+Director Bagley mentioned he is extremely supportive of the TIGER grant submission from the capital project standpoint.  He wondered if there needs to be Board authorization for submission since the applications are due April 28th but the NAMS presentation is not scheduled until May.  Mr. Van Meter answered the Board authorization is not needed.  Director Bagley said he understands the need to move but noted that the Board has not seen the final recommendations from the first NAM Study.  He expressed concern with a submission for the grant without Board recommendations.  Mr. Washington said that timing was not ideal and staff really struggled with how to best proceed.  Stakeholders’ prioritizations became final last week as there was no set date beyond spring, 2014.  Mr. Van Meter added that the idea for the TIGER submission first surfaced at the end of February/beginning of March, 2014; at that time the original application submission deadline was June, 2014.  He said DOT recently moved the deadline to April which has really affected the timing.
+
+Director Tobiassen mentioned that the TIGER grant seemed like a great opportunity.  He noted that there had been some discussion about replacing light rail with trolleys.  He wondered about the status of this discussion.  He expressed concern that we might build something now that could be torn down in a few years.  Mr. Van Meter answered that the application is for light rail technology.  Mr. Washington added that the community is on board as they are concerned with connectivity no matter the mode.  Mr. Turner said that the community expressed they wanted the project sooner rather than later.
+
+Director Tobiassen shared his struggle with the huge investment downtown that is pushing out the very people that RTD is trying to effect or help.  He pointed out that this is currently happening with the Denver Rescue Mission; they have been in the same location for years and suddenly everyone wants to get rid of them.  Director Tobiassen stated that he does not want to see something similar happen in Five Points and asked staff to make it clear that the culture/fabric of the community would not be changing as part of the application.
+
+Director Daly said he also was concerned about the streetcar but if the community will not object to the light rail we should go ahead with the plan.
+
+Director James said he was very supportive of the Central Corridor and sees the potential for economic development for the area.  He asked for the amount asked for each application.  Mr. Washington said that the average award for capital projects ranges from $10 million to $20 million.  Mr. Van Meter added that the planning grant is for $1.5 million.
+
+Director Lubow asked if RTD has to find additional funding for the grant and if so, where the funds would come from.  Mr. Van Meter answered that yes, RTD is responsible for additional funds.  These funds would come from the City and County of Denver as well as FasTracks.  Director Lubow noted that the planning grant would set RTD up to ask for a capital grant in the future.  She wondered how often TIGER grants happen.  Mr. Van Meter said the TIGER grants have happened every year since 2009.  Director Lubow asked if there was a date of project completion required for the grants.  Mr. Van Meter said that there was but that he didn’t have the date readily available.  Mr. Washington noted that the Directors going to Washington, D.C. for the APTA Legislative Conference in March, 2014 was very worthwhile.  He said that if the definition for BRTs is changed as requested, this will enable staff the ability to pursue federal dollars after the planning steps are complete.
+
+Director Hoy shared some of the concerns Director Bagley expressed about the Directors not having input prior to the application.  He noted both the CO 119 and HWY 287 corridors are north/south corridors leading to a lack of east/west connections to I-25 and the North Metro Line.  Mr. Washington told the Directors that the selection of CO 119 and HWY 287 does not indicate lack of consideration for other corridors.  TIGER criteria changes every year and HWY 7, an east/west connection, could be pursued in the future.
+
+Director Solano shared Director Hoy’s concern about an east/west connection.  He shared a recent conversation with St. Anthony’s Hospital staff as they expressed such a connection to be important to them.  He also said he understands where staff is coming from and as long as that connection is still in consideration, he felt comfortable moving ahead.
+
+Director Folska shared the same sentiment as Directors Bagley and Hoy, especially since she thought the NAMS results would be presented to the Directors by the end of the first quarter of 2014.  She noted that people commenting on the NAMS report in the newspaper without the Directors having reviewed the report is troublesome.  She said that arterial BRTs without access to the North Metro or the Northwest lines could be problematic in the long run if the BRT definition doesn’t change. Mr. Washington explained the timing of the NAMS was a dynamic process.  He further noted that the planning piece needs to happen regardless of where the money comes from and that’s what this application is for.  Mr. Van Meter added that BRT language does not influence all grant applications; once planning is done other available pools of funding will be researched as necessary.
+
+Chair Sisk said he was disappointed and caught off guard with the Director response to the NAMS II grant application.  He didn’t want the constituents and stakeholders to hear that they couldn’t apply for a TIGER grant due to timing as the stakeholders should be applauded and not taken to task.  He also mentioned he was delighted about the Central Corridor’s wonderful opportunity.
+
+Director Bagley noted that the reason RTD has the current staff is because they are trustworthy. He said if they decide to move forward with the TIGER application it is because they considered it the best decision.  He stated that as Directors it is right to query the issue but reiterated his respect and support for the staff and their decision to move forward.
+
+### 1. United States Department of Transportation TIGER Discretionary Grant Opportunity
+
+##### a. BoardBrief_TIGER_20140422
+
+## IV. Update on Market Street Development Deal - No Backup
+
+Marla Lien, General Counsel, reminded the Board that RTD will be vacating Market Street Station on May 11, 2014 with the DUS opening.  She said that RTD has been a rent free tenant of Market Street Station since 2011 when RTD sold the property to the City and County of Denver (the City) to help fund DUS.  She explained that when the property was sold, RTD entered into a purchase of sale agreement with the City who entered into a purchase of sale agreement with the Union Station Neighborhood Company (USNC).  She stated that RTD retained an easement for 20 parking spaces, utilities and loading dock.  This means that should anything need to be relocated it would be at the developers’ expense.
+
+Marla Lien said that the developer has the right, not the obligation, to buy Market Street Station by December 31, 2015 if they purchase the remaining 5 parcels from around DUS.  She shared that the developer just entered into an agreement to purchase Block B, the last remaining parcel, by July 30, 2014, so staff anticipates they will be positioned to buy Market Street Station from the City.  RTD will not receive any money from that purchase; RTD already received its funds with the selling of the property to the City.  She stated that staff does not know what the developer plans to do with the land but she believes it is zoned for a 5 story office building.
+
+Director James asked about any potential plans for office space for RTD Headquarters.  Mr. Washington said he has commissioned a task force to look into potential options in the next 6-8 month.  The task force will then present their findings to the Board.
+
+## V. Other Matters
+
+Director Bagley reminded the Directors that the General Manager Surveys are due on April 28th.
+
+Director Foslka asked Director Tobiassen to share the story of an RTD bus operator chasing a criminal with his bus.  Director Tobiassen said the event started at Centre Point Station when a bus operator noticed someone stealing a purse.  The operator followed the perpetrator with his bus to the Aurora Library parking lot while communicating with the Aurora Police Department in the process.
+
+Director Tobiassen asked how Senate Bill 197 (Matt Jones bill) passing through Congress would impact the US36 High Occupancy Vehicle (HOV) lanes.  Ms. Lien replied that it won’t impact the US36 project because that contract is signed.  She explained that the bill is targeted at Public-Private Partnerships (P3s).  This means that if RTD wants to do more P3s in the future, then there would be multiple layers of process and reviews that would be required before any project could be implemented.  Mr. Washington said RTD stands neutral on the matter.  Director Tobiassen said that if there was an opinion he would be happy to pass it along to his representative.
+
+Mr. Washington acknowledged a letter received by the Board from the US36 Mayors/Commissioners Coalition (MCC).  He said RTD can agree with most of the items in the letter; staff will prepare an answer noting this as well as the items RTD can’t agree with which are:
+
+- Railroad crossing quiet zones are not RTD responsibility as RTD is not responsible for freight noise
+
+- Re-evaluation of priorities i.e. not pursuing any more FasTracks except for Northwest corridor since this puts in jeopardy safety, state of good repair issues, and the authority of the Board
+
+Chair Sisk reminded the Directors about the DUS Employee Party on Saturday, April 26, 2014.
+
+Director Menten noted she had a question about the General Manager’s Report but would take if offline.
+
+## VI. Adjourn
+
+Chair Sisk adjourned the Study Session at 8:01 P.M.

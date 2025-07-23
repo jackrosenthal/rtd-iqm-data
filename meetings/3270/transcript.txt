@@ -1,0 +1,932 @@
+2021-06-24
+GM Oversight & Performance Management
+Committee
+VINCE BUZEK: Great. Thanks. Welcome, everybody, to the June 24, 2021 GMOC meeting. It's 2:59 PM
+on June 24. I will call the meeting to order. I don't think everyone's here. But if they come on, we'll
+recognize them when they do. I'll call the roll. I see Vice Chair Sloan.
+MARJORIE SLOAN: Here.
+VINCE BUZEK: Director Catlin.
+PEGGY CATLIN: Here.
+VINCE BUZEK: Director Dishell.
+BOBBY DISHELL: Here.
+VINCE BUZEK: Director Bouquet.
+JULIEN BOUQUET: Present.
+VINCE BUZEK: And do we have Chair Rivera-Malpiede? How about Director Lewis?
+BARBARA MCMANUS: I don't see either yet.
+VINCE BUZEK: We'll wait for them to come-- we won't wait. They'll come on, I'm sure.
+All right. So we've got a few things to hit on the agenda. I hope everybody had a chance to take a look at
+that.
+I also want to recognize Director Williams is here. Our General Manager Debra Johnson is here. Our
+Board Admin Barbara McManus and a number of other people I see. Oh, is that? Where'd he go? There's
+Director Rosenthal is here. And a few other people. Pardon me for not calling out everybody by name.
+Anyway, so the first item on our agenda is a presentation by TransPro. Before we get started, do any
+Directors have any questions?
+Director Dishell.
+
+BOBBY DISHELL: Thank you. I forgot about my virtual hand. I just raised my normal hand.
+We had discussed previously and I noticed in the agenda specifically where it comes to the financial
+sustainability piece, the issue with spending less money than we receive. By definition today we would fail
+that goal next year, due to the amount of federal funding we have received this year that we are planning
+to spend over time. So there's an issue that comes in with when is an item received and what is it spent,
+based on accounting. Same goes for sales and use tax, right? If we receive everything, we might not
+receive our quarter three sales and use taxes until the next January.
+And so I do have some concern about using language-- I understand the purpose is to make the
+language understandable, but our accounting is so complex that when an item is received and when it is
+spent is not so straightforward. And I don't want us to set ourselves up for failure because we wanted to
+come off as we pass a balanced budget, which we do. But it's not based on when dollars are received,
+and when do you count the receipt of the ARPA grant?
+VINCE BUZEK: Good question. Good comment. Mr. Aesch, Ms. Johnson, do you have any response to
+that?
+DEBRA JOHNSON: Yes, actually. Thank you very much, Director Dishell. I know you broached that at the
+Board workshop on June 5. And as we stated, we went back and we looked at that. And Mr. MacLeod
+has been working in tandem with Mr. Davidson, who had broached that same issue. And we came to an
+agreement amongst those two, and we will talk more about this at the retreat and speak more in depth
+about it, that as we look at what we're doing as it relates to draw downs, that does not impact the
+overarching element of what is prescribed in reference to the success outcomes. And so Mr. MacLeod
+can elaborate on that when we're all together on Saturday.
+BOBBY DISHELL: Great. Thanks.
+DEBRA JOHNSON: Thank you. You're welcome.
+VINCE BUZEK: Are you good with that, Director Dishell? Was that good?
+BOBBY DISHELL: If our CFO is good on it, I'm good on it.
+VINCE BUZEK: Yeah, I hear you.
+I also want to recognize Chair Rivera-Malpiede has come, and we also have Director Tisdale, I believe,
+on the line. Thanks for joining us.
+OK. And if there's no other questions, I guess I should check my thing here-- no, I don't see any. Good.
+Let's start our presentation. I know we have some people from TransPro here. So why don't you guys hit
+it?
+
+Super. Thank you, Mr. Chairman. Joined by a couple of faces that you have seen in the past. Ehren
+Bingaman from our team is on, as is Amanda Skeene. And I'll be turning to Amanda. During the course of
+our presentation, this committee had asked specifically for a demonstration of the technology that you
+would be able to use to conduct your performance review of the CEO. I know we had given you
+screenshots previously just to give you sampling of other clients that we have used that technology for.
+And so you'll see a presentation today of the actual technology that you'd be using in conducting the
+performance review for your CEO.
+So with that, Amanda, if you might so kindly present some slides for me, I will guide the committee
+through the conversation.
+DEBRA JOHNSON: Mr. Aesch, I think she may have dropped off, as I'm looking at the participant list.
+MARK AESCH: Nice.
+BARBARA MCMANUS: I don't—
+DEBRA JOHNSON: She was there just a minute ago. Technology, we're flexible and agile.
+MARK AESCH: Indeed. Let me just check and see what I can find out.
+And Ms. McManus, do you happen to have our presentation that we shared with you? Perhaps you can
+present for me and I can narrate, and hopefully our team can catch up.
+BARBARA MCMANUS: Let me see if I can pull that up, I don't-- I have it up but on a different computer,
+so—
+MARK AESCH: Sure.
+BARBARA MCMANUS: --I can't share right at the moment.
+MARK AESCH: While we're working on technology, let me set the agenda for our conversation, Mr.
+Chairman, if I may. So there's essentially three topics for the committee's reflection, which is different than
+consideration. So we're presenting three topics for your reflection and welcome your feedback and
+comments on.
+The first would be how the Board would handle the General Manager and CEO's performance review
+from their start date in November of last year, 2020, through their anniversary date of 2021, so through
+the early part of November of 2021. As you'll recall, Mr. Chairman, the Board had expressed an interest in
+how do they essentially do a performance review really tied back to the job description and the personal
+
+attributes of your General Manager and CEO. So that's the first agenda item. And we'll give you a
+framework as to how we would recommend, for your reflection, that process for this first year.
+The second agenda item would be for the fiscal year, which would start January 1 of '22 and run through
+December 31 of '22. And the objective there is to begin to tie the GMOC and the entire Board's
+performance review of your CEO and General Manager to the performance of the organization, to line the
+performance review process up with the annual year as it ties to the organization itself, kind of the way
+you'd evaluate your CEO.
+And then the third agenda item, which we have for your reflection, is to share the agenda for the Board's
+retreat scheduled for this Saturday. So those are the three agenda items which we have in front of you.
+Ms. McManus, if you might be so kind as to drive.
+DEBRA JOHNSON: And Mr. Aesch, I would just like to share that Miss Skeene has joined.
+MARK AESCH: Oh, terrific. Amanda, I know that you've got kind of an up-to-date and we want to go into
+the Wizard. So perhaps if we can change presenters, that will allow us to do so in a flawless way when
+we get to that point of the presentation.
+And thank you for narrating for me, Madam CEO.
+DEBRA JOHNSON: You're welcome.
+BOBBY DISHELL: Mr. Chair, if I may while we're transitioning.
+VINCE BUZEK: Yes, go ahead.
+BOBBY DISHELL: I apologize. I knew I had another question. For those of us 5 or 15, so a third of the
+Board, when we're doing the evaluation for the 2020 to 2021 year, we really are only qualified to give our
+assessment for 5/6 of the year, given that we were not on the Board in November and December. And yet
+we are being asked to evaluate her perform-- GM CEO's performance for November and December.
+How have you all handled that? Will our scores be discounted? I just want to make sure that we are being
+fair in that process, because it's not fair to evaluate someone when I was not their manager.
+VINCE BUZEK: Right. Mrs. McManus, can you give us some historical perspective there?
+BARBARA MCMANUS: Yes, in the past we have, the full Board has always weighed in. Of course we're a
+little bit off cycle right now. I would say that it would be up to each of the Directors and how they feel they
+should be weighted. And I don't know how TransPro might, I don't know how TransPro would manage
+that.
+
+But for example, when a Director comes on Board and they are sworn in on the first meeting of the year,
+whatever that January date is, the expectation with some of the trainings that we've done, as well as them
+attending any previous meetings, are expected, unless they want to abstain, to vote on all items going
+forward. So I would say whatever the comfort zone is for each of the Directors, we would have to manage
+that with those individually.
+DEBRA JOHNSON: And Mr. Chair, if I may, from my perspective as the evaluatee, for all intents and
+purposes, in my experience in reviewing staff, there's always a instance where you may have a team
+member that's relatively new. And usually for all intents and purposes, I operate from the vantage point, if
+they've been there at least 3/4 of the year that I look at that as being holistic for the simple fact it's 75% of
+the time in which they were there. And recognizing I did come in December, I was acclimating myself. So
+for all intents and purposes, I personally don't feel as if the newer Board members are at a disadvantage.
+Thank you.
+BARBARA MCMANUS: Yeah. I'd also like to add that everybody was presented with the information of
+the expectations that CEO and General Manager Johnson brought forward in her 120-day documents.
+And I think all could go back to that to see if they're comfortable with the milestones that CEO Johnson
+has hit from start to finish in that short period of time prior to January 1.
+DEBRA JOHNSON: Thank you, Miss McManus. But as a point of clarification, we've collectively agreed,
+as it relates to the job description, so that could be a guiding tool. But for all intents and purposes, what
+we're putting before is consideration of what the evaluation criteria will be, which are those elements that
+are being extrapolated by the job description put forward at you all's direction Krauthamer & Associates.
+So I'd just like to make sure that we're speaking the same language in reference to what the basis for the
+evaluation will consist of. Thank you.
+VINCE BUZEK: Right. Thanks. Director Dishell, does that help?
+BOBBY DISHELL: Yup, that helps. And I'm good for a fully weighted evaluation. Just wanted to note that
+for the record.
+VINCE BUZEK: Yeah. Great. Any other questions before we proceed? OK. Oh.
+ANGIE RIVERA-MALPIEDE: Director Catlin's hand is up.
+PEGGY CATLIN: Thanks, Mr. Chair. I just wanted to say that I was appointed to the Board of Directors in
+March of 2018. And I had some similar reservations, Director Dishell, about evaluating our GM CEO at
+the mid-term, which took place in the May, June timeframe. But I was able to get a lot of information from
+the actual performance criteria, as well as some input from my peers. So I went ahead and participated.
+Just as Ms. McManus has suggested, just have to become prepared. So I just wanted to let you know
+that that was a even more special circumstance, coming in even after January.
+
+BOBBY DISHELL: Thank you.
+VINCE BUZEK: Thanks, Director Catlin.
+Mr. Aesch, are you ready?
+MARK AESCH: I am. Thank you, Mr. Chairman.
+And the core of the question is a good one, which really sets up the conversation, Director Dishell, to the
+importance of having a portion of the performance review be fact based in nature, the clarity, regardless
+of tenure, as to whether a particular outcome was achieved as opposed to a milestone or an activity that
+would be associated.
+Amanda, thank you for resolving your technology challenges. If you might be so kind as to share for the
+committee's reflection. Thank you kindly.
+And so, Amanda, I have set up the agenda, what you're seeing. So let me-- thanks very much. So let me
+start with moving to slide 3 for the committee to think about this first year of your new CEO. So your new
+CEO's first day was the 9th of November of last year.
+And so this first process, the methodology that we're proposing for your consideration and reflection, is a
+performance review based upon two factors. The first, the criteria that you, in working with your search
+firm, established for the General Manager and CEO's job description, so the criteria that comes from that.
+And then the second are the personal attributes that were included in the job description that the Board
+included in the search for its new CEO.
+So the performance review for this first year would be based upon those two factors. Again, for this first
+year, November of last year through November of 2021, the one-year anniversary, which you had asked
+that you wanted to do a performance review at her one-year anniversary.
+There'll be a third section to this, which I will share with you in a second, general feedback and reflections
+from the Board on a aggregated basis to your CEO. So two factors in the actual performance review, the
+results-- or the engagement tied to the job description and the personal attributes, and then a third
+section, which would be general feedback and reflection for the General Manager and CEO. That is for
+the year, the one-year anniversary of your CEO.
+Next slide, Amanda, if you would. From there, starting the 1st of January for 2022 through December 31
+of 2022. So now we're beginning to tie your CEO's performance review to the fiscal year of the
+organization. Organizational success equals executive success. Tying those two time frames together,
+we're proposing for your consideration 50% tied to-- to Director Dishell's comments-- success outcomes,
+a fact-based model for your consideration of whether or not the CEO delivered, as opposed to what she
+did, delivered the outcomes of the organization that this Board aligned around, and 50% tied to the
+
+organization's values, the spirit of engagement by which she produced those results. And then similarly,
+there would be a third section, which would be the opportunity for the Board to provide general feedback
+and reflection for your CEO's consideration as she moves into the year that follows.
+So to summarize all of that, the first year would be tied to the anniversary date of your CEO, tied back to
+the job description and the personal attributes which the Board sought in selecting your new CEO. Going
+forward, it would be tied to the fiscal year, which is the calendar year, for the organization. It would be tied
+to the outcomes of the CEO, the fact-based way, and then the values, the spirit, by which the CEO
+produced those.
+Putting this together, there will be, left hand side, the objective outcomes-based results. So an example
+could be to increase the overall customer Net Promoter Score as we've talked about. There's a
+quantifiable fact. There's a number. It will be clear-- and to the point of the question that kicked off this
+meeting-- there will be an answer to that question. You'll be able to discover in a fact-based way, did the
+CEO deliver what the Board said was an important outcome for her to be able to produce?
+In the middle is subjective. Did the CEO do this in a way that is consistent with the spirit of engagement
+that the Board suggested was important. This one happens to be an example that you provide data to the
+Board with transparency. It's simply an example of a potential value. I'm going to show you real examples
+in a second. This speaks to the spirit. By definition, it is opinion based from the Board as to whether or not
+the CEO operated consistent with the spirit which the Board would like.
+And then finally it's the opportunity for real dialogue. Are there comments and questions that you would
+want the CEO to reflect on as she thinks about the next year, things that she will respond to in those
+questions and the Board, in an aggregated way, will provide feedback to your CEO.
+Go ahead, Amanda. So the steps that we would propose for your consideration to go through this
+process, the first would be on the objective-based results that you would engage a third party. As we
+have talked about before, we have done that with other organizations. And if the organization decides that
+you would like us to do that, we're happy to do it. You can certainly use another organization. We do
+strongly recommend that you use a third party for this, largely because it's tied to compensation. And the
+Board, just like you would for a financial audit, wants to ensure from a performance perspective that the
+facts truly are the facts, that the results are what you suggest they are.
+The second is the subjective value-based way. The first step is the CEO will provide her thoughts and her
+reflections in regards to those values. She will draft commentary tied back to those particular values that
+the Board can consider as they're providing the responses that they will, in an aggregated fashion, back
+to the CEO.
+And then finally, the feedback component, which I suggested there will be a handful of questions which
+the CEO will answer first, and you'll have the benefit of her thinking in regards to those reflective
+
+questions as the Board answers those questions to provide feedback to the CEO. You'll have the benefit
+of her thinking in regards to each of those questions before the Board responds.
+The next step is for the Board to step in. So this is where the Board takes the first process, the objectivebased results, the success outcomes. While the facts are the facts, the Net Promoter Score will be what it
+will be. The financial performance, to Director Dishell's comment, will be what it is. It's a fact. It's a direct
+answer. The Board will be invited to provide feedback to the CEO, to be able to offer thoughts and things
+that the CEO might want to consider. So it is a fact, the answer is the answer. But the Board will be
+invited to be able to give thoughts and comments and feedback in regards to that actual result which the
+CEO and her management team was able to produce.
+The second, the Board will be able to share its thoughts and feedback in regards to the values
+specifically. As a group, how did you see your CEO performing in regards to the values that you said was
+most important to you as a body. And then the third is where the Board will share its feedback in regards
+to those reflective questions, which we're going to share with you momentarily.
+The next step in the process is the formal evaluation. This is where all of the Board's comments are
+aggregated into themes, into a comprehensive report. So we take each of the comments from all of the
+Board members and put that together into one common comprehensive report for the Board's
+consideration and the Board's reflection. That is then presented by the Board Chair to the General
+Manager and the CEO. So it comes together in a comprehensive report provided to the Board and then
+presented by the Board Chair to the General Manager and the CEO for a dialogue and a conversation
+that takes place between the Board Chair and your General Manager/CEO.
+And then finally, the next step-- this is what we do for the first year-- it's setting the outcomes and
+ensuring that the values that you've adopted previously, what those should look like for the coming fiscal
+year. So just like it's important, as we're having this conversation today, to set the outcomes, the objective
+facts by which you'll evaluate your CEO's performance for 2022, we'll want to do that at the end of 2022
+for what '23 looks like for your CEO. In order for her to deliver success, just like for the coming year, she'll
+need to know what that looks like for 2023, as well. Hence, the iterative annual process to go through the
+clarity of your why, what, your how and your who to tie the CEO's performance back to organizational
+excellence and the outcomes that this Board has expectations for her to be able to produce for you.
+For this first one-year anniversary of your CEO-- so this is for November 9, the start date from your CEO
+of 2020 through her one year anniversary date-- this is tied directly to the job description which the Board
+utilized in recruiting your CEO. So in regards to the evaluation criteria, there would be four key categories,
+general transit management, internal relationships, external and Board interactions. And I'm not going to
+read each of these to you. You can get a sense of these. But the criteria definitions come directly from the
+job description which the recruiter utilized in bringing your pool of candidates from which you ultimately
+selected your CEO. And you can see each of these as to the evaluation criteria tied to the job description
+for this first year anniversary.
+
+So I'll give one of them as an example. Tied to external relationships, what the Board had asked in the job
+description is that the General Manager and CEO has met with regularly and listened carefully and
+responded appropriately to all RTD stakeholders. So that is the criteria which the Board had put in place
+for the job description and for this one-year anniversary would be the evaluation criteria for this first year
+of performance.
+Back to the process, the CEO will provide self-evaluation criteria. There would be a third party validation
+of the comments that the CEO provides so the Board can ensure that that is a fact-based answer which
+the CEO is providing in regards to her self-evaluation. And that then would trigger the process where the
+Board would engage, as you move to step two, with the Board providing comments and feedback to the
+CEO in regards to these.
+Again, I want to say with total clarity, I know I've said it three times, this is for the one-year anniversary
+performance review. So you will note, there's a lot of vagueness here. That's what we're hoping to correct
+as we go forward for the performance review process that would begin January 1st of 2022. Amanda, if
+you would.
+On the personal attributes side, which you'll recognize as the second component of this, there are a
+number of elements again which were included in your job description. I'm not going to read them all to
+you. You can certainly read for yourself. But again, you can see that these were the elements of the job
+description which you used to recruit your CEO.
+I'll give an example, the CEO has demonstrated strong financial management skills. So the General
+Manager will provide her view on that. It will be validated by a third party to ensure that the response that
+the CEO provided is done in a fact-based manner. Again, it is our hope as the Board goes forward that
+we will strengthen precisely what that means with the clarity of outcome, again to Director Dishell's
+question, which we have aligned with the CFO in regards to that. But there'll be a fact-based answer
+rather than an opinion based answer in regards to the financial health of RTD. Amanda, if you would.
+For going forward, So This would be for the year that would start January 1st-- and you can see the
+distinction, Mr. Chairman, from the way we would conduct this first year-- there would be four elements of
+objective success. Again, I'm not going to read them all to you. You can read for yourself. Four tied to
+community value, customer excellence, employee ownership, and financial success. I'll just do the top
+one, or I'll do the customer excellence one, because we're speaking to Net Promoter Score. The success
+definition for the CEO would be that she would have established a baseline of a customer Net Promoter
+Score and she would have increased the baseline by 5% by November of 2022.
+So the definition of success is clear. There'll be a baseline and it will get 5% better during the course of
+2022. A reasoned expectation as we go forward into '23, there'll be a real number that you would put
+there. Because you would have established the baseline and you would have had a second year. Our
+expectation is we'll put a number there and have an actual Net Promoter Score, which would be the
+answer to that.
+
+For the year going forward, again the CEO would provide self-evaluation comments. Again, there will be a
+fact-based answer to the customer experience, employee ownership, and the like. The CEO will still
+provide her comments. They will be validated by a third party to ensure that the facts truly are the facts
+and the Board can have confidence that the Net Promoter Score is the Net Promoter Score, as well as
+what the CEO presented that it's done in a fact-based fashion.
+The second part of the performance review, again for the anniversary year, it would be the personal
+attributes that were in the job description while you recruited your CEO. For going forward, this would be
+tied to your strategic plan. You'll recall that we've put six organizational values in front of you, passion,
+respect, diversity-- you can read the rest. And there's a definition of what that means in regards to
+speaking about those particular topics. Again, the CEO would provide you with her reflections as to how
+she engaged over those particular values from January 1 of '22 through the end of the year. And then the
+Board will be invited to provide their, by definition, subjective feedback as to how they saw the CEO
+engaging on these six criteria of values of the organization that would be included in the adoption of your
+strategic plan.
+So with that setting the framework for this, Mr. Chairman, the committee had asked, while we had shared
+with you some snapshots from previous clients to give you examples of how the technology Wizard would
+work to conduct the performance review. Amanda is very kindly going to take us into the actual Wizard
+that would be utilized by the Board both for the anniversary evaluation, November 9 of '20 through
+November 8 of '21. And then that will set up the one that we would use for going forward.
+So with that, Amanda, if you might narrate the Board through the digital wizard that they would use to
+evaluate the CEO's performance.
+VINCE BUZEK: And Mark, let me pause you right there. I saw Director Catlin had a question.
+PEGGY CATLIN: Thank you, Chair. But I think Director Dishell was before me. I just signaled this way so
+that you knew that there were a couple questions.
+VINCE BUZEK: I missed that. I'm sorry. Director Dishell, did you have something?
+BOBBY DISHELL: Yeah. I just want to make sure we're all speaking the same language. When I was
+showed the 2021 criteria, there was nothing objective in there but for being able to measure how many
+meetings someone had, under the meeting category. So when you say that 2021 is objective, I might be
+missing something. Or maybe it was just a misspeak. It
+MARK AESCH: May have been a misspeak. And so if I used that, it was by definition a misspeak. I would
+totally agree, by definition, the anniversary year performance review will be subjective in nature. You can
+see from the criteria, it sort of is what it is. Our hope is that the Board will embrace an objective, factbased process for January 1 of '22 going forward. So if I used the word objective, it was a misspeak.
+
+BOBBY DISHELL: Got it. And I apologize, I might have misheard. But thank you for clearing that up.
+VINCE BUZEK: Thanks. Director Catlin?
+PEGGY CATLIN: Actually, I have the same concern about objectivity. And if you go back to the first year
+of evaluation, there was an absolute term on one of the slides about meeting with stakeholders. And it
+was all-- I don't know if it was stakeholders or all key constituents. And that is practic-- that's impossible.
+And I know that our GM/CEO has met with a number of stakeholders, but by no means all. And I would
+say that I have a number of constituents who are in the rather silent majority, silent minority, perhaps, that
+she has not had time to meet with because they have not necessarily requested an audience. So for her
+to try and meet proactively with all of them without some of that other two-way feedback is nigh unto
+impossible.
+So I'd really like to caution us about using some of those absolute terms, such as all, because that would
+be unfair. But I think if we couch it as a subjective rather than objective, then we're not getting caught up
+in some of those absolute terms. That's all I had. Thank you.
+VINCE BUZEK: Thanks, Director Catlin.
+MARK AESCH: Yeah, and I would say to you to your point, I think we would agree. We took the language
+from the job description. So we would steadfastly agree that it's an impossible bar to use the word all.
+PEGGY CATLIN: Thank you. And that was the only one I noticed. But I just wanted to make that point,
+that as we evaluate, we have to really put it in context. Thank you.
+VINCE BUZEK: Absolutely. You're absolutely right. Thanks. Thanks for raising that and pointing that out.
+And I just want to recognize Directors Guissinger and Lewis, who have joined the meeting. Thanks for
+being here.
+ANGIE RIVERA-MALPIEDE: Mr. Chairman, I can see Ms. McManus' hand is up.
+BARBARA MCMANUS: I was just going to note the additional Directors. So thank you, Director Buzek.
+VINCE BUZEK: Great. Did I miss anybody? Did I get all the Directors? OK.
+Thanks. I think-- who's up? Amanda?
+MARK AESCH: We will carry forward. Thank you, Amanda.
+
+AMANDA SKEENE: OK. So looking at the 2021, so starting last November, we will sort of introduce the
+first pages, just basic instructions guiding you through the tool, showing the three sections that Mark just
+outlined. Just identification and Section 1.
+So as a reminder, you would have already received the GM self-evaluation as you complete this. But we
+will also provide a completed version of this table. First column is your criteria. The second column will
+have the actual third-party verified result or status of that evaluation criteria. And then the third column will
+have sort of an abbreviated version of what is outlined in the self-evaluation by your General
+Manager/CEO. And simple tool. You'll give the rating of each evaluation criteria.
+You'll then also have a chance to provide additional comments. This is open ended. It will not be required,
+but these selection criterias will be required in order to complete the section of that evaluation.
+Mark, do you need me to dictate each one? Do we need a moment to read them? I believe you may have
+been provided a packet containing those criteria.
+VINCE BUZEK: Yeah, we've received the packet. If there's any Director that wants this all read line by
+line, let me know. But otherwise, you know, we've all gotten this in the packet and—
+AMANDA SKEENE: OK.
+VINCE BUZEK: We'll take our chance to look at it. Thanks.
+MARK AESCH: And to Amanda's point, it comes directly from the job description. So this is, to the point
+that Director Catlin made, this is not our language.
+AMANDA SKEENE: So I'm going to click a bit faster through. If there's any point that you need me to slow
+down, just let me know.
+We have internal relationships, same thing, comments, open ended questions, open ended comments,
+external relationships and Board interaction. That takes you to section 2, which is the personal
+characteristics or attributes. Again, you give your rating and you have additional comments on the entire
+section and how she approaches work.
+Now here, I'm going to try to zoom in for you. This is section 3, with general feedback and the open ended
+questions that we would recommend, just to invite the General Manager to reflect on it in her selfevaluation, as well as the Board to them reflect on her comments and provide your own comments in
+these open ended boxes. There is no limit on the number of characters that can be used. So that's a
+question that I have gotten in the past. So you're free to answer as long as you'd like.
+To end, you will get a summary page that you can then review on your own. And you will be able to go
+back if you do want to change one of your responses. And I'll close.
+
+VINCE BUZEK: Thank you. Does anybody have any questions about that part of the presentation?
+MARK AESCH: And just a quick-- yeah, I'll just put a bow on Amanda's comments, if I might. So that's the
+technology that you would go through for the anniversary year, the November 9 through November 8. It
+would be the same technology and the same structure for going forward. But obviously, again to Director
+Dishell's comment, the first section would be the objective fact-based response in regards to the success
+outcomes, the second would be tied to the values, and then the third would be the reflective questions.
+The structure would be the same. It's just the content would be tied back to your strategic plan.
+VINCE BUZEK: Great. And some of us that have been on the Board for a while, this is very similar to
+what we've done in the past with regard to prior evaluations. So thanks very much for that. And it's good
+to see these in real, close to final form. I know I was probably one of the ones that raised that issue early
+on, that I really need to see this. And I apologize for that. I'm one of those people that I don't like
+something, when I don't understand it or it's new. I'm trying, I'm getting better, though. Thanks.
+OK. Please continue with the presentation.
+MARK AESCH: If we could.
+SHONTEL LEWIS: We have a few hands.
+VINCE BUZEK: I'm sorry. Where are they at? I don't see them. There they are. Oops.
+Director Dishell.
+BOBBY DISHELL: I always have a question. You can usually just guess.
+Are these-- and maybe this question for Ms. Snyder-- are these evaluations protected by confidentiality?
+Because if not, I imagine there are certain items, such as Labor Relations, Audit, et cetera, which we
+would not be able to, should we want to, provide feedback on. Not that that is any indication that I think I
+need to comment on those items. But if I want to, I'd like to know that I can without running afoul of any
+issues.
+MELANIE SNYDER: And we can certainly talk about sort of as you go through the stages and as the
+Board is compiling and sort of drafting recommendations and sort of what that ends up looking like. Likely
+those materials wouldn't be public, wouldn't be made public. But under the Open Records Act,
+performance appraisal ratings are considered to be public records.
+BOBBY DISHELL: OK. Is there any way we could get a little, maybe a reminder on the survey or a,
+something so that we know we don't go on and put out a narrative about something that should not be,
+something that would normally be more sensitive?
+
+MELANIE SNYDER: Mr. Chair, if I may.
+VINCE BUZEK: Yes, please.
+MELANIE SNYDER: I think as we move forward and you sort of nail down the exact details, there's
+probably going to be some opportunities to talk through and for me to give you some advice about how to
+approach the appraisal process, including disclaimers or reminders on the actual appraisal form.
+BOBBY DISHELL: Thank you.
+VINCE BUZEK: We've had these issues in the past. So, interesting stuff.
+Chair Rivera-Malpiede, I believe you're next.
+ANGIE RIVERA-MALPIEDE: Thank you, Mr. Chairman. Hey Mark, I was looking at the survey and I don't
+remember, but I know in our past surveys they were confidential. So Board members' names did not
+appear. That would be correct this time as well, right?
+MARK AESCH: Yeah, that is always our recommendation, Madam Chair, that each of the individual
+responses come to us, which we can talk about whether that provides protection from a disclosure
+perspective publicly. It typically does. But to your point, it is then aggregated into one report which goes to
+the Board for the Chair to ultimately present to the CEO. The Board speaks with one voice in regards to
+its performance of their Chief Executive.
+ANGIE RIVERA-MALPIEDE: Thank you.
+VINCE BUZEK: Great. Thanks for that question. Good question. Vice Chair Sloan.
+MARJORIE SLOAN: Yes. I thank TransPro for putting this tool together. It looks really interesting. My
+questions are going forward, who owns the software for this tool?
+MARK AESCH: Well, we built it so, we own it. But it's used by our clients across the country to be able to
+evaluate their CEOs or other executives. And so beyond happy for you to be able to take advantage.
+MARJORIE SLOAN: Oh. I guess I'm inquiring about the ongoing nature and the extent of TransPro's
+involvement after the Board is in agreement on this tool. Will it be TransPro who compiles the complete
+report?
+MARK AESCH: For this first year, the anniversary year of your CEO, the agency has engaged us to do
+that, yes.
+
+DEBRA JOHNSON: So Mr. Aesch and Mr. Chairman, if I can just clarify. The relationship in which we
+have with TransPro, it included for a period of time to get us started in the initial evaluation. So to
+summarize that, we have a sunset date in relationship to the coordination with TransPro. It's not
+indefinitely. It does not parallel my contractual terms. But it was specifically to get us where we are
+relative to the time frame that they have outlined.
+MARJORIE SLOAN: Great. Thank you, Ms. Johnson. That answers my question in full. Thanks.
+DEBRA JOHNSON: You're welcome.
+VINCE BUZEK: Thank you, Director Sloan. Chair Riviera-Malpiede, your hand is still up. Do you have
+another question? You're on mute. We can't hear you.
+ANGIE RIVERA-MALPIEDE: I guess if I would unmute myself, that might be helpful.
+VINCE BUZEK: That's a little better.
+ANGIE RIVERA-MALPIEDE: Yeah, thank you. So, Mark, thank you for this. My question is, the third party
+that you have in there, then will they bring forward the overall results in scoring? Or would you see the
+staff doing that kind of work? Or do you do it the first year?
+MARK AESCH: Yeah, we will do that the first year. It's very difficult, as the Board might appreciate, to ask
+direct reports of the Chief Executive to compile the Board's performance comments into an aggregated
+report.
+ANGIE RIVERA-MALPIEDE: So I guess my question was, as you were talking about this third party being
+unbiased, what role will they have in this piece of it, I guess was my question.
+MARK AESCH: Right. So our responsibility will be for this first anniversary year, to Director-- I've said
+Director Dishell like five times now-- to his point of the subjective nature by which we will be doing, you
+will be doing your CEO's performance review for the first year, she will provide comments and activities
+that she has been engaged in over this first year against the job description as it ties back to that. We will
+be asked to validate that what she has provided to you in her self-reflection represents accuracy.
+ANGIE RIVERA-MALPIEDE: Got it. Thank you so much. That's all I have, Mr. Chairman.
+VINCE BUZEK: Thanks, Madam Chair. Do any other members of the GMOC or any other Board
+members that are here have any questions on this piece of the evaluation process, the one-year
+anniversary evaluation tool? Anybody else?
+OK. Good, good. Thanks. Let's continue on to the next section then.
+
+MARK AESCH: Super. And Mr. Chairman, I will say, we are happy to take the Board through the wizard
+for the period that would start January 1 of '22 through the end of that year. It's the same technology. It's
+the same structure. The only difference is the first section, the objective section, would be tied to actual
+outcomes, Net Promoter Score, financial performance and the like, and the second section would be tied,
+rather than to personal characteristics, would be tied to the organization's values that will be considered in
+the Board's strategic plan.
+We're happy to take you through the wizard if you'd like to see it, but the structure is exactly the same.
+VINCE BUZEK: Right. That was my understanding. And it was very informative to see those templates,
+those sheets, and the area. So my understanding also is that this first one is going to be entirely
+subjective, based on job description. The next one, very similar in structure, but is going to be the
+organizational values and all these things that we've worked on over the past several weeks. Correct?
+MARK AESCH: And happy to flip you through it, if it's helpful, but it literally looks the same. It's just
+structured the way that I described.
+VINCE BUZEK: Director Catlin, I see your hand raised.
+PEGGY CATLIN: Thank you, Mr. Chair. Since we have not finalized our overall success outcomes, and
+that will take place this coming Saturday, I would suggest that we wait to go through this tool until we
+have some more established success outcomes, rather than doing it today. Because what you're doing
+today is not based on Board/SLT concur outcomes yet. We still may be tweaking them, is what I'm
+suggesting.
+So I'm happy with not going through it right now, is my point.
+VINCE BUZEK: OK. And just to be clear, and for the record of any of those that weren't here at the last
+GMOC, at the last GMOC at the end, I believe we came out of there with consensus in general of the four
+success outcomes being adequate. And we may tweak them a little bit this Saturday, but I'm guessing
+they're not going to change dramatically.
+PEGGY CATLIN: Thank you, Mr. Chair. And I agree. I'm just talking about some of the more detail, some
+of the detail that comes out of it.
+VINCE BUZEK: Good, good. No, I got you.
+PEGGY CATLIN: Hey, I do have another comment, if I might. Sorry I'm probably out of-- in the past, we
+have had both the Chair of the Board and the Chair of the GMOC have a discussion with the General
+Manager about the collective performance evaluation. And I don't have a preference one way or the
+other, but I was curious as to whether or not our current GM would want to have somebody else there
+and whether or not the General Manager/CEO would be comfortable or uncomfortable with that.
+
+And I say this with all due respect to former Chair Tisdale, but there were some Board members, at the
+time, who felt that the message to our former GM was filtered and that it did not necessarily reflect the
+performance. And again, I don't mean to disparage any Board member. But there were some Board
+members that felt that their opinions were not correctly imparted to the then General Manager. So I didn't
+feel that way, I just heard some of that.
+So I just didn't know, going forward, if that was something that Chair Rivera-Malpiede, Chair Buzek, and
+CEO/GM General John-- or, General-- CEO/General Manager Johnson-- should I salute, General
+Johnson-- going forward what your comfort level is. And again, I don't have a preference. I just bring that
+up because that is what happened in the past. Thank you.
+ANGIE RIVERA-MALPIEDE: So Mr. Chair, if I might.
+VINCE BUZEK: Please go ahead.
+ANGIE RIVERA-MALPIEDE: Director Catlin, thank you for bringing that up. I can share with you that
+Secretary Buzek and I have been meeting with the General Manager on a regular basis. And in fact, we'll
+have another meeting tomorrow. So I agree that to have our Secretary there as the Chair of the GMOC
+would be very helpful. So yeah, agree.
+VINCE BUZEK: And I'm in favor, not because it's me, whoever the Chair of the GMOC is, because that
+person is so actively involved in this process should probably be a part of that. And I don't know, General
+Manager Johnson, do you have any heartburn with that?
+DEBRA JOHNSON: Not at all. I'm amenable to that. It's a collective body. And with the General Manager
+Oversight Committee being established, I would question what the purpose of the GMOC is if that
+Chairperson wasn't actively involved. So I don't have any problem with that whatsoever. So thank you
+very much for the opportunity to opine on that.
+VINCE BUZEK: Yes. Thanks for your input.
+I see Director Williams has her hand raised.
+PEGGY CATLIN: If I might, though, Director Buzek—
+VINCE BUZEK: I'm sorry.
+PEGGY CATLIN: To follow-up. Sorry. I just was reflecting back on the slide presentation about the
+process, where it said that the Chair of the Board would meet, that we may want to if, it's agreed upon, we
+may want to adjust that to suggest that the Chair of the GMOC and the Chair of the Board participate. So
+that's the only reason I brought that up.
+
+VINCE BUZEK: Good point. Mr. Aesch, could you amend that slide that talks about the Chairman? Add
+the Chair of the GMOC also.
+DEBRA JOHNSON: And so if I may, Mr. Chair, just for clarity, recognizing that I am new to the
+organization, I've been working with TransPro. A lot of these issues you're bringing up are very
+paramount. And so we will collectively incorporate that. So I just wanted to share that this has been done
+amongst TransPro and myself going forward. So that's why this opportunity is so valuable. So I just want
+everybody to know, I'm not trying to put anything forward to slight anybody, but this was done from the
+perspective of which I didn't see an established process or procedure for the GMOC. And I think I
+broached that at the last meeting. So just saying that for posterity. Thank you.
+VINCE BUZEK: OK. Got you. Director Catlin, anything further?
+PEGGY CATLIN: No, no. Thank you, Mr. Chair. I just wanted to see if that was OK with everybody. Even
+though that was customary, it didn't mean we had to do it. going forward.
+VINCE BUZEK: Sure. Absolutely. Director Williams.
+KATE WILLIAMS: Thank you, Chair. I haven't been listening for a while, and I have a couple questions.
+So my understanding is, Mr. Aesch, that this software that we're going to be using was developed by
+TransPro and has been used before by other boards of other transit agencies. Is that correct? Then
+there's more.
+MARK AESCH: It's a technology that we use. I wouldn't say we've developed it. It's a technology that we
+use. And yes, we've used it in the past, to answer your second question.
+KATE WILLIAMS: So do we, or have we had, and I apologize because I haven't been here all the time,
+the opportunity to talk to other boards who have used this tool in the past? References, such as it were.
+DEBRA JOHNSON: If I may jump in and just clarify. When we went through the procurement process,
+quite naturally we did do reference checks in relationship to what the scope was. And this was entailed
+therein. So I just wanted to qualify that as such, just for everybody's edification.
+KATE WILLIAMS: OK. And references, the other agencies that have used this in the past, are they similar
+to us? Do they have elected boards? I mean, or are we-- which I'm OK with-- being a pilot program with
+this. I'm just trying to get caught up about where we are in relationship to this tool.
+DEBRA JOHNSON: And Director Williams, if I may just opine on this being part of that process. The only
+other two elected boards by a constituency are the San Francisco Bay Area Rapid Transit District and
+Alameda County Contra Costa Transit District. And no, those two weren't entities in which we asked for
+
+references. So I just wanted to address that. Thanks. But keep in mind that the other boards are elected
+officials, and some not, by virtue of the seat in which they hold.
+KATE WILLIAMS: Got it. OK. That's all. I just wanted to get a little background on the tool. I'm happy with
+it, believe me, because, as everybody here knows, I was extremely-- thank you, Director Catlin-- unhappy
+with the previous process that we used. And so I am thrilled. You have my blessing.
+VINCE BUZEK: Thank you for the questions and comments, Director Williams. Director Tisdale.
+DOUG TISDALE: Thank you very much, Mr. Chairman. Appreciate the opportunity. I just wanted to
+respond briefly to the comment made by Director Catlin. When we had the meeting with then General
+Manager Dave Genova in 2019, that was, in fact, aside from obviously the meetings that he participated
+in with the full GMOC, it was a meeting with the GMOC Chair, Jeff Walker, and me. So just to confirm for
+the sake of the record. Because there may have been some confusion. And I'm multitasking so I
+apologize. I may not have caught all of it.
+But the point is that Director Walker, as GMOC Chair, and I met with General Manager CEO Dave
+Genova in 2019, a series of times, as well as, obviously, the meetings with the committee. Thank you, Mr.
+Chairman.
+VINCE BUZEK: Thank you for that clarification, Director Tisdale. I don't see-- Director Williams, your hand
+is still up. Are you done? Are you good? Where are you? I see a bus.
+KATE WILLIAMS: I am, sorry. Sorry. Spaced it out.
+VINCE BUZEK: Good, good.
+OK. So I think that takes us through the evaluation tool that the TransPro presentation. Is that correct?
+MARK AESCH: It does. We were simply going to do schedule, Mr. Chairman, and then give you a sense
+of the agenda. But happy to respond—
+VINCE BUZEK: Yeah, let's move on to the timeline and then follow up with the proposed agenda for this
+Saturday. Thanks. Go ahead.
+MARK AESCH: Super. And thank you, Amanda, for taking us through that.
+So as you can see at the top, this speaks to the Saturday workshop that the Board will be having, to the
+comment that was made in regards to aligning around success outcomes for the, again, critical that any
+CEO, not unique to yours, have a clear definition of the outcomes that you expect in order for her to build
+a business plan, align a budget, align a workforce to be able to produce those outcomes. The objective is
+to be able to establish that over the course of the next several weeks, such that starting January 1st, the
+CEO can begin to execute and deliver those outcomes, which are so important to this Board.
+
+The evaluation criteria, as you can see, would be carried out during the course of the fall. The CEO-s selfevaluation would be completed in November, immediately following the one-year anniversary date, to be
+followed over the next several weeks, finishing in early December, with the Board's evaluation, again, of
+the first one-year anniversary, to use the word subjective in nature, tied back to that.
+As we begin to think about the next fiscal year, the Board, as you can see in blue, would have adopted
+that in July, establishing the 2022 process and criteria, the outcomes and the values that you expect your
+CEO to perform against. In November, the CEO would again do that self-evaluation process towards the
+end of the year. The Board would begin its evaluation process in mid-December. And then to the point
+that's been raised by several Board members, you would be completing action with this Board of the
+performance review as one of the last actions of this Board, based upon the fact that you would have
+been with the CEO throughout the course of 2022. It would be our hope, Mr. Chairman, that we would
+then begin to set the criteria for 2023 for your CEO and begin that cyclical process of establishing well in
+advance the outcomes that you expect your CEO to produce so that she has the ability to deliver them for
+you.
+So this would be the schedule by which all of which we just shared with you would be executed. Happy to
+stop there and take questions.
+VINCE BUZEK: I appreciate that. And thanks for the timeline. Just for the members of the GMOC, so by
+our next meeting on the 8th of July, we're going to be expected to be in a position to recommend to the
+full Board the process and criteria moving forward. So stay tuned and read your packets. And hopefully,
+we'll be in a good spot to do that on the 8th.
+Any questions regarding this timeline as we move it forward?
+DEBRA JOHNSON: Mr. Chairman, if I could just provide some clarity. So when I was working with
+TransPro, recognizing I know our Board schedule hasn't been set, per se, but was looking optimally at
+timelines as relates to what we know is the here and now. So I just want you to know that totally
+amenable as we go forward. The one in the red, it's pretty much straight forward. But as we look forward
+to the subsequent year, I just wanted to provide that for everybody's edification. The operative word here
+on this slide is proposed. Thank you.
+VINCE BUZEK: Right. Thanks. And what's not on there is the June 29 Special Board Meeting, which is
+going to be necessary to move forward the recommended actions coming out of the GMOC. But I think
+we all know that's coming.
+DEBRA JOHNSON: Right. Because that was outside of TransPro, recognizing that's a—
+VINCE BUZEK: Right, understood.
+
+DEBRA JOHNSON: OK. Thank you.
+VINCE BUZEK: Thanks so much. Director Bouquet.
+JULIEN BOUQUET: Thank you, Chair. Yeah. So I'm glad I heard this is just a proposed timeline, because
+I just kind of need a little clarification regarding where it would be early January of 2023, because
+potentially we would have new Board members come that time. What is the final action, I'm sorry, of what
+would be the date going on with that January 13 date?
+DEBRA JOHNSON: Director Bouquet, if I can address that. So for all intents and purposes, the new
+Board members are sworn in at the Board meeting. And typically, that's the third Tuesday. Hence, that's
+why I said relative to January 13, it wouldn't be. So that would be some type of committee meeting or
+something of the like. So I just wanted to clarify that.
+JULIEN BOUQUET: OK, perfect. Perfect. Yeah, that's just as a clarification. So the new Board members
+would be sworn in after that there.
+DEBRA JOHNSON: Right. So the last action, if somebody were leaving the Board, so that was the final
+action of whatever that Board constituted, not constituted, the composition of said Board. If somebody
+were leaving the Board, then that would be their final action. That's air quotes.
+JULIEN BOUQUET: Perfect. Thank you for the clarification.
+VINCE BUZEK: Madam General Manager, just a point of clarification. Historically, the new Board, when
+there's an election cycle going on, is sworn in at a special Board meeting in the first week in January.
+DEBRA JOHNSON: Oh. See? Learn something new every day. Thank you. So we could adjust that. OK.
+JULIEN BOUQUET: That was my confusion. Because we got we got sworn in on the 6th of January. I
+was thinking that was late in the session.
+DEBRA JOHNSON: Oh. I'm mixing up my agency. Sorry.
+VINCE BUZEK: Great. Any other questions from any Directors present here on the proposed timeline?
+Seeing none, Mr. Aesch, can you move onto the agenda for Saturday?
+MARK AESCH: It would be my pleasure, Mr. Chairman. So the way we are suggesting the Board would
+kick off their session would be welcoming comments from the Chair and from the CEO. We would then
+spend some time on a topic, going deeper into one agency in particular of how they have very effectively
+caused their strategic plan to come alive, the way that they have adopted a plan and then made it the
+central way in which they engage between their Board and their management team, their customers, the
+
+community, and the workforce to deliver that strategic plan, that it's not simply something they adopted
+actually causes the way they perform and they invest their time is the realization of that plan.
+The balance of the morning would be spent on putting in place those success outcomes, which we have
+talked about, and having a dialogue around that based upon the Board's feedback from our workshop
+together in the early part of June, and then sharing the details of an organizational performance
+scorecard, the tool that the Board would use, as well as your CEO, to see if the agency is positioning
+itself to produce those outcomes. It's the ability to essentially look at your dashboard and see if you're
+going to arrive at your chosen destination.
+The balance of the morning would be spent by each of the key senior executives on the CEO's leadership
+team each presenting their work program, the work that they have developed in concert with their
+colleagues within their functional unit, to produce the outcomes which are being proposed for your
+consideration. You don't realize outcomes by continuing to do the same work. You realize outcomes by
+doing the right work that will allow you to be successful. Each of the senior members of the senior
+executive team will be standing up and presenting to you what they, some of what they would propose to
+be able to focus on during the course of the coming year to produce those outcomes.
+And then the final part of the day, Mr. Chairman, would be to align the entire Board in formal session of
+how the Board might tie the evaluation of its CEO back to the strategic plan, consistent with what we just
+shared with the GMOC. But it's helping to tie that together in a bow, how do you ensure that
+organizational success is directly tied to the success of your CEO in a formal performance review
+process.
+There's a number of questions, Mr. Chairman, that we'll be pausing throughout the course of the morning,
+so that it's not a lot of us talking at you, the ability for the Board to be able to engage around a number of
+questions for sparking hopefully good dialogue around these topics. But this would be the general flow of
+the morning.
+VINCE BUZEK: Great. And we would appreciate that, because we're not shy.
+So speaking of not shy, Director Sloan, you've got a question.
+MARJORIE SLOAN: I do. Because our agenda is moving in parallel but not exactly in tandem with the
+Accountability Committee, and I know the Accountability Committee will present a proposed dashboard, I
+don't really expect an answer today, but I expect this question to arise at the retreat is how WILL the
+scorecard and the dashboard WORK together throughout the coming year?
+MARK AESCH: And happy to respond to that question and to the point of the Accountability Committee
+that an organization, like an individual, only knows what to measure if they know what it is they want to
+achieve. And so this Board will hopefully be aligning around a set of outcomes of what you want to
+achieve. And only then do you know what it is that you want to measure. So appreciate with respect the
+
+Accountability Commission's work, but you only know what should be in your performance dashboard if
+you know what it is you're trying to produce.
+MARJORIE SLOAN: And I respect that answer. But the dashboard will be publicly available after there's
+agreement on it. And I think it has to BOW to both the organization's internal planning and the
+Accountability Committee's suggestions for what the external world wants to see on the dashboard.
+VINCE BUZEK: General Manager Johnson, go ahead.
+DEBRA JOHNSON: Yes. Thank you very much. And thank you, Director Sloan, for your question. And
+just to provide some clarity, having had the opportunity to engage a lot with the Accountability Committee
+and so forth, and I respect Mr. Aesch's response, because I believe the same thing, when we look
+collectively about what we're trying to achieve, there are some elements that are contained within the
+Accountability's recommendations that we've seen preliminarily, but those are more or less tactics and
+activities. And when you look at what will be presented. In a very high level fashion, our respective
+members of the leadership team are delving deep. And I used this example before, recognizing that some
+of those things that have come full circle, leveraging North Highlands as a consultancy, recognizing that
+they have brought forward information from disparate transportation agencies and some information that
+has been presented has been compiled in such a way that may have not been reflective of a overarching
+service delivery agency, what I will say is when we go through the recommendations, we will put forward
+what we plan to do if, in fact, we're in alignment with said recommendations and expound upon that.
+So for all intents and purposes, recognizing what the general populace would like to see, because we are
+providing services to the greater District, I believe it's incumbent upon us to respond to those, but then
+again, without sounding too pompous, I would like to say that I pride myself on being a subject matter
+expert in this space. And recognizing when we're talking about measuring on-time performance, as I said
+in these meetings, when we're talking about the perception, that comes into customer excellence, but for
+all intents and purpose, from a transit operation standpoint, a bus is on time or a rail counts as on time
+minus 1 plus 5 minutes. I'm really delving a little deep into this, and let me put myself back.
+But I would say that while they look good globally, there is more nuanced aspects of what we need to do
+to ensure we're delivering the quality of service that people within this great region expect. So during the
+course of responding to the recommendations, and we'll be bringing those forward to you all for you to
+weigh in, we will collectively see what that is. Because I believe it's incumbent upon us to share that
+information collectively so people can look at this organization and we're accountable for what we're
+doing. But we need to create that alignment. Because right now, recognizing the question we've posed to
+the Accountability Committee is what is the problem we're trying to solve for, just using the governance
+question. Really, it doesn't matter if it's an elected board, appointed board, or a community-based board,
+still there's auspices over for setting policy for a transportation entity.
+
+So I just use that as an example to share that we will respond. But I really don't believe that we can have
+a third party basically providing metrics for us relative to what it is that we do in reference to service
+delivery. Thank you.
+MARJORIE SLOAN: Thank you.
+VINCE BUZEK: Director Sloan, does that take care of your, answer your question?
+MARJORIE SLOAN: It does, thank you.
+VINCE BUZEK: You bet. Director Lewis, you're next.
+SHONTEL LEWIS: Thank you, Mr. Chair. Do appreciate it. I just had a quick question from the packet
+page 17 on the department scorecards and tactics. I recognize that the civil rights person is not on our
+senior leadership team. But it does, I do have an inquiry as to where that work might fall and if there's
+been any discussion around an equity metric or for each one of those scorecards, or an equity scorecard
+in itself. I'm just kind of curious of that work in threading those principles throughout the agency and know
+that I trust that you will do that, but it's more for my edification to see it printed. I know that that's the work
+you do, General Manager.
+DEBRA JOHNSON: Thank you so much, Director Lewis. I appreciate that. And yes, I have to share that I
+personally was involved in the session with the work functions recognizing the Civil Rights as a division,
+along with IT, and Human Resources. And so as we look at it collectively within all those aspects of
+success outcomes, we have like community value, we are working those things through as relates
+holistically, as I talked about. Diversity should be interwoven in all we do, and that's captured in the
+values, right. Because that's something that's embodied in all the work that we do.
+And so as we go forward and flesh this out, it's the values in which, with hiring and intention, that we will
+be focused on those key elements. Does that address your question, ma'am?
+SHONTEL LEWIS: It does. And within those key elements, are there specific metrics that might be
+evaluated on those scorecards, for example-- I'm trying to think of one off the top of my head-- if we're
+looking at HR as department, there might be a goal to hire more, or to recruit and retain more employees
+of color or more women within the agency. Like is it that specific, or is it something different than that?
+DEBRA JOHNSON: Well, no, no, no. That's a very good question. Because when we're looking at
+recruiting and retention is the operative word there, right. Because we can hire, but if there's not a sense
+of belonging and we don't have strategies in place, and this came out during the last workshop, where we
+talked about attrition, and I qualified it as retaining high performers. So within that, interestingly enough,
+just had a meeting last night with our Senior Manager of Human Resources where we were looking at
+specific data, recognizing that those are the strategies we need to leverage in order to ensure we're hiring
+with intention as we go forward.
+
+So those are the activities. But the overarching aspect will be encapsulated in the outcomes. But yes,
+those are things that we're delving into from the vantage point of staff and the activities and tactics.
+SHONTEL LEWIS: That is sufficient. Thank you so much. Appreciate that.
+DEBRA JOHNSON: You're welcome.
+VINCE BUZEK: Thanks for those questions and comments, Director Lewis. Director Dishell.
+BOBBY DISHELL: Yeah, that is just sort of in response to the Accountability Committee piece, which is
+that, I don't personally-- first of all, I respect the amount of time and effort that has gone into it. But at the
+end of the day, the Accountability Committee is a political committee that was appointed that conveniently
+times out with what I imagine will be the governor's reelection campaign, and the reelection campaign of a
+few other individuals. And I would be-- I will stand strongly opposed to us being political pawns for
+someone's reelection campaign and not making the decisions that are best for the agency and relying on
+those experts. And with all due respect to Highland Transportation, we could see that they might not have
+been the best experts to consult on this.
+And so taking it to its logical conclusion, the worst case scenario, if we don't like what the Accountability
+Committee puts forward, is we provide a written response as to why we don't like it. And so I, again, I
+respect the time that's gone into it, but I also see it for what it is and how it was created and what its
+purpose really might be.
+SHONTEL LEWIS: Amen.
+VINCE BUZEK: Thank you. Anybody else? No questions.
+Where are we at on the Agenda? We've got the timeline and the proposed agenda. We're moving into
+recommended actions at this point.
+So the first recommended action is the second amendment to the CEO and GM employment agreement,
+extending by another 30 days. That can be [INAUDIBLE] agreement that require we shouldn't be
+established. And again, as you can tell by the proposed timeline, June [INAUDIBLE] is after June 30. So
+we would need to do this.
+Does anybody from staff want to present on this, or—
+MELANIE SNYDER: Director Buzek, if I may, I think that since we are going to be—
+VINCE BUZEK: And by questions about what this action relates? Ms. Snyder?
+
+MELANIE SNYDER: Pardon me. I think, at least I'm having a hard time hearing your, Director Buzek.
+ANGIE RIVERA-MALPIEDE: I am too.
+DEBRA JOHNSON: Yeah.
+VINCE BUZEK: Oh, sorry.
+DEBRA JOHNSON: I believe he was asking General Counsel if staff wanted to present. And I would yield
+the floor to you to present to the GMOC as relates to the modifications, or I should say, the amendments
+to the General Manager and CEO-- I'm talking in the third person, which is weird-- employment contract.
+MELANIE SNYDER: OK. Thank you, General Manager. I'm happy to do that. Director Buzek, this is a
+formal recommended action by the committee. So if we could start with a motion and a second, and then
+I'll present. We can do discussion and then take a vote, If that's OK.
+BOBBY DISHELL: So moved, Dishell.
+VINCE BUZEK: Sounds good. So here's—
+ANGIE RIVERA-MALPIEDE: Second, Rivera-Malpiede.
+VINCE BUZEK: Can you hear me? I'm going to read the recommended action. Recommend action for the
+Board [INAUDIBLE] to the CEO/GM-- do you want me-- Melanie, that's for the Board action. You don't
+need a-- can you hear me?
+MELANIE SNYDER: No, you were cutting in and out.
+VINCE BUZEK: Can anybody hear me?
+ANGIE RIVERA-MALPIEDE: Vince, turn your camera off. Vince, turn your camera off. That's helps
+sometimes.
+VINCE BUZEK: But then you won't see me.
+ANGIE RIVERA-MALPIEDE: [INAUDIBLE]
+VINCE BUZEK: Can you hear me now?
+DEBRA JOHNSON: Yes.
+
+VINCE BUZEK: Better. OK. So Ms. Snyder, I was going to read the recommended action, but that's the
+recommended action for the Board action, is it not?
+MELANIE SNYDER: So yes, Mr. Chair. So we will be, the Board will ultimately be taking formal action.
+But this is a motion and an action coming out of the GMOC for the Board's consideration at the special
+Board meeting. So just like we do recommended actions at other committee meetings, you're going to go
+through the formal process of a motion and.
+VINCE BUZEK: Right, I get that. But I was going to read the recommended action in this document. But
+it's really directed to Board action and not to GMOC action. So do you want me to read this recommended
+action or just ask if there's a motion and a second to approve moving this to the full Board?
+MELANIE SNYDER: I think the latter would be preferable.
+VINCE BUZEK: Great. I think I've done that and I heard a motion by Director Dishell and a second by
+Director Rivera-- or Chair, Director Rivera-Malpiede.
+ANGIE RIVERA-MALPIEDE: Yeah.
+VINCE BUZEK: Any members of the GMOC who are opposed to this, please yell out. Hearing none, that
+passes with a unanimous vote of the present members of the GMOC.
+Next is the GM and CEO performance appraisal framework. And this action will bring to the Board of
+Directors the approval of the ratio based-- the objective criteria and subjective criteria ratios that we will
+be adopting as part of the evaluation process. I'll need a motion and a second.
+PEGGY CATLIN: I move to adopt the framework and forward to the Board as a whole.
+VINCE BUZEK: OK, Director Catlin. Is there a second?
+ANGIE RIVERA-MALPIEDE: Second.
+VINCE BUZEK: Second, Chair Rivera-Malpiede. Any Board members in opposition-- any, strike that, any
+members of GMOC in opposition to this? And hearing none, that moves forward to the full Board at a
+special Board meeting next week, June 29, I believe.
+That concludes our Recommended Actions. We have some other matters. And I'd like to start, if I could,
+just for the edification of the members present of the GMOC, Director Cook has stepped down from the
+GMOC as a result of a lot of work work, real life work. As many of you know, she runs the Arvada Veggie
+Van in the summer. And it is Veggie Van season. So because of the time commitment that us on the
+GMOC really need to prepare, she thought it would be best if she stepped down. She has some other
+business things going on as well. And Director Bouquet has graciously and thankfully agreed to step
+
+forward as a full member of the GMOC. And Director Bouquet, we are very, very pleased to have you and
+have your insight and input. Thank you. Applause. Very good.
+Secondly, I'm going to ask Ms. McManus to assign buddies. So what we've done in the past is each
+member of the GMOC was given one, and maybe two, depending on the number, buddies to
+communicate GMOC matters to, so that the full Board can kind of be up to speed by the time we get to
+Board meetings and such where we need to make decisions and take action.
+So Ms. McManus, I would ask you if that's OK. I know you're probably not doing a lot right now. But I
+would ask you to, if you could just assign buddies randomly, as long as you don't assign-- no. Whatever
+you decide is fine. And then we will use those people-- we will communicate with them about what's going
+on. And so members of the GMOC, please take this seriously, because it really, it seemed to work. I think
+it seemed to work pretty well in the past. I see Director Lewis, do you have questions on this matter?
+SHONTEL LEWIS: Yeah, I had a question on the previous matter regarding the alternate. And I was just
+curious if we needed to now assign a second alternate.
+VINCE BUZEK: An alternate?
+SHONTEL LEWIS: Yeah.
+VINCE BUZEK: Well, Chair Rivera-Malpiede, since you make the assignments, I'm going to throw that to
+you.
+ANGIE RIVERA-MALPIEDE: Well, I don't know the answer to that question. But I will be researching it for
+sure. And I'll get back to you. But you know, that kind of crossed my mind as well. So if I can get back to
+you.
+I think the good news is that there are 10 Board members on this call today. And that's great. And as you
+can see from the agenda that we have and the timeline, we have a lot of work to do in a short period of
+time. So it's going to take all of us. But yes, I will look at the charter, meet with Ms. McManus and our
+General Counsel to see if we do in fact need to appoint another alternate. And then we'll let the GMOC
+Chair know to get that information out. How's that?
+SHONTEL LEWIS: That sounds great. Thank you.
+VINCE BUZEK: Thanks for that question, Director Lewis. I was wondering that too. Director Dishell.
+BOBBY DISHELL: Yeah. I would just like to respectfully ask that the same is done for the Executive
+Committee. The Executive Committee meets at 11:00 or 11:30 on Thursdays. I have a conflict with my
+other job. And I think that as we move toward smaller committees, that that's the hope, that this buddy
+system could really help maintain that trust. So if we could have that done at the Executive Committee
+
+level as well, that would really be appreciated, just because if the whole point of small committee is that
+10 people shouldn't be on the call, right, 5 people should, the committee members. And I feel the same
+way about the Executive Committee. And so if we could make sure that as we start to transition that, if the
+buddy system is what we're doing, that that same courtesy is extended.
+VINCE BUZEK: Thanks for those comments. Yeah, we can talk about that at Executive Committee. I think
+the reason we've done it here in the GMOC is sometimes that it's really a fast moving kind of thing,
+whereas the Executive Committee is kind of an iceberg in comparison. But yeah, we could definitely
+consider that with regard to Executive Committee and the assignment of buddies.
+I see Director Catlin with a hand up.
+PEGGY CATLIN: Thank you, Chair. Actually to that point, this is kind of off topic, but we may be facing
+that with a future Audit Committee as a singular committee, as opposed to folding it in with the FAA
+committee. That's off topic.
+I just want-- my comment really was in reference to this 30-day extension. And I just want to impart upon
+this group, as well as the whole Board, that there needs to be a sense of urgency to get this done. I would
+not support an additional extension if we cannot get this work done in the next 30 days. This is really,
+really important to the success of this organization and the success of our GM/CEO. And she's been very
+indulgent with us in terms of moving forward with this organization. And I would just really like to impart a
+sense of urgency in getting this work done. So sorry for my soap box, but that's just what I wanted to say.
+VINCE BUZEK: I appreciate those comments, Director Catlin. I think we all feel that it's not fair to our
+General Manager/CEO to just kick the can down the road over and over. The can is done being kicked.
+So you can see me now, can you still hear me? Aren't you lucky? OK.
+So the final closing comment-- I'm going to make some closing comments. Because I was reluctant about
+this process in the beginning. You know, I came in thinking, oh, let's really revamp the way we do the
+evaluative process, the way we do our strategic plan. And then people started doing that. And I guess I'm
+not a big fan of change. But I'm working really hard.
+I always question myself, am I that guy? Am I the get off my lawn kind of person? And I hope that I'm not.
+I'm sure that there's a part of me that has a little bit of that. But as this has gone on and Mr. Aesch and
+General Manager Johnson I have thanks for your patience, because I'm beginning to see the light and
+see how this works. And this is a big change for us on this Board and in this agency. And I am more than
+willing to give it its best chance for success.
+And I know, and I trust General Manager Johnson implicitly, she doesn't want to fail. I can guarantee you
+she's working really hard and will continue to do so. And if this is something that we can all come together
+on, I think it'll be a good thing. You know, bottom line is, the end of 2022, if we think it's a fiasco, well, we
+
+can do something different. But I don't think it will be. I think it'll be a good thing. I'm coming along with the
+change.
+You know, it was kind of like the Accountability Committee. When that was first foist upon us, I thought,
+how dare this group of elected officials say they can tell other elected officials what to do? And then now
+today-- well, I guess that's a bad example. But you know, I've come a long way. And I hope other people
+have as well. That's all I have. Are there any final comments from any members of the GMOC or the
+Board or anyone else?
+ANGIE RIVERA-MALPIEDE: No, nicely said.
+VINCE BUZEK: OK. Our next meeting is in a couple weeks, July 8. And I guess we'll see you all next-well, I'll see you Saturday.
+ANGIE RIVERA-MALPIEDE: Saturday. And then the following week. And then yeah, we're going to be
+seeing a lot of each other.
+VINCE BUZEK: OK. Thank you all for your participation and work on this committee. Thanks.
+ANGIE RIVERA-MALPIEDE: Thank you.
+VINCE BUZEK: Bye, all.
+ANGIE RIVERA-MALPIEDE: Bye.
+
+

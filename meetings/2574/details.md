@@ -1,0 +1,223 @@
+## I. Executive Committee Agenda
+
+Chaired by Larry Hoy
+
+#### 1. Roll Call
+
+Director Anderson participated via phone.
+
+## II. January Board Meeting Agenda Review
+
+In reviewing the Board meeting agenda, Chair Hoy remarked that there were quite a few retirees listed.
+
+Barbara McManus mentioned that only two retirees were planning on attending the Board meeting so far.
+
+Chair Hoy stated he was impressed at how long people tend to stay at RTD.
+
+Chair Hoy went over the components of the Board meeting agenda, including the General Manager’s Report.
+
+General Manager Genova said he would be giving his usual report, except that, at the time of the meeting, he would just be returning from Washington, D.C. He would not be able to report on the approved length of the extension on the Federal Railroad Authority’s waiver on the University of Colorado A-Line at that time but would be able to say how the meeting went.
+
+Chair Hoy stated that the full Board would be discussing two recommended actions at the upcoming meeting.
+
+General Manager Genova said that Bruce Abel, Assistant General Manager of Rail Operations, would be following up with Director Deadwyler with further information on one of the actions.
+
+Director Francone discussed the cost of the pass program working group and asked what would be done differently with the extant program than had been done in the past. Chair Hoy clarified that the recommended action on the Board meeting agenda was for the travel training program rather than the pass program.
+
+Director Menten stated that Director Williams works for the Denver Regional Mobility and Access Council (DRMAC). When Chair Hoy asked why she mentioned Director Williams employer, Director Menten said that DRMAC was one of the entities listed on the list of parties listed for the proposed pass program study group. She said she did not think a conflict of interest existed but in the future she wanted to be cognizant of contracts that may be affected by conflicts.
+
+Director Francone asked whether Director Williams is a Director of DRMAC. Barbara McManus said she believed that Director Williams is, though she is aware she may have to abstain from voting.
+
+Director Menten said that the only potential conflict she remembers in her time with RTD was with Director Walker, who she said was always very cautious.
+
+Chair Hoy mentioned Director James also had to abstain over issues in the past. He said he would speak with Director Williams to understand her current position at DRMAC.
+
+General Manager Genova asked whether the Directors all sign an annual financial disclosure form, and Barbara McManus confirmed that they do. General Manager Genova mentioned the disclosure forms were recently distributed to the staff.
+
+## III. Other Matters
+
+Director Deadwyler said that she did not understand why Director Archuleta had abstained from voting at a recent meeting. She said that there had been discussions in the past to change to bylaws to direct the Chair to ask a Director abstaining from voting the person’s reasoning for the abstention, though she said nothing was done at the time the discussion took place. Barbara McManus said that change had not gone forward. General Manager Genova said it was determined under Robert’s Rules of Order that a person does not have to give a reason for abstaining, and Barbara McManus confirmed. Chair Hoy said that he recalled the bylaws had changed to prevent people from being barred from abstaining. Director Deadwyler said the reason for the change was to prevent Directors with a conflict of interest from even participating in the conversation at hand, because in the past Director James participated in discussions on a particular topic but later abstained from voting on that topic.
+
+Director Menten said she recalled a similar situation with Director Folska, and Barbara McManus confirmed that the issue had to do with the naming rights for the University of Colorado A-Line. Chair Hoy said that it is the responsibility of Directors in conflict to abstaining from participating in discussion. General Manager Genova said that in the past General Counsel Rolf Asphaug had said that the Director could participate in the discussion and did not have to leave the room.
+
+Director Walker confirmed that he had been in that situation in the past and was permitted to stay but not vote on the matter in question.
+
+Chair Hoy said that the Directors need to know what the ground rules are, namely that people should not participate in the discussion, can stay in the room, and should not be voting on something in which they have a conflict of interest. He said it rests on the Director to know whether they have a conflict of interest since the other Directors will not know about the conflict in advance.
+
+Director Menten said a Director in conflict should leave the room, because even a look on a Director’s face can have influence.
+
+Director Francone said that someone intimately involved with a certain topic being voted upon has some information that may be valuable to the discussion. She said it is in the person’s best interest to vote one way or another. She further stated that, if she knows that someone has a conflict of interest, she could have a discussion with that person offline to get the information that the person could not discuss in the open.
+
+Chair Hoy said that the decision of what to discuss offline is between the Directors but that he does not think the person in conflict of interest should participate in the committee discussion, which may lead to the Director influencing someone to vote.
+
+Director Francone said the appropriate response could be to take the discussion offline.
+
+Chair Hoy said he did not know that doing so would be appropriate, though he said that would be left to the Directors to decide.
+
+Director Walker said that a person with a conflict or the perception of a conflict should not have contact with anyone about that conflict. For example, he said that, if there were an item that had to do with Xcel under discussion at a Board meeting, he would not discuss that item with anyone at Xcel.
+
+Chair Hoy agreed and said that otherwise Director Walker’s position on the Board may be that of lobbyist.
+
+Director Deadwyler said the conflict goes both ways in that it may be inappropriate for a Director approach the person in conflict for more information.
+
+Chair Hoy said that it is in the best interest of the Board to make the best decision based on the information available and asked whether the Board had agreement on the matter, to which Director Menten agreed and Director Francone mentioned General Counsel Asphaug had sent out a related memo.
+
+Director Francone said that General Counsel Asphaug had sent a memo about abstentions. Director Deadwyler said General Counsel Asphaug’s memo stated that Directors may vote on minutes of meetings they did not attend. She said there was no reason for Director Archuleta’s abstention.
+
+Chair Hoy said abstaining is not a great thing to do but is allowed.
+
+Directors Menten and Deadwyler said they would have to read the abstention memo again.
+
+General Manager Genova asked if Mr. Asphaug should put together some information on abstention or parliamentary procedure, and Director Francone agreed. Barbara McManus said that Mr. Asphaug would also be meeting with Directors one-on-one.
+
+Director Anderson said the issue of abstention is a legal issue and a Colorado statutory issue. She would object if she had knowledge of a certain thing that RTD was talking about and tried to influence Board members by calling them and discussing the issue with them. She said the law makes it so Directors cannot do that.
+
+Chair Hoy noted that Director Anderson was speaking to the issue of conflicts of interest rather than just abstention.
+
+Director Menten said the key words to consider in abstaining are “financial gain”. She said she would call Director Archuleta and ask why he had abstained from voting the previous week.
+
+Chair Hoy reiterated that there were two separate issues being discussed: conflicts of interest and abstention. He said the Board would not be opening up another bylaw committee.
+
+Chair Hoy called for any other items of discussion.
+
+Director Menten mentioned the new Directors should know procedure for removing a single item from the consent agenda. She further stated, in regard to the study of the fare pass program, that she was in sticker shock over the pricing. She said that, with the cost of the facilitator and the technical consultant, the cost for the program was between $240,000 and $290,000. She said that figure was not at all what she thought it would be and had assumed a cost of a mediator being between $10,000 and $13,000 to do three to six meetings with the public and with internal stakeholders. She did not anticipate the cost of the study being $250,000 or more. Director Menten said she had a meeting scheduled with Michael Washington and Bill Van Meter to discuss the study costs. She said that the project had experienced quite a bit of mission creep, which is why it had become so costly, and hoped to reduce the scope. She said the project does not deserve a $250,000 study.
+
+Chair Hoy said he was unsure where he falls on the issue and needs more information.
+
+Director Francone agreed with Director Menten.
+
+General Manager Genova said RTD went through the fare structure process in 2014-15 and that the Board voted on new fare rates that went into effect in 2016. He said at the time the new rates went into effect there was a significant increase in purchasing of EcoPasses. He said the main EcoPass stakeholders were initially upset about RTD’s approach to EcoPass pricing. He stated that he felt the price increase was valid and that RTD had landed in a good place with respect to the new fare structures. With the financial report of the previous Friday, he mentioned RTD was close to the yearly projected revenue when considering all the different variables, specifically changing from three transit zones to two and issuing day passes for the first time. He said there had been concerns based on fare modeling and significant service plan shifts but that the estimates were playing out very well.  He said that, at the time the rate changes were being discussed, RTD committed to putting together a working group to look over all of the types of passes issued, namely Flex Passes, monthly passes, neighborhood passes, college passes, etc.
+
+General Manager Genova stated the original intent of the study was to look at all of the types of passes issued by RTD. He also said that, in the meantime, there have been discussions about low-income passes and even further pass types. General Manager Genova said that RTD committed to the stakeholders and a broad body of elected officials to undertake this study in 2015 and that he has struggled to tell these individuals that the study will not commence until 2017. He said the stakeholders are frustrated, but with so much going on in 2016, they were told they would have to wait until 2017.
+
+He said that RTD has finally embarked on the process and needs assistance from the facilitator given the diversity of individuals on the working group and the groups being interviewed around the districts. He said that the invitations had already gone out to the individuals in the study group listed in the previous week’s Board packet. He said that, originally, the plan was to appoint two individuals per RTD district but that model was changed because it did not seem to work and that it was decided the group needed a broader base. General Manager Genova said that certain people opted not to participate because they could not commit to the process.
+
+He said that he questioned staff as to whether the study will be completed in a year. He said that other groups may perform their own financial analyses and may conclude that EcoPass is too pricey. He stated that the reason RTD has hired a facilitator is to represent RTD, to do data analysis, to crunch numbers, and to look at as many factors as possible to take a look at the process, the financial analysis, the induced demand, etc. He said that it is valuable to do this process because he receives requests almost weekly from very large entities who are looking at using RTD passes and typically choose EcoPass because it is the cheapest option. He said that EcoPass is set up for companies and other organizations but that RTD has a lot of contracts with different types of groups. For example, he mentioned that the Governor’s office called to say EcoPass is really expensive. He said that, when RTD representatives spoke with the Governor’s representatives to walk them through the options and showed them how reasonable the pricing really is, they renewed their contract.
+
+Director Menten asked how many people under the state contract actually live within district.
+
+General Manager Genova said that the EcoPass is only for the people who live in district, which is part of the master contract with the state of Colorado. He said that RTD has other contracts, such as one along the US 36 corridor, and that RTD has so many different approaches to issuing EcoPasses that it is dangerous. He said that Denver Public Schools (DPS) had just emailed him to talk about EcoPass for DPS high school students and that the City of Lafayette had considered placing a property tax increase on the ballot to do a city-wide EcoPass. He said that RTD had responded to these inquiries and said there are not enough resources in the organization to properly come up with the cost for such an endeavor. He said Boulder County has done the same as the City of Lafayette and that DIA wants to put all 35,000 employees on EcoPasses.
+
+General Manager Genova said it would be great to have all these people on transit but asked how one would price a pass that gets such wide distribution, because it is unclear how much issuing so many passes would displace other forms of payment and revenue. He said there is a high variability with the way RTD is issuing EcoPasses and that it would be difficult to move backward if RTD establishes a large program. He asked what would happen if a program were to bring in 10,000 new users on EcoPass. He said so much of the proper analysis has not even been identified, which is why RTD is contracting with a technical consultant. He said that managing the process and keeping up expectations would be long and arduous, which is why RTD had contracted with the facilitator, considering the amount of facilitation, minutes taking, and prep for four-hour meetings. He said his hope is to make some improvements to the EcoPass program in the end and mentioned that all of the Directors were on the Board for the fare adjustment process. He said the project is going to take a lot of resources and that the board made the commitment to proceed. He said even the 1-year period is aggressive.
+
+Chair Hoy asked General Manager Genova to confirm that it is fair to say the pass program adjustment is just as big a process as fare adjustment.
+
+General Manager Genova agreed and said, with the additional variables, this process may be more complicated. He used the neighborhood EcoPass program as an example, in one neighborhood someone might currently pay $50 while others pay $12.
+
+Chair Hoy stated that the end result may actually an increase in revenue.
+
+General Manager Genova said that the Board approved the objectives of the study, one of which is standardizing revenue. He said RTD will get requests for programs that are not currently offered, such as community-wide EcoPasses and low-income EcoPasses. He said the analysis will have to be done to determine what can and cannot be done. He said that Heather Copp, RTD’s Chief Financial Officer, and Michael Washington, Title VI Manager, are RTD’s representatives to the program, because the two main issues are revenue and Title VI compliance.
+
+Director Deadwyler stated the study may cost more than $250,000. She speculated that, with all of the analysis needed, the total may run even higher.
+
+General Manager Genova said the cost will be monitored very closely and that the intention is to not go beyond that amount. He said that, at the very least, RTD may come out of it with a better policy to respond to these questions about community EcoPasses and the like. He reiterated that there is a high variability of how RTD has done EcoPass in the past and that it would be good to put parameters around the issuance of passes. He said that he is optimistic but that the process will be challenging.
+
+Director Menten asked how many of these groups want a reduced price and agreed with Director Deadwyler in saying the study may exceed $250,000.
+
+General Manager Genova said that the project has a defined budget and a timeline of one year.
+
+Chair Hoy said that he has friends in higher education who are reluctant to do something for their students and wonders if something can be done to make the passes work for them. He said that hopefully some of the formulas can be simplified.
+
+General Manager Genova said it would be nice to simplify the formulas and that high schools have approached RTD wanting the same rates that colleges receive. He said certain schools have not joined because they do not have the frequency or level of services coming into the city center. He said that there is no policy for such a program and that RTD receives tons of requests for pass programs for which there is no policy. He said that people are frustrated that RTD is not being a good partner.
+
+Director Deadwyler said RTD is getting a lot of pressure from the schools though they are looking for charity, such as free excursions. She asked how RTD should handle those requests.
+
+General Manager Genova said that RTD does not do excursions and that individuals on Medicare, senior citizens, and students can purchase a 50% reduced fare, which is what Denver Public Schools buy.
+
+Director Deadwyler asked if DPS distributes those reduced-fare tickets to the students.
+
+General Manager Genova said yes, though he pointed out that even the schools within DPS have differing methods of distributing the tickets.
+
+Chair Hoy said that his wife works in the Adams 12 School District and that they buy tickets for the district and distribute them to the individual schools, which may have their own criteria. He said that many tickets go to students on the free and reduced lunch program as one of the main distribution criteria.
+
+Director Deadwyler said that schools constantly want RTD to give them more tickets and that RTD sent out a letter about reduced fare criteria that went over the heads of the schools.
+
+General Manager Genova said that what the schools want is EcoPass pricing. He said RTD receives requests from all around and that Denver’s mayor has asked about EcoPass pricing, too. He reported that Denver uses something called a MyDenver card and that, if the Mayor had his way, that card would be their transit pass as well.
+
+Chair Hoy said he did not want to speak for everyone but felt that the Executive Committee does not want to see the EcoPass becoming a free-and-reduced program and that stating so might be a good message going forward.
+
+Director Francone said there is no question that the pass program needs to be revamped but the Board felt sticker shock the other night.
+
+Director Francone asked whether there has been any consideration, in the interest of cost reduction, to partner with student groups or others to do the technical evaluation.
+
+General Manager Genova said anyone interested could respond to the RFP.
+
+Director Walker said that giving the study over to students would result in student-quality work. He said that, in his field, a National Environmental Protection Act evaluation for a small five-acre plot of land could cost $100,000. He said the $250,000 price of the technical evaluation does not surprise him and that the one-year timeline is aggressive. He further stated that transparency costs money and that there will be value in whatever is developed, though the outcome may not be what RTD wanted. Whatever the result, Director Walker said that RTD would be able to back up any changes to the pass program, as was the case with the recent changes in the code of conduct.
+
+Director Deadwyler mentioned hiring a Chief Operations Officer. She questioned whether a COO could not be hired for less than $200,000 and asked General Manager Genova for a justification.
+
+General Manager Genova said that a COO was being hired for a couple of reasons: 1) RTD has greatly expanded its operating base and has needed position like this for years, because one person would be responsible for integrating bus, rail, and Access-a-Ride operations, and 2) Certain pieces of the organization would be elevated, namely Access-a-Ride and service planning. He said the reporting structure of those two elements of the organization is very low and would now report much higher. He said another piece is that he is more involved in the day-to-day business operations than he would like and suggested a COO would be able to take that on.
+
+Director Deadwyler said Phil Washington, RTD’s former General Manager, had previously headed both Operations and FasTracks. She said she was not trying to compare Mr. Washington to General Manager Genova, but she does not want the organization to seem too top heavy.
+
+Director Deadwyler also wanted to comment on the structure of the Executive Committee meetings. She asked whether both Barbara McManus and Mr. McKay are part of the Executive Committee team. She inquired about the Board Office structure in terms of their roles.
+
+Director Francone said that both Barbara McManus and Paula Perdue, former Executive Director of the Board Office, had been present before.
+
+Barbara McManus said she was not always in the meetings in the past and that she will not be reporting and will not speak unless spoken to.
+
+Chair Hoy said Mr. McKay is just getting up to speed on how the Board operates and did not see a problem with both of them sitting in on meetings. He mentioned that he would be meeting with Board Office staff individually.
+
+Director Deadwyler said she only wanted to bring up their involvement because she does not remember having multiple Board Office staffers in the Executive Committee meetings in the past.
+
+Chair Hoy said the Executive Committee would see Barbara McManus and John McKay side-by-side because John would not learn everything overnight.
+
+## IV. Adjourn
+
+Chair Hoy adjourned the meeting at 1:05 p.m.
+
+## IV. Retiree Awards
+
+David Ayala – Service and Cleaning – 24 years
+
+Bill Cashman – General Repair Mechanic – 17 years
+
+Kevin Flageolle – Mechanic – 28 years
+
+Terrell M. James – Street Supervisor – 23 years
+
+Larry Perkins – Master Mechanic – 39 years
+
+Victor Petersen – General Repair Mechanic – 18 years
+
+John S. Shaver – Signal & Traction Power Maintainer – 32 years
+
+Frank Snell – General Repair Mechanic – 28 years
+
+Larry Sorget – Mechanic – 30 years
+
+Larry D. Vogt – Bus Operator Instructor – 24 years
+
+## VI. Committee Reports
+
+Planning/Capital Programs & FasTracks Committee – Chaired by Director Lubow
+
+Government Relations Committee – Chaired by Director Walker
+
+Civil Rights Committee – Chaired by Director Solano
+
+Operations & Customer Services Committee – Chaired by Director Anderson
+
+Financial Administration & Audit Committee – Chaired by Director Menten
+
+GM Oversight & Performance Management – Chaired by Director Francone
+
+CDOT – Director Walker
+
+E-470 – Director Francone
+
+ACED – Chair Hoy/Director Lubow
+
+Northwest Parkway – Chair Hoy
+
+Pension Committee – Director Broom/Director Lubow
+
+#### A. Award of Access-a-Ride Service Contracts
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize the General Manager, or his designee, to enter into contracts with MV Transportation, Transdev, and Via Mobility Services for the provision of Access-a-Ride service using dedicated vehicles. These contracts are for three years, with two one-year options for a total of 5-years, for a 5-year cost of $175,341,294.00.  In addition, RTD will reimburse the contractors’ direct fuel costs in an amount estimated to be $20,715,915.00 for the total 5-year term.  The total 5-year not-to-exceed amount for Access-a-Ride dedicated-vehicle service and fuel is $196,057,209.00.
+
+It is further recommended by the Operations and Customer Service Committee that the Board of Directors authorize the General Manager, or his designee, to enter into contracts with MV Transportation and Transdev for the provision of Access-a-Ride service using non-dedicated (contractor provided) vehicles.  These contracts are for three years, with two one-year options for a total of 5-years, at a not-to-exceed 5-year cost of $38,918,913.00.  Fuel for the non-dedicated vehicle contracts is included in the service contract price.  These recommendations represent the most responsive and responsible proposals received in response to Request for Proposals (RFP) 16-DH-047 (dedicated vehicle) and 16-DH-046 (non-dedicated vehicle) to provide Access-a-Ride Service. The contracts to provide this service are scheduled to be effective April 1, 2017.
+
+#### B. Access-a-Ride Travel Training Project
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors authorize the General Manager or his designee to enter into a contract with Via Mobility Services for the provision of Travel Training services. Performance under the contract is for a one (1) year period and shall not exceed $134,040.

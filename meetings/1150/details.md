@@ -1,0 +1,57 @@
+### A. Call to Order
+
+Committee Chair Daly called the meeting to order at 5:32 p.m.
+
+Staff Present:              Bruce Abel, Shirley Bennett, Lee Cryer, Chuck Culig, John Elias, Sherry Ellebracht, David Genova, Terry Howerter, Kate Iverson, Tina Jaquez, Austin Jenkins, Erin Klaas, Nadine Lee, Marla Lien, Patrick McLaughlin, Barbara McManus, Paula Perdue, Scott Reed, Pranaya Shrestha, Bill Sirois, Henry Stopplecamp, Walt Stringer, John Tarbert, Mike Turner, Bill Van Meter, Phil Washington, Brian Welch
+
+Others Present:               Edie Bryan, Mike Dino, Stan Gronek, Sherman Hamilton, Miller Hudson, David Lewis, Darien O'Brian, Joe Racosky, Jacob Riger, Marta Sipeki, Jo Triplett, Gary Van Dorn, Hugh Wilson
+
+#### 1. 2013 - 006 : RESOLUTION IN SUPPORT OF UNIFORM SALES TAX
+
+Motion:              Director Folska made the motion to move this item to the Special Board Meeting on April 2, 2013.
+
+Director Rivera-Malpiede seconded the motion.
+
+Committee Chair Daly declared the motion PASSED.
+
+#### 1. Government Relations Update
+
+Local – Sherry Ellebracht
+
+Sherry Ellebracht explained that Roger Sherman was unable to attend the meeting so she would brief the Board on CRL Associates’ activities.  She stated that Roger Sherman and CRL have been spending a lot of time working on the interim transportation funding solutions.  This is a State-wide effort possibly going to the ballot for funding transportation.  The initiative would be a 0.7% sales tax increase with 2/3 going to highways and 1/3 going to transit.  Sherry explained that the western slope and mountain communities continue to be concerned about the sales tax; the resort communities already have very high sales tax rates.
+
+Sherry Ellebracht stated that Roger Sherman attended the Metro Mayor’s Task Force that met on March 5th and there will be another meeting on April 10th.  She shared that he has also been attending all the Citizens Advisory Committee (CAC) meetings and the meetings between CAC members and RTD Directors.  Sherry Ellebracht said that 7 meetings were completed in March with the balance to be scheduled in April.
+
+Federal – Patton Boggs
+
+Mike Dino stated that since the Directors were last in Washington, D.C. the House and Senate did pass the Continuing Resolution (CR) for Fiscal Year 2013.  This Resolution funds the Federal Government through the rest of the Fiscal Year which is through the end of September, 2013.  He explained that this is minus the $85 billion in automatic cuts related to Sequestration.  All Federal agencies need to have a plan by April 25th as to how they will deal with these cuts.
+
+Mike Dino said the positive elements of the Continuing Resolution (CR) are that the transit formula was set to levels authorized in MAP-21.  The final CR provides $117 million more for transit than the House originally proposed.  He stated that there will ultimately be $1.855 billion going to the Federal Transit Administration (FTA) for New Starts and Small Starts grants and $10 million that was put in the Transit Oriented Development Planning Pilot Program.  Mike Dino stated that the Transportation Investment Generating Economic Recovery Grant Program (TIGER) also received $475 million in funding.  He explained this is good since RTD has had designs on looking at how to get more funding through the TIGER Program and partner with other agencies.
+
+Mike Dino stated that our top advocacy issue is to make sure RTD receives the $150 million that was asked for in Fiscal Year 2013 for the Eagle P3 project.  He explained that because the Sequestration did reduce New Starts by $100 million they are concerned that the FTA will give all the Full Funding Grant Agreements (FFGAs) a cut.
+
+Mike Dino shared that they are working with our delegation to send a letter to FTA Administrator Peter Rogoff as well as US Department of Transportation (DOT) Secretary Ray LaHood asking them to honor the Full Funding Grant Agreement Request for $150 million this Fiscal Year.  He stated that our Senators have agreed to sign a letter and Congresswoman Diana DeGette is working to have her House associates write a similar letter.  Senator Michael Bennet and Congressmen Ed Perlmutter said they would make phone calls.
+
+Mike Dino explained that our messaging in the letter requests the allocation of the full $150 million for Fiscal Year 2013.  He stated that they are stressing that this is the only major transit public-private partnership going on right now and that it is in the best interest of the FTA to support it.  They are also highlighting how RTD has managed all our other FFGAs on time and within budget.
+
+Mike Dino said that the President announced his Rebuild America Partnership that will focus on more money for transportation infrastructure by creating a National Infrastructure Bank with $10 billion dollars.  This replaces the Build America Bonds Program with America Fast-forward Bonds.  He said the President is also proposing $4 billion in new competitive funding for TIGER Grants as well as TIFIA loan money.  Mike Dino stated that the Marketplace Fairness Act, which is an opportunity for states to collect sales tax on internet sales, did pass in the Budget Resolution for the Senate.  This could lead to more revenue for RTD if it is enacted by the president.  He said that we are still waiting for a new United States Department of Transportation Secretary to be nominated.
+
+Mike Dino shared that on April 10th, 2013 the President will introduce his Budget Resolution; RTD has asked for $160 million for Fiscal Year 2014.  He stated that the House and Senate both passed their Fiscal Year 2014 Budget Resolutions.  The Senate has called for Tax Credit Bonds and Infrastructure Bank to help transportation while the House wants to eliminate funding for high speed rail.
+
+State – Brandeberry~McKenna
+
+Jenifer Brandeberry shared that the House passed Senate Bill 13-027 with 44 yes votes.  She explained that because there was an amendment that was put into the Legislative Declaration by the House Committee it will have to go back to the Senate for concurrence.  Jenifer Brandeberry said that our Senate Sponsor, Senator Todd, is working on the Bill so she does not anticipate any problems.  She thanked everyone at RTD who worked with Brandeberry~McKenna in getting this Bill through.
+
+Jenifer Brandeberry stated they are also working on House Bill 1272.  This is the Sales Tax Parity Bill that is a product of the Board adopted Risk Allocation Matrix (RAM).  She said there were many meetings prior to the introduction of HB1272 with the Majority Leader and Department of Revenue.  This Bill will make tax collection in the State of Colorado uniform.  Jenifer Brandeberry explained that her team worked very hard with members of the business community, the Denver Metro Chamber of Commerce, and the Colorado Association of Commerce and Industry knowing that for a long time they have been at the General Assembly talking about this policy; having consistency in what is collected is important to them.  She shared that Tom Clarke came to the House Committee and testified in favor of this Bill.   The Bill was heard today on second reading in the House and passed on voice vote.  It should continue to move along in the process.  Jenifer Brandeberry thanked Terry Howerter, Marla Lien and Director Sisk for working on this complicated piece of legislation.  She believes this will create a clearer idea of what is collected.
+
+Jenifer Brandeberry informed the Board that we had a joint presentation to the Transportation Committees.  It was attended by Chair Anderson and Directors Daly and Tobiassen.  She said that General Manager Washington and Terry Howerter gave the presentation.  The Transportation Committees are holding a series of early morning meetings about how the State can look at innovative financing.  Jenifer Brandeberry stated that it is a compliment to the District that we were asked to present.  RTD provided some interesting testimony and conversation about how we have been incredibly visionary.  Jenifer Brandeberry stated she received many comments from the Committee following the presentation that the education provided is very beneficial.
+
+Jenifer Brandeberry shared that the Budget has passed from the Senate and is now in the House.  She believes that a big part of the Budget will be done by the end of the week (April 5, 2013).
+
+### D. Other Matters
+
+There were no other matters.
+
+### F. Adjourn
+
+Committee Chair Daly adjourned the meeting at 5:52 p.m. to the FasTracks Monitoring Committee.

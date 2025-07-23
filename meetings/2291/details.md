@@ -1,0 +1,183 @@
+## I. Operations and Customer Service Committee
+
+Chaired by Lorraine Anderson
+
+### A. Call to Order
+
+Committee Chair Anderson called the meeting to order at 6:34 p.m.
+
+Chair Sisk was absent.
+
+Staff Present:              Bruce Abel, Tom Barlow, Lacy Bell, Shirley Bennett, Jessie Carter, Carolyn Conover, Heather Copp, Lee Cryer, Heather Deckard, John Elias, Terry Emmons, David Genova, Mike Gil, Bob Grado, Ann Marie Isaac-Heslop, Tina Jaquez, Erin Klaas, Marla Lien, Adrian Mabry, Doug MacLeod, Tony McCaulay, Barbara McManus, Deborah Menenez-Wilson, Vivian Morales, Brenden Morgan, Kevin Parker, Paula Perdue, Sue Sandoval, Jannette Scarpino, Steve Scholz, Cal Shankster, Walt Stringer, John Tarbert, Pauletta Tonilas, Mike Turner, Bill Van Meter, Jyotsna Vishwakarma
+
+Others Present:              Diana Aqra, Karen Carr, Andrea Chiriboga-Flor, Kathleen Rosewater Cunningham, Mary Durant, Tom Grushka, Felicia Gurule, Sherman Hamilton, Audrey Haynes, Maricruz Herrera, Eugene Howard, Haya Ibrahim, Jaime Lewis, Matt Marino, Erin Mooney, Kent Moorman, Elizabeth Murphy, Joel Noble, Hanni Raley, Miguel Angel Reyes, Eugenio Rodarte, LaSheita Sayer, Kenny Shepard, Joe Thomas, Joe Triplett, Gary Van Dorn, Daniela Villarreal, Cheryl Wallace, Dace West, Monte Whaley, Zoe Williams
+
+#### 1. Award of Contract for On-Vehicle Advertising (Paratransit Fleet)
+
+It is recommended by the Operations and Customer Services Committee that the General Manager or his designee be authorized to enter into a contract with ZoZo Group, LLC of Denver for the sale and installation of exterior advertising on ADA paratransit vehicles for the two and one-half year period July 1, 2015 through December 31, 2017 with two one-year options for 2018 and 2019. Under the terms of the recommended action, ZoZo Group, LLC would remit to RTD either 1) a minimum guarantee of $45,000 in 2015, $200,000 in 2016 and $210,000 in 2017 or 2) sixty percent of net sales, whichever is greater.
+
+Motion:                Director Bagley made the motion to move this item to the full Board at the May 26, 2015 Board meeting.
+
+Director Folska seconded the motion.
+
+Discussion:                Tony McCaulay, Senior Manager for Marketing explained that a Request for Proposal (RFP) was issued in 2014 soliciting proposals for the sale and installation of exterior and interior advertising on RTD vehicles.  The RFP offered the option of three sections: 1) bus, light rail, and commuter rail; 2) ADA paratransit vehicles and 3) other in-vehicle advertising opportunities.  One response was received on the ADA paratransit vehicles from ZoZo Outdoor, a subsidiary of ZoZo Group, LLC. (ZoZo Group)  He recognized LaSheita Sayer, Founder and Chief Marketing Officer of ZoZo Group, who was in attendance.
+
+Director Folska asked if the ZoZo Group employed any people with disabilities and if it was a Disadvantage Business Enterprise (DBE) or a Small Business Enterprise (SBE).  Tony McCaulay replied that the company does not employ any people with disabilities.  He added that the ZoZo Group is a certified SBE, women- and minority-owned business.  Director Folska said that it would be wonderful to say that the company awarded this contract employs people with disabilities.
+
+Director Lasater noted that 40% commission on sales seems high.  He added that traditionally commissions are close to 15%.  He wondered how ZoZo Group arrived at the 40% revenue share.  Tony McCaulay said that as part of the RFP bidders needed to provide both a minimum guarantee and net revenue for RTD.  He pointed out that the 40/60% is the same share as Lamar Advertising, who holds the current contract for bus and light rail.  Tony McCaulay added that the 40% is a traditional share nationwide and that the ZoZo Group will pay commission to ad agencies out of their 40%.
+
+Director Deadwyler commended staff for trying to generate additional revenue.  She wondered if there was any way to prohibit negative advertising on paratransit vehicles.  She pointed out that the paratransit customer is either disabled and/or elderly and certain advertising could cause additional problems.  Marla Lien, General Counsel, said that RTD prohibits profanity, illegal practices, nudity and obscenity in advertising.  Beyond that there are not many additional limitations the agency can make.  Tony McCaulay added that advertising would only be displayed on the back and driver side of the vehicle; the curbside and front of the vehicle will be Access-a-Ride/RTD branded.
+
+Director Francone restated that advertising on paratransit vehicles will be subject to the same standards as advertising on buses and light rail.  She expressed her concerns about passengers not identifying the vehicles as a paratransit vehicle due to the advertising.  Tony McCaulay reiterated that was the reason these vehicles will not be fully wrapped in advertisements, just the back and driver side.
+
+Director Solano stated that it was a great idea to find additional revenue sources.  He wondered if paratransit riders have been polled on the possibility of placing advertisements on the paratransit vehicles.  Director Solano said that paratransit riders deserve the highest respect and possible advertisements may conflict with their beliefs and/or ideas.  Tony McCaulay said that paratransit riders have not been polled.  He noted that there will be no advertisements inside the vehicles.  Director Solano suggested that it might be a good idea to take the riders into consideration.
+
+Director Folska noted that advertisement on paratransit vehicles does not bother her at all.  She added that it is a great opportunity for revenue.  She asked staff what the estimate on the revenue looked like.  Tony McCaulay said that the minimum guaranteed for 2015 is $40k; $200k for 2016 and $210K for 2017.  He added that the ZoZo Group is very enthusiastic about the opportunity. Director Folska expressed her satisfaction with the minimum guarantee and the potential for more revenue.
+
+Director Archuleta wondered how long the ZoZo Group has been in business and if they were a local or national company.  Tony McCauley replied that they were a local company with 12 years of business.
+
+Committee Chair Anderson declared the motion PASSED.
+
+#### 2. January 2016 Recommended Fare Policy Changes
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors approves the recommended fare policy changes, as outlined in Attachment A, to take effect beginning January 1, 2016.
+
+Motion:               Director Deadwyler made the motion to move this item to the full Board at the May 26, 2015 Board meeting.
+
+Director Bagley seconded the motion.
+
+Discussion:               Bruce Abel, Assistant General Manager for Bus Operations, reminded the Directors that the Fare Study Task Force originated at the beginning of 2014.  The study was done in anticipation of the new lines opening in 2016 and the desire to simplify the fare structure in an equitable manner.   The Fare Study Task Force has included all portions of the agency as well as CH2M Hill as our consulting firm.  Bruce Abel added that extensive public outreach was done during the problem identification phase and after an initial draft was created.  This included 16 public meetings.  Other channels utilized for feedback included voicemail and website.  Staff brought a modified proposal to the April 28, 2015 Study Session after incorporating the received feedback.
+
+Lacy Bell, Planning Project Manager, reviewed the Fare Study Recommendation presentation included in the Operations and Customer Service Committee meeting agenda packet for May 19, 2015.  The presentation included a Summary Recommendation, Recommendation Details, Title VI Equity Analysis, Implementation Schedule, and Next Steps.  In the presentation, she explained that the paratransit fare would be calculated at twice the SmartCard base fare since the paratransit vehicles will not be outfitted with SmartCard technology.  Paratransit customers will still be able to buy the fare booklets at a 10% discount just like it is currently available.
+
+Bruce Abel stressed that the Fare Study was divided into stages.  This first stage does not include the EcoPass, CollegePass and the possible Low Income Pass.  The rational for this is that you cannot develop a pass program if there is not a definitive base program.  He also reinforced that the conversation with Mile High Connect and the Affordable Fare Task Force has been very productive.  Both the Affordable Fare Task Force and RTD have a desire to make transit more affordable while recognizing that RTD is not able to subsidize the fares.  Bruce Abel said he looks forward to the continued dialogue.
+
+Amendment
+
+to Postpone:               Director Solano made the motion to postpone this item for 60 days to allow for more encompassing feedback to include low income fares.
+
+Director Lubow seconded the motion.
+
+RESULT:              FAILED COMMITTEE [2 TO 11]
+
+MOVER:              Paul Solano, Director, District K
+
+SECONDER:              Judy Lubow, Director, District I
+
+AYES:              Francone, Solano
+
+NAYS: Lorraine Anderson, Barbara Deadwyler, Kent Bagley, Claudia Folska, Larry Hoy, Bill James, Gary Lasater, Judy Lubow, Natalie Menten, Tom Tobiassen, Jeff Walker
+
+ABSTAIN:              Ernest Archuleta
+
+ABSENT:              Chuck Sisk
+
+Committee Chair Anderson declared the motion FAILED.
+
+Discussion on
+
+Original
+
+Motion:              Director Hoy congratulated the staff on a heroic effort.  He asked for confirmation that the Fare Recommendation supports the Strategic Budget Plan presented earlier during the Financial Administration and Audit Committee meeting.  Lacy Bell said that was correct.  Director Hoy stated that the nuances could be talked about all day.  He also expressed his conceptual opposition to the fare zones but understands the need.
+
+Director Solano read into the record a petition with 1,000 signatures from Westwood Unidos, 9to5, Praxus, and other organizations in support of affordable fares.  A copy of the petition is available at the Board Office.  Director Solano said that the bus fare raise to $2.60 is a debilitating factor.  He stated that the bus is the transit mode most used by the low income riders.  He added that this would be oppressive to the workers.
+
+Director Francone thanked staff for their work on the Fare Study.  She called it a labor of love.  She asked if transfers would be included in the SmartCard.  Bruce Abel replied that the Day Pass would enable riders to do as many trips as desired until the end of business day.  The SmartCard is an incentive that staff is recommending in order to provide an opportunity to use transfers on a one way trip.  He added that the percentage of riders who do this kind of trip is very small.  Director Francone asked what percentage of riders use transfers.  Bruce Abel replied that currently the percentage is high as the transfer is the media available.  Director Francone wondered if with the implementation of the SmartCard the paper transfer would be discontinued.  Bruce Abel answered that that was correct as the paper transfer has been a source of confusion to bus operators and riders.
+
+Director Francone asked staff to explain how they arrived at the $17.50 paratransit airport fare.  Lacy Bell replied that the regular regional SmartCard fare is $8.75.  The paratransit fare is calculated at twice the SmartCard fare.  She added that currently the paratransit airport fare is $26, making the new fare significantly less.
+
+Director Folska echoed the sentiments of her colleagues in congratulating staff on their work and good intentions.  She trusts that the effort will keep going forward as the Fare Study moves into phase 2.  She commended Director Lubow for making sure the conversation with Mile High Connects started.
+
+Director Folska said that the idea of the SmartCard is a good one; however, the SmartCard is not so smart right now.  She recounted that the new fares will be in place in January and that the Board was asked to approve the purchase of printers as to ensure timely installation.  She asked staff what assurance the agency has that Xerox will deliver the SmartCards on time.  Bruce Abel said that it is hard to give an assurance on a third party.  He stated that RTD is working with Xerox to expedite the tasks that need to be done.  He added that Xerox project management has changed 4 times; however, Xerox recently has been more organized and has better tracking mechanisms.  Director Folska asked when RTD originally engaged Xerox and how much has been spent so far on the project.  Bruce Abel said that Xerox was hired in 2010 with a budget of approximately $18 million.  Committee Chair Anderson asked to have this conversation taken offline.
+
+Director Folska stated that she does not like the coupon books and is not aware of any paratransit rider who likes using them.  She added that booklets are a hassle.  She wondered why the SmartCard technology could not be used in the paratransit vehicles, offering the same service to all riders.  She asked staff to explain the paratransit fare and the booklet discount as the presentation made it seem like the paratransit fare was being discounted twice.  Lacy Bell replied that the paratransit fare is calculated at double the SmartCard fare.  The booklets are sold at a further 10% discount of the SmartCard price.  Director Folska was not sure that the inconvenience and hassle of the coupons, which need to be exchanged at the end of the year, is worth the perceived double discount. Bruce Abel added that the paratransit coupon books have been well received by the users; therefore, staff’s recommendation is to continue using them.  He stated that some users find them convenient because they do not need to be purchased by the riders themselves. He added that the long term objective is installing the SmartCard technology in the paratransit fleet.
+
+Director Folska referred to the Strategic Budget Plan presentation given by the Senior Manager for Budget and Financial Analysis, Jannette Scarpino, during the Financial Administration and Audit committee meeting earlier in the evening.  During the presentation, Jannette Scarpino noted that certain projects would be deferred as there is a $26K budget shortfall.  Director Folska wondered if phase 2 of the Fare Study, where the various passes will be discussed, would also include a discussion on parking and how that may contribute to the overall revenue needed to fill the gap of the anticipated $11 million revenue reduction due to the implementation of a low income pass.  Bruce Abel reminded the Directors that the $11 million number was shared during the April 28, 2015 Study Session as a possible revenue reduction from a low income fare based program.  He did not want to speak to Jannette Scarpino’s $26 million and the deferred projects as the deferred projects are usually completed at a later date.
+
+Director Lubow gave kudos to the Fare Task Force on their hard and creative work. She stated that she shared the concerns about being equitable to low fare riders.  Since staff could not give an assurance on Xerox’s delivery of SmartCards in a timely manner, she asked if staff has thought through what would happen if Xerox is a year late, for example.  Bruce Abel told Director Lubow that staff looks at the DayPass and printers as essential parts of the fare structure.  The SmartCard is an incentive to move riders towards this type of media but it is not essential to the fare structure.  He recalled that the original timeline called for a recommendation in April.  Postponing the recommendation to May has provided time to add necessary recommendations to the fare structure.  The extra month has, however, put extra pressure on our partners, such as Xerox, to deliver.  Bruce Abel said that staff recognized those risks and is ready to make the necessary accommodations to be ready by the first of the year.  Director Lubow commented that as a Board member who cares about affordability, it saddens her that the SmartCard and the Fare Structure might not launch together since one can save a significant amount of money utilizing the card.  She hopes that staff can put pressure on Xerox to put whatever resources are necessary in place.
+
+Director Lubow said that her understanding of the airport fare cost analysis included increasing fares. She asked if staff had a chance to look into that.  Bruce Abel said that staff requested that CH2M Hill analyze airport fares at $15.  At that rate, the increase in revenue would be $1.1 million; however, he added that 70% of the ridership to the airport are employees for whom the $9 regional DayPass would be available.  If the DayPass is available, chances are people will not buy the $15 airport fare and just buy the Regional DayPass.  If non airport workers did not act in their best economic interest and bought the $15 airport fare, we would see an increase of $300,000 to $400,000.  Lacy Bell added that nationally a $9 fare is on the high end of the spectrum for an airport fare.  Director Lubow stated that while on the phone with Lacy Bell she had an epiphany and realized that if people wanted to buy two one way tickets with their SmartCard that would be a discount compared to the DayPass.
+
+Director Walker asked for the expected date of the SmartCard rollout.  Bruce Abel replied that it was originally November 1, 2015 for stored value with very limited application.  However, it makes no sense to implement the SmartCard at the current fare zone structure so it will be January, 2016.
+
+Director Walker stated that he is not crazy about the fare zones coming back but understands why.  He noted that the riders from Jefferson County will not have the opportunity to go as far as other riders within the fare system as the zoning structure assumes that everyone will travel downtown.   Director Walker appreciates the push to use SmartCard as it is more efficient to RTD, the users, and the tax payers.  He pointed out that the staff has put in an unbelievable amount of work on the Fare Study.
+
+Director Lasater stated that the phase 2 conversations on passes will last about 90 days.  He asked if the $11 million shortfall is already factored into the $131 million projected revenue of the Fare Study recommended action.  Bruce Abel noted that $131.3 million is the revenue target for this recommended action.  Any further action, including the potential inclusion of a low income fare pass that may lead to a revenue reduction of $11 million and the search for offsetting the revenue reduction, is not included in the recommended action.  Bruce Abel noted that staff’s objective is to find ways to fund the program as opposed to not meet the revenue target.  Director Lasater thanked staff for continuing the dialogue and hopes that a solution can be reached that will make everyone happy.
+
+Director Menten stated that she does not hand out praise very often; however, she thanked staff and Lacy Bell for all the work on the Fare Study.  She acknowledged that she got frustrated towards the end due to the changes made, but the changes were because of public feedback.  She suggested that the next time the agency goes through this process, adding an extra month to the public feedback process would be helpful.  Director Menten mentioned a few things about the proposal: it is fair, glad to see the paratransit fares, glad to see that transfers were added, and impressed that 70% of the airport ridership is employees.  She added that currently we do have a day pass at $6.40, which nobody uses.  In reference to the exchange of paratransit booklets, she noted that 2014 coupons could be exchanged up to June 30, 2015.  Director Menten expressed her satisfaction with the proposal.
+
+Director Deadwyler expressed her gratitude to staff, especially appreciating the concessions for the paratransit fares.  She asked if a low income plan would have to be done through non-profits.  Bruce Abel said that staff is looking at a variety of ways.  He noted that the current non-profit program could be streamlined to improve access.  He added that another option being considered is extending the Senior, Student, and Disabled 50% discount to those that are 150% under the poverty line.  Director Deadwyler wondered how we could certify someone’s income.  Bruce Abel said that RTD would not engage in the certification process.  This would be done by non-profit entities.  Director Deadwyler requested that the list of non-profits participating in the current Reduced Fare Program be made public.  Lacy Bell added that the goal is to streamline and broaden the awareness of the current reduced fare non-profit program.  Director Deadwyler reiterated her appreciation for staff’s work, including the paratransit fares.
+
+Director Solano wondered if any statistical analysis was done forecasting how ridership would be affected by the fare change.  Lacy Bell replied that the proposed model calls for 89.3 million riders compared to 91 million riders with no fare increase.  She noted that other fare models had a larger decrease in ridership.  Bill Van Meter, Assistant General Manager for Planning, explained that the model forecasts a 2% drop in ridership.  He added that it remains to be seen how other variables influence ridership, i.e. improved services, opening of new lines, etc.  Director Solano reinforced that this was a forecast and not certain.
+
+Director Tobiassen echoed the praise to staff for all their hard work.  He stated that they may win a Nobel Peace Prize for their conversations on a low fare income program.  He noted that his fear is that no matter what, for some reason, we do not meet our revenue target.  He recalled when in 2010 RTD had to cut 8% of services and how that such action would not have his support.  He also recalled when the SmartCards first rolled out.  He pointed out that technology has changed so much and we keep moving the target for our third party vendors.  He asked the Directors to cut the vendors a little slack as they struggle to implement the program.
+
+Director James thanked Lacy Bell and the staff for all the heavy lifting they have done during this project.  He remembered how a fare increase 5 years ago seemed like a big deal.  This, however, is really a big deal.  He is glad to see RTD taking advantage of using new technology.  He looks forward to completing phase one of the process and working with Mile High Connects and other stakeholders as the project moves to the next phase.
+
+Committee Chair Anderson gave kudos to the staff for the job they have done.  She said she appreciated the new airport fare as many people in her community work at the airport and are not very highly paid.  She thinks the fares will be fairer than they were in the past.  She added that she has been in talks with her legislators regarding low fare for the income challenged.  She says that RTD should not be responsible for this and that the State and the Federal government have to help the agency.  Committee Chair Anderson expressed how encouraged she was by staff’s proposal.
+
+Committee Chair Anderson declared the motion PASSED.
+
+Committee Chair Anderson thanked the Board and staff for their work on this difficult issue and expressed her happiness over presenting a new fare structure at the Board meeting.
+
+##### a. Fare Policy Attachments_Updated 5-27
+
+##### b. Fare Study FINAL Recommendation May 27
+
+#### 1. Proposed August 2015 Service Changes
+
+Bruce Abel, Assistant General Manager for Bus Operations, introduced Jessie Carter, Manager for Service Planning and Scheduling.  Jessie Carter pointed the Directors to the Board of Directors Report included in the Operations and Customer Service Committee meeting agenda packet for May 19, 2015.  He noted that the August changes include the opening of new stations:  Boulder Junction at Depot Square and Central Park Station Bus Plaza and Park-n-Ride, which will replace the existing Stapleton Park-n-Ride.
+
+Jessie Carter informed the Directors that the May service changes went into effect on Sunday, May 10. This included the installation of route 4 which is averaging 16 boardings per hour, which is very good for a new route.
+
+Director Folska asked if RTD had done any marketing for route 4.  Jessie Carter replied that the Westwood Neighborhood Association has gone door to door handing out information.  RTD has not spent any money yet but is planning on doing a direct mail to all residences within a quarter mile of the route.  Bruce Abel recognized the great partnership with the Westwood Neighborhood Association as they have gone above and beyond communicating with the community.  Director Folska found the partnership with Westwood Neighborhood Association very exciting and wondered how to apply these lessons learned to other communities.
+
+Director Francone said that she understood the South Jeffco Call-n-Ride was underperforming.  She expressed her excitement over the service addition to route 77 as that is the bus she utilizes.  She shared the concerns of the Evergreen residents as they are scared to death they might lose their Call-n-Ride.  They are motivated to reach out and push out information.  Director Francone stated that Evergreen would like marketing assistance, like information, maps, and flyers in order to promote the service.  She said that her understanding is that Evergreen has been asking for these materials for about a year.  Jessie Carter replied that Jeff Becker, Senior Manager for Service Development, and Brian Matthews, Manager for Special Services, have worked with community groups to increase Call-n-Ride ridership in Evergreen.  He told Director Francone that staff will do what they can to assist Evergreen in marketing their Call-n-Ride.  Director Francone wondered if the vehicle from the South Jeffco Call-n-Ride would be put back in service.   Jessie Carter replied in the affirmative.  Director Francone wondered if the area ridership supports another Call-n-Ride vehicle or would it be best served by a more fixed route.  Jessie Carter replied that that is one of the issues Brian Matthews is analyzing.
+
+Director Hoy mentioned that there used to be a bus in Evergreen that was discontinued leading to the creation of the Call-n-Ride.  Jessie Carter clarified that it was route 63X and there were 7 actual rocket scientists who rode the bus.  Director Hoy thanked the Board for voting to keep the Federal Heights Call-n-Ride active.  He said that the ridership continues to go up, which is a testimony to community spearheading the movement.
+
+Director Bagley noted that he worked with Director Daly back in 2011 when the route 63X was cut and the Call-n-Ride was established.  He pointed out that it was a thorny issue to address.  He mentioned that he rode the bus during the morning commute from Mineral to Lockheed Martin and it was empty.  He is very excited that Director Francone’s District is getting upgraded services.
+
+##### a. Attachment A August 2015 Service Changes
+
+##### b. Attachment B Map Central Park PnR Layout - Aug15
+
+##### c. Attachment C Map Route 6 and Route 52 - Aug 15
+
+##### d. Attachment D Map Route 8 - Aug 15
+
+##### e. Attachment E Map  Route 15 - Aug15
+
+##### f. Attachment F Map Route 15L Map- Aug15
+
+##### g. Attachment G Map Route 20 Map - Aug15
+
+##### h. Attachment H Map Route 21 - Aug 15
+
+##### i. Attachment I Map Route 26 and Route 28 - Aug 15
+
+##### j. Attachment K Map Route 27 - Aug 15
+
+##### k. Attachment L Map Route 30L and Route 36L - Aug 15
+
+##### l. Attachment M Map Route 33 - Aug 15
+
+##### m. Attachment N Map Route 51 - Aug 15
+
+##### n. Attachment O Map Route 85 and Route 401 - Aug 15
+
+##### o. Attachment P Map Route 1W - Aug 15
+
+##### p. Attachment Q Route HX and S
+
+### D. Other Matters
+
+Director Francone wished Director Lasater and Director Folska a happy birthday as their birthdays are later this week.
+
+Director Menten noted that there are customer service panels in the works.  She asked staff to send her a list of meetings.  She also wondered what topics they will be discussing.  Bruce Abel, Assistant General Manager for Bus Operations, said that he would forward the list to Director Menten.  He added that he believed the next session would be on SmartCards.
+
+Director Solano informed the Directors that ThorntonFest on Saturday, May 16, was a lot of fun.  He encouraged the Directors to attend public functions, including the upcoming Juneteenth Festival in which Director Deadwyler is involved.
+
+### F. Adjourn
+
+Committee Chair Anderson adjourned the meeting at 8:10 p.m.

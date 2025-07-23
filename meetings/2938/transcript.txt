@@ -1,0 +1,1064 @@
+April 9, 2019
+Operations & Customer Service Committee
+KATE WILLIAMS: Ladies and gentlemen, I am calling to order the committee here that I can't
+speak to because I'm signed out and signed back in yet. So you get another minute, or two or
+three. Hello.
+Directors, you have to sign out and sign back in before you can attend the Operations and
+Customer Service Committee meeting. We'll take a minute for technological difficulties. Please
+note that while we are all fumbling and bumbling that this meeting will be digitally recorded and
+captioned, and made available to the public. Safety is still our core value, but I'm not going to tell
+you anymore about it.
+And the first thing we need is a slight change to the agenda in order to keep you attentive and
+interested. So I'd like to ask Mr. Bruce Abel if he's willing to speak to us about what's going on
+in the world of autonomous vehicles. Mr. Ford, you OK with that?
+MICHAEL FORD: Absolutely.
+KATE WILLIAMS: Thank you.
+BRUCE ABEL: Hello and thank you, Madam Chair. And thanks for the chance to come back
+and visit with you all this evening. As Chair mentioned, I would like to provide an update on the
+61AV project demonstration, or pilot project, as well as talk a little bit about possible future steps
+with autonomous vehicles.
+First of all, I do want to apologize, as I do have a very brief PowerPoint that is background and
+context for this update. To the extent that a semi-retired person can be on vacation, I've been out
+of town for the last couple of weeks. So I didn't get this in time for the Board packet. But this is
+identical to the update that was provided at the November operations and committee meeting.
+But it dawned on me that there were perhaps some individuals tonight who were not at the
+November meeting, because we have had a change in Board membership. So it's a whopping, I
+think, four slides, but it is identical. And so I appreciate the Board working with me on this. But
+again, my apologies.
+So as the Board knows, on January 29th, we did kick off the 61AV autonomous vehicle project.
+It was a pilot to test autonomous vehicles in a transit application. And that's the jargon term we'll
+talk a little bit more about in just a moment.
+The project partners included RTD, EasyMile, the AV vehicle provider, Panasonic, Pena Station
+Next, LC Fulenwider, the developers who are working with Panasonic to develop Pena Station
+Next, the city and county of Denver, both Denver International Airport and Denver Public
+Works, as well as Transdev, a service supplier. And we all worked together within the regulatory
+
+framework that was developed by the Colorado Autonomous Vehicle Task Force, which was
+members of CDOT, the Department of Revenue Division of Motor Vehicles, as well as the State
+Patrol.
+Flip forward two, if you will. Next one. OK. So phase one is approximately a one-mile loop that
+connects the 61st and Pena Rail Station to the nearby Panasonic offices, as well as some
+apartments that are under construction and anticipate beginning to lease next month. It operates
+Monday through Friday, 15 minute frequencies from the rail station. It operates from 10:00 AM
+to 6:00 PM Monday through Friday. The AV runs on roadway in mixed traffic. And this is the
+first AV demonstration in the state of Colorado where a vehicle operates in mixed traffic on a
+public right of way.
+We've been tracking performance since early February, and that's really what I'd like to share
+with you this evening. So first, I'd like to answer the question that everybody asks-- even though
+it's not really relevant to our project goals-- but everyone wants to know how many passengers
+have we carried. So since we began that gathering stats on February 11th, we have carried 208
+passengers. But as I said, that's not really what our project objective is here, because the project
+goals here are really focused on assessing AV technology in a transit application.
+And so towards that end, I can tell you that since we began monitoring Feb 11th, we have
+provided approximately 69% of our scheduled hours of AV service with the AV vehicle. There
+are a number of reasons why we have provided 69% of our service. And this is really why we do
+demonstrations. Most of our inabilities to provide service doing the remaining 31% of the time
+are really results related to our environmental and climactic conditions that we operate under
+here in Denver.
+[INAUDIBLE]
+BRUCE ABEL: Pardon?
+[INAUDIBLE]
+BRUCE ABEL: Blizzards. In my jargon. But in the recent weeks-- really, in the last three weeks- we have been able to provide approximately 96% to 98% of our scheduled AV service using
+the autonomous vehicle. So we have ranged from a low-- we provide weekly reports as well as
+consolidated reports. Our lowest week was the week of the blizzard, where we were able to
+provide only 36% of our hours. And the highest was this most recent week, last week, when we
+were able to deliver 98% of our hours.
+The reasons: number one, a heater. The first generation of autonomous vehicle did not include a
+heater in the interior of the vehicle. So on very cold days, the drivers would act to do one of two
+things-- either bring the service into the garage for a few minutes, so they, as the customer
+service ambassadors, could warm up, or they would swap the vehicle, the autonomous vehicle,
+out, and actually use the backup vehicle to maintain service to our customers. But these are the
+kinds of things that we're monitoring and measuring.
+
+Snow. Autonomous vehicles, as we've discussed-- there are a number of technologies that are
+used for the safety perspective of the autonomous vehicle. We have sensors, LIDAR, which I
+like to refer to as sonar, where it sends out signals and bounces back GPS so it knows where it is,
+camera so it knows where it is. But these sensors read falling snow as obstacles when it falls
+heavily enough.
+Heavy winds. The sensors read debris being blown across the street under heavy winds as an
+obstacle. So again, it caused the vehicle to stop. We measure these stoppages, and when these
+stoppages get heavy enough, we revert to the backup vehicle.
+Heavy rain. The sensors read heavy rain as an obstacle. Current guidelines are that five
+millimeters, which is about 2/10ths of an inch per hour, will be read as inability to operate.
+Steam. The first ones we sort of all anticipated. This last one, we never did. Steam. When we
+have snow in Colorado, it falls on the ground. As it melts, it emits steam coming up from the
+roadway. The sensors read this steam as obstacles, and again, cause the vehicles to stop.
+In addition, we have obstacles such as construction vehicles that come and park themselves in
+the roadway. And it requires manual intervention on the part of the customer service ambassador
+to manually intervene, take the vehicle out of autonomous mode, put it into manual mode, to
+circumvent the obstacle and then return to autonomous mode.
+So as I mentioned, we've had a low of 36% in any given week of provision of service in
+autonomous mode, up to a 96% to 98% provision in the last couple of weeks. But the good thing
+is-- and this is why we do demos-- we're already working with the AV manufacturers on
+addressing the issues that we identified. For example, the steam issue. They are already in the
+process of developing new software and technology to address the steam issue, because this was
+a new one even to them.
+The Gen 2 vehicle. We have a Generation 1-- Gen 1. Gen 2 vehicles include a heater. These
+vehicles were not available to us when we started the project, but Gen 2 vehicles now have a
+heater, so that customer service ambassadors and passengers have heat on the inside of the
+vehicles, as opposed to parkas being given to everyone who boards.
+So our experience is actually going to help us advance the technology to where it becomes more
+useful in a transit application. But what do I mean about a transit application? Most of the
+demonstrations that have taken place across the country are really parking lot shuttles, they're
+business park connectors-- all environments where time isn't really an issue. If you're in the
+parking lot at the baseball stadium, you're going to catch an autonomous vehicle from your car to
+the actual park, well, you're not running according to a schedule. Similarly, in a business park, if
+you're going from my office down the street, you're not looking to operate according to a
+schedule.
+In transit, most market research will tell you that our customers' number one priority is
+reliability, and reliability being defined as on-time performance and the ability of the vehicle to
+complete the trip without unanticipated interruptions. And as well, transit requires timed
+
+transfers, especially in the case of a first and last mile solution, such as what we're testing, which
+is there is a rail service that comes by a station every 15 minutes in each direction, and so we
+have developed an actual schedule that would integrate with the AV, integrate with the rail
+service.
+So up at this point in time, while on-time performance has been one of the metrics that we want
+to measure, we have not been measuring it. We are not reporting it because of the variety of
+challenges that we've encountered in the last several months. But we do have the technological
+work in place, and our goal is to begin measuring on-time performance effective May 1, which is
+the last, really, transit application type of metric that other AV demos are not looking at today.
+So we anticipate that the next report back to the Board, we will also be able to provide on-time
+performance metrics. This demonstration project is anticipated to run through the end of July.
+We wanted to make sure that we could start in January, so that we had operations in all seasons-January, winter through July, summer.
+So what would the conclusions that this person would share with you at this point in time would
+be? Well, one, as an organization, we always need to be willing and open to exploring new ideas
+and new technologies. We also need to be willing to objectively assess what the technology can
+do and what the technology can't do. All of us as human beings love to chase the next new bright
+shiny toy, but we need to be objective in assessing of what it can do for us, and what it can't do
+for us. We need to continue to work with technological services to address the shortcomings that
+we can identify so that we can overcome them and make them useful to us in a transit
+application.
+And that's really what we're doing right now as part of our demonstration. We're working with
+EasyMile and their software programs to change programs to address the steam issue. They have
+already addressed the heater issue. We need to continue to work on sensors so that they can be
+able to differentiate between snow and real obstacles, to be able to demonstrate to distinguish
+between rain and real obstacles, debris being blown across the road and real obstacles. But again,
+this is why we do a demonstration.
+Federal Motor Vehicle Safety Standards has-- these vehicles are not FMVSS compliant, so we
+have to get federal waivers, as part of our preplanning in this project. And they have identified a
+number of constraints in Av testing that each of the demos helped advance. For example, they
+initially said AVs can only operate 35 degrees to 95 degrees. As a result of prior demonstrations
+and ours, FMVSS has now said it's 0 to 95.
+Initial temperature-- let's see. Wind speeds. We can operate up to 31 miles sustained, but not
+above, and up to 40 miles peak and not above. So we continue to address, with our technology
+providers, how can we advance the state of technology so that we can provide a reliable service,
+and to assess how can AVs really play a role in a transit setting so that we and our customers
+might take advantage of it?
+As I mentioned, towards that end, we are anticipating this demonstration ending at the end of
+July. We have submitted a grant application to the Fed for funding for another demo. And that
+
+demo that we have submitted the grant application for is to operate a first and last mile two-year
+demonstration connecting the University of Denver and the DU Light Rail Station .
+As many of you may know, or some of you may know, DU previously had engaged a shuttle
+operator-- Chariot-- to provide first and last mile circulation from the DU campus to the light rail
+station. Chariot withdrew from the transit shuttle space at the end of January. So either the
+beginning or end of February. I forget if it was Jan 31st or end of February. OK.
+And so we submitted the grant application in conjunction with DU, the city and county of
+Denver, Transportation Solutions, EasyMile Vehicle Manufacturer, ourselves, and I'm sure I'm
+leaving somebody out. But it was a very collaborative effort in developing this grant application
+that's been submitted to the Feds for a couple million dollars to run a two-year demonstration as
+to how we can replace what was previously the Chariot first and last mile link with potential AV
+first and last mile link between the DU campus and the station.
+So that is my update. And I'll be glad to answer whatever questions there might be.
+KATE WILLIAMS: Excuse me, John. Can we have the pretty picture of the AV with the sunset
+in the background that we can see before we go? There you go. Just in case anybody wants to see
+it.
+BRUCE ABEL: This is the one thing that does differ from the November presentation. In
+November, we had the generic AV vehicle. This is actually our vehicle, as many of you have
+seen operating out at 61st and Pena.
+KATE WILLIAMS: Thank you Mr. Abel. We can go back now to seeing our pretty pictures
+instead. And I see Director Lubow has questions.
+JUDY LUBOW: Thank you, Chair Williams. Thank you for that presentation. It's very
+interesting and exciting. Can you check off on the box I am not a robot anymore? Or do you-[LAUGHTER]
+BRUCE ABEL: I can do that with limited ability, because oftentimes, it says what letters and
+numbers are these, and until I get new glasses, I usually get it about 50% of the time.
+JUDY LUBOW: I had a couple of questions, though. The ride that's now being worked-- is that
+on a public road with regular traffic?
+BRUCE ABEL: It's on a public road in mixed traffic. 60th and 61st, Salida and Panasonic Way.
+And those are all public roadways maintained by the city and county of Denver.
+JUDY LUBOW: So there are ordinary cars with regular drivers. Do they know they're dealing
+with autonomous vehicle in their midst?
+
+BRUCE ABEL: They do not realize that they are dealing with an autonomous vehicle in their
+midst. One of the things that we did work with both the State AV Task Force as well as the city
+and county of Denver Public Works is in doing a traffic analysis on the potential impact, we did
+post caution slow moving vehicle signs in the area, so that drivers on the public roadways are
+made aware of the fact that there could be slower moving vehicles. But the state does not wish to
+draw attention to an AV from any other vehicle. And so that is the signage that we resolved.
+JUDY LUBOW: OK. What is the speed limit that's being driven by this vehicle?
+BRUCE ABEL: The speed limit on the public streets is 25. This vehicle operates at
+approximately 11 to 12 miles per hour.
+JUDY LUBOW: So, I mean, is that considered a hazard with the other cars? I'm just wondering
+if this is-BRUCE ABEL: That again is one of the things that we're seeking to determine through the test,
+is to see whether operating in mixed traffic-- and again, we're the first ones in the state doing
+this-- whether operating in mixed traffic is posing any challenge for drivers out in the arena, any
+challenge for the AV vehicle. But we have had a relatively small number of what I would call
+disengagements for emergency reasons.
+JUDY LUBOW: Yes.
+BRUCE ABEL: Really, our disengagements has come as a result of construction vehicles
+parking in the path, and the operator having to go around it.
+JUDY LUBOW: And that's the next question that I had. I could see working out technological
+bugs about steam and about rain, that theoretically you could figure it out, how to distinguish
+between that and real problems. But when there are real problems, what is done? Like, for
+instance, if a car is stopped in front of you, or a driver is driving erratically and going over the
+line in front of this autonomous vehicle. How is that handled?
+BRUCE ABEL: Well, the way in which it's handled is the operator-- the vehicle will stop itself.
+And the vehicle stops itself far more quickly than a human operator can react. At which point,
+when the vehicle stops itself, the customer service ambassador takes over manual control of the
+vehicle in order to maneuver around whatever the obstacle is.
+And so what I can tell you is, since February 11, we have had 99 situations where the vehicle has
+come to a stop, what they call an E-stop. I can tell you that 251 occurrences, we have had
+situations where the customer service ambassador has had to assume manual control in order to
+circumvent, especially with construction out there for the new apartments. A vehicle pulls in
+with a load of roof trusses. If it stays there for a while, the customer service ambassador
+maneuvers around it. If a vehicle gets in the way and then moves, the autonomous vehicle will
+then resume without customer service ambassador intervention.
+
+So the nature of the obstruction determines what happens. If somebody runs through a stop sign,
+the vehicle will stop. The offender will clear. The AV will resume on its own. If it gets to a point
+where a construction vehicle has parked in its path, the customer service ambassador will
+maneuver around it and resume the route.
+JUDY LUBOW: So it is always assuming, at this point in the technology, that there is a driver, a
+co-pilot, just waiting?
+BRUCE ABEL: We are testing what's called Level 4 autonomy. Level 5 is also referred to as
+No-op. Actually, I spent a good portion of yesterday with EasyMile and Transdev people, and we
+were talking about, can we identify opportunities for no-op. But right now I think it's in our
+collective best interest to make sure that we know what it can do, make sure that we know what
+it can't do, and what role might it play.
+JUDY LUBOW: I'm concerned about it going back and forth between DU and a regular stop
+without somebody being there.
+BRUCE ABEL: There will, the DU, we will, again, the grant applications for Level 4 with a
+customer service ambassador.
+JUDY LUBOW: I see. Thank you very much. Appreciate it.
+KATE WILLIAMS: Thank you, Director Lubow. I'm going to find out real quick before we go
+on, Director Menten, if there is anybody on the phone. And if so, do they have a question?
+JEFF WALKER (ON PHONE): Hi, this is Jeff.
+KATE WILLIAMS: Thank you, Director Walker. Go ahead.
+JEFF WALKER (ON PHONE): Hi. Thank you. Bruce, I'm wondering where the vehicle will be
+housed in the evening, or when it's not in service.
+BRUCE ABEL: Well, currently, with the 61AV, the autonomous vehicle is housed out at the
+Panasonic facility, which is also the EasyMile facility. Transdev is the service provider. They
+report out at the EasyMile slash Panasonic office to start and end the day. In the DU grant
+application, we have had conversations with DU, and that we have in the grant application put a
+budgetary placeholder for the construction of what I'll call a butler building, either on the DU
+campus or on our property at the DU light rail station, TBD if we get the grant.
+JEFF WALKER (ON PHONE): Thank you. And one other question, then I'll go silent. I'm
+wondering if, and you might have said this, but I've been driving. So there's some things I
+missed. But I'm wondering if you will be offering or we will be offering a schedule for the
+service at DU, or an approximate schedule.
+BRUCE ABEL: We would anticipate doing that as part of the 61AV project. We do have a
+published schedule. It is on our website. It is on our real-time monitoring system. The only thing
+
+that we're not doing at this point in time, for example, you know that we report to you on time
+performance for bus and rail service. Right now we're not performing not reporting on time
+performance for AV, but we will start doing that May 1. Because we do have a public schedule,
+and we do anticipate doing that as the DU project, as well. Because again, if it's going to be in
+transit, it's going to run according to a schedule, and integrate with the overall network.
+JEFF WALKER (ON PHONE): And I'm sorry, one other question. How long is the loop at DU?
+BRUCE ABEL: DU is approximately 2.2 miles.
+JEFF WALKER (ON PHONE): OK. All right. Thank you very much. That's it for me.
+BRUCE ABEL: Down High Street, down Iliff, onto the campus, turn around on campus, wash,
+rinse, repeat.
+JEFF WALKER (ON PHONE): It'll be interesting. I'm going to be out there the first day it
+operates. Thank you very much.
+KATE WILLIAMS: Thank you, Director Walker. Director Menten?
+NATALIE MENTEN: Thank you. How much have we spent so far on this project out of RTD
+funding?
+BRUCE ABEL: The RTD budget for this process is $15,000 out of roughly a $250,000 project.
+At this point in time we have spent approximately $6,000 to $7,000.
+NATALIE MENTEN: Does that include your contract, your services?
+BRUCE ABEL: It does not include my time. No.
+NATALIE MENTEN: OK, so that would be on top.
+BRUCE ABEL: Oh, in that case, it's approximately a half a million.
+[LAUGHTER]
+MICHAEL FORD: I'm in the wrong job.
+NATALIE MENTEN: But you did retire. So-BRUCE ABEL: I did retire, and I'm working part time, and this is one of the projects that I'm
+working on.
+NATALIE MENTEN: OK. So you are working part-time employee, not a contractor.
+BRUCE ABEL: Correct.
+
+NATALIE MENTEN: OK. And is this the only project that you're working on?
+BRUCE ABEL: This has been the majority of my time, but I'm also working on another
+incredibly exciting project-- standard operating procedures.
+NATALIE MENTEN: Next question then is, with the Chariot deal, I didn't dig into that. But my
+understanding was that Ford decided the project was not of interest to them, and that is why it
+shut down. Can you remind me of the specifics of what the failure was?
+BRUCE ABEL: Well, I would say that Chariot was a freestanding microtransit provider. A
+couple of years ago, Ford bought Chariot. And this past winter, Ford made the decision that, in
+terms of their corporate strategy, they no longer wanted to be in the Chariot microtransit space.
+And so as a result, ours was not the only project that-- I mean, the DU project was not the only
+one. Ford just shut down the entire Chariot division and all the projects that they were operating.
+It was just a corporate business decision.
+NATALIE MENTEN: OK. That's it. Thanks.
+KATE WILLIAMS: Thank you, Director Menten. Director Lewis?
+SHONTEL LEWIS: Thank you, Chair. I have two questions. I think I have two questions. The
+first question is around the on-time performance. I want to hope that I understand. We're not
+collecting the on-time performance data because there was not a published schedule and because
+it was not identified in the goal. Is that correct?
+BRUCE ABEL: No. It was identified in the goal, and there is a published schedule, which is on
+our website and on our trip planner. But due to the challenges that we've had because of our
+climactic conditions, when we say that we were only able to provide 40% on the low end of our
+planned service, the on-time performance was somewhat irrelevant. So now that we are up to a
+spot that we're able to provide 98% of our service, now we're going to begin measuring the ontime performance. Because on-time performance, when you're not even providing half your
+service, is somewhat irrelevant.
+SHONTEL LEWIS: And the second is a request. You gave us a lot more detail in this
+presentation verbally, and I was wondering if you can give us more of that written down.
+BRUCE ABEL: I can do that.
+SHONTEL LEWIS: For us folks who need to read things to understand.
+BRUCE ABEL: I have a handy dandy little spreadsheet that I read from, so-SHONTEL LEWIS: Perfect.
+BRUCE ABEL: --I'd be glad to.
+
+SHONTEL LEWIS: Thank you so much. And I hope you enjoyed your vacation.
+BRUCE ABEL: Thank you, I did.
+SHONTEL LEWIS: Good.
+KATE WILLIAMS: Thank you, Director Lewis. Director Guissinger.
+LYNN GUISSINGER: Just quickly, I was wondering, Chariot ran long enough that we learned
+anything from it, and what we [INAUDIBLE]
+LYNN GUISSINGER: Sorry. What lessons we may have learned from Chariot, and how long it
+ran, and are there other places that are running an actual first and last mile project like the
+Chariot proposal.
+BRUCE ABEL: If I recall, Chariot was loading what-- 27 passengers a day? 0.6? I think it's in
+Jeff's presentation. And so yes, we have data from DU on the Chariot ridership. And so that will
+be used to help us plan the details.
+LYNN GUISSINGER: OK. And are there are other places that are running that kind of-- you're
+going to talk about that? Great.
+KATE WILLIAMS: OK. See nobody else. I have a couple quickies, and then we'll segue right
+into innovative mobility, which is directly related to what you all are waiting for at the end of
+this. The Chariot project was run only for DU students. You had to have a DU student ID in
+order to ride that service. Are we going to follow that same model, or are we going to be open to
+the public?
+BRUCE ABEL: We are going to be open to the public, and the route is designed in such a way
+as to serve not only campus students, but the adjacent-- or the preliminary design, which will be
+finalized based on traffic analyses, but is designed to serve both the campus and the adjacent
+neighborhood.
+KATE WILLIAMS: Which was something that was mostly wanted in the Chariot project,
+something that was talked about a lot. And are you going to be able to use a transfer to get off the
+train and get on to the whatever it's going to be called?
+BRUCE ABEL: Well, at this point in time, the 61AV as a demonstration project does not have a
+fare. At this point in time, in terms of our grant applications to the feds, we do not anticipate
+charging a fare. Because again, this is a two-year demonstration. Well, potentially three years-one year preplanning, two years operation. If we don't get the full grant, we'll do one year
+preplanning and one year operation.
+KATE WILLIAMS: Thank you. And I have one more question. Are we going to-- are we going
+to make a presentation at APTA about our transit-oriented autonomous vehicle pilots?
+
+BRUCE ABEL: Not that this person is involved with. I have no idea if anyone else is.
+[INAUDIBLE]
+DAVID GENOVA: Yeah, we're engaged in a variety of different-- and this one is escaping me,
+about whether we're doing a presentation on this or not. But I know we're doing an Innovation of
+the Month webinar with APTA, but that's on our Uber collaboration. But yeah, they're well
+aware of the things we're doing, and picking those things up. So we'll look for those
+opportunities.
+BRUCE ABEL: What I am aware of is next Friday the 19th, we will be presenting at the local
+transportation symposium. And we will-- on our AV-- and we will also be presenting at the
+CASTA a conference on our AV.
+KATE WILLIAMS: I'd just like us to see that not only are we trendsetters with our train
+services, but we are trendsetters in a number of other ways, too. So thank you very much for that
+presentation. If there are no more questions or comments-- anybody else on the phone? Crickets.
+Hearing nobody, we'll move on to the next update, which I believe is innovative mobility from
+Mr. Becker. Is that-- gentleman, am I correct?
+JEFF BECKER: Yes, thank you. Good evening. Jeff Becker, Senior Manager for Service
+Development. And I'm going to present on an overview of innovative, on-demand, and
+microtransit for RTD, and also the metro area and a little bit across the US next. In the year
+2000, RTD was operating a little circulator van route in the city of Brighton, and it was carrying
+about 15 boardings per day.
+This was obviously unsustainable, so we went up to the city and said, well, we have another idea.
+It's a new idea. At the time, that was Call-n-Ride. And so after some convincing, we
+implemented Call-n-Ride in place of that bus circulator. And after about a year, it was carrying
+60 people per day. Still not a lot of people. But what it did cement is that, one of the basic
+principles, rationale, for having our FlexRide microtransit service, is that if you're going to
+provide service in a low-density suburban area with dispersed travel patterns, you're better off
+doing it with something like microtransit, not a comparable bus service.
+And so now we have FlexRide. And basically, we provide service in defined community areas.
+We charge regular local bus fare. People can book by calling. They can go online or onto their
+mobile. Or they can just show up at a station where we have the vehicle already scheduled to
+meet, because they know the schedule. So we have now 21 FlexRide service areas. Six of them
+are the community base type, like in Brighton. And they're in blue on this map, outlined in blue.
+And then we have 15 that are first/last mile, which we hear most about. And those are outlined in
+red on this map. And just to give you, how did they do? The first/last mile ones carried about 95
+passengers on average in each one, about 3.8 per vehicle hour. And the community base perform
+not quite as well as that. Next.
+
+And just to cement the first/last mile, here is the southeast quarter. I think we're familiar with
+that, throughout the Denver Tech Center. It has six stations in it. And we have eight FlexRide
+service areas serving those six stations, carrying around 650 people per day, about 4.5 per hour.
+This is a better performing area in our district. Next.
+So I have about 10 pages of notes where I've been trying to keep track of all these pilots that
+sometimes you hear about, read about, around the US over the last several years. It's hard to keep
+track of them, because they come and go, and you can't get much information about them. And
+I'm not going to go over these. But here is just a half a dozen that's kind of representative.
+Some of them operate similar to our FlexRide. Sometimes what you hear most about, where the
+agency subsidizes customers on to use a taxi or Uber or Lyft to go from within a zone to connect
+to a bus stop. Or it might be overnight. The one in Boston is doing something very much like our
+Access-a-Cab, only they're subsidizing at a much higher rate, really, the use of Uber and Lyft
+and another one.
+Let me just ask you to look at the last column, where I bolded the ridership, the results, which
+you've asked about. It's from about 10 to 250 trips per day. That's not bus ridership, right? So no
+matter where, that's kind of the range we're looking at. So let's go a little bit further. Next.
+So we have had pilots in our very own metro area. And I think some of you heard about the
+Centennial Lyft project several years ago, where they provided Lyft service for free in the same
+service area as our Dry Creek FlexRide. It ended up with about 10 boardings per day. And the
+FlexRide continued to have 53 per day, about 5 less than the year before. So it probably did have
+some impact having Lyft in there.
+But the big question is, well, why didn't everybody just take a free Lyft, right? I mean, that
+would be the thing. And I really can't answer definitively why. But I did go out and talk to the
+passengers. And they'd all heard about Lyft. I said, well, why didn't you use Lyft? Well, some of
+them didn't have a great experience with Uber and Lyft. Some of them like the driver. They like
+the FlexRide service. They like the camaraderie of their other passengers, and other things like
+that. Next.
+Another two-part pilot project, really, was in Lone Tree. That yellow route represents a shuttle
+bus service, frequent shuttle bus service, from the Lincoln Station down to the major employers
+covering a lot of employees. And it was free, a frequent service. It carried about 320 people per
+day, about 6.2 per vehicle hour as we look at productivity.
+FlexRide, the year before was carrying 68, and went down to 40. So it definitely cut into the
+FlexRide market, I would say. Then, about a year and a half ago, they started up with one of the
+vehicles that wasn't really being productive on the shuttle. They took that and made that into an
+on-demand service using Uber, the Uber app. They gave that to the driver, and then customers
+could use it as they would otherwise.
+So after a while they got, with one vehicle, 45 trips per day, about 3.8 per vehicle hour. And they
+added a second vehicle and got 73 per day, 3.4 per hour. And that's about what they're doing
+
+now. FlexRide dropped a little bit again. But I'm not sure you can see this, but it's really
+interesting to note. Those green lines represent the origin-destination trips for one day on
+FlexRide.
+And you can see how just about all of them are going to the station. The green lines are the Lone
+Tree Lyft on demand. They're mostly going from-- you know along Park Meadows Drive where
+they have a lot of those mid-rise apartment buildings, it's fairly dense along there? They're going
+from there to shopping, King Soopers, recreation centers. So is it competitive, or is it
+complementary? These are things that we should really be working out. Next.
+This is the one that Bruce mentioned. This is the University of Denver Chariot shuttle. It's
+basically fixed-route, fixed-schedule. It got about 88 boardings per day, about 3.7 per vehicle
+hour. Chariot went out of business. Chariot has an application where you can use it to make
+reservations. So they simply replaced it with a local contractor, no app, just a regular shuttle.
+And the last I heard they're getting about the same ridership. Next.
+Another one is the Denver City Shuttle. And that was basically the route you see in stops and
+fixed-schedule, frequent service between the Civic Center downtown and Cherry Creek shopping
+center. It only went for about three or four months, and it only operated during the weekends. It
+carried about-- it was operating three vehicles, though. It carried about 27 per day. That was 0.6
+per hour. Chariot shut down at the end of January, and that service is no longer operating. Next.
+So here's some things that are innovations that we're trying to do right now. One is, this first one
+is, how can we use a mix of vehicles, our own FlexRide services, and vehicles that are already
+out there like a taxi or a Lyft? And what we found is, we have, in some of our service areas,
+during let's say the peak periods, we have to deny trips because we're at capacity. We have one
+vehicle or two vehicles, and you can't carry everybody.
+So what if we could send that trip to some, let's say a taxi that's already operating in the area?
+And then some other ones, like our first/last mile, are heavily commuter-oriented. During the
+middle of the day, for like four hours we hardly get anybody, four or five people perhaps. So
+what if during that period of time, instead of operating our vehicle, spending 50 bucks an hour,
+we just paid for a trip for those four or five people that needed trips.
+Now, there's a lot to this. We've been meeting on this for a couple of years, really, internally
+meeting ADA, drug testing, all these requirements. And we've also met with several Lyft and
+taxi operators to see what interest there is in it. And I think we're now to the point where we're
+putting this into procurement. We're going to put in an RFP and see what we can do. There's a lot
+of technology also involved here. Next.
+Another one which is really interesting is called intermodal trip planning. Right now we have
+what's called an open trip planner that, if you put in, you want to make a trip from here to there,
+it can do that as long as it's fixed route-- a bus or our rail service. It does not now recognize
+FlexRide, because it doesn't have that level of technology.
+
+But a few years ago, grants were put out, and the State of Vermont got one of the grants. And
+their grant was to incorporate on-demand microtransit into the trip planning. And that took
+creating a new data set spec that could describe the FlexRide-type service, and then change it to
+the algorithms that actually create itineraries for you. They did that.
+And I followed that very closely, and I asked our crack IT folks if they could grab that, because
+it's open source. That's what we're using. And they took that. And when you see up here is a
+screenshot where they took the Vermont version, put it into RTD, and we had already put
+together our FlexRide data into this new data set.
+And this is a trip from somewhere in Golden I just put in, to right here, where we're at right now.
+And you'll see that it has that little red arc there. That is representative of, you can call and create
+a trip. So there's more to it than that. And Vermont being basically rural, and ourself being very
+urban, we now have in procurement to take what we have and make it more sophisticated. And
+we're kind of excited about that. Next.
+Another one is, this is really, so this is a trip exchange. This is related to human services
+transportation. It could be for people with disabilities or elderly or young people going to various
+programs. And it's been really longstanding that there's quite a few providers of this service.
+There's nonprofits like Via and others. There's private providers. There's actually RTD providing
+Access-a-Ride services.
+And if you could coordinate these services-- if, say, one provider couldn't provide a particular
+trip, they could put it into an exchange where another provider could take a look and say, well, I
+can do that, and claim it and make the trip-- things would be more productive. And we tried that
+in Longmont actually, almost on a manual basis between our FlexRide and Via Colorado's
+service up there at Boulder. And we proved that it could be more productive. So now we have
+this beta-tested data exchange hub, and now DRCOG is actually leading, in-progress now to put
+this into production. Next.
+And finally, our Access-a-Ride folks said, well, we have very expensive trips here, long trips.
+What if we could take a Access-a-Ride trip and make a connection, let's say at a train station, and
+then the person could then complete their trip to another train station? They tried that. It's
+feasible, but not manually, which is what they had to do.
+It's only feasible if we can do it with some automation, and it's going to be fairly tough. I mean,
+part of it is not just the technology and how do you get our fixed-route services to integrate with
+Access-a-Ride services, but just selecting trips and people that have the capability to make
+transfers. So there's a lot of work. So that's a concept in development.
+And so finally, just to summarize, I'd like to point out that, no matter what you've heard of all
+these variety of services, we're looking at fairly modest ridership and productivity for services in
+basically low-density areas. It doesn't really work too well in an urban area, because you've
+already got a lot of service available there. And what we want to focus on is, do these services
+meet our objectives, regulatory requirements, and just our regular process of going through and
+developing services and confirming them? So thank you. I'll be glad to take some questions.
+
+KATE WILLIAMS: Thank you, Mr. Becker. OK. I think we can have some discussion now.
+Director Lubow?
+JUDY LUBOW: Thank you, Chair Williams. I was very excited to see the presentation materials
+in the Board package, because I'm from an area that's like a boonie area. That's what I call it. We
+have low density. And yet individually, our taxpayers pay as much as the people in the dense
+areas who get a lot more service. And there really is an equity problem there that people in my
+area let me know about. It's not fair. They're not happy with their service.
+And looking at this, it makes me think, is there a way for staff to work with the directors who
+have low-density areas to come up with, maybe in each director's district, one pilot project or
+something that you could show to the people that we understand your equity concerns and are
+trying to work with it? There's got to be something. In addition to getting our rail, which I talk
+about all the time, this is the other equity problem that I really see. In the non-density areas,
+people are. Angry because they feel they don't get much for their taxes. And this is a way to
+address that.
+So I was hoping that we could work together, but you could supply the expertise. Because it's
+confusing actually.
+JEFF BECKER: Yes. And I hope that from that map you could see that we actually do have 21
+of these. They're all over the lower-density areas-- Boulder, Adams County, Douglas County. So
+yes, and we're always looking to either add more or do whatever is appropriate.
+JUDY LUBOW: Well, I'm just wondering, though, because you have different ideas. It's not just
+the Access-a-Ride or Call-n-Ride. You've got different first and last mile, and-JEFF BECKER: Yes.
+JUDY LUBOW: That maybe each director's district, or each low-density area, could be looked at
+anew for, could one of these type of models possibly work in here? With the intent to really
+systematically address this inequity, because it is an inequity. And I think it really needs to be
+addressed so that people in this district from the low-density areas don't continue to feel like
+they're being ripped off. Thank you.
+DAVID GENOVA: So if I could just-- Madam Chair, could I just respond to that?
+KATE WILLIAMS: Absolutely.
+DAVID GENOVA: And also working with the local communities is key. So an example is going
+through the DRCOG TIP processes this year. Several TMAs actually brought to us ideas. And
+one was a FlexRide application in a northern area that is not very dense, and it would be
+Thornton, Adams County, and that area where there's some employers that operate on some
+varied shifts. They're not regular shifts, so there's not really any transit options.
+
+But they've applied for a TIP grant. And I think this particular one would be a very highly
+interesting case study. Because it's one of those questions, it's the chicken or egg thing. Where
+we're always being asked by stakeholders, well, if you just put service there, they'll be ridership.
+And sometimes we say, well, there's just no ridership in that area. We can't justify service.
+So I'm excited about the potential of this one application if it gets approved through the DRCOG
+process, because it will be a great case study about putting FlexRide in that situation, and then
+see if it is embraced. And you know, if it is, great. We'll continue. But if not, it will provide
+information that way, too. But either way it's going to be a great case study for us.
+JUDY LUBOW: And I think that is a wonderful idea, and I'm wondering if we could do it a little
+more.
+DAVID GENOVA: Well, that's not the only one. That's just one example. So we're supporting a
+number of these in the TIP process this year.
+JUDY LUBOW: OK. And I'm just wondering if we could even up it a little more than that in the
+sense of saying, well, because it's not enough. Saying, OK, let's look at the areas where people
+squawk that they're not getting service, and see which of these models might work. And talk to
+the jurisdictions about, are they interested in moving forward with a TIP request next year or
+something?
+DAVID GENOVA: Yeah. One of the keys is the amount of funding that the jurisdictions and
+private sector can bring along with ours. So like anything, it's something we'd have to work
+through our budget process. But we are supporting a number of those applications this year in the
+TIP process.
+JUDY LUBOW: OK. Well, I will keep harping on it then. You know me. All right. Thank you.
+KATE WILLIAMS: Thank you. Chair Tisdale.
+DOUG TISDALE: Thank you very much, Madam Chair. Very quick question-- if you look at
+page 2 of your packet, it's page 11 of the Board packet. But page 2 of the presentation, you have
+the indication relative to the first/last mile Call-n-Ride areas and the Community Circulator Calln-Ride areas. Access-a-Ride is not depicted on this map. Am I correct in understanding that
+Access-a-Ride does not have service area constraints, or does it?
+JEFF BECKER: Yes, it's restricted to being around within 3/4 of a mile of all of our bus routes.
+And it's for people with disabilities. FlexRide is for the general public, for anybody.
+DOUG TISDALE: No, I understand that. And thank you, because I think I had heard that before.
+It's within 3/4 of a mile of a fixed-route bus stop or train stop.
+JEFF BECKER: Or train, right.
+DOUG TISDALE: Thank you very much. Appreciate that.
+
+KATE WILLIAMS: Thank you, Chair. Director Catlin.
+PEGGY CATLIN: Thank you, Chair Williams. Well, I was noticing the map that Chair Tisdale
+referenced on page 2, and the community circulation areas. And I noticed that Evergreen and
+Conifer were noted there. I had an interesting conversation with the principal of Conifer High
+School. And he asked about some sort of service, such as a FlexRide service, that could provide
+opportunities for some of their youth to get rides to jobs. Some of them, like at Pine Junction
+Station, could then access a trip into Evergreen for a job. And so is that something that would
+apply here?
+JEFF BECKER: Yes.
+PEGGY CATLIN: It would be really good to know, and I would actually like to ask staff if they
+wouldn't mind setting up a meeting with this principal, and we could just talk through some of
+those ideas. Because it's a very recent issue that was brought up to me, and I think this could be
+an excellent opportunity to pilot something like that.
+Another thing, I've been harping on page 10, the trips, the FlexRide trips are not included in our
+trip planner. And when we shifted-- I've said this many times-- the 85 fixed-route service to the
+FlexRide, it kind of fell off the map, and people didn't know where to look. So I was just
+wondering how soon do you anticipate that new development occurring?
+JEFF BECKER: It's in procurement right now, and we're developing the specs for it, and
+working with our-- we already have consultants already on call that do this work. So I anticipate
+we would have something before the end of this year.
+PEGGY CATLIN: Oh, that'd be great, because I've been complaining about it since last May. So
+I'm encouraged. Thank you.
+KATE WILLIAMS: Thank you, Director Catlin. Director Cook.
+SHELLEY COOK: Referencing the same exact map, I wanted to note that we'll soon have the G
+Line going up there, so we'll have service reflected there. And I think with the onset of that new
+high-quality rail, we have an opportunity to conceptualize the last and first mile that might work
+best for that area. And I just wanted to say, especially since you can see the faint purple lines
+which represent the local routes, I think those are going to be pretty considerably curtailed, too,
+with the G Line.
+So I wanted to initiate or see about initiating a process for looking at that, for maybe the end of
+line station and/or some others based on your experience with the other areas. It just seems like
+we have an opportunity now. And if we can seize it and work on those, and then soon, I'm sure,
+the N Line, as it begins to proceed toward opening. So thank you.
+KATE WILLIAMS: Thank you, Director Cook. Director Broom?
+
+BOB BROOM: Thank you. Did you collect any ridership numbers on the shuttle service on the
+Fitzsimmons campus?
+JEFF BECKER: We do have that, and I think it's doing pretty well. I don't remember what they
+are off the top of my head.
+BOB BROOM: Could you send it to me?
+JEFF BECKER: Yes.
+BOB BROOM: Thanks.
+JEFF BECKER: There is a lot going on around the metro area. I didn't even put everything in
+here.
+KATE WILLIAMS: Thank you, sir. Director Lewis?
+SHONTEL LEWIS: Thank you, Chair. I'm curious how-- so as we're looking at these pilots, how
+does that interface with our service standards? And as an agency, are we thinking about this from
+a policy lens, and elevating the conversation to policy? And so that as we're talking about this
+regional equity, it's something that we can go back to to evaluate how we are expanding pilots.
+JEFF BECKER: Yes. And since we've been doing this for almost 20 years now, we actually do
+have it in our performance evaluation system. So it's really another type of service, like we have
+rail service and service to downtown and suburban. So this is another class, and they're all
+evaluated against each other.
+And then relatively speaking, you can see how the FlexRide services operate versus, say, the
+suburban bus services. And we actually put that on the same chart, and you can see where one is
+more appropriate than the other. And we've actually, just like we did with Brighton, we've had
+others where we've had bus service where we've converted it to FlexRide, and where we've
+converted FlexRide back to bus service. So yes, we are always trying to figure out what's the best
+way to provide a service to meet that demand.
+KATE WILLIAMS: Thank you. Oh, I want to speak. Thank you, Mr. Becker, very much. I think
+that you've been doing, and your peers have been doing, some really great work, and Mr.
+Genova. I'm happy to see, in my work in the community, that we are developing partnerships
+that we have not so much in the past. And I know that through the Ride Alliance program and a
+number of them we are working with a number of human service providers to look at different
+ways to provide transportation not just on an RTD bus or on a fixed-rail system, but throughout
+our region.
+And I want to commend you all for the work that I see at the level that I do in my day-to-day job.
+The word is getting out, and I think that's very good for our reputation in that. Anybody else? Do
+we have anybody on the phone that has questions or comments? Director Lewis, I'll let you have
+the last word this time.
+
+SHONTEL LEWIS: One more question around the customer and community needs. And you
+may not be in this process yet of identifying how you may go about collecting and soliciting
+customer needs and inputs to determine how to move forward. And it's OK if not.
+KATE WILLIAMS: Thank you. Thank you, Mr. Becker. I think that we'll try and go back to the
+part of the updates that we skipped over, which should be service availability for March 2019.
+Mr. Ford, is that going to be you?
+MICHAEL FORD: Yes, it is. I just want to give you an update on our service availability for
+March of 2019. We came in about 99.03 of all scheduled hour bus service for March. Compared
+to last year, we've made some really good progress. If you look at the numbers this year, we were
+at 1,225.71, and March of '18 we were at 1,556.16 hours. And then if you look at the year-to-date
+numbers, you can see that we've also made some good strides, 1,791.7 compared to 2018,
+3,216.29.
+Some of the numbers that were driven in March were really due to that, I guess you call it the
+snow cyclone bomb, or whatever that thing is. And we also, being prepared for tomorrow,
+actually I've been discussing that. And we've got some follow up and preparation that we're
+doing right now for that potential issue that's going to happen sometime probably during the
+afternoon peak tomorrow.
+So again, but 987 hours really consumed us over two days with that one we just talked about in
+March. So we did provide the 99.03 hours. That equates to about 2,608 hours of shift time, and
+about 20,864 hours being provided through our services. So that's kind of the highlight of the
+service availability.
+We're continuing to work on trying to secure more operators and recruit. We're working very
+hard on that effort right now. We've got some meetings with the community colleges coming up
+soon. Thank you. And we're looking at other ways to partner, working with our union to see
+what other avenues that we can make happen. So I will keep you abreast of that.
+The only other thing I had in here was just a little bit of update on some of the rail service, as
+well. Light rail provided slightly over 99.95 percent of all scheduled hours for light rail in
+January. Their on-time performance was at 92.5%. In February, we provided 99.3% of service,
+and their on-time performance is 90.97%, which exceeds our service standards at 90%.
+Commuter rail for that time was at 97.76 for all scheduled hours in January. On-time
+performance for commuter rail was at 95.5%, and in February we provided 95.69 of our
+scheduled service hours. And our on-time performance at that time was at 87.36. Again, these
+are just some highlights I wanted to share with you to keep you abreast of how we were doing
+with the operations. And obviously we'll continue to keep you apprised of how we're doing and
+making headway.
+KATE WILLIAMS: Thank you for that, Mr. Ford. Chair Tisdale, would you like to speak?
+
+DOUG TISDALE: Thank you very much, Madam Chair. Just one question if I may. and first of
+all, thank you very much for the communications with the community colleges, because I think
+that really is a very strong way of us being able to build our talent pool. But secondly, relative to
+the on-time statistics, I'm wondering, people see this, and sometimes I think they may have the
+wrong impression. For example, looking at the commuter rail operations, you say that on-time
+performance came in at 87.36% for the month of February.
+I'm wondering, if you were to take plus or minus 3 minutes, or some measure such as that,
+because I don't know exactly what the metric is. But if you were to say, the train is due at noon,
+it arrived at 12:01. Obviously it's not on time, but if it arrived at 12:04, for example, it's within
+five minutes. I mean, how do we measure? Do we say it's within plus or minus 5? And I'm
+wondering, what happens if we said, well, if you took plus or minus 7 or 8, we actually have
+96% on time.
+MICHAEL FORD: You could extrapolate a higher number, but we want to challenge ourselves.
+And that's why we look at those numbers very seriously.
+DOUG TISDALE: No, and I appreciate that. But I'm just wondering if there is an ability for us
+to be able to communicate to the public that, even though the number is, for example, 87.36%
+commuter rail February on-time. Nonetheless, if you take a window, broaden that window, as the
+airlines do with-- because I think airlines it's 15 minutes plus or minus and you're on time. So I'm
+wondering what happens to our data if we were to do that. It's not something you have to answer
+tonight, but I think it's something we could consider.
+DAVID GENOVA: Madam Chair, if I may.
+KATE WILLIAMS: Yes, please, Mr. Genova.
+DAVID GENOVA: So, our on-time, if we're within five minutes, we consider that on time. So
+that is included in our on-time performance. Not in terms of early departure, but if we arrive up
+to that five minutes after a scheduled arrival, that I do believe we consider on time. We have
+some other measurements that, in the concession agreement, for example, on commuter rail, I
+believe we measure up to. Because contractually we look at a couple other thresholds, and I think
+one is 15 minutes. So I think we can easily look at that one. On our own side, I don't know
+whether we collect that on bus or light rail. But that is something that we can look at. Because
+when you look at that within 15 on the commuter route, it goes up dramatically.
+KATE WILLIAMS: Thank you for that clarification. Did that answer your question, sir?
+DOUG TISDALE: It does indeed. Thank you, Madam.
+KATE WILLIAMS: Yes, sir. Director Broom?
+BOB BROOM: Thank you. Just a question about, if a bus or a train arrives one or two minutes
+early, do they stay in place until they're back on schedule before they leave, or if it came two
+
+minutes early, and they leave one minute early, and I'm there at the time that it's supposed to
+leave, and if it's already left, how does that work?
+MICHAEL FORD: Well, they're supposed to be there on time. They're not supposed to leave
+early. We have data. We have ways to find out if they have departed early from their time point.
+BOB BROOM: OK. Because I noticed today coming down, the train came in a minute or so
+early, and I never really paid attention to how long they dwelled before they took off. But I was
+just sitting here thinking about that. Thanks.
+MICHAEL FORD: Yeah. They should not be taking off early from the time point. That's
+something that we really address.
+KATE WILLIAMS: Thank you, Mr. Ford. Director Menten.
+NATALIE MENTEN: Thank you. Dave, can you just restate again, I'm sorry, your response to
+Chair Tisdale regarding the commuter rail? You stated it towards the end, if we consider this,
+then that performance would be a lot higher. What did you mean?
+DAVID GENOVA: Well, so for example, we measure on-time performance, if it's within five
+minutes of arrival, it's considered on time. And in the concession agreement it might be 4
+minutes and 59 seconds but another threshold that I think we measure on commuter rail, because
+it's part of the contract, is we do look at the arrivals that are within 15 minutes. So let's say the
+on-time performance would be, let's just say hypothetically would be 95%. If we were to look at
+typically what happens within 15 minutes, it's probably going to be like 99%. So that's what I
+mean. We're not measuring an on-time performance, but if we look at it from a different variable,
+on arrival, and not blowing it way out, but looking pretty close, those numbers are really good.
+NATALIE MENTEN: OK. All right. Thank you
+KATE WILLIAMS: Thank you, Mr. Genova. Seeing nobody else up there, I think we have
+finished these updates. So we're going to move on to other matters. Do I have any interest from
+other matters? Mr. Ford?
+MICHAEL FORD: I do not have anything else for you.
+KATE WILLIAMS: Other matters, Mr. Genova? Oh, I have-- Director Menten, I'm so sorry.
+Were you not finished? You're finished? You're not finished?
+NATALIE MENTEN: No I'm over-- we're on other matters.
+KATE WILLIAMS: You're on other matters.
+NATALIE MENTEN: I'm on other matters.
+KATE WILLIAMS: Carry on.
+
+NATALIE MENTEN: North Line-- is RRP still looking good? Do we have any substantial
+construction issues that the Board should be aware of?
+DAVID GENOVA: I would say not at this time. We continue to work to the project just like any
+other design build project. We started the clearance testing with pulling a vehicle not under
+power, I think earlier in the month. And that is intended. We go out and we do all of our
+clearance measurements. And those things, that takes quite a while. And we're still on schedule
+next week, middle of the month, to do a test under power, with a vehicle under power with the
+overhead power and energized. And so we're on schedule in terms of our testing for now, and
+we're moving ahead.
+NATALIE MENTEN: Are there any construction defects the Board should be made aware of?
+DAVID GENOVA: Nothing that's risen to my attention that's been reported to me from Henry
+and his team.
+NATALIE MENTEN: And is dispatch still planned to be conducted by RTD internal?
+DAVID GENOVA: I'm sorry, I didn't catch the first part.
+NATALIE MENTEN: Is dispatch intended to be run by RTD?
+DAVID GENOVA: That's my understanding right now. We've made a lot of progress in those
+conversations on the dispatching conversation with Denver Transit Partners and our team. And
+that's still ongoing. I think we still have some things to resolve there. But one of the things that
+has made an improvement there is that we're going to be both on the same software platform
+with the data model 8 upgrade that DTP is doing, Eagle project-wide. That will be the same
+platform we'll be utilizing on North Metro.
+NATALIE MENTEN: Is the budget still online with what we were presented to our conversation
+in January?
+DAVID GENOVA: Yes.
+NATALIE MENTEN: All right. Thank you.
+KATE WILLIAMS: Thank you, Director Menten. Anybody else have other matters? Mr.
+Genova?
+DAVID GENOVA: Thank you, Madam Chair. And I'll be brief. I just wanted-KATE WILLIAMS: Thank you.
+DAVID GENOVA: --to bring a couple of things up very quickly. I don't know if Board members
+have been invited or not, or are aware, but the Downtown Denver Partnership is having their
+awards presentation on-- let me find the date-- April 18. And I understand, although they don't
+
+like to publicize these things out, RTD will be receiving an award from the Partnership on that
+night. And so I wanted to just get an idea if any Board members have RSVP'd or are interested in
+going that night.
+So if you could let us know, please. I would say let the Board office know, let Barbara in the
+Board office staff know if you plan on attending, because we're trying to plan for the receipt of
+that award. And we just would like-- I would like to know how many Board members are there,
+so we can plan on that. So please let Barbara know if you plan on going to that.
+Quickly, G Line update, a few quick things, because we've had a number of questions as we've
+been turning around rather quickly going from our opening announcement to planning activities
+and things. First of all, thank you to the Board members that came out today. We did a G Line
+ride. It was really, I think, fantastic to get out there and build some enthusiasm. We had nine
+Board members attend, and we had four former Board members attend, including the four former
+Director Anderson, Director Hoy, Director Solano, and Director Francone. And so it was a good
+trip, 25, 26 minutes each way.
+So quick updates, just yesterday we received the written orders from the Public Utilities
+Commission on the final 12 crossings on the G Line. And I know I earlier reported that the
+hearing went through the PUC and they were approved. But we were starting to get a little
+nervous that we hadn't seen the written orders yet. The good news is we got them all yesterday,
+and they're pretty much exactly the same as the first three that they approved. So that's good
+news, and one more thing we can check off. So we have all the approvals in hand, written from
+the Public Utilities Commission, so we're good there.
+So as far as the FRA, Henry and I were there last week. We had two meetings. One on quiet
+zones, which was kind of an impromptu meeting that we had. It wasn't scheduled, but it was a
+good meeting to have to continue to work through the details on our notice of establishment on
+those quiet zones. We continue to work that, and they're probably going to be established at two
+different times.
+We'll probably be able to get quiet zones in the Wheat Ridge Arvada area probably-- I'm just
+estimating-- probably about a week before opening. And then the Adams, the three in Adams
+County are going to probably be right up on opening, is what it looks like right now. But after
+the ride again today, I was really surprised to see how much development. I think the last time I
+actually rode the train on the G Line was about a year and a half or two years ago. And just the
+development that has been occurring, and then just the reminder of how close a lot of those
+homes are. So that'll be really good that we can get those in place. And then we had our regular
+monthly progress meeting with the FRA, and that went well.
+So onto opening weekend, I'll just quickly-- you'll be getting detailed information on all of this,
+but I've been getting some questions. So I won't give you the detail tonight, but I'm going to give
+you a rough outline. So Thursday evening, April 25, we'll do a VIP reception. And that'll be early
+evening. People will board the G Line trains, and we'll go out to Wheat Ridge Station, and we'll
+have our VIP reception there.
+
+And the invites-- people have been asking, well, who's been invited? And I haven't, you know,
+people have been contacting me, and they haven't been invited. The invites are going to go out
+tomorrow. This is always an interesting process, because there's always somebody we're going to
+miss. So if you hear that you have somebody that we've missed, please let Pauletta Tonilas know.
+But they go out tomorrow. If there's people that you're interested on being on that VIP list, go to
+Pauletta. Send her an email with their information so that we can email them.
+Friday morning, April 26, we'll do the grand open ribbon cutting. So we'll probably start here at
+Union Station and advance to a couple jurisdictions, do cuttings along the way, arrive and have
+the grand opening ceremony at Wheat Ridge, same location, so we only have to setup one venue
+for logistics and things for the team. And we're going to try to get that started by 9:00, end it by
+10:00 AM.
+And then there will be free rides on the G Line, just the G Line, that day. And then on Saturday,
+April 27, we'll have station parties on the G Line. And the entire rail system, the entire rail
+network-- not bus, but the entire rail system-- will be free. This is similar fashion to what we do,
+or same fashion, on every rail opening and the BRT opening, the flyer opening that we've done
+earlier. And then regular service will start up on Sunday, April 28.
+So just a reminder, the G Line service plan, meaning all the bus service changes that will
+happen-- well, they won't happen when we open the G Line, because we weren't confident
+enough to build them into the May run board. I won't get into the detail, but that's a huge long
+process. And once we start down that path, we can't unwind it.
+And so the actual changes to all of the bus network around the G Line will happen with the
+August run board. And we're working internally right now to determine what that date's going to
+be. And we know that's going to be import for stakeholders. So as soon as we can get that date,
+we will publish that.
+We did meet with the mayors and the commissioners and the stakeholders and explain all this to
+them. And we said, would you rather have a line sooner, and not have the bus connections,
+which will be an inconvenience for a period of time? But I was of the opinion, we need to open it
+as soon as we're ready, and the stakeholders we're all in agreement. That's what they wanted to
+see. So we've explained all that.
+Another thing to be to be cognizant of is, on April 26, we will be adding two stops on the B Line.
+Right now, the B line runs from Westie all the way to Union Station. Beginning on April 26, the
+B Line will stop at 41st and Fox and Pecos Junction. And that will be the B Line's new operation,
+so it opens up some more flexibility for those communities there. We're very glad to be
+delivering that. It's going to add three minutes to the B Line trip, so it's going to go from 12 to 15
+minutes.
+So we are in the midst-- right now the communications team is preparing all the messaging
+around all these things, including other things like around safety messages, quiet zone messages,
+will I see flaggers out there when you open, and what does that mean. And they're working
+frantically on putting all these together. And so we will, of course, give you all the package of all
+
+the talking points and all the information you need. And that's probably going to be coming out
+relatively quickly. And then we're working with all of the communities and stakeholders and
+their public information folks to help us communicate all of this information out to the public.
+And so now I have a suggestion. And this is a proposal. You know, we're overdue on this line
+unlike we've been overdue on anything else. And in conversations with Chair Tisdale and
+myself, we would like to ask the Board, we have a proposal to offer two weeks of free service to
+the community, because this has been such a long time in coming, and we've had nothing like
+this before. I have run that through our transit equity manager, about whether that would be an
+issue for internal, for equity, to have no fares on the line for two weeks. He says one or two
+weeks would not be a problem.
+So what I'd like to just ask is if there would be any objection-DOUG TISDALE: Madam Chair, I move that by acclamation, this Board, as a dramatic, tangible
+expression of its appreciation to the region for their incredible, phenomenal patience, that this
+Board support and approve two weeks of free service on the G Line, commencing on the first
+date available.
+KATE WILLIAMS: That would take a second.
+SHELLEY COOK: Second.
+KATE WILLIAMS: Do I have-- I have a movement and a second. Do we have-JEFF WALKER (ON PHONE): Second.
+KATE WILLIAMS: And we are going to have-- I hear somebody on the phone. Do I have
+somebody on the phone?
+JEFF WALKER (ON PHONE): Yeah, Jeff is still here.
+KATE WILLIAMS: OK. So we're going to open this up now to discussion. You're going to have
+to wait a minute this time. I think Director Lewis is first.
+SHONTEL LEWIS: Thank you, Chair. I like when these things come to us before we're in the
+meeting so we can have time to think about these things. But since we're here right now, I'll
+respond to that. It's not that I'm not in support of this, because the folks along the G Line have
+waited a really long time. What I did receive recently in my inbox is a lot of folks complaining
+about the blaring horns on the A Line. And so as I'm thinking about equity, and I'm thinking
+about what this means for the folks with my district and my constituencies, maybe this isn't the
+appropriate time, but I'm going to have to be responsible for answering those questions.
+And so if we can just talk about that at some point, with the horns for the three years, and all of
+that great stuff, and the recent issues we've had with the horns and the emails and the
+communication, I would just be phenomenal if we could have that conversation. But I am totally
+
+in support of it. If the equity folks said that it's equity, that's great. But let's talk about what other
+communities have endured, as well. Thank you.
+KATE WILLIAMS: Thank you, Director Lewis. Director Cook?
+SHELLEY COOK: Oh, I just wanted to say, it's an excellent idea, both as a recognition and an
+acknowledgment of the impacts along the quarter, but also as a way to, I think, really help to
+launch the service. Regarding the A Line, we in the G Line quarter feel like they're kindred
+spirits. And in fact, when the testing really ramped up, there began a Facebook conversation
+between the two quarters with tips about how to endure it.
+So I hear you, and I think some of the same questions and issues have arisen. And anything that
+can help in that direction, I'd like to see, as well. But I hope we can move forward on this for the
+G, because, oh, it would be so welcome. And it will be a really nice gesture on the part of the
+agency.
+KATE WILLIAMS: Director Walker, do you have comment?
+JEFF WALKER (ON PHONE): Yeah. I think Director Lewis made a fantastic point. If there is a
+difference to be made, not to split hairs or anything like that, or to pit one against the other, but
+the difference I see with this, with the G Line over the A Line, is that there was no service on the
+G Line. So the residents along that quarter had to put up with all of the construction and all of the
+noise without the benefit of having service, and the uncertainty of when it would end, up until
+recently.
+But I think Director Lewis raises a really great point, recognizing what the residents along the G
+Line also put up with. But I do support the two weeks of free service for the G Line. Thank you.
+KATE WILLIAMS: Thank you, Director Walker. Director Lubow.
+JUDY LUBOW: Her machine is off, so she can't press-KATE WILLIAMS: Oh, well, we do that well. Director Lewis and I do that. Director Menten,
+you would like to speak?
+NATALIE MENTEN: Thank you. While that may all sound good, I have to think of the
+precedent it sets. And the first thing that popped in my head is, if we opened up the line going to
+Longmont in 2040, how many months and weeks of free service are we going to give? And
+going really to a serious note, the people on the A Line dealt with a lot for a long time. So I
+personally don't feel like agreeing to two weeks of free fares-- they're going to ride it regardless.
+We just heard tonight that we've got to make budget cuts. Do people want service? Do they want
+us to cut service? Or do we want to give free fares for two weeks so we all feel better? For me,
+I'd be a "no" vote.
+KATE WILLIAMS: Thank you for that comment. We want to make sure that everybody has a
+chance to speak, and we all have different opinions. Chair Tisdale.
+
+DOUG TISDALE: Thank you very much, ma'am. I do want to just emphasize that this motion in
+no way, shape, or form indicates that we should not address, consider, and do our best to resolve
+other issues that impact other lines, such as any issues on the University of Colorado A Line, and
+being creative in how we address that. But in the meanwhile, this is an opportunity for us to
+make a significant statement, not just to the people along the G Line.
+And the service that would be free would just be for the people on the G Line for those two
+weeks. The idea is that it's a statement to the broader community that we want to express how we
+provide support and how we provide an acknowledgment, a recognition of what they have been
+through. And that we will do that for anyone anywhere as to any special circumstance that
+presents.
+And, if you think about it, usually at the beginning of a line is when you have the least adoption
+of the line by users. The first one's free, folks. The rest you'll pay for. That's the message that we
+can also send, and I think it's a very impactful message. So I do encourage you, when the Chair
+asks for a voice vote, because we just need a voice vote on this, please to vote your voice "Aye."
+KATE WILLIAMS: Thank you, Chair Tisdale. Director Cook, I'm going to let Director Lubow
+speak first since I skipped her accidentally.
+JUDY LUBOW: Thank you so much. You know, my first response is to say, oh yeah, let's go for
+it. Because actually it's an impulse of generosity and of consideration. And I support that. But as
+I'm thinking more about it, I'm thinking about the A Line. And I know from David, you know,
+some of the people-- I mean, it's been hellacious for them.
+So I would think they would feel, you're going to give these people two free weeks, but give me
+my three years back. I mean, there's a lot of anger about what's happened. And I think this might
+be salt in the wound. And I'm also thinking about the people who aren't getting any rail yet. So I
+guess what I'm saying is, I love the impulse, but I really think we should think through, what
+about the people who are legitimately aggrieved for other reasons? How are they going to be
+impacted by this largesse?
+And it's so it's no longer just a simple, what a great impulse. I'd like a little time to think about
+what to do, personally. We don't have it, but that's where I'm coming from. I really love the
+thought of being helpful to the G Line folks, because I know that they lived through a lot. But is
+it going to be salt in the wound to others, which we don't want to do. I know that.
+DOUG TISDALE: Point of order, Madam Chair. Just for the sake of the record, I want to make
+clear, this still has to go before the full Board on Tuesday night. There is time. This has to go
+before the full Board on Tuesday night. Nothing that the committee does is final.
+KATE WILLIAMS: We're not going to make it happen here now
+DOUG TISDALE: It has to go before the full Board.
+JUDY LUBOW: And you'll be voting no.
+
+KATE WILLIAMS: Point of order, does this follow our bylaws?
+DOUG TISDALE: Sorry, I can't hear.
+KATE WILLIAMS: Does this follow our bylaws?
+DOUG TISDALE: The question is, does this follow our bylaws? It's something that, arguably-and I'm sorry, may I respond?
+KATE WILLIAMS: Absolutely.
+DOUG TISDALE: It's something that arguably falls within the discretion and authority of the
+general manager to make this decision. However, general manager, I think if we're making what
+I consider to be a significant gesture-- and I recognize that there are those who may be
+uncomfortable with it, but I think it's important to make a significant gesture-- that the Board
+should step to the line and say yes. And the Board has this as a start. And we can make a motion
+at any time, and it comes before the, for authority, to grant authority to the general manager to
+proceed. And I believe that, as a practical matter, my sense is it does.
+KATE WILLIAMS: Thank you, Chair. If everybody can hold on for just a minute, I'm going to
+ask our counselor a question. So we are having a discussion here in this committee, and we have
+a move to do something. I believe the move was to do this. And we have a second to take the
+action.
+ROLF ASPHAUG: Not take the action-- this is Rolf Asphaug, General Counsel-- but to take it to
+the Board.
+KATE WILLIAMS: OK. That was not the move I heard. The move I heard was to take the
+action, when in fact what we are doing is moving to take this discussion to the full Board as an
+action item. In which case we would then vote, and we would have more discussion about it, and
+then we would vote. Is that correct?
+ROLF ASPHAUG: My understanding of this, Madam Chair, is that we, the Board is interested,
+or there is an interest by members of the Board, to essentially provide, a sense of the Board as to
+whether granting this two weeks would be something the Board would approve of. The Board
+typically has not gotten involved in details such as whether there is one day or two days or things
+like that.
+And the chair has-- the General Manager has the prerogative to engage in the day-to-day
+operations of the agency, and that includes things such as marketing, promotions, things of this
+nature. But I think it's recognizing that this is a pretty-- this is something we have not done
+before, offering two weeks with the understanding that, number one, this is the only line where
+we don't even have a bus service scheduled yet when we're opening it. So that's another factor.
+OK.
+
+KATE WILLIAMS: We don't need to hear how you feel about it. We need to know if we are
+going to-- so I am suggesting now that this item come from this committee to the full Board
+meeting for consideration. And do we need to vote to see if it's going to move out of committee
+now?
+ROLF ASPHAUG: No. Just as a sense of the Board now I think is what's being requested. And
+then it would still be a sense of the Board at the Board meeting, is my understanding. Although
+between now and the Board meeting, it could be decided to make it a formal vote, if the Board so
+chooses.
+KATE WILLIAMS: OK. So do we-- oh, we have lots more discussion on this. OK. You guys
+sure you don't want to wait to discuss it at the Board meeting, huh? There's a little button on the
+side here that says never mind, if you're willing to discuss it offline or at a later time. OK, I'll
+proceed to go down the line. Director Cook.
+SHELLEY COOK: I wanted to-- thank you for the second bite at the apple. I wanted to
+underscore something that Chair Tisdale mentioned. I think it's significant, too. And that is the
+prospect for increased ridership as a result of this. I would view it as sort of an investment in
+future revenues and ridership. I know from experience that, when you're starting a new service, it
+takes a lot to get people out of their routine, to try something out, to go through the frustration of
+trying to use the ATM machine, kind of thing there.
+And if you can make it that much easier for a block of time when they're not dealing with the
+throngs of opening day, I think you have a much better prospect of a significant ridership down
+the road. I think we should look at this as, you know, maybe it doesn't need to be two weeks in
+every instance. But this might be sort of a pilot to try out a longer time frame, keep close track of
+the ridership that we see as a result, and see whether it makes sense in some other areas.
+KATE WILLIAMS: Thank you so much for that viewpoint. Director Lewis?
+SHONTEL LEWIS: So I do want to say that my intention is not to be divisive. I don't want this
+Board to be divided over this decision, because I do think it's important that RTD shows our
+compassion and shows our humanity. That's really important to me. And I will say that,
+previously, during the government shutdown, I did raise to the Board that possibly we could
+provide folks who were utilizing the A Line to get to work in the airport, free rides. And that
+conversation went to staff, and that conversation didn't go anywhere because of the fiscal
+responsibilities. At least that's how it was brought back to me.
+And so I'm just raising these things, as we're talking about precedents and we're talking about
+policy. I will say again, I just want to underscore this, I am in support. And when this does come
+to the Board, I will be a "yes" vote. But I do want to talk about what this means as an agency,
+and not what this means for one rail line. And that's really, really important to me. And I think
+there's opportunity for RTD to do some things different, and this is an opportunity to do that for
+our riders and for our communities. And I hope we stay committed to that for all of our riders
+and for all of our communities. Thank you so much.
+
+KATE WILLIAMS: Thank you, Director. Director Broom.
+BOB BROOM: Thank you, Chair. I'd just like to point out that we've painted ourself into a
+corner here. If this comes up on the agenda next week and we turn it down, that's going to be the
+big story that's going to come out about the G Line. I mean, obviously we're going to be in a
+position where we're going to have to vote in favor of this. But there must be some better way of
+bringing something like this forward than the way this was brought forward. Thank you.
+KATE WILLIAMS: Thank you for that, sir. Director Mihalik?
+KEN MIHALIK: That was a good lead in that Director Broom had. Thank you. I don't know that
+this needs formal Board attention. It's in the purview of the general manager. I don't want to step
+on his authority. If I say, no, don't do this, it's something that's in his authority to do. Thank you.
+KATE WILLIAMS: Thank you, sir. Anybody else? OK. So I'm not real clear myself on Bob's
+rules of order here on what happens with this discussion now. We're going to vote? We're going
+to vote if we're going to move this out of committee into the big Board meeting. OK. Let's vote.
+ROLF ASPHAUG: Just a voice-- just essentially just a voice-KATE WILLIAMS: I can do a voice vote. Everybody who wants to see this topic beat to death
+again next Tuesday night, please raise their hand. I think it carries. And we will be talking about
+it again. Jeff, what's your vote?
+JEFF WALKER (ON PHONE): Aye.
+KATE WILLIAMS: Aye. He's voting yes.
+BOARD MEMBER: Let's still vote count.
+KATE WILLIAMS: OK. We can count. Put your hand back up. I'll count. I'm counting Jeff as
+one, two, three, four, five, six, seven, eight, nine yeses. I believe that it only requires-- I counted
+Jeff. I believe that the motion carries forward from here. OK. Do we have any other matters?
+Like rats fleeing a sinking ship. Look at them go. Yes, Natalie.
+NATALIE MENTEN: We're looking at some people who didn't vote yes. Is that right?
+KATE WILLIAMS: Yes. We have a number of people who did not vote "yes," but we have nine
+yeses, and that carries the motion forward. OK. Based on the fact that everybody else seems to
+know that this meeting is adjourned, I will entertain a motion to adjourn this meeting. And a
+second. Thank you. The next meeting will be May 7 at the same time and the same location.
+Good night.
+
+

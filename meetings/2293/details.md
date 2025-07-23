@@ -1,0 +1,115 @@
+## I. Call to Order
+
+Chair Pro-tem Tobiassen called the meeting to order at 12:04 p.m.
+
+Committee members in attendance:                Chair pro-Tem Tobiassen, Secretary Walker, 2nd Vice-Chair Menten.
+
+Committee members absent:               Chair Sisk, Treasurer Hoy
+
+Other Board members present:               Director Bagley, Director James, Director Folska (via phone)
+
+Others Present:               Interim General Manager Genova, Paula Perdue
+
+Constituents present:               Jane Smith, David Sachs, editor at Streetsblog Denver
+
+#### 1. Roll Call
+
+Committee members in attendance:                Chair pro-Tem Tobiassen, Secretary Walker, 2nd Vice-Chair Menten.
+
+Committee members absent:               Chair Sisk, Treasurer Hoy
+
+Other Board members present:               Director Bagley, Director James, Director Folska (via phone)
+
+Others Present:               Interim General Manager Genova, Paula Perdue
+
+Constituents present:               Jane Smith, David Sachs, editor at Streetsblog Denver
+
+## II. Action Item: Video Recording for Board Chamber
+
+It is recommended by the Executive Committee that the Board of Directors authorize the Interim General Manager to implement a system to audio and video record all RTD Board meetings, committee meetings and study sessions, and post the videos to the RTD website for public viewing. This action also approves the initial upfront costs not to exceed $25,000 to purchase and install equipment necessary to record the meetings. In addition, this action approves funding for a contract technician to facilitate the video recording at each meeting and an offsite contractor to provide closed captioning services. These services combine for an estimated not-to-exceed amount of $35,000 a year.
+
+Chair Pro Tem Tobiassen asked Interim General Manager Genova to speak to this item.  Interim General Manager Genova noted that a Board report had been for the videotaping of the RTD Board meetings in RTD and the Executive Conference room.  The initial upfront cost not to exceed $25,000 for the purchase and install of equipment and an additional amount for the contract technician and stenographer for the closed captioned services for a total amount not to exceed $35,000 per year.  The initial funding is available in the General Manager’s unallocated budget.  This item will need to be budgeted for the following years.  This proposal included two cameras as they did not feel one camera would provide the desired quality.
+
+Director Menten acknowledged this proposal and recommended that other audio from past years should also be made available on the website.  This may be an action for future consideration.
+
+Director Walker inquired if the lights in the RTD room are movable.  He noted having proper lighting is important. He also wondered if we would be capturing public comments with these cameras.  Could this be an issue if people did not desire to be on camera?
+
+Director Bagley thanked the Board members for agreeing to move this forward.  He commented the idea and request had come from him. However, he expressed concerns that three of the Board members who he knows favor this recommendation would not be available to vote at the Board meeting on Tuesday.  He considers this of vast importance to the full Board and therefore requested that this action be postponed until June, 2015.
+
+Director James indicated that he liked the idea of video recording for transparency purposes but suggested that perhaps we need to do some thorough analysis before making this decision.  He shared he had been in a meeting in Commerce City and perhaps we can talk to them about their experiences.  He also recommended we could use the tech support from our meetings and create some efficiency.  Paula Perdue corrected him and stated there is no technician available at our committee meetings, only the Board meetings.
+
+Director Folska stated she believes this is a good idea.  However, her concern right now is overextending our resources.  Our focus should be on the opening of the 4 corridors plus the BRT in 2016, the effects of the fare study rollout, the GM Search efforts, the APTA Seminar, just to name a few, and felt we should try to avoid mission creep.  She wondered if it would make sense to postpone this effort until 2016 when these projects are completed.  She felt all hands need to be on deck to make sure we can have successful project completion.
+
+Director Bagley emphasized that now is the time for the video to be installed.  He feels that the project rollouts that Director Folska identified is all the more reason to have the cameras installed.  He stated this was first brought to his attention before the fare study and it is beneficial to our efforts to install video for transparency purposes.  He feels it should be done now, rather than later.
+
+Motion:               Director Menten made the motion to approve the videotaping of the RTD Board meetings and to move it to the Board meeting on Tuesday, May 26, 2015.
+
+Director Walker seconded the motion.
+
+Discussion:               Interim General Manager Genova indicated staff would be able to implement if this action gets approved.  He sees no problem with doing it now.
+
+Chair Pro Tem Tobiassen shared that he is in support of the video.  However, we do have budgetary concerns as presented by Jannette Scarpino with the projected SBP shortfall of $26M.  He is also concerned around the issues of affordable fares.  He recognizes this is little money but every penny is important when balancing the budget. Interim General Manager thinks this is reasonable and would have minimal impact.  Above all, he wants to make sure this would not affect the Board’s office negatively as with workload or resources.  He wants this implementation to be total transparent to the work of the Board office.
+
+Director Bagley responded the funds will be coming from the General Manager’s unallocated budget.  It will take a few months to get equipment ordered so he did not see it impacting on the APTA Seminar and could be done in August.
+
+Paula Perdue responded that this is not a project that has ever been discussed with her on its impact on her staff or resources.  This request was brought directly to former General Manager Washington by Director Bagley.  She had made it clear at that time that her office has no bandwidth or resources to implement or manage this additional responsibility.  This was supposed to be an action for the communications department.  Whether it gets implemented in August 2015 or August of 2017, her response is still the same.  It cannot be transferred to this Board office to maintain or budget funds.  She is simply out of resources and is already concerned about the work overload by her staff now and in the future.  Her concern is on the quality of life for her employees and this cannot be pushed off on the Board office now or later.
+
+Director Bagley indicated he was sensitive to the concerns expressed by Paula.  His real concern is this is a project that needs to be implemented now.  If not now, when?  He shared this would require a vote of eight.  He believes postponing this action to June would be better when a more representative number of Board members could be present.
+
+Director Menten inquired how many employees are in communications.  Interim General Manager Genova indicated he will have to check the actual headcount and that they have salary and represented employees.  He believes the number is somewhere around sixty.  Chair Pro Tem Tobiassen indicated this question would need to be clarified as a large number of these employees work for TIC and also a number of the staff includes project people.  Chair Pro Tem Tobiassen noted that Interim General Manager Genova had contingency funding, the quality of the service proposed appears good, he does not see much risk of taking this before the Board as it appears there is overall support so they would move this action item forward.
+
+Vote on Motion:              The motion PASSED Unanimously.
+
+#### 1. Videotaping RTD Board Meetings Board Report
+
+It is recommended by the Executive Committee that the Board of Directors authorize the Interim General Manager to implement a system to audio and video record all RTD Board meetings, committee meetings and study sessions, and post the videos to the RTD website for public viewing. This action also approves the initial upfront costs not to exceed $25,000 to purchase and install equipment necessary to record the meetings. In addition, this action approves funding for a contract technician to facilitate the video recording at each meeting and an offsite contractor to provide closed captioning services. These services combine for an estimated not-to-exceed amount of $35,000 a year.
+
+## III. May Board Meeting Agenda Review
+
+Chair Pro Tem Tobiassen called for a discussion of the May agenda.
+
+Motion:              Director Menten made the motion to approve moving the May agenda forward to the Board meeting of May 26, 2015.
+
+Director Walker seconded the motion
+
+Discussion:              Chair Pro Tem Tobiassen indicated that all items had been discussed and vetted in the Committee meetings so he did not see many questions.  Director Folska suggested that the Board report on fare study should highlight the different phases that are under consideration as she is not sure that everyone understands our next steps.
+
+Interim General Manager Genova indicated they are anticipating a large number of people for the meeting on Tuesday and asked if preparations had been made for the overflow.  Paula Perdue indicated this has not been a ASK of her and since her budget was tight due to the General Manager’s Search process, she has not taken any steps to make this happen.  This is an additional cost item.  Chair Pro Tem Tobiassen inquired what needs to happen and placed a request of Paula to make the necessary preparations for overflow on Tuesday.
+
+Vote on Motion:              The motion PASSED Unanimously.
+
+#### A. Presentation of 2014 RTD Comprehensive Annual Financial Report to Governance
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors accept and enter into the record the District’s audited financial reports relating to the year ended December 31, 2014 as prepared by Staff and  audited by the District's independent auditor, RubinBrown, LLP.
+
+##### a. 1.A_2014 RTD Comprehensive Annual Financial Report (12-31-2014)
+
+##### b. 1.A.2_Regional Transportation District 2014 ViewPoints FINAL
+
+#### B. 2015-004 : Approval of Bank Signing Authority for RTD Chief Financial Officer
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors approve the attached Bank Account Signature Authorization Agreement (the “Agreement”).
+
+#### C. State Legislative Liaison Services Contract Renewal
+
+It is recommended by the Government Relations Committee that the Board of Directors authorize the Interim General Manager, or his designee, to enter into an agreement for state legislative liaison services with Brandeberry~McKenna Public Affairs (BMPA) to exercise a one-year option (June 30, 2015 through June 29, 2016) to extend Contract No. 13-DX-001, at a cost of $117,000, pursuant to the Contract Award agreement.
+
+#### D. Award of Contract for On-Vehicle Advertising (Paratransit Fleet)
+
+It is recommended by the Operations and Customer Services Committee that the General Manager or his designee be authorized to enter into a contract with ZoZo Group, LLC of Denver for the sale and installation of exterior advertising on ADA paratransit vehicles for the two and one-half year period July 1, 2015 through December 31, 2017 with two one-year options for 2018 and 2019. Under the terms of the recommended action, ZoZo Group, LLC would remit to RTD either 1) a minimum guarantee of $45,000 in 2015, $200,000 in 2016 and $210,000 in 2017 or 2) sixty percent of net sales, whichever is greater.
+
+#### E. January 2016 Recommended Fare Policy Changes
+
+It is recommended by the Operations and Customer Service Committee that the Board of Directors approves the recommended fare policy changes, as outlined in Attachment A, to take effect beginning January 1, 2016.
+
+##### a. Fare Policy Attachments_Updated 5-27
+
+##### b. Fare Study FINAL Recommendation May 27
+
+## IV. Other Matters
+
+- Director Bagley requested a record of the names of the constituents who were in attendance at this meeting.  Paula Perdue pulled the sign in log and recorded the attendees as Jane Smith representing self and David Sachs, Streetblog.
+
+## V. Adjourn
+
+The meeting adjourned at 12:45 p.m.

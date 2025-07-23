@@ -1,0 +1,91 @@
+## I. FasTracks Monitoring Committee
+
+Chaired by Larry Hoy
+
+### A. Call to Order
+
+Committee Chair Hoy called the meeting to order at 6:07 p.m.
+
+Staff Present:               Bruce Abel, Frank Buczkowski, Rick Clarke, Kevin Diviness, John Elias, Sherry Ellebracht, Diana Horton, Terry Howerter, Austin Jenkins, Erin Klaas, Nadine Lee, Marla Lien, Barbara McManus, Doug MacLeod, Paula Perdue, Chris Quinn, Pranaya Shrestha, Bill Sirois, Jim Starling, Walt Stringer, John Tarbert, Brenda Tierney, Pauletta Tonilas, Bill Van Meter, Phil Washington
+
+Others Present:               Jane Donovan, Joni Goheen, Doug Grass, Stan Gronek, Sherman Hamilton, Douglas Howey, Jeff Irvin, Jacob Riger, Joe Triplett, Gary Van Dorn, Bob Wilson, Hugh Wilson
+
+### B. CAC Update
+
+Hugh Wilson, Co-chair of the Citizens Advisory Committee, briefed the Board about their recent quarterly meeting in Westminster.  He thanked Directors Hoy, Anderson, Bagley, Lubow and Menten for attending.  Hugh Wilson stated that there were 17 CAC members in attendance.  This was a midday meeting so that shows their dedication as a volunteer group.  He said this was the best attendance of any meeting he has attended.  Mayor McNally and all the City Council members from Westminster attended.  There were also several state representatives, mayoral candidates and citizens in attendance.  Hugh Wilson feels their value is in providing a sounding board and listening board for what the citizens have to say.  He shared there were a number of comments that people in that area are frustrated as they await action in their corridor.
+
+Hugh Wilson explained that the Committee had not had the chance to discuss the quarterly meeting.  They will be doing this on July 17th.  He shared that once they meet, the Committee would summarize their comments and questions and come back to the Board with another presentation.
+
+Chair Anderson believes we need to define the technologies that will be in each corridor; we need to separate the issue of light rail versus commuter rail.  She shared that even in the newspaper there was a headline that said light rail when it should have been commuter rail.  Chair Anderson stated that generally everything to the north is going to be commuter rail.  She feels this is one of the huge misunderstandings in the whole north corridor.  She thought it was a great meeting and thanked all the CAC members for their service; they really did a great job.  Scott Reed said that staff did contact the reporter to have the article corrected.
+
+Director Lubow thanked the members of the CAC for the service they are doing.  She attended the Westminster meeting and they received a lot of feedback.  Director Lubow stated some of the feedback was hostile and angry but the CAC members did a great job of listening.
+
+Director Tobiassen thanked the CAC members that are participating in the I-225 corridor meetings.  He extended an invitation to the other CAC members to attend.  Director Tobiassen believes keeping the CAC involved in that corridor is going to be very beneficial.
+
+Director Daly stated he would be very interested to hear back from the CAC now that many of the members have ridden the West line.  He asked for a report on what they think of the line, any suggestions, interpretations, etc.  Hugh Wilson said he would bring that back to the committee.
+
+Committee Chair Hoy thanked Hugh Wilson for coming to Westminster and asked him to share his thanks with the other members of the Committee.  He was very impressed with the turnout of the Committee.  He thinks they handled the meeting very well.  Committee Chair Hoy stated that he will be very interested in the committee’s feelings after they have had a chance to get together and discuss the meeting.
+
+#### 1. Citizens Advisory Committee (CAC) Update
+
+#### 1. North Metro Request for Proposals (RFP) Overview
+
+Pranaya Shrestha and Jim Starling reviewed a PowerPoint presentation with the Board that is in the July 2, 2013 FasTracks Monitoring Committee Agenda Packet.
+
+Pranaya Shrestha shared that staff released the North Metro Rail Request for Proposal (RFP) on Friday, June 28 at 6:28 p.m.  He explained that as part of the process there are over 4,800 documents the team put together.  They did this in a few months whereas the Eagle P9 project took 2 years to put together.  Pranaya Shrestha shared that the team really worked hard to incorporate the lessons learned from the Central and I-225 corridors.  He said that as the Board has heard from General Manager Washington, the RFP stresses innovation and creativity whether it relates to doing other corridors or extensions, providing the financial means, meeting the DBE/WIN/SBE goals, etc.  Pranaya Shrestha stated that another important aspect that staff incorporated was sustainability from the way the design is approached all the way to materials used.  He shared that there is a pre-proposal meeting on July 8th that staff expects most of the proposers to attend.
+
+General Manager Washington reiterated to the Board that staff has set a very aggressive schedule for the RFP and we are going to stick to that schedule.  He said that many Board members may be approached and asked to slow down the schedule.  General Manager Washington shared that the same thing happened with the RFP for the I-225 line; potential bidders that may not be ready want us to extend the various dates and deadlines.  He stressed to the Board that we will not do that; we will push ahead with this schedule.
+
+Director Deadwyler shared that she attended the North Metro Rail Line Network and Information meeting back in May.  She was very impressed with the turnout of the Prime Contractors and DBE Groups.  She noted one of the things General Manager Washington said was that we would be asking those responding to the RFP to be more innovative and add in some of the unfinished corridors.  She expressed that she does not see that in the RFP that was released.  Pranaya Shrestha explained that the RFP was broken into three phases: phase 1 is Denver Union Station to 72nd Avenue, phase 2 is 72nd Avenue to the end of the line, and phase 3 is the extensions.  Director Deadwyler said that she was very stunned by the phases because she thought the extension of some of the corridors, specifically the Central corridor, would be included in phase 1.  She believes that was the impression the constituents received at the Network and Information meeting.  Director Deadwyler asked if the contractor would have a choice in terms of which unfinished corridors they would include in their proposals.  Pranaya Shrestha said that staff is encouraging each potential proposer to determine the schedule and projects included.  General Manager Washington explained that we did not want to be too prescriptive to the private sector with the RFP; we do not want to tell the contractor what to do, where to start, etc.  He stated we want to see the creativity when we receive the proposals.  He asked the Board to wait and see what comes back.
+
+Director Deadwyler asked if the money that had been set aside for getting the Central corridor finished would now be tied up with the RFP.  General Manager Washington stated that we do not have the money set aside to do the Central corridor within the next 4 years; we are not using money from anywhere else.  Director Deadwyler asked to have further conversations with staff about the RFP.
+
+Director Lubow thanked staff for working so hard to get this RFP out so quickly.  Director Lubow asked for clarification on the bullet point related to the RFP Scope that reads: “Includes Environmental Impact Statement (EIS) Record of Decision project limits only”.  Bill Van Meter explained that Denver Union Station to 162nd Avenue were the limits of the EIS; the EIS only needs to be completed for the North Metro corridor.  Director Lubow asked how the DBE and WIN goals were established for the project.  Jim Starling stated that the RFP team worked very closely with the Civil Rights department to determine those numbers.  General Manager Washington explained that there is a formula used to determine DBE/SBE goals.  The DBE formula is a federally prescribed formula based on type of work and firms in the database that can do that type of work.  He shared that these goals are part of the FTA audit and tri-annual review.
+
+Director Bagley commented that often we think of phases from a time relative perspective.  Usually it would be something like phase 1 is year 1, phase 2 is years 2-6, phase 3 is years 7-11, etc.; however, in the RFP released it really is better defined as a part than time related.
+
+Director Walker reiterated Director Bagley’s comments.  He said it is possible a proposer could come back with a plan to complete the extensions first.  Director Walker asked for clarification on the bullet point related to the RFP Scope that reads: “Willing to include related stakeholder projects (non-federal) to lock in price”.  He wondered if that would be something like a communication study, drainage project, etc.  He also asked if the understanding is that the stakeholders would pay for anything above what RTD would normally pay.  Jim Starling stated that he was correct in the types of projects and that the cost would depend on the stakeholder.
+
+Committee Chair Hoy said that this is good news.  He asked what staff means when they say the RFP was released.  He also asked if stakeholders have the RFP.  Jim Starling stated it is an electronic distribution.  Pranaya Shrestha explained that we provide a link where any potential proposers can access the 4,800 documents.  He said that the RFP is public information so anyone may request the link.  Jim Starling told the Board if they receive any requests they may put the person in touch with him directly.
+
+Committee Chair Hoy stated that the Board should look to our recent experience with the I-225 RFP to understand why we want to keep our options open.  We had one bid that went half as far as the others so we really do not know what we might get back from this RFP.  He believes we should wait to see what the contractors can do.
+
+General Manager Washington believes Director Bagley put the phasing issue just right.  He reminded the Board that we did this with the Eagle P3 project.  This is just a way of doing business.
+
+Director Folska asked how many contractors have picked up the RFP.  Jim Starling said the number was between 40 and 50.
+
+##### a. North Metro RFP Update to Board 7-2-13
+
+#### 2. 2013 FasTracks Public Opinion Survey Results
+
+Pauletta Tonilas thanked the Board for allowing her to present this update.  She explained that this survey helps her team in crafting their messaging platforms.  She introduced Todd Pickton from BBC Research & Consulting who reviewed a PowerPoint presentation with the Board that is available in the July 2, 2013 FasTracks Monitoring Committee Agenda Packet.
+
+Committee Chair Hoy commented that he recently saw a presentation that had similar facts.  He feels this confirms much of what he saw in tonight’s presentation.
+
+Director Bagley stated that his assumption is that the questions asked from 2007 through 2013 were much the same in each year.  Todd Pickton stated that if the questions were not identical they were very similar for comparability.  Pauletta Tonilas explained that some of the wording was changed because the last survey in 2011 had a different intent but staff still wanted the information to be comparable.
+
+Director Folska asked for information on the sample used.  She wondered if all the surveys were conducted over the telephone and what the sample size was.  Todd Pickton explained that all the surveys were conducted over the telephone and were a combination of land line and mobile phone numbers.  He shared that there were 800 completed surveys.  Todd Pickton said that full demographic information would be reflected in the full report given to the FasTracks Public Information team.  Director Folska thought it was very interesting how the survey started at the big picture and how in the last slide it was narrowed down to people’s real concerns.  She asked if we are able to build that kind of messaging going forward.  Pauletta Tonilas stated that is exactly why we have this survey.  Her team will look at the data and craft a message that really speaks to people about the benefits they will see.  Director Folska asked why we did not have Facebook or other social media listed as a way to disseminate information.  Pauletta Tonilas said that is was on the list but it does not rank very high in how people recall getting information and how they want to get information.  She stated that does not mean we will stop using social media; it is just not the preferred method among the demographics captured in this particular survey.
+
+Director Lubow thanked staff and BBC for their survey.  She is concerned about some of the findings that seem more nuanced.  For example in looking at each county’s approval of FasTracks, Boulder is significantly lower than the others.  She also noted that when you look at the impression people have of the quality of services provided by RTD, “excellent” has gone down significantly.  Director Lubow wonders if we are looking at these nuances and have decided we are going to do X, Y and Z.  Pauletta Tonilas stated that part of what we are already doing about Boulder is the Northwest Area Mobility Study (NAMS); we are working with stakeholders to have public information and input process.  She also noted that this survey was done at the end of May into early June when we had some people who were not pleased with changes that occurred from the West line opening.  She believes this probably plays into the decrease in people responding with ‘excellent’.  Pauletta Tonilas shared that when we compare our survey results to those done by other transit agencies our results rank very high.
+
+Director Daly commented that he is very surprised to see how people wish to receive information; a very high percentage want to receive information through newspapers and the mail.  He asked for information on the age demographic of the respondents.  Todd Pickton explained that BBC worked very hard to get a demographically represented sample by age, gender, etc. but it did skew slightly older.  He is working to break down the preferred methods of communication by age and that will be reflected in the full report.
+
+Director Deadwyler also thanked staff and BBC for the survey.  She feels it shows a lot of what people have been telling her for the last two or three years in terms of how they are communicated with.  She believes based on our demographics we are reaching the people that really care the most.  She noted that the older generation really likes to get a newsletter or something in their local community papers.  Director Deadwyler is hoping we can communicate more that way.
+
+Director Walker asked if a person who preferred the newspaper really read the traditional printed newspaper or read it online.  Pauletta Tonilas said that newspaper articles and internet news were both included in the survey; however, it really depends on how people answer.  They could say the read the newspaper when really they mean internet news.  Director Walker stated that he does not like the term “reduced congestion” because there are so many things such as road projects, populations gain, etc. that create congestion.  He believes this term might be misleading to some.  Todd Pickton explained that the question was open-ended so people were not forced into an answer; however, this meant that his team had to take the 800 responses and funnel them into what the response most represented.  He thinks it may be valuable for staff to look at the raw data.  Director Walker also asked for the percentage of completed surveys.  Toss Pickton stated that 12-15% of people contacted completed the survey.  Pauletta Tonilas shared that 800 respondents is the most we have ever had.  Her team is very happy about having 800 respondents.  Director Walker noted that surveys are very tricky; it is whoever answers the phone and is willing to participate.  He feels the results are decent but does not put a lot of stock in it.  Todd Pickton stated that there was some screening up-front to try to balance the responses by gender, age, etc. and the results by demographics mirror pretty closely to the demographics in the district.
+
+Director Tobiassen asked if an electronic copy of the full report could be provided to the Board.  He also asked how staff uses the results to tweak the Public Information programs and how they measure the success of those tweaks.  Pauletta Tonilas said she would send the full report to each Director.  She explained that staff may look at the survey by county to see what is resonating in each area.  It may be worthwhile for each project team to push information in a different way or more frequently.  Staff may try to create a central core message that is a short, sweet and resonating message.
+
+Committee Chair Hoy stated that was a fascinating presentation.  He believes that as Director Tobiassen commented, there will be some interesting things we can unveil as we dig into the data.
+
+##### a. 2013 FasTracks Survey Results Presentation FINAL
+
+### D. Other Matters
+
+Director Deadwyler shared that she attended the E-470 Board meeting last week in Director Tobiassen’s place.  She found it to be a very interesting meeting.  She learned that many of the accidents on E-470 were with objects other than another vehicle.  In these cases if you slide of the road and hit a fence or sign you are responsible for the damage.
+
+Director Solano attended the prairie dog meeting at the Arapahoe County Fairgrounds.  He shared that this was a very contentious meeting; it was interesting to see how the environmentalists, ranchers and farmers interacted with each other.  Director Solano feels that despite this issue we need to get the rail done; we will try to mitigate any issues with the prairie dogs but that cannot stop us from getting the rail finished.
+
+### F. Adjourn
+
+Committee Chair Hoy adjourned the meeting at 7:35 p.m.

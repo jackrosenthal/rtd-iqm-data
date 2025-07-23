@@ -1,0 +1,101 @@
+Chaired by Tom Tobiassen
+
+### A. Call to Order
+
+Committee Chair Tobiassen called the meeting to order at 6:55 p.m.
+
+Directors Folska and Menten participated by phone.
+
+Staff Present:               Bruce Abel, Jessie Carter, Susan Cohen, Carolyn Conover, John Elias, Sherry Ellebracht, Eric Farrington, Mike Gil, Lou Ha, Terry Howerter, Austin Jenkins, Erin Klaas, Marla Lien, Barbara McManus, Doug MacLeod, Anthony Menendez, Paula Perdue, Trent Ratcliff, Scott Reed, Jannette Scarpino, Daria Serna, John Tarbert, Bill Weidenaar
+
+Others Present:              Chris Barker, Celina Benavidez, Matt Christiansen, Jane Donovan, Boyd Gordon, Stan Gronek, Van Groves, Tom Grushka, Nehemiah Hall, Robert McNown, Jon Moellenberg, Ted Rutledge, Jason Simmons, Gary Van Dorn
+
+#### 1. Purchase of Up to 34 Mall Shuttle Buses
+
+It is recommended by the Operations/Customer Service Committee that the RTD Board of Directors authorize the General Manager or his designee, to exercise the option of Contract 19FK001 with DesignLine USA for the purchase of up to 34, 45-foot mall shuttle buses to replace the existing TransTeq mall buses at a price not to exceed $24,147,350.
+
+Motion:              Director Bagley made the motion to move this item to the full Board meeting on January 22, 2013.
+
+Director Daly seconded the motion.
+
+Discussion:              Bruce Abel, Assistant General Manager of Bus Operations, stated that in 2010 the Board approved the purchase of two (2) DesignLine mall buses.  The RFP included the option to purchase 57 additional buses for a five year period with pricing for additional buses being based on the initial base pricing plus a price adjustment set by the US Department of Labor Producer Price Index (PPI).
+
+The mall buses are unique due to their length, number of doors, low floors and demanding service.  These units will replace the existing TransTeq mall buses.  TransTeq went out of business and many of the components are obsolete and there are no replacement parts and the buses are 12-13 years old.  Staff has asked for feedback from users and operators and they have decided to move ahead with the purchase if approved by the Board.
+
+Director Lasater asked about the cost per bus.  Lou Ha, Manager of Technical Services, stated that the cost is $735,000 per bus.  Director Lasater asked for clarification on the statement about purchasing 57 buses.  Lou stated that the RFP included the 57 additional buses, because at the time staff did not know what the 18th Street circulator would require.  Bruce Abel mentioned that they are not anticipating using the buses for the 18th Street circulator, and don’t expect to use the full 57 bus option.  The cost of the buses takes into consideration the unique specifications RTD has for the mall shuttle.
+
+Director Malpiede asked if they are looking at air circulation inside the buses, since during the summer months it can get very hot inside the buses.  Lou stated that they are negotiating two changes; they will add fans to aid on the air circulation and the skylight windows will be tinted so they don’t absorb too much solar energy.  Director Malpiede also asked if they are looking at the rear wheel issue.  Lou stated that due to government regulation which requires a dual rear axle, there is less space at the rear of the buses.  Bruce Abel stated that another modification they are negotiating is the movement of the doors location; the manufacturer will move the middle door to facilitate the boarding and will also work on the rear axle.  It will be more user friendly.  Director Malpiede thanked them.
+
+Director Daly asked if there is still an issue with the delivery by DesignLine.  Lou stated that the original two vehicles were prototypes, and because they were still working with the manufacturer on the design, they had some delays; however they don’t expect delays in the future.  Director Daly asked what the delivery timeline is for the new buses.  Lou stated that the forecast is one year from notice to proceed.  Director Daly asked what kind of engine the buses will have.  Lou stated that they will have micro turbine engine similar to the ones on planes, but in a smaller scale.  This will generate the energy to charge the battery and provide electricity to drive the vehicle.  It is a hybrid and will run on battery half of the time and the other half will run with help of the turbine engine.
+
+Director Hoy asked what the capacity of the new buses is versus the current fleet.  Bruce Abel stated that the current vehicles allow 150 passengers and the new buses capacity is 100.  Director Hoy asked if this will require making adjustments on the service.  Bruce Abel mentioned that since the mall shuttle will work with the 18th circulator, the staff will evaluate the need for more vehicles and service changes once the circulator opens.  Director Hoy stated that cost to maintain the current fleet should be higher than the cost of purchasing new buses.  Bruce Abel stated that because the manufacturer of the current fleet went out of business, some parts are not available anymore.
+
+Director Walker asked if they will look at reducing the number of trips of the mall shuttle.  Bruce Abel stated that they will review the impact once they open the 18th circulator.  He also stated that they have budget for 32 buses and they are currently negotiating the adjustments which might allow purchasing an additional bus.
+
+Director Solano asked for the location of DesignLine.  Lou stated that they are located in North Carolina.
+
+Director Folska asked who pays for the mall shuttle operation.  Bruce Abel stated that RTD pays for the operation of the mall shuttle service while some local businesses pay for the mall maintenance.  Director Folska asked if there are any other agencies that could share in the cost of the buses, or if there is a model that we can look at for the operation of the shuttle and circulators.  Director Tobiassen asked to take that discussion offline as it is not part of the agenda.
+
+Director Tobiassen asked if the current fleet is running on biodiesel.  Lou stated that in the last few years the government has reduced the diesel exhaust emission which is now very similar to CMG emissions.
+
+Committee Chair Tobiassen declared the motion PASSED unanimously.
+
+#### 2. April 2013 Service Change
+
+It is recommended by the Operations/Customer Services Committee that the Board of Directors approve moving the proposed April 2013 Service Change on to public review and comment.
+
+Motion:               Director Daly made the motion to move this item to the full Board meeting on January 22, 2013.
+
+Director Walker seconded the motion.
+
+Discussion:              Bruce Abel introduced Jesse Carter, Bus Operations Manager, who stated that due to the completion of the West Light Rail and adoption of the West Corridor Service Plan, some changes in bus and light service are slated to begin on April 28, 2013.  Additional routine service changes not associated with the West Corridor Service Plan are also necessary to maintain system on-time performance.  They will continue to focus on adjusting services in response to the January 2012 service revision and changes in ridership and operational performance.
+
+The service changes that will take place in April 2013 reflect the continued budgetary challenges faced by RTD while continuing to observe the guiding principles for service changes such as service performance evaluation based on RTD’s Service Standards; effects on the overall integrity of the transit network and transit dependent markets; availability of alternative services to affected riders; cost-effective distribution throughout the district and family services; Title VI of the Civil Rights Act and response to changes in the communities where services are provided.
+
+Bruce stated that they will use the passenger alert system to send messages to the users of the three routes impacted.
+
+Director Tayer asked what changes would be occurring to the Skip route.   Jesse stated that they will have the bus out a little bit later.
+
+Director Lubow stated that constituents do not like service changes especially if service is reduced.   She asked if when changes are needed, the staff can provide something in writing as why the changes are made.  Jesse stated that usually they create a brochure for the public and they have open lines for public feedback and questions.  Bruce Abel stated that typically they bring a full report to the Board detailing the proposed changes and why they are being proposed.  That Board Report is then translated into pamphlets, brochures and signs for buses and light rail.  Depending on the severity of the changes they hold very small or large meetings.   Director Lubow stated that she would like to see a package before it is approved.  Bruce Abel stated that the usual process is to go to the stakeholders first, then the staff comes to the Board with the proposed changes and asks for authorization to go out to the public for feedback.   Once public outreach has been done they come back to the Board with that feedback and amended recommendations.
+
+Director Deadwyler stated that it seems no matter what we do in terms of public hearings, participation is very low.  She asked what else we can do to get the information out.  She mentioned that she has received complaints from her constituents when they have not heard about the changes.  The two step process we have in place does not seem to be working.  Bruce Abel stated that no matter how much they reach out, they always get complaints once the changes take place.  They are always trying to find new ways to communicate.  Jesse stated that they went to the business community and neighborhood associations and that seemed to have yielded higher participation.
+
+Director Daly followed up to Director Lubow’s question and stated that the staff usually provides a very detailed package.
+
+Director Solano asked if they are looking at the Spanish speaking demographic for those outreaches.  Jesse stated that they have to do a Title VI review on any major changes and English language proficiency (ELP) is part of that evaluation.  They also look at how to put together the document and if they need translation.
+
+Director Folska asked what the impact is in the area of passenger with disabilities.  Bruce Abel stated that there is no ADA impact as a result of these changes.
+
+Director Tobiassen mentioned that he has had good feedback on the alerts systems and he likes the idea of using the system for public outreach.
+
+Committee Chair Tobiassen declared the motion PASSED unanimously.
+
+#### 1. Radio and Computer Aided Dispatch and Automatic Vehicle Location (CAD/AVL) Project Status Update
+
+Bruce Abel introduced Eric Farrington, Project Manager, who is in charge of the project.  Eric stated that the report is in the packet and asked for any questions.
+
+Director Daly congratulated the staff for not having red in the report.  Eric stated they adjusted the delivery date; that way they will only get red when issues are really falling behind.
+
+#### 2. Smart Card Project Status Update
+
+Bruce stated that the Smart Media fare collection system went live on January 1 for the ECO and College pass customers.  Employees serving as “ambassadors” staffed RTD light rail platforms from December 27, 2012 until January 11, 2013 with some area colleges’ platforms staffed until January 21, 2013.
+
+Director Tayer congratulated the staff.  He stated that this is a change and a challenge but he complimented the staff for the way they handled the customer service part of this project.
+
+Director Deadwyler also congratulated them and thanked them for responding to the issues and keeping her informed so she could get back to her constituents on a timely basis.
+
+Director Folska stated that she has also received tremendous positive feedback about the Smart Card.  She congratulated the staff for a job well done.
+
+Director Tobiassen mentioned that he has also received positive feedback.
+
+### D. Other Matters
+
+Director James wanted to acknowledge Director Tayer for his work preceding him in the Finance Administration and Audit Committee as well as Chair of the Fiscal Sustainability Task Force.  He thanked Director Tayer for the great job he has done.
+
+Director Tobiassen mentioned that he has received complaints about smoking on light rail platform and bus stops.  He wants to bring it to the Board’s attention and see how they can address this issue.
+
+### F. Adjourn
+
+Committee Chair Tobiassen adjourned the meeting at 7:41p.m.
+
+These minutes were prepared by Ana Ochoa-Salcido, Temporary.

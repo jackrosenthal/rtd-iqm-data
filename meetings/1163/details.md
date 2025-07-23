@@ -1,0 +1,121 @@
+## I. Call to Order
+
+Chair Anderson called the meeting to order at 5:31 p.m.
+
+### 1. Roll Call
+
+Director Folska participated in the meeting via telephone.
+
+Staff Present:              Bruce Abel, Rick Clarke, John Elias, Sherry Ellebracht, David Genova, Terry Howerter, Austin Jenkins, Erin Klaas, Marla Lien, Barbara McManus, Doug MacLead, Paula Perdue, Scott Reed, Jannette Scarpino, Daria Serna, Henry Stopplecamp, Bill Van Meter, Phil Washington
+
+Others Present:              Joe Triplett, Gary Van Dorn
+
+### 1. GM 2014 Tactical Plans from Strategic Planning Session
+
+General Manager (GM) Washington stated that he was going to review the tactical plans that staff has put together to address the strategic goals established at the Advance on March 2nd.  Prior to reviewing the plans, he went through a presentation to lay the groundwork for the Board to understand the plans.  There is a Board Policy that was adopted and approved in 2009 that outlines the goal setting process for the GM.  This was put together along with the GM Oversight & Performance Management Committee.  The GM Goal Setting process includes convening the Advance/Retreat which was held on March 2nd and establishing 5 Strategic Goals.  These goals drive the 2014 Budget process.
+
+Board Policy states that the GM should come back a month after the Advance and present the tactical plan to achieve the strategic goals.   The strategic plan shows what the big picture is and the tactical plan shows how we will get there.
+
+During the advance, staff reviewed a timeline for the budget process with the Board.  The advance was the beginning of the budget process leading up to the approval of the budget in November. If and when they have a consensus from the Board on the tactical plans, then those plans become the GM’s task goals for the next year.  These goals then trickle down to GM Washington’s direct reports and staff.
+
+The GM Oversight & Performance Management committee meets with the GM to review the tactical plans and formalize the document used for his evaluation.  The entire process is to be completed by July of each year.
+
+GM Washington reviewed the 2013 strategic priorities from the presentation that is available for review in the April 23, 2013 Study Session packet.
+
+GM Washington provided an example of how staff goes from a strategic goal to a tactical goal and then incorporate the goal into the budget process.  If they cannot address a particular issue or additional funding is needed, there is a mid-year process to amend the budget. As they put together the tactical plan they identify the budget needs to achieve those goals.  GM Washington explained that is why staff gets bent out of shape when people suggest taking on a new project; each project has a budget impact.
+
+GM Washington covered the proposed tactical plan for the 5 goals identified on March 2nd.
+
+Director Lubow asked when the Board’s input would be allowed in the process.  GM Washington responded that the memo that was provided in the Board packet requested feedback no later than May 17th.   He said staff can also be available for meeting with Directors.
+
+GM Washington stated that the full package is available at the Board Office and was also sent to Board members in their Board packet.
+
+Strategic Goal # 1: Innovative and Fiscally Sustainable Service Delivery
+
+GM Washington stated that they provided all the background about Service Delivery to make sure that the Board understands how they do service changes.  It is done three (3) times a year in January, May and August.  They typically follow the guiding principles listed in the package.  They look at ridership and potential changes to the overall transit system.  When they bring the changes they are looking at impact to the whole system not just one route; they look at Title VI impact as well as reasonable alternative transit services.  The process to implement the service changes begins with staff bringing an initial set of recommendations.  At that time they ask for the Board’s approval to take the proposed changes out for public comment.  They will typically bring the initial recommendations with plenty of time for Board members to review the plan with constituents.  Once they have the feedback from the public they come back to the Board for final approval. The entire service change process usually takes 3-4 months.   Director Menten asked when the Board would be seeing the initial proposal for August.  Bruce stated that they would bring the initial set of recommendations to the Board in May.
+
+Director Folska asked for some examples of when we have taken things for public comment and have made changes to the original recommendations.  GM Washington stated that there are numerous examples.  Bruce Abel stated that he cannot think of a service change that has not had modifications made due to public comment.  When they brought the original service change for the January 2012 service optimization, due to the impact on the Colorado Center for the Blind and per their request, one of the routes that was originally schedule to be discontinued was reinstated; the Center suggested keeping one route and canceling a different route which is what RTD did.  Director Folska asked if we made this requested change why they are now complaining.  GM Washington stated that they can review the January 2012 service change process with Director Folska but they would like to focus on the tactical plans.  Director Folska asked what we can do to improve the public comment.  GM Washington stated that the staff is always open to receive feedback from the Board Members if they see a way to improve the process.  In terms of communications, right sizing the services is just something that is hard to do and there will be bad news.  She stated that she was under the impression that the Colorado Center for the Blind was without services except for Call-n-Ride.  Chair Anderson requested that Director Folska to take the discussion of service changes offline so the Board and staff could continue to focus on the process at this meeting.  Chair Anderson suggested having a Study Session on just service planning to better understand the process.  Director Folska stated that her job is to bring those questions up so the public can have the information.  Chair Anderson asked for the issue to be discussed offline.
+
+Director Lubow noticed that the guiding principles stress eliminating bad routes but there is nothing talking about creating innovative routes.  She would like to see that as an additional priority, especially when dealing with people considered “transit deprived”.  GM Washington stated that they can look into that and they can add that to the guiding principles; however, most of the recommendations include some type of adjustment to them looking at alternatives that will impact/improve ridership. Director Lubow stated that another issue is that people complain that they have not been part of the process even though we have the public hearings.  She asked if it is possible to have a citizen’s advisory board not just for FasTracks but for bus service as well.  GM Washington stated there is one for the base system.  Director Lubow believes it would be good to brainstorm about how people can feel like they are part of the process.
+
+Director Menten would appreciate a session about service changes.  GM Washington stated that they will do that; they typically review the entire service delivery process once a year.
+
+GM Washington asked the Board members to look at the package and provide their feedback. He highlighted that they need to have a discussion about the Light Rail Service which usually runs until 2:00AM and restarts at 4:00AM.  Many systems in the East stop at midnight so RTD needs to look at this issue.  The maintenance requirement is becoming harder and harder as the system expands and staff only has a two (2) hour window to complete the necessary work.  They need to discuss how they will approach this as the systems expand and the maintenance requirements increase.
+
+He also mentioned that under the area of Service Delivery Initiatives they are in the process of implementing technology that will extend into 2014 having to do with automated booking of Access-a-Ride, automated vehicle arrival notices, etc.  They will also be looking at the number of providers for Access-a-Ride that will have a budget impact.
+
+Director Deadwyler stated that she thought we already had all the automated processes in place.  GM Washington stated that some are in place and we have some in the implementation process.  Director Deadwyler stated that she hears a lot of complaints about the signs in the light rail not working properly.  GM Washington stated that they will look at it.  He rides the light rail and the destination signs are always working but sometimes they might not be in sync.
+
+Strategic Goals #2: Grow riders and engage customers across the Region
+
+GM Washington stated that in the packet they listed most of the things that we do to communicate with the general public. Going forward they want to upgrade and expand these tools.  They want to do targeted outreach to schools, agencies, and neighborhoods and focus on young people.  They want to simplify the fare media; there are several fare media and it is confusing for people.    They want to move forward with a program called “My Denver Card” for young people which was introduced by Mayor Hancock.  The card would include RTD rides and access to recreation centers and libraries.  They are trying to qualify the cost and Denver Public School (DPS) would pick up that cost.  Staff thinks this program could be expanded to other communities.
+
+Director Folska asked if it would be the cost of producing the card or the cost of riding.  GM Washington stated that it would be the cost of the rides but they have not worked that in the final arrangement yet.  They would have to find out what the average usage would be and try to have DPS pay for the ride.  They will come back to the Board once they have the details worked out.
+
+Director Folska stated that we need to list a goal of what ridership increase we are hoping to attain.  GM Washington stated that this would go in the performance measures.  He stated that they can revisit the performance measures.
+
+Director Walker would like to see something where we work with local governments to improve ridership through infrastructure improvements.  He would also like to see our planners having input on construction projects that might impact our service.  GM Washington stated that they do a little bit of that, but they will work to see if they can structure it so they can identify those opportunities.
+
+Director Lubow stated that she is concerned about targeting the under-served markets.  She is from an area that feels under-served and would like to see a goal to engage with interested stakeholders to serve those markets by experimenting with successful strategies used elsewhere such as in Boulder.  She has received suggestions of creating a pilot community program for those areas.  GM Washington stated that they can revisit that as Director Deadwyler had brought that up before. He cautioned the Board about starting a pilot service in an area to see if it works.  Even if the entity agrees to pay for the service for a year, if the ridership does not materialize, you will find that the three or four riders that use that bus will come to say that we cannot take the service away if it doesn’t meet the minimum goals.  When we look at the boarding criteria, etc., there is a reason why it is under-served because the ridership is not there.  Director Lubow asked if there is a possibility to create an MOU with the different parties involved in the process.  GM Washington stated that they can revisit it, but cautions the Board members that it is not easy to eliminate those routes if they don’t work out.
+
+Director Menten asked who is our local government liaison listed in page 13 of the packet.  GM Washington stated that Roger Sherman from CRL is the local government liaison.  This was not in place before 2011.  Director Menten asked when the next meeting of the local government service planning is.  Bill Van Meter stated it has not been scheduled yet, but they will let the Board members know.
+
+Director Solano stated that the pilot programs are nothing new as they have a pilot program in Commerce City.  He asked what the update on that pilot is.  GM Washington stated that will look for the information and let him know.
+
+Director Daly stated that the under-served markets are listed under the 2014 Tactical Goals; there is a paragraph devoted to it.
+
+Chair Anderson stated that any of city’s transportation department would love to have the Directors stop by and talk transit with them; they might even provide information about bus routes.  It is possible that you can work within your cities.
+
+Director Hoy has had meetings with various city planners and the cities need to do a better effort in communicating to RTD what they are doing.  They build curbs, cutouts, etc. and then they want RTD to service it.  We need to strengthen the process between the cities and RTD to get them to talk to us before they start building.  He mentioned that it looks like the planners are sending their plans but there is some confusion on our end as to who receives them and reviews them.  GM Washington stated that it has gotten better; RTD planners are now talking to the city planners to determine what the plans are.
+
+Director James mentioned a conversation with Scott Reed about reaching out to the Elected Officials and senior leadership of the different jurisdictions in the metro area to make sure we keep the communications lines open to facilitate those plans.
+
+Strategic Goal #3: Innovative, Priority-Based FasTracks/SBP Funding
+
+GM Washington stated that it is a Board policy to keep reserves to specifically address various issues.  Staff will continue to satisfy those resources to fund the working capital pieces.  They are pursuing sales tax parity and audit capabilities.  They are also monitoring the news about internet sales tax.  The audit and parity pieces will start in 2014.  If the internet sales tax is approved, the Colorado Municipal League and the State are ready to go with various bills to lay it out.  They have estimated the impact to RTD on the low side will be$10 million and on the high side $25-$30 million.  They will keep the Board members informed.  They continue to look at other alternatives for funding for FasTracks and base system as well.
+
+Strategic Goal #4: Enhance constituent collaboration and communication
+
+Again they have listed most of the things that they are doing.  For the kickoff of the Northwest Area Mobility Study, they are considering having a telephone town hall to layout the scope of the study.
+
+With regard to the tactical goals going forward, they will do the annual RTD FasTracks Survey.  They do this through a third party consulting firm and they will come back to the Board with the results of the survey.  They will continue all the formal meetings with local government and town halls.  They look forward to the Board members input before May 17th.
+
+Director Lubow stated that she would like to have more effective early involvement for major service changes.  She would like more information about the citizen advisory groups.  She is also concerned about developing funding strategies for FasTracks as MAP-21 is more concerned about current ridership.  She asked if we could convene a funding symposium to find alternative funding.
+
+Director Menten asked what method is used for the annual FasTracks survey. Scott Reed stated that it is a statistically valid that is telephone based and done throughout the District.  It will be brought to the Board this summer but don’t have the date yet.  GM Washington stated that they will inform the Board.
+
+Director Folska asked if they call everybody in the District, a sample of people that live in the District, or just users of RTD.  Scott stated that it is a sample of residents, not just users.
+
+Director Sisk stated that he would like to understand why RTD did an RFP for an outside consultant for our local government liaison.  He believes this role should be handled internally.  He feels having someone in-house that understands RTD and would be accountable for how RTD reacts would be good.  Director Sisk believes that an independent consultant doesn’t work for RTD and have the same accountability.
+
+Director Walker stated that there is also a degree of responsibility on the local governments to understand how RTD works.  It doesn’t make sense for RTD to always be out there trying to babysit them; the cities need to take responsibility if they want better services from RTD and meet us in the middle.
+
+Director Tobiassen stated that the plan looks good; there has been great progress made in the social media and other outreach systems.  He was looking at the Facebook page and it is impressive.  He commended Scott for picking up on the social media feedback.
+
+GM Washington commented that with regard to the local government piece, they make a very thorough analysis as to whether they should bring that in house or go with outside consulting.  Staff made a determination based on that analysis looking at length of the assignment and economic impact.  On the social media we are dealing with a new demographic that might be different from what we are expecting.  This new demographic is not picking up a newspaper.  We have been trying to reach that new demographic and identify if they really care about the things we think they do.  They are trying to see what information they really want and what the impact will be in the 2014 budget.
+
+Strategic Goal #5: Continue Advancement of FasTracks
+
+They listed the current projects being developed and talked about continuing the strategic relationships, the programming of the project and developing funding strategies.  The tactical plan for this goal is to continue what we have been doing pursuing new revenue.  We need new revenue because we have a debt limit issue under TABOR.  We are trying to create more room under TABOR with the refinancing of bonds so if we need to borrow more we can.  A key issue is creating more revenue opportunities such as parity and encouraging the internet sales bill to allow the opportunity for additional funding.  It is important for RTD to be flexible. For example, if we are moving forward with the North Metro we will move forward with or without federal funding, but we need to stay flexible so that if we see an opportunity for federal funding we can jump on it.  They will not bring something that the Board will need to act on overnight, but as an agency we have been successful by being flexible.
+
+He stated that he presented the five (5) strategic goals and the proposed tactical way forward to attain those goals.  He provided the outline of how they fit into the budget process.  He explained the calendar for the budget and how it matches the GM and staff goals for next year.  They look forward to the Board’s input between now and May 17th.   Once they have looked at that input they will come back to the Board to hopefully get a consensus to move forward with the tactical plan for 2014.
+
+Director James stated that the City/County of Denver de-Bruced themselves and it resulted on an 18% of the property tax portion of their revenue.  He asked what the potential is for this at this time.  Marla Lien stated currently we don’t need a de-Brucing.  The 1999 ballot issue allows RTD to retain all revenues until the T-Rex debt is repaid which is about 2024.  The FasTracks ballot issue allows RTD to collect, retain and spend all the .4% revenue until the FasTracks system is fully built and all the debt is repaid.  After that the tax is reduced to the rate required to operate the system.   By 2020 on the .6% we will need a de-Brucing if we want to retain revenue.
+
+Director James asked how TABOR is constraining us.  Marla Lien stated that TABOR includes several components; it affects our debt limit.  The debt capacity is constrain by TABOR and our financial capacity in the market. We are almost at capacity in the base system.  GM Washington stated that it is also about what we can borrow.
+
+##### a. Memo to Board  of Apr 18, 2013 RE: Strategic Goals and Priorities from March 2, 2013 Advance/Retreat
+
+##### b. General Manager's Proposed Tactical Plan for Strategic Goals and Priorities April 18, 2013
+
+## III. Other Matters
+
+Director Deadwyler asked General Manager Washington and the staff to provide some update about Rocky Mountain Reinforcement (RMR).  GM Washington stated that Rocky Mountain Reinforcement (RMR) did some iron work on some RTD projects.  There is a dispute between some former employees of RMR and the company.  It has to do with Davis-Bacon Wages, which determines prevailing wages for a federal contract.  The Department of Labor is investigating the case.  At this point is not a good idea for RTD Board members to take a position or get involved.  Former employees want RTD to get involved, but the issue is between them and RMR.  His advice is to let the Department of Labor clear the issue with the firm.
+
+Director Solano stated that he understands that Rocky Mountain Reinforcement is a sub-contractor for Kiewit.  GM Washington stated that they are sub-contractors for several prime contractors.  Director Solano stated that he also understands that these employees are\ alleging that they were doing a higher capacity job and receiving labor wages.  He has also been informed that some of those employees were illegal aliens and that should be screened out by the contractors.  It is not RTD’s job, but the contractors should do it.  Many of these employees were hurt and fired and were not given the due rights as far as workers compensations.  Again he doesn’t know if this is true, but those contractors are working for RTD.
+
+Chair Anderson reminded the Board members to provide input to staff about the tactical plans by May 17th so we can be ready for the budget in November.
+
+## V. Adjourn
+
+Chair Anderson adjourned the meeting at 7:03 p.m.

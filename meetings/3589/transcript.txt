@@ -1,0 +1,276 @@
+2023-12-20
+Audit Committee Meeting
+BOBBY DISHELL: Good afternoon. The Wednesday, December 20 Audit Committee will now come to
+order. We are convened as of 2:01 PM. I'd respectfully ask everyone attending this meeting to mute
+yourself unless you are recognized to speak.
+Thank you all for joining us this afternoon. Please note, the committee meetings of the RTD Board of
+Directors will be held remotely via Zoom and will be audio and video recorded. The meeting recordings,
+along with the unofficial minutes of the meetings, will be posted as soon as practicable on the Board's
+website.
+At this afternoon's meeting, we are providing communication access real time translation, also known as
+CART. Anyone who would like to access this service should send an email to the board office, at
+rtd.boardoffice@rtd-denver.com, and a link will be provided. Visit rtd-denver.com. And a live stream of
+this meeting is also available via RTD's YouTube page.
+Directors and members of staff, for the sake of the record, if you would like to be acknowledged during
+today's proceedings, I would ask you to please raise your virtual hand and wait for me to call you before
+proceeding to speak. Directors and staff participating by phone can also raise their virtual hands to
+indicate that they would like to speak by pressing star 9. To toggle your mute setting on the phone, press
+star 6.
+I would now like to call the roll for the committee members. Director Catlin.
+PEGGY CATLIN: Here.
+BOBBY DISHELL: Director Davidson.
+ERIK DAVIDSON: Here.
+BOBBY DISHELL: Mr. Brendel.
+JIM BRENDEL: Here.
+BOBBY DISHELL: And Mr. Ollenberger.
+JOHN OLLENBERGER: Here.
+BOBBY DISHELL: And I am here. For the record, I see that we also have Director Guzman with us.
+Thank you for joining us. Just quickly make sure. Great.
+I would like to open public comment to anyone who would like to address the committee regarding any
+topic listed in the published meeting agenda for the current and immediately preceding month. If you wish
+to speak and have not already done so, please either raise your virtual hand or press star 9 on your
+phone. During this time, the committee will not offer any direct comments or responses. However, if you
+would like to be contacted regarding your public comment please email the RTD Board Office at
+rtd.boardoffice@rtd-denver.com.
+
+Mr. Kroll, I don't see any virtual hands raised. Do you have any on your end?
+JACK KROLL: I do not, Chair Dishell. And we did not receive any public comment via email in advance of
+this meeting.
+BOBBY DISHELL: Great. Thank you. With no participants in the queue, we will close public comment
+period at this time.
+Before we move into our one discussion item for our meeting today, I want to remind everyone that our
+time is limited to 90 minutes total and that we are meeting today to wrap up our internal audit update from
+November. In addition to our internal audit update, we have an executive session that we will adjourn into
+that we need 30 to 45 minutes to effectively complete. As such, I'm going to do my best to move our
+discussion along and ask that we all remain conscientious of our time constraints.
+For the sake of the record, I note that Chair Guissinger has joined us. For our internal audit update, I'd
+like to ask Doug MacLeod, Chief Financial Officer, to present this item.
+DOUG MACLEOD: Thank you, Chair Dishell, and good afternoon. This is Doug MacLeod, Chief Financial
+Officer. And I would like to introduce Matt Marino from RubinBrown, as well as Dave Haronik, who will
+continue the presentation. So Matt, the floor is yours.
+MATT MARINO: Thank you, Doug. Good afternoon. Thank you for allowing us to have a second try at
+finishing the communications with regard to the internal audit. I will touch on a couple items from the
+agenda.
+We didn't update the overall update as far as where we're at in the different audits we have conducted.
+We continue to be on track with issuing both the revenue and non-revenue vehicle internal audits for Q1
+of 2024. And then our plan, as far as the audit plan, has not been modified. So the plan we talked about
+during the November meeting of this committee has not really updated.
+We do continually evaluate all this and make sure that we're providing the highest value to RTD as far as
+relevant information. So we do want to remind everybody that we do have the ability to update the audit
+plan if we see fit, but we are going to continue proceeding with that.
+When I look at the agenda, we did discuss all but one of the ITGC, IT General Controls,
+recommendations, except for the few that were redacted. So we did not get to recommendation 11, which
+was one that was not one of the redacted ones. So I was going to go through that, if everybody wants to.
+Or do we want to proceed with going-- we'll go with that. I see several nodding heads.
+So View. I'm hoping you're seeing full screen. OK. So this is the last of the recommendations with regard
+to the ITGC over Oracle. This one has to do with SOC I Type II reports. So I know I'm using acronyms,
+but basically that is a report that's provided by service providers that the controls that are used within a
+service provider are operating effectively.
+So the observation that came out of this audit is that we were made aware that there were SOC I Type II
+reports. However, we did not evidence review by RTD of those SOC I Type II reports. And so the
+recommendation is that, obviously, if we're obtaining those, it's important to review those and make sure
+that we know any deficiencies that might be noted in those reports and that we're also providing or
+implementing the different controls we need to on our side to be using those services of the different
+service providers.
+
+A corrective action plan was provided by cybersecurity staff. And they're going to work on making sure
+that they obtain those on an annual basis and that they are also reviewed. And so that planned target
+date is March 31 of 2024, which is just a little bit over 90 days away from today.
+So any questions with regard to observation 11?
+OK. So that is the last of the recommendations that we're going to discuss in normal non-executive
+session. As a reminder, several of the recommendations under the IT General Controls audit were
+deemed to be very sensitive in nature. And so we would entertain the motion to go to executive session to
+discuss those, if we have no further comments on the other items.
+BOBBY DISHELL: Great. Mr. Kroll, I see you have your hand up. And I think it's that we have other
+matters first and then executive session. Director Catlin.
+PEGGY CATLIN: Thank you, Mr. Chair. This is not with regard to the IT but rather the audit reports that
+we saw in October. And I'm just wondering from staff, I know that there were a couple of things that were
+scheduled for completion on December 31 of this year, and I'm just wondering if those are on track and if
+they are, if we will be getting any kind of summary update of where we are on those action items. And I'm
+referencing particularly the contract, I think, contracting and procurement report that was supposed to be
+done.
+BOBBY DISHELL: Great. I see Ms. Johnson has her hand raised. Ms. Johnson.
+DEBRA JOHNSON: Yes, thank you very much, Mr. Chair, and thank you very much, Director Catlin, for
+the question. Yes, staff is working on those items and we will be ensuring that we provide updates. If I
+recall, we talked about the manner in which we could be doing those going forward. And so we will confer
+with you all on the best vehicle in which to provide that information, recognizing the audit schedule
+perhaps is written communique and that precedes an audit committee.
+PEGGY CATLIN: If I might, Mr. Chair. I know that there are non-Audit Committee members on the board
+who are interested in particular in a more granular level of the contracting and procurement process. And
+I know that it was recommended that there be a tracking mechanism put in place. And that was
+scheduled to be put in place by the 31st. So I think that there perhaps would be other Board members
+that would be interested in seeing what that looked like. That's all.
+DEBRA JOHNSON: Mr. Chair, if I may.
+BOBBY DISHELL: Please.
+DEBRA JOHNSON: Just with any of the board materials, they always go to all board members and not
+just committee members. So I should have qualified that in my response, because it wouldn't just be
+disseminated solely to this committee. But recognizing if there was a broader interest, then we would
+work in tandem to ensure we were meeting the needs of the Board.
+PEGGY CATLIN: Thank you. I just know that that particular tracking mechanism has been asked about in
+the past. And so I was just wondering if that was on track. Thank you.
+BOBBY DISHELL: Great. Are there any other comments or questions from the committee or other board
+members in attendance with respect to audit observation 11 on the ITGC audit?
+
+Seeing no further comments or questions from the committee and our attendees, I'll now move to Other
+Matters. I have one item I'd like to discuss under Other Matters. At our November board meeting, many
+Directors indicated an interest in seeing an improvement to how RTD budgets for and executes on capital
+projects.
+I'd like to get the committee's thoughts on asking for some ad hoc audit hours to be spent on looking into
+the capital project budgeting and execution process at RTD. I've previously discussed this matter with our
+Chief Financial Officer, Doug MacLeod, and our Chief Audit Executive, Matt Marino, and now would like
+to hear from you all as to whether you all think this is a valuable exercise.
+The end goal here would be to help RTD improve in this area on a look-forward basis. And if there's any
+Directors who would like to weigh on this, just want to get some consensus on whether we should move
+forward here or how.
+Yeah, Mr. Ollenberger.
+JOHN OLLENBERGER: I would just say that I think it's a worthwhile endeavor, especially given the
+capital intensive nature of the RTD and some of the assets that are purchased, to go through this. I would
+probably ask how many hours we're planning on using out of the ad hoc budget. But other than that, I
+think it sounds like a good audit to do. And I guess we're calling it ad hoc. Would this be more or less a
+full internal audit? Or are we thinking about specific procedures and limited scope?
+BOBBY DISHELL: Good question. What would your thoughts be? I think, just to add some background-Mr. McLeod and Ms. Johnson both have their hands raised. I think staff time is something where we've
+certainly heard they need time to implement the audits that we just got back. So I would lean probably
+towards limited scope, based on that conversation.
+And also recognizing that components of the capital program are going to come to light through our
+district revenue and non-revenue vehicle audits, I believe-- Mr. Marino can keep me honest there. And so
+I'll go to Ms. Johnson, and then maybe it sounds like it might be helpful to hear from Mr. Marino sort of
+what components we are already going to cover in the current audit plan. And maybe that'll help provide
+some fodder for conversation. Ms. Johnson.
+DEBRA JOHNSON: Yes. Thank you very much, Director Dishell, and I greatly appreciate the context
+around in which you presented this item. I recognize that you did have an opportunity to meet with CFO
+McLeod and Mr. Marino. If you could extend the professional courtesy to me as the CEO to have a
+broader understanding of what the path is, recognizing the allocation of staff time, I would appreciate that
+accommodation, because I have yet to have the opportunity to engage with you all specifically on what it
+is you're seeking.
+So if that could be taken into consideration prior to making any determination to the path forward, that
+would be most appreciative. Thank you.
+BOBBY DISHELL: Yeah, of course. Are there any other thoughts? Yeah, Director Davidson.
+ERIK DAVIDSON: Yeah. Thank you, Chair. I think it's interesting, certainly in concept. I just wanted to-one clarifying question and a more general question.
+So the clarifying question, is this, I know you're saying looking at a go-forward basis, but would the idea
+be to look at what procedures have been in place, audit our process, and then use an audit to make
+
+recommendations for-- I guess, would you mind, I think maybe it's along the lines of Mr. Ollenberger's
+question of, it would be limited in scope and are there specific policies that we would be looking at here?
+And I think maybe that leads into my more general question, which was, if you wouldn't mind just
+providing some context regarding some of the discussion that you did have with Mr. Marino and Mr.
+McLeod on this, maybe the two can kind of go together, just a little bit more context might be helpful. I
+think this sounds good. I just want to make sure I'm clear on what the mission would be.
+BOBBY DISHELL: Yeah, absolutely. So I think coming out of the November board meeting and prior,
+there was a lot of concern from directors on the processes we go through for, I think, A, budgeting, but B,
+specifically with relation to budgeting capital programs and capital expenditures, and specifically that
+carryforward budget, and when, where, and how we decide to move a project forward or move a project
+back, and what systems and processes we use or don't use in order to do that.
+I also want to name that I believe staff has processes and process improvement in place specifically with
+respect to this, given the recognized need for it to exist. And so there's sort of a lot of moving pieces. And
+I think this falls sort of into the bucket of, does it make sense to move forward with a limited scope audit
+now on what processes do we have and are we following them, or does it make more sense, I think, to
+wait? And Mr. McLeod can speak more eloquently to what exactly staff is planning, should he want to. Or
+should we wait until that's done and then audit against that?
+Mr. Marino, Mr. MacLeod, is that sort of a fair recap of our conversation? Yeah, Mr. MacLeod.
+DOUG MACLEOD: Thank you, Chair Dishell. Yes, that is a fair recap of our conversation. And if I might
+propose that Mr. Marino and Mr. Haronik and myself get together and look at some procedures that they
+might be-- based on the feedback that we received from the board at the November 28 meeting and prior,
+and based on where we would like to get with our presentation of budget numbers-- and come back to
+this committee with a proposed scope of work, as well as a number of hours, if that would be OK.
+BOBBY DISHELL: I see Director Ruscha has joined us as well, for the sake of the record. I think on my
+end, that would be good as well. I do want to make sure that prior to saying yes, that sounds good, that
+we honor GM/CEO Johnson's request as well that we're all looped in and we're all deciding whether this
+makes sense together. So provided she's there too, or she has your designation, that makes sense to
+me.
+How do others on the committee feel about that sort of proposed path forward? Yeah, Mr. Ollenberger.
+JOHN OLLENBERGER: Well, I guess I'll just kind of amend my last comment that I thought it was a good
+idea. I still think it's a good idea, but if management is in the process of revising this right now, I would
+recommend holding off. I don't see a point in auditing what's been done in the past unless we think there's
+misappropriation or fraud or some good reason to audit what's been done in the past.
+I think we should let them revise the process and then maybe come in after that process has had a few
+months of, or six months or whatever, of movement, so we can have something to audit after that. The
+only caveat that I would say to that is sometimes internal audit will come help develop the process or look
+at the old process and make recommendations to help implement the new process. So that's something
+that people can consider as well.
+BOBBY DISHELL: Yeah. Director Catlin.
+
+PEGGY CATLIN: Thank you. I would-- I don't want to say approve-- but I would be in favor of Mr. Haronik
+and Mr. Marino and Mr. MacLeod working with Debra to develop a scope of work, if they think it's
+necessary at this time. And it could be very limited. And then proceed with the changes that staff is
+considering right now. Thank you.
+BOBBY DISHELL: Yeah. Ms. Johnson.
+DEBRA JOHNSON: Yes. Thank you very much, Director Dishell. And I appreciate all the comments that
+have been provided, due to the fact that we as a management and leadership team just had a meeting
+relative to our capital project development process just last Friday. And there was a myriad of things that
+we have underway that really are going to commence in a robust fashion in January.
+So to Mr. Ollenberger's point, yes, there's a point where there would be great benefit going forward, and
+that's why I made the comment in which I did, because I wasn't certain that this committee was aware of
+what has been taking place. So just wanted to ensure that my comment was taken with the intent in which
+I was providing it. So thank you very kindly. And I think it landed in the manner in which I intended.
+BOBBY DISHELL: Great. Director Davidson.
+ERIK DAVIDSON: Thank you for all the comments. Appreciate it. I think to Mr. Ollenberger's point, a look
+back would help, if we have these changes taking place. I think what might help the committee, certainly it
+would help me, would be to get an idea of, just as, Ms. Johnson, you were alluding to, where we are in
+the process, where it starts to serve the agency that an audit might plug in, what we need to be auditing.
+I think this may drift into the scope of work of the Finance and Planning Committee. But it might be
+helpful, if it would serve this committee, to have a just high level understanding, not now, but perhaps at a
+future meeting, of where we are in that process. And if Mr. Haronik and Mr. McLeod are going to meet on
+this topic, perhaps they could share not only their thoughts on this topic and the timing of when an audit
+might be useful, but also just, Ms. Johnson, where we are in that process of making changes and what
+some of those changes are. I think that would certainly help me understand a little bit more about when
+this might be appropriate.
+BOBBY DISHELL: Yeah. Any other questions or comments? Yes, Ms. Snyder.
+MELANIE SNYDER: Well, thank you, Mr. Chair. So I just had a process question and wondered maybe if
+the RubinBrown team might be able to speak to. As we think about when this committee and then
+ultimately the board decides to take on an ad hoc audit, understanding that the audit plan is developed
+through a risk-based process, right. We have that methodology in place. We do a risk assessment. Is
+there anything that this committee should be thinking about as they're determining how to frame how ad
+hoc audits will be identified going forward?
+BOBBY DISHELL: Yeah, Mr. Marino. That might not be why you raised your hand.
+MATT MARINO: I'll try and take both at once. I will say that the revenue and run revenue audits will hit on
+some of the elements of how information is gathered and how it is utilized within the organization. So that
+when the statement was made earlier that the already occurring audits might provide some context on
+some areas, they will hit on some of that, as far as what sort of data is collected on maintenance, when is
+something due for replacement, all that sort of stuff, which would ultimately feed into your capital
+budgeting. So that is that part of it.
+
+And then we should probably default back to our risk-based approach. And I do appreciate the feedback
+of if there's some concern around the overall process, maybe understanding, number one, obviously it's
+large in magnitude, but also there's the likelihood of something could occur or not occur. And so we
+probably should go back and do the risk-based approach to decide if it's worthy using audit hours, if that
+makes sense.
+BOBBY DISHELL: Great. Thank you, Mr. Marino. Apologies, I think I may have accidentally called you
+Mr. Haronik. Mr. Haronik.
+DAVE HARONIK: I would just add that one of the intentions of providing the ad hoc hour bucket, if you
+will, is to respond to risk that comes up quickly. So if this was deemed as something that the organization
+felt that could add value and help get ahead of certain risks that were identified or are suspected of, I
+guess I should say, so we could use that bucket pretty freely or pretty quickly then.
+BOBBY DISHELL: Great. Mr. Marino, I see your hand is-- no, now it's gone.
+OK. I think hearing all of this, it sounds like on the next steps category, there's work that's being done,
+great work that's being done, that updates will go to the Finance and Planning Committee. I know our
+next meeting is in February. So to the extent that those updates would implicate audit, I think it would be
+helpful just to get a brief update at the February Audit Committee meeting.
+In the interim, I'll leave it to our Chief Audit Executive, our Chief Financial Officer, our CEO and their
+respective teams to meet in the interim and decide, is the scope of work and additional audit hours helpful
+to refining this process? Is it not? I think the one ask I would make is that in either event, if it's, hey, we
+don't think a scope of work is necessary, that you do come back and sort of say, here's why we aren't
+recommending an additional scope of work. That way, we at least can tie a neat bow on the process.
+Not that this is a vote or a formal action, but can I just get a head nods one way or the other if that sounds
+good to folks? Great.
+Are there any other matters to discuss? OK. At this time, the next Audit Committee meeting is scheduled
+for Thursday, February 15, 2024. At the February 15 meeting, among other items, we expect to hear an
+update from our external auditors, Plante Moran.
+In a moment, the committee will meet in executive session to discuss specialized details of a security
+arrangement. I would like to append the motion to move into executive session to state that the
+committee meeting will be deemed adjourned after it adjourns into the executive session. For public
+transparency, this means that once the committee moves into executive session, the main meeting will be
+adjourned.
+I will now entertain a motion to move into executive session to discuss the following. Pursuant to Section
+24-6-402(4)(d) CRS, specialized details of security arrangements, and Section 2472-204(2)(a)(VIII)(A)
+CRS, specialized details of physical and cyber assets of critical infrastructure, protective measures,
+emergency response plans or system operational data of such assets that would be useful to a person in
+planning an attack on critical infrastructure, for presentation of information technology general controls
+audit observations and corrective plans-- corrective action plans.
+PEGGY CATLIN: So moved. Director Catlin is the movant. Is there a second?
+ERIK DAVIDSON: Second, Davidson.
+
+BOBBY DISHELL: I hear Director Davidson as the second. Are there any no votes on this action?
+With five in favor and zero opposed, the motion carries. For all those who are expected to attend, would
+you please move into the other room at this time?
+
+

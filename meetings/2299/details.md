@@ -1,0 +1,43 @@
+## I. Civil Rights Committee
+
+Chaired by Jeff Walker
+
+### A. Call to Order
+
+Committee Chair Walker called the meeting to order at 5:30 p.m.
+
+Director Bagley participated via remote.  Director Folska, Director Francone, Director Lubow, and Director Tobiassen were absent.
+
+Staff Present:               Bruce Abel, Jessie Carter, Garrett Christnacht, Susan Cohen, Heather Deckard, Nate Diaz, Sherry Ellebracht, Terry Emmons, Eric Farrington, David Genova, Mike Gil, Kim Heldman, George Hovey, Erin Klaas, Nadine Lee, Marla Lien, Adrian Mabry, Doug MacLeod, Barbara MacManus, Judy McMurphy, Vivian Morales, Ed Neuberg, Paula Perdue, Scott Reed, Jannette  Scarpino, Zamy Silva, John Tarbert, Brian Thye, Bill Van Meter
+
+Others Present:              Kevin Boland, Jenn Masak, Joe Triplett, Gary Van Dorn
+
+### B. Recommended Actions
+
+No recommended action was presented.
+
+#### 1. Civil Rights Committee Update
+
+Zamy Silva, Senior Manager for Civil Rights, reviewed the Civil Rights Update presentation included in the Civil Rights Committee agenda packet for June 9, 2015.  The presentation included percentages achieved on Disadvantaged Business Enterprises (DBE) and Small Business Enterprises (SBE) on both base system and FasTracks projects, recent and upcoming events, an overview of the Americans with Disabilities Act (ADA) program and the upcoming 25th Anniversary celebration, the Equal Employment Opportunity (EEO) Office software, and the Workforce Initiative Now (WIN) Program.  She highlighted the Civil Rights and Public Engagement Briefing for the U.S. Department of Transportation (DOT) held on June 8, 2015.
+
+Zamy Silva acknowledged the work of Ed Neuberg, Manager for ADA, since he started with the agency a few months back.
+
+Director Deadwyler wondered about the ADA celebration as she was a speaker at a similar event held at the Capitol earlier in the year.  Ed Neuberg replied that the official ADA anniversary is July 26th.  He noted that it may have been a celebration noting the significance of the year as ADA embarks on the 25th anniversary.  He added that the upcoming event is a community event.
+
+Chair Sisk commended the Civil Rights staff on the impressive statistics.  He asked to eventually see statistics on how long WIN participants stay with employers and how are they utilizing the education and opportunities received through the WIN program.  Zamy Silva replied that her staff has those numbers available.  She added that the goal of the WIN program is to find opportunities for individuals to work in the community and to enable them to continue to grow in their career paths.  The growth depends on the individuals and the projects available.  Dave Genova, Interim General Manager, added that Denver Transit Partners (DTP) intends to use the WIN program for operations and maintenance positions once the Eagle P3 project opens, giving the participants a long term program, not just construction projects.  Chair Sisk thanked the Civil Rights staff again for their work and extended a welcome to Ed Neuberg.
+
+Director Solano agreed with Chair Sisk.  Director Solano noted that as the focus shifts from construction to operations a lot of the construction projects will ramp down making it hard to determine what will happen to the participants.  He pointed out that at least the participants are getting trained.
+
+Director Deadwyler shared her conversation with a WIN participant who was hired full time but keeps getting told he is not needed on certain days or weeks.  She wondered how the agency keeps them working if they are not working with the contractor.  Zamy Silva noted that Martell Dyles, WIN Program Manager keeps a detailed account of participants.  She added that since the work is project driven at times it is difficult to offer consecutive work; it all depends on the skills of the individual, the job, the company and the project.  The WIN Program works with contractors to find out about other opportunities that could benefit the WIN participants.
+
+Committee Chair Walker mentioned that he participated in the briefing for the Department of Transportation on June 8.  He noted that Bryna Helfer, Office of Public Engagement Deputy Assistant for DOT, Stephanie Gidigbi, Deputy Director of Public Engagement for DOT, and Kathy Mannes, Director for the Center for Workforce and Industry Partnerships at the U.S. Department of labor, showed a lot of enthusiasm over the WIN program.  He thanked Zamy Silva for her work.
+
+##### a. Draft Board Report
+
+### D. Other Matters
+
+No other matter was presented.
+
+### F. Adjourn
+
+Committee Chair Walker adjourned the meeting at 5:49 p.m.

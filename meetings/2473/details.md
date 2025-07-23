@@ -1,0 +1,227 @@
+## I. Financial Administration and Audit Committee
+
+Chaired by Natalie Menten
+
+### A. Call to Order
+
+Committee Chair Menten called the meeting to order at 5:32 p.m.
+
+Director Lasater and Sisk were absent. Director James arrived late and Director Deadwyler left early.
+
+Staff Present:               Tonya Anderson, Rolf Asphaug, Tim Barlow, Shirley Bennett, Gina Callahan, Sarah Camacho, Rachel Carson, Jessie Carter, Carolyn Conover, Heather Copp, Lou Cripps, Heather Deckard, John Elias, Terry Emmons, Eric Farrington, Anthony Forrester, Doug Gragg, Kim Heldman, Adrian Mabry, Doug MacLeod, Robin McIntosh, Barbara McManus, Allen Miller, Brenden Morgan, Sue Sandoval, Tai-Shrae Parish, Jannette Scarpino, Rahul Sood, Errol Stevens, Henry Stopplecamp, Greg Straight, Walt Stringer, John Tarbert, Monika Treipl-Harnke, Mike Turner, Bill Van Meter
+
+Public Present:               Morgan Bassey, Chris Elmore, Aaron Epstein, John Karner, Mike Newman, Pedro Ramos, Anita Solano, John Thompson, Joe Triplett, Gary Van Dorn, Cheryl Wallace, Dee Wisor
+
+#### 1. 2015 CAFR and Report to Governance
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors accept and enter into the record the District’s audited financial reports relating to the year ended December 31, 2015 as prepared by staff and  audited by RTD's independent auditor, RubinBrown, LLP.
+
+Motion:               Director Anderson made the motion to move this item to the full Board at the May 31, 2016 Board Meeting.
+
+Director Folska seconded the motion.
+
+Discussion:              Heather Copp, Chief Financial Officer and Assistant General Manager of Finance and Administration, and Doug MacLeod, Controller, introduced Cheryl Wallace from the auditing firm of RubinBrown, LLP (RubinBrown).  Doug MacLeod recognized staff members Sue Sandoval, Senior Manager of Accounting, and Tom Barlow, Senior Investment Accountant.  He noted that they and their team have worked diligently since September to get this audit completed.
+
+Cheryl Wallace clarified the annual audit process with the Directors.  The ViewPoints presentation included in the Financial Administration and Audit Committee Agenda Packet for May 24, 2016 contains the communication that every auditor is required to provide to a governing body.  She stated that RTD has retained RubinBrown to perform an independent audit on the financial statements. Since RTD has received federal awards over $500,000, RTD has also engaged RubinBrown to issue an opinion on RTD’s federal awards.
+
+Cheryl Wallace noted that page 6 begins the required Auditor communication.  The left side of the report outlines the auditing standards and the right side of the report is the response from RubinBrown.  She explained that RubinBrown issued an unmodified report that was previously called an unqualified opinion or a clean opinion.    On page 7 of the report, it is notated that RubinBrown planned and scoped the audit through the engagement process.  What is new for this year was a new governmental accounting standard that was effective January 1st 2015, which was adopted by RTD.  RubinBrown is also required to inform the Board if there are any estimates used in the financial statements.  There are estimates because of capital assets and receivables.  And lastly, because of the Government Accounting Standards Board Statement No. 68 (GASB 68), there is an estimate of the pension liability.  The financial statements are very clear and concise and there were no difficulties encountered during the audit. RubinBrown worked with the finance team and other divisions throughout the District and there were no difficulties.  The only adjustment in the report is an indication of an accrual which is a client prepared adjustment, not an audit adjustment.  There were no disagreements with Management, no need for consultation and no other issues which required attention.
+
+The rest of the document has recommendations for best practices, observations and suggestions for the District to consider.  One of the audit recommendations from last year was to review the Transportation Infrastructure Finance and Innovation Act (TIFIA) loan period of availability and how it is recognized.  Those recommendations were fully put into effect this year.  Additionally, RubinBrown made recommendations related to how RTD recodes transactions, which have been partially implemented.  RTD staff is in the process of refining the procedures. The last topic was reviewing the information technology governance and controls.  There is a multi-year plan that is currently being implemented which is why that recommendation is partially implemented.
+
+Cheryl Wallace stated as the Board looks forward, there is a new GASB relating to fair values which will add more disclosures to financial statements.  There is a public private partnership accounting that will be coming to completion in 2016 and a new standard, GASB 75, will come into play in 2018 related to post employment benefit plans.
+
+Committee Chair Menten declared the motion PASSED unanimously.
+
+##### a. 1.A  2015 RTD Comprehensive Annual Financial Report (05-2016)
+
+##### b. Regional Transportation District 2015 ViewPoints FINAL
+
+#### 2. Resolution No. ___, Series of 2016 related to the issuance of RTD Sales Tax Revenue Bonds, Series 2016A
+
+It is recommended by the Finance Administration and Audit Committee that the Board of Directors approve the attached Resolution Number __ (the “Resolution”), authorizing the issuance of Regional Transportation District Sales Tax Revenue Bonds (FasTracks Projects), Series 2016A.
+
+Motion:               Director Anderson made the motion to move this item to the full Board at the May 31, 2016 Board Meeting.
+
+Director Solano seconded the motion.
+
+Discussion:               Heather Copp noted that Dee Wiser of Butler Snow, Chris Elmore of Goldman Sachs, and Mike Newman of First Southwest were all present to answer questions if there was anything staff could not answer.
+
+Brenden Morgan, Senior Manager of Debt and Investments, explained that the resolution allows for two items.  The first is for new money for new projects, including the Southeast Rail extension.  The second allows for potential refinancing of the 2010A and 2012A FasTracks bonds if market conditions allow for such refinancing to be economically beneficial to the District.  As of now, refinancing is not an attractive option but the resolution will allow staff to react should the opportunity arise.  The resolution sets parameters for the sale of these bonds and limits the principal amount to $200 million dollars.  The maturity is limited to the year 2046, and the maximum effective interest rate is set at 7%.  Drafts of these documents are in the Board Office for review.
+
+Heather Copp clarified that in addition to funding for the Southeast Corridor, this will also complete financing for the rest of Eagle, North Metro and I-225 projects.  Although those projects are underway, they have not been fully funded.
+
+Director Lubow noted that in the Board packet there was something said about the 2004 vote which authorized a debt of $3.74 billion and a maximum total repayment cost of $7.1 billion. She wondered if these bonds getting us closer to those maximums.  Heather Copp said yes.  Assuming the bonds go up to the $200 million dollar in principal listed as the not to exceed number, there will be approximately $100 million dollars in principal left on those FasTracks bonds.  However, with interest rates it could be a little more or a little less.  Director Lubow expressed concern as an unfunded corridor is in her District.  She stated if RTD issues these bonds it leaves nothing left for the unfunded corridors.
+
+Director Lubow asked for further information about refinancing if it is economically feasible. She said it was her understanding if we refinance the repayment of debt will be extended 10 years past the original date.  Heather Copp indicated that at this point in time staff would not know, but the statute indicates that any refunding cannot exceed 15 years past the original due date. Brenden Morgan added that historically when there have been refinancings the debt will be structured with similar, if not identical, maturity payments.  Heather Copp reiterated staff does not know if the bonds will be refinanced but this allows staff the flexibility if it does make financial sense at a later date.
+
+Director Lubow stated she would be voting in favor for this but has reservations about leaving so little in the FasTracks pot.
+
+Director Francone asked for confirmation that the resolution would allow for the potential refinancing of certain bonds but that staff did not plan to refinance at this time.  Brenden Morgan indicated that the two main items authorized under the resolution are: raising new capital for projects, up to $200 million dollars, and refinancing of the 2010A and 2012A FasTracks bonds.  This action item is allowing staff flexibility to capture a potential opportunity if it becomes available.  Heather Copp added that the reason that these two bonds were combined under one action is because the market is moving quickly.  If staff had to bring this back to another meeting the opportunity could be missed because the market is constantly changing.
+
+Committee Chair Menten stated that she would be voting no for this item. She said while it is great that the community has contributed so much for the Southeast Rail extension, she is concerned with our debt load and current projections that this will risk operations. She stated we might be able to build it, but if we cannot sustain it, that creates a concern.
+
+Committee Chair Menten declared the motion PASSED.
+
+##### a. 1.C 2016A FT Bonds Resolution
+
+#### 3. Resolution No. ___, Resolution expressing the intent of the Board to be reimbursed for certain expenses relating to the financing of buses
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors approve the attached Resolution Number __ (the “Resolution”), expressing the intent of the Board to be reimbursed from a future financing for certain expenses relating to the acquisition of buses.
+
+Motion:               Chair Tobiassen made the motion to move this item to the full Board at the May 31, 2016 Board Meeting.
+
+Director Anderson seconded the motion.
+
+Discussion: Brenden Morgan indicated that this resolution is a reimbursement resolution very similar to one that was done for the FasTracks bonds two months ago.  The resolution expresses the intent of the Board to be reimbursed from future financing related to the acquisition of buses.  The Strategic Budget Plan (SBP), as approved by the Board in 2015, anticipates that the financing of buses. He indicated the fleet is constantly being refreshed as buses age. Some of the vehicles identified in the SBP will begin to arrive this month. The financing for these vehicles will be done in the future, but this resolution expresses the intent of the Board to be reimbursed from some future financing.
+
+Director Hoy asked if we are paying for the buses out of our normal operating cash which would then be reimbursed by future loans for that equipment. Brenden Morgan stated that was correct.
+
+Committee Chair Menten declared the motion PASSED.
+
+##### a. 1.B 2016 COP Reimb Resolution
+
+#### 4. Salaried Employee Trustee Replacement
+
+It is recommended by the Financial Administration and Audit Committee that the Board of Directors approve the attached Resolution No. ______ amending the Salaried Employee Defined Benefit (i.e., Pension) Plan and Salaried Employee Defined Contribution Plan to provide for appointment of the same four employee trustees for each of the plans, with two trustees being employee participants in the Pension Plan, and two being employee participants in the Defined Contribution Plan. The resolution further provides that the three existing employee trustees serving both plans remain as trustees with revised termination dates to assure continued staggered terms, and that a fourth employee be appointed to replace retired trustee Marla Lien.
+
+Motion:               Chair Tobiassen made the motion to move this item to the full Board at the May 31, 2016 Board Meeting.
+
+Director Lubow seconded the motion.
+
+Discussion:               Heather Copp reminded the Board that there are two salaried plans.  One is the Employee Defined Benefit Plan, known as the Pension Plan, which was closed in January 2008 to new salaried employees.  The new plan is the Salaried Employees Defined Contribution Plan.  There are seven trusties for each plan, and they are the same trusties.  Previously, the trustee compilation has been two Board Members, the CFO, and four other trusties.  Up until this time it has been two senior AGM’s, and two middle managers. The trustees decided there should be a different representation to include two members from the Pension Plan and two members from the Defined Contribution Plan.  The current trusties are: Director Lubow, Chair Tobiassen, Scott Reed, Lou Ha, Sylvia Francis and Heather Copp.  She said the trustees have been working with Steve Weinstein, the attorney for both plans.  Mr. Weinstein agrees with the changes as presented as do the current trustees.
+
+Director Francone asked when the appointment for the vacancy will be filled.  Heather Copp indicated that as soon as the Board approves the resolution, an announcement will be made to employees to ask for applications.  Director Francone inquired if the committee makes the final decision on the replacement, or will Chair Tobiassen.  Heather Copp noted that the Chair of the Board, the Chair of the Trust and the Chair of the Financial Administration and Audit Committee make the decision.
+
+Committee Chair Menten noted that this update makes the trusteeship much more inclusive.  She thanked staff for bringing this forward.
+
+Committee Chair Menten declared the motion PASSED.
+
+##### a. 2016-05-16 Proposed Resolution regarding Salaried Trusts
+
+#### 1. General Manager Contract Review
+
+Cheryl Wallace of RubinBrown, LLP (RubinBrown), reported to the Board that RubinBrown was engaged to review the terms of the GM contract that was just signed.  RubinBrown reviewed the terms to look at the annual cost of the contract and verified that those amounts were in accordance with the contract terms.  RubinBrown will come back annually to report to the Board what the actual incurred costs were for the District and we will compare that to the projected costs of the GM contract.  One item to point out to the Board that is different from the previous GM contract is that in prior years, the GM participated in the Defined Contribution Plan.  In this contract the GM is only participating in the Defined Benefit Plan.
+
+#### 2. March 2016 Monthly Financial Status Report
+
+Heather Copp stated that sales and use tax was down again.  She noted that staff will be coming to the Board next month with the Amended Budget where there will be adjustments made to the sales and use tax estimates as well as Fare Box revenues to account for the changes seen during the first quarter.
+
+Doug MacLeod reiterated that these are the March results, so the first quarter of the fiscal year.  All of the indicators are red when compared to the budget.  For the first quarter, sales and use tax is under budget by 5.6%, ridership is under budget 3.7%, and fare revenue is under budget 11.6%.  Ridership continues to not only be under budget but under where we were last year by 4.4%.  For fare revenue, year-to-date we are $3.9 million under budget.  Staff has been watching fare revenue and sales and use taxes closely because those figures are used in the SBP and the amended budget.  Staff will be keeping close tabs on the new fare structure to see how that progresses throughout the year.  To date, the $11.3 million shortfall was caused by lower ridership, lower fare revenue and lower sales and use taxes. Staff anticipates that we will be at a $32-43 million shortfall by the end of the year.
+
+Director Bagley indicated that given the unpleasant situation with lower fare and sales and use tax revenues, staff ought to be looking at where we are going to adjust and make potential cuts in our budget for this year.  Director Bagley asked if staff had looked into initiating a thoughtful review of how we are going to adjust that moving forward.  General Manager Genova noted that staff started that process in January.  He said there is a plan going forward with the amended budget to include some significant adjustments.
+
+Director Lubow asked if staff knew why the projected sales and use tax and fare revenue were so different from reality. Heather Copp reminded the Board that the recent Colorado School of Leeds presentation included some of their reasoning for it.  She stated their below trend forecast is what we are actually seeing. She believes some of the factors are the softening economy, the GDP not growing as expected, uncertainty with the current political environment, and the daily Federal interest rate discussions. There is a lot of uncertainty and in just the last few months, consumer spending dropped dramatically, especially in the area of new and used vehicles.
+
+Director Hoy said he has heard mixed comments regarding internet sales and if RTD will receive sales tax from them. Heather Copp noted that in March we did receive sales tax from Amazon. She said staff was not expecting it and neither was the Department of Revenue (DOR); however, even with that, the sales and use tax revenue is still down.  Director Hoy noted since Amazon is self-reporting that works but if an internet company is not self-reporting RTD will not receive any sales tax.   Heather Copp stated that was cored and explained that the DOR cannot give us the information at a granular level.
+
+Committee Chair Menten noted that in prior years RTD did have to make some dramatic service cuts.  She asked from a historical perspective what the shortfall was in those years.  Heather Copp noted that we cut 7-8% of service and which equated to $20-$30 million dollars when combined with other changes including cancelling projects, salary freezes, etc.  Heather Copp stated she does not expect service cuts to be needed as there are enough projects to defer.
+
+##### a. 2.B 033116 RTD MFS Final
+
+#### 3. First Quarter 2016 Investment Report
+
+Brenden Morgan noted that this report has been updated to make it easier to read.  The yield for the District’s unrestricted portfolio for the first quarter was 0.6%, which would produce annual earnings of $1.8 million dollars.  He explained that the graphs included in the report show the investment performance over time as compared to the benchmark that is set in the policy.  Historically performance has been just above, but in-line with the benchmark. That trend continues today.
+
+##### a. 2.C Q1 Investment Report Detail
+
+#### 4. SBP First Draft
+
+Jannette Scarpino, Senior Manager of Budget and Financial Analysis, noted that there is a first draft cash flow included in the updated Strategic Budget Plan (SBP). She reminded the Board that a high level overview of the SBP was presented in April and tonight staff will discuss the first draft cash flow.  The SBP only includes the base system plan and FasTracks operations activity.  The FasTracks expense and projects are shown separately and brought to the Board in the Annual Program Evaluation (APE).  The SBP parameters include fiscal management, including requirements to operate per specified performance measures, and strategic and tactical goals for the GM while maintaining a balanced budget over a six year period.  The SBP also incorporates building our reserves in both the Board Appropriated Fund and the Capital Replacement Fund and maintaining our current service levels.
+
+The baseline for the SBP is the 2016 Amended Budget with a fuel lock price of $2.23/gallon escalated by the national Consumer Price Index.  She indicated capital and expense projects would need to be prioritized as currently there is a $220 million shortfall
+
+Jannette Scarpino reminded the Board that there are many factors that make up the SBP, some of which are in staff’s control and some that are not.  The factors include:
+
+Uncontrollable SBP factors –
+
+- Sales/use tax revenue
+
+- Fuel price volatility
+
+- Inflation rate
+
+- Continued nature of economic growth
+
+- Interest rates on debt
+
+- Ridership
+
+- Grant revenue/Federal Appropriations
+
+The areas that we can control are –
+
+- Fare rate increases/decreases
+
+- Service levels
+
+- Operating costs/expense projects
+
+- Capital investment in projects
+
+- Fund balance development
+
+The target for the fund balances is $100 million which represents three months of operating expenses.  For the 2017-2022 SBP Revenue Assumptions, the next fare increases should occur in 2019 and 2022.  The March 2016 forecast from CU Leeds will be used for sales and use tax assumptions.  Federal Grants are assumed to increase at the rate of inflation or as identified in the grant parameters.  For expenditures, operating and maintenance costs are inflated based on the CPI, fuel cost is budget at the 2016 lock and escalated at the CPI and capital expenses are prioritized based on a scoring methodology.
+
+Jannette Scarpino outlined the next steps as follows:
+
+- June 14 – Board adoption of the 2016 Amended Budget and 2017-2022 SBP Update
+
+- July 12 – 2017-2022 SBP Update
+
+- August 9 – Presentation of final 2017-2022 SBP to the Financial Administration and Audit Committee
+
+- August 16 – Board adoption of 2017-2022 SBP
+
+- August 23 – 2017 Budget Study Session
+
+Heather Copp explained that staff was delaying approval of the SBP so the Board could see it together with the FasTracks APE.  She noted in the current SBP the fund balances do no reach $100 million until 2022, which had been something discussed during the Board/Senior Leadership advance as a priority to reach sooner.
+
+Director Lubow asked how staff would characterize in the current financial situation.  She pointed out that RTD is seeing revenues below projections but her impression is the economy is okay.    Heather Copp indicated Director Lubow summarized the situation very well.  The economy is doing fine and there is stable growth rate but not as exponentially as was seen after the recent recession.  She stated that RTD is not near a crisis situation, we just need to be reasonable about spending and prioritize the most important expenses.  There was a long period of time when projects were deferred so there are a lot of areas that need to be addressed.  She emphasized that revenues are still growing at very good rates of 4-5%, but not the rates of 7-9% that was happening after the recession.  Director Lubow asked if this was a situation where we should be spending down some of our reserves.  Heather Copp stated no; staff just needs to be conservative and cut down on expenditures and operating costs. General Manager Genova added that he cannot remember a year since he has been here there were no deferred projects.
+
+Director Hoy noted that some people may recall that when Don Hunt took over CDOT he had money set aside for bridge repair, a highway improvement, etc., but not enough to complete any one project. He wondered if it was correct to say that RTD is in a similar situation.  Heather Copp explained that staff is looking at projects to prioritize what gets done.
+
+General Manager Genova added that as staff looks at that prioritization, information from asset management will be used to help focus on maintaining our State of Good Repair.
+
+##### a. 2017-2022 Strategic Budget Plan
+
+#### 5. Smart Media Technology (SMT)
+
+Heather Copp introduced Tonya Anderson as the new Manager of Electronic Fare Operations and asked her to provide the Board with her background.  Tonya Anderson noted that she has worked on the Smart Card project for 4 years. She brings a lot of insight and history on the program.  She was previously an Officer in the United States the Air Force as an IT project manager.
+
+Tonya Anderson pointed out that may of the status indicators continue to be yellow due to an accelerated timeline for the project elements; however, the project is benefitting from an improved relationship with our vendor, Xerox.  They are stepping up and helping the team meet the project deadlines.  There are no roadblocks preventing the team from meeting the goal to launch the MyRide web portal on June 30th.
+
+Tonya Anderson noted that for the merchant retail point of sales program, staff has been in active discussions with King Soopers and very recently began discussions with Albertson’s.  Both are very excited to participate and key stores have been selected at Denver Metro King Soopers for testing.  She said it was very encouraging progress.
+
+Tonya Anderson pointed out that the handheld readers have changed from green to yellow since the last update.  There have been challenges with the implementation of the software, but that was resolved within the last week so the team is proceeding forward.  The devices should be distributed for testing and field training soon.
+
+Director Folska asked when is the anticipated date for going live with the entire Smart Media program.  Tonya Anderson indicated that the web portal element will be live on June 30th. Staff is working diligently to complete the rest of the project by the end of the year.
+
+Committee Chair Menten noted that the officers had a lot of complaints about the handheld readers and this needs a lot of testing. She wondered how long there was technical support from the vendor.  Eric Farrington, IT Program Manager, indicated that we have one year software support from Xerox from the date of acceptance, which has not yet been done.  The iPhones were purchased from a different vendor and we have one year of support for those as well.  Committee Chair Menten asked if the equipment would only be the iPhones or if there was another component.  Eric Farrington said there are two pieces of equipment: the iPhone and the scanner.
+
+Chair Tobiassen noted that 1500 cards over 17 weeks seems like a very small number. He asked if we were no longer promoting the pilot.  Heather Copp indicated that there are another 219 vouchers that will be mailed this week but will be slowing down the launch of the web portal approaches on June 30th.  She said there was not as much interest as staff was originally hoping.
+
+#### 6. Real Time Passenger Information Demo
+
+Rahul Sood, Manager of Software Architecture and Development, reviewed a Power Point Presentation with the Board that is included in the May 24, 2016 Financial Administration and Audit Committee Agenda Packet.  He explained that the project was started about a year and a half ago and real-time information for bus service is now available to the public through Google, Transit App and ezRide.  The goal of real-time information is to reduce frustration and increase customer satisfaction. Eventually, the information will be available on the RTD website as well as the information display signs at the stations.  Staff hopes to have information for Light and Commuter rail available by the end of the year.
+
+Director Folska asked if the disabled communities were engaged during testing.  She suggested reaching out to the National Federation for the Blind, CCDC and so forth.  Rahul Sood said that right now the real-time information was only published by third parties.  He added that for the work we are doing for our Next Ride application, Communications is working with that community
+
+Director Folska noted that instead of tools for playing games while people wait for their bus or train the apps should send people to Amazon.  Rahul Sood explained that the trend is going that way.  There are options based on location for dining or shopping.
+
+Director Anderson questioned if the app provided options when a service is unavailable, such as the recent University of Colorado A-Line shutdown. Rahul Sood explained that the University of Colorado A-Line does not have real time data yet; however, the apps will offer different route options and indicate if a service is delayed.
+
+Director Hoy shared that he was sitting on Colfax one day for lunch and opened Transit App.  He did not see the buses show up on the app that he saw driving by.  He wondered what might be the cause. Rahul Sood explained that at that time, the information was published every 20 seconds so there might have been a delay in receiving accurate information.  Since that time the information is now updated every 5 seconds.
+
+General Manager Genova added that staff wanted to give the Board a snapshot on the different transit apps available to the public.  He said every week our data seems to be picked up by a new 3rd party.
+
+Committee Chair Menten asked if the MyStop numbers can be added to Google Maps.  Rahul Sood explained that Google already has that information.
+
+##### a. RTPI Board Update v2
+
+### D. Other Matters
+
+There were no other matters.
+
+### F. Adjourn
+
+Committee Chair Menten adjourned the meeting at 7:08 p.m.

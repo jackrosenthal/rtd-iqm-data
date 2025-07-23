@@ -1,0 +1,177 @@
+## I. Planning and Development Committee
+
+Chaired by Bill James
+
+### A. Call to Order
+
+Committee Chair James called the meeting to order at 5:59 p.m.
+
+Director Menten arrived late.  Director Lubow and Chair Sisk were absent.
+
+Staff Present:               Bruce Abel, Susan Altes, Mike Barnes, Lacy Bell, Rachel Carson, Rick Clarke, Wayne Cochran, Kevin Diviness, Phil Eberl, John Elias, Sherry Ellebracht, Terry Emmons, Ken Fleck, Marcia Fraley, David Genova, Terry Howerter, Genevieve Hutchinson, Kate Iverson, Austin Jenkins, Erin Klaas, Marla Lien, Patrick McLaughlin, Barbara McManus, Doug McLeod, Jeff Miessel, Vivian Morales, Andy Mutz, Scott Reed, Gary Schear, Pranaya Shrestha, Bill Sirois, Henry Stopplecamp, Stan Szabelak, Yong Song, Brian Thye, Pauletta Tonilas, Li-Wei Tung, Mike Turner, Bill Van Meter, Ashland Vaughn, Jyotsna, Vishwakarma, Michael Washington, Phil Washington, Brian Welch, Karen Young
+
+Others Present:               Tim Baldwin, Dan Cohen, Michael Dunlap, Kimaron Hallford, Eugene Howard, Joni Goheen, Doug Gragg, Pedro Ramos, Josh Russell, Cindy Stovall, Joe Triplett, Chris Waggett
+
+#### 1. Utility Easement for South Weld 
+Metropolitan District for City of Dacono
+and St. Vrain Sanitation District
+
+It is recommended by the Planning and Development Committee that the Board of Directors authorize the General Manager and/or his designee to execute all documents necessary to convey a non-exclusive utility easement over 3,769 square feet (0.086 acres, more or less) on the Boulder Branch segment of the Boulder Industrial Lead in the SE¼ Section 14, Township 1 North, Range 68 West, City of Dacono, County of Weld, State of Colorado.
+
+Motion:                Director Rivera-Malpiede made the motion to move this item to the full Board at the October 28, 2014 Board meeting.
+
+Director Bagley seconded the motion.
+
+Discussion:              Susan Altes, Senior Manager of Property, explained that the City of Dacono and the St. Vrain Sanitation District are concerned with License Agreements that are revocable and terminable.  They initially sought a permanent easement in the property to ensure the continued use and operation of the pipelines.  Due to time constraints of the subdivision development, they agreed to execute the licenses to facilitate the installations while continuing to pursue an easement.  Under the easement, RTD shall retain all rights and usage of the property as necessary to ensure RTD’s use for any future mass transportation system purposes.
+
+Committee Chair James asked what would happen to the utility lines if RTD decided to use the corridor.  Susan Altes replied that the lines are low enough to comply with RTD’s rail system requirements.  Rick Clarke, Assistant General Manager of Capital Programs, added that the utilities lines are subject to modification or relocation to avoid conflict.
+
+Director Folska asked if the request was a lease or a sale.  Susan Altes replied that it was a grant of property rights through an easement.  Director Folska asked if the $3,100 compensation was in perpetuity.  Susan Altes said that it was a one-time compensation because it is based on the real property conveyance fee statement of value.  Director Folska asked if the easement went through a Request for Proposal (RFP) or if it was an exclusive negotiation.  Susan Altes explained that it was an exclusive negotiation with the entity that requested it.
+
+Director Solano asked for the location of the City of Dacono and the St. Vrain Sanitation District.  He also asked if RTD anticipated rail service in the area.  Susan Altes said that it is on the east side of I-25.  Rick Clarke added that the purchase agreement with Union Pacific did not allow for partial purchases.  RTD then bought the 32.7 mile corridor.  The rest of the corridor is being preserved for any future additions.
+
+Director Solano asked if RTD could do licenses or any other taxes in anticipation of rail lines.  Marla Lien, General Counsel, noted that there are hundreds of utility crossings throughout the corridor.  These crossings will not interfere with RTD operations.  She added that accepting the easement request would allow the subdivision to provide water service.
+
+Director Hoy asked if Joe Knopinski, Managing Principal at Development Planning and Financial Group, was involved in this process.  Director Hoy also asked if Joe Knopinski was committed to restoring the tracks.  Susan Altes answered that he was involved and committed.
+
+Committee Chair James declared the motion PASSED UNANIMOUSLY.
+
+##### a. Board Report #2068 Attachments
+
+#### 1. Strategic Plan Update
+
+Bill Van Meter, Assistant General Manager of Planning, introduced Brian Welch, Senior Manager of Planning Technical Services.  Brian Welch reviewed the RTD 2015 Strategic Plan Power Point included in the Planning & Development Committee Meeting packet for October 7, 2014.  The presentation included context, structure, alternative names, alternative vision statements and schedule for the Strategic Plan.  He mentioned that the ideas in the presentation were suggestions for the Board’s consideration.
+
+Phil Washington, General Manager, noted the importance of this document for the staff.  He said that many people do not understand the distinction between RTD and Colorado Department of Transportation (CDOT), a partner in a couple of the projects.  Phil Washington pointed out that this document is visionary as it takes into consideration the 2016 openings and the momentum the openings will generate in the region and the state of Colorado.  The Strategic Plan will guide the region and perhaps the State in how to dream big.
+
+Committee Chair James asked to confirm if the Strategic Plan would cover 6 years.  Brian Welch confirmed that it is a 6 year Plan which references actions for the next 20 years.  Committee Chair James inquired about the process for annual review and Board input.  Brian Welch anticipates that the Board will have an opportunity to review and provide feedback on the Plan during the annual Board Advance.  Phil Washington referred the Directors to the third slide of the presentation.  This slide explains the process to create the Strategic Plan.
+
+Director Folska agreed that what RTD is doing leading up to the 2016 openings will build momentum as well as create synergy for the region and the state.  She also mentioned that a 6 year Plan that bleeds into the next 20 years oversteps staff’s boundaries unless this refers to parameters on the Strategic Budget Plan (SBP).  She mentioned that it is the Board’s duty as representative of the constituents to do the dreaming and planning.  Director Folska recommended that staff research the academic discipline of “Futurism”.  Phil Washington noted that the SBP is part of the strategic nature of the Strategic Plan.  He stated that Board direction is the starting point of the Strategic Plan as it sets the priorities.  The SBP ties back to the goals set by the Directors during the Board Advance.
+
+Director Bagley noted that people have asked him when RTD will move to other projects beyond FasTracks.  He noted that the third bullet point, “Transforming Regional Mobility and Quality of Life Through Innovation and Collaboration”, on the Alternative Strategic Plan Vision Statements addressed this issue.  He said that he is excited to participate in this process and encouraged staff to move forward.
+
+Director Tobiassen encouraged staff to collaborate and reach out to who/what RTD thinks will become major activity and employment centers.  He mentioned the Anschutz campus as an example of working to effectively serve what eventually became an active center.  Director Tobiassen said that he does not have the answers.  He noted that reaching out to these parties would help create a more comprehensive Strategic Plan for RTD.
+
+Director Walker said that it is a great idea to extend the short term vision to a longer term.  He recalled helping CDOT put their plan together in 2000 in collaboration with other local agencies.  He mentioned he is excited to see the outcome of this process.
+
+Director Anderson agreed with Director Tobiassen.  She said that since RTD does not do land use planning the agency needs to keep working with all of the partners as it has done for the past 20 years.  She believes the outline is a great way to move forward.  She mentioned that the Plan gives direction on how to complete it.
+
+Director Rivera-Malpiede shared her excitement about the Plan.  She likes the ability for the Board to touch the plan and make adjustments each year.  She said that the region is building in such a magnitude that the Board needs to broaden the macro perspective.
+
+Director Hoy added that if the District does not plan for 20 years from now it will go backwards.  He said that the current plans were created 20 years ago.
+
+Committee Chair James agreed with Director Bagley in regard to the third bullet of the Alternative Strategic Plan Vision Statements slide.  He believes that the Strategic Plan is a great idea.  He said that the Plan is something that RTD has been doing unconsciously.   Committee Chair James supports doing this kind of planning consciously.  He added that coordinating with the SBP is inevitable since it depicts how the Plan will be funded.  He said he looks forward to the Board’s opportunity to be part of the process. He thanked staff for making the Plan happen.  Phil Washington added that staff sees the Strategic Plan as a collaborative effort between Board and staff.  He said that the top block of the format is Board input.  He mentioned that the Plan will include a large amount of Asset Management and State of Good Repair.  He said this is needed so RTD does not end up like some agencies that did not take care of their assets.
+
+Director Solano said that a Strategic Plan, as growing documents, are great for any organizations.  He added that the Board of Directors needs to remain the horse that pulls the cart.
+
+##### a. 100714 Board Update Strategic Plan_final_accessible
+
+#### 2. TOC Update
+
+Bill Van Meter, Assistant General Manager of Planning, introduced Bill Sirois, Senior Manager for Transit Oriented Communities.  Bill Sirois reviewed the Moving Forward with Transit Oriented Communities presentation found in the Planning and Development Committee Meeting Packet for October 7, 2014.  The presentation included a brief history of Transit Oriented Development (TOD) at RTD, the 2010 process, the change from TOD to Transit Oriented Communities (TOC), and next steps for the TOC Division.
+
+Committee Chair James believes the TOC terminology is great.  He also suggested Pedestrian Oriented Community as a terminology to use.  The latter term explains what the TOC staff is doing in expanding RTD’s role in these types of projects.  Committee Chair James pointed out that the City and County of Denver (Denver) is becoming pro-active regarding the first and last mile.  He asked staff their perception of the other 30 odd jurisdictions within the District regarding this topic.  Bill Sirois replied that the emphasis has grown in the last few years.  He said that most jurisdictions seem to be embracing this factor.
+
+Committee Chair James emphasized that there are numerous dimensions besides transportation and housing to make a community whole.  Much of it is beyond the scope of RTD.  He said that RTD has the programs in place to aid with the job creation aspect.
+
+Director Bagley noted that six years ago, when he started on the Board alongside Committee Chair James in 2008, TODs were a major concern.  He said that he is thrilled to see the development of the TOD concept.  This development demonstrates the direction of the General Manager and staff’s ability to work with partners, collaborate, participate, and communicate with other private and public entities.  He mentioned he is very impressed with what RTD has done in the past six years.  He thanked staff for their outstanding job.
+
+Director Rivera-Malpiede congratulated staff on their amazing work.  She recalled that in 2010, when the Board voted on TOD policy, RTD was restricted to the transportation piece.  Moving towards TOC, she said, represents the respect from, and collaboration with, stakeholders while opening up the possibilities for the future. She mentioned this process would move the agency to the next level locally and nationally.  She said that as the Director of Northeast Transportation Connections, the first and last mile is an exciting step.  She asked staff to include the Director for each TOC in the process.  She also asked that the signs/communication in her District be bilingual.  She encouraged staff to address gentrification by including affordable housing in the RFP.
+
+Director Deadwyler says that it seems like RTD continues to leave out the low income constituents without really addressing the issue.  She said that RTD needs to try to provide for them; low income and affordable housing are two different things.
+
+Director Tobiassen noted the degree of difficulty involved in creating a TOD.  He cautioned against RTD patting itself on the back.  He noted that the developer is a key partner in the process as they are the ones who put their necks on the line through a proposal.  He mentioned that some TODs, like Denver Union Station (DUS), have great support and taxpayers input.  He also said that other developments do not have any other investments beyond a light rail station.  Director Tobiassen said that RTD needs to make the TOD process predictable in order to set up the developers for success.  He pointed to the Alameda Station project as an example of working together to achieve success.
+
+Director Anderson noted that from her experience with the City of Arvada she is very conscious of who does the land use planning and who sets out the parameters on how developments take place.  She thinks the biggest thing RTD needs to do is collaboration.  She recalled that it took a long time to turn her neighborhood, which used to be a dumping ground, into the diverse community it is today.  She encouraged staff to remember that not one size fits all when it comes to TOC.  She also reminded staff to work with the community to get projects accomplished.
+
+Director Solano mentioned that his area is still a dumping ground that many developers do not want to touch.  He said there is an area off I-70 and Colorado Boulevard that is still not annexed to Adams County.  He is concerned that the transportation will be built but the development will not follow.  He said that each area and challenge is unique.
+
+Director Lasater said that he had the privilege of being a presenter during an Urban Land Institute event.  He introduced the TOC concept during his presentation.  He mentioned that the evolution to a community concept was well received.  He noted that the discussion included participation of 5 developers who had worked on 5 stops along the Southeast corridor.
+
+Director Lasater mentioned that the DTC is nearly 50 years old and needs to be redeveloped.  He said the area needs that first and final mile connectivity.  He reiterated that collaboration is crucial and critical as there needs to be sensitivity towards all the elements of the process.  Bill Sirois mentioned that for the past six years staff has had conversations with the Jones University Development at Dry Creek regarding connectivity.  Director Lasater thanked staff for their work.
+
+Director Folska said she was very impressed with staff’s work in particular the last two years.  She asked about details regarding the bridge at the Dry Creek light rail station.  She asked for cost of the bridge and the amount of parking spaces at the stop.  Bill Sirois confirmed with Rick Clarke that the cost of the bridge was about 4 million dollars.  Rick Clarke mentioned that RTD funded the basic bridge while the developer funded the two extensions.  Phil Washington said that there are about 300 to 400 parking spaces at that station.  He said he will get the exact figure to the Directors.  Director Folska mentioned that some people don’t like to use the bridge as it may induce vertigo.  Bill Sirois noted he had not heard about the possibility of vertigo for users of the bridge.  Director Folska said that even though the development is so big it still struggles in the walkability and connectivity aspects.  She said she hopes the Alameda project achieves better.
+
+Phil Washington, General Manager, noted that nobody mentioned the WIN program when referring to the community aspect.  RTD’s mindset is to help people build their own communities.  He said this mindset fits into the TOC concept.
+
+Phil Washington acknowledged the uniqueness of each TOD/C.  He said that collaboration is a given.  DUS, for example, had 11 financing tools.  He said that RTD is preparing to do another assessment of TOC functions.  He noted that there needs to be a conversation regarding value capture versus livability and walkability.  This needs to be done on a case by case basis as proposals are received.  Phil Washington said that RTD is avoiding mistakes made by other agencies when collaborating with developers.  He noted RTD is being diligent in requesting proposals at the right time and making the right recommendations with regards to disposition of property.
+
+Director Folska agreed with the value capture concept.  She said that RTD must find the nexus/sweet spot where they intersect.
+
+Committee Chair James recaptured the conversation by asking which is more valuable: money or feeling good.
+
+##### a. TOC PD Presentation 10-7-14_FINAL_accessible
+
+#### 3. Alameda Bus Barn Property Disposition Plan
+
+Kate Iverson, Manager of TOD, reviewed the Bus Barn Property Update presentation included in the Planning and Development Committee Meeting packet for October 7, 2014.  She said that RTD received an unsolicited proposal from D4 Urban, the developer working on the Alameda station project.  During the presentation she provided a brief historical background of the property, including the different reiterations of the 2004 RFP.  She also presented the proposed RFP review criteria.
+
+Phil Washington, General Manager, added that staff would like to work on an accelerated timeline for this RFP, making it available in 30 days.  The deadline for proposals would be 45-60 days from when made available.  RTD would like to bring several stakeholders, including Denver, to review the proposals.  He noted that one of the requisites for the RFP is connectivity from the site to the Alameda station.
+
+Marla Lien, General Counsel, added that the RFP is needed to keep the agency safe while providing fairness to the developer community.  She said that RTD has developed trust and a great reputation with the business community.  RTD’s process allows for all developers to have the same access to the available information.
+
+Bill Sirois, Senior Manager of Transit Oriented Communities, mentioned that throughout many competitive processes RTD has found unexpected results.  The Arvada station and DUS are examples of what the RFP process can achieve. He said that D4 Urban’s proposal is great.  He added that the fair and prudent next step is to open up the process.
+
+Committee Chair James asked Kate Iverson to describe the proposed land use by D4 Urban as well as to name their partners.  Kate Iverson said that D4 Urban proposed a commercial used car dealership.  Their partnership is with Schomp, a MINI cooper dealership.  The proposal includes an affordable housing component with 150 units and office specifications for a second stage.  Committee Chair James asked for clarification on the time frame.  Phil Washington said that the RFP would be released in 30 days.  The proposers would have 60 days to reply.
+
+Director Menten asked for clarification on the third kind of use on the D4 Urban proposal.  She also asked for the zoning on the property and if dollar amounts were included in the proposal.  Kate Iverson clarified the third type of use is office/industrial use.  She said the property is zoned for suburban mixed used, which provides the greatest flexibility under Denver zoning code: from big box retailer to high density housing up to 12 stories.  She added that looking at the comps the best use for income is auto oriented.  Marla Lien said that the amounts included in the proposal at this point are confidential.  After the RFP process, all the amounts will become public.  Director Menten clarified that she just wanted to know if there were amounts included in the proposal.
+
+Director Menten asked if the Honorable Michael Hancock, Denver Mayor, had signed the proposed inclusionary housing bill.  Kate Iverson replied in the affirmative. Director Menten followed up by asking the date it would become effective.  Phil Washington said that he was not sure but reminded the Directors that Denver is one of the partners that will be asked for participation and feedback.
+
+Director Menten said that she would like to see the property as a job creation parcel.  She added that she would prefer the property to not be tied to subsidies.
+
+Director Bagley agreed with the comments made by Marla Lien and Phil Washington about proprietary activity and transparency.  He said that an RFP process protects the agency.  He added that if D4 Urban wins the proposal then this project will be added to their partnership with RTD.  Director Bagley referred to other proposals for the Eagle P3 Project and how financial amounts were not disclosed before the proposals were received.  He added that local governments are the ones who decide land use.  He ended his remarks by reiterating the importance of how RTD acts in the public arena.
+
+Director Deadwyler noted that she had heard rumors regarding this proposal.  Some people advocated for exclusive negotiations with D4 Urban.  She does not agree with this position but asked why staff had not made an exclusive negotiation with D4 Urban since these type of negotiations have been done in the past.  Phil Washington answered that each proposal is different.  RTD happens to know there are other parties interested in developing the property.  He said that an exclusive negotiation would not make sense for this property.  Kate Iverson explained that there were previous exclusive negotiations with D4 Urban for the Alameda Station project as they controlled the private streets adjacent to the station.  Director Deadwyler thanked staff for the explanation.  She added that for this and most projects RFPs are a great idea.  She said that she would hate to think RTD would do exclusive negotiations on all properties.   She also added that she can see why exclusive negotiations would make sense for some projects.
+
+Director Folska asked for the appraised value of the Bus Barn property.  Bill Sirois said that in 2004 the property was appraised at $3 million.  Phil Washington added that the appraisal will be updated as part of the RFP process.
+
+Director Folska asked if D4 Urban has employed WIN participants on the Alameda project.  Phil Washington said that they have employed WIN participants.  He said he was not sure of the percentage.  Phil Washington also added that RTD would expect the winner of the Bus Barn RFP to participate in the WIN program. Director Folska asked how many WIN participants were employed on the DUS project and the other TODs.  Phil Washington said that he did not have the figures for DUS.  He mentioned that the WIN program did not exist when some of the TODs were constructed, for example, Dry Creek.
+
+Director Folska asked for clarification on the exclusive negotiation term and process.  She asked if, for example, 50 people respond to the RFP, then RTD would enter into an exclusive negotiation with the winner.  Kate Iverson said that an exclusive negotiation involves RTD not putting a property for sale so the developer that has made the proposal can move forward knowing that their investment is in good faith.  The RFP process includes contractual negotiations.  These are two distinct processes.  Marla Lien added that RTD negotiates with the winner of the RFP.  If a contract cannot be consummated, RTD would go out for proposals again.  Director Folska asked how many times RTD has gone into exclusive negotiations.  She asked specifically about the Big Mike Dealership in Aurora.  Susan Altes replied that the property Director Folska was inquiring about was part of the real property pilot disposition program.  The program suggested ways to sell four different pieced of property.  For the involving the Big Mike Dealership, the Board recommended consulting the adjacent owners so the property did not go through an RFP process.
+
+Director Lasater said that he, like Director Anderson, has experience working with municipal government development.  He said that several projects have resembled phasings or take outs.  He noted that it sounded like something similar happened in 2004 on the east and west rail lines.  Kate Iverson clarified that the RFP mentioned in the presentation for 2004 only included the Bus Barn property.  The RFP did undergo different reiterations.
+
+Director Lasater added that there were many factors to be taken into consideration.  He said that phasing/take down of land ownership opens up the possibility for a developer to have to come back at a later date for more property.
+
+Director Lasater pointed out that many properties have natural elements that make the land not suited for development.  He said that the Bus Barn has a man-made element, the rail.
+
+Director Lasater noted that short and long term income opportunities should be taken into consideration when looking into an RFP versus a stage 2 of a project.  The presentation indicated that the consultant said that it would be a one-time money use with no residual income.  Director Lasater believes that RTD should be moving the opposite way: creating connectivity to the development in order to increase ridership.  This would follow the ULI model of live, work, play, and shop in the community.  He noted that the walkability of the area is scary.
+
+Director Lasater addressed the affordable housing issue brought up by Director Deadwyler.  He said that the average household income in Denver is $59 thousand, making it about $3500/$3600 a month.  It is not low end but about double the minimum wage.  Affordable housing requires occupants to make no more than 60% of the average household income amount.  He mentioned he liked the idea of mixed housing in a project, but in order to make housing affordable you need to keep land affordable.  He said that another way for the Board to look at the matter is to make it a balanced community on the RFP process.  He said all these points are important to take into consideration when moving forward with the project as a whole instead of fragments.
+
+Marla Lien assured the Board that staff, alongside economic consultants, will reduce any financial proposals to net present value (NPV) in order to give the board an apples-to-apples comparison.
+
+Director Tobiassen said that he liked what Director Lasater said.  He also agreed with Director Bagley in that RTD does not do land use planning.  This is the responsibility of our partners, in this case, Denver.  Director Tobiassen mentioned his phone conversation with Denver Councilmember Chris Nevitt.  Councilmember Nevitt said that Denver has an interest in affordable housing when it is close to transit due to the gentrification Denver has seen in recent years.  RTD can influence the creation of affordable housing near stations, but it is not a requirement from the agency.  The partners, in this case Denver, may request us to make affordable housing a high scoring factor. He said that RTD needs to get Denver’s input on this project to make sure the RFP are scored according to their interests.   Phil Washington agreed with Director Tobiassen regarding compatibility with Denver.  He added that staff is asking for a head nod from the Board on their recommendation to take the unsolicited proposal to competition through an RFP process.  Director Tobiassen said that if this matter was up for a vote, he would recommend RTD be in communication with Denver.  Phil Washington said that staff has done so.
+
+Director Hoy said that an unsolicited proposal had to go through the unsolicited proposal policy.  Phil Washington clarified that real estate does not fall under the unsolicited proposal policy.
+
+Director Hoy added that connectivity to the Alameda station should be scored high for this project.  By not asking specifically for a bridge, the RFP would leave it open to developers’ creativity.
+
+Director Walker mentioned he is in favor of going forward with the RFP process.  He added that developers know what kind of projects they are getting into when submitting proposals.  He said that a key factor for this RFP is working with Denver, recognizing the importance of this parcel.
+
+Director Walker said that during Rail-Volution one of the messages was that highways destroyed neighborhoods and transit is putting them back together.  He noted the importance for the agency to get the best proposal.
+
+Director Anderson told staff that she gives them her head nod to move forward with the RFP process.
+
+Director Rivera-Malpiede agreed to move forward with the RFP process.  She added that D4 Urban’s proposal is intriguing.  She believes it is RTD’s due diligence to move towards the RFP process.  She considers the connectivity portion important because the community needs it.
+
+Director Daly stressed that a bridge is essential in the area as the Santa Fe/Alameda neighborhood is not walkable.
+
+Committee Chair James said that he has had the same conversations with Councilmember Nevitt, who expressed his preference for a bridge and affordable housing in the development.  Committee Chair James recognized the need to balance the revenue and affordable housing aspects.  He said he respects the idea of the RFP process as this is a different situation from across the tracks.
+
+##### a. BusBarn Propertyupdate_102014_accessible
+
+### D. Other Matters
+
+Bill Van Meter, Assistant General Manager of Planning, informed the Board that RTD has been awarded $5 million from the Federal Transit Agency’s (FTA) Ladders of Opportunity program.  The application was made in partnership with CDOT.  Denver and the City of Aurora supported the application.  The grant is for near term transit priority project improvements on Colfax between Broadway and Potomac.  He clarified that the grant is not part of Denver’s Colfax Corridor Connections project.  The grant will improve bus operations and station amenities along Colfax.  It will be complementary to Denver’s longer term improvements.  Bill Van Meter said that staff will provide a more comprehensive update at a future meeting.  Committee Chair James thanked staff for submitting the application.  He said both he and Director Deadwyler are happy to see this project happening.
+
+Director Bagley reminded the Directors of the General Manager’s Performance Survey sent over email.  He said the survey is due on October 20th.  The General Manager’s Oversight and Performance Committee will meet on October 28th to review the results.
+
+Director Bagley added that staff does a tremendous job and works very hard.  He said that it is critical the Board and staff are a team collaborating together to achieve more.
+
+Director Walker acknowledged the effectiveness of the bus stops improvements along Broadway.  He said the bus ride is becoming longer due to increased ridership.  He mentioned that walkability within the Denver City limits along Broadway has improved.  He invited staff to consult with him if they need advice on other matters that are working almost right since he rides the bus every day.
+
+### F. Adjourn
+
+Committee Chair James adjourned to the Government Relations Committee at 8:22 p.m.

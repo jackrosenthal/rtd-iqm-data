@@ -1,0 +1,940 @@
+2025-06-11
+Operations, Safety, and Security Committee
+IAN HARWICK: Hi, everyone. Welcome to the Wednesday, June 11th Operation Safety and Security
+Committee. We're now going to come to order. We are convened as of 5:30 PM, and I would respectfully
+ask everyone attending this meeting to mute yourself unless you are recognized to speak.
+Please note that the committee meetings of the RTD Board of Directors will be held remotely via Zoom
+and will be audio and video recorded. The meeting recordings, along with the unofficial minutes of the
+meetings, will be posted as soon as practicable on the Board's website. During today's meeting, we are
+providing Communication Access Real Time Translation, also known as CART. Anyone who would like to
+access the service should send an email to the RTD Board Office at rtd.boardoffice@rtd-denver.com, and
+a link will be provided.
+Additionally, the CART transcript can be automatically translated into Spanish for anyone who would like
+access to a live transcript of this meeting in Spanish. A live stream of this meeting is also available via
+RTD's YouTube page. I would now like to call the roll for the committee members. Director Buzek.
+VINCE BUZEK: Here.
+IAN HARWICK: Director Chandler.
+KATHLEEN CHANDLER: Present.
+IAN HARWICK: Director Nicholson.
+CHRIS NICHOLSON: I am here.
+IAN HARWICK: Director Paglieri.
+BRETT PAGLIERI: Present.
+IAN HARWICK: Director Whitmore.
+TROY WHITMORE: Present.
+IAN HARWICK: Director Ruscha is absent. I am Director Harwick, and I am here. For the record, I see
+that we have six of seven directors present. And we also have Chair Bouquet and Director Guzman have
+also joined us. Right now, I would like to open public comment to anyone who would like to address the
+committee regarding any topic listed in the published meeting agenda for the current and immediately
+preceding month. If you wish to speak and have not already done so, please either raise your virtual hand
+or press star-9 on your phone.
+During this time, the committee will not offer any direct comments or responses. However, if you would
+like to be contacted regarding your public comment, please email the RTD Board at rtd.directors@rtddenver.com. Jack, do we have any comments at the moment?
+
+JACK KROLL: Vice Chair Harwick, this is Jack Kroll, Executive Manager of the Board Office. At this time,
+we do not have any individuals present who have raised their hand in desire of providing public comment.
+And in anticipation of your next question, we did receive one public comment in relation to the topics on
+your agenda this evening. That is from Sarah Grant, Transportation Manager and Community
+Development at the City and County of Broomfield. Their letter was directed to Director Benker, but sent
+to the full board, and is in support of the proposed August 2025 service changes.
+IAN HARWICK: OK. Thank you, Jack. I appreciate that. We have no external entities report on the
+agenda for today's meeting. I personally have nothing to share right now, other than I'm going on vacation
+next week. Thank you. And I will not be here for the full board meeting later this month.
+We have no recommended actions, and there are two items for discussion. The first item is for paratransit
+legacy customers. I would like to ask our General Manager and CEO, Debra Johnson and Aaron Vallejo,
+Acting Deputy Assistant General Manager, Bus Operations, to present this item. Are there any-- OK, here
+we go.
+DEBRA JOHNSON: Thank you very kindly, Vice Chair Harwick. Greetings, all. I'm Debra Johnson,
+serving as the General Manager and Chief Executive Officer. I want to provide some context relative to
+this agenda item that we have before you. During the course of the board retreat that took place in March,
+there were several directors trying to garner an understanding of the paratransit program. But more
+specifically, we are going to use the term legacy in this instance as it relates to eligible active paratransit
+customers that were impacted when a decision was made during the height of the pandemic, relative to
+service reductions due to unforeseen circumstances relative to stay at home orders and things of the like.
+Recognizing the vulnerable population that this critical service provides to a customer segment, a
+decision was made by the then-board, relative to a path forward. We wanted to ensure-- we, being
+members of my team, in addition to the committee chairs-- that individuals were grounded in a path
+forward. And we wanted to ensure that we were providing updated information relative to where we stand.
+Moreover, I had had the opportunity to engage with committee member Kathleen Chandler in addition to
+committee Chair Ruscha on this topic. Hence, that is why we are presenting this item at this juncture.
+For all intents and purposes, this isn't a recommended action, but more or less seeking direction relative
+to the full-fledged committee regarding a path forward, as stated. So with that context, I will yield the floor
+to Ms. Vallejos to ground us all in this topic, as she was here during the time in which this was decided,
+and I was not. So I think she is very well equipped at leading this discussion. Ms. Vallejos, the floor is
+yours.
+ERIN VALLEJOS: Thank you, GM/CEO Johnson. Again-- excuse me-- Erin Vallejos, as introduced.
+Acting Deputy Assistant General Manager of Bus Operations. So it is a short presentation today. We're
+just going to quickly touch on the paratransit service area. We're going to touch on a definition of what
+legacy customers was, as approved by the board back in 2020. And then we're also going to touch on
+legacy customers in practice.
+So this is probably something, the paratransit service area that you've seen before. But I did think it was
+important, just grounding for this conversation. Again, for our access-a-ride paratransit service area, our
+services for paratransit are provided within 3/4 of a mile of an area along non-commuter fixed route
+services in alignment with the Americans with Disabilities Act of 1990. And then the boundaries
+themselves should be reviewed and updated following each fixed route service deployment. And again, I
+
+think this is a map that everyone's familiar with, but I just wanted to make sure we were grounded in that
+idea.
+So next, we will go on to the paratransit legacy customer definition. And if I am speaking too fast,
+someone let me know. I am trying to be cognizant of keeping it a good pace for the transcriptionist. OK,
+so as part of the May 2020 service changes that were amended-- these were approved March 24th of
+2020. And there were some service reductions that were being approved at that time.
+So as part of those service changes, there was a statement that was added in. And this statement here is
+pulled directly from the board report that was approved-- again, as amended. And so essentially, it
+contains a commitment to our paratransit customers. It did use a different term than we are using. As you
+can see here, it was referred to as grandfathering. But going forward, we are going to be referring to this
+as legacy status.
+But as you can see, looking at this, the decision was made that for existing access-a-ride customers in
+area where all fixed route service was going to be eliminated due to the May service deployment, it was
+recommended by staff that we continue to provide paratransit services to those customers. And as of
+right now, if we were following that definition for the legacy customers, there are 81 customers. Not all of
+them are currently using the service, though.
+In 2024, 45 customers took trips using our access-a-ride service, and the average number of trips during
+that time frame was 80 per customer. And then 18 customers took trips in 2024 on access on demand.
+The average number of trips for that was a little bit higher. It was 139 per customer.
+Now what I want to touch on is what the paratransit legacy customers in practice has been. And so
+essentially what's been happening since this was approved for the May 2020 service changes is that the
+fixed route service boundaries, as of January 2020, have continued to be the access-a-ride service
+boundaries. So we haven't limited it specifically to customers, but it has been including the boundaries
+themselves.
+And this is a little bit inconsistent with what the Board approved, because as I read to you for the previous
+couple of slides, it was specific to those customers that were active as of May 2020. Again, I just think it's
+very important for the board to really understand what the practice has been and what the language was
+back from the board report at the time. And then I will actually turn it back over to Debra. Like I said, it is a
+relatively short presentation, but we just want to make sure everyone has the background for this so we
+can have a really good discussion.
+DEBRA JOHNSON: Thank you, Erin. And reflecting on conversations that ensued last night when our
+CFO was seeking budget guidance and there was a discussion relative to paratransit programming-- and
+then, moreover, as it relates to this issue about legacy customers, recognizing that the Americans with
+Disabilities Act of 1990 complimentary service provides specific guidance relative to providing ADA
+complementary service. We wanted to ensure that we were garnering a collective understanding from this
+committee regarding the path forward.
+So recognizing that we are bringing this to you this evening, upon working with the Committee Chair and
+Committee Member Chandler, we are seeking guidance relative to next steps. Is this an item in which we
+collectively are pursuing regarding any modifications? Considering the information that was put forward,
+there's quite a few avenues in which we can leverage in order to garner that input. So I will yield the floor
+
+to Vice Chair Harwick to facilitate discussion or provide direction relative to most advantageous conduit
+on which we should use to garner that feedback, so thank you.
+IAN HARWICK: Thank you, GM Johnson. Committee, do we have any comments or questions from you
+all?
+JACK KROLL: Director Harwick, I see a number of hands raised. Would it be helpful to you to help
+facilitate those?
+IAN HARWICK: I got it now. I was just on the wrong page. Director Buzek, I see your hand first.
+VINCE BUZEK: Thanks very much. I've got a question, maybe a couple comments. Can the same legacy
+argument that applies to a geographic change here be made to a service level and service pricing change
+to access on demand that is currently under consideration? Can those people say, we're legacy
+customers. You need to continue to extend to us this ongoing service.
+DEBRA JOHNSON: If I may?
+VINCE BUZEK: Sure, please.
+DEBRA JOHNSON: Yes, thank you very kindly. Thank you for the question, Chair Buzek. So considering
+that access on demand is a supplemental paratransit service and does not fall within the auspices of the
+Americans with Disabilities Act of 1990, considering it's complimentary, I would say that discretion is left
+to you all. Because I want to be clear that we could carve out a paratransit program, but it wouldn't fall
+within the auspices of what the guidance is provided for us as recipients of federal dollars providing fixed
+route bus services.
+VINCE BUZEK: Got it. Thank you very much. And just a couple comments, if I may, Mr. Chair. So I'm in
+favor of continuing this legacy carve-out with regard to the presentation. So I had a chance to speak with,
+at length, a former board member who's also an individual with a disability last week. And that person
+made it abundantly clear to me that these services are really, really critical to individuals with disabilities.
+And much like the access on demand, when you make changes to the service levels and the service that
+they've been receiving, the impact on them is greater than you could ever imagine. And I trust that that is
+true. I didn't experience that, but I trust that's true. So with regard to this issue-- and maybe later, the
+other access on demand issue-- I'm in favor of continuing this legacy carve-out. Thanks.
+IAN HARWICK: Director Chandler.
+KATHLEEN CHANDLER: Yes. Thank you so much, Ms. Vallejos, for this presentation. I know that you
+worked really hard on it, and you answered a ton of questions when I had them at that meeting. And it
+really helped me wrap my brain around this whole entire idea of legacy. I totally agree with Director
+Buzek. This is paramount that we continue this. It's a very small number of people. And just by the nature
+of time marching forward, that number will get smaller.
+I do think right now, it is a little bit of a burden for the RTD staff to have to keep track of it, but it will get
+smaller over time-- the number of people having to keep track of. But it is absolutely paramount to these
+people that they be continuing in this type of program. So I wholeheartedly appreciate the explanation,
+the work, and the vision that we are going to continue to bring to the people that really, truly do need this
+service, so thank you.
+
+IAN HARWICK: Director Nicholson.
+CHRIS NICHOLSON: Thank you. Yeah, so I, to some degree, echo what Vince-- sorry, what Director
+Buzek and Director Chandler said. I do think that there's a value in being able to serve legacy customers.
+And as we do things like make changes to bus service, it's a reasonable question. Should we continue to
+offer access on demand, for example, to customers within a certain bus shed after we've potentially
+removed their bus service?
+And so I think that there are a number of different types of legacy service conversations that, to Vince's
+point, this touches on. I'm not in favor of an endless commitment. I think people move-- not everyone, but
+the standard, I think, is every seven years or something like that. So I would rather us put in place a cap
+of 10 years, for example. And that way, we can say to people, look, this is how long we're maintaining this
+for. And then eventually, you do have to either relocate or whatever.
+But there is a point, I think, that it makes sense not to be keeping somebody on for 25 years running a
+service like that because it reduces our flexibility and it reduces our ability to-- and it creates additional
+burdens on staff time for, admittedly, a very small population. But I think that there are limits to that. So
+that's where I would come down is put a marker on it, but not like tomorrow.
+IAN HARWICK: I'm going to send you a letter, Director Nicholson, that you have to move in 10 years.
+CHRIS NICHOLSON: OK. I typically move more frequently than that, but yes, that's fair.
+IAN HARWICK: I see Director Chandler and Director Whitmore. Go ahead.
+KATHLEEN CHANDLER: I'm sorry. I have a quick question. I thought that we had decided the legacy
+status only applied if they lived at the same address. So that would actually negate what Director
+Nicholson was saying. If the person moves, then they've chosen to go out of that area. It only applies if
+they're at the same-- unless I'm misunderstanding. So I would appreciate a clarification on that.
+IAN HARWICK: GM/CEO Johnson.
+DEBRA JOHNSON: Yes, thank you very much. Thank you, Director Chandler. When we met, we had that
+discussion. Hence, we decided that we would bring forward guidance. So this is the discussion, not a
+recommended action.
+And so recognizing what you said, that is something. At the end of this, we can consolidate the comments
+and we can bring back a recommended action or perhaps provide options. So I do recall you saying that,
+and that was spot on. But as we move forward, we will see collectively what we decide. But thank you.
+IAN HARWICK: Director Whitmore.
+TROY WHITMORE: Thank you, Mr. Chair. Just wanted to say that I'm in full agreement of what Director
+Buzek said, and I truly appreciate both the comments from Director Nicholson and Director Chandler, and
+really appreciate her last question and comment that I think gets us maybe down the road to a point, or at
+least a thought for our staff to add into their recommendation for later this summer, so thank you.
+IAN HARWICK: Director Nicholson.
+
+CHRIS NICHOLSON: Yeah, so just to clarify-- yes, obviously talking about only the people who were on
+the list back in 2020 as your starting point. But then saying to folks, look, we are going to phase this out in
+2030. This is not a forever and a day promise. This is a up till this point. And giving people enough notice- and five years is a long time.
+But I just think that you should never keep any legacy program around forever. I'm not a fan of that kind of
+thinking, generally. So that's where I come down on this one, but yeah.
+IAN HARWICK: Director Whitmore, I still see your hand up. You have a follow-up?
+TROY WHITMORE: My bad, I will put it down. Thanks.
+IAN HARWICK: Oh, no problem. Director Chandler.
+KATHLEEN CHANDLER: I don't mean to hog the discussion, but this is a passion of mine. Actually, I
+disagree with that, Director Nicholson. I would say that these people-- everyone eventually will pass on.
+Let's be realistic. So this isn't something-- and there's such a small number. Why not allow them to have
+this until they've moved on to the next opportunity?
+I don't think that we should put a date on it because it's such a small number of people, and it really, really
+is something that these people rely on. So it's going to have its own attrition just because of the nature of
+what's happening. So I don't think this is something that's going to be around in 20 years or 30 years. This
+is going to be a small number of people that are going to be having a service that is desperately needed
+for this population. And it's such a small number, I would respectfully ask that we just allow this to just
+naturally attrition out.
+IAN HARWICK: Director Nicholson.
+CHRIS NICHOLSON: Thank you. Quick question for GM/CEO Johnson. If, tomorrow, we were to remove
+service from a location-- we were to cancel a line or reroute a line. Right now, we only provide service
+within-- I think it's 3/4 of a mile of any RTD stop. Is that right? And I have a follow-up to that.
+DEBRA JOHNSON: Committee Chair Harwick, if I may? Just for point of clarification, you're talking about
+a route, not a line. A bus route?
+CHRIS NICHOLSON: Yeah.
+DEBRA JOHNSON: OK. So for all intents and purposes, under the American with Disabilities Act of 1990,
+the complimentary paratransit program is 3/4 within a fixed route. So to answer your question, if there
+were a service modification relative to the catchment area not being within 3/4 of a mile, pursuant to the
+guidance, that service would be discontinued, not only for the individuals utilizing fixed route, but in turn, it
+would mean for the ADA complementary paratransit service.
+CHRIS NICHOLSON: Right. Sorry, can I, director?
+IAN HARWICK: Go ahead. Go ahead.
+CHRIS NICHOLSON: So then just for my own clarification, that means that if we were to remove service
+from somewhere today, the people who live in that area would lose their paratransit service today. But the
+
+people who've been getting it, even though we removed that service years ago, they would get to keep
+having it in perpetuity.
+So I guess my question is, how is that fair to the people who we would remove service from tomorrow to
+say to them, you don't get any extension. We cut your service. It's gone. But these people over here, we
+cut their service five years ago. And we're going to keep that ongoing forever. That's my question,
+respectfully, for Director Chandler.
+KATHLEEN CHANDLER: May I respond to that?
+IAN HARWICK: Sure, please.
+KATHLEEN CHANDLER: Well, I agree, Chris, that it isn't fair. But it's also not fair to those people
+because they literally had their service completely cut. At least there's a service change opportunity. Back
+then, I believe it was completely cut off because of the pandemic. And I think there's a separate set of
+circumstances that is surrounding the pandemic. Maybe I'm just a bleeding heart, which I'm sure that just
+makes you-- anyway, I just think that for me, because those people had no notice, really-- it happened.
+At least this way, we do have opportunity for people to plead their case for service changes. We have
+adding a service change. We have subtraction of a service change. But I think for those particular people- and it is such a small number that I just think it's worth us being a little more compassionate towards
+those groups. But that's just my personal opinion. So again, if that's not the consensus of the board, so be
+it.
+IAN HARWICK: All right. This is my last go around, Chris-- Director Nicholson.
+CHRIS NICHOLSON: Thank you. Yeah, I guess I would just say for me, I would rather have legacy status
+for anyone who lost their service for a year so at least they'd have time to adjust to those changes than
+preserve indefinitely legacy service for a small population who's already had it for five years. I understand
+where you're coming from, and I love seeing you with a bleeding heart. It's definitely a new face for
+Director Chandler.
+But seriously, though, I just think that there is a point, and we only have so many dollars to go around.
+And there are other people who get hurt, and I don't want to turn to them and say, hey, yeah, your bus
+stop got cut. But these people over there, they still get to keep their thing because theirs got cut in a
+slightly different way, and we are going to treat them differently. That's tough for me. But that's just where
+I come down on this.
+IAN HARWICK: OK. Anyone else? Anyone not on the committee have anything to opine about? CEO
+Johnson.
+DEBRA JOHNSON: Yes. Thank you very much. Hearing no further comment, the team and I will work
+with the committee members Chandler and Ruscha as it relates to a path forward, recognizing the input
+that we received this evening and bring back a recommended action in September. What I do think would
+be beneficial at this juncture, recognizing where we all sit relative to what we just heard, perhaps we
+could provide some options that this board could deliberate, and we will go from there. So thank you very
+kindly for the engagement on this matter.
+
+IAN HARWICK: Thank you. All right. Our second and final item is for the August 2025 service change
+recommendations. I would like to again ask our GM and CEO Debra Johnson and Jessie Carter, Senior
+Manager of Service Deployment, to present these items.
+DEBRA JOHNSON: Yes. Thank you very kindly, Vice Chair Harwick. So we all know Jessie Carter, our
+Senior Manager of Service Development. And recognizing that this agency, on a triennial basis, has three
+service changes, it seems as if we're always in that mode to modify and enhance service continuously.
+Recognizing that, we are bringing this item to this body, considering this is an iterative process, to put
+forward draft options relative to the service change that would commence in August. And we'll then take
+that information out to the public.
+So without further conversation from me, I will yield the floor to Jessie, because this is a very exciting
+service change where we are adding back additional revenue service hours and additional services to
+areas that basically were adversely impacted due to the reduction in service due to COVID-19. And with
+that, Jessie? Mr. Carter, the floor is yours.
+JESSIE CARTER: Thank you, GM/CEO Johnson. These recommendations for August is somewhat
+typical of what we do around this time of year, looking toward the fall session, with schools going back
+into session and other seasonal entities going back into the swing of things. We are looking to make
+changes that involve implementation of more SOP items, which is something the team is very excited
+about. Necessary rail reconstruction efforts, and this go-around, it is the Kalamath Rail Reconstruction
+Project and improving system performance and reliability through schedule adjustments on both rail and
+bus.
+I want to talk about a little bit of the more notable changes, some of the ones that we're really excited
+about. They include the extension of Route 6 to Aurora Community College, which is something that has
+been requested for quite some time now. And we're happy to finally be able to do that. Also, we have the
+reconfiguration of service on South Federal Boulevard, which is an SOP change and something that we
+think will have a high impact, as far as ridership.
+We also have the extension or increase in service frequency on the Route 135 out to Southlands from the
+9-mile-- well, actually Smoky Hill and Piccadilly Park and Ride. Also, we have the increase the service on
+the FF-2, the reintroduction of the FF-4, and also the reintroduction of the LX-2 providing service from
+Longmont to Denver. I will say that in the board paper, there was a recommendation for the SOP-related
+change on Route 38. We continue to do analysis on things as we move forward through the process, and
+there is an issue with the terminal on Route 34 at 30th and Downing that we have to explore a little bit
+further. That will probably be delayed until the next run, board, as far as recommendation goes.
+With that, I want to say that our public process will move forward with meetings being offered on June
+16th at noon and 5:30, and then an Ask Service Planner opportunity, which occurs on June 17th at 5:30
+to 6:30 PM. With that, I will turn it back to GM and CEO Debra Johnson.
+DEBRA JOHNSON: Thank you, Mr. Carter. Just for clarity, while there was some language that was
+used, i.e. terminals, that's critically important as we talk about where operators may end their runs and
+then moreso can make relief and then use the facilities as well. So that's critically important-- recognizing
+individuals being in their mobile offices and needing to have a break is captured in various aspects of our
+collective bargaining agreement, and that everybody is entitled to have some break periods.
+
+And moreso, speaking about route 38, quite naturally, as we have had discussions recognizing that RTD
+doesn't have auspices over all arterioles and infrastructure and things of the like, we have to work with
+jurisdictions to ensure that we have adequate amenities relative to delivering transit services, including
+adequate stop areas, bus pads, and things of the. So I just wanted to provide a little more context relative
+to some of those elements that we are working in tandem with our jurisdictional partners on.
+JESSIE CARTER: Thank you for that.
+DEBRA JOHNSON: You're welcome. So with that, Committee Chair Harwick, I'll yield the floor to you. Do
+we have any questions? I see Director Chandler.
+KATHLEEN CHANDLER: I want to say thank you very much, Mr. Carter, for getting the 135 over in
+Smoky Hill up to every half hour. That is a huge opportunity for my community. Smoky Hill is actually the
+southern boundary of my district, but I use Smoky Hill all the time. So that's going to really help that
+quarter to have that now at a much better frequency, so thank you.
+JESSIE CARTER: Thank you for the comment.
+IAN HARWICK: Director Nicholson.
+CHRIS NICHOLSON: Thank you. Mr. Carter, I was wondering if you could speak to-- so one of the
+changes, obviously, is the removal of the H from downtown for a time in order to do the maintenance,
+which as someone who lives a block away from that line, I understand and appreciate why we're doing it.
+Obviously, that means that that line no longer has a connection to-- my apologies on my camera there.
+That line no longer has a connection to the airport, the way that it's being-- direct connection, because it's
+not going into downtown and it's not going to Peoria. And I was wondering what stops us from running it
+past Metro Center all the way up to Peoria Station, given the fact that we're cutting down significantly on
+the length on the other side?
+JESSIE CARTER: Director Nicholson, it's an excellent question. And rather than use the term what stops
+us, I'd say we have challenges and we have opportunities. And doing that would water down our
+opportunity to make sure that our services are as reliable as possible. You noted that the route is actually
+shorter, and because of that, we have more operator resources to dedicate towards doing pullback
+activities and keeping our services on time.
+We do have challenges at the US. It's a station that's designed for basically the W and the E Line to go
+into it at 15-minute intervals. And we're adding the D line, which is still a 15-minute service, so that's why
+we can't go all the way downtown with the H Line. That said, there are opportunities where the H and the
+R line overlap one another to where someone can use the R line in the stead of the G line for direct
+access to the airport.
+So I think when we looked at that, we considered a number of different things. And as you also already
+note, we have considered other patterns for the H line, which include going all the way up to Peoria
+Station. But those were considered in replacement of the R line. So at this point, we're looking at the best
+way to provide or maintain current service levels and providing the most reliable service that we can
+provide. That's why we chose to basically reduce the length of the H line, if that answers your question.
+IAN HARWICK: Go ahead, Director Johnson.
+
+CHRIS NICHOLSON: Just a quick follow-up to that. Are we at capacity for that final segment from Metro
+Center up to Peoria? It's my understanding that that could hold four trains per hour, and I think we're
+currently running the H only at two trains per hour. So I'm wondering if you have any thoughts on-- again,
+if not putting back the H Line to use that, potentially how we would make use of that extra capacity to get
+more service from Kathleen's district up to the Peoria Station and connecting people at higher frequencies
+to the A line over there?
+JESSIE CARTER: Sure. Chair Harwick?
+IAN HARWICK: Oh, please go ahead.
+JESSIE CARTER: If I can respond?
+IAN HARWICK: Please go.
+JESSIE CARTER: So with that, the line going north to Peoria does have the capacity to operate
+additional services. As you already know, the R line, at one point in time, operated at every 15 minutesm,
+so that was four trains per hour. So adding an additional two to four is possible. But the bigger question
+for me is looking at ridership patterns and looking at the level of ridership currently in the past seen on the
+R line, and whether or not it's a viable solution and whether or not it's the best way to extend the
+workforce resource in doing that, rather than, again, having enough capacity to react to the need to pull
+back or add additional operators to recover our system.
+IAN HARWICK: Director Nicholson.
+CHRIS NICHOLSON: Yeah, I would just say I appreciate the explanation. Also, just thank you so, so
+much for bringing back the LX, as we've talked about six or seven times, and for improving the FF-2. I've
+only been to Longmont about twice in my life because of the difficulty of connection. This is great. And
+also the 6-- it'll be nice to get out that farther into Aurora. So the service changes overall are awesome.
+JESSIE CARTER: Thank you.
+IAN HARWICK: Director Guzman, I see you, but I see CEO Johnson. I'm going to call her first and you
+second.
+DEBRA JOHNSON: Thank you very kindly for this opportunity. And I just want to iterate, Mr. Carter does
+a yeoman's job, but I'm going to take privilege right now and say that it's been a collective effort as one
+RTD because we are a people intensive organization and we have had tremendous success as it relates
+to recruitment, retaining, and having a laser-like focus. I know a comment was made about maintenance.
+We are doing more than maintenance. We're trying to ensure that our system is in a state of good repair.
+This is an asset renewal so we can capitalize on the investment the taxpayers have made for future
+generations. And so I do just want to state that because maintenance is one thing, this is a full-fledged rail
+reconstruction that we are doing for the sustainability of our network.
+And I know Mr. Jensen has come on camera, and I wanted to ensure, as our modal lead of rail, that he
+had an opportunity if he wanted to provide some more context relative to what we're doing. Because
+discussions were had about trains, and I'm not certain-- I was a little confused if we were talking about the
+number of cars on a train, or are we talking about [INAUDIBLE] so I think it's best that I yield the floor to
+
+Mr. Jensen. Thank you very much, Committee Chair Harwick, for allowing me to do so. Mr. Jensen, the
+floor is yours.
+DAVE JENSEN: Thank you very much. I am Dave Jensen, Assistant General Manager of Rail
+Operations, and I did come on camera to support Mr. Carter, who admirably explained everything better
+than I could as it related to schedule. I would add that we looked extensively at what the best case
+scenarios would be. We made a commitment. It is our deep desire to not reduce our headway pattern.
+We want to provide the most amount of service with the greatest likelihood of success.
+And when we did the evaluation of our capacity at Union Station, we're talking about the difference
+between-- all train lines to Union Station, we're talking about 16 trains an hour, which gives the trains
+about 3.75 minutes to turn. The reality of that is the train has to enter the station, everybody has to
+deboard, we have to bring it into the tail track, we have to pull it out of the tail track, we have to get an
+operator onboard, and that's just too tight. We couldn't be confident that we would have a high level of
+success.
+But by reducing the number of trains in the Union Station by running three lines into there, that's 12 trains
+an hour, giving us five minutes, and we think that's very doable. So that analysis started to drive what
+were the decisions necessary for us to be able to make sure that we could run the highest level of
+frequency and the highest level of reliability. And so that's why we came up with this. Where the locations
+are that we can turn trains back vary depending on where the interlockings are where we can turn trains
+back around. And Southmoor is the best location for us to be able to do that effectively.
+To Ms. Johnson's point, however, there are a lot of factors that come into play that go beyond just the
+scheduling of it and the operators. There is a lot of work that needs to be done. That work continues to go
+on. It's ongoing now. So just because speed restrictions have been lifted doesn't mean the maintenance
+of [? Way ?] crew in the evenings have stopped work. They're working every single night. And so we do
+want to be able to maximize their time out in the field so that we can minimize the number of disruptions
+that we ultimately have. And a lot of that was the thinking that went into the decisions that we made.
+IAN HARWICK: Thank you, Mr. Jensen. Director Nicholson, I see your hand is still up. I don't know if it's
+still intentionally still up or accidentally.
+CHRIS NICHOLSON: It is, but let Director Guzman go first. He's been waiting.
+IAN HARWICK: Thank you. That was my plan. Director Guzman. You're muted.
+MICHAEL GUZMAN: Thank you. So I have a couple of questions about specific routes, but a real basic
+one to start off with. There's three different service classes listed here-- Core, Community, and Connect.
+Can you quickly define the difference between those for me?
+JESSIE CARTER: Chair, if I may?
+IAN HARWICK: Please.
+JESSIE CARTER: OK, so you're referring to, in the SOP, the new classifications for service-- Core,
+Connect, Commute, and Community. So each of those have levels of service assigned to it. For example- and I don't have them all memorized yet, so please forgive me for that. I think when we look at our Core,
+we're looking at service frequency of no less than every 15 minutes. We're looking at spans of service of
+about 18 hours.
+
+When we're looking at Connect, we go back to policy-type headway frequencies, which can go as wide as
+30 minutes. But we're looking at service spans of, I want to say, 14 hours. And then when we look at
+Commute, those are more relatable to Regional/Express type of services that operate primarily in a peak
+direction, so those are allowed to be expressed differently, as far as span, and assigned to more
+specialized timeframes or service spans assigned to frames.
+Then when we look at Community, Community is looked at as-- and it's stated as being somewhat
+specialized and tailored fit to a given community. But we do need to do a little more work on explaining
+exactly what that means, because it's a bit ambiguous. And if I were to give you an example of two routes
+that are in the Community category, Community could contain everything from the 16th Street Free Ride,
+formerly known as the 16th Street Mall Shuttle, to a route like the 402-L out in Highlands Ranch, which
+runs along Santa Fe Boulevard.
+So those are very different in the nature of communities that they actually serve and have dissimilar
+performance expectations. But right now, at this point, the Community category contains those two
+routes. And I did want to specify that difference that's still out there at this point.
+MICHAEL GUZMAN: Thank you. Mr. Chairman?
+IAN HARWICK: Please.
+MICHAEL GUZMAN: All right. The 31, you've got a couple of different things going on with that. So on the
+north end, it doesn't look like it's changing much, but it looks like it's going to overlap with the 30 once it
+gets down south past Decatur to get into the south end. Is that correct?
+JESSIE CARTER: That's correct, Director Guzman. And one of the things I should point out right away
+with the 31, there's an unusual pattern. It's a hangover from a time long past, where 31 on Sunday only
+has a 15-minute service. And we're replacing basically the moniker and moving that service under the 30.
+So you'll see it disappear from the 31, but those trips will be available on the route 30.
+MICHAEL GUZMAN: OK. Then I also have a question about the 38, which runs through a pretty heavy
+business corridor in my end of town. And so I just want to make sure I understand it, because there's a lot
+happening up here. It says here that it's going to terminate eastbound trips of 38 at 30th and Downing and
+reintroduce the 34 through Bruce Randolph, which is awesome. So that means that this is just going to
+stay on the west side of town. Is that correct?
+JESSIE CARTER: Yes. So Director Guzman, what we were attempting to do-- and I'm not sure that we're
+going to be able to do it because we have to address ADA accessibility issues at 30th and Downing with
+what we're attempting to do. As it's stated in the SOP, the 34 would return, but basically, it was built out of
+the eastern part of the former route 38. So you're correct-- service will remain the same on the western
+portion of the route 38, but then the 34 would take over on the eastern half from 30th and Downing out to
+Central Park.
+MICHAEL GUZMAN: OK. That answers both of my last two questions because the 34 was the following
+onem, so that's a two for one. Thank you.
+JESSIE CARTER: Thank you.
+IAN HARWICK: Director Nicholson again.
+
+CHRIS NICHOLSON: Thank you. So as I think everybody on here is aware, Coldplay came to town just a
+couple days ago, and we put out some great art. We had some great press about the things that we were
+doing to facilitate making it easier for people to get to the concert.
+And then yesterday-- or rather this morning, excuse me-- there was a very angry post on Reddit that got a
+bunch of comments about how because the concert got out at 11:45 and our last train left at 12:30, there
+were a significant number of people who were not able to get home. And in fact, I know even some
+members of RTD staff who were at that concert faced that exact issue. So I think that there is a
+meaningful challenge that we run into with these late night concerts and with these events that
+unfortunately are not on a predictable schedule as much as we'd like them to be, but that tens of
+thousands of people still take to go and expect of us that we will be able to run service as so many other
+cities do to take people home from football games and Coldplay concerts and basketball games and
+such.
+I'm wondering if you can speak to why is it that we can't seem to do this? What's the challenge that
+makes it not possible for us to run a 1 AM train when there's a concert that's getting out at 11L45 or a bus
+or something to address these concerns on a more reliable basis? I know we do some things when it
+comes to Broncos games and Nuggets games and things like that. We run longer trains or whatever.
+But this seems to come up a lot. I've gotten these posts. I've seen these things on a frequent basis. Can
+we talk about what service changes could look like to address some of these late night concerns?
+IAN HARWICK: CEO Johnson?
+DEBRA JOHNSON: Yes, thank you. I'll start, and I'll yield the floor to the team. So there's a couple of
+things I just want to ground us in. Comments that you made, Director Nicholson, about what other cities
+do. There is a myriad of different things that other cities do, but when you think about the operating
+environment, we want to ensure that we are providing the best services that we can.
+And the reason I broach this is I'm going to share just a short story. When I moved to the Washington,
+DC, area and started working for the Washington Metropolitan Area Transportation Authority and had
+previously worked at Bart and VTA, a question was asked to me, what did you guys do for Monday Night
+Football? I said, well, Monday Night Football comes on at 6 o'clock in California. We did not have the
+same issues. And the issue we were facing was, at the time, the Washington Commanders-- who had a
+different name-- had moved out to land over Maryland from Washington, DC. And so the system closed at
+a certain time.
+So in that instance, I remember being part of a meeting where we met with the NFL Commissioner, and
+the NFL paid WMATA to keep the system open. And so the reason I put that forward is the operative
+word in what we do is public transportation. And we want to be good partners, but there's different
+mechanisms in which cities do in order to make that happen. But with that as a backdrop, recognizing
+what we have done-- some great work that the team has leveraged going forward. So recognizing that we
+don't have a lot of options, just by virtue of the configuration that we have.
+Considering that there were protests yesterday that impacted what we were doing, we leveraged extra
+employees, i.e. that volunteered, because we do not have mandated overtime. What we also did was put
+out variable message signs at the entrance to the stadium when people were approaching it so that
+individuals would have an understanding. We tried to leverage all that we could. And in doing so, talking
+
+about-- and I'm looking at my notes because I will share that Director Nicholson shared with us that he
+was going to broach this, and we do appreciate that.
+We ran to ground, i.e. concerns relative to what we received. And we had one online comment from
+earlier today indicating that the last departure from the W Line from Denver Union Station did not happen.
+And we investigated that concern, so there was one instance there. And so recognizing that there's a
+myriad of things that we are doing, I've been meeting with the modal leaders, and we are looking at some
+options that we may be able to do by having designated workforce for bus bridging and things of the like.
+Because this is something else when we talk about different transit agencies. Here at this agency, we hire
+directly rail operators off the street. Other agencies basically have individuals start as bus operators, and
+then they promote into rail. Why is that important? Because if we had a service disruption or needed
+additional support, we already have individuals that have CDLs that then basically could pick up their
+shift. They're just utilizing a different mode, i.e. rubber tire as opposed to steel wheels.
+So at this juncture, I'm going to yield the floor to Mr. Jensen to talk more specifically about what we do in
+rail operations, recognizing that context I gave. And I hope my comments are being taken in the spirit in
+which I'm intending. I don't want to come across as defensive, but I think it's important that when we say
+what other cities are doing, we have to ensure that there's different operating environments and different
+mechanisms. And so we do recognize we have opportunities here and are going to lean into that. So,
+Dave?
+DAVE JENSEN: Yes, and I would reiterate exactly what you just said. It is our goal to provide the highest
+level of service, the highest quality service we can. And so two components to, I think, the question that's
+posed to us this evening-- one was last night, the other is what we do in general. Ms. Johnson's point
+about the protests threw us off last night. Even though some of the dynamics of the protest may have
+been over or diminished by that time, what ended up happening to us last night was we stopped running
+trains downtown for hours.
+Broadway Station was shut down for a period of time. And so what we do to recover the system is turn
+trains back. What that does to the operators is it puts them out of sequence. So almost every single
+operator that was working last night was out of sequence. They were not where they belonged according
+to their schedule. So the control center staff, who's dealing with a highly complicated, tense situation
+that's critical for us to protect our employees and our customers are also trying to provide service at the
+same time.
+And so that's where the complexity of what happened last night comes into play. But to Ms. Johnson's
+point, for every special event we have that we know or suspect will go beyond scheduled time, we ask for
+volunteers because we only staff for scheduled service. We don't staff for special events. So when a
+special event occurs, we're reliant upon volunteer people for overtime, and we don't force overtime.
+Now, to Ms. Johnson's point as well, there are alternatives that we're exploring. And I would say that
+everything's on the table, but there's limitations to what we can currently do, and there's limitations to
+what we might be able to do in the future. And we're trying to maximize those as well. I also came from a
+different city in a different location in California. We also had similar challenges, but our staffing levels and
+the way that they were arranged were significantly different. And we were able to do that because it was a
+different part of the country. And so our staffing levels were different in the way that we were able to
+provide service based on personnel issues were different.
+
+So I don't want to come across as defensive either. Our limitations on how we can turn trains around,
+where we turn them around, where we can pull them out, the number of people that we have that have
+the ability to operate on any given day-- one of the things I didn't mention, but probably should, is hours of
+service. So we've got very strict regulations on how many hours an operator can work in a particular day
+and what their turn time is from day to day and how many hours they can have in a week. And all of those
+things are taken into consideration, and we're doing everything we can to provide regular service.
+So when an event like this occurs and then another situation on top of it, it makes it really complicated.
+Not to say, again, that there aren't things that we couldn't do. We're looking at alternatives and trying to
+determine what the best course forward would be, because we'd like to be able to do that. But as it stands
+today, there are certain limitations that prevent us from doing more than we can, than we are, other than
+informing our customers, this is what we can do. These are one of the last trains are going to be here.
+Please plan accordingly.
+And I do see another one of the directors who posed a question yesterday as well. We did position field
+supervision out at critical locations where we knew there were connections that needed to be made. The
+OCC, the control center knows where the trains are. They did try to coordinate those needs depending on
+where the trains were. And we were informing people in the field last night about whether or not there was
+another train coming, when the next train would be there, and what the expectation was of train service.
+So I hope that was helpful, and I hope that answered your question.
+IAN HARWICK: Director Nicholson, I'm going to jump to Director O'Keefe, and then I'll circle back to you.
+PATRICK O'KEEFE: Thank you, Chairman Harwick. So I raised the question yesterday, and I think our
+challenge was that the D line is the only one that required a transfer last night. And I appreciate the prep
+that we did to accommodate that yesterday. I guess my challenge is we didn't just miss something last
+night. We broadcast all day on press releases and on television, take RTD. We're going to get you there
+to the concert.
+And when we do that, we better have 180% sure that we're going to be able to do it. Because my
+nightmare scenario was someone taking their kids, and they don't take RTD much. They don't know what
+they're doing. They go to a concert and have a fun time. It is 12:30 AM, and they are standing on a
+platform at Broadway. We're assuming that they can afford to take an Uber home and that their car isn't at
+a station.
+And so I get that things happened yesterday. I think the protest had tamped down by early evening. We
+had five hours to broadcast out on Twitter channels. I couldn't find any evidence of that. We should have
+put signs up. In my opinion, we should have called Empower Field and asked them to broadcast on the
+way out the door, hey, trains aren't running normally. Check your ride.
+So it's a 90,000-person concert last night. This isn't a major event. This is a mega event. And I guess my
+biggest problem is I am trying to get people to fall in love with us again. We have one chance to make a
+first impression again. And all of those incidental riders last night, I couldn't get them back on an RTD
+train, I bet, for anything.
+And so if we broadcast it, we should only broadcast it if we are 100% sure we can do it. And that's my
+problem. I know stuff happens. I couldn't find any evidence-- maybe we did, besides having people out on
+the platforms talking to people. But this was a mega event that we told people to take RTD to, so we
+should have spent every effort to try to set that straight. And that's my challenge with this.
+
+We need the suburban folks to support RTD, the taxpayers that never ride it for anything else. This model
+doesn't work if those people don't give us their tax dollars and aren't going to vote for it when we ask in
+the future. And so that's just my challenge. I get the protests were a problem and I'm not upset at the
+inability to handle the chaos, but the challenge I have is we ask people to take it and trust us, and we lost
+the opportunity. Thank you.
+IAN HARWICK: CEO Johnson and then Mr. Jensen.
+DEBRA JOHNSON: Yes, thank you. And thank you very much for that, Director O'Keefe. We hear you. It
+hasn't fallen upon deaf ears. And I just want to acknowledge that, because yes, it's critically important. We
+say we're going to take you there. We're going to get you home.
+So this is an area of opportunity, and it's about ensuring that we can provide service to all customers,
+whether discretionary or those that are reliant. And I hear you. So I just wanted to acknowledge that on
+the record. Thank you.
+PATRICK O'KEEFE: Thank you both.
+IAN HARWICK: Director Nicholson.
+CHRIS NICHOLSON: Thank you. So first I want to say, I really appreciate this. I go on Reddit whenever
+there's a post like this, and I try to answer the best that I can. And I say a lot of what you just said. I'm not
+trying to be defensive, but here's what I know. And so whenever you guys come to me and give me more
+information, it makes it easier for me to go, on behalf of the-- not on behalf of the agency, but to give the
+public the best explanation that I can.
+And people tend to understand that this is hard. I think there are really two things that I'd really like going
+forward from this. The first is my favorite technology company, Cloudflare, which hosts a lot of the back
+end of a lot of websites-- whenever they have an incident, they write an after action report that goes into
+great detail about why it happened, what specifically went down, and what they're going to do to remedy
+it.
+And so I think one of the things that I'd like to see from something like this is a similar write-up from you,
+Dave, and your team about what happened, where the failure was, and what do we do to move forward to
+prevent it from happening next time. And I think that that would be a really good practice for the agency to
+get into whenever something big falls down like this, even a little bit.
+The second thing is, I think that it is on us in some ways, to be willing to set policy when it comes to
+special events and to say, OK, these are the trade-offs that we want to make as a board. These are the
+choices, and this is the instruction we want to give to you, GM/CEO Johnson, about how to choose
+between the five different things that you can be doing in order to address these types of things. Because
+I'm the one that's going to get yelled at at public meetings about why this didn't happen.
+And so I think we have to take some level of responsibility for that and say, OK, here's how we want you
+to address this. So I would love to see a special events policy come forward to the board from your team
+that says, OK, here's the type of service that we're going to try to run. Here's how, here's what we're not
+going to do, and put it on us to make those choices publicly rather than just putting it on you to have to
+think about that stuff. I think we owe it to the public, and I think we owe it to you to address that directly.
+IAN HARWICK: CEO Johnson.
+
+DEBRA JOHNSON: Yes, thank you. And I appreciate the comments, Secretary Nicholson. I'd be remiss,
+relative to giving Dave a direction about what he should be doing-- I want you all to understand that this is
+collective, and we operate from a one RTD approach. And I can sit here affirmatively and say that the
+team is already working in conjunction on an after-action report as we go forward because it will be
+deliberate and be intentional, relative to what it is, because not one person could deliver service in this
+agency alone, including me. And so I want to ensure that everybody is cognizant of that as we move
+forward.
+Recognizing policies that come to the board, we can have a further discussion. I know that is what you
+desire, but collectively, as it relates to service delivery, this is something that we are taking up next month
+as it relates to service standards and how we deliver service. So I would be remiss if I did not share that
+in this forum. So thank you very kindly. I do think we're aligned, but I just want to be clear in reference to
+the direction in reference to staff and what they should be doing, that I would appreciate having that
+opportunity in reference to the role that I have here. Thank you.
+IAN HARWICK: Director Nicholson, I'm going to give you one more bite of the apple, friend.
+CHRIS NICHOLSON: Thank you. Will special events be part of that service delivery policy that comes to
+the board next month?
+IAN HARWICK: CEO Johnson.
+DEBRA JOHNSON: So first and foremost, let me ground you in what we're talking about with service
+standards report. As I have been working with the Vice Chair of this committee and the committee of the
+chair, in addition to my motel staff, keeping in mind that service standards and things of the like spawn
+out of a comprehensive operational analysis. What we agreed to do as we go forward is look at what we
+have, because there's been some elements that aren't inclusive.
+To the point that you asked, that will be something that will be incorporated in, but we have to be
+intentional relative to where we currently sit, because we haven't done a comprehensive operational
+analysis. Because not only are we talking about special service, first we have to understand our stop
+spacing policy. What does that mean relative to bus bunching and things of the like? So there's different
+segments there, and so it's incumbent upon me to ensure that we're working from a one RTD approach
+and it's comprehensive.
+So long story short, for all intents and purposes, yes, it should be there. But at this iteration, recognizing
+we were working with the Committee Chair that wanted us to put something forward, we agree that this is
+an iterative step. And then when we do a CoA, we're going to build upon that on a triennial basis. And
+Vice Chair Harwick is nodding because he was privy to that discussion. So thank you for the opportunity
+to share that information.
+IAN HARWICK: OK. Director Nicholson, make it a nibble.
+CHRIS NICHOLSON: No, I was giving a thumbs up. Thank you very much, CEO Johnson.
+IAN HARWICK: Good nibble. Director Guzman.
+MICHAEL GUZMAN: Thank you, Chair Harwick. So I was downtown last night. I finished toasting the
+Finance and Planning meeting and went to go find my bus and realized something was not right because
+
+the buses that I waited for didn't show up, and they were out of whack. And that's OK, and there was no
+problem.
+But at the time that I left the building, the protests were interrupting the services. And so I went to the My
+Ride app. I looked at different options to get home. And I got home safely, but I did end up having to take
+a commuter rail from Union Station, which is not my preferred method because I have to walk a bit farther
+at that time of night. And it was fine. The G left right on time and got me right where I needed to be.
+So I think part of this also is-- I respect everybody's opinion on this. And I do understand the nerves
+around large events and being able to make a promise and keep a promise. The other part of it is we
+have to be really comfortable using our system, and I have to give a shout out to the agency because
+there was no panic to interrupting service. There was no crisis level communication that caused a big stir
+in the community that there was something that wrong that would cause it. It was simply trying to keep
+equipment and employees safe and the public well informed as best we could.
+But in a situation like that, I would challenge the thought that the board is the first and only person that
+needs to know, because as AGM Jensen spoke to-- and I'm sure the AGM of Bus Operations services
+would probably be able to speak to-- there are other people doing work in real time trying to reroute,
+trying to delay. The dispatch center's probably going full steam ahead ensuring that the services are
+running. And so we do get informed of that in the post-mortem, so to speak-- circle back on it to the board
+when it's necessary. And that's happened time and time again during my time on the board.
+There will always be, forever and always be somebody behind a screen somewhere who is pissed off
+about a company or an agency or local government. And while their opinion and their feedback is
+valuable because it can help us reconsider, think, and plan differently for the future, there are going to be
+times when we just cannot make everybody happy.
+And to that end, I don't frankly waste a lot of my time worrying about Reddit posts because there are other
+options for those persons to communicate properly with the agency their frustration and their concern
+about a situation directly to RTD. And that gets more traction when we know that they are concerned
+enough to let us know and not post it out just for the dark corners of the internet to read and find. I don't
+have enough time as a director to troll on Reddit and to waste time digging through X or Bluesky or other
+forums to find people's complaints.
+And so I would really, really caution that every time somebody says something even slightly negative
+about the agency, we jump on top of it like it's the end of the world. If I did that every time somebody said
+something negative about Starbucks, I wouldn't sleep at night. We can't do it, just reality. And our public
+outreach team cannot do that. It's just reality. And some of them are not even worth responding to
+because just over and over again, no matter what we do, it's going to be negative.
+To that end, let's take the good from this. We were able to keep people safe. We were able to move
+people. I was one of the people that got moved last night safely and soundly to my destination. I just had
+to figure out how to get somewhere to be able to enjoy that ride. And it was clean and it was safe. Fares
+were being checked.
+Everybody was happy leaving the Rockies game at that point. I rode home with protesters on that train
+wrapped in the Mexican flag, wrapped in other items that they used with protest. And everybody was
+really cool and tranquil and respecting our ride, which is what we want at the end of the day. So I'm going
+to leave that there.
+
+But I do have to say to the whole team, thank you, first of all, for doing your job well. And thank you for
+letting us know when it's appropriate. But I also don't expect to be the first one to know because that's not
+my job. That's frankly what we have hired our General Manager and CEO for and what she has hired all
+of you for. And you handled it, so I just want to give you that kudos. Thanks.
+IAN HARWICK: Director Nicholson, I see your hand up.
+CHRIS NICHOLSON: Yes. Can I respond a little bit to what Mr. Guzman said about me, what I've been
+up to?
+MICHAEL GUZMAN: Director.
+CHRIS NICHOLSON: Thank you. I can't speak to what other directors want to do, have time to do. I'll just
+say that I believe it's really important to go and respond to the public when they're talking about us,
+whether that's in a news article, an op-ed, a letter to the editor, a Reddit post, an email. I take that
+responsibility really seriously. I read all my email from constituents. I answer it all. I try to do it promptly.
+And I go on Reddit because that's where people are talking about us. And I've heard from dozens of
+constituents that that's the main way they see something about what RTD is doing. So you may think of it
+as the dark corner of the internet, but if that's where people are talking about us and that's where they
+want to get their news from, then I'm happy to be there. I'm happy to do it-- don't need anybody else to.
+But I've been a Redditor for a long time, and I think it's worthwhile.
+So I think that we're going to make mistakes. We're going to have good days. We're going to have bad
+days. And we should be bragging about the good days whenever we can. And we should be honestly
+responding and speaking publicly on the bad days where we can. And I think that that's the best approach
+we can take to try and build trust in this agency in the moments when things go well and in the moments
+when they don't, exactly as Director O'Keefe talked about. Thank you.
+IAN HARWICK: Thank you. I'm going to wrap that discussion up right there. I actually have a question
+here for Mr. Carter. I'd like to circle back to where we all started from. Route 76 is listed in here, and part
+of that is in my area. And I've gotten a few issues specifically on the weekend around its connection to the
+52. I'm curious if this update might somehow help allow people to better make that connection.
+JESSIE CARTER: Committee Chair Harwick, I think I have spoken to my staff about that particular
+incident where Route 52 is leaving as Route 76 is arriving.
+IAN HARWICK: That's correct.
+JESSIE CARTER: That can be addressed in a couple of different ways. And what I've advised is perhaps
+where there is a close connect, to look at the overall schedule. It is very difficult to make every single
+connection that's possible on a given route, especially a route as long as Route 76, which is one of the
+longest ones.
+But at the same time, we can use things like notes to the operator to put on the train car more
+permanently after a revision and/or as a temporary note to let them know that there are people who are
+trying to make that close connection. And given the time that's allowed, they can make those attempts.
+Where we can make the connection-- and if it doesn't really ruin our more important or the place where
+we have the largest connections, we will accommodate moves to actually address that.
+
+IAN HARWICK: Thank you. I appreciate that.
+JESSIE CARTER: Thank you.
+IAN HARWICK: OK. Now we're in other matters. Do any board members from the committee or
+elsewhere have any other matters to discuss?
+CHRIS NICHOLSON: Of course.
+IAN HARWICK: OK, all right.
+CHRIS NICHOLSON: I just wanted to say-- may I?
+IAN HARWICK: Two nibbles.
+CHRIS NICHOLSON: Yes, very quickly. I just want to say, I think this is our shortest OSNS meeting so
+far, and I wanted to commend you, Co-Chair Harwick, on your efficient handling of the meeting, so thank
+you.
+IAN HARWICK: Thank you. I decided not to time you all tonight because it was a pretty short agenda. But
+thank you all for being, for the most part, pretty succinct. Director Paglieri.
+BRETT PAGLIERI: I want to say thank you for keeping it short. It is my birthday and it's a nice gift to have
+the time. Thank you.
+VINCE BUZEK: Happy birthday.
+IAN HARWICK: All right. Anybody else? Going once. Going twice. OK. All right. The next Operation
+Safety and Security Committee meeting is scheduled for Wednesday, July 16th.
+At that meeting, we will cover a number of topics. We have recommended actions slated for the following- August 2025, Title VI Service Equity Analysis as needed in the event of a major service change, plus or
+minus 25% on a given route or line. August 2025 service change recommendations, paratransit access
+on demand program modifications, paratransit access on demand contract extensions. And we will have
+discussions slated for the following-- fixed route bus contracted services in the Boulder and Longmont
+area and service standards and policies update.
+I don't see any hands. I don't see anything-- anybody waving at me or anything at all. So I'm going to
+adjourn this meeting at 6:46 PM. You all have a great evening. Thank you. Bye.
+
+​greaterdenvertransit@gmail.com​
+
+​Submitted as Public Comment to the RTD Service Change Process, June 14th, 2025.​
+​June 14th, 2025​
+​Jessie Carter, Manager, Service Planning & Scheduling​
+​Regional Transportation District​
+​1660 Blake Street​
+​Denver, CO 80202​
+​August 2025 Service Changes​
+​Dear Mr. Carter,​
+​Greater Denver Transit (GDT) has the following comments on the proposed August 2025 service changes:​
+​H Line Termination at Southmoor​
+​GDT notes the discussion between Directors and service planning staff that occurred during the Operations,​
+​Safety & Security meeting on June 11th.​
+​We would like to emphasize the importance of treating the H Line line as a connecting shuttle between​
+​Southmoor and Florida. Southbound H Line trains need to depart Southmoor as soon as practicable after​
+​southbound E Line trains have called. Likewise, northbound H Line trains should depart Florida as soon as​
+​possible after southbound R Line trains pass.​
+​For late afternoon and evening special events at Empower Field or the Ball Arena, consideration should be​
+​given to running H Line trains to Union Station using the space in the schedule freed up by other lines reducing​
+​frequency to 30 minutes after 6pm.​
+​L Line Suspension​
+​GDT is greatly concerned that once again, service on the L Line is withdrawn due to construction work​
+​happening elsewhere. This is particularly frustrating at a time where the L Line needs support more than ever​
+​as it is now clear that there are members of the community who have so lost trust in the rail service being​
+​useful that they are now campaigning to get it shut down permanently.​
+​We urge the agency to work with its Downtown Rail Loop construction contractors and industry experts to find​
+​ways to keep the L Line running during the works as a Welton St shuttle. Possible measures could include:​
+​1.​ ​Planning the reconstruction works in two parts so that there is always half the loop and one track​
+​available for empty train movements to / from the maintenance facilities.​
+​2.​ ​Minimizing empty train movements by storing light rail vehicles at 30th & Downing that don’t need​
+​maintenance attention. On-board cleaning could be done by a mobile unit.​
+​3.​ ​If not already present, installing disconnect switches that allow the OCS on Welton St to remain live,​
+​even when the Downtown Rail Loop power is off.​
+​www.greaterdenvertransit.com​
+
+​Page​​1​
+
+​greaterdenvertransit@gmail.com​
+
+​Route FF4 Reinstatement​
+​GDT welcomes the return of Flatiron Flyer service to Boulder Junction. However, we suggest this route serves​
+​stops in Denver on 17th & 18th streets plus Union Station in order to provide connectivity from all parts of​
+​Downtown to Boulder Junction.​
+​Route LX2 Reinstatement​
+​GDT is in support of the reinstatement of this route which will improve the connectivity between Longmont and​
+​Denver.​
+​Route 6 ‘Realignment’ to Serve the Community College of Aurora​
+​GDT fully supports providing service to Community College of Aurora’s CentreTech campus as a long overdue​
+​addition to the network. The exact nature of the proposed diversion / extension is not clear from the description​
+​provided on the service changes webpage. GDT requests a route map be provided to avoid potential confusion​
+​over the scope of this proposed change. GDT notes that this change is in conflict with the SOP, which​
+​proposes serving this campus by re-aligning route 169. We request a better understanding of the advantages​
+​of adding additional route length and operator hours to route 6 in comparison to route 169.​
+​Routes 29, 30 and 35 Reorganization of Service​
+​The exact nature of the proposed diversion of route 35 between Evans & Federal and Hampden & Wadsworth​
+​is not clear from the description provided on the service changes webpage. GDT requests a map is provided to​
+​avoid potential confusion over the scope of this proposed change.​
+​Route 32 Extension to Civic Center Station​
+​GDT is in support of the extension of this route as it will increase access to Downtown for customers riding​
+​from West 32nd Ave and improve Downtown connectivity. It is also fully in line with our Downtown Bus Plan.​
+​Route 34 Reinstatement​
+​GDT recommends this route be diverted to terminate at 41st & Fox with a connection at 38th & Blake after​
+​traveling west along Bruce Randolph Ave to provide easy connections to Union Station via the A Line and the​
+​west side via the G Line. Adequate service to the Downtown Loop area and Five Points from points east of​
+​30th & Downing Station is already provided by Route 43 which runs 2-3 blocks south of Bruce Randolph Ave.​
+​The provision of a map will clarify for all customers the exact alignment of route 34.​
+
+​www.greaterdenvertransit.com​
+
+​Page​​2​
+
+​greaterdenvertransit@gmail.com​
+
+​Route 38 Termination at 30th & Downing​
+​GDT notes the poor punctuality on this route which mainly manifests itself in eastbound buses being delayed​
+​on West 38th Ave and thus entering downtown behind schedule. This is exacerbated by the routing Downtown​
+​which takes the buses close to Coors Field on streets that do not have bus lanes.​
+
+​The graph above shows the numbers of passengers on board a westbound route 38 bus, averaged out over​
+​the September 2024 runboard period. Apart from the extreme ends of the route, it can be seen that the lowest​
+​numbers of riders are on board at 15th & Stout, which points to passengers from Central Park heading into​
+​Downtown getting off the bus at earlier stops (e.g. California & 17th) before the bus starts picking up​
+​passengers on Lawrence St who are heading west on 38th Avenue.​
+​These data lead us to conclude that the lowest numbers of thru-riding passengers are on board in central​
+​downtown on 15th St, so it makes sense to split the route there, not at 30th & Downing. Therefore, GDT​
+​recommends that this route’s long term eastern terminus is Civic Center Station in accordance with our​
+​Downtown Bus Plan.​
+​GDT would also like to see this bus rerouted to serve Union Station via Wewatta St to improve connectivity. We​
+​note that the stop that shows the most passengers boarding for westbound customers is Lawrence & 18th​
+​which is the closest one to Union Station.​
+​Lack of Advance Schedule Information​
+​GDT remains disappointed by RTD’s continuing inability to provide even the most basic information on​
+​proposed timings. While we understand that any proposed schedule may be subject to change, it shouldn’t be​
+​beyond the capabilities of staff to provide summaries of how they have scheduled routes. Even simple​
+​statements such as “Route A buses are planned to depart station Z at :xx past the hour, this is to allow​
+​customers to connect from B Line trains, which arrive at :yy past the hour.” would be immensely helpful and​
+​reassuring to customers who currently feel ignored on this very important part of service planning.​
+
+​www.greaterdenvertransit.com​
+
+​Page​​3​
+
+​greaterdenvertransit@gmail.com​
+
+​With best wishes,​
+
+​James Flattum​
+
+​Richard Bamber​
+
+​Emma Griffin​
+
+​Joe Meyer​
+
+​CC:​
+
+​Keith Brooks​
+
+​RTD Board of Directors​
+​Debra Johnson, RTD General Manager & CEO​
+​Angel Peña, RTD Deputy CEO​
+
+​www.greaterdenvertransit.com​
+
+​Page​​4​
+
+June 11, 2025
+Director Karen Benker
+Regional Transportation District
+1660 Blake St
+Denver, CO 80202
+RE: August 2025 Proposed Service Changes
+Dear Director Benker,
+The City and County of Broomfield wants to express our support for the Regional Transportation District’s proposed service
+changes scheduled for implementation in September 2025. These changes will meaningfully enhance transit access and regional
+connectivity for Broomfield residents, workers and visitors.
+We are particularly pleased to see the proposed restoration of FF4 service between Broomfield Civic Center and Boulder
+Junction. This key route has long served as a vital link between Broomfield and Boulder and its reinstatement will provide
+much-needed mobility for those commuting, accessing essential services or seeking more sustainable travel options.
+We also support the proposed routing change for the 228A/F to connect US 36 & Flatiron Station to a new stop at US 36 &
+McCaslin Station via Marshall Road, Sycamore Street and Center Drive. This thoughtful routing adjustment will improve
+Broomfield’s access to key destinations in Superior while supporting first-mile/last-mile connections along the US 36 corridor.
+In addition, we appreciate RTD’s continued efforts to improve service reliability through schedule timing adjustments for Route
+76 (Wadsworth) and Route 120. Enhancing on-time performance on Route 76 and better aligning Route 120 to improve
+connections to the N Line at Eastlake/124th Avenue Station will improve the rider experience and encourage more consistent
+transit use.
+Broomfield continues to urge RTD to support the impacted riders of Route 128, which has been inactive since April 2020. The
+Broomfield Transit Study finds that fixed-route service remains necessary in South-Central and Central Broomfield, the area
+formerly served by Route 128, to connect residents to the US 36 & Broomfield Station, Wagon Road Park n Ride, and other key
+community destinations. With the study concluding this fall, Broomfield looks forward to ongoing partnership with RTD to
+improve service, operations and connections to regional transit facilities.
+We value RTD’s continued partnership and commitment to transit service improvements. These changes reflect thoughtful
+planning and responsiveness to community needs and we look forward to their successful implementation.
+
+Sincerely,
+
+Mayor Guyleen Castriotta
+City and County of Broomfield
+CC: ​
+​
+​
+​
+
+RTD Board of Directors
+Debra Johnson, RTD General Manager, CEO
+Jessie Carter, Senior Manager, Service Development
+Michael Davies, RTD Government Liaison
+RTD Service Changes
+
+

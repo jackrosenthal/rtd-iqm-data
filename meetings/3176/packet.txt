@@ -1,0 +1,5643 @@
+1660 Blake Street
+Denver, CO 80202-1399
+303-299-2306
+
+Regional Transportation District
+
+Board of Directors
+Chair – Angie Rivera-Malpiede, District C
+First Vice Chair – Lynn Guissinger, District O
+Second Vice Chair – Shelley Cook, District L
+Secretary – Vince Buzek, District J
+Treasurer – Paul Rosenthal, District E
+Julien Bouquet, District G
+Bob Broom, District F
+Peggy Catlin, District N
+Erik Davidson, District I
+Bobby Dishell, District D
+
+Shontel M. Lewis, District B
+Marjorie Sloan, District M
+Doug Tisdale, District H
+Troy Whitmore, District K
+Kate Williams, District A
+
+AGENDA
+Financial Administration & Audit Committee
+Tuesday, April 13, 2021
+REMOTE MEETING
+5:30 PM
+To join the meeting: Register Here
+(connect using either Chrome or Firefox web browser)
+Or to listen by phone: 720-928-9299
+Webinar ID: 897 9666 1306#
+Webinar Passcode: 162454#
+
+Financial Administration and Audit Committee
+Chaired by Peggy Catlin
+
+A. Call to Order
+B. Recommended Actions
+
+• Approval of Contract to Purchase Validators for Account-Based Ticketing
+• Budget Transfer for Railroad Liability Insurance Premiums
+• Request for Budget Transfer Paratransit Software Replacement
+C. Discussion Items
+
+• COVID-19 Relief Funding and RTD Financial Update
+• Sales and Use Tax Forecast Presentation
+
+D. Other Matters
+E. Next Meeting Date - May 4, 2021
+F. Adjourn
+
+The following communication assistance is available for public meetings:
+• Language Interpreters
+• Sign-language Interpreters
+• Assisted listening devices
+Please notify RTD of the communication assistance you require at least 48 business hours in advance of a
+RTD meeting you wish to attend by calling 303.299.2307
+THE CHAIR REQUESTS THAT ALL PAGERS AND CELL PHONES BE SILENCED DURING THE BOARD OF
+DIRECTORS MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+
+1.B.1
+
+BOARD OF DIRECTORS REPORT
+Approval of Contract to Purchase Validators for AccountBased Ticketing
+
+Committee Meeting Date:
+April 13, 2021
+Board Meeting Date:
+April 13, 2021
+
+RECOMMENDED ACTION
+For the Board of Directors to authorize the General Manager or her designee to enter into a contract with
+Masabi to purchase new bus and rail platform fare validators for the Account-Based Ticketing (ABT)
+system.
+STAFF REPRESENTATIVE
+Michael Ford, Chief Operations Officer
+Doug MacLeod, Acting Chief Financial Officer
+Tonya Anderson, Senior Project Manager
+Paul Snyder, Senior Project Manager
+PRESENTATION LENGTH
+10 minutes
+BACKGROUND
+In November 2020, the RTD Board of Directors approved the funding needed to advance the AccountBased Ticketing (ABT) system forward with the goal of replacing the cumbersome and obsolete existing
+Smart Card fare technology and equipment used for the MyRide card and College and Eco Passes.
+The existing Smart Card system is card-based, in which customer balances and transactions are stored
+on individual cards. This causes several issues: delays of 24 to 72 hours for customers and RTD in
+managing card balances; hampers the ability to perform stored value transactions; limits locations for
+card management; limits the types of fares available; and requires more intensive ongoing system
+maintenance, coding, and Payment Card Industry (PCI) compliance activities. In contrast, account-based
+fare systems, such as ABT, store information by account, allowing for such benefits as real-time
+information, the ability for more widespread and varied means of loading fare value, more fare offerings
+and flexibility in changing fares, and less maintenance through utilization of hosted environment, all
+while also ensuring PCI compliance.
+In considering the replacement of the Smart Card system with ABT, RTD has contracted with Masabi to
+provide the “back office” technology to be consistent and compatible with RTD’s existing mobile
+ticketing platform that is also provided by Masabi. The current target date for completion of this portion
+of the ABT implementation is December 31, 2021.
+DISCUSSION
+A second component of the ABT implementation is the replacement of existing fare validators that were
+purchased in 2010 for RTD’s Smart Card fare system. The existing validators have obsolete and
+proprietary technology specific to the existing Smart Card system which necessitates replacement with
+validators that are ABT compatible.
+
+Packet Pg. 3
+
+1.B.1
+
+These new ABT validators will bring RTD into the modern age of transit payment systems while
+providing RTD customers with an improved and easier method for transit payments. Additionally, these
+new ABT fare validators will be capable of processing open payments, thereby providing additional fare
+payment options to RTD’s customers. Installation of the ABT fare validators is planned with a phased
+approach as the legacy Smart Card fare validators are removed.
+In order to acquire ABT fare validators, RTD issued a Request for Proposal (RFP) separate from the “back
+office” ABT software procurement. This RFP was separate in order to ensure a competitive process and
+because these fare validators will be acquired to be compatible with most ABT systems. In addition,
+federal grant funding has been awarded to RTD for the ABT fare validator purchase.
+After a thorough RFP evaluation and scoring procurement process, Masabi was selected as the preferred
+validator vendor and negotiations were completed. The funds needed to complete this work are
+$4,054,505, of which $1,813,084 comes from federal funding and, if approved, will allow RTD to work
+towards achieving the planned ABT system go-live date December 31, 2021 with a phased-in fare
+validator replacement. The period of performance for fare validator replacement is tentatively planned
+for October 2021 through December 2021.
+The validator vendor was evaluated and selected on a best value basis with the following scoring
+criteria:
+•
+•
+•
+•
+•
+
+40% technical specifications and ability to meet stated requirements
+20% overall cost
+20% experience of the vendor and project team
+10% timeline and ability to meet deadlines
+10% DBE (Disadvantaged Business Enterprises) evaluation
+
+FINANCIAL IMPACT
+The estimated cost of contracting the replacement ABT fare validators is $4,054,505. Funding will be
+provided by RTD in the amount of $2,241,421 plus federal grant funding in the amount of $1,813,084
+both of which were included in the 2021 budget. This contract will have five one-year options for
+extended hardware and firmware support in the amount of $29,946 annually. If all five options are
+exercised, this will result in an additional cost of $149,730.
+
+Prepared by:
+Doug MacLeod, Acting Chief Financial Officer
+Michael Ford, Chief Operations Officer
+Approved by:
+
+Packet Pg. 4
+
+1.B.1
+
+Authorized by:
+
+Packet Pg. 5
+
+1.B.2
+
+BOARD OF DIRECTORS REPORT
+Budget Transfer for Railroad Liability Insurance Premiums
+
+Committee Meeting Date:
+April 13, 2021
+Board Meeting Date:
+April 13, 2021
+
+RECOMMENDED ACTION
+For the Board of Directors to authorize the General Manager or her designee to authorize a budget
+transfer of $400,000 to fund increased commuter rail liability insurance coverage and premiums for
+the N-line.
+STAFF REPRESENTATIVE
+Melanie J. Snyder, General Counsel
+Doug MacLeod, Acting Chief Financial Officer
+PRESENTATION LENGTH
+5 minutes
+BACKGROUND
+Section 24-10-115(7), C.R.S., requires a public entity that obtains insurance for claims arising from
+passenger rail operations to insure against the federal liability cap set forth in 49 U.S.C. § 28103. RTD
+maintains insurance for the N-line consistent with contractual requirements for easements from BNSF
+and Suncor. Pursuant to the Fixing America’s Surface Transportation (FAST) Act, on February 26, 2021,
+the U.S. Department of Transportation issued a notice of adjustment to the Rail Passenger
+Transportation Liability Cap from $294,278,983 to $322,864,228. In order to increase its insurance
+limits to meet this increased cap, RTD has identified insurance providers to provide this increased
+coverage which has resulted in higher insurance premiums that were not budgeted.
+DISCUSSION
+RTD is seeking Board approval to transfer funds from the General Manager’s Contingency Fund to fund
+the increased insurance premiums since the amount of the transfer exceeds the General Manager’s
+authority. The increased premiums total $362,597 for the insurance coverage period of March 26,
+2021 – September 30, 2021. This request seeks a transfer of $400,000 to allow for foreign currency
+translation adjustments since the insurance providers are domiciled in Bermuda and any unencumbered
+funds will be used for the next renewal period beginning October 1, 2021 or returned to the General
+Manager Contingency Fund.
+FINANCIAL IMPACT
+The General Manager Contingency Fund was appropriated by the Board with the approval of the 2021
+Budget. Therefore, there is no net financial impact to the 2021 Budget, however, the financial impact to
+RTD annually will be increased premiums of approximately $800,000.
+
+Prepared by:
+Doug MacLeod, Acting Chief Financial Officer
+
+Packet Pg. 6
+
+1.B.2
+
+Melanie Snyder, General Counsel
+Approved by:
+
+Authorized by:
+
+Packet Pg. 7
+
+1.B.3
+
+BOARD OF DIRECTORS REPORT
+Request for Budget Transfer Paratransit Software
+Replacement
+
+Committee Meeting Date:
+April 13, 2021
+Board Meeting Date:
+April 13, 2021
+
+RECOMMENDED ACTION
+For the Board of Directors to authorize the General Manager or her designee to authorize a budget
+transfer of up to $4,000,000 to fund activities for the upcoming Paratransit Software Replacement
+contract.
+STAFF REPRESENTATIVE
+Michael Ford, Chief Operations Officer
+Paul Hamilton, Senior Manager, Paratransit Services
+Eric Farrington, Senior Project Manager, Information Technology
+PRESENTATION LENGTH
+10 minutes
+BACKGROUND
+In 2008, RTD began using Routematch software to schedule paratransit service. This software, still in
+use, is costly and outdated. RTD needs a new software system. The software does not offer mobile or
+web portal trip booking and management for customers. IT staff developed portals to address this
+shortcoming. As it stands, the software lacks basic modern functionality needed to optimize and fully
+support the Agency’s paratransit customer base. Additionally, Routematch has developed a new cloudbased product and will cease to support RTD’s current system. Thus, the system requires replacement
+due to obsolescence.
+DISCUSSION
+RTD needs a new software system which would improve productivity over the current system, thereby
+saving RTD approximately between $2,000,000 and $4,000,000 annually. These savings can be
+leveraged to offset the costs for a vendor to implement new technology savings to pay the selected
+contractor. RTD is asking proposers to work at risk, based on confidence that they will be able to
+improve productivity and be paid from the productivity savings. Due to the budget forecasting in 2020
+for 2021, whereby budget savings were identified, staff is now seeking authorization to provide funding
+through a budget transfer of up to $4,000,000 to fund this work.
+FINANCIAL IMPACT
+The estimated unfunded cost of contracting the replacement software and onboard hardware is less than
+$4,000,000. Funding is available from existing operating funds currently designated for Access-a-Ride
+fuel and transportation. This is in anticipation that those proceeds will not be needed for their original
+intent due to reductions in fuel and operating costs due to increased Access-a-Ride productivity.
+Therefore, there would be no budgetary impact, rather a transfer of funds would be completed from
+Operating Funds into Capital Projects.
+
+Packet Pg. 8
+
+1.B.3
+
+Prepared by:
+Paul Hamilton, Senior Manager, Paratransit Services
+Eric Farrington, Program Manager, IT
+Approved by:
+
+Authorized by:
+
+Packet Pg. 9
+
+1.C.1
+
+BOARD OF DIRECTORS DISCUSSION ITEM
+COVID-19 Relief Funding and RTD Financial Update
+
+Committee Meeting Date:
+April 13, 2021
+
+STAFF REPRESENTATIVE
+Debra A. Johnson, General Manager and CEO
+Doug MacLeod, Acting Chief Financial Officer
+PRESENTATION LENGTH
+15 minutes
+BACKGROUND
+RTD has received notice of three COVID-19 relief federal funding grant apportionments. Each of those
+apportionments are in various stages of having been drawn or RTD is awaiting further guidance from the
+Federal Transit Administration (FTA) regarding allowable expenditures. It is clear from the preliminary
+guidance provided by the FTA that these apportionments must be used to maintain the core business of
+transit agencies which is service delivery.
+DISCUSSION
+The financial impact to RTD from the COVID-19 Pandemic began in March 2020 and had the impact of
+reducing fare revenue by $81.9 million and sales and use tax revenue by $32.1 million in 2020. This
+adverse impact to RTD’s revenues is expected to continue during 2021 and beyond. A great deal of
+uncertainty remains regarding RTD’s financial outlook, particularly during the six-year Mid-term Financial
+Plan (MTFP) timeframe through 2026.
+This uncertainty stems from an inability to determine if or when there may be a return to normalcy for
+transit or what the future state of transit will be.
+In regard to expected timing of the emergence from the COVID-19 Pandemic, in mid-February 2021, Dr.
+Anthony Fauci, Chief Medical Advisor to the President, said “Hopefully by the time we start entering
+2022, we really will have a degree of normality that will approximate the kind of normality we’ve been
+used to.” Jen Psaki, White House Press Secretary followed by saying “We are not in a place where we
+can predict exactly when everybody will feel normal again.”
+As such, staff continues to closely monitor RTD’s financial results and outlook and will continue to
+provide information to the RTD Board of Directors as events develop. The intent of this Discussion item
+is to provide a current update of financial activities since the MTFP was approved in November 2020
+and to provide information on the remaining financial challenges ahead.
+
+Packet Pg. 10
+
+1.C.1
+
+FINANCIAL IMPACT
+The attached presentation provides an update on the current financial status and future financial
+challenges for RTD.
+ATTACHMENTS:
+•
+
+Federal COVID-19 Relief Funding and RTD Financial Outlook
+
+(PDF)
+
+Prepared by:
+Debra Johnson, General Manager and CEO
+Doug MacLeod, Acting Chief Financial Officer
+Approved by:
+
+Authorized:
+
+Packet Pg. 11
+
+Attachment: Federal COVID-19 Relief Funding and RTD Financial Outlook (4508 : COVID-
+
+1.C.1.a
+
+Federal COVID-19 Relief
+Funding and RTD Financial
+Outlook Updates
+Debra A. Johnson, General Manager and CEO
+Doug MacLeod, Acting Chief Financial Officer
+
+April 7, 2021
+
+Packet Pg. 12
+
+Outline
+
+
+
+
+
+
+
+April 7, 2021
+
+Attachment: Federal COVID-19 Relief Funding and RTD Financial Outlook (4508 : COVID-
+
+1.C.1.a
+
+2 Pg. 13
+Packet
+
+Federal COVID-19
+Relief Funding
+Update
+
+April 7, 2021
+Attachment: Federal COVID-19 Relief Funding and RTD Financial Outlook (4508 : COVID-
+
+1.C.1.a
+
+Packet Pg. 14
+
+1.C.1.a
+
+Attachment: Federal COVID-19 Relief Funding and RTD Financial Outlook (4508 : COVID-
+
+RTD’s Federal COVID-19 Relief Funding
+Apportionments
+
+• March 2020: $232.3 million Coronavirus Aid, Relief and Economic Security (CARES) Act
+• January 2021: $203.4 million Coronavirus Response and Relief Supplemental Appropriations
+Act (CRRSAA)
+
+•
+
+April 7, 2021
+
+American Rescue Plan Act (ARPA)
+
+4 Pg. 15
+Packet
+
+1.C.1.a
+
+Attachment: Federal COVID-19 Relief Funding and RTD Financial Outlook (4508 : COVID-
+
+RTD’s Federal COVID-19 Relief Funding
+Apportionments – CARES Act
+
+•
+Expenditures
+Represented Employee Wages and Benefits
+Non-represented Employee Wages and Benefits
+Contracted Bus Service
+Contracted Rail Service
+Total
+
+April 7, 2021
+
+$
+
+125,604,047
+21,304,873
+36,380,870
+48,964,156
+
+$
+
+232,253,946
+
+5 Pg. 16
+Packet
+
+1.C.1.a
+
+Attachment: Federal COVID-19 Relief Funding and RTD Financial Outlook (4508 : COVID-
+
+RTD’s Federal COVID-19 Relief Funding
+Apportionments – CRRSAA
+•
+•
+•
+
+Planned
+Expenditures
+Total cost of operations funding for six runboards beginning June 2021
+$
+Restoration of 2021 overtime and extra shift pay
+Elimination of 2021 non-represented employee six furlough days
+Elimination of 2021 non-represented employee tiered pay reductions
+Restoration of 2021 non-represented employee PTO/vacation/sick cash-outs
+Funds available for state performance audit, Accountability Committee
+recommendations, APTA peer review recommendations, etc.
+Total
+
+April 7, 2021
+
+$
+
+180,000,000
+4,446,809
+1,734,942
+886,550
+2,401,009
+13,898,218
+203,367,528
+6 Pg. 17
+Packet
+
+1.C.1.a
+
+Attachment: Federal COVID-19 Relief Funding and RTD Financial Outlook (4508 : COVID-
+
+RTD’s Federal COVID-19 Relief Funding
+Apportionments – ARPA
+
+•
+•
+•
+▸
+▸
+
+▸
+
+•
+April 7, 2021
+
+7 Pg. 18
+Packet
+
+Attachment: Federal COVID-19 Relief Funding and RTD Financial Outlook (4508 : COVID-
+
+1.C.1.a
+
+RTD’s Fiscal Policy
+and the Board’s
+Funding Priorities
+
+April 7, 2021
+
+Packet Pg. 19
+
+1.C.1.a
+
+Attachment: Federal COVID-19 Relief Funding and RTD Financial Outlook (4508 : COVID-
+
+RTD’s Fiscal Policy and the Board’s Guiding
+Principles
+
+
+
+
+
+
+
+
+
+April 7, 2021
+
+9 Pg. 20
+Packet
+
+RTD’s Financial
+Outlook
+
+April 7, 2021
+Attachment: Federal COVID-19 Relief Funding and RTD Financial Outlook (4508 : COVID-
+
+1.C.1.a
+
+Packet Pg. 21
+
+RTD’s Financial Outlook - Background
+
+
+
+
+
+
+
+April 7, 2021
+
+Attachment: Federal COVID-19 Relief Funding and RTD Financial Outlook (4508 : COVID-
+
+1.C.1.a
+
+11 Pg. 22
+Packet
+
+RTD’s Financial Outlook – Current Status
+
+New Funding Sources (in millions)
+
+2021
+
+2022
+
+Additional beginning reserves
+March 2021 sales and use tax forecast
+Debt refinancing interest savings
+CRRSAA grant funding
+ARPA grant funding
+
+$ 118.7
+28.0
+23.6
+203.4
+169.2
+
+29.9
+15.3
+169.3
+
+$ 542.9
+
+$ 214.5
+
+Total
+
+April 7, 2021
+
+2023
+
+$
+
+2024
+
+2025
+
+2026
+
+Total
+
+21.4
+34.6
+-
+
+16.0
+34.3
+-
+
+12.6
+30.3
+-
+
+6.8
+2.0
+-
+
+$ 118.7
+114.7
+140.1
+203.4
+338.5
+
+56.0
+
+$ 50.3
+
+$ 42.9
+
+8.8
+
+$ 915.4
+
+$
+
+12 Pg. 23
+Packet
+
+Attachment: Federal COVID-19 Relief Funding and RTD Financial Outlook (4508 : COVID-
+
+1.C.1.a
+
+RTD’s Financial Outlook – Current Status
+2021
+
+2022
+
+$ 542.9
+
+$ 214.5
+
+CRRSAA grant fund use
+Fares trending lower than budget/MTFP
+
+(67.8)
+(40.0)
+
+Funds remaining before unknowns
+
+Funding Sources (in millions)
+
+2023
+
+2024
+
+2025
+
+2026
+
+Total
+
+56.0
+
+$ 50.3
+
+$ 42.9
+
+$
+
+8.8
+
+$ 915.4
+
+(101.7)
+(44.0)
+
+(33.9)
+(68.0)
+
+(63.0)
+
+(57.0)
+
+(84.0)
+
+(203.4)
+(356.0)
+
+435.1
+
+68.8
+
+(45.9)
+
+(12.7)
+
+(14.1)
+
+(75.2)
+
+356.0
+
+(59.8)
+
+(41.7)
+
+(57.1)
+
+(63.1)
+
+(19.6)
+(19.7)
+
+(19.4)
+3.3
+
+(39.0)
+(238.1)
+-
+
+$ 375.3
+
+$ 27.1
+
+$ (103.0)
+
+$ (75.8)
+
+$ (53.4)
+
+$ (91.3)
+
+$ 78.9
+
+$
+
+Funding Uses (in millions)
+
+Possible DTP litigation settlement
+2025 TABOR Base System "Ratchet Down"
+Eliminate use of FasTracks Reserves
+ARPA grant fund use
+Net Funds Remaining
+
+April 7, 2021
+
+13 Pg. 24
+Packet
+
+Attachment: Federal COVID-19 Relief Funding and RTD Financial Outlook (4508 : COVID-
+
+1.C.1.a
+
+RTD’s Financial Outlook - Summary
+
+
+
+
+
+
+
+
+
+
+
+April 7, 2021
+
+Attachment: Federal COVID-19 Relief Funding and RTD Financial Outlook (4508 : COVID-
+
+1.C.1.a
+
+14 Pg. 25
+Packet
+
+Thank you.
+
+rtd-denver.com
+Attachment: Federal COVID-19 Relief Funding and RTD Financial Outlook (4508 : COVID-
+
+1.C.1.a
+
+Packet Pg. 26
+
+1.C.2
+
+BOARD OF DIRECTORS DISCUSSION ITEM
+Committee Meeting Date:
+April 13, 2021
+
+Sales and Use Tax Forecast Presentation
+
+STAFF REPRESENTATIVE
+Doug MacLeod, Acting Chief Financial Officer
+PRESENTATION LENGTH
+15 minutes
+BACKGROUND
+RTD’s Fiscal Policy requires that:
+RTD will contract with a qualified third party to provide sales and use tax forecasting containing
+projections for the short-term (one year by quarter), mid-term (six-year Mid-Term Financial Plan period)
+and long-term (30-year Long Range Financial Plan period). The purpose is to provide RTD with expert
+economic analysis and sales and use tax forecasts using sophisticated financial modeling techniques not
+available internally.
+As such, RTD has contracted with the Business Research Division of the University of Colorado Leeds
+School of Business (CU Leeds) to provide semi-annual sales and use tax forecast model reports in March
+and September to coincide with the development of RTD’s annual budget and six-year Mid-term
+Financial Plan (MTFP). The provision of the forecast model report is followed by a presentation to the
+RTD Board by CU Leeds in April and October.
+DISCUSSION
+RTD utilized the September 2020 sales and use tax forecast in the 2021-2026 MTFP of which the Board
+approved years of 2021-2022 while declining to approve years 2023-2026 due to the uncertainty
+resulting from the COVID-19 Pandemic.
+The March 2021 Forecast Model Report reflects a projected improvement from the September forecast
+in RTD’s sales and use taxes through 2029 and a reduction in years 2030-2050.
+
+FINANCIAL IMPACT
+The March 2021 Forecast Model Report results in the following changes to the sales and use tax
+forecast from the September 2020 Forecast Model Report:
+2021 Budget
+2021-2026 MTFP
+2021-2050 Long-range Financial Plan
+
+$
+$
+$
+
+27,961,629
+114,732,238
+(695,148,182)
+
+Packet Pg. 27
+
+1.C.2
+
+March 2021 vs. September 2020 Sales and Use Tax Forecast
+$1,800,000,000
+
+$1,600,000,000
+
+$1,400,000,000
+
+$1,200,000,000
+
+$1,000,000,000
+
+$800,000,000
+
+$600,000,000
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+2028
+
+2029
+
+2030
+
+2031
+
+2032
+
+2033
+
+2034
+
+March 2021
+
+2035
+
+2036
+
+2037
+
+2038
+
+2039
+
+2040
+
+2041
+
+2042
+
+2043
+
+2044
+
+2045
+
+2046
+
+2047
+
+2048
+
+2049
+
+2050
+
+September 2020
+
+ATTACHMENTS:
+•
+
+RTD Sales and Use Tax Presentation
+
+(PDF)
+
+•
+
+RTD_Forecast_Model_March_2021
+
+(PDF)
+
+Prepared by:
+Doug MacLeod, Acting Chief Financial Officer
+Approved by:
+
+Authorized:
+
+Packet Pg. 28
+
+Attachment: RTD Sales and Use Tax Presentation (4509 : Sales and Use Tax Forecast
+
+1.C.2.a
+
+RTD Sales and Use Tax Forecast
+March 2020
+
+Richard Wobbekind
+Robert McNown
+Miles Light
+Jacob Dubbert
+Brian Lewandowski
+Business Research Division
+University of Colorado Boulder
+
+Packet Pg. 29
+
+April 13, 2021
+
+U.S. Real GDP
+State and local
+Federal
+Investment
+
+21.0
+
+20.0
+Consumption
+
+$ Trillions
+
+Q4 2019
+Q1
+
+Net Exports
+
+19.0
+
+Q3
+
+Q4
++4.3% SAAR
+-2.4% YoY
+
+18.0
+
+-31.4% SAAR
+-9% YoY
+Q3 2020
+
+17.0
+
++33.1% SAAR
+-2.9% YoY
+
+16.0
+
+15.0
+Q1 2015
+
+Q4 2015
+
+Q3 2016
+
+Q2 2017
+
+Q1 2018
+
+Q4 2018
+
+Q3 2019
+
+Q2 2020
+
+Source: Bureau of Economic Analysis and Consensus Forecasts.
+
+Q1 2021
+
+Q4 2021
+
+Q3 2022
+Packet Pg. 30
+
+Attachment: RTD Sales and Use Tax Presentation (4509 : Sales and Use Tax Forecast
+
+1.C.2.a
+
+1.C.2.a
+
+Attachment: RTD Sales and Use Tax Presentation (4509 : Sales and Use Tax Forecast
+
+U.S Nonfarm Employment
+155
+Feb. 2020
+152.5 million
+March 2020
+151.1 million
+
+Millions of Jobs
+
+150
+
+145
+
+March 2021
+144.1 million
+Jan. 2017
+145.6 million
+
+140
+DETAIL
+
+135
+0
+
+April 2020
+130.3 million
+
+130
+2017
+
+2018
+
+2019
+Source: Bureau of Labor Statistics, CES (Seasonally Adjusted).
+
+2020
+
+2021
+Packet Pg. 31
+
+National Employment
+Months to Recovery
+Percent
+2.0
+0.0
+
+1980 1974-76
+
+1990-93 1981-83
+
+-5.5%
+
+-6.3%
+
+2008-2014
+
+2001-05
+
+-2.0
+-4.0
+
+2020
+
+-6.0
+-8.0
+-10.0
+-12.0
+-14.0
+-16.0
+0
+
+6
+
+12
+
+18
+
+24
+
+30
+
+36
+
+42
+
+48
+
+54
+
+60
+
+66
+
+72
+
+Number of Months Since Peak
+Source: Bureau of Labor Statistics (Seasonally Adjusted).
+
+Packet Pg. 32
+
+Attachment: RTD Sales and Use Tax Presentation (4509 : Sales and Use Tax Forecast
+
+1.C.2.a
+
+Attachment: RTD Sales and Use Tax Presentation (4509 : Sales and Use Tax Forecast
+
+Employment Growth
+
+1.C.2.a
+
+1-Year Growth, February 2021
+
+Source: Bureau of Labor Statistics, Current Employment Statistics (Seasonally Adjusted).
+
+Packet Pg. 33
+
+Employment by MSA
+
+Attachment: RTD Sales and Use Tax Presentation (4509 : Sales and Use Tax Forecast
+
+1.C.2.a
+
+1-Year Change, February 2021
+15%
+10%
+
+Percent Change
+
+5%
+
+Fort Collins
+Colorado
+Springs
+
+Pueblo
+Denver-Aurora-Lakewood
+
+Boulder Greeley
+
+Grand Junction
+
+0%
+-5%
+
+-10%
+-15%
+-20%
+Source: Bureau of Labor Statistics, Current Employment Statistics (Seasonally Adjusted).
+
+Packet Pg. 34
+
+Personal Income and Savings
+$20
+
+100%
+
+Personal Income (L-Axis)
+Personal Consumption Expenditures (L-Axis)
+Personal Savings Rate (R-Axis)
+
+90%
+80%
+70%
+
+$15
+
+60%
+50%
+
+$10
+
+40%
+
+30%
+$5
+
+20%
+10%
+
+$0
+2006
+
+Percent, Seasonally Adjusted Annual Rate
+
+Trillions, Seasonally Adjusted Annual Rate
+
+$25
+
+0%
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+Sources: Bureau of Economic Analysis, Federal Reserve.
+
+2017
+
+2018
+
+2019
+
+2020
+
+Attachment: RTD Sales and Use Tax Presentation (4509 : Sales and Use Tax Forecast
+
+1.C.2.a
+
+2021
+
+Packet Pg. 35
+
+National Retail and Food Services Sales
+
+February 2021:
++6.3% year-over-year
+-3%% from prior month
+
+700,000
+600,000
+
+$ Millions
+
+500,000
+-22.1%
+peak to trough,
+5 months to return to peak
+
+400,000
+300,000
+
+-13%
+peak to trough,
+41 months to return to
+peak
+
+200,000
+100,000
+0
+2005
+
+Attachment: RTD Sales and Use Tax Presentation (4509 : Sales and Use Tax Forecast
+
+1.C.2.a
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+Source: U.S. Census Bureau.
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+Packet Pg. 36
+
+Sales Tax Collections
+
+Year to Date Growth Figures
+
+January, Trailing 12 Months: 0.9%
+Month YoY: -3.3%
+
+350
+
+3,500
+
+300
+
+3,000
+
+250
+
+2,500
+
+200
+
+2,000
+
+150
+
+1,500
+
+100
+
+1,000
+
+50
+
+500
+
+0
+
+0
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+$, 12-Month Sum
+
+$ Millions, Month
+
+Colorado
+
+RTD
+
+-2.6%
+
+Denver Metro (Dec.)
+
+-4.7%
+
+City of Boulder (Dec.)
+
+-8.8%
+
+Louisville (Dec.)
+
+-2.9%
+
+Longmont (Dec.)
+
+4.3%
+
+Superior (Nov.)
+
+18.1%
+
+Lone Tree (Dec.)
+
+-23.2%
+
+Fort Collins (Dec.)
+
+-3.3%
+
+Greeley (Dec.)
+
+-6.7%
+
+Thornton (Dec.)
+
+5.5%
+
+Grand Junction (Dec.)
+
+-2.6%
+
+Colorado Springs (Dec.)
+
+-0.15%
+
+Pueblo (Dec.)
+Sources: Individual City and State revenue websites.
+
+Attachment: RTD Sales and Use Tax Presentation (4509 : Sales and Use Tax Forecast
+
+1.C.2.a
+
+Colorado (Dec.)
+
+2.9%
+Packet Pg. 37
+
+2.3%
+
+1.C.2.a
+
+Attachment: RTD Sales and Use Tax Presentation (4509 : Sales and Use Tax Forecast
+
+Telework Due to Pandemic
+Telework Percent
+
+Industry
+40%
+
+Prof. and tech services
+Finance
+
+35%
+
+Information
+Education
+
+30%
+
+Public admin
+Real estate
+Mining
+
+25%
+
+Wholesale trade
+Manufacturing
+
+20%
+
+Arts, ent., and rec.
+Health care
+
+15%
+
+Mgmt and admin
+Other services
+Trans and utilities
+
+10%
+
+Pandemic Peak (May)
+
+Retail trade
+Construction
+
+January 2021
+
+Agriculture
+Accomm and food
+
+0%
+
+5%
+0%
+
+20%
+
+40%
+
+60%
+
+May
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+Dec
+
+Jan
+
+Packet
+Pg. 38
+Source: Bureau of Labor Statistics, Current Population Survey (CPS) Supplemental
+Data.
+
+RTD Forecast
+National Economic Indicators:
+Baseline Scenario
+
+Attachment: RTD Sales and Use Tax Presentation (4509 : Sales and Use Tax Forecast
+
+1.C.2.a
+
+Consumer Percent
+Percent
+Unemployment
+Year
+Price
+Change
+Change
+Rate
+Inflation Retail Sales Real GDP
+
+Emp.
+Percent
+Change
+
+Personal
+Income
+
+2018a
+
+2.44
+
+4.73
+
+3.00
+
+3.89
+
+1.57
+
+5.33
+
+2019a
+
+1.81
+
+3.51
+
+2.16
+
+3.67
+
+1.35
+
+3.92
+
+2020a
+
+1.25
+
+0.40
+
+-3.49
+
+8.10
+
+-5.73
+
+6.33
+
+2021
+
+2.12
+
+9.31
+
+4.86
+
+6.08
+
+1.72
+
+5.56
+
+2022
+
+2.63
+
+3.44
+
+5.21
+
+4.89
+
+3.24
+
+0.40
+
+2023
+
+2.66
+
+3.50
+
+3.14
+
+4.22
+
+2.10
+
+5.29
+
+2024
+
+2.47
+
+2.99
+
+2.29
+
+4.22
+
+1.02
+
+4.68
+
+2025
+
+2.37
+
+3.32
+
+2.12
+
+4.24
+
+0.58
+
+4.41
+
+2026
+
+2.21
+
+3.10
+
+1.87
+
+4.34
+
+0.53
+
+4.48
+
+2027
+
+2.12
+
+2.89
+
+2.00
+
+4.34
+
+0.51
+
+4.67
+
+a
+
+Historical data. Note: Represents annual averages of the month-to-month growth rate.
+
+Note: Baseline Forecast uses Moody’s Baseline Scenario.
+
+Packet Pg. 39
+
+Baseline RTD Forecast
+Forecasts of RTD Revenues ($): Baseline Scenario
+Year
+2018a
+2019a
+2020a
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+a
+
+Sales Tax
+Revenues
+569,171,005
+604,792,921
+589,175,971
+633,931,436
+669,927,945
+703,303,804
+732,800,649
+763,837,507
+794,907,575
+827,494,766
+
+Use Tax
+Revenues
+65,020,818
+54,625,311
+43,488,707
+49,071,545
+56,284,246
+58,368,833
+60,187,243
+61,743,829
+63,098,776
+64,343,601
+
+Total RTD
+Revenues
+634,191,824
+659,418,232
+632,664,678
+683,002,980
+726,212,191
+761,672,637
+792,987,892
+825,581,336
+858,006,350
+891,838,367
+
+Percent Change in RTD Revenues
+Sales Tax Use Tax Total Tax
+Revenues Revenues Revenues
+4.2
+25.7
+6.0
+2018a
+6.3
+-16.0
+4.0
+2019a
+-2.6
+-20.4
+-4.1
+2020a
+7.6
+12.8
+8.0
+2021
+5.7
+14.7
+6.3
+2022
+5.0
+3.7
+4.9
+2023
+4.2
+3.1
+4.1
+2024
+4.2
+2.6
+4.1
+2025
+4.1
+2.2
+3.9
+2026
+4.1
+2.0
+3.9
+2027
+Year
+
+Historical data.
+
+Note: Baseline Forecast uses Moody’s Baseline Scenario.
+
+Packet Pg. 40
+
+Attachment: RTD Sales and Use Tax Presentation (4509 : Sales and Use Tax Forecast
+
+1.C.2.a
+
+Medium-Term Scenario Analysis
+1,000
+
+High Forecast
+
+950
+Optimistic
+
+Nominal, Millions of Dollars
+
+Attachment: RTD Sales and Use Tax Presentation (4509 : Sales and Use Tax Forecast
+
+1.C.2.a
+
+900
+
+Baseline
+Pessimistic
+
+850
+Low Forecast
+
+800
+750
+700
+650
+600
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+Packet Pg. 41
+
+Long Term Forecast, Current Dollars
+2,200
+High Forecast
+
+2,000
+
+Nominal, Millions of Dollars
+
+1,800
+
+Medium
+Forecast
+
+1,600
+1,400
+1,200
+
+Low Forecast
+
+Average Annual Percentage Rates of Growth,
+Nominal Dollars
+2011-2020a
+2021-2030
+2031-2040
+2041-2050
+
+CO Retail
+Sales
+4.96
+3.89
+2.96
+2.51
+
+2021-2050
+
+3.12
+
+Years
+
+CO Taxable RTD Taxable
+Sales
+Sales
+2.31
+4.76
+5.52
+4.01
+3.12
+2.97
+2.52
+2.51
+
+1,000
+800
+
+3.71
+
+3.16
+
+600
+400
+2015
+
+2020
+
+2025
+
+2030
+
+2035
+
+2040
+
+2045
+
+Attachment: RTD Sales and Use Tax Presentation (4509 : Sales and Use Tax Forecast
+
+1.C.2.a
+
+2050
+Packet Pg. 42
+
+Integrity of Model Forecasts
+•
+
+Forecasts are updated to reflect the most current economic situation.
+
+•
+
+Forecasts may be too high or too low, reflecting uncertainty in the economy.
+
+•
+
+Forecasts are generated from theoretically sound economic relations, modeled with state-ofthe-art methods of modern econometric time series analysis.
+
+•
+
+BRD forecasts do not incorporate “add factors” or other subjective adjustments of model
+forecasts.
+
+•
+
+BRD is independent from RTD with no political or financial stake in the forecast numbers.
+
+Packet Pg. 43
+
+Attachment: RTD Sales and Use Tax Presentation (4509 : Sales and Use Tax Forecast
+
+1.C.2.a
+
+Q&A
+Attachment: RTD Sales and Use Tax Presentation (4509 : Sales and Use Tax Forecast
+
+1.C.2.a
+
+Packet Pg. 44
+
+1.C.2.b
+
+RTD Forecast Model
+Short, Medium, and Long-Term Econometric
+Forecasts of RTD Sales and Use Tax Revenues:
+March 2021 Update
+Authors: Robert McNown, Miles Light, Brian Lewandowski,
+Richard Wobbekind, Jacob Dubbert
+
+March 2021
+
+Packet Pg. 45
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Business Research Division (BRD)
+Leeds School of Business, University of Colorado
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Table of Contents
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Table of Contents............................................................................................................................................................... i
+Glossary of Terms .............................................................................................................................................................1
+Executive Summary ..........................................................................................................................................................2
+Project Overview ..............................................................................................................................................................5
+Forecasts: Short Term, Medium Term and Long Term .....................................................................................................6
+Short-Term Forecasts....................................................................................................................................................6
+Medium-Term Forecasts .............................................................................................................................................10
+Long-Term Forecasts...................................................................................................................................................18
+Forecast Evaluation.........................................................................................................................................................24
+Appendix A: Models for the Three Forecast Horizons ....................................................................................................25
+Key Econometric Concepts .........................................................................................................................................25
+Comparisons and Linkages between the Three Models .............................................................................................26
+The Input Data—Sources and Description..................................................................................................................28
+Appendix B: Yearly Revenue Forecasts, 2015–2050 .......................................................................................................36
+Appendix C: A Qualitative Assessment of Colorado’s Economy .....................................................................................39
+Appendix D: Prolonged Recession Scenario ...................................................................................................................46
+
+Business Research Division
+
+March 17, 2021
+
+i
+
+Packet Pg. 46
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Nominal Variables:
+
+Refer to data in actual, current dollars. The value expressed in the money of
+the day.
+
+Real Variables:
+
+Refer to data in inflation-adjusted terms.
+
+Current Dollar Values: Refer to data in actual, current dollars. The value expressed in the money of
+the day. (Same as “nominal”)
+Cointegrating Relation: The long-run equilibrium relation between two or more variables.
+Error Correction Model: The dynamic relation between variables that follow a cointegrating relation.
+Vector Autoregression: A general category of time-series models that incorporates dynamic
+relations among two or more variables.
+
+Business Research Division
+
+March 17, 2021
+
+1
+Packet Pg. 47
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Glossary of Terms
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Colorado recorded its first COVID-19 case on March 5, 2020. One week later, school districts began
+to announce closures, followed by ski resorts on March 15th; the statewide stay-at-home orders took
+effect March 25. The pandemic-induced recession had a swift, negative impact on RTD sales and use
+taxes in 2020. While January and February recorded moderate year-over-year growth of 4.9% and
+4%, respectively, March gave way to a 17% decline in year-over-year revenue as consumers became
+cautious with the unknowns about the spread of the virus and the government instituted the
+temporary closure of businesses. RTD sales and use tax revenue declined 4.1% in 2020. A revenue
+recovery is projected for RTD in 2021, with forecasted growth of 8% that will push revenue to a new
+record level.
+Figure 1
+
+RTD revenues are collected primarily within seven metropolitan counties (the “district”): Adams,
+Arapahoe, Boulder, Broomfield, Denver, Douglas, and Jefferson, as well as a portion of Weld County.
+Colorado and the Denver Metro region posted strong, above average economic growth following the
+2007-2009 “Great Recession.” RTD recorded 10 consecutive years of sales and use tax growth
+averaging 5.9% between 2010 and 2019. The pandemic recession created a drop in GDP, led to an
+unprecedented decline in employment, and caused a sharp decrease in RTD revenue. The economy,
+labor market, and RTD revenue are all showing signs of recovery.
+A model was developed to examine fundamental relationships between U.S. and Colorado economic
+growth, and between Colorado and the district. It forecasts short-term, medium-term, and longterm RTD sales and use tax revenue, and accounts for economic and demographic (e.g., population
+age) shifts over time.
+Economic Update
+•
+•
+
+The COVID-19 pandemic created a sharp and profound negative impact upon the economy.
+Real (inflation-adjusted) U.S. GDP in Q2 2020 decreased at a seasonally adjusted annual rate
+(SAAR) of 31.4% (9% year-over-year), but rebounded 33.4% (SAAR) in Q3 2020 (-2.8% yearover-year) and 4.1% in Q4 2020 (-2.4% year-over-year). Real GDP in 2021 is projected to
+increase 4.9%, reaching a new record high, but remaining below potential GDP.
+
+Business Research Division
+
+March 17, 2021
+
+2
+Packet Pg. 48
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Executive Summary
+
+1.C.2.b
+
+•
+
+•
+•
+
+•
+
+Despite the recession and record losses in employment and wage and salary income,
+personal income posted strong gains in 2020 due to a record increase in government
+transfer receipts (e.g., unemployment benefits, household stimulus checks).
+The increase in personal income and the lack of spending on services shifted personal
+consumption to goods, which softened the recession’s impact on taxable goods in Colorado.
+Nationally, 22.2 million jobs were lost in March and April (-14.5%). From May 2020 through
+February 2021, the nation added back 12.9 million jobs, but total employment remained
+down 6.2% from the peak.
+Consumer and business sentiment both dropped significantly since the onset of the
+pandemic on the U.S. economy, but confidence has rebounded as the economy reopened.
+
+Short-Term Outlook
+•
+
+•
+
+•
+
+•
+
+•
+•
+•
+
+•
+•
+•
+
+RTD sales and use tax revenue increased 6% in 2018 and 4% in 2019. Revenue subsequently
+declined by 4.1% in 2020, due to the pandemic. Revenue is projected to rebound in 2021,
+growing 8% to a record-high $683 million.
+Coming off a recession year, employment is projected to increase 1.8% in 2021 and 4.2% in
+2022. Statewide total personal income was unaffected by the recession due to government
+assistance; personal income growth accelerated an estimated 6.4% in 2020 and is projected
+to increase 5.3% in 2021. The unemployment rate is projected to average 6.5% in 2021 and
+to improve further to 4.5% in 2022.
+The Governor’s Executive Order that extended the retail sales tax filing deadline and waived
+penalties caused a delay in the RTD’s sales and use tax collections early in the pandemic.
+This suggested a more pronounced decline in RTD revenue than actually occurred as delayed
+revenue showed up as late payments.
+The forecasting model also provides information on uncertainty that is inherent in any
+forecast through construction of confidence bounds on total RTD revenues. The mean
+forecast for 2021 of $683 million is bracketed by 67% confidence bounds of $666 million on
+the low side and $700 million for the upper bound.
+The mean forecast for 2022 is $726 million, bound by a lower bound of $701 million and an
+upper bound of $751 million.
+The 67% upper- and lower-bound estimates illustrate the broad uncertainty behind
+economic conditions that pose upside opportunities and downside risks to the forecast.
+Quarterly growth exhibits more volatility than annual growth, and use taxes are more
+volatile than sales taxes. The third and fourth quarters tend to be the largest revenue
+quarters for RTD.
+Forecasts of national indicators that are used to drive state and district forecasts come from
+Moody’s Analytics.
+The September 2020 revenue forecasts for Q3 and Q4 2020 were low by 2.8% and 4.1%,
+respectively, illustrating the rapid recovery of revenue in the second half of 2020.
+The government response to this pandemic reversed the usual paradigm. Instead of
+declining income, the direct government transfers resulted in sharply higher household
+income and spending than the model predicted. Thus, sales tax revenue outperformed
+expectations.
+
+Business Research Division
+
+March 17, 2021
+
+3
+Packet Pg. 49
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+RTD Sales and Use Tax Forecasting Model
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+•
+
+For the short-term forecast, the BRD estimates have been above the actual revenue 73
+times and below the actual revenue 84 times, and a simple average of the error has been 0.8%, with a 4.4% standard deviation (including the rapid revenue swings during the
+pandemic recession).
+
+•
+•
+
+•
+
+•
+•
+
+•
+•
+•
+•
+
+The impact of COVID-19 on the retail and restaurant industries, employment, income, and
+tourism weighed heavily on retail sales activity.
+The past two post-recession recovery periods lasted 4.5 years and 4.75 years, before RTD
+revenues returned to their previous revenue peaks. However, RTD will likely surpass the
+prior revenue peak after just two years (2020 and 2021) from the onset of the current
+recession due to both the nature of the recession and the government response.
+Modeling three economic scenarios helps to accommodate the broad uncertainty
+surrounding the U.S. economy. These scenarios may be taken as plausible bounds on RTD
+revenue growth over the medium-term period; the greatest variation in forecasts occurs
+during the first three years.
+Under the baseline scenario, RTD total tax revenues are projected to grow by 41% between
+2020 and 2027, reaching $892 million by the end of the medium-term horizon.
+A more optimistic scenario under which the national economy experiences a faster rebound
+yields cumulative revenues 3.2% higher than the baseline scenario over the seven-year
+horizon; however, the 2027 total is 4% above the baseline forecast, illustrating the value of a
+faster recovery.
+A second alternative scenario in which the national economy experiences slower growth in
+the near term yields a cumulative 7-year forecast 2.2% below the baseline scenario.
+The paradox of the 7-year forecast producing similar 2027 revenues points to the very shortrun nature of the current Moody’s alternative scenarios.
+There may be higher inflationary pressure on the horizon caused by excess household
+savings, high commodity prices, and a sudden tightening of the labor market.
+Reflecting on the forecast accuracy before the pandemic, the medium-term forecasts have
+proven to have a small margin of error. Five years out, the 2014 forecast for 2019 was high
+by 2.1%. The 2015 forecast for 2019 was high by 4.4%, the 2016 forecast for 2019 was low
+by 2.3%, the 2017 forecast for 2019 was low by 1.7%, and the 2018 forecast for 2019 was
+high by 1.4%.
+
+Long-Term Outlook
+•
+
+•
+•
+
+After revenue growth of 4.75% for the decade ending in 2020 (in current, nominal dollars),
+revenue projections for the next three decades average 4% (2021–2030), 3% (2031–2040),
+and 2.5% (2041–2050); the 30-year average is 3.2% (2021–2050).
+Long-term revisions are due, in part, to lower expectations in the short-term forecast, as
+well as revisions to the long-term population forecasts.
+The BRD long-term forecasting model incorporates population growth and shifts in the age
+distribution of the population as key factors influencing the rate of growth in output,
+employment, and sales.
+
+Business Research Division
+
+March 17, 2021
+
+4
+Packet Pg. 50
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Medium-Term Outlook
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Project Overview
+
+The BRD collaborates with the RTD administration in order to forecast sales and use tax revenues,
+and to identify the key drivers that will impact RTD’s tax revenue stream. Since project inception, the
+BRD research team has been working closely with the RTD administration in order to better
+understand the existing forecast system, to collect and organize relevant data, and to develop the
+three sets of projections.
+This report presents the revenue projections at the three forecast horizons, with some discussion of
+the economic forces driving these forecasts. The model uses vector autoregression (VAR) techniques
+in order to capture a mix of long-term, stable relationships, as well as short-term “deviations” from
+these long-term trends. These relationships connect RTD tax revenue components to key
+macroeconomic drivers, such as retail sales. The methodology is described in detail in the main body
+of this report.
+RTD revenue data, state retail sales, and state taxable sales are available through December 2020.
+Data after these dates represent forecasts. Additional revenue from medical and retail marijuana
+sales are in the RTD receipts. Adjustments to the model were necessary to accommodate the gap
+year (July 1, 2017–June 30, 2018) in retail marijuana collections caused by Senate Bill 17-267. As
+such, RTD taxable sales in this report are based on RTD sales tax revenues excluding retail marijuana
+taxes. Therefore, these data are actually RTD taxable sales excluding marijuana sales. However, the
+forecasts reported for RTD sales tax revenues include the forecasts of RTD retail marijuana revenues.
+This construction was necessary to produce a series without the discontinuity over the period from
+July 2017 through June 2018 to produce reasonable revenue forecasts.
+In 2016, revenue from Electronic Shopping and Mail-Order Houses (i.e., ecommerce) became a
+significant contributor to RTD’s sales tax revenue. Ecommerce accounted for over 8% of the total
+sales taxes collected in 2020.
+Given the pandemic recession’s impact on specific sectors of the economy, the BRD began modeling
+major components of RTD’s sales taxes (e.g., restaurants, auto sales, ecommerce, grocery, etc.).
+Modeling the components of retail sales taxes will produce a forecast that accommodates the
+volatility in the subcomponents.
+The methodology and model descriptions may be found in Appendix A.
+
+Business Research Division
+
+March 17, 2021
+
+5
+Packet Pg. 51
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+In an effort to provide consistent and accurate RTD revenue forecasts, a new sales and use tax
+forecasting system was commissioned in 2010. The Business Research Division (BRD) of the Leeds
+School of Business at the University of Colorado Boulder was contracted to develop a model for
+projecting RTD revenues over the short term (2020), medium term (2027), and long term (2050).
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Forecasts: Short Term, Medium Term and Long Term
+
+Summary: Following the Great Recession, RTD recorded 10 consecutive years of sales and use tax
+growth averaging 5.9% (2010-2019). The pandemic-induced recession caused RTD sales and use tax
+revenue to decline 4.1% in 2020. After posting 4% year-over-year growth in February, the
+deterioration in revenue took hold in March with a 17% year-over-year decrease. RTD recorded yearover-year losses nine months in 2020. A revenue recovery is projected for RTD in 2021, with
+forecasted growth of 8% that will push revenue to a new record level.
+Figure 2
+
+All equations are estimated using monthly data to produce monthly forecasts that are aggregated
+into quarterly or yearly data. Historical data for Colorado and national economic variables were
+retrieved in February 2021, with much of the data current through December 2020. RTD revenue
+data and state retail sales and taxable sales data are current through December 2020. All reported
+data after these dates are forecasts.
+The short-term forecast relies on the Baseline Scenario from Moody’s Analytics. These national
+macroeconomic indicators drive the forecasts of the Colorado economy.
+Colorado Economy Forecasts
+As background to the revenue forecasts, data on Colorado economic indicators are presented in
+Table 1. Key indicators of Colorado economic activity reflect the COVID-19 economy in 2020, and the
+rebound in 2021. The unemployment rate averaged 7.1% in 2020, but is projected to improve to
+6.5% in 2021 and 4.5% in 2022. Personal income grew in 2020 despite the record loss in employment
+and employee earnings. Moderate nominal income growth is projected in the short-term, but real
+income growth will be comparatively modest due to inflation.
+
+Business Research Division
+
+March 17, 2021
+
+6
+Packet Pg. 52
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Short-Term Forecasts
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Table 1
+
+Colorado Economic Indicators
+Consumer
+Price Inflation
+1.95
+1.93
+2.70
+
+Year
+2020a
+2021
+2022
+
+Percent Change
+Retail Sales
+4.93
+10.21
+3.04
+
+Unemployment
+Rate
+7.07
+6.51
+4.49
+
+Percent Change
+Employment
+-4.30
+1.84
+4.21
+
+Historical data.
+
+Annual Tax Revenue Forecasts
+The following table presents the expected changes in RTD base sales tax revenues and the driving
+force behind these changes: taxable sales. From 2010 through 2019, district taxable sales recorded
+10 consecutive years of growth averaging 6.1%. Taxable sales fell 3% in 2020, but are projected to
+increase 7% in 2021 and 3.3% in 2022. Sales tax revenues are anticipated to change in stride, falling
+2.6% in 2020, but rebounding 7.6% and 5.7% in 2021 and 2022, respectively. Note that the model
+uses RTD sales tax revenue (less marijuana revenue) to impute taxable retail sales in the sevencounty RTD district because retail marijuana is no longer assessed the 2.9% retail sales tax rate for
+the state. However, retail marijuana is taxed 1% for the special districts, leading to a difference in
+taxable sales and sales taxes.
+Table 2
+District Taxable Retail Sales and RTD Base Sales Tax Revenues
+District Taxable District Taxable Retail
+Base Sales Tax Base Sales Tax Revenue
+Year
+Retail Sales
+Sales Percent Change Revenue Forecast
+Percent Change
+2020a 59,910,663,579
+-2.99
+353,505,582
+-2.58
+2021 64,101,261,533
+6.99
+380,358,861
+7.60
+2022 66,212,232,526
+3.29
+401,956,767
+5.68
+a
+
+Historical data.
+
+The Short-Term Use Tax Revenue Forecast
+In this model, use tax revenues are directly related to Colorado use tax collections reflecting the
+broader geographical base for the use tax. Households and businesses residing within the district but
+purchasing taxable goods outside the district are required to pay a use tax on these purchases at the
+same rate as the sales tax. Illustrating the volatility, use tax revenues fell 1.1% in 2015, but increased
+7.5% in 2016, 4.6% in 2017, and 25.7% in 2018 before falling 16% in 2019 and 14.3% in 2020. The
+forecast calls for rebounding use taxes in 2021 and 2022. The volatility of use taxes is apparent in
+both annual and quarterly data.
+Table 3
+
+CO Taxable Sales and Use Tax Revenues
+Year
+2020a
+2021
+2021
+a
+
+Percent Change
+in State Taxable
+Sales
+-0.9
+5.5
+3.2
+
+Percent Change
+in State Use
+Taxes
+-30.3
+33.0
+18.9
+
+RTD Base Use
+Tax Revenues
+26,093,224
+29,442,927
+33,770,548
+
+Percent Change in
+RTD Base Use
+Tax Revenue
+-14.3
+27.3
+27.3
+
+Historical data.
+
+Business Research Division
+
+March 17, 2021
+
+7
+Packet Pg. 53
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+a
+
+Percent Change
+Personal Income
+6.43
+5.29
+3.44
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Combining sales and use tax revenue forecasts, the BRD model projects total RTD revenue to
+increase 8% in 2021 and 6.3% in 2022, reflecting the near-term rebound in output, employment, and
+employee earnings.
+
+Forecasted Percent Changes of
+Sales, Use, and Total Revenues
+Year
+2020a
+2021
+2022
+a
+
+Sales Tax Use Tax
+Total
+Revenues Revenues Revenues
+-2.6
+-20.4
+-4.1
+7.6
+12.8
+8.0
+5.7
+14.7
+6.3
+
+Historical data.
+
+Upper- and Lower-Bound Estimates for Baseline Forecast
+The previous tables present only medium-level forecasts, which should be interpreted as the mean
+values within a range of probable outcomes. All forecasting exercises involve elements of
+uncertainty, although information about possible forecast errors is seldom presented. Uncertainty
+arises from the errors in equation specification and estimation, and from the forecasts of the
+national variables that drive the state variables. Although information on the latter source of
+uncertainty is not available, the probabilistic high and low forecast bounds that incorporate possible
+errors in fitting the equations are presented. The values of the high and low forecast bounds are
+computed as 67% confidence bounds, meaning that a 0.67 probability exists that the interval
+between low and high forecast values will contain the actual value of the variable being predicted.
+The following table displays the 67% confidence bounds on total RTD revenues through 2022. The
+wide 67% confidence interval reflects uncertainty. The possible range is as low as $665.7 million and
+as high as $699.8 million for 2021. The 2021 lower and upper bounds range -2.5% to +2.5% relative
+to the medium forecast. The confidence bound widens in 2022 with greater uncertainty. The 2022
+upper- and lower-bound estimates are -3.5% and +3.4% different than the medium baseline
+forecast, showing greater uncertainty one year out. This shows that it is not impossible or unrealistic
+that revenue could grow stronger over the next year relative to the medium forecast, as well as the
+exposure to the downside risk posed by economic threats.
+Table 5
+
+Upper and Lower Bound Forecasts
+of Total Revenues ($)
+Year
+2020a
+2021
+2022
+a
+
+Business Research Division
+
+Low
+Medium
+High
+Forecast
+Forecast
+Forecast
+632,664,678 632,664,678 632,664,678
+665,727,598 683,002,980 699,814,604
+701,072,206 726,212,191 751,173,335
+
+Historical data.
+
+March 17, 2021
+
+8
+Packet Pg. 54
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Table 4
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Quarterly Tax Revenue Forecasts
+More detailed information on the forecasts is provided by the quarterly figures. Quarterly growth
+was volatile in 2016, but proved much more stable in the years that followed (2017-2019). However,
+volatility was unmatched in 2020. For the remainder of the short-term forecast (through 2022), yearover-year growth will range between 4.3% and 12.4%.
+Table 6
+
+Quarter
+2020Q1a
+2020Q2a
+2020Q3a
+2020Q4a
+2021Q1
+2021Q2
+2021Q3
+2021Q4
+2022Q1
+2022Q2
+2022Q3
+2022Q4
+a
+
+Sales Tax
+Revenues
+130,903,757
+142,022,327
+156,520,420
+159,729,466
+146,291,263
+159,160,582
+163,598,569
+164,881,022
+154,598,600
+168,099,180
+172,819,077
+174,411,087
+
+Use Tax
+Revenues
+10,215,996
+9,920,836
+11,972,331
+11,379,545
+11,020,288
+11,628,412
+12,890,096
+13,532,749
+13,682,392
+13,663,947
+14,441,507
+14,496,401
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Sales, Use, and Total Tax Revenues ($)
+Total
+Revenues
+141,119,753
+151,943,163
+168,492,751
+171,109,011
+157,311,551
+170,788,993
+176,488,665
+178,413,771
+168,280,991
+181,763,127
+187,260,584
+188,907,488
+
+Historical data.
+
+Table 7
+
+Year-over-Year Percent Changes
+RTD Revenues
+Quarter
+2020Q1a
+2020Q2a
+2020Q3a
+2020Q4a
+2021Q1
+2021Q2
+2021Q3
+2021Q4
+2022Q1
+2022Q2
+2022Q3
+2022Q4
+a
+
+Total
+Sales Tax
+-0.02
+-5.51
+-2.27
+-2.25
+11.75
+12.07
+4.52
+3.23
+5.68
+5.62
+5.64
+5.78
+
+Total Use
+Tax
+-31.78
+-33.65
+-1.43
+-9.33
+7.87
+17.21
+7.67
+18.92
+24.16
+17.50
+12.04
+7.12
+
+Total Sales
+and Use Tax
+-3.28
+-8.06
+-2.21
+-2.75
+11.47
+12.40
+4.75
+4.27
+6.97
+6.43
+6.10
+5.88
+
+Historical data.
+
+The following table displays the 67% confidence bounds on total quarterly short-term RTD revenues.
+
+Business Research Division
+
+March 17, 2021
+
+9
+Packet Pg. 55
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Table 8
+
+Quarter
+2020Q1a
+2020Q2a
+2020Q3a
+2020Q4a
+2021Q1
+2021Q2
+2021Q3
+2021Q4
+2022Q1
+2022Q2
+2022Q3
+2022Q4
+a
+
+Low
+Forecast
+141,119,753
+151,943,163
+168,492,751
+171,109,011
+153,746,183
+166,707,004
+171,783,723
+173,490,687
+163,235,651
+175,853,513
+180,374,270
+181,608,772
+
+Medium
+Forecast
+141,119,753
+151,943,163
+168,492,751
+171,109,011
+157,311,551
+170,788,993
+176,488,665
+178,413,771
+168,280,991
+181,763,127
+187,260,584
+188,907,488
+
+High
+Forecast
+141,119,753
+151,943,163
+168,492,751
+171,109,011
+160,803,301
+174,835,347
+180,992,539
+183,183,417
+173,279,844
+187,507,035
+194,121,118
+196,265,338
+
+Historical data.
+
+Figure 3
+
+Medium-Term Forecasts
+Summary: The BRD short-term forecasting model is extended to produce forecasts over the time
+horizon through 2027. Using different assumptions about the future course of the national economy,
+three alternative projections are derived from the same equation specifications. Under the baseline
+scenario, which leverages the Baseline macroeconomic scenario from Moody’s Analytics, RTD total
+tax revenues are projected to grow by 41% from the end of 2020 to 2027.
+Two alternative scenarios produce variations in the short-term revenue forecast (1-3 years), but
+growth rates generally converge in the medium term (7 years). An alternative scenario in which the
+national economy experiences a stronger short-term growth pattern yields a 46.6% increase from
+2020-2027. Under stronger economic conditions, this scenario out-produces the baseline scenario
+nearly every year of the medium-term forecast. In the second alternative, in which the economy
+grows more slowly in the short run, there is a 38.2% increase between 2020 and 2027, with slower
+growth recorded in the first two years followed by faster growth in the remainder of the forecast. The
+Business Research Division
+
+March 17, 2021
+
+10
+Packet Pg. 56
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Upper and Lower Forecast Bounds Total
+Sales and Use Tax ($)
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+The BRD short-term forecasting model is adapted to produce forecasts over the medium-term
+horizon through 2027. This time frame has been chosen to conform to the RTD investment planning
+horizon for FasTracks. The specifications of the equations for these medium-term forecasts are the
+same as for the short-term model, and these are also estimated with monthly data.
+Over any medium-term period, the U.S. economy can be subjected to shocks producing outcomes
+that are difficult to anticipate. One reasonable way to present forecasts that incorporate the
+uncertainty about future policy or unpredictable economic shocks is to develop results for
+alternative scenarios. In addition to a baseline case, two alternative outcomes are presented: one
+allowing for stronger growth than the selected baseline and the other assuming generally slower
+economic growth. As an alternative method of incorporating uncertainty into the forecast, statisticsbased confidence bounds for the baseline scenario are also generated, producing high- and lowforecast bounds based on 67% confidence intervals.
+
+Baseline Sales and Use Tax Revenue Forecasts
+The Baseline RTD forecast is based on macroeconomic conditions described by Moody’s Analytics in
+the “Baseline Forecast”. Moody’s Baseline Forecast is constructed with a 50% probability that the
+U.S. economy will perform better and a 50% probability that it will underperform. This scenario
+assumes that COVID-19 cases has peaked, and the U.S. reaches herd immunity by September. The
+Fed commits to keeping interest rates low into 2023, and the latest round of Federal stimulus that
+helps households and businesses is built into this national forecast. Downside risks to this forecast
+include another spike in COVID cases that lead to another round of temporary business closures and
+delayed or suspended round of economic stimulus. Upside potential includes faster-than-expected
+herd immunity, and higher savings that supports potential consumer spending.
+Real GDP grows 4.9% in 2021 and 5.2% in 2022; the average through the medium-term forecast is
+3.1%. The unemployment rate improves to 6.1% in 2021 and falls well below 5% in 2023. Retail sales
+increase moderately through the medium term.
+
+Business Research Division
+
+March 17, 2021
+
+11
+Packet Pg. 57
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+differences in the cumulative revenue from 2020 to 2027 illustrate the impact of slower and faster
+growth in the short run. The optimistic scenario produces cumulative (2020-2027) revenue $176
+million above the baseline scenario, and the pessimistic scenario produces cumulative revenue $120
+million below the baseline scenario. These alternative scenarios allow for a reasonable degree of
+uncertainty about possible outcomes for the U.S. economy and may be taken as plausible bounds on
+RTD revenue growth over the medium-term period.
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Table 9
+
+National Economic Indicators:
+Baseline Scenario
+
+2020a
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+a
+
+Percent
+Change
+Retail Sales
+0.40
+9.31
+3.44
+3.50
+2.99
+3.32
+3.10
+2.89
+
+Percent
+Change
+Real GDP
+-4.10
+4.86
+5.21
+3.14
+2.29
+2.12
+1.87
+2.00
+
+Unemployment
+Rate
+8.10
+6.08
+4.89
+4.22
+4.22
+4.24
+4.34
+4.34
+
+Percent
+Change
+Employment
+-5.73
+1.72
+3.24
+2.10
+1.02
+0.58
+0.53
+0.51
+
+Personal
+Income
+6.33
+5.56
+0.40
+5.29
+4.68
+4.41
+4.48
+4.67
+
+Historical data. Note: Represents annual averages of the month-to-month growth rate.
+
+Colorado retail sales grew 3.4% in 2019 and 4.9% in 2020. Strong growth of 10.2% is projected for
+2021, followed by normalized growth of 3% in 2022; the simple average of 4.5% is projected for the
+medium-term forecast horizon. In the medium-term forecast, state retail sales growth outperforms
+the nation nearly every year of the forecast period.
+Colorado personal income growth is projected to increase 5.3% in 2021. The average unemployment
+rate in 2021 improves to 6.5%, and total employment grows 1.8%. The employment rebound begins
+in 2021 and surpasses the prior peak in 2022. With new government stimulus, rebounding
+employment and wage and salary earnings, retail sales continue to advance.
+Table 10
+
+Colorado Economic Indicators
+Year
+2020a
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+a
+
+Consumer
+Price
+Inflation
+1.95
+1.93
+2.70
+3.01
+3.06
+3.01
+2.95
+2.90
+
+Percent
+Change
+Retail Sales
+4.93
+10.21
+3.04
+4.00
+3.53
+3.78
+3.56
+3.42
+
+Percent
+Unemployment
+Change
+Rate
+Personal Income
+6.43
+7.07
+5.29
+6.51
+3.44
+4.49
+6.43
+3.55
+6.55
+3.47
+6.29
+3.58
+6.29
+3.67
+6.39
+3.73
+
+Percent
+Change
+Employment
+-4.30
+1.84
+4.21
+3.40
+2.19
+1.60
+1.52
+1.52
+
+Historical data. Note: Represents annual averages of the month-to-month growth rate.
+
+Colorado taxable sales decreased 0.9% in 2020, but return to strong growth for the remainder of the
+forecast horizon. RTD taxable sales will average 4.2% growth through 2027 after a 3% decline in
+2020. RTD sales tax revenue follows a similar path as taxable sales.
+
+Business Research Division
+
+March 17, 2021
+
+12
+Packet Pg. 58
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Year
+
+Consumer
+Price
+Inflation
+1.25
+2.12
+2.63
+2.66
+2.47
+2.37
+2.21
+2.12
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Table 11
+
+Year
+2020a
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+a
+
+CO
+Taxable
+Sales
+-0.86
+5.46
+3.17
+4.06
+3.89
+4.22
+4.20
+4.23
+
+RTD
+Taxable
+Sales
+-2.99
+6.99
+3.29
+3.99
+3.66
+3.85
+3.81
+3.79
+
+RTD
+Sales Tax
+Revenues
+-2.58
+7.60
+5.68
+4.98
+4.19
+4.24
+4.07
+4.10
+
+CO
+Use
+Taxes
+-30.30
+32.96
+18.92
+4.88
+3.40
+3.41
+3.36
+3.13
+
+RTD
+RTD
+Use Tax Total Tax
+Revenues Revenues
+-20.39
+-4.06
+12.84
+7.96
+14.70
+6.33
+3.70
+4.88
+3.12
+4.11
+2.59
+4.11
+2.19
+3.93
+1.97
+3.94
+
+Historical data.
+
+RTD use tax revenue fell 16% in 2019 and 20.4% in 2020. A strong rebound is projected over the next
+two years: 12.8% in 2021 and 14.7% in 2022, with simple average growth of 5.9% over the mediumterm forecast horizon (2021-2026). With 90% of RTD tax revenues coming from sales tax, the yearly
+changes in total revenues closely track those for sales tax revenues.
+Table 12
+
+Forecasts of RTD Revenues ($):
+Baseline Scenario
+Year
+2020a
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+a
+
+Sales Tax
+Revenues
+589,175,971
+633,931,436
+669,927,945
+703,303,804
+732,800,649
+763,837,507
+794,907,575
+827,494,766
+
+Use Tax
+Revenues
+43,488,707
+49,071,545
+56,284,246
+58,368,833
+60,187,243
+61,743,829
+63,098,776
+64,343,601
+
+Total RTD
+Revenues
+632,664,678
+683,002,980
+726,212,191
+761,672,637
+792,987,892
+825,581,336
+858,006,350
+891,838,367
+
+Historical data.
+
+In this baseline scenario, the mean forecast in the BRD model calls for a 41% increase in total RTD
+revenues from 2020 to 2027. Allowing for uncertainty in the model estimation and equation errors,
+67% confidence bounds can be estimated. These interval forecasts show a lower-bound increase of
+26.4% in RTD revenues for the 2020−2027 forecast period and a 55.6% increase in the high-range
+forecast.
+
+Business Research Division
+
+March 17, 2021
+
+13
+Packet Pg. 59
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Percent Change in Taxable Sales and RTD Revenues:
+Baseline Scenario
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Table 13
+
+Year
+2020a
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+a
+
+Low
+Forecast
+632,664,678
+665,727,598
+701,072,206
+726,159,511
+745,282,527
+764,066,234
+781,465,962
+799,571,224
+
+Medium
+Forecast
+632,664,678
+683,002,980
+726,212,191
+761,672,637
+792,987,892
+825,581,336
+858,006,350
+891,838,367
+
+High
+Forecast
+632,664,678
+699,814,604
+751,173,335
+797,805,747
+841,789,700
+887,392,241
+933,481,508
+984,399,031
+
+Historical data.
+
+As an alternative approach to incorporating economic uncertainty into the forecasts, the next
+section describes two scenarios that examine the implications of potentially divergent shocks to the
+national economy—one positive and one negative—for district taxable sales and RTD tax revenues.
+
+Optimistic Scenario
+Moody’s “Alternative Scenario 1 – Upside – 10th Percentile” represents a more optimistic outcome
+over the coming four years compared with the Baseline Forecast. In this scenario, there is a decrease
+in COVID-19 cases in the short-term, there is another round of federal stimulus, consumer and
+business optimism rises (partially on optimism about a vaccine), consumers return to retail and
+travel sooner than expected, and the labor market improves.
+Real GDP grows strongly in 2021 (5.9%) and 2022 (6.4%) before moderating. The unemployment rate
+quickly improves, and retail sales post strong growth.
+Table 14
+
+National Economic Indicators:
+Optimistic Scenario
+Year
+2020a
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+a
+
+Consumer
+Price
+Inflation
+1.25
+2.62
+3.07
+2.66
+2.46
+2.37
+2.21
+2.12
+
+Percent
+Change
+Retail Sales
+0.40
+10.74
+5.07
+3.96
+3.62
+3.92
+3.30
+2.88
+
+Percent
+Change
+Real GDP
+-3.49
+5.91
+6.43
+1.88
+1.91
+2.18
+2.05
+1.88
+
+Unemployment
+Rate
+
+Employment
+
+Personal
+Income
+
+8.10
+5.42
+3.73
+3.39
+3.55
+3.72
+3.93
+4.09
+
+-5.73
+2.16
+3.74
+2.09
+1.04
+0.60
+0.42
+0.41
+
+6.33
+6.44
+1.62
+5.33
+4.67
+4.44
+4.42
+4.61
+
+Historical data.
+
+Business Research Division
+
+March 17, 2021
+
+14
+Packet Pg. 60
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Upper and Lower Bound Forecasts of
+Total Revenues ($)
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Table 15
+
+Year
+2020a
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+a
+
+CO
+Taxable
+Sales
+-0.86
+6.50
+4.46
+4.41
+4.33
+4.64
+4.34
+4.21
+
+RTD
+Taxable
+Sales
+-2.99
+8.01
+4.58
+4.32
+4.06
+4.24
+3.92
+3.75
+
+RTD
+Sales Tax
+Revenues
+-2.58
+8.65
+7.29
+5.36
+4.73
+4.79
+4.23
+4.05
+
+RTD
+Use Tax
+Revenues
+-20.39
+13.56
+16.36
+4.04
+3.22
+2.80
+2.33
+1.91
+
+RTD
+Total Tax
+Revenues
+-4.06
+8.99
+7.94
+5.26
+4.62
+4.64
+4.09
+3.89
+
+Historical data.
+
+In this optimistic scenario, total RTD tax revenues reach $927.5 million in 2027, which is 4% above
+the medium forecast under the baseline scenario. This scenario yields revenue growth rates faster
+than the baseline projections through 2026; 2027 growth is the same as the baseline rate of growth.
+Total revenues grow by 46.6% between 2020 and 2027. Cumulative revenues from 2020-2027 are
+3.2%, or $175.6 million above the baseline scenario.
+Table 16
+
+Forecasts of RTD Revenues ($):
+Optimistic Scenario
+Year
+2020a
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+a
+
+Sales Tax
+Revenues
+589,175,971
+640,147,872
+686,839,568
+723,638,322
+757,897,779
+794,234,586
+827,850,689
+861,371,488
+
+Use Tax
+Revenues
+43,488,707
+49,386,762
+57,467,953
+59,789,918
+61,715,284
+63,440,711
+64,918,418
+66,159,368
+
+Total RTD
+Revenues
+632,664,678
+689,534,634
+744,307,521
+783,428,240
+819,613,063
+857,675,296
+892,769,107
+927,530,857
+
+Historical data.
+
+Pessimistic Scenario
+Moody’s “Alternative Scenario 2 – Downside – 75th Percentile” is constructed with a 75% probability
+that the U.S. economy will perform better and a 25% probability that it will underperform. This
+slower-growth scenario is caused by persistently high COVID cases, a slow rollout/adoption of the
+vaccine, and a smaller-than-expected stimulus package. Consumer confidence and consumer
+spending both are negatively impacted, as is spending on business and leisure travel.
+
+Business Research Division
+
+March 17, 2021
+
+15
+Packet Pg. 61
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Percent Change in Taxable Sales and RTD Revenues:
+Optimistic Scenario
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Real GDP increases 3.9% 2021 and 4.2% in 2022; the medium-term average is 2.9%. The
+unemployment rate improves steadily, dropping below 5% in 2024. Retail sales grow moderately
+after a robust (7.3%) 2021.
+Table 17
+
+Year
+2020a
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+a
+
+Consumer
+Price
+Inflation
+1.25
+1.53
+2.22
+2.66
+2.53
+2.40
+2.21
+2.13
+
+Percent
+Change
+Retail Sales
+0.40
+7.33
+2.27
+3.89
+3.42
+3.47
+3.06
+2.93
+
+Percent
+Change
+Real GDP
+-4.10
+3.93
+4.15
+3.17
+2.61
+2.26
+1.87
+2.21
+
+Unemployment
+Rate
+
+Employment
+
+Personal
+Income
+
+8.10
+6.65
+5.60
+5.28
+4.76
+4.26
+4.36
+4.33
+
+-5.73
+0.61
+1.88
+1.35
+1.51
+1.04
+0.48
+0.60
+
+6.33
+3.36
+-1.07
+5.28
+5.34
+4.72
+4.33
+4.68
+
+Historical data.
+
+Table 18
+
+Percent Change in Taxable Sales and RTD Revenues:
+Pessimistic Scenario
+Year
+2020a
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+a
+
+CO Taxable
+Sales
+-0.86
+3.88
+2.12
+4.29
+4.27
+4.39
+4.17
+4.25
+
+RTD Taxable
+Sales
+-2.99
+5.40
+2.09
+4.09
+4.06
+4.08
+3.77
+3.81
+
+RTD Sales Tax
+Revenues
+-2.58
+6.01
+4.19
+5.03
+4.73
+4.66
+4.01
+4.08
+
+RTD Use Tax
+Revenues
+-20.39
+11.93
+12.44
+3.25
+3.96
+3.50
+2.17
+1.99
+
+RTD Total Tax
+Revenues
+-4.06
+6.42
+4.79
+4.89
+4.67
+4.57
+3.87
+3.93
+
+Historical data.
+
+In this pessimistic scenario, total RTD tax revenues reach $874.4 million in 2027, which is 2% below
+the medium forecast under the baseline scenario. This scenario yields revenue growth rates slower
+than the baseline projections through 2022, then faster growth rates thereafter. Total revenues
+grow by 38.2% between 2020 and 2027. Cumulative revenues from 2020-2027 are 2.2% below, or
+$120.1 million lower than the baseline scenario.
+
+Business Research Division
+
+March 17, 2021
+
+16
+Packet Pg. 62
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+National Economic Indicators:
+Pessimistic Scenario
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Table 19
+
+Year
+2020a
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+a
+
+Sales Tax
+Revenues
+589,175,971
+624,591,325
+650,783,685
+683,497,993
+715,827,586
+749,199,004
+779,264,344
+811,053,622
+
+Use Tax
+Revenues
+43,488,707
+48,678,794
+54,732,849
+56,512,727
+58,753,354
+60,809,898
+62,129,870
+63,369,061
+
+Total RTD
+Revenues
+632,664,678
+673,270,120
+705,516,534
+740,010,720
+774,580,940
+810,008,902
+841,394,214
+874,422,682
+
+Historical data.
+
+Summary across the Three Scenarios
+RTD revenues rebound in 2021 across all three scenarios. In the baseline scenario, revenue grows
+41% to $891.8 million in the medium term (2020-2027). The pessimistic scenario presents slower
+growth early in the forecast horizon, followed by faster growth, growing to $874.4 million by 2027,
+netting 38.2% growth over the period. The optimistic scenario records growth that results in an
+increase of 46.6% over the period, to $927.5 million, with outperforming growth among the
+scenarios early in the forecast horizon.
+The timing of future revenue changes differs across the three scenarios. This difference reveals how
+revenues may shift, but they eventually end up relatively close to each other. The difference in total
+RTD revenues between the pessimistic and optimistic scenarios is 6.1% in 2027, but the cumulative
+revenue differences are 5.5% between the pessimistic and optimistic scenarios.
+Table 20
+
+Forecasts of Total RTD Revenues ($):
+Summary of Three Scenarios
+Year
+2020a
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+a
+
+Business Research Division
+
+Baseline
+Scenario
+632,664,678
+683,002,980
+726,212,191
+761,672,637
+792,987,892
+825,581,336
+858,006,350
+891,838,367
+
+Optimistic
+Scenario
+632,664,678
+689,534,634
+744,307,521
+783,428,240
+819,613,063
+857,675,296
+892,769,107
+927,530,857
+
+Pessimistic
+Scenario
+632,664,678
+673,270,120
+705,516,534
+740,010,720
+774,580,940
+810,008,902
+841,394,214
+874,422,682
+
+Historical data.
+
+March 17, 2021
+
+17
+Packet Pg. 63
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Forecasts of RTD Revenues ($):
+Pessimistic Scenario
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Table 21
+
+Year
+2020a
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+a
+
+Baseline
+Scenario
+-4.06
+7.96
+6.33
+4.88
+4.11
+4.11
+3.93
+3.94
+
+Optimistic
+Scenario
+-4.06
+8.99
+7.94
+5.26
+4.62
+4.64
+4.09
+3.89
+
+Pessimistic
+Scenario
+-4.06
+6.42
+4.79
+4.89
+4.67
+4.57
+3.87
+3.93
+
+Historical data.
+
+The baseline scenario presents the BRD’s most likely forecast for RTD tax revenues over the years
+2020−2027. After 2020, revenue grows steadily during this period, achieving an overall increase of
+41% between 2020 and 2027, to $891.8 million in 2027.
+
+Long-Term Forecasts
+The BRD long-term forecasting model incorporates age shares of the population as a key factor
+influencing the rate of growth in real output and in state and district sales that determine RTD sales
+and use tax revenues. This model projects annual growth rates in real RTD tax revenues to 2050.
+Forecast summary information is presented in both constant (real) and current (nominal) terms.
+Synopsis: Coming off a substantially lower base for 2020, the March 2021 long-term forecast reflects
+moderate growth in the first 10 years of the forecast horizon, slowing in the final decade. Over the
+entire 30-year period, RTD’s total tax revenues in nominal (current dollar) terms are projected to
+grow by 3.2% per year on average, while the real (inflation adjusted) growth rate is 0.9%.
+This forecast is for three decades: 2021–2030, 2031–2040, and 2041–2050.
+National Economic and Demographic Trends
+Growth in real output (GDP) is positively related to the proportion of the population that is upper
+middle age (30–49 and 50–64) as this group contributes highly productive workers to the labor force
+due to their experience and training. Although population shares change slowly, over the period
+2010–2030 the proportion of the population in this productive age group is projected to decline,
+from 46.2% to 43.4%, contributing to a slowing rate of growth in real output between now and 2030.
+The prime population proportion then increases to 44% by 2050.
+
+Business Research Division
+
+March 17, 2021
+
+18
+Packet Pg. 64
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Percent Changes in Total RTD Revenues:
+Summary of Three Scenarios
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+In addition to a slowing of total U.S. population growth over the next three decades, the differing
+growth rates of key age groups will have negative effects on economic growth. Growth rates of the
+most productive age group (30–64), as well as the total population, will be slower during the next
+three decades compared with the previous 10-year period (Table 22), producing some slowing in the
+rate of growth in output. Across the three decades of the forecast period, growth in real GDP slows
+considerably during the final decade compared with the periods from 2021–2030 and from 2031–
+2040. (See the BRD forecast in Table 23; the Moody’s projections are presented only for comparison
+with the BRD forecasts and do not play a role in the long-term BRD projections of any real variables
+after 2027.) Growth in the current decade was distorted by the negative impact of the COVID-19
+pandemic on the economy, and the strong growth that should follow in the recovery (although from
+a markedly lower 2020 base). The demographic drag dampens growth in the final two decades of the
+forecast horizon, partially offsetting the positive influences of increases in productivity and human
+and physical capital that account for the long-run trend in GDP growth. During the final 10 years, the
+share of the productive age group stabilizes, but the total population growth rate continues to
+decline. The net effect of these demographic changes is a further decline in the real GDP growth rate
+into the final decade of the forecast.
+Table 22
+
+Average Annual Percentage Rates of Growth
+2011-2020a
+2021-2030
+2031-2040
+2041-2050
+
+U.S. Pop Total
+0.63
+0.49
+0.33
+0.18
+
+U.S. Pop 30–64
+0.33
+0.18
+0.40
+0.24
+
+U.S. Pop 65 and Over
+3.24
+2.65
+1.01
+0.62
+
+2021-2050
+
+0.33
+
+0.27
+
+1.43
+
+a
+
+Historical data through 2019.
+
+Business Research Division
+
+March 17, 2021
+
+19
+Packet Pg. 65
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Figure 4
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Table 23
+
+Years
+
+U.S. Real
+GDP BRD
+
+2011-2020a
+2021-2030
+2031-2040
+2041-2050
+
+1.68
+2.47
+0.90
+0.51
+
+U.S. Real
+GDP
+Moody’s
+1.68
+2.74
+2.02
+1.96
+
+2021-2050
+
+1.29
+
+2.24
+
+a
+
+2.07
+1.08
+0.46
+0.25
+
+U.S. Retail
+Sales
+Moody’s
+2.07
+1.47
+1.36
+1.43
+
+0.60
+
+1.42
+
+U.S. Retail
+Sales BRD
+
+Historical data through 2020.
+
+The BRD’s projected rate of growth in real GDP from 2021–2030 and from 2031-2040 are slightly
+below Moody’s growth during the two decades, and notably slower in the last 10 years (2041–2050).
+Over the 30-year forecast period, the BRD model projects 1.3% average growth and the Moody’s
+model projects 2.2% average growth. The BRD forecast of retail sales growth is below Moody’s for
+the forecast horizon.
+Growth in U.S. retail sales is driven first by growth in output, which is then moderated by
+demographic forces. The BRD forecasts show sluggish growth in retail sales during the last two
+decades of the forecast (Table 24 reports rates of growth in real, inflation-adjusted terms).
+Both Moody’s and BRD forecast modest growth rates in each of the three forward-looking decades.
+Notably, retail sales grow at a slower pace than GDP.
+
+Colorado and District Retail Sales, Taxable Sales, and RTD Sales and Use Tax Revenues
+Following the COVID-19 pandemic’s impact on the economy early in the current decade, growth
+rebounds for retail sales and taxable sales at the state and district levels. Over the long term, the
+national economic environment is reflected in the Colorado forecast. The combined influence of
+national economic forces and changing demographics leaves the state and the district with quite low
+rates of growth in sales and taxable sales during the final decade of the forecast as shown in the
+following tables and figures.
+Colorado retail sales growth over the next three decades is slightly higher than for the nation.
+Colorado taxable sales and RTD taxable sales also tend to outperform national retail sales growth
+(with the exception of RTD taxable sales in the final decade). The very low growth rates for RTD
+taxable sales during the final decade reflects the persistent slowdown in total population growth in
+Colorado, and especially in the district.
+
+Business Research Division
+
+March 17, 2021
+
+20
+Packet Pg. 66
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Average Annual Percentage Rates of Growth
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Table 24
+
+2011-2020a
+2021-2030
+2031-2040
+2041-2050
+
+CO Retail
+Sales
+3.18
+1.54
+0.73
+0.31
+
+CO Taxable
+Sales
+0.57
+3.13
+0.89
+0.32
+
+RTD Taxable
+Sales
+2.98
+1.65
+0.74
+0.31
+
+2021-2050
+
+0.86
+
+1.44
+
+0.9
+
+Years
+
+a
+
+Historical data through 2020.
+
+Figure 5
+
+This long-term forecast ends in 2050. During this period, retail activity faces demographic drag in the
+state. The long-term average real growth rate for RTD taxable sales is 0.9%, reflecting the slow longterm (30-year) growth.
+Looking at nominal growth rates in RTD taxable sales shown in Table 25, the decade from 2021-2030
+and the following decade are expected to produce growth of 4% and 3%, respectively. The pattern of
+growth rates in Colorado taxable sales and RTD taxable sales are both consistent with that of retail
+sales growth, with average growth rates for the last decade of the forecast being the weakest for all
+three sales variables. These rates of growth for nominal sales appear in the next table and figure.
+
+Business Research Division
+
+March 17, 2021
+
+21
+Packet Pg. 67
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Average Annual Percentage Rates of Growth,
+Real Dollars
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Table 25
+
+2011-2020a
+2021-2030
+2031-2040
+2041-2050
+
+CO Retail
+Sales
+4.96
+3.89
+2.96
+2.51
+
+CO Taxable
+Sales
+2.31
+5.52
+3.12
+2.52
+
+RTD Taxable
+Sales
+4.76
+4.01
+2.97
+2.51
+
+2021-2050
+
+3.12
+
+3.71
+
+3.16
+
+Years
+
+a
+
+Historical data through 2020.
+
+Figure 6
+
+Future RTD sales tax revenues are forecasted by multiplying the effective rate of taxation by the
+district taxable sales forecasts. Assuming no further changes in the RTD effective tax rate beyond
+those implied by the reinstatement of the vendor allowance, the rates of growth in RTD sales tax
+revenues for 2016 and beyond are identical to those of district taxable sales. Since the use tax base
+is not directly observable, it is still necessary to estimate an equation to forecast RTD use tax
+revenues. In this equation, RTD use tax revenues are driven by Colorado use tax revenues and
+indirectly by the value of single family residential building permits. Revenue forecasts in real and
+nominal terms over the next three decades are summarized in the following tables and charts and in
+Appendix A.
+
+Business Research Division
+
+March 17, 2021
+
+22
+Packet Pg. 68
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Average Annual Percentage Rates of Growth,
+Nominal Dollars
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Table 26
+
+2011-2020a
+2021-2030
+2031-2040
+2041-2050
+
+RTD
+Sales Tax
+3.18
+1.54
+0.73
+0.31
+
+RTD
+Use Tax
+0.57
+3.13
+0.89
+0.32
+
+Total RTD
+Revenues
+2.98
+1.65
+0.74
+0.31
+
+2021-2050
+
+0.86
+
+1.44
+
+0.9
+
+Years
+
+a
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Average Annual Percentage Rates of Growth,
+Real Dollars
+
+Historical data through 2019.
+
+Figure 7
+
+Table 27
+
+Average Annual Percentage Rates of Growth,
+Nominal Dollars
+2011-2020a
+2021-2030
+2031-2040
+2041-2050
+
+RTD
+Sales Tax
+4.96
+3.89
+2.96
+2.51
+
+RTD
+Use Tax
+2.31
+5.52
+3.12
+2.52
+
+Total RTD
+Revenues
+4.76
+4.01
+2.97
+2.51
+
+2021-2050
+
+3.12
+
+3.71
+
+3.16
+
+Years
+
+a
+
+Historical data through 2019.
+
+Figure 8
+
+Business Research Division
+
+March 17, 2021
+
+23
+Packet Pg. 69
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Actual RTD sales and use tax data are now available through December 2020, allowing for error
+evaluation through Q4 2020. For the short-term forecast, the BRD estimates have been above the
+actual revenue 73 times and below the actual revenue 84 times, and a simple average of the error
+has been -0.8%, with a 4.4% standard deviation (including the rapid revenue swings during the
+pandemic recession). The September 2020 forecast for Q3 and Q4 2020 were low by 2.8% and 4.1%,
+respectively, illustrating the rapid recovery of revenue in the second half of 2020. The short-term
+and medium-term forecasts were revised upward in March 2021, coinciding with optimism about a
+primed economic recovery—expectations for GDP, retail sales, employment, and personal income
+improved. The average 30-year forecast growth rate in nominal dollars ending in 2050 is 0.2
+percentage points lower than the September forecast.
+
+Business Research Division
+
+March 17, 2021
+
+24
+Packet Pg. 70
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Forecast Evaluation
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Three models have been developed and estimated for forecasting RTD sales and use tax revenues at
+the short term (2022-2022), medium term (2027), and long term (2050). All three models consist of
+dynamic equations that link RTD district retail sales and sales and use tax revenues to underlying
+national and state economic indicators. Forecasts of the national indicators that are needed to drive
+the state and district forecasts come from Moody’s Analytics. Population projections that enter the
+equations of the long-term model come from Moody’s Analytics and the Colorado Demography
+Office. Colorado economy forecasts are derived from updated specifications of the Colorado
+Economy Model that was originally developed by members of the BRD team for the Office of State
+Planning and Budgeting.
+
+Key Econometric Concepts
+The equations of the RTD forecast model rely on modern techniques of econometric time series
+analysis. Each equation specifies a dynamic relationship between two or more variables, capturing
+both a long-run equilibrium relation and short-run dynamic adjustments toward this equilibrium.
+Such equations are called error correction models (ECMs) and are a type of vector autoregression
+(VAR) model. Following time series analysis traditions, these equations may embody complex
+dynamic behavior that is based on rigorous examination of historical patterns in the data. Unlike
+univariate (ARIMA) methods, which are sophisticated representations of trends and cycles, VAR
+models include explanatory variables in each equation to allow persistent departures from trends
+and possible turning points.
+In the error correction model, a long-run equilibrium relation is joined with a short-run dynamic
+adjustment mechanism. The long-run relation is called the cointegrating equation, which captures
+the common trends in the variables of interest. For example, district taxable sales and state retail
+sales are expected to move together as a result of common underlying economic processes; they are
+therefore referred to as “cointegrated” variables. Naturally, one will observe short-run departures
+from this common pattern, but with a tendency for one variable to adjust back toward the
+equilibrium relation. For example, the district economy may lag behind changes in the Colorado
+economy, but departures from the common trends governing these two variables will vanish within
+several months. These dynamic adjustments back toward the equilibrium relation are captured by
+the ECM.
+This framework is illustrated with a simplified version of the relation between district taxable sales
+(TXBLSALES_RTD) and retail sales of Colorado (TRDR_TTL).
+DLOG(TXBLSALES_RTD) = - 0.205*LOG(TXBLSALES_RTD(-1)) + 0.210*LOG(TRDR_TTL(-1)) 0.512*DLOG(TXBLSALES_RTD(-1)) + 0.741*DLOG(TRDR_TTL) + 0.403*DLOG(TRDR_TTL(-1)) 0.034*LOG(CPIUUS_GAS(-1)/CPIUUS_TTL(-1)) - 0.03745*@SEAS(1) + 0.040*@SEAS(5) 0.033*@SEAS(7) +4.125
+Here DLOG( ) transforms any variable into its rate of change, so that the left hand side term is
+interpreted as the rate of change in RTD taxable sales. Looking at the first two terms on the right
+hand side, one sees that RTD taxable sales respond negatively to the level of taxable sales in the
+Business Research Division
+
+March 17, 2021
+
+25
+Packet Pg. 71
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Appendix A: Models for the Three Forecast Horizons
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+A more complex adjustment back toward equilibrium is embodied in the following three terms on
+the right hand side of the equation (- 0.512*DLOG(TXBLSALES_RTD(-1)) + 0.741*DLOG(TRDR_TTL) +
+0.403*DLOG(TRDR_TTL(-1)). Past rates of change in RTD taxable sales and current plus past changes
+in Colorado retail trade also impact the rate of adjustment in RTD taxable sales in the current period.
+Additional independent variables, such as the price of gasoline (- 0.034*LOG(CPIUUS_GAS(1)/CPIUUS_TTL(-1)), can also be included in error correction equations, and this specification also
+contains three seasonal dummy variables and a constant term.
+This particular specification of lags and differences is the result of experimenting with various
+alternatives and selecting the equation that meets standard diagnostic criteria, such as uncorrelated
+residuals and statistically significant coefficients. For example, it is natural to allow all 12 months to
+enter into the equation as seasonal variables, but only 3 of these were found to have statistically
+significant effects. Similar cointegrating equations and ECMs are developed for the other key
+variables in the RTD forecast model.
+Since the ECM is expressed in rates of change, this is the natural form in which the forecasts of
+district taxable sales can be generated. Given historical and forecasted values of all right-hand side
+variables, the ECM produces forecasts of district taxable sales based on the forecasted month-tomonth changes.
+Econometrics explicitly allows for random errors in the equations and in the estimation of their
+coefficients. These sources of error will be reflected in the model’s forecasts, and the resulting
+uncertainty can be estimated through simulation methods. This uncertainty is presented in the form
+of interval forecasts given by the model’s mean forecast plus and minus one standard deviation of
+the forecast error. The upper and lower bounds of these 67% confidence interval forecasts provide
+statistically based high and low forecasts for each time period within the forecast horizon.
+
+Comparisons and Linkages between the Three Models
+All three models are grounded in the cointegration and ECM methodology, and all three generate
+statistically based interval forecasts of RTD sales and use tax revenues. The short-term and mediumterm models are estimated using monthly data and produce forecasts at that same frequency. These
+monthly forecasts of sales and use tax revenues are then aggregated to quarterly series for the
+short-term forecasts and to annual data for the medium term.
+The specifications of individual equations in the short-term and medium-term models are the same,
+and therefore the baseline forecasts over a one-year horizon are identical. Variables and forecasts in
+these two models are expressed in nominal values.
+In order to forecast district level variables (e.g., RTD taxable sales, use tax revenues), it is necessary
+to model and forecast economic variables at the state level. The Colorado Economy Model
+Business Research Division
+
+March 17, 2021
+
+26
+Packet Pg. 72
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+previous period and positively to the previous period’s level of Colorado retail trade. These two
+terms capture the error correction mechanism: if RTD taxable sales are too high relative to the level
+of Colorado retail trade, then TXBLSALES_RTD will tend to decline in the following period. In this
+situation the relation between RTD taxable sales and Colorado retail sales is out of equilibrium,
+requiring future adjustments to restore equilibrium between these two cointegrated variables.
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+previously developed for OSPB provides the framework for predicting state economic variables, such
+as Colorado retail trade and Colorado taxable sales. These key Colorado variables are driven by
+corresponding national variables and related state series, such as personal income. The linkages
+between the economic variables at the national, state, and district level are shown in the following
+figure:
+Figure 9
+
+The primary drivers from the national economy are personal income, employment, and retail sales,
+and these contribute to the determination of Colorado retail sales and, in turn, RTD taxable sales.
+Given the effective rate of sales taxation, RTD sales tax revenues are then given by a simple algebraic
+identity.
+Recognizing that large shocks to the national economy are likely to occur at some time over the
+seven-year forecast horizon, the possibility of such shocks is incorporated in the medium-term
+forecast by the use of two alternative national economic scenarios from Moody’s Analytics. These
+alternative scenarios allow for the possibility of faster economic growth in the near term in one case
+and for slower long-term growth in the other. These scenarios also provide alternative bounds that
+complement the statistically based lower-bound forecasts from the econometric model.
+The long-term model equations are fundamentally different from those of the other models, and are
+designed to capture gradual structural adjustments in the economy due to changing demographics.
+This model relies on population projections from Moody’s Analytics and from the Colorado State
+Demography Office to drive the forecasts of all real national economic variables, state and district
+retail sales and taxable sales, and therefore RTD sales and use tax revenues. Whereas Moody’s
+forecasts of national economic indicators are used to drive the short-term and medium-term
+Colorado Economy Model forecasts, BRD researchers have developed equations for key national
+variables for the long-term forecasts. Only Moody’s Consumer Price Index (CPI) forecast is used for
+converting forecasts of real variables into nominal values in the long-term forecasts.
+
+Business Research Division
+
+March 17, 2021
+
+27
+Packet Pg. 73
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Linkages between National, State, and District Economic Variables
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+However, market disruptions and supply-chain discord associated with current events creates
+additional risk that the CPI can be adjusted upward, potentially sharply, in the coming 24
+months. Currently, however, there is no clear evidence of nationwide inflationary pressure. When
+asked about prospects for inflation on March 4th, 2021, Chairman Jerome Powell suggested that
+inflation will increase this year, but that it would prove to be temporary.
+A combination of factors that may cause higher inflation within the next 12-24 months include:
+•
+
+Excess savings by households who remained employed during the pandemic (approximately
+80% of workers). As the economy reopens, most households are expected to boost
+spending well above historical averages. This abnormally high spending can create demandpull inflation.
+
+•
+
+High commodity prices. Several staple commodities, such as copper, lumber, and wheat are
+priced near all-time highs. This causes potential cost-push inflation. Such effects are
+currently seen in home-construction costs.
+
+•
+
+Sudden tightening of labor markets. As the economy reopens, labor markets are expected
+to tighten, leading to wage growth. Wage growth is considered to be the largest contributor
+to inflation.
+
+The RTD forecast model currently incorporates annual US inflation that rises to 2.6% by 2022, with
+Denver metro area inflation above 3% by 2023. The BRD team will continue to monitor the situation
+and may adjust expected inflation when sufficient evidence emerges to suggest changing inflation
+expectations.
+
+The Input Data—Sources and Description
+This section describes the data used to estimate equations and generate forecasts from the three
+models. There are three levels of data: national variables, Colorado data, and district (RTD) data.
+National Statistics and Forecasts: National data, such as U.S. retail sales and U.S. GDP figures, track
+closely to state indicators. Typically, higher U.S. retail sales indicate higher retail sales in Colorado.
+National statistics for GDP and retail sales are published frequently, and several forecasts for these
+indicators are available. The Colorado Economy Model that drives the district level variables relies on
+these national variables to forecast corresponding state variables.
+Some key national indicators are:
+•
+
+U.S. Retail Sales: Obviously, this indicator tracks closely to Colorado’s retail sales. This
+indicator, along with its forecasted levels, is a central part of the Colorado Economy Model
+and the RTD district model.
+
+Business Research Division
+
+March 17, 2021
+
+28
+Packet Pg. 74
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Higher inflation could have an impact on the RTD forecast. Currently, the real-dollar RTD forecast is
+constructed as nominal dollars adjusted to the Consumer Price Index (CPI). For most of the previous
+decade, the CPI has been low – between 0.5% and 2.0% annually.
+
+1.C.2.b
+
+•
+
+The figure below shows the relationship between U.S. retail sales and Colorado retail sales
+over the past two decades. The Colorado sales values are not seasonally adjusted (the U.S.
+figures are), but the two series are clearly closely related. The data have been standardized
+to show the common movement of the two variables. U.S. retail sales change direction at
+the same time as Colorado retail trade. It can also be seen that, over time, the overall level
+of trade trends diverge slightly for these two series. In 2000 through 2006, U.S. retail sales
+were, for the most part, greater than Colorado sales, but from 2009 to 2020 the opposite
+was true. This implies that U.S. retail sales were growing more slowly than Colorado sales
+over the past 15 years.
+Figure 10
+
+•
+
+National Income: U.S. GDP, personal income, and disposable income serve as common
+indicators for the state of the national economy. U.S. GDP plays a key role in the long-term
+model. U.S. personal income is a predictor of Colorado personal income, which enters into
+the equation for Colorado retail trade.
+
+•
+
+Consumer Price Index and Components: In forecasting sales and use tax revenues, it is vital
+to distinguish between taxable and nontaxable expenditures and to consider how the
+composition of household expenditures changes over time. In the short run, the proportion
+of expenditures going to taxable items can vary with changes in the relative prices of goods
+and services that are tax exempt. Gasoline prices are one example of a CPI component that
+fluctuates dramatically, affecting the share of taxable/nontaxable retail sales. This variable
+is included in the current specification of some equations in the forecasting model. The CPI
+is also used to convert between nominal and real values of personal income and retail sales.
+
+•
+
+Population by Age: In the long-term model, the age distribution of the population plays an
+important role in the forecasts of retail sales and taxable sales. For example, the rate of
+growth in the prime working-age population of the United States is used in the equation for
+national GDP. Population projections come from Moody’s Analytics.
+
+Regional Economic Variables: The equations in the forecasting model are based on basic
+relationships between corresponding variables at national, state, and district levels. National data,
+such as U.S. retail sales and U.S. personal income, track closely to local indicators. While national
+Business Research Division
+
+March 17, 2021
+
+29
+Packet Pg. 75
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+RTD Sales and Use Tax Forecasting Model
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+•
+
+Colorado and Denver Metro Personal Income: Total wages are obtained on a quarterly basis
+by industry (or aggregated) and by county from the Bureau of Labor Statistics (not seasonally
+adjusted). This information is posted online with a six-month time lag. The data source is the
+Quarterly Census of Employment and Wages (QCEW). Because the survey only asks for total
+wages disbursed for the quarter, and not for the month, we cannot see an alternative
+method for obtaining monthly data by county. This survey solicits information from the
+employer’s location, not from the employees’ residence, so some wages leak out of the
+Denver Metro region. Personal income data for the state of Colorado are sourced from the
+Bureau of Labor Statistics on a quarterly basis. (Data sources: Bureau of Labor Statistics,
+www.bls.gov; Bureau of Economic Analysis, www.BEA.gov)
+
+•
+
+State and District Populations by Age Group: In the long-term model, retail sales and taxable
+sales at state and local levels are affected by the age distribution of the relevant population.
+Data on population by age groups come from the U.S. Census Bureau’s U.S. Population
+Projections and Population Estimates, and the Colorado State Demography Office in the
+Colorado Department of Local Affairs.
+
+•
+
+Colorado and Denver Metro Employment: Employment by industry and metropolitan area is
+from the Bureau of Labor Statistics. The Current Employment Statistics (CES) is a survey of
+employers and is available monthly, with a one- to two-month lag. These numbers are
+revised as the QCEW data become available. If county-level data are necessary, the QCEW
+employment data are available, but lag six months.
+
+•
+
+Taxable and Total Retail Sales and Tax Revenue Data: The Colorado Department of Revenue
+(DOR) is the primary source for taxable sales, sales tax revenues, and use tax revenues. From
+the collection of sales tax revenues each month and the knowledge of the effective rate of
+taxation, the department computes the value of taxable sales (revenues divided by the tax
+rate). At the state level, this procedure produces data on sales tax revenues and taxable
+sales that are entirely consistent. However, the DOR computes taxable sales based on the
+tax laws that apply to state sales tax collections, and these laws previously differed in their
+treatment of RTD tax collections. In 2014, HB 13-1272 effectively changed the RTD base to
+be the same as the state tax base.
+We apply the same DOR data construction procedure to compute RTD taxable sales. Sales
+tax revenues collected by RTD are divided by the RTD effective rate of taxation to produce
+RTD taxable sales. In addition to providing consistency between the taxable sales and
+revenues data, this procedure allows future changes in RTD tax rates to be incorporated
+(e.g., anticipated changes in the vendor allowance).
+Forecasts of district taxable sales are driven by equations that relate this variable to
+Colorado retail trade (taxable and nontaxable). This, in turn, is linked to U.S. retail sales.
+
+Business Research Division
+
+March 17, 2021
+
+30
+Packet Pg. 76
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+level retail trade sales are a reliable indicator of general trends in Colorado retail sales, the inclusion
+of state-specific economic variables, such as Colorado personal income, can improve the explanatory
+and forecasting power of the model.
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Most long-term economic forecasting exercises employ a production function framework to project
+real output (GDP). With this approach, output is a function of labor supply, capital stock, and
+technology. From projections of these three determinants, predicting output is straightforward.
+However, forecasting these three inputs is a daunting task that is often handled with arbitrary
+assumptions about their long-run growth rates. There is little reason to believe that projections of
+the growth rates in the three inputs would produce more reliable forecasts than directly projecting
+output.
+However, the BRD long-term forecasting model borrows some useful elements from this framework.
+Modeling real output growth for the national economy is the starting point of the BRD forecasting
+model, and all other variables in the BRD model are also expressed in real (inflation-adjusted) terms.
+This puts aside the task of forecasting inflation, which depends on national political issues, Federal
+Reserve behavior, and changes in global resource prices. Since inflation rates can be expected to
+impact RTD revenues and costs symmetrically, incorporating inflation into the analysis is an
+unnecessary complication.
+Although the BRD model does not estimate a production function or make assumptions about the
+long-run growth in inputs, a production relation implicitly underpins the framework. The growth in a
+nation’s labor force, capital stock, and technology is affected by the age distribution of the
+population. Substantial theoretical and empirical literature on the “demographic dividend”
+establishes the impact that age distribution has on economic growth, working through the three
+determinants of real output.1 The use of the age distribution of the population in forecasting longterm economic growth in general, and RTD tax revenues in particular, has several important
+advantages:
+•
+
+•
+
+•
+
+Sound economic theory and empirical evidence supports the existence of a stable, predictive
+relation between output and age structure. Output growth is positively related to the
+working age share of the population, according to the aggregate production relation, and it
+is negatively related to the dependency ratio, according to life cycle models of saving.
+The age structure of the population is predictable with reasonable accuracy, and projections
+are provided by the Social Security Administration and published by the Census Bureau.
+Underlying demographic processes (fertility rates, mortality rates, immigration) change
+slowly over time, allowing accurate age-specific population projections. Furthermore, older
+portions of the age distribution of the population can be projected with great accuracy
+because for the next 30 years, the population over the age of 30 depends only on mortality
+rates and immigration—the former being highly predictable.
+In terms of the production function framework, the age distribution can impact output
+through each of the three inputs. By affecting the savings rate, age structure influences real
+business investment and the growth in capital stock. One form of investment is in R&D,
+
+1
+
+David E. Bloom, David Canning, Günther Fink, and Jocelyn E. Finlay, “Does age structure forecast economic growth?” International Journal
+of Forecasting 23 (2007) 569–585, and Thomas Lindh and Bo Malmberg, “Demographically based global income forecasts up to the year
+2050,” International Journal of Forecasting 23 (2007) 553–567, are two recent articles illustrating this approach.
+Business Research Division
+
+March 17, 2021
+
+31
+Packet Pg. 77
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+The BRD Long-Term Forecast Model—Analytical Framework
+
+1.C.2.b
+
+•
+
+•
+
+which contributes to productivity growth. In addition, new physical investment embodies
+latest technologies, thereby contributing to productivity growth. The labor force is obviously
+directly related to the age structure through the size of the working age population. Also,
+experienced workers tend to be more productive than new entrants to the labor force, so an
+older workforce shows higher output per worker.
+The ultimate goal is to forecast (taxable) retail sales, not output. Given the equivalence of
+output and income, a simple consumption function links retail sales to output or,
+equivalently, to gross national income. However, the relation between aggregate
+consumption and aggregate income is expected to vary over time with changes in the age
+structure of the population. Therefore, the equation for (national) retail sales includes the
+population age shares, as well as aggregate income.
+By the same reasoning, the age distribution affects the relation between total retail sales
+(the model’s key national variable) and taxable sales (the relevant state and district
+variables). For example, the consumption pattern of people 65 and older shows a higher
+proportion of spending on nontaxable items compared with younger individuals who spend
+more on taxable goods as they establish new households.
+
+The BRD model employs this framework to produce long-term forecasts over the period ending
+2050. Business cycle fluctuations come into play only during the current decade as the economy
+gradually moves toward capacity output. These business cycle fluctuations play a role in the
+medium-term forecasts previously developed for RTD, and the forecasts presented here build on
+these 2020–2026 forecasts. The short-term and medium-term forecasts presented in the earlier
+sections of this report employ nominal (current dollar) values of all variables, while the long-term
+analysis is based on real variables. Both real (inflation adjusted) and nominal forecasts of total RTD
+revenues are presented in this section of the report to allow comparisons with other forecasts and
+to permit either real or nominal budgetary analysis. The data presented through the end of 2020 are
+historical observations, while data from 2021 to 2050 represent forecasts.
+The equations of the long-term BRD model employ the same dynamic error correction/cointegration
+framework as the short- and medium-term models. All variables in these equations are expressed in
+real terms, and projected real variables from the equations are converted to nominal values using
+Moody’s forecasted national CPI. Both real and nominal values are presented in the tables and
+charts of this section.
+National output growth is determined by population shares as indicated by the previous discussion.
+National retail sales growth is driven by output growth, moderated by changes in age shares of the
+population. State and district sales and taxable sales are similarly related to national and state sales,
+as well as state and district population shares. State and district sales growth rates, in turn,
+determine the growth in RTD sales and use tax revenues.
+National retail sales and Colorado personal income are key factors driving Colorado retail sales in the
+long-term forecasting model. But differences in population growth rates and age distribution for the
+nation, the state, and the district affect the relations between sales at the three geographical levels.
+The growth rate of Colorado’s working-age population, for example, affects personal income growth
+in the state, which in turn feeds into the determination of Colorado retail sales. Slowing growth of
+Business Research Division
+
+March 17, 2021
+
+32
+Packet Pg. 78
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+RTD Sales and Use Tax Forecasting Model
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Population forecasts are sourced from the Office of the Colorado State Demographer and from
+Moody’s Analytics. Colorado population forecast revisions by age and by county were released in
+late 2020, and showed slower net migration to the state and the district (note: new Colorado and
+district population estimates and projections will be released in October 2021).
+Overall, population growth in Colorado and in the district affects the growth in sales and therefore in
+sales tax revenues. While total U.S. population growth declines steadily over the three decades of
+the long-term forecast, the state and the district exhibit somewhat different patterns in expected
+growth rates as shown in the following figure. The estimated population growth rate for the district
+and for the state peaked in 2015, followed by a decade of rather flat growth rates, and then began a
+long period of decline. If birth rates increase, or the state experiences stronger net immigration, the
+trend may be altered somewhat.
+Figure 11
+
+In addition to variations in the rate of total population growth, the changing population age
+structure also affects the growth rates of sales and tax revenues in the long-term projections. For
+Colorado and the district, the proportion of those in the prime working-age group and those in the
+youngest age group (0 to 29 years of age) are projected to decline throughout most of the forecast
+period, while the share of the aging population will grow. These trends will adversely impact total
+and taxable sales in the state and the district.
+
+Business Research Division
+
+March 17, 2021
+
+33
+Packet Pg. 79
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+this prime working-age population therefore indirectly contributes to the declining growth in
+Colorado retail sales, Colorado taxable sales, and therefore RTD taxable sales. On the other hand,
+moderate growth in the total population of the state adds to the growth in Colorado taxable sales,
+offsetting to some extent the adverse effects of changing population age shares on the other sales
+and tax revenue variables.
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Figure 13
+
+The following two figures further demonstrate changing demographics over time, modeled by the
+old-age dependency ratio and the prime working-age ratio. These ratios target more precisely the
+changing size of the working population as it affects income and retail sales.
+The old-age dependency ratio increases throughout the forecast horizon, but Colorado and the
+district remain below the national ratio.
+Figure 14
+
+Business Research Division
+
+March 17, 2021
+
+34
+Packet Pg. 80
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Figure 12
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Conversely, the primary working-age ratio for the district falls through 2030, with some leveling of
+this decline between 2030 and 2045 followed by further decline to 2050.
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Figure 15
+
+Business Research Division
+
+March 17, 2021
+
+35
+Packet Pg. 81
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Appendix B: Yearly Revenue Forecasts, 2015–2050
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+The following tables and figures show forecasted levels of RTD total revenues, summing base and
+FasTracks components of sales and use taxes. High and low forecasts are given by the median
+forecast plus or minus one forecast standard error, which defines an approximate 67% confidence
+band for these interval forecasts. Since the long-term BRD model is expressed in real (inflationadjusted) terms, the table below presents forecasts of inflation-adjusted revenues using 2010 as the
+base year.
+Table 28
+Annual Forecasts of Total RTD Revenues
+(Inflation Adjusted to 2010 Base Year) ($)
+Year
+Low
+Median
+High
+2015a
+2016a
+2017a
+2018a
+2019a
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+2038
+2039
+2040
+2041
+2042
+2043
+2044
+2045
+2046
+2047
+2048
+2049
+2050
+
+498,282,682
+512,162,174
+532,184,188
+550,781,867
+562,503,525
+532,993,388
+549,178,815
+563,508,046
+568,552,940
+569,477,670
+570,297,068
+570,669,985
+571,770,994
+564,975,051
+558,296,111
+554,405,665
+552,712,166
+552,049,955
+553,191,781
+555,419,140
+557,427,595
+560,213,029
+563,072,014
+565,997,529
+568,138,299
+570,307,836
+572,301,576
+570,644,473
+567,931,167
+565,224,103
+562,969,283
+561,291,026
+558,170,292
+552,842,658
+548,500,598
+545,003,724
+
+498,282,682
+512,162,174
+532,184,188
+550,781,867
+562,503,525
+532,993,388
+563,429,800
+583,715,071
+596,358,252
+605,929,807
+616,211,782
+626,564,041
+637,750,953
+633,440,167
+629,326,963
+628,041,939
+629,036,501
+631,196,661
+635,290,437
+640,577,551
+645,748,850
+651,807,039
+658,058,903
+664,507,425
+670,313,157
+676,284,172
+682,219,042
+684,654,196
+686,181,135
+687,871,859
+690,189,425
+693,258,406
+695,063,135
+694,848,491
+695,824,509
+697,861,697
+
+498,282,682
+512,162,174
+532,184,188
+550,781,867
+562,503,525
+532,993,388
+577,298,217
+603,778,348
+624,648,987
+643,219,746
+662,347,282
+681,680,206
+703,940,807
+701,905,283
+700,357,815
+701,678,214
+705,360,836
+710,343,368
+717,389,094
+725,735,963
+734,070,105
+743,401,049
+753,045,792
+763,017,321
+772,488,016
+782,260,508
+792,136,509
+798,663,918
+804,431,102
+810,519,615
+817,409,567
+825,225,785
+831,955,977
+836,854,324
+843,148,420
+850,719,670
+
+aHistorical.
+
+Business Research Division
+
+March 17, 2021
+
+36
+Packet Pg. 82
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Since budget planning more commonly employs nominal (current dollar) values, the inflationadjusted (real) forecasts are converted to current dollars using Moody’s Analytics annual forecasts of
+the national CPI for urban households. This adjustment with the national CPI is consistent with the
+conversions to real values used throughout the BRD long-term modeling project. Although local CPI
+data are available, these may be less reliable than the national data due to smaller samples in the
+price surveys.
+Figure 17
+
+Business Research Division
+
+March 17, 2021
+
+37
+Packet Pg. 83
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Figure 16
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Table 29
+
+Annual Forecasts of Total RTD Revenues in
+Current Dollars ($)
+
+Business Research Division
+
+Median
+541,518,282
+563,622,277
+598,187,188
+634,191,824
+659,418,232
+632,664,678
+683,002,980
+726,212,191
+761,672,637
+792,987,892
+825,581,336
+858,006,350
+891,838,367
+904,876,251
+918,518,953
+937,263,076
+960,026,792
+984,709,772
+1,012,787,974
+1,043,595,739
+1,075,207,804
+1,109,307,209
+1,144,739,937
+1,181,494,135
+1,218,010,852
+1,255,866,996
+1,294,751,187
+1,327,897,152
+1,360,124,499
+1,393,460,688
+1,428,779,055
+1,466,516,881
+1,502,477,216
+1,534,808,453
+1,570,372,184
+1,609,026,672
+
+High
+541,518,282
+563,622,277
+598,187,188
+634,191,824
+659,418,232
+632,664,678
+699,814,604
+751,173,335
+797,805,747
+841,789,701
+887,392,241
+933,481,508
+984,399,031
+1,002,679,424
+1,022,190,316
+1,047,154,721
+1,076,511,935
+1,108,184,023
+1,143,670,681
+1,182,331,408
+1,222,267,613
+1,265,190,607
+1,309,976,339
+1,356,644,720
+1,403,670,473
+1,452,666,194
+1,503,358,337
+1,549,020,731
+1,594,515,493
+1,641,915,141
+1,692,140,775
+1,745,680,305
+1,798,390,445
+1,848,476,475
+1,902,860,288
+1,961,464,063
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Year
+Low
+a
+2015
+541,518,282
+2016a
+563,622,277
+a
+2017
+598,187,188
+2018a
+634,191,824
+a
+2019
+659,418,232
+2020
+632,664,678
+2021
+665,727,598
+2022
+701,072,206
+2023
+726,159,511
+2024
+745,282,527
+2025
+764,066,234
+2026
+781,465,962
+2027
+799,571,224
+2028
+807,073,079
+2029
+814,847,591
+2030
+827,371,432
+2031
+843,541,649
+2032
+861,235,520
+2033
+881,905,267
+2034
+904,860,070
+2035
+928,147,995
+2036
+953,423,812
+2037
+979,503,536
+2038 1,006,343,549
+2039 1,032,351,231
+2040 1,059,067,798
+2041 1,086,144,037
+2042 1,106,773,574
+2043 1,125,733,506
+2044 1,145,006,234
+2045 1,165,417,334
+2046 1,187,353,457
+2047 1,206,563,987
+2048 1,221,140,430
+2049 1,237,884,079
+2050 1,256,589,282
+a
+Historical.
+
+March 17, 2021
+
+38
+Packet Pg. 84
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Appendix C: A Qualitative Assessment of Colorado’s Economy
+
+Summary: The U.S. and Colorado economies experienced significant contractions as a result of the
+coronavirus pandemic. Both the U.S. and Colorado observed significant declines in GDP, employment,
+and wage and salary income; and record increases in jobless claims and unemployment. After
+decreasing 6.3% year-over-year in Q2 2020, Colorado real GDP began to rebound, but remained
+down 1.4% year-over-year in Q3 2020 (5th-best nationally). Colorado lost 342,700 jobs from February
+through April 2020 (-12.2%). The state added back 191,500 jobs by December, but remained down
+5.4% from peak, ranking Colorado 26th for employment growth. Additionally, the state’s
+unemployment rate increased from the 3rd-lowest nationally early in 2020 to the 36th-highest by yearend, illustrating the destructive impact of the recession on Colorado’s labor market.
+COVID-19
+The United States had the highest number of COVID-19 cases and deaths in the world as of March
+2021. While Colorado has the 21st-largest population in the United States, the state recorded the
+22nd-highest number of cases, and the 26th-highest number of deaths.
+Figure 18: COVID-19 Cases
+
+Source: Bloomberg.
+
+Confidence
+The Consumer Confidence from the Conference Board recorded an increase in Consumer Confidence
+for January 2021, up from a six-year low in April after increasing through November and falling in
+December. The Mountain Region often exceeds the national index, though it dipped below the
+national reading in June, July, and September 2020, and is above the national reading for January.
+The Mountain Region index is far removed from its recent peak in September 2018.
+Business Research Division
+
+March 17, 2021
+
+39
+Packet Pg. 85
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+This qualitative assessment of the U.S. and Colorado economies is intended to serve as context for
+the RTD sales and use tax forecast. In the process of compiling an annual business and economic
+outlook for Colorado, the BRD has developed local indicators that can be used to complement the
+results from the econometric models.
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+The Leeds Business Confidence Index (LBCI), a forward-looking index of economic and industry
+growth expectations, revealed that Colorado business leaders’ confidence improved ahead of Q1
+and Q2 2021 from the record low observed last year. An index reading above 50 indicates positive
+expectations. Ahead of Q1 2021, the index increased to 47.9, and improved further ahead of Q2 to
+59.5. State expectations decreased slightly to 46.9, a 2-point decrease from Q4 2020. Looking further
+ahead to Q2 2021, state and national expectations were more optimistic, with both state and
+national expectations rebounding above 50.
+Figure 20: National and State Expectations
+
+Gross Domestic Product
+Real GDP increased at seasonally adjusted annual rate (SAAR) of 4.1% nationally in Q4 2020
+following a record decrease in GDP during Q2 and a rebound in Q3 as the effects of the COVID-19
+pandemic became evident in economic data. Personal consumption expenditures were up 2.4% on
+account of a 4% increase in services, while durable goods declined 0.6% and nondurables shrank
+1.1%. Gross private fixed investment rose 26.5%, government consumption fell 1.1%, and the trade
+deficit widened. GDP is expected to grow in 2021; according to Consensus Forecasts, Q1 is projected
+Business Research Division
+
+March 17, 2021
+
+40
+Packet Pg. 86
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Figure 19: Index of Consumer Confidence
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+to grow (annualized) by 4.8%, Q2 7.6%, and Q3 7%, before tapering off to 4.6% growth by Q4. GDP
+growth in 2021 stands to be the fastest in decades.
+In Q3 2020 (newest available data), Colorado’s real GDP decreased 1.4% year-over-year but grew at
+an annualized rate of 30.1% from Q2 2020 to Q3 2020. Nationally, Colorado ranked 5th in year-overyear growth.
+
+Jobless Claims
+Initial jobless claims illustrate the immediate and profound impact of the pandemic on employment.
+While initial filings in the United States are well below the record highs observed in March and April,
+claims improved to 712,000 the week ending March 6, 2021. The average for the year leading up to
+the crisis was 217,000 per month. Colorado recorded 863,000 initial claims from the week ending
+March 21, 2020 to the week ending March 6, 2021, averaging 16,900 per week, compared to an
+average of 1,900 per week in 2019.
+Figure 22: United States Initial Jobless Claims
+
+Business Research Division
+
+March 17, 2021
+
+41
+Packet Pg. 87
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Figure 21: United States Real Gross Domestic Product
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Employment and Wages
+For the 12 months ending in January 2021, the United States lost 800,250 jobs per month, on
+average. In March, the U.S. lost 1.3 million jobs, followed by a record 20.8 million in April—the
+largest one-month decline since the Bureau of Labor Statistics began collecting data in 1948. The
+U.S. added back 12.9 million jobs from May 2020 through February 2021 but remained down 6.2%
+from the prior peak.
+
+Colorado lost 16,500 jobs in March 2020 and a record 325,800 jobs in April, before adding back a
+combined 120,500 jobs in May through December, according to the Bureau of Labor Statistics. The
+majority of the employment rebound was observed in May and June (128,000 jobs); gains continued
+through October before losses in November (-4,700 jobs) and December (-20,300 jobs) on account of
+surging cases and heightened restrictions in the winter months. The state added 5,100 jobs per
+month on average during 2019. The combined Denver-Aurora-Lakewood and Boulder MSAs made
+up 62.8% of non-farm employment in Colorado in December 2020.
+Leading up to the pandemic, historically low unemployment rates in Colorado, especially in the
+Denver Metro area, led to a shortage of skilled workers. Colorado unemployment hit a record low of
+2.5% in October 2019 and has experienced a relatively continuous downward trend since the end of
+the Great Recession. This decrease to a new record low occurred as both the labor force and
+employment posted strong gains over the decade. The Boulder and Denver-Aurora-Lakewood MSAs
+had record low unemployment rates of 2.0% and 2.3%, respectively, but have since increased to
+6.9% and 8.5% in December 2020, respectively. Colorado’s unemployment rate increased to a record
+12.2% in April 2020 and rests at 8.2% in December, ranking the state as having the 4th highest
+unemployment rate in the nation. Nationwide, the unemployment rate rose to 6.8% in January
+2021.
+Industry employment gains in Colorado year-over-year in December 2020 were led by
+Administrative Support and Waste Management (5,000); Finance and Insurance (3,000); and Trade,
+Transportation, and Utilities (2,800). Employment in Colorado saw record declines in April with the
+Business Research Division
+
+March 17, 2021
+
+42
+Packet Pg. 88
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Figure 23: United States Employment (Jobs Added Month-over-Month)
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Leisure and Hospitality sector observing the largest month-over-month decline (-148,900), followed
+by Education and Health Services (-44,000), and Trade, Transportation, and Utilities (-40,400).
+However, these sectors have observed the largest employment rebound, with the Leisure and
+Hospitality Sector gaining 74,700 jobs from April through December, followed by Trade,
+Transportation, and Utilities (66,100) and Education and Health Services (33,800).
+
+In Q3 2020, Colorado had the 17th-highest personal income in the nation, and the state ranked 12th
+in per capita personal income, at $63,098. The U.S. average was $60,320. The state’s growth in per
+capita personal income ranked 48th, at 2.7%. Over the past 10 years, Colorado per capita personal
+income has remained higher than the national average.
+Real Estate
+The most recent data from the Federal Housing Finance Agency (FHFA) All Transactions Index show
+that home prices in Colorado increased 5.8% year-over-year in Q4 2020 (26th-highest), signalling that
+the COVID-19 pandemic has had little effect on the housing market. The Purchase-Only index
+increased 10.7% year-over-year (27th).
+
+Business Research Division
+
+March 17, 2021
+
+43
+Packet Pg. 89
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Figure 24: Colorado Industry Job Growth (December 2020, Year-over-Year)
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+The total value of construction is determined when permits are pulled rather than when activity is
+put into place. Colorado recorded $19.5 billion in construction in 2020, a 3.6% increase year-overyear. Residential construction drove the growth, recording a 11.5% increase in 2020, while
+nonresidential and nonbuilding construction fell.
+Figure 26: Colorado Value of Construction
+
+Retail Sales
+National retail and food services sales increased 7.3% year-over-year and 5.3% month-over-month in
+January 2020. The largest increases were recorded in sporting goods (22.5%) and building materials
+(19%), while the largest decreases were recorded in food service and drinking places (-16.6%), and in
+clothing and clothing accessories stores (-11.1%)
+
+Business Research Division
+
+March 17, 2021
+
+44
+Packet Pg. 90
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Figure 25: Federal Housing Finance Agency Home Price
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Figure 28: Retail Trade and Food Services Sales, December 2020 Year-over-Year
+
+E-Commerce
+Internet sales continue to outpace traditional brick-and-mortar sales. As technology advances
+through tablets and mobile devices, consumers have greater ability to make digital purchases and
+access the nation’s e-commerce landscape. The stay-at-home orders exacerbated the already-rapid
+shift to online purchases, with large retailers such as Neiman Marcus and Barneys New York recently
+declaring bankruptcy while retailers such as Amazon reporting record sales.
+According to the U.S. Census Bureau, e-commerce sales increased strongly year-over-year in Q2
+(44.5%), Q3 (36.6%), and Q4 2020 (32.1%). However, sales declined quarter-over-quarter in Q3 and
+Q4 (-1.1% and -1.2%, respectively) coming off the strong growth in Q2. The nation’s e-commerce
+market continues to experience steady growth in its market share, making up 14% of total retail
+sales in Q3 2020, up from 11.2% in Q3 2019.
+Business Research Division
+
+March 17, 2021
+
+45
+Packet Pg. 91
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Figure 27: Retail Trade and Food Services Sales
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Appendix D: Prolonged Recession Scenario
+
+This scenario represents a 96% probability that the economy will perform better and a 4%
+probability that it will perform worse. This protracted slump is caused by the COVID-19 pandemic
+lasting longer than generally expected. In this scenario, the vaccine rollout goes slower than
+expected, and resistant strains rise, causing the recovery to stall.
+After real GDP fell 4.1% in 2020, GDP records a modest rebound in 2021 (1.1%) before retrenching,
+falling 2% in 2022 followed by a moderate recovery. This prolonged recession has sustained,
+detrimental impacts on the labor market, pushing unemployment rates past 10% in 2022 and 2023.
+Retail sales decrease 5.5% nationally in 2022 before beginning to rebound.
+Following the pandemic recession in 2020, RTD revenue posts gains in 2021, but falls with the
+double-dip recession in 2022 (-2%). However, RTD revenue begins posting growth again in 2023,
+ranging between 3.6% and 7.4% in the medium term horizon. Annual revenue does not surpass the
+prior peak until 2023.
+Table 30
+
+National Economic Indicators: Recession Scenario
+Year
+2020a
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+
+Consumer
+Price
+Inflation
+1.25
+0.96
+-0.21
+1.55
+2.40
+2.63
+2.73
+2.55
+
+Percent
+Change in
+Retail Sales
+0.40
+3.56
+-5.48
+3.64
+6.45
+6.71
+5.34
+4.21
+
+Percent
+Change
+Real GDP
+-4.10
+1.11
+-1.98
+2.16
+4.47
+4.54
+3.26
+2.47
+
+Unemployment
+Rate
+8.10
+7.84
+10.16
+10.32
+8.58
+7.38
+6.66
+6.28
+
+aHistorical.
+
+Business Research Division
+
+March 17, 2021
+
+46
+Packet Pg. 92
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+In response to a request by RTD staff, the BRD research team added a fourth scenario modeling the
+impact of a prolonged recession. The team leveraged a U.S. macroeconomic scenario titled,
+“Alternative Scenario 4 – Downside – 96th Percentile.”
+
+1.C.2.b
+RTD Sales and Use Tax Forecasting Model
+
+Table 31
+
+Year
+
+Consumer
+Price
+Inflation
+
+2020a
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+
+1.95
+1.55
+1.15
+1.52
+1.92
+2.28
+2.50
+2.57
+
+a
+
+Percent
+Change
+Retail
+Sales
+6.43
+2.50
+-1.35
+4.89
+6.84
+7.32
+7.11
+6.94
+
+Percent
+Change
+Personal
+Income
+4.93
+3.58
+-6.61
+3.83
+6.93
+7.30
+5.90
+4.83
+
+Unemployment
+Rate
+
+Percent
+Change
+Employment
+
+7.07
+8.01
+9.28
+9.22
+7.79
+6.64
+5.92
+5.51
+
+-4.30
+-1.13
+-2.70
+0.95
+3.79
+3.30
+2.56
+2.18
+
+Attachment: RTD_Forecast_Model_March_2021 (4509 : Sales and Use Tax Forecast Presentation)
+
+Colorado Economic Indicators:
+Recession Scenario
+
+Historical data.
+
+Table 32
+
+Forecasts of RTD Revenues ($):
+Recession Scenario
+Year
+2020a
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+a
+
+Business Research Division
+
+Sales Tax
+Revenues
+589,175,971
+607,309,197
+592,095,704
+615,589,283
+660,447,922
+709,946,827
+755,172,402
+796,548,440
+
+Use Tax
+Revenues
+43,488,707
+47,812,777
+50,122,127
+50,046,997
+52,904,115
+55,843,606
+58,174,946
+60,089,807
+
+Total RTD
+Revenues
+632,664,678
+655,121,975
+642,217,832
+665,636,280
+713,352,037
+765,790,434
+813,347,347
+856,638,247
+
+Historical data.
+
+March 17, 2021
+
+47
+Packet Pg. 93
+
+
