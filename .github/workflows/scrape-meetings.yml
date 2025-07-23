@@ -1,0 +1,35 @@
+name: Scrape RTD Meeting Data
+
+on:
+  schedule:
+    # Run nightly at 2 AM MST (9 AM UTC)
+    - cron: '0 9 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: nschloe/action-cached-lfs-checkout@v1
+      
+    - name: Set up uv
+      uses: astral-sh/setup-uv@v3
+      
+    - name: Install system dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y poppler-utils
+        
+    - name: Run scraper
+      run: ./scraper.py
+      
+    - name: Generate meeting index
+      run: ./generate_index.py
+      
+    - name: Commit and push changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "Automated meeting data update"
+        file_pattern: "meetings/"
