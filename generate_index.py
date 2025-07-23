@@ -123,9 +123,9 @@ def generate_markdown_index(
                 details_file = meeting_dir / "details.md"
 
                 if details_file.exists():
-                    link_target = f"meetings/{meeting.id}/details.md"
+                    link_target = f"{meeting.id}/details.md"
                 else:
-                    link_target = f"meetings/{meeting.id}/"
+                    link_target = f"{meeting.id}/"
 
                 # Add cancelled indicator if meeting was cancelled
                 status_indicator = " (CANCELLED)" if meeting.cancelled else ""
