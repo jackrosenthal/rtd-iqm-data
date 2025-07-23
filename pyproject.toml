@@ -1,0 +1,20 @@
+[project]
+name = "rtd-iqm-data"
+version = "0.1.0"
+description = "Async web scraper for RTD (Regional Transportation District) board meeting data from IQM2 portal"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4",
+    "httpx",
+    "async-typer",
+    "pydantic",
+    "loguru",
+    "rich",
+    "click<8.2",
+]
+
+[dependency-groups]
+dev = [
+    "ty",
+]
