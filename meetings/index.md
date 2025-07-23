@@ -157,14 +157,14 @@
 - **2024-05-29 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3640/details.md)
 - **2024-04-30 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3879/details.md)
 - **2024-04-30 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3630/details.md)
-- **2024-03-26 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3661/details.md)
-- **2024-03-26 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3618/details.md)
 - **2024-03-26 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3660/details.md)
-- **2024-02-27 05:30 PM -07:00**: [Board of Directors - Board Meeting](meetings/3646/details.md)
+- **2024-03-26 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3618/details.md)
+- **2024-03-26 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3661/details.md)
 - **2024-02-27 05:30 PM -07:00**: [Board of Directors - Board Meeting](meetings/3608/details.md)
+- **2024-02-27 05:30 PM -07:00**: [Board of Directors - Board Meeting](meetings/3646/details.md)
+- **2024-01-30 05:30 PM -07:00**: [Board of Directors - Board Meeting](meetings/3596/details.md)
 - **2024-01-30 05:30 PM -07:00**: [Board of Directors - Board Meeting](meetings/3644/details.md)
 - **2024-01-30 05:30 PM -07:00**: [Board of Directors - Board Meeting](meetings/3643/details.md)
-- **2024-01-30 05:30 PM -07:00**: [Board of Directors - Board Meeting](meetings/3596/details.md)
 
 ### 2023
 
@@ -172,10 +172,10 @@
 - **2023-10-24 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3525/details.md)
 - **2023-09-26 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3516/details.md)
 - **2023-07-25 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3497/details.md)
-- **2023-06-27 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3566/details.md)
 - **2023-06-27 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3488/details.md)
-- **2023-06-27 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3569/details.md)
 - **2023-06-27 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3567/details.md)
+- **2023-06-27 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3569/details.md)
+- **2023-06-27 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3566/details.md)
 - **2023-05-31 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3477/details.md)
 - **2023-05-23 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3480/) (CANCELLED)
 - **2023-04-25 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3468/details.md)
@@ -185,10 +185,10 @@
 
 ### 2022
 
-- **2022-11-15 05:30 PM -07:00**: [Board of Directors - Board Meeting](meetings/3438/details.md)
 - **2022-11-15 05:30 PM -07:00**: [Board of Directors - Board Meeting](meetings/3387/details.md)
-- **2022-10-25 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3380/details.md)
+- **2022-11-15 05:30 PM -07:00**: [Board of Directors - Board Meeting](meetings/3438/details.md)
 - **2022-10-25 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3437/details.md)
+- **2022-10-25 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3380/details.md)
 - **2022-09-28 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3372/details.md)
 - **2022-07-26 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3352/details.md)
 - **2022-06-28 05:30 PM -06:00**: [Board of Directors - Board Meeting](meetings/3343/details.md)
@@ -2078,8 +2078,8 @@
 
 ### 2022
 
-- **2022-12-08 12:00 PM -07:00**: [Executive Committee - Committee](meetings/3439/details.md)
 - **2022-12-08 12:00 PM -07:00**: [Executive Committee - Committee](meetings/3550/)
+- **2022-12-08 12:00 PM -07:00**: [Executive Committee - Committee](meetings/3439/details.md)
 - **2022-11-10 12:00 PM -07:00**: [Executive Committee - Committee](meetings/3386/details.md)
 - **2022-10-20 12:00 PM -06:00**: [Executive Committee - Committee](meetings/3379/details.md)
 - **2022-09-22 12:00 PM -06:00**: [Executive Committee - Committee](meetings/3370/details.md)
@@ -2506,8 +2506,8 @@
 - **2024-09-10 05:30 PM -06:00**: [Finance and Planning Committee - Committee](meetings/3693/details.md)
 - **2024-07-23 05:30 PM -06:00**: [Finance and Planning Committee - Committee](meetings/3675/details.md)
 - **2024-06-11 05:30 PM -06:00**: [Finance and Planning Committee - Committee](meetings/3658/details.md)
-- **2024-05-14 05:30 PM -06:00**: [Finance and Planning Committee - Committee](meetings/3722/details.md)
 - **2024-05-14 05:30 PM -06:00**: [Finance and Planning Committee - Committee](meetings/3634/details.md)
+- **2024-05-14 05:30 PM -06:00**: [Finance and Planning Committee - Committee](meetings/3722/details.md)
 - **2024-04-16 05:30 PM -06:00**: [Finance and Planning Committee - Committee](meetings/3625/details.md)
 - **2024-03-12 05:30 PM -06:00**: [Finance and Planning Committee - Committee](meetings/3612/details.md)
 - **2024-02-13 05:30 PM -07:00**: [Finance and Planning Committee - Committee](meetings/3602/details.md)
@@ -2585,8 +2585,8 @@
 - **2019-08-13 05:30 PM -06:00**: [Financial Administration & Audit Committee - Committee](meetings/2895/details.md)
 - **2019-07-09 05:30 PM -06:00**: [Financial Administration & Audit Committee - Committee](meetings/2886/details.md)
 - **2019-06-11 05:30 PM -06:00**: [Financial Administration & Audit Committee - Committee](meetings/2878/details.md)
-- **2019-05-07 05:30 PM -06:00**: [Financial Administration & Audit Committee - Committee](meetings/2951/details.md)
 - **2019-05-07 05:30 PM -06:00**: [Financial Administration & Audit Committee - Committee](meetings/2869/details.md)
+- **2019-05-07 05:30 PM -06:00**: [Financial Administration & Audit Committee - Committee](meetings/2951/details.md)
 - **2019-04-09 05:30 PM -06:00**: [Financial Administration & Audit Committee - Committee](meetings/2937/details.md)
 - **2019-03-12 05:30 PM -06:00**: [Financial Administration & Audit Committee - Committee](meetings/2851/details.md)
 - **2019-02-12 05:30 PM -07:00**: [Financial Administration & Audit Committee - Committee](meetings/2843/details.md)
@@ -3341,8 +3341,8 @@
 - **2023-05-10 05:30 PM -06:00**: [Operations Safety and Security Committee - Committee](meetings/3473/details.md)
 - **2023-04-12 05:30 PM -06:00**: [Operations Safety and Security Committee - Committee](meetings/3464/details.md)
 - **2023-03-08 05:30 PM -07:00**: [Operations Safety and Security Committee - Committee](meetings/3453/details.md)
-- **2023-02-15 05:30 PM -07:00**: [Operations Safety and Security Committee - Committee](meetings/3554/details.md)
 - **2023-02-15 05:30 PM -07:00**: [Operations Safety and Security Committee - Committee](meetings/3446/details.md)
+- **2023-02-15 05:30 PM -07:00**: [Operations Safety and Security Committee - Committee](meetings/3554/details.md)
 - **2023-01-18 05:30 PM -07:00**: [Operations Safety and Security Committee - Committee](meetings/3431/details.md)
 
 ### 2022
