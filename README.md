@@ -26,29 +26,12 @@ meetings/
         └── attachment1.txt
 ```
 
-## File Types and Sources
-
-- **metadata.json**: Extracted from meeting detail page header (includes title, date, location, group, type, and cancellation status)
-- **details.md**: HTML-to-Markdown conversion of the meeting outline/agenda
-- **agenda.pdf**: Public agenda (`FileOpen.aspx?Type=14&ID={AgendaID}`)
-- **packet.pdf**: Full agenda packet (`FileOpen.aspx?Type=1&ID={AgendaID}`)
-- **minutes.pdf**: Public minutes (`FileOpen.aspx?Type=15&ID={MinutesID}`)
-- **transcript.pdf**: Full-text transcript (`FileOpen.aspx?Type=12&ID={MinutesID}`)
-- **transcript.txt**: Plain text transcript from detail page or video transcript
-- **attachments/**: Additional files linked from meeting pages
-
 ## Text Conversion
 
 All PDF files are automatically converted to plain text using `pdftotext` for:
 - Improved searchability
 - LLM context provision
 - Accessibility
-
-## Dependencies
-
-- `beautifulsoup4`: HTML parsing
-- `httpx`: Async HTTP requests
-- `pdftotext` (system tool): PDF to text conversion
 
 ## Usage
 
