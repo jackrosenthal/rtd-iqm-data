@@ -52,6 +52,8 @@ Vice Chair – Kathline Chandler
 
 None.
 
+### E. Recommended Actions
+
 #### 1. August 2025 Title VI Service Equity Analysis
 
 For the Board of Directors (Board) to adopt the Title VI Service Equity Analysis report for the August 2025 service change to comply with federal laws, regulations, and guidelines related to Title VI of the Civil Rights Act of 1964 (Title VI).
@@ -122,6 +124,8 @@ Director Chandler seconded the motion.
 
 Committee Chair Harwick declared the motion PASSED.
 
+### F. Discussion Items
+
 #### 1. Longmont and Boulder Fixed-Route Service Contract
 
 Presented by Erin Vallejos, Acting Deputy, Assistant General Manager, Bus Opereations.
@@ -143,6 +147,8 @@ Presented by Debra A Johnson, General Manager and CEO and Jessie Carter, Senior 
 ### G. Other Matters
 
 Director Buzek spoke.
+
+### H. Next Meeting Date: Wednesday, September 10, 2025
 
 ## I. Adjourn
 

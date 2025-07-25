@@ -1,263 +1,1713 @@
-Regional Transportation District
-
-1660 Blake Street
-Denver, CO 80202-1399
-303-299-2306
-
-Board of Directors
-Chair – Julien Bouquet, District G
-First Vice Chair – Patrick O’Keefe, District H
-Second Vice Chair – Troy Whitmore, District K
-Secretary – Chris Nicholson, District A
-Treasurer – Karen Benker, District I
-Vince Buzek, District J
-Peggy Catlin, District N
-Kathleen Chandler, District F
-Lynn Guissinger, District O
-Chris Gutschenritter, District D
-
-Michael Guzman, District C
-Ian Harwick, District L
-Matt Larsen, District E
-Brett Paglieri, District M
-JoyAnn Ruscha, District B
-
-MINUTES
-Operations Safety and Security Committee
-Wednesday, July 16, 2025
-REMOTE MEETING
-5:30 PM
-
+2025-07-16
 Operations, Safety, and Security Committee
-Chaired by Vice Chair Harwick
+IAN HARWICK: Hi, everybody. Welcome to the Wednesday, July 16 Operation Safety and Security
+Committee. It will now come to order. We are convened as of 5:30 PM. I would respectfully ask everyone
+attending this meeting to mute yourself unless you are recognized to speak. Please note that the Committee
+meetings of the RTD Board of Directors will be held remotely via Zoom and will be audio and video recorded.
+The meeting recordings, along with the unofficial minutes of the meeting-- or minutes of the meetings will
+be posted as soon as practicable on the Board's website.
+During today's meeting, we are providing Communication Access Realtime Translation, also known as
+CART. Anyone who would like to access this service should send an email to the RTD Board Office at
+rtd.boardoffice@rtd-denver.com, and a link will be provided. Additionally, the CART transcript can be
+automatically translated into Spanish for anyone who would like access to a live transcript of this meeting
+in Spanish. A live stream of this meeting is also available via RTD's YouTube page.
+I would like to note that due to the recent vacancy on our Committee, Chair Bouquet, in accordance with
+Board bylaws, Article VI, Section 1(a) appointed Director O'Keefe to the Committee effective July 10, 2025.
+Director O'Keefe's appointment is subject to ratification by the full Board later this month. I would now like
+to call roll for the Committee members. Director Buzek?
+VINCE BUZEK: Here.
+IAN HARWICK: Director Chandler?
+KATHLEEN CHANDLER: Present.
+IAN HARWICK: Director Nicholson?
+CHRIS NICHOLSON: Excited to be here.
+IAN HARWICK: Rock on. Director O'Keefe?
+PATRICK O'KEEFE: I'm here, unapproved or not.
+IAN HARWICK: Director Paglieri?
+BRETT PAGLIERI: Present.
+IAN HARWICK: Director Whitmore?
+TROY L. WHITMORE: Present.
+IAN HARWICK: And I am Director Ian Harwick, and I am also present. I have also seen that we have-Director Benker is on the call with us, as is Director Catlin, and our esteemed Board Chair, Director Bouquet.
+Is there anybody else that's joined us, Jack, that I missed?
 
-A. Call to Order
-Vice Committee Chair Harwick called the meeting to order at 5:30 p.m.
-Attendee Name
-Title
-Status
-Vince Buzek
-Director, District J
-Remote
-Ian Harwick
-Committee Vice Chair
-Remote
-Kathleen Chandler
-Director, District F
-Remote
+JACK KROLL: No.
+IAN HARWICK: Great. OK. For the record, I see that we have all seven of us present. Now I'd like to open
+us up to public comment. I would like to open public comment to anyone who would like to address the
+Committee regarding any topic listed in the published meeting agenda for the current and immediately
+preceding month. If you wish to speak and have not already done so, please either raise your virtual hand
+or press Star-9 on your phone.
+During this time, the Committee will not offer any direct comments or responses. However, if you would like
+to be contacted regarding your public comment, please email the RTD Board at rtd.directors@rtddenver.com. Jack, do we have any hands raised?
+JACK KROLL: Yes. Director Harwick, we have at this time three hands raised, the first of whom is from
+Mary Sanders.
+IAN HARWICK: OK. Mary, you-- ch, ch, ch. OK. Mary, staff will unmute you-- or let's see here. OK. Staff
+will unmute you when it's time to speak. If you're-- ta-ta-ta jammering through it. And-- OK. All right. Mary,
+if you like to speak, please state your name, and then you may proceed.
+MARY SANDERS: Yes, hi. My name is Mary Sanders. Thank you for allowing public comment. I wanted to
+make really quickly a public comment regarding the Access-on-Demand changes that would go into effect
+October 2025. I have a few very quick concerns.
+First of all, they are proposing Access-on-Demand to not be available for persons living outside of the
+service area for Access-a-Ride. That can pose barriers for persons who are using Access-On-Demand who
+cannot use Access-a-Ride, especially if they live, let's say, a block or two away from the Access-a-Ride
+service area.
+So I just wanted to make that-- and also really quickly, with the pricing, that's going up a bit higher than it
+should be, especially for-- it's higher than Access-a-Ride, so I want to make that comment as well. Thank
+you so much for having me, and I'm finished.
+IAN HARWICK: Thank you. Mr. Kroll?
+JACK KROLL: Yes. Next we have Tim Keenan.
+IAN HARWICK: Tim, you have three minutes.
+TIM KEENAN: Hi there, Committee. Thanks for taking my comments. Like Mary, I have just some comments
+regarding Access-on-Demand. And one of them is like hers. The-- well, two are like hers. The fare is-- here
+we have a program in Access-on-Demand that costs about five times less per trip than Access-a-Ride, but
+it's going to cost more-- the fare is going to cost more per trip for riders. And I don't think that makes sense
+or is fair fare. So I think just the $4.50 fare would be fair. [LAUGHS]
+And other than that, I really echo her on the eliminating the area outside the Access-a-Ride boundaries.
+The number of trips outside the Access-a-Ride boundaries are pretty low. I think it's like 5% of the trip total.
+But the people who need these trips really need them. It is the only game in town for these people who
+either work or live or visit anywhere outside of the Access-a-Ride area. And I really think that the savings
+you'd get from eliminating these people from the program are not worth-- not worth it.
 
-Arrived
-5:30 PM
-5:30 PM
-5:30 PM
+Overall, we have here a really effective and efficient program. I'm not sure why the decision was made to
+cut Access-on-Demand rather than-- and make-- quote, unquote, make it more "sustainable" rather than
+doing the same thing to Access-a-Ride, which costs $100 per trip. That is what's really in need of reform
+here. So really, I think if you want to make the most, I would just slap that $4.50 fare on it, leave it as it is
+now, and add back the multiple stop option, because that's really handy for people with kids or people who
+just need to make a quick stop on the way home and don't want or need to make a separate trip out of it.
+This is something that people with Access-a-Ride have said, hey, we don't-- staff had used the equity factor
+in claiming this is why it shouldn't be allowed. But I've yet to hear anyone who can't access Access-onDemand who says, hey, they shouldn't allow-- they shouldn't have this option. I think if it's available, it's
+cheaper for RTD and us, and it should be allowed. So overall, just slap on that fare and call it one of the
+most successful, efficient, and effective programs RTD has. Thank you very much.
+IAN HARWICK: Thank you, Tim. Appreciate it.
+JACK KROLL: Next, we have former RTD Director Jaime Lewis.
+IAN HARWICK: Former Director Lewis, if you would please state your name, and then you may proceed.
+Also, thanks for joining us tonight.
+JAIME LEWIS: Thank you. Good evening, Directors. As stated, my name is Jaime Lewis. I am the Transit
+Advisor for the Colorado Cross-Disability Coalition. July is ADA Celebration Month. It is a time to reflect on
+the improved treatment of people with disabilities, and also an opportunity to search for ways to fill in gaps
+of services that still do not exist.
+If one were to focus on transportation, there is no doubt that efforts in Colorado, specifically RTD, would
+have to be recognized. From providing ramps in the 1980s, to providing Access-a-Ride, to demanding
+redesigns of trains for more space, and to providing a discount fare to those who have low incomes, and
+using the resources during the pandemic to deliver food and medicines, RTD has been a leader in our
+nation. This is RTD's legacy.
+Tonight, you have a chance to mold a policy that makes Access-on-Demand the envy of the other
+transportation districts throughout our country. Providing a system that meets or in some cases exceeds
+customer needs, and in addition to is offered at an equitable price, will set the benchmark for the nation to
+follow. Please help RTD lead in this area of paratransit and alternative transportation for our disability
+community. Thank you.
+IAN HARWICK: Thanks, Jaime. Appreciate it.
+JACK KROLL: Next, Sarah Lee.
+IAN HARWICK: OK. Sarah, if you would, please state your name, and then you may proceed.
+SARAH LEE: Hi I'm not sure if you can see me, but yeah, Sarah Lee. I'm a member of the APAC, the APAC,
+Access-a-Ride Passenger Advisory Committee. And also, I work with Boulder County on helping people
+find sustainable and accessible transportation.
+I just wanted to say one more time that the $6.50 fare for Access-on-Demand is way too high for a lot of
+our people that we serve. A lot of us, including me, who has a disability are a little bit concerned about it.
 
-Chris Nicholson
-Patrick O'Keefe
-Brett Paglieri
+We're a little overwhelmed on how to apply for LiVE. That's super overwhelming to people on the spectrum
+or people that have to deal with a lot of bureaucracies.
+And then also, the Access-on-Demand multiple stops were very helpful and good for safety, and it would
+actually be cheaper to have those reinstated, if not now, maybe in the future. I think that's-- oh, and also
+Imagine and other providers like Easterseals, they do cover the price of tickets for Access-a-Ride for a lot
+of our customers or a lot of our residents, and I'm one of those. And so I wonder if there's some way that
+they can help cover the Access-on-Demand voucher, because the free part of it is one of the only reasons
+why some people can use it to get to work and from work, different things like that.
+And I would agree with the gentleman that spoke before. The 5% that really need that out of the RTD
+service area service, that's why they're using it, is because they need it. So I hope that they will be able to
+use that in the future. Thanks for having us speak.
+IAN HARWICK: Thank you. Take care. Mr. Kroll, do we have anyone else?
+JACK KROLL: Yeah. I see at this time two additional hands raised. The next is from Zachary Dreicer.
+IAN HARWICK: All right. Zach, if you would please state your name, and then you may proceed. You'll
+have three minutes.
+ZACHARY DREICER: Good evening. My name is Zachary [INAUDIBLE] Dreicer. I hope that all is well with
+everyone, and thank you for the opportunity to speak in support of Access-On-Demand. I want to let
+everybody know I sometime-- I split some time between you guys and Phoenix where we have a similar
+program, and I am definitely understanding of the cuts in service and stuff. And I would like to propose a
+$4.50 per trip cost and the resuming of the stop option. That is something we actually don't have here in
+Phoenix right now, so that would be quite helpful.
+And I do want to echo what everyone has said, that under 10%, maybe under even 5% of the trips are
+outside of Access-a-Ride areas. So I would strongly oppose the significant cuts that I have been reading
+about, because I do not feel that they would be in our best interest as folks with disabilities. And thank you
+very much.
+IAN HARWICK: Thank you, Zachary.
+JACK KROLL: So at this time, I'm seeing two hands. One shot up just recently. The next is from Dave Bahr.
+IAN HARWICK: Dave, if you would please state your name, and then you may proceed. You'll have three
+minutes.
+DAVE BAHR: Hello there. I should like to also add my-- this is Dave Bahr. I'd like to add my concerns for
+the Access-on-Demand program. And I'd like to try and frame it a few different ways and hope to address
+things in this way. I seem to have lost my timer, so give me a-- tell me when I'm up.
+I have a simple question for those of you wishing to make the changes to the program, and that is if you
+drive to work, are you restricted in your access? Are you given a time that says, you can only go to the
+grocery store from 9:00 to 1:00, and sorry about that. It's kind of what you're doing here. For the 90 day
+Access-a-Ride, you have to take Access-a-Ride for 90 days? I mean, I don't quite understand that.
 
-Director, District A
-Director, District H
-Director, District M
+If you were to-- let's take the supermarket thing a little further and say, all right. You can only buy this brand
+of potato chip from the supermarket for 90 days. Oh, don't like it? Oh, sorry. That's how it is. That's kind of
+what you're doing here.
+If you want to put a $4.50 fare on it, OK, but you're really cutting a lot of people out, as has been mentioned.
+And in my case, I use the program for the doctor, and seeing friends, and making friends, and my job. And
+it's been extremely valuable to me, to the point-- to the point that I've stayed where I am because of the
+program, actually, instead of having to move. It's been a big part of it, as well as relationships.
+So I encourage you to think about the consequences, the repercussions, and the fact that these are people
+that are using the program that has shown nothing but growth. You have the numbers. You have the
+numbers in front of you. And I believe the words 0% cost growth were also a part of those numbers. So I
+encourage you to, if possible, leave everything except the multiple stop option. I will say that. Leave it as
+is. Thank you.
+IAN HARWICK: Thank you, Dave.
+JACK KROLL: Director Harwick, the next individual is joining us by phone. And I'm going to recognize them
+by indicating their four final numbers of their number they're dialing in from. So we have 9710.
+IAN HARWICK: Hello. If you would please state your name, then you may proceed. You'll have three
+minutes.
+SPEAKER 1: Tisha Mason. I realize that with the fare increases for Access-on-Demand, most of the people
+who use the service, I would imagine, are disabled. And most disabled-- a lot of disabled people, it's hard
+to find jobs, especially jobs that have higher income where they'd be able to pay for the service.
+And restricting it to only within the RTD bus limits, and as well as raising-- increasing the fare will, I think,
+result in more people losing jobs, because that's how a lot of people get to and from work and such like
+that. And in the long run, will end up costing more than it does now for-- that it's created opportunities for
+people to be able to gain more independence. Thank you.
+IAN HARWICK: Thank you. Appreciate it. Mr. Kroll, were any-- were there any emailed comments received,
+or is there anyone else that has raised their hand?
+JACK KROLL: Director Harwick, there are no additional hands that have been raised at this time. And you
+all received written comment from the following individuals. Corey Gonzalez, Mary Henneck, Jaime Lewsit- Lewis-- excuse me-- excuse me, Jaime Lewis, Carol Silvastain, and Wayne Eckerling, all of which related
+to the topic of AoD program modifications.
+IAN HARWICK: OK. Then with no other participants in the queue, we will close the public comment period
+at this time. I'd also like to recognize that Director Ruscha has joined the meeting. And I will now turn the
+meeting over to Chair Bouquet to facilitate the election of Chair.
+JULIEN BOUQUET: Thank you very much, Director Harwick. As the Board Chair, I will now facilitate the
+election. And once the Chair seat is filled, I will turn that meeting over to the new Committee Chair. Unlike
+the Executive Committee election process, which uses secret ballots for the election of Board officers, for
+Committee leadership appointments, we'll proceed with open nominations, discussion, and vote by the full
+Committee.
 
-Remote
-Present
-Remote
+We will begin with the selection of Chair, and if needed, then Vice Chair. We'll allow for up to three minutes
+for those Board members to nominate a candidate, those seconding nominations, and any other members
+who wish to speak regarding the candidates to speak. I'll then call for a vote, and the candidate with the
+most votes will be appointed. If only one Director is nominated, the Committee may proceed by acclamation,
+and that Director will be appointed. I'll now start with nominations for Committee Chair. Director Buzek.
+VINCE BUZEK: Thank you, Mr. Chair. I nominate the Vice Chair of the Committee, Ian Harwick. Ian has
+done a great job not only as Vice Chair on this Committee, but as a Director, I've had the pleasure of serving
+with him for several years now. Is it several, Ian? Maybe two. I don't know. Seems like several. [LAUGHS]
+So anyway, he's level-headed, and he just gets through the work and does a great job. So my nomination
+for Chair will be Ian Harwick.
+JULIEN BOUQUET: Thank you, sir. Director Nicholson?
+CHRIS NICHOLSON: Are we allowed to second, or do we-- do you just need a first-JULIEN BOUQUET: Yeah, absolutely.
+CHRIS NICHOLSON: I'd like to second Director Buzek's nomination. He probably said it better than I ever
+could. I think Ian is one of the most level-headed Board members we have, and has done a phenomenal
+job in his service to the Committee so far. And I would love to have him do it as Chair for many years to
+come.
+JULIEN BOUQUET: Thank you, Director Nicholson. Any further comments or nominations? Director
+Ruscha?
+JOYANN RUSCHA: Thank you, Mr. Chair. For whatever it's worth, Vice Chair Harwick also gets my vote
+of support. [LAUGHS] But anyway, he was a great Vice Chair to work with and is a solid leader, a hard
+worker. Doesn't complain much, and tries to drive consensus. Emphasis, though, on hard work. There's a
+lot of work that goes into this job that's often unrecognized, and it's an extraordinary amount of hours. And
+I can't remember a time when Ian didn't show up with me. So you will be in good hands with Director
+Harwick.
+IAN HARWICK: Thank you, Director Ruscha.
+JULIEN BOUQUET: Thank you for the kind words, Director Ruscha. Any further nominations or comments?
+OK. With seeing only Director Harwick as being nominated as the Committee Chair, I will ask if anyone is
+opposed to appointing Director Harwick to the position of Committee Chair by acclamation. Please raise
+your hand if you're opposed. OK. Seeing none, congratulations, Committee Chair Harwick.
+So as the former Committee Vice Chair Harwick has now been elected as the Committee Chair, I'll now ask
+for nominees to fill the vacancy for the Committee Vice Chair position. Are there any nominations for Vice
+Chair? Director Nicholson. You're on mute, sir.
+CHRIS NICHOLSON: Thank you. Sorry. Bad habit. I'd like to nominate my fellow Board member, Director
+Kathleen Chandler, to be Vice Chair of this Committee. In the months that Director Chandler has been
+serving on OSS, she has proven to be insightful, thoughtful, deliberate, compassionate, and engaged. And
+I think that she will be a phenomenal partner to Chair Harwick in leading this Committee through the end of
+the year.
 
-5:30 PM
-5:30 PM
-5:30 PM
+JULIEN BOUQUET: Thank you, sir. Are there any further comments for Director Chandler or any further
+nominees for Vice Chair? Yes, Director Buzek?
+VINCE BUZEK: Thank you. I agree with Director Nicholson, but I really think that in this time when we have
+so much more work to get through by the end of the year, it's important that we have someone that's got
+some experience behind them to help us get through this difficult time. And because of that, I am going to
+nominate Troy Whitmore, who used to be the Chair of this Committee, and has proven himself to be rational,
+reasonable, transparent, and straightforward, to help us get through some of the difficult work we have
+ahead. Thank you.
+JULIEN BOUQUET: Thank you very much, Director Buzek. All right. So I have Chandler nominated and
+Whitmore nominated. Director Paglieri?
+BRETT PAGLIERI: Thank you. I would like to second my support for Director Chandler. Since joining the
+Committee, she has proven to be a reliable and hard worker, attentive, and been doing-- been a great
+support for an initiative that her and I shared at the beginning of the year. And when I had a high workload,
+she was able to take on more work on my behalf and didn't complain about it. Just got stuff done. And so I
+think that she'd be a great Vice Chair of this Committee. Thank you.
+JULIEN BOUQUET: Thank you very much, Director Paglieri. Candidates, would you want to take this
+opportunity to speak? No? Oh, yes, Director Chandler.
+KATHLEEN CHANDLER: Well, thank you. On behalf of the Committee of OSS, I appreciate the nomination.
+I do feel like I would bring a good balance to the Committee. I've also gotten to know Director Harwick, and
+I really think I could come and help support him in this journey.
+To Mr. Bu-- to Committee Member Buzek's point, I have not been on RTD very long, but I think I have
+proven my ability to get things done, to work, and to collaborate well. And so I think I can more than do the
+job and support Director Harwick, Chairman Harwick as he goes along. And I would like to grow into that
+position as well. So I think I would do a good job, and I hope I can garner your support.
+JULIEN BOUQUET: Thank you, Director Chandler. Director Whitmore.
+TROY L. WHITMORE: Good evening, all. Thank you for the opportunity to speak briefly. I appreciate
+Director Buzek's nomination. As he mentioned, I've served on this Committee most of my time during my
+six-plus years with RTD Chair last year and Vice Chair, a couple of terms prior to that. And willing to step
+forward to help in the remainder of the meetings this year.
+This is a little bit of a last-minute candidacy, and so I apologize for the lack of knowledge being shared with
+the rest of the group. And I certainly agree with all the nomination accolades for Director Chandler. She's
+off to a great start as a Board member and a leader. So hope there's no angst within this situation. It's
+always clumsy with these kind of elections. So anyway, for what it's worth, that's my piece. And I think it's
+best that we go on to the election.
+JULIEN BOUQUET: Thank you, Director Whitmore. Any further comments for either candidate? OK. Seeing
+none, I do see we have-- oh, Director Harwick.
+IAN HARWICK: I'm just going to speak really quickly. I-- Troy, I've known you for a long time. And Kathleen,
+I'm getting to know you. And I think the world of both of you, so I just want to put that out there before the
 
-Troy Whitmore
+vote. And I think you both would be great. So just want to put that out there, but I'm going to be done real
+fast.
+JULIEN BOUQUET: Thank you, Director Harwick. Director Ruscha.
+JOYANN RUSCHA: Thank you for letting me speak. So as a former member of the Committee, I have had
+the pleasure of working with both candidates, although I've worked with Director Whitmore longer because
+we have served longer together. He was an excellent Chair last year, and I think that-- I mean, being very
+familiar with our work plan and what is coming up next, primarily paratransit legacy protections, AoD, both
+candidates have clearly expressed interest and have worked on this issue.
+But as a person who was on this Committee for ADA reasons [LAUGHS] and to work on paratransit issues,
+I personally feel that right now, having steady leadership in somebody with experience is what's needed.
+We have one shot to get this right. And this is not a knock on the other candidate. Simply just a note that
+Director Whitmore does bring a significant amount of experience as it relates to paratransit, and was also
+there when we launched our AoD program. So he's been there from A to Z and understands it very, very
+well. I've often considered him a thought partner.
+And as a person who will be following along what the Committee does on this issue, I hope that that is also
+taken into consideration. It is the biggest piece of work that OSS has left of the year. So I will end my
+comments there. And whatever happens, I wish the team the best. Thank you.
+JULIEN BOUQUET: Thank you, Director Ruscha. All right. With seeing no further comments on this, I again
+see we have Director Chandler nominated, as well as Director Whitmore as Committee Vice Chair
+candidates.
+And with the opportunities provided to the candidates and their supporters to make their respective cases,
+I'll now proceed to call on each Committee member in alphabetical order for their vote. As I call your name,
+please state the name of the nominee who you'd like to support. Please state their last name. Director
+Buzek.
+VINCE BUZEK: Whitmore.
+JULIEN BOUQUET: Director Chandler?
+KATHLEEN CHANDLER: Chandler.
+JULIEN BOUQUET: Director Nicholson?
+KATHLEEN CHANDLER: Chandler.
+JULIEN BOUQUET: Director O'Keefe?
+PATRICK O'KEEFE: Chandler.
+JULIEN BOUQUET: Director Paglieri?
+BRETT PAGLIERI: Chandler.
+JULIEN BOUQUET: Director Whitmore?
 
-Director, District K
+TROY L. WHITMORE: Whitmore.
+JULIEN BOUQUET: Director Harwick.
+IAN HARWICK: Sorry, Troy. Chandler.
+JULIEN BOUQUET: All right. So thank you very-- with five votes, I see Director Chandler will be now your
+Committee Vice Chair. So congratulations, Committee Vice Chair Chandler. And thank you, Director
+Whitmore, for throwing your hat in the ring. And thank you all for your very kind and courteous comments.
+All right. Now that my election duties are complete, I will now ask the newly elected Committee Chair
+Harwick to take over for the rest of the meeting. Thank you very much, all.
+IAN HARWICK: One, thank you, Chair Bouquet. And Director Chandler, I see your hand raised. Real quick.
+KATHLEEN CHANDLER: Well, first of all, I want to thank Director Whitmore for throwing his hat in the ring.
+It's not easy wanting to be in position of leadership within RTD, so I appreciate that. And if you don't mind,
+I will call on you if I have questions. I would like to be collaborative in all that we do here. So by no means
+is this just going to be me helping Director Harwick, but this is going to be a collaborative effort, so I
+appreciate it.
+IAN HARWICK: Director Whitmore.
+TROY L. WHITMORE: Appreciate those kind words. And I have all the confidence in the world that you will
+call on me, Director Chandler, because you already have on a number of issues, and I appreciate that. So
+good luck to the leadership team, and I will continue to be an active member of OSS as long as I am a
+Board member. Thank you.
+IAN HARWICK: OK. Go, Rams. As there are no-- there are no external entity reports on the agenda for-on the agenda for tonight's meeting, so we're going to move to recommended actions. With four key
+recommended actions before us tonight, we will aim to address each one with both diligence and efficiency.
+The first action is for the August 2025 Title VI Service Equity Analysis for the Board of Directors-- for the
+Board of Directors to adopt the Title VI Service Equity Analysis report for the August 2025 service change
+to comply with federal laws, regulations, and guidelines related to Title VI of the Civil Rights Act of 1964.
+Do we have a motion?
+TROY L. WHITMORE: So moved, Whitmore.
+IAN HARWICK: Director Whitmore. I hear Director Whitmore. Do I have a second?
+BRETT PAGLIERI: Second, Paglieri.
+IAN HARWICK: I hear Paglieri as the second. I would like to ask Martin Romero, Transit Equity Manager,
+Carl Green Jr., Director, Civil Rights, and Jessie Carter, Senior Manager, Service Development, to present
+this item to the Committee.
+DEBRA JOHNSON: So if I may, Mr. Chair.
+IAN HARWICK: Oh, I don't know, GM. OK.
 
-Remote
+DEBRA JOHNSON: Yes, thank you.
+IAN HARWICK: Go ahead.
+DEBRA JOHNSON: Thank you very kindly. Greetings to all. Debra Johnson, General Manager and Chief
+Executive Officer, recognizing the equity analysis is firmly aligned with the proposed service changes that
+we have put forward for the August service change to take place on Sunday, August 31.
+At this juncture, we will have staff, specifically those in the Office of Civil Rights with Transit Equity, present
+the elements relative to the service equity analysis that was conducted. I will yield the floor. Mr. Romero, I
+believe you're going to start as we go forward. And the presentation is coming up, so we will go from there.
+Thank you very kindly.
+MARTIN ROMERO: Thank you. Good evening, Board Chair Harwick and members of the Board. So as
+introduced, my name is Martin Romero. I serve as the Transit Equity Manager. Tonight, I'll be presenting
+on the August 2025 Title VI Service Equity Analysis. And to give you some context and quick background,
+as a federally funded transit agency, RTD must comply with Civil Rights requirements, including Title VI of
+the Civil Rights Act.
+Our Board-adopted Title VI program ensures that our services remain fair and accessible for all
+communities. And the FTA requires us to conduct a service equity analysis for any major service changes.
+And so presenting this service equity analysis for August fulfills those federal requirements under Title VI
+and FTA guidance. Next slide, please.
+OK, so an outline of what I'll be covering during the presentation. I'll be covering the policies and
+methodology that guides our work in completing the service change equity analysis. I'll go over the results,
+both route-level and system-level. And then I'll cover our public outreach efforts, and finally go over the
+analysis, conclusion, and recommendation. Next slide.
+So Title VI policies include our major service change policy, as well as our disparate impact and
+disproportionate burden policies. So for simplicity, I'll be referring to disparate impact and disproportionate
+burden as DI and DB throughout the presentation. Next slide, please.
+OK. So one of our policies, the major service change policy, defines a major service change as any 25%
+increase or decrease in service hours, route miles, service span, or frequency for a router line. And this
+applies whether the change occurs all at once or accumulates over a 36-month period.
+Additionally, implementing, eliminating, or discontinuing a route also qualifies as a major service change.
+And for this round of service changes, there is a total of 58 changes across bus routes and rail lines. Of
+these, nine routes met the criteria for a major service change. Next slide, please.
+OK. So our DI and DB policies ensure that major service changes do not disproportionately impact equity
+populations compared to non-equity populations. And for reference, equity populations includes BIPOCs-so Black Indigenous People of Color-- as well as low-income populations. So specifically, these policies
+state that for a service increase, equity populations receive no less than 10% of non-equity populations.
+And for service reductions, equity populations receive no more than 10% of non-equity populations. So
+therefore, if we have a potential DI finding, we proceed only if there is substantial legitimate justification and
+no alternatives when less disparate impact exists to achieve the program goals. So for a potential DB
+finding, we consider modifications only when practicable. Next slide, please.
 
-5:30 PM
+OK, so let's review the methodology used for our Title VI analysis. So we apply each Title VI policy at two
+levels. So the route level and the system level. At the route-level analysis, we examine demographics within
+a quarter-mile buffer of each route using US Census data. And this helps us understand how the proposed
+change will affect the population living closest to that specific route that are more likely to use that route.
+And as an example, in the image, Route 0 appears as a red line with a light pink buffer representing the
+quarter-mile buffer around it. And at the system level, we look at the demographics of entire block groups
+served by the route stops rather than just the quarter-mile buffer. And this provides a more comprehensive
+understanding of the overall impacts across the transit network. And so the system-level analysis evaluates
+all major service changes together, which gives us a broader understanding than individual route-level
+analysis.
+So in short, route-level analysis looks at localized impacts for individual routes, while system-level analysis
+evaluates the overall impacts of all major service change combined. And one thing to note is that the service
+district average are 38.2% for BIPOC populations and 20.3% for low-income populations. And that is at the
+200% federal poverty level. Next slide, please.
+OK. So now having provided you that background, let's get into the route-level results. So to simplify the
+nine major service changes, I have a table here to indicate which changes have a potential DI or a DB at
+the route level. And separated-- and we separated the increases and decreases as well. So let's go over
+the increases first. So as shown, Route FF2 and FF4 have a potential DI. And Route 135 was found to have
+a potential DB.
+One column that I do want to highlight is the DI Threshold column. And this is the difference in percentage
+that this route exceeded the 10% threshold. So for example, FF2 was only 0.15% from being within the
+10% threshold. And similarly, FF4 was 0.10% away from being within the 10% threshold. And then Route
+135 was 0.17% away from the threshold. So all in all, all minimal differences. All the other routes did not
+have any impacts. Next slide, please.
+OK. So now let's go over the decreases as shown in the table here. Routes 29 and 30 were found to have
+a potential DI. Potential DBs were found on Routes 129 and 35. Again, if we look at the differences in
+percentages for these routes to be within that 10% threshold, we see minimal differences across the routes
+that have a DI or a DB. And the largest difference here is our Route 29's potential DB finding with 0.36%.
+Next slide, please.
+OK, so let's look at Route FF2 as an example to illustrate how we examine DI and DB. So for details on
+other routes, please refer to packet pages 38 and 53 for additional routes. So just a quick reminder that
+Title VI policies establish the threshold in order for us to perform this comparison.
+And so to get into the results, for the FF2, Route FF2 indicate that BIPOC populations receive less of an
+increase in service with 0.71% compared to non-BIPOC populations at 0.95%. And that's a difference of
+0.24%. This does meet the threshold of 0.86%. And therefore, there is a potential DI finding.
+On the other end, low-income populations stand to benefit more, with 1.20% more of the benefit compared
+to 0.67% benefit for non-low-income. And this does not meet the 0.60% threshold. Therefore, there is no
+DB found. Next slide, please.
+OK. So in addition to route-level analysis, we also evaluate access to key activity centers to better
+understand where customers are traveling to. And this analysis measures changes in access to retail and
 
-Also in attendance were Directors Benker, Catlin, Ruscha and Chair Bouquet.
-Along with Directors and senior staff there were 18 public participants in attendance.
+convenience stores, academic institutions, social services, senior housing, and employment centers. And
+it helps us determine whether access to-- access has increased, decreased, or is newly available on these
+proposed routes.
+So we sourced the data from S3 business analyst, 2022 and 2023 for retail and convenience stores and
+social services. We use DRCOG's Regional Data from 2024 for academic institutions and senior housing,
+and then US Census Bureau Longitudinal Employer Household Dynamics 2022 for employment. Next slide,
+please.
+OK. So as we look at some of the major service changes in the proposal, we can see that the changes
+enhances access to various locations. So you may have noticed that Route 29 is not listed, and this is
+because Route 29's elimination will be entirely recuperated by Route 30.
+Route 30's elimination loses some key activity centers. However, Route 30's elimination is being taken over
+by Route 35. So essentially, Route 30 loses 2,226 jobs and gains 6,375 jobs. With the extension from the
+29 and ultimately with the proposal, we'll provide access to 11,747 jobs.
+Similarly, the proposal-- the proposed Route 30 will provide access to 33 grocers and 32 academic
+institutions. The Route 35's proposed elimination will lose 6,922 jobs, gain 2,627 jobs from Route 30's
+elimination, and is proposed to serve 27,404 jobs on the new proposed route. Access will be enhanced to
+46 grocers, 45 social service centers, and 30 academic institutions.
+Note that Route 76, not shown here, is noted here because not a major service change. However, this is
+being noted because Route 76 will still provide access to any eliminated key activity centers from any
+elimination from Route 35. So all in all, any elimination noted is being recovered or covered by another
+route. Next slide, please.
+OK. The remaining routes will also improve access to key activity centers. Some notable examples include
+Route FF2. It has access to 52,000-- more than 52,000 jobs, 47 social service centers, and 12 academic
+institutions. Route FF4 enhances access to nearly 103,000 jobs, 35 grocery stores, and 96 social service
+centers, and 12 academic institutions. And then Routes 36, 135, 327, and LX2 also provide improved
+access to multiple key activity centers. Next slide, please.
+OK. So now let's shift into the system-level results. And as a reminder, the system-level results is a measure
+of the net impacts of the changes that are-- the changes as opposed to route level. So we also analyzed
+the results by separating the increases and the decreases to obtain a system-level-- the system-level
+results. And so let's first go ahead and take a look at the impacts for increases.
+So BIPOC populations tend to benefit more compared to non-BIPOC populations. So 7.58% versus 5.28%.
+The difference here is 2.3% in favor of BIPOC, which does not meet the DI threshold of 5.28%, and so
+there is no DI here.
+Low-income populations stand to benefit more compared to non-low-income populations. So 9.32% versus
+5.69%. That's a difference of 3.63%, which does not meet the DB threshold of 5.12%, and so there is no
+DB found here as well. So now let's go on to the decreases. Next slide, please.
+OK. So for decreases, BIPOC populations received more of a burden compared to non-BIPOC populations.
+So 0.85% versus 0.70%. The difference here is 0.15% in favor of non-BIPOC, which does meet the DI
+threshold of 0.77%, and a potential DI is found.
 
-B. Public Comment
-•
-•
-•
-•
+And then low-income populations receive more of a burden compared to non-low-income populations. So
+0.82% versus 0.74%. Difference of 0.08%, which does not meet the-- which does meet the DB threshold
+of 0.81%. So again, minimal differences between comparator groups. Next slide, please.
+OK. So as it relates to service changes, outreach, and public engagement, it's just as important as it is a
+requirement that we inform the public, specifically equity populations, and give them the space to provide
+feedback. I'd like to highlight that the Communications and Engagement team and the Service Development
+Department partnered to hold two virtual public hearings and one Ask a Service Planner virtual meeting.
+And those happened on June 16 and June 17. Next slide, please.
+So additionally, outreach efforts included a comprehensive bilingual strategy coordinated by the Marketing
+Department. This involved creating social media content and in-service assets for both-- in both Spanish
+and in English. Our community-based organization partners assisted in distributing information to 735
+community members through 19 in-person multicultural events.
+Public Relations issued three news releases in English and Spanish to regional media outlets. And they
+also published the Read-n-Ride. And direct communications via email were sent to 32 community-based
+organizations through the Communications and Engagement Department, while the ADA office forwarded
+details to 10 affiliated partners and centers. Next slide, please.
+OK. So to conclude, our analysis indicates that Title IX concerns are minimal and do not raise concerns
+about inequitable distribution of benefits. And the percentage DI to-- the percentage DI to threshold
+differences are also minimal. The route-level findings indicate that five out of eight increases provide more
+of a net benefit for BIPOC and low-income customers.
+And two out of the three decreases provide less benefit for BIPOC and low-income customers. However,
+the differences are minimal between the two comparator groups, and the adverse effects are being
+minimized or mitigated. Next slide, please.
+OK. At the system level there are no DI or DBs found with the service increases, but there are DI and DB
+findings with the service decreases. So again, here we see minimal differences between the comparator
+groups. And the majority of adverse effects are minimized or mitigated. Overall, the significant-- overall,
+there are significant benefits for BIPOC and low-income customers with the proposed changes, specifically
+with the major service changes proposed. Next slide, please.
+OK. So this brings us to the end of our presentation and fulfills the FTA requirements for Board awareness
+and consideration of the equity analysis. Staff recommends the approval of the August 2025 Title VI Service
+Equity Analysis. And with that, that's the end of the presentation. We will open it up to any questions.
+Director Nicholson?
+CHRIS NICHOLSON: Thank you. So I have a question.
+IAN HARWICK: Hold on a second, Director Nicholson. Real quick. Before we start, I'm just going to let
+everybody know, I'm going to have a three-minute cap on speaking, and we're going to shoot for two bites
+at the apple. So I'm going to try to really run this pretty thoroughly. So again, I hope that everybody can
+hold to the three minutes to start and the second bite of the apple. So let's try to keep it there. If you need
+a third bite, it better be really, really amazing. So Director Nicholson, you have the floor. You have three
+minutes.
 
-Mary Sanders
-Tim Keenan
-Jaime Lewis
-Sarah Lee
-Page 1 of 5
+CHRIS NICHOLSON: Thank you. So I have a question in seven parts. I'm kidding. It was a fantastic
+presentation. I learned a ton from you guys over the process, and I'm a big supporter. So thank you for all
+the work you put into it. Really excellent.
+IAN HARWICK: Director Paglieri.
+BRETT PAGLIERI: Thank you, Chair. When you say two bites of the apple, do you mean only two people?
+You want fewer-IAN HARWICK: No, no, I mean if you have a second question-- like how Chris didn't really have seven
+questions.
+BRETT PAGLIERI: OK, I get it. I get it. Thank you. But I do have a comment. I just want to say thank you
+very much for this presentation and the work you guys have put in going through this whole process. It has
+been rather rewarding to learn about this. Thank you.
+MARTIN ROMERO: Appreciate that. Thank you.
+IAN HARWICK: Is this a new record? Does anybody else have any questions? Oh my gosh. OK. Then at
+this point, we are going to take a vote. Do I have any no votes? OK. Then with seven yes votes and no no
+votes and no abstentions, this motion passes.
+OK. Second action for this evening, for the Board of Directors to approve the August 2025 service change
+as revised and summarized in Attachment A, and to authorize the General Manager and CEO or her
+designee to execute contract amendments as necessary for private operators impacted by the service
+changes. Do we have a motion?
+PATRICK O'KEEFE: So moved.
+VINCE BUZEK: Second, Buzek.
+IAN HARWICK: OK. I heard O'Keefe and a second. That was Buzek. All right. And now I would like to ask
+our GM and CEO, Ms. Debra Johnson, and Jessie Carter, Senior Manager, Service Development, to
+present this item to the Committee.
+DEBRA JOHNSON: Thank you very much, Mr. Chair. Before I yield the floor to Mr. Carter, as I was stating
+with the previous item, recognizing that our service changes, we have been able to add additional revenue
+service hours following tenants put forward in the branded System Optimization Plan that serves as a shortterm, comprehensive operational analysis. We have been diligent in the work that we have done,
+recognizing the various needs and with a laser-like focus on activity centers. You just heard from Mr.
+Romero, who shared how our work units have been coordinating in tandem to ensure that the information
+was put forward in a diligent fashion, and that we were taking into consideration historically disenfranchised
+customer segments.
+With that being said, I will yield the floor to Mr. Carter to give highlights relative to those service changes,
+and especially what we anticipate seeing going forward with the change, contingent upon your vote, that
+would be effectuated August 31 that also takes into consideration light rail modifications to accommodate
+our service delivery model as we look at rail reconstruction in the downtown core. With that, Mr. Carter, I
+will yield the floor to you, sir. Thank you.
 
-•
-•
-•
+JESSIE CARTER: Thank you CEO Johnson. And thank you, Martin, for your review. That was actually very
+good. And it's always great working with the Civil Rights division. Looking at the August 2025 service
+change, we had several notable changes that were related to the SOP, those being the South Federal
+routes, Routes 29, 30, 31, 35, and 36. We also had recommended changes, increasing service frequency
+on the Route 135 on Smoky Hill Road, increased service on the FF2 and US36, reintroduction of the FF4
+going to Boulder Junction and Civic Center, and also reintroduction of the LX2.
+Along with that, we have recommended changes to the light rail service. One of the most notable changes
+would be truncating the H Line at Southmoor Station. And we heard a lot of comments. So we did-- as
+Martin had mentioned, we had three public hearings and opportunities to take public input, and received
+quite a bit of comments coming from the public regarding the light rail changes, and also some comments
+regarding Route 34 and 38.
+However, as we go through and continue to analyze things that are in the service change, we did find that
+the Route 34 and 38 service change has to be postponed at this time because of the terminal actually not
+being ADA accessible. And that's something we certainly want to make sure is in place. So we are going
+to, again, postpone that. That is an SOP change, and is something that we want to do, because we think it
+will enhance access to that part of the community.
+With that, I believe those are the comments that I would need to make at this point in time. And I would
+either turn it back to CEO Johnson or open for questions.
+DEBRA JOHNSON: Nothing further from me, sir. I will yield the floor to the Chair.
+IAN HARWICK: OK. At this time, I would ask those Directors who have questions or wish to speak to raise
+your virtual hands, and I will call on you in turn. Again, we're going to have three minutes. And Director
+Chandler, I see your hand up.
+KATHLEEN CHANDLER: Yes, I wanted to say thank you for the service changes on Route 135 up Smoky
+Hill. That's where I live. That's the edge of my-- the bottom of my district is actually Smoky Hill Road. And
+that is amazing that you've been able to change that, because it is a growing area. We have a lot of
+opportunity out here. So I really appreciate the service changes, because that frequency is really a big deal.
+I also would like to say thank you for the one on Smoky-- I mean on Hampden, although I would also like
+to maybe think about increasing the route frequency on that Hampden at some point again perhaps in the
+future. Because I drive by there, and the frequency is not as much as it should be. There are people at-- I
+goes to the gym every day, and I drive right by that bus stop, which is the very first bus stop there at
+Hampden, and just a little bit east of Tower Road.
+And at 5:30 in the morning, 5:20 in the morning, there are probably 10 people there. And those people
+probably have no choice, because the next bus isn't for another almost 30 minutes, you know? And that
+just is really difficult that early in the morning, especially when it's cold and snowy. But I appreciate at least
+you looking at it and looking at, again, that Route 35. So I appreciate it.
+JESSIE CARTER: OK. Thank you.
+IAN HARWICK: Thank you, Director Chandler. Director Nicholson.
 
-Zachary Dreicer
-Dave Bahr
-9710 - Mason
+CHRIS NICHOLSON: Thank you. I wanted to call out-- so first off, the increase in 15-minute service on
+Quebec has been a big hit for the people in my district. But there are two routes here that-- one that I use
+a lot, and I'm thrilled to see the increase.
+I think I emailed GM/CEO Johnson back in January about the FF2 and the significant benefit for people
+who are in downtown and need to get up to Boulder for meetings and things like that. Just the amount of
+people I know for whom the quality of life difference in being able to take that bus is gigantic. And it's been
+amazing for me when I've been able to catch it. So I think there are a lot of people in my district and up in
+Boulder who are really going to enjoy being able to see more of that.
+But the second one is in eight years of being in Colorado, I have been to Longmont exactly twice. And the
+reason why is that the buses that connect without the LX, the difficulty of getting there from Denver and the
+connection and the time, you just find reasons not to.
+And so I am extraordinarily excited to be able to go up and visit friends who are up there, visit RTD Directors
+who I'm friends with who are up there. And I think for those of us who are transit-dependent in Central
+Denver, the ability to visit Longmont, using that bus to go up for meetings and things like that, those regional
+buses are so critical, and they're an equally important part of our network to all the local buses that run
+through my district. And so really happy to see in this service change the prioritization and the additional
+service hours.
+And so thank you, Jessie, and thank you-- sorry, Mr. Carter. And thank you, GM/CEO Johnson, for being
+able to put those additional hours back into service and being able to get the workforce to where it is that
+we can be doing this at all. So thank you both.
+JESSIE CARTER: Thank you for your comment.
+IAN HARWICK: Do I have any other Directors that would like to speak? All right. Well, in that case, we will
+take a vote. Do we have any no votes? Rock on. With seven aye votes and no no's and no abstentions,
+this motion passes.
+Our third action for the evening is Access-on-Demand program modifications for the Board of Directors to
+approve modifications to the supplemental premium Access-on-Demand, otherwise known as AoD, service
+for RTD's paratransit customers, as described here and effective October 1, 2025. Before I take a motion
+here, I just-- I know there's a couple-- there's thoughts on this. There's some people that want to put forth
+some changes. I just want everybody to remember, we've been working on this for a very long time. At the
+minimum, a year.
+And obviously, there's a lot of community members that really-- that this impacts on a daily basis. So there's
+a lot of people on both sides, staff that have worked really, really hard on this, Board members that have
+spent a ton of time thinking about this, trying to help usher this along. And I just really want to set the tone
+of, let's just remember that everybody here is all fighting a really good fight for something that's very
+important for a group that we have really worked well with in the past, and let's continue to do so tonight.
+So with that in mind, do I hear a motion?
+CHRIS NICHOLSON: So moved.
+IAN HARWICK: Do I have a second?
+TROY L. WHITMORE: Second, Whitmore.
 
-Email
-• Kori Gonzales
-• Mary Henneck
-• Jaime Lewis
-• Carol Silvestain
-• Wayne Eckerling
+IAN HARWICK: All right. I've got Nicholson as the motioner and Whitmore as the seconder. With that in
+mind, I would like GM/CEO Johnson and Erin Vallejos, Acting Deputy Assistant General Manager, Bus
+Operations, to present this item to the Committee.
+DEBRA JOHNSON: Thank you very kindly, Committee Chair Harwick. Appreciate your comments. Debra
+Johnson, General Manager and CEO. Before I yield the floor to Erin Vallejos, just as a gentle reminder to
+amplify what you said, recognizing the importance of paratransit services that RTD provides is critically
+important to this region. And the team and I fully understand the importance of this. Hence, that's why I
+commissioned a peer review by the American Public Transportation Association back in the latter part of
+February of 2024, and engaged with a multitude of different advocacy groups and stakeholders and with
+many of you one on one and having dialogue as we move forward.
+Keeping in mind that what we are seeking here is some guidance and support from this body, recognizing
+that it is our responsibility to be good fiduciaries, we are very amenable to what the Board decides going
+forward, and can engage on those fronts from a financial capacity vantage point. Keeping in mind that in
+the various presentations that we have put forward, I have made it clear that we were seeking guidance
+from all of you, hence the subsequent agenda item that we have before us tonight, recognizing that we will
+have to do contract extensions to our current service providers relative to delivering these programs.
+And the reason why that we've been in this precarious position is due to the fact that we didn't have any
+clear-cut direction relative to any modifications coming forward with the program. So appreciate you all
+leaning in to this critical topic. And this will put us in a space where collectively, this body can align around
+the path forward. While we have received comments from you at this juncture, what we put forward as staff
+is what we heard at the last presentation, recognizing that there were disparate viewpoints. And we're
+seeking alignment, quite naturally, for the betterment of the constituencies in which we serve.
+So with that, I will yield the floor to Ms. Vallejos to go through the presentation, and look forward to hearing
+your robust discussion as it relates to the supplemental premium paratransit program that this agency has
+branded as Access-on-Demand. Thank you very kindly. Ms. Vallejos, the floor is yours.
+ERIN VALLEJOS: Thank you, General Manager and CEO Johnson. Let me just launch my presentation.
+As stated, I am Erin Vallejos, Acting Assistant-- Acting Deputy Assistant General Manager of Bus
+Operations. That's a mouthful to get out there. And thank you for your time today.
+As GM/CEO Johnson has noted, this has been something that we have been discussing for a while. So I
+am just going to hit on some high points, because I don't want to belabor some of the information that we've
+received several times at this point.
+But so quickly, we are going to do just a brief overview. I think there's a few key elements that are really
+important to note as we move forward with this discussion. Again, just a quick highlight of the process
+summary, and then we're going to present the program recommendations as they stand this evening.
+So for the paratransit overview, a lot of this is information that you have seen. But just, again, want to hit
+on a couple of points. So we have been discussing Access-a-Ride, and that is RTD's federally mandated,
+complimentary paratransit service. And I think one of the biggest things to note about that is that service
+must be scheduled at least a day in advance.
 
-C. Selection of Chair
-Selection of Chair and Vice Chair
-2025 Committee Chair and Vice Chair
-Chair – Ian Harwick
-Vice Chair – Kathline Chandler
+And I think a lot of these other topics are very common. You must be eligible and meet certain criteria as
+set forth by the Americans with Disabilities Act. It does supplement our fixed-route service within that 3/4
+of a mile boundary. And it is provided by all RTD-branded, 100% accessible vehicles.
+And then we have our Access-on-Demand service. And that is, again, our supplemental premium service
+for paratransit customers. And this is not the same as Access-a-Ride, which is our federally required
+program. It is in addition to. This is, again, subsidized curb-to-curb taxi and ride share service.
+And then I think some of the biggest points to note with this one is that trips do not need to be scheduled in
+advance. Trips are not shared and are point to point. And then something else that is very important to note
+is that trips requiring a wheelchair accessible vehicle are primarily provided through RTD Access-a-Ride
+vehicles.
+So then just touching on the process summary, as GM/CEO Johnson noted, this all really did start with the
+commissioning of a peer review back in February of 2024. That was a very thorough process that was
+conducted to review not only our Access-on-Demand program, but also our Access-a-Ride program and
+look holistically at our paratransit services.
+We presented-- universal we there, because I was not in my current capacity. But recommend-- sorry, not
+recommendations, but just kind of the overall peer review were presented to the Operation, Safety and
+Security Committee in November of 2024.
+After that, we did conduct very extensive outreach and refined further recommendations that were
+presented in March of this year. Again, we went back and refined the recommendations further, and then
+came back to the Board in May. And now here we are today with some additional recommendations that
+we are putting forth for consideration of the Committee.
+And then just to highlight on the outreach summary that we did between October and the recommendations
+we brought forth in March, there were multiple virtual and in-person meetings. We conducted several
+surveys that were really geared towards active customers. But we also had a website where the general
+public and interested parties could provide their feedback, and various emails and other communication
+that went out to our customers. And then again, we have continued engagements since that point with the
+guidance of our General Manager and CEO.
+So just to note, we have come back to, again, various recommendations that we have revised along the
+way. We have seen the fare recommendation be revised as we have refined this process. Our initial
+recommendation was at a $4.50 fare. But with those recommendations, there was a lower trip cap. For the
+March recommendation, it was at 40 trips per month. And between the initial recommendation in November
+and the revised, the trip subsidy was also adjusted accordingly, kind of with that additional higher trip cap.
+With the scenarios that we discussed at the May Board meeting, we did have two scenarios. The fare in
+those scenarios, we had a $6.50 fare for one scenario, and then we had a tiered fare for a different scenario
+that would allow for a lower fare for some lower-- a lower number of trips. And then as the number of trips
+increased, the fare would increase with that.
+So again, for the first scenario with the $6.50 fare across the board, that was at a 50-trip-per-month cap.
+And then with the tiered approach, we did propose increasing the trip cap to 60 per month. The subsidy for
+both of those recommendations remain the same at $20.
 
-D. Information from External Entities
-None.
+And then I do want to note, in all of these scenarios, staff has proposed mirroring the current Access-aRide service area and service hours. And that has remained consistent, and we will touch on that a little bit
+further.
+So now the program recommendations that we are presenting today. We have proposed the trip cap at 60
+trips per month. That has been a lot of feedback that we have received and heard, that they would-customers would like to see a higher trip cap.
+We are proposing the fare at $6.50. Also important to note that this fare is LiVE eligible. So if customers
+qualify for the LiVE program, their fare would be $3.25. We are proposing a $20-per-trip subsidy. And then
+we are proposing to mirror still the current Access-a-Ride and service area and hours.
+And so this is going to result in approximately about a 36.5% savings. When we did the analysis, we were
+estimating about $5.6 million for the yearly impact. That is going to vary slightly as the program does
+increase in popularity. That dollar amount will change. But again, the percentage should be about the same.
+And so wanting to touch on the preferred scenario, why we are making some of the recommendations that
+we are making, we have tried to target an approximate savings that we think will make the program
+financially sustainable. Again, this is still a supplemental premium service, so there are some features that
+are available that maybe are not available on the Access-a-Ride, particularly that trips do not need to be
+scheduled in advance. Trips are not shared with other customers. And again, they are point to point.
+And it is important to note that Access-a-Ride is available. Should a customer know they need to take a trip
+in advance, they can always utilize that in an effort to manage their 60-trip cap. And then again, it's also
+always available if they do reach their 60-trip cap before the end of the month.
+And just touching on a few more important points for why we are bringing forth some of the
+recommendations. As I noted earlier, RTD does provide the Wheelchair-Accessible Vehicles for the majority
+of the trips that require-- that feature the wheelchair accessibility. And while this is really important to note- is that Access-on-Demand trips with WAV vehicles reduce our availability on Access-a-Ride, so we are
+drawing away from our federally required paratransit program to operate some of the Access-on-Demand
+service.
+There is also, depending on the availability of those wheelchair-accessible vehicles, because we are
+providing the majority of them, depending on if the demand continues to increase, that could result in longer
+wait times for on-Demand trips. And then again, as I noted earlier, but just to put it into perspective, providing
+that wheelchair-accessible service is reducing our capacity on Access-a-Ride.
+When we did our most recent analysis, it was reducing it by 17%. But what I do want to note is that when
+we first started looking at this back in 2024, that started out as 10%. So we are seeing a pretty big increase
+in pulling away from our Access-a-Ride service to support our premium supplemental service.
+And as was noted again, when we look at 2024, 95% of AoD trips that were completed during that time
+period would still be eligible for service if we did implement the Access-a-Ride boundary in effect. But again,
+some of this, while there are cost savings, is really more being put forward as we balance between the two
+programs, because it is important that we still maintain quality service on our Access-a-Ride program.
+And so proposed next steps. We are here today presenting to you as the OSS Committee. Provided that
+this is advanced forward, we will be looking for Board consideration at the July 29 meeting. Provided the
+outcome of that, if modifications are approved, we will be looking to begin implementation in August.
 
-E. Recommended Actions
+And then no changes would go into effect until October 1, and the reason for that is that there is going to
+be a pretty extensive outreach. Customers are going to need to not re-certify eligibility for Access-a-Ride,
+but they are going to need to go through the steps to re-enroll in Access-on-Demand because it is voluntary.
+So there are just going to be some steps that need to happen with that. There are also some customers
+that aren't necessarily as involved or in the know, and so we want to make sure that we have really strong
+communication and outreach so there are no surprises come October 1. So that is our plan going forward.
+And with that, I thank you for your time.
+JACK KROLL: Chair Harwick, you are muted.
+IAN HARWICK: Thank you, Mr. Kroll. I appreciate that. Thank you, Ms. Vallejos. At this time, I would like
+those Directors who have questions or who wish to speak to raise their virtual hands and I will call on you
+in turn. I'm going to go with Committee members first, and then I will follow up with other Directors. And first
+and foremost, Director Nicholson. You have three minutes. Same rules apply as last time.
+CHRIS NICHOLSON: Thank you. So I really appreciate the amount of work that has gone into this proposal.
+These changes are necessary for all the reasons that staff laid out, and they are incredibly thought out. I
+have been on so many meetings looking at this issue, and had so many conversations. And I think that they
+balance a lot of different important considerations incredibly well and give us cost savings that are
+sustainable well into the future.
+And I think a large question mark for me in the long term for RTD is around the sustainability of the choices
+that we make. And so seeing us make those choices here is really something that I welcome.
+And so-- so all that being said-- and I will either way be a yes at the end of this conversation-- I do think
+there is one thing that is missing from staff's proposal that would ameliorate what I see as a significant
+impact to a handful of very important and very underserved communities that we have in the district.
+There are places like unincorporated Jefferson County. Places like Brighton receive very little service
+compared to the amount of money that they spend to pay for RTD every year. And this proposal for those
+places that have only commuter service would mean that they would lose access to AoD entirely.
+And I just don't think that's right. I'm not personally comfortable with it. I can understand the reasons why
+staff went in that direction. It makes logical sense to make it match up with AoD or with AaR. But I think we
+need to recognize the impact of doing that on these communities that already are disadvantaged.
+So I'd like to make an amendment to the proposal to say that the Access-on-Demand service area shall
+also include all origins and destinations that lie within 3/4 of a mile of any RTD fixed-route bus service,
+including commuter and regional bus routes.
+TROY L. WHITMORE: Mr. Chair, I'll second the motion.
+IAN HARWICK: OK. We can take a vote. Do I hear any-- do I have any no votes?
+VINCE BUZEK: No.
+IAN HARWICK: One no. [INAUDIBLE] go ahead.
+JACK KROLL: Chair--
 
-• August 2025 Title VI Service Equity Analysis
-For the Board of Directors (Board) to adopt the Title VI Service Equity
-Analysis report for the August 2025 service change to comply with federal
-laws, regulations, and guidelines related to Title VI of the Civil Rights Act of
-1964 (Title VI).
-Motion:
+[INTERPOSING VOICES]
+Chair Harwick, you might wish to entertain a little bit of discussion on the item before the vote. I don't believe
+it was entirely clear that discussion had been exhausted on that.
+IAN HARWICK: Fair. Thank you. Thank you, Mr. Kroll. Do we have any discussion on the amendment? So
+I see a bunch of hands. If you would-- if you wouldn't mind lowering your hands-- I have-- let's hear-- I have
+O'Keeffe, Buzek, Ruscha in terms of normal questions. But Ruscha, I see that you have a question on this
+one. So if you want to go ahead, please feel free. JoyAnn? Director Ruscha?
+PATRICK O'KEEFE: I think it's still frozen.
+IAN HARWICK: OK. Do we-- while we're waiting for Director Ruscha to get back online, does anybody else
+have any discussion questions for the amendment? Director O'Keefe, I still see your hand up. Is that for
+this, or is that for your other secondary question?
+PATRICK O'KEEFE: It's not a secondary. I was going to speak on the general item before us. But one of
+the things I was going to say is related to this, if you'd prefer I'd say it here.
+IAN HARWICK: If you want to say that here, and then I'll go to Director Catlin unless Director Ruscha shows
+up.
+PATRICK O'KEEFE: Cheating the three-minute clock. So I think Director Catlin is probably going to be
+similar to my comments. We have a disparate service already set up for the area. You pay the $0.01 sales
+tax wherever you live, regardless of service.
+And we, at our Finance Committee, heard about the future projections for the district's finances. And we
+are going to be in a position where we're going to need to ask all of our constituents and stakeholders to
+support something to get us on a financial footing for the remainder-- for decades to come. We can't
+continue limiting service by things that are geographically preferable to the urban core. That is a really
+important part of our service. Absolutely get it, and it will always have more.
+What we're doing in removing bus service and light rail service is disadvantaging people that we need to
+reinforce support for the district. And so I strongly support this amendment. I actually think it could go farther
+and bring more people in. It's an arbitrary distance. I know it aligns with Access-a-Ride.
+However, bus routes have disappeared from my district and others, and the need doesn't go with those bus
+routes going away. These are people that are not using traditional bus routes, and they're at the mercy of
+people who are using them.
+And so I think as we go forward, we need to really think about what the impact for people that sit outside
+that urban core and are conveniently located within 3/4 of a mile of a 100 bus routes, and focus on an
+equitable service that is also implementable in places that are outside the urban core. Thank you.
+IAN HARWICK: Thank you, Director O'Keefe. Director Ruscha, I had you as the next person. And then
+Director Catlin, I have you following Director Ruscha. Director Ruscha, you have three minutes.
+JOYANN RUSCHA: Thank you, Mr. Chair. I actually had a comment on the motion, but I had a clarifying
+question with the rules. Does this count as my one-- one of my two bites of the apple on the motion? I'm
+talking about-- I wanted to talk about the motion, but I lost connection.
 
-Director Whitmore made the motion to move this
-item to the Full board at the July 29, 2025,
-Board Meeting.
-Director Paglieri seconded the motion.
+IAN HARWICK: No, it's-- yeah, just go. We're going to give everybody a little bit of grace on this one, but
+we will all try to keep tabs on it. Go for it. Just go-JOYANN RUSCHA: OK. I just [INAUDIBLE] motion, and then later, I have two comments. OK, thank you.
+So I appreciate what Director Nicholson is trying to do. However, in reading the language proposed, I
+actually think it has an unintended consequence. While I can understand the idea of trying to stop some of
+the bleeding of what staff is recommending for cuts, this will-- without getting too deep into it, I think number
+1, it opens up to legal liability.
+And two, this Committee had on its work plan, and it's in progress and Directors are still working on it,
+legacy status, which includes both AaR and AoD. So on that one, we have to goose gander. And you could
+also read this to inadvertently cost some people service based on the numbers that we currently have. So
+while I understand where Director Harwick is-- or excuse me, Nicholson is coming from, I would urge the
+Committee to pause, do some more research with staff, and then you can always bring it back next month,
+or we can entertain it at the end of this month. Thank you.
+IAN HARWICK: Thank you, Director Ruscha. Director Catlin.
+PEGGY CATLIN: Thank you. I am not a member of this Committee, but I strongly support Director
+Nicholson's amendment. This has been a sore subject of mine because of all of the routes that have been
+deleted from my district. And the needs in my district are great for this type of service. And I just really
+appreciate actually Director O'Keefe's and Director Nicholson's arguments in favor of this amendment.
+And I'm not a member of the Committee, but I strongly support this. And it's-- I don't think that AoD is a
+zero-sum game. I believe that we can look in the Finance Committee at some trade-offs and believe that
+we can really avail this service to garner more ridership in the district for all members.
+And I just am-- I am very much in support of this and do not want to-- I don't want to take away from any
+service, but I want to make sure that we see everything that we can to augment service to those that are
+underserved, particularly in my area. Thank you.
+IAN HARWICK: Thank you, Director Catlin. Director Nicholson. Second [INAUDIBLE] be your friend.
+[INAUDIBLE]
+CHRIS NICHOLSON: [LAUGHS] Very quickly, I just wanted to acknowledge that while I'm running the
+amendment here, it was and has been Director Catlin who has been on this for-- ever since I've been on
+the Board and before. And I've really learned a lot from her about this issue and the significant impacts that
+it has on districts like hers and Director Whitmore's and Chair-- [LAUGHS] I can't remember the last name
+of our Chair.
+And so-- no, no, sorry, the Chair of the Board. But my point being I just really appreciate the advocacy that
+she has put in on this. And I think it's the right thing to do, so thank you.
+IAN HARWICK: OK, I have two questions for staff. First one is for Ms. Vallejos. This is-- the multi-stop. This
+has been brought up a bunch, and I know that I have asked this question-- a different version of this
+question-- and I will set my own timer-- a few times.
+But I just want to find out if-- I know that we do this right now-- oh, sorry. You're right. Sorry, Jack. I will hold.
+Wrong time. Wrong time. But I do have one for Ms. Snyder. Ms. Snyder, Director Ruscha brought up the
+potential for there being some legal action. And I'm just curious. I don't want to put you on the spot, but I'm
 
-RESULT:
-MOVER:
-SECONDER:
-AYES:
+just curious if you sense that, as Director Ruscha often hits the nail on the head when we're not expecting
+it, and when we are expecting it as well. Just curious if you have can opine about that.
+MELANIE SNYDER: Yes. Thank you, Chair Harwick. I think that-- I don't think that this is the appropriate
+forum for me to give legal advice on this question in order to be able to preserve the privilege. I think that's
+something that I could advise the Board via email.
+IAN HARWICK: OK. All right. Appreciate that. Do I have anyone else who'd ask a-- talk-- to discuss this?
+Director Nicholson?
+CHRIS NICHOLSON: Very quickly, I just wanted to piggyback on that and ask a question of GM-- sorry,
+General Counsel Snyder. Have we had in the past times when AoD and AaR had different terms of service,
+where they had different boundaries or different fares? Or has there always been the alignment that we are
+seeing with this proposal? Because it's my understanding that we have had different boundaries in the past
+between AoD and AaR. Is that correct?
+MELANIE SNYDER: Mr. Chair, if I may, I think it would be more appropriate to defer to our GM and CEO
+Johnson or Ms. Vallejos. It's not really a legal question, and I don't actually have the longevity with this
+program and the different parameters we've had over time.
+IAN HARWICK: CEO Johnson, you have the floor.
+DEBRA JOHNSON: Thank you very much, Mr. Chair. Appreciate the question, Secretary Nicholson. I think
+it's important to amplify what has been stated numerous occasions, recognizing that the Access-onDemand program is a supplemental premium service. Hence, this is a program designed by RTD. The
+Access-a-Ride program is the American with Disabilities Act of 1990, complimentary paratransit service by
+which we adhere to the FTA guidance recognizing 3/4 of a mile.
+Moreover, to the point that Ms. Vallejos has amplified, recognizing that we are using RTD wheelchairaccessible vehicles to provide support, which is pulling away from our ADA-mandated paratransit service
+to ensure, I would say, fairness across the customer segments, I provide that to say that, yes, there have
+been different programs. But this agency during my tenure-- and I'll yield the floor to Ms. Vallejos, who has
+longer tenure than I have. But this program had started as a pilot prior to me coming on Board as the
+General Manager and CEO by, I'd say, several months.
+With that as the context, they are different programs. And keeping in mind that we do have different fares
+as well, recognizing that the airport is a premium service. And if one would read the APTA peer review, that
+is something that was critical as well, because we have heard comments about the disparate fare structures
+relative to what we are presenting, because they're different programs by virtue of adherence to federal
+guidelines. With that, I will yield the floor to Ms. Vallejos to answer your question from a historical
+perspective. Ms. Vallejos, the floor is yours.
+ERIN VALLEJOS: You know, General Manager and CEO Johnson, I think you did an excellent job
+answering that. You are correct. This did start out as a pilot within a few ZIP Codes, and then it was
+expanded into a larger program.
+So just with that, the nature of that, when it was a pilot, obviously it had a different service area because it
+was only available in a small market. And then again, it has had a different boundary, being a different
+program than Access-a-Ride, really since the start of when it was launched as a more large-scale program
 
-PASSED COMMITTEE [UNANIMOUS]
-Troy Whitmore, Director, District K
-Brett Paglieri, Director, District M
-Buzek, Harwick, Chandler, Nicholson, O'Keefe, Paglieri, Whitmore
+available to the entire paratransit customer base, Access-a-Ride customer base. And again, there has been
+differences in fare. So I think GM/CEO Johnson, you covered it well.
+CHRIS NICHOLSON: Thank you.
+IAN HARWICK: OK. Also-- let's see. Director O'Keefe, I know you also had-- you had some other thoughts
+on this. Do you want to make a motion to change the recommended action? Wait-PATRICK O'KEEFE: No, no. I have comments on the main motion, not the-IAN HARWICK: OK.
+PATRICK O'KEEFE: Thank you.
+IAN HARWICK: OK. All right. With that in mind, I see no more questions. Let's take a vote on the
+amendment. Do we have any-- I know we have one no, so I'm going to go through-- I'll go through a roll
+call. Director Buzek?
+VINCE BUZEK: No.
+IAN HARWICK: Director Chandler?
+KATHLEEN CHANDLER: Yes.
+IAN HARWICK: Director Nicholson?
+CHRIS NICHOLSON: Yes.
+IAN HARWICK: Director O'Keefe?
+PATRICK O'KEEFE: Yes.
+IAN HARWICK: Director Paglieri?
+BRETT PAGLIERI: Yes.
+IAN HARWICK: Director Whitmore?
+TROY L. WHITMORE: Yes.
+IAN HARWICK: And I am Director Harwick, and I am also a yes. With that, we have six yeses and one no,
+and the motion passes. Or the amendment passes. OK. All right. Now we had a series of other questions
+about the initial. Director O'Keefe, you are next on my list.
+PATRICK O'KEEFE: Thank you, Mr. Chair. And I'll preface this with just a couple statements. First, I am
+new to the Committee. I do not have an amendment. I'm not presuming to understand the consequences
+or unintended consequences of amendments right now. I appreciate the fact that all the time and effort has
+been put into this. I've been kind of a casual observer, not being on the Committee, and I know it's been a
+lot.
 
-Committee Chair Harwick declared the motion PASSED unanimously.
+I think that there is-- the way I look at this is the budgetary and policy parameters of the Board has put some
+pressure on this program. It's been popular, and so the use, and therefore the expense has gone up. And
+I understand that the Board is responsible for the budgets that we set and approve and the policies that we
+set and approve, and I think that has constrained the program.
+I am a no vote on these changes, and there's a few things that I just-- I want to note. And they're not-- none
+of these are a criticism of the staff effort or time that's gone into it. I think everything's been well intentioned.
+First, RTD has always been an ADA leader. We're celebrating that with station namings and ADA Month,
+and all these things. I think this is a place where we have a program that can continue to be a leader.
+Incidentally, it's a technology that we probably need to get familiar with. I think if we went ahead several
+years, we're going to be dealing with a combination of smaller vehicle trips and larger regional trips. And
+this is a pretty good way for us to figure out how to do that well.
+It's a popular program, and I'm not sure that popu-- popularity drives budget. It's also popular. And I think
+having enthusiasm for a program that we're running right now is unique. And so I think emphasizing things
+that people are finding value in is important.
+I don't understand the base fare difference. I understand that the airport is different as a premium service.
+And I understand that's a term of art. But in this case, it's really an accommodative service for people that
+need a more intimate trip-- going to school, going to the doctor-- that may not be appropriate. The cap on
+trips I've heard is a challenge, and I understand staff has done a great job with that.
+All our trips are subsidized, and some more than others, so I understand this is not the highest subsidy. So
+I'd like for us to look at the program between-- or the proposal between now and the Board. And I will come
+back with a little bit better understanding of it, and may have some amendments. But tonight, I don't think
+it fits it, and I am a no.
+IAN HARWICK: All right, Director O'Keefe. That thing-- I couldn't get it turned off in time.
+PATRICK O'KEEFE: I deserved it.
+IAN HARWICK: OK. I'm going to call on Director Buzek, and then Director Ruscha, I see your hand after
+that.
+VINCE BUZEK: Thank you, Mr. Chair. And I just want to concur with the comments made by Director
+O'Keeffe regarding this program, and I'll also be a no vote. I made these same comments-- I don't know-a month ago with regard to this service.
+These people, this community of people have come to rely and depend upon this service just to live their
+lives. Not to go to Bronco games and not to go to other things that are somewhat extravagant, but to live
+their lives. And here we are, proposing a plan that will, in essence, take this away from a number of people
+who can't afford to do this anymore.
+So this community is going to be negatively impacted. And I guess we can tell that because I haven't heard
+one comment from one member of the disability community in support of this. So I made these comments
+last time. I'm sticking by my comments. I appreciate the comments of Director O'Keefe. I will be a no vote
+on this. Thank you.
 
-Page 2 of 5
+IAN HARWICK: OK. Director Ruscha, I've got two-- I've got other Committee-- go ahead, Director Ruscha.
+JOYANN RUSCHA: Thank you, sir. [LAUGHS] So I concur with the previous comments, especially Director
+Buzek. We've been hearing about this for 10 months, I think, and we've heard hundreds and hundreds of
+comments saying no to all the various iterations. I have yet to hear one. But I also just wanted to note-- and
+I apologize if I don't quite understand our directions or what the apples are-- the biting of-- but anyway, I'll
+stay under time.
+Savings may be up to $5 million. Maybe up to $5 million. We didn't even hit our budget last year for this
+program. And service enrollment has leveled off. That's couch change. We could easily find that. We have
+that money.
+And then finally, on WAV services-- wheelchair-accessible vehicles, excuse me. The reason why we're
+providing wheelchair-accessible vehicles is because we told contractors years ago when we originally
+signed these contracts that they didn't have to follow the ADA, that we would figure it out. It has been five
+years.
+And our solution to ensuring that we weren't discriminating on the basis of disability was, yes, to pull away
+from Access-a-Ride and use those vehicles. That was not a good solution. That wasn't a good solution
+when it was brought up two years ago, and it's not a good solution today. And I don't think it's fair for us to
+go to community and say, we didn't have an answer, so we're going to gut a popular service that thousands
+of people depend on because we couldn't figure out how to not discriminate on the basis of disability.
+That's not why we're here. That's not why the Board is here. And I strongly encourage a no vote on this
+package from this Committee. We can continue to work on it. But as it has been said a few times, the only
+folks that are saying yes are not the ones using the service. Thank you.
+IAN HARWICK: Director Chandler.
+KATHLEEN CHANDLER: Yes, thank you, Chairman Harwick. My question has to do with also that $6.50
+fee. What I don't understand is if we're going to make it equal in terms of the geography, the 3/4 mile, then
+we should make it equal also in the amount that's charged, only because, why are we having that disparity?
+So I would also suggest that we go back and maybe look at that. I've heard a lot of folks complain directly
+to me also about that $6.50 charge. And I have offered some creative solutions for maybe other iterations
+of Access-on-Demand, because I think it's an excellent program. It offers a myriad of opportunities. But I
+think we're just not thinking creatively.
+So I would ask that we, in the future, continue to enhance this program, because I do think that we can
+make it even better. I think we can do some partnerships, public-private partnerships that would alleviate
+some of this so we don't have to add-- to gut Access-a-Ride.
+So I would ask that we would go back and look at that disparity. If we're trying to make them equal in terms
+of geography, then we should also probably make it equal in terms of the cost, because it is subsidized at
+a much lower cost than Access-on-Demand. So for that reason, unfortunately, I too will have to vote no.
+And I also think that we can go back and be a little bit more creative in some of our solutions.
+IAN HARWICK: Director Nicholson?
 
-• August 2025 Service Change
-For the Board of Directors to approve the August 2025 Service Change as
-revised and summarized in Attachment A and to authorize the General
-Manager and CEO or her designee to execute contract amendments as
-necessary for private operators impacted by the service changes.
-Director O’Keefe made the motion to move this
-item to the Full board at the July 29, 2025,
-Board Meeting.
+CHRIS NICHOLSON: Thank you. Yeah, it sucks. We're looking at making meaningful cuts to a program
+that people depend on, and it's a tough thing to do. We have a fixed budget. We don't get the ability to raise
+revenue overnight. And we have to make choices and really tough trade-offs between the fixed-route bus
+services we run, the long-term investments we make, the payments on debt. These are all really crappy
+trade-offs to be making.
+This is not the last time we're going to have a conversation about this. We're all on this Committee. A lot of
+us will be on this Committee next year. A lot of us will be on this Committee the year after that. And I think
+it's perfectly reasonable for us to say, this is good enough now. This isn't perfect. We could probably spend
+another year on this and make more changes.
+But we do need to make these cuts. We do need to make this program sustainable. And if we have to come
+back a year from now and say, OK, well, maybe we lower the fare then, OK, maybe we change this other
+thing a year from now, we should do that. We should take a second look. But that shouldn't-- that paralysis
+should not stop us from trying to balance the books in a way that is sustainable now.
+I've seen government put off bad decisions, hard decisions too many times in my life. And you're just like,
+why can't you make the hard choice? Why can't you take the time and swallow hard? I am going to get
+yelled at, I'm sure, from activists here in Denver for voting yes on this. I have no question in my mind I will
+get hate mail, because it is a crappy thing to do to people. But it's also our job to do crappy things some of
+the time.
+And so I would encourage people to vote yes. I think staff has worked incredibly hard on this. They have
+spent an ungodly amount of time. They have talked to everyone as often as we wanted. They have
+answered my questions and everybody else's as often as we wanted. And I just think we owe it to respect
+the amount of work that has gone into this and to do the hard thing.
+So I'm a yes. Not a happy yes. I'm not going to celebrate at the end of this. But we've taken the time to
+make the decision, and it's time that we make the decision. So yeah, I'm a supporter of yes.
+IAN HARWICK: OK. I don't see any more questions right now, so I'm going to go real quick. I'm going to go
+back to the question that I was asking at the wrong time previously. So Ms. Vallejos, I have a question
+about the multi-stop. I understand that we can't do it right now. But somewhat to Director Nicholson's-- what
+he was just saying, of in the future, everyone-- Lyft, Uber, and the taxis were all able to do the multi-stop
+challenge, we would clear that definition of equity. Would we then be able to allow multi-stop trips if
+everyone did it?
+ERIN VALLEJOS: I think, again, that is definitely something that would be a future consideration that we
+could have at that time. As Director Nicholson has said, there is opportunity down the road to revisit this. I
+think I was on the Finance and Planning Committee yesterday when someone noted that just because
+maybe a decision is made at one time-- and this was relative to our FICA account-- doesn't mean it can't
+be revisited at a later date.
+And so I would use this as another example of a similar situation where just because changes are made
+today doesn't mean there's not an opportunity for discussion or to revisit a topic down the road. But I see
+GM/CEO Johnson would like to speak, so I would like to defer to her.
+IAN HARWICK: GM Johnson?
 
-Motion:
+DEBRA JOHNSON: Yes, thank you very much, Committee Chair Harwick. I do support the comments that
+Ms. Vallejos put forward. I think it's very important to understand that we need to define what our program
+is going forward, because we would have to put out a solicitation contingent upon the ready, available
+service providers. It's contingent upon what they are able to do relative to the decision and the policy
+guidance that is provided.
+So while we can conjecture and speculate about what may be occurring now, I would be remiss not to state
+the item immediately following this is coming full circle because of the tough decisions around our fiscal
+responsibility. And more so, I just want to manage everyone's expectations, because I support the very
+tough decision and the deliberations that are taking place.
+But I would be remiss if I didn't state that you'll be hearing back from us, most likely in the fall, because we
+will need additional monies to be allocated to this program, recognizing where we currently stand. And there
+will be a trade-off as we look at our budget going forward.
+While I know this program is critically important, we'll be making those tough decisions along with you
+relative to, what does that mean when we've had questions from a myriad of you recognizing bus bridging,
+when we have maintenance work to do? Do we need 50 more operators for fixed route, or do we want to
+expand this?
+So I just offer that up not to seem as if I'm being an obstructionist or obstinate. But I think it's my
+responsibility to put forward to you that we will most likely be coming back in September, asking for
+additional funding to be allocated for this program and then making those decisions as you all deliberate
+over the budget and what that may look like as it relates to where we currently sit with our financial outlook
+for the next year and into additional future years with our five-year financial forecast. Thank you.
+IAN HARWICK: Thank you. Director Chandler, I see you. I'm just going to finish my sort of-- my little bit of
+an opine. Everyone, I know there are some no votes. I know that there's some concern around $6.50 versus
+the $4.50.
+But also, we really do need to get this to the finish line. And so I would really-- and especially if Director
+O'Keefe is going to bring something later on at the end of the month, I really would encourage us to vote
+yes on this and give us the opportunity to see what that amendment looks like then. And then we can make
+a decision as the whole Board about how we want to proceed there.
+But this is something-- this is-- we've been deliberating on this for quite some time, and it's really time-- we
+need to move this forward. It's time. I know there's still a little bit of nuance here and there, but really, we
+need to get this across the finish line. So thank you. Director Bouquet, I see you. So I'm going to let you
+jump. And then Director Chandler, I will call you after our Chair speaks.
+JULIEN BOUQUET: It's just echoing what you just said, Committee Chair Harwick, of moving this forward.
+I think, again, as difficult as this is and as there's conversations going forward, bringing forward this to the
+full Board is more than appropriate for all 15 members to look and vote upon this. So even though you
+might view this as is a yes to move forward to the full Board, you have every right to vote no as a full Board
+decision as well. So I just wanted to echo those remarks. So thank you, Committee Chair.
+IAN HARWICK: Thank you. Ms. Vallejos?
+ERIN VALLEJOS: And sorry. Just quickly-- I should have mentioned this when I was giving my presentation.
+But I am happy to make myself available to answer any questions or sit down with anyone. Please definitely
 
-Director Buzek seconded the motion.
-RESULT: PASSED COMMITTEE [UNANIMOUS]
-MOVER: Patrick O'Keefe, Director, District H
-SECONDER:
-Vince Buzek, Director, District J
-AYES:
-Buzek, Harwick, Chandler, Nicholson, O'Keefe, Paglieri, Whitmore
-Committee Chair Harwick declared the motion PASSED unanimously
+include GM/CEO Johnson for her situational awareness. But I did want to make that offer to anyone on this
+Committee, but also the Board as well, because this is a very important decision. But Ms. Johnson and I
+have talked about that, and that is something that I meant to note earlier, but wanted to note that now, given
+some of the comments. So thank you.
+IAN HARWICK: Thank you. Appreciate it. Director Chandler?
+KATHLEEN CHANDLER: Yes, thank you, Director Harwick, for your leadership. And after consideration, I
+have worked tirelessly with Ms. Vallejos and CEM Johnson on this project. And the more I do think about
+it, the more I recognize that we do need to move this forward. I will be changing my vote to a yes, because
+we do need to move this forward. I will work with them on additional questions that I might have and
+additional innovation and ideas, because I think it's very, very important.
+My question really has to do with when you talk about revisiting this at a later date, what exactly does that
+mean? Because I do want to move this forward for the sake of the organization, for the sake of RTD, and
+for the sake of Access-on-Demand. But I also want to be able to revisit this at a specific date so that we
+can think about that as Directors and putting maybe a little finer point on getting some of our own ideas
+through, like Director O'Keefe is talking.
+IAN HARWICK: I'm not sure if that is GM-- GM/CEO Johnson, or if this is Ms. Vallejos.
+DEBRA JOHNSON: If I may, Mr. Chair?
+IAN HARWICK: Please.
+DEBRA JOHNSON: I thought the question was directed to one of you as Board members, recognizing the
+conversation that has ensued.
+IAN HARWICK: Is it-DEBRA JOHNSON: In reference to what we are presenting right now, recognizing the due diligence that
+we have done by leveraging APTA and members of the organization to look at this through their lens of
+being subject matter experts, working with advocacy groups. We have come to a place whereby we have
+done refinement based upon feedback that we received.
+So relative to revisiting it, we are amenable to working with you. There could be a date determined that you
+all will opine on. But I really believe that this is in the court of the Board to provide direction to staff, as we
+have done our due diligence in excess of a year. Thank you.
+IAN HARWICK: Yeah, thank you so much, GM. Director Chandler, do you have a follow-up there?
+KATHLEEN CHANDLER: Well, I was-- thank you, Miss-- CEO Johnson. I think really what my question has
+to do with is we're obviously talking about the budget that's going to be talked about this next year. And this
+has a lot of budgetary implications.
+So I'm really thinking that I was putting pressure on us as a Board, as Ms. Johnson alluded to, that we need
+to have-- if we're going to come up with additional suggestions, that it needs to be happening in September
+so that we can look at it through the budgetary process. But I do agree that we really-- even after I-- I don't
+want to, I agree that we do need to move this forward, because we have been working on this for a very
+long time.
 
-• Access-on-Demand Program Modifications
-For the Board of Directors to approve modifications to the supplemental,
-premium Access-on-Demand (AoD) service for RTD’s paratransit customers
-as described herein effective October 1, 2025.
-Director Nicholson made the motion to move
-this item to the Full board at the July 29, 2025,
-Board Meeting.
+I am not happy with the additional cost increase, but it is the right thing to do, so I appreciate that. And I
+hope that we as a Committee and as the full Board will take that into consideration when we are looking at
+the budget so that we can come to a really good conclusion.
+IAN HARWICK: OK. Great. Director Nicholson and then Director O'Keefe.
+CHRIS NICHOLSON: Yeah, I would just say to Vice Chair Chandler that I am more than excited to work
+with you next year under your continued leadership on the Committee, hopefully, to pursue a reevaluation
+of some of these questions and concerns. We're making this big change. It's going to have an impact on
+people. We should take another look at it in July, August of next year for the '27 budget and say, OK, do
+we need to change something? How is it going? What do we think? And so yeah, have an item. I think we
+should. And then if we screwed something up, we can fix it.
+IAN HARWICK: All right. Director O'Keefe.
+PATRICK O'KEEFE: I'll be quick. So this is probably a matter of philosophy on Committees. I just-- I think
+Committees are the place of the jurisdiction of knowledge, with exception of me as a newbie. And I think
+it's our responsibility to send the best package possible to the full Board. And so I am still a no on this, more
+on a philosophy of what Committees should be doing.
+IAN HARWICK: OK. All right. I see no more hands, and I know there are no votes, so I'm going to do a roll
+call. And Director Buzek?
+VINCE BUZEK: Yeah, can't have it both ways. I'm still a no.
+IAN HARWICK: OK. Director Chandler?
+KATHLEEN CHANDLER: Yes.
+IAN HARWICK: Director Nicholson?
+CHRIS NICHOLSON: Yes.
+IAN HARWICK: Director O'Keefe?
+PATRICK O'KEEFE: No.
+IAN HARWICK: Director Paglieri?
+BRETT PAGLIERI: Yes.
+IAN HARWICK: Director Whitmore?
+TROY L. WHITMORE: Sorry about the delay. I'm a yes.
+IAN HARWICK: And I am Director Harwick, and I am also a yes. We have five yeses and two no's, and this
+passes. OK. If I can find myself. Give me a second, everyone. OK.
+JACK KROLL: Director Harwick, if I may--
 
-Motion:
+IAN HARWICK: Oh, yeah. You want-- yes, thank you. Thank you, Director Kroll. In the interest of our CART,
+I'm going to give us a break for 10 minutes, and we're going to reconvene at 7:37. So an 11-minute break.
+It's official. I-- OK. Now we are reconvened at 7:37 PM, and we're going to head on to our fourth and final
+action. It is for the Board of Directors to authorize the GM and CEO or her designee to enter into a sixmonth contract extension amendment with existing providers for the Access-on-Demand-- AoD-- program,
+effective January 1, 2026, through June 30 of 2026, raising the not-to-exceed amount from $37.8 million to
+$42.2 million. Do we have a motion?
+CHRIS NICHOLSON: So moved.
+IAN HARWICK: OK. Director Nicholson is the mover. Do I have a second?
+KATHLEEN CHANDLER: Second.
+IAN HARWICK: Second is Chandler. Do we have any-- now we're going to-- once again, I would like to ask
+GM/CEO Johnson and Erin Vallejos to present this item to the Committee.
+DEBRA JOHNSON: Thank you very much, Committee Chair Harwick. Recognizing our previous agenda
+item, this has a clear-cut nexus in reference to where we currently are, keeping in mind that when we look
+at Access-on-Demand programmatic modification recommendations, we put forward monies for the current
+service providers, recognizing that we had anticipated some modifications from a fiscal standpoint.
+Hence, if this Committee weren't going forward with the recommendation the staff has put before your
+consideration, we would not be able to deliver services. With that, I'll yield the floor to Ms. Vallejos to provide
+additional comments relative to the action before you. Ms. Vallejos.
+ERIN VALLEJOS: Thank you, GM/CEO Johnson. So this action really is currently our current contracts-sorry, currently a couple times there-- are set to expire at the end of this year. And as we have been waiting
+for some direction on these program modifications, we have been unable to put a new request for proposal
+out on the street. So this action will assist us in allowing us to extend the contracts into the first six months
+of next year, effective June 30, 2026.
+So hopefully, we can receive the formal direction from this Board and incorporate that into our new request
+for proposal, and then issue that at the beginning of next year so we have time to go through the entire
+evaluation process and then hopefully be approving new contracts on July 1. Well, to be effective July 1.
+Sorry. We'll obviously have to approve that a little bit earlier. But again, this gives us time to make sure we
+can incorporate whatever the final direction from the Board is into our request for proposal to get those new
+contracts in place.
+IAN HARWICK: Great. Thank you both. At this time, I would ask those Directors who have questions or
+who wish to speak to raise their virtual hands. Excuse me. Director Nicholson, you have three minutes.
+CHRIS NICHOLSON: I can do it faster than that. GM/CEO Johnson, you mentioned that there will be likely
+an increase in funding requested later this year to fund the rest of this contract. Can you speak to how much
+we are expected to spend on AoD this year versus last year?
+DEBRA JOHNSON: Committee Chair Harwick, if I may?
+IAN HARWICK: Yep.
 
-Director Whitmore seconded the motion.
-Motion To
-Amend:
+DEBRA JOHNSON: I will yield the floor to Ms. Vallejos, but I will provide context for why we will need
+additional monies in the genesis of my comments. When we put forward the budget development,
+recognizing that in February of 2024 the APTA peer review was commissioned, during the budget
+development process an assumption was made that we would have program modifications looking at the
+high utilization of the program as we move forward, and keeping in mind that there was an assumption that
+we would have different parameters relative to the availability of said usage.
+We anticipate supplemental funds. As I don't manage the day to day, I will have to yield the floor to my staff
+to address the specificity around the budget assumption as we move forward. Ms. Vallejos?
+ERIN VALLEJOS: Thank you, GM/CEO Johnson. I would like the opportunity to get back to you on that
+question, Director Nicholson. Recognizing that I did assume my role this year, in March of this year, I don't
+want to misspeak about what our 2024 budget was. So I do want to go back and confirm those numbers.
+And I see GM/CEO Johnson has her hand raised.
+DEBRA JOHNSON: Yes. So one thing that's important to mention, keeping in mind with the delegation I
+have, there's a not-to-exceed amount of the contract, and it's likely to be low. Hence, that hopefully gives
+you some understanding that we would exceed the authorization that was granted to me by this body. And
+there could be further amendments relative to the not-to-exceed amount as well.
+So simply put, there could be two rounds of amendments, but we will double back and do our due diligence,
+recognizing where we are currently. But I just wanted to provide that to you all in the sense that that's what
+we anticipate due to the fact of the notice-- sorry, I want to say notice to proceed-- it's not-to-exceed amount
+with the contractual authority that was granted. Thank you.
+IAN HARWICK: OK. Director Buzek, and then I'll circle back to you again, Director Nicholson.
+VINCE BUZEK: Thanks. And because this aligns, at least in part, with the prior recommended action, I'll be
+a no vote here.
+IAN HARWICK: OK. Director Nicholson, your second bite.
+CHRIS NICHOLSON: Yes, thank you. Tasty apple. The reason I ask that question is really-- we had a
+comment from Director Ruscha earlier in the evening about the cost of the program leveling off.
+And given that we're talking about extending the contract, increasing the not-to-exceed, and potentially
+coming back for more money, even if you don't have the exact numbers in front of you, GM/CEO Johnson
+or your staff, can you characterize where we are on track in terms of, is this year going to be more expensive
+than last year? Is it going to be a little more expensive? Are we talking about 10%, 20%, 30% increase over
+2024? Where are we headed with this?
+DEBRA JOHNSON: If I may?
+IAN HARWICK: Please. It is going to be more expensive. Hence, we would not be dealing with the notice- goodness gracious-- the not-to-exceed amount as we move forward. Ms. Vallejos has a better handle on
+what that projection may be. I'll yield the floor to her.
+ERIN VALLEJOS: Yes, we are continuing to see increases. It has not leveled off from last year. I believe-and don't quote me on this. Again, I will get specifics as I mentioned, because I was not here in 2024. I do
 
-Director Nicholson made a motion to amend this
-item with the following language: The AccessOn-Demand service area shall also include all
-origins and destinations that lie within threequarters (¾) of a mile of any RTD fixed-route
-bus service, including commuter and regional
-bus routes.
-Director Whitmore seconded the motion.
+have a good sense. But I believe-- let me just take a quick peek. We are seeing an increase this year of
+about 11%.
+But if we do just take-- I believe, looking at June of 2024 to June of 2025, I believe that number was as high
+as 30%. So we're seeing an increase of 11% still this year and upwards of 30% when we look at June over
+June. Again, I would like to confirm those numbers, but I think that is close enough to give you a good sense
+of where we're at.
+But again, I would like to confirm specifics, so don't quote me on that. But I do think, again, just for the
+context of this conversation, it gives you a good sense that we really are still seeing substantial increases.
+CHRIS NICHOLSON: Thank you.
+IAN HARWICK: Are there any more questions? Oh, I see Director Chandler.
+KATHLEEN CHANDLER: So my question is, in the Board packet, it says-- page 224-- for the Board
+Directors to authorize General Manager and CEO or her designee to enter into a six-month contract
+amendment with existing providers for Access-on-Demand program, effective January 1 through June 30,
+2026, raising the not-to-exceed amount from $37.8 to $42.2 million.
+So my question is, will that obviously come out of general operating funds? Where will that money come
+from? And I apologize, because I don't sit usually on or watch much of the Finance and Planning. So if
+you've already answered that question, I apologize. But I would like to know potentially where that monies
+would come from.
+DEBRA JOHNSON: If I may?
+IAN HARWICK: Please.
+DEBRA JOHNSON: So basically, they are going to be proposing the budget, and they would fall within the
+auspices of bus operations, as we have paratransit as a subset therein. Our CFO is on this call, and I'll ask
+Ms. Mackey if she cam provide any more specificity, as we're in the current budget development process.
+Ms. Mackey?
+KELLY MACKEY: Of course. Thank you. We are reviewing prioritizations for the budget. So yes, this would
+fall within bus operations. And over the coming two, three months, we will be reviewing in further detail with
+the department leaders what we will and will not have room for in the budget and make those
+determinations.
+IAN HARWICK: Thank you so much. Any more-- any more questions? OK. I see no more questions, so I
+am going to take a roll vote. Director Buzek?
+VINCE BUZEK: No.
+IAN HARWICK: Director Chandler?
+KATHLEEN CHANDLER: Yes.
+IAN HARWICK: Director Nicholson?
 
-VOTE ON THE MOTION TO AMEND
-Page 3 of 5
+CHRIS NICHOLSON: Yes.
+IAN HARWICK: Director O'Keefe?
+PATRICK O'KEEFE: No offense.
+IAN HARWICK: Director Paglieri?
+BRETT PAGLIERI: Yes.
+IAN HARWICK: Director Whitmore?
+TROY L. WHITMORE: Yes.
+IAN HARWICK: And I am also a yes. So again, we have-- we have five yes and two no's, and this resolution
+passes. And now I will-- OK, now we're going to move on to discussion items. The first item to discuss is
+the Longmont-- Longmont and Boulder fixed-route service contract. I would like to ask Erin Vallejos, Acting
+Deputy Assistant General Manager in Bus Operations, to present this item. Ms Vallejos?
+ERIN VALLEJOS: Thank you. Give me a moment to pull up the presentation. You guys are getting a lot of
+me this evening.
+IAN HARWICK: Thank you for that. Appreciate it.
+ERIN VALLEJOS: OK. Sorry. Just had to swap my screens quickly, going from two presentations. OK.
+Thank you all for allowing me the opportunity to present to you again. As stated earlier, I am Erin Vallejos,
+Acting Deputy Assistant General Manager of Bus Operations.
+So today, I'm going to just give a brief presentation of one of our fixed-route service contracts that is going
+to be coming to you in September with a request for-- a recommended action. Sorry. Now I'm getting my
+terms mixed up, but a recommended action.
+So at this point, this is just going to be a high-level overview kind of of the service package and some
+characteristics of that. And then again, in September, we will be bringing forth a recommended action for
+consideration of this Committee. So again, we're just going to go over the current status, kind of providing
+you some background of the contract timelines, explaining the service package, and then what the next
+steps are.
+So as many of you are aware, there is, pursuant to certain Colorado revised statutes, up to 58% of the
+agency's vehicular service can be contracted. This can be contracted through qualified private businesses,
+nonprofit organizations, or local governments. And RTD currently contracts approximately 56% of our transit
+service, and that is comprised of about 45% of our fixed-route service, 100% of our complimentary
+paratransit service, as we've been talking about earlier today, Access-a-Ride. And then 100% of our
+FlexRide service.
+So just to give you a little bit of background about the current contract, this is our contract that is primarily
+in the Longmont and Boulder service area. You may have heard-- previously, we used to refer to these as
+numbers. So if you hear something out there referencing Group 34, that is what we would normally have
+referred to this service package as.
 
-RESULT: PASSED [6 TO 1]
-MOVER: Chris Nicholson, Director, District A
-SECONDER:
-Troy Whitmore, Director, District K
-AYES:
-Harwick, Chandler, Nicholson, O'Keefe, Paglieri, Whitmore
-NAYS:
-Vince Buzek
-Committee Chair Harwick declared the motion to amend PASSED.
-VOTE ON THE MAIN MOTION AS AMENDED
-RESULT: PASSED COMMITTEE [5 TO 2]
-MOVER: Chris Nicholson, Director, District A
-SECONDER:
-Troy Whitmore, Director, District K
-AYES:
-Harwick, Chandler, Nicholson, Paglieri, Whitmore
-NAYS: Vince Buzek, Patrick O'Keefe
-Committee Chair Harwick declared the main
-motion as amended PASSED.
+But we're trying to get away from that, because it really doesn't provide any meaningful information about
+the service package itself. So again, you may still hear some of our older service packages referred to by
+those numbers as well. It started out with Group 1 and has gone up from there. But again, that really doesn't
+provide any meaningful context to many people outside of my department, so we are trying to move away
+from that.
+So we are in the final option year of this contract. It started January 10, and then will expire January 9 of
+2026. We issued requests for proposals on May 7, and then proposals were due June 17. So that process
+has closed.
+For the new contract, the initial three-year term will be January 10, 2026, through January 9, 2029. And
+then there are two option years that are included as part of the contract. So again, January 10, 2029,
+through January 9, 2030. And the same time period from '30 to '31.
+And so just to give you a little bit of context about what this service package would include. Again, as I
+noted, this is primarily in our Longmont and Boulder areas of the district. This is out of-- we have four fixedroutes contracts. And so this one is our smallest fixed-route contract. It would provide approximately 165
+revenue hours of service in the first year. This contract would be responsible, as it stands right now, for
+operating and maintaining 61 buses.
+And then just to give you an idea of the service areas, because while it is primarily Longmont and Boulder,
+it does touch other areas, again, it would be Boulder. But it would also include Erie, Lafayette, Longmont,
+as we've already noted, Louisville, and Superior, and then the City and County of Broomfield. So again,
+does touch on quite a few more areas, but primarily in that Longmont and Boulder location.
+So next steps. As I mentioned, we will be bringing a recommended action for consideration at the
+September 10 Operation Safety and Security Committee meeting. And then based on that consideration,
+we would be bringing forth the recommended action again to the full Board at the Board meeting on
+September 30. And so with that, I open it up again for any questions.
+IAN HARWICK: OK. Director Nicholson.
+CHRIS NICHOLSON: I'm happy to let somebody else go first if-IAN HARWICK: You're the only one, friend.
+CHRIS NICHOLSON: There you go. Thank you. So I have heard-- I have meaningful concerns about
+providing service using third-party contractors. I view it as a necessary evil. We need the service, and we
+can only hire so quickly. And I don't necessarily think that the folks who are doing it are bad or anything like
+that. But when you're paying a private contractor to make a profit when you could be doing it in-house, we
+should be doing it in-house, but there's challenges there.
+I've also heard significant concerns about a churn-and-burn culture at our private contractor, and not
+necessarily the greatest working conditions compared to what we have in-house at RTD. And so I preview
+these to both preview some of the things that I'm going to want to talk about when this comes back as a
+recommended action, but I wanted to ask.
+When it comes to working conditions for this contract, are we doing anything the way-- in the same way
+that Nike goes out to their subcontractors and says, you can't be sweatshops, are we doing anything to
+ensure that workers for whoever it is that gets hired for this are receiving the same quality working conditions
 
-• Access-on-Demand Contract Extensions
-For the Board of Directors to authorize the General Manager and CEO or her
-designee to enter into six-month contract extension amendments with
-existing providers for the Access-on-Demand (AoD) program effective
-January 1, 2026, through June 30, 2026, raising the not-to-exceed amount
-from $37.8 to $42.2 million.
-Motion:
+that they get at RTD? And I assume they're probably going to make less money. Typically, the contract
+employees do. But I was hoping if you could just speak to what our commitment is in ensuring that those
+workers get treated as well as actual RTD employees. Thank you.
+IAN HARWICK: GM/CEO?
+DEBRA JOHNSON: Yes, thank you very kindly, Committee Chair. And thank you, Secretary Nicholson, for
+your comments. I would caution, however, recognizing that some of the statements that you made utilizing
+the term sweatshops and things of the like, RTD does have other contracted engagements. i.e., when you
+think about commuter rail, the concessionaire agreement that we have with DTO, DTP, keeping in mind
+that we leverage a lot of different contract services. We have individuals that perform snow removal, facility
+work, a myriad of different tasks under the guise of RTD, because we have terms and conditions quite
+naturally.
+Keeping in mind that we do use federal dollars as it relates to our contractual agreements, they are
+subjected to triennial reviews, and we have to meet certain requirements therein. Collectively, of course,
+we engage with employees. They are-- as you've noticed, when we've had Roadeo winners, regardless if
+they work for the third-party contractor or RTD, they come before this agency holistically.
+I think another important piece that you need to recognize is not just about people as well, just by virtue of
+the contracting that is included in statute that says there could be up to a specific percentage. We also don't
+have enough facilities to accommodate the vehicles that we deploy for day-to-day service delivery. Keeping
+in mind at the Finance Committee, that body approved a National Environmental Policy Act analysis relative
+to an additional bus facility as we move forward, and keeping in mind that we have a Facilities and Fleet
+Transition Plan, we are trying to be diligent in how we look at delivering services for the betterment.
+So I wanted to put that on the record, because we are a people-first-oriented organization. And if we were
+contracting with an entity that was not treating people that are providing services in such a way, we would
+not be contracting with them. We do look at performance going forward. There are contractual agreements
+that they have relative to labor units as well.
+So I just wanted to ensure that I stated that on the record. I would not want any member of the public or
+anybody viewing this thinking that we were doing something that was subpar as it relates to treating people
+that are providing services on behalf of the Regional Transportation District. Thank you for the opportunity,
+Committee Chair, to respond.
+IAN HARWICK: Thank you. Director Chandler.
+KATHLEEN CHANDLER: Thank you, GM/CEO Johnson. Not to disparage poor little Mr.-- Director
+Nicholson, but to assume that because someone is making a profit it is bad or they're treating their workers
+bad is probably not a good assumption. So I would just caution you in your language when you talk about
+organizations that we are partnering with that have employees that are happy to be employed and probably
+excited to work for their agencies. So I would caution you in your language. So profit is not always bad, and
+we should partner with those that can provide a service to RTD that would better our services to our
+taxpayers.
+So with that said, I would ask, how many proposals were received as of that June 17 deadline? I don't need
+to obviously who, because I assume that that's still in thought process. But how many were received?
 
-Director Nicholson made the motion to move
-this item to the Full board at the July 29, 2025,
-Board Meeting.
-Director Chandler seconded the motion.
+Because I've heard that sometimes we don't always receive a number that we would like to receive. And I
+was just wondering if you felt like you got some really good proposals through the process.
+IAN HARWICK: Ms. Vallejos?
+ERIN VALLEJOS: Oh, I see GM/CEO Johnson has her hand raised.
+IAN HARWICK: GM/CEO Johnson.
+DEBRA JOHNSON: Yes, I would share, if I may. At this juncture, recognizing that we are in the process of
+evaluating proposals, I do not believe it would be prudent that we discuss those elements at this juncture.
+But we'll share that information once a determination has been made relative to the scope that has been
+put forward.
+IAN HARWICK: Sounds good.
+KATHLEEN CHANDLER: You don't have it even just like, did you receive more than one? I mean, I don't
+need to obviously how many. But I'm just curious, because I think that's part of the problem here, is that
+we're not-- at least Director Nicholson's not feeling like there's a competitiveness [LAUGHS] about the
+whole process.
+DEBRA JOHNSON: Well, what I will share, I do think it compromises our procurement process, because
+we do have procurement rules. And so I do not feel comfortable in sharing that information in this public
+forum. But what I will share, Director Chandler, keeping in mind, just by virtue of the American landscape
+as it relates to original equipment manufacturers and service providers, the number has dwindled. There
+has been a consolidation in mergers.
+And so while we talk about-- there may not be active competition, it is not by any fault of the agency. It's
+just by virtue of where we currently sit as an American transit industry.
+KATHLEEN CHANDLER: Thank you for that clarification. I think that's fair enough.
+IAN HARWICK: OK. Thank you. Director Nicholson?
+CHRIS NICHOLSON: [LAUGHS] Yes. I just wanted to clarify and say I think that we have many incredible,
+hard-working, private companies that we partner with. We're using one of them right now to conduct this
+meeting. And I would not disparage the work that they do. I'm just a very firm believer that in-house is
+always better and gives us more control, understanding the necessity of sometimes relying on external
+companies when the capacity isn't there on our end.
+And I would just say, recognizing that we have a lot of processes in place for making sure that employees
+are protected and all of that. Just as we have less control over the day to day when it comes to our P3 with
+our commuter rail partners, we have less control over the way that our employees are treated, and the way
+that-- when they're fired, and when they're-- all of these things when it's done through a third-party
+contractor.
+And so I think whenever we have these conversations about using third parties, we have to be very
+cognizant of the trade-offs that are being made in order to use them. So just want that to be a part of the
+conversation, and looking forward to seeing what's in the contract when we do vote on it to make sure that
+employees are protected. Thank you.
 
-RESULT: PASSED COMMITTEE [5 TO 2]
-MOVER: Chris Nicholson, Director, District A
-SECONDER:
-Kathleen Chandler, Director, District F
-AYES:
-Harwick, Chandler, Nicholson, Paglieri, Whitmore
-NAYS:
-Vince Buzek, Patrick O'Keefe
-Committee Chair Harwick declared the motion PASSED.
+IAN HARWICK: Any other questions? OK. All right. Then I am going to move on to our second and final
+discussion item for the evening. It's around transit service standards and policies. I would like to ask our
+General Manager and CEO, Ms. Debra Johnson, and Jessie Carter, Senior Manager, Service
+Development, to present this item.
+DEBRA JOHNSON: So Mr. Chair, if I may?
+IAN HARWICK: Please.
+DEBRA JOHNSON: Yes. Before I yield the floor to Mr. Carter, I wanted to ground us in what we are sharing
+with you this evening. In working with the immediate past Committee Chair and with yourself, we talked
+about proposed revisions relative to our transit service standards and policies, keeping in mind that transit
+service standards basically spawned from a comprehensive operational analysis.
+It helps determine various aspects of how we assess the performance of our bus routes, rail lines in
+reference to optimization, efficiency. Looks at stop spacing, the speed of the system, and things of the like.
+For those that were in attendance last night at the Finance and Planning Committee meeting, I offered the
+same comments relative to other analyses that are underway and said that collectively, they would help
+shape the direction and how we deliver our service going forward.
+So recognizing, I indicated the work that we have done with you, Director Harwick, and with Director
+Ruscha, Mr. Carter and his team looked at where we are with the service standards to showcase that, in
+fact, we do have service standards. They aren't where we'd like them to be, recognizing that the agency
+had not done a comprehensive operational analysis for some time due to the adverse impacts of service
+delivery attributed to the COVID-19 pandemic.
+Where we stand today is that we put forward these standards. A couple of months ago, this body passed a
+resolution and then further to the Board, in which we said this would be tied with a CoA as we move forward.
+I wanted to ground everybody in attendance in that critical factor as we move forward, recognizing that this
+is showcasing what we anticipate doing relative to what this agency currently has. So with that as the
+grounding, I will yield the floor to Mr. Carter. Thank you very much for the opportunity.
+IAN HARWICK: Thank you.
+JESSIE CARTER: Thank you, CEO and GM Johnson. And good evening to the entire Board. My name is
+Jessie Carter. I'm the Senior Manager of Service Development here at RTD. And tonight, I would like to
+share with you a brief discussion of where we are as CEO Johnson stated on the revisions to the Transit
+Service Standards and Policies report as directed by the Board. In the presentation order, I will briefly cover
+the purpose of the Transit Service Standards and Policies report with a focus on service standards covering
+service performance, service categories, and next steps in the development of the report.
+RTD's service standards have been around for quite some time. We've actually historically have used the
+service standards to shape our service-- to shape our services since 1987. The report is used to identify
+both superior and underperforming routes and lines for either increases or decreases in service, but are
+also used to identify the need for changes in how service is operated.
+Key metrics in measuring the effectiveness of service include cost, boarding activity, and in-service hours.
+The Transit Service Standards and Policy report is offered periodically, typically bracketing major changes
+in services like the introduction of new corridors and/or changes in business practices. Supported by the
 
-F. Discussion Items
+Assistant Performance report, the Transit Service Standards and Policy is updated by the service-- I'm
+sorry, by the Assistant Performance report, which is provided annually.
+So I know I'm going to sound like a broken record here, but these are some things that I think need to be
+shared, and shared as often as we can so that there is an understanding in looking at how our services are
+performing. So since 2016, many changes have occurred affecting system performance and operating
+environments. We had the 2020 Pandemic Service Plan, which was a reduction of 40% of our services,
+basically putting us in a posture of providing weekend service on a weekday.
+Reduced employment population, or better said, fewer in-office workers in the central business district has
+occurred since the pandemic, and currently still persists. We also had the 2018 new Collective Bargaining
+Agreement, which introduced renewed interest in respite time and changed work shift priorities.
+And the reconstruction of rail infrastructure affecting light rail services has had a pretty big effect. It's
+something that's absolutely necessary to be done. But it has had a pretty big effect on overall ridership.
+And looking at the system as a system, when you reduce something as important as light rail ridership, it
+has impacts on both bus and FlexRide services.
+Looking a little more at service performance, the re-imagined RTD System Optimization Plan, we are in it- still working on restructuring 85% of 2019 service levels with a phased implementation in accord with
+available resources. That's to say that currently, we are about 14% from realizing 100% of that 85% of the
+2019 Service Plan. So we have quite a ways to go in implementing that.
+Restructuring of service categories, formerly known as the family of services, to better design and align
+service levels based on travel markets, that was a part of the SOP. We asked our consultants to give us a
+deliverable that would help us better align our service categories with the services that are in the spirit or-in the spirit of the SOP. We're also adjusting performance metrics to align with the new service categories,
+recognizing changes in fares and-- fares and policy changes.
+With the re-imagined RTD System Optimization Plan, there are a number of changes to the categories of
+service. And the reason why we have categories of service, we don't have an expectation for all services
+in all areas to perform at the same level due to land use and population density.
+So the changes that we are-- that I highlight here are, we're moving to a core, connect, commute, and
+community categories, along with subcategories describing core and connect rail and community ondemand and community mall. No, it's not listed here as far as community on demand, but that is something
+that we will be adding in.
+Former service categories were CBD local, urban local, and suburban and regional, with subcategories
+mall and rail. I will explain a little bit more how they relate to one another in the next few pages here.
+Service levels and duration are also defined by category in the SOP plan. Changes to metrics for service
+performance and cost efficiency are based on the new service categories. So at this point, subsidy per
+boarding is replaced by cost per boarding.
+So with those categories, a little more description with that. Our current 2016 service categories include
+CBD local, which is service for local and limited routes operating to and from Denver central business
+districts or downtown Denver. And our urban local services are local and limited routes that predominantly
+serve urban areas which have high residential and employment density.
 
-• Longmont and Boulder Fixed-Route Service Contract
-Page 4 of 5
+We describe high employment and residential density as those over 12 persons per acre, suburban local
+service for local or limited routes that are primarily serve suburban areas that have low to medium density- so below 11 persons per acre-- and regional services that are long-haul routes or express and regional
+services that go to major employment centers. RTD also employs such service standards for the evaluation
+of Call-n-Ride, which is currently in the service categories, but it's actually FlexRide at this point in time,
+and SkyRide services.
+Looking at the SOP service categories, we have categories for core routes or routes serving the region's
+largest employment centers, highest density housing, and major trip generators. With a service span of 18
+hours and a guarantee of 15-minute peak period and midday frequency and service seven days per week,
+core routes can include fixed-route bus and rail lines.
+Connect routes are routes with a minimum of 14 hours of span of service. And connect routes can also
+include fixed-route bus and rail lines. Commute routes are more like regional/express-type services,
+regional bus with limited stop spacing focused on serving unique travel markets. In other words, downtown
+workforce, Denver International Airport, and other places like Anschutz Medical Center.
+And then we have community routes, and community-focused local routes with custom-built span of service,
+frequency, and days of service. I should mention here that the FMR, the Free MetroRide, and also the 16th
+Street Free Ride-- that's the new name for the 16th Street Mall shuttle if you haven't caught on just yet-are also considered in the community category.
+So taking a look at what our Service Standards table looks like or had looked like, this is the 2019 Service
+Standard table. And you may not have seen it because it was never actually published. It was completed
+in the year 2020 and would have been brought to the Board sometime in the summer. However, something
+happened in March, and things went awry, so this was never presented. However, we do have this table.
+So in looking at this, you have your service classes with CBD local, urban local, and so on. And then you
+have the subsidy per boarding as one metric and the boardings per hour as the other metric. The way our
+service standards currently work are that if a route is at or below the 10%-- 10 percentile in this category, it
+is something that we should review. However, if a service is below the 25 percentile or the quartile in both
+categories, it is something that we should review.
+We believe at this point in time, this methodology is still solid and something we should continue with. But
+we did take a look at what the service would look like back in 2023 with our consultants.
+So going to the next slide, looking at this, this also shares how the new categories relate to one another.
+So we have the core bus, which will cover CBD local and urban local services and their boarding service
+hours thresholds.
+I don't want you to pay too much attention to anything over in this area as far as operating costs and
+performance thresholds, because that is something that changes year to year with the service performance
+report. And again, we were looking at this back in 2023, looking at 2022 data. So I think we were on the
+optimistic side of things in looking at the overall performance.
+So we also have core rail, which includes all rail lines except B, N, and R. Connect Bus, which is urban
+local and suburban local. Connect rail, which are B, N, and R rail lines. Commute, which includes our
+regional services. Community-fixed route, which are suburban locals, and community demand response,
+which is our current FlexRide.
 
-Presented by Erin Vallejos, Acting Deputy, Assistant General Manager, Bus
-Operations.
+So looking at next steps. In order to complete the overall document, we must do a number of things that
+require the collaboration and cooperation of other departments within RTD, and also includes reaching out
+to stakeholders in the greater community. But we do want to add the new bus shelter and facility standards.
+We also want to review the policies concerning special events and inclusion of partnership policies, and the
+development of the 2024 Service Performance report, which was affectionately known as the Becker report
+by some. We may change that to the Carter report, but-- no, probably not.
+OK. So [LAUGHS] that said, we need to also post the 2024 Service Performance to the RTD website, most
+likely under the Service Development pages. More about Service Development.
+And then also, last but not least, I would want to offer the opportunity to speak to you all individually about
+your individual Board districts and the routes and the route performance of the services in your area to give
+you a little more clarity on what things look like. So with that, thank you for the opportunity to speak to you
+this evening, and I would like to open the questions or return to CEO/GM Johnson.
+DEBRA JOHNSON: Thank you very much, Mr. Carter. I appreciate the report. As I indicated in my opening
+comments, this is a work in progress, recognizing that to actually modify service standards, it is incumbent
+upon us to do a true comprehensive operational analysis to ground us in what we're actually doing from the
+vantage point of our service planning to the delivery component of it. So with that, Mr. Chair, I'll yield the
+floor to you. Thanks.
+IAN HARWICK: Sounds good. OK, I've got five people. Director-- I've got Director Nicholson, Director
+Whitmore, and then-- and to stay on the Board, I've got O'Keefe and Chandler, and then I will finish up with
+Ruscha. Just in the interest of time, if we can shoot for one bite at the apple this go around, that'd be great.
+So let's try for that. And Director Nicholson, you have the floor. Three minutes.
+CHRIS NICHOLSON: I'll go first. I think Troy had his hand up before I did, but I'll take-IAN HARWICK: You just showed up-- you show up first on my thing, apparently. Maybe it just-CHRIS NICHOLSON: That works for me.
+IAN HARWICK: Just built in. You're, like, locked in.
+CHRIS NICHOLSON: [LAUGHS] I'll try to keep it quick. Mr. Carter, I will definitely take you up on the
+opportunity to talk about District A and the lines. But the question I have is you mentioned the Service
+Performance report and posting the 2024 Service Performance report on the web. Does the Service
+Performance report have the detail-- like, have the dollars per ride data in there that you were sort of
+referencing? I've never seen one yet. I'm new here. So maybe you can talk a little bit about what's in the
+Service Performance report, and can we get copies of them?
+JESSIE CARTER: Sure. Committee Chair, if I may?
+IAN HARWICK: Please.
+JESSIE CARTER: Actually, it's in the Board report as one of the attachments. It's the one that looks like an
+Excel spreadsheet. I want to say it's Attachment C or D.
+DEBRA JOHNSON: If I may, Mr. Carter, it-- actually, look on package page 277, and you can see the costs.
+For instance, by virtue of service class, the revenue hours, the boardings, boarding per hours, operating
 
-• Transit Service Standards and Policies
-Presented by Debra A Johnson, General Manager and CEO and Jessie
-Carter, Senior Manager, Service Development.
+costs, and the total cost per boarding. It's in the packet, as you indicated, on 277 going through to 279. So
+I'll leave it there. Thank you.
+JESSIE CARTER: Thank you. Director Nicholson?
+CHRIS NICHOLSON: Just very quickly, can we get the ones going back to 2020 as well?
+JESSIE CARTER: Yes and no. That is, they may look a bit different because they're not going to be in the
+same category, if that makes sense. So we'll be reverting back and forth to the CBD local versus core and
+all of that. So yes, but it won't be the same as what's been provided in your Board packet.
+CHRIS NICHOLSON: I'll take it anyway. I appreciate it.
+JESSIE CARTER: OK.
+IAN HARWICK: OK, Director Whitmore.
+TROY L. WHITMORE: Thank you, Mr. Chair. Just a suggestion followed by a comment to GM/CEO
+Johnson. Maybe we just need to title this the Carter report. It would be a lot easier for all of us to find it,
+because we could do the search based upon his august work here at RTD.
+Hey, you know, I just wanted to mark this occasion. We as a Committee in the past and as a Board group
+I think as a whole have been trying to move towards this action and to collaborate with people like Mr.
+Carter and Miss Johnson to move this into a summary and a document that was easily to-- easy to digest
+and a good kind of a report card, if you will, to our constituents.
+However, we didn't quite seem to ever get it quite over the hump. And I just wanted to kind of reiterate what
+GM Johnson said. And a shout-out to Chair Harwick and former Chair Ruscha for pushing this past and
+over somewhat of a finish line for us to have this wonderful tool to use. So appreciate the collaboration by
+staff and the impetus to get it to a better position by those two individual Board members. That's all for now.
+Thanks.
+JESSIE CARTER: Thank you. And if I may, Director Whitmore, it can't be the Carter report, because I still
+have lunch with Mr. Becker, and he pays sometimes, so-- all right.
+IAN HARWICK: [LAUGHS]
 
-G. Other Matters
-Director Buzek spoke.
+OK. Director O'Keefe?
+PATRICK O'KEEFE: I just wanted to thank Mr. Carter for taking a complex topic and putting it in an easily
+digestible, succinct presentation. So nothing more than a note of appreciation for doing this. I'm sure it
+wasn't easy. Thank you.
+JESSIE CARTER: Thank you, sir.
+IAN HARWICK: Director Chandler?
 
-H. Next Meeting Date: Wednesday, September 10, 2025
-I. Adjourn
-Committee Chair Harwick adjourned the meeting at 8:37 p.m.
+KATHLEEN CHANDLER: Well, kind of to piggyback on that-- thank you, Director Harwick-- Mr. Carter, I
+sure hope that you don't consider lunch a bribe from-- [LAUGHS] I don't think that's allowed, but anyway,
+I'll just digress.
+JESSIE CARTER: No, go ahead. [LAUGHS] I appreciate that.
+KATHLEEN CHANDLER: I digress. Yeah. My question is, when will the bus shelter review piece be
+completed? I think-- it always amazes me when I do my town halls. I've done multiple town halls where I
+tell people that we're working on this bus shelter review thing, and then they always say, oh my goodness.
+When will that be completed? And I don't know.
+DEBRA JOHNSON: If I may, Mr. Chair?
+IAN HARWICK: Please.
+DEBRA JOHNSON: Yes. So just for clarity, I believe you're talking about our bus stop. It's not bus shelters.
+We're looking at all transit stops. And a conversation ensued just last night as we're looking at the scope of
+said project in reference to doing some GIS mapping, very analogous as to how Google goes out and
+assesses the landscape so we know where that is.
+We're providing an update to this body in September, recognizing that we sought authorization just last
+night to expand the scope. And so from that vantage point, when we commenced with the project, we
+thought it would be about 18 months. Have a better understanding relative to where we'll sit once the
+compilation of data is done.
+But we had foreseen this, going back to my initial comment, recognizing we started at the beginning of the
+year being 2025. So for all intents and purposes, perhaps next summer, if not before. But don't hold me to
+that, recognizing that we just got that authorization last evening. Thank you.
+KATHLEEN CHANDLER: May I have a quick follow-up?
+IAN HARWICK: Please.
+KATHLEEN CHANDLER: I'd just take a second bite of the apple.
+IAN HARWICK: I kept your time held.
+KATHLEEN CHANDLER: OK.
+IAN HARWICK: Go for it.
+KATHLEEN CHANDLER: But I want to say thank you for that, because now at least I can say, we're in the
+process of this. We do have authorization to move forward, hopefully by next year. I cannot imagine what
+a simple task, but a monumental task that it is to survey all of the bus stops, shelters, benches, everything.
+So I just want to commend you.
+Again, as a newer person to the Board, I had no idea what that meant. And I completely appreciate the
+amount of work that you guys have gone into, not just in that particular small piece of this puzzle, but into
+the larger piece. So I agree with everyone else that this is a monumental project, and I thank you very much
+for all that we've seen.
 
-The following communication assistance is available for public meetings:
-• Language Interpreters
-• Sign-language Interpreters
-• Assistive hearing devices
-• Documents in alternative formats and language translations
-Please notify RTD of the communication assistance you require at least 48 business hours in advance of a
-RTD meeting you wish to attend by calling 303.299.2307
-THE CHAIR REQUESTS THAT ALL CELL PHONES BE SILENCED DURING THE BOARD OF DIRECTORS
-MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+JESSIE CARTER: OK. In the interest of one RTD, I'm going to have to say that it's not my department that's
+doing that particular study. It's actually a combination of Planning and Development and Civil Rights that's
+undergoing that task. And I can't wait to actually get my hands on the information once they're complete.
+All right.
+IAN HARWICK: All right, Director Ruscha. And I also want to say, before you jump in, just to really lay out
+what a clear-- how you were the champion of this, Director Ruscha, and you really have spearheaded this.
+And so while all the accolades are rightfully heading over there to Mr. Carter and his team and teams, you
+should pat yourself on the back for making sure we're doing this tonight and again in September. Director
+Ruscha.
+JOYANN RUSCHA: Well, I'm going to try not to ugly cry. [LAUGHS] Thanks. I think the clock started. Is it
+me, Mr. Chair?
+IAN HARWICK: It is you.
+JOYANN RUSCHA: OK, [LAUGHS] sorry. So I just wanted to say bittersweet moment, but I am really happy
+to see this. I have a couple of questions for Mr. Carter, if that's OK. Clarifying questions.
+So first, Mr. Carter, as always, you are my favorite. Virtual high-five. And thank you so much to you and
+your team for this work. I also want to thank General Manager and CEO Ms. Johnson for her grace and her
+[AUDIO OUT] new Chair Harwick and I hit the ground running on the beginning of the year. And as Director
+Whitmore noted, it's an issue near and dear to many Directors' hearts for years. So thank you. This is what
+teamwork looks like.
+But I just had a quick question. And give me one second, because I'm flipping screens and trying to get out
+of the CART screen. And I might have this-- oh, yeah. OK. So on page 5 of 6 on the report, under the ADA
+category, Mr. Carter, I was wondering if you could expand upon that. I was a little bit surprised to see the
+total cost per boarding. Are we talking about Access-a-Ride?
+JESSIE CARTER: Under ADA, it is Access-a-Ride.
+JOYANN RUSCHA: It is Access-a-Ride. So-- oh, sorry. I can't see the clock, so am I OK, Mr. Chair?
+IAN HARWICK: Yeah, you're good.
+JOYANN RUSCHA: OK, thanks. OK. So just for everyone's edification, if they're not looking at that part of
+the packet, then it looks like it's $16.23 cost per boarding. And I was surprised, but happy to see that. But
+of course, we just had a conversation about on-Demand, which I know is in a different report. And I think
+the last report we saw that was between 17 and $19. So something to think about as we consider the two
+programs moving forward.
+And then I did want to make a comment. And I preface this all the time before I make a comment about
+services. It's not to pit communities against each other or different types of services against each other. But
+I would just-- I would feel remiss if I did not note that when we look at our service classes, that FlexRide is
+actually one of our most expensive services.
+And earlier today, we had a conversation about cutting-- slashing [LAUGHS] on-Demand for people with
+disabilities for a couple million dollars and potentially wrecking-- or I think a Director said, doing crappy
 
-Page 5 of 5
+things to thousands of lives. And those subsidies range anywhere from, I think, $36 to $1,000 cost per
+boarding.
+It doesn't mean I don't believe in high subsidies. But I think that we should just be careful in our language,
+take a holistic look at service planning. But really, be careful when we talk about cutting services to those
+who need it the most. And data like this is what helps us make decisions.
+So again, thank you so much. I probably went over time. I can't see the clock. I'm looking at CART. But
+thank you so much to staff and everyone who worked on this, and as well as my fellow Directors who helped
+get this across the finish line. My gratitude. Thank you.
+JESSIE CARTER: OK. Committee Chair, if I may?
+IAN HARWICK: Please.
+JESSIE CARTER: I did want to point out, Director Ruscha, that one of the reasons why I wanted to share
+some of the pain points that we're in right now because of ongoing maintenance on rail and how that's
+impacting ridership, when you look at our FlexRides, the vast majority of the ones in the Southeast are
+heavily dependent upon last mile ridership for rail. So when our rail plummets, it does too.
+So not to say that we're not concerned, and we are making suggestions. And I believe that Erin's group will
+be looking at partnering with other municipalities to address some of the other FlexRide routes. But yeah,
+it's something we all need to know. But at the same time, there are reasons. So I just want to-- I want to-make sure that everyone is clear that there are reasons why certain things are performing poorly. Thank
+you.
+IAN HARWICK: Thank you. Director Ruscha, you still have your hand up. Are you-- do you have something
+else, or are you-JOYANN RUSCHA: Oh, no, I-- sorry. Just thank you for that. Concur. And first and last mile is my favorite
+topic, so can't wait for it to come back up again. [LAUGHS] And I know it's our Chair's as well, but thanks
+again.
+IAN HARWICK: Sure is. I see no other questions. Going once, going twice. All right. I am going to move on
+to other matters. Are there any other matters to discuss? Director Buzek, you have the floor, my friend.
+VINCE BUZEK: Thank you, Mr. Chair. And I almost never-- I almost never comment in other matters,
+because I know everyone's eager to go. But my comments relate to the very first action item that we took.
+And I don't mean the recommended action item. I mean the selection of the Chair and the Vice Chair and
+why that was necessary.
+As we all know, Director Ruscha was removed from her position as the Chair and sanctioned as a result of
+allegations relating to improper communications between staff and fellow Directors. I believe this whole
+situation was not handled well at all.
+It started with the request to sign off on a letter, a letter asking our Chair to take action and investigate these
+allegations. The Director that approached me, asking me if I would sign off on this letter, told me a little bit
+about the allegations and what the perceived problem was.
+
+And I asked that Director, have you talked to Director Ruscha about this? And the answer I was given was
+no, we haven't, because we don't think it would do any good. Well, I didn't sign off on that letter. I think
+that's bad form.
+If staff were treated improperly or communicated with improperly, that's not good, and shame. But if
+Directors felt that they were communicated with poorly or had their feelings hurt, you need to grow a thicker
+skin, because politics can be a full-contact sport. I'm not saying that everybody should just be crappy to
+everybody else, but there are times when you just have to turn the other cheek and say, OK, and let it go.
+But the biggest problem I had with this whole situation was the punishment that was imposed on Director
+Ruscha. She was removed from her position as Chair, taken off the Committee, and then had some of her
+travel and training budget taken away from her, the budget that could, [LAUGHS] in theory, help her become
+a better Director.
+What I saw in the sanction was purely punitive and not remedial in any way. If you want to punish someone,
+you succeeded. If you want to help someone get better, you didn't. If there's a problem, you should try to
+fix it.
+We've heard on several occasions speakers here talking about and congratulating Director Ruscha on her
+hard work on this Committee. And she worked hard on this Committee, and that doesn't go unnoticed. I
+really wish that in the future, if this comes up again, we'll do a better job. Thank you, Mr. Chair.
+IAN HARWICK: Thank you, Director Buzek. Director Nicholson, I will let you speak if you are speaking
+about something else, but I do not want this to go-- turn into a tit for tat, OK? If you need to say something,
+you can say it offline. That's really where I-- I really feel very strongly about this right now.
+CHRIS NICHOLSON: I understand. And out of respect for you, Mr. Chair, I will lower my hand.
+IAN HARWICK: Do we have any other matters this evening? OK. Seeing no other matter-- oh, Director
+Ruscha, you have the floor.
+JOYANN RUSCHA: I just wanted to say thank you.
+IAN HARWICK: You're welcome. OK. With that in mind, our next meeting is Wednesday, September 10,
+2025. As a reminder, the Board does not hold any meetings during the month of August, so the next
+Operation, Safety and Security Committee meeting will be scheduled for Wednesday, September 10, 2025.
+At that meeting, we will take action on the items we discussed tonight related to fixed-route bus contracted
+services for Boulder and Longmont. We will also have the following discuss-- excuse me-- discussions.
+2026 update of our Public Transportation Agency Safety Plan, and also update on our current System
+Optimization Plan.
+And I appreciate all of you. You have been a great-- everybody's really been fantastic tonight. Thank you
+so much for giving me a little bit of grace on my first official meeting. And everyone take care. And I'm going
+to adjourn this meeting at 8:37.
+BRETT PAGLIERI: Thank you.
 
 

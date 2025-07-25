@@ -16,6 +16,8 @@ Along with Directors and senior staff there  was 1 public participant in attend
 
 None.
 
+### C. Recommended Action
+
 #### 1. 2026 GM-CEO Short-term Goals
 
 For the Board of Directors to approve, pursuant to the General Manager and CEO (GM/CEO) performance framework adopted in January 2024 in alignment with the Board’s employment agreement with the GM/CEO, the proposed short-term SMART goals for the performance period commencing January 1, 2026, and continuing through November 8, 2026.
@@ -37,6 +39,8 @@ Committee Chair Guzman declared the main motion PASSED.
 ### D. Other Matters
 
 Director Gutschenritter spoke.
+
+### E. Next Meeting Date: Monday, September 8, 2025
 
 ### F. Adjourn
 

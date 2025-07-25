@@ -1,132 +1,72 @@
-Regional Transportation District
-
-1660 Blake Street
-Denver, CO 80202-1399
-303-299-2306
-
-Board of Directors
-Chair – Julien Bouquet, District G
-First Vice Chair – Patrick O’Keefe, District H
-Second Vice Chair – Troy Whitmore, District K
-Secretary – Chris Nicholson, District A
-Treasurer – Karen Benker, District I
-Vince Buzek, District J
-Peggy Catlin, District N
-Kathleen Chandler, District F
-Lynn Guissinger, District O
-Chris Gutschenritter, District D
-
-Michael Guzman, District C
-Ian Harwick, District L
-Matt Larsen, District E
-Brett Paglieri, District M
-JoyAnn Ruscha, District B
-
-MINUTES
+2025-07-10
 Audit Committee
-Thursday, July 10, 2025
-REMOTE MEETING
-2:00 PM
+VINCE BUZEK: Thank you. The Thursday, July 10 Audit Committee will now come to order. We're
+convened as of 2:01 PM. I respectfully ask everyone attending this meeting to mute yourself unless you
+are recognized to speak. Please note that Committee meetings of the RTD Board of Directors will be held
+remotely via Zoom and will be audio and video recorded. The meeting recordings, along with the unofficial
+minutes of the meetings, will be posted as soon as practicable on the Board's website.
+During today's meeting, we are providing Communication Access Realtime Translation, also known as
+CART. Anyone who would like to access this service should send an email to the RTD Board Office at
+rtd.boardoffice@rtd-denver.com, and a link will be provided.
+Additionally, the CART transcript can be automatically translated into Spanish for anyone who wants access
+to a live transcript of this meeting in Spanish. A live stream of this meeting is also available via RTD's
+YouTube page. I'm going to now call the roll for the Committee. Vice Chair Brendel?
+JIM BRENDEL: Present.
+VINCE BUZEK: Vince Buzek is here. Bobby Dishell?
+BOBBY DISHELL: Here.
+VINCE BUZEK: John Olenberger?
+JOHN OLENBERGER: Here.
+VINCE BUZEK: Director Catlin?
+PEGGY CATLIN: Here.
+VINCE BUZEK: Great. For the record, I see we have all members of the Committee present. And I believe
+over the executive session, we probably have some other Directors. So now we're going to turn to public
+comment. I'd like to open the public comment session to anyone who'd like to address this Committee
+regarding any topic listed in the published meeting agenda for the current and immediately preceding
+month. If you wish to speak and have not already done so, please raise your virtual hand or press Star-9
+on your phone.
+During this time, the Committee will not offer any direct comments or responses. However, if you'd like to
+be contacted regarding your public comment, please email the RTD Board at rtd.directors@rtddenver.com.
+Mr. Kroll, are there any hands raised or any public comment?
+JACK KROLL: Chair Buzek, there are no hands raised and no communication was sent ahead of time with
+respect to public comment for this meeting.
 
-Audit Committee
-Chaired by Vince Buzek
+VINCE BUZEK: OK. Well, seeing no participants online or in the queue, we will close the public comment
+period at this time. Next on our agenda is recommended actions, and there are no recommended actions
+today. Next is discussion item-- oh, I wanted to stop for a minute. Vice Chair Brendel, thank you very much
+for filling in last month. I thanked you at our Board meeting. I want to thank you here as well.
+JIM BRENDEL: Oh, you're welcome.
+VINCE BUZEK: Great, great. Discussion items. There's one discussion item regarding the results of our
+internal auditor assessment of our cybersecurity systems compliance with national best standards. Given
+the sensitive nature of those conversations, the Committee will review the results in executive session in a
+few moments. We'll move on to other matters before we move on to the executive session. Are there any
+other matters that need to be discussed?
+OK. Seeing none, as a reminder, the next meeting-- there are no meetings scheduled for the month of
+August. Our next Audit Committee meeting is currently scheduled for Thursday, September 11. In a
+moment, the Committee will meet in executive session regarding a cybersecurity assessment.
+I would like to append the motion to move into executive session to state that the Committee meeting will
+be deemed adjourned after it adjourns into the executive session. For public transparency, this means that
+once the Committee moves into executive session, the main meeting will be adjourned. I will now entertain
+a motion to move into executive session to discuss the following.
+Pursuant to Section 24-6-402(4)(d) CRS, specialized details of security arrangements. And Section 24-72204(2)(a)(VII)(a) CRS, specialized details of physical and cyber assets of critical infrastructure, protective
+measures, emergency response plans, or system operational data of such assets that would be useful to a
+person in planning an attack on critical infrastructure.
+Section 24-6-402(4)(c) CRS, matters required to be kept confidential by federal law. And 49 CFR Parts 15
+and 1520, sensitive security information for discussion of internal auditor RubinBrown LLP's National
+Institute of Standards and Technology 2.0 Cybersecurity Framework and Transportation Security
+Administration Directive 1582-21-01b compliance assessment. Do I have a motion?
+JOHN OLENBERGER: So moved. Hopefully, I don't need to repeat the-VINCE BUZEK: Please repeat the motion.
+[LAUGHTER]
 
-A. Call to Order
-Committee Chair Buzek called the meeting to order at 2:01 p.m.
-Attendee Name
-Title
-Status
+Is there a second?
+BOBBY DISHELL: Second.
+VINCE BUZEK: OK. Any discussion at all? OK. So we're going to move into executive session now, so we
+will exit this meeting. Has everybody received the-- Bobby and Jim, have you received the email for the
+executive session?
+JIM BRENDEL: Yes, I did. Thank you.
 
-Arrived
-
-Vince Buzek
-
-Committee Chair
-
-Remote
-
-2:01 PM
-
-Peggy Catlin
-
-Director, District N
-
-Remote
-
-2:01 PM
-
-Remote
-
-2:01 PM
-
-Remote
-
-2:01 PM
-
-Remote
-
-2:01 PM
-
-Bobby Dishell
-Jim Brendel
-
-Committee Vice Chair
-
-John Olenberger
-
-Along with Directors and senior staff there was 1 public participant in attendance.
-
-B. Public Comment
-None.
-
-C. Recommended Actions
-None.
-
-D. Discussion Items
-Internal Auditor Assessment of our Cyber Security systems’ compliance with
-national best standards.
-
-Page 1 of 2
-
-E. Other Matters
-None.
-
-F. Next Meeting Date - Thursday, September 11, 2025
-G. Executive Session
-Executive Session pursuant to § 24-6-402(4)(d), C.R.S. (specialized details of security
-arrangements), and § 24-72-204(2)(a)(VIII)(A), C.R.S., (specialized details of physical
-and cyber assets of critical infrastructure, protective measures, emergency response
-plans or system operational data of such assets that would be useful to a person in
-planning an attack on critical infrastructure), § 24-6-402(4)(c), C.R.S. (matters required
-to be kept confidential by federal law) and 49 C.F.R. Parts 15 and 1520 (sensitive
-security information), for discussion of internal auditor RubinBrown LLP’s National
-Institute of Standards and Technology 2.0 Cybersecurity Framework and
-Transportation Security Administration Directive 1582-21-01B compliance assessment.
-Motion:
-
-External Audit Member Olenberger made the
-motion to move into Executive Session.
-External Audit Member Dishell
-motion.
-
-seconded the
-
-The Executive Session was called to order at 2:10 p.m.
-The Executive Session was adjourned at 2:57 p.m.
-
-H. Adjourn
-Committee Chair Buzek adjourned the main meeting at 2:07 p.m.
-
-The following communication assistance is available for public meetings:
-• Language Interpreters
-• Sign-language Interpreters
-• Assistive hearing devices
-• Documents in alternative formats and language translations
-Please notify RTD of the communication assistance you require at least 48 business hours in advance of a
-RTD meeting you wish to attend by calling 303.299.2307
-THE CHAIR REQUESTS THAT ALL CELL PHONES BE SILENCED DURING THE BOARD OF DIRECTORS
-MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
-
-Page 2 of 2
+VINCE BUZEK: OK, good, good. So we'll exit here, and we'll meet you-MELANIE SNYDER: Pardon me, Mr. Chair. Just for the record, no one's opposed to that motion?
+VINCE BUZEK: Oh, I'm sorry. I'm sorry. I don't know if you can hear the rain lashing against my window
+here. Are there any no votes on the motion? Seeing none, this meeting is adjourned. We'll move into
+executive session now. Thanks. Oh.
 
 

@@ -20,6 +20,8 @@ None.
 
 None.
 
+### D. Recommended Actions
+
 #### 1. 2026 Comprehensive Operations Analysis
 
 For the Board of Directors to authorize a transfer of $3,500,000 from the unrestricted fund, approve the scope summary for a solicitation, and authorize the General Manager and CEO (GM/CEO), or her designee, to enter into a contract for consulting services to conduct the 2026 Comprehensive Operational Analysis (COA).
@@ -84,6 +86,8 @@ Director Guissinger seconded the motion.
 
 Committee Chair Guzman declared the motion PASSED unanimously.
 
+### E. Discussion Items
+
 #### 1. 2026-2030 Five-Year Financial Forecast (FYFF)
 
 Presented by Kelly Mackey, Chief Financial Officer and Todd Nikkel, Senior Manager, Budget.
@@ -103,6 +107,8 @@ Presented by Carmelita Cervantes, Manager, Real Property.
 ### F. Other Matters
 
 Committee Chair Guzman, Director Nicholson and Debra A. Johnson, CEO spoke.
+
+### G. Next Meeting Date: Tuesday, September 9, 2025
 
 ### H. Adjourn
 
