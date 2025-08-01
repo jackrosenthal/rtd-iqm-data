@@ -139,7 +139,7 @@
 - **2025-12-02 05:30 PM -07:00**: [Board of Directors - Board Meeting](3865/)
 - **2025-10-28 05:30 PM -06:00**: [Board of Directors - Board Meeting](3852/)
 - **2025-09-30 05:30 PM -06:00**: [Board of Directors - Board Meeting](3841/)
-- **2025-07-29 05:30 PM -06:00**: [Board of Directors - Board Meeting](3819/)
+- **2025-07-29 05:30 PM -06:00**: [Board of Directors - Board Meeting](3819/details.md)
 - **2025-06-24 05:30 PM -06:00**: [Board of Directors - Board Meeting](3806/details.md)
 - **2025-05-28 05:30 PM -06:00**: [Board of Directors - Board Meeting](3797/details.md)
 - **2025-04-29 05:30 PM -06:00**: [Board of Directors - Board Meeting](3785/details.md)

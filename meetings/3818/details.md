@@ -1,12 +1,42 @@
+## I. Executive Committee Agenda
+
 Chaired by Julien Bouquet
+
+## I. Call to Order
+
+Chair Bouquet called the meeting to order at 11:15 a.m.
+
+#### 1. Roll Call
+
+Also in attendance were Directors Catlin, Chandler, Guissinger, Larsen and Ruscha.
+
+Along with Directors and senior staff there were 2 public participants in attendance.
+
+## II. Public Comment
+
+- Joe Beaver
+
+- Jaime Lewis
 
 #### A. Recommendation for Approval of RTD-ATU Collective Bargaining Agreement (CBA)
 
 To authorize the General Manager and CEO (GM/CEO) to execute a three-year Collective Bargaining Agreement (CBA) with Amalgamated Transit Union, Local 1001 (ATU 1001) effective January 1, 2025 – December 31, 2027.
 
+Motion:              Director Whitmore made the motion to move this item to the Full board at the July 29, 2025, Board Meeting.
+
+Director Benker seconded the motion.
+
+Chair Bouquet declared the motion  PASSED.
+
 #### B. Recognition of Reverend Wade Blank via Honorary Name for Civic Center Station
 
 For the Board of Directors to adopt an honorary name for Civic Center Station to recognize the life and career of Reverend Wade Blank and, in adopting the honorary name, change the name of Civic Center Station to Wade Blank Civic Center Station.
+
+Motion:              Director Benker made the motion to move this item to the Full board at the July 29, 2025, Board Meeting.
+
+Director Whitmore seconded the motion.
+
+Chair Bouquet declared the motion PASSED.
 
 ##### a. 2025-07-24 Honorary Name for Civic Center Station  Recommendation
 
@@ -22,15 +52,51 @@ For the Board of Directors to adopt an honorary name for Civic Center Station to
 
 For the Board of Directors to ratify Director Patrick O’Keefe’s appointment to the Operations, Safety, and Security Committee.
 
+Motion:              Director Nicholson made the motion to move this item to the Full board at the July 29, 2025, Board Meeting.
+
+Director Benker seconded the motion.
+
+Chair Bouquet declared the motion PASSED.
+
+## IV. July Board Meeting Agenda Review
+
+Chair Bouquet noted the following changes to the July 29, 2025, Board Meeting agenda. Move items forward on the agenda to come immediately after External Entity Reports and before our committee reports. Those two items are the Access-on-Demand Program Modifications and the Collective Bargaining Agreement with ATU-1001.
+
+The third change is to move the Access-on-Demand Contract Extensions, currently listed as Item I on the agenda from Unanimous Consent to Recommended Actions. This change is being requested as the item was not approved unanimously at the Committee level and the Board Office inadvertently placed the item on the consent agenda.
+
+Director Nicholson suggested Item K, Recognition of Reverend Wade Blank via Honorary Name for Civic Center Station item be moved to after the Access-on- Demand item. The Chair acknowledged the change.
+
+Motion:              Director Whitmore made the motion to move the agenda as amended to the Full board at the July 29, 2025, Board Meeting.
+
+Director  Benker seconded the motion.
+
+Chair Bouquet declared the motion PASSED.
+
 #### 1. Monthly Government Relations Report – July 2025
 
+Presented by Michael Davies, Government Relations Officer.
+
 #### 2. Semiannual Report on Director Engagement
+
+Presented by Jack Kroll, Executive Manager, Board Office.
 
 ##### a. Tracked Director Engagment Jan-June 2025
 
 #### 3. Semiannual Report on Director Requests
 
+Presented by Jack Kroll, Executive Manager, Board Office.
+
 ##### a. Director Requests July 2025 Update
+
+## VI. Other Matters
+
+Director Benker, Chair Bouquet and Jack Kroll, Executive Manager, Board Office spoke.
+
+## VII. Adjourn
+
+Chair Bouquet adjourned the meeting at 12:54 p.m.
+
+## V. Retiree Awards
 
 Recognized Quarterly
 
