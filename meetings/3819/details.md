@@ -98,6 +98,6 @@ For the Board of Directors to authorize the General Manager and CEO (GM/CEO) or 
 
 For the Board of Directors to approve, pursuant to the General Manager and CEO (GM/CEO) performance framework adopted in January 2024 in alignment with the Board’s employment agreement with the GM/CEO, the proposed short-term SMART goals for the performance period commencing January 1, 2026, and continuing through November 8, 2026.
 
-### K. Access-on-Demand Contract Extensions
+### L. Access-on-Demand Contract Extensions
 
 For the Board of Directors to authorize the General Manager and CEO or her designee to enter into six-month contract extension amendments with existing providers for the Access-on-Demand (AoD) program effective January 1, 2026, through June 30, 2026, raising the not-to-exceed amount from $37.8 to $42.2 million.
