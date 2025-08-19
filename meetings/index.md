@@ -98,7 +98,7 @@
 
 - **2025-11-13 02:00 PM -07:00**: [Audit Committee - Committee](3859/)
 - **2025-10-09 02:00 PM -06:00**: [Audit Committee - Committee](3846/)
-- **2025-09-11 02:00 PM -06:00**: [Audit Committee - Committee](3835/)
+- **2025-09-11 02:00 PM -06:00**: [Audit Committee - Committee](3835/) (CANCELLED)
 - **2025-07-10 02:00 PM -06:00**: [Audit Committee - Committee](3813/details.md)
 - **2025-06-12 02:00 PM -06:00**: [Audit Committee - Committee](3803/details.md)
 - **2025-05-08 02:00 PM -06:00**: [Audit Committee - Committee](3789/) (CANCELLED)
@@ -834,7 +834,6 @@
 - **2025-10-29 05:30 PM -06:00**: [Board of Directors - No Meeting Scheduled](3853/)
 - **2025-10-22 05:30 PM -06:00**: [Board of Directors - No Meeting Scheduled](3850/)
 - **2025-10-08 05:30 PM -06:00**: [Board of Directors - No Meeting Scheduled](3845/)
-- **2025-10-07 05:30 PM -06:00**: [Board of Directors - No Meeting Scheduled](3844/)
 - **2025-10-01 05:30 PM -06:00**: [Board of Directors - No Meeting Scheduled](3842/)
 - **2025-09-24 05:30 PM -06:00**: [Board of Directors - No Meeting Scheduled](3839/)
 - **2025-09-23 05:30 PM -06:00**: [Board of Directors - No Meeting Scheduled](3838/)
@@ -1679,6 +1678,7 @@
 ### 2025
 
 - **2025-10-21 05:30 PM -06:00**: [Board of Directors - Study Session](3849/)
+- **2025-10-07 05:30 PM -06:00**: [Board of Directors - Study Session](3844/)
 - **2025-09-16 05:30 PM -06:00**: [Board of Directors - Study Session](3836/)
 - **2025-06-17 05:30 PM -06:00**: [Board of Directors - Study Session](3804/) (CANCELLED)
 - **2025-04-22 04:00 PM -06:00**: [Board of Directors - Study Session](3782/details.md)
