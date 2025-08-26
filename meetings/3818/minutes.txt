@@ -36,48 +36,33 @@ Call to Order
 
 Chair Bouquet called the meeting to order at 11:15 a.m.
 Attendee Name
-Title
-
-Status
-
-Arrived
-
 Julien Bouquet
-
-Chair
-
-Remote
-
-11:05 AM
-
 Patrick O'Keefe
-
-First Vice Chair
-
-Absent
-
 Troy Whitmore
-
-Second Vice Chair
-
-Remote
-
-11:05 AM
-
 Chris Nicholson
-
-Secretary
-
-Remote
-
-11:05 AM
-
 Karen Benker
 
-Treasurer
+Title
+Chair
 
+Status
 Remote
 
+Arrived
+11:05 AM
+
+First Vice Chair
+Second Vice Chair
+Secretary
+Treasurer
+
+Absent
+Remote
+Remote
+Remote
+
+11:05 AM
+11:05 AM
 11:15 AM
 
 Also in attendance were Directors Catlin, Chandler, Guissinger, Larsen, and Ruscha.
@@ -186,10 +171,8 @@ after External Entity Reports.
 The Access-on-Demand Contract Extensions,
 currently listed as Item I on the Unanimous
 Consent
-Agenda
-would
-be
-moved
+Agenda would
+be moved
 to
 Recommended Actions as the item was not
 approved unanimously at the Committee level.
