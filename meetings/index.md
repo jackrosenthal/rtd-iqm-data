@@ -2490,7 +2490,7 @@
 
 - **2025-11-11 05:30 PM -07:00**: [Finance and Planning Committee - Committee](3857/)
 - **2025-10-14 05:30 PM -06:00**: [Finance and Planning Committee - Committee](3847/)
-- **2025-09-09 05:30 PM -06:00**: [Finance and Planning Committee - Committee](3833/)
+- **2025-09-09 05:30 PM -06:00**: [Finance and Planning Committee - Committee](3833/details.md)
 - **2025-07-15 05:30 PM -06:00**: [Finance and Planning Committee - Committee](3814/details.md)
 - **2025-06-10 05:30 PM -06:00**: [Finance and Planning Committee - Committee](3801/details.md)
 - **2025-05-13 05:30 PM -06:00**: [Finance and Planning Committee - Committee](3791/details.md)
@@ -3308,7 +3308,7 @@
 
 - **2025-11-12 05:30 PM -07:00**: [Operations Safety and Security Committee - Committee](3858/)
 - **2025-10-15 05:30 PM -06:00**: [Operations Safety and Security Committee - Committee](3848/)
-- **2025-09-10 05:30 PM -06:00**: [Operations Safety and Security Committee - Committee](3834/)
+- **2025-09-10 05:30 PM -06:00**: [Operations Safety and Security Committee - Committee](3834/details.md)
 - **2025-07-16 05:30 PM -06:00**: [Operations Safety and Security Committee - Committee](3815/details.md)
 - **2025-06-11 05:30 PM -06:00**: [Operations Safety and Security Committee - Committee](3802/details.md)
 - **2025-05-14 05:30 PM -06:00**: [Operations Safety and Security Committee - Committee](3792/details.md)
@@ -3365,7 +3365,7 @@
 
 - **2025-11-03 08:30 AM -07:00**: [Performance Committee - Committee](3854/)
 - **2025-10-06 08:30 AM -06:00**: [Performance Committee - Committee](3843/)
-- **2025-09-08 08:30 AM -06:00**: [Performance Committee - Committee](3831/)
+- **2025-09-08 08:30 AM -06:00**: [Performance Committee - Committee](3831/details.md)
 - **2025-07-07 08:30 AM -06:00**: [Performance Committee - Committee](3810/details.md)
 - **2025-06-23 08:30 AM -06:00**: [Performance Committee - Committee](3883/details.md)
 - **2025-06-02 08:30 AM -06:00**: [Performance Committee - Committee](3798/details.md)
