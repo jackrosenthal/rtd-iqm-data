@@ -10,7 +10,7 @@ For the Board to adopt the Title VI Fare Equity Analysis report for the introduc
 
 ##### a. Attachment A Tap to Pay and Expanded Retail Network Fare Equity Analysis
 
-##### b. Attachment B Tap to Pay and Expanded Retail Network Fare Equity Analysis Recommended Action Item
+##### b. Attachment B Tap to Pay and Expanded Retail Network Fare Equity Analysis presentation - updated
 
 #### 3. 2026-2030 Five-Year Financial Forecast (FYFF)
 
