@@ -1,5 +1,3 @@
-Chaired by Michael Guzman
-
 #### 1. District Shops Hoists Replacement Contract Award
 
 For the Board of Directors to authorize the General Manager and CEO or her designee to enter into a contract with Rhinotrax Construction for the renovation of nine in-ground hydraulic bus hoists at the RTD District Shops Division building. This includes replacement of eight hoists and the removal of one hoist at the District Shops Bus Maintenance Facility. The base bid award amount of the contract is $4,003,792.
