@@ -1,5 +1,3 @@
-Chaired by Ian Harwick
-
 #### 1. Longmont and Boulder Fixed-Route Service Contract
 
 For the Board to authorize the General Manager and CEO or her designee to enter into a contract with Transdev Services, Inc., for the provision of fixed-route services as described herein. This contract is for three years, with two one-year options for a total of five years, at a total not-to-exceed cost of $127,095,000. Additionally, RTD will reimburse the contractor’s direct fuel costs in an amount estimated to be $11,955,000 over five years. The total five-year not-to-exceed cost for services and fuel is $139,050,000.
@@ -12,7 +10,7 @@ For the Board of Directors to approve modifications to the supplemental, premium
 
 ##### b. Attachment B - Staff Recommended Access-on-Demand Parameters
 
-#### 3. Access-on-Demand Contract Extensions
+#### 6. Access-on-Demand Contract Extensions
 
 For the Board of Directors to authorize the General Manager and CEO or her designee to enter into six-month contract extension amendments with existing providers for the Access-on-Demand (AoD) program effective January 1, 2026, through June 30, 2026, raising the not-to-exceed (NTE) amount from $37.8 million to $47.2 million.
 
