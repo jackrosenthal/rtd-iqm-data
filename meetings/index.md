@@ -97,7 +97,7 @@
 ### 2025
 
 - **2025-11-13 02:00 PM -07:00**: [Audit Committee - Committee](3859/)
-- **2025-10-09 02:00 PM -06:00**: [Audit Committee - Committee](3846/)
+- **2025-10-09 02:00 PM -06:00**: [Audit Committee - Committee](3846/) (CANCELLED)
 - **2025-09-11 02:00 PM -06:00**: [Audit Committee - Committee](3835/) (CANCELLED)
 - **2025-07-10 02:00 PM -06:00**: [Audit Committee - Committee](3813/details.md)
 - **2025-06-12 02:00 PM -06:00**: [Audit Committee - Committee](3803/details.md)
@@ -138,7 +138,7 @@
 - **2025-12-09 05:30 PM -07:00**: [Board of Directors - Board Meeting](3832/)
 - **2025-12-02 05:30 PM -07:00**: [Board of Directors - Board Meeting](3865/)
 - **2025-10-28 05:30 PM -06:00**: [Board of Directors - Board Meeting](3852/)
-- **2025-09-30 05:30 PM -06:00**: [Board of Directors - Board Meeting](3841/)
+- **2025-09-30 05:30 PM -06:00**: [Board of Directors - Board Meeting](3841/details.md)
 - **2025-07-29 05:30 PM -06:00**: [Board of Directors - Board Meeting](3819/details.md)
 - **2025-06-24 05:30 PM -06:00**: [Board of Directors - Board Meeting](3806/details.md)
 - **2025-05-28 05:30 PM -06:00**: [Board of Directors - Board Meeting](3797/details.md)
@@ -2033,7 +2033,8 @@
 
 - **2025-11-20 11:15 AM -07:00**: [Executive Committee - Committee](3862/)
 - **2025-10-23 11:15 AM -06:00**: [Executive Committee - Committee](3851/)
-- **2025-09-25 11:15 AM -06:00**: [Executive Committee - Committee](3840/)
+- **2025-09-30 04:00 PM -06:00**: [Executive Committee - Committee](3885/details.md)
+- **2025-09-25 11:15 AM -06:00**: [Executive Committee - Committee](3840/details.md)
 - **2025-07-24 11:15 AM -06:00**: [Executive Committee - Committee](3818/details.md)
 - **2025-06-18 11:15 AM -06:00**: [Executive Committee - Committee](3805/details.md)
 - **2025-05-22 11:15 AM -06:00**: [Executive Committee - Committee](3795/details.md)

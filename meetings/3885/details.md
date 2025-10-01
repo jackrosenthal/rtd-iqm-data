@@ -1,0 +1,3 @@
+Chaired by Julien Bouquet
+
+Executive Session pursuant to § 24-6-402(4)(f)(I), C.R.S., for consideration of personnel matters regarding the Board’s dialogue with the Executive Manager of the Board Office on his 2024-2025 performance in meeting the Agency Values, Base Job Accountabilities, and his Performance Priorities, and input from the Board of Directors on areas of focus for the 2025-2026 performance period.
