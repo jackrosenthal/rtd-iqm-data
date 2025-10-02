@@ -1,11 +1,3 @@
-Jose G. Martinez Jr. – Street Supervisor – 30 years
-
-Mac McIntosh – Senior Labor Relations Generalist – 15 years
-
-Matthew Richey – Procurement Specialist II – 26 years
-
-David Svenby – Telecom Supervisor – 29 Years
-
 ### 1. Access-on-Demand Program Modifications As Amended
 
 For the Board of Directors to approve modifications to the supplemental, premium Access-on-Demand (AoD) service for RTD’s paratransit customers as amended and described herein effective January 1, 2026**.
@@ -16,7 +8,7 @@ For the Board of Directors to approve modifications to the supplemental, premium
 
 ##### c. Attachment C - 2025-09-10 Committee Amendments
 
-### 2. Access-on-Demand Contract Extensions
+### 6. Access-on-Demand Contract Extensions
 
 For the Board of Directors to authorize the General Manager and CEO or her designee to enter into six-month contract extension amendments with existing providers for the Access-on-Demand (AoD) program effective January 1, 2026, through June 30, 2026, raising the not-to-exceed (NTE) amount from $37.8 million to $47.2 million.
 
@@ -36,17 +28,11 @@ For the Board of Directors to authorize the General Manager and CEO or her desig
 
 ### E. Minutes of Sep 25, 2025 11:15 AM
 
-### A. Successor Strategic Plan Consultancy Solicitation
-
-For the Board of Directors to approve the scope of work summary for a solicitation for a consultancy to assist with the development of the successor five-year strategic plan for the 2026-2031 planning horizon.
-
-##### a. 2026-2031 Successor Strategic Plan Solicitation
-
-### B. District Shops Hoists Replacement Contract Award
+### A. District Shops Hoists Replacement Contract Award
 
 For the Board of Directors to authorize the General Manager and CEO or her designee to enter into a contract with Rhinotrax Construction for the renovation of nine in-ground hydraulic bus hoists at the RTD District Shops Division building. This includes replacement of eight hoists and the removal of one hoist at the District Shops Bus Maintenance Facility. The base bid award amount of the contract is $4,003,792.
 
-### C. Tap-to-pay and Cash Digitization Retail Network Title VI Fare Equity Analysis
+### B. Tap-to-pay and Cash Digitization Retail Network Title VI Fare Equity Analysis
 
 For the Board to adopt the Title VI Fare Equity Analysis report for the introduction of tap-to-pay fare payments to comply with federal laws, regulations and guidelines related to Title VI of the Civil Rights Act of 1964.
 
@@ -54,13 +40,19 @@ For the Board to adopt the Title VI Fare Equity Analysis report for the introduc
 
 ##### b. Attachment B Tap to Pay and Expanded Retail Network Fare Equity Analysis presentation - updated
 
-### 1. 2026-2030 Five-Year Financial Forecast (FYFF)
+### 3. Successor Strategic Plan Consultancy Solicitation
+
+For the Board of Directors to approve the scope of work summary for a solicitation for a consultancy to assist with the development of the successor five-year strategic plan for the 2026-2031 planning horizon.
+
+##### a. 2026-2031 Successor Strategic Plan Solicitation
+
+### 4. 2026-2030 Five-Year Financial Forecast (FYFF)
 
 For the Board of Directors to adopt the 2026-2030 Five-Year Financial Forecast (FYFF).
 
 ##### a. 2026-2030 Five-Year Financial Forecast
 
-### 2. Longmont and Boulder Fixed-Route Service Contract
+### 5. Longmont and Boulder Fixed-Route Service Contract
 
 For the Board to authorize the General Manager and CEO or her designee to enter into a contract with Transdev Services, Inc., for the provision of fixed-route services as described herein. This contract is for three years, with two one-year options for a total of five years, at a total not-to-exceed cost of $127,095,000. Additionally, RTD will reimburse the contractor’s direct fuel costs in an amount estimated to be $11,955,000 over five years. The total five-year not-to-exceed cost for services and fuel is $139,050,000.
 
