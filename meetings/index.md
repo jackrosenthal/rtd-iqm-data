@@ -1678,7 +1678,7 @@
 ### 2025
 
 - **2025-10-21 05:30 PM -06:00**: [Board of Directors - Study Session](3849/)
-- **2025-10-07 05:30 PM -06:00**: [Board of Directors - Study Session](3844/)
+- **2025-10-07 05:30 PM -06:00**: [Board of Directors - Study Session](3844/details.md)
 - **2025-09-16 05:30 PM -06:00**: [Board of Directors - Study Session](3836/) (CANCELLED)
 - **2025-06-17 05:30 PM -06:00**: [Board of Directors - Study Session](3804/) (CANCELLED)
 - **2025-04-22 04:00 PM -06:00**: [Board of Directors - Study Session](3782/details.md)
@@ -3365,7 +3365,7 @@
 ### 2025
 
 - **2025-11-03 08:30 AM -07:00**: [Performance Committee - Committee](3854/)
-- **2025-10-06 08:30 AM -06:00**: [Performance Committee - Committee](3843/)
+- **2025-10-06 08:30 AM -06:00**: [Performance Committee - Committee](3843/details.md)
 - **2025-09-08 08:30 AM -06:00**: [Performance Committee - Committee](3831/details.md)
 - **2025-07-07 08:30 AM -06:00**: [Performance Committee - Committee](3810/details.md)
 - **2025-06-23 08:30 AM -06:00**: [Performance Committee - Committee](3883/details.md)
