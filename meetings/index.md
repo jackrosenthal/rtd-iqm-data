@@ -832,7 +832,7 @@
 - **2025-11-05 05:30 PM -07:00**: [Board of Directors - No Meeting Scheduled](3856/)
 - **2025-11-04 05:30 PM -07:00**: [Board of Directors - No Meeting Scheduled](3855/)
 - **2025-10-29 05:30 PM -06:00**: [Board of Directors - No Meeting Scheduled](3853/)
-- **2025-10-22 05:30 PM -06:00**: [Board of Directors - No Meeting Scheduled](3850/)
+- **2025-10-21 05:30 PM -06:00**: [Board of Directors - No Meeting Scheduled](3849/)
 - **2025-10-08 05:30 PM -06:00**: [Board of Directors - No Meeting Scheduled](3845/)
 - **2025-10-01 05:30 PM -06:00**: [Board of Directors - No Meeting Scheduled](3842/)
 - **2025-09-24 05:30 PM -06:00**: [Board of Directors - No Meeting Scheduled](3839/)
@@ -1677,7 +1677,7 @@
 
 ### 2025
 
-- **2025-10-21 05:30 PM -06:00**: [Board of Directors - Study Session](3849/)
+- **2025-10-22 05:30 PM -06:00**: [Board of Directors - Study Session](3850/)
 - **2025-10-07 05:30 PM -06:00**: [Board of Directors - Study Session](3844/details.md)
 - **2025-09-16 05:30 PM -06:00**: [Board of Directors - Study Session](3836/) (CANCELLED)
 - **2025-06-17 05:30 PM -06:00**: [Board of Directors - Study Session](3804/) (CANCELLED)
