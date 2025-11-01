@@ -1,0 +1,2314 @@
+2025-10-14
+Finance and Planning Committee
+MICHAEL GUZMAN: Good evening. I'd like to call the Tuesday, October 14 Finance and Planning
+Committee to order. We are convened as of 5:31 PM, and I would respectfully ask everyone attending
+this meeting to mute yourself unless you are recognized to speak.
+Please note that the committee meetings of the RTD Board of Directors will be held remotely via Zoom
+and will be audio and video recorded. The meeting recordings, along with the unofficial minutes of the
+meetings, will be posted as soon as practicable on the Board's website.
+During today's meeting, we are providing Communication Access Realtime Translation, also known as
+CART. Anyone who would like to access this service should send an email to the RTD Board Office at
+rtd.boardoffice@rtd denver.com and a link will be provided. Additionally, the CART transcript can be
+automatically translated for anyone who would like to access a live transcript of this meeting in Spanish. A
+live stream of this meeting is also available via RTD's YouTube page.
+I would now like to call the roll for the committee members. Committee Vice Chair Karen Benker.
+KAREN BENKER: OK. It worked.
+MICHAEL GUZMAN: Hey. All right. Are you here?
+KAREN BENKER: I am here.
+MICHAEL GUZMAN: All right. Director Peggy Catlin.
+PEGGY CATLIN: I am here, but I may have to leave early.
+MICHAEL GUZMAN: OK. Director Lynn Guissinger.
+LYNN GUISSINGER: Here.
+MICHAEL GUZMAN: Director Chris Gutschenritter.
+CHRIS GUTSCHENRITTER: Here.
+MICHAEL GUZMAN: Director Matt Larsen.
+MATT LARSEN: Here.
+MICHAEL GUZMAN: Director Patrick O'Keefe.
+PATRICK O'KEEFE: Here.
+
+MICHAEL GUZMAN: And I am committee Chair Michael Guzman. I am also here. We had with us
+Director Nicholson. Is that correct? I do not see him.
+JACK KROLL: Not yet, no.
+MICHAEL GUZMAN: OK. Sorry. We are not joined with any other Directors at this time. Staff, please help
+me if you see somebody come on that I am not seeing.
+All right. I would like to open to public comment-- sorry-- I would like to open public comment to anyone
+who would like to address the committee regarding any topic listed in the published meeting agenda for
+the current and immediately preceding month. If you wish to speak and have not already done so, please
+either raise your virtual hand or press star 9 on your telephone.
+During this time, the committee will not offer any direct comments or responses. However, if you would
+like to be contacted regarding your public comment, please email the RTD Board at rtd.directors@rtddenver.com.
+I do not see any hands raised Mr. Kroll, are there hands raised?
+JACK KROLL: There is one hand raised and that is from a Chandler Sanchez.
+MICHAEL GUZMAN: All right. Staff will unmute you when it is your turn to speak. If you are dialed in,
+you'll press star 6 to toggle your mute settings. Please bear in mind that by participating in this process,
+you are being recorded. If you do not wish to be recorded, then your comments will need to be submitted
+in writing. Comments can be submitted to the Board at the following email address, rtd.directors@rtddenver.com.
+Speakers should begin their remarks by stating their names, and each speaker will have three minutes to
+speak. Our first speaker is Chandler?
+CHANDLER SANCHEZ: Yeah, thank you. Can you hear me all right?
+MICHAEL GUZMAN: Yes. Please proceed.
+CHANDLER SANCHEZ: Thank you. Thank you to the committee for the opportunity today to give public
+comment. My name is Chandler Sanchez, and I'm here on behalf of the Southwest Energy Efficiency
+Project to express our opposition to RTD's proposal to backstep on fleet electrification and the plan to
+borrow half a million dollars for diesel buses over the next five years. We believe that the move would
+represent a step backwards at meeting the agency's stated goals in their Facilities and Fleet Transition
+Plan, as well as delaying RTD's contribution to Colorado's largest transit agency meeting the state's 2035
+greenhouse gas reduction targets.
+I want to acknowledge here that there are very real fiscal constraints at play. New tariffs, upfront price
+disparities, and limited procurement options should influence long-term planning decisions. However, it's
+really unclear to us right now that the agency has fully tapped potential federal and state funding sources,
+which can ease the burden of electrification. So FTA programs, like grants for buses and bus facilities
+programs and low to no emission bus grants, offer millions of dollars in both funding for new electric
+buses, as well as facility upgrades that RTD has stated are a major barrier to actually electrifying their
+fleet.
+
+Additionally, the state's Clean Transit Enterprise and Multimodal Options Fund disperses tens of millions
+of dollars every single year, which have been used by other smaller transit agencies to fund electric bus
+replacements as well as infrastructure like charging, stuff like that, when their diesel buses age out. Case
+studies, as well, from other transit agencies transitioning to electric fleets, have shown to generate longterm savings from cheaper maintenance and operation costs, as well as fuel savings over diesel and
+renewable diesel fleets.
+The Chicago Transit Authority, for example, estimates that they save more than $25,000 annually in fuel
+costs alone for every gas bus that they replace with an electric model. That's in addition to the
+downstream environmental and health benefits of electrification, which RTD estimates to be around $69
+million in benefits over the next decade, just according to your own facilities transition blueprint. We
+believe that the path to electrification is still possible with forward thinking and strategic decisions, and we
+urge you to rethink taking in half a billion dollars of more debt to invest in outdated and polluting
+technology.
+Again, my name is Chandler. I'm with the Southwest Energy Efficiency Project and thank the committee
+for their time.
+MICHAEL GUZMAN: Thank you, Chandler Sanchez. Are there any other hands raised?
+JACK KROLL: Committee Chair Guzman, there are no further hands raised at this time.
+MICHAEL GUZMAN: All right. Mr. Kroll, Executive Board Office Manager, I am aware of one email from
+Heather Stauffer, the Intergovernmental Affairs Officer. She was transmitting a letter on behalf of the city
+of Boulder regarding the FISA reserves. Were there any other emailed communications received for
+today's meeting?
+JACK KROLL: Yes. In addition to the aforementioned letter from Mayor Aaron Brockett regarding the
+FISA reserves from the city of Boulder, there were also letters submitted by a coalition of nonprofit
+organizations and advocacy organizations, including SWEEP, whom we just heard from regarding the
+electrification of RTD's bus fleet. The City and County of Broomfield, represented by Mayor Guyleen
+Castriotta, also submitted a letter related to FISA and the purchasing of additional buses. And then there
+was a letter received from [? Akai ?] [INAUDIBLE] regarding the use of the phrase clean diesel in the
+purchasing of additional buses.
+MICHAEL GUZMAN: Thank you. With no other participants in the queue, we will close the public
+comment period at this time.
+Tonight, we do have information from an external entity. There is one external entity report on the agenda
+for the sales and use tax forecast. I am going to ask Kelly Mackey, our Chief Financial Officer, to
+introduce this item and our guests from the CU Leeds School of Business.
+Before you take over, I would just like to ask Directors, remember to remain muted. Any questions that
+you may have, it's helpful to reference the slide number or page number in the packet so we can all refer
+to the same information. And we will have a chance to ask questions at the end of the presentation.
+Ms. Mackey, the floor is yours.
+KELLY MACKEY: Thank you, Mr. Chair, and good evening. The Business Research Division of the
+University of Colorado Boulder Leeds School of Business provides semi-annual sales and use tax
+
+forecast model reports in March and September and presents them to the Finance and Planning
+Committee in April and October each year. The sales and use tax forecast from the medium forecast
+scenario is included in the 2026 proposed budget for discussion later in this evening's agenda.
+I would like to thank Mr. Robert McNown, Richard Wobbekind, and Brian Lewandowski for their continued
+excellent work providing these forecasts. And gentlemen, I will turn it to you.
+BRIAN LEWANDOWSKI: Great. Thank you, Kelly. Hopefully you can see my screen OK.
+MICHAEL GUZMAN: Yes.
+BRIAN LEWANDOWSKI: Great. And also just want to say thank you to RTD Board members for the
+opportunity to talk with you tonight. I'm Brian Lewandowski. I'm the Executive Director of the Business
+Research Division at the Leeds School of Business, University of Colorado Boulder. And I also want to
+thank the RTD Finance staff for their incredible partnership over the past 14 years that we've been
+partnering on this with RTD.
+I'm joined by two of my colleagues, Richard Wobbekind and Robert McNown, both PhD economists, who
+add an incredible wealth of knowledge and modeling expertise to this project, as well as two of our team
+members who are not with us tonight, Adam Illig and Miles Light.
+Very quickly, I just want to share that the Leeds School of Business is the eighth oldest business school
+in the country, founded in 1906, and our research center is not far behind. We were founded in 1916, and
+we were really founded with the principle and as a model for providing economic education to Colorado
+communities.
+So tonight, Rich will provide a brief overview of the macroeconomic conditions that provide a backdrop to
+the sales and use tax forecast. And then Robert will close by providing an explanation of the forecast
+itself.
+Before I turn it over to Rich, I hope you've had an opportunity to take a look at the report that we have
+provided. This is a 50-plus page report, and this is actually a scaled down version from when we initially
+started doing this exercise with you 14 years ago. And while it may seem excessive sometimes to be
+taking a look at a 50-page report, we think it really demonstrates the depth of thought that we put into the
+macroeconomic environment, the economic scenarios that we take a look at when considering your
+revenue path for the forecast itself.
+So I look forward to any questions you have at the end. But I'm going to go ahead and turn it over to Rich
+to kick us off with the macroeconomic conditions.
+RICHARD WOBBEKIND: Well, thank you so much, Brian. And as Brian was suggesting just a moment
+ago, we run different scenarios. And you can see this illustrated almost immediately in terms of the
+national macro GDP forecast you see in front of you. You can see the baseline forecast in the dashed
+black line, the more optimistic forecast in the green line, and then the pessimistic forecast, which may not
+be easy to see, but is a recessionary scenario in the red line. So we're giving options as we run these,
+and you'll hear a lot more about that from my colleague, Professor McNown, here in just a little bit.
+Key highlight here is that we are forecasting positive growth. Most forecasts, and ours included, are
+upwards in the 1.6% to 1.8% range for this year, and a continued slow growth for next year. So that's the
+national macro driver. And of course, a key element of that has been consumption, and needs to be,
+
+considering that consumption is 70% of GDP. And of course, that critically relates to revenue forecasting,
+because a chunk of consumption is the taxable goods that you are raising RTD revenues off of.
+So if we look at the employment situation, this, of course, has gotten a lot of air time recently, and not
+inappropriately so. After the recovery, 2020 was a disastrous year in terms of employment, with the
+COVID situation. And we've seen a rapid recovery from that. But as it has worn on, the annual averages
+for additional jobs per month have fallen, to be expected, I would say, not unexpectedly. This year, we've
+seen numbers that are extremely low compared to what we've seen in the last few years. And the most
+recent month, 22,000.
+I don't need to tell you that we don't have the September number yet because of the government
+shutdown. And that was a highly anticipated number in terms of policy. So that's a little bit of an area of
+concern.
+I would like to make one sort of sidebar comment from our slides here for just a moment. Interpreting
+these job growth numbers is all the more difficult in an environment where you have limited immigration
+into the country. Or said differently, how can we have such a low unemployment rate in the economy and
+not be creating very many jobs.
+Well, a number of the jobs we would be creating would be getting filled by people coming into the country
+from outside the country, and we are running at a pace that probably we will have two million less
+immigrants in the country for the year, when we total up the year. So that alone would be 165,000 people
+per month who could be coming into the labor force. They wouldn't all be coming into the labor force. But
+you would see why you would need dramatically larger numbers of jobs if you had that immigration.
+So moving ahead, that kind of drives us to a Colorado forecast that is substantially slower job growth in
+this year and, spoiler alert, not for this presentation, but we're going to be forecasting a low growth in
+employment for 2026 as well. And again, in the context of what we've seen over the last decade, other
+than 2020, we had really significantly higher job growth numbers. So this is a substantially lower job
+growth number for this year.
+You can see over on the far left hand side of the slide, half a percent job growth for Colorado. And also, I
+would highlight, on the right hand side, year over year, our labor force is at zero growth for the year, at
+this point. So this is also somewhat unusual for Colorado. We've usually had larger labor force growth. So
+picture is much slower labor force growth and much smaller employment growth, or lower employment
+growth.
+So what does all of that mean? Again, you can see the labor force on the left hand, in blue here. And you
+can see that it has flattened out. We're not seeing this additional labor force. And then on the right hand
+side, this relies on a report that people call JOLTS, which stands for the Job Opening and Labor Turnover
+Survey.
+And we keep track of that report because it gives us the supply and demand of labor, the job openings
+that are out there in terms of demand, and then the unemployed people in the economy in terms of
+supply. Yes, they may not match up in terms of skill sets and other things. Understand that. And we could
+talk more about that if anybody is interested.
+But I would highlight that just a couple of years ago, or a year and a half ago, you can see that the red
+line was dramatically higher than the black line. We had way more job openings than we had unemployed
+
+people. 2.3, 2.4 job openings for every unemployed person. And the most recent reports that have come
+out were down to 0.8 to 1, meaning we have less than 1 open job for every unemployed person. So this is
+a dramatic shift in terms of the tightness of the labor force in Colorado.
+Now, getting more in line with what's most key for RTD and for your revenue forecasts and so on. On the
+left hand side, we're showing here the national retail sales numbers. And one thing you can see is we
+kind of move in a similar pattern to the national numbers. But one thing I would highlight is that you can
+see back in '21 and '22, we were above the tan line, which is Colorado was above the black line, the
+national numbers. More recently, the tan line has been fairly consistently below the national retail sales
+numbers.
+So through August, you see the national number is 5% year over year. And in Colorado, we have the
+numbers through July and they're are 2.7%. So we're definitely running at a slower pace, if you will, than
+the national economy.
+On the right-- oh, sorry, Brian. On the right, you can see which categories-- this is just informational for
+you at the national level, what's hot and what's not. And you can see some of the things down the bottom
+building materials and garden equipment, department stores. So you can see the distribution of what
+things are doing a little bit better and what things are doing a little bit worse in terms of the distribution of
+retail sales.
+So here's Colorado July over July. And what you have at the bottom are all the counties in the state. And
+the state was 1.7% July over July. And this is, by the way, in nominal terms, not in real terms. So roughly
+mirroring our inflation rate, a little bit less than our inflation rate. And highlighted in the red bars there are
+the district counties. So you can see, while overall the state's at 1.7%, you do have a few counties that
+are above the average for the state. But you also have, RTD has a number of counties that are below that
+1.7% average.
+One thing just to think about for the future. The next two slides relate to just putting something out there in
+the back of your minds as you're doing this into the future. This is the taxable expenditures by cohort, and
+so the percent of these different age brackets in terms of how much they spend of their incomes on
+taxable expenditures. And this is based off of national data but using Colorado taxable goods
+components. So we're adjusting it, if you will, for Colorado.
+And what you see is essentially as people are getting older and we're aging and moving into the over 65
+bracket and so on, you spend a lot fewer of your dollars on taxable sales, types of things that are in
+taxable sales than you do when you're for example, under age 25. So under age 25, you're spending a lot
+larger percentage of your income on taxable sales.
+Just keep that in mind for a moment as we flip to the next slide, which shows the actual total taxable
+expenditures for these different categories. So what you see is even though the under 25 people spend a
+very large percentage on taxable sales, their income levels are such that they're hovering right there with
+the over 65 age group, contributing the least in terms of taxable expenditures. And your prime working
+age population, up above, 45 to 54, 35 to 44, and so on, are very important in terms of your taxable
+expenditures. So depending on the aging of the population, paying a lot of attention to this as we go
+forward in terms of relying on sales tax revenues from an increasingly aging population.
+So just some numbers, and those of you who have been around a little bit longer have seen this table in
+every presentation we do. We're very fond of in real time, how is the state doing? And from 2008 to 2023,
+
+this was an easy slide to talk about because the state was going gangbusters and was a top 5, top 10 in
+almost every single category.
+More recently, in the last 21 months now, 2024 and 2025, we've fallen back and we're more like in the
+middle of the pack in terms of the country, in terms of things like GDP growth, employment growth. We're
+definitely not where we were before. So we're adjusting to a different kind of environment.
+We had a tremendous run. Maybe we went into the lull a little earlier than the rest of the country has. But
+there are still some things that are fairly bright on this, and I would just like to point them out. The labor
+force participation rate, we still have the sixth highest labor force participation rate in the country. We
+have the ninth highest per capita personal income in the country. So we have some pretty big numbers.
+Our average annual pay, seventh highest in the country.
+So we do have some things that you would say economically look good. And maybe importantly,
+depending on how you feel about such things, but the third and fourth line up from the bottom, our home
+price appreciation, which was running 1, 2, 3, 4, 5 every year-- we were in the highest home price
+appreciation-- more recently, the one quarter number is at 47 out of 50. And the home price index oneyear change, we have fallen to the last slot in the country.
+So we've gone from number 1 to number 50 in a relatively short period of time. And I guess we're hopeful
+that that doesn't create any disruptions in the housing market but does make housing affordability a little
+bit more accessible, if you will, with much lower home price appreciation.
+No forecast at any time is void of risks. Right now, I don't need to tell you what you're seeing in print and
+broadcast media, but there are obviously risks. And we are focusing on the ones in red as the most
+critical. And the question is, how does Colorado fare in these particular things beyond just the actual risks
+to the economy?
+I would highlight that risks can be upside risks or downside risks. And so something like the tax cuts is
+going to stimulate demand. And so we could see, and probably will see, some positive benefits from that
+in terms of its impact on GDP. AI could be going in either direction. We don't know.
+The federal government restructuring we have a fair amount of concern about in Colorado, just in terms of
+having the federal labs and the related pieces to that. And then you can have your own statements or
+thoughts on immigration policy and tariffs. But these are all things we have to pay a lot of attention to
+when we're forecasting the economy.
+One piece of, I would say, good news in the economic picture is that inflation has gotten much more
+under control in Colorado. For 11 of the past 15 years, Colorado has had a higher inflation rate than the
+nation. One year we tied. But last year, and now this year, we're running an inflation rate in Colorado
+that's lower than the nation. So we think this is good just in terms of Colorado having a reputation of
+becoming less affordable and more pricey and all of those kinds of things.
+And you can see a major contributor to that is the third line down. It's the cost of housing, and that
+includes rental housing. And that is 44% of the Consumer Price Index. So the fact that we've had
+dampened inflation in the housing piece is very relevant in terms of our overall positioning here.
+So just one quick comment. We don't have any crystal balls on interest rates. They seem to be leveling
+off. And, we've just been attending a lot of sessions that relate to macroeconomics and interest rates. And
+I don't think there's any clear path that we know of right now that the Fed-- they have not committed to
+
+any additional rate cuts for this year. We don't know, at this point, where that's going, but they certainly
+seem to have expressed more concern about the downside risks of the employment numbers that came
+out. The most recent ones that came out over a month ago also showed revisions downward of prior
+months, and that has now raised the unemployment, or the employment picture as, put a little bit more
+weight on the employment picture.
+Their difficulty, of course, is they're also seeing a rising inflation environment, not dramatically rising but
+rising. And they don't want to give up the fight on that front either. They want to make sure they keep
+getting inflation under control. So right now they're in between a rock and a hard place when it comes to
+monetary policy. Neither of the options is ideal, just based on weakness in employment growth and the
+continuing strength, if you will, of the inflation rate. While under 3%, it's very close to 3%.
+So I'm handing off at this point to my colleague, Robert McNown, and he's going to talk to you about the
+RTD forecast.
+ROBERT MCNOWN: All right. Thanks, Rich. Rich has given a nice short course in macroeconomics here
+and particularly how it relates to our main objective here, the revenue forecasting for RTD.
+Of course, as members of the Finance Committee, you're well aware that RTD has been in kind of a weak
+revenue growth situation for the past couple of years. And unfortunately, I have to admit that our forecast
+for 2025, the rest of this year, and 2026 would be pretty much more of the same. But beyond that, things
+look a little more favorable. And my task here is to give a little more information of what lies behind those
+projections.
+So first of all, in this slide, you can see that-- this is an overview of the current macroeconomic indicators,
+including these two crucial short-term years in the forecast, 2025 and 2026. And just to point to a few
+really important factors as far as what drives expenditures, and therefore revenues, is the employment
+data. And you can see that we have especially weak employment growth in 2026, 0.3%, basically hardly
+any growth at all.
+And a good part of that is what Rich mentioned, the lack of immigration. We've gone from about two
+million net immigrants per year in the last couple of years of the Biden administration now down close to
+0.
+The other key indicator here is real output growth, or real GDP growth, less than 2% in both of these two
+years. And, that's certainly not a recession, but it's nothing to write home about either. So then in the next
+slide, you can see how that translates into a similar picture for Colorado.
+And one of the slides that Rich talked about compared Colorado's performance across some of these
+metrics with the nation as a whole. And here you can see that similar to the national forecast, this
+employment growth variable, which is a key driver of expenditures and revenues for RTD, is below 4%-I'm sorry, below 1% in both the current year and next year as well. And that really is what accounts for the
+very mild growth forecast that we're making for RTD revenues.
+Again, I think we can attribute a lot of that weak performance here in Colorado, and to the nation, to the
+reduction in immigration, but also some of the uncertainty that rises from federal policies back and forth
+on the tariffs, and now, of course, the government shutdown, and particularly budgetary problems that are
+facing the state and municipalities, which are probably going to force them to cut back on expenditures,
+too, and that will feed through the households and their ability to spend also.
+
+So let's look at what this all means for revenues. And you can see graphically here for 2025 and 2026, the
+picture is really pretty flat. The actual numbers are just a little bit above 1% forecast in sales and use tax
+revenues for the current year and also for 2026. But you can also see from the graph that there is quite
+an acceleration in the future, starting with 2027 and beyond, up through our medium forecast horizon
+through 2030.
+And what's behind that? Well, again, it's all being driven by what we expect in the macro economy, both
+at the national and the state level. And so in particular, from 2027 through 2030, there is a mild pickup in
+some of the US indicators, such as GDP growth above 2% in 2027, employment growth between 0.5%
+and 1% of the national level in those years.
+So that's certainly better than what we're seeing right now. And I think by 2027 and beyond, some of the
+chaotic disturbances in the economy are going to smooth out and we'll have a picture of greater stability,
+which will generate more investment and expenditures by firms and households. So let's go on to the next
+slide too.
+And here you can see the numbers for the total revenue growth rising above 5% per year in the three
+years from 2028 through 2030. So that is considerably better than what RTD has seen in the last couple
+of years and is expected for the current and the next year. So I think our model is telling us we can be
+somewhat hopeful and optimistic about the potential for higher revenues later in this decade. It's just
+we're going to have another tough year or so here before that takes place. And next slide.
+We always want to emphasize that there's uncertainty in our forecasts. And in particular, that's what this
+graph is all about, tracing out through 2030 our medium range horizon. And the blue line, the baseline
+forecast, is mostly what I've been talking about. But we also have to keep our eye on some of the
+alternatives. The pessimistic scenario represented by the red line, you can see it does dip down into
+2026. So it's a recession scenario, a mild recession at that. And it pulls out and begins to move along the
+same trajectory as the baseline, never quite reaching back up to that level but still not a terribly grim
+situation.
+And then even more modest forecasts coming from the dashed tan line at the bottom, the low forecast.
+And that's a statistically based forecast where we would expect the economy to perform as poorly as
+indicated by that forecast, with only a probability of 17%. So that's certainly a low-ish probability event, but
+it could happen.
+So I've lost my slides here, Brian.
+MICHAEL GUZMAN: I wonder if he got disconnected. I lost the slides too.
+ROBERT MCNOWN: Yeah. OK. Yeah. Well, let me just talk about what is in the last substantive slide
+really. This is the long-term forecast. So we're charged with producing a forecast going out 30 years. And
+this forecast is largely driven by demographics.
+Yeah, OK. Let's go to one more slide.
+BRIAN LEWANDOWSKI: I got kicked off.
+ROBERT MCNOWN: That's OK. Yeah, there we are. So we're going out now to 2055, summarizing the
+forecast in terms of 10-year groupings here. And so you can see-- let's shoot right to the RTD taxable
+sales, which is essentially sales tax revenues in the right column there. And because of population aging
+
+and a slowing of the rate of growth of the total population, we expect that the next to last decade, going
+from 2036 to 2045, will be the weakest in terms of RTD revenue growth at 2.1% average per year.
+And then, surprisingly, I think for many people, our final decade, from 2046 to 2055, shows a considerably
+higher average rate of growth over that 10-year period. And the reason is that the population aging, the
+shifting age shares of the population, is not a straight line going into the future. We often hear talk about
+how we're just getting older and older and older, but there are subtle changes taking place over this very
+long period so that actually the demographic factor is not as grim for that final period and the forecasts
+there are a little more favorable. And of course, there's high uncertainty, as you can see from the high and
+low forecasts surrounding the baseline.
+And the last slide. Yeah, I just want to summarize that we try to rely on the model-based forecasts. But at
+the same time, we use some judgment in deciding which scenario we want to present as what we think is
+the most likely outcome for the future economy. Once that's in place, we generate the forecast just using
+the model so the different variables are forecast in a way that is consistent with one another.
+We don't have a particular point of view here other than what's guided by economic theory and the
+statistical analysis, but we have no particular political or financial stake in the numbers that we produce.
+Of course, we want to provide forecasts that are the most accurate as possible to RTD and to your
+committee in particular.
+So that ends our presentation and we'd be happy to take any questions or comments.
+MICHAEL GUZMAN: Thank you so much for your presentation. 50 pages can seem like a whole lot to
+read, but it's really worth the reading. And I thank you for presenting it.
+Committee members, this is your opportunity to ask questions and have discussions, so I will call on you
+when your hands are raised. Vice Chair Benker, please go ahead.
+KAREN BENKER: Thank you for the information. I find this economic data fascinating. And it does seem
+like the next couple of months, the next year is going to be very difficult to try to forecast. Tariffs seem to
+be going up and down constantly.
+The main question that I was curious about goes to your, on page 19 and 20 of your presentation. And it's
+specifically about your forecast for the Colorado economic indicators. So you are telling us then that you
+believe, your forecast shows that the Colorado CPI is going to be about 3.2% for next year. And in
+addition, I think retail sales are going to increase 4%.
+So then on the next page, page 20, it shows that you're projecting our sales and use taxes to go up 1.2%
+next year. So I guess my question is, I don't know whether or not you've seen our five-year economic
+forecasts that the Board has been looking at now for the past couple of weeks, but they're projecting a
+negative number, not a positive number. Any comments or thoughts on that? Would you go with your
+baseline forecast or would you go with your pessimistic forecast?
+ROBERT MCNOWN: I'll begin to answer what is really a very sophisticated questions. So you point out
+that the rate of inflation that we're projecting for 2026 is eating up more than any of the growth in retail
+sales. And then of course, that means that in real terms, the projections of RTD sales tax revenues are
+actually a decline.
+
+Now, I don't think in the report that you were quoting, people don't usually talk about a decline in real
+terms, inflation-adjusted terms, but that really would be the situation facing RTD. If our projection of the
+CPI is accurate and reflective of the cost of doing business for RTD, then, of course, a 1.2% growth in
+sales and use tax revenues for RTD is not going to cover the higher cost of doing business, and that's a
+pretty grim situation. Let's see.
+KAREN BENKER: My biggest concern, the budget that we just received is in-- it's not adjusted for real
+numbers. It's going to have inflation contained in it. So I guess I'm just wondering, it would seem-because I've looked at, I've been checking the economic forecasts of the state, both leg council and
+OSPB. I've looked at the sales tax forecast for the City and County of Denver, and they all seem to be
+actually right into the same number that you're giving us, about a 1.2% increase in sales taxes for 2026.
+And so I understand that. I do understand it.
+I guess the question then as to why we're putting into our budget a much lower number is probably more
+then for our CFO to answer. But I appreciate that you're giving us the information that you're expecting
+sales taxes to be up 1.2%. So thank you. This is helpful.
+MICHAEL GUZMAN: CFO Mackey, your hand is raised. Please go ahead.
+KELLY MACKEY: Thank you, Mr. Chair. That is a very good question, Director Benker, and I'm happy to
+answer it.
+So the reason why the materials that we sent out show a decline in 2026 is because it's versus the 2025
+budget. So the 2025 budgeted sales and use tax revenue was actually provided to us a year ago by the
+CU Business Leeds team. And so as compared to 2025 actuals, we are showing an increase, because
+year-to-date, we have missed the 2025 budget revenue for sales and use tax forecast considerably. So
+we're using the exact numbers, $877 million, from the team here, and we're showing an increase versus
+year-to-date actuals and projections for 2025 actual.
+MICHAEL GUZMAN: Sorry. Sorry.
+KAREN BENKER: OK. I just need-MICHAEL GUZMAN: I know, but if it's going to be about this particular matter, let's stay on topic. And if
+it's about the budget, we can come back to that later.
+KAREN BENKER: No, it's about this particular matter, because the negative number that you just quoted
+was the budget number. But I'm also looking at your 2025 projected number, which is different. So it's still
+negative from your projected number.
+MICHAEL GUZMAN: Go ahead, Ms. Mackey
+KELLY MACKEY: So the projected number includes budget for the second half of the year and actual for
+the first half of the year. But what the CU team here is showing is 2025 actual projected for the full year.
+So the second half of the year was actually according to their forecast a year ago, which was done and
+approved by the Board in November of 2024. That's why we are showing growth versus their current
+projection, and $877 million is exactly tied with their forecast.
+MICHAEL GUZMAN: Thank you. Director Gutschenritter, please proceed.
+
+CHRIS GUTSCHENRITTER: Thank you. And thank you very much for the presentation. Two questions
+from me. The first is hoping that you can talk, double click into the federal government restructuring and
+just what that really means. Would be curious to hear more about that.
+And two, and I guess I could consider myself fairly young so I've not been through that many different
+administrations. I would think with all that's going on, AI, the tariffs, the level of uncertainty about medium
+to long-term forecasts has to be-- I guess I'm just looking to hear, is this about as hard to predict a time as
+ever before that you've seen?
+RICHARD WOBBEKIND: Well, I'll let my colleagues weigh in, but I would say yes. And because a couple
+of these uncertainties. We haven't had tariffs like this since the 1930s, as an example. And we're trying to
+think of other productivity surges that compare to this AI situation. So you're trying to look back in other
+places in history where you had something, rapid chip adoption or something that could mirror this, but
+we still don't know. I mean, we're listening to experts on this topic and reading all this stuff all the time.
+And we still don't know what the ultimate effect of AI is going to be, job enhancement or job reductions or
+those types of things. So I would say, A, it is a very unusual environment.
+B, I can't remember-- and I've been around a while, as you probably can tell-- I can't remember a
+downsizing of government at this magnitude, and certainly not in this manner, in my lifetime. And so what
+we meant by that-- well, we refer to about that is, we're losing jobs at the federal labs and the state. We
+know that. A lot of those tend to be higher paying jobs. We have the change of Space Command moving
+to Alabama. We have a heavy aerospace industry in this state. We are heavily invested in climate science
+in the state, weather satellites and all of those kinds of things.
+It's an uncertain environment. Who knows how much of that money that's coming out of federal budgets is
+going to continue to do that. But mostly what I'm talking about, I'm talking about just what the knowns are.
+And the knowns are, we're losing jobs nationally and in Colorado in terms of government employment.
+We can debate, rightly or wrongly. I don't want to get into anything political about the debate, but factually
+we have to try to base our judgment on what we're seeing.
+CHRIS GUTSCHENRITTER: Thank you.
+MICHAEL GUZMAN: Does that satisfy all your question?
+CHRIS GUTSCHENRITTER: Satisfied. Yeah, thank you.
+MICHAEL GUZMAN: Thank you. Director O'Keefe, your hand is up.
+PATRICK O'KEEFE: Thank you, Mr. Chair. I am trying to figure out how I formulate this question, not
+because I'm making one up. But I appreciate the presentation. My perspective is, the one thing that I
+know for a fact is reality will not be this number. It's a forecast. It's a model. It isn't going to be this
+number.
+And so I think as a Board and an agency, we need to think about if we fast forward to 2026, would we
+rather have missed on the upside of our estimates or on the downside? If we miss on the downside, we
+are going to be making really, really serious reductions in service. If we miss on the upside, we have an
+opportunity cost. We may have made some decisions we didn't have to do. But almost every level of
+government except for one has to balance its budget. And the federal government doesn't. When they
+miss, they just print more money and it becomes our problem.
+
+So the question I guess I was going to ask is, we know that health care costs are going up next year. As a
+small business owner, I know we're forecasting a 5% to 10% increase, at least, in benefit cost. That is not
+subject to taxation. So when we add something to that part of people's economic circumstance, their
+household economic circumstance, if they have to pay more for health care, they're almost certainly going
+to clip off the top part, which is discretionary income that is usually sales taxable.
+So what do you guys see happening with the potential forecast on-- or the forecast, not potential-forecast and health care costs that are hitting almost every household in the state? And it could be
+catastrophic, depending on what the federal government does with assistance. So just that huge sum of
+money that we're all, that we kind of have to spend first, what do you guys see that doing to the economic
+modeling?
+ROBERT MCNOWN: Yeah, it's another difficult question. The model doesn't and incorporate what I might
+call as important microeconomic changes, such as what you're describing, these health care costs. First,
+partly because the model is based on historical data, and it's hard to anticipate when there's a shock like
+that exactly what the impact will be.
+The best thing that we can do, and what we recommend to any of our clients using our forecast, is that
+they could consider that we present an array of forecasts and we present a optimistic, a pessimistic, and
+our baseline forecast. And, as your initial comments suggested, there are some costs to erring on one
+side or the other. And we would urge your committee and budget planning to consider the possibility of
+working with an alternative scenario, or even a blend of a baseline and alternative scenario, just to be a
+little more cautious and avoid the most costly errors for you.
+So although we can't really incorporate a real specific policy change such as that, or we can't incorporate
+that there's going to be 100% tariffs on Chinese goods one day and only 20% the next day, we just can't
+deal with that, except trying to incorporate a general degree of uncertainty through the different scenarios.
+I hope that's helpful.
+PATRICK O'KEEFE: It is. I was thinking about it. I talked about it microeconomics. But I'm thinking of, just
+say the District's boundaries spend $2 billion a year in health care. I don't know if that's right or wrong, but
+it's probably not way off. If health care costs go up 10%, that would have the impact of taking $200 million
+out of discretionary income, or at least marginal income, that would be directed towards a non-tax base.
+And so that's another thing that concerns me more than a lot of the other factors is, that's a known. We
+know that's coming. They're sending out notices to employers right now. And I think that's something we
+have to factor into our going forward, that we may be losing a huge chunk of money that will be spent
+elsewhere in the economy. I appreciate that. Thank you.
+RICHARD WOBBEKIND: The national-- if I may just step in for a second-- the national macro forecasts
+are very much aligned on whether it's health care costs or other things, they're anticipating lower
+discretionary spend very much in line with what you just said. And that is part of why the numbers are
+weak next year, because consumers have been carrying the economy in a very real sense. We keep
+saying the economy is slowing down but consumers keep going. Forecasting a relatively weaker, for
+example, holiday sales season this year than last year. Most people are. Most forecasters are.
+And a large part of it is that. People don't have-- they're paying more, even with modest home price
+appreciations and rent appreciations, they're still paying a lot for that. They're paying more for health care.
+And those things have to get paid off first.
+
+So yeah, it is going to be a constrained environment. And I think, as the model is suggesting, we're
+thinking we get through that by the year after, but not next year, not '26.
+PATRICK O'KEEFE: Thank you.
+RICHARD WOBBEKIND: Sure.
+MICHAEL GUZMAN: Director Nicholson, thank you for your patience. Your hand was up next, and then
+I'll circle back.
+CHRIS NICHOLSON: Yes. Thank you, Chair Guzman.
+Gentlemen, I appreciate the presentation. Other than just a broad based secular decline, a recession,
+what do you see as the most likely sources for error in the presentation? I'll give you an example. Let's
+say that car buying were to slow down dramatically because people started using autonomous vehicles or
+Uber or whatever. And so sales tax of vehicles, which is a big component of sales and use tax, were to go
+down. What are the main things in your forecast where if you were wrong about an assumption, it would
+meaningfully drive the forecast to go in a different direction?
+ROBERT MCNOWN: Well, maybe we'll have three different answers here. But my own personal answer
+is I think our inflation forecast is too low. I think eventually tariffs are going to start to have more of an
+impact. And I think that's going to be coupled with slow growth in employment, as, well, that's clear in the
+forecast.
+So it's somewhat labeled as stagflation. The economy is going to be moving very slowly but the price
+level is going to be going up, certainly well above the 2% goal that the Fed has set.
+I don't know if Rich and Brian want to-RICHARD WOBBEKIND: No, I'm on the same with you, Robert. And I go a step further, and that's, if this
+happens, then the Fed is much more reluctant to lower rates, which could be one of the things that could
+help the economy. And so you just have a more stagflation environment, and you don't have the growth in
+the labor force nationally or in the state because of the compounded immigration pieces. So I would vote
+for it's a higher stagflation problem than we've built in.
+MICHAEL GUZMAN: Thank you. Vice Chair Benker.
+KAREN BENKER: And actually, that is exactly what I wanted to talk about is the stagflation possibility.
+Because I don't know how many folks on this call do their own grocery shopping, but however, the sticker
+shock that you get when you go into the grocery store these days, or you're going out to dinner with
+friends, there is no doubt that the cost of everything is going up. And so while the actual retail sales may
+go down, because people are trying to save money, what they're buying is much higher.
+In fact, I heard something on NPR the other day where they said they wanted to, they were buying
+lumber. They weren't buying it from Canada, but the Canadian tariff was like 35%. But a US company
+raised their prices 35% because they could.
+So any other guesses on perhaps some inflation rates for next year? It seems like what you have is fairly
+modest. I'm also wondering whether or not the Feds are capturing the status since it's pleased the
+
+administration when bad news comes out. And I do wonder whether or not some of the numbers are
+being adjusted, shall we say.
+BRIAN LEWANDOWSKI: So Rich may have mentioned this, but we're at a conference in Philadelphia this
+week and we just heard from Jerome Powell today. So there's been a lot talk, a lot of Fed talk, certainly a
+lot of inflation talk. And we have sessions where we hear from retail sales forecasters and whatnot. And
+remember, we did this forecast for you back in September. But I was sort of pleasantly surprised to hear
+some of the retail sales forecasts for the holiday season and into 2026.
+So the forecasts that we heard for holiday retail sales are up about 4% year-over-year. And that was sort
+of consistent from a couple of different groups. So that provided me a little bit of comfort, looking back at
+what we have for retail sales in your forecast. And also a little bit of comfort is the thought about inflation
+now is that tariffs could add 7/10 of a percentage point to inflation in the near term. So the talk is, at least
+from this group, has moved away a little bit from more rapid inflation to elevated inflation, which I think is
+also consistent with what we put in your forecast.
+But I still agree with Rich and Robert that there is a risk of higher inflation. There is a risk of companies
+being opportunistic with pricing, as you just suggested. And that risk of stagflation, where we have muted
+growth and elevated inflation is a real downside risk for us.
+KAREN BENKER: Mhm.
+
+MICHAEL GUZMAN: Director Catlin, Director Guissinger, Director Larsen, do you have anything you want
+to ask? I'm calling you out because you're on the committee. I'm getting head shakes. All right. I'm just
+making sure.
+Gentlemen, thank you so much. You know that I am a perpetual pessimist when it comes to this report.
+But I love reading it and I love being challenged in the way that I think for three years, you will have heard
+me say the same thing. I am far more pessimistic than what's being offered here. When the nation does
+great, Colorado does great and even better. And when the nation does poorly, we really get raked across
+the mountains in Colorado.
+So thank you for the suggestion of looking at that baseline and some of the alternatives. I would say I'm
+quite in line with what Director O'Keefe brought forward. That's kind of where my head went when I read
+through this, just doing table budgeting in my own home. And I dd do the grocery shopping for myself and
+my grandparents and make sure that I take care of that on the bus and using public transportation. So I
+know how important it is.
+Thank you, gentlemen. I really appreciate your dedication and all of your help for all of these years
+coming to RTD with this information. And I know it's not great to have to come and give us some sobering
+news, but it's better to look at it and take an honest assessment of what's going on so that we can make
+the right choices going forward.
+RICHARD WOBBEKIND: Thank you.
+ROBERT MCNOWN: Thanks. Appreciate the insights and insightful questions. It's been a good session.
+
+MICHAEL GUZMAN: Thank you. CFO Mackey, was there anything else that we needed to add here? OK.
+With nobody else in the queue for questions, I'm going to move on to recommended action. And
+gentlemen, enjoy your conference and thank you so much for your participation.
+We have two recommended actions on the agenda this evening. The first action is for the 2026 fiscal
+policy. This is for the Board of Directors to approve the 2026 fiscal policy. Do I have a motion?
+MATT LARSEN: Motion.
+MICHAEL GUZMAN: Thank you, Director Larsen. Is there a second?
+PEGGY CATLIN: Second.
+MICHAEL GUZMAN: Thank you, Director Catlin. I would like to ask Kelly Mackey, Chief Financial Officer,
+and Todd Nikkel, Senior Manager of Budget, to present this item to the committee.
+KELLY MACKEY: Thank you, Mr. Chair, for the opportunity to present. The 2026 fiscal policy was
+presented as a discussion item at the September 9, 2025 Finance and Planning Committee. The fiscal
+policy establishes the financial control framework and governance of the agency's financial resources for
+that year. The 2026 budget and the five-year financial forecast should align to the 2026 fiscal policy, as
+budgetary appropriations are developed in alignment with the fiscal policy.
+The fiscal policy can be changed at any time. The red line version shows the changes from the prior fiscal
+policy for 2025 that was approved by the Board on April 29, versus what we're asking to be approved for
+2026. We have included only minor grammatical and punctuation changes for 2026. Last month, we
+discussed potentially changing will to may in the line that "RTD will limit expenditure and expense fiscal
+carryforwards to the lesser of the life of the project or three years," and we have kept that as it was, at
+will, to follow the prior year's policy.
+There are no other suggested changes to the fiscal policy at this time. And thank you, Mr. Chair. I will turn
+it back to you.
+MICHAEL GUZMAN: Thank you. Directors, are there any questions from committee members first, or
+commentary? I see none. Director Nicholson, your hand is raised.
+CHRIS NICHOLSON: Thank you, Mr. Chair.
+CFO Mackey, there are some mechanics in the budget-- and I promise, Chair Guzman, this is about the
+fiscal policy, I'll get there in just a second. I didn't want you to catch me-- that would borrow short-term
+debt in order to facilitate balancing the budget. And there would be, obviously, risks to our credit rating
+from doing so. Talk me through the difference between doing something like that and doing something
+like reducing our reserve rate, I think it's, I forget exactly the term, ratio down to, say, 1.1 or 1.0 as a way
+to allow us to just spend more money by contrast, and how that would affect our credit rating.
+MICHAEL GUZMAN: CFO Mackey.
+KELLY MACKEY: Yeah, that's a good question. So there's actually no short term debt issuance included
+in the 2020 proposed budget. There's $20 million of debt issuance for longer term for vehicles, right.
+That's not short term. We will discuss later on defeasance, which is not debt issuance whatsoever. It's
+
+more the opposite. It's actually prepaying existing debt that we already have. So there is no short-term
+debt issuance in the proposed budget.
+But in terms of the 1.2 net coverage ratio, the reason why that's in the fiscal policy is because there are
+other things that RTD needs to pay for other than operating expense, such as debt service. We have to
+pay for depreciation expense and capital expenditures. So that's why.
+MICHAEL GUZMAN: Director Nicholson.
+CHRIS NICHOLSON: That is extremely helpful. Thank you.
+MICHAEL GUZMAN: Your hand is still up. Thank you.
+All right. Seeing no other hands raised, let's proceed to a vote on this matter. Are there any no votes? I
+have no votes. That will pass. And we have everybody present unanimously from the committee. Thank
+you.
+All right. The next item, and the final action for today, is going to be the 2026 investment policy. This is for
+the Board of Directors to approve the 2026 investment policy. Is there a motion?
+LYNN GUISSINGER: So moved.
+PATRICK O'KEEFE: Second.
+MICHAEL GUZMAN: Thank you, Director Guissinger. Thank you, Director O'Keefe.
+I would like to ask Kelly Mackey, Chief Financial Officer, and Brenden Morgan, Senior Manager of Debt
+and Investments, to present this item to the committee.
+KELLY MACKEY: Thank you, Mr. Chair. The 2026 investment policy was presented as a discussion item
+at the September 9, 2025 Finance and Planning Committee. This policy can be changed at any time.
+There have been no substantial statutory changes or investment industry changes that would impact this
+policy over the past year.
+In addition to minor grammatical and punctuation changes, we have proposed a few other changes that
+we did last time. First, we recommend indicating that the annual listing of investments held and
+investment returns be within the Q4 investment report, rather than the annual comprehensive financial
+report, or the ACFR, as staff sees this level of detail as being too much to include in the ACFR. It has not
+historically been included in the ACFR.
+Next, we are updating the structure of our Treasury debt and investment teams and proposed adding the
+titles Director of Treasury and Manager of Debt and Investments to the list of roles authorized to transact
+investments on behalf of RTD. We received offer acceptance for the Director of Treasury role just
+yesterday, and that will be announced starting tomorrow. Third, the prudent investor standard did not
+previously reference a citation, so we've updated that and to reflect the appropriate citation.
+Lastly, we have added clarity to the language that RTD is authorized to buy collateralized prime
+commercial paper rather than commercial paper more broadly. Collateralized prime commercial paper is
+essentially a short-term loan that a company takes by selling IOUs to investors. Prime means the issuing
+company is high quality and financially strong, and because it's collateralized, the IOUs are backed by
+
+assets, like receivables or other securities, that provide an extra layer of safety for investors if something
+goes wrong.
+In closing, safety, liquidity and yield in that order is what we're going for as an agency. And these
+proposed changes have been reviewed by legal counsel.
+Mr. Chair, I will turn it back to you.
+MICHAEL GUZMAN: Thank you so much. At this time, I would ask Directors who have questions or wish
+to speak, raise your hand. I love it when you all do your homework. Thank you so much.
+All right. I don't see any comments or questions, so let's go to a vote. Are there any no votes on this
+matter?
+Thank you. I see none. That will be zero no, seven yes, no abstentions. That passes unanimously out of
+the committee. Thank you so much.
+All right. We are going to move on to discussion items. There are four included on tonight's agenda. Our
+goal will be to navigate through them thoroughly and efficiently. As I've done over the last few months, to
+aid us in our work, I estimated the time needed for both presentation and discussion on each of our
+discussion items. They are printed on the agenda.
+I will do my best to keep us to those times. However, our conversation for these matters may warrant
+more or less time on each item as we go through them. The practice does align with our operating
+guidelines and so far has been effective in helping us complete our work diligently, but if any committee
+member or Director has feedback on this approach, please reach out to me after our meeting.
+The first item is for the 2026 debt service defeasance. And I would ask Kelly Mackey, Chief Financial
+Officer, and Brenden Morgan, our Senior Manager of Debt and Investments, to present this item. CFO
+Mackey.
+KELLY MACKEY: Thank you, Mr. Chair. Hopefully, you can see my screen. I would like to thank Brenden
+Morgan for his work putting together a good proposal for debt defeasance, or prepayment, that staff
+recommends as part of the 2026 proposed budget. And staff is bringing this to you today as a discussion
+item.
+Expenditures have outpaced revenue for the past couple of years, which is expected to continue into
+2026, given the current service levels and projected sales tax receipts. When spend exceeds revenue, it
+puts pressure on RTD's ability to pay its existing debt obligations as well as draws down reserves.
+A couple of ways to measure RTD's ability to repay its existing debt are through its debt service coverage
+and net revenue coverage ratios. Net revenue coverage is revenue less operating expense to arrive at
+what remains to cover debt service. The ratio target is 1.2, as there are other expenditures, such as
+depreciation and capital expenditures, to cover.
+These coverage indicators do not meet RTD fiscal policy requirements in 2025, and are not expected to
+meet those requirements in 2026 either, at current service levels, unless RTD takes additional, more
+impactful expense reduction actions such as service reduction, which staff does not recommend, as it is
+RTD's core business. Difficult conversations have been underway for several months regarding tightening
+operating expenses, potential service modification, and use of financial reserves.
+
+Another temporary option is to reduce the 2026 scheduled debt service payments to create one-time
+temporary cash flow debt service and net revenue coverage relief for 2026. Staff examined various
+financing options, one of which was deferring and extending the repayment of certain debt service
+obligations through refinancing those obligations, commonly referred to as a scoop and toss, to reduce
+debt service payments during 2026, and to improve available cash flow. After thorough examination, staff
+and external advisors determined that the costs of executing this option in a manner that is helpful for
+2026, which would include the repayment of such borrowing over subsequent five-year period, would
+likely exceed $5 million.
+A more efficient option that has equally beneficial impact on debt service and net revenue coverage in
+2026, without the additional increased interest cost, is a defeasance, or prepayment, of certain
+preexisting debt service obligations that are due and payable in 2026. A defeasance is a financial
+technique in which an issuer irrevocably sets aside cash in an escrow account held by a financial
+institution, typically the related bond trustee, to cover future principal and interest payments on an existing
+obligation as a form of prepayment. Bondholders are paid all due principal and interest on the scheduled
+payment dates from funds deposited in the escrow account, and bondholders can only look to the escrow
+for payment.
+This process discharges the issuer's payment obligation for the defeased obligations, $57 million, in this
+case, allowing those $57 million in debt obligations to be removed from the issuer's balance sheet for
+financial reporting purposes, even though the original debt remains outstanding until the escrow fully
+repays the obligation on its payment date. This is a technique that RTD has used in the recent past when
+refunding or refinancing debt. With cash held in escrow, RTD can invest in US government securities or
+hold it in cash, with the investment earnings accruing to the benefit of RTD. Simply put, RTD keeps the
+earnings and adds to its revenue.
+In 2026, RTD is scheduled to make certificates of participation payments of $35 million related to Series
+2020, 2023, and 2025, as well as FasTracks bond payments of $22 million related to Series 2022 AB.
+Diffusing $57 million of the 2026 principal and interest payments will enable relief in the net revenue
+calculation of approximately $69 million in 2026, as provision for payment will be made prior to year end
+2025.
+This payment will allow RTD to spend $69 million more in 2026 operating expense to maintain its current
+staffing and service levels. This action further reduces the 2025 net revenue coverage, which was
+budgeted at approximately 0.6 instead of 1.2. We will discuss the need for a 2026 operating expense
+budget of $923 million in the next discussion item in the agenda on the 2026 proposed budget.
+This discussion item is to explain what a defeasance or prepayment is so that you have an understanding
+when we review the 2026 proposed budget, which is the next item on the agenda. The initial estimated
+cost of this defeasance, including legal counsel, trust fees, and related professional services, is less than
+$75,000.
+Defeasance is a good option for RTD to leverage in order to maintain current service levels in 2026. And
+what I am looking for from the Finance and Planning Committee this evening is to have an understanding
+of a debt defeasance as a prepayment for context in the next discussion item on the agenda, the 2026
+proposed budget.
+I would also like the committee to understand the defeasance would be executed in December, before the
+end of the fiscal year and following the December 2 Board meeting. The defeasance is required to take
+
+place prior to December 31 to realize the beneficial impact on debt service and net revenue coverage in
+2026. Once again, upon conferring with external counsel and advisors, we, as the subject matter experts
+in this area, believe this is the most prudent action to maintain RTD's core business at its current service
+levels.
+And Mr. Chair, that concludes my comments. I will turn it back to you.
+MICHAEL GUZMAN: Thank you so much. Directors, this is your opportunity to ask questions. Are there
+any?
+Director Nicholson, your hand is-- oh, sorry, hold on. They all went up at the same time. Forgive me. Vice
+Chair Benker, you were first.
+KAREN BENKER: Thank you very much. I can't help but think we're doing acrobatics. It's almost like
+going to a Cirque Du Soleil performance. I'm not quite sure why we have to do this. I don't understand
+why we're prepaying debt simply to get the debt operating ratio to 1.2 when I'm looking at the five-year
+financial forecast, at least the one that I have now, and this year we're at 0.9. So if we're OK at 0.9 for this
+year, why would that not carry forward to the next year?
+This is extremely complicated. And I'm not quite sure. Kelly, your explanation was clear. But if you could
+explain why we have to do this in simple terms, I'd appreciate that. Thank you.
+MICHAEL GUZMAN: CFO Mackey.
+KELLY MACKEY: Yeah. So it's our fiscal responsibility to follow the Board-adopted fiscal policy as well as
+present a balanced budget, and this is our way to do that. Without doing this, we will not provide to you a
+balanced budget.
+MICHAEL GUZMAN: Director Catlin.
+PEGGY CATLIN: Thank you for the presentation, MS. Mackey. I really appreciate it. I apologize, I do
+need to log off. This is my last meeting, and I really appreciate all of you, staff and fellow Directors. So
+this is it for now. Bye.
+MICHAEL GUZMAN: Bye Thank you, Director Catlin. We're going to miss you. Director Guissinger. Oh,
+sorry. CEO Johnson.
+DEBRA JOHNSON: Yes, thank you very much, Mr. Chair, and good evening. Debra Johnson, General
+Manager and CEO.
+Further to Kelly Mackey's point, our Chief Financial Officer, relative to the fiscal policy, this is in alignment
+with the fiscal policy that was just adopted. So I just wanted to clarify that. Thank you.
+MICHAEL GUZMAN: Thank you. Director Guissinger, I apologize. Go ahead.
+LYNN GUISSINGER: Thanks very much. I'm having a hard time understanding. I'm looking at packet
+page 146. We're taking-- well, there are two pages. You showed one that was, I think page 123, that
+showed we're taking $69 million out of the unrestricted fund. Is that right?
+MICHAEL GUZMAN: CFO Mackey, you're muted.
+
+KELLY MACKEY: The reduction in-- the potential reduction in the unrestricted fund is due to operating
+expense being above the level we have in the five-year financial forecast. We weren't actually able to get
+to what was in the five-year financial forecast because of our current service levels. So it's because of
+operating expense, not defeasance. If we were to defease half or defease nothing, there would be
+absolutely no change to that number, if that makes sense. It's because operating expense is higher based
+on current revenue that we're projecting for 2026.
+LYNN GUISSINGER: Yeah, I'm new to this concept and having a little trouble with it as well. So we're
+defeasing $57 million in 2026 debt by using $69 million current money. Is that-- That doesn't sound right,
+so I probably have that wrong, but can you explain that to me?
+KELLY MACKEY: Chair Guzman.
+MICHAEL GUZMAN: Go ahead, please. Sorry.
+KELLY MACKEY: All right. So we are defeasing $57 million to allow for $69 million additional operating
+expense. And I'll go into this in more detail during the next presentations on the 2026 budget to explain in
+more detail. So I will definitely go there.
+But because we have a net revenue coverage fiscal policy of 1.2, it's not a one-for-one ratio. Defeasing
+$57 million doesn't give us $57 million more to spend. It gives us $69 million because of that ratio, if you
+do the math. So by defeasing, we can actually spend more on operating expense to meet our fiscal policy
+requirements without having to reduce service levels.
+LYNN GUISSINGER: OK. So how much are we putting in escrow and where is that coming from?
+KELLY MACKEY: Actually, I will turn this question over to Brenden Morgan, if you'd like to contribute,
+Brenden, since you're on.
+BRENDEN MORGAN: Absolutely. Mr. Chair?
+MICHAEL GUZMAN: Please, go ahead.
+BRENDEN MORGAN: Thank you. Good evening. I'm Brenden Morgan, Senior Manager of Debt and
+Investments.
+So the defeasance-- if I may. I'll step back, Director Guissinger, and then directly address your question,
+your last question there. I know this is a complex issue. I think the way I think about this is if we just back
+up and think about a couple of facts. One are that RTD is scheduled to pay some debt service next year,
+some principal and interest payments that are regularly scheduled and due and payable in 2026. So we're
+looking at those. There's a large number, $250 million or so, in payments due next year.
+We're saying, OK, if we take a portion of that and if we prepay it this year, in 2025, we already know that
+our net revenue coverage ratio is below what we always target, the 1.2 times in the fiscal policy. We
+already know this year , it's not going to happen. So we're focused on next year making that happen. So
+we prepay. We pull that payment forward. We pay it this year. That way, it's not on our financial
+statements next year. All right.
+
+So that $55 million that Kelly mentioned, that gets paid this year. That just comes out of our unrestricted
+funds, the cash that we have available in 2025. We pay it this year. That liability goes away for RTD this
+year, in 2025. And then next year's payments that are due and payable will decrease by that amount.
+So when we look at the net revenue coverage ratio for 2026, which is total revenues less operating
+expense and that number divided by debt service, and that's where the 1.2 times ratio comes in. So we
+spend this $55 million that we're planning to spend anyway next year. We just spend it this year instead,
+so it doesn't show up in the debt service numbers next year. Essentially multiply that by the 1.2 times,
+because of the way that the net revenue calculation works. And that frees up money that we can spend
+on operating expense in 2026 by 1.2 times the amount that we defease this year. And that's the $67
+million that Kelly mentioned.
+LYNN GUISSINGER: The $69 million?
+BRENDEN MORGAN: Sorry, $69 million. Right. Right. So it's a way for RTD to continue to maintain
+service levels without doing any refinancing. Or, as Kelly mentioned, we looked at a technique that
+governments often do, where they will take some debt that's coming due, these payments that are due,
+and instead of paying them, they'll refinance them and throw them out into the future by 5 or 10 years and
+say, well, we'll kick that can down the road and pay that in the future.
+In the meantime, you're accruing interest on the $55 million, which adds up quickly. It's a lot of money, so
+we're not doing that. This is a similar has a similar effect on the 1.2 times coverage for 2026, but it does
+not involve all of the costs associated with borrowing that same money for another 5 or 10 years.
+LYNN GUISSINGER: OK. Thank you. Packet page 146 looks at three scenarios. If you're planning to go
+through that in the budget, I can wait and do it then. Is that best, Ms. Mackey?
+KELLY MACKEY: I would recommend that, if that's OK. Yes.
+LYNN GUISSINGER: That's fine. Thank you.
+MICHAEL GUZMAN: Thank you. Director Nicholson, again, thank you for your patience. Please go
+ahead,
+CHRIS NICHOLSON: Chair Guzman, I am nothing if not patient for you. This is a new concept to me. I
+think I understand it, but I'm going to ask about it in some very simple terms to make sure I do.
+The first one is simply, it seems like we're getting something for nothing here. And so my question is
+basically, what is the cost of doing this? And if it's a good thing that is helping us spend more money, why
+aren't we doing it every year? What's the downside? And then I have follow-ups.
+MICHAEL GUZMAN: CFO Mackey.
+KELLY MACKEY: No. Since Mr. Morgan is here, I will allow him to answer and give him the floor.
+MICHAEL GUZMAN: Awesome. Mr. Morgan.
+BRENDEN MORGAN: Thank you. That is a great question, Director Nicholson. In very simple terms, I
+would tell you that defeasance is a bit like a big chocolate cake. It's fantastic when you have a small
+piece, but if you eat the whole cake, you'll get a stomach ache later.
+
+The debt still gets paid, regardless. These are payments that are due and scheduled to be paid in 2026,
+so we plan to pay them. We do not plan to default on those payments at all. So we're simply paying them
+a little bit early. And the only reason this is really helpful in this scenario is because the 2025 net revenue
+coverage is already scheduled to be below the 1.2 times, per our budget this year.
+So we can't fix that. We're not going to try to fix that for 2025. But we are looking forward to 2026. We
+want to maintain service levels that we have today. We're trying to free up some cash. This is not really a
+cash flow issue. This is a net revenue coverage issue. We just have to try to make this ratio meet the
+requirements of the fiscal policy. So that's what this is really doing.
+So as Kelly mentioned, there's various things we could do, and we don't want to make a recommendation
+to cut service at all. And this is one way to maintain an additional $69 million worth of service for 2026. So
+it's a nice small piece of that cake this year that we can eat. And it will work simply because the way the
+ratio is in 2025, below 1.2 times, and where we want it to be in 2026 and compliant with the fiscal policy,
+above or at 1.2 times.
+MICHAEL GUZMAN: Director Nicholson.
+CHRIS NICHOLSON: Yeah. So to this sort of gets back to the question that I asked during the previous
+item, which is it seems like we're doing this just, not for any external reason, but just to comply with our
+own previously picked ratio. It almost feels like, the analogy that I'm getting in my head is if I have a large,
+let's say, chocolate cake that I was planning on eating after New Year's, and I'm worried about how much
+weight I'm going to gain in 2026, I can instead eat it before New Year's, where I've already gained a lot of
+weight, so I'm not really paying attention to that, and then I'll have a better diet in 2026 by comparison.
+The other option is just to not care how much I'm going to eat in 2026.
+So my question is basically, why aren't we just changing our net revenue to 1.1 for 2026? Or is that
+functionally doing the exact same thing?
+MICHAEL GUZMAN: CFO Mackey.
+KELLY MACKEY: Yeah. So I mean, that's an option, but you'd be changing the fiscal policy, which could
+set a precedent. We actually do need funds available to be able to pay for things like depreciation
+expense and capital expenditures. So I personally would not recommend changing the net revenue
+coverage ratio. I think it is a best practice, especially for RTD right now.
+And again, I'll go into a bit more detail on some of these mechanics and the whys in the 2026 proposed
+budget discussion item next on the agenda. But this is a good financial technique. Our investors like this
+because they do get the money in escrow early.
+And I see Mr. Morgan has his hand raised, if you want to mention anything else, Mr. Morgan.
+MICHAEL GUZMAN: Go ahead, Mr. Morgan.
+BRENDEN MORGAN: Thank you very much. Yes, Kelly, I think you were leading to what I was going to
+mention, which is simply that the bond rating agencies, Standard and Poor's, Moody's, Fitch, they all look
+at net revenue coverage. They all look at it in their own proprietary way. They all calculate it slightly
+different from each other. But they all very much do that calculation on their own and they use that as part
+of their methodology when they're creating credit ratings for issuers of debt.
+
+So this is one of the things, when this particular part of the policy, the 1.2 times net revenue coverage
+was added to the fiscal policy a decade or so ago, and I brought that news to the rating agencies and
+shared that with them, they were all very receptive. They were all very happy to hear that. And they all
+called it out in their reports that they wrote at that point in time. And they even mention it today, still to this
+point, that RTD maintains a net revenue coverage policy of 1.2 times or better. So it is beneficial from that
+perspective.
+CHRIS NICHOLSON: Can I follow up very quickly?
+MICHAEL GUZMAN: Yes. And then Vice Chair Benker has her hand raised.
+CHRIS NICHOLSON: So it sounds-- so then my understanding of this is basically, we're doing all of this
+to look good to the financial markets at the end of the day. Like, the point of all of these mechanics, as
+opposed to just spending the money, is because this is the way that the bond rating agencies basically
+prefer us to manage our money so as to handle it properly, essentially, and that this is mostly just about
+the bond markets. Essentially.
+MICHAEL GUZMAN: CFO Mackey.
+KELLY MACKEY: I would say not exactly. Yes, it does make us look good and it is good for our investors.
+But mostly, it's in order to follow the fiscal policy and present to the Board and the committee a balanced
+budget that follows the fiscal policy, which is our responsibility to do that for you.
+MICHAEL GUZMAN: I would also remind the Directors that we just went through a major state audit last
+year in which our fiscal health was reviewed. And one of the metrics that they used to determine whether
+RTD was doing a poor job, a good job, an excellent job, was this ratio and how we plan our fiscal budget
+for every year. And that 1.2 net ratio is the equivalent of 120% net ratio for other companies, which is an
+excellent place to be. We just term it as a 1.2.
+So it's not just some random number we're throwing out there. It's to ensure that we have the right
+amount of dollars available to cover our debt and to operate. And so we've had this ongoing conversation
+all year long about increasing boardings, increasing service, ensuring that we are on time and we are
+running to the maximum ability of the people that work at RTD to serve the public, but we have to be
+financially stable to do that.
+And so that 1.2 is a conservative number, which is following our fiscal policy guidelines and well
+established for making sure that we have good credit and bond ratings. It all goes together and flows into
+what comes out on the other end, a budget. If we don't put the right numbers in, we won't get the right
+numbers out. So just as a help to that conversation, there is a reason that number exists in our fiscal
+policy and what we're expected to do. And we have not met that number for two years now in reality. So
+we've got to get back to it.
+Vice Chair Benker, your hand is up. Go ahead.
+KAREN BENKER: Yes. And that does go back to, we have not met our own self-imposed operating to
+debt ratio, and I'm assuming our credit rating hasn't changed? Last I heard, it was still AAA. Is that
+correct, Brenden?
+MICHAEL GUZMAN: Please, Mr. Morgan.
+
+BRENDEN MORGAN: Yes, that is correct. We have not had a rating downgrade as a result of not
+meeting this over the past two years.
+KAREN BENKER: OK. Thank you. That's helpful.
+The other thing that I'd like to at least add to this discussion is we may not be adopting the proposed
+budget that we have in our packet right now as is. There may be changes, especially when it comes to
+revenue because as we've just discussed, we have a very conservative sales tax piece in the budget for
+2026. There's no state grants listed in there, even though there's a very high probability that we will be
+awarded some state money. We have some other conservative revenue numbers in there.
+So quite frankly, I hesitate to again go jumping through these hoops to satisfy a self-imposed 1.2
+operating to debt ratio. And in addition, I'd like to say that $69 million that we would be spending to do this
+would take away that kind of leverage and opportunity, shall we say, to spend the $69 million in another
+way. Maybe it's to purchase buses. Maybe it's to purchase some other of our capital needs.
+So I will listen to the rest of the budget presentation but I have some serious doubts about this
+defeasance proposal. Thank you.
+MICHAEL GUZMAN: CFO Mackey.
+KELLY MACKEY: Yes. Thank you, Mr. Chair and Director Benker. Very much appreciate your comments.
+If you look at package page 249, we will get here later in the evening, but it's 249. It actually shows where
+we are year to date versus the budget. And the 2025 budget was established with the same level of
+conservatism. We used the median forecast from CU Leeds And we are missing that conservative
+revenue forecast in the budget for 2025 by $137 million.
+A lot of that is due to timing with Colfax BRT, but we're missing the sales and use tax forecast from last
+year by $13 million year to date so far. And, personally, I don't see that changing a whole lot for the
+balance of the year. So that gap may just increase. I appreciate what you're saying, but at the same time,
+I don't think I would recommend taking a more aggressive approach than is in the fiscal policy for
+revenue.
+MICHAEL GUZMAN: Director Guissinger.
+LYNN GUISSINGER: Just a quick question on that. The $137 million was because just the pass through,
+except for $13 million, that was the Colfax pass through. Is that what you were saying?
+KELLY MACKEY: Yes. Yes. Primarily due to the pass through, correct.
+LYNN GUISSINGER: OK. Thank you.
+MICHAEL GUZMAN: All right. I see no other hands raised. So the primary thing that we wanted to do
+right here was to ensure that everybody had an understanding of what the defeasance is before we go
+into the discussion about the budget. Is everybody comfortable with the mechanics of this particular piece
+of financial work?
+
+Directors, I'm asking you specifically. And some of you are off camera, so I need a thumbs up or
+something. Thank you. Thank you. Even if you don't like it, I just want to make sure we understand it
+before we go to the next part, because it'll come in key.
+It is 7:13. I anticipate the next item is going to take up the majority of the next hour. So in order to make
+sure we are taking care of our people who are taking care of us, I would ask to take at least a 10-minute
+break for the transcriptionists to have time before we go into the discussion for the proposed budget. Is
+that OK with everybody? All right.
+So it is 7:13. Let's return by 7:24 PM to begin again. Please don't forget that we are still live streaming, so
+go ahead and mute yourselves. You can turn off your camera. I will give you a one-minute warning.
+Thank you.
+It is 7:25. We are going to continue with the Finance and Planning Committee meeting, and we are going
+to enter into the third item for discussion-- or sorry, the second item for discussion tonight, which is the
+2026 proposed budget. I anticipate committee members will have a number of questions and comments
+about this particular discussion topic. Please make note of the slide number or the packet page to refer
+back to during the discussion time.
+I am going to request that staff complete your presentation fully, and then committee members will have
+the opportunity to ask questions and discuss the matter at hand afterward. Directors, please anticipate for
+now two questions and a brief comment. We will pass the baton and going around so that everybody has
+a fair chance at asking questions. I will begin with the committee members. That would mean that I will
+start with Vice Chair Benker and proceed to Director Guissinger, so you know you'll be up first.
+Given the hour, let's try to use an economy of words and remain focused on the material in front of us.
+Also, we are in a formal session, so title and surname is the preferred manner of addressing staff during
+our committee meetings. After the committee members have had an opportunity to opine and ask their
+questions, I will then call on any non-committee members to add to the conversation.
+So at this time, I would like to ask General Manager and CEO, Debra A. Johnson, as well as Kelly
+Mackey, our Chief Financial Officer, and Mr. Todd Nikkel, our Senior Manager of Budget, to present this
+item to the committee.
+DEBRA JOHNSON: Thank you, Committee Chair Guzman, and good evening once again.
+The 2026 proposed budget document before you has been in development for several months and is the
+culmination of the work of numerous individuals. In recognition of their contribution, I express my sincere
+gratitude to CFO Mackey, as well as to a Senior Manager of Budget, Todd Nichols, Senior Manager of
+Debt and Investment, Brenden Morgan, and Senior Manager of Finance, Heidi Wagner.
+Moreover, I want to acknowledge the members of their respective teams for leaning in and supporting this
+critical undertaking amidst challenging and unpredictable times. And I think you've heard that from our
+representatives from the Leeds School of Business at CU. And further to the point, my sincere and
+genuine thanks to the leadership team who served as thought partners with me on some of these difficult
+decisions.
+It's important to recognize that three guiding principles served as a framework during the development of
+this draft budget document. It was minimizing impacts to transit service delivery. As you heard Ms.
+Mackey say earlier, that is this agency's core business, which is delivering transit services to this metro
+
+region. Moreover, you've heard me say numerous times as we deliver service, we're people in the people
+business. So quite naturally, it's retaining the people who comprise the agency and then making these
+decisions in support of RTD's strategic plan.
+As it currently stands, the proposed budget meets all of these criteria. However, the 2026 projected
+expenditure requirements exceed forecasted revenue as we've been talking about. Further, by law, RTD
+must adopt a balanced budget each year in which the total revenue received is greater than the sum of
+the agency's operating expenses. To solve the gap between projected expenses and anticipated
+revenues for the coming year, many tough decisions have been made in developing a fiscally-responsible
+draft proposal.
+Over several months, the Finance department and agency leaders have carefully reviewed departmental
+budgets and identified numerous potential cost-saving measures that have since been incorporated into
+the proposed budget. Many new funding requests from staff have been deferred, pending projects have
+been postponed, and existing projects and expenses have been reconsidered to ensure that they are
+absolutely essential at this time. While significant progress has been made, a gap remains and staff has
+considered several different strategies to increase available funds while preserving current staffing and
+service levels, including the issuance of new debt, the use of reserve accounts, and the defeasance of
+existing debt that CFO Mackey has just described.
+With that introduction, Mr. Chair, I will turn the virtual floor over to CFO Mackey to present her remarks on
+the proposed budget. Thank you very kindly.
+MICHAEL GUZMAN: Thank you. CFO Mackey-KELLY MACKEY: Thank you.
+MICHAEL GUZMAN: --take us away.
+KELLY MACKEY: In this discussion, I will share background and assumptions that have been used in the
+2026 proposed budget, and then we'll go through some of the financial information, and finally talk about
+next steps for the Board and the Finance and Planning Committee.
+Regarding the background, this meeting is a discussion item on the 2026 proposed or draft budget. It
+allows for a comment period. We're required by state statutes, as a government agency, to post this
+proposed budget online for public comment by October 15. It has been posted online and made available
+in the Board Office at this point. We've also posted a notice that it's available within two daily newspaper
+publications, the Denver Post and the Boulder Daily Camera, to notify community members that the
+budget is available for public inspection And we as an agency are looking for feedback not only from the
+Finance and Planning Committee and the Board of RTD, but also public feedback regarding the proposed
+2026 budget.
+Staff will hold a study session on Wednesday, October 22 to review the budget in more detail and answer
+questions. Approval of the proposed budget will be sought by staff at the November 11 Finance and
+Planning Committee, and then final approval would be requested from the full Board at the subsequent
+Board meeting on December 2.
+Budget development is collaborative with every department involved. This is a multi-month and nearly
+year round effort. Staff holds regular department budget meetings and reviews, progress on actual
+expenditures versus budget and collaborates on issues and opportunities.
+
+The Finance and Planning Committee discussed and reviewed the five-year financial forecast on July 15
+and then September 9 for 2026 through 2030. The forecast is used as guidance to ensure that we're not
+just looking at one fiscal year for the budget appropriation but we're actually looking several years out,
+carrying the revenue and expenditure forecast into future years to understand requirements that may
+impact 2026, as well as the maximum operating expense staff should aim for to create a balanced
+budget.
+The budget book is aligned with the 2021 through 2026 strategic plan, having four strategic priorities of
+community value, customer excellence, employee ownership, and financial success, as well as strategic
+initiatives of customer and community connections, enhancing public trust, building a better RTD and
+service excellence.
+The budget book is aligned to the Board feedback and includes the Office of the State Auditor
+recommendations in terms of presentations and provides transparency. The budget book starts with
+agency information, fiscal and budgetary policies, and an executive summary, a summary by fiscal year
+and highlights of key initiatives. We have included cash flows comparatively and by department with
+summary budget views by department, and we will overview appendix detail in the budget study session,
+including additional Transit Asset Management Plan information and more financial schedules.
+Next, let's reflect on typical budget assumptions. Some of the basic assumptions that staff has included in
+the 2026 proposed budget are conservatism in the revenue assumptions, according to the fiscal policy.
+Staff has used the medium forecast that was just presented by the University of Colorado Leeds School
+of Business, meaning staff is not using the optimistic or pessimistic views. The medium is typically
+considered the most accurate forecast.
+The 2026 proposed budget does not include future potential grants that are not yet awarded, according to
+the fiscal policy, and staff has the opportunity to re-forecast during the year if and when there is a
+significant change in a revenue source. The 2026 proposed budget incorporates the Transit Asset
+Management Plan without expansion, and the budget book includes the 2026 capital expenditures.
+Staff aims to align the proposed budget with being able to achieve performance metrics, especially from a
+financial perspective, maintaining fiscal sustainability, maintaining our credit ratings, and also being able
+to provide information to the public to show just how we're performing on a trended basis for those
+financial metrics. Again, it meets the fiscal policy requirements.
+As I mentioned, the proposed budget excludes uncertain revenue according to the fiscal policy. It aims to
+balance expenditures to revenue as best as possible while maintaining our current service levels and
+staff. It incorporates maturing Transit Asset Management Plan information. As expenditures continue to
+exceed revenue, the proposed budget includes debt defeasance, as well as an appropriation to issue only
+$20 million in certificates of participation to fund cutaway vehicles that are used for paratransit or
+FlexRide services.
+Financing is incorporated due to insufficient reserves projected over the next five years at current service
+levels. Vehicles and buses are typically the easiest and least expensive to finance. Financing vehicles is
+a very common practice, and relative to other capital spending, they have relatively shorter, useful lives
+so they are paid off more quickly.
+Moving into financial information, the chart on the left shows the revenue trend going back to 2019, which
+was at $1.1 billion. Notice that the revenue projection for 2026 is also $1.1 billion. That equates to just 1%
+
+compound annual growth since 2019. In 2020 through 2022, RTD benefited from COVID relief grants and
+the 2024 figures included East Colfax BRT revenue that carried forward into 2025. Staff works through
+carry forwards in Q4 each year, and expects that the 2026 budget will include carry forward amounts for
+the East Colfax BRT pass through to the City and County of Denver that we will discuss in more detail at
+the budget study session and will be included in the final budget, similar to last year.
+Looking at revenue without the impact of East Colfax BRT pass through, revenue is actually projected to
+grow 6% in 2026 compared to the 2025 budget. The pie chart on the right shows that 77% of the 2026
+proposed budget revenue is projected to come from sales and use tax, with $170 million in grants and
+contributions, $61 million in fares, $23 million in investment income, and $9 million in other income.
+It's important to understand the bottom line of the budget, what is left over after expenses. In an effort to
+reflect this apples to apples, we have the five-year financial forecast completed last year and this year.
+This presents revenue less expenditures. And you can see that the five-year financial forecast included
+$72 million in net uses, which included a target maximum of $840 million of operating expense in order to
+achieve this.
+After working through the budget over the past few months cross-functionally, in order to keep current
+service levels and staff levels, the net use in the proposed budget is actually $199 million negative before
+carryforwards. You can see that RTD was able to generate net source of $102 million in 2023. 2024
+declined to a net use of $286 million. The 2025 budget incorporated $472 million net use with
+carryforwards, as compared to last year's financial forecast of $84 million net use.
+On the right side of the slide, you can see that a net source, as in 2023, typically results in increased
+reserves and reduced future debt needs. Alternatively, it's important to understand that when spend
+exceeds revenue, the net use of funds reduces reserves and increases future debt needs, as has been
+the case for the past couple of years.
+Because expenditures are expected to continue exceeding revenue at current service levels, this would
+put RTD out of compliance with its fiscal policy. In order to provide temporary one-time relief for 2026, to
+give the agency more time to get expenditures more closely in line with revenue, staff and advisors have
+recommended the defeasance of $57 million. Given that reduction in debt obligation is not one -for-one
+with operating expense, but is measured on a 1.2 time standard, this allows the agency to spend an
+additional $69 million in operating expense, which is the amount staff expects to be needed in order to
+maintain current staff and service levels.
+Here, you can see how the defeasance provides operating expense relief by prepaying interest and
+principal payments in December of 2025. Note that not because of the defeasance but because of current
+service levels and the need to spend closer to $923 million in operating expense to maintain service,
+current operating levels will result in an additional $69 million reduction in unrestricted reserves beyond
+what was included in the five-year financial forecast.
+I will also call out here that according to the fiscal policy, the 2026 proposed budget includes
+appropriation of regularly scheduled other certificates of participation and bond payments for 2026. Lastly,
+and very importantly, I will call out that the 2026 proposed budget includes no reduction in the FasTracks
+Internal Savings Account, as was discussed in both the September and the July Finance and Planning
+Committee meetings and the materials. Again, the FISA is listed at its current balance of $192 million,
+and there is no reduction to the FISA incorporated into the 2026 proposed budget.
+
+Next, I will share how the proposed budget is broken out by expenditure categories, but I will overview, for
+your reference here, what is in those categories so that you understand on the next slide what is in them.
+Salary and benefits includes wages, overtime, benefits, salaried and union pension plan contributions,
+defined contribution plan contributions, uniforms, tools, and compensated absences. Purchased
+transportation includes third-party transportation, contracted services, including commuter rail, excluding
+the N Line, fixed route bus service, and complimentary paratransit service.
+The services category includes supplemental premium service, software support, infrastructure as a
+service, software subscription licenses, professional services, maintenance contracts, snow removal,
+security contractors, and more. Materials and supplies includes revenue vehicle repair parts, low-value
+equipment, fuel, and consumables. Other expenses includes Director travel, conferences, and meals,
+employee travel, training, employee recognition, contingency, and some other items.
+This view shows how these expenditures are broken out in the 2026 proposed budget, with $404 million,
+or 44% in salary and benefits, and $261 million, or 28% in purchase transportation. Typically, 3/4 of any
+operating budget in a transit agency is geared toward labor, and the combination of these two categories
+is $665 million.
+In addition, you can see materials and supplies at $65 million, services at $143 million, utilities at 20,
+leases and rentals at $4 million, other expenses at 10, and insurance expense at 18%-- I'm sorry, $18
+million, or 2%.
+When looking at the proposed budget expenditures, you can clearly see that the vast majority of expense
+lies in RTD operations, at $657 million. This includes bus operations, rail operations, paratransit, and
+service development. Next, the Deputy CEO Office includes $85 million of expense, which includes the
+Capital Programs division, Civil Rights, Contracting and Procurement, Planning and Safety, and
+Environmental Compliance.
+Next, the Transit Police Department is set at $55 million as compared to a budget of $57 million in 2025,
+and we are running favorable to that budget year to date. Then you can see how the other departments
+are laid out. There is a non-department bucket, and we have called out in the box, in case you're
+interested, what is included there, such as building leases, electronic fare collection, vacancy savings and
+more.
+Here is a list of capital expenditures in the 2026 proposed budget that are $2 million or higher. The first on
+the list is track for the Southwest corridor curves, which we expect will likely be in beginning stages of this
+effort in 2026. Track for the Central Corridor is at $49 million. The traction power substation for the
+Central Corridor is at $22 million.
+The one item we do recommend financing with certificates of participation is cutaway vehicles for $20
+million. That will be used for FlexRide and paratransit services. Financing vehicles has been commonly
+done by RTD in the past, and it is one of the easier and less expensive areas to finance with shorter loan
+durations. The total capital expenditures in the 2026 proposed budget are $226 million.
+To achieve the 2026 proposed budget for operating expense, RTD has incorporated a number of cost
+savings opportunities. Various service contract savings are estimated at $17 million. The closed salaried
+employees pension plan contribution is budgeted at $6.5 million in 2026, as compared to $15 million in
+the prior year, as it is adequately funded. Vacancies are targeted at $7 million in savings and overtime
+
+modifications may result in $5 million in savings. The 2025 non-represented merit increase as a lump sum
+will result in $4 million in savings.
+In addition to no movement within salary bands related to 2024 through 2025 merit, the 2026 proposed
+budget does not include merit for the 2025 through 2026 performance period. The proposed budget also
+does not include an allotment for market adjustment or cost of living adjustment. This is very difficult news
+for RTD staff. However, RTD leadership is committed to transparency and fiduciary responsibility.
+The 2026 proposed budget includes $1.1 billion of revenue. The 2025 budget included $280 million in
+East Colfax BRT revenue, and carryforwards from the 2025 budget are in review based on how the
+current year is expected to close out. Fares are expected to grow 8% versus the 2025 budget, to $61
+million, and sales and use tax of $877 million is expected to decline 3% as compared to the 2025 budget.
+But to the presentation earlier, if we were to redo 2025 for what they are currently projecting, it would be a
+growth.
+You can see here that in all expense areas except insurance, the agency is proposing significant
+reductions in spend in the 2026 budget, and I would like to commend the leadership team for their part in
+these very difficult conversations. Overall operating expense is proposed at $923 million to maintain
+current staff and service levels, which is $70 million more than the targeted maximum in the five-year
+financial forecast, in order to achieve the fiscal policy and balanced targets. The proposed prepayment of
+2026 debt, or the defeasance, is incorporated to give RTD temporary one-time relief and more time in
+order to achieve expense that is more in balance with revenue.
+As you can see at the bottom, the net use of funds is at $199 million before carryforwards from the 2025
+budget, which we will discuss in more detail at the budget study session. The estimated net revenue
+coverage ratio is set at 1.2, an improvement from the prior year's 0.6.
+The leadership team and I thought it prudent to facilitate the committee's discussion this evening by
+displaying a few scenarios that may help you think through potential approaches for the 2026 budget. As I
+mentioned, the 2026 proposed budget incorporates no reduction to the FasTracks Internal Savings
+Account. And we have the proposed budget reflected here in scenario two.
+In scenario three, you can simply see that whether or not we prepay some of RTD's 2026 debt obligations
+has no impact on expenditures exceeding revenue and the likely result of needing to issue more debt in
+future years. The defeasance simply allows the agency to stay within the fiscal policy for 2026 and use
+good financial strategy.
+The leadership team and I thought we would do you a disservice by not also pointing out that if the Board
+were to choose to utilize FISA funds as part of the 2026 proposed budget to fund 2026 requirements for
+the track system, not only would RTD not need to defease debt, but we also would not negatively impact
+the unrestricted reserve, which is currently at a negative balance, and it would likely reduce the need in
+future years, not in 2026, to issue additional debt, given that expenditures exceed revenue.
+Clearly, there are pros and cons to all approaches, but we are laying out options for your awareness and
+discussion. In terms of next steps, the draft budget has been posted for public inspection and we will
+make final adjustments to present to you for recommended action in the November 11 Finance and
+Planning Committee. Then, the 2026 proposed budget is scheduled to be brought to the Board on
+December 2 so that the budget will be effective January 1.
+
+Thank you, Mr. Chair, for the opportunity to present this evening. And that concludes my comments.
+MICHAEL GUZMAN: Thank you so much, Director Benker, you're up.
+KAREN BENKER: OK. Thank you. I have many questions. I just don't know where to start. And I know
+our Chair is probably going to cut me off at some point.
+First of all, I just wanted to point out, the Board was not involved with any of this budget. And I would
+hope-- I know I'm working with Director Chandler to change our bylaws, which will have to be approved by
+the full Board to require more Board involvement with pulling together the budget. So I think perhaps next
+year will be a bit different. At least I hope.
+However, at our June retreat, I think it was very clear that the majority of the Board, if not almost the
+entire Board, wanted to focus on increased ridership. So my first question is, I didn't see anywhere in this
+budget. I went through it. I'm going to go through it another two or three times, make sure I understand it.
+What percent increase in service are you programming into the '26 budget?
+MICHAEL GUZMAN: Madam CEO.
+DEBRA JOHNSON: Yes, thank you very kindly. Basically, we're maintaining service levels for the
+reasons that were outlined in reference to my introductory remarks. In the fuller, in depth presentation that
+Ms. Mackey put forward relative to where we are, considering that there is currently a budget shortfall and
+we want to retain the people power that we currently have, we are doing that at the same levels of which
+we have currently with the most recent service change that was effectuated the last Sunday in August.
+KAREN BENKER: OK, so there's zero increase of new service for next year. That's problematic.
+If I can ask another question. You make assumptions on federal grants and you put that into the budget,
+correct? Into the five-year economic forecast. Because I see you've got grants here for $170 million. So
+you make assumptions for federal grants but not for state.
+MICHAEL GUZMAN: CFO Mackey.
+KELLY MACKEY: Thank you. In terms of the 2026 proposed budget, we follow the fiscal policy in terms of
+what we are allowed to incorporate, which is grants that we have been awarded and we have confidence
+in getting, not in unawarded grants. But Todd Nikkel, Mr. Todd Nikkel is also on the line, if he would like to
+add any comments there.
+MICHAEL GUZMAN: I see the CEO's hand is raised as well. So if you don't mind, I'll go to her. And then if
+Mr. Nikkels has something to add, we can proceed to him. Go ahead.
+DEBRA JOHNSON: Yes. Thank you very much, Mr. Chair.
+So in reference to grants, pursuant to what Ms. Mackey said relative to the fiscal policy, we don't make
+assumptions about monies that we don't have. These are grants that have been multi-- that have been
+already awarded, that are multi-year as we go forward relative to where we are. One such example is that
+of which we've used for the downtown rail reconstruction in which we've had community-- they're called
+community funds, but they were earmarks that we were able to receive from our congressional delegation
+that we have basically gotten for the past three years that we are leveraging toward rail reconstruction.
+
+So that's an example of monies that have already been awarded that have been drawn down, that we are
+using for specific projects, not ones that we anticipate. For those that may not be aware, currently in the
+process of the federal government relooking at the CIG program, which is the capital investment grant
+program. And then more to the point, we do have one September 30 of 2026, the current Surface
+Transportation bill with the IIJA, right-- I'm just sharing it for everybody's edification, Vice Chair. And so
+basically, as we go forward, that's why we're not keeping those top of mind.
+We have been working with the American Public Transportation Association and other entities, as well as
+the bus coalition, that are looking at different elements of 53 39, which is one of the bus facility projects.
+You heard Mr. Sanchez reference in his comments that there aren't the monies there that were previously
+hints. As we go forward, we have yet to know what we don't know.
+So with that, I'll yield the floor. Thank you.
+KAREN BENKER: OK. My understanding is the Clean Transit Enterprise Fund Board is going to be
+meeting at the end of the month. Do we have a grant application in with them?
+MICHAEL GUZMAN: Madam CEO.
+DEBRA JOHNSON: Yes, thank you very much.
+We had conversations earlier today as it relates to our path forward regarding the bus facilities. It's my
+understanding that there could be about $20 million. It's statewide, as we go forward. So there is the
+potential, as we move forward, but not for procurement of facilities, but more or less studying of which
+would lend itself to where we are currently. But that wouldn't have been encapsulated in the budget
+either, because, to the point that we have raised earlier in reference to the fiscal policy.
+KAREN BENKER: OK.
+MICHAEL GUZMAN: Thank you. Sorry. Let's move on to another Director and then we'll come back.
+Director Guissinger.
+LYNN GUISSINGER: Thank you very much. And boy, a lot of work has gone into this. Good job. I
+appreciate it.
+The bus issue, the $539 million. It's really a debt issue, and that's the reason I voted no on the FYFF
+when it came to committee before. And I still am very concerned. I guess it's a minimum requirement
+that's 12 years or 500,000 miles. My understanding is we have a number of spare buses. And I guess I'm
+wondering what our options are.
+And I don't know if this is a question for our CEO. Maybe so. But I hear of agencies that run the buses
+longer. I guess it's maybe looking at the mean distance between failures. Has that gone up? Are there
+ways that we can avoid incurring this sort of debt, and both in terms of incurring $539 million more in debt
+and in terms of getting beyond some of the financial and supply chain issues that were posted this week
+by the agency regarding electrification and moving forward on our facilities and fleet plan.
+I would sure like to see if there are options for not incurring $539 million in debt in the next five years, or
+the $20 million next year, if we can postpone some of that.
+MICHAEL GUZMAN: Madam CEO.
+
+DEBRA JOHNSON: Yes. One clarification I want to make, because we were talking about the CTE and
+the Notice of Funding Availability, we did submit a grant for $9 million relative to where we are. So I just
+wanted to clarify that going forward. That was just two weeks ago.
+More to the point that you raised, Director Guissinger, relative to useful life benchmarks and things of the
+like, FTA has put out guidance relative to 12 years or 500,000 miles. Recognizing the NTD, being the
+National Transit Database, useful life benchmark checklist, when you think about 12 years or 500,000
+miles, for the most part, we keep our vehicles for 14 years. Because before we retire a vehicle, we have
+to start the procurement process. And the process that we utilize relative to specifications, putting out a
+procurement, for all intents and purposes, when you put forward your first article bus, which is, I would
+say, like your sample bus that you're inspecting, and that article bus basically is the one you use and you
+approve it and you go forward. So customarily, it may take 14 years. Hence, we've adjusted for that as
+we've moved forward.
+An important point that I want to share with everybody is that when we talk about our spare ratio and
+deviation that was made, as most transit agencies did during the midst of the pandemic, there are certain
+aspects to the deviation in relationship to our spare ratio that was made relative to us getting down to
+where our spare ratio should be 20% by 2027. And so recognizing that, some of the tradeoffs were that
+we wouldn't be procuring additional buses, leveraging federal dollars.
+We currently have a procurement on the street for 47 FTA-approved vehicles. And the reason why I say
+approved vehicles, because we have to adhere to Buy and Build America. We've talked before that we
+have two original equipment manufacturers as it relates to buses. There's been a lot of conversation that
+has ensued, which has been falsely characterized relative to RTD's unwillingness to adopt alternative
+alternatively fueled vehicles. For all intents and purposes, I did say to this body in a public setting that,
+yes, we were committed to procuring diesel hybrid buses as it relates to our 60-foot articulated vehicles.
+New Flyer Industries, that was the manufacturer of the only 60-foot articulated diesel hybrid bus. The
+Excelsior basically is no longer being manufactured, due to the fact that the powertrain wasn't available
+from their supplier. So I'm providing that context to let you all know there's so many different extenuating
+factors relative to where we are and it's critically important, and anybody can go research this, when you
+go to FTA, they utilize an acronym called TVM. And we're not talking about ticket vending machines.
+We're talking about transit vehicle manufacturers that have been approved by FTA that are on their
+website that have gone through testing.
+So wanted to share all that information relative, are there other alternatives. I would say yes, there they
+are and we're committed to it. But this is all in a forecast where we are with the here and now and what's
+currently available on the market. And so there could be different opportunities. And while I don't want to
+get into partisan politics, we know before there was a myriad of different money made available for
+alternatively fueled vehicles. A lot of those grants have been recently canceled by USDOT and the modal
+administrations. And I think that's critically important for everyone to know as well.
+LYNN GUISSINGER: Right. I understand that. And I guess I have a little more on that. Following up on
+Director Baker's questions about the grants. We've applied for $9 million with CTE. Is that what you said?
+DEBRA JOHNSON: Yes.
+LYNN GUISSINGER: And I think we've also applied for the Senate Bill 230 oil and gas funds. Is that
+right?
+
+DEBRA JOHNSON: I'd have to-- staff these to send me a lifeline. I think we may be in process, so I don't
+want to misspeak.
+LYNN GUISSINGER: You know, it would be helpful for me, and I think others, to see what we've applied
+for and how much we might expect. I thought that maybe in the 230 legislation that later, they were sort of
+setting aside some money for 2026 for us. So it would just be helpful to see how much more we're not
+budgeting in. And I understand what you're saying, that we're doing that because that fits the fiscal policy.
+We can talk more about this. I guess we'll talk about the [? FIFE ?] in the meeting. But just a final
+comment is that I think if there are other alternatives to incurring $539 million worth of debt, if we can
+postpone that again, both in terms of not incurring as much debt and in terms of answering the issue of
+starting our electrification process, I would urge us to look at those options. Thanks.
+DEBRA JOHNSON: If I may, Mr. Chair.
+MICHAEL GUZMAN: Please.
+DEBRA JOHNSON: I did get a lifeline, and that's the same grant that we were referencing relative to CTE
+being Senate Bill 230. And more to the point, we do currently have a study underway relative to the
+facility to determine what might be most feasible relative to modifying an existing facility or procuring a
+new one as we go forward.
+Just as many of you may know, and those that were out with us at the commuter rail maintenance facility
+on Friday morning, what you heard was that that CRMF facility was basically designed and built specific
+to the vehicles that we have. And on that side of the house, those were electric multiple units. And so
+when we think about our current facilities, they were purposely designed to accommodate diesel buses.
+Hence, that's why we're starting with the facility before procuring buses, because we have to have a
+design purposed facility for that reason going forward in reference to the different propulsion systems and
+the technology. Wouldn't necessarily need pits. You may have to have harnesses and all other aspects to
+ensure that we were being very safe in reference to adhering to our safety management systems and
+things of the like.
+So thank you very much, Director Guissinger. I do understand the perspective from which you're coming,
+and we can surely provide communication relative to what grants we've applied for. So just wanted to
+close out with that. So thank you, Mr. Chair.
+LYNN GUISSINGER: Thank you.
+MICHAEL GUZMAN: Thank you. Director Gutschenritter.
+CHRIS GUTSCHENRITTER: I didn't have my hand raised.
+MICHAEL GUZMAN: That's OK. I'm going in order. I'm calling the committee members, give everybody a
+chance.
+CHRIS GUTSCHENRITTER: OK. Yeah, my question was around-- I was surprised, looking at some of
+the corporate functions that there was represented and non-represented functions. And I was just kind of
+curious, is that union? What is--
+
+MICHAEL GUZMAN: Madam CEO.
+DEBRA JOHNSON: Yes. Thank you very kindly.
+So when you see reference to non-represented, that means that those are individuals that aren't
+represented by a labor unit. And so 2/3 of our workforce are represented by a labor unit. We have two,
+being Amalgamated Transit Union Local 1001. And then we do have Fraternal Order of Police. So any of
+those employees that don't have membership within those two labor units that I referenced, that would be
+non-represented personnel.
+CHRIS GUTSCHENRITTER: OK. Thank you.
+MICHAEL GUZMAN: Director Larsen.
+MATT LARSEN: Yeah, I was just wondering when we are going to find out about the grants for the-- or,
+not the grants, the money from the state, those two sources of money from the bills. When will we find out
+whether we get that money and how much?
+MICHAEL GUZMAN: Madam CEO.
+DEBRA JOHNSON: So as it relates to Senate Bill 230 and that $9 million for this first year, we basically
+had to put forward a plan describing how we would leverage that. So for all intents and purposes, we
+submitted paperwork, air quotes, going forward. And it is highly probable that we will receive that money,
+recognizing that there's going to be different parameters set up for the outlying years going forward. And
+we have been working in tandem and having, I would say, regular meeting cadence with the executive
+director of CTE.
+MATT LARSEN: So just to clarify, so we have $9 million budgeted for that this year. Is that right?
+DEBRA JOHNSON: So we haven't included it in the budget-MATT LARSEN: For '26?
+DEBRA JOHNSON: Right. For '26, because there was a total, I'm going back to my notes, when we met,
+when I had a meeting back in May relative to where we sat, there was going to be $9 million made
+available for RTD.
+MATT LARSEN: OK. And so is there any chance that we will get more money in 2026 from the state?
+DEBRA JOHNSON: Purely speculative on my part, I would say probably not. As we move forward, and
+I'm feverishly looking through my notes right here so I can better address your question, so just give me a
+quick second.
+OK. So yes, I did have a meeting on May 30, as it related to SB-230, the monies from oil and gas. And
+basically the projection was that there would be $38 million available, and RTD would receive 25% of
+that, which is about $9 million. Going forward, there were projections that were a little higher, maybe $40
+million. But that's the information that I have readily available at this time. And that's purely speculative
+relative to conversations that ensued with the executive director of CTE, the Clean Transit Enterprise.
+MATT LARSEN: OK. Thank you.
+
+DEBRA JOHNSON: You're welcome.
+MICHAEL GUZMAN: Director O'Keefe.
+PATRICK O'KEEFE: Thank you, Mr. Chairman. So I'm going to try to keep focused on the budget and not
+the fiver-year financial forecast, but they are interrelated. So forgive me a little bit.
+I am not in favor of being optimistic on our state funding. We have gotten too cute by half in the state on
+picking a fee and paying for this and picking this and paying for that, and that avoids going to the ballot for
+TABOR. But what it does is tie your financial viability to one stream of funding. And I am very concerned
+about the projections for the severance tax revenue.
+This state is not a pro oil and gas state. That's fine. I think that's OK. But that will have a negative impact
+on that revenue at some point. And it might be 2026. So I think we need to be very cautious about that
+projection. Even when we have grants in hand, the state is in a financial catastrophe that it has not come
+to reckoning with yet. The Medicaid cuts will hit in '27. We know there's a $1 billion shortfall again next
+year. And so I think as a funding partner, I don't feel great about it.
+The other thing that I would ask, and I know our Directors are very good about this, but the FISA account- and I'm saying this because I have letters from elected officials that seem to confuse that as the
+Northwest Rail account. There are four unfinished lines that need to be covered by FISA. And so my
+problem with the use of FISA funds for operations is that it's not covering services for other corridors.
+If we are going to be honest about what FISA is for, we need to be fair in the allocation of that money
+across all the corridors. And I think it's incumbent on us to remind our locally elected officials that that
+FISA account has a lot of calls on it. And so my problem isn't that we're using FISA for Northwest, or for
+bus service in the Northwest corridor. It's that we are only using it for bus service in the Northwest
+corridor. And so I think that's something that we need to keep an eye on going forward. I'm kind of
+ambivalent about whether or not we use it or not. I think we have a tough financial year, and if it reduces
+our ability, or reduces the need for additional cuts, then I think it's probably a good use for it.
+The other thing that we have coming in '26 that is not a done deal yet, but the state believes that we're
+going to be building a joint service rail project that will start next year, which also is not identified in the
+budget. And so as we're interjecting caution into an unsteady budget picture, I think we need to also
+recognize that we don't even know all the things that we're going to be asked to pay for in the next year,
+assuming that the governor's team can get a viable price back on the joint service.
+So that's my take on FISA. It's not that it's being used, that it's only being used for one account. We have
+lots of needs in other corridors, and I think we're being a little bit too-- we're focusing a little bit too much
+on one.
+Also, on the bus purchases, this is where it blends into five-year financial forecast. We have a Buy
+America problem that we need to resolve at the federal level. I don't see this as a backtracking. I think we
+have a supply issue that we are not going to be able to buy the buses, under the current requirements by
+the federal government, to fulfill our promise to electrify.
+And so I think we need to focus on a rule change there if we want to have the flexibility to do that. There
+won't be manufacturers up and running anytime soon in the US, if ever, to produce those vehicles. And so
+I think we've got a challenge in front of us on that front. And we also, this is probably on us, we don't have
+
+the charging facilities to support that yet either, also impacted by Buy America and tariff requirements
+down the road.
+So I don't love everything in this budget, but I understand how it's being constructed. I think the study
+session will be great to get some Board feedback. I am with Director, Vice Chair Benker in this context,
+that I would like to see more Board activity in the budget preparation, rather than when it's a built house of
+cards, you take one card out and it all falls down. Well, that's a tough circumstance for us as a Board to
+be in, where if you touch it, you break it. I'd rather be involved with the build it so we're not breaking
+something that's already constructed. So I think that's a fair point.
+But I cannot emphasize enough how important it is for all of us as Board members who understand it to
+appropriately frame the FISA account, what it's for, which is all corridors, FasTracks build out, not one.
+And so I'd actually like us to talk about that when we get to the study session, GM/CEO Johnson, the
+dedication of this treasure of an account that we have to one specific corridor versus building ridership in
+all the corridors.
+No question. Statement.
+MICHAEL GUZMAN: Thank you, Director O'Keefe. Director Nicholson.
+CHRIS NICHOLSON: Thank you very much, Chair Guzman. I have a question. I have a couple of
+questions, but I'll start with a simple one for Ms. Mackey. But obviously, GM/CEO Johnson is welcome to
+take it if she would prefer.
+My read of the budget contains a very simple, is that it contains a very simple truth. We are not taking in
+enough money at the moment to pay for our operations. And the mechanics that we're talking about
+undergoing, in terms of defeasance and moving taking out short-term debt in option number two, are a
+way of pushing that issue off for a year.
+So my question, first off, is, Ms. Mackey, is do you expect in 2027, 2028, 2029 or 2030 that this problem
+will go away? Or will we be faced with the exact same problem and we will have just made it worse in
+2027 by not dealing with it now.
+KELLY MACKEY: That is an excellent question. And I think your first comments were very close, but I
+would say that the revenue is not enough to cover not only operations but also state of good repair. And if
+you look at the long range financial plan, which I believe is on next on the agenda for me to present later
+on in the packet, it will show that this issue gets worse over the years, so I don't anticipate it to go away. I
+do expect it will get worse over the years unless we find new significant revenue sources. And yes, we
+are pushing this issue off one year.
+CHRIS NICHOLSON: Can I follow up?
+MICHAEL GUZMAN: Yes.
+CHRIS NICHOLSON: What is the value of doing that as opposed to just making the cuts this year, in
+2026?
+KELLY MACKEY: Ms. Johnson, if I may, unless you would like to.
+
+DEBRA JOHNSON: I would like to add a little context and I'll yield the floor to you, Ms. Mackey. Thank
+you very kindly. And Secretary Nicholson, thank you for your question.
+There's a couple of things. When I came into this organization, we were in the height of the pandemic,
+and there were a multitude of expectations relative to where we sat. Quite naturally, morale was at a low,
+just by virtue of being sequestered and people not being able to engage and some various roles within
+the organization were doing hybrid work and things of the like.
+More to the point, we basically were trying to rally around a One RTD mindset. As you all have seen, by
+virtue of our employee satisfaction survey, it has been work that has been underway for the past four
+years relative to our most critical resource, which are human beings. And in light of where we are and
+with the expectations, and Director Benker broached this, about service and what are we doing, we have
+just begun to crawl out of a hole. And making service modifications at this time would just put us back to
+square one.
+And while I am not a Pollyanna, I believe there's a myriad of other different factors that could come full
+circle in reference to where we are currently in reference to sales and use forecasts and things of the like,
+which would give us a better opportunity as we are to move forward. Because if we go back to where we
+were four years ago, I believe we would have a harder opportunity in reference to having a resurgence of
+employees relative to ensuring that they have been adequately tested. There is a myriad of different
+things that have happened at the administration level from a federal vantage point that we are contending
+with as it relates to non-domiciled residents getting driver's license and things of the like. All of these are
+critical factors relative to where we are.
+And so that has been one of the decisions at the forefront, considering that our core business is service
+delivery and trying to preserve that as we go forward. Hence, that is why one of the aspects of what we
+do from a transit agency perspective is deliver transit services that we have looked at other reductions as
+opposed to our core business in keeping our service levels where they are in our proposed budget for
+2026.
+So thank you very kindly. Ms. Mackey, I'll yield the floor to you.
+KELLY MACKEY: Thank you. That was excellent. I have no additional comments.
+MICHAEL GUZMAN: Director Nicholson, one more, then I'm going to rotate.
+CHRIS NICHOLSON: Yes. If we decided, as a result of the study session, that we did not want to borrow
+$69 million and we did not want to spend $69 million of FISA money and just asked you to cut the budget,
+what would that look like? Because that option was not in the packet. And obviously, I don't think we want
+to do that. But I'm curious, where do you find the money in that case? Is it putting off maintenance? Is it
+laying people off? Is it the vehicles-I mean, I'll finish the question this way. If we wanted to just not buy the cutaway vehicles, for example,
+what impact would that have on the agency if we just didn't purchase them?
+MICHAEL GUZMAN: I'm going to go with CEO Johnson first. And then if there's follow-up, Ms. Mackey,
+please feel free to continue that conversation.
+DEBRA JOHNSON: Thank you very much, Chair Guzman.
+
+Secretary Nicholson, I think it's quite important that I state this, recognizing that our core business is to
+deliver service, and you can see in the pie chart, or pie graph, that illustrates that 3/4 of our budget is
+geared toward our core business, which involves people. You could not have a reduction in force without
+reducing people, because basically they go hand in hand from those that are operating, maintaining
+vehicles and those that are more or less dispatching and supervising.
+And so as we look at that holistically, that would be where we would have the impact, due to the fact that
+it's all about operating expenses, as you heard Ms. Mackey talk about before, because it's all about the
+color of money. Sure, there's capital monies. We have had conversation ad nauseam as it relates to this.
+If we were to take away monies from capital, it still doesn't negate what we can't do on the operating side,
+just by virtue of where we are with our fiscal policy. So Ms. Mackey, I'll yield the floor to you.
+KELLY MACKEY: Thank you. That was excellent. At the risk of sounding like a broken record, I just want
+to make sure I'm crystal clear. So what you described, Director Nicholson, is the budget. So there is no
+borrowing in the budget of $69 million. There is no use of the FISA in the proposed budget. We are
+proposing only going into debt by $20 million for cutaway vehicles with no change to the FISA.
+CHRIS NICHOLSON: I apologize, Mr. Chair. I didn't get an answer to the last part of the question about
+what would happen to the agency's operations if we didn't buy the cutaway vehicles.
+MICHAEL GUZMAN: Thank you. Madam CEO.
+DEBRA JOHNSON: Yes. Basically, as it relates to the cutaway vehicles, they are approaching their useful
+life. Have had conversations with representatives of communities with disabilities recognizing, the
+cutaways are retrofitted vehicles. There are no purpose-built paratransit vehicles in the United States.
+And so oftentimes, the chassis, over time, it may not be a smooth ride that could aid to the customer
+experience, or not aid, detract from the customer experience. So basically, we wouldn't be able to put out
+the level of service that is warranted because we wouldn't have vehicles to do that.
+MICHAEL GUZMAN: Thank you. Director-- I'm sorry, Vice Chair Benker.
+KAREN BENKER: OK. Thank you very much. A couple of comments. One is for Director Larsen. You are
+correct that there are two new revenue sources, not just oil and gas, but also on rental car fees. There's
+quite a bit of money available, but we have to ask for it. And as far as I know-- correct me if I'm wrong and
+I hope I'm wrong- I don't think we've asked for it yet, except for the $9 million for increased service.
+And then to Director O'Keefe, I totally agree with you. FISA is for the four projects. And I've never said,
+although I think a lot of people have assumed, that the entire $190 million should go to the Northwest
+Rail. The thing is, I do want to point out that the Northwest Rail line is the only rail line that has nothing
+there. The other three projects are pieces that are missing that do need to be built, there's no doubt. And
+again, there are revenue sources out there, but we have to go after them. We have to be hungry. We
+have to do it.
+As for a couple more questions, and then I think what I will do in the next couple of days is I'll write out
+some of my questions and some of the changes or missing pieces I see in the budget book, and hopefully
+they can be added to the budget book. But one of the questions I just want to make sure is with regard to
+our union employees, they will be receiving some increase next year. Is that correct? It's our non-union,
+our non-represented, that will not receive any additional pay.
+MICHAEL GUZMAN: Madam CEO.
+
+DEBRA JOHNSON: Yes, Mr. Chair. Thank you very kindly. Vice Chair Benker, you are correct. We do
+have a collective bargaining agreement of which this Board voted on, and we will adhere to that CBA as
+we move forward. And no, there are no merit increases for anybody.
+And let me state here, that would go for me too, because I am going to stand in solidarity with the people
+that I lead. And so just wanted to ensure that everybody was clear on that. Thank you.
+KAREN BENKER: OK. So there's no COLA, no longevity, no performance, no bonus. There's zero for
+employee compensation.
+DEBRA JOHNSON: That is correct. And I do want to state that we do have two union contracts, FOP
+Lodge 72 and ATU 10-001, which both have current collective bargaining agreements to which we need
+to adhere.
+KAREN BENKER: OK. One more question. And then for the rest of my comments and questions, I'll just
+write them down and send them to you.
+The capital projects that are listed, there are 35 and they come to $220-some million. Something that we
+always did at state, of course, is we prioritized them. And so I would like to suggest that out of the 35
+projects, we go ahead and perhaps rank them on a scale of 1 to 5, or rank them 1 through 35, or which
+ones are must, we must do next year. Which ones can be deferred for a year?
+Because quite frankly, if I had a choice, I would much rather give our employees a small increase in
+salary than purchase some of the items that are listed in the budget, which also, by the way, could use
+some description. Because as I read through them today, there's a lot of things in there that I'm not quite
+sure what it refers to.
+So I'd like some consideration that we can prioritize capital, since there's a huge chunk of our budget this
+coming year that's going to capital, whereas in the TAM, if you go to the '26 TAM, there was only, I think,
+$48 million set aside this year. Coming year, it's 200-plus. So thank you. That's it for tonight.
+MICHAEL GUZMAN: Thank you, Vice Chair Benker. Director Guissinger.
+LYNN GUISSINGER: Thank you very much.
+MICHAEL GUZMAN: [INAUDIBLE]. Hold on. CFO Mackey, your hand went up. Go ahead.
+KELLY MACKEY: Thank you. And I can add some color to that. So we go through a very complex ranking
+process earlier in the year. That's where people from across RTD and various departments weigh in on
+the prioritization and the ranking. So that is done. We said no to all capital requests that were expansions.
+And we are focused on state of good repair and safety for our riders and ensuring that we are keeping the
+system that we have in a state of good repair.
+MICHAEL GUZMAN: Thank you. My apologies, Director Guissinger. Please go ahead.
+LYNN GUISSINGER: No problem. Thank you. And I agree with Director O'Keefe as well, that the money
+in the FISA is for the four unfinished corridors. Although I will note that the legislature decided that-- and
+it's now in state statute that we have to prioritize the Northwest corridor and the North corridor. For
+whatever we decide that means, I guess.
+
+But I appreciate the fact that no money was taken out of FISA. I think that it's important that this Board
+decide whether or we're going to move forward with joint service. We're working with all of the other
+agencies. Our CEO is Chair of the joint service executive operating committee. And I think before we
+spend any money or even plan to spend money in FISA that we need to address the questions directly
+and not change the potential field.
+But I also agree that the money's there for finishing FasTracks. And as it says in our fiscal, states that
+FISA will be used to provide funding to complete and operate additional FasTracks projects. So hopefully,
+that's what we will be doing. Thanks.
+MICHAEL GUZMAN: Thank you, Director. Director Larsen.
+MATT LARSEN: Yeah, I just wanted to ask, kind of in relationship to Director Benker's question. I mean,
+are there monies potentially available from the federal or state governments that we are not pursuing, for
+example, not applying to competitive grants that seem like we might be able to get?
+And then I also wanted to ask another question after that.
+MICHAEL GUZMAN: Thank you. CEO Johnson.
+DEBRA JOHNSON: Yes. So thank you very kindly. And Director Benker is correct. There is the rental car
+fees. At this juncture, and I believe I'm correct in this, I haven't been apprised, but working on the
+guidelines relative to that grant program, and that should be forthcoming shortly. So hence, we don't know
+the parameters of the grant program. Hence, there hasn't been an opportunity to apply. However, we've
+applied for the grant through the Clean Transit Enterprise with 230.
+As it relates to the other grants, we have put forward a grant application as it relates to Vision Zero to
+have a study. There were monies that were available for that. We put forward an application, I would say,
+in the early part of the summer and awaiting notification. There's another application, grant application,
+that we put through relative to FEMA as it relates to emergency operations. So there are myriad of
+different grants, opportunities of which we've applied.
+With that being said, some have been stalled, quite naturally. There is a shutdown currently at the federal
+level and things of the like. So recognizing that some of these grants have been pulled back, that has not
+halted our ability to go forward, but we want to ensure that we have an established capital need with an
+entirely fleshed out program, because that's critically important as you apply for a grant at the federal
+level, because there's a lot of requirements, and notably, there are some requirements, recognizing that
+you can't be involved with diversity, equity, and inclusion and a myriad of other things that come into play
+as well.
+So we are being intentional and purposeful and judicious as we move forward, because if we do take on
+that obligation, and there could be matching dollars as well, we want to ensure that we're being good
+fiduciaries and being good partners with the federal government and adhering to the parameters of said
+grants.
+MATT LARSEN: Thank you. And I also just wanted to ask, if we did decide to cut service, is there not a
+way we could do it just through attrition? It seems like for a long time, at least, we've sort of been short of
+operators for the light rail and the bus. Could we just not hire any more, and then some of them would
+leave over time? And then we could just rearrange service to accommodate that, basically, rather than
+having to do any kind of actual layoffs or anything like that?
+
+MICHAEL GUZMAN: Madam CEO.
+DEBRA JOHNSON: Yes. Thank you very kindly. So there's a couple of different elements as it relates to
+our collective bargaining agreement. And just by virtue, if there were a reduction in force, we'd have to
+meet and confer. And there's a process to which we have to adhere as outlined in the CBA.
+And then more to the point, there's seniority and things of the. But we have to look at it through the lens of
+looking at our holistic operation. And it would be most judicious to look at low performing routes as we go
+forward that aren't meeting different eligibility criteria, but recognizing that we put that forward in a
+framework, we're still working on that service monitoring report as we move forward, recognizing that we
+are doing a comprehensive operational analysis that would ground us as we go forward.
+And so you have to keep in mind, when you talk about via attrition, that people are bidding on various
+routes as it relates to their seniority. So it's not as simple as just somebody attrits and then we won't hire
+back. As we've looked at our overarching position count relative to where we sit, there's still the notion of
+the extra board that we need to have as well.
+And I would share that we have had lengthy conversations relative to where we are, and there's some
+work that we need to do. And Ms. Mackey touched upon this as we look at planned overtime, unplanned
+overtime, and looking at efficiencies through productivity that we plan to have a laser focus on as we
+move forward relative to where we are, so that should yield some cost savings as we look at 2026
+through that lens of how we're doing various aspects of our service planning.
+MATT LARSEN: Can I follow up one more question?
+MICHAEL GUZMAN: Please.
+MATT LARSEN: So I mean, we can't just attrit, is it because of the collective bargaining agreement
+wouldn't allow us to rearrange the service with letting the attrition affect the least lowest performing routes
+because of this bidding process, or is that bidding process something that, is that a management sort of
+construction, or is that a construction out of that we have to follow because of the collective bargaining
+agreement?
+DEBRA JOHNSON: If I may, Mr. Chair. So the bidding process as it relates to work shifts, that's qualified.
+It's a mandatory subject of bargaining as it relates to the CBA. And I'm not saying that we couldn't have
+attrition take place, but we need to look at the routes. Because basically, we're going to start with our
+schedule, deem how many vehicles we have, and then go to people. So we need to look at our network
+holistically and make that determination, considering that we do have a network and there's connectivity.
+So what's the residual impact, if one were to cut a route that feeds into another critical bus route or a rail
+line and what might that mean? So we have to look at it through a holistic view. Did that answer your
+question? OK. Thank you.
+MICHAEL GUZMAN: Director O'Keefe.
+PATRICK O'KEEFE: Thank you, Mr. Chair. I just wanted to-- not being argumentative but I think it's
+important to clarify the clarification. There's actually two FasTracks lines that have not received any
+funding at all, Southwest corridor extension and the L Line extension. The B Line did receive some
+funding, and Flatiron Flyer service was part of the FasTracks. I would love airport bus service to the
+Southwest part of my district. There is zero, none.
+
+And so this is the frustrating part when I get these letters, they're not honest. The Flatiron Flyer service
+was part of FasTracks, and part of the B Line was constructed. And the N Line was constructed. The
+Southwest corridor was built in a different century. The extension, which was the part of the FasTracks
+which is our tax money, has not been touched and probably never will be touched.
+And I know the state legislature prioritized it. I'd be really disappointed in the governor's ability to lobby the
+state legislature if he had not been able to prioritize that line over the other ones. But it's not
+argumentative, but I think it's really important that the purity on this argument rests with the L Line and the
+C,D Line, not the B Line and the N Line. There has been money spent on that. It's just not the promised
+money that was spent, or the promised service, but some money has been spent.
+MICHAEL GUZMAN: Thank you, Director O'Keefe. Director Nicholson.
+CHRIS NICHOLSON: Yeah, I appreciate it.
+One of the things that I noticed in the book with regard to operations was that there's about a 3 point
+something percent reduction in salaries for bus operations. But there's a meaningful-- and I forget the
+exact number, a couple percent-- increase in purchased transportation. And that seems backward to me
+personally. I'm under the belief that we should be trying to grow our internal operations and reduce the
+amount of external operations.
+And so I'm wondering if you can speak to both where that increase is coming from in purchased
+transportation under bus operations. And then second, if we wanted to reduce our spending, obviously, a
+lot of that is contracted. Are there contracts that we could either not renew that are budgeted to be
+renewed or other opportunities to reduce our dependence on third-party purchased transportation?
+MICHAEL GUZMAN: Madam CEO.
+DEBRA JOHNSON: Yes. Thank you. Well, Ms. Mackey, do you want to go first?
+KELLY MACKEY: Go ahead.
+DEBRA JOHNSON: I was just going to say, thank you very much, Secretary Nicholson. Thank you, Chair
+Guzman.
+Relative to the reduction as it relates to bus operations and things of the like, we're talking about some of
+the overtime that I just spoke about earlier. It's holistic. And as we look at purchased transportation
+relative to the contracts that we have established, factoring in the tenets of said contract and the amount
+of payments and other aspects of that going forward, that's projected.
+And so what we're trying to do, to the point that I raised earlier, is looking at efficiencies, because as we
+look at where we are, you can currently see that we're still hiring bus operators. It's sort of like this
+ongoing process just by virtue of attrition, i.e. relative to those that are in training and things of the like.
+But that's broad brush.
+I will yield the floor to Ms. Mackey, because to the point that you said relative to purchased transportation,
+let's be clear that the contractors own the facilities. RTD would not be able, within a year's time, to absorb
+contracted services relative to our current rubber tire fleet operation that is not directly operated by the
+Regional Transportation District. Additional planning needs to go forward relative to how that would ensue
+through a transitional type phase and would take years as we go forward.
+
+I don't want you to think that I'm saying that it could never happen, but the point of the matter is, when
+we're talking about a budget for 2026 and looking at 2027, that is unlikely to occur.
+Ms. Mackey, I'll yield to you.
+KELLY MACKEY: Thank you. Yes, I will point out, on RTD's website, we post the monthly financial results
+and we include it in the Board briefing documents. And so if you look at bus operations through the end of
+July, it is favorable, or under budget, by 6.9%, or $18 million. And what you see in the budget book is a
+comparison to the 2025 budget. So those are two very different things.
+So even though the budget is showing it's going down for salaries for bus operations, I believe if you
+compared it to actual projections, it's probably going up significantly, just because we are favorable year
+to date significantly. And then in terms of purchased transportation, I will actually give Mr. Nikkel an
+opportunity, if you want to add anything related to purchased transportation or any of these other
+comments, you're welcome to.
+TODD NIKKEL: Thank you. Todd Nikkel, Senior Manager of Budget.
+And I think the way CFO Mackey explained it is perfect and fine, and I have nothing else to add.
+KELLY MACKEY: Thank you.
+CHRIS NICHOLSON: One more quick follow up.
+MICHAEL GUZMAN: Yes.
+CHRIS NICHOLSON: I guess this is a question to either GM/CEO or Johnson or Ms. Mackey. Would you
+be willing to provide the Board with a list of the contracts and the amounts and the termination dates for
+those contracts that are baked into those purchased transportation numbers, just so we can see all of the
+things that we are paying for in this budget? That would be-- I would really appreciate that.
+MICHAEL GUZMAN: Madam CEO.
+DEBRA JOHNSON: Yes, they're public documents. I don't have a problem with that. I need to confer with
+our contracting team so we can get those to you all in a format that'll be easily digestible in the time
+frame. I'm just saying, I'm committing to it but I can't tell you you'll have them tomorrow morning at 8:00
+AM. So if you could extend me some grace, I'm certain we can have them to you before the study
+session.
+CHRIS NICHOLSON: You beat-- yeah, that's exactly, that was exactly my question, so I appreciate it.
+MICHAEL GUZMAN: OK. I've held my tongue for long enough. It's my turn.
+[CHUCKLES]
+Thank you so much for the hard work. I want to reiterate to the Directors the three premises that we
+started with that, if I heard them correctly, our CEO strategized with staff on this, which was to minimize
+the impact to delivery of transit services. Our people, who we need to try and keep employed and keep
+paying, even though, sadly, if they are not represented, will not be receiving a pay increase this year, and
+
+align this budget with the strategic plan, to the best of our ability, in a year where we can foresee difficult
+times ahead and a need to tighten the belt.
+I think the conversation was very well warranted. A couple of things from where I sit IN District C. This
+morning, the RTC at Director DRCOG voted to have the Board take action on $771,000 in federal funding
+to have a conversation with community about the extension of the L Line along the Welton corridor as
+part of the FasTracks promises.
+I also think that there is a need to have a discussion, frank and honest, and I understand we don't want to
+move goalposts while we're dealing with the JSEOC, or any of the other matters that are going on. And
+the legislature, I find it disagreeable, but they have kind of bound our hands and knees to be able to only
+look at two particular parts of the FasTracks corridors with prioritization, but that doesn't mean that's the
+only option, the way that I read the legislation.
+If you go back to the 2004 FasTracks ballot initiative, it was supposed to include rail rapid transit,
+enhanced bus and rail connections with convenient time transfers, including park-and-rides and parking
+spaces, an enhanced bus network, which was supposed to include connects between suburb bus travel,
+and new bus routes that were supposed to come out of that 0.04% sales tax. It also was supposed to
+include payments for enhancing transit facilities. Some of that has been done, not all of it. We know that.
+But I do believe that Director O'Keefe was spot on in his commentary about what FISA exists for and what
+the FasTracks vote was that preceded the FISA. And so not the time for that whole conversation to be
+within this year's budget, but I think we need to have a hearty and serious conversation and level set.
+I, too, get a lot of communication in email and in phone calls and in text messages from some very angry
+people who seem to think, for whatever reason, that the FISA exists for only the use of one corridor. And I
+think that being honest and vulnerable about where we're at and what we're doing is always going to be
+the better way to go, because we need to proceed forward with the truth, and especially at a time when
+we see the reduction of sales and use tax.
+And I will forever be a pessimist when it comes to forecasting. Even if we use the median line on that
+sales and use tax forecast that we receive from CU Leeds every year, I have said it, and so far, I have
+been correct, we have not achieved what has been forecasted. And we see that result year after year that
+I have served on this Board. And so I would suggest that we take the advice of looking at some sort of
+alternate scenario than just what was used for this budget, and consider the fact that we may have lower
+sales tax and use revenues in 2026.
+Beyond that, I do want to give huge kudos to our staff who have found monies that were not utilized and
+were able to cut major dollars from their departments in producing this document. I think that shows great
+determination to keep the agency running and not fire people and lay them off. It's a terrible thought to
+even consider that. And knowing that our CEO will stand in solidarity with employees and do what is right,
+I would fully hate to vote on any budget that would not be able to reward the hard work that has been
+done. I do not want to go backwards. I would like to go forward. And as Chair of the committee, I'm
+hoping that we can figure out a consensus and get this done this year.
+With respect to state funding, if it ain't real, I'm not going to imagine it. I'm sorry. I want my money in my
+hand. That's how I deposit it in the bank. And when I make a withdrawal, they give me cash. It's not a
+promissory note. And so for all of the lovely speech and talking that I have heard over the last few years
+
+from different legislators, we've provided you money, we've provided you money, we've provided you
+money, nothing has come to fruition yet.
+And while we are still waiting to get an answer, I see no logic or reason to include that in a budget when
+we do not have numbers. When we have those numbers, we can adjust this budget. We are at liberty to
+do so any time we want. But until we have those numbers, I don't know that planning on having that is a
+great idea. I certainly don't plan my budget that way, by assuming I'm going to have a certain income or
+I'm just going to get a gift from somebody to be able to do that. I include that after the fact, once it's in the
+bank and I can utilize those funds to do something with.
+Maybe that's showing a bit of my more conservative nature when it comes to financing, but I want to be a
+realist here and pragmatic about how I approach this. That said, I don't have anything else to add. I do
+need to spend a little bit more time reading through this. We've had a lot to go over and the RTC
+information kept me busy, and I've been working on other matters for the other committee as well.
+So thank you for the hearty conversation. I want to remind everybody that there is an upcoming study
+session, and while the FYFF was referenced several times, it was recommitted to our committee, I did not
+include it on tonight's agenda, because I think it doesn't make any sense to go back and make a
+recommendation on something we have not taken the time to discuss thoroughly, as was the expectation
+of the Board when it was recommitted.
+And so at the study session that is upcoming, we will be discussing that matter. And Vice Chair Benker
+and I have had a conversation with staff ahead of this meeting that we will take appropriate action if we
+determine that there is a path forward with the FYFF going forward the next five years, after we have
+consensus by the Board.
+So with that, there's no vote on this matter. I'm going to close this out. Directors, it's a great time to write
+questions. I am certain that CEO Johnson and CFO Mackey and the team will respond to any inquiries
+and respond to the whole Board so that we are all on the same playing field, have that information ready
+for the study session, if there is not time for a memo to be sent out ahead of that, so that we can all
+proceed forward. Thank you.
+All right. The third item is for the Long Range Financial Plan. So once again, I would like to ask Kelly
+Mackey, Chief Financial Officer, and Todd Nikkel, our Senior Manager for Budget, to present this item to
+the committee.
+KELLY MACKEY: Thank you, Mr. Chair. And I would like to thank Senior Manager of Budget, Todd
+Nikkel, and Senior Manager of Planning Technical Services, Brian Welch, for their work in creating the
+Long Range Financial Plan that we're presenting this evening as a discussion item. I will share my
+screen. Hopefully, you can see that. Great.
+The Long Range Financial Plan serves as an extension of the five-year financial forecast through the 30year time horizon, which is currently 2055. This plan is submitted to the Denver Regional Council of
+Governments, also known as DRCOG, the federally designated metropolitan planning organization for the
+Denver region pursuant to the Federal Transit Act, Part 23, Section 5301. DRCOG will incorporate RTD's
+plan, along with the plans of other member governments and partners in the regional transportation plan
+that is updated every four years as required by 23 Code of Federal Regulations, Section 5-- sorry
+450.324 in order for projects to receive federal funding.
+
+The Regional Transportation Plan guides the long range vision and investment framework for the region's
+multimodal transportation system. DRCOG relies on financial forecasts developed by RTD to determine
+the amount of funding available for use in RTD's transit network. RTD's lenders also utilize the plan to
+ensure that RTD has the financial capacity to repay its debt. The Long Range Financial Plan focuses on
+ensuring that RTD can fund the ongoing operation and maintenance of the base system and the
+FasTracks corridors, while repaying its debt obligations.
+In the forecast, while revenue is expected to increase, it does not keep up with the rising cost of operating
+the system, investing in state of good repair, and funding capital projects for the existing infrastructure.
+Debt service does decline over time, but those savings are more than offset by increased operating and
+reinvestment needs. This widening gap between revenue and requirements underscores why long-term
+planning and funding solutions are critical.
+Before I delve into key elements of the forecast, I will share that in the next month's action item, staff will
+slightly adjust the fare increase assumptions so that base fare increases from $2.75 to $3 in 2031 and
+$0.25 more every three years after. Key elements of the 2026 through 2055 forecast include the
+September 2025 sales and use tax forecast from the Leeds School of Business at University of Colorado
+Boulder. Future formula grants are forecasted based on historic appropriations and escalated at the
+consumer price index, or CPI. Operating costs are based on the final year of the five-year financial
+forecast, escalated at 3% CPI, with vehicle hour and mile adjustments for increased transit utilization. The
+Bureau of Labor Statistics indicates that the CPI for Denver, Aurora, and Lakewood dropped below 3% in
+early 2024.
+Replacement of the revenue fleet and other assets is based on the current asset inventory and
+replacement schedules without expansions to capital assets. Replacement of maintenance facilities, as
+projected to be required, are included. The forecast model only includes issuance of $539 million
+additional certificates of participation in the 2026 through 2030 time frame to fund a portion of capital
+replacement requirements, which includes some hybrid and electric buses, but mostly diesel, due to the
+market's current availability. The supporting fleet fact sheets also provide a higher cost option for a larger
+proportion of hybrid vehicles.
+No issuance of debt beyond the 2030 frame is included in the Long Range Financial Plan. The forecast
+assumes that any incremental costs, either capital or operations, for DRCOG Regional Transportation
+Plan, Bus Rapid Transit corridors above those funding levels currently provided by RTD would be paid for
+and financed by stakeholder project sponsors.
+The forecast model includes that the Denver Transit Operators concession agreement for the A, B, and G
+Lines remains in place through 2044, with RTD assuming operations thereafter. It includes the entire light
+rail network conversion to level boarding, as well as that a new bus operating facility will be built or
+acquired, that the existing automatic block signal system for light rail is converted to a cab signal safety
+overlay, and that the agency does not assume ownership of private contractor bus operations facilities.
+The forecast assumes a balance of three months of operating expenses, and the operating reserves and
+reserves fully utilized, with the exception of keeping $145 million in the FasTracks Internal Savings
+Account. This Long Range Financial Plan does not incorporate proposed defeasance or prepayment of a
+portion of the 2026 debt obligations. Note that the implementation of the Facilities and Fleet Transition
+Plan would add approximately $1.4 billion to the capital costs above what is listed in the Long Range
+Financial Plan schedules.
+
+Due to complexities and unknowns in the fleet replacement schedules, the Facilities and Fleet Transition
+Plan is not able to be incorporated into the Long Range Financial Plan by year at this time. We included
+the $1.4 billion incremental cost estimate in the Board report for reference, however. The prior Long
+Range Financial Outlook for 2022 through 2050 that was shared at the Colorado General Assembly Town
+Hall on December 9 of last year showed revenue nearing $3 billion by 2050, which is similar to this
+update, and findings that future expenditures are expected to outpace revenue with an increasing degree
+as decades progress.
+In the prior version, expenditures similarly exceeded revenue, but it reflected smoother spending trends.
+The update we are presenting this evening is intended to reflect more accurate expenditures based on
+what we know today, which creates less smoothness in the expenditure bar chart trends. The Long
+Range Financial Plan does not provide RTD with the means to maintain its current system in a state of
+good repair through 2055 without significant incremental revenue from new funding sources. Between
+2026 and 2055, RTD would not have the capacity for service expansion or new projects beyond those
+needed to maintain a state of good repair.
+And Mr. Chair, that concludes my comments and I will turn it back to you.
+MICHAEL GUZMAN: Thank you, CFO Mackey. Directors, are there any conversation on this one?
+Director Nicholson, your hand is raised. Go ahead.
+CHRIS NICHOLSON: Thank you very much. I've been waiting all night for this item.
+CFO Mackey, so first off, you mentioned in your presentation that there was an alternate schedule or
+something, I forget the word, of fleet replacement that would include more hybrid buses. I didn't see that
+in the packet for this item. Is that included somewhere else, that details the different options for the cost of
+going with more hybrids or fewer-- I just, that didn't seem like it was in the packet.
+KELLY MACKEY: It is not in the packet. I'm sorry. May I?
+MICHAEL GUZMAN: Go ahead.
+KELLY MACKEY: OK. It is not in the packet. It's in the fact sheets. So those are detailed schedules that
+departments put together.
+I will call out that generally speaking, as a rule of thumb, electric costs about twice as much as diesel and
+you need about 1.5 times as many as them, and you also need proper facilities to house them. But we
+can share in more detail, and we do plan to share in a bit more detail next week in the study session.
+CHRIS NICHOLSON: Yeah, so just for clarity, can we get copies of those fact sheets?
+MICHAEL GUZMAN: Madam CEO.
+DEBRA JOHNSON: Thank you. I went to the wrong button. Yes, that's our intent. Ms. Mackey and I
+talked about that. We're working diligently to have those for the study session, to give explanation relative
+to what we're seeing in 2026, as we move forward, and in explanations relative to any outlying years. Of
+course, we can't put that together going out to 2050.
+And so basically, to the point that Ms. Mackey raised, it goes back to my earlier comments, Secretary
+Nicholson, relative to what's currently available. As we indicated before, we don't have options relative to
+
+60-footers for the here and now. So as we look at forecasting, we're dealing with what's available. There
+are available buses that are 40-footers that are FTA-approved and things of the. There's a myriad of
+different other factors that have to be taken into consideration when you think about alternative fuel
+vehicles and their propulsion systems.
+MICHAEL GUZMAN: Director Nicholson.
+CHRIS NICHOLSON: Yes. So I probably swallowed harder when I looked at that slide that is in this item
+about where our finances are going in the next 10, 15, 20 years, thinking to myself, if I run for re-election,
+I'll be on the Board in the middle of the 2030s, when we will be short $3 billion over a five-year period,
+which equates to about $400 million a year.
+That led me to a fairly simple and straightforward question. What planning has the agency done so far in
+terms of pursuing a ballot measure to raise additional revenue? If we recognize that this avalanche is
+coming-- I'm going to pull from the Bruce Willis movie with the asteroid coming to Earth, Armageddon-we recognize the asteroid is coming. What planning are we doing to actually create that revenue source
+and go to the voters and mitigate this oncoming disaster? How far has that conversation gotten?
+MICHAEL GUZMAN: Madam CEO.
+DEBRA JOHNSON: Yes, thank you very kindly for the question. And I think it's a collective conversation,
+recognizing when we went through the ballot initiative, just preparing for it a year and a half ago, it's a
+conversation with the Board because that's of a policy nature, as we talk about preparing, because we as
+staff, basically we're paid by the taxpayer. So there's a balancing act as we go forward, but happy to
+engage with the Board as it relates to where we all sit and what we envision doing.
+CHRIS NICHOLSON: Very quick follow-up?
+MICHAEL GUZMAN: Go ahead.
+CHRIS NICHOLSON: Has any polling been commissioned by the Board on the public's appetite for a
+ballot measure, that increased sales tax revenue, to fund RTD's transit operations, or to fund RTD in any
+way, really?
+MICHAEL GUZMAN: Before anybody answers that legal question, General Counsel, are you on? Thank
+you.
+Under the RTD Act, are we even allowed to consider right now more than the 1% that we are collecting?
+Because I thought that was the max allowed under the legislation for the RTD.
+MELANIE SNYDER: So my understanding-- and correct me if I'm wrong, Director Nicholson-- my
+understanding of Director Nicholson's question is he's inquiring about what options the agency might have
+moving forward, going to the voters to seek voter authorization for an increase in our sales and use tax.
+And that is what would be required under the law.
+MICHAEL GUZMAN: OK. But we're not limited to just the 1%, under the RTD Act? Because I thought that
+was the max allowed for us to ask.
+MELANIE SNYDER: We are currently limited. We are currently limited under the Act to a 1% total sales
+and use tax collection. We do have the ability to seek voter authorization under the RTD Act.
+
+CHRIS NICHOLSON: For additional.
+MELANIE SNYDER: For additional, correct.
+MICHAEL GUZMAN: All right. Thank you. Sorry. It was in addition to your question, Director Nicholson, I
+just want to make sure I understood. Go ahead.
+CHRIS NICHOLSON: So, yeah, my question then is, has RTD, at any point, really, I guess, in your
+tenure, GM/CEO Johnson, done any kind of public opinion surveys, polling on the public's willingness to
+pay additional sales tax to fund RTD?
+DEBRA JOHNSON: Mr. Chair, if I may.
+MICHAEL GUZMAN: Please, go ahead.
+DEBRA JOHNSON: OK. So considering I've been here at the height of the pandemic, the only polling that
+we did was relative to de-Brucing.
+CHRIS NICHOLSON: OK.
+MICHAEL GUZMAN: Sounds like more work for next year.
+All right. Are there any other questions or comments from Directors? I don't see any. Thank you.
+CFO Mackey, did you get what you needed out of that conversation for information? Thank you.
+All right. Our fourth and final item for tonight is the July year-to-date financial update. Once again, I would
+invite Kelly Mackey, Chief Financial Officer, to present this item to the committee.
+KELLY MACKEY: Thank you, Mr. Chair. And allow me to share my screen. Great.
+Each month, a financial status report is included in the Board briefings. This report displays a dashboard
+with sales and use taxes, ridership, and fare revenue results, as well as the unaudited financial
+statements. And following the conclusion of this fiscal year ending in December, an annual
+comprehensive financial report is produced, audited by independent auditors, and is presented to the
+Audit Committee and the full Board as a recommended action.
+Today, we're discussing with the Finance and Planning Committee RTD's financial results and position
+year to date through July 31, 2025. This discussion is not only to provide an update, but also as an
+additional context for the 2026 proposed budget and the Long Range Financial Plan discussion items
+earlier in the Finance and Planning Committee's agenda. In this presentation, we will also overview
+historical trends, fund balances, and challenges.
+First, we will review actual results versus budget and then versus prior year. The figures here are in
+thousands of dollars, and this view shows the variances of actuals to budget and year-over-year in gray.
+Overall, revenue year to date is $631 million versus the budget of $768 million, which is $137 million
+unfavorable, due primarily to federal grants, where we're expecting to draw them down later in the year,
+as we discussed in the July Finance and Planning Committee meeting on the Q1 financial results. Staff
+generally spreads the budget for grant funding across several months, and the actual timing depends on
+when the application is approved and when RTD can start drawing money down with funds released.
+
+Next, fares of $34 million are $519,000 favorable year-to-date to budget, and are $1 million lower than
+prior year. Sales and use tax of $493 million was $13 million unfavorable to budget, and gre2 $6 million,
+or 1%, from prior year, which is consistent with sales and use tax growth trend over the past several
+years. This puts pressure on the agency in future years because costs typically rise at a higher rate with
+inflation. Keep in mind that the 2025 budget was approved by the Board in November of 2024.
+Other revenue, which includes advertising revenue and investment income, came in at $46 million, or $20
+million favorable to budget. $17 million of the favorable variance is from investment income. Other income
+gre2 $612,000 from prior year.
+Director Benker had requested in September that we break out state grant revenue. State grant revenue
+was $2 million year-to-date for Zero Fare for Youth, and that funding soon ends on January 31, 2026.
+After review with our auditors, RubinBrown, they did recommend that RTD not break out the state grant
+revenue in its financial statements due to immateriality and inconsistency with other transit agencies.
+However, we are able to provide that amount separately.
+Operating expense year-to-date was $543 million, versus a$788 million budget. More than $100 million of
+this favorability is due to timing of the East Colfax BRT expenses. Keep in mind that the project is a pass
+through to the City and County of Denver. Cost was budgeted conservatively in 2025 due to the project's
+complexity and grant timing, and funds will carry forward into 2026. Other favorability and operating
+expenses related to slower and more conservative spending.
+Operating expense increased by $51 million from prior year. We have seen 50% increase in service
+expense and a 40% increase in insurance expense. The only other major line that increased more than
+20% was miscellaneous.
+Depreciation of $191 million was close to plan and just higher than prior year. Interest expense on debt of
+$74 million is $10 million favorable to budget and $2 million better than prior year, due to refinancing that
+took place after the 2025 budget was adopted. In total, expense of $809 million exceeded year-to-date
+revenue of $631 million, for a decrease in net position f $178 million, which directly impacts reserves. This
+was $137 million favorable to the 2025 budget of $314 million decrease in net position.
+Moving on to financial position, these are the results of money in and money out and ending balances as
+of July 31 of 2025 versus July 31 of 2024. The critical component is what's available to RTD potentially to
+spend after subtracting all liabilities and other obligations. Cash investments and accounts receivable of
+$1.2 billion have declined $99 million, or 8%, from prior year year to date. RTD has less than $1 billion in
+cash as of July 2025. Cash and investments are down $116 million, or 11%, from prior year, and
+accounts receivable are up $17 million, or 8%.
+FasTracks fund balances of $526 million declined $32 million, or 6%, due to restricted fund decline to
+$279 million from $323 million. Base system fund balances of $576 million declined $96 million, or 14%,
+from prior year. The total of these subcategories is $2.3 billion, which declined $227 million, or 9%, from
+prior year, and is directly related to the decrease in net position on the prior slide.
+To summarize what I've discussed so far regarding financial results, revenue is behind expectations due
+to the timing of grants. RTD has a positive expenditure variance offsetting the revenue shortfall, and RTD
+has a strong, though declining, financial position because expenditure continues to exceed revenue. And
+bottom line, year-to-date financial performance is favorable to budget.
+
+Next, I will overview historical trends. These charts are included in the monthly financial statements that
+you have seen. The far left year here is 2019. The top line, the red line, is the trend in cash, investments,
+and accounts receivable. The yellow line is base system and the blue line is FasTracks balances.
+You can see that the financial position of RTD strengthened significantly through 2023 and then began to
+decline in 2024 and in the 2025 budget and actuals. The flip side, if you look at the right side of the slide,
+is what do we owe on the balance sheet? Since 2019, this chart starts to show a nice trend over the past
+six years in the big obligations that RTD has. In the blue section, the total debt profile, everything in the
+principal amount of debt owed to our investors that was borrowed in 2019, is $3.9 billion, and we're left
+with a current outstanding principal balance of $3.3 billion at the end of July 2025.
+Part of that reduction is actual debt service that has been paid, and a lot of it is also due to the debt
+refinancings that have occurred in more recent years when RTD had the opportunity. Staff refinanced
+debt for interest savings and took out some of the principal balance at the same time, reducing the risk to
+RTD.
+The pension obligation is $154 million, down from $304 million in 2019. You may recall in 2022, with the
+collective bargaining agreement, the Amalgamated Transit Union and RTD worked together to address
+the large pension obligation. The pension plan was closed to new employees, for represented employees,
+going forward in 2023. There was also a large payment of $160 million, a lump sum put into that plan that
+reduced the risk profile to RTD.
+And moving into fund balances. We have this broken down by types of fund balances. The fund balances
+are RTD's assets minus liabilities. The fund balances are also known in the private sector as owners
+equity. It's essentially the savings that are left over if RTD were to pay off all of its obligations. We have a
+column for base system, a column for FasTracks, and a gray column for the total, followed by where
+these were in the prior year and the year-over-year variances from July 31, 2025.
+Restricted fund balances are restricted by contracts and agreements, such as debt agreements. That's
+money that has to be set aside to service debt. For example, we have a restricted TABOR reserve that's
+required of all governmental agencies in Colorado to maintain a 3% TABOR reserve. And those funds
+showed here are $115 million, and they are essentially untouchable for covenants.
+Next are funds that fall under the Board auspices, which are the remaining funds after removing restricted
+reserves. Through fiscal policy that the Board has approved and through discussion, there are essentially
+four different fund balances. The word fund and reserves are really interchangeable. The operating
+reserves have been established as three months of operating expense, excluding depreciation, and it's
+$301 million.
+Next is the capital replacement fund established through the budgeting process. While we have a good
+cash position, we identify $261 million to set aside for capital replacement. That has to do with state of
+good repair, the Transit Asset Management Plan, and having that funding available so we don't have, to
+this year at least, borrow money and pay additional interest. Our five-year financial forecast shows this
+capital replacement fund will not be sufficient for the 2026 through 2030 time frame.
+We currently have $192 million in the FasTracks Internal Savings Account, known as the FISA, and the
+2026 proposed budget includes no change to that balance. And finally, we show the unrestricted fund
+balance, which is a credit balance of $93 million, primarily due to the delay in 2025 grants revenue. This
+balance was a positive $58 million at the end of 2024.
+
+Keep in mind that restricted funds are contractual or statutory requirements, such as for TABOR, and the
+other items are under Board auspices. The Board has the authority to spend and only the Board can
+appropriate those funds.
+So in wrapping up, there is not much diversification in revenue, as sales and use taxes typically about
+70% of revenue and growth in sales and use tax collection has slowed. For 2026, the proposed budget
+has this at 77% of revenue. As you saw in the earlier presentation, spending requirements to maintain
+state of good repair in the existing system are forecasted to exceed revenue to an increasing extent in the
+future.
+The primary challenge is that spend continues to exceed revenue, which naturally results in a decline of
+RTD's financial position, though that decline year-to-date is better than budget. RTD's financial
+statements may look like the agency has a lot of money, but essentially it is spoken for and RTD needs
+that money to maintain what it has.
+Mr. Chair, that concludes my presentation for the year-to-date financial update.
+MICHAEL GUZMAN: Thank you. Directors, do you have any questions or comments? I do not see any.
+Thank you, CFO Mackey. I appreciate that. We have money but it is spoken for. Good to know.
+All right. I was going to say thank you, under Other Matters, to Director Catlin, who has already left the
+meeting. Tonight was her last committee meeting with us, as she has left the Board. So we wish her well
+and thank her for her service and wisdom.
+Are there any other matters? Director Nicholson, your hand went up.
+CHRIS NICHOLSON: Yes, it did. Thank you.
+I had a question for GM/CEO Johnson and Ms. Mackey about the study session. I was wondering what
+the format is going to be for that. When the Denver City Council did their budget week, they basically
+went through the budget department by department and had each department present on what was in
+their department budget. And I was wondering if you can speak a little bit to how are we going to use that
+time effectively to try to understand all the different moving parts. Are we going to focus on specific
+pieces, or are you going to give us an overview? And can you break that down in a way that will make
+sure we can give relevant input and have a useful deliberation?
+MICHAEL GUZMAN: CFO Mackey.
+KELLY MACKEY: Yes. I was not planning to utilize the time to have each department present on their
+budget, because you're able to read that in the budget book, and I think it's pretty self-explanatory. And I
+don't think your concerns are related necessarily to the department level budgets, but I can speak to them
+at a high level, because you did mention bus operations earlier.
+But I think the time would be better spent on things like capital requirements in 2026 and in future years,
+what those are, what the debt schedules look like, what the $20 million in proposed debt, taking out for
+the cutaway vehicles in 2026, what that looks like in more detail, and probably, for the five-year financial
+forecast portion, sharing with you, for example, quantities of vehicles which are diesel, which are
+proposed at hybrid, which are electric, and, in the fact sheets, what it's proposing in terms of what the
+cost would be if we had a higher proportion hybrid, things like that that you all have asked about.
+
+I have a number of questions from prior meetings with the Finance and Planning Committee about things
+that you would like to see in more detail. So I have notes to build out materials to help answer those
+questions. So I do plan to use the time for that.
+MICHAEL GUZMAN: [INAUDIBLE]
+CHRIS NICHOLSON: May I?
+MICHAEL GUZMAN: Yep.
+CHRIS NICHOLSON: Will department staff be present for the meeting, so that if we do have questions,
+and I expect just from other conversations I've had, that there may be particular Directors who do, will
+they be there to speak to those budgets, or who's going to be present in order to be able to answer those
+sorts of questions?
+MICHAEL GUZMAN: Madam CEO.
+DEBRA JOHNSON: Thank you very much, Mr. Chair. Thank you, Secretary Nicholson. Just by means of
+process, all leadership team members are generally in attendance at a study session, recognize the
+importance of the budget. And when you look at the core departments relative to service delivery, we will
+be there collectively.
+And recognizing your question, comparing us to the City and County of Denver, considering budgets
+there and departmental aspect is that some municipality, to what Ms. Mackey said, we are going to lean
+in. We have been conferring, of course, with the Chair and Vice Chair of the committee and recognizing
+where we are with the five-year financial forecast, that will be an element as well. But amplifying what Ms.
+Mackey said, presenting you all with information and giving you the opportunity to delve in a little deeper
+as we do our best to address questions that you may have relative to what it is and what we're doing, and
+more so understanding the parameters from which we're working within, as well, I believe, is paramount
+to the discussion. Thanks.
+MICHAEL GUZMAN: CFO Mackey.
+KELLY MACKEY: I will also add that our Senior Manager of Finance, Heidi Wagner, has kindly offered to
+join the study session, and her Finance organization are the ones who have been working with the
+individual departments to help develop the budget. And so she's also going to be available to speak to the
+department budgets in more detail and answer questions.
+CHRIS NICHOLSON: Awesome. Thank you. Appreciate it.
+MICHAEL GUZMAN: All right. Thank you.
+With no other hands raised, then I just need to do this last piece. The next meeting date of this committee
+will be November 11 for Finance and Planning. It is a Tuesday. It is also Veterans Day. At that meeting,
+we are scheduled to take action on the following four items, three of which we discussed in detail this
+evening. The proposed defeasance of the 2026 debt service, the proposed 2026 budget, the Long Range
+Financial Plan, and then the salaried trustee appointments.
+Additionally, we will have discussions on the following two items, the triennial update to Reimagine RTD,
+the Mobility Plan for the Future, and the bus stop infrastructure and accessibility assessment, long
+
+awaited. Also, please be on the lookout for updates regarding a path forward for the five-year financial
+forecast, which should come out of the. Wednesday, October-- excuse me, that might be a Tuesday-October 22 study session from 5:00 to 7:00 PM at Blake Street, where we will discuss all matters
+pertaining to the budget and financial forecasting for RTD. Madam CEO.
+DEBRA JOHNSON: Yes, Mr. Chair. I thought you said you thought it was a Tuesday. It is Wednesday,
+October 22, due to the fact that the Chair-- when we polled, it's Wednesday. So I just wanted to clarify
+that. Thank you.
+MICHAEL GUZMAN: Thank you. I have it written down wrong in my notes. No problem. Wednesday,
+October 22, 5:00 to 7:00 PM at Blake Street.
+Seeing no other discussion, we will adjourn our meeting at 9:17 PM. Thank you. We made it through.
+Questions, send them our way. Have a good night.
+
+RTD Board of Directors and General Manager Johnson,
+On behalf of the organizations below, we are writing in opposition to RTD’s proposal to borrow
+$539 million to purchase diesel buses over the next five years. Approval of this proposal
+would hinder statewide efforts to reduce climate pollution and dangerous ozone pollution,
+resulting in the Front Range violating air quality standards. This investment is a misuse of funds
+and would lock in higher fuel costs for decades.
+RTD has long positioned itself as a national leader in sustainable transit with a focus on
+reducing air pollution, especially in high transit density areas. In 2017, RTD boasted the largest
+electric bus fleet in the nation with its 36 electric MallRide buses. However, the agency hasn’t
+ordered a single electric bus in over a decade. The shift to new diesel purchases, at a moment
+when peer agencies are accelerating toward full electrification, undermines that reputation,
+negatively impacts public health, and risks increased costs due to the volatility of oil markets.
+This contradicts RTD's climate commitments in its strategic plan and fleet electrification plan. In
+2024, 61 transit agencies from 30 different states, including Alaska, Alabama, Florida, Idaho,
+and Montana, secured FTA funding to purchase electric buses; if these peer agencies have
+already done so, there’s no reason for RTD not to.
+We understand the near-term operational needs, specifically the need to replace aging
+paratransit vehicles by 2026. However, we urge the Board to include electric buses in the
+current round of bus procurement and to:
+●​ Accelerate the construction and retrofitting of bus maintenance and charging
+facilities to enable full electrification readiness.​
+●​ Maintain the existing diesel fleet longer, within FTA guidelines, especially since RTD
+already exceeds its allowable spare ratio.​
+●​ Transition directly to electric when current diesel buses reach the end of their
+lifespans, avoiding a costly and backward double investment in harmful fossil-fuel
+infrastructure.
+We’re puzzled as to why RTD has not applied for any funding from the SB21-260 Colorado
+Department of Transportation (CDOT) Clean Transit Enterprise (CTE) program, which is one of
+the few state-funded initiatives in the country that directly supports transit electrification. With a
+Fiscal Year 2025 budget exceeding $18 million, the program has awarded grants to 16
+communities across Colorado, including Fort Collins, Avon, Pueblo, Durango, Mesa County,
+Winter Park, Boulder, Denver, Breckenridge, and the Roaring Fork Valley. CTE funding supports
+not only vehicle replacement but also electrification planning, charging infrastructure, and facility
+upgrades – areas that RTD frequently cites as barriers to bus electrification. In 2025, the
+Roaring Fork Transit Authority received $5.6 million for 10 new electric buses, which, upon
+delivery in 2026, will bring their total electric bus fleet to 18 vehicles – nearly 20% of their entire
+fleet.
+
+It’s frustrating that RTD has not received any federal Low-No Emission Bus grants since 2019.
+We are concerned that RTD is missing out on valuable state and federal funding while other
+agencies, many operating in colder and more challenging conditions, are advancing their
+electrification efforts. This is particularly troubling as new state transit grants become available
+in 2026, including the SB24-230 CTE Local Transit Grant Program and the ongoing Multimodal
+Options Fund (MMOF) program. Given RTD’s constrained resources and the significant transit
+needs in our region, we need RTD to aggressively pursue state and federal grants, resulting in
+system improvements.
+The undersigned strongly oppose RTD's proposal to borrow $539 million to purchase diesel
+buses and urge it to build electric-supportive facilities now and exhaust all possible
+options to enable clean, cost-effective electric bus purchases. Every year of increased
+diesel combustion means more particulate matter and NOx emissions in the air that harm public
+health, especially Disproportionately Impacted Communities. Every dollar spent extending
+diesel infrastructure and diesel buses delays Colorado’s clean energy transition and erodes
+public confidence in RTD’s long-term sustainability plan to reduce harmful transportation
+pollution.
+Leadership means using this moment to double down on electrification—not to retreat from it.
+RTD’s choices today will define Colorado’s climate and air quality trajectory for decades to
+come.
+Thank you for your consideration,
+Renee Larrarte, Climate & Transportation Campaign Manager, Conservation Colorado
+Matt Frommer, Transportation & Land Use Policy Manager, Southwest Energy Efficiency Project
+(SWEEP)
+Jill Locantore, Executive Director, Denver Streets Partnership
+Matt Muir, Executive Director, Coalition 4 Cyclists, 501c3
+Becky English, Transportation Chair, Sierra Club Colorado
+Ean Tafoya, Vice President of State Programs, GreenLatinos
+Rudolph “Rudy” Gonzales, President & CEO, Servicios de La Raza
+Alvina Vasquez, Chairperson of the Board, Servicios Sigue
+Danny Katz, Executive Director, CoPIRG
+Alana Miller, CO Policy Director, NRDC (Natural Resources Defense Council)
+
+City of Boulder
+City Council
+
+October 13, 2025
+RTD Finance and Planning Committee
+Regional Transportation District
+1600 Blake Street
+Denver, CO 80202
+Dear Directors of the RTD Finance and Planning Committee,
+I am writing on behalf of the City of Boulder to express our concerns regarding the proposed use of $113
+million FasTracks Internal Savings Account (FISA) reserves for operational needs over the next five years,
+including the diversion of $69 million in 2026, as shown in the 2026 proposed budget. While we are
+deeply sympathetic to the significant fiscal challenges facing RTD, we cannot support a proposal that
+diverts reserve funding from its intended purpose: completing the FasTracks corridors that our
+community was promised two decades ago.
+As you know, and as stated in RTD’s Fiscal Policy, “the FISA will be used to provide funding to complete
+and operate additional FasTracks projects.” It represents a commitment to fiscal responsibility and longterm planning, ensuring that taxpayer dollars collected would be reinvested in completing the voterapproved transit vision, rather than being absorbed into general operations.
+We are troubled by the proposal to redirect FISA funds with no plans to backfill the account. Boulder
+residents have paid the dedicated FasTracks sales tax for 20 years and deserve to see commitments
+honored. As such, we respectfully request the RTD Finance and Planning Committee reject any proposal
+to use FISA reserves for purposes other than FasTracks corridor completion.
+We appreciate the important work that you do, and the difficult decision you face. We look forward to
+continued partnership in advancing regional transit goals that serve all our communities.
+Sincerely,
+
+Aaron Brockett
+Mayor, City of Boulder
+CC: Boulder City Council, RTD Board of Directors
+1777 Broadway, Boulder CO 80302
+
+|
+
+bouldercolorado.gov
+
+|
+
+O: 303-441-3002
+
+October 14, 2025
+RTD Finance and Planning Committee
+Regional Transportation District
+1660 Blake St
+Denver, CO 80202
+RE: Proposed Use of the FasTracks Internal Savings Account
+Dear RTD Finance and Planning Committee,
+I am writing on behalf of the City and County of Broomfield to express our concerns regarding the proposed use of
+$114 million from the $190 million FasTracks Internal Savings Account (FISA) reserves for maintenance needs and
+FasTracks debt over the next five years, including the diversion of $69 million in 2026, as outlined in the proposed
+budget. We understand the significant fiscal challenges facing RTD and the difficult decisions required. However, we
+cannot support a proposal that diverts reserve funding from its intended purpose: completing the FasTracks
+corridors that our community was promised two decades ago.
+As noted in RTD’s Fiscal Policy, “the FISA will be used to provide funding to complete and operate additional
+FasTracks projects.” This policy reflects a commitment to fiscal responsibility and long-term planning, ensuring that
+taxpayer dollars collected are reinvested in completing the voter-approved transit vision, rather than being
+absorbed into general operations.
+Broomfield is concerned about the proposal to redirect FISA funds without plans to replenish the account. Residents
+of the City and County of Broomfield have paid $95 million to the dedicated FasTracks sales tax for 20 years and
+deserve to see commitments honored. Therefore, we request that the RTD Finance and Planning Committee
+reject any proposal to use FISA reserves for purposes other than completing the FasTracks corridors.
+We appreciate the important work you do and understand the difficult decisions the Board faces. We trust you will
+take our concerns seriously and make a decision that upholds the commitments made to our community. We look
+forward to continuing our partnership in advancing regional transit goals that benefit all our communities.
+Sincerely,
+
+Guyleen Castriotta​
+Mayor of the City & County of Broomfield
+
+CC: ​
+​
+
+RTD Board of Directors
+Debra Johnson, RTD General Manager, CEO
+Michael Davies, RTD Government Liaison
+
+From:
+Sent:
+To:
+Subject:
+
+kai abelkis
+Monday, October 13, 2025 9:58 AM
+RTD.Directors; Matthew Popkin
+Purchasing new busses
+
+Hello RTD Directors,
+First a note of appreciation for your commitment to public service.
+You are all considering the purchase of new buses to replace an aging fleet.
+RTD characterized the fuel source as “Clean Diesel ”.
+There is no such thing as “Clean Diesel”! With Colorado perpetually in violation of clean air standards
+you will exasperate the health and wellbeing of our most vulnerable citizens.
+Please stop kidding yourselves and the public by framing this decision around using the word “clean” to
+excuse your possible decision.
+On behalf of every child who finds themselves in the ER because of our poor air quality be brave and find
+a truly clean energy source to run our busses.
+Cheers!
+Kai Abelkis
+Longmont
+
+1
+
+

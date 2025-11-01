@@ -1,6 +1,32 @@
+## I. Operations, Safety, and Security Committee
+
 Chaired by Ian Harwick
 
+### A. Call to Order
+
+Committee Chair Harwick called the meeting to order at 5:30 p.m.
+
+#### 1. Roll Call
+
+Also in attendance were Directors Benker and Guzman.
+
+Along with Directors and senior staff there  were 6 public participants in attendance.
+
+### B. Public Comment
+
+- Joe Meyer
+
+### C. Information from External Entities
+
+None.
+
+### D. Recommended Actions
+
+None.
+
 #### 1. Winter 2025/2026 Service Change Recommendations
+
+Presented by Patrick Preusser, Chief Operations Officer and Jessie Carter, Senior Manager, Service Development.
 
 ##### a. January 2026 Attachment A (003)
 
@@ -24,6 +50,8 @@ Chaired by Ian Harwick
 
 #### 2. Window Covering Prohibition and System Advertising Policy Amendment
 
+Presented by Director Paglieri.
+
 ##### a. Attachment A - On-Vehicle Advertising Ad Installation Guide
 
 ##### b. Attachment B - Complaints Cool Promotional Advertisements on RTD_RMNS_June_16_1999
@@ -46,4 +74,14 @@ Chaired by Ian Harwick
 
 #### 3. RTD and Customer Shared Commitments
 
+Presented by Committee Vice Chair Chandler.
+
 ##### a. Shared Commitments_RTD and Customers_ 10_15_2025_Draft
+
+### F. Other Matters
+
+Directors Guzman and Paglieri spoke.
+
+### H. Adjourn
+
+Committee Chair Harwick adjourned the meeting at 6:54 p.m.

@@ -10,6 +10,8 @@ Lead by Chair Bouquet.
 
 Read by Chair Bouquet.
 
+## IV. Roll Call - Determination of Quorum
+
 ### A. Roll Call
 
 Along with Directors and senior staff there were 70 public participants in attendance.
@@ -192,6 +194,10 @@ Yasmin Diaz Mendias Concerned Citizen
 
 Ashley Lawless
 
+## VIII. External Entities Reports
+
+## IX. Action Items
+
 ### 1. Access-on-Demand Program Modifications As Amended
 
 For the Board of Directors to approve modifications to the supplemental, premium Access-on-Demand (AoD) service for RTD’s paratransit customers as amended and described herein effective January 1, 2026**.
@@ -264,6 +270,8 @@ No second.
 
 Chair Bouquet declared the motion FAILED.
 
+## X. Discussion Item
+
 ### 1. Draft Finishing FasTracks Report
 
 Presented by Debra A Johnson, General Manager and CEO and Bill Sirois, Senior Manager, Transit Oriented Communities.
@@ -286,7 +294,13 @@ Consent, Recommended Action, and Other Matters.
 
 Chair Bouquet declared the motion PASSED unanimously.
 
+## XI. Audit Committee Report
+
+## XII. Finance and Planning Committee Report
+
 ## XIII. Operations, Safety, and Security Committee Report
+
+## XIV. Performance Committee Report
 
 ## XV. Approval of Board Meeting Minutes and Committee Reports
 
@@ -305,6 +319,10 @@ Chair Bouquet declared the motion PASSED unanimously.
 ### D. Minutes of Sep 10, 2025 5:30 PM
 
 ### E. Minutes of Sep 25, 2025 11:15 AM
+
+## XVI. Chair's Report
+
+## XVII. General Manager's Report
 
 ## XVIII. Unanimous Consent
 
@@ -327,6 +345,8 @@ For the Board to adopt the Title VI Fare Equity Analysis report for the introduc
 ##### a. Attachment A Tap to Pay and Expanded Retail Network Fare Equity Analysis
 
 ##### b. Attachment B Tap to Pay and Expanded Retail Network Fare Equity Analysis presentation - updated
+
+## XIX. Recommended Actions
 
 ### 3. Successor Strategic Plan Consultancy Solicitation
 
@@ -363,6 +383,8 @@ Motion:              Director Guissinger made the motion to approve
 Director Whitmore seconded the motion.
 
 Chair Bouquet declared the motion PASSED.
+
+## XX. Discussion Items
 
 ### 1. Window Covering Prohibition and System Advertising Policy Amendment
 

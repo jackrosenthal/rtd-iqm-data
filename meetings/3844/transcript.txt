@@ -1,0 +1,1805 @@
+2025-10-07
+RTD Study Session
+Fare Recovery Opportunities and High Volume Events
+JULIEN BOUQUET: OK. The Tuesday, October 7 study session will now come to order. We're convened
+as of 5:32 PM. I'd respectfully ask everyone attending this meeting to mute yourself unless you are
+recognized to speak.
+Thank you all for joining us this evening. The meeting recordings, along with the unofficial minutes of the
+meeting, will be posted as soon as possible on the Board's website. During tonight's meeting, we're also
+providing Communication Access Realtime Translation, also known as CART. Anyone who'd like to access
+this service should send an email to the RTD Board Office, at rtd.boardoffice@rtd-denver.com, and a link
+will be provided. Additionally, the CART transcript can be automatically translated into Spanish for anyone
+who would like to access a live transcript of this meeting in Spanish. A live stream of this meeting is also
+available via RTD's YouTube page.
+Now I'll call the roll. Treasurer Benker. Director Benk-- or Director Buzek, excuse me.
+VINCE BUZEK: Here.
+JULIEN BOUQUET: Director Catlin. No Director Catlin? Director Chandler.
+KATHLEEN CHANDLER: Present.
+JULIEN BOUQUET: Director Guissinger is excused absence. Director Gutschenritter.
+CHRIS GUTSCHENRITTER: Here.
+JULIEN BOUQUET: Director Guzman.
+MICHAEL GUZMAN: Present.
+JULIEN BOUQUET: Director Harwick is absent. Director Larsen is absent. Secretary Nicholson.
+CHRIS NICHOLSON: Present.
+JULIEN BOUQUET: --is present. First Vice Chair O'Keefe.
+PATRICK O'KEEFE: Present.
+JULIEN BOUQUET: Present. Director Paglieri.
+BRETT PAGLIERI: Present.
+JULIEN BOUQUET: Director Ruscha. And Second Vice Chair Whitmore.
+
+TROY WHITMORE: Present.
+JULIEN BOUQUET: Excellent. So I am counting 10 Directors present, 5 absent. But we do have a quorum.
+Please note that the study session does not have a section for public comment. However, anyone who
+would like to address the Board can still offer their comments in person by email, or by participating during
+the regular scheduled October committee and Board meetings.
+There are two discussion items on the agenda for our study session this evening. My aim is for us to conduct
+these discussions in about two hours, and we'll aim to wrap up about 7:30 PM.
+A quick note that there was a slight error in the agenda posted online. Our intent is to first hold our discussion
+on fare recovery opportunities and then move our discussion on high volume events. With that clarification,
+the first item is for fare recovery opportunities. And I'll give it over to General Manager and CEO Johnson.
+I'll recognize you to introduce this item and then hand things off.
+DEBRA JOHNSON: Thank you very much, Mr. Chair. Debra Johnson, General Manager and Chief
+Executive Officer.
+First and foremost, before we delve into these two very critical discussion items, for the Board's edification,
+I want to express my gratitude on behalf of myself, as well as the team, regarding the Board's interest in
+these subjects. More so, we find it very insightful from the perspective of you all wanting to garner a better
+understanding, because we believe that we're collectively better together as we look at different
+mechanisms relative to the way we deliver services, i.e. the way we're funding services and things of the
+like, especially in such uncertain times.
+So what we have in store this evening. First, we will provide a presentation relative to farebox recovery.
+And I would ask you, as a collective, to be our thought partners at the conclusion of the various topics. I
+would kindly request that you could hold comments relative to the presentations until we've completed,
+because we may just happen to answer your questions in the course of the presentation.
+At your seats, you have copies of the PowerPoint with note pages. I want to ensure that you are aware that
+you will get these presentations transmitted to you, and we will have them posted as well. I believe it's very
+important that you have these so you could be advocates and partners with us as we educate and inform
+our various customer bases, as well as the general populace, relative to where we are.
+As we talk about farebox recovery, as we know we're in the people moving people business. And with that
+as a backdrop, we provide a public service. And as we know, just by virtue of the way public services are
+delivered within this country, that they're primarily subsidized. And when we talk about farebox, especially
+in light of where we are now in post 2020, there's not one transit agency in this country that is not subsidized
+and does not solely rely on fares in which they collect to support the day-to-day operations of our critical
+business of service delivery.
+So what we will be doing, we will provide you with an orientation. I'm going to yield the floor to our very
+astute and capable colleagues here, Kelly Mackey is the Chief Financial Officer, and then Stuart Summers,
+who serves as our Chief Communications and Engagement Officer, to go through the presentation. Once
+we complete this subject, as you indicated, about two hours total, so an hour for each. Not the presentation
+but the dialogue around it, I will then yield the floor and then introduce the next item in which we will have
+our Chief Operations Officer, Patrick Poyser, in addition to Mr. Summers, once again, to provide information
+there.
+
+So with that, we'll get started and I'll yield the floor to CFO. Mackey. Thank you.
+KELLY MACKEY: Thank you kindly for allowing me to speak this evening. Kelly Mackey, Chief Financial
+Officer. Before we dive into details, I want to give you a quick overview of what we'll be covering this evening
+in the presentation.
+Could somebody be able to advance the slides, by the way? All right. Great. Thank you.
+We'll start with farebox recovery ratio, which gives us insight into how much of our operating costs are
+covered by fare revenue. Next, we'll look at fares and revenue, how fares are part of RTD's multiple revenue
+sources. Then we'll move into operating expenses, where we'll overview key trends to keep in mind when
+it comes to fare recovery. And after that, we'll discuss payment methods and programs, including fare
+payment methods, discount offerings, and pass programs. We'll also touch on proof of payment and code
+enforcement, how we ensure compliance, maintain safety, and balance enforcement with customer
+experience. And finally, we'll wrap up with next steps, outlining the actions we're taking and how we plan to
+move forward in partnership with you all, as the Board, and proponents of diversification of revenue.
+Are these slides progressing?
+JULIEN BOUQUET: Let's take a little minute for tech to work out. And in that minute, I will acknowledge
+that Director Larsen joined us at 5:37 PM. Thank you for joining us.
+Thank you all for your patience. For those viewing live, or for those who are going to watch this YouTube
+recording later, we greatly appreciate your patience.
+KELLY MACKEY: All right. It appears to be working now.
+JULIEN BOUQUET: OK. All right, we're good? All right. Thank you so much. Appreciate it.
+KELLY MACKEY: Let's begin now with farebox recovery ratio. This is a foundational metric in transit
+strategy we want you to be aware of. So the formula is simple. It's fare revenue divided by operating
+expenses, and that equals the percentage of cost recovery. So this tells us how much of our operating costs
+are covered by the fares paid by customers.
+Please notice the color coding here on the slide, as I will carry it into the next slides for your reference. Fare
+revenue is green, operating expense is red, and the ratio is blue. This chart shows these figures in the
+farebox recovery ratio going back to 2017. And in 2017, for example, fare revenue was $140 million and
+operating expense was $831 million, resulting in a 17% fare recovery ratio.
+Note that the state of Colorado has not always been consistent with the rest of the country in its legislation
+about what to include in operating expense and revenue in the calculation, but this was changed in August
+of 2021, when the statutory farebox recovery ratio legislation was repealed. Previously, there was other
+revenue included, such as federal or state grant income.
+Fare recovery has been shaped by several key factors. First, a decline in boardings since 2019. Secondly,
+shifts in our revenue strategy. Also, expansion of service across the region, and fourth, the implementation
+of zero fare programs aimed at increasing accessibility.
+Let's take a closer look at the journey of farebox recovery at RTD over the past decade and what has
+shaped it. Starting in 2011, RTD's farebox recovery hovered near 20%. But as we move through the
+
+timeline, things changed with an interplay of fare policy changes, service expansions, and external
+disruption.
+RTD adjusted its base fare multiple times. In 2013, fares increased to $2.25, then to $2.60 2016 and $3.00
+by 2019. In 2024, fares were reduced to $2.75. This signal a shift toward affordability and considering the
+impact of elasticity of demand.
+As I mentioned, in 2021, the statutory farebox recovery ratio was repealed to align Colorado more closely
+to the rest of the nation. And in 2022 and 2023, RTD launched the Zero Fare for Better Air promotions. RTD
+also expanded its network significantly, which naturally reduces the fare recovery ratio. The W Line opened
+in 2013, followed by the Flatirons Flyer service, R Line, B Line, G Line, and N Line between 2016 and 2020.
+So while these expansions increased accessibility, they also added operational costs without a proportional
+rise in fare revenue.
+Other influences included that the LiVE program began in 2019, offering discounted fares to low income
+riders. And then came COVID-19, of course, in 2020, which reduced ridership and fare revenue. So the
+result, all of these factors contributed to a sloping trend in farebox recovery, and this is a reflection of RTD's
+evolving priorities of equity, access, sustainability, and resilience.
+So next I will overview fares and fare revenue. RTD revenue sources typically, as you know, come primarily
+from sales and use tax, grants, and fares. Most of RTD's revenue, typically about 70%, comes from sales
+and use taxes. That means when someone shops locally, a portion of that transaction helps to fund public
+transportation, as economic activity in the district supports the community investment in transit.
+Next, we have grants, which make up roughly 25% of RTD's revenue. These typically come from federal,
+state, and local government programs aimed at supporting infrastructure, sustainability, and equitable
+access. Grants are often earmarked and not guaranteed year to year.
+And finally, fares contribute about 5%, which reflects RTD's commitment to affordability and accessibility
+and explains why farebox recovery isn't the sole measure of success. It's just one piece of a much larger
+puzzle. So together, these sources provide for RTD's operating budget.
+And next, we'll go into the Systemwide Fare Study. Here we go. Several years ago, RTD saw an opportunity
+to conduct a comprehensive assessment of RTD's fare structure and the discounts and pass programs in
+place. This was done systemwide in April of 2022 through July of 2023, and considered feedback that the
+fares and programs were expensive and difficult to understand. With more than a year of customer outreach
+and community engagement, feedback and insight was collected through public events, community
+conversation, focus groups, panels, surveys, and other media in order to get a comprehensive view.
+The goals of the study were to look at equity, affordability, and simplicity in the fare revenue strategy,
+ensuring that proper support was given for financially burdened customers who are reliant on transit. The
+study reviewed how fares were aligned with service value, which is a best practice, and the Board of
+Directors also wanted to ensure that fares were easy to understand, looking for opportunity to create
+standardization and streamlining of fare payment options.
+The successful results of the comprehensive study were approved by the Board of Directors in July of 2023,
+and those changes were implemented on January 1, 2024. The fare structure changes achieved the goals
+of the study by removing regional fares to create more simplicity. The fare discounts were changed so that
+they became easier for communities to understand. The LiVE program was expanded. We were ensuring
+
+consistency among our fare segments. And the pass program was simplified with fixed pricing and removal
+of some barriers to allow for more to be able to participate. And lastly, the Zero Fare for Youth program was
+implemented as a result of the study. We will review these programs in more detail later in the presentation.
+In order to give you a sense of the types of fares that are being collected, here we show 2024 fare revenue
+broken into type. The MyRide mobile ticketing comprised 31% of fare revenue last year, at $20 million,
+followed by 17%, or $11 million from fare boxes, which are the on-vehicle collection boxes, 10-Ride and
+Monthly passes comprise 17%, or another $11 million in revenue, and ticket vending machines brought in
+16%, or $10 million.
+You'll see that these are a more expensive method for RTD to collect fares, the ticket vending machines,
+due to capital outlay and labor involved with ticket vending machines, but they allow for more equitable
+access and convenience across the system. Eco passes comprised 15%, or $10 million in revenue, and
+we will discuss these in more detail later in the presentation. Lastly, college passes comprised 4%, or about
+$2.5 million. So collectively, we brought in $64 million of RTD's $1.1 billion in revenue in 2024 through fare
+revenue.
+Year to date, fare revenue has trended toward increasing use of MyRide mobile ticketing and reduction in
+use of on-vehicle fareboxes and ticket vending machines because customers are using more digital and
+modern methods of payment rather than cash payment. The College Pass and EcoPass program sales
+have increased due to marketing and communication efforts. MyRide mobile increased 8%, to $10.5 million.
+Eco pass increased 13%, to $3.3 million. Farebox declined 29%, to just $3.9 million, and ticket vending
+machine sales declined 13%, to $4.2 million year to date in 2025 through the month of June.
+We wanted to call out that it's important to note that one boarding does not equal one standard fare
+payment. So simply consider that 2024 fare revenue was $64 million and 2024 boardings were 65 million
+boardings. Revenue was less than $1 per boarding, while the standard three-hour pass was $2.75.
+Some things are important to keep in mind with revenue per boarding. Our customer transfers while in the
+system, unlimited use of the variety of passes that we offer, bulk discounts, zero fare services, customers
+exempt from fare payment, and arrangements, such as where the city of Longmont pays for their
+partnership with RTD.
+There is also no cost fare media provided through the Transit Assistance Grant Program and Access-onDemand, as you know, which provides up to $25 subsidy through 2025. In my own experience, I've been
+riding one of the commuter rails since joining RTD, and was at first curious about how many customers
+were actually paying until I was pleasantly surprised, observing Transit Police conduct fare checks and
+personally seeing how few people had not paid.
+Another important consideration is the impact of inflation on the value of fare collection. In 2025 dollars, the
+2013 fare of $2.25 was worth about $3.10 today. That increased to $3.49 and then $3.79. But now the
+$2.75 base fare rate for 2024 is worth only about $2.62 just a year later.
+All right. Taking a brief look at operating expenses. I know you all have probably seen this before. This is
+the 2025 operating expense budget. The fare recovery ratio is revenue divided by operating expense. Keep
+that in mind. This is a view of the 2025 budget for operating expense, which shows that, as is typical in
+transit agencies, wages and purchased transportation generally comprise well more than half of the
+expense.
+
+Services include supplemental premium services here, software, professional services, maintenance
+contracts, security contractors and more. A smaller portion of the spend is allocated to materials and
+supplies, utilities, insurance, leases, and rentals. Other expenses include things like conferences, travel,
+training, employee recognition, and contingency funds.
+All right. Next we'll take a look at some of the factors impacting expenses. As you know, costs have
+increased with inflation. This impacts things like, potentially, fuel, materials, and supplies. Utilities, salaries,
+and wages continue to increase. Our staffing has increased for good reasons, as well as we have
+incremental contract increases that are incorporated into our budget and financials.
+This is a good view of the cumulative impact of inflation over the course of December 2019 through May
+2024. So cumulative for the US, inflation was 25%. And broken down below that, you can see for things
+like tools, hardware and supplies, it was 26%. Fuel and utilities were impacted 29%. Electricity was
+impacted 32%. And transportation services in general were impacted about 34%.
+This particular view shows the US transit operating expense versus service growth across the country. So
+operating expense has increased significantly as compared to vehicle revenue hours. Operating expense
+is the black line on top, and the vehicle revenue hours are the blue line. Between about 2009 through 2019,
+operating expenditures increased 111% as compared to vehicle revenue hours increased only about 54%.
+Next, we'll take a look at the US transit fares as a proportion of operating expense. This breaks down these
+by the different types of transit used across the industry in terms of mode. So transit expense as a proportion
+of operating expense for heavy rail is 24%. For example, commuter bus is 19%. Van pool gets as high as
+68%. You can see buses here listed at 9%. Light rail is at 7% across the US.
+Next, we will overview payment methods and discounts so you get a sense of what these are for RTD. The
+fare payment methods that RTD has in place are a combination of things like monthly passes and ticket
+books. We have ticket vending machine sales. We have cash on vehicles that are collected. RTD MyRide
+app provides mobile tickets that includes personal, College Pass, and EcoPass accounts, as does the
+MyRide Card. We have a Buff OneCard for University of Colorado and coming soon, in implementation
+right now, is tap-to-pay.
+Next, we have an overview of different fare media and passes. And this is a very interesting slide, I believe,
+because it breaks down four of the most common fare collection channels, as well as gives you perspective
+on what it actually costs to collect those fares, which is important to keep in mind.
+So starting at the top, farebox has an estimated annual cost of at least $900,000, and that brings in revenue
+of $11 million. So therefore it costs about 8% to actually collect that fare. Looking at Masabi, which is RTD's
+contracted mobile and account-based ticketing partner, that cost is approximately $2.5 million. On top of
+that, we have over $1 million in credit card transaction fees that were charged, and that brings in revenue
+of $38 million. So the percent of the fare that is spent on collection is over 9%.
+But going down to TVMs, ticket vending machines, on the bottom line. So the estimated annual cost is
+actually more than $2 million, because we also need to account for things like parts, other labor, IT resource
+allocation for that, in addition to credit card transaction fees. Those bring in $10 million in annual revenue.
+So the percent of fare that's spent on collection is over 21%.
+Lastly, for my section, I will touch on the fare discount and zero fare programs. So we have these available
+for individuals over 65 years of age, those with disabilities, Medicare recipients, the LiVE program
+
+participants, of course, youth, with Zero Fare for Youth, and active duty military members and other fareexempt groups. And lastly, the Transit Assistance Grant Program clients and participants.
+So with that, I will turn it over to my colleague Stuart Summers.
+STUART SUMMERS: Thank you. As introduced, I'm Stuart Summers, Chief Communications and
+Engagement Officer. I'm going to take you through fare and pass programs and give a succinct overview
+of some of the programs that we offer here at RTD. We'll talk about the EcoPass program, the neighborhood
+EcoPass, sometimes referred to as NecoPass, college pass, semester pass, our LiVE income-based fare
+discount program, and then TAG program, the Transit Assistance Grant program.
+So starting with the EcoPass, this is an annual prepaid transit pass that's made available through
+participating employers. The passes are available instantly through the MyRide mobile app. Or for
+individuals that do not want to use a smartphone, they can use the MyRide card.
+Current participation right now is just over 580 80 employers and 14 large employers and master contracts
+are providing this for their employees. It's at about 75% of what we saw pre-2020. It's valid on all fixed route
+bus and rail services. And then the pricing, the way that the pricing is broken down, we use what are called
+the service level areas, or SLAs. And so the pricing is fixed for two years. And next month we will post the
+pricing on our website.
+But the way this works out is we have SLA of an A/B area, a C, and a D. D is the most expensive. This
+would be the airport zone. C would be primarily downtown Denver. This is an area that has high access to
+transit frequency and service levels. And then A/B is a lot of the areas outside of downtown Denver.
+Neighborhood EcoPass. This is our annual prepaid pass for people that live in a specific neighborhood. A
+neighborhood can be a community comprised of single family homes. It could be an entire neighborhood.
+It could be a single apartment building or a complex. It could be a mix of all of the above.
+And so this is available to neighborhoods that want to put in a contract. It requires that annual contract that
+aligns with the calendar year. And the initial pricing is set at $125 per household. And that doesn't matter
+how many adults live in that household. And obviously with Zero Fare for Youth, children are not part of
+that household consideration. It's utilization-based pricing after those first two years, and there's a contract
+minimum of 4,000 per neighborhood EcoPass contract.
+Currently, happy to announce, that the program has more than 70 NecoPass contract neighborhoods. This
+is the largest number that we have ever had in RTD's history. And so year to date, we're at 70 and we still
+have three months left in the year, and we're anticipating that growth to continue. But there's some good
+news there, as the team's been very active.
+Next is the college pass program. So college pass is priced individually based on the number of students
+that attend a higher education institution. This is a very ideal low cost option that would be included in a
+school's tuition and fees. So the school will charge this cost. It's for all students, and the cost breaks down
+to $15 per student for both full-time and part-time students.
+After two years, the contract is then based on utilization. And utilization pricing means the number of times
+that the MyRide app or MyRide card is tapped on a validator, and that's how utilization is set. It's based on
+an academic school year, so a fall to spring semester, and the contract minimum is $9,000 annually.
+Currently, there are seven higher education institutions that are part of the college pass program. This
+
+includes the Colorado School of Mines, University of Colorado Boulder, University of Denver, and Naropa
+University, to name a few.
+From the fare study and equity analysis, we introduced something called the semester pass program, and
+this is an opt-in option. So for schools that don't want to do the all in, all students, this is a great option for
+smaller schools, community colleges, and trade schools. Pricing is based on the number of passes that are
+issued, so it directly aligns with the students that opt in. There's no contract minimums, so this works great
+for smaller institutions. The cost is $70 per student per month, so it breaks out to be cheaper than a monthly
+RTD pass by about $18.
+The school is invoiced at the end of the semester for the number of students that cards, or the program
+was issued to. And currently this is the model that Auraria Campus is utilizing, as well as Regis University.
+They're both utilizing the semester pass program as an opt in.
+Next, I want to transition to the LiVE program. So as Kelly mentioned, the LiVE program launched in July
+2019. This provides a 50% discount on fares. Eligibility is valid for one year and expires from the date that
+it's approved. Approvals take about one business day turnaround. So if somebody submits the application,
+it goes through the PEAK, which I'll talk about in a minute, and then RTD will issue the card the next
+business day. We're very proud about the quick turnaround for that.
+The LiVE discount is applicable for access-a-ride and Access-on-Demand, starting with the changes on
+January 1. And you can see a breakdown of the pricing for the LiVE on fixed route, and then also for Accessa-Ride in the table. Eligibility for the LiVE program available for anyone 20 years or older-- obviously,
+anyone under that age would qualify for Zero Fare for Youth-- up to 250% of the federal poverty level, a
+valid address and a recent photo are required. And a valid address, we will use the address of a service
+organization or a service provider if they're living at a shelter. We just need a location to mail the card to.
+We also have made arrangements for people to come to this building and pick up their cards, if they so
+choose. We really try and go above and beyond to make sure we're providing these cards in a way and a
+manner that people can access them.
+The income verification is handled through the PEAK site, which I'll get to in a minute. And one of the
+reasons that we feel that this program has been very successful over the last year is the number of outreach
+and promotion that's being conducted across the district.
+And so we have standing meetings at several of the shelters every month. We go to food pantries. We work
+with a lot of the community groups, really trying to make sure that the people in their community that they're
+serving are aware of this program. We also will help people fill out the application over the telephone. They
+can do it via paper during some events. And we also have laptops that we take out and help people that
+may not have immediate access to the internet, that they can fill out the application materials at one of the
+pop-up events.
+This shows a breakdown of applications submitted month over month, year over year, going back to
+January 2023, the number of applications approved, and then what we call enrolled participants, or "active
+participants" in the LiVE program. This information is included in the monthly customer and community
+engagement reports that are provided in the Board briefing documents, just so if you wanted to ever see a
+snapshot of where the metrics are at any given moment.
+
+I want to point out that there's a difference between applications submitted and applications approved. And
+the first question you're going to have is, why are you denying people access to the LiVE program? By and
+large, those applications are being denied because the individual is under 20 years old and they would
+qualify for Zero Fare for Youth. So what we will do is transition them into the Zero Fare for Youth program,
+help them to have information about that. If they don't have a valid school ID, so that they can show that
+they are 19 or under, we'll provide them a youth-issued card at that point. But that's really the difference
+between an application submitted and approved. A lot of it is due to age.
+Currently, at the end of August, we had 18,424 enrolled participants. This you can see going back to 2023,
+It's that same information, but just on a line graph. You can see about a three-fold increase going back. I
+credit the team that's been very active going out into the field. I mentioned those pop-up events. They are
+doing mailers. They're getting out, making sure that people are aware of this program. We know there's
+work to do. We haven't uncovered every stone, but we want to make sure that people are well aware that
+this is a program, it's an asset, and it's available for those members of the community that would qualify.
+I mentioned that this is all handled through the Colorado Program Eligibility and Application Kit, also known
+as PEAK. We rely on PEAK as the system for applications for LiVE. And I mentioned that we'll do phone
+and in-person assistance. Both Denver Human Services and RTD, we will help people through this
+application process. Customers can apply for other programs at the same time that they are applying in the
+PEAK system.
+And income eligibility can be as simple as, I have no income. And so you can click a button in the application,
+you can put that into the application portal, I have no income, and that is what they will verify and use as
+the basis for meeting the income eligibility.
+And then, I believe this Board is well aware of an exciting program that launched a couple of years ago
+called the Transit Assistance Grant, or TAG program. This is our second year that we've offered this grant
+program. It's meant to assist organizations with what we call immediate needs. It's not meant to be a longterm solution, but it's really meant to help customers be able to have access to our services before they
+can enroll in the LiVE program or other programs in the district.
+It's really focused on unhoused individuals exiting incarceration, individuals who may be at a domestic
+violence shelter, people needing to access other services across the district. Grant recipients receive
+tickets, fare media from RTD, via this grant program and then required to distribute them at no cost to their
+clients. They also have to provide reports back to RTD, how those are issued, who they're issued to.
+$1 million was allocated this year to 150 organizations. They go through an application, a grant application
+process, and part of the requirement is they are required to promote the LiVE program as part of issuing
+that fare media. We want to make sure that this isn't meant to be a long-term solution. We're getting people
+into what would be a long-term solution.
+And then I'm going to pivot into what we call proof of payment and code enforcement. So what we call PoP,
+or Proof of Payment, is really wanting to make sure that customers and members of the public are adhering
+to our customer code of conduct. This Board, in 2023, approved an updated and revised version of the
+customer code of conduct, now known as Respect the Ride. There's several fare-related prohibited conduct.
+It really comes down to having the proper fare within a paid fare zone, meaning being on a vehicle, having
+the fare you need to get to the place you're trying to get to, and then exiting that vehicle once your fare
+media has expired or reaching your final destination.
+
+One question we get often is if I have a three-hour pass and it's about to expire and I get on the bus, do I
+have to get off as soon as it expires? No. You don't have to exit the vehicle until you reach your destination.
+It just must be valid when you step aboard that vehicle. That's an important thing to point out.
+So proof of payment code enforcement. This is also in the Board briefing documents. We provide this
+monthly snapshot via RTD-PD and Chief Martingano about some of our safety and security metrics. We
+call it our monthly activity report. And included in that report are metrics related to proof of payment
+conducted by RTD-PD officers and our contracted security personnel.
+As an agency, our first approach is what we call education first. We want to make sure that people are
+aware of what fare's required. We do it in the spirit of maybe they don't know, helping them to understand
+what they may not have. And so we first approach with education prior to issuing a citation.
+Between May 2024 and May 2025, we had a 500% increase in what we call those rail fare checks, or proof
+of payment. And all citation fees go to the local municipality. So we do not collect as an agency, when we
+issue a citation, any of those citation fees. Those amounts all vary by jurisdiction and go to the local
+municipality.
+This table right here is specific to rail and it's last month. So these are the numbers from September 2025
+of our proof of payment contacts that were made across the rail system, light rail, commuter rail, and then
+totals. If you look across that first line, this is what we call proof of payment contacts. This is where an
+individual is contacted by an RTD-PD Officer or a contracted security to ask if they have valid fare.
+And so they will-- if you've been on any of our commuter rail lines, they go up and down asking for everybody
+to show their fare. And so you can see these contacts where they may say, here's my paper fare media,
+here's my valid mobile ticket. And then a scan is where they will actually pull out their scanner and scan it.
+So you can see how many are people that had the fare check at a contact, how many were scanned. And
+then from that number, the third line down, how many were found to be without fare.
+So on light rail, 4,300 during the month of September. Commuter rail, just under 17,000, for a total across
+the system of 21,000 from the contacts made. Below that, we have mitigations, written warnings, and
+citations issued.
+Mitigations would be things like the person purchased fare at that moment, so maybe they didn't validate
+or activate their fare prior to being contacted, and then they activate their fare in the MyRide app. Maybe
+they step off, they purchase their fare and get back on the vehicle, or they exit the vehicle at the next stop.
+And that's often the case.
+A written warning, you can see that there were about 1,300 across the system last month. This would be a
+written warning with their name that's issued, and then a citation. You can see there are 76 citations last
+month related to this. The violator rate is total without fare divided by the number of contacts that are made.
+And so across the system, about 4.5% of a violator rate of not having proof of payment.
+And then fares per boarding. So about approximately every 1% of fare evasion equals about $640,000 in
+lost fare revenue. The other thing that I think is important to emphasize, and we hear from this Board and
+we understand the severity of it, is we want to make sure that we are emphasizing that public trust. We
+want to make sure that there's an increased perception related to RTD being good stewards of taxpayer
+dollars, and that we're doing everything we can, implementing tactics that support that in enhancing public
+trust.
+
+You can see there's this screenshot of our 2025-26 annual scorecard. There's tactics related to fare
+enforcement, proof of payment, and making sure that that perception of enhancing public trust is being
+bolstered by those efforts.
+And then to round out the presentation, before we take questions, I want to talk about some near-term
+tactics that are underway. We have our ticket vending machine assessment and procurement process that's
+underway. Looking at the size of the ticket vending machines, are there opportunities to reduce some of
+that overhead cost, putting in smaller ticket vending machines, reducing the number of machines at the
+same location.
+Tap-to-pay. Kelly mentioned that there's user acceptance testing underway. We're on target to have that
+launch prior to the end of the year.
+Cash digitization and our retail network expansion. This is where individuals can go into CVS or a 7-Eleven.
+They can load money onto a MyRide card, which is increasing access and availability for individuals who
+may be unbanked or underbanked.
+We also have a project underway, what we call our Customer Journey Mapping. And this is really to
+understand all of the different customer types, how they enter the system, what are the decision points they
+have as they come into RTD prior to even stepping aboard the vehicle. How do they access fare? What are
+their options? What's working well for them? What are the pain points and the barriers that we can explore
+and try to mitigate?
+And then lastly, we have a Customer Experience and Transit Utilization Plan that's just being finalized to
+launch next month. This is really focused on how do we enhance, what are the tactical steps we can take
+to enhance the customer experience. And when we say transit utilization, increased boardings, how do we
+ensure that we're providing some of these opportunities to increase access to the system, getting people
+aboard, understanding how are they making those decisions. And then you'll hear in the next presentation
+some more about this related to high volume events.
+And then the last slide, Directors partnering with staff. How can you help us? So first and foremost, we need
+you to be part of our education and informing of our customers and stakeholders. You got a lot of information
+tonight. We wanted to make sure that you are grounded in some facts and truth. We want to make sure
+that as you're having conversations that you're sharing this information with others.
+We also want to hear your ideas, generating ideas for additional revenue diversification. Are there things
+that we're not thinking about that you may be aware of that you can bring to the table and help staff as we
+continue to talk about our farebox recovery?
+And with that, we are happy to entertain questions. Thank you.
+JULIEN BOUQUET: Perfect. Well, I just want to thank all of you guys for being present. Ms. Mackey and
+Mr. Summers, excellent presentation, very informative. And I think not only this study session, but our next
+study session, as well, is to help answer some questions that we get from our constituents. And hopefully,
+for those who either watch this live or watch the YouTube recording later on, it's informative ultimately, and
+that's what we really hope for.
+Directors, any questions we have? Yes, Director Chandler.
+
+KATHLEEN CHANDLER: Thank you very much for this presentation. I really enjoyed it. I learned a lot. And
+it's good to have this information.
+On the semester pass program, you have-- that's slide 31, I think-- you have current Auraria campus and
+Regis University. We just opened that new Colorado, or the Community College of Aurora. And I would love
+to see them partner with us. So I think there's a great opportunity to do that. So I would suggest that that
+might be our next opportunity to connect with them, since they were so gracious in that ribbon cutting
+ceremony.
+And there's a huge area over there. There's a ton of Northrop Grumman. There's a whole bunch of areas
+over there have a lot-- and there's all of those new apartments that are opening up over there. It's a really
+up and coming area. There's a ton of opportunity. Pickens Tech is right up the street. So there's a lot of
+opportunity in that three mile area of where the Community College of Aurora is. So that would be my
+suggestion.
+STUART SUMMERS: Yeah, if I may. Thank you. That is fantastic. Thank you for that comment and for that
+question, Director Chandler. Trust and believe we are reaching out to them. There is a lot of enthusiasm
+on that campus. They are very excited. You were at the ribbon cutting event. You saw that enthusiasm,
+having that bus stop back. They want to leverage it.
+So I think semester pass program is a fantastic way to introduce them into the pass programs. I think that
+makes sense, that opt in, see if it's successful. And then as we explore down the road, the team has been
+reaching out and working with them. So yes, we are direct alignment, but that enthusiasm is there.
+KATHLEEN CHANDLER: And the area around there too. I mean, there's so many opportunities, because
+there's three or four other technical schools there. There's a high school there. There's a ton of businesses
+there. So yeah.
+JULIEN BOUQUET: Thank you, Director. Director Buzek.
+VINCE BUZEK: Thank you, Mr. Chair. My comments relate to the fare collection process. And it's always
+kind of been a pet peeve of mine. I ride the N Line. And since it's opened, I have never been asked to show
+a fare I've never seen the Transit Police or transit security.
+I think once upon a time, we had transit safety ambassadors. I think that's what they were called. And they
+would ask for fares. And I don't know why we don't have our federally mandated second employee that's
+on these commuter rails check for fares. I can't believe that the assumption should be when they ask for a
+fare, they will immediately be assaulted.
+I have traveled all over the world and ridden trains everywhere, and I'm always asked for a fare, just by an
+employee. I don't know why we don't do that and put those people to work. Because when I'm on the N
+Line, I either-- they're gone, I don't know where they go-- or they're chatting with people they know on the
+train. That's great, I suppose. But why can't they ask for a fare? People up here have become accustomed
+to knowing they'll not be asked for a fare, and they don't buy the fare.
+So if we're going to charge a fare, we need a better mechanism for people to ask for the fare. Our bus
+drivers tell people to get their dog off of the seat when somebody brings their service dog on and the dog
+gets up on the seat, or their mini horse, I suppose. But I've not seen that on the N Line. It's just-- I don't
+understand it. So maybe somebody can enlighten me as to why we don't try to collect fares. Thanks.
+
+JULIEN BOUQUET: Thank you, Director. Ms. Johnson.
+DEBRA JOHNSON: Yes, thank you very much. And thank you very kindly, Director Buzek, for that question.
+Just for everybody's edification, I will provide some context and then address the question that's posed,
+because it's something we're working on.
+As you know, the N Line is directly operated by RTD, whereby it is commuter rail. We do have a second
+crew member. Traditionally, second crew members aren't used as proof of payment officers. With that as
+the context going forward, we are working through that, quite naturally. I recognize the comment that was
+made relative to Director Buzek traveling around the country and outside of the country, and there are
+different proof of payment mechanisms.
+One thing for certain that here in the US, as we talk about assault on transit workers, the vast majority of
+those basically occur from fare disputes. So I just wanted to provide that context, as we worked on higher
+penalties relative to the state of Colorado, in reference to the most recent legislation that was passed last
+year.
+But that does not negate what you stated, and it's something that we're working through, as those are
+represented employees here at RTD. And considering that we have conductors solely on the N Line, it's
+something that we're working through relative to job descriptions and what they currently say with organized
+labor. Thank you.
+JULIEN BOUQUET: Thank you. Director, does that satisfy?
+VINCE BUZEK: Yeah, I appreciate all of that. I don't anticipate an employee who asks for a fare and
+someone says, I don't have it, to argue with them. I mean, they can just move on to the next person. I think
+there are ways to tone things down and to make situations not so aggressive.
+But anyway, hopefully we can get something moving. I think that would be-- it just sends a message,
+because you have a lot of people sitting on that train that paid for a fare, and they're never asked to show
+they're fare. And I think they feel insulted because, I paid for a fare and no one's asking for me to see it.
+Thanks.
+JULIEN BOUQUET: Thank you, Director. First Vice Chair O'Keefe.
+PATRICK O'KEEFE: Thank you, Mr. Chair. Sorry if the sound quality isn't great for me. You guys cut off for
+just a second. So I'm sorry if this is a little redundant, but do we know why people are choosing different
+fares? I'm not talking- EcoPass is pretty easy. Their employer bought it for them. School partnerships,
+obviously, from the school. But what about people that are choosing web platform versus a fare box versus
+a vending machine? Is it habit or means, or is there-- because there clearly is a big discrepancy in our
+overhead to carry that. So if we get that information, maybe we could drive people and That would be some
+found money. Thank you.
+JULIEN BOUQUET: Thank you. Ms. Johnson.
+DEBRA JOHNSON: Yes. Thank you, Vice Chair O'Keefe, for your question or your comment. You did cut
+out, but I think you asked, do we have any insight into why people are choosing various fare media, and if
+we had an understanding, and how might we be leveraging that. I believe just boils down to-PATRICK O'KEEFE: Yes, ma'am.
+
+DEBRA JOHNSON: Yes, thank you very kindly. It boils down to preference, but more specifically, when we
+do customer surveys, we do inquire as to the forms of fare media. And that gives us some insight whereby
+we leverage and we market. For all intents and purposes, it's easy to use whatever's in your wallet, because
+it takes away that trepidation and angst from trying to discern how might one access different fare media
+that the agency offers.
+But I will yield the floor to Chief Communications Officer Stuart Summers to provide some more light, but
+just wanted to share that from just a global perspective. Well, not global, maybe a national perspective.
+Thank you.
+STUART SUMMERS: Thank you. The only thing I would add is we talked about these customer journey
+mapping that is underway. A big part of that is understanding why people are selecting the fare media that
+they do and where they're purchasing that fare media.
+And so when we talk about this customer journey mapping, essentially, there'll be 8 to 10 large category
+groups of customer profiles that then will break down into smaller categories. So this could be a first-time
+visitor to Denver. What's going to be their choice? Do they want to download an app? Do want to use tapto-pay? Probably they'll want to use tap-to-pay. They're here just for a short time.
+People with limited English proficiency. People that may be a family, looking at all these different profiles
+to understand what's their preference, what's their comfort levels, and then also understand how can we
+remove some of those barriers if there is a preference that they have but they would prefer to do something
+else, but it seems to have some barriers related to it.
+So that customer journey and that mapping that will be underway will be taking 8 to 10 of these profiles,
+really trying to understand, why are people selecting the fare media that they do so that we can understand
+how can we either leverage those opportunities or remove barriers so it can make it easier for them.
+JULIEN BOUQUET: Thank you. I got Nicholson, Whitmore, Guzman, and then Chandler.
+CHRIS NICHOLSON: I'm waiting for you to acknowledge me because I don't like to speak out of turn.
+JULIEN BOUQUET: Oh, I haven't acknowledged you yet.
+CHRIS NICHOLSON: OK.
+JULIEN BOUQUET: You're acknowledged.
+CHRIS NICHOLSON: OK. Thank you. There we go.
+Thank you, Mr. Chair. So at least when I've been on our system, over the last eight years, one of the most
+common situations that I observe are individuals who appear to be unhoused running into the barrier of not
+being able to pay for the fare and getting waved on by an operator or being allowed to remain on the vehicle
+as a result of getting asked to do a fare check.
+Do we have a strategy-- given our efforts to improve and increase fare collection, do we have any kind of
+strategy or thoughts on the ways that we can increase our fare collection from individuals experiencing
+homelessness and what we can be doing to try and recoup additional revenue from that community.
+JULIEN BOUQUET: Ms. Johnson, and guessing by the movement, Mr. Martingano.
+
+DEBRA JOHNSON: Yes, I will start and then yield to Chief Martingano. So, quite naturally, as we approach
+this, Secretary Nicholson, it's from the lens of firm compassion. It's not a crime to be unhoused. And as we
+know, by virtue of all the work that we've done to create a welcoming transit environment, that oftentimes
+individuals that are unhoused will seek refuge on public rights of way. And there could be the appearance
+of one being unhoused, and they may not be unhoused.
+And so recognizing that the Chief, under his leadership, working with our jurisdictional partners, have been
+intentional relative to how we're approaching this as we move forward, and there's support mechanisms as
+well. But I just wanted to provide that context before yielding the floor to the Chief, because we've made
+great strides as relates to where we are currently in reference to varying customer segments that have
+been on board and people's perceptions, attitudes, and opinions about who those individuals are.
+Because we have to ensure, by virtue of the fare studies recommendations, where we talk about equity,
+simplicity, and accessibility. And so we do not want to be discriminatory in our practice, but recognizing that
+it is important for us to ensure that we are being good fiduciary.
+So with that, Chief, I will yield the floor to you to explain what you and your staff are doing. Thank you.
+STEVE MARTINGANO: Yeah. Thank you. Steve Martingano, Chief of Police.
+In regards to that, there's different things. There are a lot of organizations, outreach groups that do provide
+fare. So just the assumption that these individuals don't have fare is not totally accurate. There'll be days
+in district shops where a lot of organizations come in and buy ticket books to hand out. The hospitals hand
+out fare as well, depending.
+But then when we encounter somebody, we have to take over the whole entire circumstance, right. If it's
+13 below 0, the next stop doesn't have any type of shelter. Sometimes, again, compassion. Our officers will
+speak with those individuals to explain, educate first. That's one of our strategic goals is to educate the
+code of conduct and work with those individuals, getting them to a safe place.
+In regards to some of those mitigation efforts, those are things where we might tell someone, hey, get off
+the next stop, buy the fare. But if these individuals do not have the money, we don't want to put them in a
+situation where they're not going to succeed in life or within that climate. So we work with all that as well.
+We'll reach out to different organizations.
+I just met today with Denver South, and we had all the police entities, Douglas County, Arapahoe, Lone
+Tree, as well as Greenwood Village, talking about coming up for the winter months. That seems to be an
+issue, obviously, with our weather changes, how we're all going to work together to make sure that we have
+organizations, homeless outreach, places that these individuals to go and make sure that we're telling them
+while we're on these vehicles. We're talking about a small amount of fare as opposed to somebody's life at
+times. And that's decisions that our officers are making and hopefully in a positive way.
+JULIEN BOUQUET: Secretary, does that satisfy?
+CHRIS NICHOLSON: I have one quick follow-up for GM/CEO Johnson, if that's all right.
+JULIEN BOUQUET: Yes, sir.
+CHRIS NICHOLSON: Thank you very much. So to follow on that and to piggyback a little bit on what Chief
+Martingano just said about, it's a small amount of fare versus someone's life, and we don't want to be
+
+subjecting them to extreme cold if they have no money. When it comes to our existing fare policy, is the
+purpose of the TAG program, in essence, to ensure that individuals who lack resources, who do not have
+money, can access transit, that our goal is to make sure that anybody who really is completely destitute
+can access transit?
+JULIEN BOUQUET: Ms. Johnson.
+DEBRA JOHNSON: Thank you, Mr. Chair. Secretary Nicholson, you have wonderful hearing. I just
+whispered to the General Counsel, that's what the TAG program is for, and then you just said it.
+So, yes. The whole notion behind the Transit Access Grant program is just for that, recognizing that
+individuals may be seeking help. This is a quick turnaround. And that's why we allocated, with the support
+of the Board, monies in our budget when we brought this forward and had garnered that input during the
+course of that 18-month fare study and equity analysis.
+Further to the point, as you heard, Mr. Summers state during the presentation, that the TAG program is the
+nexus to the LiVE program. And more to the point, it is relative to those entities whereby if they don't have
+an address that they could actually get their cards. I know personally from visiting the harm reduction center
+a couple of years ago when we were embarking upon the welcoming transit environment, and I went there
+and spent a couple of hours whereby there's cubbyholes, for lack of a better term, whereby they could store
+their materials. Well, that's-- their materials, their possessions. And so that is the intent, sir. Thank you.
+CHRIS NICHOLSON: I have one very quick follow-up.
+JULIEN BOUQUET: Very briefly, Secretary.
+CHRIS NICHOLSON: Very briefly. Why what type of fare media do those people receive as part of the TAG
+program? And how do we verify that they're the ones that are using it and not selling it to somebody else,
+or trading it for something?
+JULIEN BOUQUET: Ms. Johnson.
+DEBRA JOHNSON: Yes, thank you very much. So like with any program, there is an application process
+and we're entering into agreements with these entities as we provide ticket books and understanding what
+their intent is going forward. We can do random audits and things of the like. But I can't sit here and tell you
+with 100% assurance that somebody is not being disingenuous, because that's just the nature of where we
+are.
+How many people are giving their transit pass that they may have to somebody else that looks youthful
+that's a student? I can't address that question. But I do believe that with the advent of the program, it is
+serving a need. And when we think about any kind of leakage that we may have is very small. And in
+reference to the tickets that they are provided, I do know from the vantage point of the various entities with
+whom RTD is engaging that there is processes there. There's no different from when they assign them to
+a shelter over a course of time, if, in fact, they need to seek some kind of residential spaces during the
+winter months or things of the like.
+So I just have to be honest and transparent. I can't guarantee you that nobody's doing that. But for all intents
+and purposes, from the feedback that we've garnered throughout the course of this two-year program, I
+would find it far and few between that somebody would do that, because obviously they could just get on
+to the system, as you indicated in your previous comments. So to go through all of that to have actually
+
+valid fare, I would think would be a lot of work on that individual's part if they wanted to be disingenuous.
+Thank you.
+JULIEN BOUQUET: Thank you. Secretary-- or excuse me, Second Vice Chair Whitmore.
+TROY WHITMORE: Yeah, this question-- I'm sure I've had the answer several times, but maybe from Ms.
+Mackey or Ms. Johnson. It seems that our fare percentage of revenue in my almost seven years on the
+Board has fluctuated a little, 5%, 6%, 7% at times.
+I guess my question is, knowing that our financing structure is maybe unique throughout the transit world,
+but is that a typical number, 5%, for maybe a transit agency that gets general fund money in a bigger way
+than we do or something? Maybe that throws that off. I'm just curious if that's typical. And there's a lot of
+seasoned veterans from a lot of different transit agencies. So I'm sure you all have numbers. Just curious.
+DEBRA JOHNSON: Thank you, Mr. Chair. Thank you, Second Vice Chair Whitmore, for your question.
+It really is contingent upon the transit agency. We have an open system, so it's not as if you have to go
+through a fare gate and use some kind of fare media to access fare gates. That's something in and of itself
+that's quite different, as opposed to just being to be able to board a vehicle. So that comes into play.
+Just in light of what you saw with the presentation, farebox recovery is down with all agencies, transit
+agencies. I'll say with most transit agencies. I can't speak to 446 transit agencies in the country. But I will
+say for the vast majority, transit is down. Transit fare collection has been down. There has been quite a few
+different mechanisms that have been leveraged relative to closed systems that people have instituted.
+But I would say for an open system, that's really hard to gauge, because as we go forward and we talk
+about proof of payment concepts, that's what we have. And so with having it just open, I would say the
+decline that we see, more or less, has a lot of external factors that come into play. And so there's typically
+fluctuation, in my limited experience in the transit agency, in the transit sphere, which is 30-something
+years. But this is the first transit agency for which I work that's an open system.
+TROY WHITMORE: Thank you. Very helpful. Any other comments?
+KELLY MACKEY: I concur with what GM/CEO Johnson was saying. It does vary, especially by metropolitan
+area. If you think about the Bay Area, for example, theirs might have a higher proportion, but that's based
+on just demands and differences in the system. So it varies drastically in terms of the needs and
+complexities of systems across the United States.
+TROY WHITMORE: OK. Thank you both.
+JULIEN BOUQUET: Thank you. Director Guzman.
+MICHAEL GUZMAN: Thank you, Mr. Chair. I've got a couple of thoughts about things, but I want to go back
+to slide 4, on that last question, which is fare revenue divided by operating expense equals the recovery
+percentage. When we're talking about an open system and the amount of service hours that we are
+operating, that's going to impact that number greatly. And I think that's where the size of our agency, which
+is awesome, also becomes the curmudgeon piece of trying to figure this out, because we're running so
+much service and trying to grow it more. So that looks like it's shrinking the recovery rate, but we're just
+offering more in the ways that we can. That's just a thought on the last question.
+
+So you asked for some feedback and thought partnering. Here's my thought partnering. We have discussed
+multiple times over the last 2 and 1/2 years the [INAUDIBLE] system with regard to being an open system
+and what we can do in terms of constructing some mitigations around different things, which include criminal
+activity, but also the difference between an open and a closed system, and the huge financial cost of
+investing in creating a closed system on something that was not designed to be closed.
+But therein lies the rub. Do we put the money in to close the system and then create a barrier to access
+that you can only get in to the trains, for example, the commuter rail or the light rail, if you have paid your
+fare to begin with? Very similar to a closed subway rail system, let's say the New York subway system or
+the Chicago elevated trains. Yeah, we got a lot to cover there. And that's a big investment. So there's a
+question there about what we can and can't do from a reality point of view.
+With respect to the difference between college pass as an insurance buy-in for all students, and then it is
+considered after the first year in terms of usage versus a semester pass. I would highly suggest if any of
+you are engaging with any of your community colleges, get them to the insurance policy college buy-in
+pass, where it's $15 a student through a fee, rather than the $70 amount per month.
+Because Executive Board Manager Jack Kroll and I, former regent of CU, had to help me explain the
+difference to UCD about what Boulder does in the CU system. And that was with former Finance Chair
+Doug Tisdale, because AHEC got upset about what they perceived to be a major increase after they
+essentially paid for their students' passes and then went to that semester buy-in program. It's a very high
+cost burden for students, and so it would make more sense to pay a $15 fee at the beginning of the year
+and have the pass for the academic year than another way.
+So if you enter those conversations in Aurora, please encourage them to go to the other side and not do
+the student buy-in, because that puts a lot of burden on the student who is already paying for classes. And
+I think that we should probably engage that way with both Regis and with AHEC. I would highly encourage
+that in any conversations we have going forward, because that is a headache and a half, and trying to help
+them understand it was not easy, and there was a lot of pushback because they believed we were creating
+a 750% increase on their fare.
+With respect to the question about TVMs. Thank you for sharing the cost of purchasing those fares through
+those different methods. I want to say that because as an hourly employee who was often working until
+7:00 or 8:00 at night, our customer service window is shut down and not taking cash or credit payments in
+Chestnut Pavilion to buy fare. So the only option left then is to go to the TVM and buy a booklet from the
+TVM down in Union Station, the red vending machines that are across the way from the customer service
+window.
+And this is not a dig on our customer service department, but we have hours of operation. So as an hourly
+employee, I often find myself running down there, missing the window time. My only option, then, with cash
+or credit, depending on what's working on the machine or what I have available at the time, is to use that
+ticket vending machine to get passes, which I then hand out to people who, as a Director of the service, I
+want to make sure are paying their fare but may not be able to.
+I don't know if you've ever been unhoused for any portion of your life, seriously unhoused. Homeless. I
+have. And you walk around the city with your life in your hands, everything you own. The last thing you're
+worried about is the damn fare on a bus. And you probably paid it. And it's probably in a pocket or stuffed
+away somewhere while you're trying to keep your belongings together and not get them stolen on the street.
+
+And so if you've never experienced that and tried to board a bus quickly and try to have all of that ready,
+it's the last thing you're worried about.
+So to my fellow Directors, have some compassion and humanity with the situation. We are human beings,
+and any of us could end up in that situation really easily. And so what I would say when I see the operator
+of a bus or the second member of a crew wave somebody on is that they often hear the person say, I've
+got it. I don't know where it's at. I'll show you at the next stop. And I see it happen consistently in my area.
+So it's not just a bleeding heart liberal idea that we treat people with a bit of humanity, because I have been
+there myself and paid my fare and needed to get on quickly with all of my stuff to go sleep under a ramp on
+the cold concrete. And the last thing I wanted to deal with was an operator who was going to be a jerk and
+not let me board the bus while I'm trying to maneuver all of my life belongings onto that bus to get where I
+needed to be safely.
+That said, I do appreciate that our operators don't engage in that way the majority of the time that I see
+them. And I understand that sometimes people just need help getting to where they need to be. And it's my
+understanding and I've seen it happen, a young man from Florida, weather snaps, he's in Bermuda shorts
+and flip-flops, just got to Colorado, trying to get himself clean. Needs to get to the shelter from 44th and
+Federal. There's no shelter until you get to the Jesus Saves downtown mission. Jumps on the 44 and gets
+a ride. No problem.
+I paid the fare for him. He didn't know that. Wasn't his business. But the operator didn't give him any trouble,
+got him on and got him to where he needed to be. So I think that we all carry a responsibility as a community
+to make sure that our tax funded public transit system, is serving people in that manner. And I am grateful
+for the TAG program and the community organizations that are using that.
+In terms of that, I think some clarification and making sure we understand what our expectations are of as
+an agency to the public and our commitment to build that trust and respect with our fellow citizens is
+important to understand for everybody.
+I'll do this one last reminder. We've talked about it in the Finance and Planning Committee. In the great
+state of Colorado, during the pandemic, there was a requirement for all public serving agencies to accept
+cash, and accepting cash requires the ability to count it and process it. It is going to cost us some money
+to do that. I just saw a brilliant recommendation on how you go to zero fare systems. KCATA, some of us
+were at, were talking about reverting from a free fare system, zero fare system, back to taking fares.
+I would prefer that if we do it, we do it in a mitigated way. My concern right now is the elderly in our
+community, our aging in place folks who are going to need to access public transit. And so considering how
+we can serve them better with respect to this. The youth are getting to school. Truancy rates are down.
+Attendance is up. I think that's great. What are we going to do about our aging folks that need the same
+help, and will need that same help as the largest growing segment of our population in Colorado for the
+next 30 years, if not more than that, according to the current statistics.
+I don't know that going to a free fare system is going to make any sense at all. Because even though we're
+paying a portion of our fare collection to count that money and deposit it, we're not losing a ridiculous
+amount. And so I think it is worth having that available. And legally, we have to.
+So thank you for doing that work. But those statistics were really remarkable. I'm done.
+
+JULIEN BOUQUET: Thank you, Director. And thank you for sharing your story. Greatly appreciate it.
+Director Benker. And then I have Director Larsen, Director Paglieri, and then Director Chandler.
+KAREN BENKER: OK. Thank you. First of all, thank you for the presentation. I found it very interesting. So
+I have a couple of comments and then also some questions. Get my glasses back on here.
+First of all, with the TAG program, I did learn about it and I'm so glad I did. There are three nonprofits in
+Longmont that had never heard of it. And so this coming December, I understand the application process
+opens up. I've already met with one of the nonprofits. The other two, one I've contacted, one I still have to
+go visit.
+And just to go back to Director Nicholson's-- I also was the Finance Director for a homeless nonprofit in
+Longmont, and I used to answer the door and hand out those bus tickets. And quite frankly, you know your
+clients and you know who has a brother in Denver and who needs to go to a doctor's appointment in
+Boulder. So I don't really think there's too much in terms of trading a bus pass for something else. But
+anyway, thank you for that program because I think it's definitely going to help folks in my district.
+Medicare. I saw that you had a special fare for people on Medicare. Really? My understanding if you're on
+Medicare, you're 65 and over, so would that not just cover senior citizen fare? And I will tell you, since I am
+on Medicare, I love it. Oh, yeah. Some of the Directors that may have it understand how wonderful it is not
+to have to pay a monthly huge insurance cost.
+So you do have a specific line item for Medicare, folks?
+STUART SUMMERS: Mr. Chair, if I may. Thanks, Director Benker for the question. It's an eligibility. So if
+you've ever gone to the ticket vending machine and you say, I am eligible for a discount fare, I have the
+age requirement. I'm on Medicare, that's what the eligibility is. So it's not a special fare. It's just meeting
+that 50% eligibility.
+KAREN BENKER: So it's showing your Medicare card.
+STUART SUMMERS: Correct.
+KAREN BENKER: OK.
+STUART SUMMERS: So if you pay the discounted fare, they may say, can you show proof of eligibility?
+So that's what-KAREN BENKER: OK, I understand.
+Also, to piggyback on what Director Guzman was saying, and also what Director Chandler was saying,
+community colleges, you've got Front Range Community College, several campuses, Red Rocks, Denver
+Community College, and, of course, Aurora. And so it would seem to me that those students, who are
+probably more struggling than those going to CU, they very well may benefit from that. So perhaps going
+there to try to sell them on this idea would be a good idea.
+OK. So a couple of other. Oh, and one other thing. You also, Director Chandler, mentioned apartment
+complexes. There are so many new apartment complexes in our region. I know especially in my area, I
+swear there must be 20 that are still being built as we speak. And they just keep coming and coming and
+
+coming. So it seems to me like that might be a very rich area to go try to mine and see if we can get more
+neighborhood or EcoPasses going.
+Some of the other comments that I had. OK, so I'm always, of course, looking for ways to increase our
+revenue. And I do feel that 4%, 5% is extremely low. And I would hope that when we discuss our budget in
+the next couple of weeks, we're going to be talking about whether or not it's possible to gather more income
+from our fare revenue.
+So just a couple of suggestions. One would be, take a look at the SkyRide fare. I had asked our Board staff,
+Jack, a while ago, because I was on the Board back in the '90s when we started SkyRide to DIA, and we
+charged $10. And we're charging $10 today. And so maybe after 30 years, we might want to take a look
+and maybe raise it $1 or $2. Just a suggestion.
+Also, when I go to DIA-- since we don't have SkyRide in Longmont, but I'm hoping we will soon-- I do drive,
+despite the advice that I get from our CFO that I should try the N Line. I do drive over to the A Line and I
+park there for $2 a day. So I'd like to ask whether or not that might be another revenue source. $2 a day.
+We're competing with DIA parking rates, which are $20 a day. So is it worthwhile to maybe raise it $1 to $3
+a day? I mean, if you're traveling and you're going to be gone for a week, two weeks, that's the reason I
+drive all the way over to the A Line because they don't want to pay DIA parking. And so just another
+suggestion.
+Let's see. What else? The other thing with regard to evasion. You had mentioned, if I understand this
+correctly, you said that 1% of evasion equals $639,000. OK. So if you said that you think approximately-and correct me if I'm wrong, because I didn't catch it all-- that approximately, you think there's about 4%
+evading, that would come out to close to $3 million, $2.6 million. So another issue that I know we're all
+concerned about is whether or not we can do a little bit more enforcement on fare evasion, especially on
+the rail lines. It would be great to have fare checks.
+And so at this point, those are my summary comments and hopeful ways that we can raise a little bit more
+money so that we can provide more service next year. So thank you. I appreciated the presentation today.
+JULIEN BOUQUET: Thank you, Director. Ms. Johnson.
+DEBRA JOHNSON: Yes, thank you. And thank you, Director Benker, for your comments.
+And from staff's perspective, if it's the desire of the Board, we would need to do a fare study and equity
+analysis, as we can't just change one fare. We need to look at it. So I'm just saying we're amenable to that
+if that's the desire of the Board. So I just wanted to put that forward to manage expectations that we just
+can't unilaterally increase a fare. So thank you.
+JULIEN BOUQUET: Thank you. So I have Larsen, Paglieri, Chandler, then Nicholson. Directors, if we could
+try to wrap this up around 7:05, that'd be excellent. So if we could keep it to questions and potentially policy
+discussions. I would like to remind us that the slide 46 did ask generate ideas for revenue. Diversification
+is another thing. But Director Larsen.
+MATT LARSEN: Thank you. My question is, so the violator rate was ranging between 4% to 7%. I guess,
+and from my perspective, we probably can't get it down to zero, so we could maybe cut that in half if we
+really tried or something like that, and that $640,000 per percentage point, I mean, it doesn't really, in the
+grand scheme of things, seem to add up to that much.
+
+And I guess I'm just wondering how confident that that is the true violator rate. When we've checked the
+fares and gotten that data, has it been a representative sample of all the different lines at all the different
+times of day? And also, I don't think I saw one for the buses as well. And I'm just wondering, is that really
+where we're at or how confident are we that that is really where we're at in terms of the violation percentage
+and the potential to collect additional fares if we could somehow magically add fare gates or check fares
+more or something like that?
+JULIEN BOUQUET: Ms. Johnson, and then Mr. Martingano, I'm assuming.
+DEBRA JOHNSON: Yes, thank you very kindly. And thank you so much, Director Larsen, for your question.
+Very thoughtful.
+We can't say with great certainty, just by virtue of the way the system is designed. And so when we talk
+about the tradeoffs, quite naturally, you'll hear from the Chief, yes, we can increase fare enforcement, but
+what's the tradeoff relative to the people power that we'll use to leverage that for the return on investment.
+And I'm not saying that we shirk our fiduciary responsibility. I'm just trying to answer your question to the
+best of my ability in light of not having any type of closed system as we move forward. Quite naturally, as
+we look at fare collection on buses, there is a greater potential to collect there due to the fact, by virtue, we
+don't have all door boarding on our bus system here. So individuals are basically boarding the bus, and
+they may be using their MyRide ticket or inserting money in the fare box, and they do have to pass an
+operator.
+We do train our operators that their lives are worth more than $2.75, So they are to quote the fare and not
+get into an altercation. So we have greater fare collection, quite naturally, on the buses, because we can
+do a reconciliation just by virtue, and you, by virtue of what we do, and some of you took part in the tour
+whereby we showed how we vault the cash boxes. And then by virtue of the number of people that board,
+you can do a reconciliation that way. And so we have an understanding there. Like commuter rail, different
+ball of wax, because there's different fare mechanisms as we move forward.
+So I give you that context to say it's probably in the ballpark, just by virtue of the variables and the factors
+that we have to leverage to ascertain what that percentage rate for fare evasion is.
+So now I'll yield the floor to Chief to talk about proof of payment strategies. Thanks.
+STEVE MARTINGANO: Again, Steve Martingano, Chief of Police.
+So in regards to the numbers that were shown today, that's actually the numbers that are given to us every
+month based off of everyday functions of our security team and our police team. We do random samples
+as well. What we do is we'll do a fare sweep. And we call it a fare sweep, just basically for our operational.
+But we'll go to different areas of town, different platforms, different trains, different times of the day just to
+get a quasi sample as well. Just because, again, commuter rail, second crew member, they're on there
+checking fare. So that's why that percentage is a lot lower. Everyone riding the A, B and G usually know
+that they're going to be checked during their trip, so chances are. The rest are more random based off the
+light rail.
+But even when we do those fare sweeps, depending on the platform, we're still hovering about that 4% or
+5%. I will tell you, I know the perception of an open system, thinking that nobody's paying, but with all the
+avenues, a lot of the businesses purchasing EcoPasses, and then also a lot of individuals know if we contact
+
+them without fare, that's probably the time that they're going to have to get off the train. That's our
+mechanism for that. So a lot of times, people will have the fare, knowing that they don't want to be left
+stranded at a different platform or trying to buy it there.
+But again, those numbers have been pretty consistent every month, as well as our fare sweeps. So we are
+roughly about that 4% to 6% every time we do an operation.
+JULIEN BOUQUET: Director?
+MATT LARSEN: Good.
+JULIEN BOUQUET: Director Paglieri.
+BRETT PAGLIERI: Thank you. I think this topic makes me more excited than Director Benker gets about
+the budget, to be honest. So thank you.
+Yeah, I have a lot of comments. As a rider of RTD, I know the experience firsthand. And I hear almost every
+day from my constituents and from my friends and from people across the district who have feedback for
+me.
+But I think the first point is we've given cost of living increases to the union, to the management, but we
+haven't raised our fares. So we've basically accepted a fare decrease over the years. And since 2019, I
+mean, we've basically said, we're going to let people ride for 25% less. I think inflation right now is like at
+24% since 2019.
+So it's something I think the Board needs to consider is our fares have gone down. They have not stayed
+the same. They've significantly dropped, and people are getting a good deal. And so that's something that
+we want to have a conversation about. We need to have a conversation to address that, probably pretty
+soon, and figure out a strategy, because we're leaving money on the table but we're still giving other people
+raises. We're acknowledging inflation in some areas, but not others, basically.
+I think, so on slide 19, Transdev Services, thanks to CFO Mackey-- am I saying that right? Sorry. --has
+gone up much higher than inflation. Our contracted bus services have gotten really expensive. And in slide
+19, you mentioned that all services contracted at 34.1. That's an alarming number I think we need to look
+at, that they are charging us potentially more than their own cost-- potentially these contractors have
+potentially increased their revenue from us without actually needing to. So that's something that we should
+probably flag.
+But on slide 41, you mentioned that there's been a 500% increase in, I think, fare checking or something. I
+have a personal preference that you don't include percentages without net or gross numbers next to them
+because they're meaningless. A 500% increase, could that be like 1 to 2.5 or 1 to 5? I don't know how many
+fare checks we were doing before and I want to know how many we're doing now. So I would like that.
+But ultimately, I think we need more fare checking. I've never had my fare checked on the W Line, so we
+are still not checking enough fares. Thank you, Director Buzek, for mentioning that in other countries, people
+without uniforms check fare. I think that's totally OK. I think most people across Denver are willing to accept
+someone with an RTD uniform. And we really should bring back transit ambassadors, because people,
+when they see, they might have a connotation of police and they might be reacting differently simply
+because we're checking fares.
+
+But I think this is another topic I'll get to in a second. The first themes I'm trying to go to is really pricing and
+packaging. We really need to look at all of our fare revenues. We have way too many end user experiences.
+And I'm glad that you're doing a user journey.
+It's really confusing for people to take RTD. And I think one of the issues is that if you're a student, you have
+a college pass. If you're a neighbor, you get a neighborhood pass. If you have a LiVE pass-- you have all
+these different passes. But ultimately, you're just riding RTD. So I would recommend that we make one
+pass, so whether you're riding or not, you kind of use one pass. We call it one thing, and there's different
+funnels to get to that one pass.
+But in Seattle, for example, I think they have the Sounder. And I don't know if they have other programs,
+but we should have one card, clever name, that all these programs funnel into so people don't have to care
+about how you got the card, they just know that if you have this card, you have access to transit in Denver.
+That's my recommendation for the fact that we have over five different methods.
+Sorry, I'm going as fast I can. It looks like on page, or on slide 46, oh, that's the final one, how we can
+improve our revenue. We, as a Board, I don't see it as our role to go out to our constituents and get them
+on NECO passes. If they come to us, yes, we should help. But people who want to sign up for NECO
+passes, people who want to sign up for EcoPasses, those are customers. Those are whales. And we should
+be hunting those whales. We really need a sales team to go out and hunt these opportunities.
+And I think on that, I appreciate what Director Guzman said. $70 for a college pass is way too expensive.
+College students often experience their first walkable neighborhood when they move to college and use
+transportation for the first time without a car when they go to college, if they're going to college away from
+home, or if they have to go to community college. So we need to really use this as an opportunity to say,
+there's a lot of young people who can take transit during their curious stages of their life. And the cost, yeah,
+maybe we should just give college students free transit, because the fact that if they use it in college, they
+might continue to use it for the rest of their lives. And the ridership multiple will be gigantic. So that's
+something to think about.
+Now, switching to code of conduct. I have absolutely zero problem with unhoused individuals using our
+transportation services when it saves their lives. I really think that most people in our community are trying
+their best to pay their fare, and we need to respect that, and we should not, and we don't discriminate,
+mostly, against that. But anyone who doesn't pay their fare is breaking the law and they're stealing from my
+constituents.
+So we cannot allow bus drivers to let people on board if they haven't paid their fare. And we honestly need
+someone to back them up for that. If someone on the bus wants to pay their fare for them, let them. But the
+bus driver themselves should not be put in a terrible situation, unless they're given an order that it is an
+extreme weather event that they can pick people up. But I do not want our bus drivers picking people up
+who haven't paid their fare. It's not fair to the bus driver, and it's not fair to the riders who've paid their fare.
+So I think that we need to have a conversation about this as a Board about when that might be OK, when
+we're trying to save lives. But that's one thing. It's just tough on the drivers and it's tough on the constituents.
+People who ride, they feel uncomfortable that every time the 15 stops, they're letting someone on for free.
+And so I think we need to look hard and fast at the code of conduct. Other countries, if you don't have your
+fare, it's a fine immediately. I don't think we should give warnings. If we, as a Board, want to give warnings,
+we need to look at the code of conduct. I think people know that if they use our services, they are
+
+automatically using something of value. And we don't have an open system in that sense. If they step on a
+bus, they know they have to have their fare. I think that just has to be a standard rule that we have to
+enforce. And I would love to see fare enforcement on the W.
+And then I'm going to conclude it with being a little bit vulnerable. Thank you, Director Guzman, for also
+being vulnerable tonight. But when I was unemployed, I was qualifying for different benefits from the state
+of Colorado, thankfully. And they helped me get my next job. And I applied for the LiVE program, and I was
+accepted because I was qualified. I applied in November and I got my LiVE card in June of this summer,
+like eight months later.
+So I think now we might have a one business day turnover. But for the past eight months it's been an eight
+month turnover and it's completely unacceptable. So if we're going to ban, if we're going to really enforce
+people not riding without fares, we at the same time need to make it really, really accessible for people who
+can't afford their fares to get the TAG program, to get the LiVE fares. Because it's us ethically and
+responsibly, we need to do both at the same time. So there really is no excuse for someone to get on
+without a fare.
+So I think, yeah, that's it. I'm happy to have discussion. But thank you for letting me have all this time.
+JULIEN BOUQUET: No, thank you, Director. Greatly, really appreciate it. Mr. Summers.
+STUART SUMMERS: I'll be really brief, and I appreciate. Thank you, Chair, and thank you for being
+vulnerable, Director Paglieri.
+One thing I do want to point out, we used to use a third-party vendor to issue the cards, and we had
+challenges with cards getting issued in a timely manner. We've brought that all in-house now, and RTD
+staff are the ones that are printing the cards, mailing the card, and distributing them. So sorry about that
+experience you had, but that's one of the reasons we brought that back in-house.
+BRETT PAGLIERI: Thank you.
+JULIEN BOUQUET: Thank you. Director Chandler and Director Nicholson, apologies. Can YOU keep it to
+a minute?
+KATHLEEN CHANDLER: Yes. I just have a couple of comments. One is, on page 40, that Director Paglieri
+just brought up about the code of conduct, we are going to be having a discussion in OSS about the
+customer, RTD and customer shared commitments. And it's going to, I hope, I'm lobbying already, that it
+will live on the customer conduct page. So be looking for that in OSS coming up in a week.
+And it is going to be comprehensive about what is the RTD and customer shared commitments. So
+hopefully, that will bring some of that forward into the discussion of what exactly our expectations are as an
+agency and, I hope, that the expectations of the customer as well, and that we can fulfill that.
+Also, I would suggest what you're talking about, access. You talked about getting those little, like a card
+from your CVS or wherever else, 7-Eleven. Why not partner with grocery stores? Like, everybody goes to
+a grocery store. I would partner with Walmart and grocery stores because people get cards all the time.
+There's a lot more access. That would be where I would purchase one, would be at a grocery store.
+And also, there should be some place to purchase those at an airport, at the airport, some type of
+something. I had a discussion with the disability community. They get off in airport, they're disabled, how
+
+do they go? Where do they go? So if we're going to be an all-inclusive, especially to the disabled community,
+we need to think about how to service them when they fly here to go visit somebody, or if they're flying to
+another airport, how accessible are we to the handicapped community? And I think those are my quick
+comments.
+Oh, there's one other. There's a group called Ready to Work. Director Benker talked about different
+nonprofits that might be available. Do you want us to give you ideas of where to go? Because there's a
+really great shelter called Ready to Work. The city of Aurora works with them. I've worked with them. And
+they're right there at 225, next to the 11 Mile RTD station there.
+So I think we, as Directors, need to think about how we can partner with other organizations that are in that
+category. But Ready to Work is very large and they do partner with the city of Aurora already. So thank you.
+JULIEN BOUQUET: Thank you, Director. Mr. Summers.
+STUART SUMMERS: I would just quickly mention, this is the type of stuff we want to hear. If you have
+connections in the community, let us do that outreach. Just give us the contact information or even just the
+name and our team will make contact with them. We'll put them into our mailing list, and we'll make sure
+that they get information when the TAG application opens. And we'll do virtual town halls with them when
+that application opens, to answer their questions as well.
+JULIEN BOUQUET: Ms. Johnson.
+DEBRA JOHNSON: Yes. I just wanted to share-- and Stuart, correct me if I'm wrong-- but in reference to
+various fare media, we do partner with grocery stores. We have King Soopers. And so I just wanted to
+ensure that everybody was aware of that. While an example was used for CVS, we are partnering with
+grocery stores as well. Correct. Thank you.
+JULIEN BOUQUET: Cool. Director Nicholson, one minute.
+CHRIS NICHOLSON: I can keep it at that. I really just have a fairly simple question. And that is, when I-so I'm a regular Uber user when I can't get on transit or when I'm in another city-- and I get push notifications
+from them all the time about, here's a 10% discount for the next five minutes. It's a great time to take an
+Uber to go downtown and party with your friends.
+We have an app. We have a ton of customer data in that app about where people are going, where did they
+get on the bus, where did they [INAUDIBLE] get off, what trains did they take. What kind of targeted
+discounts and promotional fares have we looked at as an opportunity for revenue diversification, and in
+order to get people who maybe took the bus three months ago or took the train into the thing for New Year's
+Eve, hey, try us again, 50% off, whatever? To what degree has that been explored?
+STUART SUMMERS: Chair, if I may. Thank you, Director Nicholson, for the question.
+Let me do a little bit more research into this, because I think that's a very great point that we could explore
+and see the feasibility. We are underway creating the one app. And part of that will have push notifications.
+Currently, we don't have that functionality in the Next Ride, and that's something that we're excited about,
+being able to have direct push notifications outside just service alerts. So let me do some research into that
+and we can bring back a response.
+JULIEN BOUQUET: Ms. Johnson.
+
+DEBRA JOHNSON: Yes, thank you so much. And thank you, Secretary Nicholson, for that idea.
+At the risk of being the skunk at the garden party, we have to ensure that we have established fare policy,
+i.e., when you heard that we did the fare study and equity analysis-- I'm not saying that we can't do it, but
+that's a policy that we need to establish and do our due diligence relative to you all approving it and us
+sharing that as we go forward with the Federal Transit Administration, relative to the obligations we have
+as being recipient of federal dollars.
+So not pooh poohing on the idea, because I like it, but I'm just sharing with you, these are opportunities.
+And that's why we're having this good dialogue. Because we could bring that forward, whereby the Board
+is authorizing us after we do what we need to do to ensure a level playing field, and we put that forward.
+So thank you.
+JULIEN BOUQUET: Thank you very much. And thank you, again, staff, for the presentation for our first part
+of tonight's study sessions. Thank you, Directors. Excellent comments.
+I just am going to take, real quick, less than 30 seconds, Chair privilege. Two points that got brought up.
+One, I think about the EcoPasses. As Director Paglieri brought up, there are some for quote, unquote
+whales out there that we can definitely target. And instead of going at the individual consumer, I think it's
+one of those things where you start looking at apartment complexes, those businesses that are in that
+transit-oriented development area. That's where you can start really targeting it. Because if people get a
+free fare and they try RTD for the first time, they're going to come back and they're going to use it as a
+choice rider.
+And second, just thinking out loud too, for my choice riders down in Douglas County-- and I got reelected,
+so I can say this without getting in trouble-- they would be willing to pay the extra buck to go and ride the
+train, in all honesty. I don't know how that looks like and I think it is a hard conversation to have, but
+potentially looking at a potential fare increase. But I know my constituents would pay the dollar extra to ride
+down for the Broncos game if they're going to take the light rail.
+So with that, CART individuals would need about 10-minute break or-- OK, let's do a 10-minute break. Let's
+shoot to be back here at 7:23. Thank you.
+We're back to order at 7:23. All right, moving on to our next study session, and that is going to be high
+volume events. I'm going to give it over to you, Ms. Johnson.
+DEBRA JOHNSON: Yes. Thank you so much, Mr. Chair. Once again, members of the Board, Debra
+Johnson, General Manager Chief and Executive Officer.
+So we are here to have a conversation with all of you relative to high volume events. We are going to
+provide some context by virtue of what we do when we plan, recognizing that our core business function is
+delivering transit services to this 2,345 square mile service area, recognizing our fixed route service, but
+also we do happen to provide service in a region that has various activity centers.
+We are one of the cities in this country that have representation relative to major sports, including the
+National Hockey League, National Basketball Association. There is the National Football League, Major
+League Baseball. We have soccer as well. So it runs the gamut. And we want to ensure that we have
+varying customer segments that we can serve to the best of our ability.
+
+What we have in store tonight, I will yield the floor to Patrick Preusser, who is our Chief Operations Officer.
+At the Board meeting last week, just by virtue of the duration, I did not have an opportunity to properly
+introduce him to this body in this forum, but want to welcome Patrick to the organization.
+He brings a wealth of experience. He started here at RTD on September 2nd of 2025. He has had varying
+levels of progressive responsibility within the public transportation realm, not only here in the United States,
+but abroad as well. And in the interest of disclosure, I had the pleasure of working with Mr. Preusser back
+when I was at LA Metro, working first as the Deputy Chief Operations Officer, and then in the position in
+which he has, as the Chief Operations Officer. So I want to welcome him here to RTD.
+And then additionally, we're joined once again by Stuart Summers, our Chief Communications and
+Engagement Officer. So without further ado, I will yield the floor to Mr. Preusser. Thank you.
+PATRICK PREUSSER: Yeah. Thank you very much, GM/CEO Johnson. Patrick Preusser, Chief
+Operations Officer. Very excited to be co-presenting this to you, Chair and Board members, this evening.
+We're going to talk a little bit about high-volume events today. And these, of course, present unique
+operational opportunities and challenges. And from an outline perspective, we are going to cover our current
+practices. We are going to talk about our planning considerations. We are going to talk about our
+coordination strategies. And all of that is intended to really emphasize the focus that we have on people
+safety, reliability, and customer experience.
+We're going to start here with some definitions. I'm just being a little cautious with the remote here because
+it tends to have a little bit of a lag. There we go. So I'm not going to read through each and every one of
+these definitions, but I'm going to leave that up on the screen for a moment, because understanding these
+terms is essential for clarity and alignment. Ultimately, these are the terms that help us, as we go through
+the process, to plan, execute, and ultimately review these high-volume events.
+I will draw your attention to base service. You will hear that and some of these other terms throughout the
+presentation. Similarly, on this slide here, you're going to hear the term married pair. That is not to be
+confused with some-- yeah. So we're ultimately talking about our commuter rail passenger vehicles. And
+we have a nice illustration later in the presentation to show you that.
+So as we talk about some of our objectives when it comes to high-volume events, this is all about taking a
+balanced approach. The end of the day, we're concerned around mechanical safety, base service, and
+being able to accommodate increased demand while still having a customer and community focus. Again,
+we are serving delivering public transit for all. And communication and coordination throughout this entire
+process is extremely critical.
+So what you see on this slide are some major activities related to high-volume events. Partnership and
+coordination is key to this whole process and, ultimately, to our success. We need to be able to meet
+demand. We need to be able to align with our service standards and ultimately provide reliable and
+accessible service. And that takes a lot of coordination, thought planning, and execution around schedules,
+fares, and just the overall customer experience. So we have a systematic planning process in place, and
+that's intended to make sure that we deliver high quality service.
+Some factors and considerations that go into this process have to do with the timing and coordination,
+which is critical to each high-volume event that we deliver service to. There's a lot of discussion and
+
+emphasis around capacity and resource planning. We don't have unlimited resources. We have to be very
+strategic about how we go about that.
+You'll notice some references here to overlapping events. And probably a good example would be the
+Rockies game. Long season, lots of events. So we're always mindful of that, as we go through the planning
+process, what other events are happening throughout the region and how can we deliver the best service,
+taking that into consideration.
+And then infrastructure awareness is another component of that. So just to, I guess, add a little bit more
+detail. There are certain constraints or restrictions on train consist length. We have some visuals later on
+in the presentation. There are certain constraints around power consumption. How many passenger
+vehicles, how many trains can we have in certain sections? And then there's also design constraints. How
+many trains? What's the maximum amount of trains that we could operate with our existing signal and train
+control system?
+Again, this is just a nice visual to give you an idea what the seating capacity is and the max load capacity
+is for the buses that we operate. We'll also do the same for the light rail vehicles. I just would draw your
+attention to the specific lines. You can see which ones are limited to three-car train sets, which ones can
+accommodate four-car train sets.
+And this is the commuter rail vehicle. You heard me earlier mention the married pair. And this is an example.
+So essentially, you have two cars married together. They share systems, so there's some efficiencies
+gained by that. And that's what the seating and max capacity looks like for those vehicles.
+Next, we're going to talk about transit-adjacent event venues. And I guess what I would draw to your
+attention here is the capacity related to Empower Field, as an example, and then just the sheer number of
+annual events for the Colorado Convention Center. Overall, you can see our existing service provides a
+strong foundation for serving these events.
+And at the end of the day, capacity awareness is key for our team to try to anticipate what the demand is
+going to be for our service, and that helps us overall coordinating our supplemental service just to make
+sure that we do have reliable operations. So it's striking that balance between meeting the surge, the
+capacity demand, and then the reliability around our base service.
+This is a little bit more of the same. You can see Coors Field, the capacity. And then you could see the
+Denver Center for Performing Arts and just the sheer number of events. Again, good starting point for eventspecific planning.
+Wanted to provide the Board just with a visual overlay. This kind of gives you a better visual of what our
+coverage looks like for our system. For the planning teams that are involved, it helps us identify gaps and
+opportunities and it also helps with strategic coordination.
+This is a good visual just to give you an idea of end of service planning. We again take advantage of our
+base service. And? You could see that the sheer times alone offer a lot of service for certain events, and
+we're always wanting to make sure customers can return safely from event.
+And we wanted to--this isn't a comprehensive scan. This is a brief scan of the industry just to help visualize
+some benchmarks around different service models and essentially what kind of access they have to transit
+for major events. And some of this just may be accessible but also may include walking a certain distance
+in order to couple with transit.
+
+These are things that we benchmark with our peers across the industry. And at the end of the day, we look
+at that. We try to understand the differences in the service model from these other peers that we have and
+try to make targeted improvements. And we always have to leverage the multi-modal connections in order
+to be successful, from a crowd management perspective, but also from a customer experience perspective.
+This is a little bit more of the same. So it's a good-- it'll be a good reference for everyone.
+Of course, as a public transit agency, we want to be-- compliance is mandatory. And at the end of the day,
+regulations influences what services can be scheduled and delivered. And we always make sure that our
+operations plans align our service and that we're in compliance with these regulations.
+So it's always good to look back in time at historical examples, just to help us provide some insight into how
+service was planned and executed. And the reason we do that is because it helps us identify where
+guidance may be needed. It also helps us strengthen future planning. So we are in the business of providing
+public transit for all, and we're not allowed to compete with private entities.
+And just, I guess, moving a little bit further into that, I guess it's important to point out that the BroncoRide
+Special Shuttle Service was ultimately eliminated around the 2019 time frame, which was a little bit prior to
+the pandemic. In addition to that, there's a good visual here on this slide, just from an infrastructure
+awareness perspective, to understand how that has changed over time as well into our current state. And
+these are all planning considerations that staff take into account as they build their operations plans and
+prepare for these high volume events.
+We thought it would also be helpful to try to do a side-by-side of historic versus current base service. This
+gives you an idea of route options that inform our customer choices, and it helps us to identify options to
+meet those demands that we're talking about related to high-volume events.
+Here, we wanted to share some information related to ridership trends. This helps us identify patterns. It's
+also an input into the planning process. It helps us really understand the timing, the staffing, the vehicle
+requirements that are needed in order for us to really strive to make data-driven decisions. And at the end
+of the day, we do have continuous improvement in mind. So these are all important inputs into our overall
+process.
+Again, this is just to highlight some of those statistics related to the concerts, just to give you an idea of
+what that looks like.
+And with that, I'm going to hand it over to my colleague, Stuart, who's going to talk a little bit more about
+planning efforts.
+STUART SUMMERS: Thank you, Patrick. On that previous slide, one thing that Patrick was pointing out is
+the start and end times of several of these concerts, the days of the week. And that's part of these planning
+efforts, is really understanding if a concert starts late, is based service going to be able to accommodate
+the needs of those customers and making sure people have the information they need leading into this.
+As part of those planning efforts, we regularly monitor several of these event calendars across the metro
+area. We're constantly scanning these event calendars, looking at schedules, trying to get an assessment
+of what events will be taking place that have the potential to generate what we call high transit utilization.
+So we're looking at concerts and venues that are adjacent to other stops and stations, not only the seven
+that were previously mentioned, but things like Bluebird or Paramount, looking at some of these other
+
+venues that may be smaller but still close to a stop or station that would have some access. We do what
+we call, we flag these events. We put them onto an internal calendar. This calendar is available to staff in
+RTD-PD, Operations, Communications, Service Development. It's a constantly updated schedule so that
+we can all be aware, leading into it, three months in advance of what's coming up, what kind of
+communications are needed, and what kind of operational planning should be taking place.
+I also regularly meet with Visit Denver and the Colorado Convention Center. We have a standing meeting.
+We coordinate schedules. They provide information about large conventions that are coming, what
+conventions may bring large crowds on the A Line, what type of opportunities do we need to be aware of
+where maybe we want to insert ourself into bulk mobile discounts and things of that nature.
+Also, contacts been established with each of these seven transit-adjacent venues, the things that were
+mentioned, Coors Field, Empower Field, really trying to understand what do they have planned in the year
+ahead and how can we work together on meeting those needs.
+When we think about communications and outreach, we have what we call our communications checklist.
+And so depending on the event and its anticipated attendance, the venue it's taking place, we will leverage
+some different communication tactics and strategies to ensure that we are delivering that information to
+customers and potential customers. And this could be things like news releases, media advisories.
+We have what we call our Take a Trip promotion. It's a first-person account of how you get on the bus, what
+stop to get off, how do you walk from that stop to the venue, really trying to showcase somebody a stepby-step tutorial from a first-person account.
+We also utilize Service Alerts, website banners, notifications, really making sure that we're putting
+information in front of customers. We have what's called our Impact Team. This is volunteers, employees
+who volunteer their time to be available to help with large events and service disruptions and things of that
+nature where we expect a high volume.
+We'll also provide the venues with content that they can use for doing what might be an e-blast. We'll
+provide stop and station signage. And then also, last to point out, collaborative promotions with venues and
+sports teams. So you can see that photo of Dinger from the Colorado Rockies doing a co-branded promotion
+that ran through the baseball season.
+One thing that I think is very exciting that we introduced at RTD, and other agencies have mirrored and
+replicated, is what we call special destination terms. So using our Next Ride trip planner app, a special
+destination term is event specific. It eliminates the need for a customer to know the address of the venue.
+If they're putting in the destination, they don't need to know even the name of the venue. All they need to
+know is the name of the artist, the name of the concert, the name of the team that's playing. It allows
+customers to plan a trip from anywhere in the metro area directly to that venue, using the most expeditious
+manner possible. And it could be a combination of buses and trains.
+We receive special destination terms from Visit Denver. As they become aware of events, they'll send them
+to us to load into the system. And then also in December of last year, we did an integration with a company
+called JamBase, and they provide live music data for calendars and schedules for municipalities. And it's
+been loaded into Next Ride app. So it's an automatic feed. So if a concert is taking place at Paramount on
+Thursday night, it's already loaded in there and somebody could just use the name of the artist.
+
+We launched the special destination terms prior to the Taylor Swift concert. And during that weekend, which
+was also the same weekend as the Colorado Rockies and the Yankees, we had more than 150,000 trips
+planned through the Next Ride app using special destination terms.
+Another opportunity that we'll talk a little bit later in our after action, but I want to point out, is what we call
+last train platform signage. And so we will post variable message signs to communicate the last scheduled
+train departure from Empower Field station. This is placed near the walking path as you exit the platform
+and you're heading into the stadium so that people can see, when is the last E Line train scheduled, when
+is the last W, making sure that people have access to that information.
+And then I just want to give a quick example. The Great American Beer Festival is taking place this week,
+and the promoters reached out to us and said, how can we work together? We want to make sure that
+transit first for our patrons, people that are attending the event, and we want to work with you on how can
+we promote this and encourage people to take RTD.
+And so we created a custom transit map for the organizers to post online and share in their social media.
+We did a Take a Trip. We added a special destination term of beer festival, media advisories, a news stop
+article, social media promotions, and then a Know Before You Go e-blast that the organizers sent out to
+everybody that's purchased a ticket online. And it encourages utilization of RTD as the safe and expeditious
+way to access the event.
+And now I'll turn it back over to Patrick.
+PATRICK PREUSSER: All right. Thank you, Stuart.
+So here you have some of the major inputs and elements for the Operations Plan. Again, we rely heavily
+on data, and we make a lot of data-driven decisions based in our planning process. And you've heard me
+talk a little bit about resource and resource alignment. That goes hand-in-hand with the pictures that you
+see on the screen. We need to make sure that we have staff strategically located, that we have correct
+wayside signage and proper queuing, so that we can make sure that the crowd is manageable and that we
+keep everybody safe and that we're able to expedite those crowd movements. And ultimately, trying to get
+to, I guess what I would call service optimization.
+And in order to make-- a plan is great, but at the end of the day, what does it take to implement a plan? It
+takes people. And this is the people power GM/CEO Johnson was talking about earlier. And that's what
+continues to be our success here at RTD. We have many passionate employees who really love what they
+do, and you can see that in the way they maintain our equipment, in the way they operate our equipment,
+in the way they interface with our customers, especially during high-volume events.
+If you could just imagine the type of energy that's needed to get through some of these shifts, managing
+some of these high-volume events, it's definitely not easy work. But it's all about integrated operations, and
+this is where we focus on the coordination between the Control Center, between Operations, between
+Maintenance, between Transit Police, and ultimately, our Communications team. And collaboration is
+absolutely key in the implementation of these plans, and that helps us when we're trying to be proactive
+when it comes to crowd management.
+There is our Control Team, our boots on the ground, if you will, that are anticipating and directing these
+flows. And that ties into our real-time monitoring capabilities. And that is what links our people and
+
+operations together to make sure that we do offer that safe, reliable, and customer experience that
+everybody desires and everybody is striving for.
+The next key point that I'm going to talk about has to do with after-action reviews. This is our opportunity to
+actually evaluate what we're doing and learn from that. Of course, we want to celebrate our successes.
+Some of those may be small, some of those may be big, but it takes a lot of energy and stamina and
+persistence in operations. So it is key that we do celebrate those successes.
+And we also want to identify areas for improvement. This is the only way that we're going to be able to
+continue to enhance, basically, our service delivery and our customer experience. And this is what drives
+continuous improvement. And we want to refine our processes. We want to have better plans and better
+execution. And that's just something constant that you always find in all of our Operations and Maintenance
+staff.
+And you see that image there. Stuart mentioned it a little bit earlier, last train signage. That is a practical
+example of an output from an after-action review that has actually been implemented and has delivered
+results associated with that.
+So with that, I'm going to hand it back to Stuart so that he can close us up.
+STUART SUMMERS: All right. To round things out, we want to talk about some next steps and some things
+that are near-term enhancements that are underway.
+This Board is very familiar with tap-to-pay, launching in Q4. We mentioned in the last presentation that
+there's some testing underway. This reduces the need for cash, reduces the need to download an app. It
+reduces the need to visit a ticket vending machine. Most importantly, this supports faster boarding times,
+convenience, and access. And so we see this as a big opportunity when we talk about high-volume events,
+tap-to-pay being an absolute game changer for helping customers to access the system in a very quick
+manner.
+Another near-term enhancement is our digital totems. These are those large format walk-up signs. As this
+Board is also familiar, in December 2025, RTD will assume ownership of all of these digital signs. There
+are about 300 across the system. This will allow us to pivot from using these as an advertising space to a
+customer amenity. And so when we have a specific rail station where there's an event taking place nearby,
+we can put up full screen instructions about how to access the venue, when the last train will be, if there's
+any sort of disruption, if there's extra service that's planned. Those are some things that we can take control
+of that and rely on it as a true customer amenity.
+We also have our project underway to put all of our apps into one RTD user interface that can be
+downloaded from an app store. This will allow us to be able to have notifications right within the mobile app,
+integrate all of the trip planning, fare payment, incident reporting functionality. So it's the one-stop shop,
+ensuring that people have access to the tool. And it's one tool instead of relying on several different
+platforms and functionality.
+And then also being able to push notifications and in-app alerts. If there's an extra train that we have made
+available, we can do that as a push notification. And so we see that as an opportunity for high-volume
+events.
+This was discussed yesterday at the Performance Committee and I wanted to point this out, fare bundling.
+So last month, we announced plans that will be pursuing what we call fare bundling for high-volume events,
+
+working with venues. This is really as simple as ticket-as-a-fare. So an event patron, you attend an event,
+that ticket for your event becomes your fare media to use RTD.
+And so we met in 2024 with Sound Transit to really understand how they have implemented some eventconnected fare with Climate Pledge Arena. They gave us some best practices, some things that they've
+done and some successes they had, and lessons learned along the way.
+Right now, at this juncture, we're doing a marketing outreach strategy. I mentioned earlier that we've
+established contact with the seven large, we call them transit-adjacent venues, so we can start to have
+these conversations about what would this look like, what are the barriers and obstacles we'd need to
+overcome so that we can implement fare bundling. And this is part of our short-term, near-term scorecard
+tactics.
+And then the last two things I want to point out are some other opportunities related to some venues that
+have been announced and proposed in the metro area. The first is, in March of this year, obviously, the
+Denver National Women's Soccer League announcing that Santa Fe Yards, a 14,500-seat stadium,
+obviously, it's adjacent to I-25 and Broadway.
+It's important to note that this site was selected in part, and probably primarily due, to its proximity to RTD
+services. And this is an opportunity that we need to leverage. I know that GM/CEO Johnson has been in
+conversations, some early conversations about how we can be part of these planning efforts. Knowing that
+it's slated to open in 2028, what do we need to do to be prepared for that?
+Also last month, there was a proposed event venue announced for the Broncos stadium, announcing that
+Burnham Yard was the preferred site for this new stadium. What does this mean for RTD, knowing that
+there's a target completion date of 2031? Staff has had some very high level preliminary conversations.
+GM/CEO Johnson had a conversation with the governor's office, really understanding, this is adjacent to
+10th and Osage station. What would we need to do to be prepared for having this ready for coming online?
+Also, knowing that this site includes plans for a mixed use entertainment district. So it's not only for event
+venues, but around the clock, what are some of the entertainment capabilities and also housing that is
+planned for part of this?
+And then lastly, on November 3, we will be launching a high-volume events web page. And really, the
+importance of this and the point of this web page is we want to provide overview information, like we've
+presented here this evening, about current operations, our base services, provide some frequently asked
+questions and responses. But primarily, and most importantly, we want to solicit feedback. We want to hear
+from customers. We want to hear from members of this community.
+We know there's some ideas out there. People have a lot of input around high-volume events. We want to
+have a platform and an opportunity for people to present their ideas, share their feedback with, help us to
+understand what are some opportunities that we may not be considering as staff, and then also have a
+landing page for some of these transit maps, as we talk about event venues, ensuring that people have
+access to how can they navigate to the venue from RTD services.
+And so similar to our last presentation, how can the Board partner in this effort? First and foremost, we
+want to make sure that you're educated, you're informed, also, that you can share this information with
+stakeholders and customers as they ask you questions. We know that you often hear from people around
+
+high-volume events. And then when that online page becomes available, share that out with your
+constituents. Invite them to share that feedback and provide that information back to RTD.
+And with that, we're happy to entertain questions.
+JULIEN BOUQUET: All right. I'm assuming there's no questions on this. Thank you very much, staff, for the
+presentation. Very informative. Greatly appreciate it. Directors, we're going to try to shoot for about 8:30 as
+our deadline.
+Secretary Nicholson, you're first. Larsen.
+CHRIS NICHOLSON: Thank you very much, Mr. Chair. And thank you to both of you for a wonderful
+presentation. This has been something that I have looked forward to for a while.
+There are a handful of things that we do that in the minds of the public, pay for everything else that we do,
+and service to major events is one of them. In my district, almost everybody can afford to own a car, and
+the people who use transit, outside of the folks who are significantly transit dependent, use it for this. They
+tell me, I only take it to go to the airport or a Broncos game or a Rockies game. And they have one
+experience a year.
+And we get one chance to do it well or screw it up. And if we screw it up, every single one of their neighbors
+finds out about it. And so the bar is inordinately higher than your daily commute to go to work or to school
+or whatever. Those journeys-- I believe we try to treat everybody equally, and we try to treat all the service
+that we run equally. At least in my view, it's not.
+This service is more important. Airport service is more important than anything else we do. Because when
+this falls down, it makes headlines and it turns people off permanently and they stop wanting to support us.
+They stop wanting to give us money, and we stop being able to run a transit agency that can serve the
+entire metro area.
+We're having this conversation because we've fallen down a few times this year, as we've tried to do some
+very big things. And we've had some great nights as well. The Metallica graph shows it. There are some
+that we've had some great opportunities to serve a lot of people, but there have also been some rough
+days.
+And my biggest fear, and I think really, I don't want to call it a bet the company moment, but a turning point
+for us is whether we will effectively convince the Broncos and the Denver Summit, the women's soccer
+team, to trust us as the number one way to get people to their stadium and to buy in, to the level necessary,
+where every single person gets a ticket as part of their thing, where they're building the infrastructure at the
+stadium to make transit the number one thing that people do.
+The airport right now, if you're leaving the airport, as it's been for the last few years, it's not necessarily the
+most attractive or obvious thing to go downstairs and take the train. It's not like there's a gigantic sign that
+says, take the train into Denver, don't take an Uber or don't rent a car.
+I don't know that we're there right now, given the year that we've had, when it comes to convincing the
+broad public, when it comes to convincing the average voter in my district, when it comes to convincing the
+owners of these major venues that they should trust us as the key way, that we will be there, not 95%
+reliability, not 96, 99.9. Like, we will have the staff every time.
+
+We will have extra people so that people calling out does not affect this. It does not affect you getting to the
+Broncos game. We will run extra buses on the FF so that people are not being turned away at Westminster
+because we weren't running enough service. We will run extra service on the LX, so that if you're in
+Longmont, you can get to the stadium on a Sunday to go see the Broncos.
+My question to you is, what do you need from us to put that level of prioritization into place? Your thing
+says, we are going to make adjustments but not sacrifice our existing service. I think we should. I think it
+should be the policy of this Board that we are going to deliver excellent event service, and if we have to
+suffer a little bit in order to do that, that's what the public wants us to do. What do you need to hear from us
+to put that kind of a prioritization into place so that we can deliver on what voters have, at least when I've
+talked to them, we can deliver the type of experience that they've asked us for?
+JULIEN BOUQUET: Ms. Johnson.
+DEBRA JOHNSON: Yes. Thank you very much, Mr. Chair and Secretary Nicholson, for your comments,
+and then your question. I'm taking this, chiefly due to the fact that, recognizing our Chief Operations Officer
+has been here for one month, I will give him an opportunity to opine. But I think it's prudent upon me to
+address that question.
+As it relates to our core business, Mr. Preusser spoke to this. We provide public transportation. The
+operative word there is public. And so when you've made your statement about a higher priority should be
+placed upon special event service, I would disagree with you respectfully, because we're delivering transit
+services to all people, quite naturally.
+And then more specific to that point, we have an obligation of being good fiduciaries as it relates to where
+we are. That does not mean that I don't hear you loudly and clearly relative to where we sit. But on the flip
+side of it as well, something that's quite important, when we think about the resources that we currently
+have available relative to delivering service and leveraging people, I would share from an observer who
+has been a transit practitioner for several years, when RTD was going through its hardship relative to
+ensuring service was readily available back in 2018-2019, it was due to the fact that all these resources
+were being deployed for special service, and we were mandating people to work. Therefore, there were not
+enough people available to pull out regular service come a Monday with base services.
+And so as we think about where we're going, a couple of things, to answer your question about how we can
+ensure that we have services available. The team and I have spoken, and we've talked about this,
+recognizing the environmental-- the environmental, I should say the landscape for our operating
+environment, that it would behoove us as we move forward, where we have different classifications relative
+to having people power that may be bidding on work that is for the extra board, we may need a classification
+for bus bridging, and we may need a classification for special event services or high volume, I'd like to say.
+Because as we utilize that term, special, why is a Broncos game more important than somebody getting to
+their job where they're making an hourly wage, trying to maintain their livelihood so they don't become
+unhoused?
+And so I think here, as we talk about it, words matter. And I'm not trying to sound preachy, but what I'm
+saying is there's work for us to do. Where we're at currently is that we're going to be making some tough
+decisions. Primarily, the Board will be making tough decisions, as the Chair of the Finance Committee,
+Chair Guzman and Vice Chair-- oh my gosh, I was going to call you Chandler. I'm so sorry-- Vice Chair
+Benker today, as we were talking about conversations relative to this body deciding what might happen,
+because we're trying to maintain our existing service levels.
+
+So I just want to be very transparent, as we talk about where we're going relative to the new or proposed
+sporting event venues, we have been in conversations, because as Mr. Stuart indicated-- Mr. Stuart, Mr.
+Summers indicated-- that primarily these locations were selected based upon access to transport.
+More importantly, as we talk about the National Women's Soccer League and that stadium, that was a
+critical component. I have been in discussions with the developers prior to the site coming to fruition, and
+there's work to be done. And quite naturally, we will be at the table talking about a plan.
+I would be remiss if I didn't state, you said that we need to be on time 99.9% of the time. I would share, that
+would be our ultimate goal, and that is a stretch goal, because when you put a bus out in mixed flow use
+traffic, you are not going to arrive at your destination 99.9% of the time. A lot of you have your own personal
+automobiles. You may use Uber. You may use Lyft. How many times when you travel do you arrive at your
+intended destination 99.9% of the time if you do not have dedicated guideways? and we do have street
+running vehicles.
+So to answer your question succinctly, what will we need? We would need additional revenue and
+resources relative to having adequate people power so we can have called out classifications whereby we
+could deliver those services. It could be done in the sense of identifying what resources we would have at
+the ready to move forward.
+Another critical aspect that I would like to see come to fruition at this agency, whereby when we hire
+individuals coming into the organization, we hire them separately relative to train engineer, a light rail
+operator, a bus operator. Multimodal agencies for which I am familiar and where I've worked directly, we
+would bring individuals in as bus operators first, and then they would have an opportunity to promote to be
+a rail operator or train engineer.
+The reason being is we wouldn't be seeking out volunteers when we needed the bus bridge. You already
+have somebody assigned to work. And then basically, instead of operating a transit vehicle that's steel
+wheel, then they could be on rubber tires. Those are things that the team and I are currently looking at. So
+I just wanted to share that.
+I will yield the floor to my colleagues to see if you have anything additional to add to the comments that I
+made, just by virtue of being a transit practitioner in this space. Thank you.
+PATRICK PREUSSER: Sure. Definitely appreciate the comments. Agree with everything that was just said.
+The only thing that I would add to that is that-- I'm going to go back to the earlier comments that I made. we
+are fortunate to have had some major successes here at RTD. We are fortunate to have a team that is
+extremely passionate about what they do. And one thing I can say with absolute confidence is that they are
+always willing to strive to provide the best service that is possible. And with that-JULIEN BOUQUET: Mr. Preusser, is your mic on?
+PATRICK PREUSSER: Yes, I'll bring it a little closer. Sorry.
+JULIEN BOUQUET: Appreciate it. Thank you.
+PATRICK PREUSSER: And they are always going to strive to provide the best service that they possibly
+can within the service standards that we have adopted, within the working conditions that we've agreed for
+our employees, and that's within our capacity and capability.
+
+You asked the question about what do we need from you possibly? And I would say any time we can
+advocate for infrastructure and be that thought leader in the region around transportation to make sure that,
+yes, there is a voice at the table when we're talking about how transportation is going to accommodate this
+new infrastructure, and how are we going to enhance transit and ultimately enhance our network with that
+new infrastructure so that we can serve those venues and those events in the optimal way that allows us
+to provide the best service across the entire network with ease, without there having to be too much
+compromise on either side.
+JULIEN BOUQUET: OK. I'm going to come back to you, Secretary. Hold that thought. Director Larsen.
+MATT LARSEN: Thank you. I'm just kind of wondering, sort of setting aside the people issue, if we could
+somehow get enough people for any given event to provide all the service we could, how much can we
+increase capacity at these major venue stops right now? And how much do we? Like, I mean, if at Empower
+Stadium, we would normally be serving, say, 1,000 people an hour, when there's a big game for the
+Broncos, can we get up to 5,000 people an hour, 10,000? And then also, what do we actually do?
+And then related to that, ultimately, I mean, at least rail transit should be able to be the most efficient way
+to move people versus cars or buses. But fundamentally, I mean, it seems like if 75,000 people are exiting
+Empower Stadium all within the same hour, we just can't possibly move all of those people with our light
+rail.
+And I'm just trying to understand, how far away are we from being able to-- what's the gap? What's the gap
+between what we could do with our existing capital infrastructure and what the potential demand could be
+if everybody viewed light rail, or whatever, as the best option? Does that-- I'm just trying to get a sense of
+the capacity that we would aim for, how much of the issue is just a pure capacity issue, setting aside the
+whole people situation, which I know is a big issue.
+JULIEN BOUQUET: Staff, within a three-minute response. Thank you.
+PATRICK PREUSSER: So what I can say about the current operation, the current design doesn't allow for
+any additional enhancements. And I guess the way I would try to explain it is this. We maximize the number
+of trains, the number of vehicles that the network will take presently. So we're actually doing the best we
+can.
+Now that's not to say in some cases, there might not be better decisions that could be made or we might
+have been able to execute maybe a little bit smoother, a little bit faster. But at the end of the day, when it
+comes to the number of trains, the number of vehicles, and the number of passengers we are carrying out
+of the stadium to get that clear time, and whether it's an hour, hour and a half, that is because we are
+maximizing the current network we have.
+And there are numbers associated with that. I don't have them off the top of my head. We could compare
+them.
+MATT LARSEN: Is that like 200% more than normal service, or 120%, or can you roughly quantify that?
+PATRICK PREUSSER: Yeah. I guess if you think of it in trains, we're introducing anywhere from an
+additional four to six trains, and we're moving as many trains as we possibly can within an hour to clear out.
+You figure 800, just because we had the displays that show you that what the max loads were for the trains,
+each train, 800. And you figure we're doing the maximum amount of trains that we can do an hour in order
+to clear the stadium.
+
+MATT LARSEN: You're like doubling service, maybe roughly? Is that doubling or tripling?
+JULIEN BOUQUET: Ms. Johnson, do you want to jump in?
+DEBRA JOHNSON: Yes. So if I may. And then I'm going to ask Mr. Jensen to chime in as well, as the
+Deputy COO of Rail, recognizing the operation.
+But to your point, one thing I wanted to add to Mr. Preussser's comment is that when we're talking about
+the infrastructure constraints and we're maximizing it, what I will say is that we don't have extra track as
+well to store rail cars as well. And we talked about the signal and power, right, when he showcased the
+various cars. And if we had a four-car consist, that takes more power.
+And so all of those different elements come into play, because if you've gone to different event venues and
+there's this throughput where you load and go and you have train cars, and there may be a supervisor
+waving something through, that's because they have what we call a pocket track sitting in a pocket, there's
+a rail car, an empty rail car, or a consist of three or four cars that's coming in to clear a platform.
+And I'm speaking from a place, when I was working at BART eons ago, when the Raiders were still playing
+in Oakland, we would have those gap trains. We had a plan. They were already stationed there. But that's
+heavy rail with dedicated right-of-way. That was an elevated track. So you could have those trains at the
+ready going forward.
+But really quickly, I know we're on time, but I wanted to just to ask Mr. Jensen if he was able to provide an
+answer relative to that percentage that you inquired about.
+DAVE JENSEN: So thank you very much. I'm Dave Jensen, the Deputy COO of Rail Operations. And you'll
+have to check me on my math. I'll be quick with it off the top of my head. We could go offline if you want to
+talk actual numbers.
+So you're asking how much more. I would have to speculate more on that. But here's the numbers on a
+basic-- we averaged last year about 12,000 boardings post-game for Broncos. We've got, if we're running
+a four-car train, that's a 800 people crush load capacity. The best capacity that we can do with the trains,
+with the system, with the power distribution, and the way the signal system works is to run trains every five
+minutes.
+So we're moving 12,000 boardings, 12,000 customers every five minutes on a train. Typically, we're running
+trains every 15 minutes. So we've tripled capacity at least on crushed loads. And that will take us roughly- now check my math. I know Kelly's here, so she can check my math. That's going to take us about 15
+trains on five minutes. It'll take us about-- our estimates are about it's about an hour and a half, hour and
+15 minutes we can clear out about 12,000 people on an average Bronco game.
+Typically, what we'd like to see is to be able to do that safely and to be able to do that continuously. And
+although we're not in competition, if we can clear the station platform out before the parking lot is clear,
+we've done a really good job. And typically, that's the way we do that. That's the way we measure it.
+MATT LARSEN: Thank you.
+DEBRA JOHNSON: Thank you.
+JULIEN BOUQUET: Thank you, Director. Director Paglieri.
+
+BRETT PAGLIERI: Thank you. I'll be brief.
+I think I just want to say that people need to be able to use RTD to go to big events, and we have to do it
+really well. It's a necessity for the survival of our agency.
+Some other notes-- thank you for your presentation. I really like special destinations. That's a great thing.
+Thank you very much.
+I have a little bit of another idea that I've heard asked from me, which is a system-wide map. So whether
+you land in Denver for the first time or you're like my roommate, who took RTD for the first time in his life
+this week, you can figure out how to get around simply by looking at a single map. So it's not just for the
+people who visit, it's for everyone. Because it is hard to know how to use RTD if you've never taken it before.
+And that map should include destinations.
+So here's another thing. I think that we should rename a lot of our stations to tell you what is actually at the
+station. A great example is the Central Corridor on I-25, the Tech Center. We should call it probably, sell
+the rights or maybe just figure out an equitable way to do it, but it should be the Fiddler's Green Station, if
+that's what everyone's going to.
+In other countries, you go to, like, often many places, and they just name what's big, the zoo stop, the
+Denver Science Museum stop. Whether we make money from it or not, that's another discussion.
+And I think another-- sorry, two more things, besides the map. Yeah, people don't necessarily get the sense
+that RTD is at the table. So surprisingly, I'm actually on the community benefits agreement team negotiating
+with the women's soccer league as a citizen. And RTD hasn't really been there.
+You might be involved in talking to the CEO of the WSL. You might be talking in secret talks with the mayor,
+with the Empower Field, or with the Broncos moving. You might be in secret talks. You might be doing this,
+but the community doesn't know that. And the community doesn't know think you're there. And they have
+kind of lost faith that you'll even be able to provide service. So you need to do some marketing and some
+brand awareness around the actual communities around these events.
+Would love to see the Red Rocks shuttle, or transportation somehow to Red Rocks, calling out West tracks.
+But I think-- sorry I took so much time from the rest of y'all. But really, one of the big solutions to all of this
+is just to have high frequency all day long, seven days a week. Then we can have a really good network.
+So basically, if you have high frequency, you can let people have fun all day long. And that's what I'll end
+with. Thank you.
+JULIEN BOUQUET: Thank you, Director. Director O'Keefe.
+PATRICK O'KEEFE: Thank you, Mr. Chair. And I'm sorry for not being on camera for everybody.
+I actually want to-- I want to [? check us ?] right now. We aren't just-- we don't just need tweaks on this. We
+need a fundamental reset on our major events. And we're not running at full capacity. I attended a Broncos
+game, watched them take 10 minutes to load the train, 10 minutes. One person was staffing it. They were
+trying to get people in the car. And as soon as [INAUDIBLE] the next car, the next car would get in line for
+it. 10 minutes to load the train, and the next train came 30 minutes later.
+Special events are a way for us to win customers for now or lose them forever. And we need to
+fundamentally stop what we're doing and look at what other success stories are outside of the agency. And
+
+I would actually ask that we hire an outside consultant that can baseline our service versus other cities'
+service and opportunities for us to do things differently.
+I don't think that as a group-- and I put the Board in that as well-- that we are coming up with ideas other
+than service is bad or we're doing the best we can. This cannot possibly be the best we can. This is the
+number one issue I hear about my district, number one. And I don't even know how close number two is. I
+hear it from mayors. I hear it from the public. I hear it from businesses.
+We are not just missing on this. We're failing at it. And we have got to reset our [INAUDIBLE]. So I'd actually
+like to make a recommendation that we hire an outside consultant that can baseline what we're doing and
+not rely on ourselves going out to do this. Thank you, Mr. Chair.
+JULIEN BOUQUET: Thank you, Director. Director Benker.
+KAREN BENKER: Thank you very much. I just wanted to remind everybody that we did Broncos Ride and
+Rockies Ride for decades. Decades. And it worked really well. And a lot of people were happy. And I think
+we gathered a lot of new customers because of that.
+We've got two big events coming up. The big one, in a week and a half, is the No Kings March. The first
+one that occurred did not go well. I received emails from some of my constituents that said, I got down there
+but I couldn't get back home to Longmont. Some couldn't get back to Boulder. One of my constituents had
+to spend $80 on an Uber to get back home because Union Station was shut down.
+That can't happen. So in another week and a half, I think this coming march is probably going to even be
+bigger than the first one. So I'm hoping we are going to be prepared and we can do this.
+The second thing is, I went to my very first meeting on the Sundance Film Festival. And while I find that
+topic pretty interesting, I'm starting to learn more. I was involved with my first meeting last week, and I
+understand you had your first meeting, along with Phil Washington.
+This is huge for the state of Colorado. Not just RTD, not just Boulder County. Because the more I'm thinking
+about this, the more I'm thinking that if RTD messes this up, getting tens of thousands of people in a very
+tight time frame, it's going to be somewhere between 10 days of the event, plus time before, time after. If
+we don't come through this event shining, we will be hurting the entire state of Colorado.
+Now, Patrick, I understand you might have some experience with this, coming from Salt Lake. So I'm hoping
+that we can work together on this, because it's not only moving people from DIA to Boulder, DIA to their
+hotels, which I should also add, which I found surprising too, is that this is such a huge event that they're
+working with hotels that are 40 miles away from Boulder. So that means Denver is going to be very much
+involved. Arvada, Lafayette. Broomfield, probably. Maybe even Brighton.
+But all I can tell you is this is serious. And we're not only going to need relying reliable service between DIA
+and all these other venues, we're also going to be needing shuttle service. And so this is going to mean
+we're really going to have to put our best foot forward.
+I do think the biggest issue facing all these other events that we've had over the past couple of weeks and
+months is dependability. We know the concert's going on. We know there's a march. We know there's a big
+Bronco game going on. And it's us hearing from our constituents that, where's the bus? Where's the train?
+Waiting 30 minutes to get on a train.
+
+So you're new. So I welcome your ideas and your thoughts on how we can expedite this and make it
+efficient, effective, and get some of our customers to come back to RTD. Because as Patrick just said also,
+you try it once and you get messed up, you're not going to try RTD again. So we've lost a customer for
+either many years or perhaps forever.
+So we really need to put a lot more time, effort, thought, and then execution to make sure that it happens
+and it goes well and we keep our customers happy.
+JULIEN BOUQUET: Thank you, Director. Director Guzman.
+MICHAEL GUZMAN: Thank you. Early on in the slides, you listed capacities. And I just have a question
+about that. For example, the 40-foot bus says it's 38 seats, people seated, 74, if it's standing room only.
+With respect to that and the following slides, for each of the types of trains that we have, is that the maximum
+amount if we are occupying the six to eight spaces that people could sit if they are not in a wheelchair, or
+does that reduce the number, if we, for example, say on a 40-foot bus, have three wheelchair riders in those
+spaces? Because I'm just trying to calculate it in my head. It's a small detail, but I'm curious.
+PATRICK PREUSSER: It would likely reduce that number.
+MICHAEL GUZMAN: OK, thank you. I will assume that follows through with the other three.
+Madam CEO, I have a question for you. Do we receive 5307, 5309, 5310, or 5311 funding from the FTA?
+DEBRA JOHNSON: Yes, we do.
+MICHAEL GUZMAN: Thank you. Have you signed all the certifications and assurances that you are
+authorized to do by this Board?
+DEBRA JOHNSON: Yes.
+MICHAEL GUZMAN: OK. So 49-CFR-604 would apply to any sort of specialized charter service that we
+would not regularly be allowed to offer for games of sports events or concerts that are not, although it's
+Bronco nation, a national emergency to get to?
+DEBRA JOHNSON: That would be correct.
+MICHAEL GUZMAN: Thank you. I just want to make sure that we're all aligned around that, because there
+are FTA rules. We are tied to federal funding. There are strings attached. And there's a reason that we
+canceled that Broncos Ride. And although I am a major Broncos fan and bleed orange and blue, I want to
+make sure everybody knows that that's a deal.
+If we have to deal with the relocation-- well, let me put this another way. We will deal with the relocation of
+the Bronco stadium. I'm old school. I don't go with the other name. Sorry. But right now, we have an
+Empower Field stop, and that's a contract based on the current location. Under the current circumstances,
+I would assume that we would rename that stop to something else once Empower Field is no longer there,
+near the Auraria campus and the sports walk.
+And so my question would be, and as an advise, if we can garner a better contract for payment of naming
+a station right near 10th and Osage, which already has a wayfinding, according to our policy name, I would
+be OK with 10th and Osage, at something else, if they would like to do that.
+
+But we pay the cost and the burden is on us to change that name every time a new owner buys that stadium
+currently. And that seems highly unfair to RTD taxpayers, when they can afford to invest as much as they
+are to move the stadium. So I would hope we would keep our eye on that and then also quickly move to
+change the current station to a proper name, following our Board policy.
+What happens with this whole plan-- because here's where it falls apart-- with a delay of game, with
+overtime, with a late start? Metallica's concert was scheduled to start at, what, 6:00, and they didn't even
+hit the stage until 8:30, 9:00? Yeah. Both nights, not just one night.
+And I'm not a diva, but I would imagine that Taylor Swift or Beyoncé or anybody else, who I have great
+respect for as artists, they choose when they start, not us, which means they also choose when they end.
+If they choose to have an encore performance. The same with respect to the Denver Performing Arts
+Center, where you can go see a show, and they may or may not perform an encore at the end of those
+major events that are down there.
+Well, simultaneously, the theater is packed and the orchestra hall is packed and the opera is going on, and
+the ballet is happening, and about 20 other shows in the little theaters that are all throughout that center
+are going on at the same time. And then everybody gets out in the flood. But let's say, for whatever reason,
+there's a delay. Denver is notorious for having delays at the Boettcher Hall in the Performing Arts Center
+because we do off-Broadway first, which is a great boon to our arts scene. And so while they're working
+through kinks of off-Broadway plays that haven't gone to Broadway yet, sometimes it creates a three-hour
+show time frame, when 2.5 hours is what's planned.
+So how do we be nimble in that? I hear the other Directors, I agree. Reliability and dependability are a big
+thing, but we can't stop running regular service, which is what we do and what we get funding to do, to
+stack up a bunch of equipment somewhere on the street and block traffic until we can start moving people
+again. So can you enlighten us as to what that game plan looks like when something like that's going on,
+or is it just a wing it?
+PATRICK PREUSSER: Yeah, it's definitely not a wing it. I mean, that's where that coordination that I spoke
+about from between the control center, between police, between communications and also street
+supervision, we understand that everything is not going to go as to schedule for all of these major events.
+So when we strategically allocate our staffing, our additional train sets, or our additional passenger vehicles,
+we do that in a way that is not going to have a negative impact on regular traffic patterns or any of that
+nature. And that is constantly being monitored so that real-M time decisions could be made in the field, and
+then that equipment is deployed mainly from that coordination from the field and the control center to provide
+the service that's needed kind of dynamically when it's needed.
+So we go into it understanding that there's likely going to be some changes. We're going to have to be
+flexible to do that. And as long as we do that within our service standards, we're OK.
+JULIEN BOUQUET: Director Chandler.
+KATHLEEN CHANDLER: Thank you guys for such an informative presentation. I have to concur with many
+of the Directors that the number one issue I get complaints about is the Bronco Ride. There is no Bronco
+Ride. There is no-- And I have been caught multiple times stuck at a Rockies game, because my family had
+to get broken up because they hopped on the train and where I was going to hop on, there was no room,
+and we ended up getting separated. And that was an anxiety-filled moment.
+
+So it is a huge problem. And I understand the four-car limit, but the frequency is what is really upsetting.
+Because we had to end up waiting for almost 30 minutes for the next car, and then we ended up taking a
+different one to try to get off to see if we could connect quicker at another stop, because we were at a
+transfer at 10th and Osage, and it ended up being maybe a few minutes quicker. And it was less people,
+so that was a good decision. But I only knew that because I have a little bit more affinity to being able to
+navigate this. So it is a huge, huge problem.
+To Director Benker's point. Part of what the whole Broncos thing is is they are anticipating being able to
+bring the Super Bowl to Colorado. If we screw up Sundance, we will never get a Super Bowl, I can assure
+you. And that will be a huge loss for those that are investing the multi-billion, potentially, dollar stadium.
+And I think that's extremely unfair to them that the anticipation is that they will bring a Super Bowl. And it
+would be a boon to the entire state, to the region. People from all over would obviously-- the entire-- I mean,
+now that the NFL is becoming international, it would bring international travel. So absolutely need to.
+So to Director Benker's point, the biggest problem isn't getting to the venue. It's getting home from the
+venue. And that's obviously because the crush of people in that small window. So, I don't think the frequency
+or the solution is at the front end. It's definitely at the back end. And we cannot continue to fail. I mean, that
+is the biggest complaints I've had.
+And I understand, to Director Guzman's point, we do have to be regulated with all of this federal dollars,
+but there has to be a solution. And if that means we need to go to Washington, DC and tell them our plight,
+then we need to do that. We need to be flexible as Directors to go and write, talk to somebody. I mean, we
+have senators that are supposed to be advocating for us as a state.
+And I also would maybe suggest too coordinating something with E-470. I'm on the E-470 Authority Board,
+just because of my RTD position. And do we have buses that could go up E-470 and help alleviate some
+of the traffic, obviously, for the airport? What does that look like? I don't know, but I know that they have
+been thinking about coordinating with some transit through the E-470 corridor. So that might be a solution
+as well. Thank you.
+JULIEN BOUQUET: Yes. Thank you, Director. Ms. Johnson.
+DEBRA JOHNSON: Thank you. Thank you guys for the comments and the suggestions. They haven't fallen
+upon deaf ears. We know there's opportunity.
+So a couple things that I will just share really quickly. We have met with E-470. When the new executive
+director came on, we talked about partnership. Mr. Summers was in that meeting with me as well. And we
+have leveraged different ideas around what we can do better. So I just wanted to share that.
+Quite naturally, with Sundance, as well, it's going to take all of us. And we do know, they were asking for
+suggestions, and I offered up some relative to hotels and having shuttles and things of the like.
+One thing I do want to share with all of you as well, that I'm involved with Ready, Set, Go. And basically,
+that's looking at all these different major events-- I would qualify those as major because we're talking about
+LA '28. We're talking about FIFA being in six American cities and what might be happening, when you're
+talking about going to Congress, that's already in the works relative to ensuring that potentially that there's
+monies readily available as we look at hosting high profile events for various reasons here in the United
+States that bring additional revenues and things of the like.
+
+So I wanted to put that out there as well and let you all know that we're open to ensuring that we're not
+failing. We don't want to fail. And just by virtue of the construct of our network, we're not resting on our
+laurels, using that as an excuse. I hear you loudly and clearly when we talk about frequency. But the whole
+aspect about frequency as well is still the power aspect, because if you have four-car consist and you have
+another four-car consist behind, if we had all the rail cars, we still have the power and signalization that's
+needed as we move forward. So we can look at that.
+And to the point that Vice Chair O'Keefe raised, yes, we can leverage a consultant and look at what might
+be better for us as we move forward. Not that I know everything, but I guarantee you they're going to come
+in here and talk about the limitations that we have as we move forward with our network and whether it's
+good, bad, or different. That is something that's critically important.
+The one thing I'll end with, as relates to federal regulations, not trying to hide behind that because there is
+a way in which we can do it, basically instituted the Dodger Express when I worked at LA Metro. What we
+did came out of Denver Union Station. It stopped down the street at a corner, because basically anybody
+else could board. So it's not a privatized charter service. So it's not going to be direct direct, because it has
+to be available to the public. And so there's ways in which that can be done if, in fact, that's the direction in
+which we're going.
+But also to the point about all these different entities, and I heard Director Paglieri, as he talked about being
+involved with planning relative to the National Women's Soccer League Stadium and things of the like,
+plans are still working. Quite naturally, we're going to be at the table. We're having discussions around
+where we're going to be. A lot of these things are proposed.
+So I just wanted to share that in this public forum that we're not sitting idly by. We are engaged as it relates
+to where we are. There are suggestions put forward about critical task forces that are needed relative to
+Sundance, for instance. And quite naturally, that was selected. Having worked with John Tayer when he
+reached out, talking about they were going for the bid, we talked about how they could get from the airport,
+quite naturally, to Boulder, and all of those elements were critical factors.
+So thank you all very much for engaging on this topic. You have partners in us as staff and we understand
+what it's like. All of us have been out, we go to various venues, and I am a transit customer as well and
+understand the pain points.
+Some of you that have been on the Board know that I was stranded on the N Line and missed a very
+important panel I was supposed to participate in. So when I'm speaking, I'm speaking from a place of
+knowing, because I've been impacted as well. And we want to do our best. We're working within the confines
+of what we've been dealt, but that doesn't mean that there's not room for improvement.
+So that's where it comes to having difficult conversations about what we might need to do to increase the
+throughput relative to where we are and how the system was constructed. So thank you very much, Mr.
+Chair, for the privilege of indulging in this topic.
+JULIEN BOUQUET: Thank you very much, Ms. Johnson. Any other Directors? Oh, Secretary Nicholson.
+CHRIS NICHOLSON: I was patient. Four days from now, the CU Buffs will play, I believe it's Iowa State, at
+1:30 PM up in Boulder. We run 15-minute service on the FF, which means you get about, let's say 60, 70
+people per bus, probably a little higher if everybody's packing in. So we're carrying somewhere on the order
+
+of 280, 300 people over that hour for a game, for a stadium that can seat 30,000, 40,000, I think. 50,000,
+he would know. Not a CU person, but football. 52,000 people.
+How many extra-- how much extra service, supplemental service will we be running on the FF on Saturday
+to take people up to the Buffaloes game? And how much extra service will we be running? Because I know
+a lot of people who have, they've tried to ride the bus up to the game, and it has been completely packed
+when they've tried to get on at Westminster, or literally Broomfield, any of those. So I'm going to put you on
+a number here because it's four days away. How much extra service are we running?
+DEBRA JOHNSON: Mr. Chair? Thank you very much, Secretary Nicholson.
+Traditionally, we would not be running additional service as it relates to a college football game. We have
+15-minute headways. We're running in mixed flow use traffic. I'm being very forthright with you, because
+I've taken the FF one to go see USC play the Buffs. And I go to the games. And this one saw me one
+Saturday morning as I was going to the game.
+So recognizing where we sit currently, I'm telling you from a historical perspective what might we be doing.
+It's 1:30. 15-minute headways are very good for mixed use traffic flow relative to what we're delivering and
+what we're carrying. We can assess that, but I would yield the floor to our COO. But I was just letting you
+know from a vantage point, there's a lot of different activities throughout the region. And as we talk about
+what may be a high priority, it is balancing out the level of service that we have from our obligation vantage
+point relative to delivering core public transit services.
+JULIEN BOUQUET: [INAUDIBLE]
+PATRICK PREUSSER: Yeah, I don't have anything to add to that.
+JULIEN BOUQUET: All right. Well, I just wanted to again say thank you very much, Directors, for your
+questions, comments, and concerns. Thank you very much, staff, for your presentation.
+Out of all the comments, I concur with Director Chandler. We're really good at getting people there. I get
+the most complaints about getting people back, and I understand it's a power issue when it comes to the
+light rail.
+I'm just going to be frank-- and this is no longer me as a Chair, this is me as a customer. I'm waiting for the
+E line and I see that W Line pass. Well, I mean, I can't-- and no one's using it. I'm just going to tell you
+anecdotally, and I know there's service coming to it, but something just, just something creative that we
+have to think about. Because as stated before, you could win them as lifelong customers or you can lose
+them. And it's these special event services where we can succeed with this.
+And so we got to figure out something to do. Is it having extra bus bridges? I don't know what it is. I'm not
+a transit expert in that. But we have to find out some kind of solution that when people get there and leave,
+they have an enjoyable experience, because they will recommend that to everyone they know.
+So with that being said, are there any other matters? OK, seeing none, motion to adjourn.
+[? VINCE BUZEK: ?] So moved.
+JULIEN BOUQUET: So moved. Have a good night. We're adjourned 8:41.
+
+

@@ -1,0 +1,913 @@
+2025-10-15
+Operations, Safety and Security Committee
+IAN HARWICK: Hi, everyone. The Wednesday, October 15 Operation Safety and Security Committee will
+now come to order. We are convened as of 5:30 PM. I would respectfully ask everyone attending this
+meeting to mute yourself, unless you are recognized to speak.
+Please note that the committee meetings of the RTD Board of Directors will be held remotely via Zoom,
+and will be audio and video recorded. The meeting recordings, along with the unofficial minutes of the
+meetings, will be posted as soon as practicable on the Board's website.
+During today's meeting, we are providing Communication Access Real-Time Translation, also known as
+CART. Anyone who would like to access this service should send an email to the RTD Board Office at
+rtd.boardoffice@rtd-denver.com and the link will be provided. Additionally, the CART transcript can be
+automatically translated into Spanish for anyone, who would like access to a live transcript of this
+meeting. A live stream of this meeting is also available via RTD's YouTube page.
+I would now like to call the roles of the committee members.
+Director Buzek.
+VINCE BUZEK: Here.
+IAN HARWICK: Director Chandler.
+KATHLEEN CHANDLER: I'm here, and I have to say, Ian-- Director Harwick, I think your microphone,
+something's a little garbled. Is anybody else hearing that your microphone is a little on the garbly side?
+IAN HARWICK: How about that now?
+KATHLEEN CHANDLER: Much better. Thank you very much.
+IAN HARWICK: Thank you for telling me. Director Nicholson.
+CHRIS NICHOLSON: I am here.
+IAN HARWICK: Director O'Keefe. All right. Director O'Keefe was driving, so I'm guessing he'll jump in.
+Director Paglieri.
+BRETT PAGLIERI: Present.
+IAN HARWICK: Director Whitmore.
+TROY WHITMORE: I'm here.
+
+IAN HARWICK: All right, Director Harwick, that is me. I am here, and we have six out of seven Directors
+present.
+All right. Now, I would like to open to public comment. Anyone who would like to address the committee
+regarding any topic listed in the published meeting agenda for the current and immediately preceding
+month. If you wish to speak and have not already done so, please either raise your Virtual Hand or press
+Star 9 on your phone.
+During this time, the committee will not offer any direct comments or responses. However, if you would
+like to be contacted regarding your public comment, please email the RTD Board at rtd.directors@rtddenver.com.
+Board Manager Kroll, do we have any hands raised?
+JACK KROLL: We do. We have one individual with their hand raised, and that is Joe Meyer.
+IAN HARWICK: OK. Joe, if you would like to speak, you'll have three minutes.
+JOE MEYER: Awesome. Thank you, Chair Harwick and members of the committee for the opportunity to
+speak tonight. I have three topics I'd like to touch on. The first is in relation to the reinstatement of the L
+Line and the full-length H Line in the proposed service changes.
+My understanding was that prior to the suspension of the L and the truncating of the H in this most recent
+schedule period, we were not quite having enough operators to consistently hit all of our runs every day.
+And my hope is that light rail operator hiring has continued while those lines were suspended and
+truncated. But I am very curious if hiring has been successful, and if we think that with the reinstatement
+of the L and the full length of the H coming back, if we'll have enough operators that you think we can run
+every single line in the system reliably and with fewer dropped runs?
+The second piece I want to touch on is the Platte Valley FlexRide cutting. So that looks like low usage,
+high cost per rider to driving the agency to cut that service. And combined with this, in yesterday's
+committee meeting, there was discussion of taking on, I think, about $20 million in certificates of
+participation to purchase cutaway buses. But given the cost and the low ridership of some of these
+FlexRide routes and the cost per boarding of our Access-a-Ride routes, I'm curious if the Board or if staff
+have evaluated if we're running the right vehicles for these on-demand services?
+Especially if we're talking about cutting some of these on-demand services because of underperforming
+ridership and costs. So I'd be very curious if there's been discussion about exploring other vehicle types.
+Things like wheelchair accessible minivans, vehicles similar to what Link On Demand or Denver
+Connector run. And if we can get costs for some of these on-demand services more in line with systems
+like Link or the Denver Connector to hopefully have to avoid continuing to cut more and more of our
+FlexRide service.
+And then the last piece that I want to touch on is the proposal to remove advertising from the windows of
+buses in future advertising contracts, and I'd like to heavily support that. I think it's tough to make a
+decision to get rid of some revenue right now. But I think it's the right thing for RTD to do, to show that the
+people on the buses, the people on the trains are the most important part of our transit network. that's
+why you do what you do, is to move people and to move people with dignity.
+
+So I would urge the committee here to strongly consider voting to cease the practice of covering windows
+with advertising and putting the riders first. Thank you very much.
+IAN HARWICK: Thank you. Mr. Kroll, do we have anyone else?
+JACK KROLL: At this time, there are no other speakers in the queue. You did receive one public
+comment via email for this meeting, and that's in relationship to the Route 6. And this is a follow-up to a
+public comment you all received at the Board meeting last month, related to the timing of the Route 6 and
+its service to Hill Middle School.
+IAN HARWICK: OK, thank you. I'd also like to recognize that Director Guzman has joined us. And with no
+other participants in the queue, we will close the public comment period for this time. There are no
+external entity reports on the agenda for tonight's evening. And there are no recommended action on
+today's agenda. We had anticipated approving the Public Transportation Agency Safety Plan-- the PTAS- but that item is still with the Joint Labor and Management Safety Committee for consideration. And it is
+anticipated that this item will return to this committee in November for approval.
+All right. Now, we're going to move on to discussion items. While there are no recommended actions at
+the time, we have three important discussion items, and they are included on the agenda. The first item is
+for the Winter 2025-2026 service change recommendations. I would like to ask Patrick Pruesser-- Patrick,
+sorry if I got your last name wrong-- Chief Operations Officer and Jessie Carter, Senior Manager, Service
+Development, to present this item.
+PATRICK PRUESSER: Thank you very much, Director Harwick. So good evening, Chair Harwick and
+members of the Committee. This Winter '25-'26 service change item is before you today for discussion
+with the recommendation for committee action plan for November 12. The proposed service change
+supports our ongoing service delivery efforts and aligns with the collective bargaining agreement.
+As part of this process, staff will host two virtual public hearings to inform the final recommendations.
+Those hearings are going to be on Monday, October 20, via Zoom, Tuesday, October 21 at 5:30 PM via
+Zoom. These hearings will help ensure public input and transparency before the committee takes action.
+Some key points. The service change enables Service Development to adjust service levels and
+employees to select work assignments. The proposed budget for service in 2026 is flat, with staff focusing
+on improvements to existing service rather than expansion.
+As far as the approach, focused on improving reliability and aligning service with demand. There's no
+major reductions proposed. Changes are mostly scheduled refinements. Some of the highlights include
+the downtown rail restoration. D, H, and L Lines returning to the Central Corridor. Longmont service
+restored after corridor reconstruction. Platte Valley FlexRide discontinued due to low utilization with
+alternate service available, with the overall financial impact being cost neutral. This supports customer
+excellence and strategic plan goals. It adheres to Board service standards and Title VI requirements.
+With regard to next steps, we appreciate-- well, I guess just to spend a little bit more time on next steps,
+following the public hearings and community outreach, staff will finalize recommendations and return to
+the Committee on November 12 for recommended action. And of course, we appreciate the Committee's
+partnership and advancing a balanced, customer-focused service plan that maintains the integrity of our
+network while living within our fiscal realities.
+So at this point, we're happy to answer any questions the Committee may have.
+
+IAN HARWICK: OK. Before I hand it off to questions, I also recognize that Director O'Keefe has joined us.
+Are there any comments or questions from the Committee?
+Well, OK. It's a record. Patrick, you're off- I think you're off. I think you're good to go.
+CHRIS NICHOLSON: There is someone with a question.
+IAN HARWICK: Oh, I didn't see you.
+TROY WHITMORE: Two hands raised.
+IAN HARWICK: They're not showing up on my thing. I'm sorry. Please, apologize. I'm sorry. Director
+Paglieri, I see you first, now showing up correctly on my screen. My apologies.
+BRETT PAGLIERI: No worries. Thank you, Chair. This is Director Paglieri. You were so excited to not-IAN HARWICK: I really was. I was so excited. I'm sorry.
+BRETT PAGLIERI: Mine's very short. I just wanted to ask about the notice period. I've heard concerns
+from constituents-- I believe, actually from District C, but who use Platte Valley like Final Mile service, the
+Connector. I'm wondering when we notified people that this service would be ending? And I ask that
+because perhaps consider extending it just so we give people a little bit more notice and time to change
+their commuting patterns. But yeah, I guess the question is, what did the public notice schedule look like?
+Thanks.
+PATRICK PRUESSER: Yes, Director. Thank you for the question. And of course, we're sensitive to that,
+as well. I have Jessie Carter, our Senior Manager for Service Development, and I'm going to ask him to
+clarify and explain the minimum timelines that we abide.
+JESSIE CARTER: Sure. And thank you, Patrick.
+At this point in time, the notification went out and became public with this particular meeting. So we're
+talking about a January 4 discontinuance of service. This offers the same type of notification that we have
+for any major service change to include service cancellations. So it's no different from any other time that
+we've had cancellations of service.
+Now, one thing I will mention, the Platte Valley FlexRide is at a very low level of ridership and comes at a
+very high cost per boarding. And prior to it being the Platte Valley FlexRide, it was the Route 33, which
+many don't remember because not many people rode that service, either. And it was converted from
+Route 33 into a FlexRide or a non-fixed route service because of its low ridership, as well.
+So we've had a history in this particular area with low ridership service. but at the same time, what's
+somewhat new is the DOTI provided service, the Denver Connector service, which overlaps a good
+portion of the existing FlexRide. So we're hoping that, that helps ameliorate any problems that our current
+customers may have, and may have actually contributed to our lower ridership, as well. And I hope that
+answers your question.
+BRETT PAGLIERI: May I respond, please?
+IAN HARWICK: Sure.
+
+BRETT PAGLIERI: Thank you. Yes, it actually does answer my question. And I wasn't sure if these were- I saw the map of them overlaid, and I was confused, but you just clarified that, as well. So thank you. I'll
+relay the information.
+And then one final comment. It would also be in the same area that there seems to be a little bit of an
+inefficiency, the way that we route the 16 and 15 L around-- from Federal to Decatur Street and then
+around. It would just be worth noting that with the opportunity of Federal BRT re-renovating the
+intersection, that perhaps there could be a way to reduce the idle time and the operator time spent doing
+a loop to give riders a more enjoyable journey and not have to do the loop around. But I just want to put
+that out for a thought. Thank you.
+JESSIE CARTER: Thank you for your comment. I appreciate it.
+IAN HARWICK: Director Nicholson.
+CHRIS NICHOLSON: Yes. So I have two different questions. The first one, I'll ask and then-- oh, it looks
+like Director Guzman had his hand up, and then dropped his hand. But if he wants to come back, he can
+go after me, and then I'll go to the second one.
+So the first thing I want to raise is just, I've been working with GM/CEO Johnson and Mr. Carter and I am
+forgetting his name, our wonderful Head of Bus Operations, who just joined-- Greg Smith-- Mr. Smith, I
+should say-- on an issue that's faced a part of my community on a route that I take on a regular basis. For
+a number of the students at Hill Middle School, who as you heard at the previous Board meeting, have
+faced an issue where they've had to literally leave class early and run for the bus.
+And at the moment, the changes necessary to ensure that those students will be able to catch the 6 bus
+without having to run into traffic, are not in the service changes. But it's my understanding, and maybe
+GM/CEO Johnson, you can or one of your team can speak to this, that it is something that you are
+working on. And maybe you can give me a sense of how you feel about the opportunity there to make it
+easier for students to access our regular fixed route service to get to and home from school.
+IAN HARWICK: GM Johnson.
+DEBRA JOHNSON: Yes, thank you. Good afternoon. Debra Johnson, General Manager Chief Executive
+Officer. I want to provide some context and then I'll yield the floor to my colleagues.
+Yes, Secretary Nicholson broached this issue with me. And quite naturally, when it first came to my
+attention, I had the opportunity to confer with staff. Just for the committee's edification, as it relates to
+transit services, traditionally, RTD has coordinated with a representative for Denver Public Schools as a
+whole, when you think about the Denver Public School District being the largest one in the entire state.
+With that as a backdrop, when you think about the various schools that we have, if we were doing oneoffs with everyone, it would be hard to manage our network and create connectivity that is meaningful.
+And further to the point, as you all know, that the operative word in what we do is Public Transportation.
+And just by virtue of federal statute, we do not provide public school bus service.
+And so with that context, as we move forward, Mr. Carter has been able, as he does with each service
+teams, coordinates with one individual at DPS. And I do know that they have been in coordination as
+there are a myriad of different policies relative to the school district and how they handle student
+transportation.
+
+So with that, I wanted to ensure that the full Committee had that information.
+In the interest of full disclosure, Secretary Nicholson was in my office today, and I called Mr. Carter. And
+we didn't connect until after our meeting, Secretary Nicholson. And so I know there is a meeting pending
+and want to ensure that Mr. Carter has the opportunity to share that information, so everybody's aware of
+how we coordinate with other schools within the Denver Public School District.
+So with that, Mr. Carter, I will yield the floor to you, sir. Thank you.
+JESSIE CARTER: Thank you, CEO Johnson. We've had a chance to talk with both the Principal's Office
+at Hill Middle School, along with the DPS Executive Director of Transportation. And we are still working on
+some possible solutions and hope to meet again with the customer that you were representing, Secretary
+Nicholson, tomorrow morning, actually, at 11:00. So I hope to get a little more information about their
+situation and perhaps provide a more comprehensive response to what happens with Hill Middle School.
+I do believe that overall, long-term, the SOP addresses the issue on the Route 6 in providing 15-minute
+peak frequency in the peak direction. So that long-term, we know it's something that we can solve, and
+I'm hoping to find a short-term solution, as well.
+IAN HARWICK: Director Nicholson.
+CHRIS NICHOLSON: I really appreciate that. And obviously, if you want to start running 15-minute
+service in May, that would be phenomenal. But I know that that's probably not coming.
+The nice thing here is it's one bus that we can possibly, hopefully, move by 10 minutes or seven minutes
+or something and try to make sure that we're picking up-- we are at the right place at the right time, so
+that a large group of customers, who all happen to be students, can get onto the bus and take it to their
+various stops that they would go to.
+So I really appreciate you engaging on that, Mr. Carter. There are a lot of things we have to do, but at
+least in my mind, picking up students and getting them home-- picking up kids and getting them home
+safe is one of those things that voters tend to be happy when we do it well. So I really appreciate that. I
+have-- go ahead, Mr. Carter.
+JESSIE CARTER: Just in response, Secretary Nicholson, in looking at the impacts of sliding the
+schedule, the team and I, we've gone over that. We believe the best solution is not to necessarily slide
+the trip later, but to provide a supplementary trip, if possible. Because there are a number of connections
+that are made at the Aurora Metro Center that we don't want to necessarily have negative impacts on.
+CHRIS NICHOLSON: Yeah. and I guess, if you've got a bus-- sorry. My apologies, Mr. Chair.
+IAN HARWICK: No, go ahead.
+CHRIS NICHOLSON: Yeah. I was just going to say if you suddenly have a bus that's full of a bunch of
+students, you may not have much room for anybody else on that bus. Thinking about it. So that makes
+sense. Thank you. And I appreciate you digging in to see if that's possible.
+Second question, if that's OK? So I will say, one of the things I really appreciate that you guys did in this
+update was cutting the FlexRide that is in there. It is always difficult to cut service. It is painful to cut
+
+service. And I think if we learned anything on the meeting yesterday, we cannot afford to do everything
+we want to do in the long-term.
+And the question of consolidation and the question of repurposing and being creative with our resources
+over the long-term is going to be necessary. Based on the budget that we have, it's just not possible to do
+without that.
+To what degree has your office looked at other additional optimizations of existing service capacity? So
+obviously we cut this one. You and I have talked about, for example, repurposing the 483 to go to the
+airport, rather than to serve as a local bus. To what degree have you done any kind of planning around
+optimizing our lower-performing routes into other types of service or other, you know-- yeah, improving it,
+so that we can use our resources more efficiently?
+JESSIE CARTER: If I may?
+IAN HARWICK: Please.
+JESSIE CARTER: Sure. In looking at the SOP, there are a number of changes that are contained within
+SOP, which the Board has already adopted as of July of 2022. Some of them actually involve some
+service reductions that we have not put in just yet. Some of those service reductions need further
+contemplation because of the fact that they are mirrored in their low performance by some other services
+now. So yes, there are a number of things that we can look at.
+And I have to say, quite frankly, it's a lot of our regional services and the level of regional service that we
+provide from certain areas, we're going to have to take some hard looks at in the future. But aside from
+that, I don't know that I can explain the entire SOP in a decent amount of time tonight, if that answers your
+question.
+CHRIS NICHOLSON: Yeah. I appreciate that. I definitely was not asking-- was not interested in you going
+through the whole SOP, but wondering to what degree, we are prepared for doing that kind of thing next
+year if we need to, and scenario planning, and getting ourselves in a position where we can make
+effective optimizations, rather than just, oh, we have to a bunch of rats, kind of thing. So that's really what
+I was wondering about.
+JESSIE CARTER: OK. Committee Chair, if I may?
+IAN HARWICK: Sure. And then, I see a couple others. You go ahead.
+JESSIE CARTER: I'll make it short. And that is, following the guidelines that are given to us by the service
+standards that we have, there are, of course, services that we've identified already as performing below
+the standard for their respective service type, and we will do it that way. But we'll also keep in mind the
+effects of those types of changes on the overall transit network. And so with that, I yield.
+IAN HARWICK: OK. GM Johnson.
+DEBRA JOHNSON: Yes, thank you very much, Mr. Chair. And thank you, Mr. Carter, for that explanation.
+But further to the point, for the entire Board's edification, I think it's important to take note that we do have
+a successor, comprehensive operation analysis. And to the point that Mr. Carter raised, we have to look
+at the entire network because just by virtue of adjusting one route, there could be residual impacts that
+impede the entire network.
+
+And further to the point, when you operate within a multi-jurisdictional system and you look at what we
+call interlining, basically making one route another route when it traverses a boundary, that could have
+impacts on other jurisdictions that have an expectation of service levels. So I would caution us holistically,
+as we talk about these matters, that we think about the entire network and not just subdistricts, or
+perhaps at the risk of overstepping the one area in which you represent, because this is a transportation
+network for the betterment of all the constituents in which you serve collectively. Thank you very much.
+IAN HARWICK: Thank you. Mr. Carter, I just have a quick question. It's about FlexRide, as well. And it's
+also about the Denver Connector. I know it's really low ridership, but I'm just curious, is there a way to-- if
+people that are riding FlexRide right now, and obviously they're not going to be able to ride it come
+January, is there a way to provide them with the information about the Connector, to give them a handoff
+over there?
+JESSIE CARTER: Director Harwick or Committee Chair Harwick, I will say that that's part of the next set
+of analysis, not only messaging out, but getting a better idea as to, who's using what? So I know Senior
+Manager Erin Vallejos, or Acting Deputy-- very long title, and I'll apologize to her later, at some point in
+time-- but I know she will be looking for information to ascertain exactly where the current customers are
+on the Platte Valley FlexRide, to give us an idea of what the impacts will be. And hopefully, we'll be able
+to provide that information going forward when we bring back the information for the recommended
+action.
+IAN HARWICK: That's great. Thank you so much. Director Guzman.
+MICHAEL GUZMAN: Hi. I was going to try not to, but you just went there, so I'm going to jump in real
+quick.
+Councilwoman Jamie Torres is all over the statistics for the Denver Circulator in Platte Valley, as it is
+primarily her district within the city and county of Denver. And I know that they are keeping a close eye on
+stats, who's using it, and they more than likely have everybody's contact information of anybody who's
+taken a ride on that particular service because of the cost and the commitment from the city to participate
+with the funding through the partnership program and RTD.
+So I am certain that we can make sure we inform all the people that are utilizing it on both sides that that's
+what's going on. But it is a more popular service, even though it's in its infancy stage. And as we have
+seen play out in the East Side, Montbello, and in Globeville, Elyria-Swansea, the expectation is that, that
+will become more popular rather quickly. And so I do appreciate that trying to settle things neutral and
+continue providing service at the levels that we are, that this was a consideration. It is always hard to
+make those cuts, but I do have to say that I was impressed by the thought that went into this one. And I
+just wanted to give you that kudos.
+Also, I don't know who made the change in the way that you present this information, but I appreciate that
+there is an explanation of what is being changed, and it's not just very generic. For example, the 44 and
+the gate issue, that would have been something that would have been hard for me to understand, but
+also, something that I need to know. And so when you're making these adjustments, providing that little
+bit of detail really does help get to a place of support for doing this work. And then just the fact that you
+kept it net neutral on all things, trying to adjust for maintaining service after our conversation last night in
+Finance and Planning, knowing that that's going to be the goal with the budget, maintaining our current
+level of service, I just appreciate it, so thank you.
+
+JESSIE CARTER: Thank you for your comment, Director.
+IAN HARWICK: OK. All right. And so now we are on to our-- is there-- I don't see any more hands. And I
+don't think my computer's messed up this time, so. All right. I'm seeing our second item is for the Window
+Covering Prohibition and System Advertising Policy Amendment. Director Paglieri, would you like to
+introduce this item? After you speak, I will see if either Director Nicholson or Director Larsen would like to
+add anything.
+Director Paglieri, you have the floor if you would like it.
+BRETT PAGLIERI: Thank you very much, Chair. This is Director Paglieri, again.
+This is exciting. We have an opportunity to greatly improve the rider experience. And really, that is by
+removing the obstructions and views of passengers on their journey on RTD. So I believe strongly that
+removing obstructions from windows allows people to enjoy their journey and improves the rider
+experience on our system.
+From a first-time rider on the A Line, when they finally come over that first hill and they see Denver with
+the majestic Rocky Mountains behind, or just a child going to school every day, looking at their
+neighborhood change through fall and the other seasons, really, it is enjoyable and inviting to sit on transit
+and look out the window. So there shouldn't be a reason not to enjoy a clear view outside the vehicle
+while riding.
+I mean, you expect the same treatment while traveling on the Zephyr and other services. I mean, I don't
+think anyone would ride the Zephyr if you couldn't see out the windows. And such, I brought forth this
+measure because I believe it is time to ban all window coverings, livery, and promotional wraps on all
+vehicle windows throughout the system. And I've highlighted three reasons tonight, but there's many more
+reasons, most of them personal, for why you wouldn't want the windows covered.
+The first one is window coverings widen the experience of riding transit versus riding in a car. It
+subconsciously tells riders that we are willing to sell out an important amenity of their journey. While they
+do not use it on their own vehicles, it is subjugating our passengers to a different experience than they
+would experience in a private vehicle, essentially.
+So the second thing, and I think one of the second most important, is it degrades the rider experience.
+And it encourages feelings of invisibility. And I've heard many stories of it leaving riders feeling less seen
+and therefore, more vulnerable and reduced sense of personal security.
+The third reason is the dot matrix is hard to see through, and it impacts people with poor vision in ways
+that the tint treatment on our vehicles does not. And really, we can't allow people with glasses or vision
+impairment to be the only-- without glasses or vision impairment to be the only people enjoying a ride.
+So besides these, there's a myriad of great reasons, and people have their own. But there was a [?
+number-- ?] Greater Denver Transit Community Survey and found 84% of respondents said that
+advertising or promotional route that covers windows should be prohibited.
+And yeah, I'll leave it at that. Thank you for permitting the discussion today, Chair. And I look forward to
+having any questions that the Board may have.
+
+But now, if Chris-- excuse me-- if Director Nicholson or Director Larsen have anything to say, I would like
+to ask if I could pass the mic to Mr. Kroll, to speak about RTD's history with window coverings and provide
+some additional information.
+IAN HARWICK: I'm happy to have whomever wants to speak next can speak next.
+BRETT PAGLIERI: OK. Thank you. Mr. Kroll, I know that you've prepared something. I'll pass the mic to
+you.
+JACK KROLL: Well, I didn't necessarily prepare anything specific for presentation, but I did want to go
+over the Board report that was prepared and provided in the packet for both the September Board
+meeting when this item was originally scheduled to be discussed, as well as for your meeting this
+evening.
+You all have waded into an ongoing conversation that's effectively been around as long as the Board and
+the Agency have been around. The notion of how and where to advertise on vehicles has been discussed
+by this Board as far back, as I can tell, as 1974. And various decisions have been made along the way to
+both expand and contract advertising space on vehicles and the practice of wrapping vehicles in general.
+There are a number of considerations that the Board has taken over the years to change those policies.
+Notably, in the '90s, the Board did allow for the wrapping, or the Agency, rather, allowed for the wrapping,
+of about 40 buses for a number of years, but then halted that practice as a direct result of feedback it had
+received from the public.
+Then you flash forward about 10, 15 years from that time frame, and the Board approved a pilot to wrap a
+portion of the windows on a light rail vehicle. And subsequent to that pilot, the Agency expanded the
+scope of available advertising space in its agreements with the various advertising firms that it was
+working with. And the notion there was that it was an opportunity to capture additional revenue.
+The reality here is that transit agencies across the country are also grappling with this issue, as well.
+We're no different. Director Paglieri provided information to me that I included in the Board report, that
+indicated that there have been two recent examples of transit agencies stopping the practice of wrapping
+their vehicles. One is in Albuquerque and the other is in Saint Louis. Those have both occurred within the
+last couple of years. And they cited in both of those instances, the customer experience is the primary
+driver for why they would stop that practice.
+I think it's important to note, and this is displayed in exhibit-- I think it's attachment A to the Board report,
+that when we talk about wrapping the windows, we're not necessarily talking about wrapping all the
+windows entirely. Obviously, there are certain key components of the vehicle that are left unwrapped for
+obvious reasons. So you don't wrap the operator window. Don't wrap the front door to the bus and getting
+on and off, et cetera.
+For light rail vehicles, the first and last doors on the trains are not wrapped, again, for obvious reasons.
+And so I think that's an important context here when we talk about that. The Board report does outline the
+current practice for allowing for wrapping, and that is on-- let me see here, what page of the packet. It
+looks like page 19 of the packet. And I would direct your attention there. I'm not going to go through that
+all, but there is critical thinking that has gone in to the types of wraps that are done, so as to mitigate
+potential impacts to the rider experience overall.
+
+With that, Director Paglieri, I think the other thing I would add is that the agency has more than just
+advertising wraps on vehicles. There are certain wraps that are commemorative, that the agency does for
+itself. I think, perhaps the Parade of Lights bus. There are certain wraps like the Flatiron Flyer, the 16th
+Street Free Ride, that cover a portion of the windows, albeit not all that significantly, but that's an
+important consideration.
+And then also included in the packet was a memorandum of understanding entered into with the city and
+the county of Boulder-- both the city of Boulder and the county of Boulder regarding certain branded bus
+routes that are operated in that area, i.e. the Jump, Skip, Hop, et cetera, and some of those
+commemorative bus wraps-- not commemorative, but branded bus wraps would be impacted by the
+conversations that you all are having this evening.
+And with that, I'm happy to add any further color. And also to clarify, Director Harwick, that the Agency
+has a staff full of wonderful folks that have much more information and background on this. And I know
+that some of those folks are here tonight and can also augment my comments if I've missed anything or
+mischaracterized anything.
+IAN HARWICK: Thank you. I'm seeing Director Nicholson.
+CHRIS NICHOLSON: Yes. So thank you, Mr. Chair.
+So this is an issue that I've been aware of since well before I was a candidate. It is something that
+community members and organizations like Greater Denver Transit have been working on for a very long
+time and have been advocating very clearly that, even with all of the trade-offs involved when it comes to
+revenue, the customer experience is such a significant impact that it is a worthwhile trade to restrict
+advertising to the parts of the bus that do not include windows.
+When I ran, I ran on quality as the number one thing that was-- if you look at my campaign website, if you
+look at the fixrtd website, quality was what we listed as our first priority. And quality means quality of
+experience. It means feeling like you are in a place that is nice.
+There is a reason why airlines don't wrap their windows. There is a reason why cars-- personal vehicles
+don't wrap their windows. Uber cars could wrap their windows and I'm sure make money from doing so.
+But 99% of the vehicles that anybody rides in do not have wraps. And yet, we do.
+It is evident from the fact that the Board in the '90s moved away from wrapping vehicles for this exact
+reason, that these concerns are not a one-off, and they are a "this generation." This is something that
+people have experienced over a very long period of time.
+So the question is the trade-off when it comes to money. Is it worth the amount of money? Now, the
+reason we're having this conversation right now is that the Agency brought us a proposal to end the
+Lamar contract. And so instead of being able to work on this up to when that contract would have
+finished, it became evident that we needed to make this decision before a new contract was signed.
+Because if we waited, then we would be faced with having to modify an existing contract.
+And as Director Chandler has pointed out, we have to have good relationships with our suppliers and with
+the businesses that we work with.
+
+And so coming into that contract with something that they are comfortable with and not trying to then go
+to them six months or a year later and saying the Board has changed its mind, now we want to change
+your contract. That's not a reasonable thing to them to do, to take away advertising products from them.
+So having talked about this with community members and a lot of people, where I'm at on this one is
+pretty straightforward. We should be able to make whatever decision we want going forward with our own
+wraps, with the branded wraps, with the commemorative wraps, when we want to. With commercial
+wraps, we should make it clear that we are not going to put ads on the windows. And then in two years,
+we should have the GM and CEO in 2027 come to us and say, OK, here's our new contract. Here's how
+it's been going. We have talked with the advertising provider. They are interested in doing X, Y, and Z,
+that could bring us new revenue. We are going to bring that to the Board in 2027, so that you can
+consider new options for revenue.
+So I think, for me, I'm not saying we should do this as a pilot. We should pass this policy so that we get a
+contract that has 0%. And then we should instruct staff that we will look at this with the new supplier in
+two years so that there is a limit to the revenue downside in what we're doing. I think that is a way to
+balance the concerns that I've heard raised about the potential impacts on revenue and limit the
+restrictions that would go into place on things like the wraps in Boulder and the Pride wrap and other
+things like that are minimal in terms of their overall impact on the system. So I think there is a way to have
+a path forward on this that addresses all of those concerns and gives us a chance to see literally out the
+window of what this could look like, will look like, when we're running our buses and trains with full
+visibility. I appreciate that, thank you.
+IAN HARWICK: OK. I see Director Buzek.
+VINCE BUZEK: Yeah, thanks so much. I appreciate the discussion. I appreciate the work the Directors
+have done on this.
+To me, this looks like a problem looking for a solution or a solution looking for a problem-- however you
+put that. This customer experience, people are talking about, oh-- it sounds like Donald Trump
+sometimes. The people are talking. People are telling me. I'm hearing this from people. We've got
+conclusions about this negative customer experience based on anecdotal evidence. I don't think that's an
+appropriate way to make a decision.
+With regard to the finance, I guess there's an RFP out. And we've asked the-- we've amended that to
+include with a wrap, without a wrap, kind of thing. So I think anything we do in the future on this, we really
+need to wait for that and see what people are saying and see if we can predict the economic impact.
+Thanks.
+IAN HARWICK: Director Guzman.
+MICHAEL GUZMAN: Thank you. My comments are simple. The financial impact here could be a deciding
+factor for me in a year where we are looking at a budget that we are not going to see increased revenue.
+And we have discussed for the last two years that I've been on the Board, alternative revenue sources. I
+understand everything that was presented. And I read through it very thoroughly. In fact, I was just in
+Albuquerque and having a conversation with them about the decisions that they made and their funding
+sources that allowed them to make that decision.
+
+We are not in the same boat. We do not carry the same situation here in Denver. And I am concerned
+that if we give up a revenue source, we will not get it back. I understand that there are concerns about
+visibility, both inside and outside of the bus. But I also have ridden these buses many times, the trains,
+many times, both commuter and light rail, and I can see through them with minimal obstruction.
+And so I, guess there's got to be a way to do what you are trying to do. Director Paglieri, with all due
+respect, and Director Nicholson, but did you work with staff to figure out what the right thing to do is? How
+to mitigate what you're trying to resolve for certain customers? Who I do respect greatly, and who may
+need more visibility while they are riding the bus to geolocate where they're at along the route. Because I
+was coming home today from Blake Street and looking at the number of windows where we have set
+aside seats for persons with disabilities, or people who might need a special type of assistance towards
+the front of the bus, and it's only two, maybe three windows into the bus that we would be considering
+essential for people to see out of.
+All other things being equal, I'm not sure that just a broad brush exclusion of this is the right way to go.
+And it's both tied to financial matters, which there is no clear financial impact in this item that you're
+bringing forward. And the discussion should include the financial impact of what is being asked of us. As
+well as, is there a better way to do what you are trying to do to be able to serve the public, but also not
+completely remove an income source of funding from the Agency?
+And I want to be careful about not going too far into that part, because I do realize we have a request for
+services going out. But I'll leave it there, because that would be my urge to vote no on this right now, until
+more work is done, and there is a better answer. Thank you.
+IAN HARWICK: Director Paglieri.
+BRETT PAGLIERI: Thank you, Chair. Yeah, thank you for this healthy discussion. A couple points I
+wanted to add.
+So Greater Denver Transit did conduct a survey, where a vast majority of people responded that they
+would prefer not to have window coverings on their journeys. And I can get you information on the
+number of correspondents and how many people they interviewed. I don't have that available right now.
+But I think another point is, this very likely is not a funding source worthy. It's really a tertiary. It's not even
+a secondary funding source. I know we are pinching our pennies, but for an agency of our size to be
+focused and spending so much time and energy on something that's so detrimental to the customer
+experience, I don't believe it's worth our time to really go after this amount.
+I'll actually pass it to Director Nicholson. He can speak more on the financial part of it. I want to be careful
+with what I say, given that there is a contract right now.
+CHRIS NICHOLSON: Thank you. So two pieces to that. And I appreciate the concerns being raised and
+everything.
+The first thing is, I agree. I think that having a backstop on the impact here makes perfect sense to me.
+And I think a two-year backstop that says we are going to reevaluate this and then ask the provider that
+we choose to propose additional products-- and there may be even more opportunities that are not going
+to be in the contract this time, that they're like, oh, yeah, we can advertise on only the windows. We can
+advertise on whatever it is. Coming back to them and saying, give us additional options.
+
+When we went to wrapping in, I think, it was 2012, that came from conversations with the advertising
+provider, where they said, can we do a pilot of these additional properties? So it's just repeating that
+process of saying, OK, we're going to plan ahead, that we are going to go back and give you the
+opportunity to propose to us additional advertising properties that you can run. I'm excited about that. I
+think the Board should be considering on a regular basis, revenue opportunities that maybe we haven't
+considered before.
+We don't run advertising on the front of our website, for example. We could probably make some money
+off of doing digital ads there. We're about to cut advertising on our digital properties, all of our totems and
+everything. We didn't really vote on that, but we're going to lose some revenue from doing that.
+So we make these choices all the time of trade-offs between different revenue sources. We decided that
+it was a reasonable thing to do not to cover up the information display. I mean, that just happened. We
+didn't vote on it, but that was the decision the Agency made. So that's one piece of it.
+The second piece is, I think at the end of the day, if you-- first off, if you look at the advertising wraps that
+we have and the ones that are proposed, we have wraps that cover virtually the entire rest of the bus. So
+we're not talking about removing the wrapping revenue entirely. We're talking about removing one
+additional property that they could possibly offer that may or may not make more money.
+But to that question, Director Guzman, I have a question for GM/CEO Johnson. We are going to get these
+RFPs done, I believe, near the end of this month, certainly before the November Finance and Planning
+meeting when we would vote on this. What data can you provide to the committee, GM/CEO Johnson?
+Because we'll have-- you asked for proposals at 0% and 50%. Could you just show us-- I mean, I'm being
+facetious here because I know that you can't show us the entire numbers, but you will have the numbers
+at that point for all of the proposals and how much they're willing to give us at 50%-- or offer us or
+whatever-- and how much at 0%. We will know, or rather you will, what those numbers are.
+So the numbers will exist to make that decision. How can we get those numbers or some version of those
+numbers, the percentage difference? Like, what can you give us, having asked for that information, that
+allows us to make this decision a month from now?
+DEBRA JOHNSON: Mr. Chair, if I may?
+IAN HARWICK: Please.
+DEBRA JOHNSON: Yes, thank you very kindly. Recognizing that we are in the midst of a procurement,
+I'm going to thread this needle ever so gingerly and talk at a high level relative to procurements as a
+whole. While we may have proposals that are due at a set upon date, there's different steps that need to
+be taken. So while a proposal is submitted by a certain time, there's an evaluation panel. There could be
+follow up relative to questions and things of the like.
+We run the risk of compromising the process from open and fair competition vantage point if one were to
+disclose that information. By virtue of where I sit, I would not be privy to that information because I don't
+want to compromise our procurement process. We have a myriad of different procurements that take
+place in this organization. Solicitations that come in a myriad of different forms. Outside of a request for
+proposal, request for information, an invitation for bid, request for quotes. It runs the gamut.
+
+So respectfully, sir, I can't delve into that arena as it relates to what might be possible relative to the
+specific ask that you're making, pertaining to information that would be at the ready for a committee
+meeting in a couple of weeks, because I cannot guarantee that we would be there. Thank you.
+IAN HARWICK: Thank you. Director Paglieri.
+BRETT PAGLIERI: Thank you, Chair. I had a question about, also a comment combined, relating to this.
+So part of the reason that I brought this forward with Director Nicholson and Director Larsen was that we
+are in the midst of RFP, and there is an advantage to us as an Agency deciding our policy on window
+coverings before the end of the proposal, so that there is no question from our vendors where we stand
+and where we lie on this. And so the Agency can have the directive to know which decision to make, and
+it stays a fair process.
+But the question I have for General Manager and CEO Johnson is, could you maybe say a little bit of the
+timeline? Like, do you know when the acceptance period for proposal ends, and then when the decision
+for a contractor has to be made? If you're allowed, sorry.
+IAN HARWICK: GM/CEO Johnson.
+DEBRA JOHNSON: So what I do know is that proposals are due on the 16th. The executive on my team
+that has auspices over this would be Stuart Summers, because as I indicated before, as you can imagine,
+by virtue of where we are in this organization, every single solicitation that we have, I receive a report at a
+very high level. There's other steps that are involved. So, Mr. Summers, if you're able to give a broad
+brush answer without compromising the integrity of our procurement process, I will yield the floor to you at
+this juncture. Thank you.
+STUART SUMMERS: Mr. Chair, if I may, please.
+Yeah, thank you. Stuart Summers, Chief Communications and Engagement Officer. GM/CEO is correct.
+The proposals are due tomorrow, October 16. The timeline that we're working under is a little precarious
+because we need to move forward and take direction from this Board, recognizing that the Lamar
+contract, as outlined in the Board report, ends within less than 60 days, meaning that we need to have a
+subsequent contract in place to assume the vehicle wraps in that process. So really what we need from
+the Board is some direction.
+We have amended the RFP to have two different proposals, one that would include windows and one that
+would not include windows. And we don't know what we don't know. And so at this point, we're waiting for
+those proposals to come in to see, what is the market? Somebody that has that expertise in the field, so
+that we can understand what would be some of that revenue guarantees moving forward? But it will be a
+multi-week process to do the review, the back-and-forth questions, and then come up with a contract that
+would be brought forward to the Board for consideration.
+IAN HARWICK: OK. OK. Now that we're not echoing, Director Nicholson, and then Director Guzman, and
+then Director Buzek.
+CHRIS NICHOLSON: Thank you. I have a couple of questions-- just a very quick one and then a slightly
+longer one.
+The first one, what other advertising properties has the agency pursued that are not current-- what other
+advertising properties has the Agency considered that are not currently being used? I'll give some
+
+examples that I've thought of. One would be putting an ad on a billboard ad on Blake Street. Another one
+would be putting advertisements on the Agency vehicles that we drive around, which have no ads, on the
+doors and windows.
+I'm certain there are properties, physical properties-- Civic Center, we could brand it the Verizon Civic
+Center. What additional sources of revenue are out there that other agencies, businesses that we could
+pursue, that we are not doing either for aesthetic reasons, for customer experience reasons, et cetera, et
+cetera? Would you be willing, GM/CEO Johnson, to ask staff to put together a list of additional sources of
+advertising that we could consider, in addition, if we're so hard up for money? That would be my first
+question.
+And then the second question is, am I correct in thinking that if we were to put a horizon on this and say
+we're asking you to come back in 2027, give us a proposal, we are going to add additional-- go to
+whoever the contract is with in 2027, bring us a proposal for additional ad revenues, so that we can take a
+second look and say, OK, we've done this for two years. We can make X number of more dollars at that
+point. That, at that point, you could bring that forward and show us the actual numbers, because it
+wouldn't be an RFP. It would be a modification to the existing contract. And they would be able at that
+point to say, you'll get an extra $2 million or whatever it is, or $1 million or whatever it is, because we'd be
+working with the existing vendor.
+Am I right that would be a path forward to propose revisiting this in two years after we have set it to zero
+for two years?
+IAN HARWICK: GM/CEO Johnson.
+DEBRA JOHNSON: Yeah. So, first and foremost, Mr. Chair, I would be remiss if I didn't state that this
+discussion is out of scope relative to the item that's been agendized. It clearly talks about Window
+Coverings Prohibition and System Advertising Policy Amendment, and Now we're talking about potential
+solicitations and what's happening in 2027. I feel that if we want to have this discussion, this needs to be
+agendized in a different format, where we can have this discussion in earnest. Because more to the point,
+it wasn't noticed in such a way if other people wanted to comment. And I want to ensure, as the executive
+of this organization, that I am not engaging in conversations that are creating risk and exposure to the
+enterprise.
+So, respectfully, I am not going to address this question. If General Counsel has a different viewpoint
+relative to the comments that I've made, I trust her in the sense that she has an obligation here at this.
+Thank you very kindly, ma'am. So thank you very much, sir, for your question, Secretary Nicholson, and
+for the opportunity to share my response, Committee Chair Harwick.
+IAN HARWICK: All right. Director Guzman, and then Director Buzek, and then we're going to wrap up.
+MICHAEL GUZMAN: Just really quickly, on packet page 19 near the top, I think it's the third line down,
+RTD did our own research on this back in 2011 and 2012 and got a pretty healthy response. It looks like
+they had 185 customers who responded, with an 85% of respondents not objecting to window coverings.
+That's by our own Agency, which would prefer to use that information over anybody else's. And I'm sure
+that was also done to ascertain also in a variety of diversity in terms of our ridership and our customers
+and our owners-- taxpayers.
+
+So yeah, I know I'm not part of the committee, but I'm going to put my two cents in there and say that
+that's going to be a no from me. I don't think it's worth having that conversation at this point. We can
+always, as Director Nicholson has said several times, come back to this next year when it would be more
+appropriate to do so and we have further data and information. Thank you.
+IAN HARWICK: Director Buzek.
+VINCE BUZEK: Great, thanks. And I'll try to be quick, as well. My reluctance to support this is not
+because I think it's a bad idea. I don't know if it's a bad idea. And it's not a function of, are we so hard up
+for money that we have to think about this? But it's about not knowing. How do you make a policy
+decision that will have a financial impact and you don't know what that is?
+To quote Director Nicholson again, that would be irresponsible. Thanks.
+IAN HARWICK: OK. I see the two of you, and I will let both of you speak. But I need it to be, like, just
+quick and to the point. And if it's not, I'm going to cut you off. OK? Just let me know. Director Nicholson.
+CHRIS NICHOLSON: Thank you. Just quickly to respond to Director Buzek, I would say, I would love to
+have numbers. There are reasons why the Agency can't give them to us.
+And in this case, I think that the reason why we are having this discussion now and not waiting until next
+year, is if we don't have it now, we will sign a contract to say one thing, and then we can't reasonably go
+back to that contractor and say, oh, we've changed our mind six months later. We will be locked into a
+contract for five years or however long it is, and we will be sitting there and it will be much more
+expensive and much harder to modify that contract after we have signed it. That is why this is happening
+now. If we had not killed the Lamar contract early, we would have had the chance to have a longer
+conversation about this before that contract ended. But that is why we're doing this when we are.
+IAN HARWICK: Thank you. Director Paglieri.
+BRETT PAGLIERI: Thank you, Chair. Yeah, actually, Director Nicholson beat me to it. I was going to say
+a similar thing. But I would rather that we did go through a more formal process on this. But I do
+appreciate the healthy discussion on this and feel like I have heard from everyone who's spoken, and I
+really hear you guys-- excuse me-- you all.
+But yeah, I really think that if this wasn't-- it's just really a timing issue. I'd rather be in the situation where
+we can go-- we can make a decision now, and then have the flexibility in the future versus being locked
+into something. But unless Director Nicholson has something else to say, I just want to thank you for the
+discussion.
+IAN HARWICK: All right. Thank you. So we can't vote on this, but we can kind of get a thumbs up, see if
+people want to proceed with this. And if there is a majority of people from this Committee that are
+interested in seeing this move forward, then, Director Paglieri and Director Nicholson, you will need to
+bring a three director initiative up to have this be on this month's Board agenda. So if you get the thumbs
+up from at least the four of us, then that's how you'll proceed with this. And unless I-- OK, there we go.
+Manager Kroll, maybe you're-JACK KROLL: I would characterize it as giving these Directors the opportunity to read the room a little bit.
+And then regardless, they can always-- regardless if it's unanimous for, unanimous against, any Director
+
+is still free to bring a three director initiated item, but getting a pulse of the room would be beneficial so
+that they can understand whether they're bringing forward something that stands a reasonable chance of
+being passed.
+And to again remind everyone of Stuart Summers's comments from earlier, staff really does need
+direction from the Board. So, I wouldn't let this issue linger and make a decision based off of the
+information that you have available now.
+IAN HARWICK: OK. Thanks. Board Manager Kroll, I appreciate it.
+All right. So I'm going to have-- if you want to-- if you're only-- yeah, on this Committee, give me a thumbs
+up if you are interested in where you're at. If you're a yes, give me a thumbs up or a-- OK, we got two so
+far. A three.
+KATHLEEN CHANDLER: I'm sorry to interrupt you, Director Harwick. I don't want to just give an up or
+down vote. I'm in the camp of I don't like the advertisement on the windows, but I also would like to have
+some idea, as to Director Buzek's point, what is the financial implications on this? So I think I'm kind of in
+the middle and would like some more information before I actually make a vote.
+I don't like the advertising on the windows, for sure, but I also understand the fiscal side.
+IAN HARWICK: So are you giving-- are you giving are you giving a thumbs up, or are you just-KATHLEEN CHANDLER: I'm a tepid.
+IAN HARWICK: You're tepid. OK, you're tepid. Director O'Keefe, I see you.
+PATRICK O'KEEFE: Yeah. Thank you, Mr. Chair. Kind of exactly like what Kathleen just said. I feel like I
+just don't have enough information on the financial impact. I mean, my reaction when I heard the guesses
+at the financial impact is, why the hell are we getting so little money for advertisements that drive all over
+the city? It feels like that's the thing that I kind of focused on was, this seems really low for moving
+billboards. Hundreds of them.
+So I guess I'd like to keep the discussion. I mean, all things equal, we're not making any money off it, who
+cares? But I would like to know a little bit more about the money, and maybe it's the procurement that's
+going to answer that question for us.
+IAN HARWICK: OK. So I've got two tepids. I've got two yeses. Can I get a-- OK, I've got a no. And,
+Director Whitmore, I saw a hand raised. Was that a you're in, or you're tepid, or you're-TROY WHITMORE: Mark me down as the third tepid member.
+IAN HARWICK: OK. All right. I'm going to-- then that leaves myself. I am also a tepid member. So I don't
+know where that puts you all, but just, I think you can gather that you two are on board, and there's a lot
+of tepidness. So do that with, as you may.
+And if we don't have any more questions, comments, I'm going to move on. So all right, I'm not seeing
+anybody. OK. And our third and final item is for the RTD and customer shared commitments. Committee
+Vice Chair Chandler, would you like to introduce this item?
+
+KATHLEEN CHANDLER: Sure. Thank you, Director Harwick. Hopefully, this will be a quick discussion
+item. We won't have whole lot of discussion on it. With that, this proposal, of having a shared customer
+commitment idea, has been, I guess, on the agenda for quite a long time. Once I stepped onto the OSS
+Committee, I was asked to come alongside, at that time, OSS Member Director Ruscha. And due to
+circumstances beyond our control, it has been on again, off again. And I took it up again this last couple
+of months.
+And Director Paglieri and I have met. We came up with an idea of outlining what it that is an expectation
+of RTD and what is the expectation of a customer, someone who's riding RTD? And we wanted to make
+sure that everyone understood their role and responsibility. I think sometimes we either put everything on
+either RTD or everything on the customer, and this is a relationship that we both have to come together.
+So we came up with a list of things that we feel that would be appropriate that are titled under it, the
+RTD's commitment to customers. And there's a list. And then, of course, the RTD's expectation of the
+customer.
+And so I would like this to live somewhere appropriate. Perhaps maybe a preamble to somewhere on the
+website that talks about what is expected by the customer, kind of the rules of the game. And so that's
+really what we're asking, is that this would be a list of ideas that we can all abide by, the customer and us
+as RTD, and hopefully this will allow us to be a little bit more on the enforcement side of some of the stuff
+that we are in charge of-- making sure fares are paid and customer conduct-- but also to give the
+customer a voice. To say, hey, this is what we expect of RTD. We're a customer, a taxpayer. We're in the
+district. What do we get as our expectation for customers?
+So with that, I'll open it up to any discussion. And I guess, really, the big discussion point is, I want to
+make sure I know where this is going to live. I don't want this to be something that's just a good idea, and
+then it gets filed away and never goes anywhere. I want it to actually have an impact. So thank you.
+IAN HARWICK: Thank you. Do we have any comments or questions? Director Paglieri.
+BRETT PAGLIERI: Thank you, Chair. And thank you, Director Chandler-- sorry-- Vice Chair Chandler, for
+preparing this and bringing it forward. It has been a pleasure working and assisting you on this. And
+thanks for spearheading it.
+I think this is great. I think some of the conversations, like to give you some background on from my
+perspective, was we wanted to balance the weight of hearing from some people who were talking about
+transit bill of rights and assigning rights to transit goers, and then, kind of like the other perspective of
+transit is a privilege, and one has to respect transit and transit, therefore, respects back. So I think this is
+a good balance of both, and I support this.
+And in addition to maybe putting it prominent on the website, I made this recommendation. But I would
+like to see it maybe distributed to employees, as well, if deemed appropriate, to just show that the Board
+is in support of people treating RTD well and also RTD is just invested in the customer, as well. But I think
+with that, yeah, I appreciate the work you put into it. Thank you.
+IAN HARWICK: Director Buzek.
+VINCE BUZEK: Thanks. I guess I was a little confused about this when I saw it, because these are all
+things that we do or strive to do. And when you say you want to give customers a voice, believe me, they
+have a voice. And if they're not happy with RTD, they're going to let us know.
+
+So I guess I don't know what its function is? You mentioned enforcement in your comments, and I
+certainly hope that we're not putting this out here so that we can-- this acts as some kind of an
+enforcement tool. Because built within all of this are all the enforcement tools that we have. But I'm just
+not sure what the point of this is? It kind of reminds me of the very first RTD retreat I went to. And, Troy,
+you were there, too. It was like February, maybe, 2019. And they had all these boards around the room,
+and they had the goals that were set from the year before, before Troy and I were on the Board.
+And they were things, like, provide bus service, provide train service, keep things running. Wait a minute,
+we do this. And I don't say that to denigrate this in any way. It just seems like all of these things are things
+that we have built into our system, things that we do, and I'll leave it at that. I'm just confused about the
+purpose. Thanks.
+IAN HARWICK: I'm going to let Director Chandler answer, and then Director Whitmore, and then Director
+Nicholson.
+KATHLEEN CHANDLER: Well, thank you, Director Buzek. At first, I too was like, well, we do all of these
+things, and these are the expectations we have for customers, and customers should expect this out of
+RTD. I think the reason that this has been pushed forward is because we wanted a more succinct-- a
+succinct place where people could go and see it a little quicker, a little easier. It's outlined in an outline.
+So it's more organizing it in a fashion where it is easily understood and easily referenced.
+To your point, this is nothing new. I'm not arguing about the points that are in the document itself. I think
+it's more of how it's organized, and where it's going to live, and where we can point to as an Agency
+rather easily to a customer, this is what the expectations are. So to your point, this was decided well
+before I came onto the Board. I guess this has been on the agenda for a couple of years. And, Director
+Paglieri and I met together and said, let's just reorganize it a little bit and come up with ideas that will help
+all of us know our role and responsibility.
+IAN HARWICK: Director Whitmore.
+TROY WHITMORE: Thank you, Mr. Chair. I appreciate the time and effort on a long-standing stop and
+start process for Directors Chandler and Paglieri. I have a little bit of a quandary state, such as Director
+Buzek had said. I guess I'm trying to figure out the linkage and where this fits, because obviously, that's
+very important per our co-chairs.
+Is this a preamble to the code of conduct? Is it an addendum to the code of conduct? Is it as important or
+as powerful as the code of conduct? I guess I get my shoe strings wrapped around the spokes of my
+bicycle, about where this kind of lives and breathes and doesn't breathe. So if there's any commentary
+that could be shared kind of on my rambling thoughts, Mr. Chair, I would appreciate it.
+IAN HARWICK: Director Chandler.
+KATHLEEN CHANDLER: Yes. Thank you, Director Whitmore. Yes, indeed, that's where I would like it to
+"live" is kind of that preamble. Again, it's just more of a, here's a really easy way for you to know exactly
+what you're looking at, to give it that preamble point. So it should be with that customer code of conduct to
+make it a little bit easier for everyone to know again, their role and responsibility. So that is where I would
+like it to live. I think if it doesn't live there, which is fine, I just think that it would just become, again, more
+noise and not really in its intended purpose, which is to point people to an exact idea of, what is the
+expectation?
+
+IAN HARWICK: Director Nicholson.
+CHRIS NICHOLSON: If Director Buzek wants to go ahead as a follow-up to his question, I'm happy to let
+him do that and then jump in.
+VINCE BUZEK: Thanks. Yeah, just a comment to the extent that these things refer to policies and things
+that we have in place, might be a good idea to maybe reference that in the document, saying for each
+one, one through eight, see Code of Conduct, Section 5. Just so that people can see that it's a summary
+of what we're doing, and here's where you can find more info. Thanks. That's all.
+IAN HARWICK: OK. Director Chandler.
+KATHLEEN CHANDLER: Indeed. Thanks, Director Buzek. We are putting in hyperlinks to the other
+areas. So that if you're on it, hopefully, like on the RTD's Expectation of Customer, the first one-- respect
+employees, other customers, vehicles and facilities, abide by the RTD's Respect the Ride-- that's a
+hyperlink. So that way people can see it and it'll help direct them to more of the explanation. I hope that
+helps.
+IAN HARWICK: Director Nicholson.
+CHRIS NICHOLSON: Thank you very much, Mr. Chair. So I think this is a phenomenal document, and I
+think that we may not be considering it holistically enough in terms of what it really is. Because I read it
+as, essentially, the Board stating our expectations of the Agency toward customers and the Board stating
+our expectation of customers in their interactions with the Agency.
+And so when I read the first thing, what I thought to myself was, oh, these are all things that should be in
+our performance evaluations of members of staff and of the GM and CEO. So if I'm reading this
+document, I'm thinking to myself, every single one of these things, this document as it's written, should be
+a part of GM/CEO Johnson's upcoming performance-- not the one that we're about to do, but the one we
+will do in 2026 and going forward. This is us saying, we want to hold both GM/CEO Johnson and people
+at the Agency to these standards.
+And then the same way, I think, when we're talking about-- and I do come back to enforcement-- we are
+saying to our staff, we want you to enforce the code of conduct. We want you to enforce valid fare
+payment. We want you to provide-- this would be with Mr. Summers-- the kind of community surveys,
+engaging with the public in that way. I think these are implicitly instructions to staff in different ways and to
+things that we actually do.
+And if we just put them on a page and throw them up there, it's not worth the paper it's printed on. If we
+implement those into the processes that we have when it comes to the evaluation of staff, when it comes
+to what we're telling we want the Security staff and the Communications staff to do, then it has teeth.
+And so I think we should look at this and ask, how do we turn this into action? How do we turn this into
+direction of the GM/CEO, to turn it into something, and of Mr. Kroll and the Board, in terms of evaluation?
+How do we make this into something?
+IAN HARWICK: And I do see. Executive Manager Kroll.
+JACK KROLL: Yeah. I just wanted to acknowledge, Director Nicholson, you made reference to the GM
+and CEO's performance goals. Just reminder, that is not part of the notice for this meeting. I think you
+
+were speaking rhetorically as to a potential value of something like this. But let us not careen into a
+conversation that is not germane to the topic at hand.
+IAN HARWICK: All right. I'm going to go with Director Chandler and then Director Buzek, and then I'm
+going to try to call this one after that.
+KATHLEEN CHANDLER: Thank you. And, Director Nicholson, not to reiterate what Mr. Kroll just talked
+about, but please remember that we're not talking about a specific employee. We're not talking about a
+specific person. This is the code of conduct for RTD in general, as an Agency. And this is for the
+customer, how they should react to us. So I would reiterate what Mr. Kroll said. If this is something you
+want to implement in another opportunity, fantastic. Bring that before the Board. But this is not the place.
+So I appreciate your comments, but it's not appropriate at this time.
+IAN HARWICK: Director Buzek.
+VINCE BUZEK: Yeah, just I would never support this if it were suddenly becoming a tool for evaluating
+individuals. I see it as more informational, aspirational for the community at large. Thanks.
+IAN HARWICK: Thank you. OK. Moving on, are there any other matters to discuss?
+CHRIS NICHOLSON: You're not going to give me one more bite at the apple on-IAN HARWICK: No. You can talk about other matters, but that's where we're at. We're moved on to other
+matters. Director Guzman.
+MICHAEL GUZMAN: Thank you, Mr. Chair. For those of you that were not able to be participating in the
+meeting we had last night, CU Leeds did present us with some good information about the finances. We
+had a really robust conversations around the budget and a couple of other things with the planned study
+session for the budget and the [? five ?] coming up. I would really strongly encourage all Directors to get
+engaged now, get engaged early, stay engaged. That way, we can get our work plans done through the
+end of the year.
+Thank you for the discussion. And Directors, it's a discussion, so thank you for being open to hearing the
+feedback, as well. I know I'm not on your Committee, but as a member of the two other committees that
+do a lot of work equally well, I just want to say, I'm proud of you for the work and the effort you're putting
+forward. And it's not unnoticed. Even where there's maybe disagreement, we're not disagreeable with one
+another. So awesome job, and thank you. Please, go review that meeting from last night and make sure
+you're up to snuff, because it's going to be a hard end of the year, and we want to land that plane as
+smoothly as we can. Thanks
+We need to pull it into the station as gently as our General Manager CEO pulled that light rail train to the
+egg. That's what we're going for as a Board. We got this, guys. Thanks.
+IAN HARWICK: I don't even know how to follow that. Director Paglieri.
+BRETT PAGLIERI: Thank you. Chair, I had a question for Director Guzman, if appropriate. And feel free
+to say this should be a meeting maybe offline. Yeah, I realized after I raised my hand that it probably
+should be a meeting offline. But I was going to ask if the Leeds School of Business predicted a decrease
+or a similar sales tax for next year as it did for this year? But I think that's probably a discussion best had
+with you individually, so I'll spare everyone.
+
+IAN HARWICK: All right, I don't see any other hands. So the next Operation Safety and Security meeting
+is scheduled for Wednesday, November 12, 2025. At that meeting, we will take action on three items, all
+three of which were discussed tonight. Those are the PTAS as a recommended action, the Winter 20252026 service change recommendations, and the RTD and customer shared commitments. Additionally,
+we are scheduled to have the second of our twice annual updates from the RTD's Transit Police.
+And I'm going to adjourn this, as I see no other discussion, at 6:54 PM. Thank you all for your time. Have
+a great evening, and I'll see you in two.
+
+From:
+To:
+Subject:
+Date:
+
+RTD Customer Care
+denvervisser@gmail.com
+RE: FW: Request to Adjust RTD #6 Eastbound to Align with Hill Middle School Dismissal Time
+Tuesday, October 14, 2025 2:18:53 PM
+
+Hello Sara,
+We appreciate your comment regarding Route 6. Please contact Jessie Carter, Senior Manager
+of Service Development, at (303)919-9651 to discuss this item.
+Thank you,
+RTD Customer Care
+--------------- Original Message --------------From: RTD Board Office [rtd.boardoffice@rtd-denver.com]
+Sent: 10/14/2025, 11:40 AM
+To: service.change@rtd-denver.com
+Subject: FW: Request to Adjust RTD #6 Eastbound to Align with Hill Middle School
+Dismissal Time
+-----Original Message----From: Sara Visser <denvervisser@gmail.com>
+Sent: Monday, October 13, 2025 8:11 PM
+To: RTD Board Office <RTD.BoardOffice@RTD-Denver.com>
+Subject: Request to Adjust RTD #6 Eastbound to Align with Hill Middle School Dismissal
+Time
+Good evening.
+I am following up on my remarks during the Public Comment portion of the September 30
+board meeting, when I requested that RTD#6 bus schedule be adjusted to better correspond
+with dismissal time at Hill Middle School. This is a small change that would help keep our
+kids safe and secure as they ride RTD.
+I understand the RTD Board may address this issue as a discussion item during your meeting
+this Wednesday. I want to make myself available to you directly if you have any additional
+questions or require more information. I know you have a large system to consider and I
+appreciate you taking the time to try to improve the situation for our kids and families, as well
+as for Hill staff and neighbors.
+As a reminder about my comments at the September 30 meeting, I’m the parent of a student at
+Hill Campus of Arts & Sciences, a DPS middle school two blocks south of 6th & Clermont.
+Hill serves about 400 students, and 30+ of them rely on the eastbound #6 bus every afternoon
+to get home.
+
+The challenge is timing. Hill dismisses at 4:00 - about the same time that the #6 eastbound
+typically passes 6th & Clermont, the stop closest to Hill. Students have to sprint through busy
+school pick-up traffic to catch the bus, and everyday some students miss it, forcing them to
+wait until the next bus arrives around 4:28. That’s a 30-minute wait on one of the busiest
+stretches of 6th Avenue, right during rush hour. Neither option is safe. Early sunset and
+cold/snowy winter weather make the situation even more distressing.
+
+Staff and parents have tracked the numbers. Between 16 and 30 students are consistently at
+that stop. Some parents even have their children leave class early every day (missing 15
+minutes of instruction every day) just to make the earlier bus so they can arrive at their final
+stop early enough to safely get home. Others wait unsupervised, often wandering the
+neighborhood until the later pickup.
+
+The solution is straightforward: adjust the eastbound #6 to stop at 6th & Clermont just 7 to 10
+minutes later. That simple shift would allow students to board safely, reduce stress, and
+eliminate long waits.
+
+This small change would have a big impact on student safety and family peace of mind. On
+behalf of Hill families, staff and neighbors, thank you for considering it.
+Sara Levine Visser
+
+

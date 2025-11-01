@@ -24,6 +24,8 @@ Director Nicholson seconded the motion.
 
 Chair Bouquet declared the motion PASSED unanimously.
 
+## IV. Discussion Items
+
 #### 1. Monthly Government Relations Report – September 2025
 
 Presented by Michaels Davies, Government Relations Officer.
@@ -48,6 +50,18 @@ Director Benker and Chair Bouquet spoke.
 
 Committee Chair Bouquet adjourned the meeting at 12:48 p.m.
 
+## II. Draft Board Meeting Agenda - September 30, 2025
+
+## I. Call to Order
+
+## II. Pledge of Allegiance
+
+## III. Land Acknowledgement
+
+## IV. Roll Call - Determination of Quorum
+
+## V. Statement of Employee Appreciation
+
 ## VI. Retiree Awards
 
 Jose G. Martinez Jr. – Street Supervisor – 30 years
@@ -57,6 +71,12 @@ Mac McIntosh – Senior Labor Relations Generalist – 15 years
 Matthew Richey – Procurement Specialist II – 26 years
 
 David Svenby – Telecom Supervisor – 29 Years
+
+## VII. Public Participation
+
+## VIII. External Entities Reports
+
+## IX. Action Item
 
 #### 1. Access-on-Demand Program Modifications As Amended
 
@@ -71,6 +91,26 @@ For the Board of Directors to approve modifications to the supplemental, premium
 #### 2. Access-on-Demand Contract Extensions
 
 For the Board of Directors to authorize the General Manager and CEO or her designee to enter into six-month contract extension amendments with existing providers for the Access-on-Demand (AoD) program effective January 1, 2026, through June 30, 2026, raising the not-to-exceed (NTE) amount from $37.8 million to $47.2 million.
+
+## X. Discussion Item
+
+##### i. Finishing FasTracks Report
+
+## XI. Audit Committee Report
+
+## XII. Finance and Planning Committee Report
+
+## XIII. Operations, Safety, and Security Committee Report
+
+## XIV. Performance Committee Report
+
+## XV. Approval of Board Meeting Minutes and Committee Reports
+
+## XVI. Chair's Report
+
+## XVII. General Manager's Report
+
+## XVIII. Unanimous Consent
 
 #### A. Successor Strategic Plan Consultancy Solicitation
 
@@ -90,6 +130,8 @@ For the Board to adopt the Title VI Fare Equity Analysis report for the introduc
 
 ##### b. Attachment B Tap to Pay and Expanded Retail Network Fare Equity Analysis presentation - updated
 
+## XIX. Recommended Action
+
 #### A. 2026-2030 Five-Year Financial Forecast (FYFF)
 
 For the Board of Directors to adopt the 2026-2030 Five-Year Financial Forecast (FYFF).
@@ -99,3 +141,11 @@ For the Board of Directors to adopt the 2026-2030 Five-Year Financial Forecast (
 #### B. Longmont and Boulder Fixed-Route Service Contract
 
 For the Board to authorize the General Manager and CEO or her designee to enter into a contract with Transdev Services, Inc., for the provision of fixed-route services as described herein. This contract is for three years, with two one-year options for a total of five years, at a total not-to-exceed cost of $127,095,000. Additionally, RTD will reimburse the contractor’s direct fuel costs in an amount estimated to be $11,955,000 over five years. The total five-year not-to-exceed cost for services and fuel is $139,050,000.
+
+#### C. 2025 Systemwide Advertising Policy Amendment
+
+## XX. Report of Director Activities
+
+## XXI. Other Matters
+
+## XXII. Adjourn

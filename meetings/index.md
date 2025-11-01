@@ -137,7 +137,7 @@
 
 - **2025-12-09 05:30 PM -07:00**: [Board of Directors - Board Meeting](3832/)
 - **2025-12-02 05:30 PM -07:00**: [Board of Directors - Board Meeting](3865/)
-- **2025-10-28 05:30 PM -06:00**: [Board of Directors - Board Meeting](3852/)
+- **2025-10-28 05:30 PM -06:00**: [Board of Directors - Board Meeting](3852/details.md)
 - **2025-09-30 05:30 PM -06:00**: [Board of Directors - Board Meeting](3841/details.md)
 - **2025-07-29 05:30 PM -06:00**: [Board of Directors - Board Meeting](3819/details.md)
 - **2025-06-24 05:30 PM -06:00**: [Board of Directors - Board Meeting](3806/details.md)
@@ -1461,6 +1461,7 @@
 
 ### 2025
 
+- **2025-10-28 04:30 PM -06:00**: [Board of Directors - Special Board Meeting](3886/details.md)
 - **2025-06-24 03:00 PM -06:00**: [Board of Directors - Special Board Meeting](3884/details.md)
 - **2025-06-10 03:00 PM -06:00**: [Board of Directors - Special Board Meeting](3882/details.md)
 - **2025-05-28 03:30 PM -06:00**: [Board of Directors - Special Board Meeting](3881/details.md)
@@ -1677,7 +1678,7 @@
 
 ### 2025
 
-- **2025-10-22 05:30 PM -06:00**: [Board of Directors - Study Session](3850/)
+- **2025-10-22 05:00 PM -06:00**: [Board of Directors - Study Session](3850/details.md)
 - **2025-10-07 05:30 PM -06:00**: [Board of Directors - Study Session](3844/details.md)
 - **2025-09-16 05:30 PM -06:00**: [Board of Directors - Study Session](3836/) (CANCELLED)
 - **2025-06-17 05:30 PM -06:00**: [Board of Directors - Study Session](3804/) (CANCELLED)
@@ -2032,7 +2033,7 @@
 ### 2025
 
 - **2025-11-20 11:15 AM -07:00**: [Executive Committee - Committee](3862/)
-- **2025-10-23 11:15 AM -06:00**: [Executive Committee - Committee](3851/)
+- **2025-10-23 11:15 AM -06:00**: [Executive Committee - Committee](3851/details.md)
 - **2025-09-30 04:00 PM -06:00**: [Executive Committee - Committee](3885/details.md)
 - **2025-09-25 11:15 AM -06:00**: [Executive Committee - Committee](3840/details.md)
 - **2025-07-24 11:15 AM -06:00**: [Executive Committee - Committee](3818/details.md)
@@ -3364,7 +3365,9 @@
 
 ### 2025
 
-- **2025-11-03 08:30 AM -07:00**: [Performance Committee - Committee](3854/)
+- **2025-11-20 08:30 AM -07:00**: [Performance Committee - Committee](3888/)
+- **2025-11-17 04:00 PM -07:00**: [Performance Committee - Committee](3887/)
+- **2025-11-03 08:30 AM -07:00**: [Performance Committee - Committee](3854/) (CANCELLED)
 - **2025-10-06 08:30 AM -06:00**: [Performance Committee - Committee](3843/details.md)
 - **2025-09-08 08:30 AM -06:00**: [Performance Committee - Committee](3831/details.md)
 - **2025-07-07 08:30 AM -06:00**: [Performance Committee - Committee](3810/details.md)

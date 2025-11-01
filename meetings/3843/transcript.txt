@@ -1,116 +1,954 @@
-Regional Transportation District
-
-1660 Blake Street
-Denver, CO 80202-1399
-303-299-2306
-
-Board of Directors
-Chair – Julien Bouquet, District G
-First Vice Chair – Patrick O’Keefe, District H
-Second Vice Chair – Troy Whitmore, District K
-Secretary – Chris Nicholson, District A
-Treasurer – Karen Benker, District I
-Vince Buzek, District J
-Peggy Catlin, District N
-Kathleen Chandler, District F
-Lynn Guissinger, District O
-Chris Gutschenritter, District D
-
-Michael Guzman, District C
-Ian Harwick, District L
-Matt Larsen, District E
-Brett Paglieri, District M
-JoyAnn Ruscha, District B
-
-MINUTES
+2025-10-06
 Performance Committee
-Monday, October 6, 2025
-REMOTE MEETING
-8:30 AM
+MICHAEL GUZMAN: Welcome back, everybody. Monday, October 6 Performance Committee will now
+come to order. We are convened as of 8:33 AM. I would respectfully ask everyone attending this meeting
+to mute yourself unless you are recognized to speak.
+Please note that the committee meetings of the RTD Board of Directors will be held remotely via Zoom and
+will be audio and video recorded. The meeting recordings, along with the unofficial minutes of the meeting,
+will be posted as soon as practicable on the Board's website.
+During today's meeting, we are providing Communication Access Realtime Translation, also known as
+CART. Anyone who would like to access this service should send an email to the RTD Board Office, at
+rtd.boardoffice@rtd-denver.com, and a link will be provided. Additionally, the CART transcript can be
+automatically translated into Spanish for anyone who would like access to a live transcript of this meeting
+in Spanish. A live stream of this meeting is also available via RTD's YouTube page.
+I would now like to call the roll for the committee members. Director Vince Buzek.
+VINCE BUZEK: Here.
+MICHAEL GUZMAN: Director Lynn Guissinger. Vice Chair Chris Gutschenritter.
+CHRIS GUTSCHENRITTER: Here.
+MICHAEL GUZMAN: Director Matt Larsen.
+MATT LARSEN: Here.
+MICHAEL GUZMAN: Director Chris Nicholson.
+CHRIS NICHOLSON: I am online.
+MICHAEL GUZMAN: Director Catlin. She may not be with us right now, but she may be joining us later.
+Please advise me if you see her hop on, Mr. Kroll.
+And I am Chair Michael Guzman. I am also here. I do-- let's see. I do see Director Chandler has joined us.
+And I do not see anybody else present. Oh, Director Benker. Hi. There you are. I see you. Good morning,
+everybody.
+All right. I would like to open public comment to anyone who would like to address the committee regarding
+any topic listed in the published meeting agenda for the current and immediately preceding month. If you
+wish to speak and have not already done so, please either raise your hand virtually or press star 9 on your
+phone. During this time, the committee will not offer any direct comments or responses. However, if you
+would like to be contacted regarding your public comment, please email the RTD Board at rtd.directors@rtddenver.com.
 
-Performance Committee
-Chaired by Michael Guzman
+Mr. Kroll, are there any hands raised at this time?
+JACK KROLL: Committee Chair Guzman, this is Jack Kroll, Executive Manager of the Board Office. At this
+time, I see no hands raised in desire of providing public comment, and there were no emailed comments in
+advance as well.
+MICHAEL GUZMAN: Great. Thank you so much for that information. With no participants in the queue, we
+will close the public comment period.
+There are no recommended actions for our committee today. There are a few discussion items. There are
+two that we have listed on the agenda. The first is a discussion which relates to the agency's 2025-2026
+strategic initiatives. And the second relates to our regular deep dives into key organizational performance
+metrics.
+The 2025 strategic initiatives. I'd like to hand the floor now to General Manager and CEO Debra Johnson,
+as well as Chief of Staff John McKay, to present this item. Are there any questions? Oh, sorry, it's yours.
+DEBRA JOHNSON: Good morning, everyone. Debra Johnson, General Manager and Chief Executive
+Officer here at RTD.
+As this Board is aware, we undertook, back in August of 2021, the initiative of a strategic plan. And in doing
+so, the intent behind the strategic plan was to ensure that we had a North Star in reference to aligning staff
+as well as the Board toward a common goal. With that as a backdrop, quite naturally, with a multi-year
+strategic plan, we informed our decisions relative to what we would focus on with each year, and we were
+able to garner an understanding what those areas of focus would be by virtue of garnering input via our
+community value survey, our customer value survey, as well as our employee surveys.
+During the course of the year, we've been focused-- during the course of the past couple of years, we've
+been focused on a myriad of different elements, primarily, as you know, back to basics, people power, a
+welcoming transit environment, and, most recently, as of last year, focusing on community and customer
+connections. With that as the introduction, I'm going to yield the floor to Mr. McKay, who presented to you
+last gathering of this committee, whereby there were inputs relative to the strategic plan, more specifically
+by virtue of our customer and community and employee surveys.
+So with that, I will yield the floor to Mr. McKay to introduce you to the initiatives upon which we are focusing
+on for 2025-2026. Mr. McKay, the floor is yours, sir.
+JOHN MCKAY: Thank you very much for the introduction. John McKay, Chief of Staff.
+As GM/CEO Johnson said, we will be covering the '25-'26 strategic initiatives and how those were formed.
+We'll be covering the '25-'26 performance cycle, the initiatives themselves, and some next steps.
+Regarding the '25-'26 performance cycle, RTD for staff uses a performance management cycle wherein
+goals are planned at the beginning of the performance year, which happens around this time of year. We
+monitor performance during the course of the year and review performance at the end of the year to
+determine how staff has contributed toward the goals and mission of the agency.
+Just to tie this back to the strategic plan, this is our strategic planning framework that is basically a
+representation of the strategic plan itself. It starts with the vision, mission, values as determined by the
 
-A. Call to Order
-Committee Chair Guzman called the meeting to order at 8:33 a.m.
-Attendee Name
-Title
-Status
-Michael Guzman
-Committee Chair
-Remote
-Chris Gutschenritter
-Committee Vice Chair
-Remote
-Vince Buzek
-Director, District J
-Remote
+Board. Then we go to the strategic priorities. These are the pillars used in determining how best to deploy
+resources and how best we can fulfill the vision, mission, values of the organization.
+The strategic initiatives and associated tactics are what we're talking about today. These are, as GM/CEO
+Johnson introduced, these are year-over-year or multiyear initiatives designed specifically to address some
+low areas of performance, as noted in the strategic priorities and as measured by performance data and
+the surveys, the customer, community, and employee surveys.
+And how this all affects every employee of the organization, the goal eligible managers of the organization
+design tactics and goals based around the strategic initiatives and then filter those down through the
+organization so that each individual employee is connected to the strategic plan. And again, this is the
+strategic planning pyramid in full.
+The long-term goals of the agency are captured in the strategic priorities-- sorry, the agency performance
+scorecard that is the very center, both geographically in the strategic planning book, and in concept. The
+scorecard is the center of the strategic plan. And then in an annual scorecard, we capture the strategic
+initiatives and we'll show a snapshot of that a little bit later.
+This is what the agency performance scorecard looks like. This is what we refer to as the blue scorecard.
+This captures all of the metrics that lead up to or that trickle up to the vision, mission, values. This is how
+we determine how we're doing as an organization, determining the success outcomes of the strategic plan.
+And this is the annual scorecard. In the last year, we referred to it as the green scorecard. And it captured
+the '24-'25 strategic initiatives of back to basics, people power, welcoming transit environment, and
+customer and community connections. And there were four strategic initiatives and each one had an
+associated tactic or tactics, specifically asset management, employee recruitment, employee retention,
+employee security, public security, customer experience, and community outreach. And these were the
+tactics that were designed specifically to improve performance in those areas.
+Moving on to the '25-'26 strategic initiatives and how those were formed, we designed tactics based on a
+few different criteria. So on the far left, you see the three overlapping blue bubbles in a Venn diagram, any
+place on that Venn diagram where two of those bubbles touch is an area ripe for developing a tactic. So if
+something was below 75% in a survey and it had a favorable response decline year over year, that was an
+area that could be examined if there was a key driver. And a below 75% favorable survey response, that's
+another area. Especially if all three of them are true, then that's certainly something to take a look at, and
+I'll speak to key drivers here in a moment.
+Or alternatively, if there was a survey response that was below 50% that was by itself a determinant factor
+to determine whether that was a good tactic for us to deploy in 2025-'26. And lastly, and sort of new to this
+organization, is a key strength to maintain. So we saw that in our Community Survey results that there's a
+diagram that I'll get to in a moment, but we saw there was no room for improvement according to the-- Let
+me put a pause in that statement. Not that there was no room for improvement, that-- Well, let me get to
+the diagram and I'll explain better there.
+We looked at the survey results year over year, and this is just a snapshot. I won't go through all of them.
+For the committee members who are interested and for the members of the public who are interested, our
+survey results are posted on the performance dashboard website, or web page, on RTD's website. This is
+just a snapshot of one of those. And we can see on the right hand side that people indicated in the last year
+that they felt safe and secure while waiting on the train at a rate of 68% for rail. That's 62% for light rail and
 
-Arrived
-8:33 AM
-8:33 AM
-8:33 AM
+72% for commuter rail. So we saw that because the favorable response for the light rail was below 75%,
+and I'll show this key driver analysis in the next slide here, we saw that that was an area that we could focus
+efforts in this year.
+And again, this is the key driver analysis specifically for bus, but we've done one for bus, both commuter
+rail and light rail, and also for some of our community surveys as well. And this is a ranking of importance
+of characteristics of service. Included here are frequency of service, hours of operation, bus, train stops
+conveniently located, et cetera, et cetera. We ask individuals, as they're responding to our surveys, to rank
+in terms of importance their feelings about service characteristics of RTD. We've seen through the customer
+and community surveys that frequency is by far and away the most important factor for service.
+And as I mentioned before, with respect to the Community Survey, we had only strengths to maintain. We
+did not have areas of opportunity. So it shows that we are deploying our resources in a way that meets the
+demands of the public. And you can see here that we're not meeting the mark in terms of personal security
+while waiting for the bus and the train. And that's one of the aspects of the strategic initiatives that we're
+going to be looking at this year.
+In total, these were the areas that we found, scrolling back quickly to this diagram. So of these service
+characteristics and tactics that we determined were areas that we could take a look at in 2025-26, these
+were the very specific metrics associated with those things. So related to service delivery-- and I won't read
+through all of these over the next three slides-- frequency of service, on-time performance of vehicles, that
+bus and light rail services operate when they need them, et cetera. These were the metrics that we
+determined that we wanted to improve over the next year.
+And again, this relates to the Community Survey. These were strengths to maintain rather than areas of
+opportunity, including that RTD provides access to places of employment, reduces traffic congestion, and
+provides affordable transportation options. And again, the Community Value Survey was mailed out to a
+random sampling of households within the Denver Metro area. And we find, at RTD, that it's important,
+even for those folks who don't utilize our transit services, it's important to instill value from the community
+in everything that we do. So we need to make sure that for the 90-plus percent of people who don't regularly
+engage with RTD, that they still feel like we deliver value to the community.
+And here, without further ado, here are the four strategic initiatives for 2025-26, which include enhancing
+public trust, building a better RTD, service excellence, and customer and community connections. And
+associated tactics are public trust, security perception, professional development-- and that's in terms of
+staff-- advancing infrastructure, service delivery, police visibility, transit value, and fostering mobility. And
+those defined-- I won't read through these either, but these are also included in the Board report for this
+presentation.
+And as far as next steps, just grounding us back in the strategic planning process here. This is the strategic
+plan itself. We are capturing these initiatives in a scorecard that will flash up on the screen momentarily.
+But in early Q4 2025, which is right about now, we will be conducting some internal and external
+communications regarding the '25-'26 strategic initiatives, both internally and with the public. And then we
+have already disseminated the annual scorecard for all employees for the '25-'26 employee performance
+cycle.
+In the longer term, we do intend to convene regularly, quarterly strategic initiative meetings among senior
+managers and the leadership team and directors of departments and divisions, so that we can determine
 
-Peggy Catlin
-Lynn Guissinger
+progress against the strategic initiatives for this year. And then regular employee performance check-ins to
+make sure that they are in alignment with the strategic initiatives and the strategic plan itself.
+And at this point, I will navigate-- I'm using one screen here, so you have to bear with me for one moment.
+I have to go to our scorecard itself. And is that showing up on screen?
+DEBRA JOHNSON: Yes, John.
+JOHN MCKAY: OK, thank you. So this is the scorecard. It is a burgundy color this year. So we will be
+referring to this as the burgundy scorecard instead of the green scorecard for this year. And this gets into
+a more granular level of the initiatives, the tactics, and the projects associated with them.
+So for example, for public trust, this was one of the areas in the community survey where we could see that
+we received low scores or a low favorability in terms of survey responses. And this is an area we wanted
+to put up front at the very top of the scorecard this year.
+And just for an example, there is a project for an economic impact analysis wherein we will engage with a
+consultancy to produce a robust, data-driven assessment for strategic planning, stakeholder engagement,
+and public awareness regarding RTD's critical role in the region's economic prosperity and quality of life.
+So in doing this, in employing this economic impact analysis, the metric that we're hoping to increase over
+time are the responses to the survey the percentage of community members who agree or strongly agree
+that the community's investment in transit provides value.
+Again, I won't read through each and every one of these. This is available now on the strategic plan website,
+and it's available in your packet as well.
+But scrolling forward, we are also building a better RTD. And this is with respect to professional
+development. There are some manager trainings that we are deploying in the next quarter, and also PDP
+usage. That's our professional development program funds usage. So we are tracking to see whether
+employees are using these funds. And we're not trying to increase it necessarily, but just tracking whether
+an increase in usage of these PDP funds, if there is a corresponding increase in the percentage of
+employees who agree or strongly agree that RTD provides them with the tools needed to grow their career.
+Also for advancing infrastructure, this is led by our DCEO, Angel Peña. There are some infrastructure
+initiatives associated with that.
+Moving on to service excellence, there are some specific tactics related to journey mapping, which is an
+interesting concept for this year. There are two projects that were also in place last year, during '24-'25, and
+these were captured in the green scorecard from last year, including on-time terminal departures and
+operated trips. There's also a tactic related to police visibility, in which Chief Martingano will be out and
+conducting some Chat with the Chief events out in the public and among RTD staff. He will be deploying
+bike patrols specifically along the W Line and developing a couple of Transit Police substations in different
+parts of the district.
+And lastly, to customer and community connections. This was a returning initiative from the last year. There
+are tactics related to transit value and fostering mobility. And of particular interest to a lot of folks is the very
+last one on here. It's the fare bundling. This is a process where we will be developing a market strategy to
+promote ticket as fare bundling for cultural and sporting event venues, and to conduct outreach to major
+venues to bolster transit utilization for high volume events. So basically, this means that if you buy a Broncos
 
-Director, District N
-Director, District O
+ticket, that you could potentially use that ticket to just board the light rail vehicle after you get out of the
+game.
+And with that, I will stop sharing my screen and I'm happy to take any questions.
+MICHAEL GUZMAN: Directors, questions, comments?
+Director Chandler had her hand raised. Go ahead.
+KATHLEEN CHANDLER: Thank you. Thank you, Chairman Guzman. Although I'm not a part of this
+committee, I often attend. And so I appreciate it. I do have a couple of questions.
+You did talk about that the survey was mailed out to random sample in the Denver area. Does that also
+include some of the outlying areas? Because I think what's happening is my constituency doesn't have as
+favorable an outlook as what you're presenting. And I think that's because they don't have the service that
+you're talking about. So I just want to have a little bit more flavor of who received this survey so that we can
+determine if this is more the Denver-centric area that's actually receiving those kinds of services.
+JOHN MCKAY: Chair Guzman?
+MICHAEL GUZMAN: Mr. McKay.
+JOHN MCKAY: Thank you very much. To your point, Director Chandler, this is a survey mailed to everyone
+within the Denver Metro area. And I say that not as to exclude any particular part of the district. That's all
+eight counties within RTD. And this is a statistically valid sampling. They use a sampling plan and it takes
+into account demographics.
+And I believe there were, And you're testing my memory at this point in time, I think there were 700
+households that responded to this survey. I'll have to go back and check my numbers again on that. But
+the survey responses are available, as I said, on the performance dashboard website. And it does take into
+account all of those within the Denver Metro area.
+And as I said, I mean, this is a statistically valid sampling. So it's not an exact representation. It is a very
+repeatable survey. If you to give this same survey 100 times, 95 times out of 100 you would get within a
+3% plus or minus range on the survey, based on the survey responses and the end value of the people
+who participated.
+MICHAEL GUZMAN: Director Chandler, is that OK? Do you have something else you want to add?
+DEBRA JOHNSON: If I may, Mr. Chair, I wanted to add just an additional comment, if that would be
+permissible.
+MICHAEL GUZMAN: Yeah. Yes.
+DEBRA JOHNSON: Thank you very much, Mr. McKay, for your response. And, Director Chandler, thank
+you for your question.
+One notable element that I'd like to raise for everyone's awareness is keeping in mind that Mr. McKay did
+indicate within the Denver Metro service area, that's everybody within the RTD district. And more
+specifically, when we're looking at the community value survey, we are asking specific questions relative to
 
-Late
-Absent
+whether or not they've actually utilized the RTD services, because we're trying to understand what might
+entice these individuals, what might be the value in which RTD services provides to this singular constituent.
+So to the point that you raised, it's not just about those that are utilizing the services that may find it to be
+advantageous, but it's more or less trying to ensure that we have a clear cut understanding, what might we
+do as an agency to entice those individuals that may not be utilizing the service to actually try the services
+Mr. McKay, is that correct?
+JOHN MCKAY: That is correct. Thank you.
+DEBRA JOHNSON: All right. Thank you very kindly for the opportunity to add that additional information.
+MICHAEL GUZMAN: Director Chandler, did you have any follow up?
+KATHLEEN CHANDLER: Not on that. I have another question. So I'll let the other Directors go and then I'll
+circle back.
+MICHAEL GUZMAN: Well, I sure do appreciate the cooperation. Thank you. Director-- sorry, for the record,
+Board Chair Julien Bouquet has joined us. Director Nicholson, you are next.
+CHRIS NICHOLSON: Thank you, Mr. Chair. So my ears perked up, especially at the mention of integrated
+event ticketing with major venues, in part because we're having a study session tomorrow on major event
+ticketing. And that integration is particularly, I think, an opportunity for us.
+I was hoping that maybe-- I think it was Deputy CEO Peña or GM/CEO Johnson can speak a little bit more
+about where that's at in terms of the discussions that have been had so far and the prioritization within the
+department and conversations that have, the work that's being taken place both with our vendor and with
+some of the major venues in order to facilitate that effectively.
+DEBRA JOHNSON: Mr.-MICHAEL GUZMAN: Oh, sorry. Go ahead, Debra.
+DEBRA JOHNSON: Yes, I will start and I'll yield the floor. So just for everybody's edification, what we're
+doing tomorrow is about high volume events and how we provide service, not about ticketing specifically.
+Just wanted to caveat that because there's a lot of different elements involved.
+For those that have been on the Board some time know that I have been talking about leveraging high
+volume events in conjunction with various venues to ease the impact relative to how we are moving people,
+as well as those that may be new to transit as we move forward. There are some collective conversations
+that have ensued quite naturally, when we think of where we're situated and our coordination with, say, for
+instance, Denver's Visitors Bureau and things of the like. We are looking at various avenues whereby we
+can be on the front end of that.
+I do know, Secretary Nicholson, that you broached in the Executive Committee about legislation relative to
+potential legislation, let me caveat it that way, in reference to doing this. I have had some experience in
+different areas of the country relative to that. But more to the point, what's really interesting is that our Chief
+Communications Officer has been broaching fare bundling and some next steps, and that will be covered
+tomorrow.
 
-8:36 AM
+So I don't want to get ahead of ourselves, but want you to know that these conversations have been ongoing
+for a period of time. Just as before you were on the Board, you were interested in tap-to-pay and you came
+on board, and that is something that staff had already been working on for a period of time. So wanted to
+provide that color to let you know that we haven't been sitting idly by on our hands, that these have been a
+myriad of activities that have been going on for a period of time.
+And I think it's quite important that everybody understands that these things don't happen overnight,
+especially when you're dealing with a multitude of venues, and recognizing that some may be indigenous
+to Denver, some may have corporate headquarters located in different parts of the country. But these
+conversations have been ongoing.
+Mr. McKay, I will yield the floor to you to add additional color. I just wanted to provide those broad brush
+remarks. Thank you.
+JOHN MCKAY: Thank you. And just to add to that the strategic planning process and the goal planning
+process for employees has not kicked off yet for the '25-'26 year. That's going to be undertaken fairly soon
+here. But the managers and directors of divisions are going to be taking all of the initiatives and all the
+projects associated with them and building goals, personal goals based on them during the performance
+planning process.
+So that's how we hold accountability for these strategic initiatives, as every manager will be tackling some
+of these elements. And so that's why there is a diversity of thought in all of these initiatives and they will be
+filtering down through their parts of the organization to ensure that every single employee can touch on
+these things in the course of their work.
+MICHAEL GUZMAN: Thank you. I want to make sure that we point out for the record, Director Peggy Catlin
+has joined us. Good morning, Director Catlin. It's good to see you.
+Director Larsen, your hand was up next. Please go ahead.
+MATT LARSEN: Yeah. I just wanted to make sure I understood the timing and relationship between things.
+These strategic initiatives are tied to the five-year strategic plan for 2021 to 2026. What is the timing again
+for when we're going to start working on the subsequent strategic plan that I guess will be 2026 to 2031?
+Is that starting soon?
+MICHAEL GUZMAN: Madam CEO.
+DEBRA JOHNSON: Yes. Thank you very kindly, Mr. Chair. And thank you, Director Larsen, for the question.
+If you recall, at the last Performance Committee, we came before this body with a summary scope of work
+whereby that would inform our scope of work that we would leverage for our solicitation. As we move
+forward, we're in the process of getting that out on the street. For all intents and purposes, there's a timeline.
+And we can resurrect those materials as that timeline was provided and is included in the previous month's
+Board-- sorry, the previous Performance Committee's packet that outlines the timeline.
+But ultimately, what we're aiming for is to have a successor strategic plan that would come to fruition in
+around August or September, so we wouldn't miss a beat. But keeping in mind, these initiatives are things
+that we leverage as we are individual contributors of staff to the organization, and those would be ongoing.
+And quite naturally, in the event this Board adopts a successor strategic plan, keeping in mind the work
 
-Matt Larsen
-Chris Nicholson
+that's been ongoing, I would doubt that we would put aside trying to build the public's trust, but we would
+look at that holistically.
+So I hope that basically gives you a glimpse into where we are and what we're doing as we move forward.
+MATT LARSEN: Yes. Thank you.
+MICHAEL GUZMAN: Vice Chair Gutschenritter, you are next.
+CHRIS GUTSCHENRITTER: Thank you. And thank you for the presentation. So as I hear from constituents,
+it's oftentimes I hear that they wish there was improved information around like customer alerts,
+understanding where the train and light rail is at any given time, and if there's any deviation from what was
+planned, they feel like they don't know.
+And so my question is I don't see that annual scorecard. Is there any opportunity to incorporate that? And
+just, if there is, would love to hear about how we'd go about that or any color you can share. I would
+appreciate it.
+MICHAEL GUZMAN: Madam CEO.
+DEBRA JOHNSON: Yes, thank you. I'll start and I'll yield the floor to my colleagues.
+So, Vice Chair Gutschenritter, thank you very much for that. As it relates to real time information, that's
+been a challenge for this agency. I'll stand in my truth. I believe everybody's aware of that. This organization
+has leveraged some antiquated technology. We have been working on this for the past year, whereby we
+have removed track sensors and actually using GPS, global positioning, so we could actually ascertain
+where the train is in the system. That feeds into our public information display system, the PIDs, as we call
+them, going forward.
+So this is a work in progress, and we anticipate it getting better as we move forward. And this has fully been
+incorporated throughout the entire network, working in tandem with our Chief Information Technology
+Officer, as well as with mobile technologies and those individuals within rail, we expect this to come to
+fruition in short order.
+I will leave it to Mr. McKay to explain to you where that's being captured quite naturally within the initiatives,
+because keeping in mind, that pyramid that was shown, there's individual contributors. So there's people
+that are in different work units that feed up into all of this collectively. So, Mr. McKay, I will yield the floor to
+you, sir.
+JOHN MCKAY: Thank you very much. Just a couple of points. With respect to the survey results, the access
+to information or access to service disruption information was something that previously showed up as a
+marquee thing to address. In previous surveys, it did not. That was not reflected this year. That's not to say
+that's something that we're ignoring.
+If you look to the scorecard under the journey mapping element, underneath service excellence, that's one
+area we're tackling this. So this is an exercise in creating journey maps for individual customer profiles, so
+including first-time customers, youth, limited English speakers, et cetera, that we're understanding what
+interaction with the system looks like. And that will bolster communication efforts, once we understand
+better what it looks like to use our services to those individuals.
 
-Director, District E
-Director, District A
+Also, there is an effort to unify all of our apps. There are five different apps right now that we use, including
+the MyRide app, including the-- I'm drawing a blank on our security app. Transit Watch. Thank you, Debra.
+I saw you mouthing that. Transit Watch. So we have five different apps right now that there's an effort
+underway to roll them all into one.
+And there will be an opportunity for push notifications specifically, so that if there is a service that is being
+disrupted and you are a person who is subscribed to that particular line or route, you will receive a push
+notification directly to your phone. There's also an opportunity for the use of our PIDs, that's public
+information displays, and our, I think they're called universal advertising totems is the correct terminology,
+for those that are on platforms right now and adjacent to the rail corridors, that there is an opportunity for
+our communications teams to put out information on those now that they will have direct access to the back
+end of those, and we'll be able to put out better service alert information on a regular basis.
+MICHAEL GUZMAN: All right. Go ahead.
+CHRIS GUTSCHENRITTER: Yeah. Thank you for that response. I appreciate it, but I mean, I guess my
+thought, based on the response, is that we all, I think, agree that this is an important area topic. And I know
+that there is work in progress to ultimately address that. But I feel like what I'm hearing is the answer is,
+once that work is done, we'll start measuring this. Because I understood it's in customer journeys, but I feel
+like that would very much get lost in the sauce of customer journeys.
+And so just from my perspective, it's important. We're not great at it. Shouldn't we be measuring it even
+though there's work in progress? And so that's all I have to say.
+MICHAEL GUZMAN: Mr. McKay.
+JOHN MCKAY: Thank you, Chair. To your point, we still measure all of these elements with respect to our
+survey results every year. Just because something doesn't float to the top in a particular year does not
+mean that we will ignore that particular area or service characteristic. This is something that we want to
+make sure that all of our survey responses are continually improving.
+And I think we've seen that significantly in the last couple of years, that there's been a significant uptick in
+both our customer and community survey responses. There's an upward trend in nearly every single aspect
+of service. I think if you look at our customer survey results from last year, in terms of commuter rail and
+bus, there were 19 different aspects of service that we measure, and 19 out of 19 for bus and commuter
+rail went up year over year, and 16 out of 19 for light rail went up year over year. So it goes to show that
+even if something does not rise to the top of the most critical or most negative responses to our surveys
+that we're still focusing effort to improve across the board.
+MICHAEL GUZMAN: Madam CEO.
+DEBRA JOHNSON: Yes, thank you very much, Chair Guzman. And thank you, Mr. McKay, for that
+response, and Vice Chair Gutschenritter, for the follow-up question.
+I would be remiss if I didn't state that we have individuals within the organization that have specific jobs to
+do. And quite naturally, just because it's not captured, as John said, in that manner, doesn't mean that
+people aren't working on it collectively. And I would just use myself as an example when we've had
+discussions around my goals. I have a full fledged job description in which there are responsibilities that I
+have, and that goes further to the elements of the individual contributions. Because while we may be using
 
-Remote
-Remote
+the strategic initiatives for individual SMART goals, there's still a job description that comprises the vast
+majority of one's performance as we move forward.
+So I just wanted to share that for everybody's edification, because it is critically important, and I want
+anybody to think because it's not captured in the manner in which you've inquired that we're not doing
+anything about it, because that's just not true. And I'm not indicating that you're saying that. But I just wanted
+to take this opportunity to let you know that these are things that are being worked on in the organization
+quite naturally. We are people moving people and recognizing that real time information is critically
+important, as that's how we're communicating with individuals as the schedule is a commitment that we
+make when we say we're going to be there, so we have to have an understanding of where we are with
+that. Thank you.
+MICHAEL GUZMAN: All right. Thank you. I am going to call on Director Peggy Catlin and find out if she
+needs to ask any questions, because it looks like she's calling in and not on a regular Zoom. It's star 6 to
+toggle the mute settings, just in case. Let me give it a second.
+All right. Before I go another round, just a time check. It is 9:08. We only have until 10:00 this morning to
+be able to complete the rest of our meeting, and the deep dive hasn't happened yet. So Directors, if you
+can make your next round of comments quick, short, sweet, and to the point, so we can move on to the
+next topic, I would really appreciate that. Efficiency is going to be key in our meetings right now.
+I do have one thing I'd like to say before I pass the baton back. And that is, thank you for hearing both the
+concern from the community and from the Directors that we need to fix the public trust. Enhancing public
+trust is one of the strategic goals. Seems great. How we get there, there's a plethora of tactics, I'm sure that
+we'll see come to life through this process. But at a high level, I really do appreciate seeing that.
+I have one particular question. I saw it a few times. Advancing infrastructure. With respect to that, I am
+concerned, because we're still working on a lot of state of good repair, that that's not also listed in
+conjunction with advancing our infrastructure. What I don't want to have happen is a runaway narrative that
+we're going to only focus again and be the agency of build, baby, build and neglect the work that we have
+done to this point.
+And so I'm not sure how that fits in here, but I want to make sure, because I didn't see anything with respect
+to maintaining state of good repair for next year, that I'm not approving something without bringing that
+consideration, as it's a high level concern for me for any future work that we do in approving any funding
+with our joint agreements for Front Range Passenger Rail or Northwest Rail, that we don't just approve the
+building, but we approve the maintenance of those infrastructure matters.
+Madam CEO, your hand went up.
+DEBRA JOHNSON: Yes. Thank you very kindly, Chair Guzman, for your question.
+Keeping in mind, when we talk about back to basics, state of good repair, transit asset management, all of
+that is rooted in the infrastructure. And quite naturally, as we're talking about advancing infrastructure, that's
+exactly what we're talking about, the continuity of our state of good repair, so we can make good on the
+investments that have been leveraged nearly 30 years ago moving forward. So this is a continuation of
+where we are and what we're doing holistically.
+And so I just wanted to share that, because when we talk about advancing infrastructure, that has to do
+with our facilities, i.e., how we have antiquated bus facilities and keeping in mind that we are in the process,
 
-8:33 AM
-8:33 AM
+as we look at where we are collectively, we are looking at a new bus maintenance facility from a planning
+perspective, which is currently in the regional transportation plan, for instance. Looking at light rail
+modernization, as we talk about light rail level boarding, light rail signal system, a new light rail facility, all
+of those things are part and parcel. That's why it's advancing infrastructure, keeping in mind we're building
+on what we have, as opposed to just talking about the replacement of perhaps trackway and things of the
+like. That's why this is a more expansive and inclusive term as we move forward. Thank you.
+MICHAEL GUZMAN: Mr. McKay.
+JOHN MCKAY: Thank you very much. Just to add on to that, the Deputy CEO, Angel Peña, he comes from
+organizations where it was important to him that-- he came from the Boston area and the Washington, DC,
+Metro area, where these were older systems that he was involved with state of good repair efforts in those
+areas. And he's bringing that expertise and experience with him here.
+It is his philosophy that it's not good enough just to replace what was maybe not up to speed, but to make
+it better as it goes forward. And so it's maybe creating a facility enhancement, in addition to making sure
+that the foundation is correct, but enhancing lighting or providing other customer amenities that make it
+easier for people to buy into that.
+And one of the initiatives associated with building a better RTD is mapping out-- actually, I think it's under
+enhancing public trust, sorry-- building trust and infrastructure specifically. He wants to map out all of the
+potential service disruptions over the course of the year to give the public a better understanding of what
+they can expect with respect to the service disruptions so that the speed restrictions last year that we all
+encountered, the coping panels project, those are the types of things that would be built out into a roadmap
+so that people will have an understanding if their particular line or route might be impacted when might that
+be impacted. If there is wire replacements at the end of the E Line, let's say, that that should be in a
+roadmap, and people should know well in advance that that may impact their ability to utilize transit on a
+particular time frame.
+So this is a holistic, future forward effort, not just on the infrastructure that we have now, but the
+improvements to the infrastructure that we anticipate going forward.
+MICHAEL GUZMAN: Thank you. I just want to be very clear. I think we need to own that narrative. And that
+needs to be explicitly stated somewhere in this, because if not, what it read like to me is we're just building
+more infrastructure and we're open to it. And I don't think that's what you're trying to communicate. What
+you just said, that was the piece that I was missing, not understanding that as we do our state of good
+repair, we're also going to advance technology and whatever additional matters we need to put in there.
+We also have the fleet transition, or the Facilities and Fleet Transition Plan, other things that are coming up
+that we need to have conversation on. So it makes sense that we would be advancing just how we're doing
+that and not letting the train run away from us, but keeping control of that narrative and what that is is really
+important. Thank you.
+I'm going to return quickly to Director Chandler. She's been patiently waiting.
+KATHLEEN CHANDLER: Thank you again, Chairman Guzman. My question has to do, I guess kind of all
+encompassing with this is that I think part of the trust factor that has been lost is not being captured
+somehow, because it seems odd that the survey results are so good, yet ridership is down. So what is that
 
-Also in attendance were Directors Benker Chandler and Chair Bouquet.
-Along with Directors and senior staff there were 2 public participants in attendance.
+disconnect? And I don't know why. I don't know it, why there's a disconnect between the survey results are
+just way up here and everyone's so happy and satisfied, but yet ridership is down.
+So maybe that, for me, would be to figure out that dot that's missing. So I don't know who to ask that
+question to, but I think that's something that's extremely important.
+MICHAEL GUZMAN: Madam CEO.
+DEBRA JOHNSON: Yes. So thank you very kindly for the question, Director Chandler. And when we talk
+about the connectivity, quite naturally, people are utilizing the system and they're satisfied with the system.
+However, there's other people that aren't utilizing the system, and there's a myriad of factors that contribute
+to that. And we are leveraging our relationships as we move forward to address that.
+But more specifically, we have to keep in mind that the city of Denver central business district still has an
+abundancy of office vacancies. There are people not coming into the office, and that's been the traditional
+model when you look at transit usage. As I was coming of age, we used to say, we're only as good as our
+last rush hour. There's not a stable rush hour any longer because people are using it on the shoulders and
+off-peak times for other reasons, as opposed to just merely using it to get to their place of employment.
+But leveraging the partnerships in reference to downtown Denver business partnership, or leveraging
+relationships with South Denver, with commuting solutions and things of the like, those are the different
+elements and avenues that we are utilizing to ensure that individuals that may have some trepidation and
+angst about utilizing the system can. And back to the point where we're talking about the utilization of it for
+other activities outside of traditional work access, that gets back to the point about bundling fares with an
+event venue so we can introduce that to individuals that may be using it for other purposes.
+So that's just a snapshot into what we're doing at a very high level. But it's a lot more in depth than that.
+But just wanted to give you some perspective relative to where we are and what we're doing, just
+collectively. Thank you.
+MICHAEL GUZMAN: Director Chandler.
+KATHLEEN CHANDLER: Yeah. Yeah, if you-- just one-- sorry, my camera. There we go.
+I get that. I understand that traditional things are not happening here in Denver anymore. I mean, I work
+downtown. I see it. There's not as many people here on the streets at various times. But I think part of it is
+that trust factor has gone. And I think if we build back up that trust that we might see ridership, regardless
+of whether it's a commuter time frame or not, but ridership in general. I mean, I used to ride the light rail a
+lot more because it was available, had better times, et cetera. I don't ride it as much just because of that.
+So I think there's a myriad of things that we need to do. But the paramount thing for me is to build that trust
+back. And if we can build that trust, I think the ridership, regardless of it's traditional or non-traditional timing,
+will come back. And I just think that's something that for me is paramount. And I'm not sure how to fill that
+gap in between trust and ridership. But to me, that's really where it's at. So that's just my comment. Thank
+you very much.
+MICHAEL GUZMAN: Appreciate your comment. Thank you, Director Chandler. Director Nicholson will end
+this discussion so we can move on to the next one, OK. Thank you.
+CHRIS NICHOLSON: I will do my best, Mr. Chair.
 
-B. Public Comment
-None.
+So as the Chair has indicated a couple of times, big decisions that come from RTD, big, big advancements,
+like tap-to-pay and the integration with venues take time, can take years of work behind the scenes, and
+work by previous Boards, work by previous staff members. I'm wondering, when you're looking at this kind
+of evaluation, both of the agency, of the General Manager, and of staff further down, how do you factor in
+the types of work that are required to deliver on something but are not the actual delivery of it?
+And what I mean by that is, with regard to, for example, the Facilities and Fleet Transition Plan and the
+work that's being done right now to prepare for that with one facility, that's many years out before that facility
+would be delivered in practice. In looking at these sorts of processes, how do you account for effectively
+measuring work being done that is years away from being delivered? How do you measure good work
+versus inadequate work on something that's that far away?
+MICHAEL GUZMAN: Madam CEO.
+DEBRA JOHNSON: Yes. Thank you very much, Mr. Chair. And thank you, Secretary Nicholson, for your
+question.
+So getting back to what you talked about. There are various steps as we move forward, and quite naturally
+have to have milestones. You have to ensure that you're starting with a plan. And in order to ensure that
+you're going to meet some of those outlying milestones, it has to be something where everybody can rally
+around.
+I made reference in my previous comment to the regional transportation plan in and of itself, quite naturally
+with DRCOG serving as the metropolitan planning organization, as written in statute, pursuant to us being
+recipients of federal dollars, there are myriad of different things that have to take place in order to bring that
+to fruition. Just like when you ask me questions relative to, oh, what about an extension of the Gold Line,
+or what have you, all of this, there's things that are in the making that you have to do. We just can't say,
+tomorrow we're going to plug this in, because there's work that needs needed to be done. There are
+preliminary engineering and things of the.
+So getting back to the question that you pose, there's different phases for the work that needs to be done.
+And quite naturally, when we're looking at somebody's performance review period, there are critical
+elements that need to take place. And that gets back to the whole aspect of it being a SMART goal, specific,
+measurable, attainable, realistic, and time bound. And also keeping in mind that we're contributors within
+ourselves as individuals but there's going to be interdependencies within the organization. It may call for
+coordination with a different jurisdiction, a jurisdictional partner.
+Quite naturally, as we look at where we are with joint service, for instance, if we had not done the Northwest
+Rail peak feasibility study, there would have not have been any foundational aspect relative to having
+conversations that we are currently leveraging. And so when one may have thought, hey, what is this for,
+recognizing that RTD doesn't have money at a standalone agency until 2042, basically this was work that
+was done as we keep going forward, and this could be reminiscent of what we're doing with the unfinished
+FasTracks project.
+So there's an individual within the organization that had a goal of finishing this as we go forward. But this is
+going to be built upon for different elements that are going to come in the near term, mid term, and the long
+term as well.
+MICHAEL GUZMAN: One more and then we're moving on, Director Nicholson.
 
-Page 1 of 2
+CHRIS NICHOLSON: Yep. This is a very quick one.
+So for each of those goals and those milestones, do we have written documents for each of those projects
+with the milestones that we're expecting staff to be hit? And then in their performance reviews and their
+plant, are there documents that you get to look at that say, here are the milestones we expect to hit for each
+of these project, here are the milestones that each of these employees are expecting to hit?
+MICHAEL GUZMAN: It sounds like you're asking. Sorry, it sounds like you're asking for a project to plan.
+That does not fall under the auspices of the Board. That's the General Manager's responsibility in
+overseeing employees. I want to be clear about your question, because if we're going somewhere we are
+not supposed to, I'd prefer to pull you back up to the balcony of the Board, and we'll get out of that area
+that does not belong to us for personnel matters.
+CHRIS NICHOLSON: May I, Mr. Chair?
+MICHAEL GUZMAN: Yes. I'm asking you a question directly. So now you're talking to me.
+CHRIS NICHOLSON: Yes. I didn't ask for any documents. I asked whether they exist and whether that's
+something that the GM and CEO reviews as a process of understanding what the milestones are. So I
+believe it does fall under performance.
+MICHAEL GUZMAN: OK. As long as we're not diving into anything below that, I think that's a fair question,
+but I know the answer. So Debra Johnson, CEO and General Manager of RTD, are you general managing?
+DEBRA JOHNSON: Thank you very much, Mr. Chair. And thank you, Secretary Nicholson.
+As I stated in my previous comments, quite naturally relative to that pyramid, that individuals have
+performance goals and plans. Now, I don't look at every single one within the organization. There is a
+method relative to ensuring that there's a second level reviewer. So those that are on the leadership team,
+absolutely. And with those on the leadership team and their direct reports, do I look at those? Yes, I do.
+And quite naturally, it's even broader than that outside of performance plan. If we're working collectively
+and we have a project plan and we're working with third parties or we have something inside, we have to
+know what we're doing. You can't measure what you can't manage. So of course, we have plans going
+forward. We wouldn't be able to submit and get monies through grant opportunities if we did not.
+And more specific to our points here, we have to ensure that we're being good fiduciaries. So of course, we
+have project plans, we have charters, and a myriad of other documents as we move forward. Thank you.
+MICHAEL GUZMAN: Thank you. All right. We are going to end that item and move on to our next one.
+It is 9:25, folks. If we can wrap this one in 30 minutes, that would be great. I need a few minutes at the end
+for members of the Board that are present about the timeline going forward with respect to the Performance
+review and the closing out of this year. So I just want to keep everybody aware of time. Thank you so much.
+With that, we're going to take a look at the key organizational performance metrics for quarter 4 in 2025.
+This is part of our in-depth discussion about Finance as the final pillar of the year. I also want to shout out
+thank you to Director Larsen for helping craft the way that we approached this year's deep dives.
 
-C. Discussion Items
+I'd like to hand the floor now to CFO Kelly Mackey, as well as Chief of Staff John McKay, to present this
+item. It's yours. Thank you.
+JOHN MCKAY: Thank you again, Chair. So I will lead things off and then I will turn the floor over to Chief
+Financial Officer Kelly Mackey at about slide 9 here of our presentation.
+As introduced, this is the agency performance scorecard. As referenced in the previous presentation, there
+is a specific strategic priority of financial success that we're talking about today, which lives on within the
+middle of the strategic plan, if anybody's interested in looking at the printed copy. And for your reference,
+this information is available on the performance dashboard, which is a website that was created in May of
+this last year and serves as a repository for all of our-- not all, but a good portion of our performance data,
+our financial data, survey information, and the scorecards.
+Specifically to financial success, there are a few different measures of financial success as adopted by the
+Board in October of 2024, specifically with respect to the blue scorecard, the blue agency performance
+scorecard. The performance metrics are budget variability, cost per revenue hour, monthly reserves, net
+revenue coverage ratio, fare value, and financial trust. And that financial trust, I'll get into deeply, more
+deeply than other elements here in just a moment. There are specific performance definitions, and I've
+included the descriptions here in how we calculate these specific things.
+Moving to the scorecard itself, budget variability, cost per revenue hour, and fare value are all areas that
+have improved year over year. That's why they are indicated here in green. So the budget variability through
+July of 2025 is lower. The lower the number, the better, at this point. So that we're not overspending at this
+point in time. Cost per revenue hour has decreased year over year. Right now-- to date, I believe this is
+through July also, that number sits at $328.18 per revenue hour.
+The monthly reserves, you see that that's gone from 1.14-- the ratio is 1.14 to 1.01. So it's still in the black
+there but previously was better. The net revenue coverage ratio has increased from 0.7 to 1.1 through July.
+And with respect to the proposed 2026 budget, that number continues to increase as currently contemplated
+in the draft budget, the proposed budget, rather. Fare value, we see that there was a 4% increase year
+over year in the percentage of customers who agree or strongly agree that fares are reasonable.
+Moving on to the financial trust index, and I'm going to be popping off of this screen here momentarily to go
+to the way this is calculated in sum. But this is something that is unique to RTD. This is a measure that we
+crafted last year and the Board adopted, again, in October of 2024. This is a financial trust index that weighs
+three different aspects of external entities' view of our financial health as an agency.
+So if you'll recall, in August of 2024, the Office of the State Auditor released its audit, or its performance
+audit of RTD. And they use, typically for reviewing state agencies, they use nine specific financial health
+ratios. RTD did meet all nine of those financial health ratios with respect to the audit from 2024. We use
+that as a 50% of the weighting of the financial trust index, along with bond rating. 20% of the weighted index
+is in relation to bonds, our bond rating.
+And then the average of community survey responses of those four different questions about RTD's
+financial management or resource management. Good financial steward of public funds. The community's
+investment in transit provides value and RTD's financial reporting is understandable and transparent. And
+like I said, give me one moment while I pull up this other. This is much more difficult to do in one screen
+here, so bear with me. Here we go.
 
-• 2025-26 Strategic Initiatives
-Presented by Debra A. Johnson, General Manager and CEO and John
-McKay, Chief of Staff.
+So this is in sum-- it's kind of hard to see. I'll scroll into the extent I'm able to. This is how this is calculated.
+You'll see that all told, that we received a 4.2 out of 5. And again, this is a unique indicator that we developed
+within RTD. This is not something you'll see at another transit agency. But I think it is a good representation
+because this financial health, this is how the state views us. Bond rating is how investors view us. And
+community sentiment is obviously how the community views our services and our financial management.
+And so, in sum, this is a pretty good snapshot of the community writ large, their view of our ability to provide
+good service and to be good stewards of taxpayer dollars.
+So with this, give me one more second, and I'm going to go back to the other presentation. And then I will
+be handing this over to Kelly Mackey.
+Kelly, when you're ready.
+KELLY MACKEY: [INAUDIBLE] McKay. Appreciate it. Kelly Mackey, Chief Financial Officer.
+Each month, a financial status report is included in the Board briefings. This report displays a dashboard
+with sales and use taxes, ridership, and fare revenues, as well as the unaudited financial statements. And
+following the conclusion of the fiscal year ending in December, an annual comprehensive financial report
+is produced, audited by the independent auditors, and is presented to the Audit Committee and the full
+Board as a recommended action. So next slide, please.
+Today, we are discussing with the Performance Committee RTD's financial results and position year to date
+through July 31, 2025. Next slide.
+This discussion is not only to provide an update but also in preparation for the 2026 proposed budget and
+long range financial plan discussion items in the Finance and Planning Committee scheduled for October
+14, 2025. I will also share these year-to-date financial results in that meeting.
+Today, we will review actual results versus budget and then versus prior year. The figures here are in
+thousands of dollars. And this view shows that the variances of actuals to budget and year-over-year is in
+gray. Overall revenue is $631 million versus a budget of $768 million, which is $137 million unfavorable due
+primarily to federal grants, where we are expecting to draw them down later in the year, as we discussed
+in the July Finance and Planning Committee meeting on Q1 financial results earlier in the year.
+Staff generally spreads the budget for grant funding across several months, and the actual timing depends
+on when the application is approved and when RTD can start drawing down money with the funds released.
+Next, fares of $34 million are $519,000 favorable year to date to budget, and are $1 million lower than prior
+year. Sales and use tax of $493 million was $13 million unfavorable to budget and grew $6 million, or 1%
+from prior year, which is consistent with sales and use growth trend over the past several years. This puts
+pressure on the agency in future years, because costs typically rise at a higher rate with inflation. And keep
+in mind that the 2025 budget was approved by the Board in November of 2024.
+Other revenue, which includes advertising revenue and investment income, came in at $46 million, or $20
+million favorable to budget. $17 million of the favorable variance is from investment income. Other income
+grew $619,000 from prior year.
+Director Benker did request in September that we break out state grant revenue. State grant revenue was
+$2 million year to date for Zero Fare for Youth. And that funding soon ends on January 31, 2026. After
+reviewing with our auditors, RubinBrown, they did recommend that RTD not actually break out state grant
 
-• Key Organizational Performance Metrics – Q4 2025 In-Depth
-Presented by John McKay, Chief of Staff and Kelly Mackey, Chief Financial
-Officer.
+revenue in the financial statements due to its immateriality and inconsistency with other transit agencies.
+However, we are able to provide that amount separately.
+Operating expense year to date was $543 million versus a $788,000 budget-- I'm sorry, $788 million budget.
+More than $100 million of this favorability is due to timing of East Colfax BRT expenses. Keep in mind that
+the project is a pass through to the City and County of Denver. Cost was budgeted conservatively in 2025
+due to the project's complexity and grant timing, and funds will carry forward into 2026.
+Other favorability and operating expense is related to slower and more conservative spending. Operating
+expense increased by $51 million from the prior year. Depreciation of $109 million was close to plan and
+just higher than prior year. Interest expense on debt of $74 million is $10 million favorable to budget and
+$2 million better than prior year due to refinancing that took place after the 2025 budget was adopted.
+In total, expense of $809 million exceeded year-to-date revenue of $631 million, for a decrease in net
+position of $178 million, which directly impacts reserves. This was $137 million favorable to the 2025 budget
+of a $314 million decrease in net position. Next slide, please.
+Moving on to the financial position. These are the results of money in and money out and ending balances
+as of July 31 of 2025 versus July 31 of 2024. The critical component is what's available to RTD, potentially
+to spend after subtracting all liabilities and other obligations. Cash investments and account receivable of
+$1.2 billion have declined $99 million, or 8% from prior year year to date. Cash and investments are down
+$116 million, or 11% from prior year, and accounts receivable are up $17 million, or 8%.
+Fast FasTracks fund balances of $526 million declined $32 million, or 6%, due to restricted fund decline to
+$279 million from 323. Base system fund balances of $576 million declined $96 million, or 14% from prior
+year. The total of these subcategories is $2.3 billion, which declined $227 million, or 9% from prior year,
+and is directly related to the decrease in net position on the prior slide.
+So to summarize what I've discussed so far regarding the financial results, revenue is behind expectations
+due to timing of grants. RTD has a positive expenditure variance offsetting the revenue shortfall, and RTD
+has a strong, though declining financial position. Next slide, please.
+Historical trends is what I'll review next. These charts are included in the monthly financial statements that
+you have seen. The far left year is 2019. And on the left side, the top line, the red line, is the trend in cash,
+investments, and accounts receivable. The yellow line is based system and the blue line is FasTracks.
+You can see that the financial position of RTD strengthened significantly through 2023, and then began to
+decline in 2024 and in the 2025 budget and actuals. The flip side, if you look at the right side of the slide, is
+what do we owe on the balance sheet? Since 2019, this chart starts to show a nice trend over the past six
+years in big obligations that RTD has started to pay down.
+And the blue section is the total debt profile. Everything in the principal amount of debt owed to our investors
+that was borrowed in 2019 is $3.9 billion, and we're left with a current outstanding principal balance of $3.3
+billion at the end of July 2025. Part of that reduction is actual debt service that has been paid, and a lot of
+it is also due to the debt refinancings that have occurred in more recent years when RTD had the
+opportunity. Staff refinanced debt for interest savings and took out some of the principal balance at the
+same time, reducing the risk to RTD.
+The pension obligation is $154 million, down from $304 million in 2019. You may recall in 2022, with the
+collective bargaining agreement, the Amalgamated Transit Union and RTD worked together to address the
 
-D. Other Matters
+large pension obligation. The pension plan was closed to new employees, for represented employees,
+going forward in 2023. There was also a large payment of $160 million, a lump sum put into that plan, that
+reduced the risk profile to RTD. Next slide.
+Moving into fund balances, we have broken this down by types of fund balances. The fund balances are
+RTD's assets minus its liabilities. They are also known in the private sector as owner's equity. It's essentially
+the savings that are left over if RTD were to pay off its obligations. We have a column for base system, a
+column for FasTracks, and a column in gray for total, followed by where these were in the prior year and
+the year-over-year variances from July 31, 2025.
+Restricted fund balances are restricted by contracts and agreements, such as debt agreements. That's
+money that has to be set aside to service debt. For example, we have a restricted TABOR reserve that's
+required of all government agencies in Colorado to maintain a 3% reserve. And those funds showed here
+as $115 million are essentially untouchable for covenants.
+Next are funds that fall under the Board auspices, which are remaining funds after moving unrestricted
+reserves. Through fiscal policy that the Board has adopted and through discussion, there are essentially
+four different fund balances. The words fund and reserves are really interchangeable.
+The operating reserves have been established as three months of operating expenses, excluding
+depreciation, which is $301 million. Next is the capital replacement fund established through the budgeting
+process. And while we have a good cash position, we identify $261 million to set aside for capital
+replacement. That has to do with state of good repair, the Transit Asset Management plan, and having that
+funding available. So we do not have to, this year at least, borrow money and pay additional interest.
+Our Five-Year Financial Forecast shows this capital replacement fund will not be sufficient for the 2026
+through 2030 time frame. We currently have $192 million in the FasTracks Internal Savings Account, known
+as FISA, and that is the fund balance established by the Board several years ago to put money away for
+FasTracks projects.
+And finally, we show the unrestricted fund balance, which is a credit balance of $93 million, primarily due
+to the delay in 2025 grants revenue. This balance was a positive $58 million at the end of 2024. Next slide,
+please.
+So keep in mind that restricted funds are a contractual or statutory requirements, such as TABOR, and the
+other items are under the Board auspices. The Board has the authority to spend and only the Board can
+appropriate those funds. Next slide.
+In wrapping up, while revenue is behind expectations, we expect federal grant draws toward the end of the
+year. And the good news is that expense is quite favorable to budget. However, the primary challenge is
+that spend continues to exceed revenue, which naturally results in a decline of RTD's financial position,
+though that decline year to date is better than budget. RTD's financial statements may look like the agency
+has a lot of money, but essentially it is spoken for and RTD needs that money to maintain what it has in the
+system.
+And, Mr. Chair, that concludes my presentation for the financial update.
+MICHAEL GUZMAN: Thank you very much, Mr. McKay and CFO Mackey. I appreciate the presentation. I
+would open the floor to any questions from Directors. It is 9:43, so just keep in mind any time commitment
+we've got to get done. I don't see any hands raised. Director Nicholson.
 
-• 2025 GM/CEO Performance Assessment Timeline
-Committee Chair Guzman spoke.
+CHRIS NICHOLSON: Thank you. Let me turn my camera on. I didn't expect to get to go first. I figured
+Director Benker would jump in before me.
+I wanted to say, one of the things that I really appreciate about the management of this agency over the
+last few years has been the financial management that both GM/CEO Johnson has done that now CFO
+Mackey has taken over, and obviously that Doug MacLeod, may he enjoy his retirement or whatever he's
+doing now, has done, because I believe we are in a much better financial position relative to some of our
+compatriots around the country at the moment.
+I was wondering if you can speak to where you see the long-term challenges in terms of our financial
+picture-- and we'll get into more of this when we come up to the conversation around the five-year financial
+forecast. But what are the pitfalls and the warning signs in terms of what those of us who are going to be
+on the Board for another seven years should be thinking about right now?
+Often, executives at companies are incented to make the short-term choice that makes things look good in
+the moment and maybe is not the thing that is as easy. We saw that with 20 years of light rail maintenance
+that didn't happen and then had to happen in one year. Where do you see that pitfall now, at the moment?
+And what are the tradeoff choices that maybe we're making at the moment that hit on that? If you can talk
+a little bit about that.
+MICHAEL GUZMAN: I see Madam CEO's hand up. So I'm going to call on her and then she can hand off
+to whomever she chooses.
+DEBRA JOHNSON: Thank you very much, Mr. Chair. And thank you, Secretary Nicholson.
+I'll yield the floor to Ms. Mackey. But I would be remiss if I didn't start out by framing this quite naturally, as
+we talk about the large investments that need to be made with maintaining and then ensuring that there will
+be a transit network for the near term. When I say near term, I'm talking about tomorrow and the tomorrows
+to come as a whole.
+You referenced, Secretary Nicholson, relative to choices that were made by individuals that preceded us
+regarding this agency, and now we are playing catch up. I think it's incredibly important that this agency
+does not lose sight of what the RTD Act states, that we are responsible for providing mass transit services
+to this great region. And in doing so, that is very labor intensive, and we need to ensure, as we talked about
+before, that we can maintain our assets in a state of good repair. It's keeping in mind that we have to ensure
+that we're looking at fleet replacement cycles.
+Also to the point, there's a lot of unknown variables relative to where we sit currently in reference to
+alternative fueling technologies. Regardless of a propulsion system, there are still commitments that need
+to be made in reference to being sustainable, and that could be done with a near zero NOx engine in a
+clean diesel bus versus something else going forward because it emits only 0.01 of a particulate.
+So we need to think basically about our facilities as a whole and where might they be located, considering
+that real estate is prime as we move forward, but ensuring that we are doing that with intentionality and
+looking at where we are today, and we can plan for the future, because as it relates to our current revenue
+streams, sales and use tax, 70%, give or take-- and Ms. Mackey could speak more about that-- but then
+again, we're having a discussion as it relates to farebox recovery.
+Well, that's critically important. You have to think about it through the lens of subsidized public services.
+Basically, you're not writing a quick little check or paying a fare before you call 911 for emergency services,
 
-E. Next Meeting Date: Monday, November 17, 2025
-F. Adjourn
-Committee Chair Guzman adjourned the meeting at 10:03 a.m.
+and public transport is treated differently in this country than fire service, getting an ambulance service, or
+any type of emergency responding entities.
+And so as we look at it collectively, I would say we have to have a laser-like focus on our facilities, looking
+at the useful life benchmarks and ensuring that we are investing in that appropriately so as we move down
+the pike in 10 years, we know what it is that we should be doing and not kicking the can by virtue of saying,
+well, it looks OK, and you did that rail reconstruction back in '20, the summer of 2024, for five intersections.
+So that's what I wanted to provide. And then I'll yield the floor to Ms. Mackey, because quite naturally, we
+have been talking about all of this ad nauseam as of late.
+KELLY MACKEY: Thank you. Yes. Kelly Mackey, Chief Financial Officer.
+I agree. Things that are on my mind are continued cost increases, [INAUDIBLE] of late been quite high.
+And if you look at revenue growth, excluding things like Colfax BRT that are one time, revenue growth has
+been 1% consistently on average over the past five years or so. And so that's concerning to me, because
+costs would naturally grow faster than that.
+And we will dive more into these details in the Finance and Planning Committee, because we have not only
+the proposed budget but we have the Long Range Financial Plan, which really clearly lays this out for you.
+So you'll be able to see it very well in there. But it was also in the 2018 Long Range Financial Plan that was
+done by WSP. So that's a really good place to start, if you want to go back to look at that one first and we'll
+touch on that more.
+I think revenue diversification is on my mind a lot. It's an issue. I think we need to find other sources of
+revenue. Cost increases are really interesting in transit, I'm learning. There was a Bloomberg article that
+was put out September 26. It's worth reading. And it's about lack of suppliers for buses and how that really
+boosts the cost of buses. So there's definitely unique cost implications that are impactful to transit that you
+don't necessarily see in other industries.
+MICHAEL GUZMAN: Just so you are aware, Director Nicholson, we will have a second opportunity to spend
+a lot of time working on this in Finance and Planning after we review the FIFE that you've returned to the
+committee. So go ahead and follow up with your question and then we can see if anybody else has a
+opinion or question.
+CHRIS NICHOLSON: Yeah. CFO Mackey raised a really important point about cost increases. And
+obviously, tariffs are one piece of that. We just got done addressing a program that has seen substantial
+cost increase and is currently seeing on the order of 25% per year increases in costs that we mitigated
+somewhat.
+And I was wondering, are there any other parts of the budget out there that you're aware of that are seeing
+those extensive, really large, double digit increases in cost, where you're seeing warning signs about, oh,
+this department or this maintenance or this whatever, something else in the budget that is growing at 20%
+per year regularly and is something maybe the Board should be paying attention to as a result?
+KELLY MACKEY: Yeah, I would like to answer that in the Finance and Planning Committee meeting, if
+that's all right. It's a good question. I think, I don't know if it's over 20%, but some things that stand out are
+I've seen some big insurance bills come across and related claims and things like that. And I think looking
+at the Transit Asset Management plan, there's definitely areas where it's going to impact RTD in the near
+future where there's big expenses, such as Platte building is 50 years old. It's not necessarily laid out in
 
-The following communication assistance is available for public meetings:
-• Language Interpreters
-• Sign-language Interpreters
-• Assistive hearing devices
-• Documents in alternative formats and language translations
-Please notify RTD of the communication assistance you require at least 48 business hours in advance of a
-RTD meeting you wish to attend by calling 303.299.2307
-THE CHAIR REQUESTS THAT ALL CELL PHONES BE SILENCED DURING THE BOARD OF DIRECTORS
-MEETING FOR THE REGIONAL TRANSPORTATION DISTRICT.
+detail of when that will be replaced or when they'll be invested in. So I will dive more into that next week, if
+that's all right.
+MICHAEL GUZMAN: Thank you, CFO Mackey. I don't see any other hands raised, so I'm going to say this
+part. This is the Performance Committee. So looking at the performance of how we've done this year, given
+what was passed on to you, CFO Mackey, as you transitioned into the new role, I am pleased to see that
+we are not doing terrible.
+I am disappointed that our sales and use tax hasn't kept up. I was afraid that was going to happen last year
+and the year before. So thank you for the trend line that demonstrates that I wasn't out of my mind when I
+said, why are we being so rosy about this outlook. I have the same question, I'm sure, unless Leeds brings
+back something that is a little bit more grounded in what I think is reality on the ground level, at the street,
+and the bus stop. I don't see people spending what they were spending before. And so I think that's
+something we really need to concern ourselves with.
+We know how we get revenue is something bound by our statute. But I also think that we can do great
+damage if we don't think through short-term decision making to make popular political points as elected
+officials. And sometimes that means that we have to use the revenue sources that we have to the fullest
+extent possible. And so I know that there's a pending discussion that will potentially be going to Operation,
+Safety, and Security about what we do for marketing on our buses and trains. But as a source of revenue,
+I think it's important to consider the long-term effect of not having a revenue source, since you brought that
+up.
+And I know that we're not going to run this agency off of fares. I mean, we'd be charging $100, $300 a ride
+if we were going to try and break even as a private entity. And that's not how this works anywhere in the
+country. We fought really hard as an agency to true up the fares, make them easy to understand, help
+everybody move around. We have an amazing discount program that we have done better than other
+places too on in who we allow to use it.
+So I'm with you on it. I'm looking forward to the budget discussion happening in Finance and Planning, but
+thank you for presenting on the finances as a performance metric and breaking it down how we look at it
+with the Office of the Auditor here in Colorado and what our internal gauge of that is. I do appreciate that
+work from both of you, Mr. McKay.
+All right. Thank you. We have one matter to discuss before we end this meeting. And this is for everybody's
+awareness. Give me one moment while I start sharing my screen.
+All right. Does that look OK? I am using a single screen as well.
+DEBRA JOHNSON: Yes.
+MICHAEL GUZMAN: Thank you. 2025 assessment timeline. This committee is responsible for shepherding
+that through to the Board before the end of the year. In an effort to make this doable, I wanted to share this
+timeline with you. It's very high level. I've got some coloring in to do here. But essentially, this is how it's
+going to break down.
+As we discussed last time, I am working with Vice Chair Gutschenritter, Charlene Polege, and the human
+resource team to make sure that we have all of our tools ready to go, and we are reviewing the assessment
+tools. I am waiting for an email on that one so that Vice Chair Gutschenritter and I can jump in and start
+reviewing.
 
-Page 2 of 2
+We want to make sure that we have the performance assessment tool ready for each Director to participate
+in. That means you'll get a link. You'll fill out your survey. You'll have an opportunity to opine. And then the
+performance score and the pay increase table is correctly adjusted for this year's goals and the way that
+we have weighted things. And then we want to make sure that we had this discussion with you.
+From October 1 to October 6, which is this meeting, we're laying out the timeline. On October 6, we will
+present it. So here we are. Sorry, I'm catching up with my notes.
+Beginning on 10/28/25-- this is where you guys are going to want to take notes, Directors-- GM/CEO Debra
+Johnson is going to provide the Board of Directors with the self-assessment. This will be done in executive
+session. It is a privileged conversation. The only person who has auspices to share anything outside of that
+meeting will be the employee, under state law. And with respect to our contract and our employee, we want
+to make sure we maintain that.
+The communication will be among the 15 Board members who are all invited to attend. It is expected that
+we arrive to this one in person, not by electronic means, because this is a human conversation first. From
+10/29 to 11/7, November 7, you will receive individually an identifiable link for your access to the General
+Manager/CEO performance tool. You will have seven business days, or nine calendar days, to complete
+that evaluation. Written commentary attached to your email and it will be identified in all reports.
+There is not an option for anonymity in this process, as follow-up from the General Manager/CEO to the
+commenting Director may be necessary for clarification. Remember, this is both a critique but also
+commentary on the work that is done. And so if there's something that's misunderstood, it's just very helpful
+for the General Manager/CEO to be able to communicate with the Director who submitted any kind of
+comment to ensure that the communication is crystal clear.
+If the submission is not received by the deadline of 5:00 PM on November 7, 2025, it will not be included.
+That's a hard deadline. There will be no extension of time given at this stage. There's a reason why. We
+have a timeline to get this before the Board, and extending these timelines cannot happen. So these are
+finite. I'm giving you the heads up since now, at the beginning of October, that by 11/7 at 5:00 PM, your
+review work must be submitted.
+I'm going to remind everybody, please refrain from utilizing any type of artificial intelligence to compose
+your commentary or written feedback. This is our job. If you need assistance, please reach out to a fellow
+Director, to myself as Chair, to the Vice Chair of our Performance, or to the Board Chair. I'm sure all of us
+would be willing to lend a hand.
+From 11/10 to 11/1, HR will compile a preliminary report based on submitted Director assessment
+submissions. Remember, these are only those submissions that made it on time that will be included in that
+final product.
+From 11/12 to 11/14, we will prepare committee materials for the Performance Committee. There will be
+an agenda, General Manager CEO Johnson's self-assessment, and then the preliminary Board assessment
+report will be disseminated at that meeting. That will be the executive session held on the 17th. Sorry, I got
+to catch up with my notes.
+On the 17th, we'll have the opportunity to engage with General Manager/CEO Johnson. And upon
+conclusion of that meeting, so when that meeting is adjourned, we will begin a 24-hour clock. should any
+Director feel the need to adjust any of their scores or their comments, you will receive a 24-hour window
+
+only to submit those back to the Board. I know it can seem short, but if it's important enough to do an
+adjustment to your comments, you will need to do that quickly.
+And I want to incentivize you to get it done quickly, because Board Chair Julien Bouquet and I will need to
+audit all responses before we finalize anything, and staff still does need time to prepare the final report that
+we bring forward as recommended action to the Board.
+If we can do this in a timely manner, then sometime between November 19 and 21, once our audit is
+complete-- if there are no changes, it will be done sooner, if it is needing to be updated, it might take a bit
+longer. Then, once that audit is complete, we will have a final report that will be brought through this
+committee and recommended to the Board. That may happen before the Executive Committee's meeting.
+It may happen immediately before the Board meeting, depending on timing.
+But I would remind everybody, a bit of the crunch is that the holidays begin that week. So we have
+Thanksgiving, and then we are in a rush to finish our work before the December, January holidays begin,
+because we don't typically have meetings in those months, so we need to make it on time for the last Board
+meeting of the year to ratify the finality of this review period. So I thank you for your dedication and your
+participation in this.
+Let's see. December 2 is the last opportunity, without calling a special Performance Committee and a
+subsequent Board meeting, for the Board of Directors to complete this review and assessment agreement.
+So that is the goal.
+I want to just make sure that everybody understands, that's how we're going to try and land this plane. Are
+there any quick questions? I'm going to stop sharing at this point.
+I don't see any hands raised, so I hope you captured that. If you don't have it, I'd be happy to send it out to
+you individually. This has been a lot of work for the General Manager and I to negotiate all of the dates and
+times, making sure that Board staff is aware of what's going on, making sure that we have it all laid out for
+you so that we can land this plane as smoothly as possible through the end of the year.
+I again want to thank you all for your commitment to getting work done on this committee and coming
+prepared. It is really noticeable and we've had a really easy time doing that this year. Behind the scenes,
+your Vice Chair and I have spent quite a bit of time working with our staff to make sure that everything is
+internalized here at RTD but that we have the proper controls in place to oversee it. And we will continue
+to do that work and meet our commitment that we will finish our work plan before the end of the year.
+So I think we're on a good track. I'm two minutes over time. I apologize. General Manager/CEO Johnson,
+is there anything that you need to add?
+DEBRA JOHNSON: No, Committee Chair Guzman. Thank you very much. I'm good.
+MICHAEL GUZMAN: All right. Very quickly, our next meeting date will be Monday, November 17, 2025. It
+will be at 4:00 PM. And the meeting will be for the presentation and discussion on the General
+Manager/CEO's self performance appraisal. The meeting will be held in person at Blake Street. All Directors
+are highly encouraged to attend, and the majority of our meeting will be in the executive session that is
+under the auspices of this committee.
+So fair warning, I need five of you, please, to arrive at Blake or let me know if you will be absent ahead of
+time. It's really critical that five members of this committee be present. Thank you.
+
+Are there any other matters? I see none. Can I have a motion to adjourn?
+VINCE BUZEK: So moved, Buzek.
+CHRIS GUTSCHENRITTER: Second.
+MICHAEL GUZMAN: Thank you. We will adjourn the meeting at 10:03 AM. Apologies. General
+Manager/CEO and staff, thank you so much for your participation. See you on the 17th.
 
 
