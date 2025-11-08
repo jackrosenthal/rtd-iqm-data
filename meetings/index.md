@@ -96,7 +96,7 @@
 
 ### 2025
 
-- **2025-11-13 02:00 PM -07:00**: [Audit Committee - Committee](3859/)
+- **2025-11-13 02:00 PM -07:00**: [Audit Committee - Committee](3859/details.md)
 - **2025-10-09 02:00 PM -06:00**: [Audit Committee - Committee](3846/) (CANCELLED)
 - **2025-09-11 02:00 PM -06:00**: [Audit Committee - Committee](3835/) (CANCELLED)
 - **2025-07-10 02:00 PM -06:00**: [Audit Committee - Committee](3813/details.md)
@@ -2490,7 +2490,7 @@
 
 ### 2025
 
-- **2025-11-11 05:30 PM -07:00**: [Finance and Planning Committee - Committee](3857/)
+- **2025-11-11 05:30 PM -07:00**: [Finance and Planning Committee - Committee](3857/details.md)
 - **2025-10-14 05:30 PM -06:00**: [Finance and Planning Committee - Committee](3847/details.md)
 - **2025-09-09 05:30 PM -06:00**: [Finance and Planning Committee - Committee](3833/details.md)
 - **2025-07-15 05:30 PM -06:00**: [Finance and Planning Committee - Committee](3814/details.md)
@@ -3308,7 +3308,7 @@
 
 ### 2025
 
-- **2025-11-12 05:30 PM -07:00**: [Operations Safety and Security Committee - Committee](3858/)
+- **2025-11-12 05:30 PM -07:00**: [Operations Safety and Security Committee - Committee](3858/details.md)
 - **2025-10-15 05:30 PM -06:00**: [Operations Safety and Security Committee - Committee](3848/details.md)
 - **2025-09-10 05:30 PM -06:00**: [Operations Safety and Security Committee - Committee](3834/details.md)
 - **2025-07-16 05:30 PM -06:00**: [Operations Safety and Security Committee - Committee](3815/details.md)
