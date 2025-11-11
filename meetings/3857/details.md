@@ -31,7 +31,7 @@ For the Board of Directors to adopt Resolution No. ___, Series of 2025 for the a
 
 ##### b. 2026 Proposed Budget
 
-##### c. Budget_Book_2026
+##### c. Budget_Book_2026_Corrected_2025-11-10
 
 #### 5. 2026 Debt Service Defeasance - Certificates of Participation
 
